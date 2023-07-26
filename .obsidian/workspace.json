@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "f72a57abf17adcee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c27432965ee93b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0baba710934557e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Mechanics/bestiary/aberration/aberration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c1e506365ae4f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "111e8222852b72f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6520ec1fb0cefb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d5a5e68c66692a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c1b8819060edcc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f13915f7834e187",
+    "type": "split",
+    "children": [
+      {
+        "id": "b557a6c6cbc06287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7cbb819a02298aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Mechanics/bestiary/aberration/aberration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14ea1b8ca92099aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Mechanics/bestiary/aberration/aberration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a6d3284a5e0bd06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68b981e6bc0381e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Mechanics/bestiary/aberration/aberration.md"
+              }
+            }
+          },
+          {
+            "id": "a6b18240b54f9b88",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a4de7ccdfda28cc",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "83071d1841a289c0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 441.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false
+    }
+  },
+  "active": "e0baba710934557e",
+  "lastOpenFiles": [
+    "6. Mechanics/classes/classes.md",
+    "6. Mechanics/bestiary/aberration/aberration.md",
+    "5. World Almanac/5e Modules/curse-of-strahd/03-chapter-1-into-the-mists.md",
+    "5. World Almanac/5e Modules/curse-of-strahd/05-chapter-3-the-village-of-barovia.md",
+    "5. World Almanac/5e Modules/curse-of-strahd/06-chapter-4-castle-ravenloft.md",
+    "5. World Almanac/5e Modules/curse-of-strahd/04-chapter-2-the-lands-of-barovia.md",
+    "5. World Almanac/5e Modules/curse-of-strahd/02-introduction.md",
+    "5. World Almanac/5e Modules/curse-of-strahd/01-foreword-ravenloft-revisited.md",
+    "6. Mechanics/backgrounds/backgrounds.md",
+    "6. Mechanics/backgrounds/acolyte.md",
+    "6. Mechanics/bestiary/aberration/death-slaad.md",
+    "compendium/spells/spells.md",
+    "6. Mechanics/bestiary/celestial/celestial.md",
+    "6. Mechanics/bestiary/beast/beast.md",
+    "6. Mechanics/bestiary/fiend/barlgura.md",
+    "6. Mechanics/bestiary/fiend/barbed-devil.md",
+    "6. Mechanics/bestiary/fiend/balor.md",
+    "6. Mechanics/bestiary/fiend/img/balor.jpg",
+    "Test.md",
+    "6. Mechanics/tables/names-tiefling.md",
+    "rules/senses.md",
+    "rules/skills.md",
+    "rules/item-properties.md",
+    "rules/variant-rules/img/xge-003.png",
+    "rules/variant-rules/img/xge-002.png",
+    "rules/variant-rules/img/xge-001.png",
+    "rules/variant-rules/wands-that-dont-recharge.md",
+    "rules/variant-rules/tying-knots.md",
+    "rules/variant-rules/tool-proficiencies.md",
+    "rules/variant-rules/spellcasting.md",
+    "rules/variant-rules/img",
+    "rules/variant-rules",
+    "rules",
+    "6. Mechanics/bestiary/undead/token/wraith.png",
+    "6. Mechanics/bestiary/undead/token/zombie.png",
+    "6. Mechanics/bestiary/undead/token/will-o-wisp.png",
+    "6. Mechanics/bestiary/undead/token/wight.png",
+    "6. Mechanics/bestiary/undead/token/warhorse-skeleton.png",
+    "6. Mechanics/bestiary/undead/token/vampire.png",
+    "6. Mechanics/bestiary/undead/token",
+    "6. Mechanics/bestiary/undead/img",
+    "6. Mechanics/bestiary/plant/token",
+    "6. Mechanics/bestiary/plant/img",
+    "6. Mechanics/bestiary/ooze/token",
+    "6. Mechanics/bestiary/ooze/img",
+    "6. Mechanics/bestiary/npc/token"
+  ]
+}

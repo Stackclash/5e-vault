@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "ITS - Encoded Fonts",
+    "ITS - Encoded Icons",
+    "Folder Icons",
+    "dnd5e-compendium",
+    "custom_callouts"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme"
+}
