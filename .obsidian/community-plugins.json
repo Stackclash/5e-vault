@@ -11,5 +11,7 @@
   "various-complements",
   "fantasy-content-generator",
   "obsidian-admonition",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-view-mode-by-frontmatter",
+  "folder-note-plugin"
 ]
