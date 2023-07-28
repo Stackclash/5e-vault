@@ -63,7 +63,7 @@ The cottages contain rotted furnishings and nothing of value. The walls that sep
 > Toward the south end of the village lie the remains of a mansion built on higher ground. It has been reduced to piles of stone and rotting timber. Empty, arched windows stare at you. South of the ruin, an untamed garden runs rampant, surrounded by broken walls that are no longer able to contain it. East of the ruin, someone has erected a crude wooden fence, forming a circular yard in which several goats are penned. Surmounting the fence posts are human skulls.
 ^555
 
-The ruined mansion is littered with the rotted remains of furniture and decor. The last burgomaster of Berez, Lazlo Ulrich, haunts the ruin as a [ghost](/compendium/bestiary/undead/ghost.md). If the characters search the mansion, the ghost appears before them:
+The ruined mansion is littered with the rotted remains of furniture and decor. The last burgomaster of Berez, Lazlo Ulrich, haunts the ruin as a [ghost](ghost.md). If the characters search the mansion, the ghost appears before them:
 
 > [!quote] ...
 > 
@@ -137,7 +137,7 @@ Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the mag
 
 #### Treasure
 
-The wooden chest in the hut is protected by a glyph of warding that requires a successful DC 17 Intelligence ([Investigation](compendium/rules/skills.md#Investigation)) check to find. The glyph deals `dice: 5d8|avg` (`5d8`) thunder damage when triggered. Opening the lid releases four [crawling claws](/compendium/bestiary/undead/crawling-claw.md) that fight until destroyed. Also contained in the chest are various items that [Baba Lysaga](/compendium/bestiary/npc/baba-lysaga-cos.md) has taken from dead adventurers over the years:
+The wooden chest in the hut is protected by a glyph of warding that requires a successful DC 17 Intelligence ([Investigation](compendium/rules/skills.md#Investigation)) check to find. The glyph deals `dice: 5d8|avg` (`5d8`) thunder damage when triggered. Opening the lid releases four [crawling claws](crawling-claw.md) that fight until destroyed. Also contained in the chest are various items that [Baba Lysaga](/compendium/bestiary/npc/baba-lysaga-cos.md) has taken from dead adventurers over the years:
 
 - 1,300 gp  
 - Five 500 gp gemstones  

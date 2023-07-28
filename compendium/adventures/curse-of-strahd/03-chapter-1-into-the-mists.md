@@ -592,7 +592,7 @@ The characters might think that [Gadof Blinsky](/compendium/bestiary/npc/gadof-b
 > A werewolf holds a secret hatred for your enemy. Use her hatred to your advantage.
 ^05d
 
-This card refers to the werewolf [Zuleika Toranescu](/compendium/bestiary/npc/zuleika-toranescu-cos.md) (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [Kiril Stoyanovich](/compendium/bestiary/npc/kiril-stoyanovich-cos.md).
+This card refers to the werewolf [Zuleika Toranescu](zuleika-toranescu-cos.md) (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [Kiril Stoyanovich](/compendium/bestiary/npc/kiril-stoyanovich-cos.md).
 
 > [!quote] ...
 > 
@@ -664,7 +664,7 @@ This card refers to the revenant [Sir Godfrey Gwilym](/compendium/bestiary/npc/s
 > Stir the spirit of the clumsy knight whose crypt lies deep within the castle.
 ^065
 
-This card refers to Sir Klutz the [phantom warrior](/compendium/bestiary/undead/phantom-warrior-cos.md) (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
+This card refers to Sir Klutz the [phantom warrior](phantom-warrior-cos.md) (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
 
 > [!quote] ...
 > 
@@ -1052,7 +1052,7 @@ The Harpers is a network of spellcasters and spies who advocate equality and who
 
 > [!quote] ...
 > 
-> You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [knight of the order](/compendium/bestiary/undead/knight-of-the-order-cos.md) named Lanniver Strayl offers you his blessing.
+> You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [knight of the order](knight-of-the-order-cos.md) named Lanniver Strayl offers you his blessing.
 ^091
 
 Lanniver Strayl (LG male human [knight](/compendium/bestiary/humanoid/knight.md)), a devout follower of Tyr recently arrived in Daggerford, gives a potion of heroism to each member of the order in the party.

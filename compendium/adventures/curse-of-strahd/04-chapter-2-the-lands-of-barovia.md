@@ -287,17 +287,17 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 14 | `dice: 1d4|avg` (`1d4`) [berserkers](/compendium/bestiary/humanoid/berserker.md) |
 | 15 | Corpse |
 | 16 | `dice: 1d6|avg` (`1d6`) [werewolves](/compendium/bestiary/humanoid/werewolf.md) in human form |
-| 17 | 1 [druid](/compendium/bestiary/humanoid/druid.md) with `dice: 2d6|avg` (`2d6`) [twig blights](/compendium/bestiary/plant/twig-blight.md) |
-| 18 | `dice: 2d4|avg` (`2d4`) [needle blights](/compendium/bestiary/plant/needle-blight.md) |
+| 17 | 1 [druid](/compendium/bestiary/humanoid/druid.md) with `dice: 2d6|avg` (`2d6`) [twig blights](twig-blight.md) |
+| 18 | `dice: 2d4|avg` (`2d4`) [needle blights](needle-blight.md) |
 | 19 | `dice: 1d6|avg` (`1d6`) [scarecrows](/compendium/bestiary/construct/scarecrow.md) |
-| 20 | 1 [revenant](/compendium/bestiary/undead/revenant.md) |
+| 20 | 1 [revenant](revenant.md) |
 ^daytime-random-encounters-in-barovia
 
 **Nighttime Random Encounters in Barovia**
 
 | `dice: d12 + d8|avg` (`d12 + d8`) | Encounter |
 |----------------|------------------|-----------|
-| 2 | 1 [ghost](/compendium/bestiary/undead/ghost.md) |
+| 2 | 1 [ghost](ghost.md) |
 | 3 | Hunting trap |
 | 4 | Grave |
 | 5 | Trinket |
@@ -308,14 +308,14 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 10 | `dice: 1d6|avg` (`1d6`) [dire wolves](/compendium/bestiary/beast/dire-wolf.md) |
 | 11 | `dice: 3d6|avg` (`3d6`) [wolves](/compendium/bestiary/beast/wolf.md) |
 | 12 | `dice: 1d4|avg` (`1d4`) [berserkers](/compendium/bestiary/humanoid/berserker.md) |
-| 13 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and `dice: 2d6|avg` (`2d6`) [twig blights](/compendium/bestiary/plant/twig-blight.md) |
-| 14 | `dice: 2d4|avg` (`2d4`) [needle blights](/compendium/bestiary/plant/needle-blight.md) |
+| 13 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and `dice: 2d6|avg` (`2d6`) [twig blights](twig-blight.md) |
+| 14 | `dice: 2d4|avg` (`2d4`) [needle blights](needle-blight.md) |
 | 15 | `dice: 1d6|avg` (`1d6`) [werewolves](/compendium/bestiary/humanoid/werewolf.md) in wolf form |
 | 16 | `dice: 3d6|avg` (`3d6`) [zombies](zombie.md) |
 | 17 | `dice: 1d6|avg` (`1d6`) [scarecrows](/compendium/bestiary/construct/scarecrow.md) |
 | 18 | `dice: 1d8|avg` (`1d8`) [Strahd zombies](strahd-zombie-cos.md) (see appendix D) |
 | 19 | 1 [will-o'-wisp](will-o-wisp.md) |
-| 20 | 1 [revenant](/compendium/bestiary/undead/revenant.md) |
+| 20 | 1 [revenant](revenant.md) |
 ^nighttime-random-encounters-in-barovia
 
 Use the descriptions that follow to help run each random encounter. The table entries are presented in alphabetical order.
@@ -398,7 +398,7 @@ The area is lightly obscured by fog. If more than one dire wolf is present, the 
 > A gaunt figure with wild hair and bare feet bounds toward you on all fours, wearing a tattered gown of stitched animal skins. You can't tell whether it's a man or a woman. It stops, sniffs the air, and laughs like a lunatic. The ground nearby is crawling with tiny twig monsters.
 ^0cb
 
-The Barovian wilderness is home to [druids](/compendium/bestiary/humanoid/druid.md) who worship Strahd because of his ability to control the weather and the beasts of Barovia. The druids are savage and violent, and each controls a host of [twig blights](/compendium/bestiary/plant/twig-blight.md), which fights until destroyed. If all the twig blights are destroyed or the druid loses more than half of its hit points, the druid flees, heading toward Yester Hill (area Y).
+The Barovian wilderness is home to [druids](/compendium/bestiary/humanoid/druid.md) who worship Strahd because of his ability to control the weather and the beasts of Barovia. The druids are savage and violent, and each controls a host of [twig blights](twig-blight.md), which fights until destroyed. If all the twig blights are destroyed or the druid loses more than half of its hit points, the druid flees, heading toward Yester Hill (area Y).
 
 ### False Trail
 
@@ -418,7 +418,7 @@ Evil druids left this trail. Following it in either direction leads to a spiked 
 > A baleful apparition appears before you, its hollow eyes dark with anger.
 ^0cf
 
-Many ghosts haunt this land. This particular ghost is all that remains of a person drained of life by Strahd (decide whether it's a man or a woman). It appears and hisses, "No one will ever know you died here." It then attacks. If the [ghost](/compendium/bestiary/undead/ghost.md) succeeds in possessing a character, it leads its host to the gates of Ravenloft (area J) and hurls the host's body into the chasm.
+Many ghosts haunt this land. This particular ghost is all that remains of a person drained of life by Strahd (decide whether it's a man or a woman). It appears and hisses, "No one will ever know you died here." It then attacks. If the [ghost](ghost.md) succeeds in possessing a character, it leads its host to the gates of Ravenloft (area J) and hurls the host's body into the chasm.
 
 ### Grave
 
@@ -466,7 +466,7 @@ Barovian hunters and trappers set these traps hoping to thin out the wolf popula
 > Hunched figures lurch through the mist, their gaunt bodies covered in needles.
 ^0d7
 
-The woods crawl with [needle blights](/compendium/bestiary/plant/needle-blight.md) that serve the evil druids of Barovia. If the characters are moving quietly and not carrying light sources, they can try to hide from these blights.
+The woods crawl with [needle blights](needle-blight.md) that serve the evil druids of Barovia. If the characters are moving quietly and not carrying light sources, they can try to hide from these blights.
 
 ### Revenant
 
@@ -475,9 +475,9 @@ The woods crawl with [needle blights](/compendium/bestiary/plant/needle-blight.m
 > A figure walks alone with the stride and bearing of one who knows no fear. Clad in rusty armor, it clutches a gleaming longsword in its pale hand and looks ready for a fight.
 ^0d9
 
-From a distance, the [revenant](/compendium/bestiary/undead/revenant.md) looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom ([Insight](compendium/rules/skills.md#Insight)) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
+From a distance, the [revenant](revenant.md) looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom ([Insight](compendium/rules/skills.md#Insight)) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
 
-The revenant was a [knight of the Order](/compendium/bestiary/undead/knight-of-the-order-cos.md) of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
+The revenant was a [knight of the Order](knight-of-the-order-cos.md) of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
 
 As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing 15 (`dice: 2d10 + 4|avg` (`2d10 + 4`)) slashing damage on each hit.
 
@@ -503,7 +503,7 @@ If more than one [scarecrow](/compendium/bestiary/construct/scarecrow.md) is pre
 > Through the mist comes a skeletal warhorse and rider, both clad in ruined chainmail. The skeletal rider holds up a rusted lantern that sheds no light.
 ^0dd
 
-The human [skeleton](/compendium/bestiary/undead/skeleton.md) and [warhorse skeleton](warhorse-skeleton.md) are all that remain of a rider and mount, both of whom perished trying to escape through the fog that surrounds Barovia. They are doomed to ride through the valley in search of another way out, without hope of salvation. The skeletons ignore the characters unless attacked.
+The human [skeleton](skeleton.md) and [warhorse skeleton](warhorse-skeleton.md) are all that remain of a rider and mount, both of whom perished trying to escape through the fog that surrounds Barovia. They are doomed to ride through the valley in search of another way out, without hope of salvation. The skeletons ignore the characters unless attacked.
 
 If both the rider and its mount are destroyed, this encounter can't occur again. The destruction of one skeleton doesn't prevent future encounters with the other.
 

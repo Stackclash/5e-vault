@@ -34,8 +34,8 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 | 7 | Blinsky toy |
 | 8 | Unseen servant |
 | 9 | `dice: 1d4|avg` (`1d4`) [commoners](/compendium/bestiary/humanoid/barovian-commoner-cos.md) |
-| 10 | `dice: 2d6|avg` (`2d6`) [crawling claws](/compendium/bestiary/undead/crawling-claw.md) |
-| 11 | `dice: 1d6|avg` (`1d6`) [shadows](/compendium/bestiary/undead/shadow.md) |
+| 10 | `dice: 2d6|avg` (`2d6`) [crawling claws](crawling-claw.md) |
+| 11 | `dice: 1d6|avg` (`1d6`) [shadows](shadow.md) |
 | 12 | `dice: 1d6|avg` (`1d6`) [swarms of bats](/compendium/bestiary/beast/swarm-of-bats.md) |
 | 13 | 1 crawling [Strahd zombie](strahd-zombie-cos.md) (see appendix D) |
 | 14 | `dice: 1d4 + 1|avg` (`1d4 + 1`) Vistani [thugs](/compendium/bestiary/humanoid/vistana-thug-cos.md) |
@@ -121,7 +121,7 @@ When it gets within 5 feet of a party member, the [broom](/compendium/bestiary/c
 > A mob of severed hands, their mummified flesh black with soot, skitters out of the darkness across the dusty floor.
 ^17f
 
-The [crawling claws](/compendium/bestiary/undead/crawling-claw.md) gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity ([Stealth](compendium/rules/skills.md#Stealth)) check contested by the character's passive Wisdom ([Perception](compendium/rules/skills.md#Perception)) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
+The [crawling claws](crawling-claw.md) gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity ([Stealth](compendium/rules/skills.md#Stealth)) check contested by the character's passive Wisdom ([Perception](compendium/rules/skills.md#Perception)) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
 
 #### Crawling Strahd Zombie
 
@@ -213,7 +213,7 @@ If one or more characters have a passive Wisdom ([Perception](compendium/rules/s
 > You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it.
 ^18c
 
-If more than one [shadow](/compendium/bestiary/undead/shadow.md) is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
+If more than one [shadow](shadow.md) is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
 
 #### Strahd von Zarovich
 
@@ -257,7 +257,7 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 
 | dice: d6 | Items |
 |----------|-------|
-| 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [crawling claw](/compendium/bestiary/undead/crawling-claw.md) that attacks the nearest character. |
+| 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [crawling claw](crawling-claw.md) that attacks the nearest character. |
 | 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (`dice: 8d10|avg` (`8d10`)) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion of healing. |
 | 3 | A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle. |
 | 4 | A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood. |
@@ -804,7 +804,7 @@ Pulling the rope requires an action. When the rope is pulled, a tremendously lou
 
 | dice: d4 | Creature |
 |----------|----------|
-| 1 | `dice: 1d6|avg` (`1d6`) [shadows](/compendium/bestiary/undead/shadow.md) |
+| 1 | `dice: 1d6|avg` (`1d6`) [shadows](shadow.md) |
 | 2 | `dice: 1d4|avg` (`1d4`) [vampire spawn](vampire-spawn.md) |
 | 3 | `dice: 1d4|avg` (`1d4`) [wights](wight.md) |
 | 4 | 1 [wraith](wraith.md) and `dice: 1d4 + 1|avg` (`1d4 + 1`) [specters](specter.md) |
@@ -1527,7 +1527,7 @@ Five of these casks are rotted and empty. The wine name burned on each is Red Dr
 
 ##### Southern Casks
 
-Two of these casks are rotted and empty. The wine name burned on each is Purple Grapemash No. 3. The middle one is home to a purplish [black pudding](/compendium/bestiary/ooze/black-pudding.md) that bursts forth if the cask is broken open.
+Two of these casks are rotted and empty. The wine name burned on each is Purple Grapemash No. 3. The middle one is home to a purplish [black pudding](black-pudding.md) that bursts forth if the cask is broken open.
 
 #### Fortunes of Ravenloft
 
@@ -1601,7 +1601,7 @@ The archway leads to area K69. A door at the north end of the hall opens into ar
 > Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
 ^267
 
-The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human [skeletons](/compendium/bestiary/undead/skeleton.md) leap from the alcoves and attack.
+The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human [skeletons](skeleton.md) leap from the alcoves and attack.
 
 ### K70. Kingsmen Hall
 
@@ -1732,7 +1732,7 @@ This cell contains nothing of interest.
 
 #### K74g. Gray Ooze
 
-Clinging to the floor of this cell is a [gray ooze](/compendium/bestiary/ooze/gray-ooze.md) that attacks anything that enters. While underwater, the ooze is effectively [invisible](compendium/rules/conditions.md#invisible).
+Clinging to the floor of this cell is a [gray ooze](gray-ooze.md) that attacks anything that enters. While underwater, the ooze is effectively [invisible](compendium/rules/conditions.md#invisible).
 
 #### K74h. Lost Sword
 
@@ -2057,7 +2057,7 @@ If the characters open the door to this crypt, read:
 > The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.
 ^2b4
 
-Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil [ghost](/compendium/bestiary/undead/ghost.md) attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
+Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil [ghost](ghost.md) attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
 
 #### Crypt 5
 
@@ -2245,7 +2245,7 @@ This vault contains fifteen [wights](wight.md) (one per coffin), minus any that 
 
 Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
 
-The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming `dice: 2d6|avg` (`2d6`) animated human [skeletons](/compendium/bestiary/undead/skeleton.md). These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
+The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming `dice: 2d6|avg` (`2d6`) animated human [skeletons](skeleton.md). These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
 
 #### Crypt 15
 
@@ -2329,7 +2329,7 @@ The creature inside this crypt attacks as soon as the door is opened.
 > From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
 ^2e2
 
-The spectral elf is a [banshee](/compendium/bestiary/undead/banshee.md) that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
+The spectral elf is a [banshee](banshee.md) that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
 
 In life, [Patrina Velikovna](/compendium/bestiary/npc/patrina-velikovna-cos.md) was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
 
@@ -2501,7 +2501,7 @@ _Sir Klutz Tripalotsky: He fell on his own sword_
 
 Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
-If the sword is pulled from the armor, Sir Klutz appears as a [phantom warrior](/compendium/bestiary/undead/phantom-warrior-cos.md) (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before Strahd became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
+If the sword is pulled from the armor, Sir Klutz appears as a [phantom warrior](phantom-warrior-cos.md) (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before Strahd became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
 
 #### Crypt 34
 
@@ -2529,7 +2529,7 @@ _Sir Jarnwald the Trickster: The joke was on him_
 > A charnel stench fills this empty crypt.
 ^307
 
-The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving [ghouls](/compendium/bestiary/undead/ghoul.md). A permanent silence spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
+The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving [ghouls](ghoul.md). A permanent silence spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
 
 ##### Treasure
 

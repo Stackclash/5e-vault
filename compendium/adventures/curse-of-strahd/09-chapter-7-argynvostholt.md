@@ -41,7 +41,7 @@ The spirit of the dragon Argynvost isn't at rest, either. It can sense that the 
 
 > [!quote] Revenants of Barovia
 > 
-> A [revenant](/compendium/bestiary/undead/revenant.md), as described in the "Monster Manual", has a year to achieve its revenge before its body crumbles to dust and its soul enters the afterlife. In Barovia, however, a revenant can remain in its body indefinitely, and once it has reaped its vengeance, its soul remains trapped in Barovia.
+> A [revenant](revenant.md), as described in the "Monster Manual", has a year to achieve its revenge before its body crumbles to dust and its soul enters the afterlife. In Barovia, however, a revenant can remain in its body indefinitely, and once it has reaped its vengeance, its soul remains trapped in Barovia.
 > 
 > If the body of a revenant is destroyed before its vengeance is fulfilled, its spirit seeks out a new corpse or skeleton to animate. To determine where the revenant's new body rises, roll a `dice: d20|avg` (`d20`) and consult the following table.
 ^revenants-of-barovia
@@ -252,7 +252,7 @@ If the beacon has not been lit (see areas Q16 and Q53), add:
 > Through the fog, you see three armored figures kneeling before the altar.
 ^44a
 
-The figures are three [revenants](/compendium/bestiary/undead/revenant.md) clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
+The figures are three [revenants](revenant.md) clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
 
 The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`dice: 2d10 + 4|avg` (`2d10 + 4`)) slashing damage on a hit.
 
@@ -412,7 +412,7 @@ The doors behind the throne lead to areas Q20 and Q21. A wooden railing surround
 > This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.
 ^468
 
-The ceiling in the hall is 20 feet high. The wooden doors to areas Q27 and Q28 are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the map) are trapped. When a character enters one of these squares, a floor-to-ceiling wall of stone (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [phantom warriors](/compendium/bestiary/undead/phantom-warrior-cos.md) in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
+The ceiling in the hall is 20 feet high. The wooden doors to areas Q27 and Q28 are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the map) are trapped. When a character enters one of these squares, a floor-to-ceiling wall of stone (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [phantom warriors](phantom-warrior-cos.md) in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
 
 The wall of stone vanishes after 10 minutes, at which time the trap resets. Characters who cast a detect magic spell in the hall can perceive hazy auras of evocation magic in front of the doors.
 
@@ -445,7 +445,7 @@ The smoky dragonet has the statistics of a [smoke mephit](/compendium/bestiary/e
 > This room is littered with the wreckage of ancient bunk beds. Five dirt-caked windows allow precious little light to enter, and between them are four empty armor stands. Empty torch sconces line the walls.
 ^46d
 
-Four [phantom warriors](/compendium/bestiary/undead/phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
+Four [phantom warriors](phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
 
 ### Q28. Knights' Quarters
 
@@ -454,7 +454,7 @@ Four [phantom warriors](/compendium/bestiary/undead/phantom-warrior-cos.md) (see
 > Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor.
 ^470
 
-Three [phantom warriors](/compendium/bestiary/undead/phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
+Three [phantom warriors](phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
 
 #### Treasure
 
@@ -535,7 +535,7 @@ If the beacon has not been lit, the body is serving as a host for the revenant. 
 > "If you have come to free this land from the creature that feasts on the blood of the innocent, know this: There is no monster I hate more than [Strahd von Zarovich](/compendium/bestiary/npc/strahd-von-zarovich-cos.md). He slew Argynvost, broke the life of the knight I loved, and destroyed the valiant order to which I devoted my life, but Strahd has already died once. He can't be allowed to die again. Instead, he must suffer eternally in a hell of his own creation, from which he can never escape. Whatever can be done to bring him misery and unrest, I will do, but I will destroy anyone who tries to end his torment."
 ^480
 
-Vladimir fights in self-defense. He also rises from his throne and attacks if the characters fail to heed his warning and press him for help destroying Strahd. The first time Vladimir takes damage, six [phantom warriors](/compendium/bestiary/undead/phantom-warrior-cos.md) (see appendix D) materialize and join the fray, coming to his defense.
+Vladimir fights in self-defense. He also rises from his throne and attacks if the characters fail to heed his warning and press him for help destroying Strahd. The first time Vladimir takes damage, six [phantom warriors](phantom-warrior-cos.md) (see appendix D) materialize and join the fray, coming to his defense.
 
 Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q37) was his beloved in life. If Sir Godfrey helps the characters and faces Vladimir, anguished recognition shines in Vladimir's eyes, yet only lighting the beacon can free him.
 
@@ -565,7 +565,7 @@ If the beacon in area Q53 has been lit, the spirits of these revenants are laid 
 > The corpses tilt their heads in your direction. One of them growls, "Why do you the living disturb the dead?"
 ^486
 
-The skeletal figures are five [revenants](/compendium/bestiary/undead/revenant.md). All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`dice: 2d10 + 4|avg` (`2d10 + 4`)) slashing damage on a hit.
+The skeletal figures are five [revenants](revenant.md). All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`dice: 2d10 + 4|avg` (`2d10 + 4`)) slashing damage on a hit.
 
 One of the revenants, [Sir Godfrey Gwilym](/compendium/bestiary/npc/sir-godfrey-gwilym-cos.md), is a spellcaster with a challenge rating of 6 (2,300 XP) and the following additional feature:
 
@@ -767,7 +767,7 @@ The doors lead to the rooftops of the turrets (area Q52).
 > A stone battlement encloses the roof of this turret. A spiral staircase descends to the level below.
 ^4ad
 
-These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers' posts—small rooms lined with arrow slits. Standing guard in each of these rooms is a [phantom warrior](/compendium/bestiary/undead/phantom-warrior-cos.md) (see appendix D) with a spectral longbow that shoots arrows of force energy. The two phantom warriors gain the following action options:
+These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers' posts—small rooms lined with arrow slits. Standing guard in each of these rooms is a [phantom warrior](phantom-warrior-cos.md) (see appendix D) with a spectral longbow that shoots arrows of force energy. The two phantom warriors gain the following action options:
 
 > [!quote] ...
 > 

@@ -74,7 +74,7 @@ If the druids and the berserkers are killed, their numbers are replenished as ot
 > At the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core. Blood oozes like sap from its twisted trunk. Skulking around the tree are six gangly humanoid creatures covered with needles. Embedded in the tree is a shiny battleaxe, beneath which lies a humanoid skeleton.
 ^67f
 
-The tree is a Gulthias tree (see the blights entry in the "Monster Manual"), the roots of which extend deep beneath the hill. Lurking among the dead trees and shrubs are three [vine blights](/compendium/bestiary/plant/vine-blight.md), six [needle blights](/compendium/bestiary/plant/needle-blight.md), and twelve [twig blights](/compendium/bestiary/plant/twig-blight.md). The needle blights are plainly visible, but the False Appearance feature of the vine blights and the twig blights allows them to hide in plain sight. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
+The tree is a Gulthias tree (see the blights entry in the "Monster Manual"), the roots of which extend deep beneath the hill. Lurking among the dead trees and shrubs are three [vine blights](vine-blight.md), six [needle blights](needle-blight.md), and twelve [twig blights](twig-blight.md). The needle blights are plainly visible, but the False Appearance feature of the vine blights and the twig blights allows them to hide in plain sight. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
 The Gulthias tree has AC 15, 250 hit points, and immunity to bludgeoning, piercing, and psychic damage. If it is reduced to 0 hit points, it seems to be destroyed but isn't truly dead; it regains 1 hit point every month until it is fully healed. With a successful DC 15 Intelligence ([Nature](compendium/rules/skills.md#Nature)) check, a character can determine that the entire stump must be uprooted for the tree to truly die. The Gulthias tree withers and dies in `dice: 3d10|avg` (`3d10`) days if a hallow spell is cast in its area.
 
@@ -128,7 +128,7 @@ If the characters are present when the druids complete the ritual, read:
 > A thirty-foot-tall plant creature bursts out of the statue, sending twigs and earth flying. The creature resembles a dead treant with green light seeping out of it.
 ^687
 
-The creature that erupts from the wooden statue is a [tree blight](/compendium/bestiary/plant/tree-blight-cos.md) (see appendix D) that the druids call Wintersplinter. The green light comes from the magic gem embedded in its "heart." The gem can be removed only when Wintersplinter is dead.
+The creature that erupts from the wooden statue is a [tree blight](tree-blight-cos.md) (see appendix D) that the druids call Wintersplinter. The green light comes from the magic gem embedded in its "heart." The gem can be removed only when Wintersplinter is dead.
 
 The druids command Wintersplinter to travel north and lay waste to the Wizard of Wines vineyard (chapter 12). Although the characters might not understand what the druids are up to, they will no doubt wonder where the druids are sending the tree blight. As Wintersplinter travels north, its destination should become clear to characters who have previously visited the winery and the vineyard. Whether they try to halt its advance is up to them.
 

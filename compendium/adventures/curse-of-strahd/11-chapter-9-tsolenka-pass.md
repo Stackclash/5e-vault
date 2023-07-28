@@ -91,12 +91,12 @@ If your card reading reveals that a treasure is here, read:
 > The swirling snow assumes the forms of thin, young women. The wind howls, "Begone! The treasure is ours!"
 ^53e
 
-The forms are six [snow maidens](/compendium/bestiary/undead/snow-maiden-cos.md). Use the [specter](specter.md) statistics, with the following modifications:
+The forms are six [snow maidens](snow-maiden-cos.md). Use the [specter](specter.md) statistics, with the following modifications:
 
 - The snow maidens have immunity to cold damage.  
 - The snow maidens' Life Drain attack deals cold damage instead of necrotic damage.  
 
-The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last [snow maiden](/compendium/bestiary/undead/snow-maiden-cos.md) is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
+The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last [snow maiden](snow-maiden-cos.md) is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
 
 ### T7. Western Arch
 
@@ -137,7 +137,7 @@ You can use one or both of the following events as the characters make their way
 
 ### Roc of Mount Ghakis
 
-As the characters cross the stone bridge (area T8) from east to west—possibly on their way back from the Amber Temple (chapter 13)—they are spotted by a [roc](/compendium/bestiary/monstrosity/roc.md) that has survived in the mountains for thousands of years. The roc has a great nest on the top of Mount Ghakis to the southeast and feeds on fish in the nearby lake.
+As the characters cross the stone bridge (area T8) from east to west—possibly on their way back from the Amber Temple (chapter 13)—they are spotted by a [roc](roc.md) that has survived in the mountains for thousands of years. The roc has a great nest on the top of Mount Ghakis to the southeast and feeds on fish in the nearby lake.
 
 When the Roc of Mount Ghakis appears, read:
 

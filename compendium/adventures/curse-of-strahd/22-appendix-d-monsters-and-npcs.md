@@ -201,7 +201,7 @@ A tree blight feeds on warm-blooded prey and takes perverse delight in causing c
 
 #### Blight Animosity
 
-A [tree blight](/compendium/bestiary/plant/tree-blight-cos.md) will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
+A [tree blight](tree-blight-cos.md) will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
 
 ### Ezmerelda d'Avenir
 
@@ -392,7 +392,7 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
 
 ### Phantom Warrior
 
-A [phantom warrior](/compendium/bestiary/undead/phantom-warrior-cos.md) is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
+A [phantom warrior](phantom-warrior-cos.md) is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
 
 #### Task Driven
 
@@ -555,7 +555,7 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 | dice: d20 | Creatures |
 |-----------|-----------|
 | 1–3 | `dice: 1d4 + 2|avg` (`1d4 + 2`) [dire wolves](/compendium/bestiary/beast/dire-wolf.md) |
-| 4–6 | `dice: 1d6 + 3|avg` (`1d6 + 3`) [ghouls](/compendium/bestiary/undead/ghoul.md) |
+| 4–6 | `dice: 1d6 + 3|avg` (`1d6 + 3`) [ghouls](ghoul.md) |
 | 7–9 | `dice: 1d4 + 2|avg` (`1d4 + 2`) [Strahd zombies](strahd-zombie-cos.md) (in this appendix) |
 | 10–12 | `dice: 2d4|avg` (`2d4`) [swarms of bats](/compendium/bestiary/beast/swarm-of-bats.md) |
 | 13–15 | `dice: 1d4 + 1|avg` (`1d4 + 1`) [vampire spawns](vampire-spawn.md) |
@@ -584,7 +584,7 @@ On initiative count 20 (losing initiative ties), Strahd can take one of the foll
 - Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.  
 - Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.  
 - Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [specter](specter.md).  
-- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [shadow](/compendium/bestiary/undead/shadow.md) that obeys Strahd's commands, acting on initiative count 20. A greater restoration spell or a remove curse spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
+- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [shadow](shadow.md) that obeys Strahd's commands, acting on initiative count 20. A greater restoration spell or a remove curse spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
 
 ![Strahd von Zarovich](/compendium/adventures/curse-of-strahd/img/153-636988936829621698.jpg#center)
 
@@ -602,7 +602,7 @@ A Strahd zombie doesn't require air or sleep.
 
 ### Vladimir Horngaard
 
-[Vladimir Horngaard](/compendium/bestiary/npc/vladimir-horngaard-cos.md) joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [knight of the order](/compendium/bestiary/undead/knight-of-the-order-cos.md), he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
+[Vladimir Horngaard](/compendium/bestiary/npc/vladimir-horngaard-cos.md) joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [knight of the order](knight-of-the-order-cos.md), he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 
 #### Enemies of Strahd
 
@@ -622,7 +622,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 
 #### Statistics
 
-[Vladimir Horngaard](/compendium/bestiary/npc/vladimir-horngaard-cos.md) has the statistics of a [revenant](/compendium/bestiary/undead/revenant.md) with the following modifications:
+[Vladimir Horngaard](/compendium/bestiary/npc/vladimir-horngaard-cos.md) has the statistics of a [revenant](revenant.md) with the following modifications:
 
 - Vladimir's alignment is lawful evil.  
 - His Armor Class is 17 (half plate).  

@@ -6,7 +6,7 @@ const dv = app.plugins.plugins.dataview.api
 <!-- Handle moving img folder over -->
 <!-- Handle renaming files -->
 const dryRun = false
-const limit = 30
+const limit = 10
 const currentCompendiumPath = 'compendium'
 const newCompendiumPath = '6. Mechanics'
 const currentRulesPath = 'compendium/rules'
@@ -36,7 +36,7 @@ async function updateContent(page, content) {
             const extra = link[3]
             const newLink = extra ? `[[${path}\|${extra}]]` : `[[${path}\|${displayText}]]`
 
-            linkChanges += `| \`${oldLink}\` | \`${newLink.replace('|','\\|')}\` |\n`
+            linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
             if (!dryRun) content = content.replace(oldLink, newLink)
         })
     }
@@ -50,7 +50,7 @@ async function updateContent(page, content) {
             const adjustment = link[2]
             const newFunction = `${diceRoll}\\|${adjustment}`
             content = content.replace(oldFunction, newFunction)
-            linkChanges += `| ${oldFunction.replace('\|', '\\|').replace('`', '')} | dice: ${newFunction.replace('\|', '\\|')} |\n`
+            linkChanges += `| ${oldFunction.replace('|', '\\|').replaceAll('`', '')} | dice: ${newFunction} |\n`
         })
     }
     await this.app.vault.modify(tp.file.find_tfile(page.file.path), content)

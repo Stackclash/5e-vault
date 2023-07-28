@@ -22,7 +22,7 @@ This ideological divide couldn't be reconciled and led to many disagreements. Th
 
 Then Kiril disappeared for several days, causing the other werewolves to wonder whether he had fled or had been quietly disposed of by Emil and his allies. When Kiril returned, he was accompanied by a pack of several dozen dire wolves loyal to Strahd, and he brought word from Castle Ravenloft that Strahd was not pleased with Emil's attempt to fracture the pack. The dire wolves took Emil back to Castle Ravenloft to face punishment, and he was never seen again.
 
-Kiril reestablished his dominance, but his ideas and tactics didn't sit well with the pack's older members, and they certainly didn't please Emil's mate, [Zuleika Toranescu](/compendium/bestiary/npc/zuleika-toranescu-cos.md). She knows she can't slay Kiril on her own, and after what happened to Emil, the rest of the pack is unwilling to challenge Kiril's authority and face Strahd's wrath. Kiril won't let Zuleika hunt, so she's more or less confined to the den.
+Kiril reestablished his dominance, but his ideas and tactics didn't sit well with the pack's older members, and they certainly didn't please Emil's mate, [Zuleika Toranescu](zuleika-toranescu-cos.md). She knows she can't slay Kiril on her own, and after what happened to Emil, the rest of the pack is unwilling to challenge Kiril's authority and face Strahd's wrath. Kiril won't let Zuleika hunt, so she's more or less confined to the den.
 
 > [!quote] Travel Through the Mists
 > 
@@ -144,7 +144,7 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 > A crude wooden statue stands between the cages. It bears the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Piled around the statue's base is an incredible amount of treasure. A woman in shredded clothes kneels before the statue. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall.
 ^6a3
 
-The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [werewolf](/compendium/bestiary/humanoid/werewolf.md) in human form named [Zuleika Toranescu](/compendium/bestiary/npc/zuleika-toranescu-cos.md), who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
+The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [werewolf](/compendium/bestiary/humanoid/werewolf.md) in human form named [Zuleika Toranescu](zuleika-toranescu-cos.md), who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
 ![Zuleika Toranescu](/compendium/adventures/curse-of-strahd/img/129-cos15-03.png#center)
 

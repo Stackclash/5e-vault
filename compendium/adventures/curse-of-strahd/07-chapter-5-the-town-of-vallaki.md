@@ -671,7 +671,7 @@ The entity in the mirror is the spirit of a nameless assassin who once belonged 
 
 If the summoner isn't evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an [assassin](/compendium/bestiary/humanoid/assassin.md) but doesn't speak, and he disappears into the ether if reduced to 0 hit points. The assassin's summoner can command him to kill one living creature within Strahd's domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn't given an appropriate name within 1 round of being summoned, the assassin disappears.
 
-- **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner's neck. The spectral eyes and hands have the statistics of a [ghost](/compendium/bestiary/undead/ghost.md), but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.  
+- **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner's neck. The spectral eyes and hands have the statistics of a [ghost](ghost.md), but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.  
 
 Once the power of the mirror is used, the mirror becomes dormant until the next dawn. The mirror has AC 10, 5 hit points, and immunity to poison and psychic damage. Destroying it lays the assassin's spirit to rest, causing the manifestation to disappear if it is present.
 
@@ -1020,7 +1020,7 @@ The door is unlocked. On the other side of the door are stone steps leading to a
 > This large root cellar has a dirt floor. Two ascending flights of stone steps enclosed by wooden railings stand across from one another. Tracks in the earth lead from one staircase to the other, and other trails go from both staircases to the center of the bare west wall. Four neatly made cots are set in a row against the south wall.
 ^3c6
 
-Buried under the earthen floor are eight human [skeletons](/compendium/bestiary/undead/skeleton.md)—the animated remains of dead Vallakians that were stolen from the church cemetery (area N1) and animated by Lady Wachter. They rise up and attack intruders who cross the floor. The skeletons don't attack anyone who utters the phrase "Let the dead remain at rest" before setting foot on the floor. Only Lady Wachter, her sons, her servants, and her loyal cult fanatics know the pass phrase.
+Buried under the earthen floor are eight human [skeletons](skeleton.md)—the animated remains of dead Vallakians that were stolen from the church cemetery (area N1) and animated by Lady Wachter. They rise up and attack intruders who cross the floor. The skeletons don't attack anyone who utters the phrase "Let the dead remain at rest" before setting foot on the floor. Only Lady Wachter, her sons, her servants, and her loyal cult fanatics know the pass phrase.
 
 The cots are here for cultists to spend the night.
 

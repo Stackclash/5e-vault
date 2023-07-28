@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cdef7518d9bc6c",
+        "id": "3c2165b38ace1b26",
         "type": "tabs",
         "children": [
           {
-            "id": "e58a5eb7e5f7bac8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1c518264b964b57",
+            "id": "a3ad709ec4e1a67f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importing 5eTools Data.md",
+                "file": "z_Templates/Import 5eTools Files.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importing 5eTools Data.md",
+                "file": "z_Templates/Import 5eTools Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importing 5eTools Data.md",
+                "file": "z_Templates/Import 5eTools Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importing 5eTools Data.md"
+                "file": "z_Templates/Import 5eTools Files.md"
               }
             }
           },
@@ -186,28 +177,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1c518264b964b57",
+  "active": "a3ad709ec4e1a67f",
   "lastOpenFiles": [
+    "Importing 5eTools Data.md",
+    "compendium/bestiary/npc/strahd-von-zarovich-cos.md",
+    "6. Mechanics/items/blood-spear-cos.md",
+    "6. Mechanics/tables/flaws.md",
+    "6. Mechanics/tables/personality-traits.md",
+    "6. Mechanics/bestiary/monstrosity/grick.md",
+    "6. Mechanics/bestiary/npc",
+    "6. Mechanics/bestiary/monstrosity",
+    "6. Mechanics/bestiary/ooze",
+    "6. Mechanics/bestiary/plant",
     "6. Mechanics/bestiary/undead",
     "6. Mechanics/bestiary",
     "6. Mechanics/items",
     "6. Mechanics/tables",
-    "Importing 5eTools Data.md",
-    "Importing 5eTools Data.md",
     "compendium/adventures/curse-of-strahd/13-chapter-11-van-richtens-tower.md",
-    "6. Mechanics/tables/personality-traits.md",
     "6. Mechanics/tables/ideals.md",
-    "6. Mechanics/tables/flaws.md",
     "6. Mechanics/tables/bonds.md",
     "compendium/tables",
     "compendium/rules/item-properties.md",
     "compendium/rules",
     "compendium/bestiary/aberration/token/nothic.png",
     "compendium/bestiary/aberration/token/death-slaad.png",
-    "compendium/bestiary/aberration/token",
     "compendium/backgrounds/haunted-one-vrgr.md",
     "compendium/backgrounds/backgrounds.md",
-    "compendium/backgrounds",
     "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/adventures/curse-of-strahd/img/071-cos06-02.png",
@@ -216,8 +211,6 @@
     "compendium/bestiary/npc/token/rahadin.png",
     "compendium/adventures/curse-of-strahd/img/063-cos05-13.png",
     "compendium/adventures/curse-of-strahd/img/110-cos12-01.png",
-    "compendium/bestiary/undead/img",
-    "compendium/bestiary/plant/img",
     "compendium/adventures/curse-of-strahd/25-poster-map.md",
     "compendium/adventures/curse-of-strahd/24-appendix-f-handouts.md",
     "compendium/adventures/curse-of-strahd/23-appendix-e-the-tarokka-deck.md",
@@ -231,7 +224,6 @@
     "compendium/adventures/curse-of-strahd/15-chapter-13-the-amber-temple.md",
     "compendium/adventures/curse-of-strahd/14-chapter-12-the-wizard-of-wines.md",
     "compendium/adventures/curse-of-strahd/12-chapter-10-the-ruins-of-berez.md",
-    "compendium/adventures/curse-of-strahd/11-chapter-9-tsolenka-pass.md",
-    "compendium/adventures/curse-of-strahd/10-chapter-8-the-village-of-krezk.md"
+    "compendium/adventures/curse-of-strahd/11-chapter-9-tsolenka-pass.md"
   ]
 }

@@ -48,14 +48,14 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 ## Strahd's Minions
 
-| dice: d20 | Creatures |
+| dice: 1d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice: 1d4 + 2|avg` (`1d4 + 2`) [dire wolves](/compendium/bestiary/beast/dire-wolf.md) |
-| 4–6 | `dice: 1d6 + 3|avg` (`1d6 + 3`) [ghouls](/compendium/bestiary/undead/ghoul.md) |
-| 7–9 | `dice: 1d4 + 2|avg` (`1d4 + 2`) [Strahd zombies](strahd-zombie-cos.md) (in this appendix) |
-| 10–12 | `dice: 2d4|avg` (`2d4`) [swarms of bats](/compendium/bestiary/beast/swarm-of-bats.md) |
-| 13–15 | `dice: 1d4 + 1|avg` (`1d4 + 1`) [vampire spawn](vampire-spawn.md) |
-| 16–18 | `dice: 3d6|avg` (`3d6`) [wolves](/compendium/bestiary/beast/wolf.md) |
+| 1–3 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [dire wolves](/compendium/bestiary/beast/dire-wolf.md) |
+| 4–6 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [ghouls](ghoul.md) |
+| 7–9 | `dice: 1d4 + 2\|avg` (`1d4 + 2`) [Strahd zombies](strahd-zombie-cos.md) (in this appendix) |
+| 10–12 | `dice: 2d4\|avg` (`2d4`) [swarms of bats](/compendium/bestiary/beast/swarm-of-bats.md) |
+| 13–15 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [vampire spawn](vampire-spawn.md) |
+| 16–18 | `dice: 3d6\|avg` (`3d6`) [wolves](/compendium/bestiary/beast/wolf.md) |
 | 19–20 | None |
 ^creatures
 

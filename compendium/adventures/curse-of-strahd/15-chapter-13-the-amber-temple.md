@@ -118,7 +118,7 @@ The open doorway to the east leads to area X6. The double doors to the west open
 
 An [arcanaloth](/compendium/bestiary/fiend/arcanaloth.md) named Neferon guards this temple from within the hollow head of the great statue (area X5a) and attacks characters on sight with its longer-ranged spells. Thanks to its [truesight](compendium/rules/senses.md#truesight), the arcanaloth can see the [invisible](compendium/rules/conditions.md#invisible) and can see through magical darkness. Characters can't see Neferon unless they can penetrate the magical darkness that envelops the statue's face and head.
 
-Once the arcanaloth begins casting spells, the three [flameskulls](/compendium/bestiary/undead/flameskull.md) in area X17 take up positions behind the arrow slits that overlook the temple and cast magic missile and fireball spells at characters they can see.
+Once the arcanaloth begins casting spells, the three [flameskulls](flameskull.md) in area X17 take up positions behind the arrow slits that overlook the temple and cast magic missile and fireball spells at characters they can see.
 
 The temple ceiling is 60 feet high. Wide, black marble staircases ascend 30 feet to the southern balcony (area X4). The balconies that flank the statue (areas X11 and X23) are 30 feet high as well.
 
@@ -185,7 +185,7 @@ The east hall leads to area X32, the west hall to area X36.
 
 The ceiling here is 20 feet high. Beyond the open doors to the north, the characters can see a long, wide hallway with amber-covered walls (area X8).
 
-The hole in the floor forms a roughly hewn shaft that descends 20 feet, then breaks through the ceiling of area X33a. From the bottom of the shaft, it's another 10-foot drop to the floor of area X33a. The shaft has abundant handholds and can be climbed without an ability check, but characters must still drop the last 10 feet to reach the floor below. If the characters make a lot of noise, the three [flameskulls](/compendium/bestiary/undead/flameskull.md) in area X33a float up the shaft and attack them. The flameskulls also attack anyone they can hear attempting to descend the shaft.
+The hole in the floor forms a roughly hewn shaft that descends 20 feet, then breaks through the ceiling of area X33a. From the bottom of the shaft, it's another 10-foot drop to the floor of area X33a. The shaft has abundant handholds and can be climbed without an ability check, but characters must still drop the last 10 feet to reach the floor below. If the characters make a lot of noise, the three [flameskulls](flameskull.md) in area X33a float up the shaft and attack them. The flameskulls also attack anyone they can hear attempting to descend the shaft.
 
 A secret door in the south wall opens into area X7.
 
@@ -328,7 +328,7 @@ Apart from its location, this room is identical to area X7.
 > The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several amber doors lead from this hall, and three arrow slits are cut into the east wall. Floating in the middle of the hall are three skulls wreathed in green flame.
 ^605
 
-Three [flameskulls](/compendium/bestiary/undead/flameskull.md) guard this hall, attacking creatures that enter. The flameskulls will not leave the hall.
+Three [flameskulls](flameskull.md) guard this hall, attacking creatures that enter. The flameskulls will not leave the hall.
 
 The charred corpse is all that remains of a wizard named Jakarion, who came to the Amber Temple seeking power. The flameskulls incinerated the wizard.
 
@@ -466,7 +466,7 @@ The iron chest is empty.
 > Red pinpoints of light burn in the skeleton's eye sockets. "Do I know you?" it asks.
 ^61e
 
-The [lich](/compendium/bestiary/undead/lich.md) has fewer hit points than normal (99 hit points), doesn't remember its name ([Exethanter](/compendium/bestiary/npc/exethanter-cos.md)), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A greater restoration spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
+The [lich](lich.md) has fewer hit points than normal (99 hit points), doesn't remember its name ([Exethanter](/compendium/bestiary/npc/exethanter-cos.md)), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A greater restoration spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
 
 If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into area X28, where its phylactery is hidden). It also provides all the information pertaining to Strahd and the temple presented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library (area K30).
 
@@ -482,7 +482,7 @@ There are three secret doors in this room. The secret door to area X28 has an ar
 
 #### Treasure
 
-The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: _The Incants of Exethanter_. The spellbook contains all the spells on the lich's list of prepared spells (see the [lich](/compendium/bestiary/undead/lich.md) stat block in the "Monster Manual"). The lich attacks anyone who tries to take its spellbook.
+The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: _The Incants of Exethanter_. The spellbook contains all the spells on the lich's list of prepared spells (see the [lich](lich.md) stat block in the "Monster Manual"). The lich attacks anyone who tries to take its spellbook.
 
 ### X28. Hidden Phylactery
 
@@ -602,7 +602,7 @@ Adjust the following text if the creatures in this room have already been encoun
 > This room has walls of glazed amber, a floor of red marble, and a rough-hewn shaft in the center of its ten-foot-high ceiling. Three amber sarcophagi stand in alcoves, and above each sarcophagus floats a human skull wreathed in green flame.
 ^634
 
-Three [flameskulls](/compendium/bestiary/undead/flameskull.md) guard this room. They attack intruders on sight.
+Three [flameskulls](flameskull.md) guard this room. They attack intruders on sight.
 
 The shaft in the ceiling is 10 feet wide and 20 feet long, with abundant handholds. No ability check is required to climb it. The shaft leads up to area X6.
 
@@ -664,7 +664,7 @@ The amber door to this room hangs open, and the chamber reeks of death.
 > This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
 ^63e
 
-The ceiling here is 10 feet high. The seven hungry [ghasts](/compendium/bestiary/undead/ghast.md) that lair here fight to the death. The ghasts have the following additional feature:
+The ceiling here is 10 feet high. The seven hungry [ghasts](ghast.md) that lair here fight to the death. The ghasts have the following additional feature:
 
 ##### Spider Climb
 
@@ -826,7 +826,7 @@ The animal statues represent different kinds of familiars, and they are harmless
 > This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about.
 ^65c
 
-The ceiling here is 10 feet high. A [poltergeist](/compendium/bestiary/undead/poltergeist.md) (see the [specter](specter.md) entry in the "Monster Manual") haunts this room and telekinetically hurls broken furnishings at intruders so as not to give away its location.
+The ceiling here is 10 feet high. A [poltergeist](poltergeist.md) (see the [specter](specter.md) entry in the "Monster Manual") haunts this room and telekinetically hurls broken furnishings at intruders so as not to give away its location.
 
 #### Treasure
 
@@ -843,7 +843,7 @@ The ceiling here is 30 feet high and flat. A 10-foot-square hole in the northwes
 
 An [amber golem](/compendium/bestiary/construct/amber-golem-cos.md) once stood guard here, but it escaped after thieves broke into the treasury and looted it. The golem has since made its way upstairs (see area X10).
 
-Not all of the thieves escaped, and the pulverized remains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [poltergeists](/compendium/bestiary/undead/poltergeist.md) (see the [specter](specter.md) entry in the "Monster Manual"). The poltergeists can't leave the room and fight until destroyed.
+Not all of the thieves escaped, and the pulverized remains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [poltergeists](poltergeist.md) (see the [specter](specter.md) entry in the "Monster Manual"). The poltergeists can't leave the room and fight until destroyed.
 
 ### X40. Sealed Treasury
 
@@ -968,7 +968,7 @@ The vestige within this sarcophagus offers "the dark gift of Tenebrous" to any h
 - Craft a phylactery and imbue it with the power to contain the beneficiary's soul  
 - Concoct a potion of transformation that turns the beneficiary into a lich  
 
-Construction of the phylactery takes 10 days. Concocting the potion takes 3 days. The two items can't be crafted concurrently. When the beneficiary drinks the potion, he or she instantly transforms into a [lich](/compendium/bestiary/undead/lich.md) under the Dungeon Master's control (use the stat block in the "Monster Manual", altering the lich's prepared spells as desired).
+Construction of the phylactery takes 10 days. Concocting the potion takes 3 days. The two items can't be crafted concurrently. When the beneficiary drinks the potion, he or she instantly transforms into a [lich](lich.md) under the Dungeon Master's control (use the stat block in the "Monster Manual", altering the lich's prepared spells as desired).
 
 The beneficiary of this dark gift gains the following flaw: "All I care about is acquiring new magic and arcane knowledge."
 

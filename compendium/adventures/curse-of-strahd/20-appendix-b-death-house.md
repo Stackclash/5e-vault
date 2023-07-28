@@ -288,7 +288,7 @@ The toy chest contains an assortment of stuffed animals and toys. Characters who
 
 #### Rose and Thorn
 
-If either the dollhouse or the chest is disturbed, the ghosts of [Rose](/compendium/bestiary/npc/rosavalda-rose-durst-cos.md) and [Thorn](/compendium/bestiary/npc/thornboldt-thorn-durst-cos.md) appear in the middle of the room. Use the [ghost](/compendium/bestiary/undead/ghost.md) statistics in the "Monster Manual", with the following modifications:
+If either the dollhouse or the chest is disturbed, the ghosts of [Rose](/compendium/bestiary/npc/rosavalda-rose-durst-cos.md) and [Thorn](/compendium/bestiary/npc/thornboldt-thorn-durst-cos.md) appear in the middle of the room. Use the [ghost](ghost.md) statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
 - They have 35 (`dice: 10d6|avg` (`10d6`)) hit points each.  
@@ -414,11 +414,11 @@ In the middle of the south wall is a darkened alcove (area 28). Characters who a
 
 ### 28. Larder
 
-This alcove contains a [grick](/compendium/bestiary/monstrosity/grick.md) that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([Perception](compendium/rules/skills.md#Perception)) score under 12 is surprised by it. The alcove is otherwise empty.
+This alcove contains a [grick](grick.md) that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([Perception](compendium/rules/skills.md#Perception)) score under 12 is surprised by it. The alcove is otherwise empty.
 
 ### 29. Ghoulish Encounter
 
-The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four [ghouls](/compendium/bestiary/undead/ghoul.md) (former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
+The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four [ghouls](ghoul.md) (former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
 
 ### 30. Stairs Down
 
@@ -433,7 +433,7 @@ It's obvious to any character standing at the top of this 20-foot-long staircase
 > The room has exits in the west and north walls. Chanting can be heard coming from the west.
 ^717
 
-The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five [shadows](/compendium/bestiary/undead/shadow.md) form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
+The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five [shadows](shadow.md) form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
 
 The skeletons on the wall are harmless decor.
 
@@ -455,7 +455,7 @@ Once the trapdoor has been found and opened, it remains available to characters 
 
 ### 33. Cult Leaders' Den
 
-The door in the southwest corner is a [mimic](/compendium/bestiary/monstrosity/mimic.md) in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
+The door in the southwest corner is a [mimic](mimic.md) in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
 
 A chandelier is suspended above a table in the middle of the room. Two high-backed chairs flank the table, which has an empty clay jug and two clay flagons atop it. Iron candlesticks stand in two corners, their candles long since melted away.
 
@@ -463,7 +463,7 @@ A chandelier is suspended above a table in the middle of the room. Two high-back
 
 This room contains a large wood-framed bed with a rotted feather mattress, a wardrobe containing several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. At the foot of the bed is an unlocked wooden footlocker containing some gear and magic items (see "Treasure" below).
 
-Two [ghasts](/compendium/bestiary/undead/ghast.md) (Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
+Two [ghasts](ghast.md) (Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
 
 #### Treasure
 
@@ -526,7 +526,7 @@ The water is 2 feet deep. The ledges and central dais are 5 feet high (3 feet hi
 
 Half embedded in the east wall is a wooden wheel connected to hidden chains and mechanisms. A character can use an action to turn the wheel, raising or lowering the nearby portcullis (see area 37).
 
-The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a [shambling mound](/compendium/bestiary/plant/shambling-mound.md), which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence ([Nature](compendium/rules/skills.md#Nature)) check.
+The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a [shambling mound](shambling-mound.md), which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence ([Nature](compendium/rules/skills.md#Nature)) check.
 
 #### "One Must Die!"
 

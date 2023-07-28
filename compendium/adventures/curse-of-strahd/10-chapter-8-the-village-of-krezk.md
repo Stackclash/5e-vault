@@ -159,7 +159,7 @@ Two gate guards are on duty, but they aren't awake when the characters arrive (s
 
 ![Otto Belview](/compendium/adventures/curse-of-strahd/img/088-cos08-04.png#center)
 
-The gate guards are Otto and [Zygfrek Belview](/compendium/bestiary/npc/zygfrek-belview-cos.md), two lawful evil [mongrelfolk](/compendium/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [the Abbot](/compendium/bestiary/npc/the-abbot-cos.md), yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [the Abbot](/compendium/bestiary/npc/the-abbot-cos.md) (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
+The gate guards are Otto and [Zygfrek Belview](zygfrek-belview-cos.md), two lawful evil [mongrelfolk](/compendium/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [the Abbot](/compendium/bestiary/npc/the-abbot-cos.md), yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [the Abbot](/compendium/bestiary/npc/the-abbot-cos.md) (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
 
 Hanging on the inside wall of each guard post is a net woven from twigs and pine needles, as well as a shovel. Otto and Zygfrek cover themselves with the nets when they skulk through the village at night in search of fresh graves to dig up.
 
@@ -264,7 +264,7 @@ These two empty buildings help support the curtain wall (area S18) that encloses
 > The quiet is shattered by horrible screams coming from the sheds.
 ^4e2
 
-If the characters are escorted here by Otto and [Zygfrek Belview](/compendium/bestiary/npc/zygfrek-belview-cos.md) (area S6), they are asked to wait in the courtyard while the mongrelfolk fetch [the Abbot](/compendium/bestiary/npc/the-abbot-cos.md) from area S13.
+If the characters are escorted here by Otto and [Zygfrek Belview](zygfrek-belview-cos.md) (area S6), they are asked to wait in the courtyard while the mongrelfolk fetch [the Abbot](/compendium/bestiary/npc/the-abbot-cos.md) from area S13.
 
 #### S12a. Well
 
@@ -589,7 +589,7 @@ The wood of the counter is old, soft, and easily broken. Nothing of value remain
 > Three doors are spaced along the south wall, each with a plaque mounted on it. From west to east, the plaques read Operating Room, Nursery, and Morgue.
 ^51b
 
-Six [shadows](/compendium/bestiary/undead/shadow.md) haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
+Six [shadows](shadow.md) haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
 
 ### S22. Operating Room
 

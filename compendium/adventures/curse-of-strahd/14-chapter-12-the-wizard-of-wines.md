@@ -90,13 +90,13 @@ When the characters reach the winery, read:
 > You hear the rustle of dead vines all around you. Inhuman shapes emerge from the vineyard, their limbs cracking as they trudge forth through the mist and rain.
 ^598
 
-Thirty [needle blights](/compendium/bestiary/plant/needle-blight.md) (in six groups of five) emerge from the surrounding vineyard and make their way toward the characters and the winery. The blights are 120 feet away when they first become visible, and they have a walking speed of 30 feet. Characters can either barricade themselves inside the winery, thus keeping the needle blights at bay, or stand and fight. If they stay outside and fight, druids and blights from inside the winery join the battle on the rounds shown below.
+Thirty [needle blights](needle-blight.md) (in six groups of five) emerge from the surrounding vineyard and make their way toward the characters and the winery. The blights are 120 feet away when they first become visible, and they have a walking speed of 30 feet. Characters can either barricade themselves inside the winery, thus keeping the needle blights at bay, or stand and fight. If they stay outside and fight, druids and blights from inside the winery join the battle on the rounds shown below.
 
 | Round | Creatures |
 |-------|-----------|
-| 3 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and 24 [twig blights](/compendium/bestiary/plant/twig-blight.md) (from area W9) |
-| 4 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and 5 [needle blights](/compendium/bestiary/plant/needle-blight.md) (from area W14) |
-| 5 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and 2 [vine blights](/compendium/bestiary/plant/vine-blight.md) (from area W20) |
+| 3 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and 24 [twig blights](twig-blight.md) (from area W9) |
+| 4 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and 5 [needle blights](needle-blight.md) (from area W14) |
+| 5 | 1 [druid](/compendium/bestiary/humanoid/druid.md) and 2 [vine blights](vine-blight.md) (from area W20) |
 ^round-creatures
 
 The druid lurking in area W16 carries a [Gulthias staff](gulthias-staff-cos.md) (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
@@ -186,7 +186,7 @@ The wooden beam on the floor can be used to bar the outer door.
 
 Four [swarms of ravens](/compendium/bestiary/beast/swarm-of-ravens.md) perch on the rafters but don't attack the characters under any circumstances.
 
-Unless they have been drawn outside, twenty-four [twig blights](/compendium/bestiary/plant/twig-blight.md) and one [druid](/compendium/bestiary/humanoid/druid.md) (NE female human) are also present. If they are here, read:
+Unless they have been drawn outside, twenty-four [twig blights](twig-blight.md) and one [druid](/compendium/bestiary/humanoid/druid.md) (NE female human) are also present. If they are here, read:
 
 > [!quote] ...
 > 
@@ -254,7 +254,7 @@ In the winery's heyday, the wine cellar was packed with barrels awaiting shipmen
 > Wooden pillars and beams support the ten-foot-high ceiling of this ice-cold cellar, which is split in two by a five-foot-thick brick wall. A thin mist covers the floor. Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half filled with wine bottles.
 ^5b6
 
-Unless they have been drawn outside, five [needle blights](/compendium/bestiary/plant/needle-blight.md) and one [druid](/compendium/bestiary/humanoid/druid.md) (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
+Unless they have been drawn outside, five [needle blights](needle-blight.md) and one [druid](/compendium/bestiary/humanoid/druid.md) (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
 
 > [!quote] ...
 > 
@@ -352,7 +352,7 @@ The door to this room hangs open.
 > In this chamber are a desk, a chair, a tall wooden cabinet, and a strange contraption that takes up most of the northern end of the room.
 ^5c6
 
-Two [vine blights](/compendium/bestiary/plant/vine-blight.md) and one [druid](/compendium/bestiary/humanoid/druid.md) (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
+Two [vine blights](vine-blight.md) and one [druid](/compendium/bestiary/humanoid/druid.md) (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
 
 > [!quote] ...
 > 
@@ -381,7 +381,7 @@ The characters can trade the six barrels of wine for a much-needed treasure in t
 
 ### Wintersplinter Attacks
 
-If the characters leave the winery and return at a later time before dealing with Wintersplinter (see the "Druids' Ritual" section in chapter 14), the enormous [tree blight](/compendium/bestiary/plant/tree-blight-cos.md) (see appendix D) is sent from Yester Hill to ravage the vineyard and destroy the winery.
+If the characters leave the winery and return at a later time before dealing with Wintersplinter (see the "Druids' Ritual" section in chapter 14), the enormous [tree blight](tree-blight-cos.md) (see appendix D) is sent from Yester Hill to ravage the vineyard and destroy the winery.
 
 The characters arrive to find the grapevines trampled and the winery in ruins. Wintersplinter's tracks are clearly visible on the trail to the south. Characters who follow the tracks catch up with Wintersplinter as the blight slowly makes its way back to Yester Hill.
 
