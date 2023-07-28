@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f1c518264b964b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Importing 5eTools Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Importing 5eTools Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Importing 5eTools Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Importing 5eTools Data.md"
+              }
             }
           },
           {
@@ -169,53 +186,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e58a5eb7e5f7bac8",
+  "active": "f1c518264b964b57",
   "lastOpenFiles": [
+    "6. Mechanics/bestiary/undead",
+    "6. Mechanics/bestiary",
+    "6. Mechanics/items",
+    "6. Mechanics/tables",
+    "Importing 5eTools Data.md",
+    "Importing 5eTools Data.md",
+    "compendium/adventures/curse-of-strahd/13-chapter-11-van-richtens-tower.md",
+    "6. Mechanics/tables/personality-traits.md",
     "6. Mechanics/tables/ideals.md",
     "6. Mechanics/tables/flaws.md",
     "6. Mechanics/tables/bonds.md",
-    "Importing 5eTools Data.md",
-    "6. Mechanics/rules",
-    "6. Mechanics/backgrounds",
-    "6. Mechanics/bestiary/aberration",
-    "6. Mechanics/bestiary/beast",
-    "6. Mechanics/bestiary/construct",
-    "6. Mechanics/bestiary/dragon",
-    "6. Mechanics/bestiary/celestial",
-    "6. Mechanics/bestiary/elemental",
-    "6. Mechanics/bestiary/fiend",
-    "6. Mechanics/bestiary/humanoid",
+    "compendium/tables",
+    "compendium/rules/item-properties.md",
+    "compendium/rules",
+    "compendium/bestiary/aberration/token/nothic.png",
+    "compendium/bestiary/aberration/token/death-slaad.png",
+    "compendium/bestiary/aberration/token",
+    "compendium/backgrounds/haunted-one-vrgr.md",
+    "compendium/backgrounds/backgrounds.md",
+    "compendium/backgrounds",
     "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/bestiary/undead/token/poltergeist.png",
-    "compendium/bestiary/fiend/img/dybbuk.webp",
-    "compendium/bestiary/monstrosity/img/peryton.jpg",
-    "compendium/bestiary/humanoid/img/kobold-scale-sorcerer.webp",
-    "compendium/books/van-richtens-guide-to-ravenloft/img/091-03-030-wearing-a-mask.png",
+    "compendium/adventures/curse-of-strahd/img/071-cos06-02.png",
+    "compendium/bestiary/npc/img/donavich.png",
     "compendium/bestiary/humanoid/token/commoner.png",
-    "compendium/bestiary/fiend/token/nycaloth.png",
-    "compendium/bestiary/fiend/token/oinoloth.png",
-    "compendium/bestiary/humanoid/token/apprentice-wizard.png",
-    "compendium/rules/variant-rules/wands-that-dont-recharge.md",
-    "compendium/rules/variant-rules/tying-knots.md",
-    "compendium/rules/variant-rules/tool-proficiencies.md",
-    "compendium/rules/variant-rules/survivors.md",
-    "compendium/rules/variant-rules/spellcasting.md",
-    "compendium/rules/variant-rules/spell-points.md",
-    "compendium/rules/variant-rules/sleep.md",
-    "compendium/rules/variant-rules/skills-with-different-abilities.md",
-    "compendium/rules/variant-rules/skill-variants.md",
-    "compendium/rules/variant-rules/simultaneous-effects.md",
-    "compendium/rules/variant-rules/sidekicks.md",
-    "compendium/rules/variant-rules/shared-campaign-variant-rules.md",
-    "compendium/rules/variant-rules/scroll-mishaps.md",
-    "compendium/rules/variant-rules/rest-variants.md",
-    "compendium/rules/variant-rules/renown.md",
-    "compendium/rules/variant-rules/proficiency-dice.md",
-    "compendium/rules/variant-rules/plot-points.md",
-    "compendium/rules/variant-rules/playing-on-a-grid.md",
-    "compendium/rules/variant-rules/player-characters-as-vampires.md",
-    "compendium/rules/variant-rules/player-characters-as-lycanthropes.md",
-    "compendium/rules/variant-rules/planar-effects.md",
-    "compendium/rules/variant-rules/optional-class-features.md"
+    "compendium/bestiary/npc/token/rahadin.png",
+    "compendium/adventures/curse-of-strahd/img/063-cos05-13.png",
+    "compendium/adventures/curse-of-strahd/img/110-cos12-01.png",
+    "compendium/bestiary/undead/img",
+    "compendium/bestiary/plant/img",
+    "compendium/adventures/curse-of-strahd/25-poster-map.md",
+    "compendium/adventures/curse-of-strahd/24-appendix-f-handouts.md",
+    "compendium/adventures/curse-of-strahd/23-appendix-e-the-tarokka-deck.md",
+    "compendium/adventures/curse-of-strahd/22-appendix-d-monsters-and-npcs.md",
+    "compendium/adventures/curse-of-strahd/21-appendix-c-treasures.md",
+    "compendium/adventures/curse-of-strahd/20-appendix-b-death-house.md",
+    "compendium/adventures/curse-of-strahd/19-appendix-a-character-options.md",
+    "compendium/adventures/curse-of-strahd/18-epilogue.md",
+    "compendium/adventures/curse-of-strahd/17-chapter-15-werewolf-den.md",
+    "compendium/adventures/curse-of-strahd/16-chapter-14-yester-hill.md",
+    "compendium/adventures/curse-of-strahd/15-chapter-13-the-amber-temple.md",
+    "compendium/adventures/curse-of-strahd/14-chapter-12-the-wizard-of-wines.md",
+    "compendium/adventures/curse-of-strahd/12-chapter-10-the-ruins-of-berez.md",
+    "compendium/adventures/curse-of-strahd/11-chapter-9-tsolenka-pass.md",
+    "compendium/adventures/curse-of-strahd/10-chapter-8-the-village-of-krezk.md"
   ]
 }

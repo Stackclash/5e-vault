@@ -6,7 +6,7 @@ const dv = app.plugins.plugins.dataview.api
 <!-- Handle moving img folder over -->
 <!-- Handle renaming files -->
 const dryRun = false
-const limit = 500
+const limit = 30
 const currentCompendiumPath = 'compendium'
 const newCompendiumPath = '6. Mechanics'
 const currentRulesPath = 'compendium/rules'
@@ -32,7 +32,7 @@ async function updateContent(page, content) {
         matches.forEach((link) => {
             const oldLink = link[0]
             const displayText = link[1]
-            const path = link[2].replace(/(\s+)/g, '\\$1')
+            const path = link[2].replace(/(\s+)/g, '\\$1').replace('%20', '\ ')
             const extra = link[3]
             const newLink = extra ? `[[${path}\|${extra}]]` : `[[${path}\|${displayText}]]`
 
@@ -48,9 +48,9 @@ async function updateContent(page, content) {
             const oldFunction = link[0]
             const diceRoll = link[1]
             const adjustment = link[2]
-            const newFunction = `\`${diceRoll}\|${adjustment}\``
+            const newFunction = `${diceRoll}\\|${adjustment}`
             content = content.replace(oldFunction, newFunction)
-            linkChanges += `| \`${oldFunction}\` | \`${newFunction}\` |`
+            linkChanges += `| ${oldFunction.replace('\|', '\\|').replace('`', '')} | dice: ${newFunction.replace('\|', '\\|')} |\n`
         })
     }
     await this.app.vault.modify(tp.file.find_tfile(page.file.path), content)
@@ -72,7 +72,7 @@ async function processFile(page) {
     if (count >= limit) return
 
     count++
-    linkChanges += `| ${page.file.path} ||`
+    linkChanges += `| ${page.file.path} ||\n`
 
     let content = await dv.io.load(page.file.path)
     await updateContent(page, content)

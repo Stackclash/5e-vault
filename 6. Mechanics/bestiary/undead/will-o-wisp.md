@@ -1,0 +1,92 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/mm
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/tiny
+- monster/type/undead
+statblock: true
+statblock-link: "#^statblock"
+name: Will-o'-Wisp
+ac: 19
+hp: 22
+hit_dice: 9d4
+cr: '2'
+stats: [
+  1,
+  28,
+  10,
+  13,
+  14,
+  11
+]
+source: [
+  MM,
+  CoS,
+  HotDQ,
+  PotA,
+  TftYP,
+  ToA,
+  WDMM,
+  GoS,
+  DIP,
+  BGDIA,
+  IDRotF,
+  CM,
+  WBtW,
+  CRCotN,
+  JttRC,
+  LoX
+]
+aliases: ["Will-o'-Wisp"]
+---
+# Will-o'-Wisp
+*Source: Monster Manual p. 301, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Light of Xaryxis*  
+
+```ad-statblock
+title: Will-o'-Wisp
+![](/compendium/bestiary/undead/token/will-o-wisp.png#token)
+*Tiny undead, Chaotic Evil*
+
+- **Armor Class** 19 
+- **Hit Points** `dice: 9d4|text(22)` (9d4) 
+- **Speed** walk 0 ft., fly 50 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** darkvision 120 ft., passive Perception 12
+- **Damage Resistances** acid; cold; fire; necrotic; thunder; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** lightning, poison
+- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+- **Languages** the languages it knew in life
+- **Challenge** 2
+
+## Traits
+
+***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6\|avg (`3d6`)) hit points.
+
+***Ephemeral.*** The will-o'-wisp can't wear or carry anything.
+
+***Incorporeal Movement.*** The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 1d10\|avg (`1d10`) force damage if it ends its turn inside an object.
+
+***Variable Illumination.*** The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
+
+## Actions
+
+***Shock.*** *Melee Spell Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one creature. Hit: 2d8\|avg (`2d8`) lightning damage.
+
+***Invisibility.*** The will-o'-wisp and its light magically become [[compendium/rules/conditions.md#invisible|invisible]] until it attacks or uses its Consume Life, or until its [[compendium/rules/status.md#concentration|concentration]] ends (as if [[compendium/rules/status.md#concentration|concentration]] on a spell).
+```
+^statblock
+
+## Environment
+
+forest, swamp, urban
