@@ -4,8 +4,8 @@ const dv = app.plugins.plugins.dataview.api
 <!-- UPDATE THESE VALUES -->
 
 <!-- Handle moving img folder over -->
-const dryRun = false
-const limit = 500
+const dryRun = true
+const limit = 20
 const currentCompendiumPath = 'compendium'
 const newCompendiumPath = '6. Mechanics'
 const currentRulesPath = 'compendium/rules'
@@ -58,15 +58,14 @@ async function updateContent(page, content) {
         })
     }
     
-    matches = [...content.matchAll(/\[([\w\s’\.\(\)]+?)\]\(([\w\s\/\.\-\#%\d]+)\s”([\w\d:&\s]+)”\)/g)]
+    matches = [...content.matchAll(/\[([\w\s'\.\(\)]+?)\]\(([\w\s\/\.\-\#%\d]+)\s”([\w\d:&\s\.]+)”\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
             const oldLink = link[0]
-            const displayText = link[1]
-            const path = link[2].replace(/(\s+)/g, ‘\\$1’).replace(‘%20’, ‘\ ‘)
-            const extra = link[3]
-            const newLink = extra ? `[[${path}\\|${extra}]]` : `[[${path}\\|${displayText}]]`
+            const displayText = link[3]
+            const path = link[2].replace(/(\s+)/g, '\\$1').replace('%20', '\ ')
+            const newLink = `[[${path}\\|${displayText}]]`
 
             linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
             content = content.replace(oldLink, newLink)
