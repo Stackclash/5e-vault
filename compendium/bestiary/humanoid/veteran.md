@@ -61,12 +61,14 @@ aliases: ["Veteran"]
 # Veteran
 *Source: Monster Manual p. 350, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Spelljammer Academy, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
 
+Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
+
 ```ad-statblock
 title: Veteran
 ![](/compendium/bestiary/humanoid/token/veteran.png#token)
 *Medium humanoid(any race), Any alignment*
 
-- **Armor Class** 17 (splint armor)
+- **Armor Class** 17 ([splint armor](/compendium/items/splint-armor.md))
 - **Hit Points** `dice: 9d8 + 18|text(58)` (9d8 + 18) 
 - **Speed** walk 30 ft.
 

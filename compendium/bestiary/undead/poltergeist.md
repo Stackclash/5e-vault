@@ -34,6 +34,8 @@ aliases: ["Poltergeist"]
 # Poltergeist
 *Source: Monster Manual p. 279, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault*  
 
+A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
+
 ```ad-statblock
 title: Poltergeist
 ![](/compendium/bestiary/undead/token/poltergeist.png#token)

@@ -54,12 +54,18 @@ aliases: ["Bandit Captain"]
 # Bandit Captain
 *Source: Monster Manual p. 344, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Curse of Strahd, Critical Role: Call of the Netherdeep, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
 
+It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
+
+In addition to managing a crew of selfish malcontents, the pirate captain is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
+
+More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain's colorful reputation.
+
 ```ad-statblock
 title: Bandit Captain
 ![](/compendium/bestiary/humanoid/token/bandit-captain.png#token)
 *Medium humanoid(any race), Any Non-Lawful alignment*
 
-- **Armor Class** 15 (studded leather)
+- **Armor Class** 15 ([studded leather](/compendium/items/studded-leather-armor.md))
 - **Hit Points** `dice: 10d8 + 20|text(65)` (10d8 + 20) 
 - **Speed** walk 30 ft.
 

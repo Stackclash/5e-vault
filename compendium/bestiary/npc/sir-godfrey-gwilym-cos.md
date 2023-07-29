@@ -61,7 +61,7 @@ title: Sir Godfrey Gwilym
 
 ***Regeneration.*** The knight regains 10 hit points at the start of its turn. If the knight takes fire or radiant damage, this trait doesn't function at the start of the knight's next turn. The knight's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
 
-***Rejuvenation.*** When the knight's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another humanoid corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.
+***Rejuvenation.*** When the knight's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another humanoid corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [wish](/compendium/spells/wish.md) spell can be used to force the soul to go to the afterlife and not return.
 
 ***Turn Immunity.*** The knight is immune to effects that turn undead.
 
@@ -69,13 +69,13 @@ title: Sir Godfrey Gwilym
 
 ***Spellcasting.*** Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 14, `dice: d20+6` (+6 to hit) with spell attacks). He has the following paladin spells prepared:
 
-**1st level (4 1st-level slots)**: command, divine favor, thunderous smite
+**1st level (4 1st-level slots)**: [command](/compendium/spells/command.md), [divine favor](/compendium/spells/divine-favor.md), [thunderous smite](/compendium/spells/thunderous-smite.md)
 
-**2nd level (3 2nd-level slots)**: branding smite, magic weapon
+**2nd level (3 2nd-level slots)**: [branding smite](/compendium/spells/branding-smite.md), [magic weapon](/compendium/spells/magic-weapon.md)
 
-**3rd level (3 3rd-level slots)**: blinding smite, dispel magic
+**3rd level (3 3rd-level slots)**: [blinding smite](/compendium/spells/blinding-smite.md), [dispel magic](/compendium/spells/dispel-magic.md)
 
-**4th level (2 4th-level slots)**: staggering smite
+**4th level (2 4th-level slots)**: [staggering smite](/compendium/spells/staggering-smite.md)
 
 ## Actions
 

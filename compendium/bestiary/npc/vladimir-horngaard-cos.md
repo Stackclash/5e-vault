@@ -94,7 +94,7 @@ title: Vladimir Horngaard
 ![](/compendium/bestiary/npc/token/vladimir-horngaard.png#token)
 *Medium undead, Lawful Evil*
 
-- **Armor Class** 17 (half plate armor)
+- **Armor Class** 17 ([half plate armor](/compendium/items/half-plate-armor.md))
 - **Hit Points** `dice: 16d8 + 64|text(192)` (16d8 + 64) 
 - **Speed** walk 30 ft.
 
@@ -116,7 +116,7 @@ title: Vladimir Horngaard
 
 ***Regeneration.*** Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.
 
-***Rejuvenation.*** When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.
+***Rejuvenation.*** When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [wish](/compendium/spells/wish.md) spell can be used to force the soul to go to the afterlife and not return.
 
 ***Special Equipment.*** Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. 
 

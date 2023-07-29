@@ -34,7 +34,7 @@ title: Ireena Kolyana
 ![](/compendium/bestiary/npc/token/ireena-kolyana.png#token)
 *Medium humanoid(human), Lawful Good*
 
-- **Armor Class** 15 (breastplate)
+- **Armor Class** 15 ([breastplate](/compendium/items/breastplate.md))
 - **Hit Points** `dice: 2d8|text(14)` (2d8) 
 - **Speed** walk 30 ft.
 

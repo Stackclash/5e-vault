@@ -42,6 +42,11 @@ aliases: ["Swarm of Spiders"]
 # Swarm of Spiders
 *Source: Monster Manual p. 338, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Mythic Odysseys of Theros*  
 
+> [!quote] The Nature of Swarms
+> 
+> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](/compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [swarms of poisonous snakes](/compendium/bestiary/beast/swarm-of-poisonous-snakes.md) slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
+^the-nature-of-swarms
+
 ```ad-statblock
 title: Swarm of Spiders
 ![](/compendium/bestiary/beast/token/swarm-of-spiders.png#token)

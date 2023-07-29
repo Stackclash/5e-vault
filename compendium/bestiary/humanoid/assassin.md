@@ -48,12 +48,14 @@ aliases: ["Assassin"]
 # Assassin
 *Source: Monster Manual p. 343, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
 
+Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
+
 ```ad-statblock
 title: Assassin
 ![](/compendium/bestiary/humanoid/token/assassin.png#token)
 *Medium humanoid(any race), Any Non-Good alignment*
 
-- **Armor Class** 15 (studded leather)
+- **Armor Class** 15 ([studded leather](/compendium/items/studded-leather-armor.md))
 - **Hit Points** `dice: 12d8 + 24|text(78)` (12d8 + 24) 
 - **Speed** walk 30 ft.
 

@@ -71,7 +71,7 @@ title: Izek Strazni
 ![](/compendium/bestiary/npc/token/izek-strazni.png#token)
 *Medium humanoid(human), Neutral Evil*
 
-- **Armor Class** 14 (studded leather)
+- **Armor Class** 14 ([studded leather](/compendium/items/studded-leather-armor.md))
 - **Hit Points** `dice: 15d8 + 45|text(112)` (15d8 + 45) 
 - **Speed** walk 30 ft.
 

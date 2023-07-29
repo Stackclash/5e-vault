@@ -53,12 +53,16 @@ aliases: ["Noble"]
 # Noble
 *Source: Monster Manual p. 348, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
 
+Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
+
+The noble's statistics can also be used to represent courtiers who aren't of noble birth.
+
 ```ad-statblock
 title: Noble
 ![](/compendium/bestiary/humanoid/token/noble.png#token)
 *Medium humanoid(any race), Any alignment*
 
-- **Armor Class** 15 (breastplate)
+- **Armor Class** 15 ([breastplate](/compendium/items/breastplate.md))
 - **Hit Points** `dice: 2d8|text(9)` (2d8) 
 - **Speed** walk 30 ft.
 

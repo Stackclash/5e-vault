@@ -52,12 +52,14 @@ aliases: ["Priest"]
 # Priest
 *Source: Monster Manual p. 348, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
 
+Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
+
 ```ad-statblock
 title: Priest
 ![](/compendium/bestiary/humanoid/token/priest.png#token)
 *Medium humanoid(any race), Any alignment*
 
-- **Armor Class** 13 (chain shirt)
+- **Armor Class** 13 ([chain shirt](/compendium/items/chain-shirt.md))
 - **Hit Points** `dice: 5d8 + 5|text(27)` (5d8 + 5) 
 - **Speed** walk 30 ft.
 
@@ -78,13 +80,13 @@ title: Priest
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, `dice: d20+5` (+5 to hit) with spell attacks). The priest has the following cleric spells prepared:
 
-**Cantrips (at will)**: light, sacred flame, thaumaturgy
+**Cantrips (at will)**: [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
 
-**1st level (4 1st-level slots)**: cure wounds, guiding bolt, sanctuary
+**1st level (4 1st-level slots)**: [cure wounds](/compendium/spells/cure-wounds.md), [guiding bolt](/compendium/spells/guiding-bolt.md), [sanctuary](/compendium/spells/sanctuary.md)
 
-**2nd level (3 2nd-level slots)**: lesser restoration, spiritual weapon
+**2nd level (3 2nd-level slots)**: [lesser restoration](/compendium/spells/lesser-restoration.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md)
 
-**3rd level (2 3rd-level slots)**: dispel magic, spirit guardians
+**3rd level (2 3rd-level slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [spirit guardians](/compendium/spells/spirit-guardians.md)
 
 ## Actions
 

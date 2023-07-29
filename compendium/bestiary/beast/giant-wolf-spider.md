@@ -40,6 +40,8 @@ aliases: ["Giant Wolf Spider"]
 # Giant Wolf Spider
 *Source: Monster Manual p. 330, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Plane Shift: Ixalan*  
 
+Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
+
 ```ad-statblock
 title: Giant Wolf Spider
 ![](/compendium/bestiary/beast/token/giant-wolf-spider.png#token)

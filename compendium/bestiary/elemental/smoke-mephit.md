@@ -35,6 +35,22 @@ aliases: ["Smoke Mephit"]
 # Smoke Mephit
 *Source: Monster Manual p. 217, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault*  
 
+## Mephits
+
+Mephits are capricious, imp-like creatures native to the elemental planes. They come in six varieties, each one representing the mixture of two elements.
+
+Ageless tricksters, mephits gather in large numbers on the Elemental Planes and in the Elemental Chaos. They also find their way to the Material Plane, where they prefer to dwell in places where their base elements are abundant. For example, a magma mephit is composed of earth and fire, and it favors volcanic lairs, while an ice mephit, which is composed of air and water, favors frigid locales.
+
+### Elemental Nature
+
+A mephit doesn't require food, drink, or sleep.
+
+## Smoke Mephit
+
+Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
+
+## Stat Block
+
 ```ad-statblock
 title: Smoke Mephit
 ![](/compendium/bestiary/elemental/token/smoke-mephit.png#token)
@@ -61,9 +77,9 @@ title: Smoke Mephit
 
 ***Death Burst.*** When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast dancing lights, requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [dancing lights](/compendium/spells/dancing-lights.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
-**At will**: dancing lights
+**At will**: [dancing lights](/compendium/spells/dancing-lights.md)
 
 ## Actions
 

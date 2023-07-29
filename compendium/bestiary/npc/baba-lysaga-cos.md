@@ -93,27 +93,27 @@ title: Baba Lysaga
 
 ***Shapechanger.*** Baba Lysaga can use an action to polymorph into a [swarm of insects](/compendium/bestiary/beast/swarm-of-insects.md) (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.
 
-***Blessing of Mother Night.*** Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.
+***Blessing of Mother Night.*** Baba Lysaga is shielded against divination magic, as though protected by a [nondetection](/compendium/spells/nondetection.md) spell.
 
 ***Spellcasting.*** Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, `dice: d20+9` (+9 to hit) with spell attacks). Baba Lysaga has the following wizard spells prepared:
 
-**Cantrips (at will)**: acid splash, fire bolt, light, mage hand, prestidigitation
+**Cantrips (at will)**: [acid splash](/compendium/spells/acid-splash.md), [fire bolt](/compendium/spells/fire-bolt.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
 
-**1st level (4 1st-level slots)**: detect magic, magic missile, sleep, witch bolt
+**1st level (4 1st-level slots)**: [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md), [sleep](/compendium/spells/sleep.md), [witch bolt](/compendium/spells/witch-bolt.md)
 
-**2nd level (3 2nd-level slots)**: crown of madness, enlarge/reduce, misty step
+**2nd level (3 2nd-level slots)**: [crown of madness](/compendium/spells/crown-of-madness.md), [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [misty step](/compendium/spells/misty-step.md)
 
-**3rd level (3 3rd-level slots)**: dispel magic, fireball, lightning bolt
+**3rd level (3 3rd-level slots)**: [dispel magic](/compendium/spells/dispel-magic.md), [fireball](/compendium/spells/fireball.md), [lightning bolt](/compendium/spells/lightning-bolt.md)
 
-**4th level (3 4th-level slots)**: blight, Evard's black tentacles, polymorph
+**4th level (3 4th-level slots)**: [blight](/compendium/spells/blight.md), [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md), [polymorph](/compendium/spells/polymorph.md)
 
-**5th level (2 5th-level slots)**: cloudkill, geas, scrying
+**5th level (2 5th-level slots)**: [cloudkill](/compendium/spells/cloudkill.md), [geas](/compendium/spells/geas.md), [scrying](/compendium/spells/scrying.md)
 
-**6th level (1 6th-level slots)**: programmed illusion, true seeing
+**6th level (1 6th-level slots)**: [programmed illusion](/compendium/spells/programmed-illusion.md), [true seeing](/compendium/spells/true-seeing.md)
 
-**7th level (1 7th-level slots)**: finger of death, mirage arcane
+**7th level (1 7th-level slots)**: [finger of death](/compendium/spells/finger-of-death.md), [mirage arcane](/compendium/spells/mirage-arcane.md)
 
-**8th level (1 8th-level slots)**: power word stun
+**8th level (1 8th-level slots)**: [power word stun](/compendium/spells/power-word-stun.md)
 
 ## Actions
 

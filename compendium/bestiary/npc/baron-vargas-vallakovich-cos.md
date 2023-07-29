@@ -34,7 +34,7 @@ title: Baron Vargas Vallakovich
 ![](/compendium/bestiary/npc/token/baron-vargas-vallakovich.png#token)
 *Medium humanoid(human), Neutral Evil*
 
-- **Armor Class** 15 (breastplate)
+- **Armor Class** 15 ([breastplate](/compendium/items/breastplate.md))
 - **Hit Points** `dice: 2d8|text(9)` (2d8) 
 - **Speed** walk 30 ft.
 

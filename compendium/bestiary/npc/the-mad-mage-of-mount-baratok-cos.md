@@ -34,7 +34,7 @@ title: The Mad Mage of Mount Baratok
 ![](/compendium/bestiary/npc/token/the-mad-mage-of-mount-baratok.png#token)
 *Medium humanoid(human), Chaotic Neutral*
 
-- **Armor Class** 12 (15 with mage armor)
+- **Armor Class** 12 (15 with [mage armor](/compendium/spells/mage-armor.md))
 - **Hit Points** `dice: 18d8 + 18|text(99)` (18d8 + 18) 
 - **Speed** walk 30 ft.
 
@@ -54,29 +54,29 @@ title: The Mad Mage of Mount Baratok
 
 ***Magic Resistance.*** The Mad Mage has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The mad mage is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, `dice: d20+9` (+9 to hit) with spell attacks). He can cast disguise self and invisibility at will and has the following wizard spells prepared:
+***Spellcasting.*** The mad mage is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, `dice: d20+9` (+9 to hit) with spell attacks). He can cast [disguise self](/compendium/spells/disguise-self.md) and [invisibility](/compendium/spells/invisibility.md) at will and has the following wizard spells prepared:
 
-**At will**: disguise self, invisibility
+**At will**: [disguise self](/compendium/spells/disguise-self.md), [invisibility](/compendium/spells/invisibility.md)
 
-**Cantrips (at will)**: fire bolt, light, mage hand, prestidigitation, shocking grasp
+**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md), [shocking grasp](/compendium/spells/shocking-grasp.md)
 
-**1st level (4 1st-level slots)**: detect magic, mage armor, magic missile, shield
+**1st level (4 1st-level slots)**: [detect magic](/compendium/spells/detect-magic.md), [mage armor](/compendium/spells/mage-armor.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)
 
-**2nd level (3 2nd-level slots)**: mirror image, misty step, web
+**2nd level (3 2nd-level slots)**: [mirror image](/compendium/spells/mirror-image.md), [misty step](/compendium/spells/misty-step.md), [web](/compendium/spells/web.md)
 
-**3rd level (3 3rd-level slots)**: counterspell, fly, lightning bolt
+**3rd level (3 3rd-level slots)**: [counterspell](/compendium/spells/counterspell.md), [fly](/compendium/spells/fly.md), [lightning bolt](/compendium/spells/lightning-bolt.md)
 
-**4th level (3 4th-level slots)**: Mordenkainen's faithful hound, polymorph, stoneskin
+**4th level (3 4th-level slots)**: [Mordenkainen's faithful hound](/compendium/spells/mordenkainens-faithful-hound.md), [polymorph](/compendium/spells/polymorph.md), [stoneskin](/compendium/spells/stoneskin.md)
 
-**5th level (3 5th-level slots)**: Bigby's hand, cone of cold, scrying
+**5th level (3 5th-level slots)**: [Bigby's hand](/compendium/spells/bigbys-hand.md), [cone of cold](/compendium/spells/cone-of-cold.md), [scrying](/compendium/spells/scrying.md)
 
-**6th level (1 6th-level slots)**: true seeing
+**6th level (1 6th-level slots)**: [true seeing](/compendium/spells/true-seeing.md)
 
-**7th level (1 7th-level slots)**: Mordenkainen's magnificent mansion
+**7th level (1 7th-level slots)**: [Mordenkainen's magnificent mansion](/compendium/spells/mordenkainens-magnificent-mansion.md)
 
-**8th level (1 8th-level slots)**: mind blank
+**8th level (1 8th-level slots)**: [mind blank](/compendium/spells/mind-blank.md)
 
-**9th level (1 9th-level slots)**: time stop
+**9th level (1 9th-level slots)**: [time stop](/compendium/spells/time-stop.md)
 
 ## Actions
 

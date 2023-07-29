@@ -94,19 +94,19 @@ title: Ezmerelda d'Avenir
 
 ## Traits
 
-***Special Equipment.*** In addition to her magic armor and weapons, Ezmerelda has two potions of greater healing, six vials of holy water, and three wooden stakes.
+***Special Equipment.*** In addition to her magic armor and weapons, Ezmerelda has two [potions of greater healing](/compendium/items/potion-of-greater-healing.md), six [vials of holy water](/compendium/items/holy-water-flask.md), and three wooden stakes.
 
 ***Spellcasting.*** Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, `dice: d20+6` (+6 to hit) with spell attacks). Ezmerelda has the following wizard spells prepared:
 
-**Cantrips (at will)**: fire bolt, light, mage hand, prestidigitation
+**Cantrips (at will)**: [fire bolt](/compendium/spells/fire-bolt.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
 
-**1st level (4 1st-level slots)**: protection from evil and good, magic missile, shield
+**1st level (4 1st-level slots)**: [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md), [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)
 
-**2nd level (3 2nd-level slots)**: darkvision, knock, mirror image
+**2nd level (3 2nd-level slots)**: [darkvision](/compendium/spells/darkvision.md), [knock](/compendium/spells/knock.md), [mirror image](/compendium/spells/mirror-image.md)
 
-**3rd level (3 3rd-level slots)**: clairvoyance, lightning bolt, magic circle
+**3rd level (3 3rd-level slots)**: [clairvoyance](/compendium/spells/clairvoyance.md), [lightning bolt](/compendium/spells/lightning-bolt.md), [magic circle](/compendium/spells/magic-circle.md)
 
-**4th level (1 4th-level slots)**: greater invisibility
+**4th level (1 4th-level slots)**: [greater invisibility](/compendium/spells/greater-invisibility.md)
 
 ## Actions
 
@@ -118,7 +118,7 @@ title: Ezmerelda d'Avenir
 
 ***Silvered Shortsword.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 4|avg` (`1d6 + 4`) piercing damage.
 
-***Curse (Recharges after a Long Rest).*** Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Ezmerelda takes `dice: 3d6|avg` (`3d6`) psychic damage.
+***Curse (Recharges after a Long Rest).*** Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a [greater restoration](/compendium/spells/greater-restoration.md) spell, a [remove curse](/compendium/spells/remove-curse.md) spell, or similar magic. When the curse ends, Ezmerelda takes `dice: 3d6|avg` (`3d6`) psychic damage.
 
 ***Evil Eye (Recharges after a Short or Long Rest).*** Ezmerelda targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save DC 14), requiring neither somatic nor material components to do so: animal friendship, charm person, or hold person. If the target succeeds on the initial saving throw, Ezmerelda is [blinded](compendium/rules/conditions.md#blinded) until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours.
 ```

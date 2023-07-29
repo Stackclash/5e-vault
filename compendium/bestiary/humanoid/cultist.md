@@ -50,12 +50,14 @@ aliases: ["Cultist"]
 # Cultist
 *Source: Monster Manual p. 345, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
 
+Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
+
 ```ad-statblock
 title: Cultist
 ![](/compendium/bestiary/humanoid/token/cultist.png#token)
 *Medium humanoid(any race), Any Non-Good alignment*
 
-- **Armor Class** 12 (leather armor)
+- **Armor Class** 12 ([leather armor](/compendium/items/leather-armor.md))
 - **Hit Points** `dice: 2d8|text(9)` (2d8) 
 - **Speed** walk 30 ft.
 

@@ -55,13 +55,13 @@ title: Lady Fiona Wachter
 
 ***Spellcasting.*** Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, `dice: d20+5` (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:
 
-**Cantrips (at will)**: light, mending, thaumaturgy
+**Cantrips (at will)**: [light](/compendium/spells/light.md), [mending](/compendium/spells/mending.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
 
-**1st level (4 1st-level slots)**: command, purify food and drink, sanctuary
+**1st level (4 1st-level slots)**: [command](/compendium/spells/command.md), [purify food and drink](/compendium/spells/purify-food-and-drink.md), [sanctuary](/compendium/spells/sanctuary.md)
 
-**2nd level (3 2nd-level slots)**: augury, gentle repose, hold person
+**2nd level (3 2nd-level slots)**: [augury](/compendium/spells/augury.md), [gentle repose](/compendium/spells/gentle-repose.md), [hold person](/compendium/spells/hold-person.md)
 
-**3rd level (2 3rd-level slots)**: animate dead, create food and water
+**3rd level (2 3rd-level slots)**: [animate dead](/compendium/spells/animate-dead.md), [create food and water](/compendium/spells/create-food-and-water.md)
 
 ## Actions
 

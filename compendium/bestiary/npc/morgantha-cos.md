@@ -62,9 +62,9 @@ Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haun
 
 ***Innate Spellcasting.*** Morgantha's innate spellcasting ability is Charisma (spell save DC 14, `dice: d20+6` (+6 to hit) with spell attacks). She can innately cast the following spells, requiring no material components:
 
-**At will**: detect magic, magic missile
+**At will**: [detect magic](/compendium/spells/detect-magic.md), [magic missile](/compendium/spells/magic-missile.md)
 
-**2/day each**: plane shift (self only), ray of enfeeblement, sleep
+**2/day each**: [plane shift](/compendium/spells/plane-shift.md) (self only), [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md), [sleep](/compendium/spells/sleep.md)
 
 ## Actions
 
@@ -74,7 +74,7 @@ Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haun
 
 ***Etherealness.*** Morgantha magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, Morgantha must have a heartstone in her possession.
 
-***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, Morgantha magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (`dice: 1d10|avg` (`1d10`)). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in Morgantha's soul bag. The reduction to the target's hit point maximum lasts until removed by the  greater restoration spell or similar magic.
+***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, Morgantha magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (`dice: 1d10|avg` (`1d10`)). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in Morgantha's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](/compendium/spells/greater-restoration.md) spell or similar magic.
 
 ## _copy
 

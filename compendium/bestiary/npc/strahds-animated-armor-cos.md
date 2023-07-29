@@ -67,7 +67,7 @@ title: Strahd's Animated Armor
 
 The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.
 
-***Antimagic Susceptibility.*** The armor is [incapacitated](compendium/rules/conditions.md#incapacitated) while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](compendium/rules/conditions.md#unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The armor is [incapacitated](compendium/rules/conditions.md#incapacitated) while in the area of an [antimagic field](/compendium/spells/antimagic-field.md). If targeted by [dispel magic](/compendium/spells/dispel-magic.md), the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](compendium/rules/conditions.md#unconscious) for 1 minute.
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 

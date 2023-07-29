@@ -42,7 +42,7 @@ title: Yevgeni Krushkin
 ![](/compendium/bestiary/npc/token/yevgeni-krushkin.png#token)
 *Medium humanoid(human), Neutral*
 
-- **Armor Class** 13 (leather armor)
+- **Armor Class** 13 ([leather armor](/compendium/items/leather-armor.md))
 - **Hit Points** `dice: 3d8 + 3|text(16)` (3d8 + 3) 
 - **Speed** walk 30 ft.
 

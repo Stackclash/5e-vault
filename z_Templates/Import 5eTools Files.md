@@ -41,7 +41,7 @@ async function updateContent(page, content) {
             const newLink = extra ? `[[${path}\\|${extra}]]` : `[[${path}\\|${displayText}]]`
 
             linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
-            if (!dryRun) content = content.replace(oldLink, newLink)
+            content = content.replace(oldLink, newLink)
         })
     }
 
@@ -69,11 +69,11 @@ async function updateContent(page, content) {
             const newLink = extra ? `[[${path}\\|${extra}]]` : `[[${path}\\|${displayText}]]`
 
             linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
-            if (!dryRun) content = content.replace(oldLink, newLink)
+            content = content.replace(oldLink, newLink)
         })
     }
     
-    await this.app.vault.modify(tp.file.find_tfile(page.file.path), content)
+    if (!dryRun) await this.app.vault.modify(tp.file.find_tfile(page.file.path), content)
 }
 
 async function moveFile(page, newLocation) {

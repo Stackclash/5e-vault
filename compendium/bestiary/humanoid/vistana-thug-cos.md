@@ -34,7 +34,7 @@ title: Vistana Thug
 ![](/compendium/bestiary/humanoid/token/vistana-thug.png#token)
 *Medium humanoid(any race), Any Non-Good alignment*
 
-- **Armor Class** 11 (leather armor)
+- **Armor Class** 11 ([leather armor](/compendium/items/leather-armor.md))
 - **Hit Points** `dice: 5d8 + 10|text(32)` (5d8 + 10) 
 - **Speed** walk 30 ft.
 
@@ -71,9 +71,9 @@ title: Vistana Thug
 - The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the chosen item until the curse ends. When this curse ends, the Vistana takes `dice: 5d6|avg` (`5d6`) psychic damage.  
 - The target is [blinded](compendium/rules/conditions.md#blinded), [deafened](compendium/rules/conditions.md#deafened), or both. When this curse ends, the Vistana takes `dice: 5d6|avg` (`5d6`) psychic damage.  
 
-The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect.
+The curse lasts until ended with a [greater restoration](/compendium/spells/greater-restoration.md) spell, a [remove curse](/compendium/spells/remove-curse.md) spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect.
 
-***Evil Eye (Recharges after a Short or Long Rest).*** As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice; spell DC 10), but requires neither somatic nor material components. If the target succeeds on the save, the Vistana is [blinded](compendium/rules/conditions.md#blinded) until the end of the Vistana's next turn.
+***Evil Eye (Recharges after a Short or Long Rest).*** As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the [animal friendship](/compendium/spells/animal-friendship.md), [charm person](/compendium/spells/charm-person.md), or [hold person](/compendium/spells/hold-person.md) spell (Vistana's choice; spell DC 10), but requires neither somatic nor material components. If the target succeeds on the save, the Vistana is [blinded](compendium/rules/conditions.md#blinded) until the end of the Vistana's next turn.
 
 A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours.
 ```

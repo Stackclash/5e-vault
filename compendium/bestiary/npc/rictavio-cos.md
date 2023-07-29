@@ -65,7 +65,7 @@ title: Rictavio
 ![](/compendium/bestiary/npc/token/rictavio.png#token)
 *Medium humanoid(human), Lawful Good*
 
-- **Armor Class** 12 (leather armor)
+- **Armor Class** 12 ([leather armor](/compendium/items/leather-armor.md))
 - **Hit Points** `dice: 14d8 + 14|text(77)` (14d8 + 14) 
 - **Speed** walk 30 ft.
 
@@ -82,23 +82,23 @@ title: Rictavio
 
 ## Traits
 
-***Special Equipment.*** In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.
+***Special Equipment.*** In addition to his sword cane, Rictavio wears a [hat of disguise](/compendium/items/hat-of-disguise.md) and a [ring of mind shielding](/compendium/items/ring-of-mind-shielding.md), and he carries a [spell scroll](/compendium/items/spell-scroll-5th-level.md) of [raise dead](/compendium/spells/raise-dead.md).
 
 ***Undead Slayer.*** When Rictavio hits an undead with a weapon attack, the undead takes an extra 10 (`dice: 3d6|avg` (`3d6`)) damage of the weapon's type.
 
 ***Spellcasting.*** Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, `dice: d20+7` (+7 to hit) with spell attacks). Rictavio has the following cleric spells prepared:
 
-**Cantrips (at will)**: guidance, light, mending, thaumaturgy
+**Cantrips (at will)**: [guidance](/compendium/spells/guidance.md), [light](/compendium/spells/light.md), [mending](/compendium/spells/mending.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
 
-**1st level (4 1st-level slots)**: cure wounds, detect evil and good, protection from evil and good, sanctuary
+**1st level (4 1st-level slots)**: [cure wounds](/compendium/spells/cure-wounds.md), [detect evil and good](/compendium/spells/detect-evil-and-good.md), [protection from evil and good](/compendium/spells/protection-from-evil-and-good.md), [sanctuary](/compendium/spells/sanctuary.md)
 
-**2nd level (3 2nd-level slots)**: augury, lesser restoration, protection from poison
+**2nd level (3 2nd-level slots)**: [augury](/compendium/spells/augury.md), [lesser restoration](/compendium/spells/lesser-restoration.md), [protection from poison](/compendium/spells/protection-from-poison.md)
 
-**3rd level (3 3rd-level slots)**: magic circle, remove curse, speak with dead
+**3rd level (3 3rd-level slots)**: [magic circle](/compendium/spells/magic-circle.md), [remove curse](/compendium/spells/remove-curse.md), [speak with dead](/compendium/spells/speak-with-dead.md)
 
-**4th level (3 4th-level slots)**: death ward, freedom of movement
+**4th level (3 4th-level slots)**: [death ward](/compendium/spells/death-ward.md), [freedom of movement](/compendium/spells/freedom-of-movement.md)
 
-**5th level (1 5th-level slots)**: dispel evil and good
+**5th level (1 5th-level slots)**: [dispel evil and good](/compendium/spells/dispel-evil-and-good.md)
 
 ## Actions
 

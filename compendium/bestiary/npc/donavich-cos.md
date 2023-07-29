@@ -51,9 +51,9 @@ title: Donavich
 
 ***Spellcasting.*** Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `dice: d20+4` (+4 to hit) with spell attacks). Donavich has following cleric spells prepared:
 
-**Cantrips (at will)**: light, sacred flame, thaumaturgy
+**Cantrips (at will)**: [light](/compendium/spells/light.md), [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)
 
-**1st level (3 1st-level slots)**: bless, cure wounds, sanctuary
+**1st level (3 1st-level slots)**: [bless](/compendium/spells/bless.md), [cure wounds](/compendium/spells/cure-wounds.md), [sanctuary](/compendium/spells/sanctuary.md)
 
 ## Actions
 

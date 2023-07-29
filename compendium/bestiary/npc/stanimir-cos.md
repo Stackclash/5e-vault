@@ -34,7 +34,7 @@ title: Stanimir
 ![](/compendium/bestiary/npc/token/stanimir.png#token)
 *Medium humanoid(human), Chaotic Neutral*
 
-- **Armor Class** 12 (15 with mage armor)
+- **Armor Class** 12 (15 with [mage armor](/compendium/spells/mage-armor.md))
 - **Hit Points** `dice: 9d8|text(40)` (9d8) 
 - **Speed** walk 30 ft.
 
@@ -51,17 +51,17 @@ title: Stanimir
 
 ***Spellcasting.*** Stanimir is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, `dice: d20+6` (+6 to hit) with spell attacks). Stanimir has the following wizard spells prepared:
 
-**Cantrips (at will)**: friends, light, mage hand, prestidigitation
+**Cantrips (at will)**: [friends](/compendium/spells/friends.md), [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)
 
-**1st level (4 1st-level slots)**: charm person, mage armor, shield, sleep
+**1st level (4 1st-level slots)**: [charm person](/compendium/spells/charm-person.md), [mage armor](/compendium/spells/mage-armor.md), [shield](/compendium/spells/shield.md), [sleep](/compendium/spells/sleep.md)
 
-**2nd level (3 2nd-level slots)**: misty step, suggestion
+**2nd level (3 2nd-level slots)**: [misty step](/compendium/spells/misty-step.md), [suggestion](/compendium/spells/suggestion.md)
 
-**3rd level (3 3rd-level slots)**: bestow curse, phantom steed, vampiric touch
+**3rd level (3 3rd-level slots)**: [bestow curse](/compendium/spells/bestow-curse.md), [phantom steed](/compendium/spells/phantom-steed.md), [vampiric touch](/compendium/spells/vampiric-touch.md)
 
-**4th level (3 4th-level slots)**: greater invisibility, stoneskin
+**4th level (3 4th-level slots)**: [greater invisibility](/compendium/spells/greater-invisibility.md), [stoneskin](/compendium/spells/stoneskin.md)
 
-**5th level (1 5th-level slots)**: dominate person
+**5th level (1 5th-level slots)**: [dominate person](/compendium/spells/dominate-person.md)
 
 ## Actions
 

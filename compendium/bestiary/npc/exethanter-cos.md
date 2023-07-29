@@ -61,7 +61,7 @@ title: Exethanter
 
 ***Spellcasting.*** Exethanter is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, `dice: d20+12` (+12 to hit) with spell attacks). Exethanter has the following wizard spells prepared:
 
-**Cantrips (at will)**: mage hand, prestidigitation, ray of frost
+**Cantrips (at will)**: [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md), [ray of frost](/compendium/spells/ray-of-frost.md)
 
 ## Actions
 
