@@ -30,7 +30,7 @@ if(dryRun) {
 }
 
 async function updateContent(page, content) {
-    let matches = [...content.matchAll(/\[([\w\s'\.]+?)\]\(([\w\s\/\.\-\#%\d]+)\s*?(.*?)\)/g)]
+    let matches = [...content.matchAll(/\[([\w\s'\.\(\)]+?)\]\(([\w\/\.\-\#%\d]+)\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
@@ -57,6 +57,22 @@ async function updateContent(page, content) {
             linkChanges += `| ${oldFunction.replace('|', '\\|').replaceAll('`', '')} | ${newFunction.replaceAll('`', '')} |\n`
         })
     }
+    
+    matches = [...content.matchAll(/\[([\w\s’\.\(\)]+?)\]\(([\w\s\/\.\-\#%\d]+)\s”([\w\d:&\s]+)”\)/g)]
+    if (matches.length > 0) {
+
+        matches.forEach((link) => {
+            const oldLink = link[0]
+            const displayText = link[1]
+            const path = link[2].replace(/(\s+)/g, ‘\\$1’).replace(‘%20’, ‘\ ‘)
+            const extra = link[3]
+            const newLink = extra ? `[[${path}\\|${extra}]]` : `[[${path}\\|${displayText}]]`
+
+            linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
+            if (!dryRun) content = content.replace(oldLink, newLink)
+        })
+    }
+    
     await this.app.vault.modify(tp.file.find_tfile(page.file.path), content)
 }
 
