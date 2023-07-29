@@ -30,7 +30,7 @@ if(dryRun) {
 }
 
 async function updateContent(page, content) {
-    let matches = [...content.matchAll(/\[([\w\s'\.]+?)\]\(([\w\s\/\.\-\#%]+)\s*?(.*?)\)/g)]
+    let matches = [...content.matchAll(/\[([\w\s'\.]+?)\]\(([\w\s\/\.\-\#%\d]+)\s*?(.*?)\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
@@ -91,14 +91,18 @@ const rulesPages = dv.pages('"' + currentRulesPath + '"')
 
 const allPages = compendiumPages.concat(rulesPages)
 
+console.log('Pages')
 for (let x = 0; x < allPages.length; x++) {
     await processFile(allPages[x], newCompendiumPath)
 }
 
+console.log('Books')
 const booksPages = dv.pages('"' + "compendium/books" + '"')
 for (let x = 0; x < booksPages.length; x++) {
     await processFile(booksPages[x], newBooksPath)
 }
+
+console.log('Adventures')
 const adventuresPages = dv.pages('"' + "compendium/adventures" + '"')
 for (let x = 0; x < adventuresPages.length; x++) {
     await processFile(adventuresPages[x], newAdventuresPath)

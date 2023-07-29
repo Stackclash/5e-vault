@@ -1,0 +1,97 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/mm
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
+statblock: true
+statblock-link: "#^statblock"
+name: Cult Fanatic
+ac: 13
+hp: 33
+hit_dice: 6d8 + 6
+cr: '2'
+stats: [
+  11,
+  14,
+  12,
+  10,
+  13,
+  14
+]
+source: [
+  MM,
+  CoS,
+  PotA,
+  RoT,
+  SKT,
+  TftYP,
+  ToA,
+  WDH,
+  WDMM,
+  GoS,
+  DC,
+  DIP,
+  SLW,
+  BGDIA,
+  IMR,
+  EGW,
+  MOT,
+  IDRotF,
+  TCE,
+  CM,
+  CRCotN,
+  JttRC,
+  LoX,
+  KftGV
+]
+aliases: ["Cult Fanatic"]
+---
+# Cult Fanatic
+*Source: Monster Manual p. 345, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Light of Xaryxis, Keys from the Golden Vault*  
+
+```ad-statblock
+title: Cult Fanatic
+![](/compendium/bestiary/humanoid/token/cult-fanatic.png#token)
+*Medium humanoid(any race), Any Non-Good alignment*
+
+- **Armor Class** 13 (leather armor)
+- **Hit Points** `dice: 6d8 + 6|text(33)` (6d8 + 6) 
+- **Speed** walk 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** Deception +4, Persuasion +4, Religion +2
+- **Senses** passive Perception 11
+- **Languages** any one language (usually Common)
+- **Challenge** 2
+
+## Traits
+
+***Dark Devotion.*** The fanatic has advantage on saving throws against being [[compendium/rules/conditions.md#charmed\|charmed]] or [[compendium/rules/conditions.md#frightened\|frightened]].
+
+***Spellcasting.*** The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, `dice: d20+3` (+3 to hit) with spell attacks). The fanatic has the following cleric spells prepared:
+
+**Cantrips (at will)**: light, sacred flame, thaumaturgy
+
+**1st level (4 1st-level slots)**: command, inflict wounds, shield of faith
+
+**2nd level (3 2nd-level slots)**: hold person, spiritual weapon
+
+## Actions
+
+***Multiattack.*** The fanatic makes two melee attacks.
+
+***Dagger.*** *Melee or Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft. or range 20/60 ft., one creature. Hit: `dice: 1d4 + 2\|avg` (`1d4 + 2`) piercing damage.
+```
+^statblock
+
+## Environment
+
+urban

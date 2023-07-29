@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8ebdb74f14fb6db",
+            "id": "1b899bcf45ac2789",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Importing 5eTools Data.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Importing 5eTools Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Importing 5eTools Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Importing 5eTools Data.md"
+              }
             }
           },
           {
@@ -169,53 +177,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ebdb74f14fb6db",
+  "active": "1b899bcf45ac2789",
   "lastOpenFiles": [
-    "6. Mechanics/Items/Trinket (COS).md",
-    "6. Mechanics/Items/Items.md",
-    "6. Mechanics/Tables/Bonds.md",
-    "5. World Almanac/5e Modules/Adventures/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "Tome Of Strahd.md",
-    "5. World Almanac/5e Modules/Adventures/Curse Of Strahd/02 Introduction.md",
-    "5. World Almanac/5e Modules/Adventures/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
-    "Importing 5eTools Data.md",
+    "compendium/bestiary/npc/token/stanimir.png",
+    "compendium/bestiary/npc/token/sir-godfrey-gwilym.png",
+    "compendium/bestiary/npc/token/rosavalda-rose-durst.png",
+    "compendium/bestiary/npc/token/patrina-velikovna.png",
+    "compendium/bestiary/npc/token/otto-belview.png",
+    "compendium/bestiary/npc/token/morgantha.png",
+    "compendium/bestiary/npc/token/mishka-belview.png",
+    "compendium/bestiary/npc/token/marzena-belview.png",
+    "compendium/bestiary/npc/token/majesto.png",
+    "compendium/bestiary/npc/token/mad-mary.png",
+    "compendium/bestiary/npc/token/izek-strazni.png",
+    "compendium/bestiary/npc/the-mad-mage-of-mount-baratok-cos.md",
+    "compendium/bestiary/npc/szoldar-szoldarovich-cos.md",
+    "compendium/bestiary/npc/strahds-animated-armor-cos.md",
+    "compendium/bestiary/npc/stanimir-cos.md",
+    "compendium/bestiary/npc/sir-godfrey-gwilym-cos.md",
+    "compendium/bestiary/npc/sangzor-cos.md",
+    "compendium/bestiary/npc/rictavio-cos.md",
+    "compendium/bestiary/npc/pidlwick-ii-cos.md",
+    "compendium/bestiary/npc/piccolo-cos.md",
+    "compendium/bestiary/npc/otto-belview-cos.md",
+    "compendium/bestiary/npc/npc.md",
+    "compendium/bestiary/npc/nikolai-wachter-cos.md",
+    "compendium/bestiary/npc/morgantha-cos.md",
+    "compendium/bestiary/npc/milivoj-cos.md",
+    "compendium/bestiary/npc/marzena-belview-cos.md",
+    "compendium/bestiary/npc/majesto-cos.md",
+    "compendium/bestiary/npc/lief-lipsiege-cos.md",
+    "compendium/bestiary/npc/lady-fiona-wachter-cos.md",
+    "compendium/bestiary/npc/izek-strazni-cos.md",
+    "compendium/bestiary/npc/ireena-kolyana-cos.md",
+    "compendium/bestiary/npc/helga-ruvak-cos.md",
+    "compendium/bestiary/npc/ezmerelda-davenir-cos.md",
+    "compendium/bestiary/npc/exethanter-cos.md",
+    "compendium/bestiary/npc/escher-cos.md",
+    "compendium/bestiary/npc/donavich-cos.md",
     "5. World Almanac/5e Modules/Adventures/Curse Of Strahd",
     "5. World Almanac/5e Modules/Adventures",
     "6. Mechanics/Rules",
-    "6. Mechanics/Backgrounds",
+    "6. Mechanics/Items",
     "6. Mechanics/Bestiary/Aberration",
     "6. Mechanics/Bestiary/Beast",
     "6. Mechanics/Bestiary/Celestial",
     "6. Mechanics/Bestiary/Construct",
     "6. Mechanics/Bestiary/Dragon",
-    "6. Mechanics/Bestiary/Elemental",
-    "6. Mechanics/Tables/Personality Traits.md",
-    "6. Mechanics/Tables/Flaws.md",
-    "6. Mechanics/Items/Blood Spear (COS).md",
-    "compendium/bestiary/construct/img/amber-golem.png",
-    "compendium/bestiary/construct/img/guardian-portrait.jpg",
-    "compendium/bestiary/aberration/token/nothic.png",
-    "compendium/bestiary/aberration/token/death-slaad.png",
-    "6. Mechanics/Bestiary/Aberration/Nothic.md",
-    "6. Mechanics/Bestiary/Aberration/Death Slaad.md",
-    "6. Mechanics/Bestiary/Aberration/Aberration.md",
-    "compendium/bestiary/npc/img/005-cos02-02.png",
-    "compendium/bestiary/undead/token/poltergeist.png",
-    "compendium/adventures/curse-of-strahd/img/071-cos06-02.png",
-    "compendium/bestiary/npc/img/donavich.png",
-    "compendium/bestiary/humanoid/token/commoner.png",
-    "compendium/bestiary/npc/token/rahadin.png",
-    "6. Mechanics/Bestiary/Dragon/Young Blue Dragon.md",
-    "6. Mechanics/Bestiary/Dragon/Red Dragon Wyrmling.md",
-    "6. Mechanics/Bestiary/Dragon/Dragon.md",
-    "6. Mechanics/Bestiary/Celestial/Deva.md",
-    "6. Mechanics/Bestiary/Celestial/Celestial.md",
-    "6. Mechanics/Bestiary/Monstrosity/Roc.md",
-    "6. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
-    "6. Mechanics/Bestiary/Monstrosity/Mimic.md",
-    "6. Mechanics/Bestiary/Monstrosity/Grick.md",
-    "6. Mechanics/Rules/Item Properties.md",
-    "6. Mechanics/Tables/Ideals.md",
-    "5. World Almanac/5e Modules/Adventures/Curse Of Strahd/25 Poster Map.md"
+    "6. Mechanics/Bestiary/Elemental"
   ]
 }
