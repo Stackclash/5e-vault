@@ -30,13 +30,13 @@ if(dryRun) {
 }
 
 async function updateContent(page, content) {
-    let matches = [...content.matchAll(/\[([\w\s'\.\(\)]+?)\]\(([\w\/\.\-\#%\d]+)\)/g)]
+    let matches = [...content.matchAll(/\[([\w\s,'\.\(\)]+?)\]\(([\w\/\.\-\#%\d]+)\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
             const oldLink = link[0]
             const displayText = link[1]
-            const path = link[2].replace(/(\s+)/g, '\\$1').replace('%20', '\ ')
+            const path = link[2].replace(/(\s+)/g, '\\$1').replaceAll('%20', '\ ')
             const extra = link[3]
             const newLink = extra ? `[[${path}\\|${extra}]]` : `[[${path}\\|${displayText}]]`
 
@@ -58,13 +58,13 @@ async function updateContent(page, content) {
         })
     }
     
-    matches = [...content.matchAll(/\[([\w\s'\.\(\)]+?)\]\(([\w\s\/\.\-\#%\d]+)\s”([\w\d:&\s\.]+)”\)/g)]
+    matches = [...content.matchAll(/\[([\w\s,'\.\(\)]+?)\]\(([\w\s\/\.\-\#%\d]+)\s”([\w\d:&,'\s\.]+)”\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
             const oldLink = link[0]
             const displayText = link[3]
-            const path = link[2].replace(/(\s+)/g, '\\$1').replace('%20', '\ ')
+            const path = link[2].replace(/(\s+)/g, '\\$1').replaceAll('%20', '\ ')
             const newLink = `[[${path}\\|${displayText}]]`
 
             linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
