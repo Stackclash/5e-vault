@@ -172,7 +172,11 @@
   "active": "1b899bcf45ac2789",
   "lastOpenFiles": [
     "Importing 5eTools Data.md",
-    "Importing 5eTools Data.md",
+    "test/dir/hello.md",
+    "test/dir",
+    "test",
+    "test.js",
+    "z_Scripts/import_5etools.js",
     "compendium/tables/personality-traits.md",
     "compendium/tables/names-tiefling.md",
     "compendium/tables/names-human.md",
@@ -206,16 +210,9 @@
     "compendium/bestiary/npc/token/majesto.png",
     "compendium/bestiary/npc/token/mad-mary.png",
     "compendium/bestiary/npc/the-mad-mage-of-mount-baratok-cos.md",
-    "compendium/bestiary/npc/szoldar-szoldarovich-cos.md",
-    "compendium/bestiary/npc/strahds-animated-armor-cos.md",
-    "compendium/bestiary/npc/stanimir-cos.md",
     "5. World Almanac/5e Modules/Adventures/Curse Of Strahd",
     "5. World Almanac/5e Modules/Adventures",
     "6. Mechanics/Rules",
-    "6. Mechanics/Items",
-    "6. Mechanics/Bestiary/Aberration",
-    "6. Mechanics/Bestiary/Beast",
-    "6. Mechanics/Bestiary/Celestial",
-    "6. Mechanics/Bestiary/Construct"
+    "6. Mechanics/Items"
   ]
 }
