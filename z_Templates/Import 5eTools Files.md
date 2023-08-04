@@ -114,14 +114,17 @@ async function processFile(page, newLocation) {
     await moveFile(page)
 }
 
+let query = ''
+
 for(const [key, value] of Object.entries(newLocations)) {
+    query += ` AND !"${key}"`
     const pages = dv.pages(`"${key}"`)
     for (let x = 0; x < pages.length; x++) {
         await processFile(pages[x])
     }
 }
 
-const allOtherPages = dv.pages(`"compendium"`)
+const allOtherPages = dv.pages(`"compendium"${query}`)
 for (let x = 0; x < allOtherPages.length; x++) {
     await processFile(allOtherPages[x])
 }
