@@ -1,0 +1,81 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/mpmm
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
+statblock: true
+statblock-link: "#^statblock"
+name: Eidolon
+ac: 9
+hp: 63
+hit_dice: 18d8 - 18
+cr: '12'
+stats: [
+  7,
+  8,
+  9,
+  14,
+  19,
+  16
+]
+source: [
+  MPMM,
+  MTF
+]
+aliases: ["Eidolon"]
+---
+# Eidolon
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
+
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[/6. Mechanics/Bestiary/Undead/Eidolon (MPMM).md\|eidolon]] plunges into a [[/6. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md\|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+
+```ad-statblock
+title: Eidolon
+![[/6. Mechanics/Bestiary/Undead/Token/eidolon.png#token]]
+*Medium undead, Any alignment*
+
+- **Armor Class** 9 
+- **Hit Points** `dice: 18d8 - 18|text(63)` (18d8 - 18) 
+- **Speed** walk 0 ft., fly 40 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7 (-2)| 8 (-1)| 9 (-1)|14 (+2)|19 (+4)|16 (+3)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Wisdom +8
+- **Skills** Perception +8
+- **Senses** darkvision 60 ft., passive Perception 18
+- **Damage Resistances** acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** cold, necrotic, poison
+- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Languages** the languages it knew in life
+- **Challenge** 12
+
+## Traits
+
+***Incorporeal Movement.*** The eidolon can move through other creatures and objects as if they were difficult terrain. It takes `dice: 1d10\|avg` (`1d10`) force damage if it ends its turn inside an object other than a [[/6. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md\|sacred statue]].
+
+***Sacred Animation (Recharge 5-6).*** When the eidolon moves into a space occupied by a [[/6. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md\|sacred statue]], the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the [[/6. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md\|sacred statue's stat block]] in place of its own.
+
+***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns Undead.
+
+***Unusual Nature.*** The eidolon doesn't require air, food, drink, or sleep.
+
+## Actions
+
+***Divine Dread.*** Each creature within 60 feet of the eidolon that can see it must succeed on a DC 15 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of it for 1 minute. While [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] in this way, the creature must take the Dash action and move away from the eidolon by the safest available route at the start of each of its turns, unless there is nowhere for it to move, in which case the creature also becomes [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until it can move again. A [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any eidolon's Divine Dread for the next 24 hours.
+```
+^statblock
+
+## Environment
+
+coastal, desert, forest, grassland, mountain, urban

@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-item
+tags:
+- compendium/src/5e/dmg
+- item/gear/poison
+- item/property/poison
+aliases: ["Torpor"]
+---
+# Torpor
+*Adventuring Gear, poison*  
+
+- **Properties**: [[6. Mechanics/Rules/item-properties.md#Poison\|Poison]]
+- **Cost**: 600 gp
+- **Weight**: ⏤
+
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for `dice: 4d6\|avg` (`4d6`) hours. The [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] creature is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+
+*Source: Dungeon Master's Guide p. 258*

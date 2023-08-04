@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-feat
+tags:
+- compendium/src/5e/xge
+aliases: ["Squat Nimbleness"]
+---
+# Squat Nimbleness
+*Source: Xanathar's Guide to Everything p. 75*  
+
+***Prerequisites*** Dwarf, small race
+
+You are uncommonly nimble for your race. You gain the following benefits:
+
+- Increase your walking speed by 5 feet.  
+- You gain proficiency in the [[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]] or [[6. Mechanics/Rules/skills.md#Athletics\|Athletics]] skill (your choice).  
+- You have advantage on any Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check you make to escape from being [[6. Mechanics/Rules/conditions.md#grappled\|grappled]].

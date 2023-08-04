@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "33862b3b89cabc23",
+        "id": "4d163d1bb804b185",
         "type": "tabs",
         "children": [
           {
-            "id": "273f5e924d9d641d",
+            "id": "122f6c43bf7d521b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d1dea1ef839c9c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Mechanics/Tables/Gems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Mechanics/Tables/Gems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Mechanics/Tables/Gems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. Mechanics/Tables/Gems.md"
+              }
             }
           },
           {
@@ -169,51 +186,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "273f5e924d9d641d",
+  "active": "d1dea1ef839c9c1b",
   "lastOpenFiles": [
-    "Importing 5eTools Data.md",
-    "6. Mechanics/Bestiary/Humanoid/assassin.md",
-    "6. Mechanics/Bestiary/Humanoid",
-    "6. Mechanics/Bestiary",
-    "compendium/items/items.md",
-    "test/dir/hello.md",
-    "test/dir",
-    "test",
-    "test.js",
-    "z_Scripts/import_5etools.js",
-    "compendium/tables/personality-traits.md",
-    "compendium/tables/names-tiefling.md",
-    "compendium/tables/names-human.md",
-    "compendium/tables/names-halfling.md",
-    "compendium/tables/names-half-orc.md",
-    "compendium/tables/names-gnome.md",
-    "compendium/tables/names-gith.md",
-    "compendium/tables/names-elf.md",
-    "compendium/tables/names-dwarf.md",
-    "compendium/tables/names-dragonborn.md",
-    "compendium/tables/magic-item-tables.md",
-    "compendium/tables/ideals.md",
-    "compendium/tables/gems.md",
-    "compendium/tables/flaws.md",
-    "compendium/tables/bonds.md",
-    "compendium/tables/art-objects.md",
-    "compendium/spells/zone-of-truth.md",
-    "compendium/spells/zephyr-strike-xge.md",
-    "compendium/spells/wrathful-smite.md",
-    "compendium/spells/wrath-of-nature-xge.md",
-    "6. Mechanics/Spells",
-    "6. Mechanics/Tables",
-    "compendium/bestiary/npc/token/stanimir.png",
-    "compendium/bestiary/npc/token/sir-godfrey-gwilym.png",
-    "compendium/bestiary/npc/token/rosavalda-rose-durst.png",
-    "compendium/bestiary/npc/token/patrina-velikovna.png",
-    "compendium/bestiary/npc/token/otto-belview.png",
-    "compendium/bestiary/npc/token/morgantha.png",
-    "compendium/bestiary/npc/token/mishka-belview.png",
-    "compendium/bestiary/npc/token/marzena-belview.png",
-    "compendium/bestiary/npc/token/majesto.png",
-    "compendium/bestiary/npc/token/mad-mary.png",
-    "5. World Almanac/5e Modules/Adventures/Curse Of Strahd",
-    "5. World Almanac/5e Modules/Adventures"
+    "6. Mechanics/Tables/Flaws.md",
+    "6. Mechanics/Tables/Bonds.md",
+    "6. Mechanics/Tables/Art Objects.md",
+    "6. Mechanics/Backgrounds/Backgrounds.md",
+    "6. Mechanics/Races/Races.md",
+    "6. Mechanics/Spells/Spells.md",
+    "6. Mechanics/Rules/Variant Rules/Facing.md",
+    "6. Mechanics/Items/Items.md",
+    "6. Mechanics/Deities/Deities.md",
+    "6. Mechanics/Deities/img/scag-symbol-of-helm.jpg",
+    "6. Mechanics/Deities/img/scag-symbol-of-gond.jpg",
+    "6. Mechanics/Deities/img/scag-symbol-of-eldath.jpg",
+    "6. Mechanics/Deities/img/erlw-the-sovereign-host.png",
+    "6. Mechanics/Deities/Celtic Manannan Mac Lir.md",
+    "6. Mechanics/Deities/Celtic Goibhniu.md",
+    "6. Mechanics/Deities/Celtic Dunatis.md",
+    "6. Mechanics/Deities/Celtic Diancecht.md",
+    "6. Mechanics/Deities/Celtic Brigantia.md",
+    "6. Mechanics/Deities/Celtic Belenus.md",
+    "6. Mechanics/Bestiary/Undead/Undead.md",
+    "6. Mechanics/Bestiary/Undead/Alhoon (MPMM).md",
+    "6. Mechanics/Bestiary/Undead/Adult Red Dracolich (TCE).md",
+    "6. Mechanics/Bestiary/Plant/Plant.md",
+    "6. Mechanics/Bestiary/Plant/Gas Spore.md",
+    "6. Mechanics/Bestiary/Plant/Awakened Shrub.md",
+    "6. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
+    "6. Mechanics/Bestiary/Monstrosity/Adult Kruthik (MPMM).md",
+    "6. Mechanics/Bestiary/Humanoid/Humanoid.md",
+    "6. Mechanics/Bestiary/Humanoid/Bard (MPMM).md",
+    "6. Mechanics/Bestiary/Humanoid/Bandit Captain.md",
+    "6. Mechanics/Bestiary/Aberration",
+    "6. Mechanics/Bestiary/Beast",
+    "6. Mechanics/Bestiary/Celestial",
+    "6. Mechanics/Bestiary/Construct",
+    "6. Mechanics/Bestiary/Dragon",
+    "6. Mechanics/Bestiary/Elemental",
+    "6. Mechanics/Bestiary/Fey",
+    "6. Mechanics/Bestiary/Fiend",
+    "6. Mechanics/Bestiary/Giant",
+    "6. Mechanics/Backgrounds",
+    "6. Mechanics/Bestiary/Npc/token/stanimir.png",
+    "6. Mechanics/Bestiary/Npc/token/sir-godfrey-gwilym.png",
+    "6. Mechanics/Bestiary/Npc/token/rosavalda-rose-durst.png",
+    "6. Mechanics/Bestiary/Npc/token/patrina-velikovna.png",
+    "6. Mechanics/Bestiary/Npc/token/otto-belview.png",
+    "6. Mechanics/Bestiary/Npc/token/morgantha.png"
   ]
 }

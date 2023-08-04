@@ -1,0 +1,57 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-note
+---
+# Index of Aberration
+
+- [Aberrant Spirit (4th-level Spell)](aberrant-spirit-4th-level-spell-tce.md)
+- [Aberrant Spirit (5th-level Spell)](aberrant-spirit-5th-level-spell-tce.md)
+- [Aberrant Spirit (6th-level Spell)](aberrant-spirit-6th-level-spell-tce.md)
+- [Aberrant Spirit (7th-level Spell)](aberrant-spirit-7th-level-spell-tce.md)
+- [Aberrant Spirit (8th-level Spell)](aberrant-spirit-8th-level-spell-tce.md)
+- [Aberrant Spirit (9th-level Spell)](aberrant-spirit-9th-level-spell-tce.md)
+- [[Aboleth.md\|Aboleth]]
+- [[Balhannoth (MPMM).md\|Balhannoth]]
+- [[Beholder.md\|Beholder]]
+- [[Berbalang (MPMM).md\|Berbalang]]
+- [[blue-slaad.md\|Blue Slaad]]
+- [[choker-mpmm.md\|Choker]]
+- [[chuul.md\|Chuul]]
+- [[cloaker.md\|Cloaker]]
+- [[cranium-rat-mpmm.md\|Cranium Rat]]
+- [[death-kiss-mpmm.md\|Death Kiss]]
+- [[death-slaad.md\|Death Slaad]]
+- [[derro-mpmm.md\|Derro]]
+- [[derro-savant-mpmm.md\|Derro Savant]]
+- [[elder-brain-mpmm.md\|Elder Brain]]
+- [[flumph.md\|Flumph]]
+- [[gauth-mpmm.md\|Gauth]]
+- [[gazer-mpmm.md\|Gazer]]
+- [[gibbering-mouther.md\|Gibbering Mouther]]
+- [[gray-slaad.md\|Gray Slaad]]
+- [[greater-star-spawn-emissary-vrgr.md\|Greater Star Spawn Emissary]]
+- [[green-slaad.md\|Green Slaad]]
+- [[Grell.md\|Grell]]
+- [[intellect-devourer.md\|Intellect Devourer]]
+- [[lesser-star-spawn-emissary-vrgr.md\|Lesser Star Spawn Emissary]]
+- [[mind-flayer-arcanist.md\|Mind Flayer Arcanist]]
+- [[mind-flayer-psion-vgm.md\|Mind Flayer Psion]]
+- [[mind-flayer.md\|Mind Flayer]]
+- [[mindwitness-mpmm.md\|Mindwitness]]
+- [[morkoth-mpmm.md\|Morkoth]]
+- [[neogi-hatchling-mpmm.md\|Neogi Hatchling]]
+- [[neogi-master-mpmm.md\|Neogi Master]]
+- [[neogi-mpmm.md\|Neogi]]
+- [[neothelid-mpmm.md\|Neothelid]]
+- [[Nothic.md\|Nothic]]
+- [[Otyugh.md\|Otyugh]]
+- [[red-slaad.md\|Red Slaad]]
+- [[slaad-tadpole.md\|Slaad Tadpole]]
+- [[Spectator.md\|Spectator]]
+- [[star-spawn-grue-mpmm.md\|Star Spawn Grue]]
+- [[star-spawn-hulk-mpmm.md\|Star Spawn Hulk]]
+- [[star-spawn-larva-mage-mpmm.md\|Star Spawn Larva Mage]]
+- [[star-spawn-mangler-mpmm.md\|Star Spawn Mangler]]
+- [[star-spawn-seer-mpmm.md\|Star Spawn Seer]]
+- [[swarm-of-cranium-rats-mpmm.md\|Swarm of Cranium Rats]]
+- [[ulitharid-mpmm.md\|Ulitharid]]

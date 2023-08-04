@@ -8,6 +8,7 @@ const dv = app.plugins.plugins.dataview.api
 <!-- Handle moving img folder over -->
 const dryRun = false
 const limit = 1000
+const vaultRootPath = 'D:\\Projects\\Personal\\5e-vault'
 const newCompendiumLocation = '6. Mechanics'
 const newLocations = {
     'compendium/books': '5. World Almanac/books',
@@ -28,25 +29,30 @@ if(dryRun) {
 }
 
 function getNewFileName(fileName) {
-    return fileName.replaceAll(/([\/\-])([a-z])/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase()).replace(/\s(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => ' (' + source.toUpperCase() + ')')
+    return fileName.replaceAll(/([\/\-])([a-z])/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase()).replace(/\s(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => ' (' + source.toUpperCase() + ')').replace(/^(\w)/, (all, letter) => letter.toUpperCase()).replaceAll('%20', '\ ')
 }
 
-function getNewPath(page) {
-    <!-- replace(/(\s+)/g, '\\$1') -->
-    let pagePath = page.file.folder.replaceAll('%20', '\ ').replace(/(\s+)/g, '\\$1').replace(/^(\w)/, (all, letter) => letter.toUpperCase())
+function getNewPath(path) {
+    <!-- .replaceAll(/(\s+)/g, '\\$1') -->
+    let pagePath = path
 
     for(const [key, value] of Object.entries(newLocations)) {
         pagePath = pagePath.replace(key, value)
     }
     pagePath = pagePath.replace('compendium', newCompendiumLocation)
 
-    return pagePath.replaceAll(/([\/\-])([a-z])/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
+    pagePath = pagePath.replaceAll('%20', '\ ').replace(/^(\w)/, (all, letter) => letter.toUpperCase())
+
+    return pagePath.replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
 }
 
 function getNewFilePath(path) {
+    const pageInfo = path.match(/([\w\s\d\/\.\-%\d]*?)([\w\s\d\-%\d\.]+)$/)
+    const filePath = pageInfo[1]
+    const fileName = pageInfo[2]
     const dvPage = dv.page(`${path}`)
 
-    return dvPage ? `${getNewPath(dvPage)}/${getNewFileName(dvPage.file.name)}.${dvPage.file.ext}` : path
+    return `${getNewPath(filePath)}${(dvPage ? `${getNewFileName(dvPage.file.name)}.${dvPage.file.ext}` : fileName)}`
 }
 
 async function updateContent(page, content) {
@@ -91,13 +97,13 @@ async function updateContent(page, content) {
 async function moveFile(page) {
     const oldFilePath = page.file.path
     const newFilePath = getNewFilePath(page.file.path)
-    const newFolderPath = getNewPath(page)
+    const newFolderPath = getNewPath(page.file.folder)
     isIndex = oldFilePath.includes(`${page.file.name}/${page.file.name}`) ? true : false
 
     fileMoves += `| ${oldFilePath} | ${isIndex ? 'Created Index File' : newFilePath} |\n`
     if (!dryRun) {
-        if (!await tp.file.exists(newFolderPath)) await this.app.vault.createFolder(newFolderPath)
-        await this.app.fileManager.renameFile(tp.file.find_tfile(oldFilePath), newFilePath)
+        if (!await tp.file.exists(newFolderPath)) fs.mkdirSync(path.join(vaultRootPath, newFolderPath), {recursive: true})
+        fs.renameSync(path.join(vaultRootPath, oldFilePath), path.join(vaultRootPath, newFilePath))
 
         if (isIndex) this.app.vault.modify(tp.file.find_tfile(newFilePath), `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``)
     }
