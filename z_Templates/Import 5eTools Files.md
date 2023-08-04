@@ -6,12 +6,12 @@ const dv = app.plugins.plugins.dataview.api
 <!-- UPDATE THESE VALUES -->
 
 <!-- Handle moving img folder over -->
-const dryRun = true
-const limit = 10
+const dryRun = false
+const limit = 1000
 const newCompendiumLocation = '6. Mechanics'
 const newLocations = {
-    'compendium/books': '5. World Almanac',
-    'compendium/adventures': '5. World Almanac'
+    'compendium/books': '5. World Almanac/books',
+    'compendium/adventures': '5. World Almanac/5e Modules'
 }
 
 let count = 0
@@ -33,14 +33,13 @@ function getNewFileName(fileName) {
 
 function getNewPath(page) {
     <!-- replace(/(\s+)/g, '\\$1') -->
-    let pagePath = page.file.folder.replaceAll('%20', '\ ').replace(/(\s+)/g, '\\$1')
+    let pagePath = page.file.folder.replaceAll('%20', '\ ').replace(/(\s+)/g, '\\$1').replace(/^(\w)/, (all, letter) => letter.toUpperCase())
 
     for(const [key, value] of Object.entries(newLocations)) {
         pagePath = pagePath.replace(key, value)
     }
     pagePath = pagePath.replace('compendium', newCompendiumLocation)
 
-    <!-- Problem is here -->
     return pagePath.replaceAll(/([\/\-])([a-z])/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
 }
 
@@ -92,6 +91,7 @@ async function updateContent(page, content) {
 async function moveFile(page) {
     const oldFilePath = page.file.path
     const newFilePath = getNewFilePath(page.file.path)
+    const newFolderPath = getNewPath(page)
     isIndex = oldFilePath.includes(`${page.file.name}/${page.file.name}`) ? true : false
 
     fileMoves += `| ${oldFilePath} | ${isIndex ? 'Created Index File' : newFilePath} |\n`
