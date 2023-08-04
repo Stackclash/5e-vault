@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b899bcf45ac2789",
+            "id": "273f5e924d9d641d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,9 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b899bcf45ac2789",
+  "active": "273f5e924d9d641d",
   "lastOpenFiles": [
     "Importing 5eTools Data.md",
+    "6. Mechanics/Bestiary/Humanoid/assassin.md",
+    "6. Mechanics/Bestiary/Humanoid",
+    "6. Mechanics/Bestiary",
+    "compendium/items/items.md",
     "test/dir/hello.md",
     "test/dir",
     "test",
@@ -209,10 +213,7 @@
     "compendium/bestiary/npc/token/marzena-belview.png",
     "compendium/bestiary/npc/token/majesto.png",
     "compendium/bestiary/npc/token/mad-mary.png",
-    "compendium/bestiary/npc/the-mad-mage-of-mount-baratok-cos.md",
     "5. World Almanac/5e Modules/Adventures/Curse Of Strahd",
-    "5. World Almanac/5e Modules/Adventures",
-    "6. Mechanics/Rules",
-    "6. Mechanics/Items"
+    "5. World Almanac/5e Modules/Adventures"
   ]
 }
