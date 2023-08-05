@@ -102,7 +102,7 @@ async function moveFile(page) {
 
     fileMoves += `| ${oldFilePath} | ${isIndex ? 'Created Index File' : newFilePath} |\n`
     if (!dryRun) {
-        if (!await tp.file.exists(newFolderPath)) fs.mkdirSync(path.join(vaultRootPath, newFolderPath), {recursive: true})
+        if (!fs.existsSync(newFolderPath)) fs.mkdirSync(path.join(vaultRootPath, newFolderPath), {recursive: true})
         fs.renameSync(path.join(vaultRootPath, oldFilePath), path.join(vaultRootPath, newFilePath))
 
         if (isIndex) this.app.vault.modify(tp.file.find_tfile(newFilePath), `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``)
