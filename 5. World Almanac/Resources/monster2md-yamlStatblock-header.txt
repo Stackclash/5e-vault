@@ -8,8 +8,45 @@ tags:
 {/for}
 {/if}
 statblock: true
-statblock-link: "#^statblock"
-{resource.5eStatblockYaml}
+name: {resource.name}
+size: {resource.size}
+type: {resource.fullType}
+alignment: {resource.alignment}
+ac: {#if resource.ac }{resource.ac}{/if}
+hp: {resource.hp}
+hit_dice: {#if resource.hitDice }{resource.hitDice}{/if}
+stats:
+- {resource.scores.str}
+- {resource.scores.dex}
+- {resource.scores.con}
+- {resource.scores.int}
+- {resource.scores.wis}
+- {resource.scores.cha}
+speed: {resource.speed}
+damage_immunities: {resource.immune}
+senses: {resource.senses}, passive Perception {resource.passive}
+languages: {resource.languages}
+traits: {#for trait in resource.trait}
+- name: {trait.name}
+  desc: {trait.desc}{/for}
+actions: {#for action in resource.action}
+- name: {action.name}
+  desc: {action.desc}{/for}
+spells:
+- <description>
+- <spell level>: <spell-list>
+legendary_actions:
+- name: <legendary_actions-name>
+  desc: <legendary_actions-description>
+bonus_actions:
+- name: <trait-name>
+  desc: <trait-description>
+reactions:
+- name: <reaction-name>
+  desc: <reaction-description>
+source:
+- TCE
+image: /compendium/bestiary/aberration/token/aberrant-spirit.pngi
 aliases: ["{resource.name}"]
 ---
 # {resource.name}
