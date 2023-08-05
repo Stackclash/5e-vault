@@ -4,111 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6b460219e9125d8a",
+        "id": "7b44dc28e746407d",
         "type": "tabs",
         "children": [
           {
-            "id": "f20f56d25f2453b3",
+            "id": "932c675bcb144525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Mechanics/Bestiary/Beast/ape.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "202cf0168652d877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Mechanics/Bestiary/Beast/axe-beak.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5277412b3c05d3df",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "obsidianUIMode": "preview",
-                    "cssclass": "json5e-monster",
-                    "tags": [
-                      "compendium/src/5e/mm",
-                      "monster/environment/grassland",
-                      "monster/environment/hill",
-                      "monster/size/large",
-                      "monster/type/beast"
-                    ],
-                    "statblock": true,
-                    "statblock-link": "[Axe Beak](6. Mechanics/Bestiary/Beast/axe-beak.md#^statblock)",
-                    "name": "Axe Beak",
-                    "size": "Large",
-                    "type": "beast",
-                    "alignment": "Unaligned",
-                    "ac": 11,
-                    "hp": 19,
-                    "hit_dice": "3d10 + 3",
-                    "stats": [
-                      14,
-                      12,
-                      12,
-                      2,
-                      10,
-                      5
-                    ],
-                    "speed": "walk 50 ft.",
-                    "senses": "passive Perception 10",
-                    "languages": "",
-                    "cr": "1/4",
-                    "actions": [
-                      {
-                        "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage.",
-                        "name": "Beak"
-                      }
-                    ],
-                    "source": [
-                      "MM",
-                      "SKT",
-                      "ToA",
-                      "WDH",
-                      "GoS",
-                      "IDRotF"
-                    ],
-                    "image": "/compendium/bestiary/beast/token/axe-beak.png",
-                    "aliases": [
-                      "Axe Beak"
-                    ],
-                    "position": {
-                      "start": {
-                        "line": 0,
-                        "col": 0,
-                        "offset": 0
-                      },
-                      "end": {
-                        "line": 43,
-                        "col": 3,
-                        "offset": 904
-                      }
-                    },
-                    "note": "6. Mechanics/Bestiary/Beast/axe-beak.md",
-                    "mtime": 1691211486869
-                  },
-                  1
-                ]
-              ]
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Strahd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Mechanics/Bestiary/Beast/axe-beak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Mechanics/Bestiary/Beast/axe-beak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Mechanics/Bestiary/Beast/axe-beak.md"
-              }
+              "state": {}
             }
           },
           {
@@ -284,40 +187,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83071d1841a289c0",
+  "active": "da6520ec1fb0cefb",
   "lastOpenFiles": [
-    "6. Mechanics/Bestiary/Beast/ape.md",
-    "6. Mechanics/Bestiary/Beast/axe-beak.md",
-    "Untitled.md",
-    "6. Mechanics/Bestiary/Beast/Swarm Of Bats.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/02 Introduction.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
-    "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
-    "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
-    "3. The Party/Curse of Strahd Campaign/Redgrave.md",
-    "3. The Party/Curse of Strahd Campaign/Marin.md",
-    "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
-    "6. Mechanics/Backgrounds/Acolyte.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/20 Appendix B Death House.md",
-    "6. Mechanics/Bestiary/Beast/Beast.md",
-    "6. Mechanics/Bestiary/Beast/Swarm Of Rot Grubs (MPMM).md",
-    "6. Mechanics/Bestiary/Beast/Swarm Of Rats.md",
-    "6. Mechanics/Bestiary/Undead/Undead Spirit Ghostly-3rd Level Spell (TCE).md",
-    "6. Mechanics/Bestiary/Beast/Allosaurus.md",
-    "Campaigns/Eldoria/Locations/Barovia/Barovia.md",
-    "4. Session Journal/Curse of Strahd Campaign/23-06-24 D&D Session 0.md",
-    "4. Session Journal/Curse of Strahd Campaign",
-    "3. The Party/Curse of Strahd Campaign",
-    "Importing 5eTools Data.md",
-    "z_Templates/Import 5eTools Files.md",
-    "Campaigns/Eldoria/NPCs/Ismark Kolyanovich.md",
-    "6. Mechanics/Deities/img/scag-symbol-of-helm.jpg",
-    "6. Mechanics/Deities/img/scag-symbol-of-gond.jpg",
-    "6. Mechanics/Deities/img/scag-symbol-of-eldath.jpg",
-    "6. Mechanics/Deities/img/erlw-the-sovereign-host.png",
+    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
+    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-5th Level Spell (TCE).md",
+    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-7th Level Spell (TCE).md",
+    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-6th Level Spell (TCE).md",
+    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-8th Level Spell (TCE).md",
+    "6. Mechanics/Bestiary/Aberration/Aberration.md",
+    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-9th Level Spell (TCE).md",
+    "6. Mechanics/Bestiary/Aberration/Aboleth.md",
+    "6. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Beholder.md",
+    "6. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Blue Slaad.md",
+    "6. Mechanics/Bestiary/Aberration/Choker (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Chuul.md",
+    "6. Mechanics/Bestiary/Aberration/Cloaker.md",
+    "6. Mechanics/Bestiary/Aberration/Cranium Rat (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Death Kiss (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Death Slaad.md",
+    "6. Mechanics/Bestiary/Aberration/Derro (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Derro Savant (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Flumph.md",
+    "6. Mechanics/Bestiary/Aberration/Gauth (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Gibbering Mouther.md",
+    "6. Mechanics/Bestiary/Aberration/Gazer (MPMM).md",
+    "6. Mechanics/Bestiary/Aberration/Gray Slaad.md",
     "6. Mechanics/Bestiary/Aberration",
     "6. Mechanics/Bestiary/Beast",
     "6. Mechanics/Bestiary/Celestial",
@@ -326,6 +223,12 @@
     "6. Mechanics/Bestiary/Elemental",
     "6. Mechanics/Bestiary/Fey",
     "6. Mechanics/Bestiary/Fiend",
+    "6. Mechanics/Bestiary/Giant",
+    "6. Mechanics/Bestiary/Humanoid",
+    "6. Mechanics/Deities/img/scag-symbol-of-helm.jpg",
+    "6. Mechanics/Deities/img/scag-symbol-of-gond.jpg",
+    "6. Mechanics/Deities/img/scag-symbol-of-eldath.jpg",
+    "6. Mechanics/Deities/img/erlw-the-sovereign-host.png",
     "6. Mechanics/Bestiary/Npc/token/stanimir.png",
     "6. Mechanics/Bestiary/Npc/token/sir-godfrey-gwilym.png",
     "6. Mechanics/Bestiary/Npc/token/rosavalda-rose-durst.png",

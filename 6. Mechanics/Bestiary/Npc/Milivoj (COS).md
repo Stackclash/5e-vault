@@ -1,0 +1,77 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/cos
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/human
+statblock: true
+statblock-link: "#^statblock"
+"name": "Milivoj"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Neutral"
+"ac": !!int "10"
+"hp": !!int "4"
+"hit_dice": "1d8"
+"stats":
+- !!int "15"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+- !!int "10"
+"speed": "walk 30 ft."
+"senses": "passive Perception 10"
+"languages": "any one language (usually Common)"
+"cr": "0"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+  "name": "Shovel"
+"source":
+- "CoS"
+"image": "/compendium/bestiary/npc/token/milivoj.png"
+aliases: ["Milivoj"]
+---
+# Milivoj
+*Source: Curse of Strahd p. 97, Derived from Commoner (MM)*  
+
+```ad-statblock
+title: Milivoj
+![[/6. Mechanics/Bestiary/Npc/Token/milivoj.png#token]]
+*Medium humanoid(human), Neutral*
+
+- **Armor Class** 10 
+- **Hit Points** `dice: 1d8|text(4)` (1d8) 
+- **Speed** walk 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Languages** any one language (usually Common)
+- **Challenge** 0
+
+## Actions
+
+***Shovel.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) bludgeoning damage.
+```
+^statblock
+
+## Environment
+
+arctic, desert, coastal, grassland, hill, urban, forest

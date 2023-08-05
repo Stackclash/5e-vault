@@ -1,0 +1,127 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/vgm
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/humanoid/orc
+statblock: true
+statblock-link: "#^statblock"
+"name": "Orc Claw of Luthic"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "orc"
+"alignment": "Chaotic Evil"
+"ac": !!int "14"
+"hp": !!int "45"
+"hit_dice": "6d8 + 18"
+"stats":
+- !!int "14"
+- !!int "15"
+- !!int "16"
+- !!int "10"
+- !!int "15"
+- !!int "11"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Medicine": !!int "4"
+  "Intimidation": !!int "2"
+  "Survival": !!int "4"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "Common, Orc"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
+    \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The orc has\
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/guidance.md\|guidance]],\
+    \ [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/resistance.md\|resistance]],\
+    \ [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]],\
+    \ [[/6. Mechanics/Spells/guiding-bolt.md\|guiding bolt]]\n\n2nd level (3 2nd-level\
+    \ slots): [[/6. Mechanics/Spells/augury.md\|augury]], [[/6. Mechanics/Spells/warding-bond.md\|warding bond]]\n\
+    \n3rd level (2 3rd-level slots): [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]],\
+    \ [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]]"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+    \ that it can see."
+  "name": "Aggressive"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The orc makes two claw attacks, or four claw attacks if it has fewer than\
+    \ half of its hit points remaining."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage."
+  "name": "Claw"
+"source":
+- "VGM"
+"image": "/compendium/bestiary/humanoid/token/orc-claw-of-luthic.png"
+aliases: ["Orc Claw of Luthic"]
+---
+# Orc Claw of Luthic
+*Source: Volo's Guide to Monsters p. 183*  
+
+To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
+
+Orcs know better. Different groups of orcs exist within a tribe, the actions of each dictated by the deity they pay homage to. To complement the various kinds of warriors that spill forth to ravage the countryside, each tribe has members that remain deep inside the lair, seldom if ever seeing what lies outside the darkness of their den.
+
+In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
+
+## Orc Claw of Luthic
+
+Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
+
+Orc females devoted to Luthic are in charge of fortifying and maintaining an orc stronghold. They help to guarantee the survival of the tribe, and most are skilled in the healing arts. The most powerful among Luthic's disciples are the claws of Luthic, which can use the Cave Mother's magic to heal, protect, and curse.
+
+## Stat Block
+
+```ad-statblock
+title: Orc Claw of Luthic
+![[/6. Mechanics/Bestiary/Humanoid/Token/orc-claw-of-luthic.png#token]]
+*Medium humanoid(orc), Chaotic Evil*
+
+- **Armor Class** 14 ([[/6. Mechanics/Items/hide-armor.md\|hide armor]])
+- **Hit Points** `dice: 6d8 + 18|text(45)` (6d8 + 18) 
+- **Speed** walk 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|11 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** Intimidation +2, Medicine +4, Survival +4
+- **Senses** darkvision 60 ft., passive Perception 12
+- **Languages** Common, Orc
+- **Challenge** 2
+
+## Traits
+
+***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+
+***Spellcasting.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `dice: d20+4` (+4 to hit) with spell attacks). The orc has the following cleric spells prepared:
+
+**Cantrips (at will)**: [[/6. Mechanics/Spells/guidance.md\|guidance]], [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/resistance.md\|resistance]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
+
+**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], [[/6. Mechanics/Spells/guiding-bolt.md\|guiding bolt]]
+
+**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/augury.md\|augury]], [[/6. Mechanics/Spells/warding-bond.md\|warding bond]]
+
+**3rd level (2 3rd-level slots)**: [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]], [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]]
+
+## Actions
+
+***Multiattack.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
+
+***Claw.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 2` (`1d8 + 2`) slashing damage.
+```
+^statblock
+
+## Environment
+
+underdark, mountain

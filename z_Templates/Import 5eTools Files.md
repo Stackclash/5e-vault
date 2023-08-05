@@ -84,8 +84,8 @@ async function updateContent(page, content) {
         matches.forEach((link) => {
             const oldFunction = link[0]
             const diceRoll = link[1]
-            const adjustment = link[2]
-            const newFunction = `\`dice: ${diceRoll}\\|${adjustment}\``
+            const flag = link[2]
+            const newFunction = `\`dice: ${diceRoll}\``
             content = content.replace(oldFunction, newFunction)
             linkChanges += `| ${oldFunction.replace('|', '\\|').replaceAll('`', '')} | ${newFunction.replaceAll('`', '')} |\n`
         })

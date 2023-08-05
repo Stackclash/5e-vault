@@ -164,7 +164,7 @@
     "creatures": [
       {
         "name": "Faerah Duskrane",
-        "initiative": 20,
+        "initiative": 7,
         "static": false,
         "modifier": 3,
         "hp": 17,
@@ -173,7 +173,7 @@
         "currentAC": 14,
         "note": "Faerah Duskrane",
         "path": "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
-        "id": "ID_dbe9c9fbd9ca",
+        "id": "ID_09b9eaf889a9",
         "currentHP": 17,
         "tempHP": 0,
         "status": [],
@@ -186,7 +186,7 @@
       },
       {
         "name": "Marin",
-        "initiative": 1,
+        "initiative": 11,
         "static": false,
         "modifier": -1,
         "hp": 12,
@@ -195,7 +195,7 @@
         "currentAC": 9,
         "note": "Marin",
         "path": "3. The Party/Curse of Strahd Campaign/Marin.md",
-        "id": "ID_2ad83a3819c8",
+        "id": "ID_a8d89a592aaa",
         "currentHP": 12,
         "tempHP": 0,
         "status": [],
@@ -208,7 +208,7 @@
       },
       {
         "name": "Redgrave",
-        "initiative": 12,
+        "initiative": 19,
         "static": false,
         "modifier": -1,
         "hp": 17,
@@ -217,7 +217,7 @@
         "currentAC": 20,
         "note": "Redgrave",
         "path": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
-        "id": "ID_7a3b3bd97a8b",
+        "id": "ID_384b788908f8",
         "currentHP": 17,
         "tempHP": 0,
         "status": [],
@@ -230,7 +230,7 @@
       },
       {
         "name": "Seluvis Felo'melorn",
-        "initiative": 11,
+        "initiative": 9,
         "static": false,
         "modifier": 3,
         "hp": 15,
@@ -239,7 +239,7 @@
         "currentAC": 15,
         "note": "Seluvis Felo'melorn",
         "path": "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
-        "id": "ID_38faaadba978",
+        "id": "ID_ebc90b783a48",
         "currentHP": 15,
         "tempHP": 0,
         "status": [],
@@ -252,7 +252,7 @@
       },
       {
         "name": "Yevelda Ovak",
-        "initiative": 16,
+        "initiative": 13,
         "static": false,
         "modifier": 2,
         "hp": 18,
@@ -261,7 +261,7 @@
         "currentAC": 15,
         "note": "Yevelda Ovak",
         "path": "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
-        "id": "ID_38999aea29f9",
+        "id": "ID_792bcb18ba89",
         "currentHP": 18,
         "tempHP": 0,
         "status": [],
@@ -273,26 +273,26 @@
         "friendly": false
       },
       {
-        "name": "Axe Beak",
-        "initiative": 19,
+        "name": "Strahd von Zarovich",
+        "initiative": 16,
         "static": false,
-        "modifier": 1,
-        "hp": 13,
-        "currentMaxHP": 13,
-        "cr": "1/4",
-        "ac": 11,
-        "currentAC": 11,
-        "note": "6. Mechanics/Bestiary/Beast/axe-beak.md",
-        "id": "ID_2b0b5a98d9bb",
-        "currentHP": 13,
+        "modifier": 4,
+        "hp": 147,
+        "currentMaxHP": 147,
+        "cr": "15",
+        "ac": 16,
+        "currentAC": 16,
+        "note": "6. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md",
+        "id": "ID_ca9afbea39a8",
+        "currentHP": 147,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "statblock-link": "[Axe Beak](6. Mechanics/Bestiary/Beast/axe-beak.md#^statblock)",
-        "hit_dice": "3d10 + 3"
+        "statblock-link": "[Strahd von Zarovich](6. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md#^statblock)",
+        "hit_dice": "17d8 + 68"
       }
     ],
     "state": false,
@@ -325,8 +325,8 @@
   "diplayPlayerHPValues": true,
   "rollHP": true,
   "builder": {
-    "showParty": false,
-    "showXP": false,
+    "showParty": true,
+    "showXP": true,
     "sidebarIcon": true,
     "headers": [
       {
@@ -373,8 +373,10 @@
           ],
           "options": [
             "Medium",
+            "Small",
+            "Huge",
             "Large",
-            "Small"
+            "Tiny"
           ],
           "id": "ID_DEFAULT_SIZE_FILTER",
           "derive": true
@@ -387,7 +389,19 @@
           ],
           "options": [
             "beast",
-            "fiend"
+            "plant",
+            "elemental",
+            "fiend",
+            "humanoid",
+            "dragon",
+            "ooze",
+            "monstrosity",
+            "giant",
+            "construct",
+            "undead",
+            "celestial",
+            "fey",
+            "swarm of Tiny beasts"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -400,8 +414,29 @@
           ],
           "options": [
             "Unaligned",
+            "lawful neutral",
+            "chaotic evil",
+            "any non-lawful alignment",
+            "lawful evil",
+            "any chaotic alignment",
+            "lawful good",
             "unaligned",
-            "neutral evil"
+            "Neutral Good",
+            "Chaotic Evil",
+            "any alignment",
+            "chaotic good",
+            "neutral",
+            "neutral evil",
+            "Neutral",
+            "chaotic neutral",
+            "Lawful Evil",
+            "Neutral Evil",
+            "Any alignment",
+            "Lawful Neutral",
+            "Lawful Good",
+            "Chaotic Good",
+            "Chaotic Neutral",
+            "Any Chaotic alignment"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true

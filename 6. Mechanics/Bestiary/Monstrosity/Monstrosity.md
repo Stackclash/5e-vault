@@ -1,0 +1,114 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-note
+---
+# Index of Monstrosity
+
+- [[Abominable Yeti.md\|Abominable Yeti]]
+- [[Adult Kruthik (MPMM).md\|Adult Kruthik]]
+- [[Androsphinx.md\|Androsphinx]]
+- [[Angry Sorrowsworn (MPMM).md\|Angry Sorrowsworn]]
+- [[Ankheg.md\|Ankheg]]
+- [[Astral Dreadnought (MPMM).md\|Astral Dreadnought]]
+- [[Banderhobb (MPMM).md\|Banderhobb]]
+- [[Basilisk.md\|Basilisk]]
+- [[Behir.md\|Behir]]
+- [[Bulette.md\|Bulette]]
+- [[Carrion Crawler.md\|Carrion Crawler]]
+- [[Carrion Stalker (VRGR).md\|Carrion Stalker]]
+- [[Catoblepas (MPMM).md\|Catoblepas]]
+- [[Cave Fisher (MPMM).md\|Cave Fisher]]
+- [[Centaur.md\|Centaur]]
+- [[Chimera.md\|Chimera]]
+- [[Chitine (MPMM).md\|Chitine]]
+- [[Choldrith (MPMM).md\|Choldrith]]
+- [[Cockatrice.md\|Cockatrice]]
+- [[Darkmantle.md\|Darkmantle]]
+- [[Death Dog.md\|Death Dog]]
+- [[Deep Scion (MPMM).md\|Deep Scion]]
+- [[Displacer Beast.md\|Displacer Beast]]
+- [[Doppelganger.md\|Doppelganger]]
+- [[Drider.md\|Drider]]
+- [[Ettercap.md\|Ettercap]]
+- [[Female Steeder (MPMM).md\|Female Steeder]]
+- [[Froghemoth (MPMM).md\|Froghemoth]]
+- [[Girallon (MPMM).md\|Girallon]]
+- [[Gnoll Flesh Gnawer (MPMM).md\|Gnoll Flesh Gnawer]]
+- [[Gnoll Hunter (MPMM).md\|Gnoll Hunter]]
+- [[Gorgon.md\|Gorgon]]
+- [[Gray Render (MPMM).md\|Gray Render]]
+- [[Gremishka (VRGR).md\|Gremishka]]
+- [[Grick Alpha.md\|Grick Alpha]]
+- [[Grick.md\|Grick]]
+- [[Griffon.md\|Griffon]]
+- [[Guardian Naga.md\|Guardian Naga]]
+- [[Gynosphinx.md\|Gynosphinx]]
+- [[Harpy.md\|Harpy]]
+- [[Hippogriff.md\|Hippogriff]]
+- [[Hook Horror.md\|Hook Horror]]
+- [[Hungry Sorrowsworn (MPMM).md\|Hungry Sorrowsworn]]
+- [[Hydra.md\|Hydra]]
+- [[Juvenile Mimic (TCE).md\|Juvenile Mimic]]
+- [[Kraken Priest (MPMM).md\|Kraken Priest]]
+- [[Kraken.md\|Kraken]]
+- [[Kruthik Hive Lord (MPMM).md\|Kruthik Hive Lord]]
+- [[Lamia.md\|Lamia]]
+- [[Leucrotta (MPMM).md\|Leucrotta]]
+- [[Lonely Sorrowsworn (MPMM).md\|Lonely Sorrowsworn]]
+- [[Lost Sorrowsworn (MPMM).md\|Lost Sorrowsworn]]
+- [[Loup Garou (VRGR).md\|Loup Garou]]
+- [[Male Steeder (MPMM).md\|Male Steeder]]
+- [[Manticore.md\|Manticore]]
+- [[Meazel (MPMM).md\|Meazel]]
+- [[Medusa.md\|Medusa]]
+- [[Merrow.md\|Merrow]]
+- [[Mimic.md\|Mimic]]
+- [[Minotaur.md\|Minotaur]]
+- [[Nagpa (MPMM).md\|Nagpa]]
+- [[Owlbear.md\|Owlbear]]
+- [[Peryton.md\|Peryton]]
+- [[phase-spider.md\|Phase Spider]]
+- [[piercer.md\|Piercer]]
+- [[purple-worm.md\|Purple Worm]]
+- [[remorhaz.md\|Remorhaz]]
+- [[roc.md\|Roc]]
+- [[roper.md\|Roper]]
+- [[rust-monster.md\|Rust Monster]]
+- [[sea-spawn-mpmm.md\|Sea Spawn]]
+- [[shadow-mastiff-alpha-mpmm.md\|Shadow Mastiff Alpha]]
+- [[shadow-mastiff-mpmm.md\|Shadow Mastiff]]
+- [Shadow Spirit (3rd-level Spell)](shadow-spirit-3rd-level-spell-tce.md)
+- [Shadow Spirit (4th-level Spell)](shadow-spirit-4th-level-spell-tce.md)
+- [Shadow Spirit (5th-level Spell)](shadow-spirit-5th-level-spell-tce.md)
+- [Shadow Spirit (6th-level Spell)](shadow-spirit-6th-level-spell-tce.md)
+- [Shadow Spirit (7th-level Spell)](shadow-spirit-7th-level-spell-tce.md)
+- [Shadow Spirit (8th-level Spell)](shadow-spirit-8th-level-spell-tce.md)
+- [Shadow Spirit (9th-level Spell)](shadow-spirit-9th-level-spell-tce.md)
+- [[skulk-mpmm.md\|Skulk]]
+- [[spirit-naga.md\|Spirit Naga]]
+- [[strigoi-vrgr.md\|Strigoi]]
+- [[swarm-of-gremishkas-vrgr.md\|Swarm of Gremishkas]]
+- [[tarrasque.md\|Tarrasque]]
+- [[tlincalli-mpmm.md\|Tlincalli]]
+- [[trapper-mpmm.md\|Trapper]]
+- [[umber-hulk.md\|Umber Hulk]]
+- [[unspeakable-horror-vrgr.md\|Unspeakable Horror]]
+- [[winter-wolf.md\|Winter Wolf]]
+- [[worg.md\|Worg]]
+- [[wretched-sorrowsworn-mpmm.md\|Wretched Sorrowsworn]]
+- [[xvart-mpmm.md\|Xvart]]
+- [[xvart-warlock-of-raxivort-mpmm.md\|Xvart Warlock of Raxivort]]
+- [[yeti.md\|Yeti]]
+- [[young-kruthik-mpmm.md\|Young Kruthik]]
+- [[young-remorhaz.md\|Young Remorhaz]]
+- [Yuan-ti Abomination](yuan-ti-abomination.md)
+- [Yuan-ti Anathema](yuan-ti-anathema-mpmm.md)
+- [Yuan-ti Broodguard](yuan-ti-broodguard-mpmm.md)
+- [Yuan-ti Malison (Type 1)](yuan-ti-malison-type-1.md)
+- [Yuan-ti Malison (Type 2)](yuan-ti-malison-type-2.md)
+- [Yuan-ti Malison (Type 3)](yuan-ti-malison-type-3.md)
+- [Yuan-ti Malison (Type 4)](yuan-ti-malison-type-4-vgm.md)
+- [Yuan-ti Malison (Type 5)](yuan-ti-malison-type-5-vgm.md)
+- [Yuan-ti Mind Whisperer](yuan-ti-mind-whisperer-mpmm.md)
+- [Yuan-ti Nightmare Speaker](yuan-ti-nightmare-speaker-mpmm.md)
+- [Yuan-ti Pit Master](yuan-ti-pit-master-mpmm.md)
