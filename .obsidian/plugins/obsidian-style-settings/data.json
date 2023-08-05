@@ -9,7 +9,7 @@
   "ITS@@sidebar-icon-color-active@@light": "#C24747",
   "ITS@@popover-background@@light": "#C24747",
   "ITS@@vault-name-font-size": 20,
-  "ITS@@background-image": true,
+  "ITS@@background-image": false,
   "ITS@@background-image-url": "url(\"https://bookriot.com/wp-content/uploads/2022/09/basic-dmg-cover-1280x720.png\")",
   "ITS@@hide-resize-handle": true,
   "ITS@@hide-vault-name": true,

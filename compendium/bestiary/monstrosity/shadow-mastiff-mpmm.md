@@ -1,0 +1,113 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/mpmm
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/monstrosity
+statblock: true
+statblock-link: "#^statblock"
+"name": "Shadow Mastiff"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Neutral Evil"
+"ac": !!int "12"
+"hp": !!int "33"
+"hit_dice": "6d8 + 6"
+"stats":
+- !!int "16"
+- !!int "14"
+- !!int "13"
+- !!int "5"
+- !!int "12"
+- !!int "5"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
+"damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
+  \ in dim light or darkness"
+"senses": "darkvision 60 ft., passive Perception 15"
+"languages": ""
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The shadow mastiff can see ethereal creatures and objects."
+  "name": "Ethereal Awareness"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in bright light created by sunlight, the shadow mastiff has disadvantage\
+    \ on attack rolls, ability checks, and saving throws."
+  "name": "Sunlight Weakness"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage. If the target is a creature,\
+    \ it must succeed on a DC 13 Strength saving throw or be knocked [prone](compendium/rules/conditions.md#prone)."
+  "name": "Bite"
+"bonus_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](compendium/rules/conditions.md#invisible),\
+    \ along with anything it is wearing or carrying. The invisibility lasts until\
+    \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
+    \ attacks, is in bright light, or is [incapacitated](compendium/rules/conditions.md#incapacitated)."
+  "name": "Shadow Blend"
+"source":
+- "MPMM"
+- "VGM"
+"image": "/compendium/bestiary/monstrosity/token/shadow-mastiff.png"
+aliases: ["Shadow Mastiff"]
+---
+# Shadow Mastiff
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
+
+Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
+
+## Shadow Mastiffs
+
+Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows, always on the hunt.
+
+## Stat Block
+
+```ad-statblock
+title: Shadow Mastiff
+![](/compendium/bestiary/monstrosity/token/shadow-mastiff.png#token)
+*Medium monstrosity, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** `dice: 6d8 + 6|text(33)` (6d8 + 6) 
+- **Speed** walk 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|13 (+1)| 5 (-3)|12 (+1)| 5 (-3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** Perception +5, Stealth +6
+- **Senses** darkvision 60 ft., passive Perception 15
+- **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks while in dim light or darkness
+- **Languages** —
+- **Challenge** 2
+
+## Traits
+
+***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.
+
+***Sunlight Weakness.*** While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3|avg` (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](compendium/rules/conditions.md#prone).
+
+## Bonus Actions
+
+***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](compendium/rules/conditions.md#invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](compendium/rules/conditions.md#incapacitated).
+```
+^statblock
+
+## Environment
+
+forest, hill, swamp

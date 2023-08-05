@@ -1,7 +1,69 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": "Faerah Duskrane",
+      "path": "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
+      "name": "Faerah Duskrane",
+      "ac": 14,
+      "hp": 17,
+      "level": 2,
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Marin",
+      "path": "3. The Party/Curse of Strahd Campaign/Marin.md",
+      "name": "Marin",
+      "ac": 9,
+      "hp": 12,
+      "level": 2,
+      "modifier": -1,
+      "player": true
+    },
+    {
+      "note": "Redgrave",
+      "path": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
+      "name": "Redgrave",
+      "ac": 20,
+      "hp": 17,
+      "level": 2,
+      "modifier": -1,
+      "player": true
+    },
+    {
+      "note": "Seluvis Felo'melorn",
+      "path": "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
+      "name": "Seluvis Felo'melorn",
+      "ac": 15,
+      "hp": 15,
+      "level": 2,
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Yevelda Ovak",
+      "path": "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
+      "name": "Yevelda Ovak",
+      "ac": 15,
+      "hp": 18,
+      "level": 2,
+      "modifier": 2,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Curse of Strahd",
+      "players": [
+        "Faerah Duskrane",
+        "Marin",
+        "Redgrave",
+        "Seluvis Felo'melorn",
+        "Yevelda Ovak"
+      ]
+    }
+  ],
+  "defaultParty": "Curse of Strahd",
   "statuses": [
     {
       "name": "Blinded",
@@ -94,14 +156,147 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Faerah Duskrane",
+        "initiative": 20,
+        "static": false,
+        "modifier": 3,
+        "hp": 17,
+        "currentMaxHP": 17,
+        "ac": 14,
+        "currentAC": 14,
+        "note": "Faerah Duskrane",
+        "path": "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
+        "id": "ID_dbe9c9fbd9ca",
+        "currentHP": 17,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Marin",
+        "initiative": 1,
+        "static": false,
+        "modifier": -1,
+        "hp": 12,
+        "currentMaxHP": 12,
+        "ac": 9,
+        "currentAC": 9,
+        "note": "Marin",
+        "path": "3. The Party/Curse of Strahd Campaign/Marin.md",
+        "id": "ID_2ad83a3819c8",
+        "currentHP": 12,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Redgrave",
+        "initiative": 12,
+        "static": false,
+        "modifier": -1,
+        "hp": 17,
+        "currentMaxHP": 17,
+        "ac": 20,
+        "currentAC": 20,
+        "note": "Redgrave",
+        "path": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
+        "id": "ID_7a3b3bd97a8b",
+        "currentHP": 17,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Seluvis Felo'melorn",
+        "initiative": 11,
+        "static": false,
+        "modifier": 3,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "ac": 15,
+        "currentAC": 15,
+        "note": "Seluvis Felo'melorn",
+        "path": "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
+        "id": "ID_38faaadba978",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Yevelda Ovak",
+        "initiative": 16,
+        "static": false,
+        "modifier": 2,
+        "hp": 18,
+        "currentMaxHP": 18,
+        "ac": 15,
+        "currentAC": 15,
+        "note": "Yevelda Ovak",
+        "path": "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
+        "id": "ID_38999aea29f9",
+        "currentHP": 18,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Axe Beak",
+        "initiative": 19,
+        "static": false,
+        "modifier": 1,
+        "hp": 13,
+        "currentMaxHP": 13,
+        "cr": "1/4",
+        "ac": 11,
+        "currentAC": 11,
+        "note": "6. Mechanics/Bestiary/Beast/axe-beak.md",
+        "id": "ID_2b0b5a98d9bb",
+        "currentHP": 13,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "statblock-link": "[Axe Beak](6. Mechanics/Bestiary/Beast/axe-beak.md#^statblock)",
+        "hit_dice": "3d10 + 3"
+      }
+    ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -122,16 +317,126 @@
     "builder": true
   },
   "hpOverflow": "ignore",
-  "additiveTemp": false,
-  "rpgSystem": "dnd5e",
-  "logging": false,
-  "logFolder": "/",
+  "additiveTemp": true,
+  "rpgSystem": "dnd5e-lazygm",
+  "logging": true,
+  "logFolder": "2. Scratch Notes",
   "useLegacy": false,
   "diplayPlayerHPValues": true,
-  "rollHP": false,
+  "rollHP": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Medium",
+            "Large",
+            "Small"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "beast",
+            "fiend"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "Unaligned",
+            "unaligned",
+            "neutral evil"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
