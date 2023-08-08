@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf786db1b93ab98",
+        "id": "2c130fafc0a5e769",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d00abab4816568",
+            "id": "b3df4c0154e6d8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. World Almanac/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3604c53572b46a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61df8708edefdcb6",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,22 +110,64 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "f1ee5dd7c60cf8e5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "99b6dbcf3fb60489",
+            "id": "fd9e1bacfcaa5804",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b68fe835c7f2f20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00f4a1718e188c22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "e2121afc7d1fc436",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd9f55d5c66bda9f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -125,15 +187,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4d00abab4816568",
+  "active": "e3604c53572b46a4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "6. Mechanics/Bestiary/Aberration/Aberration.md",
+    "6. Mechanics/Bestiary/Beast/Beast.md",
+    "5. World Almanac/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
     "4. Session Journal/Curse of Strahd Campaign/23-08-05 Session 3.md",
     "4. Session Journal/Curse of Strahd Campaign/23-07-08 Session 1.md",
     "4. Session Journal/Curse of Strahd Campaign/23-06-24 Session 0.md",
@@ -142,7 +207,6 @@
     "6. Mechanics/Bestiary/Undead/Deathlock (MPMM).md",
     "6. Mechanics/Bestiary/Undead/Demilich.md",
     "6. Mechanics/Bestiary/Undead/Undead.md",
-    "6. Mechanics/Bestiary/Aberration/Aberration.md",
     "6. Mechanics/Bestiary/Aberration/Beholder.md",
     "6. Mechanics/Bestiary/Celestial/Celestial.md",
     "6. Mechanics/Bestiary/Celestial/Solar.md",
@@ -157,7 +221,6 @@
     "6. Mechanics/Spells/Abi Dalzims Horrid Wilting (XGE).md",
     "6. Mechanics/Tables/Names Tiefling.md",
     "6. Mechanics/Tables/Personality Traits.md",
-    "6. Mechanics/Tables/Names Dragonborn.md",
     "6. Mechanics/Bestiary/Undead/token/zombie.png",
     "6. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
     "6. Mechanics/Bestiary/Undead/token/zombie-clot.png",
@@ -177,8 +240,6 @@
     "6. Mechanics/Bestiary/Npc/token",
     "6. Mechanics/Bestiary/Npc/img",
     "6. Mechanics/Bestiary/Monstrosity/token",
-    "6. Mechanics/Bestiary/Monstrosity/img",
-    "Importing 5eTools Data.md",
-    "2001-3000.md"
+    "6. Mechanics/Bestiary/Monstrosity/img"
   ]
 }

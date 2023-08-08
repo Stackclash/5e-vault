@@ -2,48 +2,6 @@
 obsidianUIMode: preview
 cssclass: json5e-note
 ---
-# Index of Elemental
-
-- [[Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
-- [[Air Elemental.md|Air Elemental]]
-- [[Azer.md|Azer]]
-- [[Dao.md|Dao]]
-- [[Djinni.md|Djinni]]
-- [[Dust Mephit.md|Dust Mephit]]
-- [[Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
-- [[Earth Elemental.md|Earth Elemental]]
-- [[Efreeti.md|Efreeti]]
-- [[Elder Tempest (MPMM).md|Elder Tempest]]
-- [Elemental Spirit (4th-level Spell)](elemental-spirit-4th-level-spell-tce.md)
-- [Elemental Spirit (5th-level Spell)](elemental-spirit-5th-level-spell-tce.md)
-- [Elemental Spirit (6th-level Spell)](elemental-spirit-6th-level-spell-tce.md)
-- [Elemental Spirit (7th-level Spell)](elemental-spirit-7th-level-spell-tce.md)
-- [Elemental Spirit (8th-level Spell)](elemental-spirit-8th-level-spell-tce.md)
-- [Elemental Spirit (9th-level Spell)](elemental-spirit-9th-level-spell-tce.md)
-- [[Fire Elemental Myrmidon (MPMM).md|Fire Elemental Myrmidon]]
-- [[Fire Elemental.md|Fire Elemental]]
-- [[Fire Snake.md|Fire Snake]]
-- [[Firenewt Warlock Of Imix (MPMM).md|Firenewt Warlock of Imix]]
-- [[Firenewt Warrior (MPMM).md|Firenewt Warrior]]
-- [[Flail Snail (MPMM).md|Flail Snail]]
-- [[Frost Salamander (MPMM).md|Frost Salamander]]
-- [[Galeb Duhr.md|Galeb Duhr]]
-- [[Gargoyle.md|Gargoyle]]
-- [[Giant Strider (MPMM).md|Giant Strider]]
-- [[Ice Mephit.md|Ice Mephit]]
-- [[Invisible Stalker.md|Invisible Stalker]]
-- [[Leviathan (MPMM).md|Leviathan]]
-- [[Magma Mephit.md|Magma Mephit]]
-- [[Magmin.md|Magmin]]
-- [[Marid.md|Marid]]
-- [[Mud Mephit.md|Mud Mephit]]
-- [[Phoenix (MPMM).md|Phoenix]]
-- [[Salamander.md|Salamander]]
-- [[Smoke Mephit.md|Smoke Mephit]]
-- [[Steam Mephit.md|Steam Mephit]]
-- [[Water Elemental Myrmidon (MPMM).md|Water Elemental Myrmidon]]
-- [[Water Elemental.md|Water Elemental]]
-- [[Water Weird.md|Water Weird]]
-- [[Wildfire Spirit (TCE).md|Wildfire Spirit]]
-- [[Xorn.md|Xorn]]
-- [[Zaratan (MPMM).md|Zaratan]]
+```dataview
+LIST FROM "6. Mechanics/Bestiary/Elemental" WHERE file.name != this.file.name
+```

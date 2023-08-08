@@ -2,55 +2,6 @@
 obsidianUIMode: preview
 cssclass: json5e-note
 ---
-# Index of Construct
-
-- [[Amber Golem (COS).md|Amber Golem]]
-- [[Animated Armor.md|Animated Armor]]
-- [[Animated Halberd (COS).md|Animated Halberd]]
-- [[Animated Object Huge.md|Animated Object (Huge)]]
-- [[Animated Object Large.md|Animated Object (Large)]]
-- [[Animated Object Medium.md|Animated Object (Medium)]]
-- [[Animated Object Small.md|Animated Object (Small)]]
-- [[Animated Object Tiny.md|Animated Object (Tiny)]]
-- [[Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
-- [[Cadaver Collector (MPMM).md|Cadaver Collector]]
-- [[Carrionette (VRGR).md|Carrionette]]
-- [[Clay Golem.md|Clay Golem]]
-- [[Clockwork Bronze Scout (MPMM).md|Clockwork Bronze Scout]]
-- [[Clockwork Iron Cobra (MPMM).md|Clockwork Iron Cobra]]
-- [[Clockwork Oaken Bolter (MPMM).md|Clockwork Oaken Bolter]]
-- [[Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
-- [Construct Spirit (4th-level Spell)](construct-spirit-4th-level-spell-tce.md)
-- [Construct Spirit (5th-level Spell)](construct-spirit-5th-level-spell-tce.md)
-- [Construct Spirit (6th-level Spell)](construct-spirit-6th-level-spell-tce.md)
-- [Construct Spirit (7th-level Spell)](construct-spirit-7th-level-spell-tce.md)
-- [Construct Spirit (8th-level Spell)](construct-spirit-8th-level-spell-tce.md)
-- [Construct Spirit (9th-level Spell)](construct-spirit-9th-level-spell-tce.md)
-- [[Dancing Item (TCE).md|Dancing Item]]
-- [[Duergar Hammerer (MPMM).md|Duergar Hammerer]]
-- [[Duergar Screamer (MPMM).md|Duergar Screamer]]
-- [[Duodrone.md|Duodrone]]
-- [[Flesh Golem.md|Flesh Golem]]
-- [[Flying Sword.md|Flying Sword]]
-- [[Guardian Portrait (COS).md|Guardian Portrait]]
-- [[Hellfire Engine (MPMM).md|Hellfire Engine]]
-- [[Helmed Horror.md|Helmed Horror]]
-- [[Homunculus Servant (TCE).md|Homunculus Servant]]
-- [[Homunculus.md|Homunculus]]
-- [[Iron Golem.md|Iron Golem]]
-- [[Marut (MPMM).md|Marut]]
-- [Mighty Servant of Leuk-o](mighty-servant-of-leuk-o-tce.md)
-- [[Monodrone.md|Monodrone]]
-- [[Pentadrone.md|Pentadrone]]
-- [[Quadrone.md|Quadrone]]
-- [[Retriever (MPMM).md|Retriever]]
-- [[Rug Of Smothering.md|Rug of Smothering]]
-- [[Sacred Statue (MPMM).md|Sacred Statue]]
-- [[Scarecrow.md|Scarecrow]]
-- [[Shield Guardian.md|Shield Guardian]]
-- [[Steel Defender (TCE).md|Steel Defender]]
-- [[Steel Predator (MPMM).md|Steel Predator]]
-- [[Stone Cursed (MPMM).md|Stone Cursed]]
-- [[Stone Golem.md|Stone Golem]]
-- [[Tiny Servant (XGE).md|Tiny Servant]]
-- [[Tridrone.md|Tridrone]]
+```dataview
+LIST FROM "6. Mechanics/Bestiary/Construct" WHERE file.name != this.file.name
+```
