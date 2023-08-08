@@ -29,6 +29,6 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Light Domain.md|Cleric (Light Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 255

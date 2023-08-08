@@ -5,82 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Quasit"
-"size": "Tiny"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "7"
-"hit_dice": "3d4"
-"stats":
-- !!int "5"
-- !!int "17"
-- !!int "10"
-- !!int "7"
-- !!int "10"
-- !!int "10"
-"speed": "walk 40 ft."
-"skillsaves":
-  "Stealth": !!int "5"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
-"languages": "Abyssal, Common"
-"cr": "1"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quasit can use its action to polymorph into a beast form that resembles\
-    \ a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad\
-    \ (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same\
-    \ in each form, except for the speed changes noted. Any equipment it is wearing\
-    \ or carrying isn't transformed. It reverts to its true form if it dies."
-  "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quasit has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the target must succeed\
-    \ on a DC 10 Constitution saving throw or take dice: 2d4|avg (2d4) poison\
-    \ damage and become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1\
-    \ minute. The target can repeat the saving throw at the end of each of its turns,\
-    \ ending the effect on itself on a success."
-  "name": "Claw (Bite in Beast Form)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One creature of the quasit's choice within 20 feet of it must succeed on\
-    \ a DC 10 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, with disadvantage if the quasit is within line of sight, ending the effect\
-    \ on itself on a success."
-  "name": "Scare (1/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quasit magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ until it attacks or uses Scare, or until its [[6. Mechanics/Rules/status.md#concentration\|concentration]]\
-    \ ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any equipment the quasit wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Invisibility"
-"source":
-- "MM"
-- "CoS"
-- "TftYP"
-- "WDMM"
-- "BGDIA"
-- "EGW"
-- "TCE"
-- "CM"
-- "WBtW"
-- "CRCotN"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/quasit.png"
-aliases: ["Quasit"]
+statblock: inline
 ---
 # Quasit
 *Source: Monster Manual p. 63, Curse of Strahd, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Keys from the Golden Vault*  
@@ -229,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -258,41 +183,79 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Quasit
-![[/6. Mechanics/Bestiary/Fiend/Token/quasit.png#token]]
-*Tiny fiend(demon), Chaotic Evil*
-
-- **Armor Class** 13 
-- **Hit Points** `dice: 3d4|text(7)` (3d4) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Stealth +5
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Common
-- **Challenge** 1
-
-## Traits
-
-***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Magic Resistance.*** The quasit has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Claw (Bite in Beast Form).*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take `dice: 2d4` (`2d4`) poison damage and become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-***Scare (1/Day).*** One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
-
-***Invisibility.*** The quasit magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] until it attacks or uses Scare, or until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the quasit wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
+```statblock
+"name": "Quasit"
+"size": "Tiny"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "13"
+"hp": !!int "7"
+"hit_dice": "3d4"
+"stats":
+- !!int "5"
+- !!int "17"
+- !!int "10"
+- !!int "7"
+- !!int "10"
+- !!int "10"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Stealth": !!int "5"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "Abyssal, Common"
+"cr": "1"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The quasit can use its action to polymorph into a beast form that resembles\
+    \ a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad\
+    \ (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same\
+    \ in each form, except for the speed changes noted. Any equipment it is wearing\
+    \ or carrying isn't transformed. It reverts to its true form if it dies."
+  "name": "Shapechanger"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The quasit has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the target must succeed\
+    \ on a DC 10 Constitution saving throw or take dice: 2d4|avg (2d4) poison\
+    \ damage and become [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1\
+    \ minute. The target can repeat the saving throw at the end of each of its turns,\
+    \ ending the effect on itself on a success."
+  "name": "Claw (Bite in Beast Form)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "One creature of the quasit's choice within 20 feet of it must succeed on\
+    \ a DC 10 Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, with disadvantage if the quasit is within line of sight, ending the effect\
+    \ on itself on a success."
+  "name": "Scare (1/Day)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The quasit magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks or uses Scare, or until its [[6. Mechanics/Rules/Status.md#concentration|concentration]]\
+    \ ends (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any equipment the quasit wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Invisibility"
+"source":
+- "MM"
+- "CoS"
+- "TftYP"
+- "WDMM"
+- "BGDIA"
+- "EGW"
+- "TCE"
+- "CM"
+- "WBtW"
+- "CRCotN"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/quasit.png"
 ```
 ^statblock

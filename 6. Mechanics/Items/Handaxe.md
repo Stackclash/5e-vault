@@ -13,7 +13,7 @@ aliases: ["Handaxe"]
 
 - **Damage**: 1d6 S
 - **Range**: 20/60
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Light\|Light]], [[6. Mechanics/Rules/item-properties.md#Thrown\|Thrown]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Light|Light]], [[6. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

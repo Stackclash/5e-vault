@@ -23,7 +23,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[/6. Mechanics/Items/scimitar.md\|scimitar]].
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[/6. Mechanics/Items/Scimitar.md|scimitar]].
 
 If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
@@ -31,7 +31,7 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
-- [[/6. Mechanics/Classes/fighter.md#Dueling\|Dueling]]  
+- [[/6. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
 - [Two-Weapon Fighting](/compendium/classes/fighter.md#Two-Weapon%20Fighting)  
 
 ### Blade Flourish (Level 3)
@@ -58,7 +58,7 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 ### Master's Flourish (Level 14)
 
-Starting at 14th level, whenever you use a Blade Flourish option, you can roll a `dice: d6\|avg` (`d6`) and use it instead of expending a Bardic Inspiration die.
+Starting at 14th level, whenever you use a Blade Flourish option, you can roll a `dice: d6` (`d6`) and use it instead of expending a Bardic Inspiration die.
 
 ## Fighting Style
 

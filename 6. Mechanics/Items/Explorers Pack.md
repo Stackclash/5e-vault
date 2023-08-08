@@ -14,13 +14,13 @@ aliases: ["Explorer's Pack"]
 
 Includes:
 
-- a [[/6. Mechanics/Items/Backpack.md\|backpack]]  
-- a [[/6. Mechanics/Items/Bedroll.md\|bedroll]]  
-- a [[/6. Mechanics/Items/mess-kit.md\|mess kit]]  
-- a [[/6. Mechanics/Items/tinderbox.md\|tinderbox]]  
-- 10 [[/6. Mechanics/Items/torch.md\|torches]]  
-- 10 days of [[/6. Mechanics/Items/rations-1-day.md\|rations]]  
-- a [[/6. Mechanics/Items/waterskin.md\|waterskin]]  
-- [[/6. Mechanics/Items/hempen-rope-50-feet.md\|50 feet of hempen rope]]  
+- a [[/6. Mechanics/Items/Backpack.md|backpack]]  
+- a [[/6. Mechanics/Items/Bedroll.md|bedroll]]  
+- a [[/6. Mechanics/Items/Mess Kit.md|mess kit]]  
+- a [[/6. Mechanics/Items/Tinderbox.md|tinderbox]]  
+- 10 [[/6. Mechanics/Items/Torch.md|torches]]  
+- 10 days of [[/6. Mechanics/Items/Rations-1 Day.md|rations]]  
+- a [[/6. Mechanics/Items/Waterskin.md|waterskin]]  
+- [[/6. Mechanics/Items/Hempen Rope-50 Feet.md|50 feet of hempen rope]]  
 
 *Source: Player's Handbook p. 151*

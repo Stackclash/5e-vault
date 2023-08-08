@@ -28,6 +28,6 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 
 Anything inside the extradimensional space drops out when the spell ends.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger Gloom Stalker (XGE).md\|Ranger (Gloom Stalker)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 272

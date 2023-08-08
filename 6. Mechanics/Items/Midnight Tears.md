@@ -10,10 +10,10 @@ aliases: ["Midnight Tears"]
 # Midnight Tears
 *Adventuring Gear, poison*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Poison\|Poison]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Poison|Poison]]
 - **Cost**: 1,500 gp
 - **Weight**: ⏤
 
-A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (`dice: 9d6\|avg` (`9d6`)) poison damage on a failed save, or half as much damage on a successful one.
+A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (`dice: 9d6` (`9d6`)) poison damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 258*

@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Infernal Legacy
 
-You know the [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/6. Mechanics/Spells/hellish-rebuke.md\|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/6. Mechanics/Spells/darkness.md\|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/6. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/6. Mechanics/Spells/Darkness.md|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 
@@ -43,4 +43,4 @@ You can speak, read, and write Common and Infernal.
 
 ### Legacy of Dis
 
-You know the [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/6. Mechanics/Spells/disguise-self.md\|disguise self]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/6. Mechanics/Spells/Disguise Self.md|disguise self]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.

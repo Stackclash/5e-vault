@@ -12,8 +12,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Distended Corpse
+*Source: Curse of Strahd p. 165, Derived from Commoner (MM)*  
+
+```statblock
 "name": "Distended Corpse"
 "size": "Medium"
 "type": "humanoid"
@@ -37,7 +41,7 @@ statblock-link: "#^statblock"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "When a corpse is reduced to 0 hit points, it splits open, disgorging a\
-    \ [[/6. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]].\
+    \ [[/6. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarm of poisonous snakes]].\
     \ The snakes are hungry and fight until slain."
   "name": "Snake-Swollen"
 "actions":
@@ -47,40 +51,7 @@ statblock-link: "#^statblock"
   "name": "Club"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/humanoid/token/distended-corpse.png"
-aliases: ["Distended Corpse"]
----
-# Distended Corpse
-*Source: Curse of Strahd p. 165, Derived from Commoner (MM)*  
-
-```ad-statblock
-title: Distended Corpse
-![[/6. Mechanics/Bestiary/Humanoid/Token/distended-corpse.png#token]]
-*Medium humanoid(any race), Any alignment*
-
-- **Armor Class** 10 
-- **Hit Points** `dice: 1d8|text(4)` (1d8) 
-- **Speed** walk 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Condition Immunities** charmed, frightened
-- **Languages** any one language (usually Common)
-- **Challenge** 0
-
-## Traits
-
-***Snake-Swollen.*** When a corpse is reduced to 0 hit points, it splits open, disgorging a [[/6. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]]. The snakes are hungry and fight until slain.
-
-## Actions
-
-***Club.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d4` (`1d4`) bludgeoning damage.
+"image": "6. Mechanics/Bestiary/Humanoid/token/distended-corpse.png"
 ```
 ^statblock
 

@@ -39,7 +39,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 _9th-level Phantom feature_
 
-When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the [[/6. Mechanics/Items/trinket.md\|Trinkets]] table in the _Player's Handbook_ to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.
+When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the [[/6. Mechanics/Items/Trinket.md|Trinkets]] table in the _Player's Handbook_ to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.
 
 You can use soul trinkets in the following ways:
 
@@ -51,7 +51,7 @@ You can use soul trinkets in the following ways:
 
 _13th-level Phantom feature_
 
-You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take `dice: 1d10\|avg` (`1d10`) force damage if you end your turn inside a creature or an object.
+You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take `dice: 1d10` (`1d10`) force damage if you end your turn inside a creature or an object.
 
 You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.
 

@@ -18,7 +18,7 @@ aliases: ["Goliath"]
 
 ### Little Giant
 
-You have proficiency in the [[6. Mechanics/Rules/skills.md#Athletics\|Athletics]] skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.
+You have proficiency in the [[6. Mechanics/Rules/Skills.md#Athletics|Athletics]] skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.
 
 ### Mountain Born
 
@@ -26,7 +26,7 @@ You have resistance to cold damage. You also naturally acclimate to high altitud
 
 ### Stone's Endurance
 
-You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a `dice: d12\|avg` (`d12`). Add your Constitution modifier to the number rolled and reduce the damage by that total.
+You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a `dice: d12` (`d12`). Add your Constitution modifier to the number rolled and reduce the damage by that total.
 
 You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

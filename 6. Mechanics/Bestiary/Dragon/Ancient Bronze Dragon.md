@@ -6,107 +6,7 @@ tags:
 - monster/environment/coastal
 - monster/size/gargantuan
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Ancient Bronze Dragon"
-"size": "Gargantuan"
-"type": "dragon"
-"alignment": "Lawful Good"
-"ac": !!int "22"
-"hp": !!int "444"
-"hit_dice": "24d20 + 192"
-"stats":
-- !!int "29"
-- !!int "10"
-- !!int "27"
-- !!int "18"
-- !!int "17"
-- !!int "21"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "12"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "10"
-  "Constitution": !!int "15"
-"skillsaves":
-  "Stealth": !!int "7"
-  "Insight": !!int "10"
-  "Perception": !!int "17"
-"damage_immunities": "lightning"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
-"languages": "Common, Draconic"
-"cr": "22"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 9|avg (2d6 + 9) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 9|avg (2d8 + 9) bludgeoning damage."
-  "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
-    \ The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature\
-    \ in that line must make a DC 23 Dexterity saving throw, taking 88 (dice: 16d10|avg\
-    \ (16d10)) lightning damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
-    \ cone. Each creature in that area must succeed on a DC 23 Strength saving throw.\
-    \ On a failed save, the creature is pushed 60 feet away from the dragon.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
-    \ rating no higher than its own, or back into its true form. It reverts to its\
-    \ true form if it dies. Any equipment it is wearing or carrying is absorbed or\
-    \ borne by the new form (the dragon's choice).\n\nIn a new form, the dragon retains\
-    \ its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary\
-    \ Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as\
-    \ well as this action. Its statistics and capabilities are otherwise replaced\
-    \ by those of the new form, except any class features or legendary actions of\
-    \ that form."
-  "name": "Change Shape"
-"legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ check."
-  "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 24 Dexterity saving throw or take dice: 2d6 + 9|avg (2d6\
-    \ + 9) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ The dragon can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
-"source":
-- "MM"
-- "GoS"
-"image": "/compendium/bestiary/dragon/token/ancient-bronze-dragon.png"
-aliases: ["Ancient Bronze Dragon"]
+statblock: inline
 ---
 # Ancient Bronze Dragon
 *Source: Monster Manual p. 107, Ghosts of Saltmarsh*  
@@ -179,84 +79,105 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Ancient Bronze Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/ancient-bronze-dragon.png#token]]
-*Gargantuan dragon, Lawful Good*
-
-- **Armor Class** 22 (natural armor)
-- **Hit Points** `dice: 24d20 + 192|text(444)` (24d20 + 192) 
-- **Speed** walk 40 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Dexterity +7, Constitution +15, Wisdom +10, Charisma +12
-- **Skills** Insight +10, Perception +17, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Damage Immunities** lightning
-- **Languages** Common, Draconic
-- **Challenge** 22
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-## Actions
-
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+16` (+16 to hit), reach 15 ft., one target. Hit: `dice: 2d10 + 9` (`2d10 + 9`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+16` (+16 to hit), reach 10 ft., one target. Hit: `dice: 2d6 + 9` (`2d6 + 9`) slashing damage.
-
-***Tail.*** *Melee Weapon Attack:* `dice: d20+16` (+16 to hit), reach 20 ft., one target. Hit: `dice: 2d8 + 9` (`2d8 + 9`) bludgeoning damage.
-
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (`dice: 16d10` (`16d10`)) lightning damage on a failed save, or half as much damage on a successful one.  
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.  
-
-***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
-
-## Legendary Actions
-
-***Detect.*** The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check.
-
-***Tail Attack.*** The dragon makes a tail attack.
-
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take `dice: 2d6 + 9` (`2d6 + 9`) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. The dragon can then fly up to half its flying speed.
-
-## Additional sources
-
-
-
-## Lair actions
-
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
-
-- The dragon creates fog as though it had cast the [[/6. Mechanics/Spells/fog-cloud.md\|fog cloud]] spell. The fog lasts until initiative count 20 on the next round.  
-- A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take `dice: 1d10` (`1d10`) thunder damage and be [[6. Mechanics/Rules/conditions.md#deafened\|deafened]] until the end of its next turn.  
-
-
-## Regional effects
-
-The region containing a legendary bronze dragon's lair is warped by the dragon's magic.
-
-- Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the [[/6. Mechanics/Spells/control-weather.md\|control weather]] spell.  
-- Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.  
-- Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.  
-
-If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in `dice: 1d10` (`1d10`) days.
-
+```statblock
+"name": "Ancient Bronze Dragon"
+"size": "Gargantuan"
+"type": "dragon"
+"alignment": "Lawful Good"
+"ac": !!int "22"
+"hp": !!int "444"
+"hit_dice": "24d20 + 192"
+"stats":
+- !!int "29"
+- !!int "10"
+- !!int "27"
+- !!int "18"
+- !!int "17"
+- !!int "21"
+"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "12"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "15"
+"skillsaves":
+  "Stealth": !!int "7"
+  "Insight": !!int "10"
+  "Perception": !!int "17"
+"damage_immunities": "lightning"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+"languages": "Common, Draconic"
+"cr": "22"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+  "name": "Legendary Resistance (3/Day)"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+    \ one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
+    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d6 + 9|avg (2d6 + 9) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one target.\
+    \ Hit: dice: 2d8 + 9|avg (2d8 + 9) bludgeoning damage."
+  "name": "Tail"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success. If a creature's saving throw\
+    \ is successful or the effect ends for it, the creature is immune to the dragon's\
+    \ Frightful Presence for the next 24 hours."
+  "name": "Frightful Presence"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
+    \ The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature\
+    \ in that line must make a DC 23 Dexterity saving throw, taking 88 (dice: 16d10|avg\
+    \ (16d10)) lightning damage on a failed save, or half as much damage on a successful\
+    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
+    \ cone. Each creature in that area must succeed on a DC 23 Strength saving throw.\
+    \ On a failed save, the creature is pushed 60 feet away from the dragon.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
+    \ rating no higher than its own, or back into its true form. It reverts to its\
+    \ true form if it dies. Any equipment it is wearing or carrying is absorbed or\
+    \ borne by the new form (the dragon's choice).\n\nIn a new form, the dragon retains\
+    \ its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary\
+    \ Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as\
+    \ well as this action. Its statistics and capabilities are otherwise replaced\
+    \ by those of the new form, except any class features or legendary actions of\
+    \ that form."
+  "name": "Change Shape"
+"legendary_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ check."
+  "name": "Detect"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a tail attack."
+  "name": "Tail Attack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
+    \ must succeed on a DC 24 Dexterity saving throw or take dice: 2d6 + 9|avg (2d6\
+    \ + 9) bludgeoning damage and be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ The dragon can then fly up to half its flying speed."
+  "name": "Wing Attack (Costs 2 Actions)"
+"source":
+- "MM"
+- "GoS"
+"image": "6. Mechanics/Bestiary/Dragon/token/ancient-bronze-dragon.png"
 ```
 ^statblock
 

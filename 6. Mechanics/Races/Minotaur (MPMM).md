@@ -18,7 +18,7 @@ aliases: ["Minotaur"]
 
 ### Horns
 
-You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6\|avg` (`1d6`) + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6` (`1d6`) + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Goring Rush
 
@@ -30,7 +30,7 @@ Immediately after you hit a creature with a melee attack as part of the Attack a
 
 ### Labyrinthine Recall
 
-You always know which direction is north, and you have advantage on any Wisdom ([[6. Mechanics/Rules/skills.md#Survival\|Survival]]) check you make to navigate or track.
+You always know which direction is north, and you have advantage on any Wisdom ([[6. Mechanics/Rules/Skills.md#Survival|Survival]]) check you make to navigate or track.
 
 ## Description
 

@@ -30,6 +30,6 @@ The spell can locate a specific object known to you, as long as you have seen it
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 256

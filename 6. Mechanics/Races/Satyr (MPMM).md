@@ -22,7 +22,7 @@ You are a Fey.
 
 ### Ram
 
-You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6\|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Magic Resistance
 
@@ -30,11 +30,11 @@ You have advantage on saving throws against spells.
 
 ### Mirthful Leaps
 
-Whenever you make a long jump or a high jump, you can roll a `dice: d8\|avg` (`d8`) and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as usual.
+Whenever you make a long jump or a high jump, you can roll a `dice: d8` (`d8`) and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as usual.
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [[6. Mechanics/Rules/skills.md#Performance\|Performance]] and [[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]] skills, and you have proficiency with one musical instrument of your choice.
+As an embodiment of revelry, you have proficiency in the [[6. Mechanics/Rules/Skills.md#Performance|Performance]] and [[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]] skills, and you have proficiency with one musical instrument of your choice.
 
 ## Description
 

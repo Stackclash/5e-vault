@@ -24,16 +24,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]], [[/6. Mechanics/Spells/speak-with-animals.md\|speak with animals]] |
-| 3rd | [[/6. Mechanics/Spells/barkskin.md\|barkskin]], [[/6. Mechanics/Spells/spike-growth.md\|spike growth]] |
-| 5th | [[/6. Mechanics/Spells/plant-growth.md\|plant growth]], [[/6. Mechanics/Spells/wind-wall.md\|wind wall]] |
-| 7th | [[/6. Mechanics/Spells/dominate-beast.md\|dominate beast]], [[/6. Mechanics/Spells/grasping-vine.md\|grasping vine]] |
-| 9th | [[/6. Mechanics/Spells/insect-plague.md\|insect plague]], [[/6. Mechanics/Spells/tree-stride.md\|tree stride]] |
+| 1st | [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]], [[/6. Mechanics/Spells/Speak With Animals.md|speak with animals]] |
+| 3rd | [[/6. Mechanics/Spells/Barkskin.md|barkskin]], [[/6. Mechanics/Spells/Spike Growth.md|spike growth]] |
+| 5th | [[/6. Mechanics/Spells/Plant Growth.md|plant growth]], [[/6. Mechanics/Spells/Wind Wall.md|wind wall]] |
+| 7th | [[/6. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[/6. Mechanics/Spells/Grasping Vine.md|grasping vine]] |
+| 9th | [[/6. Mechanics/Spells/Insect Plague.md|insect plague]], [[/6. Mechanics/Spells/Tree Stride.md|tree stride]] |
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)
 
-At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [[6. Mechanics/Rules/skills.md#Animal%20Handling\|Animal Handling]], [[6. Mechanics/Rules/skills.md#Nature\|Nature]], or [[6. Mechanics/Rules/skills.md#Survival\|Survival]].
+At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [[6. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[6. Mechanics/Rules/Skills.md#Nature|Nature]], or [[6. Mechanics/Rules/Skills.md#Survival|Survival]].
 
 ### Bonus Proficiency (Level 1)
 
@@ -43,7 +43,7 @@ Also at 1st level, you gain proficiency with heavy armor.
 
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
-As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by you for 1 minute or until it takes damage. While it is [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by you, it is friendly to you and other creatures you designate.
+As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] by you for 1 minute or until it takes damage. While it is [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] by you, it is friendly to you and other creatures you designate.
 
 ### Dampen Elements (Level 6)
 
@@ -51,15 +51,15 @@ Starting at 6th level, when you or a creature within 30 feet of you takes acid, 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Master of Nature (Level 17)
 
-At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.

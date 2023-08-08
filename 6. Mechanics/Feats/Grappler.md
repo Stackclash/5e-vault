@@ -13,4 +13,4 @@ aliases: ["Grappler"]
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
 - You have advantage on attack rolls against a creature you are grappling.  
-- You can use your action to try to pin a creature [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by you. To do so, make another grapple check. If you succeed, you and the creature are both [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] until the grapple ends.
+- You can use your action to try to pin a creature [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by you. To do so, make another grapple check. If you succeed, you and the creature are both [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] until the grapple ends.

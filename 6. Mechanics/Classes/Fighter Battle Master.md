@@ -33,7 +33,7 @@ You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. 
 
 #### Superiority Dice
 
-You have four superiority dice, which are `dice: d8\|avg` (`d8`)s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+You have four superiority dice, which are `dice: d8` (`d8`)s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
 You gain another superiority die at 7th level and one more at 15th level.
 
@@ -48,36 +48,36 @@ Some of your maneuvers require your target to make a saving throw to resist the 
 The maneuvers are presented in alphabetical order.
 
 - [Commander's Strike](/compendium/classes/fighter-battle-master.md#Commander's%20Strike)  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Disarming%20Attack\|Disarming Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Distracting%20Strike\|Distracting Strike]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Evasive%20Footwork\|Evasive Footwork]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Feinting%20Attack\|Feinting Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Goading%20Attack\|Goading Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Lunging%20Attack\|Lunging Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Maneuvering%20Attack\|Maneuvering Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Menacing%20Attack\|Menacing Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Parry\|Parry]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Precision%20Attack\|Precision Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Pushing%20Attack\|Pushing Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Rally\|Rally]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Riposte\|Riposte]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Sweeping%20Attack\|Sweeping Attack]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Trip%20Attack\|Trip Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Disarming%20Attack|Disarming Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Distracting%20Strike|Distracting Strike]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Evasive%20Footwork|Evasive Footwork]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Feinting%20Attack|Feinting Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Goading%20Attack|Goading Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Lunging%20Attack|Lunging Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Maneuvering%20Attack|Maneuvering Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Menacing%20Attack|Menacing Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Parry|Parry]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Precision%20Attack|Precision Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Pushing%20Attack|Pushing Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Rally|Rally]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Riposte|Riposte]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Sweeping%20Attack|Sweeping Attack]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Trip%20Attack|Trip Attack]]  
 
 ### Maneuver Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 41_
 
 _3rd-level fighter optional class features_
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[/6. Mechanics/Classes/fighter.md#Superior%20Technique\|Superior Technique]] fighting style or the [[/6. Mechanics/Feats/martial-adept.md\|Martial Adept]] feat.
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[/6. Mechanics/Classes/Fighter.md#Superior%20Technique|Superior Technique]] fighting style or the [[/6. Mechanics/Feats/Martial Adept.md|Martial Adept]] feat.
 
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Ambush\|Ambush]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Bait%20and%20Switch\|Bait and Switch]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Brace\|Brace]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Commanding%20Presence\|Commanding Presence]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Grappling%20Strike\|Grappling Strike]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Quick%20Toss\|Quick Toss]]  
-- [[/6. Mechanics/Classes/Fighter Battle Master.md#Tactical%20Assessment\|Tactical Assessment]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Ambush|Ambush]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Bait%20and%20Switch|Bait and Switch]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Brace|Brace]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Commanding%20Presence|Commanding Presence]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Grappling%20Strike|Grappling Strike]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Quick%20Toss|Quick Toss]]  
+- [[/6. Mechanics/Classes/Fighter Battle Master.md#Tactical%20Assessment|Tactical Assessment]]  
 
 ### Additional Maneuvers (Level 7)
 
@@ -105,7 +105,7 @@ At 10th level, you learn two additional maneuvers of your choice.
 
 ### Improved Combat Superiority (d10) (Level 10)
 
-At 10th level, your superiority dice turn into `dice: d10\|avg` (`d10`)s.
+At 10th level, your superiority dice turn into `dice: d10` (`d10`)s.
 
 ### Additional Maneuvers (Level 15)
 
@@ -121,19 +121,19 @@ Starting at 15th level, when you roll initiative and have no superiority dice re
 
 ### Improved Combat Superiority (d12) (Level 18)
 
-At 18th level, your superiority dice turn into `dice: d12\|avg` (`d12`)s.
+At 18th level, your superiority dice turn into `dice: d12` (`d12`)s.
 
 ## Maneuvers
 
 ### Ambush
 _Source: Tasha's Cauldron of Everything p. 42_
 
-When you make a Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+When you make a Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ### Ambush
 _Source: Unearthed Arcana: Class Feature Variants p. 5_
 
-When you make a Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) check or an initiative roll, you can expend one superiority die and add the die to the roll.
+When you make a Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) check or an initiative roll, you can expend one superiority die and add the die to the roll.
 
 ### Bait and Switch
 _Source: Unearthed Arcana: Class Feature Variants p. 5_
@@ -145,7 +145,7 @@ Roll the superiority die. Until the start of your next turn, the ally gains a bo
 ### Bait and Switch
 _Source: Tasha's Cauldron of Everything p. 42_
 
-When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]. This movement doesn't provoke opportunity attacks.
+When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. This movement doesn't provoke opportunity attacks.
 
 Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 
@@ -166,7 +166,7 @@ When you take the Attack action on your turn, you can forgo one of your attacks 
 ### Commanding Presence
 _Source: Tasha's Cauldron of Everything p. 42_
 
-When you make a Charisma ([[6. Mechanics/Rules/skills.md#Intimidation\|Intimidation]]), a Charisma ([[6. Mechanics/Rules/skills.md#Performance\|Performance]]), or a Charisma ([[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]]) check, you can expend one superiority die and add the superiority die to the ability check.
+When you make a Charisma ([[6. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]), a Charisma ([[6. Mechanics/Rules/Skills.md#Performance|Performance]]), or a Charisma ([[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check, you can expend one superiority die and add the superiority die to the ability check.
 
 ### Disarming Attack
 
@@ -191,7 +191,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 ### Grappling Strike
 _Source: Tasha's Cauldron of Everything p. 42_
 
-Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check.
+Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check.
 
 ### Lunging Attack
 
@@ -203,7 +203,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ### Menacing Attack
 
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of you until the end of your next turn.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] of you until the end of your next turn.
 
 ### Parry
 
@@ -229,7 +229,7 @@ On your turn, you can use a bonus action and expend one superiority die to bolst
 ### Restraining Strike
 _Source: Unearthed Arcana: Class Feature Variants p. 5_
 
-Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the Player's Handbook for rules on grappling). Add the superiority die to your Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check. The target is also [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] while [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] in this way.
+Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the Player's Handbook for rules on grappling). Add the superiority die to your Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check. The target is also [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] while [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] in this way.
 
 ### Riposte
 
@@ -238,7 +238,7 @@ When a creature misses you with a melee attack, you can use your reaction and ex
 ### Silver Tongue
 _Source: Unearthed Arcana: Class Feature Variants p. 5_
 
-When you make a Charisma ([[6. Mechanics/Rules/skills.md#Deception\|Deception]]) check or a Charisma ([[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]]) check, you can expend one superiority die, and add the superiority die to the ability check.
+When you make a Charisma ([[6. Mechanics/Rules/Skills.md#Deception|Deception]]) check or a Charisma ([[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check, you can expend one superiority die, and add the superiority die to the ability check.
 
 ### Snipe
 _Source: Unearthed Arcana: Class Feature Variants p. 5_
@@ -248,7 +248,7 @@ As a bonus action, you can expend one superiority die and make a ranged weapon a
 ### Studious Eye
 _Source: Unearthed Arcana: Class Feature Variants p. 5_
 
-When you make a Wisdom ([[6. Mechanics/Rules/skills.md#Insight\|Insight]]) check or an Intelligence ([[6. Mechanics/Rules/skills.md#Investigation\|Investigation]]) check, you can expend one superiority die, and add the superiority die to the ability check.
+When you make a Wisdom ([[6. Mechanics/Rules/Skills.md#Insight|Insight]]) check or an Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check, you can expend one superiority die, and add the superiority die to the ability check.
 
 ### Sweeping Attack
 
@@ -257,8 +257,8 @@ When you hit a creature with a melee weapon attack, you can expend one superiori
 ### Tactical Assessment
 _Source: Tasha's Cauldron of Everything p. 42_
 
-When you make an Intelligence ([[6. Mechanics/Rules/skills.md#Investigation\|Investigation]]), an Intelligence ([[6. Mechanics/Rules/skills.md#History\|History]]), or a Wisdom ([[6. Mechanics/Rules/skills.md#Insight\|Insight]]) check, you can expend one superiority die and add the superiority die to the ability check.
+When you make an Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation|Investigation]]), an Intelligence ([[6. Mechanics/Rules/Skills.md#History|History]]), or a Wisdom ([[6. Mechanics/Rules/Skills.md#Insight|Insight]]) check, you can expend one superiority die and add the superiority die to the ability check.
 
 ### Trip Attack
 
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target [[6. Mechanics/Rules/conditions.md#prone\|prone]].
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target [[6. Mechanics/Rules/Conditions.md#prone|prone]].

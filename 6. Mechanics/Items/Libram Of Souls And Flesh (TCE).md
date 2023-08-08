@@ -11,15 +11,15 @@ aliases: ["Libram of Souls and Flesh"]
 # Libram of Souls and Flesh
 *Wondrous Item, rare (requires attunement by a wizard)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
-With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/circle-of-death.md\|circle of death]], [[/6. Mechanics/Spells/false-life.md\|false life]], [[/6. Mechanics/Spells/finger-of-death.md\|finger of death]], [[/6. Mechanics/Spells/speak-with-dead.md\|speak with dead]], [[/6. Mechanics/Spells/summon-undead-tce.md\|summon undead]], and [[/6. Mechanics/Spells/vampiric-touch.md\|vampiric touch]]. It functions as a spellbook for you.
+With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [[/6. Mechanics/Spells/Animate Dead.md|animate dead]], [[/6. Mechanics/Spells/Circle Of Death.md|circle of death]], [[/6. Mechanics/Spells/False Life.md|false life]], [[/6. Mechanics/Spells/Finger Of Death.md|finger of death]], [[/6. Mechanics/Spells/Speak With Dead.md|speak with dead]], [[/6. Mechanics/Spells/Summon Undead (TCE).md|summon undead]], and [[/6. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]. It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 
-The book has 3 charges, and it regains `dice: 1d3\|avg` (`1d3`) expended charges daily at dawn. You can use the charges in the following ways while holding it:
+The book has 3 charges, and it regains `dice: 1d3` (`1d3`) expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
 - If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the necromancy school.  
 - As an action, you can expend 1 charge to take on a semblance of undeath for 10 minutes. For the duration, you take on a deathly appearance, and undead creatures are indifferent to you, unless you have damaged them. You also appear undead to all outward inspection and to spells used to determine the target's status. The effect ends if you deal damage or force a creature to make a saving throw.  

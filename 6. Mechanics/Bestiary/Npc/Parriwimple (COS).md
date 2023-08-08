@@ -6,8 +6,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Parriwimple
+*Source: Curse of Strahd p. 43, Derived from Gladiator (MM)*  
+
+```statblock
 "name": "Parriwimple"
 "size": "Medium"
 "type": "humanoid"
@@ -36,7 +40,7 @@ statblock-link: "#^statblock"
 "cr": "5"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Parriwimple has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]."
+  "desc": "Parriwimple has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Brave"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "A melee weapon deals one extra die of its damage when Parriwimple hits\
@@ -56,7 +60,7 @@ statblock-link: "#^statblock"
   "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage. If the target is a\
     \ Medium or smaller creature, it must succeed on a DC 15 Strength saving throw\
-    \ or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
+    \ or be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shield Bash"
 "reactions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -65,49 +69,7 @@ statblock-link: "#^statblock"
   "name": "Parry"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/npc/token/parriwimple.png"
-aliases: ["Parriwimple"]
----
-# Parriwimple
-*Source: Curse of Strahd p. 43, Derived from Gladiator (MM)*  
-
-```ad-statblock
-title: Parriwimple
-![[/6. Mechanics/Bestiary/Npc/Token/parriwimple.png#token]]
-*Medium humanoid(human), Lawful Good*
-
-- **Armor Class** 14 ([[/6. Mechanics/Items/studded-leather-armor.md\|studded leather]])
-- **Hit Points** `dice: 15d8 + 45|text(112)` (15d8 + 45) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 6 (-2)|12 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Strength +7, Dexterity +5, Constitution +6
-- **Skills** Athletics +10, Intimidation +5
-- **Senses** passive Perception 11
-- **Languages** any one language (usually Common)
-- **Challenge** 5
-
-## Traits
-
-***Brave.*** Parriwimple has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#frightened\|frightened]].
-
-***Brute.*** A melee weapon deals one extra die of its damage when Parriwimple hits with it (included in the attack).
-
-## Actions
-
-***Multiattack.*** Parriwimple makes three melee attacks or two ranged attacks.
-
-***Spear.*** *Melee or Ranged Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft. and range 20/60 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) piercing damage, or 13 (`dice: 2d8 + 4` (`2d8 + 4`)) piercing damage if used with two hands to make a melee attack.
-
-***Shield Bash.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one creature. Hit: `dice: 2d4 + 4` (`2d4 + 4`) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-## Reactions
-
-***Parry.*** Parriwimple adds 3 to its AC against one melee attack that would hit it. To do so, Parriwimple must see the attacker and be wielding a melee weapon.
+"image": "6. Mechanics/Bestiary/Npc/token/parriwimple.png"
 ```
 ^statblock
 

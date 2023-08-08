@@ -12,6 +12,6 @@ aliases: ["Healer's Kit"]
 - **Cost**: 5 gp
 - **Weight**: 3.0 lbs.
 
-This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([[6. Mechanics/Rules/skills.md#Medicine\|Medicine]]) check.
+This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([[6. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check.
 
 *Source: Player's Handbook p. 151*

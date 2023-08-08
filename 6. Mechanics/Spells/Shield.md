@@ -22,8 +22,8 @@ aliases: ["Shield"]
 - **Components:** V, S
 - **Duration:** 1 round
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [[/6. Mechanics/Spells/Magic Missile.md\|magic missile]].
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [[/6. Mechanics/Spells/Magic Missile.md|magic missile]].
 
-**Classes**: [[/6. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artificer (Artillerist)]], [[/6. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Artificer (Battle Smith)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Hexblade (XGE).md\|Warlock (The Hexblade)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer Artillerist (TCE).md|Artificer (Artillerist)]], [[/6. Mechanics/Classes/Artificer Battle Smith (TCE).md|Artificer (Battle Smith)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock (The Hexblade)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 275

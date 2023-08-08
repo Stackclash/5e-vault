@@ -20,6 +20,6 @@ aliases: ["Far Step"]
 
 You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.
 
-**Classes**: [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Xanathar's Guide to Everything p. 155

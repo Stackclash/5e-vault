@@ -37,91 +37,91 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/hold-person.md\|hold person]], [[/6. Mechanics/Spells/spike-growth.md\|spike growth]] |
-| 5th | [[/6. Mechanics/Spells/sleet-storm.md\|sleet storm]], [[/6. Mechanics/Spells/slow.md\|slow]] |
-| 7th | [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [[/6. Mechanics/Spells/ice-storm.md\|ice storm]] |
-| 9th | [[/6. Mechanics/Spells/commune-with-nature.md\|commune with nature]], [[/6. Mechanics/Spells/cone-of-cold.md\|cone of cold]] |
+| 3rd | [[/6. Mechanics/Spells/Hold Person.md|hold person]], [[/6. Mechanics/Spells/Spike Growth.md|spike growth]] |
+| 5th | [[/6. Mechanics/Spells/Sleet Storm.md|sleet storm]], [[/6. Mechanics/Spells/Slow.md|slow]] |
+| 7th | [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[/6. Mechanics/Spells/Ice Storm.md|ice storm]] |
+| 9th | [[/6. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[/6. Mechanics/Spells/Cone Of Cold.md|cone of cold]] |
 ^arctic
 
 **Coast**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/mirror-image.md\|mirror image]], [[/6. Mechanics/Spells/misty-step.md\|misty step]] |
-| 5th | [[/6. Mechanics/Spells/water-breathing.md\|water breathing]], [[/6. Mechanics/Spells/water-walk.md\|water walk]] |
-| 7th | [[/6. Mechanics/Spells/control-water.md\|control water]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]] |
-| 9th | [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]], [[/6. Mechanics/Spells/scrying.md\|scrying]] |
+| 3rd | [[/6. Mechanics/Spells/Mirror Image.md|mirror image]], [[/6. Mechanics/Spells/Misty Step.md|misty step]] |
+| 5th | [[/6. Mechanics/Spells/Water Breathing.md|water breathing]], [[/6. Mechanics/Spells/Water Walk.md|water walk]] |
+| 7th | [[/6. Mechanics/Spells/Control Water.md|control water]], [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] |
+| 9th | [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]], [[/6. Mechanics/Spells/Scrying.md|scrying]] |
 ^coast
 
 **Desert**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/blur.md\|blur]], [[/6. Mechanics/Spells/silence.md\|silence]] |
-| 5th | [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]], [[/6. Mechanics/Spells/protection-from-energy.md\|protection from energy]] |
-| 7th | [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/hallucinatory-terrain.md\|hallucinatory terrain]] |
-| 9th | [[/6. Mechanics/Spells/insect-plague.md\|insect plague]], [[/6. Mechanics/Spells/wall-of-stone.md\|wall of stone]] |
+| 3rd | [[/6. Mechanics/Spells/Blur.md|blur]], [[/6. Mechanics/Spells/Silence.md|silence]] |
+| 5th | [[/6. Mechanics/Spells/Create Food And Water.md|create food and water]], [[/6. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
+| 7th | [[/6. Mechanics/Spells/Blight.md|blight]], [[/6. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]] |
+| 9th | [[/6. Mechanics/Spells/Insect Plague.md|insect plague]], [[/6. Mechanics/Spells/Wall Of Stone.md|wall of stone]] |
 ^desert
 
 **Forest**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/barkskin.md\|barkskin]], [[/6. Mechanics/Spells/spider-climb.md\|spider climb]] |
-| 5th | [[/6. Mechanics/Spells/call-lightning.md\|call lightning]], [[/6. Mechanics/Spells/plant-growth.md\|plant growth]] |
-| 7th | [[/6. Mechanics/Spells/divination.md\|divination]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]] |
-| 9th | [[/6. Mechanics/Spells/commune-with-nature.md\|commune with nature]], [[/6. Mechanics/Spells/tree-stride.md\|tree stride]] |
+| 3rd | [[/6. Mechanics/Spells/Barkskin.md|barkskin]], [[/6. Mechanics/Spells/Spider Climb.md|spider climb]] |
+| 5th | [[/6. Mechanics/Spells/Call Lightning.md|call lightning]], [[/6. Mechanics/Spells/Plant Growth.md|plant growth]] |
+| 7th | [[/6. Mechanics/Spells/Divination.md|divination]], [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] |
+| 9th | [[/6. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[/6. Mechanics/Spells/Tree Stride.md|tree stride]] |
 ^forest
 
 **Grassland**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/pass-without-trace.md\|pass without trace]] |
-| 5th | [[/6. Mechanics/Spells/daylight.md\|daylight]], [[/6. Mechanics/Spells/haste.md\|haste]] |
-| 7th | [[/6. Mechanics/Spells/divination.md\|divination]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]] |
-| 9th | [[/6. Mechanics/Spells/dream.md\|dream]], [[/6. Mechanics/Spells/insect-plague.md\|insect plague]] |
+| 3rd | [[/6. Mechanics/Spells/Invisibility.md|invisibility]], [[/6. Mechanics/Spells/Pass Without Trace.md|pass without trace]] |
+| 5th | [[/6. Mechanics/Spells/Daylight.md|daylight]], [[/6. Mechanics/Spells/Haste.md|haste]] |
+| 7th | [[/6. Mechanics/Spells/Divination.md|divination]], [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] |
+| 9th | [[/6. Mechanics/Spells/Dream.md|dream]], [[/6. Mechanics/Spells/Insect Plague.md|insect plague]] |
 ^grassland
 
 **Mountain**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/spider-climb.md\|spider climb]], [[/6. Mechanics/Spells/spike-growth.md\|spike growth]] |
-| 5th | [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]], [[/6. Mechanics/Spells/meld-into-stone.md\|meld into stone]] |
-| 7th | [[/6. Mechanics/Spells/stone-shape.md\|stone shape]], [[/6. Mechanics/Spells/stoneskin.md\|stoneskin]] |
-| 9th | [[/6. Mechanics/Spells/passwall.md\|passwall]], [[/6. Mechanics/Spells/wall-of-stone.md\|wall of stone]] |
+| 3rd | [[/6. Mechanics/Spells/Spider Climb.md|spider climb]], [[/6. Mechanics/Spells/Spike Growth.md|spike growth]] |
+| 5th | [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[/6. Mechanics/Spells/Meld Into Stone.md|meld into stone]] |
+| 7th | [[/6. Mechanics/Spells/Stone Shape.md|stone shape]], [[/6. Mechanics/Spells/Stoneskin.md|stoneskin]] |
+| 9th | [[/6. Mechanics/Spells/Passwall.md|passwall]], [[/6. Mechanics/Spells/Wall Of Stone.md|wall of stone]] |
 ^mountain
 
 **Swamp**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/melfs-acid-arrow.md\|Melf's acid arrow]] |
-| 5th | [[/6. Mechanics/Spells/water-walk.md\|water walk]], [[/6. Mechanics/Spells/stinking-cloud.md\|stinking cloud]] |
-| 7th | [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [[/6. Mechanics/Spells/locate-creature.md\|locate creature]] |
-| 9th | [[/6. Mechanics/Spells/insect-plague.md\|insect plague]], [[/6. Mechanics/Spells/scrying.md\|scrying]] |
+| 3rd | [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Melfs Acid Arrow.md|Melf's acid arrow]] |
+| 5th | [[/6. Mechanics/Spells/Water Walk.md|water walk]], [[/6. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] |
+| 7th | [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[/6. Mechanics/Spells/Locate Creature.md|locate creature]] |
+| 9th | [[/6. Mechanics/Spells/Insect Plague.md|insect plague]], [[/6. Mechanics/Spells/Scrying.md|scrying]] |
 ^swamp
 
 **Underdark**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[/6. Mechanics/Spells/spider-climb.md\|spider climb]], [[/6. Mechanics/Spells/web.md\|web]] |
-| 5th | [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]], [[/6. Mechanics/Spells/stinking-cloud.md\|stinking cloud]] |
-| 7th | [[/6. Mechanics/Spells/greater-invisibility.md\|greater invisibility]], [[/6. Mechanics/Spells/stone-shape.md\|stone shape]] |
-| 9th | [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]], [[/6. Mechanics/Spells/insect-plague.md\|insect plague]] |
+| 3rd | [[/6. Mechanics/Spells/Spider Climb.md|spider climb]], [[/6. Mechanics/Spells/Web.md|web]] |
+| 5th | [[/6. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/6. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] |
+| 7th | [[/6. Mechanics/Spells/Greater Invisibility.md|greater invisibility]], [[/6. Mechanics/Spells/Stone Shape.md|stone shape]] |
+| 9th | [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/6. Mechanics/Spells/Insect Plague.md|insect plague]] |
 ^underdark
 
 ### Land's Stride (Level 6)
 
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[/6. Mechanics/Spells/entangle.md\|entangle]] spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[/6. Mechanics/Spells/Entangle.md|entangle]] spell.
 
 ### Nature's Ward (Level 10)
 
-When you reach 10th level, you can't be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] by elementals or fey, and you are immune to poison and disease.
+When you reach 10th level, you can't be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] by elementals or fey, and you are immune to poison and disease.
 
 ### Nature's Sanctuary (Level 14)
 

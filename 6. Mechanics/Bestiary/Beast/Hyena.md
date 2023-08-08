@@ -9,8 +9,12 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Hyena
+*Source: Monster Manual p. 331, Princes of the Apocalypse, Candlekeep Mysteries*  
+
+```statblock
 "name": "Hyena"
 "size": "Medium"
 "type": "beast"
@@ -35,7 +39,7 @@ statblock-link: "#^statblock"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The hyena has advantage on an attack roll against a creature if at least\
     \ one of the hyena's allies is within 5 feet of the creature and the ally isn't\
-    \ [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
+    \ [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -46,39 +50,7 @@ statblock-link: "#^statblock"
 - "MM"
 - "PotA"
 - "CM"
-"image": "/compendium/bestiary/beast/token/hyena.png"
-aliases: ["Hyena"]
----
-# Hyena
-*Source: Monster Manual p. 331, Princes of the Apocalypse, Candlekeep Mysteries*  
-
-```ad-statblock
-title: Hyena
-![[/6. Mechanics/Bestiary/Beast/Token/hyena.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** `dice: 1d8 + 1|text(5)` (1d8 + 1) 
-- **Speed** walk 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|13 (+1)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d6` (`1d6`) piercing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/hyena.png"
 ```
 ^statblock
 

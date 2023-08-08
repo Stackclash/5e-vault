@@ -14,6 +14,6 @@ aliases: ["Potion of Speed"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-When you drink this potion, you gain the effect of the [[/6. Mechanics/Spells/haste.md\|haste]] spell for 1 minute (no [[6. Mechanics/Rules/status.md#concentration\|concentration]] required). The potion's yellow fluid is streaked with black and swirls on its own.
+When you drink this potion, you gain the effect of the [[/6. Mechanics/Spells/Haste.md|haste]] spell for 1 minute (no [[6. Mechanics/Rules/Status.md#concentration|concentration]] required). The potion's yellow fluid is streaked with black and swirls on its own.
 
 *Source: Dungeon Master's Guide p. 188*

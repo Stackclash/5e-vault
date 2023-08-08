@@ -6,52 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Bone Naga (Guardian)"
-"size": "Large"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "58"
-"hit_dice": "9d10 + 9"
-"stats":
-- !!int "15"
-- !!int "16"
-- !!int "12"
-- !!int "15"
-- !!int "15"
-- !!int "16"
-"speed": "walk 30 ft."
-"damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 12"
-"languages": "Common plus one other language"
-"cr": "4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The naga is a 5th-level spellcaster (spell save DC 12, dice: d20+4 (+4\
-    \ to hit) with spell attacks) that needs only verbal components to cast its spells.\
-    \ Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:\n\
-    \nCantrips (at will): [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]],\
-    \ [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/shield-of-faith.md\|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/calm-emotions.md\|calm emotions]],\
-    \ [[/6. Mechanics/Spells/hold-person.md\|hold person]]\n\n3rd level (2 3rd-level\
-    \ slots): [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]]"
-  "name": "spells"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 3d6|avg (3d6)\
-    \ poison damage."
-  "name": "Bite"
-"source":
-- "MM"
-- "ToA"
-- "WDMM"
-"image": "/compendium/bestiary/undead/token/bone-naga-guardian.png"
-aliases: ["Bone Naga (Guardian)"]
+statblock: inline
 ---
 # Bone Naga (Guardian)
 *Source: Monster Manual p. 233, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage*  
@@ -80,41 +35,50 @@ A naga doesn't require air, food, drink, or sleep.
 
 ## Stat Block
 
-```ad-statblock
-title: Bone Naga (Guardian)
-![[/6. Mechanics/Bestiary/Undead/Token/bone-naga-guardian.png#token]]
-*Large undead, Lawful Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 9d10 + 9|text(58)` (9d10 + 9) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|16 (+3)|12 (+1)|15 (+2)|15 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
-- **Languages** Common plus one other language
-- **Challenge** 4
-
-***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, `dice: d20+4` (+4 to hit) with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/shield-of-faith.md\|shield of faith]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/calm-emotions.md\|calm emotions]], [[/6. Mechanics/Spells/hold-person.md\|hold person]]
-
-**3rd level (2 3rd-level slots)**: [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]]
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 10 ft., one creature. Hit: `dice: 2d6 + 3` (`2d6 + 3`) piercing damage plus `dice: 3d6` (`3d6`) poison damage.
+```statblock
+"name": "Bone Naga (Guardian)"
+"size": "Large"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"hp": !!int "58"
+"hit_dice": "9d10 + 9"
+"stats":
+- !!int "15"
+- !!int "16"
+- !!int "12"
+- !!int "15"
+- !!int "15"
+- !!int "16"
+"speed": "walk 30 ft."
+"damage_immunities": "poison"
+"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "Common plus one other language"
+"cr": "4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The naga is a 5th-level spellcaster (spell save DC 12, dice: d20+4 (+4\
+    \ to hit) with spell attacks) that needs only verbal components to cast its spells.\
+    \ Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:\n\
+    \nCantrips (at will): [[/6. Mechanics/Spells/Mending.md|mending]], [[/6. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+    \ [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[/6. Mechanics/Spells/Command.md|command]], [[/6. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
+    \ [[/6. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 3rd-level\
+    \ slots): [[/6. Mechanics/Spells/Bestow Curse.md|bestow curse]]"
+  "name": "spells"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 3d6|avg (3d6)\
+    \ poison damage."
+  "name": "Bite"
+"source":
+- "MM"
+- "ToA"
+- "WDMM"
+"image": "6. Mechanics/Bestiary/Undead/token/bone-naga-guardian.png"
 ```
 ^statblock
 

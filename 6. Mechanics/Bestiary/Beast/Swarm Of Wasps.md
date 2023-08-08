@@ -12,8 +12,17 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Swarm of Wasps
+*Source: Monster Manual p. 338, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight*  
+
+> [!quote] The Nature of Swarms
+> 
+> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](/compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [[/6. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarms of poisonous snakes]] slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
+^the-nature-of-swarms
+
+```statblock
 "name": "Swarm of Wasps"
 "size": "Medium"
 "type": "beast"
@@ -54,46 +63,7 @@ statblock-link: "#^statblock"
 - "WDMM"
 - "GoS"
 - "WBtW"
-"image": "/compendium/bestiary/beast/token/swarm-of-wasps.png"
-aliases: ["Swarm of Wasps"]
----
-# Swarm of Wasps
-*Source: Monster Manual p. 338, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight*  
-
-> [!quote] The Nature of Swarms
-> 
-> The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [yuan-ti abomination](/compendium/bestiary/monstrosity/yuan-ti-abomination.md) might have [[/6. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarms of poisonous snakes]] slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
-^the-nature-of-swarms
-
-```ad-statblock
-title: Swarm of Wasps
-![[/6. Mechanics/Bestiary/Beast/Token/swarm-of-wasps.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 12 (natural armor)
-- **Hit Points** `dice: 5d8|text(22)` (5d8) 
-- **Speed** walk 5 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** blindsight 10 ft., passive Perception 8
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-- **Languages** —
-- **Challenge** 1/2
-
-## Traits
-
-***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
-
-## Actions
-
-***Bites.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 0 ft., one target in the swarm's space. Hit: `dice: 4d4` (`4d4`) piercing damage, or 5 (`dice: 2d4` (`2d4`)) piercing damage if the swarm has half of its hit points or fewer.
+"image": "6. Mechanics/Bestiary/Beast/token/swarm-of-wasps.png"
 ```
 ^statblock
 

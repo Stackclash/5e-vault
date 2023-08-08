@@ -27,8 +27,8 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A [[/6. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell targeting the globe destroys it without harming anything inside it.
+A [[/6. Mechanics/Spells/Disintegrate.md|disintegrate]] spell targeting the globe destroys it without harming anything inside it.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Cleric Peace Domain (TCE).md|Cleric (Peace Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md|Paladin (Oath of Redemption)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 264

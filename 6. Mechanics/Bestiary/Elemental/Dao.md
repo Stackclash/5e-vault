@@ -6,81 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
-statblock: true
-statblock-link: "#^statblock"
-"name": "Dao"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral Evil"
-"ac": !!int "18"
-"hp": !!int "187"
-"hit_dice": "15d10 + 105"
-"stats":
-- !!int "23"
-- !!int "12"
-- !!int "24"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-"speed": "walk 30 ft., burrow 30 ft., fly 30 ft."
-"saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "5"
-"condition_immunities": "petrified"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Terran"
-"cr": "11"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14, dice:\
-    \ d20+6 (+6 to hit) with spell attacks). It can innately cast the following spells,\
-    \ requiring no material components:\n\nAt will: [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]],\
-    \ [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/stone-shape.md\|stone shape]]\n\
-    \n1/day each: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]]\
-    \ ([[/6. Mechanics/Bestiary/Elemental/earth-elemental.md\|earth elemental]] only),\
-    \ [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]],\
-    \ [[/6. Mechanics/Spells/phantasmal-killer.md\|phantasmal killer]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]],\
-    \ [[/6. Mechanics/Spells/wall-of-stone.md\|wall of stone]]\n\n3/day each: [[/6. Mechanics/Spells/passwall.md\|passwall]],\
-    \ [[/6. Mechanics/Spells/move-earth.md\|move earth]], [[/6. Mechanics/Spells/tongues.md\|tongues]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
-    \ doing so, the dao doesn't disturb the material it moves through."
-  "name": "Earth Glide"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dao dies, its body disintegrates into crystalline powder, leaving\
-    \ behind only equipment the dao was wearing or carrying."
-  "name": "Elemental Demise"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Sure-Footed"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The Dao makes two fist attacks or two maul attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) bludgeoning damage."
-  "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) bludgeoning damage. If the target is a\
-    \ Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked\
-    \ [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Maul"
-"source":
-- "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-- "TCE"
-- "CM"
-"image": "/compendium/bestiary/elemental/token/dao.png"
-aliases: ["Dao"]
+statblock: inline
 ---
 # Dao
 *Source: Monster Manual p. 143, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries*  
@@ -133,50 +59,79 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 ## Stat Block
 
-```ad-statblock
-title: Dao
-![[/6. Mechanics/Bestiary/Elemental/Token/dao.png#token]]
-*Large elemental, Neutral Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 15d10 + 105|text(187)` (15d10 + 105) 
-- **Speed** walk 30 ft., burrow 30 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|12 (+1)|24 (+7)|12 (+1)|13 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Intelligence +5, Wisdom +5, Charisma +6
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Condition Immunities** petrified
-- **Languages** Terran
-- **Challenge** 11
-
-## Traits
-
-***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.
-
-***Elemental Demise.*** If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
-
-***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, `dice: d20+6` (+6 to hit) with spell attacks). It can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/stone-shape.md\|stone shape]]
-
-**1/day each**: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] ([[/6. Mechanics/Bestiary/Elemental/earth-elemental.md\|earth elemental]] only), [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/phantasmal-killer.md\|phantasmal killer]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]], [[/6. Mechanics/Spells/wall-of-stone.md\|wall of stone]]
-
-**3/day each**: [[/6. Mechanics/Spells/passwall.md\|passwall]], [[/6. Mechanics/Spells/move-earth.md\|move earth]], [[/6. Mechanics/Spells/tongues.md\|tongues]]
-
-## Actions
-
-***Multiattack.*** The Dao makes two fist attacks or two maul attacks.
-
-***Fist.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 6` (`2d8 + 6`) bludgeoning damage.
-
-***Maul.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 4d6 + 6` (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
+```statblock
+"name": "Dao"
+"size": "Large"
+"type": "elemental"
+"alignment": "Neutral Evil"
+"ac": !!int "18"
+"hp": !!int "187"
+"hit_dice": "15d10 + 105"
+"stats":
+- !!int "23"
+- !!int "12"
+- !!int "24"
+- !!int "12"
+- !!int "13"
+- !!int "14"
+"speed": "walk 30 ft., burrow 30 ft., fly 30 ft."
+"saves":
+  "Charisma": !!int "6"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "5"
+"condition_immunities": "petrified"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Terran"
+"cr": "11"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14, dice:\
+    \ d20+6 (+6 to hit) with spell attacks). It can innately cast the following spells,\
+    \ requiring no material components:\n\nAt will: [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [[/6. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
+    \n1/day each: [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+    \ ([[/6. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]] only),\
+    \ [[/6. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/6. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[/6. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[/6. Mechanics/Spells/Plane Shift.md|plane shift]],\
+    \ [[/6. Mechanics/Spells/Wall Of Stone.md|wall of stone]]\n\n3/day each: [[/6. Mechanics/Spells/Passwall.md|passwall]],\
+    \ [[/6. Mechanics/Spells/Move Earth.md|move earth]], [[/6. Mechanics/Spells/Tongues.md|tongues]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
+    \ doing so, the dao doesn't disturb the material it moves through."
+  "name": "Earth Glide"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the dao dies, its body disintegrates into crystalline powder, leaving\
+    \ behind only equipment the dao was wearing or carrying."
+  "name": "Elemental Demise"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
+    \ effects that would knock it [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Sure-Footed"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The Dao makes two fist attacks or two maul attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) bludgeoning damage."
+  "name": "Fist"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) bludgeoning damage. If the target is a\
+    \ Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked\
+    \ [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Maul"
+"source":
+- "MM"
+- "PotA"
+- "RoT"
+- "ToA"
+- "WDMM"
+- "BGDIA"
+- "TCE"
+- "CM"
+"image": "6. Mechanics/Bestiary/Elemental/token/dao.png"
 ```
 ^statblock
 

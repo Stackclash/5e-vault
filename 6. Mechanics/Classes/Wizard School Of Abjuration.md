@@ -37,7 +37,7 @@ Starting at 6th level, when a creature that you can see within 30 feet of you ta
 
 ### Improved Abjuration (Level 10)
 
-Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in [[/6. Mechanics/Spells/counterspell.md\|counterspell]] and [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]]), you add your proficiency bonus to that ability check.
+Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in [[/6. Mechanics/Spells/Counterspell.md|counterspell]] and [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]]), you add your proficiency bonus to that ability check.
 
 ### Spell Resistance (Level 14)
 

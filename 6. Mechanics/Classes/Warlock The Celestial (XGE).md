@@ -27,20 +27,20 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], [[/6. Mechanics/Spells/guiding-bolt.md\|guiding bolt]] |
-| 2nd | [[/6. Mechanics/Spells/flaming-sphere.md\|flaming sphere]], [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]] |
-| 3rd | [[/6. Mechanics/Spells/daylight.md\|daylight]], [[/6. Mechanics/Spells/revivify.md\|revivify]] |
-| 4th | [[/6. Mechanics/Spells/guardian-of-faith.md\|guardian of faith]], [[/6. Mechanics/Spells/wall-of-fire.md\|wall of fire]] |
-| 5th | [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]] |
+| 1st | [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/6. Mechanics/Spells/Guiding Bolt.md|guiding bolt]] |
+| 2nd | [[/6. Mechanics/Spells/Flaming Sphere.md|flaming sphere]], [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] |
+| 3rd | [[/6. Mechanics/Spells/Daylight.md|daylight]], [[/6. Mechanics/Spells/Revivify.md|revivify]] |
+| 4th | [[/6. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]], [[/6. Mechanics/Spells/Wall Of Fire.md|wall of fire]] |
+| 5th | [[/6. Mechanics/Spells/Flame Strike.md|flame strike]], [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]] |
 ^celestial-expanded-spells
 
 ### Bonus Cantrips (Level 1)
 
-At 1st level, you learn the [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]] and [[/6. Mechanics/Spells/light.md\|light]] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+At 1st level, you learn the [[/6. Mechanics/Spells/Sacred Flame.md|sacred flame]] and [[/6. Mechanics/Spells/Light.md|light]] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ### Healing Light (Level 1)
 
-At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of `dice: d6\|avg` (`d6`)s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.
+At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of `dice: d6` (`d6`)s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.
 
 As a bonus action, you can heal one creature you can see within 60 feet of you, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.
 
@@ -56,6 +56,6 @@ Starting at 10th level, you gain temporary hit points whenever you finish a shor
 
 ### Searing Vengeance (Level 14)
 
-Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `dice: 2d8\|avg` (`2d8`) + your Charisma modifier, and it is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] until the end of the current turn.
+Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `dice: 2d8` (`2d8`) + your Charisma modifier, and it is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a long rest.

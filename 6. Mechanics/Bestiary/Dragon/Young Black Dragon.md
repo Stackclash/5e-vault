@@ -6,66 +6,7 @@ tags:
 - monster/environment/swamp
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Black Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "127"
-"hit_dice": "15d10 + 45"
-"stats":
-- !!int "19"
-- !!int "14"
-- !!int "17"
-- !!int "12"
-- !!int "11"
-- !!int "15"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "6"
-"skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "6"
-"damage_immunities": "acid"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
-"languages": "Common, Draconic"
-"cr": "7"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
-    \ (1d8) acid damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 14 Dexterity saving throw, taking 49 (dice: 11d8|avg\
-    \ (11d8)) acid damage on a failed save, or half as much damage on a successful\
-    \ one."
-  "name": "Acid Breath (Recharge 5-6)"
-"source":
-- "MM"
-- "RoT"
-- "TftYP"
-- "GoS"
-- "BGDIA"
-"image": "/compendium/bestiary/dragon/token/young-black-dragon.png"
-aliases: ["Young Black Dragon"]
+statblock: inline
 ---
 # Young Black Dragon
 *Source: Monster Manual p. 88, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
@@ -148,40 +89,64 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Black Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-black-dragon.png#token]]
-*Large dragon, Chaotic Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 15d10 + 45|text(127)` (15d10 + 45) 
-- **Speed** walk 40 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Constitution +6, Wisdom +3, Charisma +5
-- **Skills** Perception +6, Stealth +5
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
-- **Damage Immunities** acid
-- **Languages** Common, Draconic
-- **Challenge** 7
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 4` (`2d10 + 4`) piercing damage plus `dice: 1d8` (`1d8`) acid damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
-
-***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (`dice: 11d8` (`11d8`)) acid damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Young Black Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Chaotic Evil"
+"ac": !!int "18"
+"hp": !!int "127"
+"hit_dice": "15d10 + 45"
+"stats":
+- !!int "19"
+- !!int "14"
+- !!int "17"
+- !!int "12"
+- !!int "11"
+- !!int "15"
+"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "5"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "3"
+  "Constitution": !!int "6"
+"skillsaves":
+  "Stealth": !!int "5"
+  "Perception": !!int "6"
+"damage_immunities": "acid"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
+"languages": "Common, Draconic"
+"cr": "7"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
+    \ (1d8) acid damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
+    \ in that line must make a DC 14 Dexterity saving throw, taking 49 (dice: 11d8|avg\
+    \ (11d8)) acid damage on a failed save, or half as much damage on a successful\
+    \ one."
+  "name": "Acid Breath (Recharge 5-6)"
+"source":
+- "MM"
+- "RoT"
+- "TftYP"
+- "GoS"
+- "BGDIA"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-black-dragon.png"
 ```
 ^statblock
 

@@ -22,6 +22,6 @@ For the duration, you or one willing creature you can see within range has resis
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]]
 
 Source: Tasha's Cauldron of Everything p. 107

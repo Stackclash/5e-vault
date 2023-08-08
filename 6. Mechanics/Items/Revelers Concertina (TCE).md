@@ -11,12 +11,12 @@ aliases: ["Reveler's Concertina"]
 # Reveler's Concertina
 *Instrument, rare (requires attunement by a bard)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
 While holding this concertina, you gain a +2 bonus to the saving throw DC of your bard spells.
 
-As an action, you can use the concertina to cast [[/6. Mechanics/Spells/ottos-irresistible-dance.md\|Otto's irresistible dance]] from the item. This property of the concertina can't be used again until the next dawn.
+As an action, you can use the concertina to cast [[/6. Mechanics/Spells/Ottos Irresistible Dance.md|Otto's irresistible dance]] from the item. This property of the concertina can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 134*

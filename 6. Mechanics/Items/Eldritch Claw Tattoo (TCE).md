@@ -11,7 +11,7 @@ aliases: ["Eldritch Claw Tattoo"]
 # Eldritch Claw Tattoo
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -29,6 +29,6 @@ While the tattoo is on your skin, your unarmed strikes are considered magical fo
 
 ## Eldritch Maul
 
-As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 15 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra `dice: 1d6\|avg` (`1d6`) force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
+As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 15 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra `dice: 1d6` (`1d6`) force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 126*

@@ -18,10 +18,10 @@ aliases: ["Sacred Flame"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `dice: 1d8\|avg` (`1d8`) radiant damage. The target gains no benefit from cover for this saving throw.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take `dice: 1d8` (`1d8`) radiant damage. The target gains no benefit from cover for this saving throw.
 
-The spell's damage increases by `dice: 1d8\|avg` (`1d8`) when you reach 5th level (`dice: 2d8\|avg` (`2d8`)), 11th level (`dice: 3d8\|avg` (`3d8`)), and 17th level (`dice: 4d8\|avg` (`4d8`)).
+The spell's damage increases by `dice: 1d8` (`1d8`) when you reach 5th level (`dice: 2d8` (`2d8`)), 11th level (`dice: 3d8` (`3d8`)), and 17th level (`dice: 4d8` (`4d8`)).
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
 
 Source: Player's Handbook p. 272

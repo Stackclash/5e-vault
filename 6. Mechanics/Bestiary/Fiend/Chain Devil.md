@@ -5,80 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Chain Devil"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "16"
-"hp": !!int "85"
-"hit_dice": "10d8 + 40"
-"stats":
-- !!int "18"
-- !!int "15"
-- !!int "18"
-- !!int "11"
-- !!int "12"
-- !!int "14"
-"speed": "walk 30 ft."
-"saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "7"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "8"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
-  "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes two attacks with its chains."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. The target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
-    \ ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]\
-    \ and takes dice: 2d6|avg (2d6) piercing damage at the start of each of its\
-    \ turns."
-  "name": "Chain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
-    \ razor-edged barbs and animate under the devil's control, provided that the chains\
-    \ aren't being worn or carried.\n\nEach animated chain is an object with AC 20,\
-    \ 20 hit points, resistance to piercing damage, and immunity to psychic and thunder\
-    \ damage. When the devil uses Multiattack on its turn, it can use each animated\
-    \ chain to make one additional chain attack. An animated chain can grapple one\
-    \ creature of its own but can't make attacks while grappling. An animated chain\
-    \ reverts to its inanimate state if reduced to 0 hit points or if the devil is\
-    \ [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or dies."
-  "name": "Animate Chains (Recharges after a Short or Long Rest)"
-"reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When a creature the devil can see starts its turn within 30 feet of the\
-    \ devil, the devil can create the illusion that it looks like one of the creature's\
-    \ departed loved ones or bitter enemies. If the creature can see the devil, it\
-    \ must succeed on a DC 14 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ until the end of its turn."
-  "name": "Unnerving Mask"
-"source":
-- "MM"
-- "ToA"
-- "BGDIA"
-"image": "/compendium/bestiary/fiend/token/chain-devil.png"
-aliases: ["Chain Devil"]
+statblock: inline
 ---
 # Chain Devil
 *Source: Monster Manual p. 72, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus*  
@@ -183,7 +110,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -209,47 +136,77 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Chain Devil
-![[/6. Mechanics/Bestiary/Fiend/Token/chain-devil.png#token]]
-*Medium fiend(devil), Lawful Evil*
-
-- **Armor Class** 16 (natural armor)
-- **Hit Points** `dice: 10d8 + 40|text(85)` (10d8 + 40) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Constitution +7, Wisdom +4, Charisma +5
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 8
-
-## Traits
-
-***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
-
-***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The devil makes two attacks with its chains.
-
-***Chain.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 10 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage. The target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] and takes `dice: 2d6` (`2d6`) piercing damage at the start of each of its turns.
-
-***Animate Chains (Recharges after a Short or Long Rest).*** Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
-
-Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or dies.
-
-## Reactions
-
-***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] until the end of its turn.
+```statblock
+"name": "Chain Devil"
+"size": "Medium"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "16"
+"hp": !!int "85"
+"hit_dice": "10d8 + 40"
+"stats":
+- !!int "18"
+- !!int "15"
+- !!int "18"
+- !!int "11"
+- !!int "12"
+- !!int "14"
+"speed": "walk 30 ft."
+"saves":
+  "Charisma": !!int "5"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "7"
+"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
+  \ that aren't silvered"
+"damage_immunities": "fire, poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Infernal, telepathy 120 ft."
+"cr": "8"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Magical darkness doesn't impede the devil's darkvision."
+  "name": "Devil's Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil makes two attacks with its chains."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. The target is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
+    \ ends, the target is [[6. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ and takes dice: 2d6|avg (2d6) piercing damage at the start of each of its\
+    \ turns."
+  "name": "Chain"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
+    \ razor-edged barbs and animate under the devil's control, provided that the chains\
+    \ aren't being worn or carried.\n\nEach animated chain is an object with AC 20,\
+    \ 20 hit points, resistance to piercing damage, and immunity to psychic and thunder\
+    \ damage. When the devil uses Multiattack on its turn, it can use each animated\
+    \ chain to make one additional chain attack. An animated chain can grapple one\
+    \ creature of its own but can't make attacks while grappling. An animated chain\
+    \ reverts to its inanimate state if reduced to 0 hit points or if the devil is\
+    \ [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or dies."
+  "name": "Animate Chains (Recharges after a Short or Long Rest)"
+"reactions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "When a creature the devil can see starts its turn within 30 feet of the\
+    \ devil, the devil can create the illusion that it looks like one of the creature's\
+    \ departed loved ones or bitter enemies. If the creature can see the devil, it\
+    \ must succeed on a DC 14 Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ until the end of its turn."
+  "name": "Unnerving Mask"
+"source":
+- "MM"
+- "ToA"
+- "BGDIA"
+"image": "/compendium/bestiary/fiend/token/chain-devil.png"
 ```
 ^statblock

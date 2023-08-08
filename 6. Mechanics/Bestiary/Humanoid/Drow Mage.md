@@ -6,95 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: true
-statblock-link: "#^statblock"
-"name": "Drow Mage"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "elf"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "45"
-"hit_dice": "10d8"
-"stats":
-- !!int "9"
-- !!int "14"
-- !!int "10"
-- !!int "17"
-- !!int "13"
-- !!int "12"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "5"
-  "Perception": !!int "4"
-  "Arcana": !!int "6"
-"senses": "darkvision 120 ft., passive Perception 14"
-"languages": "Elvish, Undercommon"
-"cr": "7"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
-    \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]]\n\n1/day each:\
-    \ [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/faerie-fire.md\|faerie fire]],\
-    \ [[/6. Mechanics/Spells/levitate.md\|levitate]] (self only)"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
-    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The drow has\
-    \ the following wizard spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/mage-hand.md\|mage hand]],\
-    \ [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/poison-spray.md\|poison spray]],\
-    \ [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]]\n\n1st level (4 1st-level\
-    \ slots): [[/6. Mechanics/Spells/mage-armor.md\|mage armor]], [[/6. Mechanics/Spells/magic-missile.md\|magic missile]],\
-    \ [[/6. Mechanics/Spells/shield.md\|shield]], [[/6. Mechanics/Spells/witch-bolt.md\|witch bolt]]\n\
-    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/alter-self.md\|alter self]],\
-    \ [[/6. Mechanics/Spells/misty-step.md\|misty step]], [[/6. Mechanics/Spells/web.md\|web]]\n\
-    \n3rd level (3 3rd-level slots): [[/6. Mechanics/Spells/fly.md\|fly]], [lightning\
-    \ bolt](/compendium/spells/lightning-bolt.md)\n\n4th level (3 4th-level slots):\
-    \ [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]], [greater\
-    \ invisibility](/compendium/spells/greater-invisibility.md)\n\n5th level (2\
-    \ 5th-level slots): [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]]"
-  "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]],\
-    \ and magic can't put the drow to sleep."
-  "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) bludgeoning damage, or 3 (dice: 1d8 -\
-    \ 1|avg (1d8 - 1)) bludgeoning damage if used with two hands, plus dice: 1d6|avg\
-    \ (1d6) poison damage."
-  "name": "Staff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow magically summons a [[/6. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]],\
-    \ or attempts to summon a [[/6. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]]\
-    \ with a 50|50 percent|50% summoning chance% chance chance of success. The summoned\
-    \ demon appears in an unoccupied space within 60 feet of its summoner, acts as\
-    \ an ally of its summoner, and can't summon other demons. It remains for 10 minutes,\
-    \ until it or its summoner dies, or until its summoner dismisses it as an action."
-  "name": "Summon Demon (1/Day)"
-"source":
-- "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "DC"
-- "DIP"
-- "IDRotF"
-- "CM"
-- "WBtW"
-"image": "/compendium/bestiary/humanoid/token/drow-mage.png"
-aliases: ["Drow Mage"]
+statblock: inline
 ---
 # Drow Mage
 *Source: Monster Manual p. 129, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Divine Contention, Dragon of Icespire Peak, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
@@ -137,7 +49,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!quote] Variant: Drow Magic Armor and Weapons
 > 
@@ -155,57 +67,93 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 
 ## Stat Block
 
-```ad-statblock
-title: Drow Mage
-![[/6. Mechanics/Bestiary/Humanoid/Token/drow-mage.png#token]]
-*Medium humanoid(elf), Neutral Evil*
-
-- **Armor Class** 12 (15 with [[/6. Mechanics/Spells/mage-armor.md\|mage armor]])
-- **Hit Points** `dice: 10d8|text(45)` (10d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 9 (-1)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|12 (+1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** Arcana +6, Deception +4, Perception +4, Stealth +5
-- **Senses** darkvision 120 ft., passive Perception 14
-- **Languages** Elvish, Undercommon
-- **Challenge** 7
-
-## Traits
-
-***Fey Ancestry.*** The drow has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and magic can't put the drow to sleep.
-
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]]
-
-**1/day each**: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/faerie-fire.md\|faerie fire]], [[/6. Mechanics/Spells/levitate.md\|levitate]] (self only)
-
-***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, `dice: d20+6` (+6 to hit) with spell attacks). The drow has the following wizard spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/poison-spray.md\|poison spray]], [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/mage-armor.md\|mage armor]], [[/6. Mechanics/Spells/magic-missile.md\|magic missile]], [[/6. Mechanics/Spells/shield.md\|shield]], [[/6. Mechanics/Spells/witch-bolt.md\|witch bolt]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/alter-self.md\|alter self]], [[/6. Mechanics/Spells/misty-step.md\|misty step]], [[/6. Mechanics/Spells/web.md\|web]]
-
-**3rd level (3 3rd-level slots)**: [[/6. Mechanics/Spells/fly.md\|fly]], [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]
-
-**4th level (3 4th-level slots)**: [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]], [[/6. Mechanics/Spells/greater-invisibility.md\|greater invisibility]]
-
-**5th level (2 5th-level slots)**: [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]]
-
-## Actions
-
-***Staff.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d6 - 1|avg` (`1d6 - 1`) bludgeoning damage, or 3 (`dice: 1d8 - 1|avg` (`1d8 - 1`)) bludgeoning damage if used with two hands, plus `dice: 1d6` (`1d6`) poison damage.
-
-***Summon Demon (1/Day).*** The drow magically summons a [[/6. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]], or attempts to summon a [[/6. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]] with a 50|50 percent|50% summoning chance% chance chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+```statblock
+"name": "Drow Mage"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "elf"
+"alignment": "Neutral Evil"
+"ac": !!int "12"
+"hp": !!int "45"
+"hit_dice": "10d8"
+"stats":
+- !!int "9"
+- !!int "14"
+- !!int "10"
+- !!int "17"
+- !!int "13"
+- !!int "12"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Deception": !!int "4"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
+  "Arcana": !!int "6"
+"senses": "darkvision 120 ft., passive Perception 14"
+"languages": "Elvish, Undercommon"
+"cr": "7"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
+    \ innately cast the following spells, requiring no material components:\n\nAt\
+    \ will: [[/6. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
+    \ [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
+    \ [[/6. Mechanics/Spells/Levitate.md|levitate]] (self only)"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
+    \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The drow has\
+    \ the following wizard spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/6. Mechanics/Spells/Poison Spray.md|poison spray]],\
+    \ [[/6. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 1st-level\
+    \ slots): [[/6. Mechanics/Spells/Mage Armor.md|mage armor]], [[/6. Mechanics/Spells/Magic Missile.md|magic missile]],\
+    \ [[/6. Mechanics/Spells/Shield.md|shield]], [[/6. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\
+    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/Alter Self.md|alter self]],\
+    \ [[/6. Mechanics/Spells/Misty Step.md|misty step]], [[/6. Mechanics/Spells/Web.md|web]]\n\
+    \n3rd level (3 3rd-level slots): [[/6. Mechanics/Spells/Fly.md|fly]], [lightning\
+    \ bolt](/compendium/spells/lightning-bolt.md)\n\n4th level (3 4th-level slots):\
+    \ [[/6. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]], [greater\
+    \ invisibility](/compendium/spells/greater-invisibility.md)\n\n5th level (2\
+    \ 5th-level slots): [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]]"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The drow has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ and magic can't put the drow to sleep."
+  "name": "Fey Ancestry"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
+    \ on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) bludgeoning damage, or 3 (dice: 1d8 -\
+    \ 1|avg (1d8 - 1)) bludgeoning damage if used with two hands, plus dice: 1d6|avg\
+    \ (1d6) poison damage."
+  "name": "Staff"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The drow magically summons a [[/6. Mechanics/Bestiary/Fiend/Quasit.md|quasit]],\
+    \ or attempts to summon a [[/6. Mechanics/Bestiary/Fiend/Shadow Demon.md|shadow demon]]\
+    \ with a 50|50 percent|50% summoning chance% chance chance of success. The summoned\
+    \ demon appears in an unoccupied space within 60 feet of its summoner, acts as\
+    \ an ally of its summoner, and can't summon other demons. It remains for 10 minutes,\
+    \ until it or its summoner dies, or until its summoner dismisses it as an action."
+  "name": "Summon Demon (1/Day)"
+"source":
+- "MM"
+- "PotA"
+- "SKT"
+- "TftYP"
+- "ToA"
+- "WDH"
+- "WDMM"
+- "DC"
+- "DIP"
+- "IDRotF"
+- "CM"
+- "WBtW"
+"image": "6. Mechanics/Bestiary/Humanoid/token/drow-mage.png"
 ```
 ^statblock
 

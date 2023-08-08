@@ -21,7 +21,7 @@ This spell snatches the soul of a humanoid as it dies and traps it inside the ti
 
 ## Steal Life
 
-You can use a bonus action to drain vigor from the soul and regain `dice: 2d8\|avg` (`2d8`) hit points.
+You can use a bonus action to drain vigor from the soul and regain `dice: 2d8` (`2d8`) hit points.
 
 ## Query Soul
 
@@ -33,12 +33,12 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [[6. Mechanics/Rules/Status.md#concentration\|concentration]] on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [[/6. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[6. Mechanics/Rules/Senses.md#truesight\|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [[/6. Mechanics/Spells/See Invisibility.md|see invisibility]] or [[6. Mechanics/Rules/Senses.md#truesight|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Xanathar's Guide to Everything p. 165

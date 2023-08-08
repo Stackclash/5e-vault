@@ -12,7 +12,7 @@ aliases: ["Instrument of Illusions"]
 # Instrument of Illusions
 *Instrument, minor, common (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

@@ -76,17 +76,17 @@ aliases: ["Ranger"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws:** Strength, Dexterity
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 - **Skills:** Choose 3 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[/6. Mechanics/Items/scale-mail.md\|scale mail]] or (b) [[/6. Mechanics/Items/leather-armor.md\|leather armor]]  
-- (a) two [[/6. Mechanics/Items/shortsword.md\|shortswords]] or (b) two simple melee weapons  
-- (a) a [[/6. Mechanics/Items/dungeoneers-pack.md\|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
-- A [[/6. Mechanics/Items/longbow.md\|longbow]] and a [[/6. Mechanics/Items/quiver.md\|quiver]] of [[/6. Mechanics/Items/arrows-20.md\|20 arrows]]  
+- (a) [[/6. Mechanics/Items/Scale Mail.md|scale mail]] or (b) [[/6. Mechanics/Items/Leather Armor.md|leather armor]]  
+- (a) two [[/6. Mechanics/Items/Shortsword.md|shortswords]] or (b) two simple melee weapons  
+- (a) a [[/6. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- A [[/6. Mechanics/Items/Longbow.md|longbow]] and a [[/6. Mechanics/Items/Quiver.md|quiver]] of [[/6. Mechanics/Items/Arrows-20.md|20 arrows]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Ranger, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 - **Skills:** Choose 1 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
@@ -110,9 +110,9 @@ You gain the following proficiencies:
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[/6. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] and [[/6. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]) as favored enemies.
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[/6. Mechanics/Bestiary/Humanoid/Gnoll.md|gnolls]] and [[/6. Mechanics/Bestiary/Humanoid/Orc.md|orcs]]) as favored enemies.
 
-You have advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Survival\|Survival]]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+You have advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Survival|Survival]]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
@@ -123,13 +123,13 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 _1st-level ranger optional class features, which replaces the Favored Enemy feature and works with the Foe Slayer feature_
 
-When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[6. Mechanics/Rules/status.md#concentration\|concentration]] (as if you were [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).
+When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[6. Mechanics/Rules/Status.md#concentration|concentration]] (as if you were [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).
 
-The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice: 1d4\|avg` (`1d4`).
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice: 1d4` (`1d4`).
 
 You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-This feature's extra damage increases when you reach certain levels in this class: to `dice: 1d6\|avg` (`1d6`) at 6th level and to `dice: 1d8\|avg` (`1d8`) at 14th level.
+This feature's extra damage increases when you reach certain levels in this class: to `dice: 1d6` (`1d6`) at 6th level and to `dice: 1d8` (`1d8`) at 14th level.
 
 ### Natural Explorer (Level 1)
 
@@ -163,10 +163,10 @@ You can also speak, read, and write two additional languages of your choice.
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-- [[/6. Mechanics/Classes/Fighter.md#Archery\|Archery]]  
+- [[/6. Mechanics/Classes/Fighter.md#Archery|Archery]]  
 - Close Quarters Shooter  
-- [[/6. Mechanics/Classes/Fighter.md#Defense\|Defense]]  
-- [[/6. Mechanics/Classes/Fighter.md#Dueling\|Dueling]]  
+- [[/6. Mechanics/Classes/Fighter.md#Defense|Defense]]  
+- [[/6. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
 - Mariner  
 - Tunnel Fighter  
 - [Two-Weapon Fighting](/compendium/classes/fighter.md#Two-Weapon%20Fighting)  
@@ -175,9 +175,9 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 - Thrown Weapon Fighting  
 - Unarmed Fighting  
 - Druidic Warrior  
-- [[/6. Mechanics/Classes/Fighter.md#Blind%20Fighting\|Blind Fighting]]  
-- [[/6. Mechanics/Classes/Ranger.md#Druidic%20Warrior\|Druidic Warrior]]  
-- [[/6. Mechanics/Classes/Fighter.md#Thrown%20Weapon%20Fighting\|Thrown Weapon Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Blind%20Fighting|Blind Fighting]]  
+- [[/6. Mechanics/Classes/Ranger.md#Druidic%20Warrior|Druidic Warrior]]  
+- [[/6. Mechanics/Classes/Fighter.md#Thrown%20Weapon%20Fighting|Thrown Weapon Fighting]]  
 
 ### Spellcasting (Level 2)
 
@@ -187,7 +187,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] using either slot.
+For example, if you know the 1st-level spell [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -231,11 +231,11 @@ You can focus your awareness through the interconnections of nature: you learn a
 
 | Ranger Level | Spell |
 |--------------|-------|
-| 3rd | [[/6. Mechanics/Spells/speak-with-animals.md\|speak with animals]] |
-| 5th | [[/6. Mechanics/Spells/beast-sense.md\|beast sense]] |
-| 9th | [[/6. Mechanics/Spells/speak-with-plants.md\|speak with plants]] |
-| 13th | [[/6. Mechanics/Spells/locate-creature.md\|locate creature]] |
-| 17th | [[/6. Mechanics/Spells/commune-with-nature.md\|commune with nature]] |
+| 3rd | [[/6. Mechanics/Spells/Speak With Animals.md|speak with animals]] |
+| 5th | [[/6. Mechanics/Spells/Beast Sense.md|beast sense]] |
+| 9th | [[/6. Mechanics/Spells/Speak With Plants.md|speak with plants]] |
+| 13th | [[/6. Mechanics/Spells/Locate Creature.md|locate creature]] |
+| 17th | [[/6. Mechanics/Spells/Commune With Nature.md|commune with nature]] |
 ^primal-awareness-spells
 
 You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
@@ -286,20 +286,20 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[/6. Mechanics/Spells/entangle.md\|entangle]] spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[/6. Mechanics/Spells/Entangle.md|entangle]] spell.
 
 ### Hide in Plain Sight (Level 10)
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
 ### Nature's Veil (Level 10)
 _Source: Tasha's Cauldron of Everything p. 56_
 
 _10th-level ranger optional class features, which replaces the Hide in Plain Sight feature_
 
-You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [[6. Mechanics/Rules/conditions.md#invisible\|invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
+You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [[6. Mechanics/Rules/Conditions.md#invisible|invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -314,9 +314,9 @@ You gain an additional benefit when you reach 10th level in this class.
 
 #### Tireless
 
-As an action, you can give yourself a number of temporary hit points equal to `dice: 1d8\|avg` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As an action, you can give yourself a number of temporary hit points equal to `dice: 1d8` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-In addition, whenever you finish a short rest, your [[6. Mechanics/Rules/conditions.md#exhaustion\|exhaustion]] level, if any, is decreased by 1.
+In addition, whenever you finish a short rest, your [[6. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] level, if any, is decreased by 1.
 
 ### Ranger Archetype feature (Level 11)
 
@@ -348,7 +348,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Feral Senses (Level 18)
 
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] or [[6. Mechanics/Rules/conditions.md#deafened\|deafened]].
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] or [[6. Mechanics/Rules/Conditions.md#deafened|deafened]].
 
 ### Ability Score Improvement (Level 19)
 
@@ -374,7 +374,7 @@ Being unable to see a creature doesn't impose disadvantage on your attack rolls 
 ### Blind Fighting
 _Source: Tasha's Cauldron of Everything p. 41_
 
-You have [[6. Mechanics/Rules/senses.md#blindsight\|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within that range, unless the creature successfully hides from you.
+You have [[6. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
 
 ### Close Quarters Shooter
 _Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
@@ -402,7 +402,7 @@ When you are wielding a melee weapon in one hand and no other weapons, you gain 
 ### Interception
 _Source: Unearthed Arcana: Class Feature Variants p. 12_
 
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
 
 ### Mariner
 _Source: Unearthed Arcana: Waterborne Adventures p. 3_
@@ -435,6 +435,6 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ### Unarmed Fighting
 _Source: Unearthed Arcana: Class Feature Variants p. 13_
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6\|avg` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6\|avg` (`d6`) becomes a `dice: d8\|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
 
-When you successfully start a grapple, you can deal `dice: 1d4\|avg` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.

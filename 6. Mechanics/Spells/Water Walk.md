@@ -27,6 +27,6 @@ This spell grants the ability to move across any liquid surface—such as water,
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]]
 
 Source: Player's Handbook p. 287

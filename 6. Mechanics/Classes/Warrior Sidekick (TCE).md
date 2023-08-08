@@ -68,7 +68,7 @@ _1st-level Warrior feature_
 
 The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]], [[6. Mechanics/Rules/skills.md#Animal%20Handling\|Animal Handling]], [[6. Mechanics/Rules/skills.md#Athletics\|Athletics]], [[6. Mechanics/Rules/skills.md#Intimidation\|Intimidation]], [[6. Mechanics/Rules/skills.md#Nature\|Nature]], [[6. Mechanics/Rules/skills.md#Perception\|Perception]], and [[6. Mechanics/Rules/skills.md#Survival\|Survival]].
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]], [[6. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[6. Mechanics/Rules/Skills.md#Athletics|Athletics]], [[6. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], [[6. Mechanics/Rules/Skills.md#Nature|Nature]], [[6. Mechanics/Rules/Skills.md#Perception|Perception]], and [[6. Mechanics/Rules/Skills.md#Survival|Survival]].
 
 The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
 
@@ -85,7 +85,7 @@ Each warrior focuses on offense or defense in their training. Choose one of the 
 
 _2nd-level Warrior feature_
 
-The sidekick can use a bonus action on its turn to regain hit points equal to `dice: 1d10\|avg` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
+The sidekick can use a bonus action on its turn to regain hit points equal to `dice: 1d10` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
 
 The sidekick can use this feature twice between rests starting at 20th level.
 
@@ -93,7 +93,7 @@ The sidekick can use this feature twice between rests starting at 20th level.
 
 _3rd-level Warrior feature_
 
-The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice: d20\|avg` (`d20`).
+The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice: d20` (`d20`).
 
 ### Ability Score Improvement (Level 4)
 

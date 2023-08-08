@@ -27,6 +27,6 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Tempest Domain.md|Cleric (Tempest Domain)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 243

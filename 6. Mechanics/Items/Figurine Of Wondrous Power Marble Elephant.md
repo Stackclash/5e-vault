@@ -20,8 +20,8 @@ The creature is friendly to you and your companions. It understands your languag
 
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
 
-[[/6. Mechanics/Bestiary/Beast/Elephant.md\|Marble Elephant]].
+[[/6. Mechanics/Bestiary/Beast/Elephant.md|Marble Elephant]].
 
-This marble statuette is about 4 inches high and long. It can become an [[/6. Mechanics/Bestiary/Beast/Elephant.md\|elephant]] for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
+This marble statuette is about 4 inches high and long. It can become an [[/6. Mechanics/Bestiary/Beast/Elephant.md|elephant]] for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170*

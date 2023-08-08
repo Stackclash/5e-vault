@@ -11,7 +11,7 @@ aliases: ["Mighty Servant of Leuk-o"]
 # Mighty Servant of Leuk-o
 *Wondrous Item, artifact (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -29,7 +29,7 @@ Attuning to the artifact requires two hours, which can be undertaken as part of 
 
 ## Controlling the Servant
 
-While any creatures are attuned to the artifact, attuned creatures can open the hatch as easily as any other door. Other creatures can open the hatch as an action with a successful DC 25 Dexterity check using [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]. A [[/6. Mechanics/Spells/knock.md\|knock]] spell cast on the hatch also opens it until the start of the caster's next turn.
+While any creatures are attuned to the artifact, attuned creatures can open the hatch as easily as any other door. Other creatures can open the hatch as an action with a successful DC 25 Dexterity check using [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]. A [[/6. Mechanics/Spells/Knock.md|knock]] spell cast on the hatch also opens it until the start of the caster's next turn.
 
 A creature can enter or exit through the hatch by spending 10 feet of movement. Those inside the servant have total cover from effects originating outside it. The controls within it allow creatures to see outside without obstruction.
 
@@ -46,15 +46,15 @@ While there are no attuned creatures inside the servant, it is an inert object.
 
 Upon his death, the soul of the mighty warlord Leuk-o was drawn into the artifact and has become its animating force. The servant has been known to attack or move of its own accord, particularly if doing so will cause destruction. Once every 24 hours, the servant, at the DM's discretion, takes one action while uncrewed.
 
-If the servant loses half of its hit points or more, each creature attuned to it must succeed on a DC 20 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] for 24 hours. While [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] in this way, the creature goes on a destructive spree, seeking to destroy structures and attack any unattuned creatures within sight of the servant, starting with those threatening the artifact-preferably using the servant, if possible.
+If the servant loses half of its hit points or more, each creature attuned to it must succeed on a DC 20 Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] for 24 hours. While [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] in this way, the creature goes on a destructive spree, seeking to destroy structures and attack any unattuned creatures within sight of the servant, starting with those threatening the artifact-preferably using the servant, if possible.
 
 ## Self-Destruct
 
 By inputting a specific series of lever pulls and button presses, the servant's two crew members can cause it to explode. The self-destruct code is not revealed to crew members when they attune to the artifact. If the code is discovered (the DM determines how), it requires two attuned crew members to be inside the servant and spend their actions on 3 consecutive rounds performing the command. Should the crew members begin the process of entering the code, though, the servant uses its Ghost in the Machine property and turns the crew members against each other.
 
-If the crew members successfully implement the code, at the end of the third round, the servant explodes. Every creature in a 100-foot-radius sphere centered on the servant must make a DC 25 Dexterity saving throw. On a failed save, a creature takes `dice: 25d6\|avg` (`25d6`) force damage, 87 (`dice: 25d6\|avg` (`25d6`)) lightning damage, and 87 (`dice: 25d6\|avg` (`25d6`)) thunder damage. On a successful save, a creature takes half as much damage. Objects and structures in the area take triple damage. Creatures inside the servant are slain instantly and leave behind no remains.
+If the crew members successfully implement the code, at the end of the third round, the servant explodes. Every creature in a 100-foot-radius sphere centered on the servant must make a DC 25 Dexterity saving throw. On a failed save, a creature takes `dice: 25d6` (`25d6`) force damage, 87 (`dice: 25d6` (`25d6`)) lightning damage, and 87 (`dice: 25d6` (`25d6`)) thunder damage. On a successful save, a creature takes half as much damage. Objects and structures in the area take triple damage. Creatures inside the servant are slain instantly and leave behind no remains.
 
-This does not destroy the servant permanently. Rather, `dice: 2d6\|avg` (`2d6`) days later, its parts—left arm, left leg, right arm, right leg, lower torso, and upper torso—drop from the sky in random places within 1,000 miles of the explosion. If brought within 5 feet of one another, the pieces reconnect and reform the servant.
+This does not destroy the servant permanently. Rather, `dice: 2d6` (`2d6`) days later, its parts—left arm, left leg, right arm, right leg, lower torso, and upper torso—drop from the sky in random places within 1,000 miles of the explosion. If brought within 5 feet of one another, the pieces reconnect and reform the servant.
 
 ## Destroying the Servant
 

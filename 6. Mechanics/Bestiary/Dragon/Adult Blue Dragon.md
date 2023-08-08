@@ -7,95 +7,7 @@ tags:
 - monster/environment/desert
 - monster/size/huge
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Adult Blue Dragon"
-"size": "Huge"
-"type": "dragon"
-"alignment": "Lawful Evil"
-"ac": !!int "19"
-"hp": !!int "225"
-"hit_dice": "18d12 + 108"
-"stats":
-- !!int "25"
-- !!int "10"
-- !!int "23"
-- !!int "16"
-- !!int "15"
-- !!int "19"
-"speed": "walk 40 ft., burrow 30 ft., fly 80 ft."
-"saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "11"
-"skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "12"
-"damage_immunities": "lightning"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
-"languages": "Common, Draconic"
-"cr": "16"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage plus dice: 1d10|avg\
-    \ (1d10) lightning damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
-  "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each\
-    \ creature in that line must make a DC 19 Dexterity saving throw, taking 66 (dice:\
-    \ 12d10|avg (12d10)) lightning damage on a failed save, or half as much damage\
-    \ on a successful one."
-  "name": "Lightning Breath (Recharge 5-6)"
-"legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ check."
-  "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 20 Dexterity saving throw or take dice: 2d6 + 7|avg (2d6\
-    \ + 7) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ The dragon can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
-"source":
-- "MM"
-- "HotDQ"
-- "RoT"
-- "SKT"
-- "GoS"
-- "MOT"
-- "JttRC"
-"image": "/compendium/bestiary/dragon/token/adult-blue-dragon.png"
-aliases: ["Adult Blue Dragon"]
+statblock: inline
 ---
 # Adult Blue Dragon
 *Source: Monster Manual p. 91, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
@@ -186,76 +98,93 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Adult Blue Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/adult-blue-dragon.png#token]]
-*Huge dragon, Lawful Evil*
-
-- **Armor Class** 19 (natural armor)
-- **Hit Points** `dice: 18d12 + 108|text(225)` (18d12 + 108) 
-- **Speed** walk 40 ft., burrow 30 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
-
-- **Proficiency Bonus** +5
-- **Saving Throws** Dexterity +5, Constitution +11, Wisdom +7, Charisma +9
-- **Skills** Perception +12, Stealth +5
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
-- **Damage Immunities** lightning
-- **Languages** Common, Draconic
-- **Challenge** 16
-
-## Traits
-
-***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-## Actions
-
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+12` (+12 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 7` (`2d10 + 7`) piercing damage plus `dice: 1d10` (`1d10`) lightning damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+12` (+12 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 7` (`2d6 + 7`) slashing damage.
-
-***Tail.*** *Melee Weapon Attack:* `dice: d20+12` (+12 to hit), reach 15 ft., one target. Hit: `dice: 2d8 + 7` (`2d8 + 7`) bludgeoning damage.
-
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
-
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (`dice: 12d10` (`12d10`)) lightning damage on a failed save, or half as much damage on a successful one.
-
-## Legendary Actions
-
-***Detect.*** The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check.
-
-***Tail Attack.*** The dragon makes a tail attack.
-
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take `dice: 2d6 + 7` (`2d6 + 7`) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. The dragon can then fly up to half its flying speed.
-
-## Additional sources
-
-
-
-## Lair actions
-
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
-
-- Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take `dice: 3d6` (`3d6`) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]] and buried. The buried target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.  
-- A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take `dice: 3d6` (`3d6`) lightning damage.  
-
-
-## Regional effects
-
-The region containing a legendary blue dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
-
-- Thunderstorms rage within 6 miles of the lair.  
-- Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).  
-- Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall `1d6 × 10` feet into the sinkhole.  
-
-If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within `dice: 1d10` (`1d10`) days. Any sinkholes remain where they are.
-
+```statblock
+"name": "Adult Blue Dragon"
+"size": "Huge"
+"type": "dragon"
+"alignment": "Lawful Evil"
+"ac": !!int "19"
+"hp": !!int "225"
+"hit_dice": "18d12 + 108"
+"stats":
+- !!int "25"
+- !!int "10"
+- !!int "23"
+- !!int "16"
+- !!int "15"
+- !!int "19"
+"speed": "walk 40 ft., burrow 30 ft., fly 80 ft."
+"saves":
+  "Charisma": !!int "9"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "11"
+"skillsaves":
+  "Stealth": !!int "5"
+  "Perception": !!int "12"
+"damage_immunities": "lightning"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
+"languages": "Common, Draconic"
+"cr": "16"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+  "name": "Legendary Resistance (3/Day)"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+    \ one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage plus dice: 1d10|avg\
+    \ (1d10) lightning damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
+    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
+  "name": "Tail"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success. If a creature's saving throw\
+    \ is successful or the effect ends for it, the creature is immune to the dragon's\
+    \ Frightful Presence for the next 24 hours."
+  "name": "Frightful Presence"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each\
+    \ creature in that line must make a DC 19 Dexterity saving throw, taking 66 (dice:\
+    \ 12d10|avg (12d10)) lightning damage on a failed save, or half as much damage\
+    \ on a successful one."
+  "name": "Lightning Breath (Recharge 5-6)"
+"legendary_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ check."
+  "name": "Detect"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a tail attack."
+  "name": "Tail Attack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
+    \ must succeed on a DC 20 Dexterity saving throw or take dice: 2d6 + 7|avg (2d6\
+    \ + 7) bludgeoning damage and be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ The dragon can then fly up to half its flying speed."
+  "name": "Wing Attack (Costs 2 Actions)"
+"source":
+- "MM"
+- "HotDQ"
+- "RoT"
+- "SKT"
+- "GoS"
+- "MOT"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Dragon/token/adult-blue-dragon.png"
 ```
 ^statblock
 

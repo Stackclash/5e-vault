@@ -64,8 +64,8 @@ You might call for a Sanity saving throw when a character runs the risk of succu
 
 - Seeing a creature from the Far Realm or other alien realms for the first time  
 - Making direct contact with the mind of an alien creature  
-- Being subjected to spells that affect mental stability, such as the insanity option of the [[/6. Mechanics/Spells/symbol.md\|symbol]] spell  
+- Being subjected to spells that affect mental stability, such as the insanity option of the [[/6. Mechanics/Spells/Symbol.md|symbol]] spell  
 - Passing through a demiplane built on alien physics  
 - Resisting an effect conferred by an attack or spell that deals psychic damage  
 
-A failed Sanity save might result in short-term madness, long-term madness, or indefinite madness, as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]] spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.
+A failed Sanity save might result in short-term madness, long-term madness, or indefinite madness, as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.

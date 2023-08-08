@@ -5,89 +5,7 @@ tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Vladimir Horngaard"
-"size": "Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "17"
-"hp": !!int "192"
-"hit_dice": "16d8 + 64"
-"stats":
-- !!int "18"
-- !!int "14"
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "18"
-"speed": "walk 30 ft."
-"saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Strength": !!int "7"
-  "Constitution": !!int "7"
-"damage_resistances": "necrotic, psychic"
-"damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-"senses": "darkvision 60 ft., passive Perception 13"
-"languages": "Common, Draconic"
-"cr": "7"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes fire\
-    \ or radiant damage, this trait doesn't function at the start of his next turn.\
-    \ Vladimir's body is destroyed only if he starts his turn with 0 hit points and\
-    \ doesn't regenerate."
-  "name": "Regeneration"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
-    \ soul inhabits and animates another corpse on the same plane of existence and\
-    \ regains all its hit points. While the soul is bodiless, a [[/6. Mechanics/Spells/wish.md\|wish]]\
-    \ spell can be used to force the soul to go to the afterlife and not return."
-  "name": "Rejuvenation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
-    \ dragon wings and a pommel shaped like a silver dragon's head clutching a black\
-    \ opal between its teeth. "
-  "name": "Special Equipment"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir is immune to effects that turn undead."
-  "name": "Turn Immunity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd\
-    \ and Vladimir are on different planes of existence. If Strahd is destroyed, Vladimir\
-    \ knows."
-  "name": "Vengeful Tracker"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. Strahd, the target\
-    \ of Vladimir's sworn vengeance, takes an extra 14 (dice: 4d6|avg (4d6)) bludgeoning\
-    \ damage. Instead of dealing damage, Vladimir can grapple the target (escape DC\
-    \ 14) provided the target is Large or smaller."
-  "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) slashing damage. Against Strahd, Vladimir\
-    \ deals an extra 14 (dice: 4d6|avg (4d6)) slashing damage with this weapon."
-  "name": "Greatsword +2"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
-    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]]\
-    \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
-    \ When the paralysis ends, Strahd is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
-    \ of his turns, with disadvantage if he can see Vladimir, ending the [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ condition on itself on a success."
-  "name": "Vengeful Glare"
-"source":
-- "CoS"
-"image": "/compendium/bestiary/npc/token/vladimir-horngaard.png"
-aliases: ["Vladimir Horngaard"]
+statblock: inline
 ---
 # Vladimir Horngaard
 *Source: Curse of Strahd p. 241*  
@@ -153,49 +71,86 @@ A revenant doesn't require air, food, drink, or sleep.
 
 ## Stat Block
 
-```ad-statblock
-title: Vladimir Horngaard
-![[/6. Mechanics/Bestiary/Npc/Token/vladimir-horngaard.png#token]]
-*Medium undead, Lawful Evil*
-
-- **Armor Class** 17 ([[/6. Mechanics/Items/half-plate-armor.md\|half plate armor]])
-- **Hit Points** `dice: 16d8 + 64|text(192)` (16d8 + 64) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Strength +7, Constitution +7, Wisdom +6, Charisma +7
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Damage Resistances** necrotic, psychic
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
-- **Languages** Common, Draconic
-- **Challenge** 7
-
-## Traits
-
-***Regeneration.*** Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.
-
-***Rejuvenation.*** When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [[/6. Mechanics/Spells/wish.md\|wish]] spell can be used to force the soul to go to the afterlife and not return.
-
-***Special Equipment.*** Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. 
-
-***Turn Immunity.*** Vladimir is immune to effects that turn undead.
-
-***Vengeful Tracker.*** Vladimir knows the distance to and direction of Strahd, even if Strahd and Vladimir are on different planes of existence. If Strahd is destroyed, Vladimir knows.
-
-## Actions
-
-***Multiattack.*** Vladimir makes two fist attacks or two attacks with his +2 Greatsword.
-
-***Fist.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance, takes an extra 14 (`dice: 4d6` (`4d6`)) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.
-
-***Greatsword +2.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 5 ft., one target. Hit: `dice: 4d6 + 6` (`4d6 + 6`) slashing damage. Against Strahd, Vladimir deals an extra 14 (`dice: 4d6` (`4d6`)) slashing damage with this weapon.
-
-***Vengeful Glare.*** Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]] until Vladimir deals damage to him, or until the end of Vladimir's next turn. When the paralysis ends, Strahd is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each of his turns, with disadvantage if he can see Vladimir, ending the [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] condition on itself on a success.
+```statblock
+"name": "Vladimir Horngaard"
+"size": "Medium"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "17"
+"hp": !!int "192"
+"hit_dice": "16d8 + 64"
+"stats":
+- !!int "18"
+- !!int "14"
+- !!int "18"
+- !!int "13"
+- !!int "16"
+- !!int "18"
+"speed": "walk 30 ft."
+"saves":
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
+"damage_resistances": "necrotic, psychic"
+"damage_immunities": "poison"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Common, Draconic"
+"cr": "7"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes fire\
+    \ or radiant damage, this trait doesn't function at the start of his next turn.\
+    \ Vladimir's body is destroyed only if he starts his turn with 0 hit points and\
+    \ doesn't regenerate."
+  "name": "Regeneration"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
+    \ soul inhabits and animates another corpse on the same plane of existence and\
+    \ regains all its hit points. While the soul is bodiless, a [[/6. Mechanics/Spells/Wish.md|wish]]\
+    \ spell can be used to force the soul to go to the afterlife and not return."
+  "name": "Rejuvenation"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
+    \ dragon wings and a pommel shaped like a silver dragon's head clutching a black\
+    \ opal between its teeth. "
+  "name": "Special Equipment"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Vladimir is immune to effects that turn undead."
+  "name": "Turn Immunity"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd\
+    \ and Vladimir are on different planes of existence. If Strahd is destroyed, Vladimir\
+    \ knows."
+  "name": "Vengeful Tracker"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. Strahd, the target\
+    \ of Vladimir's sworn vengeance, takes an extra 14 (dice: 4d6|avg (4d6)) bludgeoning\
+    \ damage. Instead of dealing damage, Vladimir can grapple the target (escape DC\
+    \ 14) provided the target is Large or smaller."
+  "name": "Fist"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) slashing damage. Against Strahd, Vladimir\
+    \ deals an extra 14 (dice: 4d6|avg (4d6)) slashing damage with this weapon."
+  "name": "Greatsword +2"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
+    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
+    \ When the paralysis ends, Strahd is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
+    \ of his turns, with disadvantage if he can see Vladimir, ending the [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ condition on itself on a success."
+  "name": "Vengeful Glare"
+"source":
+- "CoS"
+"image": "6. Mechanics/Bestiary/Npc/token/vladimir-horngaard.png"
 ```
 ^statblock

@@ -10,11 +10,11 @@ Few people can afford to buy a magic item, and fewer still know how to find one.
 
 A character who comes into possession of a common, uncommon, rare, or very rare magic item that he or she wants to sell can spend downtime searching for a buyer. This downtime activity can be performed only in a city or another location where one can find wealthy individuals interested in buying magic items. Legendary magic items and priceless artifacts can't be sold during downtime. Finding someone to buy such an item can be the substance of an adventure or quest.
 
-For each salable item, the character makes a DC 20 Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to find buyers. Another character can use his or her downtime to assist with the search, granting advantage on the checks. On a failed check, no buyer for the item is found after a search that lasts 10 days. On a successful check, a buyer for the item is found after a number of days based on the item's rarity, as shown in the Salable Magic Item table.
+For each salable item, the character makes a DC 20 Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check to find buyers. Another character can use his or her downtime to assist with the search, granting advantage on the checks. On a failed check, no buyer for the item is found after a search that lasts 10 days. On a successful check, a buyer for the item is found after a number of days based on the item's rarity, as shown in the Salable Magic Item table.
 
-A character can attempt to find buyers for multiple magic items at once. Although this requires multiple Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) checks, the searches are occurring simultaneously, and the results of multiple failures or successes aren't added together. For example, if the character finds a buyer for a common magic item in 2 days and a buyer for an uncommon item in 5 days, but fails to find a buyer for a rare item up for grabs, the entire search takes 10 days.
+A character can attempt to find buyers for multiple magic items at once. Although this requires multiple Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation|Investigation]]) checks, the searches are occurring simultaneously, and the results of multiple failures or successes aren't added together. For example, if the character finds a buyer for a common magic item in 2 days and a buyer for an uncommon item in 5 days, but fails to find a buyer for a rare item up for grabs, the entire search takes 10 days.
 
-For each item a character wishes to sell, the player rolls percentile dice and consults the Selling a Magic Item table, applying a modifier based on the item's rarity, as shown in the Salable Magic Items table. The character also makes a Charisma ([[6. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check and adds that check's total to the roll. The subsequent total determines what a buyer offers to pay for the item.
+For each item a character wishes to sell, the player rolls percentile dice and consults the Selling a Magic Item table, applying a modifier based on the item's rarity, as shown in the Salable Magic Items table. The character also makes a Charisma ([[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check and adds that check's total to the roll. The subsequent total determines what a buyer offers to pay for the item.
 
 You determine a buyer's identity. Buyers sometimes procure rare and very rare items through proxies to ensure that their identities remain unknown. If the buyer is shady, it's up to you whether the sale creates legal complications for the party later.
 
@@ -22,10 +22,10 @@ You determine a buyer's identity. Buyers sometimes procure rare and very rare it
 
 | Rarity | Base Price | Days to Find Buyer | d100 Roll Modifier* |
 |--------|------------|--------------------|---------------------|
-| Common | 100 gp | `dice: 1d4\|avg` (`1d4`) | +10 |
-| Uncommon | 500 gp | `dice: 1d6\|avg` (`1d6`) | +0 |
-| Rare | 5,000 gp | `dice: 1d8\|avg` (`1d8`) | -10 |
-| Very rare | 50,000 gp | `dice: 1d10\|avg` (`1d10`) | -20 |
+| Common | 100 gp | `dice: 1d4` (`1d4`) | +10 |
+| Uncommon | 500 gp | `dice: 1d6` (`1d6`) | +0 |
+| Rare | 5,000 gp | `dice: 1d8` (`1d8`) | -10 |
+| Very rare | 50,000 gp | `dice: 1d10` (`1d10`) | -20 |
 ^salable-magic-items
 
 **Selling a Magic Item**

@@ -12,7 +12,7 @@ aliases: ["Ring of Psychic Resistance"]
 # Ring of Psychic Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

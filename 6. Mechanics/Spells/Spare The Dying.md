@@ -22,6 +22,6 @@ aliases: ["Spare the Dying"]
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 277

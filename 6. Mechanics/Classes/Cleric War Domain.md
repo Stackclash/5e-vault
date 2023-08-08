@@ -24,11 +24,11 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/divine-favor.md\|divine favor]], [[/6. Mechanics/Spells/shield-of-faith.md\|shield of faith]] |
-| 3rd | [[/6. Mechanics/Spells/magic-weapon.md\|magic weapon]], [[/6. Mechanics/Spells/spiritual-weapon.md\|spiritual weapon]] |
-| 5th | [[/6. Mechanics/Spells/crusaders-mantle.md\|crusader's mantle]], [[/6. Mechanics/Spells/spirit-guardians.md\|spirit guardians]] |
-| 7th | [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [[/6. Mechanics/Spells/stoneskin.md\|stoneskin]] |
-| 9th | [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/hold-monster.md\|hold monster]] |
+| 1st | [[/6. Mechanics/Spells/Divine Favor.md|divine favor]], [[/6. Mechanics/Spells/Shield Of Faith.md|shield of faith]] |
+| 3rd | [[/6. Mechanics/Spells/Magic Weapon.md|magic weapon]], [[/6. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] |
+| 5th | [[/6. Mechanics/Spells/Crusaders Mantle.md|crusader's mantle]], [[/6. Mechanics/Spells/Spirit Guardians.md|spirit guardians]] |
+| 7th | [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[/6. Mechanics/Spells/Stoneskin.md|stoneskin]] |
+| 9th | [[/6. Mechanics/Spells/Flame Strike.md|flame strike]], [[/6. Mechanics/Spells/Hold Monster.md|hold monster]] |
 ^war-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -49,14 +49,14 @@ At 6th level, when a creature within 30 feet of you makes an attack roll, you ca
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Avatar of Battle (Level 17)
 

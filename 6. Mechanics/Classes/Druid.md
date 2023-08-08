@@ -77,15 +77,15 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws:** Intelligence, Wisdom
 - **Armor:** light, medium
-- **Weapons:** [[/6. Mechanics/Items/club.md\|clubs]], [[/6. Mechanics/Items/dagger.md\|daggers]], [[/6. Mechanics/Items/dart.md\|darts]], [[/6. Mechanics/Items/javelin.md\|javelins]], [[/6. Mechanics/Items/mace.md\|maces]], [[/6. Mechanics/Items/quarterstaff.md\|quarterstaffs]], [[/6. Mechanics/Items/scimitar.md\|scimitars]], [[/6. Mechanics/Items/sickle.md\|sickles]], [[/6. Mechanics/Items/sling.md\|slings]], [[/6. Mechanics/Items/spear.md\|spears]]
-- **Tools:** [[/6. Mechanics/Items/herbalism-kit.md\|Herbalism kit]]
+- **Weapons:** [[/6. Mechanics/Items/Club.md|clubs]], [[/6. Mechanics/Items/Dagger.md|daggers]], [[/6. Mechanics/Items/Dart.md|darts]], [[/6. Mechanics/Items/Javelin.md|javelins]], [[/6. Mechanics/Items/Mace.md|maces]], [[/6. Mechanics/Items/Quarterstaff.md|quarterstaffs]], [[/6. Mechanics/Items/Scimitar.md|scimitars]], [[/6. Mechanics/Items/Sickle.md|sickles]], [[/6. Mechanics/Items/Sling.md|slings]], [[/6. Mechanics/Items/Spear.md|spears]]
+- **Tools:** [[/6. Mechanics/Items/Herbalism Kit.md|Herbalism kit]]
 - **Skills:** Choose 2 from *Animal Handling*, *Arcana*, *Insight*, *Medicine*, *Nature*, *Perception*, *Religion*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a wooden [[/6. Mechanics/Items/shield.md\|shield]] or (b) any simple weapon  
-- (a) a [[/6. Mechanics/Items/scimitar.md\|scimitar]] or (b) any simple melee weapon  
-- [[/6. Mechanics/Items/leather-armor.md\|Leather armor]], an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]], and a druidic focus  
+- (a) a wooden [[/6. Mechanics/Items/Shield.md|shield]] or (b) any simple weapon  
+- (a) a [[/6. Mechanics/Items/Scimitar.md|scimitar]] or (b) any simple melee weapon  
+- [[/6. Mechanics/Items/Leather Armor.md|Leather armor]], an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]], and a druidic focus  
 
 Alternatively, you may start with 2d4 × 10 gp and choose your own equipment.
 
@@ -105,7 +105,7 @@ You gain the following proficiencies:
 
 ### Druidic (Level 1)
 
-You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check but can't decipher it without magic.
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) check but can't decipher it without magic.
 
 ### Spellcasting (Level 1)
 
@@ -121,7 +121,7 @@ The Druid table shows how many spell slots you have to cast your druid spells of
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -156,14 +156,14 @@ Your druid level determines the beasts you can transform into, as shown in the B
 | 8th | 1 | — | Giant eagle |
 ^beast-shapes
 
-You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]], drop to 0 hit points, or die.
+You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]], drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.  
-- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]].  
-- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [[/6. Mechanics/Spells/call-lightning.md\|call lightning]], that you've already cast.  
-- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]], unless your new form also has that sense.  
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]].  
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [[/6. Mechanics/Spells/Call Lightning.md|call lightning]], that you've already cast.  
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]], unless your new form also has that sense.  
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
 
 ### Wild Companion (Level 2)
@@ -171,7 +171,7 @@ _Source: Tasha's Cauldron of Everything p. 35_
 
 _2nd-level druid optional class features_
 
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[/6. Mechanics/Spells/find-familiar.md\|find familiar]] spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[/6. Mechanics/Spells/Find Familiar.md|find familiar]] spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
 

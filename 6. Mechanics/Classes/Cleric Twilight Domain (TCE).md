@@ -44,11 +44,11 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/faerie-fire.md\|faerie fire]], [[/6. Mechanics/Spells/sleep.md\|sleep]] |
-| 3rd | [[/6. Mechanics/Spells/moonbeam.md\|moonbeam]], [[/6. Mechanics/Spells/see-invisibility.md\|see invisibility]] |
-| 5th | [[/6. Mechanics/Spells/aura-of-vitality.md\|aura of vitality]], [[/6. Mechanics/Spells/leomunds-tiny-hut.md\|Leomund's tiny hut]] |
-| 7th | [[/6. Mechanics/Spells/aura-of-life.md\|aura of life]], [[/6. Mechanics/Spells/greater-invisibility.md\|greater invisibility]] |
-| 9th | [[/6. Mechanics/Spells/circle-of-power.md\|circle of power]], [[/6. Mechanics/Spells/mislead.md\|mislead]] |
+| 1st | [[/6. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[/6. Mechanics/Spells/Sleep.md|sleep]] |
+| 3rd | [[/6. Mechanics/Spells/Moonbeam.md|moonbeam]], [[/6. Mechanics/Spells/See Invisibility.md|see invisibility]] |
+| 5th | [[/6. Mechanics/Spells/Aura Of Vitality.md|aura of vitality]], [[/6. Mechanics/Spells/Leomunds Tiny Hut.md|Leomund's tiny hut]] |
+| 7th | [[/6. Mechanics/Spells/Aura Of Life.md|aura of life]], [[/6. Mechanics/Spells/Greater Invisibility.md|greater invisibility]] |
+| 9th | [[/6. Mechanics/Spells/Circle Of Power.md|circle of power]], [[/6. Mechanics/Spells/Mislead.md|mislead]] |
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -61,9 +61,9 @@ You gain proficiency with martial weapons and heavy armor.
 
 _1st-level Twilight Domain feature_
 
-You can see through the deepest gloom. You have [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
+You can see through the deepest gloom. You have [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
-As an action, you can magically share the [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
+As an action, you can magically share the [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
 
 ### Vigilant Blessing (Level 1)
 
@@ -77,10 +77,10 @@ _2nd-level Twilight Domain feature_
 
 You can use your Channel Divinity to refresh your allies with soothing twilight.
 
-As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
+As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it temporary hit points equal to `dice: 1d6\|avg` (`1d6`) plus your cleric level.  
-- You end one effect on it causing it to be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]].  
+- You grant it temporary hit points equal to `dice: 1d6` (`1d6`) plus your cleric level.  
+- You end one effect on it causing it to be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[6. Mechanics/Rules/Conditions.md#frightened|frightened]].  
 
 ### Steps of Night (Level 6)
 
@@ -92,13 +92,13 @@ You can draw on the mystical power of night to rise into the air. As a bonus act
 
 _8th-level Twilight Domain feature_
 
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Twilight Shroud (Level 17)
 

@@ -21,7 +21,7 @@ Battle Smiths played a key role in House Cannith's work on battle constructs and
 
 ### Tool Proficiency (Level 3)
 
-When you adopt this specialization at 3rd level, you gain proficiency with [[/6. Mechanics/Items/smiths-tools.md\|smith's tools]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with [[/6. Mechanics/Items/Smiths Tools.md|smith's tools]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 ### Battle Smith Spells (Level 3)
 
@@ -31,11 +31,11 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 | Artificer Level | Spell |
 |-----------------|-------|
-| 3rd | [[/6. Mechanics/Spells/heroism.md\|heroism]], [[/6. Mechanics/Spells/shield.md\|shield]] |
-| 5th | [[/6. Mechanics/Spells/branding-smite.md\|branding smite]], [[/6. Mechanics/Spells/warding-bond.md\|warding bond]] |
-| 9th | [[/6. Mechanics/Spells/aura-of-vitality.md\|aura of vitality]], [[/6. Mechanics/Spells/conjure-barrage.md\|conjure barrage]] |
-| 13th | [[/6. Mechanics/Spells/aura-of-purity.md\|aura of purity]], [[/6. Mechanics/Spells/fire-shield.md\|fire shield]] |
-| 17th | [[/6. Mechanics/Spells/banishing-smite.md\|banishing smite]], [[/6. Mechanics/Spells/mass-cure-wounds.md\|mass cure wounds]] |
+| 3rd | [[/6. Mechanics/Spells/Heroism.md|heroism]], [[/6. Mechanics/Spells/Shield.md|shield]] |
+| 5th | [[/6. Mechanics/Spells/Branding Smite.md|branding smite]], [[/6. Mechanics/Spells/Warding Bond.md|warding bond]] |
+| 9th | [[/6. Mechanics/Spells/Aura Of Vitality.md|aura of vitality]], [[/6. Mechanics/Spells/Conjure Barrage.md|conjure barrage]] |
+| 13th | [[/6. Mechanics/Spells/Aura Of Purity.md|aura of purity]], [[/6. Mechanics/Spells/Fire Shield.md|fire shield]] |
+| 17th | [[/6. Mechanics/Spells/Banishing Smite.md|banishing smite]], [[/6. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]] |
 ^battle-smith-spells
 
 ### Battle Ready (Level 3)
@@ -47,13 +47,13 @@ When you reach 3rd level, your combat training and your experiments with magic h
 
 ### Steel Defender (Level 3)
 
-By 3rd level, your tinkering has borne you a faithful companion, a [[/6. Mechanics/Bestiary/Construct/Steel Defender (TCE).md\|steel defender]]. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+By 3rd level, your tinkering has borne you a faithful companion, a [[/6. Mechanics/Bestiary/Construct/Steel Defender (TCE).md|steel defender]]. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
-In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], the defender can take any action of its choice, not just Dodge.
+In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the defender can take any action of its choice, not just Dodge.
 
-If the [[/6. Mechanics/Spells/mending.md\|mending]] spell is cast on it, it regains `dice: 2d6\|avg` (`2d6`) hit points. If it has died within the last hour, you can use your [[/6. Mechanics/Items/smiths-tools.md\|smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
+If the [[/6. Mechanics/Spells/Mending.md|mending]] spell is cast on it, it regains `dice: 2d6` (`2d6`) hit points. If it has died within the last hour, you can use your [[/6. Mechanics/Items/Smiths Tools.md|smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
 
-At the end of a long rest, you can create a new steel defender if you have your [[/6. Mechanics/Items/smiths-tools.md\|smith's tools]] with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+At the end of a long rest, you can create a new steel defender if you have your [[/6. Mechanics/Items/Smiths Tools.md|smith's tools]] with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
 ### Extra Attack (Level 5)
 
@@ -63,8 +63,8 @@ Starting at 5th level, you can attack twice, rather than once, whenever you take
 
 At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
-- The target takes an extra `dice: 2d6\|avg` (`2d6`) force damage.  
-- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring `dice: 2d6\|avg` (`2d6`) hit points to it.  
+- The target takes an extra `dice: 2d6` (`2d6`) force damage.  
+- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring `dice: 2d6` (`2d6`) hit points to it.  
 
 You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
 
@@ -72,6 +72,6 @@ You can use this energy a number of times equal to your Intelligence modifier (m
 
 At 15th level, your Arcane Jolt and steel defender become more powerful:
 
-- The extra damage and the healing of your Arcane Jolt both increase to `dice: 4d6\|avg` (`4d6`).  
+- The extra damage and the healing of your Arcane Jolt both increase to `dice: 4d6` (`4d6`).  
 - Your steel defender gains a +2 bonus to Armor Class.  
-- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice: 1d4\|avg` (`1d4`) + your Intelligence modifier.
+- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice: 1d4` (`1d4`) + your Intelligence modifier.

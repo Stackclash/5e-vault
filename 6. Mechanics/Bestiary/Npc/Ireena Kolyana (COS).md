@@ -6,8 +6,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Ireena Kolyana
+*Source: Curse of Strahd p. 44, Derived from Noble (MM)*  
+
+```statblock
 "name": "Ireena Kolyana"
 "size": "Medium"
 "type": "humanoid"
@@ -43,39 +47,7 @@ statblock-link: "#^statblock"
   "name": "Parry"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/npc/token/ireena-kolyana.png"
-aliases: ["Ireena Kolyana"]
----
-# Ireena Kolyana
-*Source: Curse of Strahd p. 44, Derived from Noble (MM)*  
-
-```ad-statblock
-title: Ireena Kolyana
-![[/6. Mechanics/Bestiary/Npc/Token/ireena-kolyana.png#token]]
-*Medium humanoid(human), Lawful Good*
-
-- **Armor Class** 15 ([[/6. Mechanics/Items/breastplate.md\|breastplate]])
-- **Hit Points** `dice: 2d8|text(14)` (2d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Deception +5, Insight +4, Persuasion +5
-- **Senses** passive Perception 12
-- **Languages** any two languages
-- **Challenge** 1/8
-
-## Actions
-
-***Rapier.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 1` (`1d8 + 1`) piercing damage.
-
-## Reactions
-
-***Parry.*** Ireena adds 2 to its AC against one melee attack that would hit it. To do so, Ireena must see the attacker and be wielding a melee weapon.
+"image": "6. Mechanics/Bestiary/Npc/token/ireena-kolyana.png"
 ```
 ^statblock
 

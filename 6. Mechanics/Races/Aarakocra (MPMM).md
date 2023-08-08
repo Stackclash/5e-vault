@@ -23,13 +23,13 @@ Because of your wings, you have a flying speed equal to your walking speed. You 
 
 ### Talons
 
-You have talons that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6\|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have talons that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Wind Caller
 
-Starting at 3rd level, you can cast the [[/6. Mechanics/Spells/gust-of-wind.md\|gust of wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
+Starting at 3rd level, you can cast the [[/6. Mechanics/Spells/Gust Of Wind.md|gust of wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [[/6. Mechanics/Spells/gust-of-wind.md\|gust of wind]] with this trait (choose when you select this race).
+Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [[/6. Mechanics/Spells/Gust Of Wind.md|gust of wind]] with this trait (choose when you select this race).
 
 ## Description
 

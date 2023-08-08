@@ -7,66 +7,7 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Silver Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Lawful Good"
-"ac": !!int "18"
-"hp": !!int "168"
-"hit_dice": "16d10 + 80"
-"stats":
-- !!int "23"
-- !!int "10"
-- !!int "21"
-- !!int "14"
-- !!int "11"
-- !!int "19"
-"speed": "walk 40 ft., fly 80 ft."
-"saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "9"
-"skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "8"
-  "History": !!int "6"
-  "Arcana": !!int "6"
-"damage_immunities": "cold"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
-"languages": "Common, Draconic"
-"cr": "9"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
-    \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
-    \ must make a DC 17 Constitution saving throw, taking 54 (dice: 12d8|avg (12d8))\
-    \ cold damage on a failed save, or half as much damage on a successful one.  \n\
-    - Paralyzing Breath. The dragon exhales paralyzing gas in a 30-foot cone.\
-    \ Each creature in that area must succeed on a DC 17 Constitution saving throw\
-    \ or be [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]] for 1 minute. A\
-    \ creature can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-"source":
-- "MM"
-- "SKT"
-- "DSotDQ"
-"image": "/compendium/bestiary/dragon/token/young-silver-dragon.png"
-aliases: ["Young Silver Dragon"]
+statblock: inline
 ---
 # Young Silver Dragon
 *Source: Monster Manual p. 118, Storm King's Thunder, Dragonlance: Shadow of the Dragon Queen*  
@@ -145,39 +86,64 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Silver Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-silver-dragon.png#token]]
-*Large dragon, Lawful Good*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 16d10 + 80|text(168)` (16d10 + 80) 
-- **Speed** walk 40 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +4, Constitution +9, Wisdom +4, Charisma +8
-- **Skills** Arcana +6, History +6, Perception +8, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
-- **Damage Immunities** cold
-- **Languages** Common, Draconic
-- **Challenge** 9
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 6` (`2d10 + 6`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 6` (`2d6 + 6`) slashing damage.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Cold Breath.** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (`dice: 12d8` (`12d8`)) cold damage on a failed save, or half as much damage on a successful one.  
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+```statblock
+"name": "Young Silver Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Lawful Good"
+"ac": !!int "18"
+"hp": !!int "168"
+"hit_dice": "16d10 + 80"
+"stats":
+- !!int "23"
+- !!int "10"
+- !!int "21"
+- !!int "14"
+- !!int "11"
+- !!int "19"
+"speed": "walk 40 ft., fly 80 ft."
+"saves":
+  "Charisma": !!int "8"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "9"
+"skillsaves":
+  "Stealth": !!int "4"
+  "Perception": !!int "8"
+  "History": !!int "6"
+  "Arcana": !!int "6"
+"damage_immunities": "cold"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
+"languages": "Common, Draconic"
+"cr": "9"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
+    \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
+    \ must make a DC 17 Constitution saving throw, taking 54 (dice: 12d8|avg (12d8))\
+    \ cold damage on a failed save, or half as much damage on a successful one.  \n\
+    - Paralyzing Breath. The dragon exhales paralyzing gas in a 30-foot cone.\
+    \ Each creature in that area must succeed on a DC 17 Constitution saving throw\
+    \ or be [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
+    \ creature can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+"source":
+- "MM"
+- "SKT"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-silver-dragon.png"
 ```
 ^statblock
 

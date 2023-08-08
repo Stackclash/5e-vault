@@ -24,11 +24,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/false-life.md\|false life]], [[/6. Mechanics/Spells/ray-of-sickness.md\|ray of sickness]] |
-| 3rd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/ray-of-enfeeblement.md\|ray of enfeeblement]] |
-| 5th | [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/vampiric-touch.md\|vampiric touch]] |
-| 7th | [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/death-ward.md\|death ward]] |
-| 9th | [[/6. Mechanics/Spells/antilife-shell.md\|antilife shell]], [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]] |
+| 1st | [[/6. Mechanics/Spells/False Life.md|false life]], [[/6. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]] |
+| 3rd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]] |
+| 5th | [[/6. Mechanics/Spells/Animate Dead.md|animate dead]], [[/6. Mechanics/Spells/Vampiric Touch.md|vampiric touch]] |
+| 7th | [[/6. Mechanics/Spells/Blight.md|blight]], [[/6. Mechanics/Spells/Death Ward.md|death ward]] |
+| 9th | [[/6. Mechanics/Spells/Antilife Shell.md|antilife shell]], [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]] |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -51,14 +51,14 @@ Starting at 6th level, the cleric's ability to channel negative energy becomes m
 
 ### Divine Strike (Level 8)
 
-At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric's turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric's turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra `dice: 1d8` (`1d8`) necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Improved Reaper (Level 17)
 

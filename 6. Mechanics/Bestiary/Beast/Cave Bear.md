@@ -7,8 +7,12 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Cave Bear
+*Source: Monster Manual p. 334, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage*  
+
+```statblock
 "name": "Cave Bear"
 "size": "Large"
 "type": "beast"
@@ -31,7 +35,7 @@ statblock-link: "#^statblock"
 "cr": "2"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The bear has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
@@ -50,43 +54,7 @@ statblock-link: "#^statblock"
 - "MM"
 - "TftYP"
 - "WDMM"
-"image": "/compendium/bestiary/beast/token/cave-bear.png"
-aliases: ["Cave Bear"]
----
-# Cave Bear
-*Source: Monster Manual p. 334, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage*  
-
-```ad-statblock
-title: Cave Bear
-![[/6. Mechanics/Bestiary/Beast/Token/cave-bear.png#token]]
-*Large beast, Unaligned*
-
-- **Armor Class** 12 (natural armor)
-- **Hit Points** `dice: 5d10 + 15|text(42)` (5d10 + 15) 
-- **Speed** walk 40 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Keen Smell.*** The bear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on smell.
-
-## Actions
-
-***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 5` (`1d8 + 5`) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 5` (`2d6 + 5`) slashing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/cave-bear.png"
 ```
 ^statblock
 

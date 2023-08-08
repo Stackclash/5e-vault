@@ -40,7 +40,7 @@ You have a climbing speed equal to your walking speed. In addition, at 3rd level
 
 ### Vampiric Bite
 
-Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals `dice: 1d4\|avg` (`1d4`) piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.
+Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals `dice: 1d4` (`1d4`) piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.
 
 When you attack with this bite and hit a creature that isn't a Construct or an Undead, you can empower yourself in one of the following ways of your choice:
 
@@ -51,7 +51,7 @@ You can empower yourself with this bite a number of times equal to your proficie
 
 ## Description
 
-Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]], and a life-draining bite.
+Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]], and a life-draining bite.
 
 With unique insights into the nature of the undead, many dhampirs become adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who'd tempt their hunger.
 

@@ -9,8 +9,20 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Warlock of the Fiend
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
+
+Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[/6. Mechanics/Bestiary/Fiend/Imp.md|imps]] or [[/6. Mechanics/Bestiary/Fiend/Quasit.md|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
+
+## Warlocks
+
+Warlocks gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities.
+
+## Stat Block
+
+```statblock
 "name": "Warlock of the Fiend"
 "size": "Medium"
 "type": "humanoid"
@@ -41,11 +53,11 @@ statblock-link: "#^statblock"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The warlock casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 15): \n\nAt will: [[/6. Mechanics/Spells/alter-self.md\|alter self]],\
-    \ [[/6. Mechanics/Spells/mage-armor.md\|mage armor]] (self only), [[/6. Mechanics/Spells/mage-hand.md\|mage hand]],\
-    \ [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]]\n\
-    \n1/day each: [[/6. Mechanics/Spells/banishment.md\|banishment]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]],\
-    \ [[/6. Mechanics/Spells/suggestion.md\|suggestion]]"
+    \ ability (spell save DC 15): \n\nAt will: [[/6. Mechanics/Spells/Alter Self.md|alter self]],\
+    \ [[/6. Mechanics/Spells/Mage Armor.md|mage armor]] (self only), [[/6. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/6. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[/6. Mechanics/Spells/Banishment.md|banishment]], [[/6. Mechanics/Spells/Plane Shift.md|plane shift]],\
+    \ [[/6. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "spells"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "When the warlock makes an ability check or saving throw, it can add a dice:\
@@ -78,62 +90,7 @@ statblock-link: "#^statblock"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/humanoid/token/warlock-of-the-fiend.png"
-aliases: ["Warlock of the Fiend"]
----
-# Warlock of the Fiend
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
-
-Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[/6. Mechanics/Bestiary/Fiend/Imp.md\|imps]] or [[/6. Mechanics/Bestiary/Fiend/Quasit.md\|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
-
-## Warlocks
-
-Warlocks gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities.
-
-## Stat Block
-
-```ad-statblock
-title: Warlock of the Fiend
-![[/6. Mechanics/Bestiary/Humanoid/Token/warlock-of-the-fiend.png#token]]
-*Medium humanoid, Any alignment*
-
-- **Armor Class** 13 (16 with [[/6. Mechanics/Spells/mage-armor.md\|mage armor]])
-- **Hit Points** `dice: 12d8 + 24|text(78)` (12d8 + 24) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|16 (+3)|15 (+2)|12 (+1)|12 (+1)|18 (+4)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Wisdom +4, Charisma +7
-- **Skills** Arcana +4, Deception +7, Persuasion +7, Religion +4
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Damage Resistances** fire
-- **Languages** any two languages (usually Abyssal or Infernal)
-- **Challenge** 7
-
-## Traits
-
-***Dark One's Own Luck (Recharges after a Short or Long Rest).*** When the warlock makes an ability check or saving throw, it can add a `dice: d10` (`d10`) to the roll. It can do this after the roll is made but before any of the roll's effects occur.
-
-***Spellcasting.*** The warlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15): 
-
-**At will**: [[/6. Mechanics/Spells/alter-self.md\|alter self]], [[/6. Mechanics/Spells/mage-armor.md\|mage armor]] (self only), [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]]
-
-**1/day each**: [[/6. Mechanics/Spells/banishment.md\|banishment]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]], [[/6. Mechanics/Spells/suggestion.md\|suggestion]]
-
-## Actions
-
-***Multiattack.*** The warlock makes three Scimitar attacks.
-
-***Scimitar.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) slashing damage plus `dice: 4d6` (`4d6`) fire damage.
-
-***Hellfire.*** Green flame explodes in a 10-foot-radius sphere centered on a point within 120 feet of the warlock. Each creature in that area must make a DC 15 Dexterity saving throw, taking 16 (`dice: 3d10` (`3d10`)) fire damage and 11 (`dice: 2d10` (`2d10`)) necrotic damage on a failed save, or half as much damage on a successful one.
-
-## Reactions
-
-***Fiendish Rebuke (3/Day).*** In response to being damaged by a visible creature within 60 feet of it, the warlock forces that creature to make a DC 15 Constitution saving throw, taking 22 (`dice: 4d10` (`4d10`)) necrotic damage on a failed save, or half as much damage on a successful one.
+"image": "6. Mechanics/Bestiary/Humanoid/token/warlock-of-the-fiend.png"
 ```
 ^statblock
 

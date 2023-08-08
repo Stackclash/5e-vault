@@ -26,12 +26,12 @@ You conjure a mass of thick, sticky webbing at a point of your choice within ran
 
 If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 
-Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is [[6. Mechanics/Rules/Conditions.md#restrained\|restrained]] as long as it remains in the webs or until it breaks free.
+Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] as long as it remains in the webs or until it breaks free.
 
-A creature [[6. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer [[6. Mechanics/Rules/Conditions.md#restrained\|restrained]].
+A creature [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer [[6. Mechanics/Rules/Conditions.md#restrained|restrained]].
 
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `dice: 2d4\|avg` (`2d4`) fire damage to any creature that starts its turn in the fire.
+The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `dice: 2d4` (`2d4`) fire damage to any creature that starts its turn in the fire.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger Swarmkeeper (TCE).md\|Ranger (Swarmkeeper)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger Swarmkeeper (TCE).md|Ranger (Swarmkeeper)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 287

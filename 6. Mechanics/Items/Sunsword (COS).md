@@ -17,7 +17,7 @@ aliases: ["Sunsword"]
 - **Damage**:
   - One-handed: 1d8 R
   - Two-handed: 1d10 R
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Finesse\|Finesse]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]], [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]], [[6. Mechanics/Rules/item-properties.md#Versatile\|Versatile]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[6. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
@@ -25,9 +25,9 @@ The Sunsword is a unique blade once possessed by Strahd's brother, Sergei von Za
 
 Strahd employed a powerful wizard named Khazan to destroy the weapon after Sergei's death. The first part of the process required the hilt and the blade to be separated, which Khazan accomplished. While Khazan was busying himself destroying the blade, his apprentice stole the hilt and fled. Khazan later located his apprentice's mutilated corpse in the Svalich Woods, but the hilt was nowhere to be found. To avoid the vampire's wrath, Khazan told Strahd that the entire weapon had been destroyed.
 
-The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [[/6. Mechanics/Items/Sun Blade.md\|sun blade]]:
+The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [[/6. Mechanics/Items/Sun Blade.md|sun blade]]:
 
-- You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `dice: 1d8\|avg` (`1d8`) radiant damage.  
+- You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `dice: 1d8` (`1d8`) radiant damage.  
 - The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.  
 
 ## Sentience

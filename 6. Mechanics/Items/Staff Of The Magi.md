@@ -16,13 +16,13 @@ aliases: ["Staff of the Magi"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]], [[6. Mechanics/Rules/item-properties.md#Versatile\|Versatile]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[6. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
-The staff has 50 charges for the following properties. It regains `dice: 4d6 + 2\|avg` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20\|avg` (`d20`). On a 20, the staff regains `dice: 1d12 + 1\|avg` (`1d12 + 1`) charges.
+The staff has 50 charges for the following properties. It regains `dice: 4d6 + 2` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20` (`d20`). On a 20, the staff regains `dice: 1d12 + 1` (`1d12 + 1`) charges.
 
 ## Spell Absorption
 
@@ -30,9 +30,9 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] (7 charges), [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]] (3 charges), [[/6. Mechanics/Spells/fireball.md\|fireball]] (7th-level version, 7 charges), [[/6. Mechanics/Spells/flaming-sphere.md\|flaming sphere]] (2 charges), [[/6. Mechanics/Spells/ice-storm.md\|ice storm]] (4 charges), [[/6. Mechanics/Spells/invisibility.md\|invisibility]] (2 charges), [[/6. Mechanics/Spells/knock.md\|knock]] (2 charges), [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]] (7th-level version, 7 charges), [[/6. Mechanics/Spells/passwall.md\|passwall]] (5 charges), [[/6. Mechanics/Spells/plane-shift.md\|plane shift]] (7 charges), [[/6. Mechanics/Spells/telekinesis.md\|telekinesis]] (5 charges), [[/6. Mechanics/Spells/wall-of-fire.md\|wall of fire]] (4 charges), or [[/6. Mechanics/Spells/web.md\|web]] (2 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] (7 charges), [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]] (3 charges), [[/6. Mechanics/Spells/Fireball.md|fireball]] (7th-level version, 7 charges), [[/6. Mechanics/Spells/Flaming Sphere.md|flaming sphere]] (2 charges), [[/6. Mechanics/Spells/Ice Storm.md|ice storm]] (4 charges), [[/6. Mechanics/Spells/Invisibility.md|invisibility]] (2 charges), [[/6. Mechanics/Spells/Knock.md|knock]] (2 charges), [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]] (7th-level version, 7 charges), [[/6. Mechanics/Spells/Passwall.md|passwall]] (5 charges), [[/6. Mechanics/Spells/Plane Shift.md|plane shift]] (7 charges), [[/6. Mechanics/Spells/Telekinesis.md|telekinesis]] (5 charges), [[/6. Mechanics/Spells/Wall Of Fire.md|wall of fire]] (4 charges), or [[/6. Mechanics/Spells/Web.md|web]] (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [[/6. Mechanics/Spells/arcane-lock.md\|arcane lock]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [[/6. Mechanics/Spells/light.md\|light]], [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], or [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]].
+You can also use an action to cast one of the following spells from the staff without using any charges: [[/6. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [[/6. Mechanics/Spells/Light.md|light]], [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], or [[/6. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]].
 
 ## Retributive Strike
 

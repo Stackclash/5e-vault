@@ -30,6 +30,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer Alchemist (TCE).md|Artificer (Alchemist)]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric Life Domain.md|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 270

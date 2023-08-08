@@ -28,7 +28,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ## Bear's Endurance
 
-The target has advantage on Constitution checks. It also gains `dice: 2d6\|avg` (`2d6`) temporary hit points, which are lost when the spell ends.
+The target has advantage on Constitution checks. It also gains `dice: 2d6` (`2d6`) temporary hit points, which are lost when the spell ends.
 
 ## Bull's Strength
 
@@ -36,7 +36,7 @@ The target has advantage on Strength checks, and his or her carrying capacity do
 
 ## Cat's Grace
 
-The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
+The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ## Eagle's Splendor
 
@@ -56,6 +56,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]]
 
 Source: Player's Handbook p. 237

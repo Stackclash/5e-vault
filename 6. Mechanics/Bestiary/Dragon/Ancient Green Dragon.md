@@ -6,98 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/gargantuan
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Ancient Green Dragon"
-"size": "Gargantuan"
-"type": "dragon"
-"alignment": "Lawful Evil"
-"ac": !!int "21"
-"hp": !!int "385"
-"hit_dice": "22d20 + 154"
-"stats":
-- !!int "27"
-- !!int "12"
-- !!int "25"
-- !!int "20"
-- !!int "17"
-- !!int "19"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "11"
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "10"
-  "Constitution": !!int "14"
-"skillsaves":
-  "Deception": !!int "11"
-  "Stealth": !!int "8"
-  "Insight": !!int "10"
-  "Perception": !!int "17"
-  "Persuasion": !!int "11"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
-"languages": "Common, Draconic"
-"cr": "22"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) piercing damage plus dice: 3d6|avg\
-    \ (3d6) poison damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d6 + 8|avg (4d6 + 8) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 8|avg (2d8 + 8) bludgeoning damage."
-  "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales poisonous gas in a 90-foot cone. Each creature in that\
-    \ area must make a DC 22 Constitution saving throw, taking 77 (dice: 22d6|avg\
-    \ (22d6)) poison damage on a failed save, or half as much damage on a successful\
-    \ one."
-  "name": "Poison Breath (Recharge 5-6)"
-"legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ check."
-  "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 23 Dexterity saving throw or take dice: 2d6 + 8|avg (2d6\
-    \ + 8) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ The dragon can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
-"source":
-- "MM"
-- "SKT"
-- "DIP"
-"image": "/compendium/bestiary/dragon/token/ancient-green-dragon.png"
-aliases: ["Ancient Green Dragon"]
+statblock: inline
 ---
 # Ancient Green Dragon
 *Source: Monster Manual p. 93, Storm King's Thunder, Dragon of Icespire Peak*  
@@ -194,81 +103,96 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Ancient Green Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/ancient-green-dragon.png#token]]
-*Gargantuan dragon, Lawful Evil*
-
-- **Armor Class** 21 (natural armor)
-- **Hit Points** `dice: 22d20 + 154|text(385)` (22d20 + 154) 
-- **Speed** walk 40 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Dexterity +8, Constitution +14, Wisdom +10, Charisma +11
-- **Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Common, Draconic
-- **Challenge** 22
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-## Actions
-
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+15` (+15 to hit), reach 15 ft., one target. Hit: `dice: 2d10 + 8` (`2d10 + 8`) piercing damage plus `dice: 3d6` (`3d6`) poison damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+15` (+15 to hit), reach 10 ft., one target. Hit: `dice: 4d6 + 8` (`4d6 + 8`) slashing damage.
-
-***Tail.*** *Melee Weapon Attack:* `dice: d20+15` (+15 to hit), reach 20 ft., one target. Hit: `dice: 2d8 + 8` (`2d8 + 8`) bludgeoning damage.
-
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
-
-***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (`dice: 22d6` (`22d6`)) poison damage on a failed save, or half as much damage on a successful one.
-
-## Legendary Actions
-
-***Detect.*** The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check.
-
-***Tail Attack.*** The dragon makes a tail attack.
-
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take `dice: 2d6 + 8` (`2d6 + 8`) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. The dragon can then fly up to half its flying speed.
-
-## Additional sources
-
-
-
-## Lair actions
-
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
-
-- Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes difficult terrain, and each creature there must succeed on a DC 15 Strength saving throw or be [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by the roots and vines. A creature can be freed if it or another creature takes an action to make a DC 15 Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.  
-- A wall of tangled brush bristling with thorns springs into existence on a solid surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in its area must make a DC 15 Dexterity saving throw. A creature that fails the save takes `dice: 4d8` (`4d8`) piercing damage and is pushed 5 feet out of the wall's space, appearing on whichever side of the wall it wants. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, a creature in the wall's space must make a DC 15 Dexterity saving throw once each round it's in contact with the wall, taking 18 (`dice: 4d8` (`4d8`)) piercing damage on a failed save, or half as much damage on a successful one. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to psychic damage. The wall sinks back into the ground when the dragon uses this lair action again or when the dragon dies.  
-- Magical fog billows around one creature the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by the dragon until initiative count 20 on the next round.  
-
-
-## Regional effects
-
-The region containing a legendary green dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
-
-- Thickets form labyrinthine passages within 1 mile of the dragon's lair. The thickets act as 10-foot-high, 10-foot-thick walls that block line of sight. Creatures can move through the thickets, with every 1 foot a creature moves costing it 4 feet of movement. A creature in the thickets must make a DC 15 Dexterity saving throw once each round it's in contact with the thickets or take `dice: 1d6` (`1d6`) piercing damage from thorns.  
-
-    Each 10-foot-cube of thickets has AC 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability to fire damage, and immunity to psychic and thunder damage.  
-- Within 1 mile of its lair, the dragon leaves no physical evidence of its passage unless it wishes to. Tracking it there is impossible except by magical means. In addition, it ignores movement impediments and damage from plants in this area that are neither magical nor creatures, including the thickets described above. The plants remove themselves from the dragon's path.  
-- Rodents and birds within 1 mile of the dragon's lair serve as the dragon's eyes and ears. Deer and other large game are strangely absent, hinting at the presence of an unnaturally hungry predator.  
-
-If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within `dice: 1d10` (`1d10`) days, they become mundane plants and normal difficult terrain, losing their thorns.
-
+```statblock
+"name": "Ancient Green Dragon"
+"size": "Gargantuan"
+"type": "dragon"
+"alignment": "Lawful Evil"
+"ac": !!int "21"
+"hp": !!int "385"
+"hit_dice": "22d20 + 154"
+"stats":
+- !!int "27"
+- !!int "12"
+- !!int "25"
+- !!int "20"
+- !!int "17"
+- !!int "19"
+"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "11"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "14"
+"skillsaves":
+  "Deception": !!int "11"
+  "Stealth": !!int "8"
+  "Insight": !!int "10"
+  "Perception": !!int "17"
+  "Persuasion": !!int "11"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+"languages": "Common, Draconic"
+"cr": "22"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+  "name": "Legendary Resistance (3/Day)"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+    \ one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 15 ft., one target.\
+    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) piercing damage plus dice: 3d6|avg\
+    \ (3d6) poison damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 4d6 + 8|avg (4d6 + 8) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 20 ft., one target.\
+    \ Hit: dice: 2d8 + 8|avg (2d8 + 8) bludgeoning damage."
+  "name": "Tail"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success. If a creature's saving throw\
+    \ is successful or the effect ends for it, the creature is immune to the dragon's\
+    \ Frightful Presence for the next 24 hours."
+  "name": "Frightful Presence"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales poisonous gas in a 90-foot cone. Each creature in that\
+    \ area must make a DC 22 Constitution saving throw, taking 77 (dice: 22d6|avg\
+    \ (22d6)) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
+  "name": "Poison Breath (Recharge 5-6)"
+"legendary_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ check."
+  "name": "Detect"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a tail attack."
+  "name": "Tail Attack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
+    \ must succeed on a DC 23 Dexterity saving throw or take dice: 2d6 + 8|avg (2d6\
+    \ + 8) bludgeoning damage and be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ The dragon can then fly up to half its flying speed."
+  "name": "Wing Attack (Costs 2 Actions)"
+"source":
+- "MM"
+- "SKT"
+- "DIP"
+"image": "6. Mechanics/Bestiary/Dragon/token/ancient-green-dragon.png"
 ```
 ^statblock
 

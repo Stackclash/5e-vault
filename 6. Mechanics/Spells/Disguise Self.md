@@ -27,8 +27,8 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC.
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check against your spell save DC.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger Gloom Stalker (XGE).md\|Ranger (Gloom Stalker)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Trickery Domain.md|Cleric (Trickery Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 233

@@ -5,72 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Chasme"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"hp": !!int "84"
-"hit_dice": "13d10 + 13"
-"stats":
-- !!int "15"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "14"
-- !!int "10"
-"speed": "walk 20 ft., fly 60 ft."
-"saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "5"
-"skillsaves":
-  "Perception": !!int "5"
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 15"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "6"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chasme produces a horrid droning sound to which demons are immune.\
-    \ Any other creature that starts its turn with in 30 feet of the chasme must succeed\
-    \ on a DC 12 Constitution saving throw or fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]]\
-    \ for 10 minutes. A creature that can't hear the drone automatically succeeds\
-    \ on the save. The effect on the creature ends if it takes damage or if another\
-    \ creature takes an action to splash it with holy water. If a creature's saving\
-    \ throw is successful or the effect ends for it, it is immune to the drone for\
-    \ the next 24 hours."
-  "name": "Drone"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chasme has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chasme can climb difficult surfaces, including upside down on ceilings,\
-    \ without needing to make an ability check."
-  "name": "Spider Climb"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 4d6 + 2|avg (4d6 + 2) piercing damage plus dice: 7d6|avg (7d6)\
-    \ necrotic damage, and the target's hit point maximum is reduced by an amount\
-    \ equal to the necrotic damage taken. If this effect reduces a creature's hit\
-    \ point maximum to 0, the creature dies. This reduction to a creature's hit point\
-    \ maximum lasts until the creature finishes a long rest or until it is affected\
-    \ by a spell like  [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]]."
-  "name": "Proboscis"
-"source":
-- "MM"
-- "WDMM"
-- "BGDIA"
-- "CRCotN"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/chasme.png"
-aliases: ["Chasme"]
+statblock: inline
 ---
 # Chasme
 *Source: Monster Manual p. 57, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Critical Role: Call of the Netherdeep, Keys from the Golden Vault*  
@@ -219,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -248,39 +183,69 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Chasme
-![[/6. Mechanics/Bestiary/Fiend/Token/chasme.png#token]]
-*Large fiend(demon), Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 13d10 + 13|text(84)` (13d10 + 13) 
-- **Speed** walk 20 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Wisdom +5
-- **Skills** Perception +5
-- **Senses** blindsight 10 ft., darkvision 120 ft., passive Perception 15
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 6
-
-## Traits
-
-***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
-
-***Magic Resistance.*** The chasme has advantage on saving throws against spells and other magical effects.
-
-***Spider Climb.*** The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-
-## Actions
-
-***Proboscis.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one creature. Hit: `dice: 4d6 + 2` (`4d6 + 2`) piercing damage plus `dice: 7d6` (`7d6`) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like  [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]].
+```statblock
+"name": "Chasme"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "84"
+"hit_dice": "13d10 + 13"
+"stats":
+- !!int "15"
+- !!int "15"
+- !!int "12"
+- !!int "11"
+- !!int "14"
+- !!int "10"
+"speed": "walk 20 ft., fly 60 ft."
+"saves":
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "5"
+"skillsaves":
+  "Perception": !!int "5"
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 15"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "6"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The chasme produces a horrid droning sound to which demons are immune.\
+    \ Any other creature that starts its turn with in 30 feet of the chasme must succeed\
+    \ on a DC 12 Constitution saving throw or fall [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ for 10 minutes. A creature that can't hear the drone automatically succeeds\
+    \ on the save. The effect on the creature ends if it takes damage or if another\
+    \ creature takes an action to splash it with holy water. If a creature's saving\
+    \ throw is successful or the effect ends for it, it is immune to the drone for\
+    \ the next 24 hours."
+  "name": "Drone"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The chasme has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The chasme can climb difficult surfaces, including upside down on ceilings,\
+    \ without needing to make an ability check."
+  "name": "Spider Climb"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 4d6 + 2|avg (4d6 + 2) piercing damage plus dice: 7d6|avg (7d6)\
+    \ necrotic damage, and the target's hit point maximum is reduced by an amount\
+    \ equal to the necrotic damage taken. If this effect reduces a creature's hit\
+    \ point maximum to 0, the creature dies. This reduction to a creature's hit point\
+    \ maximum lasts until the creature finishes a long rest or until it is affected\
+    \ by a spell like  [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
+  "name": "Proboscis"
+"source":
+- "MM"
+- "WDMM"
+- "BGDIA"
+- "CRCotN"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/chasme.png"
 ```
 ^statblock

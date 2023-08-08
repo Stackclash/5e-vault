@@ -6,63 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
-statblock: true
-statblock-link: "#^statblock"
-"name": "Pixie"
-"size": "Tiny"
-"type": "fey"
-"alignment": "Neutral Good"
-"ac": !!int "15"
-"hp": !!int "1"
-"hit_dice": "1d4 - 1"
-"stats":
-- !!int "2"
-- !!int "20"
-- !!int "8"
-- !!int "10"
-- !!int "14"
-- !!int "15"
-"speed": "walk 10 ft., fly 30 ft."
-"skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
-"senses": "passive Perception 14"
-"languages": "Sylvan"
-"cr": "1/4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
-    \ It can innately cast the following spells, requiring only its pixie dust as\
-    \ a component:\n\nAt will: [[/6. Mechanics/Spells/druidcraft.md\|druidcraft]]\n\
-    \n1/day each: [[/6. Mechanics/Spells/confusion.md\|confusion]], [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]],\
-    \ [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [detect\
-    \ thoughts](/compendium/spells/detect-thoughts.md), [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]],\
-    \ [[/6. Mechanics/Spells/entangle.md\|entangle]], [[/6. Mechanics/Spells/fly.md\|fly]],\
-    \ [[/6. Mechanics/Spells/phantasmal-force.md\|phantasmal force]], [[/6. Mechanics/Spells/polymorph.md\|polymorph]],\
-    \ [[/6. Mechanics/Spells/sleep.md\|sleep]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pixie has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pixie magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as\
-    \ if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any\
-    \ equipment the pixie wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Superior Invisibility"
-"source":
-- "MM"
-- "GoS"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "WBtW"
-- "KftGV"
-"image": "/compendium/bestiary/fey/token/pixie.png"
-aliases: ["Pixie"]
+statblock: inline
 ---
 # Pixie
 *Source: Monster Manual p. 253, Ghosts of Saltmarsh, Eberron: Rising from the Last War, Infernal Machine Rebuild, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
@@ -98,39 +42,61 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 
 ## Stat Block
 
-```ad-statblock
-title: Pixie
-![[/6. Mechanics/Bestiary/Fey/Token/pixie.png#token]]
-*Tiny fey, Neutral Good*
-
-- **Armor Class** 15 
-- **Hit Points** `dice: 1d4 - 1|text(1)` (1d4 - 1) 
-- **Speed** walk 10 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 2 (-4)|20 (+5)| 8 (-1)|10 (+0)|14 (+2)|15 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +4, Stealth +7
-- **Senses** passive Perception 14
-- **Languages** Sylvan
-- **Challenge** 1/4
-
-## Traits
-
-***Magic Resistance.*** The pixie has advantage on saving throws against spells and other magical effects.
-
-***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:
-
-**At will**: [[/6. Mechanics/Spells/druidcraft.md\|druidcraft]]
-
-**1/day each**: [[/6. Mechanics/Spells/confusion.md\|confusion]], [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]], [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/entangle.md\|entangle]], [[/6. Mechanics/Spells/fly.md\|fly]], [[/6. Mechanics/Spells/phantasmal-force.md\|phantasmal force]], [[/6. Mechanics/Spells/polymorph.md\|polymorph]], [[/6. Mechanics/Spells/sleep.md\|sleep]]
-
-## Actions
-
-***Superior Invisibility.*** The pixie magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the pixie wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
+```statblock
+"name": "Pixie"
+"size": "Tiny"
+"type": "fey"
+"alignment": "Neutral Good"
+"ac": !!int "15"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"stats":
+- !!int "2"
+- !!int "20"
+- !!int "8"
+- !!int "10"
+- !!int "14"
+- !!int "15"
+"speed": "walk 10 ft., fly 30 ft."
+"skillsaves":
+  "Stealth": !!int "7"
+  "Perception": !!int "4"
+"senses": "passive Perception 14"
+"languages": "Sylvan"
+"cr": "1/4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
+    \ It can innately cast the following spells, requiring only its pixie dust as\
+    \ a component:\n\nAt will: [[/6. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
+    \n1/day each: [[/6. Mechanics/Spells/Confusion.md|confusion]], [[/6. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [detect\
+    \ thoughts](/compendium/spells/detect-thoughts.md), [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[/6. Mechanics/Spells/Entangle.md|entangle]], [[/6. Mechanics/Spells/Fly.md|fly]],\
+    \ [[/6. Mechanics/Spells/Phantasmal Force.md|phantasmal force]], [[/6. Mechanics/Spells/Polymorph.md|polymorph]],\
+    \ [[/6. Mechanics/Spells/Sleep.md|sleep]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The pixie has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The pixie magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until its [[6. Mechanics/Rules/Status.md#concentration|concentration]] ends (as\
+    \ if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell). Any\
+    \ equipment the pixie wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Superior Invisibility"
+"source":
+- "MM"
+- "GoS"
+- "ERLW"
+- "IMR"
+- "EGW"
+- "WBtW"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Fey/token/pixie.png"
 ```
 ^statblock
 

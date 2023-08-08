@@ -8,9 +8,9 @@ aliases: ["Soldier"]
 # Soldier
 *Source: Player's Handbook p. 140*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Athletics\|Athletics]], [[6. Mechanics/Rules/skills.md#Intimidation\|Intimidation]]  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Athletics|Athletics]], [[6. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [[/6. Mechanics/Items/dagger.md\|dagger]], broken blade, or piece of a banner), a bone [[/6. Mechanics/Items/dice-set.md\|dice set]] or [[/6. Mechanics/Items/playing-card-set.md\|playing card set]], a set of [[/6. Mechanics/Items/common-clothes.md\|common clothes]], and a belt [[/6. Mechanics/Items/pouch.md\|pouch]] containing 10 gp  
+- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [[/6. Mechanics/Items/Dagger.md|dagger]], broken blade, or piece of a banner), a bone [[/6. Mechanics/Items/Dice Set.md|dice set]] or [[/6. Mechanics/Items/Playing Card Set.md|playing card set]], a set of [[/6. Mechanics/Items/Common Clothes.md|common clothes]], and a belt [[/6. Mechanics/Items/Pouch.md|pouch]] containing 10 gp  
 
 War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
 

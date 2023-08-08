@@ -8,8 +8,16 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/warlock
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Yuan-ti Nightmare Speaker
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
+
+Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
+
+Nightmare speakers revel in torturing others, keeping their victims in a constant state of fear and dread. They prefer to terrify rather than kill their opponents. They manipulate communities for the purpose of acquiring more victims and enjoy the company of Undead.
+
+```statblock
 "name": "Yuan-ti Nightmare Speaker"
 "size": "Medium"
 "type": "monstrosity"
@@ -41,14 +49,14 @@ statblock-link: "#^statblock"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] (snakes only),\
-    \ [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/message.md\|message]],\
-    \ [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]]\n\n2/day each:\
-    \ [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/fear.md\|fear]]\n\
-    \n3/day: [[/6. Mechanics/Spells/suggestion.md\|suggestion]]"
+    \ [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only),\
+    \ [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], [[/6. Mechanics/Spells/Message.md|message]],\
+    \ [[/6. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
+    \ [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Fear.md|fear]]\n\
+    \n3/day: [[/6. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "spells"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the yuan-ti's [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]]."
+  "desc": "Magical darkness doesn't impede the yuan-ti's [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
@@ -61,9 +69,9 @@ statblock-link: "#^statblock"
   "name": "Multiattack"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]. The yuan-ti\
+    \ the target is [[6. Mechanics/Rules/Conditions.md#restrained|restrained]]. The yuan-ti\
     \ can constrict only one creature at a time."
   "name": "Constrict"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -79,9 +87,9 @@ statblock-link: "#^statblock"
     \ 60 feet of it and creates an illusory, immobile manifestation of the creature's\
     \ deepest fears, visible only to that creature.\n\nThe target must make a DC 13\
     \ Intelligence saving throw. On a failed save, the target takes dice: 4d10|avg\
-    \ (4d10) psychic damage and is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
+    \ (4d10) psychic damage and is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of the manifestation, believing it to be real. The yuan-ti must concentrate\
-    \ to maintain the illusion (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]]\
+    \ to maintain the illusion (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]]\
     \ on a spell), which lasts for up to 1 minute and can't be harmed. The target\
     \ can repeat the saving throw at the end of each of its turns, ending the illusion\
     \ on a success or taking 11 (dice: 2d10|avg (2d10)) psychic damage on a failure."
@@ -95,69 +103,7 @@ statblock-link: "#^statblock"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/monstrosity/token/yuan-ti-nightmare-speaker.png"
-aliases: ["Yuan-ti Nightmare Speaker"]
----
-# Yuan-ti Nightmare Speaker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
-
-Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
-
-Nightmare speakers revel in torturing others, keeping their victims in a constant state of fear and dread. They prefer to terrify rather than kill their opponents. They manipulate communities for the purpose of acquiring more victims and enjoy the company of Undead.
-
-```ad-statblock
-title: Yuan-ti Nightmare Speaker
-![[/6. Mechanics/Bestiary/Monstrosity/Token/yuan-ti-nightmare-speaker.png#token]]
-*Medium monstrosity(warlock), Neutral Evil*
-
-- **Armor Class** 14 (natural armor)
-- **Hit Points** `dice: 13d8 + 13|text(71)` (13d8 + 13) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Wisdom +3, Charisma +5
-- **Skills** Deception +5, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Common, Draconic
-- **Challenge** 4
-
-## Traits
-
-***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]].
-
-***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
-
-***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
-
-**At will**: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] (snakes only), [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/message.md\|message]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]]
-
-**2/day each**: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/fear.md\|fear]]
-
-**3/day**: [[/6. Mechanics/Spells/suggestion.md\|suggestion]]
-
-## Actions
-
-***Multiattack.*** The yuan-ti makes one Constrict attack and one Scimitar attack, or it makes two Spectral Fangs attacks.
-
-***Constrict.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 10 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) bludgeoning damage, and the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]. The yuan-ti can constrict only one creature at a time.
-
-***Scimitar (Yuan-ti Form Only).*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) slashing damage.
-
-***Spectral Fangs.*** *Ranged Spell Attack:* `dice: d20+5` (+5 to hit), range 120 ft., one target. Hit: `dice: 3d8 + 3` (`3d8 + 3`) necrotic damage.
-
-***Invoke Nightmare (Recharges after a Short or Long Rest).*** The yuan-ti taps into the nightmares of one creature it can see within 60 feet of it and creates an illusory, immobile manifestation of the creature's deepest fears, visible only to that creature.
-
-The target must make a DC 13 Intelligence saving throw. On a failed save, the target takes `dice: 4d10` (`4d10`) psychic damage and is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of the manifestation, believing it to be real. The yuan-ti must concentrate to maintain the illusion (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell), which lasts for up to 1 minute and can't be harmed. The target can repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking 11 (`dice: 2d10` (`2d10`)) psychic damage on a failure.
-
-## Bonus Actions
-
-***Change Shape.*** The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
+"image": "6. Mechanics/Bestiary/Monstrosity/token/yuan-ti-nightmare-speaker.png"
 ```
 ^statblock
 

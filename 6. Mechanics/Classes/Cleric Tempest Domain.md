@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/fog-cloud.md\|fog cloud]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]] |
-| 3rd | [[/6. Mechanics/Spells/gust-of-wind.md\|gust of wind]], [[/6. Mechanics/Spells/shatter.md\|shatter]] |
-| 5th | [[/6. Mechanics/Spells/call-lightning.md\|call lightning]], [[/6. Mechanics/Spells/sleet-storm.md\|sleet storm]] |
-| 7th | [[/6. Mechanics/Spells/control-water.md\|control water]], [[/6. Mechanics/Spells/ice-storm.md\|ice storm]] |
-| 9th | [[/6. Mechanics/Spells/destructive-wave.md\|destructive wave]], [[/6. Mechanics/Spells/insect-plague.md\|insect plague]] |
+| 1st | [[/6. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[/6. Mechanics/Spells/Thunderwave.md|thunderwave]] |
+| 3rd | [[/6. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[/6. Mechanics/Spells/Shatter.md|shatter]] |
+| 5th | [[/6. Mechanics/Spells/Call Lightning.md|call lightning]], [[/6. Mechanics/Spells/Sleet Storm.md|sleet storm]] |
+| 7th | [[/6. Mechanics/Spells/Control Water.md|control water]], [[/6. Mechanics/Spells/Ice Storm.md|ice storm]] |
+| 9th | [[/6. Mechanics/Spells/Destructive Wave.md|destructive wave]], [[/6. Mechanics/Spells/Insect Plague.md|insect plague]] |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -37,7 +37,7 @@ At 1st level, you gain proficiency with martial weapons and heavy armor.
 
 ### Wrath of the Storm (Level 1)
 
-Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes `dice: 2d8\|avg` (`2d8`) lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
+Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes `dice: 2d8` (`2d8`) lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -53,14 +53,14 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) thunder damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) thunder damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Stormborn (Level 17)
 

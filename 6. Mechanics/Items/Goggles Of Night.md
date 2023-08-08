@@ -14,6 +14,6 @@ aliases: ["Goggles of Night"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing these dark lenses, you have [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] out to a range of 60 feet. If you already have [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]], wearing the goggles increases its range by 60 feet.
+While wearing these dark lenses, you have [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet. If you already have [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]], wearing the goggles increases its range by 60 feet.
 
 *Source: Dungeon Master's Guide p. 172*

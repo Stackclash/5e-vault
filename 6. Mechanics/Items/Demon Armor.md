@@ -13,16 +13,16 @@ aliases: ["Demon Armor"]
 *Heavy Armor, major, very rare (requires attunement)*  
 
 - **Armor Class**: 18
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: ⏤
 - **Weight**: 65.0 lbs.
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice: 1d8\|avg` (`1d8`).
+While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice: 1d8` (`1d8`).
 
 ## Curse
 
-Once you don this cursed armor, you can't doff it unless you are targeted by the [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
+Once you don this cursed armor, you can't doff it unless you are targeted by the [[/6. Mechanics/Spells/Remove Curse.md|remove curse]] spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
 
 *Source: Dungeon Master's Guide p. 165*

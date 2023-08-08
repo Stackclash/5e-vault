@@ -12,7 +12,7 @@ aliases: ["Belt of Storm Giant Strength"]
 # Belt of Storm Giant Strength
 *Wondrous Item, major, legendary (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

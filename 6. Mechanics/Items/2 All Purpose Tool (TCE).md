@@ -11,7 +11,7 @@ aliases: ["+2 All-Purpose Tool"]
 # +2 All-Purpose Tool
 *Wondrous Item, rare (requires attunement by an artificer)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

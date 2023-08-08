@@ -5,88 +5,7 @@ tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: true
-statblock-link: "#^statblock"
-"name": "Madam Eva"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human"
-"alignment": "Chaotic Neutral"
-"ac": !!int "10"
-"hp": !!int "88"
-"hit_dice": "16d8 + 16"
-"stats":
-- !!int "8"
-- !!int "11"
-- !!int "12"
-- !!int "17"
-- !!int "20"
-- !!int "18"
-"speed": "walk 20 ft."
-"saves":
-  "Constitution": !!int "5"
-"skillsaves":
-  "Intimidation": !!int "8"
-  "Deception": !!int "8"
-  "Religion": !!int "7"
-  "Insight": !!int "13"
-  "Perception": !!int "9"
-  "Arcana": !!int "7"
-"senses": "passive Perception 19"
-"languages": "Abyssal, Common, Elvish, Infernal"
-"cr": "10"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom\
-    \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Madam Eva\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/light.md\|light]],\
-    \ [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]],\
-    \ [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/command.md\|command]],\
-    \ [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [protection\
-    \ from evil and good](/compendium/spells/protection-from-evil-and-good.md)\n\n\
-    2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]],\
-    \ [[/6. Mechanics/Spells/protection-from-poison.md\|protection from poison]], [spiritual\
-    \ weapon](/compendium/spells/spiritual-weapon.md)\n\n3rd level (3 3rd-level\
-    \ slots): [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]],\
-    \ [[/6. Mechanics/Spells/speak-with-dead.md\|speak with dead]], [[/6. Mechanics/Spells/spirit-guardians.md\|spirit guardians]]\n\
-    \n4th level (3 4th-level slots): [[/6. Mechanics/Spells/divination.md\|divination]],\
-    \ [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [guardian\
-    \ of faith](/compendium/spells/guardian-of-faith.md)\n\n5th level (2 5th-level\
-    \ slots): [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]],\
-    \ [[/6. Mechanics/Spells/raise-dead.md\|raise dead]]\n\n6th level (1 6th-level slots):\
-    \ [[/6. Mechanics/Spells/find-the-path.md\|find the path]], [[/6. Mechanics/Spells/harm.md\|harm]],\
-    \ [[/6. Mechanics/Spells/true-seeing.md\|true seeing]]\n\n7th level (1 7th-level\
-    \ slots): [[/6. Mechanics/Spells/fire-storm.md\|fire storm]], [[/6. Mechanics/Spells/regenerate.md\|regenerate]]\n\
-    \n8th level (1 8th-level slots): [[/6. Mechanics/Spells/earthquake.md\|earthquake]]"
-  "name": "spells"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) piercing damage."
-  "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
-    \ The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed,\
-    \ the target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] and [[6. Mechanics/Rules/conditions.md#deafened\|deafened]].\
-    \ The curse lasts until ended with a [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]]\
-    \ spell, a [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] spell, or similar\
-    \ magic. When the curse ends, Madam Eva takes dice: 5d6|avg (5d6) psychic\
-    \ damage."
-  "name": "Curse (Recharges after a Long Rest)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Madam Eva targets one creature that she can see within 10 feet of her and\
-    \ casts one of the following spells on the target (save DC 17), requiring neither\
-    \ somatic nor material components to do so: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]],\
-    \ [[/6. Mechanics/Spells/charm-person.md\|charm person]], or [[/6. Mechanics/Spells/hold-person.md\|hold person]].\
-    \ If the target succeeds on the initial saving throw, Madam Eva is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]]\
-    \ until the end of her next turn. Once a target succeeds on a saving throw against\
-    \ this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
-  "name": "Evil Eye (Recharges after a Short or Long Rest)"
-"source":
-- "CoS"
-"image": "/compendium/bestiary/npc/token/madam-eva.png"
-aliases: ["Madam Eva"]
+statblock: inline
 ---
 # Madam Eva
 *Source: Curse of Strahd p. 233*  
@@ -123,52 +42,85 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 
 ## Stat Block
 
-```ad-statblock
-title: Madam Eva
-![[/6. Mechanics/Bestiary/Npc/Token/madam-eva.png#token]]
-*Medium humanoid(human), Chaotic Neutral*
-
-- **Armor Class** 10 
-- **Hit Points** `dice: 16d8 + 16|text(88)` (16d8 + 16) 
-- **Speed** walk 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|11 (+0)|12 (+1)|17 (+3)|20 (+5)|18 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Constitution +5
-- **Skills** Arcana +7, Deception +8, Insight +13, Intimidation +8, Perception +9, Religion +7
-- **Senses** passive Perception 19
-- **Languages** Abyssal, Common, Elvish, Infernal
-- **Challenge** 10
-
-***Spellcasting.*** Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, `dice: d20+9` (+9 to hit) with spell attacks). Madam Eva has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/light.md\|light]], [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]], [[/6. Mechanics/Spells/protection-from-poison.md\|protection from poison]], [[/6. Mechanics/Spells/spiritual-weapon.md\|spiritual weapon]]
-
-**3rd level (3 3rd-level slots)**: [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]], [[/6. Mechanics/Spells/speak-with-dead.md\|speak with dead]], [[/6. Mechanics/Spells/spirit-guardians.md\|spirit guardians]]
-
-**4th level (3 4th-level slots)**: [[/6. Mechanics/Spells/divination.md\|divination]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [[/6. Mechanics/Spells/guardian-of-faith.md\|guardian of faith]]
-
-**5th level (2 5th-level slots)**: [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]], [[/6. Mechanics/Spells/raise-dead.md\|raise dead]]
-
-**6th level (1 6th-level slots)**: [[/6. Mechanics/Spells/find-the-path.md\|find the path]], [[/6. Mechanics/Spells/harm.md\|harm]], [[/6. Mechanics/Spells/true-seeing.md\|true seeing]]
-
-**7th level (1 7th-level slots)**: [[/6. Mechanics/Spells/fire-storm.md\|fire storm]], [[/6. Mechanics/Spells/regenerate.md\|regenerate]]
-
-**8th level (1 8th-level slots)**: [[/6. Mechanics/Spells/earthquake.md\|earthquake]]
-
-## Actions
-
-***Dagger.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d4` (`1d4`) piercing damage.
-
-***Curse (Recharges after a Long Rest).*** Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] and [[6. Mechanics/Rules/conditions.md#deafened\|deafened]]. The curse lasts until ended with a [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]] spell, a [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] spell, or similar magic. When the curse ends, Madam Eva takes `dice: 5d6` (`5d6`) psychic damage.
-
-***Evil Eye (Recharges after a Short or Long Rest).*** Madam Eva targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save DC 17), requiring neither somatic nor material components to do so: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]], [[/6. Mechanics/Spells/charm-person.md\|charm person]], or [[/6. Mechanics/Spells/hold-person.md\|hold person]]. If the target succeeds on the initial saving throw, Madam Eva is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours.
+```statblock
+"name": "Madam Eva"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Chaotic Neutral"
+"ac": !!int "10"
+"hp": !!int "88"
+"hit_dice": "16d8 + 16"
+"stats":
+- !!int "8"
+- !!int "11"
+- !!int "12"
+- !!int "17"
+- !!int "20"
+- !!int "18"
+"speed": "walk 20 ft."
+"saves":
+  "Constitution": !!int "5"
+"skillsaves":
+  "Intimidation": !!int "8"
+  "Deception": !!int "8"
+  "Religion": !!int "7"
+  "Insight": !!int "13"
+  "Perception": !!int "9"
+  "Arcana": !!int "7"
+"senses": "passive Perception 19"
+"languages": "Abyssal, Common, Elvish, Infernal"
+"cr": "10"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom\
+    \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Madam Eva\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Light.md|light]],\
+    \ [[/6. Mechanics/Spells/Mending.md|mending]], [[/6. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+    \ [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[/6. Mechanics/Spells/Bane.md|bane]], [[/6. Mechanics/Spells/Command.md|command]],\
+    \ [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [protection\
+    \ from evil and good](/compendium/spells/protection-from-evil-and-good.md)\n\n\
+    2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
+    \ [[/6. Mechanics/Spells/Protection From Poison.md|protection from poison]], [spiritual\
+    \ weapon](/compendium/spells/spiritual-weapon.md)\n\n3rd level (3 3rd-level\
+    \ slots): [[/6. Mechanics/Spells/Create Food And Water.md|create food and water]],\
+    \ [[/6. Mechanics/Spells/Speak With Dead.md|speak with dead]], [[/6. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
+    \n4th level (3 4th-level slots): [[/6. Mechanics/Spells/Divination.md|divination]],\
+    \ [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [guardian\
+    \ of faith](/compendium/spells/guardian-of-faith.md)\n\n5th level (2 5th-level\
+    \ slots): [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+    \ [[/6. Mechanics/Spells/Raise Dead.md|raise dead]]\n\n6th level (1 6th-level slots):\
+    \ [[/6. Mechanics/Spells/Find The Path.md|find the path]], [[/6. Mechanics/Spells/Harm.md|harm]],\
+    \ [[/6. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 7th-level\
+    \ slots): [[/6. Mechanics/Spells/Fire Storm.md|fire storm]], [[/6. Mechanics/Spells/Regenerate.md|regenerate]]\n\
+    \n8th level (1 8th-level slots): [[/6. Mechanics/Spells/Earthquake.md|earthquake]]"
+  "name": "spells"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4|avg (1d4) piercing damage."
+  "name": "Dagger"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
+    \ The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed,\
+    \ the target is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[6. Mechanics/Rules/Conditions.md#deafened|deafened]].\
+    \ The curse lasts until ended with a [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ spell, a [[/6. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ magic. When the curse ends, Madam Eva takes dice: 5d6|avg (5d6) psychic\
+    \ damage."
+  "name": "Curse (Recharges after a Long Rest)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Madam Eva targets one creature that she can see within 10 feet of her and\
+    \ casts one of the following spells on the target (save DC 17), requiring neither\
+    \ somatic nor material components to do so: [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
+    \ [[/6. Mechanics/Spells/Charm Person.md|charm person]], or [[/6. Mechanics/Spells/Hold Person.md|hold person]].\
+    \ If the target succeeds on the initial saving throw, Madam Eva is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ until the end of her next turn. Once a target succeeds on a saving throw against\
+    \ this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
+  "name": "Evil Eye (Recharges after a Short or Long Rest)"
+"source":
+- "CoS"
+"image": "6. Mechanics/Bestiary/Npc/token/madam-eva.png"
 ```
 ^statblock

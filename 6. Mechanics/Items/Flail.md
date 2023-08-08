@@ -11,7 +11,7 @@ aliases: ["Flail"]
 *Melee Weapon*  
 
 - **Damage**: 1d8 B
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]]
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

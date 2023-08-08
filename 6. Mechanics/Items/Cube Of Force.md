@@ -12,13 +12,13 @@ aliases: ["Cube of Force"]
 # Cube of Force
 *Wondrous Item, major, rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains `dice: 1d20\|avg` (`1d20`) expended charges daily at dawn.
+This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains `dice: 1d20` (`1d20`) expended charges daily at dawn.
 
-You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration. If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
+You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration. If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
 
 **Cube of Force Faces**
 
@@ -36,11 +36,11 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 | Spell or item | Charges Lost |
 |---------------|--------------|
-| [[/6. Mechanics/Spells/disintegrate.md\|Disintegrate]] | `dice: 1d12\|avg` (`1d12`) |
-| [[/6. Mechanics/Items/horn-of-blasting.md\|Horn of blasting]] | `dice: 1d10\|avg` (`1d10`) |
-| [[/6. Mechanics/Spells/passwall.md\|Passwall]] | `dice: 1d6\|avg` (`1d6`) |
-| [[/6. Mechanics/Spells/prismatic-spray.md\|Prismatic spray]] | `dice: 1d20\|avg` (`1d20`) |
-| [[/6. Mechanics/Spells/wall-of-fire.md\|Wall of fire]] | `dice: 1d4\|avg` (`1d4`) |
+| [[/6. Mechanics/Spells/Disintegrate.md|Disintegrate]] | `dice: 1d12` (`1d12`) |
+| [[/6. Mechanics/Items/Horn Of Blasting.md|Horn of blasting]] | `dice: 1d10` (`1d10`) |
+| [[/6. Mechanics/Spells/Passwall.md|Passwall]] | `dice: 1d6` (`1d6`) |
+| [[/6. Mechanics/Spells/Prismatic Spray.md|Prismatic spray]] | `dice: 1d20` (`1d20`) |
+| [[/6. Mechanics/Spells/Wall Of Fire.md|Wall of fire]] | `dice: 1d4` (`1d4`) |
 ^spell-or-item-charges-lost
 
 *Source: Dungeon Master's Guide p. 159*

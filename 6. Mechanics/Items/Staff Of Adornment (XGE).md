@@ -15,7 +15,7 @@ aliases: ["Staff of Adornment"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Versatile\|Versatile]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 

@@ -9,11 +9,11 @@ cssclass: json5e-note
 - [Celestial Spirit (7th-level Spell)](celestial-spirit-7th-level-spell-tce.md)
 - [Celestial Spirit (8th-level Spell)](celestial-spirit-8th-level-spell-tce.md)
 - [Celestial Spirit (9th-level Spell)](celestial-spirit-9th-level-spell-tce.md)
-- [[Couatl.md\|Couatl]]
-- [[Deva.md\|Deva]]
-- [[Empyrean.md\|Empyrean]]
+- [[Couatl.md|Couatl]]
+- [[Deva.md|Deva]]
+- [[Empyrean.md|Empyrean]]
 - [Ki-rin](ki-rin-mpmm.md)
-- [[pegasus.md\|Pegasus]]
-- [[planetar.md\|Planetar]]
-- [[solar.md\|Solar]]
-- [[unicorn.md\|Unicorn]]
+- [[Pegasus.md|Pegasus]]
+- [[Planetar.md|Planetar]]
+- [[Solar.md|Solar]]
+- [[Unicorn.md|Unicorn]]

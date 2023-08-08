@@ -23,6 +23,6 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 This spell immediately ends if you cast it again before its duration ends.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 244

@@ -5,58 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Bronze Dragon Wyrmling"
-"size": "Medium"
-"type": "dragon"
-"alignment": "Lawful Good"
-"ac": !!int "17"
-"hp": !!int "32"
-"hit_dice": "5d8 + 10"
-"stats":
-- !!int "17"
-- !!int "10"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "15"
-"speed": "walk 30 ft., fly 60 ft., swim 30 ft."
-"saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
-"skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
-"damage_immunities": "lightning"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
-    \ The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 12 Dexterity saving throw, taking 16 (dice: 3d10|avg\
-    \ (3d10)) lightning damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
-    \ cone. Each creature in that area must succeed on a DC 12 Strength saving throw.\
-    \ On a failed save, the creature is pushed 30 feet away from the dragon.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-"source":
-- "MM"
-- "DoSI"
-"image": "/compendium/bestiary/dragon/token/bronze-dragon-wyrmling.png"
-aliases: ["Bronze Dragon Wyrmling"]
+statblock: inline
 ---
 # Bronze Dragon Wyrmling
 *Source: Monster Manual p. 109, Dragons of Stormwreck Isle*  
@@ -129,38 +78,55 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Bronze Dragon Wyrmling
-![[/6. Mechanics/Bestiary/Dragon/Token/bronze-dragon-wyrmling.png#token]]
-*Medium dragon, Lawful Good*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 5d8 + 10|text(32)` (5d8 + 10) 
-- **Speed** walk 30 ft., fly 60 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +2, Constitution +4, Wisdom +2, Charisma +4
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Damage Immunities** lightning
-- **Languages** Draconic
-- **Challenge** 2
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 3` (`1d10 + 3`) piercing damage.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Lightning Breath.** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (`dice: 3d10` (`3d10`)) lightning damage on a failed save, or half as much damage on a successful one.  
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.  
+```statblock
+"name": "Bronze Dragon Wyrmling"
+"size": "Medium"
+"type": "dragon"
+"alignment": "Lawful Good"
+"ac": !!int "17"
+"hp": !!int "32"
+"hit_dice": "5d8 + 10"
+"stats":
+- !!int "17"
+- !!int "10"
+- !!int "15"
+- !!int "12"
+- !!int "11"
+- !!int "15"
+"speed": "walk 30 ft., fly 60 ft., swim 30 ft."
+"saves":
+  "Charisma": !!int "4"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
+"skillsaves":
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
+"damage_immunities": "lightning"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"languages": "Draconic"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
+    \ The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature\
+    \ in that line must make a DC 12 Dexterity saving throw, taking 16 (dice: 3d10|avg\
+    \ (3d10)) lightning damage on a failed save, or half as much damage on a successful\
+    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
+    \ cone. Each creature in that area must succeed on a DC 12 Strength saving throw.\
+    \ On a failed save, the creature is pushed 30 feet away from the dragon.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+"source":
+- "MM"
+- "DoSI"
+"image": "6. Mechanics/Bestiary/Dragon/token/bronze-dragon-wyrmling.png"
 ```
 ^statblock

@@ -23,8 +23,8 @@ aliases: ["Silence"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minute
 
-For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are [[6. Mechanics/Rules/Conditions.md#deafened\|deafened]] while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are [[6. Mechanics/Rules/Conditions.md#deafened|deafened]] while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Monk Way Of Shadow.md|Monk (Way of Shadow)]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md|Warlock (The Fathomless)]]
 
 Source: Player's Handbook p. 275

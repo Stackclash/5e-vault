@@ -19,10 +19,10 @@ aliases: ["Trident of Fish Command"]
   - One-handed: 1d6 P
   - Two-handed: 1d8 P
 - **Range**: 20/60
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]], [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]], [[6. Mechanics/Rules/item-properties.md#Thrown\|Thrown]], [[6. Mechanics/Rules/item-properties.md#Versatile\|Versatile]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[6. Mechanics/Rules/Item Properties.md#Thrown|Thrown]], [[6. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
-This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [[/6. Mechanics/Spells/dominate-beast.md\|dominate beast]] (save DC 15) from it on a beast that has an innate swimming speed. The trident regains `dice: 1d3\|avg` (`1d3`) expended charges daily at dawn.
+This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [[/6. Mechanics/Spells/Dominate Beast.md|dominate beast]] (save DC 15) from it on a beast that has an innate swimming speed. The trident regains `dice: 1d3` (`1d3`) expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 209*

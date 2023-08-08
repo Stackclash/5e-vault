@@ -48,7 +48,7 @@ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry
 
 You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes `dice: 2d6\|avg` (`2d6`) damage on a failed save, and half as much damage on a successful one. The damage increases to `dice: 3d6\|avg` (`3d6`) at 6th level, `dice: 4d6\|avg` (`4d6`) at 11th level, and `dice: 5d6\|avg` (`5d6`) at 16th level.
+When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes `dice: 2d6` (`2d6`) damage on a failed save, and half as much damage on a successful one. The damage increases to `dice: 3d6` (`3d6`) at 6th level, `dice: 4d6` (`4d6`) at 11th level, and `dice: 5d6` (`5d6`) at 16th level.
 
 After you use your breath weapon, you can't use it again until you complete a short or long rest.
 

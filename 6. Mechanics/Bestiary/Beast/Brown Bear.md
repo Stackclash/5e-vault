@@ -8,8 +8,12 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Brown Bear
+*Source: Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Infernal Machine Rebuild, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight*  
+
+```statblock
 "name": "Brown Bear"
 "size": "Large"
 "type": "beast"
@@ -32,7 +36,7 @@ statblock-link: "#^statblock"
 "cr": "1"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The bear has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
@@ -57,43 +61,7 @@ statblock-link: "#^statblock"
 - "MOT"
 - "IDRotF"
 - "WBtW"
-"image": "/compendium/bestiary/beast/token/brown-bear.png"
-aliases: ["Brown Bear"]
----
-# Brown Bear
-*Source: Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Infernal Machine Rebuild, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight*  
-
-```ad-statblock
-title: Brown Bear
-![[/6. Mechanics/Bestiary/Beast/Token/brown-bear.png#token]]
-*Large beast, Unaligned*
-
-- **Armor Class** 11 (natural armor)
-- **Hit Points** `dice: 4d10 + 12|text(34)` (4d10 + 12) 
-- **Speed** walk 40 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** —
-- **Challenge** 1
-
-## Traits
-
-***Keen Smell.*** The bear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on smell.
-
-## Actions
-
-***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 4` (`1d8 + 4`) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/brown-bear.png"
 ```
 ^statblock
 

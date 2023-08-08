@@ -8,8 +8,20 @@ tags:
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Stone Giant Dreamwalker
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
+
+The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
+
+Stone giants sometimes go on dream quests in the surface world, seeking inspiration for their art, a break from decades-long ennui, or satisfaction of simple curiosity. Some who go on these quests let themselves become lost in the dream. Other stone giants are banished to the surface as punishment. Regardless of the reason they ended up on the surface, if they don't take shelter under stone, such stone giants can become dreamwalkers.
+
+Dreamwalkers occupy an odd place of respect outside the stone giant ordning. They are considered outcasts, but their familiarity with the surface world makes them valuable guides, and their insights can help other stone giants grasp the dangers of living in a dream.
+
+Dreamwalkers become divorced from reality by isolation, shame, and their unendingly alien surroundings, and this delirium leaches out into the world around them, affecting other creatures that get too close. Believing that they're living in a dream and that their actions have no real consequences, dreamwalkers act as they please, becoming forces of chaos. As they travel the world, they collect objects and creatures that seem especially significant to them. Over time, the collected things accrete to their bodies, becoming encased in stone.
+
+```statblock
 "name": "Stone Giant Dreamwalker"
 "size": "Huge"
 "type": "giant"
@@ -39,9 +51,9 @@ statblock-link: "#^statblock"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "An enemy that starts its turn within 30 feet of the giant must make a DC\
-    \ 13 Charisma saving throw, provided that the giant isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].\
-    \ On a failed save, the creature is [[6. Mechanics/Rules/conditions.md#charmed\|charmed]]\
-    \ by the giant. A creature [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] in\
+    \ 13 Charisma saving throw, provided that the giant isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+    \ On a failed save, the creature is [[6. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ by the giant. A creature [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] in\
     \ this way can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success. Once it succeeds on the saving throw, the\
     \ creature is immune to this giant's Dreamwalker's Charm for 24 hours."
@@ -58,71 +70,24 @@ statblock-link: "#^statblock"
   "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/240 ft.,\
     \ one target. Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage. If the\
     \ target is a creature, it must succeed on a DC 17 Strength saving throw or be\
-    \ knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
+    \ knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rock"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The giant touches one Medium or smaller creature within 10 feet of it that\
-    \ is [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by it. The target must\
+    \ is [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] by it. The target must\
     \ make a DC 17 Constitution saving throw. On a failed save, the target becomes\
-    \ [[6. Mechanics/Rules/conditions.md#petrified\|petrified]], and the giant can adhere\
-    \ the target to its stony body. [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]]\
-    \ spells and other magic that can undo petrification have no effect on a [[6. Mechanics/Rules/conditions.md#petrified\|petrified]]\
+    \ [[6. Mechanics/Rules/Conditions.md#petrified|petrified]], and the giant can adhere\
+    \ the target to its stony body. [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ spells and other magic that can undo petrification have no effect on a [[6. Mechanics/Rules/Conditions.md#petrified|petrified]]\
     \ creature adhered to the giant unless the giant is dead, in which case the magic\
-    \ works normally, freeing the [[6. Mechanics/Rules/conditions.md#petrified\|petrified]]\
-    \ creature as well as ending the [[6. Mechanics/Rules/conditions.md#petrified\|petrified]]\
+    \ works normally, freeing the [[6. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ creature as well as ending the [[6. Mechanics/Rules/Conditions.md#petrified|petrified]]\
     \ condition on it."
   "name": "Petrifying Touch"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/giant/token/stone-giant-dreamwalker.png"
-aliases: ["Stone Giant Dreamwalker"]
----
-# Stone Giant Dreamwalker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
-
-The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
-
-Stone giants sometimes go on dream quests in the surface world, seeking inspiration for their art, a break from decades-long ennui, or satisfaction of simple curiosity. Some who go on these quests let themselves become lost in the dream. Other stone giants are banished to the surface as punishment. Regardless of the reason they ended up on the surface, if they don't take shelter under stone, such stone giants can become dreamwalkers.
-
-Dreamwalkers occupy an odd place of respect outside the stone giant ordning. They are considered outcasts, but their familiarity with the surface world makes them valuable guides, and their insights can help other stone giants grasp the dangers of living in a dream.
-
-Dreamwalkers become divorced from reality by isolation, shame, and their unendingly alien surroundings, and this delirium leaches out into the world around them, affecting other creatures that get too close. Believing that they're living in a dream and that their actions have no real consequences, dreamwalkers act as they please, becoming forces of chaos. As they travel the world, they collect objects and creatures that seem especially significant to them. Over time, the collected things accrete to their bodies, becoming encased in stone.
-
-```ad-statblock
-title: Stone Giant Dreamwalker
-![[/6. Mechanics/Bestiary/Giant/Token/stone-giant-dreamwalker.png#token]]
-*Huge giant, Chaotic Neutral*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 14d12 + 70|text(161)` (14d12 + 70) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|14 (+2)|21 (+5)|10 (+0)| 8 (-1)|12 (+1)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +6, Constitution +9, Wisdom +3
-- **Skills** Athletics +14, Perception +3
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Condition Immunities** charmed, frightened
-- **Languages** Common, Giant
-- **Challenge** 10
-
-## Traits
-
-***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]. On a failed save, the creature is [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by the giant. A creature [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.
-
-## Actions
-
-***Multiattack.*** The giant makes two Greatclub or Rock attacks.
-
-***Greatclub.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 15 ft., one target. Hit: `dice: 4d8 + 6` (`4d8 + 6`) bludgeoning damage.
-
-***Rock.*** *Ranged Weapon Attack:* `dice: d20+10` (+10 to hit), range 60/240 ft., one target. Hit: `dice: 3d10 + 6` (`3d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes [[6. Mechanics/Rules/conditions.md#petrified\|petrified]], and the giant can adhere the target to its stony body. [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]] spells and other magic that can undo petrification have no effect on a [[6. Mechanics/Rules/conditions.md#petrified\|petrified]] creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the [[6. Mechanics/Rules/conditions.md#petrified\|petrified]] creature as well as ending the [[6. Mechanics/Rules/conditions.md#petrified\|petrified]] condition on it.
+"image": "6. Mechanics/Bestiary/Giant/token/stone-giant-dreamwalker.png"
 ```
 ^statblock
 

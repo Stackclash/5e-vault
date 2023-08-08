@@ -24,6 +24,6 @@ aliases: ["Nondetection"]
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Paladin (Oath of the Watchers)]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md|Paladin (Oath of the Watchers)]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 263

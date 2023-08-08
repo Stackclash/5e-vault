@@ -6,79 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Faerie Dragon (Orange)"
-"size": "Tiny"
-"type": "dragon"
-"alignment": "Chaotic Good"
-"ac": !!int "15"
-"hp": !!int "14"
-"hit_dice": "4d4 + 4"
-"stats":
-- !!int "3"
-- !!int "20"
-- !!int "13"
-- !!int "14"
-- !!int "12"
-- !!int "16"
-"speed": "walk 10 ft., fly 60 ft."
-"skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "3"
-  "Arcana": !!int "4"
-"senses": "darkvision 60 ft., passive Perception 13"
-"languages": "Draconic, Sylvan"
-"cr": "1"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
-    \ It can innately cast a number of spells, requiring no material components:\n\
-    \n1/day each: [[/6. Mechanics/Spells/color-spray.md\|color spray]], [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]],\
-    \ [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
-    \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
-    \ gaining new spells as they mature.\n\nRed—5 years or less\n\nOrange—6–10 years\n\
-    \nYellow—11–20 years\n\nGreen—21–30 years\n\nBlue—31–40 years\n\nIndigo—41–50\
-    \ years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
-    \ to 2."
-  "name": "The Colors of Age"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the dragon can magically turn [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as\
-    \ if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any\
-    \ equipment the dragon wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Superior Invisibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Using telepathy, the dragon can magically communicate with any other faerie\
-    \ dragon within 60 feet of it."
-  "name": "Limited Telepathy"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The faerie dragon has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: 1 piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales a puff of euphoria gas at one creature within 5 feet\
-    \ of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute,\
-    \ the target can't take reactions and must roll a dice: d6|avg (d6) at the\
-    \ start of each of its turns to determine its behavior during the turn:\n\n1–\
-    4. The target takes no action or bonus action and uses all of its movement to\
-    \ move in a random direction.\n\n5–6. The target doesn't move, and the only thing\
-    \ it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect\
-    \ on itself on a success."
-  "name": "Euphoria Breath (Recharge 5-6)"
-"source":
-- "MM"
-"image": "/compendium/bestiary/dragon/token/faerie-dragon-orange.png"
-aliases: ["Faerie Dragon (Orange)"]
+statblock: inline
 ---
 # Faerie Dragon (Orange)
 *Source: Monster Manual p. 133*  
@@ -112,65 +40,77 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 
 ## Stat Block
 
-```ad-statblock
-title: Faerie Dragon (Orange)
-![[/6. Mechanics/Bestiary/Dragon/Token/faerie-dragon-orange.png#token]]
-*Tiny dragon, Chaotic Good*
-
-- **Armor Class** 15 
-- **Hit Points** `dice: 4d4 + 4|text(14)` (4d4 + 4) 
-- **Speed** walk 10 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 3 (-4)|20 (+5)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Arcana +4, Perception +3, Stealth +7
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** Draconic, Sylvan
-- **Challenge** 1
-
-## Traits
-
-***The Colors of Age.*** A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
-
-Red—5 years or less
-
-Orange—6–10 years
-
-Yellow—11–20 years
-
-Green—21–30 years
-
-Blue—31–40 years
-
-Indigo—41–50 years
-
-Violet—51 years or more
-
-A green or older faerie dragon's CR increases to 2.
-
-***Superior Invisibility.*** As a bonus action, the dragon can magically turn [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the dragon wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
-
-***Limited Telepathy.*** Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.
-
-***Magic Resistance.*** The faerie dragon has advantage on saving throws against spells and other magical effects.
-
-***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
-
-**1/day each**: [[/6. Mechanics/Spells/color-spray.md\|color spray]], [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]], [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]]
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one creature. Hit: 1 piercing damage.
-
-***Euphoria Breath (Recharge 5-6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a `dice: d6` (`d6`) at the start of each of its turns to determine its behavior during the turn:
-
-1–4. The target takes no action or bonus action and uses all of its movement to move in a random direction.
-
-5–6. The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
+```statblock
+"name": "Faerie Dragon (Orange)"
+"size": "Tiny"
+"type": "dragon"
+"alignment": "Chaotic Good"
+"ac": !!int "15"
+"hp": !!int "14"
+"hit_dice": "4d4 + 4"
+"stats":
+- !!int "3"
+- !!int "20"
+- !!int "13"
+- !!int "14"
+- !!int "12"
+- !!int "16"
+"speed": "walk 10 ft., fly 60 ft."
+"skillsaves":
+  "Stealth": !!int "7"
+  "Perception": !!int "3"
+  "Arcana": !!int "4"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Draconic, Sylvan"
+"cr": "1"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
+    \ It can innately cast a number of spells, requiring no material components:\n\
+    \n1/day each: [[/6. Mechanics/Spells/Color Spray.md|color spray]], [[/6. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
+    \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
+    \ gaining new spells as they mature.\n\nRed—5 years or less\n\nOrange—6–10 years\n\
+    \nYellow—11–20 years\n\nGreen—21–30 years\n\nBlue—31–40 years\n\nIndigo—41–50\
+    \ years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
+    \ to 2."
+  "name": "The Colors of Age"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "As a bonus action, the dragon can magically turn [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until its [[6. Mechanics/Rules/Status.md#concentration|concentration]] ends (as\
+    \ if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell). Any\
+    \ equipment the dragon wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Superior Invisibility"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Using telepathy, the dragon can magically communicate with any other faerie\
+    \ dragon within 60 feet of it."
+  "name": "Limited Telepathy"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The faerie dragon has advantage on saving throws against spells and other\
+    \ magical effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 1 piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales a puff of euphoria gas at one creature within 5 feet\
+    \ of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute,\
+    \ the target can't take reactions and must roll a dice: d6|avg (d6) at the\
+    \ start of each of its turns to determine its behavior during the turn:\n\n1–\
+    4. The target takes no action or bonus action and uses all of its movement to\
+    \ move in a random direction.\n\n5–6. The target doesn't move, and the only thing\
+    \ it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect\
+    \ on itself on a success."
+  "name": "Euphoria Breath (Recharge 5-6)"
+"source":
+- "MM"
+"image": "6. Mechanics/Bestiary/Dragon/token/faerie-dragon-orange.png"
 ```
 ^statblock
 

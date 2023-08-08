@@ -21,10 +21,10 @@ aliases: ["Bane"]
 - **Components:** V, S, a drop of blood
 - **Duration:** Concentration, up to 1 minute
 
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a `dice: d4\|avg` (`d4`) and subtract the number rolled from the attack roll or saving throw.
+Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a `dice: d4` (`d4`) and subtract the number rolled from the attack roll or saving throw.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Vengeance.md|Paladin (Oath of Vengeance)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Undead (VRGR).md|Warlock (The Undead)]]
 
 Source: Player's Handbook p. 216

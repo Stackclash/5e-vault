@@ -16,7 +16,7 @@ Performing religious service requires access to, and often attendance at, a temp
 
 ### Resolution
 
-At the end of the required time, the character chooses to make either an Intelligence ([[6. Mechanics/Rules/Skills.md#Religion\|Religion]]) check or a Charisma ([[6. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
+At the end of the required time, the character chooses to make either an Intelligence ([[6. Mechanics/Rules/Skills.md#Religion|Religion]]) check or a Charisma ([[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
 
 **Religious Service**
 

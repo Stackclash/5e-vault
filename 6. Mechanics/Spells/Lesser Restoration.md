@@ -26,8 +26,8 @@ aliases: ["Lesser Restoration"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be [[6. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened\|deafened]], [[6. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], or [[6. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]], [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], or [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]].
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Sorcerer (Clockwork Soul)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Life Domain.md|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Paladin Oath Of Devotion.md|Paladin (Oath of Devotion)]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md|Sorcerer (Clockwork Soul)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
 
 Source: Player's Handbook p. 255

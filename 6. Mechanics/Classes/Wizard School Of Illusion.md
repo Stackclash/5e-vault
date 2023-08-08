@@ -23,9 +23,9 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Improved Minor Illusion (Level 2)
 
-When you choose this school at 2nd level, you learn the [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-When you cast [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], you can create both a sound and an image with a single casting of the spell.
+When you cast [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]], you can create both a sound and an image with a single casting of the spell.
 
 ### Malleable Illusions (Level 6)
 

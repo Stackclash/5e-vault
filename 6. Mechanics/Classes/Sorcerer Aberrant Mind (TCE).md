@@ -43,11 +43,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [[/6. Mechanics/Spells/arms-of-hadar.md\|arms of Hadar]], [[/6. Mechanics/Spells/dissonant-whispers.md\|dissonant whispers]], [[/6. Mechanics/Spells/mind-sliver-tce.md\|mind sliver]] |
-| 3rd | [[/6. Mechanics/Spells/calm-emotions.md\|calm emotions]], [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]] |
-| 5th | [[/6. Mechanics/Spells/hunger-of-hadar.md\|hunger of Hadar]], [[/6. Mechanics/Spells/sending.md\|sending]] |
-| 7th | [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]], [[/6. Mechanics/Spells/summon-aberration-tce.md\|summon aberration]] |
-| 9th | [[/6. Mechanics/Spells/rarys-telepathic-bond.md\|Rary's telepathic bond]], [[/6. Mechanics/Spells/telekinesis.md\|telekinesis]] |
+| 1st | [[/6. Mechanics/Spells/Arms Of Hadar.md|arms of Hadar]], [[/6. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[/6. Mechanics/Spells/Mind Sliver (TCE).md|mind sliver]] |
+| 3rd | [[/6. Mechanics/Spells/Calm Emotions.md|calm emotions]], [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]] |
+| 5th | [[/6. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]], [[/6. Mechanics/Spells/Sending.md|sending]] |
+| 7th | [[/6. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]], [[/6. Mechanics/Spells/Summon Aberration (TCE).md|summon aberration]] |
+| 9th | [[/6. Mechanics/Spells/Rarys Telepathic Bond.md|Rary's telepathic bond]], [[/6. Mechanics/Spells/Telekinesis.md|telekinesis]] |
 ^psionic-spells
 
 ### Telepathic Speech (Level 1)
@@ -56,7 +56,7 @@ _1st-level Aberrant Mind feature_
 
 You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
 
-The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or die or if you use this ability to form a connection with a different creature.
+The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or die or if you use this ability to form a connection with a different creature.
 
 ### Psionic Sorcery (Level 6)
 
@@ -70,7 +70,7 @@ If you cast the spell using sorcery points, it requires no verbal or somatic com
 
 _6th-level Aberrant Mind feature_
 
-You gain resistance to psychic damage, and you have advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]].
+You gain resistance to psychic damage, and you have advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[6. Mechanics/Rules/Conditions.md#frightened|frightened]].
 
 ### Revelation in Flesh (Level 14)
 
@@ -78,15 +78,15 @@ _14th-level Aberrant Mind feature_
 
 You can unleash the aberrant truth hidden within yourself. As a bonus action, you can spend 1 or more sorcery points to magically transform your body for 10 minutes. For each sorcery point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
 
-- You can see any [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.  
+- You can see any [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.  
 - You gain a flying speed equal to your walking speed, and you can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.  
 - You gain a swimming speed equal to twice your walking speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.  
-- Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or being [[6. Mechanics/Rules/conditions.md#grappled\|grappled]].  
+- Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or being [[6. Mechanics/Rules/Conditions.md#grappled|grappled]].  
 
 ### Warping Implosion (Level 18)
 
 _18th-level Aberrant Mind feature_
 
-You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes `dice: 3d10\|avg` (`3d10`) force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
+You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes `dice: 3d10` (`3d10`) force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.
 
 Once you use this feature, you can't do so again until you finish a long rest, unless you spend 5 sorcery points to use it again.

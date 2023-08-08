@@ -29,12 +29,12 @@ Choose one or more of the following types of creatures: celestials, elementals, 
 
 - The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.  
 - The creature has disadvantage on attack rolls against targets within the cylinder.  
-- Targets within the cylinder can't be [[6. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/Conditions.md#frightened\|frightened]], or possessed by the creature.  
+- Targets within the cylinder can't be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], or possessed by the creature.  
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Ranger Monster Slayer (XGE).md\|Ranger (Monster Slayer)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Ranger Monster Slayer (XGE).md|Ranger (Monster Slayer)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 256

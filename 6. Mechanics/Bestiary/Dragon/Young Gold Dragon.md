@@ -7,68 +7,7 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Gold Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Lawful Good"
-"ac": !!int "18"
-"hp": !!int "178"
-"hit_dice": "17d10 + 85"
-"stats":
-- !!int "23"
-- !!int "14"
-- !!int "21"
-- !!int "16"
-- !!int "13"
-- !!int "20"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "5"
-  "Constitution": !!int "9"
-"skillsaves":
-  "Stealth": !!int "6"
-  "Insight": !!int "5"
-  "Perception": !!int "9"
-  "Persuasion": !!int "9"
-"damage_immunities": "fire"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
-"languages": "Common, Draconic"
-"cr": "10"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
-    \ The dragon exhales fire in a 30-foot cone. Each creature in that area must make\
-    \ a DC 17 Dexterity saving throw, taking 55 (dice: 10d10|avg (10d10)) fire\
-    \ damage on a failed save, or half as much damage on a successful one.  \n- Weakening\
-    \ Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area\
-    \ must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based\
-    \ attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-"source":
-- "MM"
-"image": "/compendium/bestiary/dragon/token/young-gold-dragon.png"
-aliases: ["Young Gold Dragon"]
+statblock: inline
 ---
 # Young Gold Dragon
 *Source: Monster Manual p. 115*  
@@ -143,43 +82,66 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Gold Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-gold-dragon.png#token]]
-*Large dragon, Lawful Good*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 17d10 + 85|text(178)` (17d10 + 85) 
-- **Speed** walk 40 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +6, Constitution +9, Wisdom +5, Charisma +9
-- **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
-- **Damage Immunities** fire
-- **Languages** Common, Draconic
-- **Challenge** 10
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 6` (`2d10 + 6`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 6` (`2d6 + 6`) slashing damage.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (`dice: 10d10` (`10d10`)) fire damage on a failed save, or half as much damage on a successful one.  
-- **Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+```statblock
+"name": "Young Gold Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Lawful Good"
+"ac": !!int "18"
+"hp": !!int "178"
+"hit_dice": "17d10 + 85"
+"stats":
+- !!int "23"
+- !!int "14"
+- !!int "21"
+- !!int "16"
+- !!int "13"
+- !!int "20"
+"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "9"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "9"
+"skillsaves":
+  "Stealth": !!int "6"
+  "Insight": !!int "5"
+  "Perception": !!int "9"
+  "Persuasion": !!int "9"
+"damage_immunities": "fire"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
+"languages": "Common, Draconic"
+"cr": "10"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
+    \ The dragon exhales fire in a 30-foot cone. Each creature in that area must make\
+    \ a DC 17 Dexterity saving throw, taking 55 (dice: 10d10|avg (10d10)) fire\
+    \ damage on a failed save, or half as much damage on a successful one.  \n- Weakening\
+    \ Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area\
+    \ must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based\
+    \ attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature\
+    \ can repeat the saving throw at the end of each of its turns, ending the effect\
+    \ on itself on a success.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+"source":
+- "MM"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-gold-dragon.png"
 ```
 ^statblock
 

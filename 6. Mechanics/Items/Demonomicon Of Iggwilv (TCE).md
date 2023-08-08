@@ -11,7 +11,7 @@ aliases: ["Demonomicon of Iggwilv"]
 # Demonomicon of Iggwilv
 *Wondrous Item, artifact (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -27,11 +27,11 @@ The artifact has the follow random properties, which you can determine by rollin
 
 ## Spells
 
-The book has 8 charges. It regains `dice: 1d8\|avg` (`1d8`) expended charges daily at dawn. While holding it, you can use an action to cast [[/6. Mechanics/Spells/tashas-hideous-laughter.md\|Tasha's hideous laughter]] from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [[/6. Mechanics/Spells/magic-circle.md\|magic circle]] (1 charge), [[/6. Mechanics/Spells/magic-jar.md\|magic jar]] (3 charges), [[/6. Mechanics/Spells/planar-ally.md\|planar ally]] (3 charges), [[/6. Mechanics/Spells/planar-binding.md\|planar binding]] (2 charges), [[/6. Mechanics/Spells/plane-shift.md\|plane shift]] (to layers of the Abyss only; 3 charges), [[/6. Mechanics/Spells/summon-fiend-tce.md\|summon fiend]] (3 charges).
+The book has 8 charges. It regains `dice: 1d8` (`1d8`) expended charges daily at dawn. While holding it, you can use an action to cast [[/6. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]] from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [[/6. Mechanics/Spells/Magic Circle.md|magic circle]] (1 charge), [[/6. Mechanics/Spells/Magic Jar.md|magic jar]] (3 charges), [[/6. Mechanics/Spells/Planar Ally.md|planar ally]] (3 charges), [[/6. Mechanics/Spells/Planar Binding.md|planar binding]] (2 charges), [[/6. Mechanics/Spells/Plane Shift.md|plane shift]] (to layers of the Abyss only; 3 charges), [[/6. Mechanics/Spells/Summon Fiend (TCE).md|summon fiend]] (3 charges).
 
 ## Abyssal Reference
 
-You can reference the _Demonomicon_ whenever you make an Intelligence check to discern information about demons or a Wisdom ([[6. Mechanics/Rules/skills.md#Survival\|Survival]]) check related to the Abyss. When you do so, you can add double your proficiency bonus to the check.
+You can reference the _Demonomicon_ whenever you make an Intelligence check to discern information about demons or a Wisdom ([[6. Mechanics/Rules/Skills.md#Survival|Survival]]) check related to the Abyss. When you do so, you can add double your proficiency bonus to the check.
 
 ## Fiendish Scourging
 
@@ -39,15 +39,15 @@ Your magic causes pain to fiends. While carrying the book, when you make a damag
 
 ## Ensnarement
 
-While carrying the book, whenever you cast the [[/6. Mechanics/Spells/magic-circle.md\|magic circle]] spell naming only fiends, or the [[/6. Mechanics/Spells/planar-binding.md\|planar binding]] spell targeting a fiend, the spell is cast at 9th level, regardless of what level spell slot you used, if any. Additionally, the fiend has disadvantage on its saving throw against the spell.
+While carrying the book, whenever you cast the [[/6. Mechanics/Spells/Magic Circle.md|magic circle]] spell naming only fiends, or the [[/6. Mechanics/Spells/Planar Binding.md|planar binding]] spell targeting a fiend, the spell is cast at 9th level, regardless of what level spell slot you used, if any. Additionally, the fiend has disadvantage on its saving throw against the spell.
 
 ## Containment
 
-The first 10 pages of the _Demonomicon_ are blank. As an action while holding the book, you can target a fiend that you can see that is trapped within a [[/6. Mechanics/Spells/magic-circle.md\|magic circle]]. The fiend must succeed on a DC 20 Charisma saving throw with disadvantage or become trapped within one of the _Demonomicon's_ empty blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
+The first 10 pages of the _Demonomicon_ are blank. As an action while holding the book, you can target a fiend that you can see that is trapped within a [[/6. Mechanics/Spells/Magic Circle.md|magic circle]]. The fiend must succeed on a DC 20 Charisma saving throw with disadvantage or become trapped within one of the _Demonomicon's_ empty blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
 
 When you finish a long rest, if you and the _Demonomicon_ are on the same plane of existence, the trapped creature of the highest challenge rating within the book can attempt to possess you. You must make a DC 20 Charisma saving throw. On a failure, you are possessed by the creature, which controls you like a puppet. The possessing creature can release you as an action, appearing in the closest unoccupied space. On a successful save, the fiend can't try to possess you again for 7 days.
 
-When the tome is discovered, it has `dice: 1d4\|avg` (`1d4`) fiends occupying its pages, typically an assortment of demons.
+When the tome is discovered, it has `dice: 1d4` (`1d4`) fiends occupying its pages, typically an assortment of demons.
 
 ## Destroying the Demonomicon
 

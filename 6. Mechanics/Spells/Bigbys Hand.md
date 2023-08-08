@@ -26,15 +26,15 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 ## Clenched Fist
 
-The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes `dice: 4d8\|avg` (`4d8`) force damage.
+The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes `dice: 4d8` (`4d8`) force damage.
 
 ## Forceful Hand
 
-The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength ([[6. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
+The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
 
 ## Grasping Hand
 
-The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to `dice: 2d6\|avg` (`2d6`) + your spellcasting ability modifier.
+The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to `dice: 2d6` (`2d6`) + your spellcasting ability modifier.
 
 ## Interposing Hand
 
@@ -46,6 +46,6 @@ When you cast this spell using a spell slot of 6th level or higher, the damage f
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md|Warlock (The Fathomless)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 218

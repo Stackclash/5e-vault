@@ -11,7 +11,7 @@ aliases: ["Shadowfell Brand Tattoo"]
 # Shadowfell Brand Tattoo
 *Wondrous Item, rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -25,7 +25,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Shadow Essence
 
-You gain [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] with a range of 60 feet, and you have advantage on Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) checks.
+You gain [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a range of 60 feet, and you have advantage on Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks.
 
 ## Shadowy Defense
 

@@ -19,10 +19,10 @@ aliases: ["Bless"]
 - **Components:** V, S, a sprinkling of holy water
 - **Duration:** Concentration, up to 1 minute
 
-You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a `dice: d4\|avg` (`d4`) and add the number rolled to the attack roll or saving throw.
+You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a `dice: d4` (`d4`) and add the number rolled to the attack roll or saving throw.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Life Domain.md|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 219

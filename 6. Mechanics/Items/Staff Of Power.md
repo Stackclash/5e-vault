@@ -16,21 +16,21 @@ aliases: ["Staff of Power"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]], [[6. Mechanics/Rules/item-properties.md#Versatile\|Versatile]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[6. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 
-The staff has 20 charges for the following properties. The staff regains `dice: 2d8 + 4\|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20\|avg` (`d20`). On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `dice: 1d8 + 2\|avg` (`1d8 + 2`) charges.
+The staff has 20 charges for the following properties. The staff regains `dice: 2d8 + 4` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20` (`d20`). On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `dice: 1d8 + 2` (`1d8 + 2`) charges.
 
 ## Power Strike
 
-When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice: 1d6\|avg` (`1d6`) force damage to the target.
+When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice: 1d6` (`1d6`) force damage to the target.
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/6. Mechanics/Spells/cone-of-cold.md\|cone of cold]] (5 charges), [[/6. Mechanics/Spells/fireball.md\|fireball]] (5th-level version, 5 charges), [[/6. Mechanics/Spells/globe-of-invulnerability.md\|globe of invulnerability]] (6 charges), [[/6. Mechanics/Spells/hold-monster.md\|hold monster]] (5 charges), [[/6. Mechanics/Spells/levitate.md\|levitate]] (2 charges). [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]] (5th-level version, 5 charges), [[/6. Mechanics/Spells/magic-missile.md\|magic missile]] (1 charge), [[/6. Mechanics/Spells/ray-of-enfeeblement.md\|ray of enfeeblement]] (1 charge), or [[/6. Mechanics/Spells/wall-of-force.md\|wall of force]] (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/6. Mechanics/Spells/Cone Of Cold.md|cone of cold]] (5 charges), [[/6. Mechanics/Spells/Fireball.md|fireball]] (5th-level version, 5 charges), [[/6. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]] (6 charges), [[/6. Mechanics/Spells/Hold Monster.md|hold monster]] (5 charges), [[/6. Mechanics/Spells/Levitate.md|levitate]] (2 charges). [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]] (5th-level version, 5 charges), [[/6. Mechanics/Spells/Magic Missile.md|magic missile]] (1 charge), [[/6. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]] (1 charge), or [[/6. Mechanics/Spells/Wall Of Force.md|wall of force]] (5 charges).
 
 ## Retributive Strike
 

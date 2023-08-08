@@ -6,43 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/plant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Needle Blight"
-"size": "Medium"
-"type": "plant"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"stats":
-- !!int "12"
-- !!int "12"
-- !!int "13"
-- !!int "4"
-- !!int "8"
-- !!int "3"
-"speed": "walk 30 ft."
-"condition_immunities": "blinded, deafened"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
-"languages": "understands Common but can't speak"
-"cr": "1/4"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage."
-  "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 30/60 ft., one\
-    \ target. Hit: dice: 2d6 + 1|avg (2d6 + 1) piercing damage."
-  "name": "Needles"
-"source":
-- "MM"
-- "CoS"
-- "GoS"
-- "IDRotF"
-"image": "/compendium/bestiary/plant/token/needle-blight.png"
-aliases: ["Needle Blight"]
+statblock: inline
 ---
 # Needle Blight
 *Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden*  
@@ -76,32 +40,41 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 ## Stat Block
 
-```ad-statblock
-title: Needle Blight
-![[/6. Mechanics/Bestiary/Plant/Token/needle-blight.png#token]]
-*Medium plant, Neutral Evil*
-
-- **Armor Class** 12 (natural armor)
-- **Hit Points** `dice: 2d8 + 2|text(11)` (2d8 + 2) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|12 (+1)|13 (+1)| 4 (-3)| 8 (-1)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
-- **Condition Immunities** blinded, deafened
-- **Languages** understands Common but can't speak
-- **Challenge** 1/4
-
-## Actions
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 2d4 + 1` (`2d4 + 1`) piercing damage.
-
-***Needles.*** *Ranged Weapon Attack:* `dice: d20+3` (+3 to hit), range 30/60 ft., one target. Hit: `dice: 2d6 + 1` (`2d6 + 1`) piercing damage.
+```statblock
+"name": "Needle Blight"
+"size": "Medium"
+"type": "plant"
+"alignment": "Neutral Evil"
+"ac": !!int "12"
+"hp": !!int "11"
+"hit_dice": "2d8 + 2"
+"stats":
+- !!int "12"
+- !!int "12"
+- !!int "13"
+- !!int "4"
+- !!int "8"
+- !!int "3"
+"speed": "walk 30 ft."
+"condition_immunities": "blinded, deafened"
+"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
+"languages": "understands Common but can't speak"
+"cr": "1/4"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage."
+  "name": "Claws"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 30/60 ft., one\
+    \ target. Hit: dice: 2d6 + 1|avg (2d6 + 1) piercing damage."
+  "name": "Needles"
+"source":
+- "MM"
+- "CoS"
+- "GoS"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Plant/token/needle-blight.png"
 ```
 ^statblock
 

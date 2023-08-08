@@ -25,6 +25,6 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Sorcerer (Clockwork Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md|Sorcerer (Clockwork Soul)]]
 
 Source: Tasha's Cauldron of Everything p. 111

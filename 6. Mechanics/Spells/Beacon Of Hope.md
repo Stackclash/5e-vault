@@ -22,6 +22,6 @@ aliases: ["Beacon of Hope"]
 
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Life Domain.md|Cleric (Life Domain)]], [[/6. Mechanics/Classes/Cleric Peace Domain (TCE).md|Cleric (Peace Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Devotion.md|Paladin (Oath of Devotion)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 217

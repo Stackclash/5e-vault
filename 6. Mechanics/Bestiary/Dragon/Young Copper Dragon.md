@@ -6,66 +6,7 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Copper Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Chaotic Good"
-"ac": !!int "17"
-"hp": !!int "119"
-"hit_dice": "14d10 + 42"
-"stats":
-- !!int "19"
-- !!int "12"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "15"
-"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
-"saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
-"skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
-"damage_immunities": "acid"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
-"languages": "Common, Draconic"
-"cr": "7"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
-    \ The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 14 Dexterity saving throw, taking 40 (dice: 9d8|avg\
-    \ (9d8)) acid damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Slowing Breath. The dragon exhales gas in a 30-foot cone. Each\
-    \ creature in that area must succeed on a DC 14 Constitution saving throw. On\
-    \ a failed save, the creature can't use reactions, its speed is halved, and it\
-    \ can't make more than one attack on its turn. In addition, the creature can use\
-    \ either an action or a bonus action on its turn, but not both. These effects\
-    \ last for 1 minute. The creature can repeat the saving throw at the end of each\
-    \ of its turns, ending the effect on itself with a successful save.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-"source":
-- "MM"
-- "SKT"
-"image": "/compendium/bestiary/dragon/token/young-copper-dragon.png"
-aliases: ["Young Copper Dragon"]
+statblock: inline
 ---
 # Young Copper Dragon
 *Source: Monster Manual p. 112, Storm King's Thunder*  
@@ -138,39 +79,64 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Copper Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-copper-dragon.png#token]]
-*Large dragon, Chaotic Good*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 14d10 + 42|text(119)` (14d10 + 42) 
-- **Speed** walk 40 ft., climb 40 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +4, Constitution +6, Wisdom +4, Charisma +5
-- **Skills** Deception +5, Perception +7, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
-- **Damage Immunities** acid
-- **Languages** Common, Draconic
-- **Challenge** 7
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 4` (`2d10 + 4`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Acid Breath.** The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (`dice: 9d8` (`9d8`)) acid damage on a failed save, or half as much damage on a successful one.  
-- **Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.  
+```statblock
+"name": "Young Copper Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Chaotic Good"
+"ac": !!int "17"
+"hp": !!int "119"
+"hit_dice": "14d10 + 42"
+"stats":
+- !!int "19"
+- !!int "12"
+- !!int "17"
+- !!int "16"
+- !!int "13"
+- !!int "15"
+"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
+"saves":
+  "Charisma": !!int "5"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "6"
+"skillsaves":
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
+  "Perception": !!int "7"
+"damage_immunities": "acid"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+"languages": "Common, Draconic"
+"cr": "7"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
+    \ The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature\
+    \ in that line must make a DC 14 Dexterity saving throw, taking 40 (dice: 9d8|avg\
+    \ (9d8)) acid damage on a failed save, or half as much damage on a successful\
+    \ one.  \n- Slowing Breath. The dragon exhales gas in a 30-foot cone. Each\
+    \ creature in that area must succeed on a DC 14 Constitution saving throw. On\
+    \ a failed save, the creature can't use reactions, its speed is halved, and it\
+    \ can't make more than one attack on its turn. In addition, the creature can use\
+    \ either an action or a bonus action on its turn, but not both. These effects\
+    \ last for 1 minute. The creature can repeat the saving throw at the end of each\
+    \ of its turns, ending the effect on itself with a successful save.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+"source":
+- "MM"
+- "SKT"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-copper-dragon.png"
 ```
 ^statblock
 

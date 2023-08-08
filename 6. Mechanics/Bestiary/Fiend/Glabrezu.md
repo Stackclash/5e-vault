@@ -5,74 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Glabrezu"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "17"
-"hp": !!int "157"
-"hit_dice": "15d10 + 75"
-"stats":
-- !!int "20"
-- !!int "15"
-- !!int "21"
-- !!int "19"
-- !!int "17"
-- !!int "16"
-"speed": "walk 40 ft."
-"saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "7"
-  "Strength": !!int "9"
-  "Constitution": !!int "9"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 13"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "9"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The glabrezu's spellcasting ability is Intelligence (spell save DC 16).\
-    \ The glabrezu can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]],\
-    \ [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]]\n\n1/day each: [[/6. Mechanics/Spells/confusion.md\|confusion]],\
-    \ [[/6. Mechanics/Spells/fly.md\|fly]], [[/6. Mechanics/Spells/power-word-stun.md\|power word stun]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The glabrezu has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The glabrezu makes four attacks: two with its pincers and two with its\
-    \ fists. Alternatively, it makes two attacks with its pincers and casts one spell."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage. If the target is\
-    \ a Medium or smaller creature, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ (escape DC 15). The glabrezu has two pincers, each of which can grapple only\
-    \ one target."
-  "name": "Pincer"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) bludgeoning damage."
-  "name": "Fist"
-"source":
-- "MM"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "EGW"
-- "CRCotN"
-"image": "/compendium/bestiary/fiend/token/glabrezu.png"
-aliases: ["Glabrezu"]
+statblock: inline
 ---
 # Glabrezu
 *Source: Monster Manual p. 58, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Critical Role: Call of the Netherdeep*  
@@ -221,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -250,45 +183,71 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Glabrezu
-![[/6. Mechanics/Bestiary/Fiend/Token/glabrezu.png#token]]
-*Large fiend(demon), Chaotic Evil*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 15d10 + 75|text(157)` (15d10 + 75) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Strength +9, Constitution +9, Wisdom +7, Charisma +7
-- **Skills** ⏤
-- **Senses** truesight 120 ft., passive Perception 13
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 9
-
-## Traits
-
-***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
-
-***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]]
-
-**1/day each**: [[/6. Mechanics/Spells/confusion.md\|confusion]], [[/6. Mechanics/Spells/fly.md\|fly]], [[/6. Mechanics/Spells/power-word-stun.md\|power word stun]]
-
-## Actions
-
-***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
-
-***Pincer.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 5` (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
-
-***Fist.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 5 ft., one target. Hit: `dice: 2d4 + 2` (`2d4 + 2`) bludgeoning damage.
+```statblock
+"name": "Glabrezu"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "17"
+"hp": !!int "157"
+"hit_dice": "15d10 + 75"
+"stats":
+- !!int "20"
+- !!int "15"
+- !!int "21"
+- !!int "19"
+- !!int "17"
+- !!int "16"
+"speed": "walk 40 ft."
+"saves":
+  "Charisma": !!int "7"
+  "Wisdom": !!int "7"
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "truesight 120 ft., passive Perception 13"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "9"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The glabrezu's spellcasting ability is Intelligence (spell save DC 16).\
+    \ The glabrezu can innately cast the following spells, requiring no material components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n1/day each: [[/6. Mechanics/Spells/Confusion.md|confusion]],\
+    \ [[/6. Mechanics/Spells/Fly.md|fly]], [[/6. Mechanics/Spells/Power Word Stun.md|power word stun]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The glabrezu has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The glabrezu makes four attacks: two with its pincers and two with its\
+    \ fists. Alternatively, it makes two attacks with its pincers and casts one spell."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage. If the target is\
+    \ a Medium or smaller creature, it is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15). The glabrezu has two pincers, each of which can grapple only\
+    \ one target."
+  "name": "Pincer"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) bludgeoning damage."
+  "name": "Fist"
+"source":
+- "MM"
+- "TftYP"
+- "WDMM"
+- "GoS"
+- "BGDIA"
+- "EGW"
+- "CRCotN"
+"image": "/compendium/bestiary/fiend/token/glabrezu.png"
 ```
 ^statblock

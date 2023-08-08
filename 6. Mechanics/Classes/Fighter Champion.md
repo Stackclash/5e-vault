@@ -53,7 +53,7 @@ Being unable to see a creature doesn't impose disadvantage on your attack rolls 
 ### Blind Fighting
 _Source: Tasha's Cauldron of Everything p. 41_
 
-You have [[6. Mechanics/Rules/senses.md#blindsight\|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within that range, unless the creature successfully hides from you.
+You have [[6. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
 
 ### Close Quarters Shooter
 _Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
@@ -75,12 +75,12 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ### Interception
 _Source: Tasha's Cauldron of Everything p. 41_
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/6. Mechanics/Items/shield.md\|shield]] or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/6. Mechanics/Items/Shield.md|shield]] or a simple or martial weapon to use this reaction.
 
 ### Interception
 _Source: Unearthed Arcana: Class Feature Variants p. 12_
 
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
 
 ### Mariner
 _Source: Unearthed Arcana: Waterborne Adventures p. 3_
@@ -96,14 +96,14 @@ _Source: Unearthed Arcana: Class Feature Variants p. 5_
 
 You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
-You gain one superiority die, which is a `dice: d6\|avg` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+You gain one superiority die, which is a `dice: d6` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ### Superior Technique
 _Source: Tasha's Cauldron of Everything p. 41_
 
-You learn one maneuver of your choice from among those available to the [[/6. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+You learn one maneuver of your choice from among those available to the [[/6. Mechanics/Classes/Fighter Battle Master.md|Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
-You gain one superiority die, which is a `dice: d6\|avg` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+You gain one superiority die, which is a `dice: d6` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ### Thrown Weapon Fighting
 _Source: Unearthed Arcana: Class Feature Variants p. 13_
@@ -131,13 +131,13 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ### Unarmed Fighting
 _Source: Tasha's Cauldron of Everything p. 42_
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6\|avg` (`1d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[/6. Mechanics/Items/shield.md\|shield]] when you make the attack roll, the `dice: d6\|avg` (`d6`) becomes a `dice: d8\|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[/6. Mechanics/Items/Shield.md|shield]] when you make the attack roll, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
 
-At the start of each of your turns, you can deal `dice: 1d4\|avg` (`1d4`) bludgeoning damage to one creature [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by you.
+At the start of each of your turns, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to one creature [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by you.
 
 ### Unarmed Fighting
 _Source: Unearthed Arcana: Class Feature Variants p. 13_
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6\|avg` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6\|avg` (`d6`) becomes a `dice: d8\|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
 
-When you successfully start a grapple, you can deal `dice: 1d4\|avg` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.

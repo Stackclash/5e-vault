@@ -30,14 +30,14 @@ If you don't keep any of those elements or you choose this lineage at character 
 
 You have escaped death, a fact represented by the following benefits:
 
-- You have advantage on saving throws against disease and being [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]], and you have resistance to poison damage.  
+- You have advantage on saving throws against disease and being [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], and you have resistance to poison damage.  
 - You have advantage on death saving throws.  
 - You don't need to eat, drink, or breathe.  
 - You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.  
 
 ### Knowledge from a Past Life
 
-You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a `dice: d6\|avg` (`d6`) immediately after seeing the number on the `dice: d20\|avg` (`d20`) and add the number on the `dice: d6\|avg` (`d6`) to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a `dice: d6` (`d6`) immediately after seeing the number on the `dice: d20` (`d20`) and add the number on the `dice: d6` (`d6`) to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Description
 

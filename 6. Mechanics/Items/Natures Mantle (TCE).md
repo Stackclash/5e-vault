@@ -11,7 +11,7 @@ aliases: ["Nature's Mantle"]
 # Nature's Mantle
 *Wondrous Item, uncommon (requires attunement by a druid or ranger)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 

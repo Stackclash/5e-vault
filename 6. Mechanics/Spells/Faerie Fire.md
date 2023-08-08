@@ -24,8 +24,8 @@ aliases: ["Faerie Fire"]
 
 Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
 
-Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being [[6. Mechanics/Rules/Conditions.md#invisible\|invisible]].
+Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being [[6. Mechanics/Rules/Conditions.md#invisible|invisible]].
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[/6. Mechanics/Classes/Cleric Twilight Domain (TCE).md\|Cleric (Twilight Domain)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Ranger Swarmkeeper (TCE).md\|Ranger (Swarmkeeper)]], [[/6. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Light Domain.md|Cleric (Light Domain)]], [[/6. Mechanics/Classes/Cleric Twilight Domain (TCE).md|Cleric (Twilight Domain)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Ranger Swarmkeeper (TCE).md|Ranger (Swarmkeeper)]], [[/6. Mechanics/Classes/Warlock The Archfey.md|Warlock (The Archfey)]]
 
 Source: Player's Handbook p. 239

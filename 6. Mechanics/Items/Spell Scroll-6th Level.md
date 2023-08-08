@@ -22,6 +22,6 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 
 A spell cast from this scroll has a save DC of 17 and an attack bonus of `dice: d20+9` (+9).
 
-A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 16 Intelligence ([[6. Mechanics/Rules/skills.md#Arcana\|Arcana]]) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 16 Intelligence ([[6. Mechanics/Rules/Skills.md#Arcana|Arcana]]) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 
 *Source: Dungeon Master's Guide p. 205*

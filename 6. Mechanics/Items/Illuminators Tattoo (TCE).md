@@ -11,7 +11,7 @@ aliases: ["Illuminator's Tattoo"]
 # Illuminator's Tattoo
 *Wondrous Item, common (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -27,6 +27,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 While this tattoo is on your skin, you can write with your fingertip as if it were an ink pen that never runs out of ink.
 
-As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
+As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 129*

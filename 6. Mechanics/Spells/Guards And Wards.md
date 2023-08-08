@@ -29,28 +29,28 @@ Fog fills all the warded corridors, making them heavily obscured. In addition, a
 
 ## Doors
 
-All doors in the warded area are magically locked, as if sealed by an [[/6. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]] spell) to make them appear as plain sections of wall.
+All doors in the warded area are magically locked, as if sealed by an [[/6. Mechanics/Spells/Arcane Lock.md|arcane lock]] spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]] spell) to make them appear as plain sections of wall.
 
 ## Stairs
 
-Webs fill all stairs in the warded area from top to bottom, as the [[/6. Mechanics/Spells/web.md\|web]] spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wards lasts.
+Webs fill all stairs in the warded area from top to bottom, as the [[/6. Mechanics/Spells/Web.md|web]] spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wards lasts.
 
 ## Other Spell Effect
 
 You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
-- Place [[/6. Mechanics/Spells/Dancing Lights.md\|dancing lights]] in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.  
-- Place [[/6. Mechanics/Spells/magic-mouth.md\|magic mouth]] in two locations.  
-- Place [[/6. Mechanics/Spells/stinking-cloud.md\|stinking cloud]] in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.  
-- Place a constant [[/6. Mechanics/Spells/gust-of-wind.md\|gust of wind]] in one corridor or room.  
-- Place a [[/6. Mechanics/Spells/suggestion.md\|suggestion]] in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.  
+- Place [[/6. Mechanics/Spells/Dancing Lights.md|dancing lights]] in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.  
+- Place [[/6. Mechanics/Spells/Magic Mouth.md|magic mouth]] in two locations.  
+- Place [[/6. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.  
+- Place a constant [[/6. Mechanics/Spells/Gust Of Wind.md|gust of wind]] in one corridor or room.  
+- Place a [[/6. Mechanics/Spells/Suggestion.md|suggestion]] in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.  
 
-The whole warded area radiates magic. A [[/6. Mechanics/Spells/Dispel Magic.md\|dispel magic]] cast on a specific effect, if successful, removes only that effect.
+The whole warded area radiates magic. A [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]] cast on a specific effect, if successful, removes only that effect.
 
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 248

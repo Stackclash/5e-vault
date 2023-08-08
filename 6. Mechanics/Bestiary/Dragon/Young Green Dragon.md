@@ -6,69 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Green Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "136"
-"hit_dice": "16d10 + 48"
-"stats":
-- !!int "19"
-- !!int "12"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "15"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
-"skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
-"languages": "Common, Draconic"
-"cr": "8"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 2d6|avg\
-    \ (2d6) poison damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in that\
-    \ area must make a DC 14 Constitution saving throw, taking 42 (dice: 12d6|avg\
-    \ (12d6)) poison damage on a failed save, or half as much damage on a successful\
-    \ one."
-  "name": "Poison Breath (Recharge 5-6)"
-"source":
-- "MM"
-- "RoT"
-- "SKT"
-- "WDMM"
-- "BGDIA"
-- "RMBRE"
-"image": "/compendium/bestiary/dragon/token/young-green-dragon.png"
-aliases: ["Young Green Dragon"]
+statblock: inline
 ---
 # Young Green Dragon
 *Source: Monster Manual p. 94, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy*  
@@ -165,41 +103,67 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Green Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-green-dragon.png#token]]
-*Large dragon, Lawful Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 16d10 + 48|text(136)` (16d10 + 48) 
-- **Speed** walk 40 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +4, Constitution +6, Wisdom +4, Charisma +5
-- **Skills** Deception +5, Perception +7, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Common, Draconic
-- **Challenge** 8
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 4` (`2d10 + 4`) piercing damage plus `dice: 2d6` (`2d6`) poison damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
-
-***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (`dice: 12d6` (`12d6`)) poison damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Young Green Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "136"
+"hit_dice": "16d10 + 48"
+"stats":
+- !!int "19"
+- !!int "12"
+- !!int "17"
+- !!int "16"
+- !!int "13"
+- !!int "15"
+"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "5"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "6"
+"skillsaves":
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
+  "Perception": !!int "7"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+"languages": "Common, Draconic"
+"cr": "8"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in that\
+    \ area must make a DC 14 Constitution saving throw, taking 42 (dice: 12d6|avg\
+    \ (12d6)) poison damage on a failed save, or half as much damage on a successful\
+    \ one."
+  "name": "Poison Breath (Recharge 5-6)"
+"source":
+- "MM"
+- "RoT"
+- "SKT"
+- "WDMM"
+- "BGDIA"
+- "RMBRE"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-green-dragon.png"
 ```
 ^statblock
 

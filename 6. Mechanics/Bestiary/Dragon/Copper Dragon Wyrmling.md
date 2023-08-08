@@ -5,57 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Copper Dragon Wyrmling"
-"size": "Medium"
-"type": "dragon"
-"alignment": "Chaotic Good"
-"ac": !!int "16"
-"hp": !!int "22"
-"hit_dice": "4d8 + 4"
-"stats":
-- !!int "15"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-- !!int "11"
-- !!int "13"
-"speed": "walk 30 ft., climb 30 ft., fly 60 ft."
-"saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "3"
-"skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
-"damage_immunities": "acid"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "1"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
-    \ The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking 18 (dice: 4d8|avg\
-    \ (4d8)) acid damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Slowing Breath. The dragon exhales gas in a 15-foot cone. Each\
-    \ creature in that area must succeed on a DC 11 Constitution saving throw. On\
-    \ a failed save, the creature can't use reactions, its speed is halved, and it\
-    \ can't make more than one attack on its turn. In addition, the creature can use\
-    \ either an action or a bonus action on its turn, but not both. These effects\
-    \ last for 1 minute. The creature can repeat the saving throw at the end of each\
-    \ of its turns, ending the effect on itself with a successful save.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-"source":
-- "MM"
-"image": "/compendium/bestiary/dragon/token/copper-dragon-wyrmling.png"
-aliases: ["Copper Dragon Wyrmling"]
+statblock: inline
 ---
 # Copper Dragon Wyrmling
 *Source: Monster Manual p. 111*  
@@ -128,34 +78,54 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Copper Dragon Wyrmling
-![[/6. Mechanics/Bestiary/Dragon/Token/copper-dragon-wyrmling.png#token]]
-*Medium dragon, Chaotic Good*
-
-- **Armor Class** 16 (natural armor)
-- **Hit Points** `dice: 4d8 + 4|text(22)` (4d8 + 4) 
-- **Speed** walk 30 ft., climb 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +3, Constitution +3, Wisdom +2, Charisma +3
-- **Skills** Perception +4, Stealth +3
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Damage Immunities** acid
-- **Languages** Draconic
-- **Challenge** 1
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 2` (`1d10 + 2`) piercing damage.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Acid Breath.** The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (`dice: 4d8` (`4d8`)) acid damage on a failed save, or half as much damage on a successful one.  
-- **Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.  
+```statblock
+"name": "Copper Dragon Wyrmling"
+"size": "Medium"
+"type": "dragon"
+"alignment": "Chaotic Good"
+"ac": !!int "16"
+"hp": !!int "22"
+"hit_dice": "4d8 + 4"
+"stats":
+- !!int "15"
+- !!int "12"
+- !!int "13"
+- !!int "14"
+- !!int "11"
+- !!int "13"
+"speed": "walk 30 ft., climb 30 ft., fly 60 ft."
+"saves":
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "3"
+"skillsaves":
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
+"damage_immunities": "acid"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"languages": "Draconic"
+"cr": "1"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
+    \ The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature\
+    \ in that line must make a DC 11 Dexterity saving throw, taking 18 (dice: 4d8|avg\
+    \ (4d8)) acid damage on a failed save, or half as much damage on a successful\
+    \ one.  \n- Slowing Breath. The dragon exhales gas in a 15-foot cone. Each\
+    \ creature in that area must succeed on a DC 11 Constitution saving throw. On\
+    \ a failed save, the creature can't use reactions, its speed is halved, and it\
+    \ can't make more than one attack on its turn. In addition, the creature can use\
+    \ either an action or a bonus action on its turn, but not both. These effects\
+    \ last for 1 minute. The creature can repeat the saving throw at the end of each\
+    \ of its turns, ending the effect on itself with a successful save.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+"source":
+- "MM"
+"image": "6. Mechanics/Bestiary/Dragon/token/copper-dragon-wyrmling.png"
 ```
 ^statblock

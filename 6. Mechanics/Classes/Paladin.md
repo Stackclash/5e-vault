@@ -76,17 +76,17 @@ aliases: ["Paladin"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws:** Wisdom, Charisma
-- **Armor:** light, medium, heavy, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, heavy, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 - **Skills:** Choose 2 from *Athletics*, *Insight*, *Intimidation*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a martial weapon and a [[/6. Mechanics/Items/shield.md\|shield]] or (b) two martial weapons  
-- (a) five [[/6. Mechanics/Items/javelin.md\|javelins]] or (b) any simple melee weapon  
-- (a) a [[/6. Mechanics/Items/priests-pack.md\|priest's pack]] or (b) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
-- [[/6. Mechanics/Items/chain-mail.md\|Chain mail]] and a holy symbol  
+- (a) a martial weapon and a [[/6. Mechanics/Items/Shield.md|shield]] or (b) two martial weapons  
+- (a) five [[/6. Mechanics/Items/Javelin.md|javelins]] or (b) any simple melee weapon  
+- (a) a [[/6. Mechanics/Items/Priests Pack.md|priest's pack]] or (b) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- [[/6. Mechanics/Items/Chain Mail.md|Chain mail]] and a holy symbol  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Paladin, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 
@@ -107,7 +107,7 @@ You gain the following proficiencies:
 
 ### Divine Sense (Level 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[/6. Mechanics/Spells/hallow.md\|hallow]] spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[/6. Mechanics/Spells/Hallow.md|hallow]] spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -123,27 +123,27 @@ This feature has no effect on undead and constructs.
 
 ### Divine Smite (Level 2)
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice: 2d8\|avg` (`2d8`) for a 1st-level spell slot, plus `dice: 1d8\|avg` (`1d8`) for each spell level higher than 1st, to a maximum of `dice: 5d8\|avg` (`5d8`). The damage increases by `dice: 1d8\|avg` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice: 6d8\|avg` (`6d8`).
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice: 2d8` (`2d8`) for a 1st-level spell slot, plus `dice: 1d8` (`1d8`) for each spell level higher than 1st, to a maximum of `dice: 5d8` (`5d8`). The damage increases by `dice: 1d8` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice: 6d8` (`6d8`).
 
 ### Fighting Style (Level 2)
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
 - Close Quarters Shooter  
-- [[/6. Mechanics/Classes/Fighter.md#Defense\|Defense]]  
-- [[/6. Mechanics/Classes/Fighter.md#Dueling\|Dueling]]  
-- [[/6. Mechanics/Classes/Fighter.md#Great%20Weapon%20Fighting\|Great Weapon Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Defense|Defense]]  
+- [[/6. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
+- [[/6. Mechanics/Classes/Fighter.md#Great%20Weapon%20Fighting|Great Weapon Fighting]]  
 - Mariner  
-- [[/6. Mechanics/Classes/Fighter.md#Protection\|Protection]]  
+- [[/6. Mechanics/Classes/Fighter.md#Protection|Protection]]  
 - Tunnel Fighter  
 - Blind Fighting  
 - Interception  
 - Thrown Weapon Fighting  
 - Unarmed Fighting  
 - Blessed Warrior  
-- [[/6. Mechanics/Classes/Paladin.md#Blessed%20Warrior\|Blessed Warrior]]  
-- [[/6. Mechanics/Classes/Fighter.md#Blind%20Fighting\|Blind Fighting]]  
-- [[/6. Mechanics/Classes/Fighter.md#Interception\|Interception]]  
+- [[/6. Mechanics/Classes/Paladin.md#Blessed%20Warrior|Blessed Warrior]]  
+- [[/6. Mechanics/Classes/Fighter.md#Blind%20Fighting|Blind Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Interception|Interception]]  
 
 ### Spellcasting (Level 2)
 
@@ -155,7 +155,7 @@ The Paladin table shows how many spell slots you have to cast your paladin spell
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -246,13 +246,13 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Improved Divine Smite (Level 11)
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice: 1d8\|avg` (`1d8`) radiant damage.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice: 1d8` (`1d8`) radiant damage.
 
 ### Ability Score Improvement (Level 12)
 
@@ -310,7 +310,7 @@ Being unable to see a creature doesn't impose disadvantage on your attack rolls 
 ### Blind Fighting
 _Source: Tasha's Cauldron of Everything p. 41_
 
-You have [[6. Mechanics/Rules/senses.md#blindsight\|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within that range, unless the creature successfully hides from you.
+You have [[6. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
 
 ### Close Quarters Shooter
 _Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
@@ -332,12 +332,12 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ### Interception
 _Source: Tasha's Cauldron of Everything p. 41_
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/6. Mechanics/Items/shield.md\|shield]] or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/6. Mechanics/Items/Shield.md|shield]] or a simple or martial weapon to use this reaction.
 
 ### Interception
 _Source: Unearthed Arcana: Class Feature Variants p. 12_
 
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
 
 ### Mariner
 _Source: Unearthed Arcana: Waterborne Adventures p. 3_
@@ -363,6 +363,6 @@ As a bonus action, you can enter a defensive stance that lasts until the start o
 ### Unarmed Fighting
 _Source: Unearthed Arcana: Class Feature Variants p. 13_
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6\|avg` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6\|avg` (`d6`) becomes a `dice: d8\|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
 
-When you successfully start a grapple, you can deal `dice: 1d4\|avg` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.

@@ -23,23 +23,23 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([[6. Mechanics/Rules/Skills.md#Insight\|Insight]]) check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([[6. Mechanics/Rules/Skills.md#Insight|Insight]]) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [[/6. Mechanics/Items/Vial.md\|vial]] of water and cause it to become [[/6. Mechanics/Items/Holy Water Flask.md\|holy water]].
+You touch one [[/6. Mechanics/Items/Vial.md|vial]] of water and cause it to become [[/6. Mechanics/Items/Holy Water Flask.md|holy water]].
 
 ## Coming of Age
 
-You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a `dice: d4\|avg` (`d4`) and add the number rolled to the ability check. A creature can benefit from this rite only once.
+You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a `dice: d4` (`d4`) and add the number rolled to the ability check. A creature can benefit from this rite only once.
 
 ## Dedication
 
-You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a `dice: d4\|avg` (`d4`) and add the number rolled to the save. A creature can benefit from this rite only once.
+You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a `dice: d4` (`d4`) and add the number rolled to the save. A creature can benefit from this rite only once.
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[/6. Mechanics/Spells/wish.md\|wish]] spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[/6. Mechanics/Spells/Wish.md|wish]] spell.
 
 ## Wedding
 
@@ -47,6 +47,6 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Xanathar's Guide to Everything p. 151

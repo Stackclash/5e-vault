@@ -8,48 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Kruthik"
-"size": "Small"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "16"
-"hp": !!int "9"
-"hit_dice": "2d6 + 2"
-"stats":
-- !!int "13"
-- !!int "16"
-- !!int "13"
-- !!int "4"
-- !!int "10"
-- !!int "6"
-"speed": "walk 30 ft., burrow 10 ft., climb 30 ft."
-"skillsaves":
-  "Perception": !!int "4"
-"senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
-"languages": "Kruthik"
-"cr": "1/8"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik has advantage on an attack roll against a creature if at least\
-    \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
-    \ [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Pack Tactics"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
-    \ leaves a 2½-foot-diameter tunnel in its wake."
-  "name": "Tunneler"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
-  "name": "Stab"
-"source":
-- "MPMM"
-- "MTF"
-"image": "/compendium/bestiary/monstrosity/token/young-kruthik.png"
-aliases: ["Young Kruthik"]
+statblock: inline
 ---
 # Young Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  
@@ -78,35 +37,46 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ## Stat Block
 
-```ad-statblock
-title: Young Kruthik
-![[/6. Mechanics/Bestiary/Monstrosity/Token/young-kruthik.png#token]]
-*Small monstrosity, Unaligned*
-
-- **Armor Class** 16 (natural armor)
-- **Hit Points** `dice: 2d6 + 2|text(9)` (2d6 + 2) 
-- **Speed** walk 30 ft., burrow 10 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|16 (+3)|13 (+1)| 4 (-3)|10 (+0)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +4
-- **Senses** darkvision 30 ft., tremorsense 60 ft., passive Perception 14
-- **Languages** Kruthik
-- **Challenge** 1/8
-
-## Traits
-
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2½-foot-diameter tunnel in its wake.
-
-## Actions
-
-***Stab.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage.
+```statblock
+"name": "Young Kruthik"
+"size": "Small"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "16"
+"hp": !!int "9"
+"hit_dice": "2d6 + 2"
+"stats":
+- !!int "13"
+- !!int "16"
+- !!int "13"
+- !!int "4"
+- !!int "10"
+- !!int "6"
+"speed": "walk 30 ft., burrow 10 ft., climb 30 ft."
+"skillsaves":
+  "Perception": !!int "4"
+"senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
+"languages": "Kruthik"
+"cr": "1/8"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kruthik has advantage on an attack roll against a creature if at least\
+    \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
+    \ [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Pack Tactics"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
+    \ leaves a 2½-foot-diameter tunnel in its wake."
+  "name": "Tunneler"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+  "name": "Stab"
+"source":
+- "MPMM"
+- "MTF"
+"image": "6. Mechanics/Bestiary/Monstrosity/token/young-kruthik.png"
 ```
 ^statblock
 

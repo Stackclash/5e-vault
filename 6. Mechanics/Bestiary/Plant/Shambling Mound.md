@@ -7,71 +7,7 @@ tags:
 - monster/environment/swamp
 - monster/size/large
 - monster/type/plant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Shambling Mound"
-"size": "Large"
-"type": "plant"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"hp": !!int "136"
-"hit_dice": "16d10 + 48"
-"stats":
-- !!int "18"
-- !!int "8"
-- !!int "16"
-- !!int "5"
-- !!int "10"
-- !!int "5"
-"speed": "walk 20 ft., swim 20 ft."
-"skillsaves":
-  "Stealth": !!int "2"
-"damage_resistances": "cold, fire"
-"damage_immunities": "lightning"
-"condition_immunities": "blinded, deafened, exhaustion"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
-"languages": ""
-"cr": "5"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the shambling mound is subjected to lightning damage, it takes\
-    \ no damage and regains a number of hit points equal to the lightning damage dealt."
-  "name": "Lightning Absorption"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
-    \ or smaller target, the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ (escape DC 14), and the shambling mound uses its Engulf on it."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
-  "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shambling mound engulfs a Medium or smaller creature [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ by it. The engulfed target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]],\
-    \ [[6. Mechanics/Rules/conditions.md#restrained\|restrained]], and unable to breathe,\
-    \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
-    \ of the mound's turns or take dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage.\
-    \ If the mound moves, the engulfed target moves with it. The mound can have only\
-    \ one creature engulfed at a time."
-  "name": "Engulf"
-"source":
-- "MM"
-- "CoS"
-- "HotDQ"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "MOT"
-- "CM"
-- "WBtW"
-- "JttRC"
-- "KftGV"
-"image": "/compendium/bestiary/plant/token/shambling-mound.png"
-aliases: ["Shambling Mound"]
+statblock: inline
 ---
 # Shambling Mound
 *Source: Monster Manual p. 270, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
@@ -104,40 +40,69 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 
 ## Stat Block
 
-```ad-statblock
-title: Shambling Mound
-![[/6. Mechanics/Bestiary/Plant/Token/shambling-mound.png#token]]
-*Large plant, Unaligned*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 16d10 + 48|text(136)` (16d10 + 48) 
-- **Speed** walk 20 ft., swim 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** Stealth +2
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
-- **Damage Resistances** cold, fire
-- **Damage Immunities** lightning
-- **Condition Immunities** blinded, deafened, exhaustion
-- **Languages** —
-- **Challenge** 5
-
-## Traits
-
-***Lightning Absorption.*** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
-
-## Actions
-
-***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 14), and the shambling mound uses its Engulf on it.
-
-***Slam.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 4` (`2d8 + 4`) bludgeoning damage.
-
-***Engulf.*** The shambling mound engulfs a Medium or smaller creature [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by it. The engulfed target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#restrained\|restrained]], and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take `dice: 2d8 + 4` (`2d8 + 4`) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+```statblock
+"name": "Shambling Mound"
+"size": "Large"
+"type": "plant"
+"alignment": "Unaligned"
+"ac": !!int "15"
+"hp": !!int "136"
+"hit_dice": "16d10 + 48"
+"stats":
+- !!int "18"
+- !!int "8"
+- !!int "16"
+- !!int "5"
+- !!int "10"
+- !!int "5"
+"speed": "walk 20 ft., swim 20 ft."
+"skillsaves":
+  "Stealth": !!int "2"
+"damage_resistances": "cold, fire"
+"damage_immunities": "lightning"
+"condition_immunities": "blinded, deafened, exhaustion"
+"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"languages": ""
+"cr": "5"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Whenever the shambling mound is subjected to lightning damage, it takes\
+    \ no damage and regains a number of hit points equal to the lightning damage dealt."
+  "name": "Lightning Absorption"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
+    \ or smaller target, the target is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14), and the shambling mound uses its Engulf on it."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+  "name": "Slam"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The shambling mound engulfs a Medium or smaller creature [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by it. The engulfed target is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]],\
+    \ [[6. Mechanics/Rules/Conditions.md#restrained|restrained]], and unable to breathe,\
+    \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
+    \ of the mound's turns or take dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage.\
+    \ If the mound moves, the engulfed target moves with it. The mound can have only\
+    \ one creature engulfed at a time."
+  "name": "Engulf"
+"source":
+- "MM"
+- "CoS"
+- "HotDQ"
+- "TftYP"
+- "ToA"
+- "WDMM"
+- "GoS"
+- "BGDIA"
+- "MOT"
+- "CM"
+- "WBtW"
+- "JttRC"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Plant/token/shambling-mound.png"
 ```
 ^statblock
 

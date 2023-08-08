@@ -35,6 +35,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md|Warlock (The Fathomless)]]
 
 Source: Player's Handbook p. 229

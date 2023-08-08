@@ -32,7 +32,7 @@ You gain one feat of your choice for which you qualify.
 
 ### Variable Trait
 
-You gain one of the following options of your choice: (a) [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] with a range of 60 feet or (b) proficiency in one skill of your choice.
+You gain one of the following options of your choice: (a) [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a range of 60 feet or (b) proficiency in one skill of your choice.
 
 ### Languages
 

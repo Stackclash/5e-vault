@@ -10,6 +10,6 @@ aliases: ["Svirfneblin Magic"]
 
 ***Prerequisites*** Gnome (Deep)
 
-You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast [[/6. Mechanics/Spells/nondetection.md\|nondetection]] on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/blur.md\|blur]], and [[/6. Mechanics/Spells/disguise-self.md\|disguise self]]. You regain the ability to cast these spells when you finish a long rest.
+You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast [[/6. Mechanics/Spells/Nondetection.md|nondetection]] on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/Blur.md|blur]], and [[/6. Mechanics/Spells/Disguise Self.md|disguise self]]. You regain the ability to cast these spells when you finish a long rest.
 
 Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.

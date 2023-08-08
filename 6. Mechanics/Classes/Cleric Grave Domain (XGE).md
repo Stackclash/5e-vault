@@ -22,18 +22,18 @@ Gods of the grave watch over the line between life and death. To these deities, 
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/false-life.md\|false life]] |
-| 3rd | [[/6. Mechanics/Spells/gentle-repose.md\|gentle repose]], [[/6. Mechanics/Spells/ray-of-enfeeblement.md\|ray of enfeeblement]] |
-| 5th | [[/6. Mechanics/Spells/revivify.md\|revivify]], [[/6. Mechanics/Spells/vampiric-touch.md\|vampiric touch]] |
-| 7th | [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/death-ward.md\|death ward]] |
-| 9th | [[/6. Mechanics/Spells/antilife-shell.md\|antilife shell]], [[/6. Mechanics/Spells/raise-dead.md\|raise dead]] |
+| 1st | [[/6. Mechanics/Spells/Bane.md|bane]], [[/6. Mechanics/Spells/False Life.md|false life]] |
+| 3rd | [[/6. Mechanics/Spells/Gentle Repose.md|gentle repose]], [[/6. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]] |
+| 5th | [[/6. Mechanics/Spells/Revivify.md|revivify]], [[/6. Mechanics/Spells/Vampiric Touch.md|vampiric touch]] |
+| 7th | [[/6. Mechanics/Spells/Blight.md|blight]], [[/6. Mechanics/Spells/Death Ward.md|death ward]] |
+| 9th | [[/6. Mechanics/Spells/Antilife Shell.md|antilife shell]], [[/6. Mechanics/Spells/Raise Dead.md|raise dead]] |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [[/6. Mechanics/Spells/spare-the-dying.md\|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [[/6. Mechanics/Spells/Spare The Dying.md|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -62,8 +62,8 @@ _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Potent Spellcasting feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Keeper of Souls (Level 17)
 
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.

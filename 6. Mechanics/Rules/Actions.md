@@ -25,7 +25,7 @@ Some items are used up when they are activated. A potion or elixir must be swall
 
 ### Spells
 
-Some magic items allow the user to cast a spell from the item, often by expending charges from it. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [[6. Mechanics/Rules/status.md#concentration\|concentration]]. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Some magic items allow the user to cast a spell from the item, often by expending charges from it. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [[6. Mechanics/Rules/Status.md#concentration|concentration]]. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
 Many items, such as potions, bypass the casting of the spell and confer the spell's effects. Such an item still uses the spell's duration unless the item's description says otherwise.
 
@@ -60,9 +60,9 @@ _Source: Dungeon Master's Guide p. 271_
 
 If one creature wants to jump onto another creature, it can do so by grapple||grappling. A small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
 
-As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check contested by the target's Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
+As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check contested by the target's Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
 
-The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check contested by the smaller creature's Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check. The smaller creature chooses which ability to use.
+The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check contested by the smaller creature's Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check. The smaller creature chooses which ability to use.
 
 ## Dash
 _Source: Player's Handbook p. 192_
@@ -78,7 +78,7 @@ _Source: Dungeon Master's Guide p. 271_
 
 - **Duration:** 1 action
 
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
 
 The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
@@ -101,21 +101,21 @@ _Source: Player's Handbook p. 146_
 
 - **Duration:** 1 action
 
-The time it takes to don or doff armor Getting Into and Out of Armor; Donning and Doffing Armor. A [[/6. Mechanics/Items/Shield.md\|shield]] can be donned or doffed as an action.
+The time it takes to don or doff armor Getting Into and Out of Armor; Donning and Doffing Armor. A [[/6. Mechanics/Items/Shield.md|shield]] can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook p. 203_
 
 - **Duration:** Free
 
-If a spell must be maintained with [[6. Mechanics/Rules/status.md#concentration\|concentration]], that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [[6. Mechanics/Rules/status.md#concentration\|concentration]] at any time (no action required).
+If a spell must be maintained with [[6. Mechanics/Rules/Status.md#concentration|concentration]], that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [[6. Mechanics/Rules/Status.md#concentration|concentration]] at any time (no action required).
 
 ## Escape a Grapple
 _Source: Player's Handbook p. 195_
 
 - **Duration:** 1 action
 
-A [[6. Mechanics/Rules/Conditions.md#grappled\|grappled]] creature can use its action to escape. To do so, it must succeed on a Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check contested by your Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check.
+A [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] creature can use its action to escape. To do so, it must succeed on a Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check contested by your Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check.
 
 ## Grapple
 _Source: Player's Handbook p. 195_
@@ -124,11 +124,11 @@ _Source: Player's Handbook p. 195_
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
 
-Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check contested by the target's Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. If you succeed, you subject the target to the [[6. Mechanics/Rules/Conditions.md#grappled\|grappled]] condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check contested by the target's Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. If you succeed, you subject the target to the [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 ### Moving a Grappled Target
 
-When you move, you can drag or carry the [[6. Mechanics/Rules/Conditions.md#grappled\|grappled]] creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+When you move, you can drag or carry the [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
 ## Healing Surge
 _Source: Dungeon Master's Guide p. 266_
@@ -153,7 +153,7 @@ _Source: Player's Handbook p. 192_
 
 - **Duration:** 1 action
 
-When you take the Hide action, you make a Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) check in an attempt to hide, following the rules in "chapter 7 " for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
+When you take the Hide action, you make a Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) check in an attempt to hide, following the rules in "chapter 7 " for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
 
 ## Identify a Spell
 _Source: Xanathar's Guide to Everything p. 85_
@@ -162,9 +162,9 @@ _Source: Xanathar's Guide to Everything p. 85_
 
 Sometimes a character wants to identify a spell that someone else is casting or that was already cast. To do so, a character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
-If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([[6. Mechanics/Rules/skills.md#Arcana\|Arcana]]) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([[6. Mechanics/Rules/Skills.md#Arcana|Arcana]]) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
-This Intelligence ([[6. Mechanics/Rules/skills.md#Arcana\|Arcana]]) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
+This Intelligence ([[6. Mechanics/Rules/Skills.md#Arcana|Arcana]]) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
 ## Improvising an Action
 _Source: Player's Handbook p. 193_
@@ -180,7 +180,7 @@ _Source: Dungeon Master's Guide p. 271_
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] condition or the [[/6. Mechanics/Spells/shocking-grasp.md\|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] condition or the [[/6. Mechanics/Spells/Shocking Grasp.md|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 ## Opportunity Attack
 _Source: Player's Handbook p. 195_
@@ -240,7 +240,7 @@ _Source: Dungeon Master's Guide p. 272_
 
 - **Duration:** 1 action, 1 bonus
 
-When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check contested by the hostile creature's Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check contested by the hostile creature's Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
 ## Ready
 _Source: Player's Handbook p. 193_
@@ -253,7 +253,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires [[6. Mechanics/Rules/status.md#concentration\|concentration]] (explained in "chapter 10"). If your [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken, the spell dissipates without taking effect. For example, if you are [[6. Mechanics/Rules/status.md#concentration\|concentration]] on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your [[6. Mechanics/Rules/status.md#concentration\|concentration]] might be broken.
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires [[6. Mechanics/Rules/Status.md#concentration|concentration]] (explained in "chapter 10"). If your [[6. Mechanics/Rules/Status.md#concentration|concentration]] is broken, the spell dissipates without taking effect. For example, if you are [[6. Mechanics/Rules/Status.md#concentration|concentration]] on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your [[6. Mechanics/Rules/Status.md#concentration|concentration]] might be broken.
 
 You have until the start of your next turn to use a readied action.
 
@@ -262,30 +262,30 @@ _Source: Player's Handbook p. 193_
 
 - **Duration:** 1 action
 
-When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check or an Intelligence ([[6. Mechanics/Rules/skills.md#Investigation\|Investigation]]) check.
+When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) check or an Intelligence ([[6. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check.
 
 ## Shove
 _Source: Player's Handbook p. 195_
 
 - **Duration:** 1 action
 
-Using the Attack action, you can make a special melee attack to shove a creature, either to knock it [[6. Mechanics/Rules/Conditions.md#prone\|prone]] or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+Using the Attack action, you can make a special melee attack to shove a creature, either to knock it [[6. Mechanics/Rules/Conditions.md#prone|prone]] or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check contested by the target's Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. If you succeed, you either knock the target [[6. Mechanics/Rules/Conditions.md#prone\|prone]] or push it 5 feet away from you.
+The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check contested by the target's Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. If you succeed, you either knock the target [[6. Mechanics/Rules/Conditions.md#prone|prone]] or push it 5 feet away from you.
 
 ## Shove Aside
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration:** 1 action
 
-With this option, a creature uses the special shove attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+With this option, a creature uses the special shove attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
 ## Tumble
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration:** 1 action, 1 bonus
 
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check contested by the hostile creature's Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check contested by the hostile creature's Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
 ## Two-Weapon Fighting
 _Source: Player's Handbook p. 195_
@@ -310,4 +310,4 @@ _Source: Xanathar's Guide to Everything p. 77_
 
 A creature that is naturally sleeping, as opposed to being in a magically or chemically induced sleep, wakes up if it takes any damage or if someone else uses an action to shake or slap the creature awake. A sudden loud noise—such as yelling, thunder, or a ringing bell—also awakens someone that is sleeping naturally.
 
-Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) score of 15 or higher.
+Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) score of 15 or higher.

@@ -8,10 +8,10 @@ aliases: ["Hermit"]
 # Hermit
 *Source: Player's Handbook p. 134*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Medicine\|Medicine]], [[6. Mechanics/Rules/skills.md#Religion\|Religion]]  
-- **Tool Proficiencies.** [[/6. Mechanics/Items/herbalism-kit.md\|Herbalism kit]]  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[6. Mechanics/Rules/Skills.md#Religion|Religion]]  
+- **Tool Proficiencies.** [[/6. Mechanics/Items/Herbalism Kit.md|Herbalism kit]]  
 - **Languages.** One of your choice  
-- **Equipment.** A [[/6. Mechanics/Items/map-or-scroll-case.md\|scroll case]] stuffed full of notes from your studies or prayers, a winter [[/6. Mechanics/Items/blanket.md\|blanket]], a set of [[/6. Mechanics/Items/common-clothes.md\|common clothes]], an [[/6. Mechanics/Items/herbalism-kit.md\|herbalism kit]], and 5 gp  
+- **Equipment.** A [[/6. Mechanics/Items/Map Or Scroll Case.md|scroll case]] stuffed full of notes from your studies or prayers, a winter [[/6. Mechanics/Items/Blanket.md|blanket]], a set of [[/6. Mechanics/Items/Common Clothes.md|common clothes]], an [[/6. Mechanics/Items/Herbalism Kit.md|herbalism kit]], and 5 gp  
 
 You lived in seclusion–either in a sheltered community such as a monastery, or entirely alone–for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you were looking for.
 

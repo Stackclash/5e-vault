@@ -8,61 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Ettin"
-"size": "Large"
-"type": "giant"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "85"
-"hit_dice": "10d10 + 30"
-"stats":
-- !!int "21"
-- !!int "8"
-- !!int "17"
-- !!int "6"
-- !!int "10"
-- !!int "8"
-"speed": "walk 40 ft."
-"skillsaves":
-  "Perception": !!int "4"
-"senses": "darkvision 60 ft., passive Perception 14"
-"languages": "Giant, Orc"
-"cr": "4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettin has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ checks and on saving throws against being [[6. Mechanics/Rules/conditions.md#blinded\|blinded]],\
-    \ [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]],\
-    \ [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], [[6. Mechanics/Rules/conditions.md#stunned\|stunned]],\
-    \ and knocked [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]]."
-  "name": "Two Heads"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When one of the ettin's heads is asleep, its other head is awake."
-  "name": "Wakeful"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettin makes two attacks: one with its battleaxe and one with its morningstar."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
-  "name": "Battleaxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage."
-  "name": "Morningstar"
-"source":
-- "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "JttRC"
-"image": "/compendium/bestiary/giant/token/ettin.png"
-aliases: ["Ettin"]
+statblock: inline
 ---
 # Ettin
 *Source: Monster Manual p. 132, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel*  
@@ -95,39 +41,59 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 
 ## Stat Block
 
-```ad-statblock
-title: Ettin
-![[/6. Mechanics/Bestiary/Giant/Token/ettin.png#token]]
-*Large giant, Chaotic Evil*
-
-- **Armor Class** 12 (natural armor)
-- **Hit Points** `dice: 10d10 + 30|text(85)` (10d10 + 30) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Giant, Orc
-- **Challenge** 4
-
-## Traits
-
-***Two Heads.*** The ettin has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks and on saving throws against being [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]], [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], [[6. Mechanics/Rules/conditions.md#stunned\|stunned]], and knocked [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]].
-
-***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.
-
-## Actions
-
-***Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
-
-***Battleaxe.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 5` (`2d8 + 5`) slashing damage.
-
-***Morningstar.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 5` (`2d8 + 5`) piercing damage.
+```statblock
+"name": "Ettin"
+"size": "Large"
+"type": "giant"
+"alignment": "Chaotic Evil"
+"ac": !!int "12"
+"hp": !!int "85"
+"hit_dice": "10d10 + 30"
+"stats":
+- !!int "21"
+- !!int "8"
+- !!int "17"
+- !!int "6"
+- !!int "10"
+- !!int "8"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Perception": !!int "4"
+"senses": "darkvision 60 ft., passive Perception 14"
+"languages": "Giant, Orc"
+"cr": "4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The ettin has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks and on saving throws against being [[6. Mechanics/Rules/Conditions.md#blinded|blinded]],\
+    \ [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+    \ [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], [[6. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+    \ and knocked [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+  "name": "Two Heads"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "When one of the ettin's heads is asleep, its other head is awake."
+  "name": "Wakeful"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The ettin makes two attacks: one with its battleaxe and one with its morningstar."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+  "name": "Battleaxe"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage."
+  "name": "Morningstar"
+"source":
+- "MM"
+- "PotA"
+- "RoT"
+- "SKT"
+- "TftYP"
+- "WDMM"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Giant/token/ettin.png"
 ```
 ^statblock
 

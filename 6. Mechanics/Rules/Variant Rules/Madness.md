@@ -12,7 +12,7 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[/6. Mechanics/Spells/contact-other-plane.md\|contact other plane]] and [[/6. Mechanics/Spells/symbol.md\|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[/6. Mechanics/Spells/Contact Other Plane.md|contact other plane]] and [[/6. Mechanics/Spells/Symbol.md|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the New Ability Scores: Honor and Sanity (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
@@ -20,7 +20,7 @@ Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving
 
 Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.
 
-A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice: 1d10\|avg` (`1d10`) minutes.
+A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice: 1d10` (`1d10`) minutes.
 
 A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for `1d10 × 10` hours.
 
@@ -28,18 +28,18 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 **Short-Term Madness**
 
-| dice: d100 | Effects (lasts `dice: 1d10\|avg` (`1d10`) minutes) |
+| dice: d100 | Effects (lasts `dice: 1d10` (`1d10`) minutes) |
 |------------|---------------------------|-----------------------|
-| 01-20 | The character retreats into his or her mind and becomes [[6. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]. The effect ends if the character takes any damage. |
-| 21-30 | The character becomes [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] and spends the duration screaming, laughing, or weeping. |
-| 31-40 | The character becomes [[6. Mechanics/Rules/Conditions.md#frightened\|frightened]] and must use his or her action and movement each round to flee from the source of the fear. |
+| 01-20 | The character retreats into his or her mind and becomes [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]. The effect ends if the character takes any damage. |
+| 21-30 | The character becomes [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] and spends the duration screaming, laughing, or weeping. |
+| 31-40 | The character becomes [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] and must use his or her action and movement each round to flee from the source of the fear. |
 | 41-50 | The character begins babbling and is incapable of normal speech or spellcasting. |
 | 51-60 | The character must use his or her action each round to attack the nearest creature. |
 | 61-70 | The character experiences vivid hallucinations and has disadvantage on ability checks. |
 | 71-75 | The character does whatever anyone tells him or her to do that isn't obviously self-destructive. |
 | 76-80 | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
-| 81-90 | The character is [[6. Mechanics/Rules/Conditions.md#stunned\|stunned]]. |
-| 91-100 | The character falls [[6. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]. |
+| 81-90 | The character is [[6. Mechanics/Rules/Conditions.md#stunned|stunned]]. |
+| 91-100 | The character falls [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. |
 ^short-term-madness
 
 **Long-Term Madness**
@@ -52,12 +52,12 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 31-40 | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the [antipathy/sympathy](/compendium/spells/antipathy-sympathy.md) spell. |
 | 41-45 | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects. |
 | 46-55 | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it. |
-| 56-65 | The character is [[6. Mechanics/Rules/Conditions.md#blinded\|blinded]] (25%) or [[6. Mechanics/Rules/Conditions.md#deafened\|deafened]] (75%). |
+| 56-65 | The character is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] (25%) or [[6. Mechanics/Rules/Conditions.md#deafened|deafened]] (75%). |
 | 66-75 | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity. |
 | 76-85 | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
-| 86-90 | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the [[/6. Mechanics/Spells/confusion.md\|confusion]] spell. The confusion effect lasts for 1 minute. |
+| 86-90 | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the [[/6. Mechanics/Spells/Confusion.md|confusion]] spell. The confusion effect lasts for 1 minute. |
 | 91-95 | The character loses the ability to speak. |
-| 96-100 | The character falls [[6. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]. No amount of jostling or damage can wake the character. |
+| 96-100 | The character falls [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. No amount of jostling or damage can wake the character. |
 ^long-term-madness
 
 **Indefinite Madness**
@@ -80,4 +80,4 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ### Curing Madness
 
-A [[/6. Mechanics/Spells/calm-emotions.md\|calm emotions]] spell can suppress the effects of madness, while a [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] or [[/6. Mechanics/Spells/dispel-evil-and-good.md\|dispel evil]] might also prove effective. A [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
+A [[/6. Mechanics/Spells/Calm Emotions.md|calm emotions]] spell can suppress the effects of madness, while a [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[/6. Mechanics/Spells/Remove Curse.md|remove curse]] or [[/6. Mechanics/Spells/Dispel Evil And Good.md|dispel evil]] might also prove effective. A [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.

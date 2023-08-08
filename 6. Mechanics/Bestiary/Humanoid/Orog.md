@@ -11,59 +11,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: true
-statblock-link: "#^statblock"
-"name": "Orog"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "orc"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "42"
-"hit_dice": "5d8 + 20"
-"stats":
-- !!int "18"
-- !!int "12"
-- !!int "18"
-- !!int "12"
-- !!int "11"
-- !!int "12"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Intimidation": !!int "5"
-  "Survival": !!int "2"
-"senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Common, Orc"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orog can move up to its speed toward a hostile creature\
-    \ that it can see."
-  "name": "Aggressive"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orog makes two greataxe attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) slashing damage."
-  "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage."
-  "name": "Javelin"
-"source":
-- "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "EGW"
-"image": "/compendium/bestiary/humanoid/token/orog.png"
-aliases: ["Orog"]
+statblock: inline
 ---
 # Orog
 *Source: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount*  
@@ -120,37 +68,57 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 
 ## Stat Block
 
-```ad-statblock
-title: Orog
-![[/6. Mechanics/Bestiary/Humanoid/Token/orog.png#token]]
-*Medium humanoid(orc), Chaotic Evil*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/plate-armor.md\|plate armor]])
-- **Hit Points** `dice: 5d8 + 20|text(42)` (5d8 + 20) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|12 (+1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Intimidation +5, Survival +2
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common, Orc
-- **Challenge** 2
-
-## Traits
-
-***Aggressive.*** As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.
-
-## Actions
-
-***Multiattack.*** The orog makes two greataxe attacks.
-
-***Greataxe.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d12 + 4` (`1d12 + 4`) slashing damage.
-
-***Javelin.*** *Melee or Ranged Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft. or range 30/120 ft., one target. Hit: `dice: 1d6 + 4` (`1d6 + 4`) piercing damage.
+```statblock
+"name": "Orog"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "orc"
+"alignment": "Chaotic Evil"
+"ac": !!int "18"
+"hp": !!int "42"
+"hit_dice": "5d8 + 20"
+"stats":
+- !!int "18"
+- !!int "12"
+- !!int "18"
+- !!int "12"
+- !!int "11"
+- !!int "12"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Intimidation": !!int "5"
+  "Survival": !!int "2"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "Common, Orc"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "As a bonus action, the orog can move up to its speed toward a hostile creature\
+    \ that it can see."
+  "name": "Aggressive"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The orog makes two greataxe attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) slashing damage."
+  "name": "Greataxe"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage."
+  "name": "Javelin"
+"source":
+- "MM"
+- "PotA"
+- "SKT"
+- "TftYP"
+- "WDH"
+- "WDMM"
+- "GoS"
+- "EGW"
+"image": "6. Mechanics/Bestiary/Humanoid/token/orog.png"
 ```
 ^statblock
 

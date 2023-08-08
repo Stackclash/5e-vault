@@ -76,16 +76,16 @@ aliases: ["Barbarian"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws:** Strength, Constitution
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 - **Skills:** Choose 2 from *Animal Handling*, *Athletics*, *Intimidation*, *Nature*, *Perception*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/6. Mechanics/Items/greataxe.md\|greataxe]] or (b) any martial melee weapon  
-- (a) two [[/6. Mechanics/Items/handaxe.md\|handaxes]] or (b) any simple weapon  
-- An [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]], and four [[/6. Mechanics/Items/javelin.md\|javelins]]  
+- (a) a [[/6. Mechanics/Items/Greataxe.md|greataxe]] or (b) any martial melee weapon  
+- (a) two [[/6. Mechanics/Items/Handaxe.md|handaxes]] or (b) any simple weapon  
+- An [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]], and four [[/6. Mechanics/Items/Javelin.md|javelins]]  
 
 Alternatively, you may start with 2d4 × 10 gp and choose your own equipment.
 
@@ -97,7 +97,7 @@ To multiclass as a Barbarian, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 
@@ -115,7 +115,7 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.
 
@@ -125,7 +125,7 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 
 ### Danger Sense (Level 2)
 
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]], or [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]], or [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ### Reckless Attack (Level 2)
 
@@ -164,7 +164,7 @@ At 6th level, you gain a feature from your Primal Path.
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are surprised at the beginning of combat and aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the beginning of combat and aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_
@@ -213,7 +213,7 @@ At 14th level, you gain a feature from your Primal Path.
 
 ### Persistent Rage (Level 15)
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] or if you choose to end it.
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]] or if you choose to end it.
 
 ### Ability Score Improvement (Level 16)
 

@@ -11,7 +11,7 @@ aliases: ["Outer Essence Shard (Lawful)"]
 # Outer Essence Shard (Lawful)
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
@@ -21,6 +21,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]], [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]], or [[6. Mechanics/Rules/conditions.md#stunned\|stunned]].
+You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]], [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], or [[6. Mechanics/Rules/Conditions.md#stunned|stunned]].
 
 *Source: Tasha's Cauldron of Everything p. 133*

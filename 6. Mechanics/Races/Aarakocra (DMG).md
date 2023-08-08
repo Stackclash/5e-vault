@@ -18,11 +18,11 @@ aliases: ["Aarakocra (DMG)"]
 
 ### Dive Attack
 
-If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra `dice: 1d6\|avg` (`1d6`) damage to the target.
+If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra `dice: 1d6` (`1d6`) damage to the target.
 
 ### Talons
 
-You are proficient with your unarmed strikes, which deal `dice: 1d4\|avg` (`1d4`) slashing damage on a hit.
+You are proficient with your unarmed strikes, which deal `dice: 1d4` (`1d4`) slashing damage on a hit.
 
 ### Language
 

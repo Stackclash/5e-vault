@@ -13,7 +13,7 @@ aliases: ["Shortsword"]
 *Melee Weapon*  
 
 - **Damage**: 1d6 P
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Finesse\|Finesse]], [[6. Mechanics/Rules/item-properties.md#Light\|Light]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[6. Mechanics/Rules/Item Properties.md#Light|Light]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]]
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

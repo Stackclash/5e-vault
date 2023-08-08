@@ -10,10 +10,10 @@ aliases: ["Drow Poison"]
 # Drow Poison
 *Adventuring Gear, poison*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Poison\|Poison]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Poison|Poison]]
 - **Cost**: 200 gp
 - **Weight**: ⏤
 
-This poison is typically made only by the [[/6. Mechanics/Bestiary/Humanoid/Drow.md\|drow]], and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 hour. If the saving throw fails by 5 or more, the creature is also [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] while [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+This poison is typically made only by the [[/6. Mechanics/Bestiary/Humanoid/Drow.md|drow]], and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour. If the saving throw fails by 5 or more, the creature is also [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]] while [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 *Source: Dungeon Master's Guide p. 258*

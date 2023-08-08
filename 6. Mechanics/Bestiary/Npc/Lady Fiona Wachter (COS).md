@@ -6,8 +6,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Lady Fiona Wachter
+*Source: Curse of Strahd p. 110, Derived from Priest (MM)*  
+
+```statblock
 "name": "Lady Fiona Wachter"
 "size": "Medium"
 "type": "humanoid"
@@ -35,14 +39,14 @@ statblock-link: "#^statblock"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell\
     \ save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following\
-    \ cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/light.md\|light]],\
-    \ [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/command.md\|command]],\
-    \ [[/6. Mechanics/Spells/purify-food-and-drink.md\|purify food and drink]], [[/6. Mechanics/Spells/sanctuary.md\|sanctuary]]\n\
-    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/augury.md\|augury]], [gentle\
-    \ repose](/compendium/spells/gentle-repose.md), [[/6. Mechanics/Spells/hold-person.md\|hold person]]\n\
-    \n3rd level (2 3rd-level slots): [[/6. Mechanics/Spells/animate-dead.md\|animate dead]],\
-    \ [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]]"
+    \ cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Light.md|light]],\
+    \ [[/6. Mechanics/Spells/Mending.md|mending]], [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/Command.md|command]],\
+    \ [[/6. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]], [[/6. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
+    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/Augury.md|augury]], [gentle\
+    \ repose](/compendium/spells/gentle-repose.md), [[/6. Mechanics/Spells/Hold Person.md|hold person]]\n\
+    \n3rd level (2 3rd-level slots): [[/6. Mechanics/Spells/Animate Dead.md|animate dead]],\
+    \ [[/6. Mechanics/Spells/Create Food And Water.md|create food and water]]"
   "name": "spells"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
@@ -58,49 +62,7 @@ statblock-link: "#^statblock"
   "name": "Mace"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/npc/token/lady-fiona-wachter.png"
-aliases: ["Lady Fiona Wachter"]
----
-# Lady Fiona Wachter
-*Source: Curse of Strahd p. 110, Derived from Priest (MM)*  
-
-```ad-statblock
-title: Lady Fiona Wachter
-![[/6. Mechanics/Bestiary/Npc/Token/lady-fiona-wachter.png#token]]
-*Medium humanoid(human), Lawful Evil*
-
-- **Armor Class** 10 
-- **Hit Points** `dice: 5d8 + 5|text(27)` (5d8 + 5) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Medicine +7, Persuasion +3, Religion +5
-- **Senses** passive Perception 13
-- **Languages** any two languages
-- **Challenge** 2
-
-## Traits
-
-***Divine Eminence.*** As a bonus action, Fiona can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (`dice: 3d6` (`3d6`)) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Fiona expends a spell slot of 2nd level or higher, the extra damage increases by `dice: 1d6` (`1d6`) for each level above 1st.
-
-***Spellcasting.*** Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, `dice: d20+5` (+5 to hit) with spell attacks). Fiona has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/light.md\|light]], [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/purify-food-and-drink.md\|purify food and drink]], [[/6. Mechanics/Spells/sanctuary.md\|sanctuary]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/augury.md\|augury]], [[/6. Mechanics/Spells/gentle-repose.md\|gentle repose]], [[/6. Mechanics/Spells/hold-person.md\|hold person]]
-
-**3rd level (2 3rd-level slots)**: [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]]
-
-## Actions
-
-***Mace.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d6` (`1d6`) bludgeoning damage.
+"image": "6. Mechanics/Bestiary/Npc/token/lady-fiona-wachter.png"
 ```
 ^statblock
 

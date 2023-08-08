@@ -11,7 +11,7 @@ aliases: ["Coiling Grasp Tattoo"]
 # Coiling Grasp Tattoo
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -25,6 +25,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Grasping Tendrils
 
-While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take `dice: 3d6\|avg` (`3d6`) force damage and be [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by you. As an action, the creature can escape the grapple by succeeding on a DC 14 Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check. The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.
+While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take `dice: 3d6` (`3d6`) force damage and be [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by you. As an action, the creature can escape the grapple by succeeding on a DC 14 Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check. The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.
 
 *Source: Tasha's Cauldron of Everything p. 123*

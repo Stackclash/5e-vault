@@ -5,54 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "White Dragon Wyrmling"
-"size": "Medium"
-"type": "dragon"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "32"
-"hit_dice": "5d8 + 10"
-"stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "5"
-- !!int "10"
-- !!int "11"
-"speed": "walk 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
-"saves":
-  "Charisma": !!int "2"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
-"skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
-"damage_immunities": "cold"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "2"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d4|avg\
-    \ (1d4) cold damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales an icy blast of hail in a 15-foot cone. Each creature\
-    \ in that area must make a DC 12 Constitution saving throw, taking 22 (dice:\
-    \ 5d8|avg (5d8)) cold damage on a failed save, or half as much damage on a\
-    \ successful one."
-  "name": "Cold Breath (Recharge 5-6)"
-"source":
-- "MM"
-- "SKT"
-- "EGW"
-- "IDRotF"
-"image": "/compendium/bestiary/dragon/token/white-dragon-wyrmling.png"
-aliases: ["White Dragon Wyrmling"]
+statblock: inline
 ---
 # White Dragon Wyrmling
 *Source: Monster Manual p. 102, Storm King's Thunder, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
@@ -141,31 +94,51 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: White Dragon Wyrmling
-![[/6. Mechanics/Bestiary/Dragon/Token/white-dragon-wyrmling.png#token]]
-*Medium dragon, Chaotic Evil*
-
-- **Armor Class** 16 (natural armor)
-- **Hit Points** `dice: 5d8 + 10|text(32)` (5d8 + 10) 
-- **Speed** walk 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|14 (+2)| 5 (-3)|10 (+0)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +2, Constitution +4, Wisdom +2, Charisma +2
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Damage Immunities** cold
-- **Languages** Draconic
-- **Challenge** 2
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 2` (`1d10 + 2`) piercing damage plus `dice: 1d4` (`1d4`) cold damage.
-
-***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (`dice: 5d8` (`5d8`)) cold damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "White Dragon Wyrmling"
+"size": "Medium"
+"type": "dragon"
+"alignment": "Chaotic Evil"
+"ac": !!int "16"
+"hp": !!int "32"
+"hit_dice": "5d8 + 10"
+"stats":
+- !!int "14"
+- !!int "10"
+- !!int "14"
+- !!int "5"
+- !!int "10"
+- !!int "11"
+"speed": "walk 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
+"saves":
+  "Charisma": !!int "2"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
+"skillsaves":
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
+"damage_immunities": "cold"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"languages": "Draconic"
+"cr": "2"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d4|avg\
+    \ (1d4) cold damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales an icy blast of hail in a 15-foot cone. Each creature\
+    \ in that area must make a DC 12 Constitution saving throw, taking 22 (dice:\
+    \ 5d8|avg (5d8)) cold damage on a failed save, or half as much damage on a\
+    \ successful one."
+  "name": "Cold Breath (Recharge 5-6)"
+"source":
+- "MM"
+- "SKT"
+- "EGW"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Dragon/token/white-dragon-wyrmling.png"
 ```
 ^statblock

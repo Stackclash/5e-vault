@@ -10,59 +10,7 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
-"name": "Griffon"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "12"
-"hp": !!int "59"
-"hit_dice": "7d10 + 21"
-"stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "2"
-- !!int "13"
-- !!int "8"
-"speed": "walk 30 ft., fly 80 ft."
-"skillsaves":
-  "Perception": !!int "5"
-"senses": "darkvision 60 ft., passive Perception 15"
-"languages": ""
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The griffon has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ checks that rely on sight."
-  "name": "Keen Sight"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The griffon makes two attacks: one with its beak and one with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
-  "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
-  "name": "Claws"
-"source":
-- "MM"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "WDH"
-- "BGDIA"
-- "ERLW"
-- "EGW"
-- "MOT"
-- "IDRotF"
-- "JttRC"
-"image": "/compendium/bestiary/monstrosity/token/griffon.png"
-aliases: ["Griffon"]
+statblock: inline
 ---
 # Griffon
 *Source: Monster Manual p. 174, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel*  
@@ -89,37 +37,57 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 
 ## Stat Block
 
-```ad-statblock
-title: Griffon
-![[/6. Mechanics/Bestiary/Monstrosity/Token/griffon.png#token]]
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** `dice: 7d10 + 21|text(59)` (7d10 + 21) 
-- **Speed** walk 30 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 2 (-4)|13 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +5
-- **Senses** darkvision 60 ft., passive Perception 15
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Keen Sight.*** The griffon has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-## Actions
-
-***Multiattack.*** The griffon makes two attacks: one with its beak and one with its claws.
-
-***Beak.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 4` (`1d8 + 4`) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
+```statblock
+"name": "Griffon"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "59"
+"hit_dice": "7d10 + 21"
+"stats":
+- !!int "18"
+- !!int "15"
+- !!int "16"
+- !!int "2"
+- !!int "13"
+- !!int "8"
+"speed": "walk 30 ft., fly 80 ft."
+"skillsaves":
+  "Perception": !!int "5"
+"senses": "darkvision 60 ft., passive Perception 15"
+"languages": ""
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The griffon has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on sight."
+  "name": "Keen Sight"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The griffon makes two attacks: one with its beak and one with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+  "name": "Beak"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+  "name": "Claws"
+"source":
+- "MM"
+- "HotDQ"
+- "PotA"
+- "SKT"
+- "WDH"
+- "BGDIA"
+- "ERLW"
+- "EGW"
+- "MOT"
+- "IDRotF"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Monstrosity/token/griffon.png"
 ```
 ^statblock
 

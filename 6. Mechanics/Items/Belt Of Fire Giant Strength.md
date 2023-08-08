@@ -12,7 +12,7 @@ aliases: ["Belt of Fire Giant Strength"]
 # Belt of Fire Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

@@ -5,81 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Vrock"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"hp": !!int "104"
-"hit_dice": "11d10 + 44"
-"stats":
-- !!int "17"
-- !!int "15"
-- !!int "18"
-- !!int "8"
-- !!int "13"
-- !!int "8"
-"speed": "walk 40 ft., fly 60 ft."
-"saves":
-  "Charisma": !!int "2"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "6"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vrock has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vrock makes two attacks: one with its beak and one with its talons."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
-  "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) slashing damage."
-  "name": "Talons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
-    \ spores spread around corners. Each creature in that area must succeed on a DC\
-    \ 14 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]].\
-    \ While [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way, a target\
-    \ takes dice: 1d10|avg (1d10) poison damage at the start of each of its turns.\
-    \ A target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success. Emptying a vial of holy water on the target\
-    \ also ends the effect on it."
-  "name": "Spores (Recharge 6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
-    \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
-    \ saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until the\
-    \ end of the vrock's next turn."
-  "name": "Stunning Screech (1/Day)"
-"source":
-- "MM"
-- "CoS"
-- "PotA"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "TCE"
-- "CM"
-- "CRCotN"
-"image": "/compendium/bestiary/fiend/token/vrock.png"
-aliases: ["Vrock"]
+statblock: inline
 ---
 # Vrock
 *Source: Monster Manual p. 64, Curse of Strahd, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep*  
@@ -230,7 +156,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -259,43 +185,78 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Vrock
-![[/6. Mechanics/Bestiary/Fiend/Token/vrock.png#token]]
-*Large fiend(demon), Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 11d10 + 44|text(104)` (11d10 + 44) 
-- **Speed** walk 40 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Wisdom +4, Charisma +2
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 6
-
-## Traits
-
-***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The vrock makes two attacks: one with its beak and one with its talons.
-
-***Beak.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) piercing damage.
-
-***Talons.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d10 + 3` (`2d10 + 3`) slashing damage.
-
-***Spores (Recharge 6).*** A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]. While [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way, a target takes `dice: 1d10` (`1d10`) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
-
-***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until the end of the vrock's next turn.
+```statblock
+"name": "Vrock"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "104"
+"hit_dice": "11d10 + 44"
+"stats":
+- !!int "17"
+- !!int "15"
+- !!int "18"
+- !!int "8"
+- !!int "13"
+- !!int "8"
+"speed": "walk 40 ft., fly 60 ft."
+"saves":
+  "Charisma": !!int "2"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "6"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The vrock has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The vrock makes two attacks: one with its beak and one with its talons."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+  "name": "Beak"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) slashing damage."
+  "name": "Talons"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
+    \ spores spread around corners. Each creature in that area must succeed on a DC\
+    \ 14 Constitution saving throw or become [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ While [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, a target\
+    \ takes dice: 1d10|avg (1d10) poison damage at the start of each of its turns.\
+    \ A target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success. Emptying a vial of holy water on the target\
+    \ also ends the effect on it."
+  "name": "Spores (Recharge 6)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
+    \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
+    \ saving throw or be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]] until the\
+    \ end of the vrock's next turn."
+  "name": "Stunning Screech (1/Day)"
+"source":
+- "MM"
+- "CoS"
+- "PotA"
+- "TftYP"
+- "WDMM"
+- "GoS"
+- "BGDIA"
+- "TCE"
+- "CM"
+- "CRCotN"
+"image": "/compendium/bestiary/fiend/token/vrock.png"
 ```
 ^statblock

@@ -12,7 +12,7 @@ aliases: ["Cloak of Protection"]
 # Cloak of Protection
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

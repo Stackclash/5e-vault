@@ -27,6 +27,6 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric Forge Domain (XGE).md\|Cleric (Forge Domain)]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric (Forge Domain)]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 252

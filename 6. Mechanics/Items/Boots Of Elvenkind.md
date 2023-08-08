@@ -14,6 +14,6 @@ aliases: ["Boots of Elvenkind"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) checks that rely on moving silently.
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks that rely on moving silently.
 
 *Source: Dungeon Master's Guide p. 155*

@@ -31,11 +31,11 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[/6. Mechanics/Spells/create-or-destroy-water.md\|create or destroy water]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]] |
-| 2nd | [[/6. Mechanics/Spells/gust-of-wind.md\|gust of wind]], [[/6. Mechanics/Spells/silence.md\|silence]] |
-| 3rd | [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]], [[/6. Mechanics/Spells/sleet-storm.md\|sleet storm]] |
-| 4th | [[/6. Mechanics/Spells/control-water.md\|control water]], [[/6. Mechanics/Spells/summon-elemental-tce.md\|summon elemental]] (water only) |
-| 5th | [[/6. Mechanics/Spells/bigbys-hand.md\|Bigby's hand]] (appears as a tentacle), [[/6. Mechanics/Spells/cone-of-cold.md\|cone of cold]] |
+| 1st | [[/6. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]], [[/6. Mechanics/Spells/Thunderwave.md|thunderwave]] |
+| 2nd | [[/6. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[/6. Mechanics/Spells/Silence.md|silence]] |
+| 3rd | [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[/6. Mechanics/Spells/Sleet Storm.md|sleet storm]] |
+| 4th | [[/6. Mechanics/Spells/Control Water.md|control water]], [[/6. Mechanics/Spells/Summon Elemental (TCE).md|summon elemental]] (water only) |
+| 5th | [[/6. Mechanics/Spells/Bigbys Hand.md|Bigby's hand]] (appears as a tentacle), [[/6. Mechanics/Spells/Cone Of Cold.md|cone of cold]] |
 ^fathomless-expanded-spells
 
 ### Tentacle of the Deeps (Level 1)
@@ -44,7 +44,7 @@ _1st-level Fathomless feature_
 
 You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
 
-When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice: 1d8\|avg` (`1d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice: 2d8\|avg` (`2d8`).
+When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice: 1d8` (`1d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice: 2d8` (`2d8`).
 
 As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.
 
@@ -66,15 +66,15 @@ You are now even more at home in the depths. You gain resistance to cold damage.
 
 _6th-level Fathomless feature_
 
-Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice: 1d8\|avg` (`1d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice: 2d8\|avg` (`2d8`).
+Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice: 1d8` (`1d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice: 2d8` (`2d8`).
 
 ### Grasping Tentacles (Level 10)
 
 _10th-level Fathomless feature_
 
-You learn the spell [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]]. It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the spell [[/6. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]]. It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [[6. Mechanics/Rules/status.md#concentration\|concentration]] on this spell.
+Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [[6. Mechanics/Rules/Status.md#concentration|concentration]] on this spell.
 
 ### Fathomless Plunge (Level 14)
 

@@ -26,8 +26,8 @@ Plants might be able to perform other tasks on your behalf, at the DM's discreti
 
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the [[/6. Mechanics/Spells/Entangle.md\|entangle]] spell to release a [[6. Mechanics/Rules/Conditions.md#restrained\|restrained]] creature.
+This spell can cause the plants created by the [[/6. Mechanics/Spells/Entangle.md|entangle]] spell to release a [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] creature.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Ranger.md|Ranger]]
 
 Source: Player's Handbook p. 277

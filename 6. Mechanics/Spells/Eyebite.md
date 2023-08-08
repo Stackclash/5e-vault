@@ -23,11 +23,11 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## Asleep
 
-The target falls [[6. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
+The target falls [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ## Panicked
 
-The target is [[6. Mechanics/Rules/Conditions.md#frightened\|frightened]] of you. On each of its turns, the [[6. Mechanics/Rules/Conditions.md#frightened\|frightened]] creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+The target is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] of you. On each of its turns, the [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ## Sickened
 
@@ -35,6 +35,6 @@ The target has disadvantage on attack rolls and ability checks. At the end of ea
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 238

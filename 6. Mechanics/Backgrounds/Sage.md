@@ -8,9 +8,9 @@ aliases: ["Sage"]
 # Sage
 *Source: Player's Handbook p. 137*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Arcana\|Arcana]], [[6. Mechanics/Rules/skills.md#History\|History]]  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Arcana|Arcana]], [[6. Mechanics/Rules/Skills.md#History|History]]  
 - **Languages.** Two of your choice  
-- **Equipment.** A [[/6. Mechanics/Items/ink-1-ounce-bottle.md\|bottle of black ink]], a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [[/6. Mechanics/Items/common-clothes.md\|common clothes]], and a belt [[/6. Mechanics/Items/pouch.md\|pouch]] containing 10 gp  
+- **Equipment.** A [[/6. Mechanics/Items/Ink-1 Ounce Bottle.md|bottle of black ink]], a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [[/6. Mechanics/Items/Common Clothes.md|common clothes]], and a belt [[/6. Mechanics/Items/Pouch.md|pouch]] containing 10 gp  
 
 You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.
 

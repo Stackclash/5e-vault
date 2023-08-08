@@ -23,8 +23,8 @@ aliases: ["Blur"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with [[6. Mechanics/Rules/Senses.md#truesight\|truesight]].
+Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with [[6. Mechanics/Rules/Senses.md#truesight|truesight]].
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[/6. Mechanics/Classes/Warlock The Hexblade (XGE).md\|Warlock (The Hexblade)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/6. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock (The Hexblade)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 219

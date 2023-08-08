@@ -7,89 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
-statblock: true
-statblock-link: "#^statblock"
-"name": "Duergar Warlord"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "dwarf"
-"alignment": "Any alignment"
-"ac": !!int "20"
-"hp": !!int "75"
-"hit_dice": "10d8 + 30"
-"stats":
-- !!int "18"
-- !!int "11"
-- !!int "17"
-- !!int "12"
-- !!int "12"
-- !!int "14"
-"speed": "walk 25 ft."
-"damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Dwarvish, Undercommon"
-"cr": "6"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]],\
-    \ [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], and [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ conditions."
-  "name": "Duergar Resilience"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses\
-    \ Call to Attack."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) bludgeoning damage, or 15 (dice: 2d10\
-    \ + 4|avg (2d10 + 4)) bludgeoning damage while under the effect of Enlarge,\
-    \ plus dice: 1d10|avg (1d10) psychic damage."
-  "name": "Psychic-Attuned Hammer"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while under\
-    \ the effect of Enlarge."
-  "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
-    \ each use their reaction to make one weapon attack."
-  "name": "Call to Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken\
-    \ (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any equipment the duergar wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Invisibility (Recharge 4-6)"
-"bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
-    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
-    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
-    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
-    \ lacks the room to become Large, it attains the maximum size possible in the\
-    \ space available."
-  "name": "Enlarge (Recharges after a Short or Long Rest)"
-"reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When an ally that the duergar can see makes a dice: d20|avg (d20) roll,\
-    \ the duergar can roll a dice: d6|avg (d6), and the ally can add the number\
-    \ rolled to the dice: d20|avg (d20) by taking 3 (dice: 1d6|avg (1d6))\
-    \ psychic damage."
-  "name": "Scouring Instruction"
-"source":
-- "MPMM"
-- "MTF"
-"image": "/compendium/bestiary/humanoid/token/duergar-warlord.png"
-aliases: ["Duergar Warlord"]
+statblock: inline
 ---
 # Duergar Warlord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  
@@ -118,52 +36,87 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ## Stat Block
 
-```ad-statblock
-title: Duergar Warlord
-![[/6. Mechanics/Bestiary/Humanoid/Token/duergar-warlord.png#token]]
-*Medium humanoid(dwarf), Any alignment*
-
-- **Armor Class** 20 ([[/6. Mechanics/Items/plate-armor.md\|plate armor]], [[/6. Mechanics/Items/shield.md\|shield]])
-- **Hit Points** `dice: 10d8 + 30|text(75)` (10d8 + 30) 
-- **Speed** walk 25 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Resistances** poison
-- **Languages** Dwarvish, Undercommon
-- **Challenge** 6
-
-## Traits
-
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], and [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] conditions.
-
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-## Actions
-
-***Multiattack.*** The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses Call to Attack.
-
-***Psychic-Attuned Hammer.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 4` (`1d10 + 4`) bludgeoning damage, or 15 (`dice: 2d10 + 4` (`2d10 + 4`)) bludgeoning damage while under the effect of Enlarge, plus `dice: 1d10` (`1d10`) psychic damage.
-
-***Javelin.*** *Melee or Ranged Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft. or range 30/120 ft., one target. Hit: `dice: 1d6 + 4` (`1d6 + 4`) piercing damage, or 11 (`dice: 2d6 + 4` (`2d6 + 4`)) piercing damage while under the effect of Enlarge.
-
-***Call to Attack.*** Up to three allies within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
-
-***Invisibility (Recharge 4-6).*** The duergar magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the duergar wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
-
-## Bonus Actions
-
-***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
-
-## Reactions
-
-***Scouring Instruction.*** When an ally that the duergar can see makes a `dice: d20` (`d20`) roll, the duergar can roll a `dice: d6` (`d6`), and the ally can add the number rolled to the `dice: d20` (`d20`) by taking 3 (`dice: 1d6` (`1d6`)) psychic damage.
+```statblock
+"name": "Duergar Warlord"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "dwarf"
+"alignment": "Any alignment"
+"ac": !!int "20"
+"hp": !!int "75"
+"hit_dice": "10d8 + 30"
+"stats":
+- !!int "18"
+- !!int "11"
+- !!int "17"
+- !!int "12"
+- !!int "12"
+- !!int "14"
+"speed": "walk 25 ft."
+"damage_resistances": "poison"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Dwarvish, Undercommon"
+"cr": "6"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ conditions."
+  "name": "Duergar Resilience"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses\
+    \ Call to Attack."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) bludgeoning damage, or 15 (dice: 2d10\
+    \ + 4|avg (2d10 + 4)) bludgeoning damage while under the effect of Enlarge,\
+    \ plus dice: 1d10|avg (1d10) psychic damage."
+  "name": "Psychic-Attuned Hammer"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while under\
+    \ the effect of Enlarge."
+  "name": "Javelin"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
+    \ each use their reaction to make one weapon attack."
+  "name": "Call to Attack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
+    \ throw, or its [[6. Mechanics/Rules/Status.md#concentration|concentration]] is broken\
+    \ (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any equipment the duergar wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Invisibility (Recharge 4-6)"
+"bonus_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
+    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
+    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
+    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
+    \ lacks the room to become Large, it attains the maximum size possible in the\
+    \ space available."
+  "name": "Enlarge (Recharges after a Short or Long Rest)"
+"reactions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "When an ally that the duergar can see makes a dice: d20|avg (d20) roll,\
+    \ the duergar can roll a dice: d6|avg (d6), and the ally can add the number\
+    \ rolled to the dice: d20|avg (d20) by taking 3 (dice: 1d6|avg (1d6))\
+    \ psychic damage."
+  "name": "Scouring Instruction"
+"source":
+- "MPMM"
+- "MTF"
+"image": "6. Mechanics/Bestiary/Humanoid/token/duergar-warlord.png"
 ```
 ^statblock
 

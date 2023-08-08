@@ -31,6 +31,6 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Tempest Domain.md|Cleric (Tempest Domain)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md|Warlock (The Fathomless)]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 248

@@ -8,9 +8,9 @@ aliases: ["Entertainer"]
 # Entertainer
 *Source: Player's Handbook p. 130*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]], [[6. Mechanics/Rules/skills.md#Performance\|Performance]]  
-- **Tool Proficiencies.** [[/6. Mechanics/Items/disguise-kit.md\|Disguise kit]], one type of musical instrument  
-- **Equipment.** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [[/6. Mechanics/Items/costume-clothes.md\|costume clothes]], and a belt [[/6. Mechanics/Items/pouch.md\|pouch]] containing 15 gp  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]], [[6. Mechanics/Rules/Skills.md#Performance|Performance]]  
+- **Tool Proficiencies.** [[/6. Mechanics/Items/Disguise Kit.md|Disguise kit]], one type of musical instrument  
+- **Equipment.** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [[/6. Mechanics/Items/Costume Clothes.md|costume clothes]], and a belt [[/6. Mechanics/Items/Pouch.md|pouch]] containing 15 gp  
 
 You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
 

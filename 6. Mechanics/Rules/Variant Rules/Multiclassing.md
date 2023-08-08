@@ -22,18 +22,18 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 
 | Class | Ability Score Minimum |
 |-------|-----------------------|
-| [[/6. Mechanics/Classes/Barbarian.md\|Barbarian]] | Strength 13 |
-| [[/6. Mechanics/Classes/Bard.md\|Bard]] | Charisma 13 |
-| [[/6. Mechanics/Classes/Cleric.md\|Cleric]] | Wisdom 13 |
-| [[/6. Mechanics/Classes/Druid.md\|Druid]] | Wisdom 13 |
-| [[/6. Mechanics/Classes/Fighter.md\|Fighter]] | Strength 13 or Dexterity 13 |
-| [[/6. Mechanics/Classes/Monk.md\|Monk]] | Dexterity 13 and Wisdom 13 |
-| [[/6. Mechanics/Classes/Paladin.md\|Paladin]] | Strength 13 and Charisma 13 |
-| [[/6. Mechanics/Classes/Ranger.md\|Ranger]] | Dexterity 13 and Wisdom 13 |
-| [[/6. Mechanics/Classes/Rogue.md\|Rogue]] | Dexterity 13 |
-| [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]] | Charisma 13 |
-| [[/6. Mechanics/Classes/Warlock.md\|Warlock]] | Charisma 13 |
-| [[/6. Mechanics/Classes/Wizard.md\|Wizard]] | Intelligence 13 |
+| [[/6. Mechanics/Classes/Barbarian.md|Barbarian]] | Strength 13 |
+| [[/6. Mechanics/Classes/Bard.md|Bard]] | Charisma 13 |
+| [[/6. Mechanics/Classes/Cleric.md|Cleric]] | Wisdom 13 |
+| [[/6. Mechanics/Classes/Druid.md|Druid]] | Wisdom 13 |
+| [[/6. Mechanics/Classes/Fighter.md|Fighter]] | Strength 13 or Dexterity 13 |
+| [[/6. Mechanics/Classes/Monk.md|Monk]] | Dexterity 13 and Wisdom 13 |
+| [[/6. Mechanics/Classes/Paladin.md|Paladin]] | Strength 13 and Charisma 13 |
+| [[/6. Mechanics/Classes/Ranger.md|Ranger]] | Dexterity 13 and Wisdom 13 |
+| [[/6. Mechanics/Classes/Rogue.md|Rogue]] | Dexterity 13 |
+| [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]] | Charisma 13 |
+| [[/6. Mechanics/Classes/Warlock.md|Warlock]] | Charisma 13 |
+| [[/6. Mechanics/Classes/Wizard.md|Wizard]] | Intelligence 13 |
 ^multiclassing-prerequisites
 
 ### Experience Points
@@ -44,7 +44,7 @@ The experience point cost to gain a level is always based on your total characte
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. if the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a `dice: d10\|avg` (`d10`), so if you are a paladin 5/fighter 5, you have ten `dice: d10\|avg` (`d10`) Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five `dice: d10\|avg` (`d10`) Hit Dice and five `dice: d8\|avg` (`d8`) Hit Dice.
+You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. if the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a `dice: d10` (`d10`), so if you are a paladin 5/fighter 5, you have ten `dice: d10` (`d10`) Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five `dice: d10` (`d10`) Hit Dice and five `dice: d8` (`d8`) Hit Dice.
 
 ### Proficiency Bonus
 
@@ -58,18 +58,18 @@ When you gain a level in a class other than your first, you gain only some of th
 
 | Class | Proficiencies Gained |
 |-------|----------------------|
-| [[/6. Mechanics/Classes/Barbarian.md\|Barbarian]] | Shields, simple weapons, martial weapons |
-| [[/6. Mechanics/Classes/Bard.md\|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
-| [[/6. Mechanics/Classes/Cleric.md\|Cleric]] | Light armor, medium armor, shields |
-| [[/6. Mechanics/Classes/Druid.md\|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| [[/6. Mechanics/Classes/Fighter.md\|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[/6. Mechanics/Classes/Monk.md\|Monk]] | Simple weapons, shortswords |
-| [[/6. Mechanics/Classes/Paladin.md\|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[/6. Mechanics/Classes/Ranger.md\|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| [[/6. Mechanics/Classes/Rogue.md\|Rogue]] | Light armor, one skill from the class's skill list, [[/6. Mechanics/Items/Thieves Tools.md\|thieves' tools]] |
-| [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]] | — |
-| [[/6. Mechanics/Classes/Warlock.md\|Warlock]] | Light armor, simple weapons |
-| [[/6. Mechanics/Classes/Wizard.md\|Wizard]] | — |
+| [[/6. Mechanics/Classes/Barbarian.md|Barbarian]] | Shields, simple weapons, martial weapons |
+| [[/6. Mechanics/Classes/Bard.md|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
+| [[/6. Mechanics/Classes/Cleric.md|Cleric]] | Light armor, medium armor, shields |
+| [[/6. Mechanics/Classes/Druid.md|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
+| [[/6. Mechanics/Classes/Fighter.md|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[/6. Mechanics/Classes/Monk.md|Monk]] | Simple weapons, shortswords |
+| [[/6. Mechanics/Classes/Paladin.md|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[/6. Mechanics/Classes/Ranger.md|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| [[/6. Mechanics/Classes/Rogue.md|Rogue]] | Light armor, one skill from the class's skill list, [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]] |
+| [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]] | — |
+| [[/6. Mechanics/Classes/Warlock.md|Warlock]] | Light armor, simple weapons |
+| [[/6. Mechanics/Classes/Wizard.md|Wizard]] | — |
 ^multiclassing-proficiencies
 
 ### Class Features
@@ -102,7 +102,7 @@ Each spell you know and prepare is associated with one of your classes, and you 
 
 You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[/6. Mechanics/Spells/burning-hands.md\|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[/6. Mechanics/Spells/Burning Hands.md|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3. you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 

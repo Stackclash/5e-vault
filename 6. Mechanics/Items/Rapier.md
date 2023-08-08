@@ -12,7 +12,7 @@ aliases: ["Rapier"]
 *Melee Weapon*  
 
 - **Damage**: 1d8 P
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Finesse\|Finesse]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]]
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

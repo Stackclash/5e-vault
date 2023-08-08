@@ -5,76 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Nalfeshnee"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "184"
-"hit_dice": "16d10 + 96"
-"stats":
-- !!int "21"
-- !!int "10"
-- !!int "22"
-- !!int "19"
-- !!int "12"
-- !!int "15"
-"speed": "walk 20 ft., fly 30 ft."
-"saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "9"
-  "Constitution": !!int "11"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 11"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "13"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 5d10 + 5|avg (5d10 + 5) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
-    \ creature within 15 feet of the nalfeshnee that can see the light must succeed\
-    \ on a DC 15 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the nalfeshnee's\
-    \ Horror Nimbus for the next 24 hours."
-  "name": "Horror Nimbus (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee magically teleports, along with any equipment it is wearing\
-    \ or carrying, up to 120 feet to an unoccupied space it can see."
-  "name": "Teleport"
-"source":
-- "MM"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-- "CM"
-"image": "/compendium/bestiary/fiend/token/nalfeshnee.png"
-aliases: ["Nalfeshnee"]
+statblock: inline
 ---
 # Nalfeshnee
 *Source: Monster Manual p. 62, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries*  
@@ -223,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -252,43 +183,73 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Nalfeshnee
-![[/6. Mechanics/Bestiary/Fiend/Token/nalfeshnee.png#token]]
-*Large fiend(demon), Chaotic Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 16d10 + 96|text(184)` (16d10 + 96) 
-- **Speed** walk 20 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +5
-- **Saving Throws** Constitution +11, Intelligence +9, Wisdom +6, Charisma +7
-- **Skills** ⏤
-- **Senses** truesight 120 ft., passive Perception 11
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 13
-
-## Traits
-
-***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 5d10 + 5` (`5d10 + 5`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 10 ft., one target. Hit: `dice: 3d6 + 5` (`3d6 + 5`) slashing damage.
-
-***Horror Nimbus (Recharge 5-6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
-
-***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+```statblock
+"name": "Nalfeshnee"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "18"
+"hp": !!int "184"
+"hit_dice": "16d10 + 96"
+"stats":
+- !!int "21"
+- !!int "10"
+- !!int "22"
+- !!int "19"
+- !!int "12"
+- !!int "15"
+"speed": "walk 20 ft., fly 30 ft."
+"saves":
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "9"
+  "Constitution": !!int "11"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "truesight 120 ft., passive Perception 11"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "13"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nalfeshnee has advantage on saving throws against spells and other\
+    \ magical effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks:\
+    \ one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 5d10 + 5|avg (5d10 + 5) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
+    \ creature within 15 feet of the nalfeshnee that can see the light must succeed\
+    \ on a DC 15 Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success. If a creature's saving throw\
+    \ is successful or the effect ends for it, the creature is immune to the nalfeshnee's\
+    \ Horror Nimbus for the next 24 hours."
+  "name": "Horror Nimbus (Recharge 5-6)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nalfeshnee magically teleports, along with any equipment it is wearing\
+    \ or carrying, up to 120 feet to an unoccupied space it can see."
+  "name": "Teleport"
+"source":
+- "MM"
+- "TftYP"
+- "ToA"
+- "WDMM"
+- "BGDIA"
+- "CM"
+"image": "/compendium/bestiary/fiend/token/nalfeshnee.png"
 ```
 ^statblock

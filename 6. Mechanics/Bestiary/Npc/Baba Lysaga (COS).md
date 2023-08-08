@@ -6,84 +6,7 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
-statblock: true
-statblock-link: "#^statblock"
-"name": "Baba Lysaga"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human, shapechanger"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"hp": !!int "120"
-"hit_dice": "16d8 + 48"
-"stats":
-- !!int "18"
-- !!int "10"
-- !!int "16"
-- !!int "20"
-- !!int "17"
-- !!int "13"
-"speed": "walk 30 ft."
-"saves":
-  "Wisdom": !!int "7"
-"skillsaves":
-  "Religion": !!int "13"
-  "Arcana": !!int "13"
-"senses": "passive Perception 13"
-"languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
-"cr": "11"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence\
-    \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Baba Lysaga\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/acid-splash.md\|acid splash]],\
-    \ [[/6. Mechanics/Spells/fire-bolt.md\|fire bolt]], [[/6. Mechanics/Spells/light.md\|light]],\
-    \ [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/detect-magic.md\|detect magic]],\
-    \ [[/6. Mechanics/Spells/magic-missile.md\|magic missile]], [[/6. Mechanics/Spells/sleep.md\|sleep]],\
-    \ [[/6. Mechanics/Spells/witch-bolt.md\|witch bolt]]\n\n2nd level (3 2nd-level slots):\
-    \ [[/6. Mechanics/Spells/crown-of-madness.md\|crown of madness]], [enlarge/reduce](/compendium/spells/enlarge-reduce.md),\
-    \ [[/6. Mechanics/Spells/misty-step.md\|misty step]]\n\n3rd level (3 3rd-level slots):\
-    \ [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/fireball.md\|fireball]],\
-    \ [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]\n\n4th level (3 4th-level\
-    \ slots): [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]],\
-    \ [[/6. Mechanics/Spells/polymorph.md\|polymorph]]\n\n5th level (2 5th-level slots):\
-    \ [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]], [[/6. Mechanics/Spells/geas.md\|geas]],\
-    \ [[/6. Mechanics/Spells/scrying.md\|scrying]]\n\n6th level (1 6th-level slots):\
-    \ [[/6. Mechanics/Spells/programmed-illusion.md\|programmed illusion]], [[/6. Mechanics/Spells/true-seeing.md\|true seeing]]\n\
-    \n7th level (1 7th-level slots): [[/6. Mechanics/Spells/finger-of-death.md\|finger of death]],\
-    \ [[/6. Mechanics/Spells/mirage-arcane.md\|mirage arcane]]\n\n8th level (1 8th-level\
-    \ slots): [[/6. Mechanics/Spells/power-word-stun.md\|power word stun]]"
-  "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Baba Lysaga can use an action to polymorph into a [[/6. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]]\
-    \ (flies), or back into her true form. While in swarm form, she has a walking\
-    \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\
-    \ with her, but nothing she is carrying does."
-  "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Baba Lysaga is shielded against divination magic, as though protected by\
-    \ a [[/6. Mechanics/Spells/nondetection.md\|nondetection]] spell."
-  "name": "Blessing of Mother Night"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Baba Lysaga makes three attacks with her quarterstaff."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage, or 8 (dice: 1d8 +\
-    \ 4|avg (1d8 + 4)) bludgeoning damage if wielded with two hands."
-  "name": "Quarterstaff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Baba Lysaga summons dice: 1d4|avg (1d4) swarms of insects. A summoned\
-    \ swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts\
-    \ as her ally. It remains until it dies or until Baba Lysaga dismisses it as an\
-    \ action."
-  "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
-"source":
-- "CoS"
-"image": "/compendium/bestiary/npc/token/baba-lysaga.png"
-aliases: ["Baba Lysaga"]
+statblock: inline
 ---
 # Baba Lysaga
 *Source: Curse of Strahd p. 228*  
@@ -128,58 +51,81 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 
 ## Stat Block
 
-```ad-statblock
-title: Baba Lysaga
-![[/6. Mechanics/Bestiary/Npc/Token/baba-lysaga.png#token]]
-*Medium humanoid(human, shapechanger), Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 16d8 + 48|text(120)` (16d8 + 48) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|10 (+0)|16 (+3)|20 (+5)|17 (+3)|13 (+1)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Wisdom +7
-- **Skills** Arcana +13, Religion +13
-- **Senses** passive Perception 13
-- **Languages** Abyssal, Common, Draconic, Dwarvish, Giant
-- **Challenge** 11
-
-## Traits
-
-***Shapechanger.*** Baba Lysaga can use an action to polymorph into a [[/6. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.
-
-***Blessing of Mother Night.*** Baba Lysaga is shielded against divination magic, as though protected by a [[/6. Mechanics/Spells/nondetection.md\|nondetection]] spell.
-
-***Spellcasting.*** Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, `dice: d20+9` (+9 to hit) with spell attacks). Baba Lysaga has the following wizard spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/acid-splash.md\|acid splash]], [[/6. Mechanics/Spells/fire-bolt.md\|fire bolt]], [[/6. Mechanics/Spells/light.md\|light]], [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/magic-missile.md\|magic missile]], [[/6. Mechanics/Spells/sleep.md\|sleep]], [[/6. Mechanics/Spells/witch-bolt.md\|witch bolt]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/crown-of-madness.md\|crown of madness]], [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [[/6. Mechanics/Spells/misty-step.md\|misty step]]
-
-**3rd level (3 3rd-level slots)**: [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/fireball.md\|fireball]], [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]
-
-**4th level (3 4th-level slots)**: [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]], [[/6. Mechanics/Spells/polymorph.md\|polymorph]]
-
-**5th level (2 5th-level slots)**: [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]], [[/6. Mechanics/Spells/geas.md\|geas]], [[/6. Mechanics/Spells/scrying.md\|scrying]]
-
-**6th level (1 6th-level slots)**: [[/6. Mechanics/Spells/programmed-illusion.md\|programmed illusion]], [[/6. Mechanics/Spells/true-seeing.md\|true seeing]]
-
-**7th level (1 7th-level slots)**: [[/6. Mechanics/Spells/finger-of-death.md\|finger of death]], [[/6. Mechanics/Spells/mirage-arcane.md\|mirage arcane]]
-
-**8th level (1 8th-level slots)**: [[/6. Mechanics/Spells/power-word-stun.md\|power word stun]]
-
-## Actions
-
-***Multiattack.*** Baba Lysaga makes three attacks with her quarterstaff.
-
-***Quarterstaff.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 4` (`1d6 + 4`) bludgeoning damage, or 8 (`dice: 1d8 + 4` (`1d8 + 4`)) bludgeoning damage if wielded with two hands.
-
-***Summon Swarms of Insects (Recharges after a Short or Long Rest).*** Baba Lysaga summons `dice: 1d4` (`1d4`) swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.
+```statblock
+"name": "Baba Lysaga"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human, shapechanger"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "120"
+"hit_dice": "16d8 + 48"
+"stats":
+- !!int "18"
+- !!int "10"
+- !!int "16"
+- !!int "20"
+- !!int "17"
+- !!int "13"
+"speed": "walk 30 ft."
+"saves":
+  "Wisdom": !!int "7"
+"skillsaves":
+  "Religion": !!int "13"
+  "Arcana": !!int "13"
+"senses": "passive Perception 13"
+"languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
+"cr": "11"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence\
+    \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Baba Lysaga\
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Acid Splash.md|acid splash]],\
+    \ [[/6. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[/6. Mechanics/Spells/Light.md|light]],\
+    \ [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], [[/6. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[/6. Mechanics/Spells/Magic Missile.md|magic missile]], [[/6. Mechanics/Spells/Sleep.md|sleep]],\
+    \ [[/6. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\n2nd level (3 2nd-level slots):\
+    \ [[/6. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [enlarge/reduce](/compendium/spells/enlarge-reduce.md),\
+    \ [[/6. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 3rd-level slots):\
+    \ [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/6. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\n4th level (3 4th-level\
+    \ slots): [[/6. Mechanics/Spells/Blight.md|blight]], [[/6. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
+    \ [[/6. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (2 5th-level slots):\
+    \ [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/6. Mechanics/Spells/Geas.md|geas]],\
+    \ [[/6. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
+    \ [[/6. Mechanics/Spells/Programmed Illusion.md|programmed illusion]], [[/6. Mechanics/Spells/True Seeing.md|true seeing]]\n\
+    \n7th level (1 7th-level slots): [[/6. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+    \ [[/6. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\n8th level (1 8th-level\
+    \ slots): [[/6. Mechanics/Spells/Power Word Stun.md|power word stun]]"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Baba Lysaga can use an action to polymorph into a [[/6. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
+    \ (flies), or back into her true form. While in swarm form, she has a walking\
+    \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\
+    \ with her, but nothing she is carrying does."
+  "name": "Shapechanger"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Baba Lysaga is shielded against divination magic, as though protected by\
+    \ a [[/6. Mechanics/Spells/Nondetection.md|nondetection]] spell."
+  "name": "Blessing of Mother Night"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Baba Lysaga makes three attacks with her quarterstaff."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage, or 8 (dice: 1d8 +\
+    \ 4|avg (1d8 + 4)) bludgeoning damage if wielded with two hands."
+  "name": "Quarterstaff"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Baba Lysaga summons dice: 1d4|avg (1d4) swarms of insects. A summoned\
+    \ swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts\
+    \ as her ally. It remains until it dies or until Baba Lysaga dismisses it as an\
+    \ action."
+  "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
+"source":
+- "CoS"
+"image": "6. Mechanics/Bestiary/Npc/token/baba-lysaga.png"
 ```
 ^statblock

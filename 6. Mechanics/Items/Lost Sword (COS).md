@@ -15,7 +15,7 @@ aliases: ["Lost Sword"]
 *Melee Weapon, unknown (magic) (requires attunement)*  
 
 - **Damage**: 1d6 P
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Finesse\|Finesse]], [[6. Mechanics/Rules/item-properties.md#Light\|Light]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]], [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[6. Mechanics/Rules/Item Properties.md#Light|Light]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
@@ -25,6 +25,6 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 
 - The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.  
 - A lawful good creature can attune itself to the sword in 1 minute.  
-- While attuned to the weapon, the sword's wielder can use the sword to cast the [[/6. Mechanics/Spells/crusaders-mantle.md\|crusader's mantle]] spell. Once used, this property of the sword can't be used again until the next dawn.  
+- While attuned to the weapon, the sword's wielder can use the sword to cast the [[/6. Mechanics/Spells/Crusaders Mantle.md|crusader's mantle]] spell. Once used, this property of the sword can't be used again until the next dawn.  
 
 *Source: Curse of Strahd p. 81*

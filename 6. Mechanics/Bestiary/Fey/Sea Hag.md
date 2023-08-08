@@ -7,78 +7,7 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/fey
-statblock: true
-statblock-link: "#^statblock"
-"name": "Sea Hag"
-"size": "Medium"
-"type": "fey"
-"alignment": "Chaotic Evil"
-"ac": !!int "14"
-"hp": !!int "52"
-"hit_dice": "7d8 + 21"
-"stats":
-- !!int "16"
-- !!int "13"
-- !!int "16"
-- !!int "12"
-- !!int "12"
-- !!int "13"
-"speed": "walk 30 ft., swim 40 ft."
-"senses": "darkvision 60 ft., passive Perception 11"
-"languages": "Aquan, Common, Giant"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
-    \ the hag's true form must make a DC 11 Wisdom saving throw. On a failed save,\
-    \ the creature is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for\
-    \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
-    \ with disadvantage if the hag is within line of sight, ending the effect on itself\
-    \ on a success. If a creature's saving throw is successful or the effect ends\
-    \ for it, the creature is immune to the hag's Horrific Appearance for the next\
-    \ 24 hours.\n\nUnless the target is surprised or the revelation of the hag's true\
-    \ form is sudden, the target can avert its eyes and avoid making the initial saving\
-    \ throw. Until the start of its next turn, a creature that averts its eyes has\
-    \ disadvantage on attack rolls against the hag."
-  "name": "Horrific Appearance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
-  "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag targets one [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ creature she can see within 30 feet of her. If the target can see the hag, it\
-    \ must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0\
-    \ hit points."
-  "name": "Death Glare"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
-    \ illusion that makes her look like an ugly creature of her general size and humanoid\
-    \ shape. The effect ends if the hag takes a bonus action to end it or if she dies.\n\
-    \nThe changes wrought by this effect fail to hold up to physical inspection. For\
-    \ example, the hag could appear to have no claws, but someone touching her hand\
-    \ might feel the claws. Otherwise, a creature must take an action to visually\
-    \ inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check\
-    \ to discern that the hag is disguised."
-  "name": "Illusory Appearance"
-"source":
-- "MM"
-- "PotA"
-- "TftYP"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "MOT"
-- "IDRotF"
-- "JttRC"
-"image": "/compendium/bestiary/fey/token/sea-hag.png"
-aliases: ["Sea Hag"]
+statblock: inline
 ---
 # Sea Hag
 *Source: Monster Manual p. 179, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel*  
@@ -143,63 +72,92 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> - 1st level (4 slots): [[/6. Mechanics/Spells/identify.md\|identify]], [[/6. Mechanics/Spells/ray-of-sickness.md\|ray of sickness]]  
-> - 2nd level (3 slots): [[/6. Mechanics/Spells/hold-person.md\|hold person]], [[/6. Mechanics/Spells/locate-object.md\|locate object]]  
-> - 3rd level (3 slots): [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]], [[/6. Mechanics/Spells/counterspell.md\|counterspell]], [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]  
-> - 4th level (3 slots): [[/6. Mechanics/Spells/phantasmal-killer.md\|phantasmal killer]], [[/6. Mechanics/Spells/polymorph.md\|polymorph]]  
-> - 5th level (2 slots): [[/6. Mechanics/Spells/contact-other-plane.md\|contact other plane]], [[/6. Mechanics/Spells/scrying.md\|scrying]]  
-> - 6th level (1 slot): [[/6. Mechanics/Spells/eyebite.md\|eyebite]]  
+> - 1st level (4 slots): [[/6. Mechanics/Spells/Identify.md|identify]], [[/6. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]  
+> - 2nd level (3 slots): [[/6. Mechanics/Spells/Hold Person.md|hold person]], [[/6. Mechanics/Spells/Locate Object.md|locate object]]  
+> - 3rd level (3 slots): [[/6. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/6. Mechanics/Spells/Counterspell.md|counterspell]], [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]  
+> - 4th level (3 slots): [[/6. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[/6. Mechanics/Spells/Polymorph.md|polymorph]]  
+> - 5th level (2 slots): [[/6. Mechanics/Spells/Contact Other Plane.md|contact other plane]], [[/6. Mechanics/Spells/Scrying.md|scrying]]  
+> - 6th level (1 slot): [[/6. Mechanics/Spells/Eyebite.md|eyebite]]  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[6. Mechanics/Rules/conditions.md#blinded\|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[6. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ## Stat Block
 
-```ad-statblock
-title: Sea Hag
-![[/6. Mechanics/Bestiary/Fey/Token/sea-hag.png#token]]
-*Medium fey, Chaotic Evil*
-
-- **Armor Class** 14 (natural armor)
-- **Hit Points** `dice: 7d8 + 21|text(52)` (7d8 + 21) 
-- **Speed** walk 30 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** Aquan, Common, Giant
-- **Challenge** 2
-
-## Traits
-
-***Amphibious.*** The hag can breathe air and water.
-
-***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
-
-Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
-
-## Actions
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) slashing damage.
-
-***Death Glare.*** The hag targets one [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
-
-***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
-
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
-
-## _copy
-
-
+```statblock
+"name": "Sea Hag"
+"size": "Medium"
+"type": "fey"
+"alignment": "Chaotic Evil"
+"ac": !!int "14"
+"hp": !!int "52"
+"hit_dice": "7d8 + 21"
+"stats":
+- !!int "16"
+- !!int "13"
+- !!int "16"
+- !!int "12"
+- !!int "12"
+- !!int "13"
+"speed": "walk 30 ft., swim 40 ft."
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "Aquan, Common, Giant"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
+    \ the hag's true form must make a DC 11 Wisdom saving throw. On a failed save,\
+    \ the creature is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
+    \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
+    \ with disadvantage if the hag is within line of sight, ending the effect on itself\
+    \ on a success. If a creature's saving throw is successful or the effect ends\
+    \ for it, the creature is immune to the hag's Horrific Appearance for the next\
+    \ 24 hours.\n\nUnless the target is surprised or the revelation of the hag's true\
+    \ form is sudden, the target can avert its eyes and avoid making the initial saving\
+    \ throw. Until the start of its next turn, a creature that averts its eyes has\
+    \ disadvantage on attack rolls against the hag."
+  "name": "Horrific Appearance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+  "name": "Claws"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag targets one [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ creature she can see within 30 feet of her. If the target can see the hag, it\
+    \ must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0\
+    \ hit points."
+  "name": "Death Glare"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
+    \ illusion that makes her look like an ugly creature of her general size and humanoid\
+    \ shape. The effect ends if the hag takes a bonus action to end it or if she dies.\n\
+    \nThe changes wrought by this effect fail to hold up to physical inspection. For\
+    \ example, the hag could appear to have no claws, but someone touching her hand\
+    \ might feel the claws. Otherwise, a creature must take an action to visually\
+    \ inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check\
+    \ to discern that the hag is disguised."
+  "name": "Illusory Appearance"
+"source":
+- "MM"
+- "PotA"
+- "TftYP"
+- "ToA"
+- "WDMM"
+- "GoS"
+- "DIP"
+- "SLW"
+- "MOT"
+- "IDRotF"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Fey/token/sea-hag.png"
 ```
 ^statblock
 

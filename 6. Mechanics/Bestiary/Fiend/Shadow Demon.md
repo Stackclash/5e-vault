@@ -5,76 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Shadow Demon"
-"size": "Medium"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "66"
-"hit_dice": "12d8 + 12"
-"stats":
-- !!int "1"
-- !!int "17"
-- !!int "12"
-- !!int "14"
-- !!int "13"
-- !!int "14"
-"speed": "walk 30 ft., fly 30 ft."
-"saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "5"
-"skillsaves":
-  "Stealth": !!int "7"
-"damage_vulnerabilities": "radiant"
-"damage_resistances": "acid; fire; necrotic; thunder; bludgeoning, piercing, slashing\
-  \ from nonmagical attacks"
-"damage_immunities": "cold, lightning, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
-  "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Light Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the demon can take the Hide action as a\
-    \ bonus action."
-  "name": "Shadow Stealth"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) psychic damage or, if the demon had advantage\
-    \ on the attack roll, 17 (dice: 4d6 + 3|avg (4d6 + 3)) psychic damage."
-  "name": "Claws"
-"source":
-- "MM"
-- "CoS"
-- "PotA"
-- "SKT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "IMR"
-- "MOT"
-- "IDRotF"
-- "CRCotN"
-- "JttRC"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/shadow-demon.png"
-aliases: ["Shadow Demon"]
+statblock: inline
 ---
 # Shadow Demon
 *Source: Monster Manual p. 64, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
@@ -227,7 +158,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -256,40 +187,73 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Shadow Demon
-![[/6. Mechanics/Bestiary/Fiend/Token/shadow-demon.png#token]]
-*Medium fiend(demon), Chaotic Evil*
-
-- **Armor Class** 13 
-- **Hit Points** `dice: 12d8 + 12|text(66)` (12d8 + 12) 
-- **Speed** walk 30 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +5, Charisma +4
-- **Skills** Stealth +7
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Vulnerabilities** radiant
-- **Damage Resistances** acid; fire; necrotic; thunder; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** cold, lightning, poison
-- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 4
-
-## Traits
-
-***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes `dice: 1d10` (`1d10`) force damage if it ends its turn inside an object.
-
-***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-***Shadow Stealth.*** While in dim light or darkness, the demon can take the Hide action as a bonus action.
-
-## Actions
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one creature. Hit: `dice: 2d6 + 3` (`2d6 + 3`) psychic damage or, if the demon had advantage on the attack roll, 17 (`dice: 4d6 + 3` (`4d6 + 3`)) psychic damage.
+```statblock
+"name": "Shadow Demon"
+"size": "Medium"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "13"
+"hp": !!int "66"
+"hit_dice": "12d8 + 12"
+"stats":
+- !!int "1"
+- !!int "17"
+- !!int "12"
+- !!int "14"
+- !!int "13"
+- !!int "14"
+"speed": "walk 30 ft., fly 30 ft."
+"saves":
+  "Charisma": !!int "4"
+  "Dexterity": !!int "5"
+"skillsaves":
+  "Stealth": !!int "7"
+"damage_vulnerabilities": "radiant"
+"damage_resistances": "acid; fire; necrotic; thunder; bludgeoning, piercing, slashing\
+  \ from nonmagical attacks"
+"damage_immunities": "cold, lightning, poison"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The demon can move through other creatures and objects as if they were\
+    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
+    \ its turn inside an object."
+  "name": "Incorporeal Movement"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Light Sensitivity"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in dim light or darkness, the demon can take the Hide action as a\
+    \ bonus action."
+  "name": "Shadow Stealth"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) psychic damage or, if the demon had advantage\
+    \ on the attack roll, 17 (dice: 4d6 + 3|avg (4d6 + 3)) psychic damage."
+  "name": "Claws"
+"source":
+- "MM"
+- "CoS"
+- "PotA"
+- "SKT"
+- "ToA"
+- "WDH"
+- "WDMM"
+- "BGDIA"
+- "IMR"
+- "MOT"
+- "IDRotF"
+- "CRCotN"
+- "JttRC"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/shadow-demon.png"
 ```
 ^statblock

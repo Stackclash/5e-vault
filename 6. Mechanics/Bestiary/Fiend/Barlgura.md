@@ -5,76 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Barlgura"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"hp": !!int "68"
-"hit_dice": "8d10 + 24"
-"stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "7"
-- !!int "14"
-- !!int "9"
-"speed": "walk 40 ft., climb 40 ft."
-"saves":
-  "Dexterity": !!int "5"
-  "Constitution": !!int "6"
-"skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "5"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura\
-    \ can innately cast the following spells, requiring no material components:\n\n\
-    1/day each: [[/6. Mechanics/Spells/entangle.md\|entangle]], [[/6. Mechanics/Spells/phantasmal-force.md\|phantasmal force]]\n\
-    \n2/day each: [[/6. Mechanics/Spells/disguise-self.md\|disguise self]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]]\
-    \ (self only)"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of its turn, the barlgura can gain advantage on all melee\
-    \ weapon attack rolls it makes during that turn, but attack rolls against it have\
-    \ advantage until the start of its next turn."
-  "name": "Reckless"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barlgura's long jump is up to 40 feet and its high jump is up to 20\
-    \ feet when it has a running start."
-  "name": "Running Leap"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barlgura makes three attacks: one with its bite and two with its fists."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) bludgeoning damage."
-  "name": "Fist"
-"source":
-- "MM"
-- "PotA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "IMR"
-- "CRCotN"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/barlgura.png"
-aliases: ["Barlgura"]
+statblock: inline
 ---
 # Barlgura
 *Source: Monster Manual p. 56, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Critical Role: Call of the Netherdeep, Keys from the Golden Vault*  
@@ -223,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -252,47 +183,73 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Barlgura
-![[/6. Mechanics/Bestiary/Fiend/Token/barlgura.png#token]]
-*Large fiend(demon), Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 8d10 + 24|text(68)` (8d10 + 24) 
-- **Speed** walk 40 ft., climb 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 7 (-2)|14 (+2)| 9 (-1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Constitution +6
-- **Skills** Perception +5, Stealth +5
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 15
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 5
-
-## Traits
-
-***Reckless.*** At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
-
-***Running Leap.*** The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.
-
-***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
-
-**1/day each**: [[/6. Mechanics/Spells/entangle.md\|entangle]], [[/6. Mechanics/Spells/phantasmal-force.md\|phantasmal force]]
-
-**2/day each**: [[/6. Mechanics/Spells/disguise-self.md\|disguise self]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]] (self only)
-
-## Actions
-
-***Multiattack.*** The barlgura makes three attacks: one with its bite and two with its fists.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) piercing damage.
-
-***Fist.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 4` (`1d10 + 4`) bludgeoning damage.
+```statblock
+"name": "Barlgura"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "68"
+"hit_dice": "8d10 + 24"
+"stats":
+- !!int "18"
+- !!int "15"
+- !!int "16"
+- !!int "7"
+- !!int "14"
+- !!int "9"
+"speed": "walk 40 ft., climb 40 ft."
+"saves":
+  "Dexterity": !!int "5"
+  "Constitution": !!int "6"
+"skillsaves":
+  "Stealth": !!int "5"
+  "Perception": !!int "5"
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "5"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura\
+    \ can innately cast the following spells, requiring no material components:\n\n\
+    1/day each: [[/6. Mechanics/Spells/Entangle.md|entangle]], [[/6. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\n\
+    \n2/day each: [[/6. Mechanics/Spells/Disguise Self.md|disguise self]], [[/6. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ (self only)"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "At the start of its turn, the barlgura can gain advantage on all melee\
+    \ weapon attack rolls it makes during that turn, but attack rolls against it have\
+    \ advantage until the start of its next turn."
+  "name": "Reckless"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The barlgura's long jump is up to 40 feet and its high jump is up to 20\
+    \ feet when it has a running start."
+  "name": "Running Leap"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The barlgura makes three attacks: one with its bite and two with its fists."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) bludgeoning damage."
+  "name": "Fist"
+"source":
+- "MM"
+- "PotA"
+- "WDH"
+- "WDMM"
+- "BGDIA"
+- "IMR"
+- "CRCotN"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/barlgura.png"
 ```
 ^statblock

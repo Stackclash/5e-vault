@@ -9,8 +9,14 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Giant Eagle
+*Source: Monster Manual p. 324, Ghosts of Saltmarsh, The Wild Beyond the Witchlight*  
+
+A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
+
+```statblock
 "name": "Giant Eagle"
 "size": "Large"
 "type": "beast"
@@ -33,7 +39,7 @@ statblock-link: "#^statblock"
 "cr": "1"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eagle has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The eagle has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
@@ -52,45 +58,7 @@ statblock-link: "#^statblock"
 - "MM"
 - "GoS"
 - "WBtW"
-"image": "/compendium/bestiary/beast/token/giant-eagle.png"
-aliases: ["Giant Eagle"]
----
-# Giant Eagle
-*Source: Monster Manual p. 324, Ghosts of Saltmarsh, The Wild Beyond the Witchlight*  
-
-A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
-
-```ad-statblock
-title: Giant Eagle
-![[/6. Mechanics/Bestiary/Beast/Token/giant-eagle.png#token]]
-*Large beast, Neutral Good*
-
-- **Armor Class** 13 
-- **Hit Points** `dice: 4d10 + 4|text(26)` (4d10 + 4) 
-- **Speed** walk 10 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** Giant Eagle, understands Common and Auran but can't speak them
-- **Challenge** 1
-
-## Traits
-
-***Keen Sight.*** The eagle has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-## Actions
-
-***Multiattack.*** The eagle makes two attacks: one with its beak and one with its talons.
-
-***Beak.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) piercing damage.
-
-***Talons.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) slashing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/giant-eagle.png"
 ```
 ^statblock
 

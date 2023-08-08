@@ -25,7 +25,7 @@ The walkers of this way usually don robes with deep cowls, and they often concea
 
 _3rd-level Way of Mercy feature_
 
-You gain proficiency in the [[6. Mechanics/Rules/skills.md#Insight\|Insight]] and [[6. Mechanics/Rules/skills.md#Medicine\|Medicine]] skills, and you gain proficiency with the [[/6. Mechanics/Items/herbalism-kit.md\|herbalism kit]].
+You gain proficiency in the [[6. Mechanics/Rules/Skills.md#Insight|Insight]] and [[6. Mechanics/Rules/Skills.md#Medicine|Medicine]] skills, and you gain proficiency with the [[/6. Mechanics/Items/Herbalism Kit.md|herbalism kit]].
 
 You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table.
 
@@ -61,9 +61,9 @@ _6th-level Way of Mercy feature_
 
 You can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.
 
-When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]], [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]], or [[6. Mechanics/Rules/conditions.md#stunned\|stunned]].
+When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]], [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], or [[6. Mechanics/Rules/Conditions.md#stunned|stunned]].
 
-When you use Hand of Harm on a creature, you can subject that creature to the [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] condition until the end of your next turn.
+When you use Hand of Harm on a creature, you can subject that creature to the [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition until the end of your next turn.
 
 ### Flurry of Healing and Harm (Level 11)
 
@@ -77,6 +77,6 @@ In addition, when you make an unarmed strike with Flurry of Blows, you can use H
 
 _17th-level Way of Mercy feature_
 
-Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to `dice: 4d10\|avg` (`4d10`) + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]], [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]], and [[6. Mechanics/Rules/conditions.md#stunned\|stunned]].
+Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to `dice: 4d10` (`4d10`) + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]], [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], and [[6. Mechanics/Rules/Conditions.md#stunned|stunned]].
 
 Once you use this feature, you can't use it again until you finish a long rest.

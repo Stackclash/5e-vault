@@ -5,74 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/yugoloth
-statblock: true
-statblock-link: "#^statblock"
-"name": "Mezzoloth"
-"size": "Medium"
-"type": "fiend"
-"subtype": "yugoloth"
-"alignment": "Neutral Evil"
-"ac": !!int "18"
-"hp": !!int "75"
-"hit_dice": "10d8 + 30"
-"stats":
-- !!int "18"
-- !!int "11"
-- !!int "16"
-- !!int "7"
-- !!int "10"
-- !!int "11"
-"speed": "walk 40 ft."
-"skillsaves":
-  "Perception": !!int "3"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 13"
-"languages": "Abyssal, Infernal, telepathy 60 ft."
-"cr": "5"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
-    \ 11). The mezzoloth can innately cast the following spells, requiring no material\
-    \ components:\n\n1/day: [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]]\n\n2/day\
-    \ each: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth's weapon attacks are magical."
-  "name": "Magic Weapons"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
-  "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage, or 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage when held with\
-    \ two claws and used to make a melee attack."
-  "name": "Trident"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
-    \ or carrying, up to 60 feet to an unoccupied space it can see."
-  "name": "Teleport"
-"source":
-- "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-"image": "/compendium/bestiary/fiend/token/mezzoloth.png"
-aliases: ["Mezzoloth"]
+statblock: inline
 ---
 # Mezzoloth
 *Source: Monster Manual p. 313, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus*  
@@ -134,49 +67,71 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ## Stat Block
 
-```ad-statblock
-title: Mezzoloth
-![[/6. Mechanics/Bestiary/Fiend/Token/mezzoloth.png#token]]
-*Medium fiend(yugoloth), Neutral Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 10d8 + 30|text(75)` (10d8 + 30) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|16 (+3)| 7 (-2)|10 (+0)|11 (+0)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** Perception +3
-- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 13
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** acid, poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Infernal, telepathy 60 ft.
-- **Challenge** 5
-
-## Traits
-
-***Magic Resistance.*** The mezzoloth has advantage on saving throws against spells and other magical effects.
-
-***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
-
-***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
-
-**1/day**: [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]]
-
-**2/day each**: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]]
-
-## Actions
-
-***Multiattack.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d4 + 4` (`2d4 + 4`) slashing damage.
-
-***Trident.*** *Melee or Ranged Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: `dice: 1d6 + 4` (`1d6 + 4`) piercing damage, or 8 (`dice: 1d8 + 4` (`1d8 + 4`)) piercing damage when held with two claws and used to make a melee attack.
-
-***Teleport.*** The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+```statblock
+"name": "Mezzoloth"
+"size": "Medium"
+"type": "fiend"
+"subtype": "yugoloth"
+"alignment": "Neutral Evil"
+"ac": !!int "18"
+"hp": !!int "75"
+"hit_dice": "10d8 + 30"
+"stats":
+- !!int "18"
+- !!int "11"
+- !!int "16"
+- !!int "7"
+- !!int "10"
+- !!int "11"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Perception": !!int "3"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "acid, poison"
+"condition_immunities": "poisoned"
+"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 13"
+"languages": "Abyssal, Infernal, telepathy 60 ft."
+"cr": "5"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
+    \ 11). The mezzoloth can innately cast the following spells, requiring no material\
+    \ components:\n\n1/day: [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]]\n\n2/day\
+    \ each: [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mezzoloth has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mezzoloth's weapon attacks are magical."
+  "name": "Magic Weapons"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+  "name": "Claws"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage when held with\
+    \ two claws and used to make a melee attack."
+  "name": "Trident"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
+    \ or carrying, up to 60 feet to an unoccupied space it can see."
+  "name": "Teleport"
+"source":
+- "MM"
+- "PotA"
+- "RoT"
+- "ToA"
+- "WDMM"
+- "BGDIA"
+"image": "/compendium/bestiary/fiend/token/mezzoloth.png"
 ```
 ^statblock

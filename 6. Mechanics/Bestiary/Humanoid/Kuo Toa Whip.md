@@ -6,80 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
-statblock: true
-statblock-link: "#^statblock"
-"name": "Kuo-toa Whip"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "kuo-toa"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "14"
-- !!int "11"
-"speed": "walk 30 ft., swim 30 ft."
-"skillsaves":
-  "Religion": !!int "5"
-  "Perception": !!int "6"
-"senses": "darkvision 120 ft., passive Perception 16"
-"languages": "Undercommon"
-"cr": "1"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The kuo-toa\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [sacred\
-    \ flame](/compendium/spells/sacred-flame.md), [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (3 1st-level slots): [[/6. Mechanics/Spells/bane.md\|bane]], [shield\
-    \ of faith](/compendium/spells/shield-of-faith.md)"
-  "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] or on the Ethereal\
-    \ Plane. It can pinpoint such a creature that is moving."
-  "name": "Otherworldly Perception"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
-    \ a grapple."
-  "name": "Slippery"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa makes two attacks: one with its bite and one with its pincer\
-    \ staff."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage. If the target is a Medium\
-    \ or smaller creature, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff\
-    \ on another target."
-  "name": "Pincer Staff"
-"source":
-- "MM"
-- "PotA"
-- "WDH"
-- "WDMM"
-- "GoS"
-"image": "/compendium/bestiary/humanoid/token/kuo-toa-whip.png"
-aliases: ["Kuo-toa Whip"]
+statblock: inline
 ---
 # Kuo-toa Whip
 *Source: Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  
@@ -128,49 +55,78 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 ## Stat Block
 
-```ad-statblock
-title: Kuo-toa Whip
-![[/6. Mechanics/Bestiary/Humanoid/Token/kuo-toa-whip.png#token]]
-*Medium humanoid(kuo-toa), Neutral Evil*
-
-- **Armor Class** 11 (natural armor)
-- **Hit Points** `dice: 10d8 + 20|text(65)` (10d8 + 20) 
-- **Speed** walk 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +6, Religion +5
-- **Senses** darkvision 120 ft., passive Perception 16
-- **Languages** Undercommon
-- **Challenge** 1
-
-## Traits
-
-***Amphibious.*** The kuo-toa can breathe air and water.
-
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] or on the Ethereal Plane. It can pinpoint such a creature that is moving.
-
-***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
-
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `dice: d20+4` (+4 to hit) with spell attacks). The kuo-toa has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (3 1st-level slots)**: [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/shield-of-faith.md\|shield of faith]]
-
-## Actions
-
-***Multiattack.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) piercing damage.
-
-***Pincer Staff.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 10 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage. If the target is a Medium or smaller creature, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
+```statblock
+"name": "Kuo-toa Whip"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "kuo-toa"
+"alignment": "Neutral Evil"
+"ac": !!int "11"
+"hp": !!int "65"
+"hit_dice": "10d8 + 20"
+"stats":
+- !!int "14"
+- !!int "10"
+- !!int "14"
+- !!int "12"
+- !!int "14"
+- !!int "11"
+"speed": "walk 30 ft., swim 30 ft."
+"skillsaves":
+  "Religion": !!int "5"
+  "Perception": !!int "6"
+"senses": "darkvision 120 ft., passive Perception 16"
+"languages": "Undercommon"
+"cr": "1"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom\
+    \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The kuo-toa\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [sacred\
+    \ flame](/compendium/spells/sacred-flame.md), [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (3 1st-level slots): [[/6. Mechanics/Spells/Bane.md|bane]], [shield\
+    \ of faith](/compendium/spells/shield-of-faith.md)"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
+    \ that is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+    \ Plane. It can pinpoint such a creature that is moving."
+  "name": "Otherworldly Perception"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
+    \ a grapple."
+  "name": "Slippery"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa makes two attacks: one with its bite and one with its pincer\
+    \ staff."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage. If the target is a Medium\
+    \ or smaller creature, it is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff\
+    \ on another target."
+  "name": "Pincer Staff"
+"source":
+- "MM"
+- "PotA"
+- "WDH"
+- "WDMM"
+- "GoS"
+"image": "6. Mechanics/Bestiary/Humanoid/token/kuo-toa-whip.png"
 ```
 ^statblock
 

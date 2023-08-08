@@ -12,7 +12,7 @@ aliases: ["+3 Rod of the Pact Keeper"]
 # +3 Rod of the Pact Keeper
 *Rod, major, very rare (requires attunement by a warlock)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 

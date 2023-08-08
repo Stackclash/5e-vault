@@ -14,6 +14,6 @@ aliases: ["Potion of Greater Healing"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-You regain `dice: 4d4 + 4\|avg` (`4d4 + 4`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
+You regain `dice: 4d4 + 4` (`4d4 + 4`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide p. 187*

@@ -6,71 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
-statblock: true
-statblock-link: "#^statblock"
-"name": "Kuo-toa Monitor"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "kuo-toa"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "14"
-- !!int "11"
-"speed": "walk 30 ft., swim 30 ft."
-"skillsaves":
-  "Religion": !!int "5"
-  "Perception": !!int "6"
-"senses": "darkvision 120 ft., passive Perception 16"
-"languages": "Undercommon"
-"cr": "3"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] or on the Ethereal\
-    \ Plane. It can pinpoint such a creature that is moving."
-  "name": "Otherworldly Perception"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
-    \ a grapple."
-  "name": "Slippery"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa adds its Wisdom modifier to its armor class."
-  "name": "Unarmored Defense"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage plus dice: 1d6|avg\
-    \ (1d6) lightning damage, and the target can't take reactions until the end\
-    \ of the kuo-toa's next turn."
-  "name": "Unarmed Strike"
-"source":
-- "MM"
-- "PotA"
-- "GoS"
-"image": "/compendium/bestiary/humanoid/token/kuo-toa-monitor.png"
-aliases: ["Kuo-toa Monitor"]
+statblock: inline
 ---
 # Kuo-toa Monitor
 *Source: Monster Manual p. 198, Princes of the Apocalypse, Ghosts of Saltmarsh*  
@@ -119,45 +55,69 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 ## Stat Block
 
-```ad-statblock
-title: Kuo-toa Monitor
-![[/6. Mechanics/Bestiary/Humanoid/Token/kuo-toa-monitor.png#token]]
-*Medium humanoid(kuo-toa), Neutral Evil*
-
-- **Armor Class** 13 (natural armor, Unarmored Defense)
-- **Hit Points** `dice: 10d8 + 20|text(65)` (10d8 + 20) 
-- **Speed** walk 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +6, Religion +5
-- **Senses** darkvision 120 ft., passive Perception 16
-- **Languages** Undercommon
-- **Challenge** 3
-
-## Traits
-
-***Amphibious.*** The kuo-toa can breathe air and water.
-
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] or on the Ethereal Plane. It can pinpoint such a creature that is moving.
-
-***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
-
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.
-
-## Actions
-
-***Multiattack.*** The kuo-toa makes one bite attack and two unarmed strikes.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) piercing damage.
-
-***Unarmed Strike.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) bludgeoning damage plus `dice: 1d6` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+```statblock
+"name": "Kuo-toa Monitor"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "kuo-toa"
+"alignment": "Neutral Evil"
+"ac": !!int "13"
+"hp": !!int "65"
+"hit_dice": "10d8 + 20"
+"stats":
+- !!int "14"
+- !!int "10"
+- !!int "14"
+- !!int "12"
+- !!int "14"
+- !!int "11"
+"speed": "walk 30 ft., swim 30 ft."
+"skillsaves":
+  "Religion": !!int "5"
+  "Perception": !!int "6"
+"senses": "darkvision 120 ft., passive Perception 16"
+"languages": "Undercommon"
+"cr": "3"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
+    \ that is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+    \ Plane. It can pinpoint such a creature that is moving."
+  "name": "Otherworldly Perception"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
+    \ a grapple."
+  "name": "Slippery"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa adds its Wisdom modifier to its armor class."
+  "name": "Unarmored Defense"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage plus dice: 1d6|avg\
+    \ (1d6) lightning damage, and the target can't take reactions until the end\
+    \ of the kuo-toa's next turn."
+  "name": "Unarmed Strike"
+"source":
+- "MM"
+- "PotA"
+- "GoS"
+"image": "6. Mechanics/Bestiary/Humanoid/token/kuo-toa-monitor.png"
 ```
 ^statblock
 

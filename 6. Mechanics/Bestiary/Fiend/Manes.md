@@ -5,45 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/small
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Manes"
-"size": "Small"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "9"
-"hp": !!int "9"
-"hit_dice": "2d6 + 2"
-"stats":
-- !!int "10"
-- !!int "9"
-- !!int "13"
-- !!int "3"
-- !!int "8"
-- !!int "4"
-"speed": "walk 20 ft."
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
-"senses": "darkvision 60 ft., passive Perception 9"
-"languages": "understands Abyssal but can't speak"
-"cr": "1/8"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4|avg (2d4) slashing damage."
-  "name": "Claws"
-"source":
-- "MM"
-- "TftYP"
-- "GoS"
-- "BGDIA"
-- "IMR"
-- "WBtW"
-- "CRCotN"
-"image": "/compendium/bestiary/fiend/token/manes.png"
-aliases: ["Manes"]
+statblock: inline
 ---
 # Manes
 *Source: Monster Manual p. 60, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep*  
@@ -196,7 +158,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -225,31 +187,42 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Manes
-![[/6. Mechanics/Bestiary/Fiend/Token/manes.png#token]]
-*Small fiend(demon), Chaotic Evil*
-
-- **Armor Class** 9 (natural armor)
-- **Hit Points** `dice: 2d6 + 2|text(9)` (2d6 + 2) 
-- **Speed** walk 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)| 9 (-1)|13 (+1)| 3 (-4)| 8 (-1)| 4 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, frightened, poisoned
-- **Languages** understands Abyssal but can't speak
-- **Challenge** 1/8
-
-## Actions
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 2d4` (`2d4`) slashing damage.
+```statblock
+"name": "Manes"
+"size": "Small"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "9"
+"hp": !!int "9"
+"hit_dice": "2d6 + 2"
+"stats":
+- !!int "10"
+- !!int "9"
+- !!int "13"
+- !!int "3"
+- !!int "8"
+- !!int "4"
+"speed": "walk 20 ft."
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "darkvision 60 ft., passive Perception 9"
+"languages": "understands Abyssal but can't speak"
+"cr": "1/8"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4|avg (2d4) slashing damage."
+  "name": "Claws"
+"source":
+- "MM"
+- "TftYP"
+- "GoS"
+- "BGDIA"
+- "IMR"
+- "WBtW"
+- "CRCotN"
+"image": "/compendium/bestiary/fiend/token/manes.png"
 ```
 ^statblock

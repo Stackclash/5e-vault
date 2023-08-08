@@ -11,68 +11,7 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Pseudodragon"
-"size": "Tiny"
-"type": "dragon"
-"alignment": "Neutral Good"
-"ac": !!int "13"
-"hp": !!int "7"
-"hit_dice": "2d4 + 2"
-"stats":
-- !!int "6"
-- !!int "15"
-- !!int "13"
-- !!int "10"
-- !!int "12"
-- !!int "10"
-"speed": "walk 15 ft., fly 60 ft."
-"skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
-"languages": "understands Common and Draconic but can't speak"
-"cr": "1/4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pseudodragon has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ checks that rely on sight, hearing, or smell."
-  "name": "Keen Senses"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pseudodragon has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pseudodragon can magically communicate simple ideas, emotions, and\
-    \ images telepathically with any creature within 100 feet of it that can understand\
-    \ a language."
-  "name": "Limited Telepathy"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target must succeed\
-    \ on a DC 11 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]]\
-    \ for the same duration, or until it takes damage or another creature uses an\
-    \ action to shake it awake."
-  "name": "Sting"
-"source":
-- "MM"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "GoS"
-- "ERLW"
-- "IMR"
-- "EGW"
-- "IDRotF"
-"image": "/compendium/bestiary/dragon/token/pseudodragon.png"
-aliases: ["Pseudodragon"]
+statblock: inline
 ---
 # Pseudodragon
 *Source: Monster Manual p. 254, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Eberron: Rising from the Last War, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
@@ -106,39 +45,66 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 
 ## Stat Block
 
-```ad-statblock
-title: Pseudodragon
-![[/6. Mechanics/Bestiary/Dragon/Token/pseudodragon.png#token]]
-*Tiny dragon, Neutral Good*
-
-- **Armor Class** 13 
-- **Hit Points** `dice: 2d4 + 2|text(7)` (2d4 + 2) 
-- **Speed** walk 15 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3, Stealth +4
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
-- **Languages** understands Common and Draconic but can't speak
-- **Challenge** 1/4
-
-## Traits
-
-***Keen Senses.*** The pseudodragon has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight, hearing, or smell.
-
-***Magic Resistance.*** The pseudodragon has advantage on saving throws against spells and other magical effects.
-
-***Limited Telepathy.*** The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) piercing damage.
-
-***Sting.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one creature. Hit: `dice: 1d4 + 2` (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 hour. If the saving throw fails by 5 or more, the target falls [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+```statblock
+"name": "Pseudodragon"
+"size": "Tiny"
+"type": "dragon"
+"alignment": "Neutral Good"
+"ac": !!int "13"
+"hp": !!int "7"
+"hit_dice": "2d4 + 2"
+"stats":
+- !!int "6"
+- !!int "15"
+- !!int "13"
+- !!int "10"
+- !!int "12"
+- !!int "10"
+"speed": "walk 15 ft., fly 60 ft."
+"skillsaves":
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+"languages": "understands Common and Draconic but can't speak"
+"cr": "1/4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The pseudodragon has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on sight, hearing, or smell."
+  "name": "Keen Senses"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The pseudodragon has advantage on saving throws against spells and other\
+    \ magical effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The pseudodragon can magically communicate simple ideas, emotions, and\
+    \ images telepathically with any creature within 100 feet of it that can understand\
+    \ a language."
+  "name": "Limited Telepathy"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target must succeed\
+    \ on a DC 11 Constitution saving throw or become [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ for the same duration, or until it takes damage or another creature uses an\
+    \ action to shake it awake."
+  "name": "Sting"
+"source":
+- "MM"
+- "RoT"
+- "ToA"
+- "WDMM"
+- "GoS"
+- "ERLW"
+- "IMR"
+- "EGW"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Dragon/token/pseudodragon.png"
 ```
 ^statblock
 

@@ -12,64 +12,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: true
-statblock-link: "#^statblock"
-"name": "Orc Eye of Gruumsh"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "orc"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"stats":
-- !!int "16"
-- !!int "12"
-- !!int "17"
-- !!int "9"
-- !!int "13"
-- !!int "12"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Intimidation": !!int "3"
-  "Religion": !!int "1"
-"senses": "darkvision 60 ft., passive Perception 11"
-"languages": "Common, Orc"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The orc has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/guidance.md\|guidance]],\
-    \ [[/6. Mechanics/Spells/resistance.md\|resistance]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/bless.md\|bless]], [[/6. Mechanics/Spells/command.md\|command]]\n\
-    \n2nd level (2 2nd-level slots): [[/6. Mechanics/Spells/augury.md\|augury]], [spiritual\
-    \ weapon](/compendium/spells/spiritual-weapon.md) (spear)"
-  "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
-    \ that it can see."
-  "name": "Aggressive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
-    \ with a weapon attack (included in the attacks)."
-  "name": "Gruumsh's Fury"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 11 (dice: 1d6 + 3|avg (1d6 + 3) plus\
-    \ dice: 1d8|avg (1d8)) piercing damage, or 12 (dice: 2d8 + 3|avg (2d8 +\
-    \ 3)) piercing damage if used with two hands to make a melee attack."
-  "name": "Spear"
-"source":
-- "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "EGW"
-- "IDRotF"
-"image": "/compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.png"
-aliases: ["Orc Eye of Gruumsh"]
+statblock: inline
 ---
 # Orc Eye of Gruumsh
 *Source: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
@@ -112,43 +55,62 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 
 ## Stat Block
 
-```ad-statblock
-title: Orc Eye of Gruumsh
-![[/6. Mechanics/Bestiary/Humanoid/Token/orc-eye-of-gruumsh.png#token]]
-*Medium humanoid(orc), Chaotic Evil*
-
-- **Armor Class** 16 ([[/6. Mechanics/Items/ring-mail.md\|ring mail]], [[/6. Mechanics/Items/shield.md\|shield]])
-- **Hit Points** `dice: 6d8 + 18|text(45)` (6d8 + 18) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|12 (+1)|17 (+3)| 9 (-1)|13 (+1)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Intimidation +3, Religion +1
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** Common, Orc
-- **Challenge** 2
-
-## Traits
-
-***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
-
-***Gruumsh's Fury.*** The orc deals an extra 4 (`dice: 1d8` (`1d8`)) damage when it hits with a weapon attack (included in the attacks).
-
-***Spellcasting.*** The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, `dice: d20+3` (+3 to hit) with spell attacks). The orc has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/guidance.md\|guidance]], [[/6. Mechanics/Spells/resistance.md\|resistance]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/bless.md\|bless]], [[/6. Mechanics/Spells/command.md\|command]]
-
-**2nd level (2 2nd-level slots)**: [[/6. Mechanics/Spells/augury.md\|augury]], [[/6. Mechanics/Spells/spiritual-weapon.md\|spiritual weapon]] (spear)
-
-## Actions
-
-***Spear.*** *Melee or Ranged Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: 11 (`dice: 1d6 + 3` (`1d6 + 3`) plus `dice: 1d8` (`1d8`)) piercing damage, or 12 (`dice: 2d8 + 3` (`2d8 + 3`)) piercing damage if used with two hands to make a melee attack.
+```statblock
+"name": "Orc Eye of Gruumsh"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "orc"
+"alignment": "Chaotic Evil"
+"ac": !!int "16"
+"hp": !!int "45"
+"hit_dice": "6d8 + 18"
+"stats":
+- !!int "16"
+- !!int "12"
+- !!int "17"
+- !!int "9"
+- !!int "13"
+- !!int "12"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Intimidation": !!int "3"
+  "Religion": !!int "1"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "Common, Orc"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
+    \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The orc has\
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Guidance.md|guidance]],\
+    \ [[/6. Mechanics/Spells/Resistance.md|resistance]], [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/Bless.md|bless]], [[/6. Mechanics/Spells/Command.md|command]]\n\
+    \n2nd level (2 2nd-level slots): [[/6. Mechanics/Spells/Augury.md|augury]], [spiritual\
+    \ weapon](/compendium/spells/spiritual-weapon.md) (spear)"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+    \ that it can see."
+  "name": "Aggressive"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
+    \ with a weapon attack (included in the attacks)."
+  "name": "Gruumsh's Fury"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 11 (dice: 1d6 + 3|avg (1d6 + 3) plus\
+    \ dice: 1d8|avg (1d8)) piercing damage, or 12 (dice: 2d8 + 3|avg (2d8 +\
+    \ 3)) piercing damage if used with two hands to make a melee attack."
+  "name": "Spear"
+"source":
+- "MM"
+- "PotA"
+- "SKT"
+- "TftYP"
+- "EGW"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Humanoid/token/orc-eye-of-gruumsh.png"
 ```
 ^statblock
 

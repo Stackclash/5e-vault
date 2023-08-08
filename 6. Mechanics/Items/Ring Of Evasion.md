@@ -12,10 +12,10 @@ aliases: ["Ring of Evasion"]
 # Ring of Evasion
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-This ring has 3 charges, and it regains `dice: 1d3\|avg` (`1d3`) expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
+This ring has 3 charges, and it regains `dice: 1d3` (`1d3`) expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
 
 *Source: Dungeon Master's Guide p. 191*

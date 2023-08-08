@@ -20,10 +20,10 @@ aliases: ["Shocking Grasp"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes `dice: 1d8\|avg` (`1d8`) lightning damage, and it can't take reactions until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes `dice: 1d8` (`1d8`) lightning damage, and it can't take reactions until the start of its next turn.
 
-The spell's damage increases by `dice: 1d8\|avg` (`1d8`) when you reach 5th level (`dice: 2d8\|avg` (`2d8`)), 11th level (`dice: 3d8\|avg` (`3d8`)), and 17th level (`dice: 4d8\|avg` (`4d8`)).
+The spell's damage increases by `dice: 1d8` (`1d8`) when you reach 5th level (`dice: 2d8` (`2d8`)), 11th level (`dice: 3d8` (`3d8`)), and 17th level (`dice: 4d8` (`4d8`)).
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 275

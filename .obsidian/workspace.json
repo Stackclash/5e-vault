@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b44dc28e746407d",
+        "id": "7bf786db1b93ab98",
         "type": "tabs",
         "children": [
           {
-            "id": "932c675bcb144525",
+            "id": "a4d00abab4816568",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. World Almanac/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Strahd",
+                "query": "currency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,33 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7cbb819a02298aa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "14ea1b8ca92099aa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3a6d3284a5e0bd06",
             "type": "leaf",
             "state": {
@@ -112,41 +90,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "68b981e6bc0381e6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6b18240b54f9b88",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a4de7ccdfda28cc",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "83071d1841a289c0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "f1ee5dd7c60cf8e5",
@@ -180,59 +125,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da6520ec1fb0cefb",
+  "active": "a4d00abab4816568",
   "lastOpenFiles": [
-    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
-    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-5th Level Spell (TCE).md",
-    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-7th Level Spell (TCE).md",
-    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-6th Level Spell (TCE).md",
-    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-8th Level Spell (TCE).md",
+    "4. Session Journal/Curse of Strahd Campaign/23-08-05 Session 3.md",
+    "4. Session Journal/Curse of Strahd Campaign/23-07-08 Session 1.md",
+    "4. Session Journal/Curse of Strahd Campaign/23-06-24 Session 0.md",
+    "6. Mechanics/Items/Items.md",
+    "6. Mechanics/Bestiary/Undead/Death Knight.md",
+    "6. Mechanics/Bestiary/Undead/Deathlock (MPMM).md",
+    "6. Mechanics/Bestiary/Undead/Demilich.md",
+    "6. Mechanics/Bestiary/Undead/Undead.md",
     "6. Mechanics/Bestiary/Aberration/Aberration.md",
-    "6. Mechanics/Bestiary/Aberration/Aberrant Spirit-9th Level Spell (TCE).md",
-    "6. Mechanics/Bestiary/Aberration/Aboleth.md",
-    "6. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "6. Mechanics/Bestiary/Aberration/Beholder.md",
-    "6. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Blue Slaad.md",
-    "6. Mechanics/Bestiary/Aberration/Choker (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Chuul.md",
-    "6. Mechanics/Bestiary/Aberration/Cloaker.md",
-    "6. Mechanics/Bestiary/Aberration/Cranium Rat (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Death Kiss (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Death Slaad.md",
-    "6. Mechanics/Bestiary/Aberration/Derro (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Derro Savant (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Flumph.md",
-    "6. Mechanics/Bestiary/Aberration/Gauth (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Gibbering Mouther.md",
-    "6. Mechanics/Bestiary/Aberration/Gazer (MPMM).md",
-    "6. Mechanics/Bestiary/Aberration/Gray Slaad.md",
-    "6. Mechanics/Bestiary/Aberration",
-    "6. Mechanics/Bestiary/Beast",
-    "6. Mechanics/Bestiary/Celestial",
-    "6. Mechanics/Bestiary/Construct",
-    "6. Mechanics/Bestiary/Dragon",
-    "6. Mechanics/Bestiary/Elemental",
-    "6. Mechanics/Bestiary/Fey",
-    "6. Mechanics/Bestiary/Fiend",
-    "6. Mechanics/Bestiary/Giant",
-    "6. Mechanics/Bestiary/Humanoid",
-    "6. Mechanics/Deities/img/scag-symbol-of-helm.jpg",
-    "6. Mechanics/Deities/img/scag-symbol-of-gond.jpg",
-    "6. Mechanics/Deities/img/scag-symbol-of-eldath.jpg",
-    "6. Mechanics/Deities/img/erlw-the-sovereign-host.png",
-    "6. Mechanics/Bestiary/Npc/token/stanimir.png",
-    "6. Mechanics/Bestiary/Npc/token/sir-godfrey-gwilym.png",
-    "6. Mechanics/Bestiary/Npc/token/rosavalda-rose-durst.png",
-    "6. Mechanics/Bestiary/Npc/token/patrina-velikovna.png",
-    "6. Mechanics/Bestiary/Npc/token/otto-belview.png",
-    "6. Mechanics/Bestiary/Npc/token/morgantha.png"
+    "6. Mechanics/Bestiary/Celestial/Celestial.md",
+    "6. Mechanics/Bestiary/Celestial/Solar.md",
+    "6. Mechanics/Bestiary/Celestial/Empyrean.md",
+    "6. Mechanics/Bestiary/Celestial/Deva.md",
+    "z_Templates/Import 5eTools Files.md",
+    "6. Mechanics/Tables/Art Objects.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "6. Mechanics/Spells/Acid Splash.md",
+    "6. Mechanics/Spells/Absorb Elements (XGE).md",
+    "6. Mechanics/Spells/Abi Dalzims Horrid Wilting (XGE).md",
+    "6. Mechanics/Tables/Names Tiefling.md",
+    "6. Mechanics/Tables/Personality Traits.md",
+    "6. Mechanics/Tables/Names Dragonborn.md",
+    "6. Mechanics/Bestiary/Undead/token/zombie.png",
+    "6. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
+    "6. Mechanics/Bestiary/Undead/token/zombie-clot.png",
+    "6. Mechanics/Bestiary/Undead/token/wraith.png",
+    "6. Mechanics/Bestiary/Undead/token/will-o-wisp.png",
+    "6. Mechanics/Bestiary/Undead/token/wight.png",
+    "6. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png",
+    "6. Mechanics/Bestiary/Undead/token/vampiric-mist.png",
+    "6. Mechanics/Bestiary/Undead/token/vampiric-mind-flayer.png",
+    "6. Mechanics/Bestiary/Undead/token/vampire.png",
+    "6. Mechanics/Bestiary/Undead/token",
+    "6. Mechanics/Bestiary/Undead/img",
+    "6. Mechanics/Bestiary/Plant/token",
+    "6. Mechanics/Bestiary/Plant/img",
+    "6. Mechanics/Bestiary/Ooze/token",
+    "6. Mechanics/Bestiary/Ooze/img",
+    "6. Mechanics/Bestiary/Npc/token",
+    "6. Mechanics/Bestiary/Npc/img",
+    "6. Mechanics/Bestiary/Monstrosity/token",
+    "6. Mechanics/Bestiary/Monstrosity/img",
+    "Importing 5eTools Data.md",
+    "2001-3000.md"
   ]
 }

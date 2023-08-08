@@ -17,10 +17,10 @@ aliases: ["Prayer of Healing"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-Up to six creatures of your choice that you can see within range each regain hit points equal to `dice: 2d8\|avg` (`2d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Up to six creatures of your choice that you can see within range each regain hit points equal to `dice: 2d8` (`2d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 267

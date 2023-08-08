@@ -6,82 +6,7 @@ tags:
 - monster/environment/coastal
 - monster/size/large
 - monster/type/elemental
-statblock: true
-statblock-link: "#^statblock"
-"name": "Djinni"
-"size": "Large"
-"type": "elemental"
-"alignment": "Chaotic Good"
-"ac": !!int "17"
-"hp": !!int "161"
-"hit_dice": "14d10 + 84"
-"stats":
-- !!int "21"
-- !!int "15"
-- !!int "22"
-- !!int "15"
-- !!int "16"
-- !!int "20"
-"speed": "walk 30 ft., fly 90 ft."
-"saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-"damage_immunities": "lightning, thunder"
-"senses": "darkvision 120 ft., passive Perception 13"
-"languages": "Auran"
-"cr": "11"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
-    \ dice: d20+9 (+9 to hit) with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]],\
-    \ [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]]\n\
-    \n1/day each: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]]\
-    \ ([[/6. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] only), [[/6. Mechanics/Spells/creation.md\|creation]],\
-    \ [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]],\
-    \ [[/6. Mechanics/Spells/major-image.md\|major image]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]]\n\
-    \n3/day each: [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]]\
-    \ (can create wine instead of water), [[/6. Mechanics/Spells/tongues.md\|tongues]],\
-    \ [[/6. Mechanics/Spells/wind-walk.md\|wind walk]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
-    \ behind only equipment the djinni was wearing or carrying."
-  "name": "Elemental Demise"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The djinni makes three scimitar attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 1d6|avg (1d6)\
-    \ lightning or thunder damage (djinni's choice)."
-  "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
-    \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\
-    \ long as the djinni maintains [[6. Mechanics/Rules/status.md#concentration\|concentration]]\
-    \ (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any creature but the djinni that enters the whirlwind must succeed on a DC 18\
-    \ Strength saving throw or be [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]\
-    \ by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures\
-    \ [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by the whirlwind move\
-    \ with it. The whirlwind ends if the djinni loses sight of it.\n\nA creature can\
-    \ use its action to free a creature [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]\
-    \ by the whirlwind, including itself, by succeeding on a DC 18 Strength check.\
-    \ If the check succeeds, the creature is no longer [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]\
-    \ and moves to the nearest space outside the whirlwind."
-  "name": "Create Whirlwind"
-"source":
-- "MM"
-- "PotA"
-- "GoS"
-- "TCE"
-- "CM"
-- "JttRC"
-"image": "/compendium/bestiary/elemental/token/djinni.png"
-aliases: ["Djinni"]
+statblock: inline
 ---
 # Djinni
 *Source: Monster Manual p. 144, Princes of the Apocalypse, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
@@ -138,48 +63,80 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 ## Stat Block
 
-```ad-statblock
-title: Djinni
-![[/6. Mechanics/Bestiary/Elemental/Token/djinni.png#token]]
-*Large elemental, Chaotic Good*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 14d10 + 84|text(161)` (14d10 + 84) 
-- **Speed** walk 30 ft., fly 90 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +6, Wisdom +7, Charisma +9
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 13
-- **Damage Immunities** lightning, thunder
-- **Languages** Auran
-- **Challenge** 11
-
-## Traits
-
-***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
-
-***Innate Spellcasting.*** The djinni's innate spellcasting ability is Charisma (spell save DC 17, `dice: d20+9` (+9 to hit) with spell attacks). It can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]]
-
-**1/day each**: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] ([[/6. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] only), [[/6. Mechanics/Spells/creation.md\|creation]], [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/major-image.md\|major image]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]]
-
-**3/day each**: [[/6. Mechanics/Spells/create-food-and-water.md\|create food and water]] (can create wine instead of water), [[/6. Mechanics/Spells/tongues.md\|tongues]], [[/6. Mechanics/Spells/wind-walk.md\|wind walk]]
-
-## Actions
-
-***Multiattack.*** The djinni makes three scimitar attacks.
-
-***Scimitar.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 5` (`2d6 + 5`) slashing damage plus `dice: 1d6` (`1d6`) lightning or thunder damage (djinni's choice).
-
-***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains [[6. Mechanics/Rules/status.md#concentration\|concentration]] (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
-
-A creature can use its action to free a creature [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] and moves to the nearest space outside the whirlwind.
+```statblock
+"name": "Djinni"
+"size": "Large"
+"type": "elemental"
+"alignment": "Chaotic Good"
+"ac": !!int "17"
+"hp": !!int "161"
+"hit_dice": "14d10 + 84"
+"stats":
+- !!int "21"
+- !!int "15"
+- !!int "22"
+- !!int "15"
+- !!int "16"
+- !!int "20"
+"speed": "walk 30 ft., fly 90 ft."
+"saves":
+  "Charisma": !!int "9"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+"damage_immunities": "lightning, thunder"
+"senses": "darkvision 120 ft., passive Perception 13"
+"languages": "Auran"
+"cr": "11"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
+    \ dice: d20+9 (+9 to hit) with spell attacks). It can innately cast the following\
+    \ spells, requiring no material components:\n\nAt will: [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [[/6. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
+    \n1/day each: [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+    \ ([[/6. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]] only), [[/6. Mechanics/Spells/Creation.md|creation]],\
+    \ [[/6. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/6. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[/6. Mechanics/Spells/Major Image.md|major image]], [[/6. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
+    \n3/day each: [[/6. Mechanics/Spells/Create Food And Water.md|create food and water]]\
+    \ (can create wine instead of water), [[/6. Mechanics/Spells/Tongues.md|tongues]],\
+    \ [[/6. Mechanics/Spells/Wind Walk.md|wind walk]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
+    \ behind only equipment the djinni was wearing or carrying."
+  "name": "Elemental Demise"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The djinni makes three scimitar attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 1d6|avg (1d6)\
+    \ lightning or thunder damage (djinni's choice)."
+  "name": "Scimitar"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
+    \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\
+    \ long as the djinni maintains [[6. Mechanics/Rules/Status.md#concentration|concentration]]\
+    \ (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any creature but the djinni that enters the whirlwind must succeed on a DC 18\
+    \ Strength saving throw or be [[6. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures\
+    \ [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] by the whirlwind move\
+    \ with it. The whirlwind ends if the djinni loses sight of it.\n\nA creature can\
+    \ use its action to free a creature [[6. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by the whirlwind, including itself, by succeeding on a DC 18 Strength check.\
+    \ If the check succeeds, the creature is no longer [[6. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ and moves to the nearest space outside the whirlwind."
+  "name": "Create Whirlwind"
+"source":
+- "MM"
+- "PotA"
+- "GoS"
+- "TCE"
+- "CM"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Elemental/token/djinni.png"
 ```
 ^statblock
 

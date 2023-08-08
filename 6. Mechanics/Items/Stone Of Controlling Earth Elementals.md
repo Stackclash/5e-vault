@@ -14,6 +14,6 @@ aliases: ["Stone of Controlling Earth Elementals"]
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
-If the stone is touching the ground, you can use an action to speak its command word and summon an [[/6. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]], as if you had cast the [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
+If the stone is touching the ground, you can use an action to speak its command word and summon an [[/6. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]], as if you had cast the [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
 
 *Source: Dungeon Master's Guide p. 205*

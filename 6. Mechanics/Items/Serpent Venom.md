@@ -10,10 +10,10 @@ aliases: ["Serpent Venom"]
 # Serpent Venom
 *Adventuring Gear, poison*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Poison\|Poison]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Poison|Poison]]
 - **Cost**: 200 gp
 - **Weight**: ⏤
 
-This poison must be harvested from a dead or [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] [[/6. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|giant poisonous snake]]. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (`dice: 3d6\|avg` (`3d6`)) poison damage on a failed save, or half as much damage on a successful one.
+This poison must be harvested from a dead or [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] [[/6. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md|giant poisonous snake]]. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (`dice: 3d6` (`3d6`)) poison damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 258*

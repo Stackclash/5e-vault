@@ -14,7 +14,7 @@ aliases: ["Censer of Controlling Air Elementals"]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-While incense is burning in this censer, you can use an action to speak the censer's command word and summon an [[/6. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]], as if you had cast the [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] spell. The censer can't be used this way again until the next dawn.
+While incense is burning in this censer, you can use an action to speak the censer's command word and summon an [[/6. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]], as if you had cast the [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] spell. The censer can't be used this way again until the next dawn.
 
 This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.
 

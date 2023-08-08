@@ -14,11 +14,11 @@ aliases: ["Scholar's Pack"]
 
 Includes:
 
-- a [[/6. Mechanics/Items/Backpack.md\|backpack]]  
-- a [[/6. Mechanics/Items/Book.md\|book]] of lore  
-- a [[/6. Mechanics/Items/Ink-1 Ounce Bottle.md\|bottle of ink]]  
-- an [[/6. Mechanics/Items/Ink Pen.md\|ink pen]]  
-- 10 [[/6. Mechanics/Items/Parchment One Sheet.md\|sheets of parchment]]  
+- a [[/6. Mechanics/Items/Backpack.md|backpack]]  
+- a [[/6. Mechanics/Items/Book.md|book]] of lore  
+- a [[/6. Mechanics/Items/Ink-1 Ounce Bottle.md|bottle of ink]]  
+- an [[/6. Mechanics/Items/Ink Pen.md|ink pen]]  
+- 10 [[/6. Mechanics/Items/Parchment One Sheet.md|sheets of parchment]]  
 - a little bag of sand  
 - a small knife.  
 

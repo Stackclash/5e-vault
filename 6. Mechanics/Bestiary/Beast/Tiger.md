@@ -7,8 +7,12 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Tiger
+*Source: Monster Manual p. 339, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Mythic Odysseys of Theros*  
+
+```statblock
 "name": "Tiger"
 "size": "Large"
 "type": "beast"
@@ -32,14 +36,14 @@ statblock-link: "#^statblock"
 "cr": "1"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tiger has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The tiger has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 13 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ If the target is [[6. Mechanics/Rules/conditions.md#prone\|prone]], the tiger can\
+    \ 13 Strength saving throw or be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ If the target is [[6. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -58,43 +62,7 @@ statblock-link: "#^statblock"
 - "WDH"
 - "GoS"
 - "MOT"
-"image": "/compendium/bestiary/beast/token/tiger.png"
-aliases: ["Tiger"]
----
-# Tiger
-*Source: Monster Manual p. 339, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Mythic Odysseys of Theros*  
-
-```ad-statblock
-title: Tiger
-![[/6. Mechanics/Bestiary/Beast/Token/tiger.png#token]]
-*Large beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** `dice: 5d10 + 10|text(37)` (5d10 + 10) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3, Stealth +6
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 1
-
-## Traits
-
-***Keen Smell.*** The tiger has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on smell.
-
-***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. If the target is [[6. Mechanics/Rules/conditions.md#prone\|prone]], the tiger can make one bite attack against it as a bonus action.
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 3` (`1d10 + 3`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 3` (`1d8 + 3`) slashing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/tiger.png"
 ```
 ^statblock
 

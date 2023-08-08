@@ -32,11 +32,11 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] condition on yourself.
+You have advantage on saving throws you make to avoid or end the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] condition on yourself.
 
 ### Keen Senses
 
-You have proficiency in the [[6. Mechanics/Rules/skills.md#Perception\|Perception]] skill.
+You have proficiency in the [[6. Mechanics/Rules/Skills.md#Perception|Perception]] skill.
 
 ### Necrotic Resistance
 

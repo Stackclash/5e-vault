@@ -8,9 +8,9 @@ aliases: ["Sailor"]
 # Sailor
 *Source: Player's Handbook p. 139*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Athletics\|Athletics]], [[6. Mechanics/Rules/skills.md#Perception\|Perception]]  
-- **Tool Proficiencies.** [[/6. Mechanics/Items/navigators-tools.md\|Navigator's tools]], vehicles (water)  
-- **Equipment.** A belaying pin ([[/6. Mechanics/Items/club.md\|club]]), [[/6. Mechanics/Items/silk-rope-50-feet.md\|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[/6. Mechanics/Items/trinket.md\|trinket]] on the Trinkets table in chapter 5), a set of [[/6. Mechanics/Items/common-clothes.md\|common clothes]], and a belt [[/6. Mechanics/Items/pouch.md\|pouch]] containing 10 gp  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Athletics|Athletics]], [[6. Mechanics/Rules/Skills.md#Perception|Perception]]  
+- **Tool Proficiencies.** [[/6. Mechanics/Items/Navigators Tools.md|Navigator's tools]], vehicles (water)  
+- **Equipment.** A belaying pin ([[/6. Mechanics/Items/Club.md|club]]), [[/6. Mechanics/Items/Silk Rope-50 Feet.md|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[/6. Mechanics/Items/Trinket.md|trinket]] on the Trinkets table in chapter 5), a set of [[/6. Mechanics/Items/Common Clothes.md|common clothes]], and a belt [[/6. Mechanics/Items/Pouch.md|pouch]] containing 10 gp  
 
 You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
 

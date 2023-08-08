@@ -25,11 +25,11 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[/6. Mechanics/Spells/dissonant-whispers.md\|dissonant whispers]], [[/6. Mechanics/Spells/tashas-hideous-laughter.md\|Tasha's hideous laughter]] |
-| 2nd | [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/phantasmal-force.md\|phantasmal force]] |
-| 3rd | [[/6. Mechanics/Spells/clairvoyance.md\|clairvoyance]], [[/6. Mechanics/Spells/sending.md\|sending]] |
-| 4th | [[/6. Mechanics/Spells/dominate-beast.md\|dominate beast]], [[/6. Mechanics/Spells/evards-black-tentacles.md\|Evard's black tentacles]] |
-| 5th | [[/6. Mechanics/Spells/dominate-person.md\|dominate person]], [[/6. Mechanics/Spells/telekinesis.md\|telekinesis]] |
+| 1st | [[/6. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[/6. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]] |
+| 2nd | [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/6. Mechanics/Spells/Phantasmal Force.md|phantasmal force]] |
+| 3rd | [[/6. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[/6. Mechanics/Spells/Sending.md|sending]] |
+| 4th | [[/6. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[/6. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]] |
+| 5th | [[/6. Mechanics/Spells/Dominate Person.md|dominate person]], [[/6. Mechanics/Spells/Telekinesis.md|telekinesis]] |
 ^great-old-one-expanded-spells
 
 ### Awakened Mind (Level 1)
@@ -48,6 +48,6 @@ Starting at 10th level, your thoughts can't be read by telepathy or other means 
 
 ### Create Thrall (Level 14)
 
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] humanoid. That creature is then [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by you until a [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] spell is cast on it, the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] humanoid. That creature is then [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] by you until a [[/6. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on it, the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] condition is removed from it, or you use this feature again.
 
-You can communicate telepathically with the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] creature as long as the two of you are on the same plane of existence.
+You can communicate telepathically with the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] creature as long as the two of you are on the same plane of existence.

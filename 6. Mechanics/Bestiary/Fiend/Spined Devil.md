@@ -5,73 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/small
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Spined Devil"
-"size": "Small"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"hp": !!int "22"
-"hit_dice": "5d6 + 5"
-"stats":
-- !!int "10"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "14"
-- !!int "8"
-"speed": "walk 20 ft., fly 40 ft."
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 12"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
-  "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil doesn't provoke an opportunity attack when it flies out of an\
-    \ enemy's reach."
-  "name": "Flyby"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has twelve tail spines. Used spines regrow by the time the devil\
-    \ finishes a long rest."
-  "name": "Limited Spines"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes two attacks: one with its bite and one with its fork or\
-    \ two with its tail spines."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4|avg (2d4) slashing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage."
-  "name": "Fork"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/80 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 1d6|avg\
-    \ (1d6) fire damage."
-  "name": "Tail Spine"
-"source":
-- "MM"
-- "ToA"
-- "WDH"
-- "BGDIA"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/spined-devil.png"
-aliases: ["Spined Devil"]
+statblock: inline
 ---
 # Spined Devil
 *Source: Monster Manual p. 78, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault*  
@@ -180,7 +114,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -206,47 +140,70 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Spined Devil
-![[/6. Mechanics/Bestiary/Fiend/Token/spined-devil.png#token]]
-*Small fiend(devil), Lawful Evil*
-
-- **Armor Class** 13 (natural armor)
-- **Hit Points** `dice: 5d6 + 5|text(22)` (5d6 + 5) 
-- **Speed** walk 20 ft., fly 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 2
-
-## Traits
-
-***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
-
-***Flyby.*** The devil doesn't provoke an opportunity attack when it flies out of an enemy's reach.
-
-***Limited Spines.*** The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.
-
-***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 2d4` (`2d4`) slashing damage.
-
-***Fork.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d6` (`1d6`) piercing damage.
-
-***Tail Spine.*** *Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), range 20/80 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) piercing damage plus `dice: 1d6` (`1d6`) fire damage.
+```statblock
+"name": "Spined Devil"
+"size": "Small"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "22"
+"hit_dice": "5d6 + 5"
+"stats":
+- !!int "10"
+- !!int "15"
+- !!int "12"
+- !!int "11"
+- !!int "14"
+- !!int "8"
+"speed": "walk 20 ft., fly 40 ft."
+"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
+  \ that aren't silvered"
+"damage_immunities": "fire, poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "Infernal, telepathy 120 ft."
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Magical darkness doesn't impede the devil's darkvision."
+  "name": "Devil's Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil doesn't provoke an opportunity attack when it flies out of an\
+    \ enemy's reach."
+  "name": "Flyby"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil has twelve tail spines. Used spines regrow by the time the devil\
+    \ finishes a long rest."
+  "name": "Limited Spines"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil makes two attacks: one with its bite and one with its fork or\
+    \ two with its tail spines."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4|avg (2d4) slashing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6|avg (1d6) piercing damage."
+  "name": "Fork"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/80 ft., one\
+    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 1d6|avg\
+    \ (1d6) fire damage."
+  "name": "Tail Spine"
+"source":
+- "MM"
+- "ToA"
+- "WDH"
+- "BGDIA"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/spined-devil.png"
 ```
 ^statblock

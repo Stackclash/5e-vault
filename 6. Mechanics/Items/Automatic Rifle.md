@@ -16,7 +16,7 @@ aliases: ["Automatic Rifle"]
 
 - **Damage**: 2d8 P
 - **Range**: 80/240
-- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[6. Mechanics/Rules/item-properties.md#Burst%20Fire\|Burst Fire]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]], [[6. Mechanics/Rules/item-properties.md#Reload\|Reload]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[6. Mechanics/Rules/Item Properties.md#Burst%20Fire|Burst Fire]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[6. Mechanics/Rules/Item Properties.md#Reload|Reload]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
 - **Cost**: ⏤
 - **Weight**: 8.0 lbs.
 

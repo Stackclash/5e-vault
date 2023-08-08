@@ -12,8 +12,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Gertruda
+*Source: Curse of Strahd p. 68, Derived from Commoner (MM)*  
+
+```statblock
 "name": "Gertruda"
 "size": "Medium"
 "type": "humanoid"
@@ -40,35 +44,7 @@ statblock-link: "#^statblock"
   "name": "Club"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/npc/token/gertruda.png"
-aliases: ["Gertruda"]
----
-# Gertruda
-*Source: Curse of Strahd p. 68, Derived from Commoner (MM)*  
-
-```ad-statblock
-title: Gertruda
-![[/6. Mechanics/Bestiary/Npc/Token/gertruda.png#token]]
-*Medium humanoid(human), Neutral Good*
-
-- **Armor Class** 10 
-- **Hit Points** `dice: 1d8|text(4)` (1d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 0
-
-## Actions
-
-***Club.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d4` (`1d4`) bludgeoning damage.
+"image": "6. Mechanics/Bestiary/Npc/token/gertruda.png"
 ```
 ^statblock
 

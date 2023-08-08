@@ -7,8 +7,12 @@ tags:
 - monster/environment/hill
 - monster/size/small
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Piccolo
+*Source: Curse of Strahd p. 118, Derived from Baboon (MM)*  
+
+```statblock
 "name": "Piccolo"
 "size": "Small"
 "type": "beast"
@@ -31,7 +35,7 @@ statblock-link: "#^statblock"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "Piccolo has advantage on an attack roll against a creature if at least\
     \ one of Piccolo's allies is within 5 feet of the creature and the ally isn't\
-    \ [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
+    \ [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -40,39 +44,7 @@ statblock-link: "#^statblock"
   "name": "Bite"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/npc/token/piccolo.png"
-aliases: ["Piccolo"]
----
-# Piccolo
-*Source: Curse of Strahd p. 118, Derived from Baboon (MM)*  
-
-```ad-statblock
-title: Piccolo
-![[/6. Mechanics/Bestiary/Npc/Token/piccolo.png#token]]
-*Small beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** `dice: 1d6|text(3)` (1d6) 
-- **Speed** walk 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 11
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Pack Tactics.*** Piccolo has advantage on an attack roll against a creature if at least one of Piccolo's allies is within 5 feet of the creature and the ally isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+1` (+1 to hit), reach 5 ft., one target. Hit: `dice: 1d4 - 1|avg` (`1d4 - 1`) piercing damage.
+"image": "6. Mechanics/Bestiary/Npc/token/piccolo.png"
 ```
 ^statblock
 

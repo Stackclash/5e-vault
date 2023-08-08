@@ -12,10 +12,10 @@ aliases: ["Crystal Ball"]
 # Crystal Ball
 *Wondrous Item, major, very rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
-This crystal ball is about 6 inches in diameter. While touching it, you can cast the [[/6. Mechanics/Spells/scrying.md\|scrying]] spell (save DC 17) with it.
+This crystal ball is about 6 inches in diameter. While touching it, you can cast the [[/6. Mechanics/Spells/Scrying.md|scrying]] spell (save DC 17) with it.
 
 *Source: Dungeon Master's Guide p. 159*

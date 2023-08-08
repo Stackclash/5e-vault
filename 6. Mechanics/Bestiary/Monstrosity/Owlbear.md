@@ -6,65 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
-"name": "Owlbear"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "13"
-"hp": !!int "59"
-"hit_dice": "7d10 + 21"
-"stats":
-- !!int "20"
-- !!int "12"
-- !!int "17"
-- !!int "3"
-- !!int "12"
-- !!int "7"
-"speed": "walk 40 ft."
-"skillsaves":
-  "Perception": !!int "3"
-"senses": "darkvision 60 ft., passive Perception 13"
-"languages": ""
-"cr": "3"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owlbear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ checks that rely on sight or smell."
-  "name": "Keen Sight and Smell"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
-  "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
-  "name": "Claws"
-"source":
-- "MM"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SDW"
-- "RMBRE"
-- "IMR"
-- "EGW"
-- "IDRotF"
-- "WBtW"
-- "CRCotN"
-- "DoSI"
-"image": "/compendium/bestiary/monstrosity/token/owlbear.png"
-aliases: ["Owlbear"]
+statblock: inline
 ---
 # Owlbear
 *Source: Monster Manual p. 249, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, The Lost Dungeon of Rickedness: Big Rick Energy, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Dragons of Stormwreck Isle*  
@@ -100,37 +42,63 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 
 ## Stat Block
 
-```ad-statblock
-title: Owlbear
-![[/6. Mechanics/Bestiary/Monstrosity/Token/owlbear.png#token]]
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 13 (natural armor)
-- **Hit Points** `dice: 7d10 + 21|text(59)` (7d10 + 21) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 3
-
-## Traits
-
-***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight or smell.
-
-## Actions
-
-***Multiattack.*** The owlbear makes two attacks: one with its beak and one with its claws.
-
-***Beak.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one creature. Hit: `dice: 1d10 + 5` (`1d10 + 5`) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 5` (`2d8 + 5`) slashing damage.
+```statblock
+"name": "Owlbear"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "59"
+"hit_dice": "7d10 + 21"
+"stats":
+- !!int "20"
+- !!int "12"
+- !!int "17"
+- !!int "3"
+- !!int "12"
+- !!int "7"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Perception": !!int "3"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": ""
+"cr": "3"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The owlbear has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ checks that rely on sight or smell."
+  "name": "Keen Sight and Smell"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
+  "name": "Beak"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+  "name": "Claws"
+"source":
+- "MM"
+- "LMoP"
+- "PotA"
+- "SKT"
+- "TftYP"
+- "WDH"
+- "WDMM"
+- "GoS"
+- "DIP"
+- "SDW"
+- "RMBRE"
+- "IMR"
+- "EGW"
+- "IDRotF"
+- "WBtW"
+- "CRCotN"
+- "DoSI"
+"image": "6. Mechanics/Bestiary/Monstrosity/token/owlbear.png"
 ```
 ^statblock
 

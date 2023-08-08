@@ -14,15 +14,15 @@ aliases: ["Priest's Pack"]
 
 Includes:
 
-- a [[/6. Mechanics/Items/Backpack.md\|backpack]]  
-- a [[/6. Mechanics/Items/Blanket.md\|blanket]]  
-- 10 [[/6. Mechanics/Items/Candle.md\|candles]]  
-- a [[/6. Mechanics/Items/tinderbox.md\|tinderbox]]  
+- a [[/6. Mechanics/Items/Backpack.md|backpack]]  
+- a [[/6. Mechanics/Items/Blanket.md|blanket]]  
+- 10 [[/6. Mechanics/Items/Candle.md|candles]]  
+- a [[/6. Mechanics/Items/Tinderbox.md|tinderbox]]  
 - an alms box  
 - 2 blocks of incense  
 - a censer  
 - vestments  
-- 2 days of [[/6. Mechanics/Items/rations-1-day.md\|rations]]  
-- a [[/6. Mechanics/Items/waterskin.md\|waterskin]].  
+- 2 days of [[/6. Mechanics/Items/Rations-1 Day.md|rations]]  
+- a [[/6. Mechanics/Items/Waterskin.md|waterskin]].  
 
 *Source: Player's Handbook p. 151*

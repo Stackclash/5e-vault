@@ -5,42 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Warhorse Skeleton"
-"size": "Large"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"hp": !!int "22"
-"hit_dice": "3d10 + 6"
-"stats":
-- !!int "18"
-- !!int "12"
-- !!int "15"
-- !!int "2"
-- !!int "8"
-- !!int "5"
-"speed": "walk 60 ft."
-"damage_vulnerabilities": "bludgeoning"
-"damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 9"
-"languages": ""
-"cr": "1/2"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
-  "name": "Hooves"
-"source":
-- "MM"
-- "CoS"
-- "SKT"
-- "CM"
-- "DSotDQ"
-"image": "/compendium/bestiary/undead/token/warhorse-skeleton.png"
-aliases: ["Warhorse Skeleton"]
+statblock: inline
 ---
 # Warhorse Skeleton
 *Source: Monster Manual p. 273, Curse of Strahd, Storm King's Thunder, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  
@@ -73,31 +38,39 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ## Stat Block
 
-```ad-statblock
-title: Warhorse Skeleton
-![[/6. Mechanics/Bestiary/Undead/Token/warhorse-skeleton.png#token]]
-*Large undead, Lawful Evil*
-
-- **Armor Class** 13 (barding scraps)
-- **Hit Points** `dice: 3d10 + 6|text(22)` (3d10 + 6) 
-- **Speed** walk 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|12 (+1)|15 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Damage Vulnerabilities** bludgeoning
-- **Damage Immunities** poison
-- **Condition Immunities** exhaustion, poisoned
-- **Languages** —
-- **Challenge** 1/2
-
-## Actions
-
-***Hooves.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) bludgeoning damage.
+```statblock
+"name": "Warhorse Skeleton"
+"size": "Large"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "22"
+"hit_dice": "3d10 + 6"
+"stats":
+- !!int "18"
+- !!int "12"
+- !!int "15"
+- !!int "2"
+- !!int "8"
+- !!int "5"
+"speed": "walk 60 ft."
+"damage_vulnerabilities": "bludgeoning"
+"damage_immunities": "poison"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "darkvision 60 ft., passive Perception 9"
+"languages": ""
+"cr": "1/2"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+  "name": "Hooves"
+"source":
+- "MM"
+- "CoS"
+- "SKT"
+- "CM"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png"
 ```
 ^statblock

@@ -23,7 +23,7 @@ Druids of this circle have a complex relationship with the undead. Unlike most o
 
 ### Circle Spells (Level 2)
 
-Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the [[/6. Mechanics/Spells/chill-touch.md\|chill touch]] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
+Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the [[/6. Mechanics/Spells/Chill Touch.md|chill touch]] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -31,28 +31,28 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/gentle-repose.md\|gentle repose]] |
-| 5th | [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]] |
-| 7th | [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/confusion.md\|confusion]] |
-| 9th | [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]], [[/6. Mechanics/Spells/contagion.md\|contagion]] |
+| 3rd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/Gentle Repose.md|gentle repose]] |
+| 5th | [[/6. Mechanics/Spells/Animate Dead.md|animate dead]], [[/6. Mechanics/Spells/Gaseous Form.md|gaseous form]] |
+| 7th | [[/6. Mechanics/Spells/Blight.md|blight]], [[/6. Mechanics/Spells/Confusion.md|confusion]] |
+| 9th | [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/6. Mechanics/Spells/Contagion.md|contagion]] |
 ^circle-of-spores-spells
 
 ### Halo of Spores (Level 2)
 
-Starting at 2nd level, you are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal `dice: 1d4\|avg` (`1d4`) necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to `dice: 1d6\|avg` (`1d6`) at 6th level, `dice: 1d8\|avg` (`1d8`) at 10th level, and `dice: 1d10\|avg` (`1d10`) at 14th level.
+Starting at 2nd level, you are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal `dice: 1d4` (`1d4`) necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to `dice: 1d6` (`1d6`) at 6th level, `dice: 1d8` (`1d8`) at 10th level, and `dice: 1d10` (`1d10`) at 14th level.
 
 ### Symbiotic Entity (Level 2)
 
 At 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:
 
 - When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.  
-- Your melee weapon attacks deal an extra `dice: 1d6\|avg` (`1d6`) necrotic damage to any target they hit.  
+- Your melee weapon attacks deal an extra `dice: 1d6` (`1d6`) necrotic damage to any target they hit.  
 
 These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.
 
 ### Fungal Infestation (Level 6)
 
-At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [[/6. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
+At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [[/6. Mechanics/Bestiary/Undead/Zombie.md|zombie]] stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
 
 In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.
 
@@ -68,4 +68,4 @@ While the cube of spores persists, you can't use your Halo of Spores reaction.
 
 ### Fungal Body (Level 14)
 
-At 14th level, the fungal spores in your body alter you: you can't be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#deafened\|deafened]], [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], or [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]], and any critical hit against you counts as a normal hit instead, unless you're [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+At 14th level, the fungal spores in your body alter you: you can't be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#deafened|deafened]], [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], or [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], and any critical hit against you counts as a normal hit instead, unless you're [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].

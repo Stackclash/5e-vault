@@ -5,77 +5,7 @@ tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: true
-statblock-link: "#^statblock"
-"name": "Rahadin"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "elf"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "135"
-"hit_dice": "18d8 + 54"
-"stats":
-- !!int "14"
-- !!int "22"
-- !!int "17"
-- !!int "15"
-- !!int "16"
-- !!int "18"
-"speed": "walk 35 ft."
-"saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "7"
-"skillsaves":
-  "Intimidation": !!int "12"
-  "Deception": !!int "8"
-  "Stealth": !!int "14"
-  "Insight": !!int "7"
-  "Perception": !!int "11"
-"senses": "darkvision 60 ft., passive Perception 21"
-"languages": "Common, Elvish"
-"cr": "10"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-    \ cast the following spells, requiring no components:\n\n1/day: [[/6. Mechanics/Spells/magic-weapon.md\|magic weapon]],\
-    \ [[/6. Mechanics/Spells/nondetection.md\|nondetection]]\n\n3/day: [[/6. Mechanics/Spells/misty-step.md\|misty step]],\
-    \ [[/6. Mechanics/Spells/phantom-steed.md\|phantom steed]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
-    \ blank](/compendium/spells/mind-blank.md) spell hears in its mind the screams\
-    \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
-    \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
-    \ throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed\
-    \ save, or half as much damage on a successful one."
-  "name": "Deathly Choir"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]],\
-    \ and magic can't put him to sleep."
-  "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
-    \ heavy rain, falling snow, mist, and other natural phenomena."
-  "name": "Mask of the Wild"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin attacks three times with his scimitar, or twice with his [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ darts."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage."
-  "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg\
-    \ (2d4) poison damage."
-  "name": "Poisoned Dart"
-"source":
-- "CoS"
-"image": "/compendium/bestiary/npc/token/rahadin.png"
-aliases: ["Rahadin"]
+statblock: inline
 ---
 # Rahadin
 *Source: Curse of Strahd p. 237*  
@@ -122,46 +52,74 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 ## Stat Block
 
-```ad-statblock
-title: Rahadin
-![[/6. Mechanics/Bestiary/Npc/Token/rahadin.png#token]]
-*Medium humanoid(elf), Lawful Evil*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/studded-leather-armor.md\|studded leather]])
-- **Hit Points** `dice: 18d8 + 54|text(135)` (18d8 + 54) 
-- **Speed** walk 35 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|22 (+6)|17 (+3)|15 (+2)|16 (+3)|18 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Constitution +7, Wisdom +7
-- **Skills** Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14
-- **Senses** darkvision 60 ft., passive Perception 21
-- **Languages** Common, Elvish
-- **Challenge** 10
-
-## Traits
-
-***Deathly Choir.*** Any creature within 10 feet of Rahadin that isn't protected by a [[/6. Mechanics/Spells/mind-blank.md\|mind blank]] spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes `dice: 3d10` (`3d10`) psychic damage on a failed save, or half as much damage on a successful one.
-
-***Fey Ancestry.*** Rahadin has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and magic can't put him to sleep.
-
-***Mask of the Wild.*** Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
-
-***Innate Spellcasting.*** Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:
-
-**1/day**: [[/6. Mechanics/Spells/magic-weapon.md\|magic weapon]], [[/6. Mechanics/Spells/nondetection.md\|nondetection]]
-
-**3/day**: [[/6. Mechanics/Spells/misty-step.md\|misty step]], [[/6. Mechanics/Spells/phantom-steed.md\|phantom steed]]
-
-## Actions
-
-***Multiattack.*** Rahadin attacks three times with his scimitar, or twice with his [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] darts.
-
-***Scimitar.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 6` (`1d6 + 6`) slashing damage.
-
-***Poisoned Dart.*** *Ranged Weapon Attack:* `dice: d20+10` (+10 to hit), range 20/60 ft., one target. Hit: `dice: 1d4 + 6` (`1d4 + 6`) piercing damage plus `dice: 2d4` (`2d4`) poison damage.
+```statblock
+"name": "Rahadin"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "elf"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "135"
+"hit_dice": "18d8 + 54"
+"stats":
+- !!int "14"
+- !!int "22"
+- !!int "17"
+- !!int "15"
+- !!int "16"
+- !!int "18"
+"speed": "walk 35 ft."
+"saves":
+  "Wisdom": !!int "7"
+  "Constitution": !!int "7"
+"skillsaves":
+  "Intimidation": !!int "12"
+  "Deception": !!int "8"
+  "Stealth": !!int "14"
+  "Insight": !!int "7"
+  "Perception": !!int "11"
+"senses": "darkvision 60 ft., passive Perception 21"
+"languages": "Common, Elvish"
+"cr": "10"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
+    \ cast the following spells, requiring no components:\n\n1/day: [[/6. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
+    \ [[/6. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[/6. Mechanics/Spells/Misty Step.md|misty step]],\
+    \ [[/6. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
+    \ blank](/compendium/spells/mind-blank.md) spell hears in its mind the screams\
+    \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
+    \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
+    \ throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed\
+    \ save, or half as much damage on a successful one."
+  "name": "Deathly Choir"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Rahadin has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ and magic can't put him to sleep."
+  "name": "Fey Ancestry"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
+    \ heavy rain, falling snow, mist, and other natural phenomena."
+  "name": "Mask of the Wild"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Rahadin attacks three times with his scimitar, or twice with his [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ darts."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage."
+  "name": "Scimitar"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one\
+    \ target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg\
+    \ (2d4) poison damage."
+  "name": "Poisoned Dart"
+"source":
+- "CoS"
+"image": "6. Mechanics/Bestiary/Npc/token/rahadin.png"
 ```
 ^statblock

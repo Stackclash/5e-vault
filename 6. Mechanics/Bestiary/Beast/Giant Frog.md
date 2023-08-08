@@ -7,8 +7,12 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Giant Frog
+*Source: Monster Manual p. 325, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight*  
+
+```statblock
 "name": "Giant Frog"
 "size": "Medium"
 "type": "beast"
@@ -41,20 +45,20 @@ statblock-link: "#^statblock"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage, and the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ (escape DC 11). Until this grapple ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]],\
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage, and the target is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 11). Until this grapple ends, the target is [[6. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the frog can't bite another target."
   "name": "Bite"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The frog makes one bite attack against a Small or smaller target it is\
     \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
-    \ The swallowed target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] and\
-    \ [[6. Mechanics/Rules/conditions.md#restrained\|restrained]], it has total cover\
+    \ The swallowed target is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
+    \ [[6. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
     \ against attacks and other effects outside the frog, and it takes dice: 2d4|avg\
     \ (2d4) acid damage at the start of each of the frog's turns. The frog can have\
     \ only one target swallowed at a time. If the frog dies, a swallowed creature\
-    \ is no longer [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by it and\
-    \ can escape from the corpse using 5 feet of movement, exiting [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
+    \ is no longer [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] by it and\
+    \ can escape from the corpse using 5 feet of movement, exiting [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Swallow"
 "source":
 - "MM"
@@ -65,43 +69,7 @@ statblock-link: "#^statblock"
 - "GoS"
 - "EGW"
 - "WBtW"
-"image": "/compendium/bestiary/beast/token/giant-frog.png"
-aliases: ["Giant Frog"]
----
-# Giant Frog
-*Source: Monster Manual p. 325, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight*  
-
-```ad-statblock
-title: Giant Frog
-![[/6. Mechanics/Bestiary/Beast/Token/giant-frog.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** `dice: 4d8|text(18)` (4d8) 
-- **Speed** walk 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +2, Stealth +3
-- **Senses** darkvision 30 ft., passive Perception 12
-- **Languages** —
-- **Challenge** 1/4
-
-## Traits
-
-***Amphibious.*** The frog can breathe air and water.
-
-***Standing Leap.*** The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 1` (`1d6 + 1`) piercing damage, and the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 11). Until this grapple ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]], and the frog can't bite another target.
-
-***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] and [[6. Mechanics/Rules/conditions.md#restrained\|restrained]], it has total cover against attacks and other effects outside the frog, and it takes `dice: 2d4` (`2d4`) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by it and can escape from the corpse using 5 feet of movement, exiting [[6. Mechanics/Rules/conditions.md#prone\|prone]].
+"image": "6. Mechanics/Bestiary/Beast/token/giant-frog.png"
 ```
 ^statblock
 

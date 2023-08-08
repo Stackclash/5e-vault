@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/bless.md\|bless]], [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]] |
-| 3rd | [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]], [[/6. Mechanics/Spells/spiritual-weapon.md\|spiritual weapon]] |
-| 5th | [[/6. Mechanics/Spells/beacon-of-hope.md\|beacon of hope]], [[/6. Mechanics/Spells/revivify.md\|revivify]] |
-| 7th | [[/6. Mechanics/Spells/death-ward.md\|death ward]], [[/6. Mechanics/Spells/guardian-of-faith.md\|guardian of faith]] |
-| 9th | [[/6. Mechanics/Spells/mass-cure-wounds.md\|mass cure wounds]], [[/6. Mechanics/Spells/raise-dead.md\|raise dead]] |
+| 1st | [[/6. Mechanics/Spells/Bless.md|bless]], [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]] |
+| 3rd | [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/6. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] |
+| 5th | [[/6. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[/6. Mechanics/Spells/Revivify.md|revivify]] |
+| 7th | [[/6. Mechanics/Spells/Death Ward.md|death ward]], [[/6. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]] |
+| 9th | [[/6. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]], [[/6. Mechanics/Spells/Raise Dead.md|raise dead]] |
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -51,15 +51,15 @@ Beginning at 6th level, the healing spells you cast on others heal you as well. 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Supreme Healing (Level 17)
 
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring `dice: 2d6\|avg` (`2d6`) hit points to a creature, you restore 12.
+Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring `dice: 2d6` (`2d6`) hit points to a creature, you restore 12.

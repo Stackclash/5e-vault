@@ -23,7 +23,7 @@ You gain a beast companion that accompanies you on your adventures and is traine
 
 The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don't issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.
 
-If you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
+If you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
 
 While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
 
@@ -34,9 +34,9 @@ _Source: Tasha's Cauldron of Everything p. 61_
 
 _3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature_
 
-You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[/6. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md\|Beast of the Land]], [[/6. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md\|Beast of the Sea]], or [[/6. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md\|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
+You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[/6. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md|Beast of the Land]], [[/6. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md|Beast of the Sea]], or [[/6. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
 
-In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Attack action. If you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], the beast can take any action of its choice, not just Dodge.
+In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Attack action. If you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the beast can take any action of its choice, not just Dodge.
 
 If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.
 

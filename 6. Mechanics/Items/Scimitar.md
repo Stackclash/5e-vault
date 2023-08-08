@@ -13,7 +13,7 @@ aliases: ["Scimitar"]
 *Melee Weapon*  
 
 - **Damage**: 1d6 S
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Finesse\|Finesse]], [[6. Mechanics/Rules/item-properties.md#Light\|Light]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[6. Mechanics/Rules/Item Properties.md#Light|Light]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]]
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 

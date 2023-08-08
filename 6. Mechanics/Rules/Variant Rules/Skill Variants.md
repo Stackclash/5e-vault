@@ -6,7 +6,7 @@ aliases: ["Skill Variants"]
 # Skill Variants
 *Source: Dungeon Master's Guide p. 263* 
 
-A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [[6. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]] and [[6. Mechanics/Rules/Skills.md#Stealth\|Stealth]] are two different aspects of Dexterity, and a character can specialize in either or both.
+A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]] and [[6. Mechanics/Rules/Skills.md#Stealth|Stealth]] are two different aspects of Dexterity, and a character can specialize in either or both.
 
 You can dispense with skills and use one of the following variants. Choose whichever one best suits your campaign.
 
@@ -18,18 +18,18 @@ With this variant rule, characters don't have skill proficiencies. Instead, each
 
 | Class | Ability Check |
 |-------|---------------|
-| [[/6. Mechanics/Classes/Barbarian.md\|Barbarian]] | Strength, Dexterity, or Wisdom |
-| [[/6. Mechanics/Classes/Bard.md\|Bard]] | Any one |
-| [[/6. Mechanics/Classes/Cleric.md\|Cleric]] | Intelligence, Wisdom, or Charisma |
-| [[/6. Mechanics/Classes/Druid.md\|Druid]] | Intelligence or Wisdom |
-| [[/6. Mechanics/Classes/Fighter.md\|Fighter]] | Strength, Dexterity, or Wisdom |
-| [[/6. Mechanics/Classes/Monk.md\|Monk]] | Strength, Dexterity, or Intelligence |
-| [[/6. Mechanics/Classes/Paladin.md\|Paladin]] | Strength, Wisdom, or Charisma |
-| [[/6. Mechanics/Classes/Ranger.md\|Ranger]] | Strength, Dexterity, or Wisdom |
-| [[/6. Mechanics/Classes/Rogue.md\|Rogue]] | Dexterity, Intelligence, Wisdom, or Charisma |
-| [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]] | Intelligence or Charisma |
-| [[/6. Mechanics/Classes/Warlock.md\|Warlock]] | Intelligence or Charisma |
-| [[/6. Mechanics/Classes/Wizard.md\|Wizard]] | Intelligence or Wisdom |
+| [[/6. Mechanics/Classes/Barbarian.md|Barbarian]] | Strength, Dexterity, or Wisdom |
+| [[/6. Mechanics/Classes/Bard.md|Bard]] | Any one |
+| [[/6. Mechanics/Classes/Cleric.md|Cleric]] | Intelligence, Wisdom, or Charisma |
+| [[/6. Mechanics/Classes/Druid.md|Druid]] | Intelligence or Wisdom |
+| [[/6. Mechanics/Classes/Fighter.md|Fighter]] | Strength, Dexterity, or Wisdom |
+| [[/6. Mechanics/Classes/Monk.md|Monk]] | Strength, Dexterity, or Intelligence |
+| [[/6. Mechanics/Classes/Paladin.md|Paladin]] | Strength, Wisdom, or Charisma |
+| [[/6. Mechanics/Classes/Ranger.md|Ranger]] | Strength, Dexterity, or Wisdom |
+| [[/6. Mechanics/Classes/Rogue.md|Rogue]] | Dexterity, Intelligence, Wisdom, or Charisma |
+| [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]] | Intelligence or Charisma |
+| [[/6. Mechanics/Classes/Warlock.md|Warlock]] | Intelligence or Charisma |
+| [[/6. Mechanics/Classes/Wizard.md|Wizard]] | Intelligence or Wisdom |
 ^ability-check-proficiency-by-class
 
 The Expertise feature works differently than normal under this rule. At 1st level, instead of choosing two skill proficiencies, a character with the Expertise class feature chooses one of the abilities in which he or she has proficiency. Selecting an ability counts as two of the character's Expertise choices. If the character would gain an additional skill proficiency, that character instead selects another ability check in which to gain proficiency.

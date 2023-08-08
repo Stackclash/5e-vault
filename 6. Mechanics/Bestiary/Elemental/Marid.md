@@ -7,83 +7,7 @@ tags:
 - monster/environment/underwater
 - monster/size/large
 - monster/type/elemental
-statblock: true
-statblock-link: "#^statblock"
-"name": "Marid"
-"size": "Large"
-"type": "elemental"
-"alignment": "Chaotic Neutral"
-"ac": !!int "17"
-"hp": !!int "229"
-"hit_dice": "17d10 + 136"
-"stats":
-- !!int "22"
-- !!int "12"
-- !!int "26"
-- !!int "18"
-- !!int "17"
-- !!int "18"
-"speed": "walk 30 ft., fly 60 ft., swim 90 ft."
-"saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
-"damage_resistances": "acid, cold, lightning"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
-"languages": "Aquan"
-"cr": "11"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
-    \ dice: d20+8 (+8 to hit) with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [create or destroy\
-    \ water](/compendium/spells/create-or-destroy-water.md), [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]],\
-    \ [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/fog-cloud.md\|fog cloud]],\
-    \ [[/6. Mechanics/Spells/purify-food-and-drink.md\|purify food and drink]]\n\n1/day\
-    \ each: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] ([water\
-    \ elemental](/compendium/bestiary/elemental/water-elemental.md) only), [control\
-    \ water](/compendium/spells/control-water.md), [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]],\
-    \ [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]]\n\
-    \n3/day each: [[/6. Mechanics/Spells/tongues.md\|tongues]], [[/6. Mechanics/Spells/water-breathing.md\|water breathing]],\
-    \ [[/6. Mechanics/Spells/water-walk.md\|water walk]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The marid can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the marid dies, its body disintegrates into a burst of water and foam,\
-    \ leaving behind only equipment the marid was wearing or carrying."
-  "name": "Elemental Demise"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The marid makes two trident attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 6|avg (2d6 + 6) piercing\
-    \ damage, or 15 (dice: 2d8 + 6|avg (2d8 + 6)) piercing damage if used with\
-    \ two hands to make a melee attack."
-  "name": "Trident"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
-    \ Each creature in that line must make a DC 16 Dexterity saving throw. On a failure,\
-    \ a target takes dice: 6d6|avg (6d6) bludgeoning damage and, if it is Huge\
-    \ or smaller, is pushed up to 20 feet away from the marid and knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
-    \ nor knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Water Jet"
-"source":
-- "MM"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SLW"
-- "EGW"
-- "TCE"
-- "JttRC"
-- "DSotDQ"
-"image": "/compendium/bestiary/elemental/token/marid.png"
-aliases: ["Marid"]
+statblock: inline
 ---
 # Marid
 *Source: Monster Manual p. 146, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
@@ -119,48 +43,81 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 
 ## Stat Block
 
-```ad-statblock
-title: Marid
-![[/6. Mechanics/Bestiary/Elemental/Token/marid.png#token]]
-*Large elemental, Chaotic Neutral*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 17d10 + 136|text(229)` (17d10 + 136) 
-- **Speed** walk 30 ft., fly 60 ft., swim 90 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|22 (+6)|12 (+1)|26 (+8)|18 (+4)|17 (+3)|18 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +5, Wisdom +7, Charisma +8
-- **Skills** ⏤
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 13
-- **Damage Resistances** acid, cold, lightning
-- **Languages** Aquan
-- **Challenge** 11
-
-## Traits
-
-***Amphibious.*** The marid can breathe air and water.
-
-***Elemental Demise.*** If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.
-
-***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, `dice: d20+8` (+8 to hit) with spell attacks). It can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/create-or-destroy-water.md\|create or destroy water]], [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/fog-cloud.md\|fog cloud]], [[/6. Mechanics/Spells/purify-food-and-drink.md\|purify food and drink]]
-
-**1/day each**: [[/6. Mechanics/Spells/conjure-elemental.md\|conjure elemental]] ([[/6. Mechanics/Bestiary/Elemental/water-elemental.md\|water elemental]] only), [[/6. Mechanics/Spells/control-water.md\|control water]], [[/6. Mechanics/Spells/gaseous-form.md\|gaseous form]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]]
-
-**3/day each**: [[/6. Mechanics/Spells/tongues.md\|tongues]], [[/6. Mechanics/Spells/water-breathing.md\|water breathing]], [[/6. Mechanics/Spells/water-walk.md\|water walk]]
-
-## Actions
-
-***Multiattack.*** The marid makes two trident attacks.
-
-***Trident.*** *Melee or Ranged Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft. or range 20/60 ft., one target. Hit: `dice: 2d6 + 6` (`2d6 + 6`) piercing damage, or 15 (`dice: 2d8 + 6` (`2d8 + 6`)) piercing damage if used with two hands to make a melee attack.
-
-***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes `dice: 6d6` (`6d6`) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
+```statblock
+"name": "Marid"
+"size": "Large"
+"type": "elemental"
+"alignment": "Chaotic Neutral"
+"ac": !!int "17"
+"hp": !!int "229"
+"hit_dice": "17d10 + 136"
+"stats":
+- !!int "22"
+- !!int "12"
+- !!int "26"
+- !!int "18"
+- !!int "17"
+- !!int "18"
+"speed": "walk 30 ft., fly 60 ft., swim 90 ft."
+"saves":
+  "Charisma": !!int "8"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "7"
+"damage_resistances": "acid, cold, lightning"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
+"languages": "Aquan"
+"cr": "11"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
+    \ dice: d20+8 (+8 to hit) with spell attacks). It can innately cast the following\
+    \ spells, requiring no material components:\n\nAt will: [create or destroy\
+    \ water](/compendium/spells/create-or-destroy-water.md), [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [[/6. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+    \ [[/6. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n1/day\
+    \ each: [[/6. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] ([water\
+    \ elemental](/compendium/bestiary/elemental/water-elemental.md) only), [control\
+    \ water](/compendium/spells/control-water.md), [[/6. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+    \ [[/6. Mechanics/Spells/Invisibility.md|invisibility]], [[/6. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
+    \n3/day each: [[/6. Mechanics/Spells/Tongues.md|tongues]], [[/6. Mechanics/Spells/Water Breathing.md|water breathing]],\
+    \ [[/6. Mechanics/Spells/Water Walk.md|water walk]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The marid can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the marid dies, its body disintegrates into a burst of water and foam,\
+    \ leaving behind only equipment the marid was wearing or carrying."
+  "name": "Elemental Demise"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The marid makes two trident attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 6|avg (2d6 + 6) piercing\
+    \ damage, or 15 (dice: 2d8 + 6|avg (2d8 + 6)) piercing damage if used with\
+    \ two hands to make a melee attack."
+  "name": "Trident"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
+    \ Each creature in that line must make a DC 16 Dexterity saving throw. On a failure,\
+    \ a target takes dice: 6d6|avg (6d6) bludgeoning damage and, if it is Huge\
+    \ or smaller, is pushed up to 20 feet away from the marid and knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
+    \ nor knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Water Jet"
+"source":
+- "MM"
+- "WDMM"
+- "GoS"
+- "DIP"
+- "SLW"
+- "EGW"
+- "TCE"
+- "JttRC"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Elemental/token/marid.png"
 ```
 ^statblock
 

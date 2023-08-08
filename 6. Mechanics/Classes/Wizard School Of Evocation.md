@@ -37,4 +37,4 @@ Beginning at 10th level, you can add your Intelligence modifier to one damage ro
 
 Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take `dice: 2d12\|avg` (`2d12`) necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by `dice: 1d12\|avg` (`1d12`). This damage ignores resistance and immunity.
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take `dice: 2d12` (`2d12`) necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by `dice: 1d12` (`1d12`). This damage ignores resistance and immunity.

@@ -45,16 +45,16 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/6. Mechanics/Spells/ensnaring-strike.md\|ensnaring strike]], [[/6. Mechanics/Spells/speak-with-animals.md\|speak with animals]] |
-| 5th | [[/6. Mechanics/Spells/moonbeam.md\|moonbeam]], [[/6. Mechanics/Spells/misty-step.md\|misty step]] |
-| 9th | [[/6. Mechanics/Spells/plant-growth.md\|plant growth]], [[/6. Mechanics/Spells/protection-from-energy.md\|protection from energy]] |
-| 13th | [[/6. Mechanics/Spells/ice-storm.md\|ice storm]], [[/6. Mechanics/Spells/stoneskin.md\|stoneskin]] |
-| 17th | [[/6. Mechanics/Spells/commune-with-nature.md\|commune with nature]], [[/6. Mechanics/Spells/tree-stride.md\|tree stride]] |
+| 3rd | [[/6. Mechanics/Spells/Ensnaring Strike.md|ensnaring strike]], [[/6. Mechanics/Spells/Speak With Animals.md|speak with animals]] |
+| 5th | [[/6. Mechanics/Spells/Moonbeam.md|moonbeam]], [[/6. Mechanics/Spells/Misty Step.md|misty step]] |
+| 9th | [[/6. Mechanics/Spells/Plant Growth.md|plant growth]], [[/6. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
+| 13th | [[/6. Mechanics/Spells/Ice Storm.md|ice storm]], [[/6. Mechanics/Spells/Stoneskin.md|stoneskin]] |
+| 17th | [[/6. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[/6. Mechanics/Spells/Tree Stride.md|tree stride]] |
 ^oath-of-the-ancients-spells
 
 ### Channel Divinity: Nature's Wrath (Level 3)
 
-You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be [[6. Mechanics/Rules/conditions.md#restrained\|restrained]]. While [[6. Mechanics/Rules/conditions.md#restrained\|restrained]] by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
+You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be [[6. Mechanics/Rules/Conditions.md#restrained|restrained]]. While [[6. Mechanics/Rules/Conditions.md#restrained|restrained]] by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
 ### Channel Divinity: Turn the Faithless (Level 3)
 

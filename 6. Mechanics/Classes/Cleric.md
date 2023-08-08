@@ -76,18 +76,18 @@ aliases: ["Cleric"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws:** Wisdom, Charisma
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple
 - **Tools:** none
 - **Skills:** Choose 2 from *History*, *Insight*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/6. Mechanics/Items/mace.md\|mace]] or (b) a [[/6. Mechanics/Items/warhammer.md\|warhammer]] (if proficient)  
-- (a) [[/6. Mechanics/Items/scale-mail.md\|scale mail]], (b) [[/6. Mechanics/Items/leather-armor.md\|leather armor]], or (c) [[/6. Mechanics/Items/chain-mail.md\|chain mail]] (if proficient)  
-- (a) a [[/6. Mechanics/Items/light-crossbow.md\|light crossbow]] and [[/6. Mechanics/Items/crossbow-bolts-20.md\|20 bolts]] or (b) any simple weapon  
-- (a) a [[/6. Mechanics/Items/priests-pack.md\|priest's pack]] or (b) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
-- A [[/6. Mechanics/Items/shield.md\|shield]] and a holy symbol  
+- (a) a [[/6. Mechanics/Items/Mace.md|mace]] or (b) a [[/6. Mechanics/Items/Warhammer.md|warhammer]] (if proficient)  
+- (a) [[/6. Mechanics/Items/Scale Mail.md|scale mail]], (b) [[/6. Mechanics/Items/Leather Armor.md|leather armor]], or (c) [[/6. Mechanics/Items/Chain Mail.md|chain mail]] (if proficient)  
+- (a) a [[/6. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/6. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]] or (b) any simple weapon  
+- (a) a [[/6. Mechanics/Items/Priests Pack.md|priest's pack]] or (b) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- A [[/6. Mechanics/Items/Shield.md|shield]] and a holy symbol  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Cleric, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** none
 - **Tools:** none
 
@@ -119,7 +119,7 @@ The Cleric table shows how many spell slots you have to cast your cleric spells 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 

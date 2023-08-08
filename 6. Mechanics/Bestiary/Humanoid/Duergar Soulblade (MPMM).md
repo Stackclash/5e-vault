@@ -7,67 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
-statblock: true
-statblock-link: "#^statblock"
-"name": "Duergar Soulblade"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "dwarf"
-"alignment": "Any alignment"
-"ac": !!int "14"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"stats":
-- !!int "16"
-- !!int "16"
-- !!int "10"
-- !!int "11"
-- !!int "10"
-- !!int "12"
-"speed": "walk 25 ft."
-"damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
-"languages": "Dwarvish, Undercommon"
-"cr": "1"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]],\
-    \ [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], and [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ conditions."
-  "name": "Duergar Resilience"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) force damage, or 13 (dice: 3d6 + 3|avg\
-    \ (3d6 + 3)) force damage while under the effect of Enlarge."
-  "name": "Soulblade"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken\
-    \ (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any equipment the duergar wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Invisibility (Recharges after a Short or Long Rest)"
-"bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
-    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
-    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
-    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
-    \ lacks the room to become Large, it attains the maximum size possible in the\
-    \ space available."
-  "name": "Enlarge (Recharges after a Short or Long Rest)"
-"source":
-- "MPMM"
-- "MTF"
-"image": "/compendium/bestiary/humanoid/token/duergar-soulblade.png"
-aliases: ["Duergar Soulblade"]
+statblock: inline
 ---
 # Duergar Soulblade
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*  
@@ -96,42 +36,65 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ## Stat Block
 
-```ad-statblock
-title: Duergar Soulblade
-![[/6. Mechanics/Bestiary/Humanoid/Token/duergar-soulblade.png#token]]
-*Medium humanoid(dwarf), Any alignment*
-
-- **Armor Class** 14 ([[/6. Mechanics/Items/leather-armor.md\|leather armor]])
-- **Hit Points** `dice: 6d8|text(27)` (6d8) 
-- **Speed** walk 25 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Damage Resistances** poison
-- **Languages** Dwarvish, Undercommon
-- **Challenge** 1
-
-## Traits
-
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], and [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] conditions.
-
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-## Actions
-
-***Soulblade.*** *Melee Spell Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) force damage, or 13 (`dice: 3d6 + 3` (`3d6 + 3`)) force damage while under the effect of Enlarge.
-
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the duergar wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
-
-## Bonus Actions
-
-***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+```statblock
+"name": "Duergar Soulblade"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "dwarf"
+"alignment": "Any alignment"
+"ac": !!int "14"
+"hp": !!int "27"
+"hit_dice": "6d8"
+"stats":
+- !!int "16"
+- !!int "16"
+- !!int "10"
+- !!int "11"
+- !!int "10"
+- !!int "12"
+"speed": "walk 25 ft."
+"damage_resistances": "poison"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "Dwarvish, Undercommon"
+"cr": "1"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ conditions."
+  "name": "Duergar Resilience"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) force damage, or 13 (dice: 3d6 + 3|avg\
+    \ (3d6 + 3)) force damage while under the effect of Enlarge."
+  "name": "Soulblade"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
+    \ throw, or its [[6. Mechanics/Rules/Status.md#concentration|concentration]] is broken\
+    \ (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any equipment the duergar wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Invisibility (Recharges after a Short or Long Rest)"
+"bonus_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
+    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
+    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
+    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
+    \ lacks the room to become Large, it attains the maximum size possible in the\
+    \ space available."
+  "name": "Enlarge (Recharges after a Short or Long Rest)"
+"source":
+- "MPMM"
+- "MTF"
+"image": "6. Mechanics/Bestiary/Humanoid/token/duergar-soulblade.png"
 ```
 ^statblock
 

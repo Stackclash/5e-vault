@@ -6,68 +6,7 @@ tags:
 - monster/environment/arctic
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young White Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Chaotic Evil"
-"ac": !!int "17"
-"hp": !!int "133"
-"hit_dice": "14d10 + 56"
-"stats":
-- !!int "18"
-- !!int "10"
-- !!int "18"
-- !!int "6"
-- !!int "11"
-- !!int "12"
-"speed": "walk 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "7"
-"skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "6"
-"damage_immunities": "cold"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
-"languages": "Common, Draconic"
-"cr": "6"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can move across and climb icy surfaces without needing to make\
-    \ an ability check. Additionally, difficult terrain composed of ice or snow doesn't\
-    \ cost it extra movement."
-  "name": "Ice Walk"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
-    \ (1d8) cold damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales an icy blast in a 30-foot cone. Each creature in that\
-    \ area must make a DC 15 Constitution saving throw, taking 45 (dice: 10d8|avg\
-    \ (10d8)) cold damage on a failed save, or half as much damage on a successful\
-    \ one."
-  "name": "Cold Breath (Recharge 5-6)"
-"source":
-- "MM"
-- "RoT"
-- "TftYP"
-- "DIP"
-- "IDRotF"
-"image": "/compendium/bestiary/dragon/token/young-white-dragon.png"
-aliases: ["Young White Dragon"]
+statblock: inline
 ---
 # Young White Dragon
 *Source: Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Dragon of Icespire Peak, Icewind Dale: Rime of the Frostmaiden*  
@@ -156,40 +95,66 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young White Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-white-dragon.png#token]]
-*Large dragon, Chaotic Evil*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 14d10 + 56|text(133)` (14d10 + 56) 
-- **Speed** walk 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|10 (+0)|18 (+4)| 6 (-2)|11 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +3, Constitution +7, Wisdom +3, Charisma +4
-- **Skills** Perception +6, Stealth +3
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
-- **Damage Immunities** cold
-- **Languages** Common, Draconic
-- **Challenge** 6
-
-## Traits
-
-***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 4` (`2d10 + 4`) piercing damage plus `dice: 1d8` (`1d8`) cold damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
-
-***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (`dice: 10d8` (`10d8`)) cold damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Young White Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Chaotic Evil"
+"ac": !!int "17"
+"hp": !!int "133"
+"hit_dice": "14d10 + 56"
+"stats":
+- !!int "18"
+- !!int "10"
+- !!int "18"
+- !!int "6"
+- !!int "11"
+- !!int "12"
+"speed": "walk 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "4"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "3"
+  "Constitution": !!int "7"
+"skillsaves":
+  "Stealth": !!int "3"
+  "Perception": !!int "6"
+"damage_immunities": "cold"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
+"languages": "Common, Draconic"
+"cr": "6"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can move across and climb icy surfaces without needing to make\
+    \ an ability check. Additionally, difficult terrain composed of ice or snow doesn't\
+    \ cost it extra movement."
+  "name": "Ice Walk"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
+    \ (1d8) cold damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales an icy blast in a 30-foot cone. Each creature in that\
+    \ area must make a DC 15 Constitution saving throw, taking 45 (dice: 10d8|avg\
+    \ (10d8)) cold damage on a failed save, or half as much damage on a successful\
+    \ one."
+  "name": "Cold Breath (Recharge 5-6)"
+"source":
+- "MM"
+- "RoT"
+- "TftYP"
+- "DIP"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-white-dragon.png"
 ```
 ^statblock
 

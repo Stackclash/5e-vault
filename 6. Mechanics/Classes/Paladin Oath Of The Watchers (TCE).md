@@ -45,11 +45,11 @@ You gain oath spells at the paladin levels listed in the Oath of the Watchers ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/6. Mechanics/Spells/alarm.md\|alarm]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]] |
-| 5th | [[/6. Mechanics/Spells/moonbeam.md\|moonbeam]], [[/6. Mechanics/Spells/see-invisibility.md\|see invisibility]] |
-| 9th | [[/6. Mechanics/Spells/counterspell.md\|counterspell]], [[/6. Mechanics/Spells/nondetection.md\|nondetection]] |
-| 13th | [[/6. Mechanics/Spells/aura-of-purity.md\|aura of purity]], [[/6. Mechanics/Spells/banishment.md\|banishment]] |
-| 17th | [[/6. Mechanics/Spells/hold-monster.md\|hold monster]], [[/6. Mechanics/Spells/scrying.md\|scrying]] |
+| 3rd | [[/6. Mechanics/Spells/Alarm.md|alarm]], [[/6. Mechanics/Spells/Detect Magic.md|detect magic]] |
+| 5th | [[/6. Mechanics/Spells/Moonbeam.md|moonbeam]], [[/6. Mechanics/Spells/See Invisibility.md|see invisibility]] |
+| 9th | [[/6. Mechanics/Spells/Counterspell.md|counterspell]], [[/6. Mechanics/Spells/Nondetection.md|nondetection]] |
+| 13th | [[/6. Mechanics/Spells/Aura Of Purity.md|aura of purity]], [[/6. Mechanics/Spells/Banishment.md|banishment]] |
+| 17th | [[/6. Mechanics/Spells/Hold Monster.md|hold monster]], [[/6. Mechanics/Spells/Scrying.md|scrying]] |
 ^oath-of-the-watchers-spells
 
 ### Channel Divinity (Level 3)
@@ -72,7 +72,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 _7th-level Oath of the Watchers feature_
 
-You emit an aura of alertness while you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
+You emit an aura of alertness while you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -80,7 +80,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 _15th-level Oath of the Watchers feature_
 
-You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal `dice: 2d8\|avg` (`2d8`) + your Charisma modifier force damage to the creature that forced the saving throw.
+You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal `dice: 2d8` (`2d8`) + your Charisma modifier force damage to the creature that forced the saving throw.
 
 ### Mortal Bulwark (Level 20)
 
@@ -88,7 +88,7 @@ _20th-level Oath of the Watchers feature_
 
 You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:
 
-- You gain [[6. Mechanics/Rules/senses.md#truesight\|truesight]] with a range of 120 feet.  
+- You gain [[6. Mechanics/Rules/Senses.md#truesight|truesight]] with a range of 120 feet.  
 - You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.  
 - When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.  
 

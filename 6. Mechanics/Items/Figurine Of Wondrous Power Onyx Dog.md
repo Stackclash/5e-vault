@@ -20,8 +20,8 @@ The creature is friendly to you and your companions. It understands your languag
 
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
 
-[[/6. Mechanics/Bestiary/Beast/Mastiff.md\|Onyx Dog]].
+[[/6. Mechanics/Bestiary/Beast/Mastiff.md|Onyx Dog]].
 
-This onyx statuette of a dog can become a [[/6. Mechanics/Bestiary/Beast/Mastiff.md\|mastiff]] for up to 6 hours. The [[/6. Mechanics/Bestiary/Beast/Mastiff.md\|mastiff]] has an Intelligence of 8 and can speak Common. It also has [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] out to a range of 60 feet and can see [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
+This onyx statuette of a dog can become a [[/6. Mechanics/Bestiary/Beast/Mastiff.md|mastiff]] for up to 6 hours. The [[/6. Mechanics/Bestiary/Beast/Mastiff.md|mastiff]] has an Intelligence of 8 and can speak Common. It also has [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet and can see [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170*

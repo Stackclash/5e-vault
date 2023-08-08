@@ -76,17 +76,17 @@ aliases: ["Artificer"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws:** Constitution, Intelligence
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple
-- **Tools:** [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]], [[/6. Mechanics/Items/tinkers-tools.md\|tinker's tools]], one type of artisan's tools of your choice
+- **Tools:** [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]], [[/6. Mechanics/Items/Tinkers Tools.md|tinker's tools]], one type of artisan's tools of your choice
 - **Skills:** Choose 2 from *Arcana*, *History*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Sleight of Hand*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
 - any two simple weapons of your choice  
-- a [[/6. Mechanics/Items/light-crossbow.md\|light crossbow]] and [[/6. Mechanics/Items/crossbow-bolts-20.md\|20 bolts]]  
-- (a) [[/6. Mechanics/Items/studded-leather-armor.md\|studded leather armor]] or (b) [[/6. Mechanics/Items/scale-mail.md\|scale mail]]  
-- [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]] and a [[/6. Mechanics/Items/dungeoneers-pack.md\|dungeoneer's pack]]  
+- a [[/6. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/6. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]]  
+- (a) [[/6. Mechanics/Items/Studded Leather Armor.md|studded leather armor]] or (b) [[/6. Mechanics/Items/Scale Mail.md|scale mail]]  
+- [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]] and a [[/6. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -98,9 +98,9 @@ To multiclass as a Artificer, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** none
-- **Tools:** [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]], [[/6. Mechanics/Items/tinkers-tools.md\|tinker's tools]]
+- **Tools:** [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]], [[/6. Mechanics/Items/Tinkers Tools.md|tinker's tools]]
 
 ## Class Features
 
@@ -110,7 +110,7 @@ The secrets of creating and operating gunpowder weapons have been discovered in 
 
 ### Magical Tinkering (Level 1)
 
-At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]] or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]] or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
 
 - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.  
 - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.  
@@ -127,15 +127,15 @@ You have studied the workings of magic and how to channel it through objects. As
 
 #### Tools Required
 
-You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]] or some kind of artisan's tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
+You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]] or some kind of artisan's tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
 
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
 > [!quote] The Magic of Artifice
 > 
-> As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]] using [[/6. Mechanics/Items/alchemists-supplies.md\|alchemist's supplies]], you could be quickly producing a salve. If you cast it using [[/6. Mechanics/Items/tinkers-tools.md\|tinker's tools]], you might have a miniature mechanical spider that binds wounds. When you cast [[/6. Mechanics/Spells/poison-spray.md\|poison spray]], you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
+> As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]] using [[/6. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]], you could be quickly producing a salve. If you cast it using [[/6. Mechanics/Items/Tinkers Tools.md|tinker's tools]], you might have a miniature mechanical spider that binds wounds. When you cast [[/6. Mechanics/Spells/Poison Spray.md|poison spray]], you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
 > 
-> The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]] with [[/6. Mechanics/Spells/heat-metal.md\|heat metal]], you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
+> The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]] with [[/6. Mechanics/Spells/Heat Metal.md|heat metal]], you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
 > 
 > Such details don't limit you in any way or provide you with any benefit beyond the spell's effects. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.
 ^the-magic-of-artifice
@@ -152,7 +152,7 @@ The Artificer table shows how many spell slots you have to cast your artificer s
 
 You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
 
@@ -205,7 +205,7 @@ At 3rd level, you choose the type of specialist you are, each of which is detail
 
 ### The Right Tool for the Job (Level 3)
 
-At 3rd level, you learn how to produce exactly the tool you need: with [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]] or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+At 3rd level, you learn how to produce exactly the tool you need: with [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]] or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Ability Score Improvement (Level 4)
 
@@ -248,7 +248,7 @@ When you reach 10th level, you achieve a profound understanding of how to use an
 
 At 11th level, you learn how to store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[6. Mechanics/Rules/status.md#concentration\|concentration]], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[6. Mechanics/Rules/Status.md#concentration|concentration]], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Ability Score Improvement (Level 12)
 
@@ -297,7 +297,7 @@ At 20th level, you develop a mystical connection to your magic items, which you 
 The wearer of this armor gains these benefits:
 
 - The wearer's walking speed increases by 5 feet.  
-- The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals `dice: 1d8\|avg` (`1d8`) force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.  
+- The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals `dice: 1d8` (`1d8`) force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.  
 - The armor can't be removed against the wearer's will.  
 - If the wearer is missing any limbs, the armor replaces those limbs—hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.  
 
@@ -306,21 +306,21 @@ _Source: UA2020SubclassesPt3 p. 3_
 
 While wearing this armor, a creature can use its Intelligence modifier in place of its Strength modifier when making Strength checks and Strength saving throws.
 
-The armor has 4 charges. As a reaction when it would be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]], the wearer can expend 1 charge to not be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. The armor regains `dice: 1d4\|avg` (`1d4`) expended charges daily at dawn.
+The armor has 4 charges. As a reaction when it would be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]], the wearer can expend 1 charge to not be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]]. The armor regains `dice: 1d4` (`1d4`) expended charges daily at dawn.
 
 ### Armor of Magical Strength
 
 This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
 
 - When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.  
-- If the creature would be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]], it can use its reaction to expend 1 charge to avoid being knocked prone.  
+- If the creature would be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]], it can use its reaction to expend 1 charge to avoid being knocked prone.  
 
-The armor regains `dice: 1d6\|avg` (`1d6`) expended charges daily at dawn.
+The armor regains `dice: 1d6` (`1d6`) expended charges daily at dawn.
 
 ### Armor of Tools
 _Source: UA2020SubclassesPt3 p. 3_
 
-As an action, a creature wearing this infused armor can integrate into it artisan's tools or [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]. The tools remain integrated in the armor for 8 hours or until the wearer removes the tools as an action. The armor can have only one tool integrated at a time.
+As an action, a creature wearing this infused armor can integrate into it artisan's tools or [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]. The tools remain integrated in the armor for 8 hours or until the wearer removes the tools as an action. The armor can have only one tool integrated at a time.
 
 The wearer can add its Intelligence modifier to any ability checks it makes with the integrated tool. The wearer must have a hand free to use the tool.
 
@@ -375,23 +375,23 @@ The bonus increases to +2 when you reach 12th level in this class.
 ### Helm of Awareness
 _Source: UA2020SubclassesPt3 p. 3_
 
-While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ### Helm of Awareness
 
-While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ### Homunculus Servant
 
-You learn intricate methods for magically creating a special [[/6. Mechanics/Bestiary/Construct/Homunculus Servant (TCE).md\|homunculus]] that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.
+You learn intricate methods for magically creating a special [[/6. Mechanics/Bestiary/Construct/Homunculus Servant (TCE).md|homunculus]] that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.
 
 You determine the homunculus's appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons.
 
 The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
 
-In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], the homunculus can take any action of its choice, not just Dodge.
+In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the homunculus can take any action of its choice, not just Dodge.
 
-The homunculus regains `dice: 2d6\|avg` (`2d6`) hit points if the [[/6. Mechanics/Spells/mending.md\|mending]] spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
+The homunculus regains `dice: 2d6` (`2d6`) hit points if the [[/6. Mechanics/Spells/Mending.md|mending]] spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
 ### Many-Handed Pouch
 _Source: Unearthed Arcana: Artificer Revisited p. 13_
@@ -403,24 +403,24 @@ If this infusion ends, the items stored in the shared space move into one of the
 ### Mind Sharpener
 _Source: UA2020SubclassesPt3 p. 3_
 
-The infused item can send a jolt to the wearer to refocus their mind. While wearing this infused item, whenever the creature fails a Constitution saving throw to maintain [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell, it can use its reaction to succeed instead.
+The infused item can send a jolt to the wearer to refocus their mind. While wearing this infused item, whenever the creature fails a Constitution saving throw to maintain [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell, it can use its reaction to succeed instead.
 
 ### Mind Sharpener
 
-The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains `dice: 1d4\|avg` (`1d4`) expended charges daily at dawn.
+The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains `dice: 1d4` (`1d4`) expended charges daily at dawn.
 
 ### Radiant Weapon
 _Source: Unearthed Arcana: Artificer Revisited p. 13_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 
-As a reaction immediately after being hit by a melee attack, the wielder can cause the attacker to be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. Once used, this reaction can't be used again until the wielder finishes a short or long rest.
+As a reaction immediately after being hit by a melee attack, the wielder can cause the attacker to be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. Once used, this reaction can't be used again until the wielder finishes a short or long rest.
 
 ### Radiant Weapon
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 
-The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains `dice: 1d4\|avg` (`1d4`) expended charges daily at dawn.
+The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains `dice: 1d4` (`1d4`) expended charges daily at dawn.
 
 ### Repeating Shot
 
@@ -445,75 +445,75 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/alchemy-jug.md\|Alchemy jug]] | No |
-| [[/6. Mechanics/Items/bag-of-holding.md\|Bag of holding]] | No |
-| [[/6. Mechanics/Items/cap-of-water-breathing.md\|Cap of water breathing]] | No |
-| [[/6. Mechanics/Items/goggles-of-night.md\|Goggles of night]] | No |
-| [[/6. Mechanics/Items/rope-of-climbing.md\|Rope of climbing]] | No |
-| [[/6. Mechanics/Items/sending-stones.md\|Sending stones]] | No |
-| [[/6. Mechanics/Items/wand-of-magic-detection.md\|Wand of magic detection]] | No |
-| [[/6. Mechanics/Items/wand-of-secrets.md\|Wand of secrets]] | No |
+| [[/6. Mechanics/Items/Alchemy Jug.md|Alchemy jug]] | No |
+| [[/6. Mechanics/Items/Bag Of Holding.md|Bag of holding]] | No |
+| [[/6. Mechanics/Items/Cap Of Water Breathing.md|Cap of water breathing]] | No |
+| [[/6. Mechanics/Items/Goggles Of Night.md|Goggles of night]] | No |
+| [[/6. Mechanics/Items/Rope Of Climbing.md|Rope of climbing]] | No |
+| [[/6. Mechanics/Items/Sending Stones.md|Sending stones]] | No |
+| [[/6. Mechanics/Items/Wand Of Magic Detection.md|Wand of magic detection]] | No |
+| [[/6. Mechanics/Items/Wand Of Secrets.md|Wand of secrets]] | No |
 ^replicable-items-2nd-level-artificer
 
 **Replicable Items (6th-Level Artificer)**
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/boots-of-elvenkind.md\|Boots of elvenkind]] | No |
-| [[/6. Mechanics/Items/cloak-of-elvenkind.md\|Cloak of elvenkind]] | Yes |
-| [[/6. Mechanics/Items/cloak-of-the-manta-ray.md\|Cloak of the manta ray]] | No |
-| [[/6. Mechanics/Items/eyes-of-charming.md\|Eyes of charming]] | Yes |
-| [[/6. Mechanics/Items/gloves-of-thievery.md\|Gloves of thievery]] | No |
-| [[/6. Mechanics/Items/lantern-of-revealing.md\|Lantern of revealing]] | No |
-| [[/6. Mechanics/Items/pipes-of-haunting.md\|Pipes of haunting]] | No |
-| [[/6. Mechanics/Items/ring-of-water-walking.md\|Ring of water walking]] | No |
+| [[/6. Mechanics/Items/Boots Of Elvenkind.md|Boots of elvenkind]] | No |
+| [[/6. Mechanics/Items/Cloak Of Elvenkind.md|Cloak of elvenkind]] | Yes |
+| [[/6. Mechanics/Items/Cloak Of The Manta Ray.md|Cloak of the manta ray]] | No |
+| [[/6. Mechanics/Items/Eyes Of Charming.md|Eyes of charming]] | Yes |
+| [[/6. Mechanics/Items/Gloves Of Thievery.md|Gloves of thievery]] | No |
+| [[/6. Mechanics/Items/Lantern Of Revealing.md|Lantern of revealing]] | No |
+| [[/6. Mechanics/Items/Pipes Of Haunting.md|Pipes of haunting]] | No |
+| [[/6. Mechanics/Items/Ring Of Water Walking.md|Ring of water walking]] | No |
 ^replicable-items-6th-level-artificer
 
 **Replicable Items (10th-Level Artificer)**
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/boots-of-striding-and-springing.md\|Boots of striding and springing]] | Yes |
-| [[/6. Mechanics/Items/boots-of-the-winterlands.md\|Boots of the winterlands]] | Yes |
-| [[/6. Mechanics/Items/bracers-of-archery.md\|Bracers of archery]] | Yes |
-| [[/6. Mechanics/Items/brooch-of-shielding.md\|Brooch of shielding]] | Yes |
-| [[/6. Mechanics/Items/cloak-of-protection.md\|Cloak of protection]] | Yes |
-| [[/6. Mechanics/Items/eyes-of-the-eagle.md\|Eyes of the eagle]] | Yes |
-| [[/6. Mechanics/Items/gauntlets-of-ogre-power.md\|Gauntlets of ogre power]] | Yes |
-| [[/6. Mechanics/Items/gloves-of-missile-snaring.md\|Gloves of missile snaring]] | Yes |
-| [[/6. Mechanics/Items/gloves-of-swimming-and-climbing.md\|Gloves of swimming and climbing]] | Yes |
-| [[/6. Mechanics/Items/hat-of-disguise.md\|Hat of disguise]] | Yes |
-| [[/6. Mechanics/Items/headband-of-intellect.md\|Headband of intellect]] | Yes |
-| [[/6. Mechanics/Items/helm-of-telepathy.md\|Helm of telepathy]] | Yes |
-| [[/6. Mechanics/Items/medallion-of-thoughts.md\|Medallion of thoughts]] | Yes |
-| [[/6. Mechanics/Items/necklace-of-adaptation.md\|Necklace of adaptation]] | Yes |
-| [[/6. Mechanics/Items/periapt-of-wound-closure.md\|Periapt of wound closure]] | Yes |
-| [[/6. Mechanics/Items/pipes-of-the-sewers.md\|Pipes of the sewers]] | Yes |
-| [[/6. Mechanics/Items/quiver-of-ehlonna.md\|Quiver of Ehlonna]] | No |
-| [[/6. Mechanics/Items/ring-of-jumping.md\|Ring of jumping]] | Yes |
-| [[/6. Mechanics/Items/ring-of-mind-shielding.md\|Ring of mind shielding]] | Yes |
-| [[/6. Mechanics/Items/slippers-of-spider-climbing.md\|Slippers of spider climbing]] | Yes |
+| [[/6. Mechanics/Items/Boots Of Striding And Springing.md|Boots of striding and springing]] | Yes |
+| [[/6. Mechanics/Items/Boots Of The Winterlands.md|Boots of the winterlands]] | Yes |
+| [[/6. Mechanics/Items/Bracers Of Archery.md|Bracers of archery]] | Yes |
+| [[/6. Mechanics/Items/Brooch Of Shielding.md|Brooch of shielding]] | Yes |
+| [[/6. Mechanics/Items/Cloak Of Protection.md|Cloak of protection]] | Yes |
+| [[/6. Mechanics/Items/Eyes Of The Eagle.md|Eyes of the eagle]] | Yes |
+| [[/6. Mechanics/Items/Gauntlets Of Ogre Power.md|Gauntlets of ogre power]] | Yes |
+| [[/6. Mechanics/Items/Gloves Of Missile Snaring.md|Gloves of missile snaring]] | Yes |
+| [[/6. Mechanics/Items/Gloves Of Swimming And Climbing.md|Gloves of swimming and climbing]] | Yes |
+| [[/6. Mechanics/Items/Hat Of Disguise.md|Hat of disguise]] | Yes |
+| [[/6. Mechanics/Items/Headband Of Intellect.md|Headband of intellect]] | Yes |
+| [[/6. Mechanics/Items/Helm Of Telepathy.md|Helm of telepathy]] | Yes |
+| [[/6. Mechanics/Items/Medallion Of Thoughts.md|Medallion of thoughts]] | Yes |
+| [[/6. Mechanics/Items/Necklace Of Adaptation.md|Necklace of adaptation]] | Yes |
+| [[/6. Mechanics/Items/Periapt Of Wound Closure.md|Periapt of wound closure]] | Yes |
+| [[/6. Mechanics/Items/Pipes Of The Sewers.md|Pipes of the sewers]] | Yes |
+| [[/6. Mechanics/Items/Quiver Of Ehlonna.md|Quiver of Ehlonna]] | No |
+| [[/6. Mechanics/Items/Ring Of Jumping.md|Ring of jumping]] | Yes |
+| [[/6. Mechanics/Items/Ring Of Mind Shielding.md|Ring of mind shielding]] | Yes |
+| [[/6. Mechanics/Items/Slippers Of Spider Climbing.md|Slippers of spider climbing]] | Yes |
 | Ventilating lungs (detailed in "chapter 5") | Yes |
-| [[/6. Mechanics/Items/winged-boots.md\|Winged boots]] | Yes |
+| [[/6. Mechanics/Items/Winged Boots.md|Winged boots]] | Yes |
 ^replicable-items-10th-level-artificer
 
 **Replicable Items (14th-Level Artificer)**
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/amulet-of-health.md\|Amulet of health]] | Yes |
+| [[/6. Mechanics/Items/Amulet Of Health.md|Amulet of health]] | Yes |
 | Arcane propulsion arm (detailed in "chapter 5") | Yes |
-| [[/6. Mechanics/Items/belt-of-hill-giant-strength.md\|Belt of hill giant strength]] | Yes |
-| [[/6. Mechanics/Items/boots-of-levitation.md\|Boots of levitation]] | Yes |
-| [[/6. Mechanics/Items/boots-of-speed.md\|Boots of speed]] | Yes |
-| [[/6. Mechanics/Items/bracers-of-defense.md\|Bracers of defense]] | Yes |
-| [[/6. Mechanics/Items/cloak-of-the-bat.md\|Cloak of the bat]] | Yes |
-| [[/6. Mechanics/Items/dimensional-shackles.md\|Dimensional shackles]] | No |
-| [[/6. Mechanics/Items/gem-of-seeing.md\|Gem of seeing]] | Yes |
-| [[/6. Mechanics/Items/horn-of-blasting.md\|Horn of blasting]] | No |
-| [[/6. Mechanics/Items/ring-of-free-action.md\|Ring of free action]] | Yes |
-| [[/6. Mechanics/Items/ring-of-protection.md\|Ring of protection]] | Yes |
-| [[/6. Mechanics/Items/ring-of-the-ram.md\|Ring of the ram]] | Yes |
+| [[/6. Mechanics/Items/Belt Of Hill Giant Strength.md|Belt of hill giant strength]] | Yes |
+| [[/6. Mechanics/Items/Boots Of Levitation.md|Boots of levitation]] | Yes |
+| [[/6. Mechanics/Items/Boots Of Speed.md|Boots of speed]] | Yes |
+| [[/6. Mechanics/Items/Bracers Of Defense.md|Bracers of defense]] | Yes |
+| [[/6. Mechanics/Items/Cloak Of The Bat.md|Cloak of the bat]] | Yes |
+| [[/6. Mechanics/Items/Dimensional Shackles.md|Dimensional shackles]] | No |
+| [[/6. Mechanics/Items/Gem Of Seeing.md|Gem of seeing]] | Yes |
+| [[/6. Mechanics/Items/Horn Of Blasting.md|Horn of blasting]] | No |
+| [[/6. Mechanics/Items/Ring Of Free Action.md|Ring of free action]] | Yes |
+| [[/6. Mechanics/Items/Ring Of Protection.md|Ring of protection]] | Yes |
+| [[/6. Mechanics/Items/Ring Of The Ram.md|Ring of the ram]] | Yes |
 ^replicable-items-14th-level-artificer
 
 ### Replicate Magic Item
@@ -527,73 +527,73 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/alchemy-jug.md\|Alchemy jug]] | No |
-| [[/6. Mechanics/Items/bag-of-holding.md\|Bag of holding]] | No |
-| [[/6. Mechanics/Items/cap-of-water-breathing.md\|Cap of water breathing]] | No |
-| [[/6. Mechanics/Items/cloak-of-the-manta-ray.md\|Cloak of the manta ray]] | No |
-| [[/6. Mechanics/Items/goggles-of-night.md\|Goggles of night]] | No |
-| [[/6. Mechanics/Items/lantern-of-revealing.md\|Lantern of revealing]] | No |
-| [[/6. Mechanics/Items/rope-of-climbing.md\|Rope of climbing]] | No |
-| [[/6. Mechanics/Items/sending-stones.md\|Sending stones]] | No |
-| [[/6. Mechanics/Items/wand-of-magic-detection.md\|Wand of magic detection]] | No |
-| [[/6. Mechanics/Items/wand-of-secrets.md\|Wand of secrets]] | No |
+| [[/6. Mechanics/Items/Alchemy Jug.md|Alchemy jug]] | No |
+| [[/6. Mechanics/Items/Bag Of Holding.md|Bag of holding]] | No |
+| [[/6. Mechanics/Items/Cap Of Water Breathing.md|Cap of water breathing]] | No |
+| [[/6. Mechanics/Items/Cloak Of The Manta Ray.md|Cloak of the manta ray]] | No |
+| [[/6. Mechanics/Items/Goggles Of Night.md|Goggles of night]] | No |
+| [[/6. Mechanics/Items/Lantern Of Revealing.md|Lantern of revealing]] | No |
+| [[/6. Mechanics/Items/Rope Of Climbing.md|Rope of climbing]] | No |
+| [[/6. Mechanics/Items/Sending Stones.md|Sending stones]] | No |
+| [[/6. Mechanics/Items/Wand Of Magic Detection.md|Wand of magic detection]] | No |
+| [[/6. Mechanics/Items/Wand Of Secrets.md|Wand of secrets]] | No |
 ^replicable-magic-items
 
 **Replicable Magic Items (12th-Level Artificer)**
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/boots-of-elvenkind.md\|Boots of elvenkind]] | No |
-| [[/6. Mechanics/Items/boots-of-striding-and-springing.md\|Boots of striding and springing]] | Yes |
-| [[/6. Mechanics/Items/boots-of-the-winterlands.md\|Boots of the winterlands]] | Yes |
-| [[/6. Mechanics/Items/bracers-of-archery.md\|Bracers of archery]] | Yes |
-| [[/6. Mechanics/Items/brooch-of-shielding.md\|Brooch of shielding]] | Yes |
-| [[/6. Mechanics/Items/cloak-of-elvenkind.md\|Cloak of elvenkind]] | Yes |
-| [[/6. Mechanics/Items/cloak-of-protection.md\|Cloak of protection]] | Yes |
-| [[/6. Mechanics/Items/eyes-of-charming.md\|Eyes of charming]] | Yes |
-| [[/6. Mechanics/Items/eyes-of-the-eagle.md\|Eyes of the eagle]] | Yes |
-| [[/6. Mechanics/Items/gauntlets-of-ogre-power.md\|Gauntlets of ogre power]] | Yes |
-| [[/6. Mechanics/Items/gloves-of-missile-snaring.md\|Gloves of missile snaring]] | Yes |
-| [[/6. Mechanics/Items/gloves-of-swimming-and-climbing.md\|Gloves of swimming and climbing]] | Yes |
-| [[/6. Mechanics/Items/gloves-of-thievery.md\|Gloves of thievery]] | No |
-| [[/6. Mechanics/Items/hat-of-disguise.md\|Hat of disguise]] | Yes |
-| [[/6. Mechanics/Items/headband-of-intellect.md\|Headband of intellect]] | Yes |
-| [[/6. Mechanics/Items/helm-of-telepathy.md\|Helm of telepathy]] | Yes |
-| [[/6. Mechanics/Items/medallion-of-thoughts.md\|Medallion of thoughts]] | Yes |
-| [[/6. Mechanics/Items/periapt-of-wound-closure.md\|Periapt of wound closure]] | Yes |
-| [[/6. Mechanics/Items/pipes-of-haunting.md\|Pipes of haunting]] | No |
-| [[/6. Mechanics/Items/pipes-of-the-sewers.md\|Pipes of the sewers]] | Yes |
-| [[/6. Mechanics/Items/quiver-of-ehlonna.md\|Quiver of Ehlonna]] | No |
-| [[/6. Mechanics/Items/ring-of-jumping.md\|Ring of jumping]] | Yes |
-| [[/6. Mechanics/Items/ring-of-mind-shielding.md\|Ring of mind shielding]] | Yes |
-| [[/6. Mechanics/Items/ring-of-water-walking.md\|Ring of water walking]] | No |
-| [[/6. Mechanics/Items/slippers-of-spider-climbing.md\|Slippers of spider climbing]] | Yes |
-| [[/6. Mechanics/Items/winged-boots.md\|Winged boots]] | Yes |
+| [[/6. Mechanics/Items/Boots Of Elvenkind.md|Boots of elvenkind]] | No |
+| [[/6. Mechanics/Items/Boots Of Striding And Springing.md|Boots of striding and springing]] | Yes |
+| [[/6. Mechanics/Items/Boots Of The Winterlands.md|Boots of the winterlands]] | Yes |
+| [[/6. Mechanics/Items/Bracers Of Archery.md|Bracers of archery]] | Yes |
+| [[/6. Mechanics/Items/Brooch Of Shielding.md|Brooch of shielding]] | Yes |
+| [[/6. Mechanics/Items/Cloak Of Elvenkind.md|Cloak of elvenkind]] | Yes |
+| [[/6. Mechanics/Items/Cloak Of Protection.md|Cloak of protection]] | Yes |
+| [[/6. Mechanics/Items/Eyes Of Charming.md|Eyes of charming]] | Yes |
+| [[/6. Mechanics/Items/Eyes Of The Eagle.md|Eyes of the eagle]] | Yes |
+| [[/6. Mechanics/Items/Gauntlets Of Ogre Power.md|Gauntlets of ogre power]] | Yes |
+| [[/6. Mechanics/Items/Gloves Of Missile Snaring.md|Gloves of missile snaring]] | Yes |
+| [[/6. Mechanics/Items/Gloves Of Swimming And Climbing.md|Gloves of swimming and climbing]] | Yes |
+| [[/6. Mechanics/Items/Gloves Of Thievery.md|Gloves of thievery]] | No |
+| [[/6. Mechanics/Items/Hat Of Disguise.md|Hat of disguise]] | Yes |
+| [[/6. Mechanics/Items/Headband Of Intellect.md|Headband of intellect]] | Yes |
+| [[/6. Mechanics/Items/Helm Of Telepathy.md|Helm of telepathy]] | Yes |
+| [[/6. Mechanics/Items/Medallion Of Thoughts.md|Medallion of thoughts]] | Yes |
+| [[/6. Mechanics/Items/Periapt Of Wound Closure.md|Periapt of wound closure]] | Yes |
+| [[/6. Mechanics/Items/Pipes Of Haunting.md|Pipes of haunting]] | No |
+| [[/6. Mechanics/Items/Pipes Of The Sewers.md|Pipes of the sewers]] | Yes |
+| [[/6. Mechanics/Items/Quiver Of Ehlonna.md|Quiver of Ehlonna]] | No |
+| [[/6. Mechanics/Items/Ring Of Jumping.md|Ring of jumping]] | Yes |
+| [[/6. Mechanics/Items/Ring Of Mind Shielding.md|Ring of mind shielding]] | Yes |
+| [[/6. Mechanics/Items/Ring Of Water Walking.md|Ring of water walking]] | No |
+| [[/6. Mechanics/Items/Slippers Of Spider Climbing.md|Slippers of spider climbing]] | Yes |
+| [[/6. Mechanics/Items/Winged Boots.md|Winged boots]] | Yes |
 ^replicable-magic-items-12th-level-artificer
 
 **Replicable Magic Items (16th-Level Artificer)**
 
 | Magic Item | Attunement |
 |------------|------------|
-| [[/6. Mechanics/Items/amulet-of-health.md\|Amulet of health]] | Yes |
-| [[/6. Mechanics/Items/belt-of-hill-giant-strength.md\|Belt of hill giant strength]] | Yes |
-| [[/6. Mechanics/Items/boots-of-levitation.md\|Boots of levitation]] | Yes |
-| [[/6. Mechanics/Items/boots-of-speed.md\|Boots of speed]] | Yes |
-| [[/6. Mechanics/Items/bracers-of-defense.md\|Bracers of defense]] | Yes |
-| [[/6. Mechanics/Items/cloak-of-the-bat.md\|Cloak of the bat]] | Yes |
-| [[/6. Mechanics/Items/dimensional-shackles.md\|Dimensional shackles]] | No |
-| [[/6. Mechanics/Items/gem-of-seeing.md\|Gem of seeing]] | Yes |
-| [[/6. Mechanics/Items/horn-of-blasting.md\|Horn of blasting]] | No |
-| [[/6. Mechanics/Items/ring-of-free-action.md\|Ring of free action]] | Yes |
-| [[/6. Mechanics/Items/ring-of-protection.md\|Ring of protection]] | Yes |
-| [[/6. Mechanics/Items/ring-of-the-ram.md\|Ring of the ram]] | Yes |
+| [[/6. Mechanics/Items/Amulet Of Health.md|Amulet of health]] | Yes |
+| [[/6. Mechanics/Items/Belt Of Hill Giant Strength.md|Belt of hill giant strength]] | Yes |
+| [[/6. Mechanics/Items/Boots Of Levitation.md|Boots of levitation]] | Yes |
+| [[/6. Mechanics/Items/Boots Of Speed.md|Boots of speed]] | Yes |
+| [[/6. Mechanics/Items/Bracers Of Defense.md|Bracers of defense]] | Yes |
+| [[/6. Mechanics/Items/Cloak Of The Bat.md|Cloak of the bat]] | Yes |
+| [[/6. Mechanics/Items/Dimensional Shackles.md|Dimensional shackles]] | No |
+| [[/6. Mechanics/Items/Gem Of Seeing.md|Gem of seeing]] | Yes |
+| [[/6. Mechanics/Items/Horn Of Blasting.md|Horn of blasting]] | No |
+| [[/6. Mechanics/Items/Ring Of Free Action.md|Ring of free action]] | Yes |
+| [[/6. Mechanics/Items/Ring Of Protection.md|Ring of protection]] | Yes |
+| [[/6. Mechanics/Items/Ring Of The Ram.md|Ring of the ram]] | Yes |
 ^replicable-magic-items-16th-level-artificer
 
 ### Repulsion Shield
 
 A creature gains a +1 bonus to Armor Class while wielding this shield.
 
-The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains `dice: 1d4\|avg` (`1d4`) expended charges daily at dawn.
+The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains `dice: 1d4` (`1d4`) expended charges daily at dawn.
 
 ### Repulsion Shield
 _Source: Unearthed Arcana: Artificer Revisited p. 14_

@@ -17,7 +17,7 @@ A creature might flee under any of the following circumstances:
 A group of creatures might flee under any of the following circumstances:
 
 - All the creatures in the group are surprised.  
-- The group's leader is reduced to 0 hit points, [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], taken prisoner, or removed from battle.  
+- The group's leader is reduced to 0 hit points, [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], taken prisoner, or removed from battle.  
 - The group is reduced to half its original size with no losses on the opposing side.  
 
 To determine whether a creature or group of creatures flees, make a DC 10 Wisdom saving throw for the creature or the group's leader. If the opposition is overwhelming, the saving throw is made with disadvantage, or you can decide that the save fails automatically. If a group's leader can't make the saving throw for whatever reason, have the creature in the group with the next highest Charisma score make the saving throw instead.

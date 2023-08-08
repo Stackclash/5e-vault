@@ -14,12 +14,12 @@ aliases: ["Entertainer's Pack"]
 
 Includes:
 
-- a [[/6. Mechanics/Items/Backpack.md\|backpack]]  
-- a [[/6. Mechanics/Items/Bedroll.md\|bedroll]]  
-- 2 [[/6. Mechanics/Items/Costume Clothes.md\|costumes]]  
-- 5 [[/6. Mechanics/Items/Candle.md\|candles]]  
-- 5 days of [[/6. Mechanics/Items/rations-1-day.md\|rations]]  
-- a [[/6. Mechanics/Items/waterskin.md\|waterskin]]  
-- a [[/6. Mechanics/Items/Disguise Kit.md\|disguise kit]]  
+- a [[/6. Mechanics/Items/Backpack.md|backpack]]  
+- a [[/6. Mechanics/Items/Bedroll.md|bedroll]]  
+- 2 [[/6. Mechanics/Items/Costume Clothes.md|costumes]]  
+- 5 [[/6. Mechanics/Items/Candle.md|candles]]  
+- 5 days of [[/6. Mechanics/Items/Rations-1 Day.md|rations]]  
+- a [[/6. Mechanics/Items/Waterskin.md|waterskin]]  
+- a [[/6. Mechanics/Items/Disguise Kit.md|disguise kit]]  
 
 *Source: Player's Handbook p. 151*

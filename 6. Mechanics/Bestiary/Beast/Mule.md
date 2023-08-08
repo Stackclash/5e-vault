@@ -8,8 +8,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Mule
+*Source: Monster Manual p. 333, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Keys from the Golden Vault*  
+
+```statblock
 "name": "Mule"
 "size": "Medium"
 "type": "beast"
@@ -35,7 +39,7 @@ statblock-link: "#^statblock"
   "name": "Beast of Burden"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
+    \ effects that would knock it [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -48,41 +52,7 @@ statblock-link: "#^statblock"
 - "SKT"
 - "GoS"
 - "KftGV"
-"image": "/compendium/bestiary/beast/token/mule.png"
-aliases: ["Mule"]
----
-# Mule
-*Source: Monster Manual p. 333, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Keys from the Golden Vault*  
-
-```ad-statblock
-title: Mule
-![[/6. Mechanics/Bestiary/Beast/Token/mule.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 10 
-- **Hit Points** `dice: 2d8 + 2|text(11)` (2d8 + 2) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Languages** —
-- **Challenge** 1/8
-
-## Traits
-
-***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
-
-***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-## Actions
-
-***Hooves.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) bludgeoning damage.
+"image": "6. Mechanics/Bestiary/Beast/token/mule.png"
 ```
 ^statblock
 

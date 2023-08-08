@@ -7,80 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
-statblock: true
-statblock-link: "#^statblock"
-"name": "Duergar Stone Guard"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "dwarf"
-"alignment": "Any alignment"
-"ac": !!int "18"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"stats":
-- !!int "18"
-- !!int "11"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "9"
-"speed": "walk 25 ft."
-"damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
-"languages": "Dwarvish, Undercommon"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]],\
-    \ [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], and [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ conditions."
-  "name": "Duergar Resilience"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on attack rolls and Dexterity saving throws while\
-    \ standing within 5 feet of an ally wielding a [[/6. Mechanics/Items/shield.md\|shield]]."
-  "name": "Phalanx Formation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar makes two Shortsword or Javelin attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, or 11 (dice: 2d6 + 4|avg\
-    \ (2d6 + 4)) piercing damage while under the effect of Enlarge."
-  "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while under\
-    \ the effect of Enlarge."
-  "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken\
-    \ (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any equipment the duergar wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Invisibility (Recharges after a Short or Long Rest)"
-"bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
-    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
-    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
-    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
-    \ lacks the room to become Large, it attains the maximum size possible in the\
-    \ space available."
-  "name": "Enlarge (Recharges after a Short or Long Rest)"
-"source":
-- "MPMM"
-- "MTF"
-"image": "/compendium/bestiary/humanoid/token/duergar-stone-guard.png"
-aliases: ["Duergar Stone Guard"]
+statblock: inline
 ---
 # Duergar Stone Guard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*  
@@ -109,48 +36,78 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ## Stat Block
 
-```ad-statblock
-title: Duergar Stone Guard
-![[/6. Mechanics/Bestiary/Humanoid/Token/duergar-stone-guard.png#token]]
-*Medium humanoid(dwarf), Any alignment*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/chain-mail.md\|chain mail]], [[/6. Mechanics/Items/shield.md\|shield]])
-- **Hit Points** `dice: 6d8 + 12|text(39)` (6d8 + 12) 
-- **Speed** walk 25 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|14 (+2)|11 (+0)|10 (+0)| 9 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Damage Resistances** poison
-- **Languages** Dwarvish, Undercommon
-- **Challenge** 2
-
-## Traits
-
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]], and [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] conditions.
-
-***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a [[/6. Mechanics/Items/shield.md\|shield]].
-
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-## Actions
-
-***Multiattack.*** The duergar makes two Shortsword or Javelin attacks.
-
-***Shortsword.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 4` (`1d6 + 4`) piercing damage, or 11 (`dice: 2d6 + 4` (`2d6 + 4`)) piercing damage while under the effect of Enlarge.
-
-***Javelin.*** *Melee or Ranged Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft. or range 30/120 ft., one target. Hit: `dice: 1d6 + 4` (`1d6 + 4`) piercing damage, or 11 (`dice: 2d6 + 4` (`2d6 + 4`)) piercing damage while under the effect of Enlarge.
-
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [[6. Mechanics/Rules/status.md#concentration\|concentration]] is broken (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the duergar wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
-
-## Bonus Actions
-
-***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+```statblock
+"name": "Duergar Stone Guard"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "dwarf"
+"alignment": "Any alignment"
+"ac": !!int "18"
+"hp": !!int "39"
+"hit_dice": "6d8 + 12"
+"stats":
+- !!int "18"
+- !!int "11"
+- !!int "14"
+- !!int "11"
+- !!int "10"
+- !!int "9"
+"speed": "walk 25 ft."
+"damage_resistances": "poison"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "Dwarvish, Undercommon"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar has advantage on saving throws against spells and the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ conditions."
+  "name": "Duergar Resilience"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar has advantage on attack rolls and Dexterity saving throws while\
+    \ standing within 5 feet of an ally wielding a [[/6. Mechanics/Items/Shield.md|shield]]."
+  "name": "Phalanx Formation"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar makes two Shortsword or Javelin attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, or 11 (dice: 2d6 + 4|avg\
+    \ (2d6 + 4)) piercing damage while under the effect of Enlarge."
+  "name": "Shortsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while under\
+    \ the effect of Enlarge."
+  "name": "Javelin"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The duergar magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
+    \ throw, or its [[6. Mechanics/Rules/Status.md#concentration|concentration]] is broken\
+    \ (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any equipment the duergar wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Invisibility (Recharges after a Short or Long Rest)"
+"bonus_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
+    \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
+    \ damage dice on Strength-based weapon attacks (included in the attacks), and\
+    \ makes Strength checks and Strength saving throws with advantage. If the duergar\
+    \ lacks the room to become Large, it attains the maximum size possible in the\
+    \ space available."
+  "name": "Enlarge (Recharges after a Short or Long Rest)"
+"source":
+- "MPMM"
+- "MTF"
+"image": "6. Mechanics/Bestiary/Humanoid/token/duergar-stone-guard.png"
 ```
 ^statblock
 

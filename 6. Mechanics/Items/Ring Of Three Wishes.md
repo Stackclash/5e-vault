@@ -14,6 +14,6 @@ aliases: ["Ring of Three Wishes"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the [[/6. Mechanics/Spells/wish.md\|wish]] spell from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the [[/6. Mechanics/Spells/Wish.md|wish]] spell from it. The ring becomes nonmagical when you use the last charge.
 
 *Source: Dungeon Master's Guide p. 193*

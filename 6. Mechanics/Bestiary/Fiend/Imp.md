@@ -5,86 +5,14 @@ tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Imp"
-"size": "Tiny"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"hp": !!int "10"
-"hit_dice": "3d4 + 3"
-"stats":
-- !!int "6"
-- !!int "17"
-- !!int "13"
-- !!int "11"
-- !!int "12"
-- !!int "14"
-"speed": "walk 20 ft., fly 40 ft."
-"skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "5"
-  "Insight": !!int "3"
-  "Persuasion": !!int "4"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ not made with silvered weapons"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Infernal, Common"
-"cr": "1"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The imp can use its action to polymorph into a beast form that resembles\
-    \ a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb\
-    \ 20 ft.), or back into its true form. Its statistics are the same in each form,\
-    \ except for the speed changes noted. Any equipment it is wearing or carrying\
-    \ isn't transformed. It reverts to its true form if it dies."
-  "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the imp's darkvision."
-  "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The imp has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the target must make\
-    \ a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6)) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
-  "name": "Sting (Bite in Beast Form)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The imp magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ until it attacks, or until its [[6. Mechanics/Rules/status.md#concentration\|concentration]]\
-    \ ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any equipment the imp wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Invisibility"
-"source":
-- "MM"
-- "CoS"
-- "SKT"
-- "ToA"
-- "WDH"
-- "GoS"
-- "BGDIA"
-- "EGW"
-- "TCE"
-- "CM"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/imp.png"
-aliases: ["Imp"]
+statblock: inline
 ---
 # Imp
 *Source: Monster Manual p. 76, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, Candlekeep Mysteries, Keys from the Golden Vault*  
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
 
-An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [[6. Mechanics/Rules/conditions.md#invisible\|invisible]], attacking with its poison stinger.
+An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [[6. Mechanics/Rules/Conditions.md#invisible|invisible]], attacking with its poison stinger.
 
 > [!quote] Variant: Imp Familiar
 > 
@@ -189,7 +117,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -215,41 +143,76 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Imp
-![[/6. Mechanics/Bestiary/Fiend/Token/imp.png#token]]
-*Tiny fiend(devil), Lawful Evil*
-
-- **Armor Class** 13 
-- **Hit Points** `dice: 3d4 + 3|text(10)` (3d4 + 3) 
-- **Speed** walk 20 ft., fly 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks not made with silvered weapons
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
-- **Languages** Infernal, Common
-- **Challenge** 1
-
-## Traits
-
-***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision.
-
-***Magic Resistance.*** The imp has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (`dice: 3d6` (`3d6`)) poison damage on a failed save, or half as much damage on a successful one.
-
-***Invisibility.*** The imp magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] until it attacks, or until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the imp wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
+```statblock
+"name": "Imp"
+"size": "Tiny"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "10"
+"hit_dice": "3d4 + 3"
+"stats":
+- !!int "6"
+- !!int "17"
+- !!int "13"
+- !!int "11"
+- !!int "12"
+- !!int "14"
+"speed": "walk 20 ft., fly 40 ft."
+"skillsaves":
+  "Deception": !!int "4"
+  "Stealth": !!int "5"
+  "Insight": !!int "3"
+  "Persuasion": !!int "4"
+"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
+  \ not made with silvered weapons"
+"damage_immunities": "fire, poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Infernal, Common"
+"cr": "1"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The imp can use its action to polymorph into a beast form that resembles\
+    \ a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb\
+    \ 20 ft.), or back into its true form. Its statistics are the same in each form,\
+    \ except for the speed changes noted. Any equipment it is wearing or carrying\
+    \ isn't transformed. It reverts to its true form if it dies."
+  "name": "Shapechanger"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Magical darkness doesn't impede the imp's darkvision."
+  "name": "Devil's Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The imp has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the target must make\
+    \ a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6)) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
+  "name": "Sting (Bite in Beast Form)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The imp magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks, or until its [[6. Mechanics/Rules/Status.md#concentration|concentration]]\
+    \ ends (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any equipment the imp wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Invisibility"
+"source":
+- "MM"
+- "CoS"
+- "SKT"
+- "ToA"
+- "WDH"
+- "GoS"
+- "BGDIA"
+- "EGW"
+- "TCE"
+- "CM"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/imp.png"
 ```
 ^statblock

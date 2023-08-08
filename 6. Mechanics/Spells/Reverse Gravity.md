@@ -24,6 +24,6 @@ If some solid object (such as a ceiling) is encountered in this fall, falling ob
 
 At the end of the duration, affected objects and creatures fall back down.
 
-**Classes**: [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 272

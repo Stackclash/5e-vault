@@ -12,6 +12,6 @@ aliases: ["Ball Bearing"]
 - **Cost**: ⏤
 - **Weight**: 0.002 lbs.
 
-Most commonly found inside a [[/6. Mechanics/Items/Ball Bearings Bag Of-1-000.md\|bag of ball bearings]].
+Most commonly found inside a [[/6. Mechanics/Items/Ball Bearings Bag Of-1-000.md|bag of ball bearings]].
 
 *Source: Player's Handbook p. 151*

@@ -27,11 +27,11 @@ You gain oathbreaker spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/6. Mechanics/Spells/hellish-rebuke.md\|hellish rebuke]], [[/6. Mechanics/Spells/inflict-wounds.md\|inflict wounds]] |
-| 5th | [[/6. Mechanics/Spells/crown-of-madness.md\|crown of madness]], [[/6. Mechanics/Spells/darkness.md\|darkness]] |
-| 9th | [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]] |
-| 13th | [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/confusion.md\|confusion]] |
-| 17th | [[/6. Mechanics/Spells/contagion.md\|contagion]], [[/6. Mechanics/Spells/dominate-person.md\|dominate person]] |
+| 3rd | [[/6. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]], [[/6. Mechanics/Spells/Inflict Wounds.md|inflict wounds]] |
+| 5th | [[/6. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [[/6. Mechanics/Spells/Darkness.md|darkness]] |
+| 9th | [[/6. Mechanics/Spells/Animate Dead.md|animate dead]], [[/6. Mechanics/Spells/Bestow Curse.md|bestow curse]] |
+| 13th | [[/6. Mechanics/Spells/Blight.md|blight]], [[/6. Mechanics/Spells/Confusion.md|confusion]] |
+| 17th | [[/6. Mechanics/Spells/Contagion.md|contagion]], [[/6. Mechanics/Spells/Dominate Person.md|dominate person]] |
 ^oathbreaker-spells
 
 ### Oathbreaker Channel Divinity: Control Undead (Level 3)
@@ -40,7 +40,7 @@ As an action, the paladin targets one undead creature he or she can see within 3
 
 ### Oathbreaker Channel Divinity: Dreadful Aspect (Level 3)
 
-As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of the paladin for 1 minute. If a creature [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
+As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] of the paladin for 1 minute. If a creature [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
 
 ### Aura of Hate (Level 7)
 
@@ -54,8 +54,8 @@ At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashi
 
 ### Dread Lord (Level 20)
 
-At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] by the paladin starts its turn in the aura, it takes `dice: 4d10\|avg` (`4d10`) psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
+At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] by the paladin starts its turn in the aura, it takes `dice: 4d10` (`4d10`) psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.
 
-While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `dice: 3d10\|avg` (`3d10`) + the paladin's Charisma modifier.
+While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `dice: 3d10` (`3d10`) + the paladin's Charisma modifier.
 
 After activating the aura, the paladin can't do so again until he or she finishes a long rest.

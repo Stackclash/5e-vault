@@ -6,92 +6,7 @@ tags:
 - monster/size/medium
 - monster/type/fiend/demon
 - monster/type/fiend/shapechanger
-statblock: true
-statblock-link: "#^statblock"
-"name": "Yochlol"
-"size": "Medium"
-"type": "fiend"
-"subtype": "demon, shapechanger"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"hp": !!int "136"
-"hit_dice": "16d8 + 64"
-"stats":
-- !!int "15"
-- !!int "14"
-- !!int "18"
-- !!int "13"
-- !!int "15"
-- !!int "15"
-"speed": "walk 30 ft., climb 30 ft."
-"saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "5"
-"skillsaves":
-  "Deception": !!int "10"
-  "Insight": !!int "6"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 12"
-"languages": "Abyssal, Elvish, Undercommon"
-"cr": "10"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The\
-    \ yochlol can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/web.md\|web]]\n\
-    \n1/day: [[/6. Mechanics/Spells/dominate-person.md\|dominate person]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol can use its action to polymorph into a form that resembles\
-    \ a female drow or giant spider, or back into its true form. Its statistics are\
-    \ the same in each form. Any equipment it is wearing or carrying isn't transformed.\
-    \ It reverts to its true form if it dies."
-  "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol can climb difficult surfaces, including upside down on ceilings,\
-    \ without needing to make an ability check."
-  "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol ignores movement restrictions caused by webbing."
-  "name": "Web Walker"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol makes two melee attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. (10 feet\
-    \ in demon form), one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning\
-    \ (piercing in spider form) damage plus dice: 6d6|avg (6d6) poison damage."
-  "name": "Slam (Bite in Spider Form)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
-    \ equipment it is wearing or carrying is also transformed. It reverts to its true\
-    \ form if it dies.\n\nWhile in mist form, the yochlol is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]\
-    \ and can't speak. It has a flying speed of 30 feet, can hover, and can pass through\
-    \ any space that isn't airtight. It has advantage on Strength, Dexterity, and\
-    \ Constitution saving throws, and it is immune to nonmagical damage.\n\nWhile\
-    \ in mist form, the yochlol can enter a creature's space and stop there. Each\
-    \ time that creature starts its turn with the yochlol in its space, the creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ until the start of its next turn. While [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ in this way, the target is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Mist Form"
-"source":
-- "MM"
-- "WDMM"
-- "EGW"
-- "CRCotN"
-"image": "/compendium/bestiary/fiend/token/yochlol.png"
-aliases: ["Yochlol"]
+statblock: inline
 ---
 # Yochlol
 *Source: Monster Manual p. 65, Waterdeep: Dungeon of the Mad Mage, Explorer's Guide to Wildemount, Critical Role: Call of the Netherdeep*  
@@ -240,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -269,55 +184,89 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Yochlol
-![[/6. Mechanics/Bestiary/Fiend/Token/yochlol.png#token]]
-*Medium fiend(demon, shapechanger), Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 16d8 + 64|text(136)` (16d8 + 64) 
-- **Speed** walk 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|14 (+2)|18 (+4)|13 (+1)|15 (+2)|15 (+2)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +6, Intelligence +5, Wisdom +6, Charisma +6
-- **Skills** Deception +10, Insight +6
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Elvish, Undercommon
-- **Challenge** 10
-
-## Traits
-
-***Shapechanger.*** The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Magic Resistance.*** The yochlol has advantage on saving throws against spells and other magical effects.
-
-***Spider Climb.*** The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-
-***Web Walker.*** The yochlol ignores movement restrictions caused by webbing.
-
-***Innate Spellcasting.*** The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/web.md\|web]]
-
-**1/day**: [[/6. Mechanics/Spells/dominate-person.md\|dominate person]]
-
-## Actions
-
-***Multiattack.*** The yochlol makes two melee attacks.
-
-***Slam (Bite in Spider Form).*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft. (10 feet in demon form), one target. Hit: 5 (`dice: 1d6 + 2` (`1d6 + 2`)) bludgeoning (piercing in spider form) damage plus `dice: 6d6` (`6d6`) poison damage.
-
-***Mist Form.*** The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
-
-While in mist form, the yochlol is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] and can't speak. It has a flying speed of 30 feet, can hover, and can pass through any space that isn't airtight. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to nonmagical damage.
-
-While in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] until the start of its next turn. While [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way, the target is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+```statblock
+"name": "Yochlol"
+"size": "Medium"
+"type": "fiend"
+"subtype": "demon, shapechanger"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "136"
+"hit_dice": "16d8 + 64"
+"stats":
+- !!int "15"
+- !!int "14"
+- !!int "18"
+- !!int "13"
+- !!int "15"
+- !!int "15"
+"speed": "walk 30 ft., climb 30 ft."
+"saves":
+  "Charisma": !!int "6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "5"
+"skillsaves":
+  "Deception": !!int "10"
+  "Insight": !!int "6"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "Abyssal, Elvish, Undercommon"
+"cr": "10"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The\
+    \ yochlol can innately cast the following spells, requiring no material components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/6. Mechanics/Spells/Web.md|web]]\n\
+    \n1/day: [[/6. Mechanics/Spells/Dominate Person.md|dominate person]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol can use its action to polymorph into a form that resembles\
+    \ a female drow or giant spider, or back into its true form. Its statistics are\
+    \ the same in each form. Any equipment it is wearing or carrying isn't transformed.\
+    \ It reverts to its true form if it dies."
+  "name": "Shapechanger"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol can climb difficult surfaces, including upside down on ceilings,\
+    \ without needing to make an ability check."
+  "name": "Spider Climb"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol ignores movement restrictions caused by webbing."
+  "name": "Web Walker"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol makes two melee attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. (10 feet\
+    \ in demon form), one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning\
+    \ (piercing in spider form) damage plus dice: 6d6|avg (6d6) poison damage."
+  "name": "Slam (Bite in Spider Form)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
+    \ equipment it is wearing or carrying is also transformed. It reverts to its true\
+    \ form if it dies.\n\nWhile in mist form, the yochlol is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ and can't speak. It has a flying speed of 30 feet, can hover, and can pass through\
+    \ any space that isn't airtight. It has advantage on Strength, Dexterity, and\
+    \ Constitution saving throws, and it is immune to nonmagical damage.\n\nWhile\
+    \ in mist form, the yochlol can enter a creature's space and stop there. Each\
+    \ time that creature starts its turn with the yochlol in its space, the creature\
+    \ must succeed on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ until the start of its next turn. While [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ in this way, the target is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Mist Form"
+"source":
+- "MM"
+- "WDMM"
+- "EGW"
+- "CRCotN"
+"image": "/compendium/bestiary/fiend/token/yochlol.png"
 ```
 ^statblock

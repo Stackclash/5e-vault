@@ -12,7 +12,7 @@ aliases: ["Sling"]
 
 - **Damage**: 1d4 B
 - **Range**: 30/120
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Ammunition\|Ammunition]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]]
 - **Cost**: 1 sp
 - **Weight**: ⏤
 

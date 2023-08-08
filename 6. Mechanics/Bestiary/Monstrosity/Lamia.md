@@ -6,8 +6,36 @@ tags:
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Lamia
+*Source: Monster Manual p. 201, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
+
+Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[/6. Mechanics/Bestiary/Humanoid/Jackalwere.md|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
+
+A lamia has a beautiful humanoid upper body that merges into a powerful four-legged leonine form. Its vicious black claws speak to its predatory nature, as does its hunger for torture and humanoid flesh.
+
+## Tyrants of Pleasure
+
+Lamias adorn their crumbling havens with finery stolen from passing caravans, then use magic to further accentuate their lairs, masking decay with illusion. A lair's breathtaking gardens, finely decorated apartments, and numerous slaves seem at odds with its remoteness and state of ruin.
+
+Using its intoxicating touch, a lamia weakens the minds of its enemies, making them more susceptible to its enchantment spells and turning them into its slaves. Those it beguiles with [[/6. Mechanics/Spells/Geas.md|geas]] spells are pitted against each other in elaborate contests for the lamia's amusement.
+
+## Vain Predators
+
+Always anxious to gain more wealth and slaves, a lamia uses a pool of water or a mirror in conjunction with a [[/6. Mechanics/Spells/Scrying.md|scrying]] spell to view its domain. A lamia uses this power to watch over trade routes and nearby settlements, or to seek out objects and creatures it fancies.
+
+Lamias are particularly fond of seeking out adventurers with pure hearts to seduce and corrupt to evil, savoring the destruction of their virtue. They use their magic to lure potential victims to their lairs, relying on illusion and their thralls to capture hapless foes. Lamias prize beauty and strength above all else, however. Any prisoner that falls short of their esteem becomes the main course in a horrible feast, or is set free to die while wandering the wastes.
+
+As long as they have slaves to face their enemies, lamias fight from the fringes, beguiling foes with magic if they can. A lamia pressed into melee never stays there for long, shredding flesh with claw and dagger before springing away to safety.
+
+## Minions of Graz'zt
+
+The demon lord Graz'zt creates lamias from his mortal servants, granting them immortality in return for monstrous power and an oath of fealty. Graz'zt sometimes tasks lamias with guarding locations important to him, but lamias in his service remain free to spread their evil as they see fit.
+
+## Stat Block
+
+```statblock
 "name": "Lamia"
 "size": "Large"
 "type": "monstrosity"
@@ -34,11 +62,11 @@ statblock-link: "#^statblock"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The lamia's innate spellcasting ability is Charisma (spell save DC 13).\
     \ It can innately cast the following spells, requiring no material components.\n\
-    \nAt will: [[/6. Mechanics/Spells/disguise-self.md\|disguise self]] (any humanoid\
-    \ form), [[/6. Mechanics/Spells/major-image.md\|major image]]\n\n1/day: [[/6. Mechanics/Spells/geas.md\|geas]]\n\
-    \n3/day each: [[/6. Mechanics/Spells/charm-person.md\|charm person]], [mirror\
-    \ image](/compendium/spells/mirror-image.md), [[/6. Mechanics/Spells/scrying.md\|scrying]],\
-    \ [[/6. Mechanics/Spells/suggestion.md\|suggestion]]"
+    \nAt will: [[/6. Mechanics/Spells/Disguise Self.md|disguise self]] (any humanoid\
+    \ form), [[/6. Mechanics/Spells/Major Image.md|major image]]\n\n1/day: [[/6. Mechanics/Spells/Geas.md|geas]]\n\
+    \n3/day each: [[/6. Mechanics/Spells/Charm Person.md|charm person]], [mirror\
+    \ image](/compendium/spells/mirror-image.md), [[/6. Mechanics/Spells/Scrying.md|scrying]],\
+    \ [[/6. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "innate"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -64,73 +92,7 @@ statblock-link: "#^statblock"
 - "MOT"
 - "CM"
 - "WBtW"
-"image": "/compendium/bestiary/monstrosity/token/lamia.png"
-aliases: ["Lamia"]
----
-# Lamia
-*Source: Monster Manual p. 201, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
-
-Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[/6. Mechanics/Bestiary/Humanoid/Jackalwere.md\|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
-
-A lamia has a beautiful humanoid upper body that merges into a powerful four-legged leonine form. Its vicious black claws speak to its predatory nature, as does its hunger for torture and humanoid flesh.
-
-## Tyrants of Pleasure
-
-Lamias adorn their crumbling havens with finery stolen from passing caravans, then use magic to further accentuate their lairs, masking decay with illusion. A lair's breathtaking gardens, finely decorated apartments, and numerous slaves seem at odds with its remoteness and state of ruin.
-
-Using its intoxicating touch, a lamia weakens the minds of its enemies, making them more susceptible to its enchantment spells and turning them into its slaves. Those it beguiles with [[/6. Mechanics/Spells/geas.md\|geas]] spells are pitted against each other in elaborate contests for the lamia's amusement.
-
-## Vain Predators
-
-Always anxious to gain more wealth and slaves, a lamia uses a pool of water or a mirror in conjunction with a [[/6. Mechanics/Spells/scrying.md\|scrying]] spell to view its domain. A lamia uses this power to watch over trade routes and nearby settlements, or to seek out objects and creatures it fancies.
-
-Lamias are particularly fond of seeking out adventurers with pure hearts to seduce and corrupt to evil, savoring the destruction of their virtue. They use their magic to lure potential victims to their lairs, relying on illusion and their thralls to capture hapless foes. Lamias prize beauty and strength above all else, however. Any prisoner that falls short of their esteem becomes the main course in a horrible feast, or is set free to die while wandering the wastes.
-
-As long as they have slaves to face their enemies, lamias fight from the fringes, beguiling foes with magic if they can. A lamia pressed into melee never stays there for long, shredding flesh with claw and dagger before springing away to safety.
-
-## Minions of Graz'zt
-
-The demon lord Graz'zt creates lamias from his mortal servants, granting them immortality in return for monstrous power and an oath of fealty. Graz'zt sometimes tasks lamias with guarding locations important to him, but lamias in his service remain free to spread their evil as they see fit.
-
-## Stat Block
-
-```ad-statblock
-title: Lamia
-![[/6. Mechanics/Bestiary/Monstrosity/Token/lamia.png#token]]
-*Large monstrosity, Chaotic Evil*
-
-- **Armor Class** 13 (natural armor)
-- **Hit Points** `dice: 13d10 + 26|text(97)` (13d10 + 26) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Deception +7, Insight +4, Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** Abyssal, Common
-- **Challenge** 4
-
-***Innate Spellcasting.*** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
-
-**At will**: [[/6. Mechanics/Spells/disguise-self.md\|disguise self]] (any humanoid form), [[/6. Mechanics/Spells/major-image.md\|major image]]
-
-**1/day**: [[/6. Mechanics/Spells/geas.md\|geas]]
-
-**3/day each**: [[/6. Mechanics/Spells/charm-person.md\|charm person]], [[/6. Mechanics/Spells/mirror-image.md\|mirror image]], [[/6. Mechanics/Spells/scrying.md\|scrying]], [[/6. Mechanics/Spells/suggestion.md\|suggestion]]
-
-## Actions
-
-***Multiattack.*** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d10 + 3` (`2d10 + 3`) slashing damage.
-
-***Dagger.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage.
-
-***Intoxicating Touch.*** *Melee Spell Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+"image": "6. Mechanics/Bestiary/Monstrosity/token/lamia.png"
 ```
 ^statblock
 

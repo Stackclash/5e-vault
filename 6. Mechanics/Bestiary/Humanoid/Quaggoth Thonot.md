@@ -6,59 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/quaggoth
-statblock: true
-statblock-link: "#^statblock"
-"name": "Quaggoth Thonot"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "quaggoth"
-"alignment": "Chaotic Neutral"
-"ac": !!int "13"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"stats":
-- !!int "17"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "12"
-- !!int "7"
-"speed": "walk 30 ft., climb 30 ft."
-"skillsaves":
-  "Athletics": !!int "5"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
-"languages": "Undercommon"
-"cr": "3"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11).\
-    \ The quaggoth can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[/6. Mechanics/Spells/feather-fall.md\|feather fall]], [[/6. Mechanics/Spells/mage-hand.md\|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]],\
-    \ [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [[/6. Mechanics/Spells/heat-metal.md\|heat metal]],\
-    \ [[/6. Mechanics/Spells/mirror-image.md\|mirror image]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
-    \ rolls. In addition, it deals an extra 7 (dice: 2d6|avg (2d6)) damage to\
-    \ any target it hits with a melee attack."
-  "name": "Wounded Fury"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quaggoth makes two claw attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
-  "name": "Claw"
-"source":
-- "MM"
-- "WDMM"
-- "IDRotF"
-"image": "/compendium/bestiary/humanoid/token/quaggoth-thonot.png"
-aliases: ["Quaggoth Thonot"]
+statblock: inline
 ---
 # Quaggoth Thonot
 *Source: Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  
@@ -87,43 +35,57 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 
 ## Stat Block
 
-```ad-statblock
-title: Quaggoth Thonot
-![[/6. Mechanics/Bestiary/Humanoid/Token/quaggoth-thonot.png#token]]
-*Medium humanoid(quaggoth), Chaotic Neutral*
-
-- **Armor Class** 13 (natural armor)
-- **Hit Points** `dice: 6d8 + 18|text(45)` (6d8 + 18) 
-- **Speed** walk 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|12 (+1)|16 (+3)| 6 (-2)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Athletics +5
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Undercommon
-- **Challenge** 3
-
-## Traits
-
-***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (`dice: 2d6` (`2d6`)) damage to any target it hits with a melee attack.
-
-***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:
-
-**At will**: [[/6. Mechanics/Spells/feather-fall.md\|feather fall]], [[/6. Mechanics/Spells/mage-hand.md\|mage hand]] (the hand is invisible)
-
-**1/day each**: [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [[/6. Mechanics/Spells/heat-metal.md\|heat metal]], [[/6. Mechanics/Spells/mirror-image.md\|mirror image]]
-
-## Actions
-
-***Multiattack.*** The quaggoth makes two claw attacks.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) slashing damage.
+```statblock
+"name": "Quaggoth Thonot"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "quaggoth"
+"alignment": "Chaotic Neutral"
+"ac": !!int "13"
+"hp": !!int "45"
+"hit_dice": "6d8 + 18"
+"stats":
+- !!int "17"
+- !!int "12"
+- !!int "16"
+- !!int "6"
+- !!int "12"
+- !!int "7"
+"speed": "walk 30 ft., climb 30 ft."
+"skillsaves":
+  "Athletics": !!int "5"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "Undercommon"
+"cr": "3"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11).\
+    \ The quaggoth can innately cast the following spells, requiring no components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Feather Fall.md|feather fall]], [[/6. Mechanics/Spells/Mage Hand.md|mage hand]]\
+    \ (the hand is invisible)\n\n1/day each: [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+    \ [enlarge/reduce](/compendium/spells/enlarge-reduce.md), [[/6. Mechanics/Spells/Heat Metal.md|heat metal]],\
+    \ [[/6. Mechanics/Spells/Mirror Image.md|mirror image]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
+    \ rolls. In addition, it deals an extra 7 (dice: 2d6|avg (2d6)) damage to\
+    \ any target it hits with a melee attack."
+  "name": "Wounded Fury"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The quaggoth makes two claw attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+  "name": "Claw"
+"source":
+- "MM"
+- "WDMM"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Humanoid/token/quaggoth-thonot.png"
 ```
 ^statblock
 

@@ -5,74 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Bone Devil"
-"size": "Large"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "19"
-"hp": !!int "142"
-"hit_dice": "15d10 + 60"
-"stats":
-- !!int "18"
-- !!int "16"
-- !!int "18"
-- !!int "13"
-- !!int "14"
-- !!int "16"
-"speed": "walk 40 ft., fly 40 ft."
-"saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "5"
-"skillsaves":
-  "Deception": !!int "7"
-  "Insight": !!int "6"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 12"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "9"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
-  "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes three attacks: two with its claws and one with its sting."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage plus dice: 5d6|avg (5d6)\
-    \ poison damage, and the target must succeed on a DC 14 Constitution saving throw\
-    \ or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 minute.\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
-  "name": "Sting"
-"source":
-- "MM"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "EGW"
-- "DSotDQ"
-"image": "/compendium/bestiary/fiend/token/bone-devil.png"
-aliases: ["Bone Devil"]
+statblock: inline
 ---
 # Bone Devil
 *Source: Monster Manual p. 71, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Divine Contention, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Dragonlance: Shadow of the Dragon Queen*  
@@ -177,7 +110,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -203,41 +136,71 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Bone Devil
-![[/6. Mechanics/Bestiary/Fiend/Token/bone-devil.png#token]]
-*Large fiend(devil), Lawful Evil*
-
-- **Armor Class** 19 (natural armor)
-- **Hit Points** `dice: 15d10 + 60|text(142)` (15d10 + 60) 
-- **Speed** walk 40 ft., fly 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Intelligence +5, Wisdom +6, Charisma +7
-- **Skills** Deception +7, Insight +6
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 9
-
-## Traits
-
-***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
-
-***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The devil makes three attacks: two with its claws and one with its sting.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 10 ft., one target. Hit: `dice: 1d8 + 4` (`1d8 + 4`) slashing damage.
-
-***Sting.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 10 ft., one target. Hit: `dice: 2d8 + 4` (`2d8 + 4`) piercing damage plus `dice: 5d6` (`5d6`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+```statblock
+"name": "Bone Devil"
+"size": "Large"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "19"
+"hp": !!int "142"
+"hit_dice": "15d10 + 60"
+"stats":
+- !!int "18"
+- !!int "16"
+- !!int "18"
+- !!int "13"
+- !!int "14"
+- !!int "16"
+"speed": "walk 40 ft., fly 40 ft."
+"saves":
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "5"
+"skillsaves":
+  "Deception": !!int "7"
+  "Insight": !!int "6"
+"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
+  \ that aren't silvered"
+"damage_immunities": "fire, poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "Infernal, telepathy 120 ft."
+"cr": "9"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Magical darkness doesn't impede the devil's darkvision."
+  "name": "Devil's Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil makes three attacks: two with its claws and one with its sting."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage plus dice: 5d6|avg (5d6)\
+    \ poison damage, and the target must succeed on a DC 14 Constitution saving throw\
+    \ or become [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
+  "name": "Sting"
+"source":
+- "MM"
+- "RoT"
+- "ToA"
+- "WDMM"
+- "DC"
+- "DIP"
+- "BGDIA"
+- "EGW"
+- "DSotDQ"
+"image": "/compendium/bestiary/fiend/token/bone-devil.png"
 ```
 ^statblock

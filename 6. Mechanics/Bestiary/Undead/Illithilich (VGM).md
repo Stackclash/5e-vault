@@ -6,132 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Illithilich"
-"size": "Medium"
-"type": "undead"
-"alignment": "Any Evil Alignment"
-"ac": !!int "17"
-"hp": !!int "135"
-"hit_dice": "18d8 + 54"
-"stats":
-- !!int "11"
-- !!int "16"
-- !!int "16"
-- !!int "20"
-- !!int "14"
-- !!int "16"
-"speed": "walk 30 ft."
-"saves":
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "12"
-  "Constitution": !!int "10"
-"skillsaves":
-  "Insight": !!int "9"
-  "Perception": !!int "9"
-  "History": !!int "12"
-  "Arcana": !!int "19"
-"damage_resistances": "cold, lightning, necrotic"
-"damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
-"senses": "truesight 120 ft., passive Perception 19"
-"languages": "Deep Speech, Undercommon, telepathy 120 ft."
-"cr": "22"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich's innate spellcasting ability is Intelligence (spell save\
-    \ DC 20). It can innately cast the following spells, requiring no components.\n\
-    \nAt will: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/levitate.md\|levitate]]\n\
-    \n1/day each: [[/6. Mechanics/Spells/dominate-monster.md\|dominate monster]],\
-    \ [[/6. Mechanics/Spells/plane-shift.md\|plane shift]] (self only)"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
-    \ is Intelligence (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks).\
-    \ The lich has the following wizard spells prepared:\n\nCantrips (at will):\
-    \ [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]],\
-    \ [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]]\n\n1st level (4 1st-level\
-    \ slots): [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/magic-missile.md\|magic missile]],\
-    \ [[/6. Mechanics/Spells/shield.md\|shield]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]]\n\
-    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]],\
-    \ [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/melfs-acid-arrow.md\|Melf's acid arrow]],\
-    \ [[/6. Mechanics/Spells/mirror-image.md\|mirror image]]\n\n3rd level (3 3rd-level\
-    \ slots): [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/counterspell.md\|counterspell]],\
-    \ [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/fireball.md\|fireball]]\n\
-    \n4th level (3 4th-level slots): [[/6. Mechanics/Spells/blight.md\|blight]], [dimension\
-    \ door](/compendium/spells/dimension-door.md)\n\n5th level (3 5th-level slots):\
-    \ [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]], [[/6. Mechanics/Spells/scrying.md\|scrying]]\n\
-    \n6th level (1 6th-level slots): [[/6. Mechanics/Spells/disintegrate.md\|disintegrate]],\
-    \ [[/6. Mechanics/Spells/globe-of-invulnerability.md\|globe of invulnerability]]\n\
-    \n7th level (1 7th-level slots): [[/6. Mechanics/Spells/finger-of-death.md\|finger of death]],\
-    \ [[/6. Mechanics/Spells/plane-shift.md\|plane shift]]\n\n8th level (1 8th-level\
-    \ slots): [[/6. Mechanics/Spells/dominate-monster.md\|dominate monster]], [power\
-    \ word stun](/compendium/spells/power-word-stun.md)\n\n9th level (1 9th-level\
-    \ slots): [[/6. Mechanics/Spells/power-word-kill.md\|power word kill]]"
-  "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the illithilich fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If it has a phylactery, a destroyed illithilich gains a new body in dice:\
-    \ 1d10|avg (1d10) days, regaining all its hit points and becoming active again.\
-    \ The new body appears within 5 feet of the phylactery."
-  "name": "Rejuvenation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich has advantage on saving throws against any effect that\
-    \ turns undead."
-  "name": "Turn Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d6|avg (3d6) cold damage. The target must succeed on a DC 18\
-    \ Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Paralyzing Touch"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d10 + 5|avg (3d10 + 5) psychic damage. If the target is Large\
-    \ or smaller, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape\
-    \ DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]]\
-    \ until this grapple ends."
-  "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]\
-    \ humanoid [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by the lich. Hit:\
-    \ dice: 10d10|avg (10d10) piercing damage. If this damage reduces the target\
-    \ to 0 hit points, the lich kills the target by extracting and devouring its brain."
-  "name": "Extract Brain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich magically emits psychic energy in a 60-foot cone. Each\
-    \ creature in that area must succeed on a DC 18 Intelligence saving throw or take\
-    \ dice: 5d8 + 5|avg (5d8 + 5) psychic damage and be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Mind Blast (Recharge 5-6)"
-"legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich makes one attack with its tentacles."
-  "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich uses Extract Brain."
-  "name": "Extract Brain (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich recharges its Mind Blast and uses it."
-  "name": "Mind Blast (Costs 3 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell\
-    \ that it has prepared. Doing so costs 1 legendary action per level of the spell."
-  "name": "Cast Spell (Costs 1–3 Actions)"
-"source":
-- "VGM"
-"image": "/compendium/bestiary/undead/token/illithilich.png"
-aliases: ["Illithilich"]
+statblock: inline
 ---
 # Illithilich
 *Source: Volo's Guide to Monsters p. 172*  
@@ -174,7 +49,7 @@ Unlike with true lichdom, the periapt of mind trapping doesn't restore the alhoo
 
 ## Variant: Mind Flayer Lich (Illithilich)
 
-The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [[/6. Mechanics/Spells/imprisonment.md\|imprisonment]] spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
+The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [[/6. Mechanics/Spells/Imprisonment.md|imprisonment]] spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
 
 - It has a challenge rating of 22 (41,000 XP).  
 - It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.  
@@ -197,15 +72,15 @@ The lich's innate spellcasting ability is Intelligence (spell save DC 20). It ca
 
 ### Tentacles
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`dice: 3d10 + 5` (`3d10 + 5`)) psychic damage. If the target is Large or smaller, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until this grapple ends.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`dice: 3d10 + 5` (`3d10 + 5`)) psychic damage. If the target is Large or smaller, it is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]] until this grapple ends.
 
 ### Extract Brain
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] humanoid [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by the lich. Hit: 55 (`dice: 10d10` (`10d10`)) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] humanoid [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by the lich. Hit: 55 (`dice: 10d10` (`10d10`)) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
 ### Mind Blast (Recharge 5-6)
 
-The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take `dice: 5d8 + 5` (`5d8 + 5`) psychic damage and be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take `dice: 5d8 + 5` (`5d8 + 5`) psychic damage and be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Illithilich Legendary Actions
 
@@ -229,94 +104,130 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 
 ## Stat Block
 
-```ad-statblock
-title: Illithilich
-![[/6. Mechanics/Bestiary/Undead/Token/illithilich.png#token]]
-*Medium undead, Any Evil Alignment*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 18d8 + 54|text(135)` (18d8 + 54) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Constitution +10, Intelligence +12, Wisdom +9
-- **Skills** Arcana +19, History +12, Insight +9, Perception +9
-- **Senses** truesight 120 ft., passive Perception 19
-- **Damage Resistances** cold, lightning, necrotic
-- **Damage Immunities** poison; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
-- **Challenge** 22
-
-## Traits
-
-***Legendary Resistance (3/Day).*** If the illithilich fails a saving throw, it can choose to succeed instead.
-
-***Rejuvenation.*** If it has a phylactery, a destroyed illithilich gains a new body in `dice: 1d10` (`1d10`) days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
-
-***Turn Resistance.*** The illithilich has advantage on saving throws against any effect that turns undead.
-
-***Magic Resistance.*** The illithilich has advantage on saving throws against spells and other magical effects.
-
-***Innate Spellcasting (Psionics).*** The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.
-
-**At will**: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/levitate.md\|levitate]]
-
-**1/day each**: [[/6. Mechanics/Spells/dominate-monster.md\|dominate monster]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]] (self only)
-
-***Spellcasting.*** The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, `dice: d20+12` (+12 to hit) with spell attacks). The lich has the following wizard spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/prestidigitation.md\|prestidigitation]], [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/magic-missile.md\|magic missile]], [[/6. Mechanics/Spells/shield.md\|shield]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]], [[/6. Mechanics/Spells/melfs-acid-arrow.md\|Melf's acid arrow]], [[/6. Mechanics/Spells/mirror-image.md\|mirror image]]
-
-**3rd level (3 3rd-level slots)**: [[/6. Mechanics/Spells/animate-dead.md\|animate dead]], [[/6. Mechanics/Spells/counterspell.md\|counterspell]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/fireball.md\|fireball]]
-
-**4th level (3 4th-level slots)**: [[/6. Mechanics/Spells/blight.md\|blight]], [[/6. Mechanics/Spells/dimension-door.md\|dimension door]]
-
-**5th level (3 5th-level slots)**: [[/6. Mechanics/Spells/cloudkill.md\|cloudkill]], [[/6. Mechanics/Spells/scrying.md\|scrying]]
-
-**6th level (1 6th-level slots)**: [[/6. Mechanics/Spells/disintegrate.md\|disintegrate]], [[/6. Mechanics/Spells/globe-of-invulnerability.md\|globe of invulnerability]]
-
-**7th level (1 7th-level slots)**: [[/6. Mechanics/Spells/finger-of-death.md\|finger of death]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]]
-
-**8th level (1 8th-level slots)**: [[/6. Mechanics/Spells/dominate-monster.md\|dominate monster]], [[/6. Mechanics/Spells/power-word-stun.md\|power word stun]]
-
-**9th level (1 9th-level slots)**: [[/6. Mechanics/Spells/power-word-kill.md\|power word kill]]
-
-## Actions
-
-***Paralyzing Touch.*** *Melee Spell Attack:* `dice: d20+12` (+12 to hit), reach 5 ft., one creature. Hit: `dice: 3d6` (`3d6`) cold damage. The target must succeed on a DC 18 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-***Tentacles.*** *Melee Weapon Attack:* `dice: d20+12` (+12 to hit), reach 5 ft., one creature. Hit: `dice: 3d10 + 5` (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until this grapple ends.
-
-***Extract Brain.*** *Melee Weapon Attack:* `dice: d20+12` (+12 to hit), reach 5 ft., one [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] humanoid [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by the lich. Hit: `dice: 10d10` (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
-
-***Mind Blast (Recharge 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take `dice: 5d8 + 5` (`5d8 + 5`) psychic damage and be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-## Legendary Actions
-
-***Tentacles.*** The illithilich makes one attack with its tentacles.
-
-***Extract Brain (Costs 2 Actions).*** The illithilich uses Extract Brain.
-
-***Mind Blast (Costs 3 Actions).*** The illithilich recharges its Mind Blast and uses it.
-
-***Cast Spell (Costs 1–3 Actions).*** The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell.
-
-## Lair actions
-
-On initiative count 20 (losing initiative ties), the illithilich can take a lair action to cause one of the following magical effects; the illithilich can't use the same effect two rounds in a row:
-
-- The illithilich rolls a `dice: d8` (`d8`) and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.  
-- The illithilich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the illithilich to the target. Whenever the illithilich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the illithilich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the illithilich or the target is no longer in the illithilich's lair.  
-- The illithilich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the illithilich can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, taking 52 (`dice: 15d6` (`15d6`)) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear.  
+```statblock
+"name": "Illithilich"
+"size": "Medium"
+"type": "undead"
+"alignment": "Any Evil Alignment"
+"ac": !!int "17"
+"hp": !!int "135"
+"hit_dice": "18d8 + 54"
+"stats":
+- !!int "11"
+- !!int "16"
+- !!int "16"
+- !!int "20"
+- !!int "14"
+- !!int "16"
+"speed": "walk 30 ft."
+"saves":
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "12"
+  "Constitution": !!int "10"
+"skillsaves":
+  "Insight": !!int "9"
+  "Perception": !!int "9"
+  "History": !!int "12"
+  "Arcana": !!int "19"
+"damage_resistances": "cold, lightning, necrotic"
+"damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "truesight 120 ft., passive Perception 19"
+"languages": "Deep Speech, Undercommon, telepathy 120 ft."
+"cr": "22"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich's innate spellcasting ability is Intelligence (spell save\
+    \ DC 20). It can innately cast the following spells, requiring no components.\n\
+    \nAt will: [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/6. Mechanics/Spells/Levitate.md|levitate]]\n\
+    \n1/day each: [[/6. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
+    \ [[/6. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
+    \ is Intelligence (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks).\
+    \ The lich has the following wizard spells prepared:\n\nCantrips (at will):\
+    \ [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], [[/6. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+    \ [[/6. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 1st-level\
+    \ slots): [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [[/6. Mechanics/Spells/Magic Missile.md|magic missile]],\
+    \ [[/6. Mechanics/Spells/Shield.md|shield]], [[/6. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
+    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[/6. Mechanics/Spells/Invisibility.md|invisibility]], [[/6. Mechanics/Spells/Melfs Acid Arrow.md|Melf's acid arrow]],\
+    \ [[/6. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 3rd-level\
+    \ slots): [[/6. Mechanics/Spells/Animate Dead.md|animate dead]], [[/6. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \ [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/6. Mechanics/Spells/Fireball.md|fireball]]\n\
+    \n4th level (3 4th-level slots): [[/6. Mechanics/Spells/Blight.md|blight]], [dimension\
+    \ door](/compendium/spells/dimension-door.md)\n\n5th level (3 5th-level slots):\
+    \ [[/6. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/6. Mechanics/Spells/Scrying.md|scrying]]\n\
+    \n6th level (1 6th-level slots): [[/6. Mechanics/Spells/Disintegrate.md|disintegrate]],\
+    \ [[/6. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\
+    \n7th level (1 7th-level slots): [[/6. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+    \ [[/6. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 8th-level\
+    \ slots): [[/6. Mechanics/Spells/Dominate Monster.md|dominate monster]], [power\
+    \ word stun](/compendium/spells/power-word-stun.md)\n\n9th level (1 9th-level\
+    \ slots): [[/6. Mechanics/Spells/Power Word Kill.md|power word kill]]"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the illithilich fails a saving throw, it can choose to succeed instead."
+  "name": "Legendary Resistance (3/Day)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If it has a phylactery, a destroyed illithilich gains a new body in dice:\
+    \ 1d10|avg (1d10) days, regaining all its hit points and becoming active again.\
+    \ The new body appears within 5 feet of the phylactery."
+  "name": "Rejuvenation"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich has advantage on saving throws against any effect that\
+    \ turns undead."
+  "name": "Turn Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich has advantage on saving throws against spells and other\
+    \ magical effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 3d6|avg (3d6) cold damage. The target must succeed on a DC 18\
+    \ Constitution saving throw or be [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
+  "name": "Paralyzing Touch"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 3d10 + 5|avg (3d10 + 5) psychic damage. If the target is Large\
+    \ or smaller, it is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ until this grapple ends."
+  "name": "Tentacles"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ humanoid [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by the lich. Hit:\
+    \ dice: 10d10|avg (10d10) piercing damage. If this damage reduces the target\
+    \ to 0 hit points, the lich kills the target by extracting and devouring its brain."
+  "name": "Extract Brain"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich magically emits psychic energy in a 60-foot cone. Each\
+    \ creature in that area must succeed on a DC 18 Intelligence saving throw or take\
+    \ dice: 5d8 + 5|avg (5d8 + 5) psychic damage and be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
+  "name": "Mind Blast (Recharge 5-6)"
+"legendary_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich makes one attack with its tentacles."
+  "name": "Tentacles"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich uses Extract Brain."
+  "name": "Extract Brain (Costs 2 Actions)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich recharges its Mind Blast and uses it."
+  "name": "Mind Blast (Costs 3 Actions)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell\
+    \ that it has prepared. Doing so costs 1 legendary action per level of the spell."
+  "name": "Cast Spell (Costs 1–3 Actions)"
+"source":
+- "VGM"
+"image": "6. Mechanics/Bestiary/Undead/token/illithilich.png"
 ```
 ^statblock
 

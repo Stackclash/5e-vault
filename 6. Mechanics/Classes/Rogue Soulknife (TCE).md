@@ -15,7 +15,7 @@ aliases: ["Soulknife"]
 
 ### Soulknife (Level 3)
 
-Most assassins strike with physical weapons, and many burglars and spies use [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]] to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
+Most assassins strike with physical weapons, and many burglars and spies use [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]] to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
 
 Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.
 
@@ -25,11 +25,11 @@ As a Soulknife, your psionic abilities might have haunted you since you were a c
 
 _3rd-level Soulknife feature_
 
-You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6\|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8\|avg` (`d8`)), 11th level (`dice: d10\|avg` (`d10`)), and 17th level (`dice: d12\|avg` (`d12`)).
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8` (`d8`)), 11th level (`dice: d10` (`d10`)), and 17th level (`dice: d12` (`d12`)).
 
 The powers below use your Psionic Energy dice.
 
@@ -47,9 +47,9 @@ The powers below use your Psionic Energy dice.
 
 _3rd-level Soulknife feature_
 
-You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice: 1d6\|avg` (`1d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice: 1d6` (`1d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
-After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice: 1d4\|avg` (`1d4`), instead of `dice: 1d6\|avg` (`1d6`).
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice: 1d4` (`1d4`), instead of `dice: 1d6` (`1d6`).
 
 ### Soul Blades (Level 9)
 
@@ -69,7 +69,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 _13th-level Soulknife feature_
 
-You can weave a veil of psychic static to mask yourself. As an action, you can magically become [[6. Mechanics/Rules/conditions.md#invisible\|invisible]], along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
+You can weave a veil of psychic static to mask yourself. As an action, you can magically become [[6. Mechanics/Rules/Conditions.md#invisible|invisible]], along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
 
 Once you use this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to use this feature again.
 
@@ -77,6 +77,6 @@ Once you use this feature, you can't do so again until you finish a long rest, u
 
 _17th-level Soulknife feature_
 
-You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] for 1 minute. The [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is [[6. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute. The [[6. Mechanics/Rules/Conditions.md#stunned|stunned]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can't do so again until you finish a long rest, unless you expend three Psionic Energy dice to use it again.

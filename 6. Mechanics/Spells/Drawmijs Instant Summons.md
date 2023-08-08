@@ -23,8 +23,8 @@ At any time thereafter, you can use your action to speak the item's name and cru
 
 If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.
 
-[[/6. Mechanics/Spells/Dispel Magic.md\|Dispel magic]] or a similar effect successfully applied to the sapphire ends this spell's effect.
+[[/6. Mechanics/Spells/Dispel Magic.md|Dispel magic]] or a similar effect successfully applied to the sapphire ends this spell's effect.
 
-**Classes**: [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 235

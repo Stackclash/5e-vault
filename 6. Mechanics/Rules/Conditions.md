@@ -56,8 +56,8 @@ _Source: Player's Handbook p. 290_
 _Source: Player's Handbook p. 290_
 
 - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.  
-- The condition ends if the grappler is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].  
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]] spell.  
+- The condition ends if the grappler is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].  
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [[/6. Mechanics/Spells/Thunderwave.md|thunderwave]] spell.  
 
 ## Incapacitated
 _Source: Player's Handbook p. 290_
@@ -73,7 +73,7 @@ _Source: Player's Handbook p. 291_
 ## Paralyzed
 _Source: Player's Handbook p. 291_
 
-- A paralyzed creature is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] and can't move or speak.  
+- A paralyzed creature is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] and can't move or speak.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.  
@@ -82,7 +82,7 @@ _Source: Player's Handbook p. 291_
 _Source: Player's Handbook p. 291_
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.  
-- The creature is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], can't move or speak, and is unaware of its surroundings.  
+- The creature is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], can't move or speak, and is unaware of its surroundings.  
 - Attack rolls against the creature have advantage.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - The creature has resistance to all damage.  
@@ -110,15 +110,15 @@ _Source: Player's Handbook p. 292_
 ## Stunned
 _Source: Player's Handbook p. 292_
 
-- A stunned creature is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], can't move, and can speak only falteringly.  
+- A stunned creature is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], can't move, and can speak only falteringly.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 
 ## Unconscious
 _Source: Player's Handbook p. 292_
 
-- An unconscious creature is [[6. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], can't move or speak, and is unaware of its surroundings.  
-- The creature drops whatever it's holding and falls [[6. Mechanics/Rules/Conditions.md#prone\|prone]].  
+- An unconscious creature is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], can't move or speak, and is unaware of its surroundings.  
+- The creature drops whatever it's holding and falls [[6. Mechanics/Rules/Conditions.md#prone|prone]].  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.

@@ -14,6 +14,6 @@ aliases: ["Potion of Vitality"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-When you drink this potion, it removes any [[6. Mechanics/Rules/conditions.md#exhaustion\|exhaustion]] you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
+When you drink this potion, it removes any [[6. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 
 *Source: Dungeon Master's Guide p. 188*

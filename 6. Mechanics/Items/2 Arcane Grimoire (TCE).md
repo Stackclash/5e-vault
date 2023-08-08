@@ -11,7 +11,7 @@ aliases: ["+2 Arcane Grimoire"]
 # +2 Arcane Grimoire
 *Wondrous Item, rare (requires attunement by a wizard)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 

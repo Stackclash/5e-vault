@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws:** Dexterity, Charisma
 - **Armor:** light
-- **Weapons:** simple, [[/6. Mechanics/Items/hand-crossbow.md\|hand crossbows]], [[/6. Mechanics/Items/longsword.md\|longswords]], [[/6. Mechanics/Items/rapier.md\|rapiers]], [[/6. Mechanics/Items/shortsword.md\|shortswords]]
+- **Weapons:** simple, [[/6. Mechanics/Items/Hand Crossbow.md|hand crossbows]], [[/6. Mechanics/Items/Longsword.md|longswords]], [[/6. Mechanics/Items/Rapier.md|rapiers]], [[/6. Mechanics/Items/Shortsword.md|shortswords]]
 - **Tools:** three musical instruments of your choice
 - **Skills:** Choose 3 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*, *Spellcasting*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/6. Mechanics/Items/rapier.md\|rapier]], (b) a [[/6. Mechanics/Items/longsword.md\|longsword]], or (c) any simple weapon  
-- (a) a [[/6. Mechanics/Items/diplomats-pack.md\|diplomat's pack]] or (b) an [[/6. Mechanics/Items/entertainers-pack.md\|entertainer's pack]]  
-- (a) a [[/6. Mechanics/Items/lute.md\|lute]] or (b) any other musical instrument  
-- [[/6. Mechanics/Items/leather-armor.md\|Leather armor]], and a [[/6. Mechanics/Items/dagger.md\|dagger]]  
+- (a) a [[/6. Mechanics/Items/Rapier.md|rapier]], (b) a [[/6. Mechanics/Items/Longsword.md|longsword]], or (c) any simple weapon  
+- (a) a [[/6. Mechanics/Items/Diplomats Pack.md|diplomat's pack]] or (b) an [[/6. Mechanics/Items/Entertainers Pack.md|entertainer's pack]]  
+- (a) a [[/6. Mechanics/Items/Lute.md|lute]] or (b) any other musical instrument  
+- [[/6. Mechanics/Items/Leather Armor.md|Leather armor]], and a [[/6. Mechanics/Items/Dagger.md|dagger]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -107,13 +107,13 @@ You gain the following proficiencies:
 
 ### Bardic Inspiration (Level 1)
 
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a `dice: d6\|avg` (`d6`).
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a `dice: d6` (`d6`).
 
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the `dice: d20\|avg` (`d20`) before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the `dice: d20` (`d20`) before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a `dice: d8\|avg` (`d8`) at 5th level, a `dice: d10\|avg` (`d10`) at 10th level, and a `dice: d12\|avg` (`d12`) at 15th level.
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a `dice: d8` (`d8`) at 5th level, a `dice: d10` (`d10`) at 10th level, and a `dice: d12` (`d12`) at 15th level.
 
 ### Spellcasting (Level 1)
 
@@ -127,7 +127,7 @@ You know two cantrips of your choice from the bard spell list. You learn additio
 
 The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]] using either slot.
+For example, if you know the 1st-level spell [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -159,9 +159,9 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 
 ### Song of Rest (d6) (Level 2)
 
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra `dice: 1d6\|avg` (`1d6`) hit points.
+Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra `dice: 1d6` (`1d6`) hit points.
 
-The extra hit points increase when you reach certain levels in this class: to `dice: 1d8\|avg` (`1d8`) at 9th level, to `dice: 1d10\|avg` (`1d10`) at 13th level, and to `dice: 1d12\|avg` (`1d12`) at 17th level.
+The extra hit points increase when you reach certain levels in this class: to `dice: 1d8` (`1d8`) at 9th level, to `dice: 1d10` (`1d10`) at 13th level, and to `dice: 1d12` (`1d12`) at 17th level.
 
 ### Magical Inspiration (Level 2)
 _Source: Tasha's Cauldron of Everything p. 27_
@@ -198,7 +198,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 ### Bardic Inspiration (d8) (Level 5)
 
-At 5th level, your Bardic Inspiration die changes to a `dice: d8\|avg` (`d8`).
+At 5th level, your Bardic Inspiration die changes to a `dice: d8` (`d8`).
 
 ### Font of Inspiration (Level 5)
 
@@ -206,7 +206,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm (Level 6)
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] or [[6. Mechanics/Rules/conditions.md#charmed\|charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] or [[6. Mechanics/Rules/Conditions.md#charmed|charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or silenced or if you voluntarily end it (no action required).
 
 ### Bard College feature (Level 6)
 
@@ -220,11 +220,11 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d8) (Level 9)
 
-At 9th level, the extra hit points gained from Song of Rest increases to `dice: 1d8\|avg` (`1d8`).
+At 9th level, the extra hit points gained from Song of Rest increases to `dice: 1d8` (`1d8`).
 
 ### Bardic Inspiration (d10) (Level 10)
 
-At 10th level, your Bardic Inspiration die changes to a `dice: d10\|avg` (`d10`).
+At 10th level, your Bardic Inspiration die changes to a `dice: d10` (`d10`).
 
 ### Expertise (Level 10)
 
@@ -246,7 +246,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d10) (Level 13)
 
-At 13th level, the extra hit points gained from Song of Rest increases to `dice: 1d10\|avg` (`1d10`).
+At 13th level, the extra hit points gained from Song of Rest increases to `dice: 1d10` (`1d10`).
 
 ### Magical Secrets (Level 14)
 
@@ -260,7 +260,7 @@ At 14th level, you gain a feature from your Bard College.
 
 ### Bardic Inspiration (d12) (Level 15)
 
-At 15th level, your Bardic Inspiration die changes to a `dice: d12\|avg` (`d12`).
+At 15th level, your Bardic Inspiration die changes to a `dice: d12` (`d12`).
 
 ### Ability Score Improvement (Level 16)
 
@@ -270,7 +270,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d12) (Level 17)
 
-At 17th level, the extra hit points gained from Song of Rest increases to `dice: 1d12\|avg` (`1d12`).
+At 17th level, the extra hit points gained from Song of Rest increases to `dice: 1d12` (`1d12`).
 
 ### Magical Secrets (Level 18)
 

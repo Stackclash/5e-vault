@@ -21,10 +21,10 @@ aliases: ["Ray of Sickness"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `dice: 2d8\|avg` (`2d8`) poison damage and must make a Constitution saving throw. On a failed save, it is also [[6. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] until the end of your next turn.
+A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `dice: 2d8` (`2d8`) poison damage and must make a Constitution saving throw. On a failed save, it is also [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the end of your next turn.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[/6. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer Alchemist (TCE).md|Artificer (Alchemist)]], [[/6. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 271

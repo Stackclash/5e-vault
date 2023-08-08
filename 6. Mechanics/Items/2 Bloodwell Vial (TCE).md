@@ -11,7 +11,7 @@ aliases: ["+2 Bloodwell Vial"]
 # +2 Bloodwell Vial
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

@@ -32,11 +32,11 @@ In addition, any climb that requires hands and feet is especially difficult for 
 
 ### Hooves
 
-You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6\|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Natural Affinity
 
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [[6. Mechanics/Rules/skills.md#Animal%20Handling\|Animal Handling]], [[6. Mechanics/Rules/skills.md#Medicine\|Medicine]], [[6. Mechanics/Rules/skills.md#Nature\|Nature]], or [[6. Mechanics/Rules/skills.md#Survival\|Survival]].
+Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [[6. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[6. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[6. Mechanics/Rules/Skills.md#Nature|Nature]], or [[6. Mechanics/Rules/Skills.md#Survival|Survival]].
 
 ## Description
 

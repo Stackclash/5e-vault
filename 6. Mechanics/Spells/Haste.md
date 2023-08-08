@@ -28,6 +28,6 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[/6. Mechanics/Classes/Ranger Horizon Walker (XGE).md\|Ranger (Horizon Walker)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Paladin Oath Of Vengeance.md|Paladin (Oath of Vengeance)]], [[/6. Mechanics/Classes/Ranger Horizon Walker (XGE).md|Ranger (Horizon Walker)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 250

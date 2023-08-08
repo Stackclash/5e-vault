@@ -11,7 +11,7 @@ aliases: ["Force Absorbing Tattoo"]
 # Force Absorbing Tattoo
 *Wondrous Item, very rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

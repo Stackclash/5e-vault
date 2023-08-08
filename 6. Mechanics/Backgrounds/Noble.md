@@ -8,10 +8,10 @@ aliases: ["Noble"]
 # Noble
 *Source: Player's Handbook p. 135*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#History\|History]], [[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]]  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#History|History]], [[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [[/6. Mechanics/Items/fine-clothes.md\|fine clothes]], a [[/6. Mechanics/Items/signet-ring.md\|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [[/6. Mechanics/Items/Fine Clothes.md|fine clothes]], a [[/6. Mechanics/Items/Signet Ring.md|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
 
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 

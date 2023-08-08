@@ -29,7 +29,7 @@ _3rd-level Way of the Astral Self feature_
 
 Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.
 
-For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or die.
+For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or die.
 
 While the spectral arms are present, you gain the following benefits:
 
@@ -42,7 +42,7 @@ While the spectral arms are present, you gain the following benefits:
 
 _6th-level Way of the Astral Self feature_
 
-You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or die.
+You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or die.
 
 The spectral visage covers your face like a helmet or mask. You determine its appearance.
 
@@ -54,7 +54,7 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 
 #### Wisdom of the Spirit
 
-You have advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Insight\|Insight]]) and Charisma ([[6. Mechanics/Rules/skills.md#Intimidation\|Intimidation]]) checks.
+You have advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Insight|Insight]]) and Charisma ([[6. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]) checks.
 
 #### Word of the Spirit
 
@@ -70,7 +70,7 @@ While the spectral body is present, you gain the following benefits.
 
 #### Deflect Energy
 
-When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `dice: 1d10\|avg` (`1d10`) + your Wisdom modifier (minimum reduction of 1).
+When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `dice: 1d10` (`1d10`) + your Wisdom modifier (minimum reduction of 1).
 
 #### Empowered Arms
 
@@ -80,7 +80,7 @@ Once on each of your turns when you hit a target with the Arms of the Astral Sel
 
 _17th-level Way of the Astral Self feature_
 
-Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] or die.
+Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or die.
 
 While your astral self is awakened, you gain the following benefits.
 

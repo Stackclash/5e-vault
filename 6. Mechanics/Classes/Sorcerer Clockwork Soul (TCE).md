@@ -29,11 +29,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [[/6. Mechanics/Spells/alarm.md\|alarm]], [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]] |
-| 3rd | [[/6. Mechanics/Spells/aid.md\|aid]], [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]] |
-| 5th | [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/protection-from-energy.md\|protection from energy]] |
-| 7th | [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [[/6. Mechanics/Spells/summon-construct-tce.md\|summon construct]] |
-| 9th | [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]], [[/6. Mechanics/Spells/wall-of-force.md\|wall of force]] |
+| 1st | [[/6. Mechanics/Spells/Alarm.md|alarm]], [[/6. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]] |
+| 3rd | [[/6. Mechanics/Spells/Aid.md|aid]], [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] |
+| 5th | [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/6. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
+| 7th | [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[/6. Mechanics/Spells/Summon Construct (TCE).md|summon construct]] |
+| 9th | [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]], [[/6. Mechanics/Spells/Wall Of Force.md|wall of force]] |
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.
@@ -54,7 +54,7 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 
 _1st-level Clockwork Soul feature_
 
-Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a `dice: d20\|avg` (`d20`) with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.
+Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a `dice: d20` (`d20`) with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -64,13 +64,13 @@ _6th-level Clockwork Soul feature_
 
 You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.
 
-The ward is represented by a number of `dice: d8\|avg` (`d8`)s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
+The ward is represented by a number of `dice: d8` (`d8`)s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
 
 ### Trance of Order (Level 14)
 
 _14th-level Clockwork Soul feature_
 
-You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the `dice: d20\|avg` (`d20`) as a 10.
+You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the `dice: d20` (`d20`) as a 10.
 
 Once you use this bonus action, you can't use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.
 

@@ -22,12 +22,12 @@ aliases: ["Lightning Bolt"]
 - **Components:** V, S, a bit of fur and a rod of amber, crystal, or glass
 - **Duration:** Instantaneous
 
-A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `dice: 8d6\|avg` (`8d6`) lightning damage on a failed save, or half as much damage on a successful one.
+A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `dice: 8d6` (`8d6`) lightning damage on a failed save, or half as much damage on a successful one.
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer Armorer (TCE).md\|Artificer (Armorer)]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer (Armorer)]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock The Fathomless (TCE).md|Warlock (The Fathomless)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 255

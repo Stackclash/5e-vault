@@ -6,57 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey
-statblock: true
-statblock-link: "#^statblock"
-"name": "Satyr"
-"size": "Medium"
-"type": "fey"
-"alignment": "Chaotic Neutral"
-"ac": !!int "14"
-"hp": !!int "31"
-"hit_dice": "7d8"
-"stats":
-- !!int "12"
-- !!int "16"
-- !!int "11"
-- !!int "12"
-- !!int "10"
-- !!int "14"
-"speed": "walk 40 ft."
-"skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
-  "Performance": !!int "6"
-"senses": "passive Perception 12"
-"languages": "Common, Elvish, Sylvan"
-"cr": "1/2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The satyr has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) bludgeoning damage."
-  "name": "Ram"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
-  "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
-  "name": "Shortbow"
-"source":
-- "MM"
-- "SKT"
-- "IMR"
-- "CM"
-- "WBtW"
-- "KftGV"
-"image": "/compendium/bestiary/fey/token/satyr.png"
-aliases: ["Satyr"]
+statblock: inline
 ---
 # Satyr
 *Source: Monster Manual p. 267, Storm King's Thunder, Infernal Machine Rebuild, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
@@ -104,37 +54,55 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 
 ## Stat Block
 
-```ad-statblock
-title: Satyr
-![[/6. Mechanics/Bestiary/Fey/Token/satyr.png#token]]
-*Medium fey, Chaotic Neutral*
-
-- **Armor Class** 14 ([[/6. Mechanics/Items/leather-armor.md\|leather armor]])
-- **Hit Points** `dice: 7d8|text(31)` (7d8) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +2, Performance +6, Stealth +5
-- **Senses** passive Perception 12
-- **Languages** Common, Elvish, Sylvan
-- **Challenge** 1/2
-
-## Traits
-
-***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Ram.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 2d4 + 1` (`2d4 + 1`) bludgeoning damage.
-
-***Shortsword.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) piercing damage.
-
-***Shortbow.*** *Ranged Weapon Attack:* `dice: d20+5` (+5 to hit), range 80/320 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) piercing damage.
+```statblock
+"name": "Satyr"
+"size": "Medium"
+"type": "fey"
+"alignment": "Chaotic Neutral"
+"ac": !!int "14"
+"hp": !!int "31"
+"hit_dice": "7d8"
+"stats":
+- !!int "12"
+- !!int "16"
+- !!int "11"
+- !!int "12"
+- !!int "10"
+- !!int "14"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Stealth": !!int "5"
+  "Perception": !!int "2"
+  "Performance": !!int "6"
+"senses": "passive Perception 12"
+"languages": "Common, Elvish, Sylvan"
+"cr": "1/2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The satyr has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) bludgeoning damage."
+  "name": "Ram"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+  "name": "Shortsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
+    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+  "name": "Shortbow"
+"source":
+- "MM"
+- "SKT"
+- "IMR"
+- "CM"
+- "WBtW"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Fey/token/satyr.png"
 ```
 ^statblock
 

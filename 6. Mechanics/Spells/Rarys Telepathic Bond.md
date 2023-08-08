@@ -23,6 +23,6 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[/6. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Sorcerer (Aberrant Mind)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Peace Domain (TCE).md|Cleric (Peace Domain)]], [[/6. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md|Sorcerer (Aberrant Mind)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 270

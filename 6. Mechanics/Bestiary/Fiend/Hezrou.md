@@ -5,69 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Hezrou"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "136"
-"hit_dice": "13d10 + 65"
-"stats":
-- !!int "19"
-- !!int "17"
-- !!int "20"
-- !!int "5"
-- !!int "12"
-- !!int "13"
-"speed": "walk 30 ft."
-"saves":
-  "Wisdom": !!int "4"
-  "Strength": !!int "7"
-  "Constitution": !!int "8"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
-"languages": "Abyssal, telepathy 120 ft."
-"cr": "8"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hezrou has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
-    \ on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ until the start of its next turn. On a successful saving throw, the creature\
-    \ is immune to the hezrou's stench for 24 hours."
-  "name": "Stench"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
-  "name": "Claws"
-"source":
-- "MM"
-- "PotA"
-- "TftYP"
-- "WDMM"
-- "BGDIA"
-- "EGW"
-- "WBtW"
-- "CRCotN"
-"image": "/compendium/bestiary/fiend/token/hezrou.png"
-aliases: ["Hezrou"]
+statblock: inline
 ---
 # Hezrou
 *Source: Monster Manual p. 60, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep*  
@@ -214,7 +152,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -243,41 +181,66 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Hezrou
-![[/6. Mechanics/Bestiary/Fiend/Token/hezrou.png#token]]
-*Large fiend(demon), Chaotic Evil*
-
-- **Armor Class** 16 (natural armor)
-- **Hit Points** `dice: 13d10 + 65|text(136)` (13d10 + 65) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|17 (+3)|20 (+5)| 5 (-3)|12 (+1)|13 (+1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Strength +7, Constitution +8, Wisdom +4
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 8
-
-## Traits
-
-***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.
-
-***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
-
-## Actions
-
-***Multiattack.*** The hezrou makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d10 + 4` (`2d10 + 4`) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 4` (`2d6 + 4`) slashing damage.
+```statblock
+"name": "Hezrou"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "16"
+"hp": !!int "136"
+"hit_dice": "13d10 + 65"
+"stats":
+- !!int "19"
+- !!int "17"
+- !!int "20"
+- !!int "5"
+- !!int "12"
+- !!int "13"
+"speed": "walk 30 ft."
+"saves":
+  "Wisdom": !!int "4"
+  "Strength": !!int "7"
+  "Constitution": !!int "8"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 11"
+"languages": "Abyssal, telepathy 120 ft."
+"cr": "8"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hezrou has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
+    \ on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ until the start of its next turn. On a successful saving throw, the creature\
+    \ is immune to the hezrou's stench for 24 hours."
+  "name": "Stench"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+  "name": "Claws"
+"source":
+- "MM"
+- "PotA"
+- "TftYP"
+- "WDMM"
+- "BGDIA"
+- "EGW"
+- "WBtW"
+- "CRCotN"
+"image": "/compendium/bestiary/fiend/token/hezrou.png"
 ```
 ^statblock

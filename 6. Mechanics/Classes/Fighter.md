@@ -49,17 +49,17 @@ aliases: ["Fighter"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws:** Strength, Constitution
-- **Armor:** light, medium, heavy, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, heavy, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 - **Skills:** Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *History*, *Insight*, *Intimidation*, *Perception*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[/6. Mechanics/Items/chain-mail.md\|chain mail]] or (b) [[/6. Mechanics/Items/leather-armor.md\|leather armor]], [[/6. Mechanics/Items/longbow.md\|longbow]], and [[/6. Mechanics/Items/arrows-20.md\|20 arrows]]  
-- (a) a martial weapon and a [[/6. Mechanics/Items/shield.md\|shield]] or (b) two martial weapons  
-- (a) a [[/6. Mechanics/Items/light-crossbow.md\|light crossbow]] and [[/6. Mechanics/Items/crossbow-bolts-20.md\|20 bolts]] or (b) two [[/6. Mechanics/Items/handaxe.md\|handaxes]]  
-- (a) a [[/6. Mechanics/Items/dungeoneers-pack.md\|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
+- (a) [[/6. Mechanics/Items/Chain Mail.md|chain mail]] or (b) [[/6. Mechanics/Items/Leather Armor.md|leather armor]], [[/6. Mechanics/Items/Longbow.md|longbow]], and [[/6. Mechanics/Items/Arrows-20.md|20 arrows]]  
+- (a) a martial weapon and a [[/6. Mechanics/Items/Shield.md|shield]] or (b) two martial weapons  
+- (a) a [[/6. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/6. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]] or (b) two [[/6. Mechanics/Items/Handaxe.md|handaxes]]  
+- (a) a [[/6. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -71,7 +71,7 @@ To multiclass as a Fighter, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/6. Mechanics/Items/shield.md\|shields]]
+- **Armor:** light, medium, [[/6. Mechanics/Items/Shield.md|shields]]
 - **Weapons:** simple, martial
 - **Tools:** none
 
@@ -81,13 +81,13 @@ You gain the following proficiencies:
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [[/6. Mechanics/Classes/Fighter.md#Archery\|Archery]]  
+- [[/6. Mechanics/Classes/Fighter.md#Archery|Archery]]  
 - Close Quarters Shooter  
-- [[/6. Mechanics/Classes/Fighter.md#Defense\|Defense]]  
-- [[/6. Mechanics/Classes/Fighter.md#Dueling\|Dueling]]  
-- [[/6. Mechanics/Classes/Fighter.md#Great%20Weapon%20Fighting\|Great Weapon Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Defense|Defense]]  
+- [[/6. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
+- [[/6. Mechanics/Classes/Fighter.md#Great%20Weapon%20Fighting|Great Weapon Fighting]]  
 - Mariner  
-- [[/6. Mechanics/Classes/Fighter.md#Protection\|Protection]]  
+- [[/6. Mechanics/Classes/Fighter.md#Protection|Protection]]  
 - Tunnel Fighter  
 - [Two-Weapon Fighting](/compendium/classes/fighter.md#Two-Weapon%20Fighting)  
 - Superior Technique  
@@ -95,15 +95,15 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 - Interception  
 - Thrown Weapon Fighting  
 - Unarmed Fighting  
-- [[/6. Mechanics/Classes/Fighter.md#Blind%20Fighting\|Blind Fighting]]  
-- [[/6. Mechanics/Classes/Fighter.md#Interception\|Interception]]  
-- [[/6. Mechanics/Classes/Fighter.md#Superior%20Technique\|Superior Technique]]  
-- [[/6. Mechanics/Classes/Fighter.md#Thrown%20Weapon%20Fighting\|Thrown Weapon Fighting]]  
-- [[/6. Mechanics/Classes/Fighter.md#Unarmed%20Fighting\|Unarmed Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Blind%20Fighting|Blind Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Interception|Interception]]  
+- [[/6. Mechanics/Classes/Fighter.md#Superior%20Technique|Superior Technique]]  
+- [[/6. Mechanics/Classes/Fighter.md#Thrown%20Weapon%20Fighting|Thrown Weapon Fighting]]  
+- [[/6. Mechanics/Classes/Fighter.md#Unarmed%20Fighting|Unarmed Fighting]]  
 
 ### Second Wind (Level 1)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice: 1d10\|avg` (`1d10`) + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice: 1d10` (`1d10`) + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -131,7 +131,7 @@ _4th-level fighter optional class features_
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
 - Replace a fighting style you know with another fighting style available to fighters.  
-- If you know any maneuvers from the [[/6. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
+- If you know any maneuvers from the [[/6. Mechanics/Classes/Fighter Battle Master.md|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
@@ -231,7 +231,7 @@ Being unable to see a creature doesn't impose disadvantage on your attack rolls 
 ### Blind Fighting
 _Source: Tasha's Cauldron of Everything p. 41_
 
-You have [[6. Mechanics/Rules/senses.md#blindsight\|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within that range, unless the creature successfully hides from you.
+You have [[6. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
 
 ### Close Quarters Shooter
 _Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
@@ -253,12 +253,12 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ### Interception
 _Source: Tasha's Cauldron of Everything p. 41_
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/6. Mechanics/Items/shield.md\|shield]] or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/6. Mechanics/Items/Shield.md|shield]] or a simple or martial weapon to use this reaction.
 
 ### Interception
 _Source: Unearthed Arcana: Class Feature Variants p. 12_
 
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10\|avg` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
 
 ### Mariner
 _Source: Unearthed Arcana: Waterborne Adventures p. 3_
@@ -274,14 +274,14 @@ _Source: Unearthed Arcana: Class Feature Variants p. 5_
 
 You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
-You gain one superiority die, which is a `dice: d6\|avg` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+You gain one superiority die, which is a `dice: d6` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ### Superior Technique
 _Source: Tasha's Cauldron of Everything p. 41_
 
-You learn one maneuver of your choice from among those available to the [[/6. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+You learn one maneuver of your choice from among those available to the [[/6. Mechanics/Classes/Fighter Battle Master.md|Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
-You gain one superiority die, which is a `dice: d6\|avg` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+You gain one superiority die, which is a `dice: d6` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ### Thrown Weapon Fighting
 _Source: Unearthed Arcana: Class Feature Variants p. 13_
@@ -309,13 +309,13 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ### Unarmed Fighting
 _Source: Tasha's Cauldron of Everything p. 42_
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6\|avg` (`1d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[/6. Mechanics/Items/shield.md\|shield]] when you make the attack roll, the `dice: d6\|avg` (`d6`) becomes a `dice: d8\|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[/6. Mechanics/Items/Shield.md|shield]] when you make the attack roll, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
 
-At the start of each of your turns, you can deal `dice: 1d4\|avg` (`1d4`) bludgeoning damage to one creature [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by you.
+At the start of each of your turns, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to one creature [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by you.
 
 ### Unarmed Fighting
 _Source: Unearthed Arcana: Class Feature Variants p. 13_
 
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6\|avg` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6\|avg` (`d6`) becomes a `dice: d8\|avg` (`d8`).
+Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
 
-When you successfully start a grapple, you can deal `dice: 1d4\|avg` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.

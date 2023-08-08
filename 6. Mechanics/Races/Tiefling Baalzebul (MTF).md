@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Infernal Legacy
 
-You know the [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/6. Mechanics/Spells/hellish-rebuke.md\|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/6. Mechanics/Spells/darkness.md\|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/6. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/6. Mechanics/Spells/Darkness.md|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 
@@ -43,4 +43,4 @@ You can speak, read, and write Common and Infernal.
 
 ### Legacy of Maladomini
 
-You know the [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/6. Mechanics/Spells/ray-of-sickness.md\|ray of sickness]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/6. Mechanics/Spells/crown-of-madness.md\|crown of madness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/6. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/6. Mechanics/Spells/Crown Of Madness.md|crown of madness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.

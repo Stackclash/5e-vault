@@ -13,8 +13,14 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Veteran
+*Source: Monster Manual p. 350, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Spelljammer Academy, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+
+Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
+
+```statblock
 "name": "Veteran"
 "size": "Medium"
 "type": "humanoid"
@@ -82,43 +88,7 @@ statblock-link: "#^statblock"
 - "LoX"
 - "DSotDQ"
 - "KftGV"
-"image": "/compendium/bestiary/humanoid/token/veteran.png"
-aliases: ["Veteran"]
----
-# Veteran
-*Source: Monster Manual p. 350, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Spelljammer Academy, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
-
-Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
-
-```ad-statblock
-title: Veteran
-![[/6. Mechanics/Bestiary/Humanoid/Token/veteran.png#token]]
-*Medium humanoid(any race), Any alignment*
-
-- **Armor Class** 17 ([[/6. Mechanics/Items/splint-armor.md\|splint armor]])
-- **Hit Points** `dice: 9d8 + 18|text(58)` (9d8 + 18) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Athletics +5, Perception +2
-- **Senses** passive Perception 12
-- **Languages** any one language (usually Common)
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
-
-***Longsword.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 3` (`1d8 + 3`) slashing damage, or 8 (`dice: 1d10 + 3` (`1d10 + 3`)) slashing damage if used with two hands.
-
-***Shortsword.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) piercing damage.
-
-***Heavy Crossbow.*** *Ranged Weapon Attack:* `dice: d20+3` (+3 to hit), range 100/400 ft., one target. Hit: `dice: 1d10 + 1` (`1d10 + 1`) piercing damage.
+"image": "6. Mechanics/Bestiary/Humanoid/token/veteran.png"
 ```
 ^statblock
 

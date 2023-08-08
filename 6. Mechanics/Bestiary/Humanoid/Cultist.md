@@ -6,8 +6,14 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Cultist
+*Source: Monster Manual p. 345, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+
+Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
+
+```statblock
 "name": "Cultist"
 "size": "Medium"
 "type": "humanoid"
@@ -32,8 +38,8 @@ statblock-link: "#^statblock"
 "cr": "1/8"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cultist has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]]\
-    \ or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]."
+  "desc": "The cultist has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ or [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]."
   "name": "Dark Devotion"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -63,41 +69,7 @@ statblock-link: "#^statblock"
 - "CM"
 - "JttRC"
 - "KftGV"
-"image": "/compendium/bestiary/humanoid/token/cultist.png"
-aliases: ["Cultist"]
----
-# Cultist
-*Source: Monster Manual p. 345, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
-
-Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
-
-```ad-statblock
-title: Cultist
-![[/6. Mechanics/Bestiary/Humanoid/Token/cultist.png#token]]
-*Medium humanoid(any race), Any Non-Good alignment*
-
-- **Armor Class** 12 ([[/6. Mechanics/Items/leather-armor.md\|leather armor]])
-- **Hit Points** `dice: 2d8|text(9)` (2d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Deception +2, Religion +2
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 1/8
-
-## Traits
-
-***Dark Devotion.*** The cultist has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]].
-
-## Actions
-
-***Scimitar.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one creature. Hit: `dice: 1d6 + 1` (`1d6 + 1`) slashing damage.
+"image": "6. Mechanics/Bestiary/Humanoid/token/cultist.png"
 ```
 ^statblock
 

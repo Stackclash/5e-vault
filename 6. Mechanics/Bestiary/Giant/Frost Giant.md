@@ -7,56 +7,7 @@ tags:
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Frost Giant"
-"size": "Huge"
-"type": "giant"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "138"
-"hit_dice": "12d12 + 60"
-"stats":
-- !!int "23"
-- !!int "9"
-- !!int "21"
-- !!int "9"
-- !!int "10"
-- !!int "12"
-"speed": "walk 40 ft."
-"saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "8"
-"skillsaves":
-  "Athletics": !!int "9"
-  "Perception": !!int "3"
-"damage_immunities": "cold"
-"senses": "passive Perception 13"
-"languages": "Giant"
-"cr": "8"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greataxe attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d12 + 6|avg (3d12 + 6) slashing damage."
-  "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
-  "name": "Rock"
-"source":
-- "MM"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "ToA"
-- "EGW"
-- "IDRotF"
-"image": "/compendium/bestiary/giant/token/frost-giant.png"
-aliases: ["Frost Giant"]
+statblock: inline
 ---
 # Frost Giant
 *Source: Monster Manual p. 155, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
@@ -125,34 +76,54 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ## Stat Block
 
-```ad-statblock
-title: Frost Giant
-![[/6. Mechanics/Bestiary/Giant/Token/frost-giant.png#token]]
-*Huge giant, Neutral Evil*
-
-- **Armor Class** 15 (patchwork armor)
-- **Hit Points** `dice: 12d12 + 60|text(138)` (12d12 + 60) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)| 9 (-1)|21 (+5)| 9 (-1)|10 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Constitution +8, Wisdom +3, Charisma +4
-- **Skills** Athletics +9, Perception +3
-- **Senses** passive Perception 13
-- **Damage Immunities** cold
-- **Languages** Giant
-- **Challenge** 8
-
-## Actions
-
-***Multiattack.*** The giant makes two greataxe attacks.
-
-***Greataxe.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 10 ft., one target. Hit: `dice: 3d12 + 6` (`3d12 + 6`) slashing damage.
-
-***Rock.*** *Ranged Weapon Attack:* `dice: d20+9` (+9 to hit), range 60/240 ft., one target. Hit: `dice: 4d10 + 6` (`4d10 + 6`) bludgeoning damage.
+```statblock
+"name": "Frost Giant"
+"size": "Huge"
+"type": "giant"
+"alignment": "Neutral Evil"
+"ac": !!int "15"
+"hp": !!int "138"
+"hit_dice": "12d12 + 60"
+"stats":
+- !!int "23"
+- !!int "9"
+- !!int "21"
+- !!int "9"
+- !!int "10"
+- !!int "12"
+"speed": "walk 40 ft."
+"saves":
+  "Charisma": !!int "4"
+  "Wisdom": !!int "3"
+  "Constitution": !!int "8"
+"skillsaves":
+  "Athletics": !!int "9"
+  "Perception": !!int "3"
+"damage_immunities": "cold"
+"senses": "passive Perception 13"
+"languages": "Giant"
+"cr": "8"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant makes two greataxe attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 3d12 + 6|avg (3d12 + 6) slashing damage."
+  "name": "Greataxe"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
+    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
+  "name": "Rock"
+"source":
+- "MM"
+- "RoT"
+- "SKT"
+- "TftYP"
+- "ToA"
+- "EGW"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Giant/token/frost-giant.png"
 ```
 ^statblock
 

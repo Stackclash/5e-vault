@@ -49,18 +49,18 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]], [[/6. Mechanics/Spells/sanctuary.md\|sanctuary]] |
-| 5th | [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]], [[/6. Mechanics/Spells/zone-of-truth.md\|zone of truth]] |
-| 9th | [[/6. Mechanics/Spells/beacon-of-hope.md\|beacon of hope]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]] |
-| 13th | [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]], [[/6. Mechanics/Spells/guardian-of-faith.md\|guardian of faith]] |
-| 17th | [[/6. Mechanics/Spells/commune.md\|commune]], [[/6. Mechanics/Spells/flame-strike.md\|flame strike]] |
+| 3rd | [[/6. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]], [[/6. Mechanics/Spells/Sanctuary.md|sanctuary]] |
+| 5th | [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/6. Mechanics/Spells/Zone Of Truth.md|zone of truth]] |
+| 9th | [[/6. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]] |
+| 13th | [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[/6. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]] |
+| 17th | [[/6. Mechanics/Spells/Commune.md|commune]], [[/6. Mechanics/Spells/Flame Strike.md|flame strike]] |
 ^oath-of-devotion-spells
 
 ### Channel Divinity: Sacred Weapon (Level 3)
 
 As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]], this effect ends.
+You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]], this effect ends.
 
 ### Channel Divinity: Turn the Unholy (Level 3)
 
@@ -70,13 +70,13 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 ### Aura of Devotion (Level 7)
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can't be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] while you are conscious.
+Starting at 7th level, you and friendly creatures within 10 feet of you can't be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Purity of Spirit (Level 15)
 
-Beginning at 15th level, you are always under the effects of a [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]] spell.
+Beginning at 15th level, you are always under the effects of a [[/6. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]] spell.
 
 ### Holy Nimbus (Level 20)
 

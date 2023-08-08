@@ -24,20 +24,20 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/burning-hands.md\|burning hands]], [[/6. Mechanics/Spells/faerie-fire.md\|faerie fire]] |
-| 3rd | [[/6. Mechanics/Spells/flaming-sphere.md\|flaming sphere]], [[/6. Mechanics/Spells/scorching-ray.md\|scorching ray]] |
-| 5th | [[/6. Mechanics/Spells/daylight.md\|daylight]], [[/6. Mechanics/Spells/fireball.md\|fireball]] |
-| 7th | [[/6. Mechanics/Spells/guardian-of-faith.md\|guardian of faith]], [[/6. Mechanics/Spells/wall-of-fire.md\|wall of fire]] |
-| 9th | [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/scrying.md\|scrying]] |
+| 1st | [[/6. Mechanics/Spells/Burning Hands.md|burning hands]], [[/6. Mechanics/Spells/Faerie Fire.md|faerie fire]] |
+| 3rd | [[/6. Mechanics/Spells/Flaming Sphere.md|flaming sphere]], [[/6. Mechanics/Spells/Scorching Ray.md|scorching ray]] |
+| 5th | [[/6. Mechanics/Spells/Daylight.md|daylight]], [[/6. Mechanics/Spells/Fireball.md|fireball]] |
+| 7th | [[/6. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]], [[/6. Mechanics/Spells/Wall Of Fire.md|wall of fire]] |
+| 9th | [[/6. Mechanics/Spells/Flame Strike.md|flame strike]], [[/6. Mechanics/Spells/Scrying.md|scrying]] |
 ^light-domain-spells
 
 ### Bonus Cantrip (Level 1)
 
-When you choose this domain at 1st level, you gain the [[/6. Mechanics/Spells/light.md\|light]] cantrip if you don't already know it. This cantrip doesn't count against the number of cleric cantrips you know.
+When you choose this domain at 1st level, you gain the [[/6. Mechanics/Spells/Light.md|light]] cantrip if you don't already know it. This cantrip doesn't count against the number of cleric cantrips you know.
 
 ### Warding Flare (Level 1)
 
-Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] is immune to this feature.
+Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] is immune to this feature.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -45,7 +45,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.
 
-As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to `dice: 2d10\|avg` (`2d10`) + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
+As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to `dice: 2d10` (`2d10`) + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
 
 ### Improved Flare (Level 6)
 
@@ -60,7 +60,7 @@ _Source: Tasha's Cauldron of Everything p. 30_
 
 _8th-level cleric optional class features, which replaces the Potent Spellcasting feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Corona of Light (Level 17)
 

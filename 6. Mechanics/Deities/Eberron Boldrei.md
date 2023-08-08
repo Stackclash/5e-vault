@@ -11,7 +11,7 @@ aliases: ["Boldrei"]
 ---
 # Boldrei
 *Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 32, Tasha's Cauldron of Everything p. 34* 
-![[/6. Mechanics/Deities/img/erlw-the-sovereign-host.png#symbol\|The Sovereign Host]]
+![[/6. Mechanics/Deities/img/erlw-the-sovereign-host.png#symbol|The Sovereign Host]]
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

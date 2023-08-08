@@ -10,63 +10,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/goblinoid
-statblock: true
-statblock-link: "#^statblock"
-"name": "Hobgoblin Captain"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "goblinoid"
-"alignment": "Lawful Evil"
-"ac": !!int "17"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "13"
-"speed": "walk 30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Common, Goblin"
-"cr": "3"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Once per turn, the hobgoblin can deal an extra 10 (dice: 3d6|avg (3d6))\
-    \ damage to a creature it hits with a weapon attack if that creature is within\
-    \ 5 feet of an ally of the hobgoblin that isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Martial Advantage"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin makes two greatsword attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
-  "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage."
-  "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
-    \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
-    \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
-    \ provided it can hear and understand the hobgoblin. A creature can benefit from\
-    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Leadership (Recharges after a Short or Long Rest)"
-"source":
-- "MM"
-- "HotDQ"
-- "PotA"
-- "SKT"
-- "WDMM"
-- "BGDIA"
-- "DSotDQ"
-"image": "/compendium/bestiary/humanoid/token/hobgoblin-captain.png"
-aliases: ["Hobgoblin Captain"]
+statblock: inline
 ---
 # Hobgoblin Captain
 *Source: Monster Manual p. 186, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen*  
@@ -130,39 +74,61 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ## Stat Block
 
-```ad-statblock
-title: Hobgoblin Captain
-![[/6. Mechanics/Bestiary/Humanoid/Token/hobgoblin-captain.png#token]]
-*Medium humanoid(goblinoid), Lawful Evil*
-
-- **Armor Class** 17 ([[/6. Mechanics/Items/half-plate-armor.md\|half plate armor]])
-- **Hit Points** `dice: 6d8 + 12|text(39)` (6d8 + 12) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common, Goblin
-- **Challenge** 3
-
-## Traits
-
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (`dice: 3d6` (`3d6`)) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-## Actions
-
-***Multiattack.*** The hobgoblin makes two greatsword attacks.
-
-***Greatsword.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 2` (`2d6 + 2`) slashing damage.
-
-***Javelin.*** *Melee or Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft. or range 30/120 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `dice: d4` (`d4`) to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+```statblock
+"name": "Hobgoblin Captain"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "goblinoid"
+"alignment": "Lawful Evil"
+"ac": !!int "17"
+"hp": !!int "39"
+"hit_dice": "6d8 + 12"
+"stats":
+- !!int "15"
+- !!int "14"
+- !!int "14"
+- !!int "12"
+- !!int "10"
+- !!int "13"
+"speed": "walk 30 ft."
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "Common, Goblin"
+"cr": "3"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Once per turn, the hobgoblin can deal an extra 10 (dice: 3d6|avg (3d6))\
+    \ damage to a creature it hits with a weapon attack if that creature is within\
+    \ 5 feet of an ally of the hobgoblin that isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Martial Advantage"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hobgoblin makes two greatsword attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
+  "name": "Greatsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage."
+  "name": "Javelin"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
+    \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
+    \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
+    \ provided it can hear and understand the hobgoblin. A creature can benefit from\
+    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Leadership (Recharges after a Short or Long Rest)"
+"source":
+- "MM"
+- "HotDQ"
+- "PotA"
+- "SKT"
+- "WDMM"
+- "BGDIA"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Humanoid/token/hobgoblin-captain.png"
 ```
 ^statblock
 

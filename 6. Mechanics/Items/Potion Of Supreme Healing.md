@@ -14,6 +14,6 @@ aliases: ["Potion of Supreme Healing"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-You regain `dice: 10d4 + 20\|avg` (`10d4 + 20`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
+You regain `dice: 10d4 + 20` (`10d4 + 20`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide p. 187*

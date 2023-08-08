@@ -47,11 +47,11 @@ You gain oath spells at the paladin levels listed in the Oath of Glory Spells ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/6. Mechanics/Spells/guiding-bolt.md\|guiding bolt]], [[/6. Mechanics/Spells/heroism.md\|heroism]] |
-| 5th | [[/6. Mechanics/Spells/enhance-ability.md\|enhance ability]], [[/6. Mechanics/Spells/magic-weapon.md\|magic weapon]] |
-| 9th | [[/6. Mechanics/Spells/haste.md\|haste]], [[/6. Mechanics/Spells/protection-from-energy.md\|protection from energy]] |
-| 13th | [[/6. Mechanics/Spells/compulsion.md\|compulsion]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]] |
-| 17th | [[/6. Mechanics/Spells/commune.md\|commune]], [[/6. Mechanics/Spells/flame-strike.md\|flame strike]] |
+| 3rd | [[/6. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[/6. Mechanics/Spells/Heroism.md|heroism]] |
+| 5th | [[/6. Mechanics/Spells/Enhance Ability.md|enhance ability]], [[/6. Mechanics/Spells/Magic Weapon.md|magic weapon]] |
+| 9th | [[/6. Mechanics/Spells/Haste.md|haste]], [[/6. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
+| 13th | [[/6. Mechanics/Spells/Compulsion.md|compulsion]], [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] |
+| 17th | [[/6. Mechanics/Spells/Commune.md|commune]], [[/6. Mechanics/Spells/Flame Strike.md|flame strike]] |
 ^oath-of-glory-spells
 
 ### Channel Divinity (Level 3)
@@ -62,17 +62,17 @@ You gain the following two Channel Divinity options. See the Sacred Oath class f
 
 ### Channel Divinity: Peerless Athlete (Level 3)
 
-As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) and Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).
+As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) and Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).
 
 ### Channel Divinity: Inspiring Smite (Level 3)
 
-Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals `dice: 2d8\|avg` (`2d8`) + your level in this class, divided among the chosen creatures however you like.
+Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals `dice: 2d8` (`2d8`) + your level in this class, divided among the chosen creatures however you like.
 
 ### Aura of Alacrity (Level 7)
 
 _7th-level Oath of Glory feature_
 
-You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
 
 When you reach 18th level in this class, the range of the aura increases to 10 feet.
 

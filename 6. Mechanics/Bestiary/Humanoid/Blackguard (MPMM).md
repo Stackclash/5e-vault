@@ -7,8 +7,30 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/paladin
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Blackguard
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
+
+Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
+
+Blackguards often adorn their armor and weapons with dread accoutrements or are marked by eerie phenomena. You may choose a blackguard's accoutrement or roll on the Blackguard Accoutrements table to determine it.
+
+**Blackguard Accoutrements**
+
+| dice: d8 | Accoutrement |
+|----------|--------------|
+| 1 | Armor etched with stylized depictions of gruesome battles |
+| 2 | Helm wrought in the shape of a demonic boar |
+| 3 | Helm wrought to resemble a death mask |
+| 4 | Cloak decorated with bloody handprints |
+| 5 | Curls of inky smoke seeping from armor at the joints |
+| 6 | Dozens of flies buzzing about the blackguard |
+| 7 | Severed hand hanging from a chain around the blackguard's neck |
+| 8 | Glaive adorned with a length of cloth bearing the words "I choose violence" |
+^blackguard-accoutrements
+
+```statblock
 "name": "Blackguard"
 "size": "Medium"
 "type": "humanoid"
@@ -38,8 +60,8 @@ statblock-link: "#^statblock"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The blackguard casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 13):\n\n2/day each: [[/6. Mechanics/Spells/command.md\|command]],\
-    \ [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/find-steed.md\|find steed]]"
+    \ spellcasting ability (spell save DC 13):\n\n2/day each: [[/6. Mechanics/Spells/Command.md|command]],\
+    \ [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/6. Mechanics/Spells/Find Steed.md|find steed]]"
   "name": "spells"
 "actions":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
@@ -56,8 +78,8 @@ statblock-link: "#^statblock"
   "name": "Shortbow"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom\
-    \ saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of\
-    \ the blackguard for 1 minute. If a [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
+    \ saving throw or be [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] of\
+    \ the blackguard for 1 minute. If a [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ target ends its turn more than 30 feet away from the blackguard, the target\
     \ can repeat the saving throw, ending the effect on itself on a success."
   "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"
@@ -69,81 +91,17 @@ statblock-link: "#^statblock"
     \ choice:"
   "name": "Smite"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] for 1 minute.\
-    \ The [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] target can repeat the\
+  "desc": "The target is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] for 1 minute.\
+    \ The [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] target can repeat the\
     \ save at the end of each of its turns, ending the effect on itself on a success."
   "name": "Blind"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The target is pushed up to 10 feet away and knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
+  "desc": "The target is pushed up to 10 feet away and knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shove"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/humanoid/token/blackguard.png"
-aliases: ["Blackguard"]
----
-# Blackguard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
-
-Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
-
-Blackguards often adorn their armor and weapons with dread accoutrements or are marked by eerie phenomena. You may choose a blackguard's accoutrement or roll on the Blackguard Accoutrements table to determine it.
-
-**Blackguard Accoutrements**
-
-| dice: d8 | Accoutrement |
-|----------|--------------|
-| 1 | Armor etched with stylized depictions of gruesome battles |
-| 2 | Helm wrought in the shape of a demonic boar |
-| 3 | Helm wrought to resemble a death mask |
-| 4 | Cloak decorated with bloody handprints |
-| 5 | Curls of inky smoke seeping from armor at the joints |
-| 6 | Dozens of flies buzzing about the blackguard |
-| 7 | Severed hand hanging from a chain around the blackguard's neck |
-| 8 | Glaive adorned with a length of cloth bearing the words "I choose violence" |
-^blackguard-accoutrements
-
-```ad-statblock
-title: Blackguard
-![[/6. Mechanics/Bestiary/Humanoid/Token/blackguard.png#token]]
-*Medium humanoid(paladin), Neutral Evil*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/plate-armor.md\|plate]])
-- **Hit Points** `dice: 14d8 + 56|text(119)` (14d8 + 56) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|18 (+4)|11 (+0)|14 (+2)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Wisdom +5, Charisma +5
-- **Skills** Athletics +7, Deception +5, Intimidation +5
-- **Senses** passive Perception 12
-- **Languages** any one language (usually Common)
-- **Challenge** 8
-
-***Spellcasting.*** The blackguard casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
-
-**2/day each**: [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/find-steed.md\|find steed]]
-
-## Actions
-
-***Multiattack.*** The blackguard makes three attacks, using Glaive, Shortbow, or both.
-
-***Glaive.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 10 ft., one target. Hit: `dice: 1d10 + 4` (`1d10 + 4`) slashing damage plus `dice: 2d8` (`2d8`) necrotic damage.
-
-***Shortbow.*** *Ranged Weapon Attack:* `dice: d20+3` (+3 to hit), range 80/320 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Dreadful Aspect (Recharges after a Short or Long Rest).*** Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of the blackguard for 1 minute. If a [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] target ends its turn more than 30 feet away from the blackguard, the target can repeat the saving throw, ending the effect on itself on a success.
-
-## Bonus Actions
-
-***Smite.*** Immediately after the blackguard hits a target with an attack roll, the blackguard can force that target to make a DC 13 Constitution saving throw. On a failed save, the target suffers one of the following effects of the blackguard's choice:
-
-***Blind.*** The target is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] for 1 minute. The [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
-
-***Shove.*** The target is pushed up to 10 feet away and knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
+"image": "6. Mechanics/Bestiary/Humanoid/token/blackguard.png"
 ```
 ^statblock
 

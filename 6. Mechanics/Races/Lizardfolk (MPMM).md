@@ -22,7 +22,7 @@ Your walking speed is 30 feet, and you have a swimming speed equal to your walki
 
 ### Bite
 
-You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals `dice: 1d6\|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals `dice: 1d6` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Hold Breath
 
@@ -38,7 +38,7 @@ You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [[6. Mechanics/Rules/skills.md#Animal%20Handling\|Animal Handling]], [[6. Mechanics/Rules/skills.md#Medicine\|Medicine]], [[6. Mechanics/Rules/skills.md#Nature\|Nature]], [[6. Mechanics/Rules/skills.md#Perception\|Perception]], [[6. Mechanics/Rules/skills.md#Stealth\|Stealth]], or [[6. Mechanics/Rules/skills.md#Survival\|Survival]].
+Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [[6. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[6. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[6. Mechanics/Rules/Skills.md#Nature|Nature]], [[6. Mechanics/Rules/Skills.md#Perception|Perception]], [[6. Mechanics/Rules/Skills.md#Stealth|Stealth]], or [[6. Mechanics/Rules/Skills.md#Survival|Survival]].
 
 ## Description
 

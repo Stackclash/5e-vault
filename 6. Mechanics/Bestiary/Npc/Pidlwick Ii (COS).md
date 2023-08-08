@@ -5,48 +5,7 @@ tags:
 - compendium/src/5e/cos
 - monster/size/small
 - monster/type/construct
-statblock: true
-statblock-link: "#^statblock"
-"name": "Pidlwick II"
-"size": "Small"
-"type": "construct"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"hp": !!int "10"
-"hit_dice": "3d6"
-"stats":
-- !!int "10"
-- !!int "14"
-- !!int "11"
-- !!int "8"
-- !!int "13"
-- !!int "10"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Performance": !!int "2"
-"damage_immunities": "poison"
-"condition_immunities": "paralyzed, petrified, poisoned"
-"senses": "passive Perception 11"
-"languages": "understands Common but doesn't speak and can't read or write"
-"cr": "1/4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls\
-    \ against any creature that hasn't had a turn yet."
-  "name": "Ambusher"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
-  "name": "Club"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
-  "name": "Dart"
-"source":
-- "CoS"
-"image": "/compendium/bestiary/npc/token/pidlwick-ii.png"
-aliases: ["Pidlwick II"]
+statblock: inline
 ---
 # Pidlwick II
 *Source: Curse of Strahd p. 236*  
@@ -87,36 +46,45 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 
 ## Stat Block
 
-```ad-statblock
-title: Pidlwick II
-![[/6. Mechanics/Bestiary/Npc/Token/pidlwick-ii.png#token]]
-*Small construct, Neutral Evil*
-
-- **Armor Class** 14 (natural armor)
-- **Hit Points** `dice: 3d6|text(10)` (3d6) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|14 (+2)|11 (+0)| 8 (-1)|13 (+1)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Performance +2
-- **Senses** passive Perception 11
-- **Damage Immunities** poison
-- **Condition Immunities** paralyzed, petrified, poisoned
-- **Languages** understands Common but doesn't speak and can't read or write
-- **Challenge** 1/4
-
-## Traits
-
-***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.
-
-## Actions
-
-***Club.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d4` (`1d4`) bludgeoning damage.
-
-***Dart.*** *Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), range 20/60 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) piercing damage.
+```statblock
+"name": "Pidlwick II"
+"size": "Small"
+"type": "construct"
+"alignment": "Neutral Evil"
+"ac": !!int "14"
+"hp": !!int "10"
+"hit_dice": "3d6"
+"stats":
+- !!int "10"
+- !!int "14"
+- !!int "11"
+- !!int "8"
+- !!int "13"
+- !!int "10"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Performance": !!int "2"
+"damage_immunities": "poison"
+"condition_immunities": "paralyzed, petrified, poisoned"
+"senses": "passive Perception 11"
+"languages": "understands Common but doesn't speak and can't read or write"
+"cr": "1/4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls\
+    \ against any creature that hasn't had a turn yet."
+  "name": "Ambusher"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+  "name": "Club"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one\
+    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+  "name": "Dart"
+"source":
+- "CoS"
+"image": "6. Mechanics/Bestiary/Npc/token/pidlwick-ii.png"
 ```
 ^statblock

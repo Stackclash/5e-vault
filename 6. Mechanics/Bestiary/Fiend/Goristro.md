@@ -5,77 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/huge
 - monster/type/fiend/demon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Goristro"
-"size": "Huge"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "19"
-"hp": !!int "310"
-"hit_dice": "23d12 + 161"
-"stats":
-- !!int "25"
-- !!int "11"
-- !!int "25"
-- !!int "6"
-- !!int "13"
-- !!int "14"
-"speed": "walk 40 ft."
-"saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-  "Strength": !!int "13"
-  "Constitution": !!int "13"
-"skillsaves":
-  "Perception": !!int "7"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 17"
-"languages": "Abyssal"
-"cr": "17"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the goristro moves at least 15 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra 38 (dice:\
-    \ 7d10|avg (7d10)) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked\
-    \ [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Charge"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro can perfectly recall any path it has traveled."
-  "name": "Labyrinthine Recall"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro deals double damage to objects and structures."
-  "name": "Siege Monster"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
-  "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 21 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Hoof"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 7d10 + 7|avg (7d10 + 7) piercing damage."
-  "name": "Gore"
-"source":
-- "MM"
-"image": "/compendium/bestiary/fiend/token/goristro.png"
-aliases: ["Goristro"]
+statblock: inline
 ---
 # Goristro
 *Source: Monster Manual p. 59*  
@@ -224,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -253,47 +183,74 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ## Stat Block
 
-```ad-statblock
-title: Goristro
-![[/6. Mechanics/Bestiary/Fiend/Token/goristro.png#token]]
-*Huge fiend(demon), Chaotic Evil*
-
-- **Armor Class** 19 (natural armor)
-- **Hit Points** `dice: 23d12 + 161|text(310)` (23d12 + 161) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|25 (+7)|11 (+0)|25 (+7)| 6 (-2)|13 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +6
-- **Saving Throws** Strength +13, Dexterity +6, Constitution +13, Wisdom +7
-- **Skills** Perception +7
-- **Senses** darkvision 120 ft., passive Perception 17
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal
-- **Challenge** 17
-
-## Traits
-
-***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (`dice: 7d10` (`7d10`)) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-***Labyrinthine Recall.*** The goristro can perfectly recall any path it has traveled.
-
-***Magic Resistance.*** The goristro has advantage on saving throws against spells and other magical effects.
-
-***Siege Monster.*** The goristro deals double damage to objects and structures.
-
-## Actions
-
-***Multiattack.*** The goristro makes three attacks: two with its fists and one with its hoof.
-
-***Fist.*** *Melee Weapon Attack:* `dice: d20+13` (+13 to hit), reach 10 ft., one target. Hit: `dice: 3d8 + 7` (`3d8 + 7`) bludgeoning damage.
-
-***Hoof.*** *Melee Weapon Attack:* `dice: d20+13` (+13 to hit), reach 5 ft., one target. Hit: `dice: 3d10 + 7` (`3d10 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-***Gore.*** *Melee Weapon Attack:* `dice: d20+13` (+13 to hit), reach 10 ft., one target. Hit: `dice: 7d10 + 7` (`7d10 + 7`) piercing damage.
+```statblock
+"name": "Goristro"
+"size": "Huge"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "19"
+"hp": !!int "310"
+"hit_dice": "23d12 + 161"
+"stats":
+- !!int "25"
+- !!int "11"
+- !!int "25"
+- !!int "6"
+- !!int "13"
+- !!int "14"
+"speed": "walk 40 ft."
+"saves":
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+  "Strength": !!int "13"
+  "Constitution": !!int "13"
+"skillsaves":
+  "Perception": !!int "7"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 17"
+"languages": "Abyssal"
+"cr": "17"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the goristro moves at least 15 feet straight toward a target and then\
+    \ hits it with a gore attack on the same turn, the target takes an extra 38 (dice:\
+    \ 7d10|avg (7d10)) piercing damage. If the target is a creature, it must succeed\
+    \ on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked\
+    \ [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Charge"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The goristro can perfectly recall any path it has traveled."
+  "name": "Labyrinthine Recall"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The goristro has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The goristro deals double damage to objects and structures."
+  "name": "Siege Monster"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
+  "name": "Fist"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 21 Strength saving throw or be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Hoof"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 7d10 + 7|avg (7d10 + 7) piercing damage."
+  "name": "Gore"
+"source":
+- "MM"
+"image": "/compendium/bestiary/fiend/token/goristro.png"
 ```
 ^statblock

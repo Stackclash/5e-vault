@@ -12,7 +12,7 @@ aliases: ["Pearl of Power"]
 # Pearl of Power
 *Wondrous Item, major, uncommon (requires attunement by a spellcaster)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 

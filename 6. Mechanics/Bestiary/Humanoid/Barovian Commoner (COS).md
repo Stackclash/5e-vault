@@ -12,8 +12,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Barovian Commoner
+*Source: Curse of Strahd p. 29, Derived from Commoner (MM)*  
+
+```statblock
 "name": "Barovian Commoner"
 "size": "Medium"
 "type": "humanoid"
@@ -40,35 +44,7 @@ statblock-link: "#^statblock"
   "name": "Pitchfork"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/humanoid/token/barovian-commoner.png"
-aliases: ["Barovian Commoner"]
----
-# Barovian Commoner
-*Source: Curse of Strahd p. 29, Derived from Commoner (MM)*  
-
-```ad-statblock
-title: Barovian Commoner
-![[/6. Mechanics/Bestiary/Humanoid/Token/barovian-commoner.png#token]]
-*Medium humanoid(any race), Any alignment*
-
-- **Armor Class** 10 
-- **Hit Points** `dice: 1d8|text(4)` (1d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 0
-
-## Actions
-
-***Pitchfork.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: `dice: 1d6` (`1d6`) piercing damage.
+"image": "6. Mechanics/Bestiary/Humanoid/token/barovian-commoner.png"
 ```
 ^statblock
 

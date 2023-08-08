@@ -16,11 +16,11 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 **Curse of Strahd. Character Options, Gothic Trinket Table**
 
-| `dice: d100\|avg` (`d100`) | Trinket |
+| `dice: d100` (`d100`) | Trinket |
 |------------|--------------|---------|
 | 01-02 | A picture you drew as a child of your imaginary friend |
 | 03-04 | A lock that opens when blood is dripped in its keyhole |
-| 05-06 | Clothes stolen from a [[/6. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrow]] |
+| 05-06 | Clothes stolen from a [[/6. Mechanics/Bestiary/Construct/Scarecrow.md|scarecrow]] |
 | 07-08 | A spinning top carved with four faces: happy, sad, wrathful, and dead |
 | 09-10 | The necklace of a sibling who died on the day you were born |
 | 11-12 | A wig from someone executed by beheading |
@@ -42,7 +42,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 43-44 | A jar of pickled ghouls' tongues |
 | 45-46 | The wooden hand of a notorious pirate |
 | 47-48 | An urn with the ashes of a dead relative |
-| 49-50 | A hand mirror backed with a bronze depiction of a [[/6. Mechanics/Bestiary/Monstrosity/Medusa.md\|medusa]] |
+| 49-50 | A hand mirror backed with a bronze depiction of a [[/6. Mechanics/Bestiary/Monstrosity/Medusa.md|medusa]] |
 | 51-52 | Pallid leather gloves crafted with ivory fingernails |
 | 53-54 | Dice made from the knuckles of a notorious charlatan |
 | 55-56 | A ring of keys for forgotten locks |

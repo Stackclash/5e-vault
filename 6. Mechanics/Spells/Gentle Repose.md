@@ -25,8 +25,8 @@ aliases: ["Gentle Repose"]
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [[/6. Mechanics/Spells/raise-dead.md\|raise dead]].
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [[/6. Mechanics/Spells/Raise Dead.md|raise dead]].
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of Spores (TCE).md\|Druid (Circle of Spores)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of Spores (TCE).md|Druid (Circle of Spores)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 245

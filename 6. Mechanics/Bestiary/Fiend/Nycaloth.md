@@ -5,89 +5,12 @@ tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/yugoloth
-statblock: true
-statblock-link: "#^statblock"
-"name": "Nycaloth"
-"size": "Large"
-"type": "fiend"
-"subtype": "yugoloth"
-"alignment": "Neutral Evil"
-"ac": !!int "18"
-"hp": !!int "123"
-"hit_dice": "13d10 + 52"
-"stats":
-- !!int "20"
-- !!int "11"
-- !!int "19"
-- !!int "12"
-- !!int "10"
-- !!int "15"
-"speed": "walk 40 ft., fly 60 ft."
-"skillsaves":
-  "Intimidation": !!int "6"
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
-"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
-  \ nonmagical attacks"
-"damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
-"languages": "Abyssal, Infernal, telepathy 60 ft."
-"cr": "9"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nycaloth's innate spellcasting ability is Charisma. The nycaloth can\
-    \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]],\
-    \ [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]]\
-    \ (self only), [[/6. Mechanics/Spells/mirror-image.md\|mirror image]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nycaloth has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nycaloth's weapon attacks are magical."
-  "name": "Magic Weapons"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nycaloth makes two melee attacks, or it makes one melee attack and\
-    \ teleports before or after the attack."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage. If the target is a creature,\
-    \ it must succeed on a DC 16 Constitution saving throw or take dice: 2d4|avg\
-    \ (2d4) slashing damage at the start of each of its turns due to a fiendish\
-    \ wound. Each time the nycaloth hits the wounded target with this attack, the\
-    \ damage dealt by the wound increases by 5 (dice: 2d4|avg (2d4)). Any creature\
-    \ can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine)\
-    \ check. The wound also closes if the target receives magical healing."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 5|avg (2d12 + 5) slashing damage."
-  "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nycaloth magically teleports, along with any equipment it is wearing\
-    \ or carrying, up to 60 feet to an unoccupied space it can see."
-  "name": "Teleport"
-"source":
-- "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "BGDIA"
-- "TCE"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/nycaloth.png"
-aliases: ["Nycaloth"]
+statblock: inline
 ---
 # Nycaloth
 *Source: Monster Manual p. 314, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Keys from the Golden Vault*  
 
-The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] or create illusory doubles of itself, further confounding its enemies.
+The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
 
 Nycaloths are the most loyal of the yugoloths. When they find an evil master that treats them well, they are unlikely to break their agreement unless the reward for doing so is extreme.
 
@@ -144,47 +67,81 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ## Stat Block
 
-```ad-statblock
-title: Nycaloth
-![[/6. Mechanics/Bestiary/Fiend/Token/nycaloth.png#token]]
-*Large fiend(yugoloth), Neutral Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 13d10 + 52|text(123)` (13d10 + 52) 
-- **Speed** walk 40 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** ⏤
-- **Skills** Intimidation +6, Perception +4, Stealth +4
-- **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
-- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** acid, poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Infernal, telepathy 60 ft.
-- **Challenge** 9
-
-## Traits
-
-***Magic Resistance.*** The nycaloth has advantage on saving throws against spells and other magical effects.
-
-***Magic Weapons.*** The nycaloth's weapon attacks are magical.
-
-***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/invisibility.md\|invisibility]] (self only), [[/6. Mechanics/Spells/mirror-image.md\|mirror image]]
-
-## Actions
-
-***Multiattack.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 5` (`2d6 + 5`) slashing damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take `dice: 2d4` (`2d4`) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (`dice: 2d4` (`2d4`)). Any creature can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
-
-***Greataxe.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 5 ft., one target. Hit: `dice: 2d12 + 5` (`2d12 + 5`) slashing damage.
-
-***Teleport.*** The nycaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+```statblock
+"name": "Nycaloth"
+"size": "Large"
+"type": "fiend"
+"subtype": "yugoloth"
+"alignment": "Neutral Evil"
+"ac": !!int "18"
+"hp": !!int "123"
+"hit_dice": "13d10 + 52"
+"stats":
+- !!int "20"
+- !!int "11"
+- !!int "19"
+- !!int "12"
+- !!int "10"
+- !!int "15"
+"speed": "walk 40 ft., fly 60 ft."
+"skillsaves":
+  "Intimidation": !!int "6"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
+"damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
+  \ nonmagical attacks"
+"damage_immunities": "acid, poison"
+"condition_immunities": "poisoned"
+"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
+"languages": "Abyssal, Infernal, telepathy 60 ft."
+"cr": "9"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nycaloth's innate spellcasting ability is Charisma. The nycaloth can\
+    \ innately cast the following spells, requiring no material components:\n\nAt\
+    \ will: [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/6. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ (self only), [[/6. Mechanics/Spells/Mirror Image.md|mirror image]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nycaloth has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nycaloth's weapon attacks are magical."
+  "name": "Magic Weapons"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nycaloth makes two melee attacks, or it makes one melee attack and\
+    \ teleports before or after the attack."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage. If the target is a creature,\
+    \ it must succeed on a DC 16 Constitution saving throw or take dice: 2d4|avg\
+    \ (2d4) slashing damage at the start of each of its turns due to a fiendish\
+    \ wound. Each time the nycaloth hits the wounded target with this attack, the\
+    \ damage dealt by the wound increases by 5 (dice: 2d4|avg (2d4)). Any creature\
+    \ can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine)\
+    \ check. The wound also closes if the target receives magical healing."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d12 + 5|avg (2d12 + 5) slashing damage."
+  "name": "Greataxe"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The nycaloth magically teleports, along with any equipment it is wearing\
+    \ or carrying, up to 60 feet to an unoccupied space it can see."
+  "name": "Teleport"
+"source":
+- "MM"
+- "PotA"
+- "RoT"
+- "ToA"
+- "WDMM"
+- "BGDIA"
+- "TCE"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/nycaloth.png"
 ```
 ^statblock

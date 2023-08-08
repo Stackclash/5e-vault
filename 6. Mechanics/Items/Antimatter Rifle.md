@@ -15,7 +15,7 @@ aliases: ["Antimatter Rifle"]
 
 - **Damage**: 6d8 N
 - **Range**: 120/360
-- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]], [[6. Mechanics/Rules/item-properties.md#Reload\|Reload]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[6. Mechanics/Rules/Item Properties.md#Reload|Reload]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
 - **Cost**: ⏤
 - **Weight**: 10.0 lbs.
 

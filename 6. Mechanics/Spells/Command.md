@@ -41,7 +41,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [[6. Mechanics/Rules/Conditions.md#prone\|prone]] and then ends its turn.
+The target falls [[6. Mechanics/Rules/Conditions.md#prone|prone]] and then ends its turn.
 
 ## Halt
 
@@ -53,6 +53,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [[/6. Mechanics/Classes/Bard College Of Glamour (XGE).md\|Bard (College of Glamour)]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [[/6. Mechanics/Classes/Bard College Of Glamour (XGE).md|Bard (College of Glamour)]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Cleric Order Domain (TCE).md|Cleric (Order Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md|Paladin (Oath of Conquest)]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Fiend.md|Warlock (The Fiend)]]
 
 Source: Player's Handbook p. 223

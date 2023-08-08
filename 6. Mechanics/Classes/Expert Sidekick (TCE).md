@@ -102,13 +102,13 @@ At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick in
 
 _6th-level Expert feature_
 
-The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `dice: 2d6\|avg` (`2d6`) damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
+The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `dice: 2d6` (`2d6`) damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
 
 ### Evasion (Level 7)
 
 _7th-level Expert feature_
 
-Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ### Ability Score Improvement (Level 8)
 
@@ -126,9 +126,9 @@ At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick in
 
 _11th-level Expert feature_
 
-When the sidekick takes the Help action, the creature who receives the help also gains a `dice: 1d6\|avg` (`1d6`) bonus to the `dice: d20\|avg` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the Help action, the creature who receives the help also gains a `dice: 1d6` (`1d6`) bonus to the `dice: d20` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
-At 20th level, the bonus increases to `dice: 2d6\|avg` (`2d6`).
+At 20th level, the bonus increases to `dice: 2d6` (`2d6`).
 
 ### Ability Score Improvement (Level 12)
 
@@ -140,7 +140,7 @@ At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick in
 
 _14th-level Expert feature_
 
-The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `dice: d20\|avg` (`d20`) roll of 9 or lower as a 10.
+The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `dice: d20` (`d20`) roll of 9 or lower as a 10.
 
 ### Expertise (Level 15)
 
@@ -170,4 +170,4 @@ At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick in
 
 _20th-level Expert feature_
 
-At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `dice: 2d6\|avg` (`2d6`).
+At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `dice: 2d6` (`2d6`).

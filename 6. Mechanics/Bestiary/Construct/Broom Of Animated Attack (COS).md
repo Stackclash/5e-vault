@@ -5,8 +5,20 @@ tags:
 - compendium/src/5e/cos
 - monster/size/small
 - monster/type/construct
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Broom of Animated Attack
+*Source: Curse of Strahd p. 226*  
+
+A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
+
+## Flying Broom
+
+Some brooms of animated attack allow their creators to ride them, in which case they behave like typical brooms of flying. A broom of animated attack, however, can carry only half the weight that a broom of flying can (see chapter 7, "Treasure," of the Dungeon Master's Guide).
+
+## Stat Block
+
+```statblock
 "name": "Broom of Animated Attack"
 "size": "Small"
 "type": "construct"
@@ -36,11 +48,11 @@ statblock-link: "#^statblock"
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The broom is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]\
-    \ while in the area of an [[/6. Mechanics/Spells/antimagic-field.md\|antimagic field]].\
-    \ If targeted by [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], the broom\
+  "desc": "The broom is [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ while in the area of an [[/6. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+    \ If targeted by [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] for 1 minute."
+    \ DC or fall [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
   "name": "Antimagic Susceptibility"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "While the broom remains motionless and isn't flying, it is indistinguishable\
@@ -63,60 +75,6 @@ statblock-link: "#^statblock"
   "name": "Animated Attack"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/construct/token/broom-of-animated-attack.png"
-aliases: ["Broom of Animated Attack"]
----
-# Broom of Animated Attack
-*Source: Curse of Strahd p. 226*  
-
-A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
-
-## Flying Broom
-
-Some brooms of animated attack allow their creators to ride them, in which case they behave like typical brooms of flying. A broom of animated attack, however, can carry only half the weight that a broom of flying can (see chapter 7, "Treasure," of the Dungeon Master's Guide).
-
-## Stat Block
-
-```ad-statblock
-title: Broom of Animated Attack
-![[/6. Mechanics/Bestiary/Construct/Token/broom-of-animated-attack.png#token]]
-*Small construct, Unaligned*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 5d6|text(17)` (5d6) 
-- **Speed** walk 0 ft., fly 50 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|17 (+3)|10 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 7
-- **Damage Immunities** poison, psychic
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
-- **Languages** —
-- **Challenge** 1/4
-
-## Traits
-
-***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
-
-The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.
-
-***Antimagic Susceptibility.*** The broom is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] while in the area of an [[/6. Mechanics/Spells/antimagic-field.md\|antimagic field]]. If targeted by [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] for 1 minute.
-
-***False Appearance.*** While the broom remains motionless and isn't flying, it is indistinguishable from a normal broom.
-
-## Actions
-
-***Multiattack.*** The broom makes two melee attacks.
-
-***Broomstick.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) bludgeoning damage.
-
-## Reactions
-
-***Animated Attack.*** If the broom is motionless and a creature grabs hold of it, the broom makes a Dexterity check contested by the creature's Strength check. If the broom wins the contest, it flies out of the creature's grasp and makes a melee attack against it with advantage on the attack roll.
+"image": "6. Mechanics/Bestiary/Construct/token/broom-of-animated-attack.png"
 ```
 ^statblock

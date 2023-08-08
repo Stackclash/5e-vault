@@ -6,7 +6,7 @@ aliases: ["Downtime Activity: Crafting"]
 # Downtime Activity: Crafting
 *Source: Player's Handbook p. 187* 
 
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [[/6. Mechanics/Items/Smiths Tools.md\|smith's tools]] needs a forge in order to craft a sword or suit of armor.
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [[/6. Mechanics/Items/Smiths Tools.md|smith's tools]] needs a forge in order to craft a sword or suit of armor.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
 

@@ -6,109 +6,7 @@ tags:
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
-"name": "Androsphinx"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Lawful Neutral"
-"ac": !!int "17"
-"hp": !!int "199"
-"hit_dice": "19d10 + 95"
-"stats":
-- !!int "22"
-- !!int "10"
-- !!int "20"
-- !!int "16"
-- !!int "18"
-- !!int "23"
-"speed": "walk 40 ft., fly 60 ft."
-"saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "10"
-  "Intelligence": !!int "9"
-  "Constitution": !!int "11"
-"skillsaves":
-  "Religion": !!int "15"
-  "Perception": !!int "10"
-  "Arcana": !!int "9"
-"damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, frightened"
-"senses": "truesight 120 ft., passive Perception 20"
-"languages": "Common, Sphinx"
-"cr": "17"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom\
-    \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). It requires\
-    \ no material components to cast its spells. The sphinx has the following cleric\
-    \ spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]],\
-    \ [[/6. Mechanics/Spells/spare-the-dying.md\|spare the dying]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/command.md\|command]],\
-    \ [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [detect\
-    \ magic](/compendium/spells/detect-magic.md)\n\n2nd level (3 2nd-level slots):\
-    \ [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]], [[/6. Mechanics/Spells/zone-of-truth.md\|zone of truth]]\n\
-    \n3rd level (3 3rd-level slots): [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]],\
-    \ [[/6. Mechanics/Spells/tongues.md\|tongues]]\n\n4th level (3 4th-level slots):\
-    \ [[/6. Mechanics/Spells/banishment.md\|banishment]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]]\n\
-    \n5th level (2 5th-level slots): [[/6. Mechanics/Spells/flame-strike.md\|flame strike]],\
-    \ [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]]\n\n6th level\
-    \ (1 6th-level slots): [[/6. Mechanics/Spells/heroes-feast.md\|heroes' feast]]"
-  "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx is immune to any effect that would sense its emotions or read\
-    \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\
-    \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
-  "name": "Inscrutable"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx's weapon attacks are magical."
-  "name": "Magic Weapons"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx makes two claw attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx emits a magical roar. Each time it roars before finishing a\
-    \ long rest, the roar is louder and the effect is different, as detailed below.\
-    \ Each creature within 500 feet of the sphinx and able to hear the roar must make\
-    \ a saving throw.\n\n- First Roar. Each creature that fails a DC 18 Wisdom\
-    \ saving throw is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for\
-    \ 1 minute. A [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] creature\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success.  \n- Second Roar. Each creature that fails a DC\
-    \ 18 Wisdom saving throw is [[6. Mechanics/Rules/conditions.md#deafened\|deafened]]\
-    \ and [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A\
-    \ [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] creature is [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]]\
-    \ and can repeat the saving throw at the end of each of its turns, ending the\
-    \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
-    \ 18 Constitution saving throw. On a failed save, a creature takes dice: 8d10|avg\
-    \ (8d10) thunder damage and is knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ On a successful save, the creature takes half as much damage and isn't knocked\
-    \ [[6. Mechanics/Rules/conditions.md#prone\|prone]].  "
-  "name": "Roar (3/Day)"
-"legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx makes one claw attack."
-  "name": "Claw Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx magically teleports, along with any equipment it is wearing\
-    \ or carrying, up to 120 feet to an unoccupied space it can see."
-  "name": "Teleport (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx casts a spell from its list of prepared spells, using a spell\
-    \ slot as normal."
-  "name": "Cast a Spell (Costs 3 Actions)"
-"source":
-- "MM"
-- "EGW"
-- "MOT"
-- "CM"
-"image": "/compendium/bestiary/monstrosity/token/androsphinx.png"
-aliases: ["Androsphinx"]
+statblock: inline
 ---
 # Androsphinx
 *Source: Monster Manual p. 281, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Candlekeep Mysteries*  
@@ -157,78 +55,107 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 
 ## Stat Block
 
-```ad-statblock
-title: Androsphinx
-![[/6. Mechanics/Bestiary/Monstrosity/Token/androsphinx.png#token]]
-*Large monstrosity, Lawful Neutral*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 19d10 + 95|text(199)` (19d10 + 95) 
-- **Speed** walk 40 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)|
-
-- **Proficiency Bonus** +6
-- **Saving Throws** Dexterity +6, Constitution +11, Intelligence +9, Wisdom +10
-- **Skills** Arcana +9, Perception +10, Religion +15
-- **Senses** truesight 120 ft., passive Perception 20
-- **Damage Immunities** psychic; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** charmed, frightened
-- **Languages** Common, Sphinx
-- **Challenge** 17
-
-## Traits
-
-***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
-
-***Magic Weapons.*** The sphinx's weapon attacks are magical.
-
-***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, `dice: d20+10` (+10 to hit) with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]], [[/6. Mechanics/Spells/spare-the-dying.md\|spare the dying]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]], [[/6. Mechanics/Spells/zone-of-truth.md\|zone of truth]]
-
-**3rd level (3 3rd-level slots)**: [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/tongues.md\|tongues]]
-
-**4th level (3 4th-level slots)**: [[/6. Mechanics/Spells/banishment.md\|banishment]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]]
-
-**5th level (2 5th-level slots)**: [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]]
-
-**6th level (1 6th-level slots)**: [[/6. Mechanics/Spells/heroes-feast.md\|heroes' feast]]
-
-## Actions
-
-***Multiattack.*** The sphinx makes two claw attacks.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+12` (+12 to hit), reach 5 ft., one target. Hit: `dice: 2d10 + 6` (`2d10 + 6`) slashing damage.
-
-***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
-
-- **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is [[6. Mechanics/Rules/conditions.md#deafened\|deafened]] and [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] creature is [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]] and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes `dice: 8d10` (`8d10`) thunder damage and is knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. On a successful save, the creature takes half as much damage and isn't knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].  
-
-## Legendary Actions
-
-***Claw Attack.*** The sphinx makes one claw attack.
-
-***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-
-***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
-
-## Lair actions
-
-On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:
-
-- The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.  
-- The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become `dice: 1d20` (`1d20`) years older or younger (the sphinx's choice), but never any younger than 1 year old. A [[/6. Mechanics/Spells/greater-restoration.md\|greater restoration]] spell can restore a creature's age to normal.  
-- The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A [[/6. Mechanics/Spells/wish.md\|wish]] spell can return the caster and up to seven other creatures designated by the caster to their normal time.  
-- The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.  
+```statblock
+"name": "Androsphinx"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Lawful Neutral"
+"ac": !!int "17"
+"hp": !!int "199"
+"hit_dice": "19d10 + 95"
+"stats":
+- !!int "22"
+- !!int "10"
+- !!int "20"
+- !!int "16"
+- !!int "18"
+- !!int "23"
+"speed": "walk 40 ft., fly 60 ft."
+"saves":
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "10"
+  "Intelligence": !!int "9"
+  "Constitution": !!int "11"
+"skillsaves":
+  "Religion": !!int "15"
+  "Perception": !!int "10"
+  "Arcana": !!int "9"
+"damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
+"condition_immunities": "charmed, frightened"
+"senses": "truesight 120 ft., passive Perception 20"
+"languages": "Common, Sphinx"
+"cr": "17"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom\
+    \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). It requires\
+    \ no material components to cast its spells. The sphinx has the following cleric\
+    \ spells prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+    \ [[/6. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/Command.md|command]],\
+    \ [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [detect\
+    \ magic](/compendium/spells/detect-magic.md)\n\n2nd level (3 2nd-level slots):\
+    \ [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/6. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\
+    \n3rd level (3 3rd-level slots): [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[/6. Mechanics/Spells/Tongues.md|tongues]]\n\n4th level (3 4th-level slots):\
+    \ [[/6. Mechanics/Spells/Banishment.md|banishment]], [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
+    \n5th level (2 5th-level slots): [[/6. Mechanics/Spells/Flame Strike.md|flame strike]],\
+    \ [[/6. Mechanics/Spells/Greater Restoration.md|greater restoration]]\n\n6th level\
+    \ (1 6th-level slots): [[/6. Mechanics/Spells/Heroes Feast.md|heroes' feast]]"
+  "name": "spells"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx is immune to any effect that would sense its emotions or read\
+    \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\
+    \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
+  "name": "Inscrutable"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx's weapon attacks are magical."
+  "name": "Magic Weapons"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx makes two claw attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx emits a magical roar. Each time it roars before finishing a\
+    \ long rest, the roar is louder and the effect is different, as detailed below.\
+    \ Each creature within 500 feet of the sphinx and able to hear the roar must make\
+    \ a saving throw.\n\n- First Roar. Each creature that fails a DC 18 Wisdom\
+    \ saving throw is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
+    \ 1 minute. A [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] creature\
+    \ can repeat the saving throw at the end of each of its turns, ending the effect\
+    \ on itself on a success.  \n- Second Roar. Each creature that fails a DC\
+    \ 18 Wisdom saving throw is [[6. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+    \ and [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A\
+    \ [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] creature is [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ and can repeat the saving throw at the end of each of its turns, ending the\
+    \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
+    \ 18 Constitution saving throw. On a failed save, a creature takes dice: 8d10|avg\
+    \ (8d10) thunder damage and is knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ On a successful save, the creature takes half as much damage and isn't knocked\
+    \ [[6. Mechanics/Rules/Conditions.md#prone|prone]].  "
+  "name": "Roar (3/Day)"
+"legendary_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx makes one claw attack."
+  "name": "Claw Attack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx magically teleports, along with any equipment it is wearing\
+    \ or carrying, up to 120 feet to an unoccupied space it can see."
+  "name": "Teleport (Costs 2 Actions)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sphinx casts a spell from its list of prepared spells, using a spell\
+    \ slot as normal."
+  "name": "Cast a Spell (Costs 3 Actions)"
+"source":
+- "MM"
+- "EGW"
+- "MOT"
+- "CM"
+"image": "6. Mechanics/Bestiary/Monstrosity/token/androsphinx.png"
 ```
 ^statblock
 

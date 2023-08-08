@@ -5,82 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Barbed Devil"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "110"
-"hit_dice": "13d8 + 52"
-"stats":
-- !!int "16"
-- !!int "17"
-- !!int "18"
-- !!int "12"
-- !!int "14"
-- !!int "14"
-"speed": "walk 30 ft."
-"saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "5"
-  "Strength": !!int "6"
-  "Constitution": !!int "7"
-"skillsaves":
-  "Deception": !!int "5"
-  "Insight": !!int "5"
-  "Perception": !!int "8"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 18"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "5"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of each of its turns, the barbed devil deals 5 (dice: 1d10|avg\
-    \ (1d10)) piercing damage to any creature grappling it."
-  "name": "Barbed Hide"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
-  "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes three melee attacks: one with its tail and two with its\
-    \ claws. Alternatively, it can use Hurl Flame twice."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
-  "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 150 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
-    \ that isn't being worn or carried, it also catches fire."
-  "name": "Hurl Flame"
-"source":
-- "MM"
-- "RoT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "BGDIA"
-- "EGW"
-- "IDRotF"
-- "TCE"
-"image": "/compendium/bestiary/fiend/token/barbed-devil.png"
-aliases: ["Barbed Devil"]
+statblock: inline
 ---
 # Barbed Devil
 *Source: Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything*  
@@ -185,7 +110,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -211,45 +136,79 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Barbed Devil
-![[/6. Mechanics/Bestiary/Fiend/Token/barbed-devil.png#token]]
-*Medium fiend(devil), Lawful Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 13d8 + 52|text(110)` (13d8 + 52) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Strength +6, Constitution +7, Wisdom +5, Charisma +5
-- **Skills** Deception +5, Insight +5, Perception +8
-- **Senses** darkvision 120 ft., passive Perception 18
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 5
-
-## Traits
-
-***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (`dice: 1d10` (`1d10`)) piercing damage to any creature grappling it.
-
-***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
-
-***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) piercing damage.
-
-***Tail.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) piercing damage.
-
-***Hurl Flame.*** *Ranged Spell Attack:* `dice: d20+5` (+5 to hit), range 150 ft., one target. Hit: `dice: 3d6` (`3d6`) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+```statblock
+"name": "Barbed Devil"
+"size": "Medium"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"hp": !!int "110"
+"hit_dice": "13d8 + 52"
+"stats":
+- !!int "16"
+- !!int "17"
+- !!int "18"
+- !!int "12"
+- !!int "14"
+- !!int "14"
+"speed": "walk 30 ft."
+"saves":
+  "Charisma": !!int "5"
+  "Wisdom": !!int "5"
+  "Strength": !!int "6"
+  "Constitution": !!int "7"
+"skillsaves":
+  "Deception": !!int "5"
+  "Insight": !!int "5"
+  "Perception": !!int "8"
+"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
+  \ that aren't silvered"
+"damage_immunities": "fire, poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 18"
+"languages": "Infernal, telepathy 120 ft."
+"cr": "5"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "At the start of each of its turns, the barbed devil deals 5 (dice: 1d10|avg\
+    \ (1d10)) piercing damage to any creature grappling it."
+  "name": "Barbed Hide"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Magical darkness doesn't impede the devil's darkvision."
+  "name": "Devil's Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The devil makes three melee attacks: one with its tail and two with its\
+    \ claws. Alternatively, it can use Hurl Flame twice."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+  "name": "Tail"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 150 ft., one target.\
+    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
+    \ that isn't being worn or carried, it also catches fire."
+  "name": "Hurl Flame"
+"source":
+- "MM"
+- "RoT"
+- "ToA"
+- "WDH"
+- "WDMM"
+- "BGDIA"
+- "EGW"
+- "IDRotF"
+- "TCE"
+"image": "/compendium/bestiary/fiend/token/barbed-devil.png"
 ```
 ^statblock

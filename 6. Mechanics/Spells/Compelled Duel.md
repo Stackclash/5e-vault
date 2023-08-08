@@ -20,6 +20,6 @@ You attempt to compel a creature into a duel. One creature that you can see with
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [[/6. Mechanics/Classes/Paladin.md\|Paladin]]
+**Classes**: [[/6. Mechanics/Classes/Paladin.md|Paladin]]
 
 Source: Player's Handbook p. 224

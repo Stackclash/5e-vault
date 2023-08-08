@@ -12,12 +12,12 @@ aliases: ["Cloak of the Bat"]
 # Cloak of the Bat
 *Wondrous Item, major, rare (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this cloak, you have advantage on Dexterity ([[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
+While wearing this cloak, you have advantage on Dexterity ([[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
 
-While wearing the cloak in an area of dim light or darkness, you can use your action to cast [[/6. Mechanics/Spells/polymorph.md\|polymorph]] on yourself, transforming into a [[/6. Mechanics/Bestiary/Beast/Bat.md\|bat]]. While you are in the form of the [[/6. Mechanics/Bestiary/Beast/Bat.md\|bat]], you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
+While wearing the cloak in an area of dim light or darkness, you can use your action to cast [[/6. Mechanics/Spells/Polymorph.md|polymorph]] on yourself, transforming into a [[/6. Mechanics/Bestiary/Beast/Bat.md|bat]]. While you are in the form of the [[/6. Mechanics/Bestiary/Beast/Bat.md|bat]], you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 159*

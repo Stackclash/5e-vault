@@ -25,11 +25,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[/6. Mechanics/Spells/burning-hands.md\|burning hands]], [[/6. Mechanics/Spells/command.md\|command]] |
-| 2nd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/scorching-ray.md\|scorching ray]] |
-| 3rd | [[/6. Mechanics/Spells/fireball.md\|fireball]], [[/6. Mechanics/Spells/stinking-cloud.md\|stinking cloud]] |
-| 4th | [[/6. Mechanics/Spells/fire-shield.md\|fire shield]], [[/6. Mechanics/Spells/wall-of-fire.md\|wall of fire]] |
-| 5th | [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/hallow.md\|hallow]] |
+| 1st | [[/6. Mechanics/Spells/Burning Hands.md|burning hands]], [[/6. Mechanics/Spells/Command.md|command]] |
+| 2nd | [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/Scorching Ray.md|scorching ray]] |
+| 3rd | [[/6. Mechanics/Spells/Fireball.md|fireball]], [[/6. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] |
+| 4th | [[/6. Mechanics/Spells/Fire Shield.md|fire shield]], [[/6. Mechanics/Spells/Wall Of Fire.md|wall of fire]] |
+| 5th | [[/6. Mechanics/Spells/Flame Strike.md|flame strike]], [[/6. Mechanics/Spells/Hallow.md|hallow]] |
 ^fiend-expanded-spells
 
 ### Dark One's Blessing (Level 1)
@@ -38,7 +38,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 ### Dark One's Own Luck (Level 6)
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a `dice: d10\|avg` (`d10`) to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a `dice: d10` (`d10`) to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -50,6 +50,6 @@ Starting at 10th level, you can choose one damage type when you finish a short o
 
 Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 
-At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes `dice: 10d10\|avg` (`10d10`) psychic damage as it reels from its horrific experience.
+At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes `dice: 10d10` (`10d10`) psychic damage as it reels from its horrific experience.
 
 Once you use this feature, you can't use it again until you finish a long rest.

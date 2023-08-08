@@ -10,60 +10,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/goblinoid
-statblock: true
-statblock-link: "#^statblock"
-"name": "Hobgoblin"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "goblinoid"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"stats":
-- !!int "13"
-- !!int "12"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "9"
-"speed": "walk 30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Common, Goblin"
-"cr": "1/2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Once per turn, the hobgoblin can deal an extra 7 (dice: 2d6|avg (2d6))\
-    \ damage to a creature it hits with a weapon attack if that creature is within\
-    \ 5 feet of an ally of the hobgoblin that isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Martial Advantage"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage, or 6 (dice: 1d10 + 1|avg\
-    \ (1d10 + 1)) slashing damage if used with two hands."
-  "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
-  "name": "Longbow"
-"source":
-- "MM"
-- "HotDQ"
-- "LMoP"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "RMBRE"
-- "EGW"
-- "WBtW"
-- "DSotDQ"
-"image": "/compendium/bestiary/humanoid/token/hobgoblin.png"
-aliases: ["Hobgoblin"]
+statblock: inline
 ---
 # Hobgoblin
 *Source: Monster Manual p. 186, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen*  
@@ -127,35 +74,58 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ## Stat Block
 
-```ad-statblock
-title: Hobgoblin
-![[/6. Mechanics/Bestiary/Humanoid/Token/hobgoblin.png#token]]
-*Medium humanoid(goblinoid), Lawful Evil*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/chain-mail.md\|chain mail]], [[/6. Mechanics/Items/shield.md\|shield]])
-- **Hit Points** `dice: 2d8 + 2|text(11)` (2d8 + 2) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common, Goblin
-- **Challenge** 1/2
-
-## Traits
-
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`dice: 2d6` (`2d6`)) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-## Actions
-
-***Longsword.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 1` (`1d8 + 1`) slashing damage, or 6 (`dice: 1d10 + 1` (`1d10 + 1`)) slashing damage if used with two hands.
-
-***Longbow.*** *Ranged Weapon Attack:* `dice: d20+3` (+3 to hit), range 150/600 ft., one target. Hit: `dice: 1d8 + 1` (`1d8 + 1`) piercing damage.
+```statblock
+"name": "Hobgoblin"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "goblinoid"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "11"
+"hit_dice": "2d8 + 2"
+"stats":
+- !!int "13"
+- !!int "12"
+- !!int "12"
+- !!int "10"
+- !!int "10"
+- !!int "9"
+"speed": "walk 30 ft."
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "Common, Goblin"
+"cr": "1/2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Once per turn, the hobgoblin can deal an extra 7 (dice: 2d6|avg (2d6))\
+    \ damage to a creature it hits with a weapon attack if that creature is within\
+    \ 5 feet of an ally of the hobgoblin that isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Martial Advantage"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage, or 6 (dice: 1d10 + 1|avg\
+    \ (1d10 + 1)) slashing damage if used with two hands."
+  "name": "Longsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
+    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+  "name": "Longbow"
+"source":
+- "MM"
+- "HotDQ"
+- "LMoP"
+- "PotA"
+- "SKT"
+- "TftYP"
+- "WDMM"
+- "GoS"
+- "BGDIA"
+- "ERLW"
+- "RMBRE"
+- "EGW"
+- "WBtW"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Humanoid/token/hobgoblin.png"
 ```
 ^statblock
 

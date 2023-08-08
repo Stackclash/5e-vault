@@ -13,7 +13,7 @@ aliases: ["Efreeti Chain"]
 *Heavy Armor, major, legendary (requires attunement)*  
 
 - **Armor Class**: 16
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Strength**: Requires 13 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: ⏤

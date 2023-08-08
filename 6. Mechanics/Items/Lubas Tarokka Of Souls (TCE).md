@@ -11,7 +11,7 @@ aliases: ["Luba's Tarokka of Souls"]
 # Luba's Tarokka of Souls
 *Wondrous Item, artifact (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -30,11 +30,11 @@ The artifact has the following random properties, which you can determine by rol
 
 ## Spells
 
-While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [[/6. Mechanics/Spells/comprehend-languages.md\|comprehend languages]], [[/6. Mechanics/Spells/detect-evil-and-good.md\|detect evil and good]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/detect-poison-and-disease.md\|detect poison and disease]], [[/6. Mechanics/Spells/locate-object.md\|locate object]], or [[/6. Mechanics/Spells/scrying.md\|scrying]]. Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
+While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [[/6. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[/6. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [[/6. Mechanics/Spells/Detect Poison And Disease.md|detect poison and disease]], [[/6. Mechanics/Spells/Locate Object.md|locate object]], or [[/6. Mechanics/Spells/Scrying.md|scrying]]. Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
 
 ## Enduring Vision
 
-While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [[6. Mechanics/Rules/status.md#concentration\|concentration]] on divination spells.
+While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [[6. Mechanics/Rules/Status.md#concentration|concentration]] on divination spells.
 
 ## Twist of Fate
 
@@ -46,30 +46,30 @@ As an action, you can draw a card from the deck and twist the fortune of another
 
 ## Prisoners of Fate
 
-Whenever you use the Twist of Fate property, there is a chance that one of the souls trapped in the deck escapes. Roll `dice: d100\|avg` (`d100`) and consult the Souls of the Tarokka table. If you roll one of the high cards, the soul associated with it escapes. You can find its statistics in the "Monster Manual". If you roll a soul that has already escaped, roll again.
+Whenever you use the Twist of Fate property, there is a chance that one of the souls trapped in the deck escapes. Roll `dice: d100` (`d100`) and consult the Souls of the Tarokka table. If you roll one of the high cards, the soul associated with it escapes. You can find its statistics in the "Monster Manual". If you roll a soul that has already escaped, roll again.
 
 **Souls of the Tarokka**
 
 | dice: d100 | Card | Soul |
 |------------|------|------|
-| 1 | Artifact | [[/6. Mechanics/Bestiary/Undead/Flameskull.md\|Flameskull]] |
-| 2 | Beast | [[/6. Mechanics/Bestiary/Undead/Wraith.md\|Wraith]] |
-| 3 | Broken | [[/6. Mechanics/Bestiary/Undead/Banshee.md\|Banshee]] |
-| 4 | Darklord | [[/6. Mechanics/Bestiary/Undead/Vampire.md\|Vampire]] |
-| 5 | Donjon | [[/6. Mechanics/Bestiary/Undead/Mummy.md\|Mummy]] |
-| 6 | Executioner | [[/6. Mechanics/Bestiary/Undead/Death Knight.md\|Death knight]] |
-| 7 | Ghost | [[/6. Mechanics/Bestiary/Undead/Ghost.md\|Ghost]] |
-| 8 | Horseman | [[/6. Mechanics/Bestiary/Undead/Mummy Lord.md\|Mummy lord]] |
-| 9 | Innocent | [[/6. Mechanics/Bestiary/Undead/Ghost.md\|Ghost]] |
-| 10 | Marionette | [[/6. Mechanics/Bestiary/Undead/Mummy.md\|Mummy]] |
-| 11 | Mists | [[/6. Mechanics/Bestiary/Undead/Wraith.md\|Wraith]] |
-| 12 | Raven | [[/6. Mechanics/Bestiary/Undead/Vampire Spawn.md\|Vampire spawn]] |
-| 13 | Seer | [[/6. Mechanics/Bestiary/Undead/Vampire.md\|Vampire]] |
-| 14 | Tempter | [[/6. Mechanics/Bestiary/Undead/Vampire Spawn.md\|Vampire spawn]] |
+| 1 | Artifact | [[/6. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]] |
+| 2 | Beast | [[/6. Mechanics/Bestiary/Undead/Wraith.md|Wraith]] |
+| 3 | Broken | [[/6. Mechanics/Bestiary/Undead/Banshee.md|Banshee]] |
+| 4 | Darklord | [[/6. Mechanics/Bestiary/Undead/Vampire.md|Vampire]] |
+| 5 | Donjon | [[/6. Mechanics/Bestiary/Undead/Mummy.md|Mummy]] |
+| 6 | Executioner | [[/6. Mechanics/Bestiary/Undead/Death Knight.md|Death knight]] |
+| 7 | Ghost | [[/6. Mechanics/Bestiary/Undead/Ghost.md|Ghost]] |
+| 8 | Horseman | [[/6. Mechanics/Bestiary/Undead/Mummy Lord.md|Mummy lord]] |
+| 9 | Innocent | [[/6. Mechanics/Bestiary/Undead/Ghost.md|Ghost]] |
+| 10 | Marionette | [[/6. Mechanics/Bestiary/Undead/Mummy.md|Mummy]] |
+| 11 | Mists | [[/6. Mechanics/Bestiary/Undead/Wraith.md|Wraith]] |
+| 12 | Raven | [[/6. Mechanics/Bestiary/Undead/Vampire Spawn.md|Vampire spawn]] |
+| 13 | Seer | [[/6. Mechanics/Bestiary/Undead/Vampire.md|Vampire]] |
+| 14 | Tempter | [[/6. Mechanics/Bestiary/Undead/Vampire Spawn.md|Vampire spawn]] |
 | 15-100 | — | — |
 ^souls-of-the-tarokka
 
-The released soul appears at a random location within `dice: 10d10\|avg` (`10d10`) miles of you and terrorizes the living. Until the released soul is destroyed, it gains the benefit of a weal from the deck's Twist of Fate property, and both you and the original target of Twist of Fate suffer the effect of woe.
+The released soul appears at a random location within `dice: 10d10` (`10d10`) miles of you and terrorizes the living. Until the released soul is destroyed, it gains the benefit of a weal from the deck's Twist of Fate property, and both you and the original target of Twist of Fate suffer the effect of woe.
 
 ## Shuffling Fate
 
@@ -77,7 +77,7 @@ If you go 7 days without using the Twist of Fate property, your attunement to Lu
 
 ## Destroying the Deck
 
-Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [[/6. Mechanics/Bestiary/Undead/Lich.md\|lich]], that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
+Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [[/6. Mechanics/Bestiary/Undead/Lich.md|lich]], that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
 
 ### Mother Luba and the Vistani
 

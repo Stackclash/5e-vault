@@ -7,91 +7,7 @@ tags:
 - monster/environment/mountain
 - monster/size/gargantuan
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Ancient Red Dragon"
-"size": "Gargantuan"
-"type": "dragon"
-"alignment": "Chaotic Evil"
-"ac": !!int "22"
-"hp": !!int "546"
-"hit_dice": "28d20 + 252"
-"stats":
-- !!int "30"
-- !!int "10"
-- !!int "29"
-- !!int "18"
-- !!int "15"
-- !!int "23"
-"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
-"saves":
-  "Charisma": !!int "13"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "9"
-  "Constitution": !!int "16"
-"skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "16"
-"damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
-"languages": "Common, Draconic"
-"cr": "24"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
-    \ one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 10|avg (2d10 + 10) piercing damage plus dice: 4d6|avg\
-    \ (4d6) fire damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 10|avg (2d6 + 10) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 10|avg (2d8 + 10) bludgeoning damage."
-  "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success. If a creature's saving throw\
-    \ is successful or the effect ends for it, the creature is immune to the dragon's\
-    \ Frightful Presence for the next 24 hours."
-  "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales fire in a 90-foot cone. Each creature in that area must\
-    \ make a DC 24 Dexterity saving throw, taking 91 (dice: 26d6|avg (26d6)) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
-  "name": "Fire Breath (Recharge 5-6)"
-"legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
-    \ check."
-  "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
-  "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 25 Dexterity saving throw or take dice: 2d6 + 10|avg\
-    \ (2d6 + 10) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ The dragon can then fly up to half its flying speed."
-  "name": "Wing Attack (Costs 2 Actions)"
-"source":
-- "MM"
-- "SKT"
-- "MOT"
-- "TCE"
-"image": "/compendium/bestiary/dragon/token/ancient-red-dragon.png"
-aliases: ["Ancient Red Dragon"]
+statblock: inline
 ---
 # Ancient Red Dragon
 *Source: Monster Manual p. 97, Storm King's Thunder, Mythic Odysseys of Theros, Tasha's Cauldron of Everything*  
@@ -176,76 +92,89 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Ancient Red Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/ancient-red-dragon.png#token]]
-*Gargantuan dragon, Chaotic Evil*
-
-- **Armor Class** 22 (natural armor)
-- **Hit Points** `dice: 28d20 + 252|text(546)` (28d20 + 252) 
-- **Speed** walk 40 ft., climb 40 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Dexterity +7, Constitution +16, Wisdom +9, Charisma +13
-- **Skills** Perception +16, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
-- **Damage Immunities** fire
-- **Languages** Common, Draconic
-- **Challenge** 24
-
-## Traits
-
-***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-## Actions
-
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+17` (+17 to hit), reach 15 ft., one target. Hit: `dice: 2d10 + 10` (`2d10 + 10`) piercing damage plus `dice: 4d6` (`4d6`) fire damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+17` (+17 to hit), reach 10 ft., one target. Hit: `dice: 2d6 + 10` (`2d6 + 10`) slashing damage.
-
-***Tail.*** *Melee Weapon Attack:* `dice: d20+17` (+17 to hit), reach 20 ft., one target. Hit: `dice: 2d8 + 10` (`2d8 + 10`) bludgeoning damage.
-
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
-
-***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (`dice: 26d6` (`26d6`)) fire damage on a failed save, or half as much damage on a successful one.
-
-## Legendary Actions
-
-***Detect.*** The dragon makes a Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) check.
-
-***Tail Attack.*** The dragon makes a tail attack.
-
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take `dice: 2d6 + 10` (`2d6 + 10`) bludgeoning damage and be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. The dragon can then fly up to half its flying speed.
-
-## Additional sources
-
-
-
-## Lair actions
-
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
-
-- Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (`dice: 6d6` (`6d6`)) fire damage on a failed save, or half as much damage on a successful one.  
-- A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].  
-- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] until the end of its turn. While [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way, a creature is [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].  
-
-
-## Regional effects
-
-The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
-
-- Small earthquakes are common within 6 miles of the dragon's lair.  
-- Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.  
-- Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.  
-
-If the dragon dies, these effects fade over the course of `dice: 1d10` (`1d10`) days.
-
+```statblock
+"name": "Ancient Red Dragon"
+"size": "Gargantuan"
+"type": "dragon"
+"alignment": "Chaotic Evil"
+"ac": !!int "22"
+"hp": !!int "546"
+"hit_dice": "28d20 + 252"
+"stats":
+- !!int "30"
+- !!int "10"
+- !!int "29"
+- !!int "18"
+- !!int "15"
+- !!int "23"
+"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
+"saves":
+  "Charisma": !!int "13"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "9"
+  "Constitution": !!int "16"
+"skillsaves":
+  "Stealth": !!int "7"
+  "Perception": !!int "16"
+"damage_immunities": "fire"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
+"languages": "Common, Draconic"
+"cr": "24"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+  "name": "Legendary Resistance (3/Day)"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+    \ one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
+    \ Hit: dice: 2d10 + 10|avg (2d10 + 10) piercing damage plus dice: 4d6|avg\
+    \ (4d6) fire damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d6 + 10|avg (2d6 + 10) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 20 ft., one target.\
+    \ Hit: dice: 2d8 + 10|avg (2d8 + 10) bludgeoning damage."
+  "name": "Tail"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success. If a creature's saving throw\
+    \ is successful or the effect ends for it, the creature is immune to the dragon's\
+    \ Frightful Presence for the next 24 hours."
+  "name": "Frightful Presence"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales fire in a 90-foot cone. Each creature in that area must\
+    \ make a DC 24 Dexterity saving throw, taking 91 (dice: 26d6|avg (26d6)) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
+  "name": "Fire Breath (Recharge 5-6)"
+"legendary_actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
+    \ check."
+  "name": "Detect"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes a tail attack."
+  "name": "Tail Attack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
+    \ must succeed on a DC 25 Dexterity saving throw or take dice: 2d6 + 10|avg\
+    \ (2d6 + 10) bludgeoning damage and be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ The dragon can then fly up to half its flying speed."
+  "name": "Wing Attack (Costs 2 Actions)"
+"source":
+- "MM"
+- "SKT"
+- "MOT"
+- "TCE"
+"image": "6. Mechanics/Bestiary/Dragon/token/ancient-red-dragon.png"
 ```
 ^statblock
 

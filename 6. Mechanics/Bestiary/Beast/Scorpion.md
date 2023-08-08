@@ -6,8 +6,12 @@ tags:
 - monster/environment/desert
 - monster/size/tiny
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Scorpion
+*Source: Monster Manual p. 337, Waterdeep: Dungeon of the Mad Mage, Plane Shift: Ixalan*  
+
+```statblock
 "name": "Scorpion"
 "size": "Tiny"
 "type": "beast"
@@ -37,35 +41,7 @@ statblock-link: "#^statblock"
 - "MM"
 - "WDMM"
 - "PSX"
-"image": "/compendium/bestiary/beast/token/scorpion.png"
-aliases: ["Scorpion"]
----
-# Scorpion
-*Source: Monster Manual p. 337, Waterdeep: Dungeon of the Mad Mage, Plane Shift: Ixalan*  
-
-```ad-statblock
-title: Scorpion
-![[/6. Mechanics/Bestiary/Beast/Token/scorpion.png#token]]
-*Tiny beast, Unaligned*
-
-- **Armor Class** 11 (natural armor)
-- **Hit Points** `dice: 1d4 - 1|text(1)` (1d4 - 1) 
-- **Speed** walk 10 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 2 (-4)|11 (+0)| 8 (-1)| 1 (-5)| 8 (-1)| 2 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** blindsight 10 ft., passive Perception 9
-- **Languages** —
-- **Challenge** 0
-
-## Actions
-
-***Sting.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (`dice: 1d8` (`1d8`)) poison damage on a failed save, or half as much damage on a successful one.
+"image": "6. Mechanics/Bestiary/Beast/token/scorpion.png"
 ```
 ^statblock
 

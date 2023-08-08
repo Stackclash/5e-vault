@@ -14,7 +14,7 @@ aliases: ["Light Crossbow"]
 
 - **Damage**: 1d8 P
 - **Range**: 80/320
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Ammunition\|Ammunition]], [[6. Mechanics/Rules/item-properties.md#Loading\|Loading]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]], [[6. Mechanics/Rules/Item Properties.md#Loading|Loading]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
 

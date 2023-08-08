@@ -6,85 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
-statblock: true
-statblock-link: "#^statblock"
-"name": "Mind Flayer"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "71"
-"hit_dice": "13d8 + 13"
-"stats":
-- !!int "11"
-- !!int "12"
-- !!int "12"
-- !!int "19"
-- !!int "17"
-- !!int "17"
-"speed": "walk 30 ft."
-"saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
-"skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "4"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "7"
-  "Persuasion": !!int "6"
-"senses": "darkvision 120 ft., passive Perception 16"
-"languages": "Deep Speech, Undercommon, telepathy 120 ft."
-"cr": "7"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
-    \ DC 15). It can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/levitate.md\|levitate]]\n\
-    \n1/day each: [[/6. Mechanics/Spells/dominate-monster.md\|dominate monster]],\
-    \ [[/6. Mechanics/Spells/plane-shift.md\|plane shift]] (self only)"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mind flayer has advantage on saving throws against spells and other\
-    \ magical effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) psychic damage. If the target is Medium\
-    \ or smaller, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape\
-    \ DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]]\
-    \ until this grapple ends."
-  "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]\
-    \ humanoid [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by the mind flayer.\
-    \ Hit: The target takes dice: 10d10|avg (10d10) piercing damage. If this damage\
-    \ reduces the target to 0 hit points, the mind flayer kills the target by extracting\
-    \ and devouring its brain."
-  "name": "Extract Brain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
-    \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ dice: 4d8 + 4|avg (4d8 + 4) psychic damage and be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]]\
-    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
-  "name": "Mind Blast (Recharge 5-6)"
-"source":
-- "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "ERLW"
-- "IMR"
-- "IDRotF"
-- "TCE"
-- "SjA"
-- "LoX"
-- "KftGV"
-"image": "/compendium/bestiary/aberration/token/mind-flayer.png"
-aliases: ["Mind Flayer"]
+statblock: inline
 ---
 # Mind Flayer
 *Source: Monster Manual p. 222, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Eberron: Rising from the Last War, Infernal Machine Rebuild, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Spelljammer Academy, Light of Xaryxis, Keys from the Golden Vault*  
@@ -118,43 +40,83 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 
 ## Stat Block
 
-```ad-statblock
-title: Mind Flayer
-![[/6. Mechanics/Bestiary/Aberration/Token/mind-flayer.png#token]]
-*Medium aberration, Lawful Evil*
-
-- **Armor Class** 15 ([[/6. Mechanics/Items/breastplate.md\|breastplate]])
-- **Hit Points** `dice: 13d8 + 13|text(71)` (13d8 + 13) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|12 (+1)|12 (+1)|19 (+4)|17 (+3)|17 (+3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Intelligence +7, Wisdom +6, Charisma +6
-- **Skills** Arcana +7, Deception +6, Insight +6, Perception +6, Persuasion +6, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 16
-- **Languages** Deep Speech, Undercommon, telepathy 120 ft.
-- **Challenge** 7
-
-## Traits
-
-***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
-
-***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
-
-**At will**: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/levitate.md\|levitate]]
-
-**1/day each**: [[/6. Mechanics/Spells/dominate-monster.md\|dominate monster]], [[/6. Mechanics/Spells/plane-shift.md\|plane shift]] (self only)
-
-## Actions
-
-***Tentacles.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one creature. Hit: `dice: 2d10 + 4` (`2d10 + 4`) psychic damage. If the target is Medium or smaller, it is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until this grapple ends.
-
-***Extract Brain.*** *Melee Weapon Attack:* `dice: d20+7` (+7 to hit), reach 5 ft., one [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] humanoid [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] by the mind flayer. Hit: The target takes `dice: 10d10` (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
-
-***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take `dice: 4d8 + 4` (`4d8 + 4`) psychic damage and be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+```statblock
+"name": "Mind Flayer"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"hp": !!int "71"
+"hit_dice": "13d8 + 13"
+"stats":
+- !!int "11"
+- !!int "12"
+- !!int "12"
+- !!int "19"
+- !!int "17"
+- !!int "17"
+"speed": "walk 30 ft."
+"saves":
+  "Charisma": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
+"skillsaves":
+  "Deception": !!int "6"
+  "Stealth": !!int "4"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+  "Arcana": !!int "7"
+  "Persuasion": !!int "6"
+"senses": "darkvision 120 ft., passive Perception 16"
+"languages": "Deep Speech, Undercommon, telepathy 120 ft."
+"cr": "7"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
+    \ DC 15). It can innately cast the following spells, requiring no components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/6. Mechanics/Spells/Levitate.md|levitate]]\n\
+    \n1/day each: [[/6. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
+    \ [[/6. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mind flayer has advantage on saving throws against spells and other\
+    \ magical effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) psychic damage. If the target is Medium\
+    \ or smaller, it is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ until this grapple ends."
+  "name": "Tentacles"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ humanoid [[6. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
+    \ Hit: The target takes dice: 10d10|avg (10d10) piercing damage. If this damage\
+    \ reduces the target to 0 hit points, the mind flayer kills the target by extracting\
+    \ and devouring its brain."
+  "name": "Extract Brain"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
+    \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
+    \ dice: 4d8 + 4|avg (4d8 + 4) psychic damage and be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
+  "name": "Mind Blast (Recharge 5-6)"
+"source":
+- "MM"
+- "TftYP"
+- "WDH"
+- "WDMM"
+- "ERLW"
+- "IMR"
+- "IDRotF"
+- "TCE"
+- "SjA"
+- "LoX"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Aberration/token/mind-flayer.png"
 ```
 ^statblock
 

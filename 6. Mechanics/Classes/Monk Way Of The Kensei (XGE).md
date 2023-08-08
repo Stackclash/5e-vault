@@ -29,15 +29,15 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Agile Parry**  
 
-    If you make an unarmed strike as part of the Attack action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].  
+    If you make an unarmed strike as part of the Attack action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].  
 
 - **Kensei's Shot**  
 
-    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `dice: 1d4\|avg` (`1d4`) damage of the weapon's type. You retain this benefit until the end of the current turn.  
+    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `dice: 1d4` (`1d4`) damage of the weapon's type. You retain this benefit until the end of the current turn.  
 
 #### Way of the Brush
 
-You gain proficiency with your choice of [[/6. Mechanics/Items/calligraphers-supplies.md\|calligrapher's supplies]] or [[/6. Mechanics/Items/painters-supplies.md\|painter's supplies]].
+You gain proficiency with your choice of [[/6. Mechanics/Items/Calligraphers Supplies.md|calligrapher's supplies]] or [[/6. Mechanics/Items/Painters Supplies.md|painter's supplies]].
 
 ### One with the Blade (Level 6)
 

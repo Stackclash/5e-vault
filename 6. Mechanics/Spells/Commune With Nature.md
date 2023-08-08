@@ -33,6 +33,6 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
-**Classes**: [[/6. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[/6. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian (Path of the Totem Warrior)]], [[/6. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Paladin Oath Of The Ancients.md|Paladin (Oath of the Ancients)]], [[/6. Mechanics/Classes/Ranger.md|Ranger]]
 
 Source: Player's Handbook p. 224

@@ -6,42 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Quaggoth Spore Servant"
-"size": "Medium"
-"type": "plant"
-"alignment": "Unaligned"
-"ac": !!int "13"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"stats":
-- !!int "17"
-- !!int "12"
-- !!int "16"
-- !!int "2"
-- !!int "6"
-- !!int "1"
-"speed": "walk 20 ft., climb 20 ft."
-"damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, frightened, paralyzed, poisoned"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
-"languages": ""
-"cr": "1"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spore servant makes two claw attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
-  "name": "Claw"
-"source":
-- "MM"
-- "WDMM"
-- "IDRotF"
-"image": "/compendium/bestiary/plant/token/quaggoth-spore-servant.png"
-aliases: ["Quaggoth Spore Servant"]
+statblock: inline
 ---
 # Quaggoth Spore Servant
 *Source: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  
@@ -74,11 +39,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [[6. Mechanics/Rules/senses.md#blindsight\|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [[6. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [[6. Mechanics/Rules/conditions.md#blinded\|blinded]], [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], or [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]].
+The servant can't be [[6. Mechanics/Rules/Conditions.md#blinded|blinded]], [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], or [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].
 
 ## Languages
 
@@ -90,33 +55,40 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 
 ## Stat Block
 
-```ad-statblock
-title: Quaggoth Spore Servant
-![[/6. Mechanics/Bestiary/Plant/Token/quaggoth-spore-servant.png#token]]
-*Medium plant, Unaligned*
-
-- **Armor Class** 13 (natural armor)
-- **Hit Points** `dice: 6d8 + 18|text(45)` (6d8 + 18) 
-- **Speed** walk 20 ft., climb 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|12 (+1)|16 (+3)| 2 (-4)| 6 (-2)| 1 (-5)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 8
-- **Damage Immunities** poison
-- **Condition Immunities** blinded, charmed, frightened, paralyzed, poisoned
-- **Languages** —
-- **Challenge** 1
-
-## Actions
-
-***Multiattack.*** The spore servant makes two claw attacks.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) slashing damage.
+```statblock
+"name": "Quaggoth Spore Servant"
+"size": "Medium"
+"type": "plant"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "45"
+"hit_dice": "6d8 + 18"
+"stats":
+- !!int "17"
+- !!int "12"
+- !!int "16"
+- !!int "2"
+- !!int "6"
+- !!int "1"
+"speed": "walk 20 ft., climb 20 ft."
+"damage_immunities": "poison"
+"condition_immunities": "blinded, charmed, frightened, paralyzed, poisoned"
+"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
+"languages": ""
+"cr": "1"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The spore servant makes two claw attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+  "name": "Claw"
+"source":
+- "MM"
+- "WDMM"
+- "IDRotF"
+"image": "6. Mechanics/Bestiary/Plant/token/quaggoth-spore-servant.png"
 ```
 ^statblock
 

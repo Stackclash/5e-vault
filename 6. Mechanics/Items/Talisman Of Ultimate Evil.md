@@ -12,11 +12,11 @@ aliases: ["Talisman of Ultimate Evil"]
 # Talisman of Ultimate Evil
 *Wondrous Item, major, legendary (requires attunement by a creature of evil alignment)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes `dice: 6d6\|avg` (`6d6`) necrotic damage upon touching the talisman. A good creature takes `dice: 8d6\|avg` (`8d6`) necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
+This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes `dice: 6d6` (`6d6`) necrotic damage upon touching the talisman. A good creature takes `dice: 8d6` (`8d6`) necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
 
 If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
 

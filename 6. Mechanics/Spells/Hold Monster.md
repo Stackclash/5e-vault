@@ -24,10 +24,10 @@ aliases: ["Hold Monster"]
 - **Components:** V, S, a small, straight piece of iron
 - **Duration:** Concentration, up to 1 minute
 
-Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[/6. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[/6. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[/6. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Paladin (Oath of the Watchers)]], [[/6. Mechanics/Classes/Ranger Monster Slayer (XGE).md\|Ranger (Monster Slayer)]], [[/6. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Cleric War Domain.md|Cleric (War Domain)]], [[/6. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md|Paladin (Oath of Redemption)]], [[/6. Mechanics/Classes/Paladin Oath Of Vengeance.md|Paladin (Oath of Vengeance)]], [[/6. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md|Paladin (Oath of the Watchers)]], [[/6. Mechanics/Classes/Ranger Monster Slayer (XGE).md|Ranger (Monster Slayer)]], [[/6. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 251

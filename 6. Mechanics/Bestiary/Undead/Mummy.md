@@ -6,71 +6,7 @@ tags:
 - monster/environment/desert
 - monster/size/medium
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Mummy"
-"size": "Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "11"
-"hp": !!int "58"
-"hit_dice": "9d8 + 18"
-"stats":
-- !!int "16"
-- !!int "8"
-- !!int "15"
-- !!int "6"
-- !!int "10"
-- !!int "12"
-"speed": "walk 20 ft."
-"saves":
-  "Wisdom": !!int "2"
-"damage_vulnerabilities": "fire"
-"damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
-"languages": "the languages it knew in life"
-"cr": "3"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
-    \ fist."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage plus dice: 3d6|avg\
-    \ (3d6) necrotic damage. If the target is a creature, it must succeed on a DC\
-    \ 12 Constitution saving throw or be cursed with mummy rot. The cursed target\
-    \ can't regain hit points, and its hit point maximum decreases by 10 (dice: 3d6|avg\
-    \ (3d6)) for every 24 hours that elapse. If the curse reduces the target's hit\
-    \ point maximum to 0, the target dies, and its body turns to dust. The curse lasts\
-    \ until removed by the [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] spell\
-    \ or other magic."
-  "name": "Rotting Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
-    \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
-    \ this magic or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]\
-    \ until the end of the mummy's next turn. If the target fails the saving throw\
-    \ by 5 or more, it is also [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]]\
-    \ for the same duration. A target that succeeds on the saving throw is immune\
-    \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours."
-  "name": "Dreadful Glare"
-"source":
-- "MM"
-- "RoT"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "BGDIA"
-- "IDRotF"
-- "TCE"
-- "CM"
-- "DSotDQ"
-"image": "/compendium/bestiary/undead/token/mummy.png"
-aliases: ["Mummy"]
+statblock: inline
 ---
 # Mummy
 *Source: Monster Manual p. 228, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  
@@ -114,37 +50,69 @@ A mummy doesn't require air, food, drink, or sleep.
 
 ## Stat Block
 
-```ad-statblock
-title: Mummy
-![[/6. Mechanics/Bestiary/Undead/Token/mummy.png#token]]
-*Medium undead, Lawful Evil*
-
-- **Armor Class** 11 (natural armor)
-- **Hit Points** `dice: 9d8 + 18|text(58)` (9d8 + 18) 
-- **Speed** walk 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|10 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Wisdom +2
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Damage Vulnerabilities** fire
-- **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-- **Languages** the languages it knew in life
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
-
-***Rotting Fist.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) bludgeoning damage plus `dice: 3d6` (`3d6`) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`dice: 3d6` (`3d6`)) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [[/6. Mechanics/Spells/remove-curse.md\|remove curse]] spell or other magic.
-
-***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [[6. Mechanics/Rules/conditions.md#paralyzed\|paralyzed]] for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+```statblock
+"name": "Mummy"
+"size": "Medium"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "11"
+"hp": !!int "58"
+"hit_dice": "9d8 + 18"
+"stats":
+- !!int "16"
+- !!int "8"
+- !!int "15"
+- !!int "6"
+- !!int "10"
+- !!int "12"
+"speed": "walk 20 ft."
+"saves":
+  "Wisdom": !!int "2"
+"damage_vulnerabilities": "fire"
+"damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "the languages it knew in life"
+"cr": "3"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
+    \ fist."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage plus dice: 3d6|avg\
+    \ (3d6) necrotic damage. If the target is a creature, it must succeed on a DC\
+    \ 12 Constitution saving throw or be cursed with mummy rot. The cursed target\
+    \ can't regain hit points, and its hit point maximum decreases by 10 (dice: 3d6|avg\
+    \ (3d6)) for every 24 hours that elapse. If the curse reduces the target's hit\
+    \ point maximum to 0, the target dies, and its body turns to dust. The curse lasts\
+    \ until removed by the [[/6. Mechanics/Spells/Remove Curse.md|remove curse]] spell\
+    \ or other magic."
+  "name": "Rotting Fist"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
+    \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
+    \ this magic or become [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ until the end of the mummy's next turn. If the target fails the saving throw\
+    \ by 5 or more, it is also [[6. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for the same duration. A target that succeeds on the saving throw is immune\
+    \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours."
+  "name": "Dreadful Glare"
+"source":
+- "MM"
+- "RoT"
+- "ToA"
+- "WDH"
+- "WDMM"
+- "GoS"
+- "BGDIA"
+- "IDRotF"
+- "TCE"
+- "CM"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Undead/token/mummy.png"
 ```
 ^statblock
 

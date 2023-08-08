@@ -14,6 +14,6 @@ aliases: ["Ear Horn of Hearing"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While held up to your ear, this horn suppresses the effects of the [[6. Mechanics/Rules/conditions.md#deafened\|deafened]] condition on you, allowing you to hear normally.
+While held up to your ear, this horn suppresses the effects of the [[6. Mechanics/Rules/Conditions.md#deafened|deafened]] condition on you, allowing you to hear normally.
 
 *Source: Xanathar's Guide to Everything p. 137*

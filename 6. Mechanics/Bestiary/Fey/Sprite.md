@@ -6,69 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
-statblock: true
-statblock-link: "#^statblock"
-"name": "Sprite"
-"size": "Tiny"
-"type": "fey"
-"alignment": "Neutral Good"
-"ac": !!int "15"
-"hp": !!int "2"
-"hit_dice": "1d4"
-"stats":
-- !!int "3"
-- !!int "18"
-- !!int "10"
-- !!int "14"
-- !!int "13"
-- !!int "11"
-"speed": "walk 10 ft., fly 40 ft."
-"skillsaves":
-  "Stealth": !!int "8"
-  "Perception": !!int "3"
-"senses": "passive Perception 13"
-"languages": "Common, Elvish, Sylvan"
-"cr": "1/4"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 1 slashing damage."
-  "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 40/160 ft., one\
-    \ target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution\
-    \ saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for\
-    \ 1 minute. If its saving throw result is 5 or lower, the [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ target falls [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] for the\
-    \ same duration, or until it takes damage or another creature takes an action\
-    \ to shake it awake."
-  "name": "Shortbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sprite touches a creature and magically knows the creature's current\
-    \ emotional state. If the target fails a DC 10 Charisma saving throw, the sprite\
-    \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
-    \ fail the saving throw."
-  "name": "Heart Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sprite magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ until it attacks or casts a spell, or until its [[6. Mechanics/Rules/status.md#concentration\|concentration]]\
-    \ ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ Any equipment the sprite wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with it."
-  "name": "Invisibility"
-"source":
-- "MM"
-- "PotA"
-- "SKT"
-- "GoS"
-- "BGDIA"
-- "ERLW"
-- "IMR"
-- "CM"
-- "WBtW"
-- "KftGV"
-"image": "/compendium/bestiary/fey/token/sprite.png"
-aliases: ["Sprite"]
+statblock: inline
 ---
 # Sprite
 *Source: Monster Manual p. 283, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Infernal Machine Rebuild, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
@@ -100,35 +38,67 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 
 ## Stat Block
 
-```ad-statblock
-title: Sprite
-![[/6. Mechanics/Bestiary/Fey/Token/sprite.png#token]]
-*Tiny fey, Neutral Good*
-
-- **Armor Class** 15 ([[/6. Mechanics/Items/leather-armor.md\|leather armor]])
-- **Hit Points** `dice: 1d4|text(2)` (1d4) 
-- **Speed** walk 10 ft., fly 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3, Stealth +8
-- **Senses** passive Perception 13
-- **Languages** Common, Elvish, Sylvan
-- **Challenge** 1/4
-
-## Actions
-
-***Longsword.*** *Melee Weapon Attack:* `dice: d20+2` (+2 to hit), reach 5 ft., one target. Hit: 1 slashing damage.
-
-***Shortbow.*** *Ranged Weapon Attack:* `dice: d20+6` (+6 to hit), range 40/160 ft., one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 minute. If its saving throw result is 5 or lower, the [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] target falls [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] for the same duration, or until it takes damage or another creature takes an action to shake it awake.
-
-***Heart Sight.*** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
-
-***Invisibility.*** The sprite magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] until it attacks or casts a spell, or until its [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). Any equipment the sprite wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with it.
+```statblock
+"name": "Sprite"
+"size": "Tiny"
+"type": "fey"
+"alignment": "Neutral Good"
+"ac": !!int "15"
+"hp": !!int "2"
+"hit_dice": "1d4"
+"stats":
+- !!int "3"
+- !!int "18"
+- !!int "10"
+- !!int "14"
+- !!int "13"
+- !!int "11"
+"speed": "walk 10 ft., fly 40 ft."
+"skillsaves":
+  "Stealth": !!int "8"
+  "Perception": !!int "3"
+"senses": "passive Perception 13"
+"languages": "Common, Elvish, Sylvan"
+"cr": "1/4"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 1 slashing damage."
+  "name": "Longsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 40/160 ft., one\
+    \ target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution\
+    \ saving throw or become [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 minute. If its saving throw result is 5 or lower, the [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target falls [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for the\
+    \ same duration, or until it takes damage or another creature takes an action\
+    \ to shake it awake."
+  "name": "Shortbow"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sprite touches a creature and magically knows the creature's current\
+    \ emotional state. If the target fails a DC 10 Charisma saving throw, the sprite\
+    \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
+    \ fail the saving throw."
+  "name": "Heart Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The sprite magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks or casts a spell, or until its [[6. Mechanics/Rules/Status.md#concentration|concentration]]\
+    \ ends (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ Any equipment the sprite wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with it."
+  "name": "Invisibility"
+"source":
+- "MM"
+- "PotA"
+- "SKT"
+- "GoS"
+- "BGDIA"
+- "ERLW"
+- "IMR"
+- "CM"
+- "WBtW"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Fey/token/sprite.png"
 ```
 ^statblock
 

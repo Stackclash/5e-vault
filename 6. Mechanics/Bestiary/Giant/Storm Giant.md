@@ -7,77 +7,7 @@ tags:
 - monster/environment/underwater
 - monster/size/huge
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Storm Giant"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Good"
-"ac": !!int "16"
-"hp": !!int "230"
-"hit_dice": "20d12 + 100"
-"stats":
-- !!int "29"
-- !!int "14"
-- !!int "20"
-- !!int "16"
-- !!int "18"
-- !!int "18"
-"speed": "walk 50 ft., swim 50 ft."
-"saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "9"
-  "Strength": !!int "14"
-  "Constitution": !!int "10"
-"skillsaves":
-  "Athletics": !!int "14"
-  "Perception": !!int "9"
-  "History": !!int "8"
-  "Arcana": !!int "8"
-"damage_resistances": "cold"
-"damage_immunities": "lightning, thunder"
-"senses": "passive Perception 19"
-"languages": "Common, Giant"
-"cr": "13"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
-    \ It can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/feather-fall.md\|feather fall]],\
-    \ [[/6. Mechanics/Spells/levitate.md\|levitate]], [[/6. Mechanics/Spells/light.md\|light]]\n\
-    \n3/day each: [[/6. Mechanics/Spells/control-weather.md\|control weather]], [water\
-    \ breathing](/compendium/spells/water-breathing.md)"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant can breathe air and water."
-  "name": "Amphibious"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatsword attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 6d6 + 9|avg (6d6 + 9) slashing damage."
-  "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+14 (+14 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d12 + 9|avg (4d12 + 9) bludgeoning damage."
-  "name": "Rock"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
-    \ feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity\
-    \ saving throw, taking 54 (dice: 12d8|avg (12d8)) lightning damage on a failed\
-    \ save, or half as much damage on a successful one."
-  "name": "Lightning Strike (Recharge 5-6)"
-"source":
-- "MM"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "MOT"
-- "JttRC"
-"image": "/compendium/bestiary/giant/token/storm-giant.png"
-aliases: ["Storm Giant"]
+statblock: inline
 ---
 # Storm Giant
 *Source: Monster Manual p. 156, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
@@ -144,47 +74,75 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ## Stat Block
 
-```ad-statblock
-title: Storm Giant
-![[/6. Mechanics/Bestiary/Giant/Token/storm-giant.png#token]]
-*Huge giant, Chaotic Good*
-
-- **Armor Class** 16 ([[/6. Mechanics/Items/scale-mail.md\|scale mail]])
-- **Hit Points** `dice: 20d12 + 100|text(230)` (20d12 + 100) 
-- **Speed** walk 50 ft., swim 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)|
-
-- **Proficiency Bonus** +5
-- **Saving Throws** Strength +14, Constitution +10, Wisdom +9, Charisma +9
-- **Skills** Arcana +8, Athletics +14, History +8, Perception +9
-- **Senses** passive Perception 19
-- **Damage Resistances** cold
-- **Damage Immunities** lightning, thunder
-- **Languages** Common, Giant
-- **Challenge** 13
-
-## Traits
-
-***Amphibious.*** The giant can breathe air and water.
-
-***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/feather-fall.md\|feather fall]], [[/6. Mechanics/Spells/levitate.md\|levitate]], [[/6. Mechanics/Spells/light.md\|light]]
-
-**3/day each**: [[/6. Mechanics/Spells/control-weather.md\|control weather]], [[/6. Mechanics/Spells/water-breathing.md\|water breathing]]
-
-## Actions
-
-***Multiattack.*** The giant makes two greatsword attacks.
-
-***Greatsword.*** *Melee Weapon Attack:* `dice: d20+14` (+14 to hit), reach 10 ft., one target. Hit: `dice: 6d6 + 9` (`6d6 + 9`) slashing damage.
-
-***Rock.*** *Ranged Weapon Attack:* `dice: d20+14` (+14 to hit), range 60/240 ft., one target. Hit: `dice: 4d12 + 9` (`4d12 + 9`) bludgeoning damage.
-
-***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (`dice: 12d8` (`12d8`)) lightning damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Storm Giant"
+"size": "Huge"
+"type": "giant"
+"alignment": "Chaotic Good"
+"ac": !!int "16"
+"hp": !!int "230"
+"hit_dice": "20d12 + 100"
+"stats":
+- !!int "29"
+- !!int "14"
+- !!int "20"
+- !!int "16"
+- !!int "18"
+- !!int "18"
+"speed": "walk 50 ft., swim 50 ft."
+"saves":
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
+  "Strength": !!int "14"
+  "Constitution": !!int "10"
+"skillsaves":
+  "Athletics": !!int "14"
+  "Perception": !!int "9"
+  "History": !!int "8"
+  "Arcana": !!int "8"
+"damage_resistances": "cold"
+"damage_immunities": "lightning, thunder"
+"senses": "passive Perception 19"
+"languages": "Common, Giant"
+"cr": "13"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
+    \ It can innately cast the following spells, requiring no material components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Detect Magic.md|detect magic]], [[/6. Mechanics/Spells/Feather Fall.md|feather fall]],\
+    \ [[/6. Mechanics/Spells/Levitate.md|levitate]], [[/6. Mechanics/Spells/Light.md|light]]\n\
+    \n3/day each: [[/6. Mechanics/Spells/Control Weather.md|control weather]], [water\
+    \ breathing](/compendium/spells/water-breathing.md)"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant can breathe air and water."
+  "name": "Amphibious"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant makes two greatsword attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 6d6 + 9|avg (6d6 + 9) slashing damage."
+  "name": "Greatsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+14 (+14 to hit), range 60/240 ft.,\
+    \ one target. Hit: dice: 4d12 + 9|avg (4d12 + 9) bludgeoning damage."
+  "name": "Rock"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
+    \ feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity\
+    \ saving throw, taking 54 (dice: 12d8|avg (12d8)) lightning damage on a failed\
+    \ save, or half as much damage on a successful one."
+  "name": "Lightning Strike (Recharge 5-6)"
+"source":
+- "MM"
+- "SKT"
+- "TftYP"
+- "GoS"
+- "MOT"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Giant/token/storm-giant.png"
 ```
 ^statblock
 

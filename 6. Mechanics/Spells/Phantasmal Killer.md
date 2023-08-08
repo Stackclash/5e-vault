@@ -20,10 +20,10 @@ aliases: ["Phantasmal Killer"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes [[6. Mechanics/Rules/Conditions.md#frightened\|frightened]] for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take `dice: 4d10\|avg` (`4d10`) psychic damage. On a successful save, the spell ends.
+You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take `dice: 4d10` (`4d10`) psychic damage. On a successful save, the spell ends.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
-**Classes**: [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[/6. Mechanics/Classes/Warlock The Hexblade (XGE).md\|Warlock (The Hexblade)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/6. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock (The Hexblade)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 265

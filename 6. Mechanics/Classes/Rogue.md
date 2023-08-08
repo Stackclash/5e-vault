@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws:** Dexterity, Intelligence
 - **Armor:** light
-- **Weapons:** simple, [[/6. Mechanics/Items/hand-crossbow.md\|hand crossbows]], [[/6. Mechanics/Items/longsword.md\|longswords]], [[/6. Mechanics/Items/rapier.md\|rapiers]], [[/6. Mechanics/Items/shortsword.md\|shortswords]]
-- **Tools:** [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]
+- **Weapons:** simple, [[/6. Mechanics/Items/Hand Crossbow.md|hand crossbows]], [[/6. Mechanics/Items/Longsword.md|longswords]], [[/6. Mechanics/Items/Rapier.md|rapiers]], [[/6. Mechanics/Items/Shortsword.md|shortswords]]
+- **Tools:** [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]
 - **Skills:** Choose 4 from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Investigation*, *Perception*, *Performance*, *Persuasion*, *Sleight of Hand*, *Stealth*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/6. Mechanics/Items/rapier.md\|rapier]] or (b) a [[/6. Mechanics/Items/shortsword.md\|shortsword]]  
-- (a) a [[/6. Mechanics/Items/shortbow.md\|shortbow]] and [[/6. Mechanics/Items/quiver.md\|quiver]] of [[/6. Mechanics/Items/arrows-20.md\|20 arrows]] or (b) a [[/6. Mechanics/Items/shortsword.md\|shortsword]]  
-- (a) a [[/6. Mechanics/Items/burglars-pack.md\|burglar's pack]], (b) a [[/6. Mechanics/Items/dungeoneers-pack.md\|dungeoneer's pack]], or (c) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
-- [[/6. Mechanics/Items/leather-armor.md\|Leather armor]], two [[/6. Mechanics/Items/dagger.md\|daggers]], and [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]  
+- (a) a [[/6. Mechanics/Items/Rapier.md|rapier]] or (b) a [[/6. Mechanics/Items/Shortsword.md|shortsword]]  
+- (a) a [[/6. Mechanics/Items/Shortbow.md|shortbow]] and [[/6. Mechanics/Items/Quiver.md|quiver]] of [[/6. Mechanics/Items/Arrows-20.md|20 arrows]] or (b) a [[/6. Mechanics/Items/Shortsword.md|shortsword]]  
+- (a) a [[/6. Mechanics/Items/Burglars Pack.md|burglar's pack]], (b) a [[/6. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]], or (c) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- [[/6. Mechanics/Items/Leather Armor.md|Leather armor]], two [[/6. Mechanics/Items/Dagger.md|daggers]], and [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -100,22 +100,22 @@ You gain the following proficiencies:
 
 - **Armor:** light
 - **Weapons:** none
-- **Tools:** [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]
+- **Tools:** [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]
 - **Skills:** Choose 1 from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Investigation*, *Perception*, *Performance*, *Persuasion*, *Sleight of Hand*, *Stealth*
 
 ## Class Features
 
 ### Expertise (Level 1)
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]) to gain this benefit.
 
 ### Sneak Attack (Level 1)
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice: 1d6\|avg` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice: 1d6` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], and you don't have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
@@ -152,11 +152,11 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 ### Expertise (Level 6)
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [[/6. Mechanics/Items/thieves-tools.md\|thieves' tools]]) to gain the benefit of Expertise.
+At 6th level, you can choose two more of your proficiencies (in skills or with [[/6. Mechanics/Items/Thieves Tools.md|thieves' tools]]) to gain the benefit of Expertise.
 
 ### Evasion (Level 7)
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[/6. Mechanics/Spells/ice-storm.md\|ice storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[/6. Mechanics/Spells/Ice Storm.md|ice storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Ability Score Improvement (Level 8)
 
@@ -176,7 +176,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Reliable Talent (Level 11)
 
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `dice: d20\|avg` (`d20`) roll of 9 or lower as a 10.
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a `dice: d20` (`d20`) roll of 9 or lower as a 10.
 
 ### Ability Score Improvement (Level 12)
 
@@ -190,7 +190,7 @@ At 13th level, you gain a feature granted by your Roguish Archetype.
 
 ### Blindsense (Level 14)
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within 10 feet of you.
 
 ### Slippery Mind (Level 15)
 
@@ -208,7 +208,7 @@ At 17th level, you gain a feature granted by your Roguish Archetype.
 
 ### Elusive (Level 18)
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 ### Ability Score Improvement (Level 19)
 
@@ -218,6 +218,6 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Stroke of Luck (Level 20)
 
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `dice: d20\|avg` (`d20`) roll as a 20.
+At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the `dice: d20` (`d20`) roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.

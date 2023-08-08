@@ -11,7 +11,7 @@ aliases: ["Baba Yaga's Mortar and Pestle"]
 # Baba Yaga's Mortar and Pestle
 *Wondrous Item, artifact (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -33,17 +33,17 @@ The mortar is a Tiny wooden bowl. However, the mortar increases in size to accom
 
 The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you are holding the pestle, you can extend it into a quarterstaff or shrink it back into a pestle (no action required). As a quarterstaff, the pestle is a magic weapon that grants a +3 bonus to attack and damage rolls made with it.
 
-The pestle has 12 charges. When you hit with a melee attack using the pestle, you can expend up to 3 of its charges to deal an extra `dice: 1d8\|avg` (`1d8`) force damage for each charge expended. The pestle regains all expended charges daily at dawn.
+The pestle has 12 charges. When you hit with a melee attack using the pestle, you can expend up to 3 of its charges to deal an extra `dice: 1d8` (`1d8`) force damage for each charge expended. The pestle regains all expended charges daily at dawn.
 
 ## Perfect Tools
 
 While holding the mortar and pestle, you can use your action to say the name of any nonmagical plant, mineral, or fluid and an amount of the material worth 10 gp or less. The mortar instantly fills with the desired amount of that material. Once you use this action, you can't do so again until you finish a short or long rest.
 
-You can also use the artifact as [[/6. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], [[/6. Mechanics/Items/brewers-supplies.md\|brewer's supplies]], [[/6. Mechanics/Items/cooks-utensils.md\|cook's utensils]], an [[/6. Mechanics/Items/herbalism-kit.md\|herbalism kit]], and a [[/6. Mechanics/Items/poisoners-kit.md\|poisoner's kit]]. You have advantage on any check you make using the artifact as one of these tools.
+You can also use the artifact as [[/6. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]], [[/6. Mechanics/Items/Brewers Supplies.md|brewer's supplies]], [[/6. Mechanics/Items/Cooks Utensils.md|cook's utensils]], an [[/6. Mechanics/Items/Herbalism Kit.md|herbalism kit]], and a [[/6. Mechanics/Items/Poisoners Kit.md|poisoner's kit]]. You have advantage on any check you make using the artifact as one of these tools.
 
 ## Primal Parts
 
-As an action while the pestle and the mortar is within 5 feet of you, you can command the pestle to grind. For the next minute, or until you use your action to verbally command it to stop, the pestle moves on its own, grinding the contents of the mortar into a mush or fine powder that's equally useful for cooking or alchemy. At the start of each of your turns, whatever is in the mortar takes `dice: 4d10\|avg` (`4d10`) force damage. If this reduces the target's hit points to 0, the target is reduced to powder, pulp, or paste, as appropriate. Only magic items are unaffected. If you wish, when the pestle stops, you can have the mortar separate its contents-like powdered bone, crushed herbs, pulped organs-into separate piles.
+As an action while the pestle and the mortar is within 5 feet of you, you can command the pestle to grind. For the next minute, or until you use your action to verbally command it to stop, the pestle moves on its own, grinding the contents of the mortar into a mush or fine powder that's equally useful for cooking or alchemy. At the start of each of your turns, whatever is in the mortar takes `dice: 4d10` (`4d10`) force damage. If this reduces the target's hit points to 0, the target is reduced to powder, pulp, or paste, as appropriate. Only magic items are unaffected. If you wish, when the pestle stops, you can have the mortar separate its contents-like powdered bone, crushed herbs, pulped organs-into separate piles.
 
 ## Traverse the Night
 

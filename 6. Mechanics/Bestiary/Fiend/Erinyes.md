@@ -5,76 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Erinyes"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "153"
-"hit_dice": "18d8 + 72"
-"stats":
-- !!int "18"
-- !!int "16"
-- !!int "18"
-- !!int "14"
-- !!int "14"
-- !!int "18"
-"speed": "walk 30 ft., fly 60 ft."
-"saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "6"
-  "Constitution": !!int "8"
-"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
-  \ that aren't silvered"
-"damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 12"
-"languages": "Infernal, telepathy 120 ft."
-"cr": "12"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (dice: 3d8|avg\
-    \ (3d8)) poison damage on a hit (included in the attacks)."
-  "name": "Hellish Weapons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes makes three attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
-    \ (1d10 + 4)) slashing damage if used with two hands, plus dice: 3d8|avg (3d8)\
-    \ poison damage."
-  "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 3d8|avg\
-    \ (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving\
-    \ throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]. The poison\
-    \ lasts until it is removed by the [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]]\
-    \ spell or similar magic."
-  "name": "Longbow"
-"reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes adds 4 to its AC against one melee attack that would hit it.\
-    \ To do so, the erinyes must see the attacker and be wielding a melee weapon."
-  "name": "Parry"
-"source":
-- "MM"
-- "ToA"
-- "BGDIA"
-- "EGW"
-- "KftGV"
-"image": "/compendium/bestiary/fiend/token/erinyes.png"
-aliases: ["Erinyes"]
+statblock: inline
 ---
 # Erinyes
 *Source: Monster Manual p. 73, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Keys from the Golden Vault*  
@@ -89,7 +20,7 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 
 > [!quote] Variant: Rope of Entanglement
 > 
-> Some erinyes carry a [[/6. Mechanics/Items/rope-of-entanglement.md\|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
+> Some erinyes carry a [[/6. Mechanics/Items/Rope Of Entanglement.md|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 ^variant-rope-of-entanglement
 
 ## Devils
@@ -188,7 +119,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -214,45 +145,73 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Erinyes
-![[/6. Mechanics/Bestiary/Fiend/Token/erinyes.png#token]]
-*Medium fiend(devil), Lawful Evil*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/plate-armor.md\|plate armor]])
-- **Hit Points** `dice: 18d8 + 72|text(153)` (18d8 + 72) 
-- **Speed** walk 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +7, Constitution +8, Wisdom +6, Charisma +8
-- **Skills** ⏤
-- **Senses** truesight 120 ft., passive Perception 12
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 12
-
-## Traits
-
-***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (`dice: 3d8` (`3d8`)) poison damage on a hit (included in the attacks).
-
-***Magic Resistance.*** The erinyes has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The erinyes makes three attacks.
-
-***Longsword.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 5 ft., one target. Hit: `dice: 1d8 + 4` (`1d8 + 4`) slashing damage, or 9 (`dice: 1d10 + 4` (`1d10 + 4`)) slashing damage if used with two hands, plus `dice: 3d8` (`3d8`) poison damage.
-
-***Longbow.*** *Ranged Weapon Attack:* `dice: d20+7` (+7 to hit), range 150/600 ft., one target. Hit: `dice: 1d8 + 3` (`1d8 + 3`) piercing damage plus `dice: 3d8` (`3d8`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]. The poison lasts until it is removed by the [[/6. Mechanics/Spells/lesser-restoration.md\|lesser restoration]] spell or similar magic.
-
-## Reactions
-
-***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+```statblock
+"name": "Erinyes"
+"size": "Medium"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "153"
+"hit_dice": "18d8 + 72"
+"stats":
+- !!int "18"
+- !!int "16"
+- !!int "18"
+- !!int "14"
+- !!int "14"
+- !!int "18"
+"speed": "walk 30 ft., fly 60 ft."
+"saves":
+  "Charisma": !!int "8"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "8"
+"damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
+  \ that aren't silvered"
+"damage_immunities": "fire, poison"
+"condition_immunities": "poisoned"
+"senses": "truesight 120 ft., passive Perception 12"
+"languages": "Infernal, telepathy 120 ft."
+"cr": "12"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (dice: 3d8|avg\
+    \ (3d8)) poison damage on a hit (included in the attacks)."
+  "name": "Hellish Weapons"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The erinyes has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The erinyes makes three attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
+    \ (1d10 + 4)) slashing damage if used with two hands, plus dice: 3d8|avg (3d8)\
+    \ poison damage."
+  "name": "Longsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
+    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 3d8|avg\
+    \ (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving\
+    \ throw or be [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The poison\
+    \ lasts until it is removed by the [[/6. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+    \ spell or similar magic."
+  "name": "Longbow"
+"reactions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The erinyes adds 4 to its AC against one melee attack that would hit it.\
+    \ To do so, the erinyes must see the attacker and be wielding a melee weapon."
+  "name": "Parry"
+"source":
+- "MM"
+- "ToA"
+- "BGDIA"
+- "EGW"
+- "KftGV"
+"image": "/compendium/bestiary/fiend/token/erinyes.png"
 ```
 ^statblock

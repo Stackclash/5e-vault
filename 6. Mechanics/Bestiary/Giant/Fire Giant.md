@@ -7,58 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Fire Giant"
-"size": "Huge"
-"type": "giant"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "162"
-"hit_dice": "13d12 + 78"
-"stats":
-- !!int "25"
-- !!int "9"
-- !!int "23"
-- !!int "10"
-- !!int "14"
-- !!int "13"
-"speed": "walk 30 ft."
-"saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "3"
-  "Constitution": !!int "10"
-"skillsaves":
-  "Athletics": !!int "11"
-  "Perception": !!int "6"
-"damage_immunities": "fire"
-"senses": "passive Perception 16"
-"languages": "Giant"
-"cr": "9"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatsword attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 6d6 + 7|avg (6d6 + 7) slashing damage."
-  "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
-  "name": "Rock"
-"source":
-- "MM"
-- "PotA"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "BGDIA"
-- "EGW"
-- "MOT"
-- "JttRC"
-"image": "/compendium/bestiary/giant/token/fire-giant.png"
-aliases: ["Fire Giant"]
+statblock: inline
 ---
 # Fire Giant
 *Source: Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
@@ -133,34 +82,56 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ## Stat Block
 
-```ad-statblock
-title: Fire Giant
-![[/6. Mechanics/Bestiary/Giant/Token/fire-giant.png#token]]
-*Huge giant, Lawful Evil*
-
-- **Armor Class** 18 ([[/6. Mechanics/Items/plate-armor.md\|plate armor]])
-- **Hit Points** `dice: 13d12 + 78|text(162)` (13d12 + 78) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|25 (+7)| 9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +3, Constitution +10, Charisma +5
-- **Skills** Athletics +11, Perception +6
-- **Senses** passive Perception 16
-- **Damage Immunities** fire
-- **Languages** Giant
-- **Challenge** 9
-
-## Actions
-
-***Multiattack.*** The giant makes two greatsword attacks.
-
-***Greatsword.*** *Melee Weapon Attack:* `dice: d20+11` (+11 to hit), reach 10 ft., one target. Hit: `dice: 6d6 + 7` (`6d6 + 7`) slashing damage.
-
-***Rock.*** *Ranged Weapon Attack:* `dice: d20+11` (+11 to hit), range 60/240 ft., one target. Hit: `dice: 4d10 + 7` (`4d10 + 7`) bludgeoning damage.
+```statblock
+"name": "Fire Giant"
+"size": "Huge"
+"type": "giant"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "162"
+"hit_dice": "13d12 + 78"
+"stats":
+- !!int "25"
+- !!int "9"
+- !!int "23"
+- !!int "10"
+- !!int "14"
+- !!int "13"
+"speed": "walk 30 ft."
+"saves":
+  "Charisma": !!int "5"
+  "Dexterity": !!int "3"
+  "Constitution": !!int "10"
+"skillsaves":
+  "Athletics": !!int "11"
+  "Perception": !!int "6"
+"damage_immunities": "fire"
+"senses": "passive Perception 16"
+"languages": "Giant"
+"cr": "9"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant makes two greatsword attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 6d6 + 7|avg (6d6 + 7) slashing damage."
+  "name": "Greatsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
+    \ one target. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
+  "name": "Rock"
+"source":
+- "MM"
+- "PotA"
+- "SKT"
+- "TftYP"
+- "WDMM"
+- "BGDIA"
+- "EGW"
+- "MOT"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Giant/token/fire-giant.png"
 ```
 ^statblock
 

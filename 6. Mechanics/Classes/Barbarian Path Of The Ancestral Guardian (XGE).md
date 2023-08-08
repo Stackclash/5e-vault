@@ -25,13 +25,13 @@ Starting when you choose this path at 3rd level, spectral warriors appear when y
 
 ### Spirit Shield (Level 6)
 
-Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice: 2d6\|avg` (`2d6`).
+Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice: 2d6` (`2d6`).
 
-When you reach certain levels in this class, you can reduce the damage by more: by `dice: 3d6\|avg` (`3d6`) at 10th level and by `dice: 4d6\|avg` (`4d6`) at 14th level.
+When you reach certain levels in this class, you can reduce the damage by more: by `dice: 3d6` (`3d6`) at 10th level and by `dice: 4d6` (`4d6`) at 14th level.
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[/6. Mechanics/Spells/augury.md\|augury]] or [[/6. Mechanics/Spells/clairvoyance.md\|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[/6. Mechanics/Spells/clairvoyance.md\|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[/6. Mechanics/Spells/Augury.md|augury]] or [[/6. Mechanics/Spells/Clairvoyance.md|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[/6. Mechanics/Spells/Clairvoyance.md|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 

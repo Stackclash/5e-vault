@@ -7,65 +7,7 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Red Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "178"
-"hit_dice": "17d10 + 85"
-"stats":
-- !!int "23"
-- !!int "10"
-- !!int "21"
-- !!int "14"
-- !!int "11"
-- !!int "19"
-"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
-"saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "9"
-"skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "8"
-"damage_immunities": "fire"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
-"languages": "Common, Draconic"
-"cr": "10"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage plus dice: 1d6|avg\
-    \ (1d6) fire damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales fire in a 30-foot cone. Each creature in that area must\
-    \ make a DC 17 Dexterity saving throw, taking 56 (dice: 16d6|avg (16d6)) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
-  "name": "Fire Breath (Recharge 5-6)"
-"source":
-- "MM"
-- "PotA"
-- "RoT"
-- "ToA"
-- "WDMM"
-- "JttRC"
-- "LoX"
-- "DSotDQ"
-- "KftGV"
-"image": "/compendium/bestiary/dragon/token/young-red-dragon.png"
-aliases: ["Young Red Dragon"]
+statblock: inline
 ---
 # Young Red Dragon
 *Source: Monster Manual p. 98, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
@@ -150,36 +92,63 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Red Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-red-dragon.png#token]]
-*Large dragon, Chaotic Evil*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 17d10 + 85|text(178)` (17d10 + 85) 
-- **Speed** walk 40 ft., climb 40 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +4, Constitution +9, Wisdom +4, Charisma +8
-- **Skills** Perception +8, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
-- **Damage Immunities** fire
-- **Languages** Common, Draconic
-- **Challenge** 10
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 6` (`2d10 + 6`) piercing damage plus `dice: 1d6` (`1d6`) fire damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+10` (+10 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 6` (`2d6 + 6`) slashing damage.
-
-***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (`dice: 16d6` (`16d6`)) fire damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Young Red Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Chaotic Evil"
+"ac": !!int "18"
+"hp": !!int "178"
+"hit_dice": "17d10 + 85"
+"stats":
+- !!int "23"
+- !!int "10"
+- !!int "21"
+- !!int "14"
+- !!int "11"
+- !!int "19"
+"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
+"saves":
+  "Charisma": !!int "8"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "9"
+"skillsaves":
+  "Stealth": !!int "4"
+  "Perception": !!int "8"
+"damage_immunities": "fire"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
+"languages": "Common, Draconic"
+"cr": "10"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage plus dice: 1d6|avg\
+    \ (1d6) fire damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales fire in a 30-foot cone. Each creature in that area must\
+    \ make a DC 17 Dexterity saving throw, taking 56 (dice: 16d6|avg (16d6)) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
+  "name": "Fire Breath (Recharge 5-6)"
+"source":
+- "MM"
+- "PotA"
+- "RoT"
+- "ToA"
+- "WDMM"
+- "JttRC"
+- "LoX"
+- "DSotDQ"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-red-dragon.png"
 ```
 ^statblock
 

@@ -8,8 +8,24 @@ tags:
 - monster/size/medium
 - monster/type/fiend/devil
 - monster/type/fiend/wizard
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Blue Abishai
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
+
+Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
+
+## Abishais
+
+Each abishai was once a mortal who somehow won Tiamat's favor before death and, as a reward, found its soul transformed into a draconic devil to serve at her pleasure in the Nine Hells. Each type of abishai is associated with one of Tiamat's five dragon heads: black, blue, green, red, and white.
+
+Tiamat deploys abishais as her agents, sending them forth to represent her interests in the Hells and across the multiverse. Some have simple tasks, such as delivering a message to cultists. Others have greater responsibilities, such as leading large groups, assassinating targets, and serving in armies. In all cases, abishais are fanatically loyal to Tiamat, ready to lay down their lives if needed.
+
+Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
+
+## Stat Block
+
+```statblock
 "name": "Blue Abishai"
 "size": "Medium"
 "type": "fiend"
@@ -41,14 +57,14 @@ statblock-link: "#^statblock"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The abishai casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 20):\n\nAt will: [[/6. Mechanics/Spells/disguise-self.md\|disguise self]],\
-    \ [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]]\n\
-    \n2/day each: [[/6. Mechanics/Spells/charm-person.md\|charm person]], [dispel\
-    \ magic](/compendium/spells/dispel-magic.md), [[/6. Mechanics/Spells/greater-invisibility.md\|greater invisibility]],\
-    \ [[/6. Mechanics/Spells/wall-of-force.md\|wall of force]]"
+    \ spellcasting ability (spell save DC 20):\n\nAt will: [[/6. Mechanics/Spells/Disguise Self.md|disguise self]],\
+    \ [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
+    \n2/day each: [[/6. Mechanics/Spells/Charm Person.md|charm person]], [dispel\
+    \ magic](/compendium/spells/dispel-magic.md), [[/6. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
+    \ [[/6. Mechanics/Spells/Wall Of Force.md|wall of force]]"
   "name": "spells"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the abishai's [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]]."
+  "desc": "Magical darkness doesn't impede the abishai's [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "The abishai has advantage on saving throws against spells and other magical\
@@ -76,69 +92,6 @@ statblock-link: "#^statblock"
 - "MPMM"
 - "MTF"
 "image": "/compendium/bestiary/fiend/token/blue-abishai.png"
-aliases: ["Blue Abishai"]
----
-# Blue Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
-
-Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
-
-## Abishais
-
-Each abishai was once a mortal who somehow won Tiamat's favor before death and, as a reward, found its soul transformed into a draconic devil to serve at her pleasure in the Nine Hells. Each type of abishai is associated with one of Tiamat's five dragon heads: black, blue, green, red, and white.
-
-Tiamat deploys abishais as her agents, sending them forth to represent her interests in the Hells and across the multiverse. Some have simple tasks, such as delivering a message to cultists. Others have greater responsibilities, such as leading large groups, assassinating targets, and serving in armies. In all cases, abishais are fanatically loyal to Tiamat, ready to lay down their lives if needed.
-
-Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
-
-## Stat Block
-
-```ad-statblock
-title: Blue Abishai
-![[/6. Mechanics/Bestiary/Fiend/Token/blue-abishai.png#token]]
-*Medium fiend(devil, wizard), Lawful Evil*
-
-- **Armor Class** 19 (natural armor)
-- **Hit Points** `dice: 27d8 + 81|text(202)` (27d8 + 81) 
-- **Speed** walk 30 ft., fly 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|14 (+2)|17 (+3)|22 (+6)|23 (+6)|18 (+4)|
-
-- **Proficiency Bonus** +6
-- **Saving Throws** Intelligence +12, Wisdom +12
-- **Skills** Arcana +12
-- **Senses** darkvision 120 ft., passive Perception 16
-- **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Damage Immunities** fire, lightning, poison
-- **Condition Immunities** poisoned
-- **Languages** Draconic, Infernal, telepathy 120 ft.
-- **Challenge** 17
-
-## Traits
-
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]].
-
-***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
-
-***Spellcasting.*** The abishai casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
-
-**At will**: [[/6. Mechanics/Spells/disguise-self.md\|disguise self]], [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]]
-
-**2/day each**: [[/6. Mechanics/Spells/charm-person.md\|charm person]], [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]], [[/6. Mechanics/Spells/greater-invisibility.md\|greater invisibility]], [[/6. Mechanics/Spells/wall-of-force.md\|wall of force]]
-
-## Actions
-
-***Multiattack.*** The abishai makes three Bite or Lightning Strike attacks.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 5 ft., one target. Hit: `dice: 2d10 + 2` (`2d10 + 2`) piercing damage plus `dice: 4d6` (`4d6`) lightning damage.
-
-***Lightning Strike.*** *Ranged Spell Attack:* `dice: d20+12` (+12 to hit), range 120 ft., one target. Hit: `dice: 8d8` (`8d8`) lightning damage.
-
-## Bonus Actions
-
-***Teleport.*** The abishai teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space that it can see.
 ```
 ^statblock
 

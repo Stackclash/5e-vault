@@ -8,67 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Stone Giant"
-"size": "Huge"
-"type": "giant"
-"alignment": "Neutral"
-"ac": !!int "17"
-"hp": !!int "126"
-"hit_dice": "11d12 + 55"
-"stats":
-- !!int "23"
-- !!int "15"
-- !!int "20"
-- !!int "10"
-- !!int "12"
-- !!int "9"
-"speed": "walk 40 ft."
-"saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "8"
-"skillsaves":
-  "Athletics": !!int "12"
-  "Perception": !!int "4"
-"senses": "darkvision 60 ft., passive Perception 14"
-"languages": "Giant"
-"cr": "7"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky\
-    \ terrain."
-  "name": "Stone Camouflage"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatclub attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
-  "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 17 Strength saving throw or be knocked\
-    \ [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Rock"
-"reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
-    \ a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning\
-    \ damage from it."
-  "name": "Rock Catching"
-"source":
-- "MM"
-- "HotDQ"
-- "SKT"
-- "TftYP"
-- "WDMM"
-- "MOT"
-"image": "/compendium/bestiary/giant/token/stone-giant.png"
-aliases: ["Stone Giant"]
+statblock: inline
 ---
 # Stone Giant
 *Source: Monster Manual p. 156, Hoard of the Dragon Queen, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros*  
@@ -137,41 +77,65 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ## Stat Block
 
-```ad-statblock
-title: Stone Giant
-![[/6. Mechanics/Bestiary/Giant/Token/stone-giant.png#token]]
-*Huge giant, Neutral*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 11d12 + 55|text(126)` (11d12 + 55) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)| 9 (-1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Constitution +8, Wisdom +4
-- **Skills** Athletics +12, Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Giant
-- **Challenge** 7
-
-## Traits
-
-***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
-
-## Actions
-
-***Multiattack.*** The giant makes two greatclub attacks.
-
-***Greatclub.*** *Melee Weapon Attack:* `dice: d20+9` (+9 to hit), reach 15 ft., one target. Hit: `dice: 3d8 + 6` (`3d8 + 6`) bludgeoning damage.
-
-***Rock.*** *Ranged Weapon Attack:* `dice: d20+9` (+9 to hit), range 60/240 ft., one target. Hit: `dice: 4d10 + 6` (`4d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-## Reactions
-
-***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+```statblock
+"name": "Stone Giant"
+"size": "Huge"
+"type": "giant"
+"alignment": "Neutral"
+"ac": !!int "17"
+"hp": !!int "126"
+"hit_dice": "11d12 + 55"
+"stats":
+- !!int "23"
+- !!int "15"
+- !!int "20"
+- !!int "10"
+- !!int "12"
+- !!int "9"
+"speed": "walk 40 ft."
+"saves":
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "8"
+"skillsaves":
+  "Athletics": !!int "12"
+  "Perception": !!int "4"
+"senses": "darkvision 60 ft., passive Perception 14"
+"languages": "Giant"
+"cr": "7"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky\
+    \ terrain."
+  "name": "Stone Camouflage"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant makes two greatclub attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
+    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+  "name": "Greatclub"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
+    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 17 Strength saving throw or be knocked\
+    \ [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Rock"
+"reactions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
+    \ a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning\
+    \ damage from it."
+  "name": "Rock Catching"
+"source":
+- "MM"
+- "HotDQ"
+- "SKT"
+- "TftYP"
+- "WDMM"
+- "MOT"
+"image": "6. Mechanics/Bestiary/Giant/token/stone-giant.png"
 ```
 ^statblock
 

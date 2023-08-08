@@ -31,7 +31,7 @@ Starting at 2nd level, you can call forth nature spirits to influence the world 
 
 As a bonus action, you can move the spirit up to 60 feet to a point you can see.
 
-The spirit persists for 1 minute or until you're [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]. Once you use this feature, you can't use it again until you finish a short or long rest.
+The spirit persists for 1 minute or until you're [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 The effect of the spirit's aura depends on the type of spirit you summon from the options below.
 
@@ -41,7 +41,7 @@ The bear spirit grants you and your allies its might and endurance. Each creatur
 
 #### Hawk Spirit
 
-The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks while in the aura.
+The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks while in the aura.
 
 #### Unicorn Spirit
 
@@ -60,6 +60,6 @@ Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that yo
 
 ### Faithful Summons (Level 14)
 
-Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]] against your will, you can immediately gain the benefits of [[/6. Mechanics/Spells/conjure-animals.md\|conjure animals]] as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [[6. Mechanics/Rules/status.md#concentration\|concentration]], or until you dismiss it (no action required).
+Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] against your will, you can immediately gain the benefits of [[/6. Mechanics/Spells/Conjure Animals.md|conjure animals]] as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [[6. Mechanics/Rules/Status.md#concentration|concentration]], or until you dismiss it (no action required).
 
 Once you use this feature, you can't use it again until you finish a long rest.

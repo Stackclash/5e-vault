@@ -45,24 +45,24 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/hunters-mark.md\|hunter's mark]] |
-| 5th | [[/6. Mechanics/Spells/hold-person.md\|hold person]], [[/6. Mechanics/Spells/misty-step.md\|misty step]] |
-| 9th | [[/6. Mechanics/Spells/haste.md\|haste]], [[/6. Mechanics/Spells/protection-from-energy.md\|protection from energy]] |
-| 13th | [[/6. Mechanics/Spells/banishment.md\|banishment]], [[/6. Mechanics/Spells/dimension-door.md\|dimension door]] |
-| 17th | [[/6. Mechanics/Spells/hold-monster.md\|hold monster]], [[/6. Mechanics/Spells/scrying.md\|scrying]] |
+| 3rd | [[/6. Mechanics/Spells/Bane.md|bane]], [[/6. Mechanics/Spells/Hunters Mark.md|hunter's mark]] |
+| 5th | [[/6. Mechanics/Spells/Hold Person.md|hold person]], [[/6. Mechanics/Spells/Misty Step.md|misty step]] |
+| 9th | [[/6. Mechanics/Spells/Haste.md|haste]], [[/6. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
+| 13th | [[/6. Mechanics/Spells/Banishment.md|banishment]], [[/6. Mechanics/Spells/Dimension Door.md|dimension door]] |
+| 17th | [[/6. Mechanics/Spells/Hold Monster.md|hold monster]], [[/6. Mechanics/Spells/Scrying.md|scrying]] |
 ^oath-of-vengeance-spells
 
 ### Channel Divinity: Abjure Enemy (Level 3)
 
-As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being [[6. Mechanics/Rules/conditions.md#frightened\|frightened]]. Fiends and undead have disadvantage on this saving throw.
+As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being [[6. Mechanics/Rules/Conditions.md#frightened|frightened]]. Fiends and undead have disadvantage on this saving throw.
 
-On a failed save, the creature is [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] for 1 minute or until it takes any damage. While [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], the creature's speed is 0, and it can't benefit from any bonus to its speed.
+On a failed save, the creature is [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute or until it takes any damage. While [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], the creature's speed is 0, and it can't benefit from any bonus to its speed.
 
 On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.
 
 ### Channel Divinity: Vow of Enmity (Level 3)
 
-As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]].
+As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]].
 
 ### Relentless Avenger (Level 7)
 
@@ -77,6 +77,6 @@ Starting at 15th level, the authority with which you speak your Vow of Enmity gi
 At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:
 
 - Wings sprout from your back and grant you a flying speed of 60 feet.  
-- You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of you for 1 minute or until it takes any damage. Attack rolls against the [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] creature have advantage.  
+- You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] of you for 1 minute or until it takes any damage. Attack rolls against the [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] creature have advantage.  
 
 Once you use this feature, you can't use it again until you finish a long rest.

@@ -25,6 +25,6 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 **At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-**Classes**: [[/6. Mechanics/Classes/Bard.md\|Bard]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[/6. Mechanics/Classes/Bard.md|Bard]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Ranger.md|Ranger]]
 
 Source: Player's Handbook p. 212

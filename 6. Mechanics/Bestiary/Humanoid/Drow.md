@@ -6,73 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: true
-statblock-link: "#^statblock"
-"name": "Drow"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "elf"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "13"
-"hit_dice": "3d8"
-"stats":
-- !!int "10"
-- !!int "14"
-- !!int "10"
-- !!int "11"
-- !!int "11"
-- !!int "12"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
-"senses": "darkvision 120 ft., passive Perception 12"
-"languages": "Elvish, Undercommon"
-"cr": "1/4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow's spellcasting ability is Charisma (spell save DC 11). It can\
-    \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]]\n\n1/day each:\
-    \ [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/faerie-fire.md\|faerie fire]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]],\
-    \ and magic can't put the drow to sleep."
-  "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that\
-    \ rely on sight."
-  "name": "Sunlight Sensitivity"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
-  "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]]\
-    \ while [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way. The target\
-    \ wakes up if it takes damage or if another creature takes an action to shake\
-    \ it awake."
-  "name": "Hand Crossbow"
-"source":
-- "MM"
-- "TftYP"
-- "WDH"
-- "WDMM"
-- "DC"
-- "DIP"
-- "BGDIA"
-- "EGW"
-- "CM"
-- "CRCotN"
-"image": "/compendium/bestiary/humanoid/token/drow.png"
-aliases: ["Drow"]
+statblock: inline
 ---
 # Drow
 *Source: Monster Manual p. 128, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Divine Contention, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Candlekeep Mysteries, Critical Role: Call of the Netherdeep*  
@@ -115,7 +49,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!quote] Variant: Drow Magic Armor and Weapons
 > 
@@ -133,43 +67,71 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 
 ## Stat Block
 
-```ad-statblock
-title: Drow
-![[/6. Mechanics/Bestiary/Humanoid/Token/drow.png#token]]
-*Medium humanoid(elf), Neutral Evil*
-
-- **Armor Class** 15 ([[/6. Mechanics/Items/chain-shirt.md\|chain shirt]])
-- **Hit Points** `dice: 3d8|text(13)` (3d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +2, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Languages** Elvish, Undercommon
-- **Challenge** 1/4
-
-## Traits
-
-***Fey Ancestry.*** The drow has advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and magic can't put the drow to sleep.
-
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on sight.
-
-***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]]
-
-**1/day each**: [[/6. Mechanics/Spells/darkness.md\|darkness]], [[/6. Mechanics/Spells/faerie-fire.md\|faerie fire]]
-
-## Actions
-
-***Shortsword.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Hand Crossbow.*** *Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), range 30/120 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] for 1 hour. If the saving throw fails by 5 or more, the target is also [[6. Mechanics/Rules/conditions.md#unconscious\|unconscious]] while [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]] in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+```statblock
+"name": "Drow"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "elf"
+"alignment": "Neutral Evil"
+"ac": !!int "15"
+"hp": !!int "13"
+"hit_dice": "3d8"
+"stats":
+- !!int "10"
+- !!int "14"
+- !!int "10"
+- !!int "11"
+- !!int "11"
+- !!int "12"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "Elvish, Undercommon"
+"cr": "1/4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The drow's spellcasting ability is Charisma (spell save DC 11). It can\
+    \ innately cast the following spells, requiring no material components:\n\nAt\
+    \ will: [[/6. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
+    \ [[/6. Mechanics/Spells/Darkness.md|darkness]], [[/6. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The drow has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ and magic can't put the drow to sleep."
+  "name": "Fey Ancestry"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
+    \ on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+    \ rely on sight."
+  "name": "Sunlight Sensitivity"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+  "name": "Shortsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
+    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, and the target\
+    \ must succeed on a DC 13 Constitution saving throw or be [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[6. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ while [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The target\
+    \ wakes up if it takes damage or if another creature takes an action to shake\
+    \ it awake."
+  "name": "Hand Crossbow"
+"source":
+- "MM"
+- "TftYP"
+- "WDH"
+- "WDMM"
+- "DC"
+- "DIP"
+- "BGDIA"
+- "EGW"
+- "CM"
+- "CRCotN"
+"image": "6. Mechanics/Bestiary/Humanoid/token/drow.png"
 ```
 ^statblock
 

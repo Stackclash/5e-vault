@@ -22,7 +22,7 @@ You are Medium or Small. You choose the size when you select this race.
 
 ### Claws
 
-You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6\|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals `dice: 1d6` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Hold Breath
 
@@ -34,11 +34,11 @@ Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[6. Mechanics/Rules/skills.md#Animal%20Handling\|Animal Handling]], [[6. Mechanics/Rules/skills.md#Medicine\|Medicine]], [[6. Mechanics/Rules/skills.md#Nature\|Nature]], [[6. Mechanics/Rules/skills.md#Perception\|Perception]], [[6. Mechanics/Rules/skills.md#Stealth\|Stealth]], or [[6. Mechanics/Rules/skills.md#Survival\|Survival]].
+Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[6. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[6. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[6. Mechanics/Rules/Skills.md#Nature|Nature]], [[6. Mechanics/Rules/Skills.md#Perception|Perception]], [[6. Mechanics/Rules/Skills.md#Stealth|Stealth]], or [[6. Mechanics/Rules/Skills.md#Survival|Survival]].
 
 ### Shell Defense
 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [[6. Mechanics/Rules/conditions.md#prone\|prone]], your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [[6. Mechanics/Rules/Conditions.md#prone|prone]], your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
 ## Description
 

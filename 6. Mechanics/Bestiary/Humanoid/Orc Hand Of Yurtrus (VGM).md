@@ -10,8 +10,30 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Orc Hand of Yurtrus
+*Source: Volo's Guide to Monsters p. 184*  
+
+To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
+
+Orcs know better. Different groups of orcs exist within a tribe, the actions of each dictated by the deity they pay homage to. To complement the various kinds of warriors that spill forth to ravage the countryside, each tribe has members that remain deep inside the lair, seldom if ever seeing what lies outside the darkness of their den.
+
+In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
+
+## Orc Hand of Yurtrus
+
+Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
+
+Orc priests that oversee the line between life and death are known by the others in the tribe as hands of Yurtrus. They dwell on the fringes of an orc lair, usually communing with other orcs through the auspices of those who follow Luthic. The hands of Yurtrus wear pale gloves made of the bleached skin of other humanoids (preferably elves), symbolizing their connection with Yurtrus, and are sometimes called "white hands" as a result.
+
+Every orc knows that the hands of Yurtrus are the tribe's gateway to the ancestors. Orcs who die having served the tribe well go on to rituals meant to send them to Gruumsh's realm.
+
+As befits followers of a god who doesn't speak, hands of Yurtrus remove their tongues to emulate their deity, for a reason similar to why an eye of Gruumsh puts out one of its eyes.
+
+## Stat Block
+
+```statblock
 "name": "Orc Hand of Yurtrus"
 "size": "Medium"
 "type": "humanoid"
@@ -41,14 +63,14 @@ statblock-link: "#^statblock"
   "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). It requires\
     \ no verbal components to cast its spells. The orc has the following cleric spells\
-    \ prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/guidance.md\|guidance]],\
-    \ [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/resistance.md\|resistance]],\
-    \ [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]],\
-    \ [[/6. Mechanics/Spells/inflict-wounds.md\|inflict wounds]], [protection from evil\
+    \ prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Guidance.md|guidance]],\
+    \ [[/6. Mechanics/Spells/Mending.md|mending]], [[/6. Mechanics/Spells/Resistance.md|resistance]],\
+    \ [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[/6. Mechanics/Spells/Bane.md|bane]], [[/6. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[/6. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [protection from evil\
     \ and good](/compendium/spells/protection-from-evil-and-good.md)\n\n2nd level\
     \ (3 2nd-level slots): [blindness/deafness](/compendium/spells/blindness-deafness.md),\
-    \ [[/6. Mechanics/Spells/silence.md\|silence]]"
+    \ [[/6. Mechanics/Spells/Silence.md|silence]]"
   "name": "spells"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
@@ -61,65 +83,7 @@ statblock-link: "#^statblock"
   "name": "Touch of the White Hand"
 "source":
 - "VGM"
-"image": "/compendium/bestiary/humanoid/token/orc-hand-of-yurtrus.png"
-aliases: ["Orc Hand of Yurtrus"]
----
-# Orc Hand of Yurtrus
-*Source: Volo's Guide to Monsters p. 184*  
-
-To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
-
-Orcs know better. Different groups of orcs exist within a tribe, the actions of each dictated by the deity they pay homage to. To complement the various kinds of warriors that spill forth to ravage the countryside, each tribe has members that remain deep inside the lair, seldom if ever seeing what lies outside the darkness of their den.
-
-In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
-
-## Orc Hand of Yurtrus
-
-Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
-
-Orc priests that oversee the line between life and death are known by the others in the tribe as hands of Yurtrus. They dwell on the fringes of an orc lair, usually communing with other orcs through the auspices of those who follow Luthic. The hands of Yurtrus wear pale gloves made of the bleached skin of other humanoids (preferably elves), symbolizing their connection with Yurtrus, and are sometimes called "white hands" as a result.
-
-Every orc knows that the hands of Yurtrus are the tribe's gateway to the ancestors. Orcs who die having served the tribe well go on to rituals meant to send them to Gruumsh's realm.
-
-As befits followers of a god who doesn't speak, hands of Yurtrus remove their tongues to emulate their deity, for a reason similar to why an eye of Gruumsh puts out one of its eyes.
-
-## Stat Block
-
-```ad-statblock
-title: Orc Hand of Yurtrus
-![[/6. Mechanics/Bestiary/Humanoid/Token/orc-hand-of-yurtrus.png#token]]
-*Medium humanoid(orc), Chaotic Evil*
-
-- **Armor Class** 12 ([[/6. Mechanics/Items/hide-armor.md\|hide armor]])
-- **Hit Points** `dice: 4d8 + 12|text(30)` (4d8 + 12) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|11 (+0)|16 (+3)|11 (+0)|14 (+2)| 9 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Arcana +2, Intimidation +1, Medicine +4, Religion +2
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** understands Common and Orc but can't speak
-- **Challenge** 2
-
-## Traits
-
-***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
-
-***Spellcasting.*** The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `dice: d20+4` (+4 to hit) with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/guidance.md\|guidance]], [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/resistance.md\|resistance]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/bane.md\|bane]], [[/6. Mechanics/Spells/detect-magic.md\|detect magic]], [[/6. Mechanics/Spells/inflict-wounds.md\|inflict wounds]], [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]]
-
-**2nd level (3 2nd-level slots)**: [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/6. Mechanics/Spells/silence.md\|silence]]
-
-## Actions
-
-***Touch of the White Hand.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 2d8` (`2d8`) necrotic damage.
+"image": "6. Mechanics/Bestiary/Humanoid/token/orc-hand-of-yurtrus.png"
 ```
 ^statblock
 

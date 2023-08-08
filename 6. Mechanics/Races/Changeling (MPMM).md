@@ -26,7 +26,7 @@ You are Medium or Small. You choose the size when you select this race.
 
 ### Changeling Instincts
 
-Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: [[6. Mechanics/Rules/skills.md#Deception\|Deception]], [[6. Mechanics/Rules/skills.md#Insight\|Insight]], [[6. Mechanics/Rules/skills.md#Intimidation\|Intimidation]], [[6. Mechanics/Rules/skills.md#Performance\|Performance]], or [[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]].
+Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: [[6. Mechanics/Rules/Skills.md#Deception|Deception]], [[6. Mechanics/Rules/Skills.md#Insight|Insight]], [[6. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], [[6. Mechanics/Rules/Skills.md#Performance|Performance]], or [[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]].
 
 ### Shapechanger
 

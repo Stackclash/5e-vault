@@ -25,6 +25,6 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock.md\|Warlock]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock.md|Warlock]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 271

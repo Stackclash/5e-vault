@@ -77,15 +77,15 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws:** Strength, Dexterity
 - **Armor:** none
-- **Weapons:** simple, [[/6. Mechanics/Items/shortsword.md\|shortswords]]
+- **Weapons:** simple, [[/6. Mechanics/Items/Shortsword.md|shortswords]]
 - **Tools:** any one type of artisan's tools or any one musical instrument of your choice
 - **Skills:** Choose 2 from *Acrobatics*, *Athletics*, *History*, *Insight*, *Religion*, *Stealth*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/6. Mechanics/Items/shortsword.md\|shortsword]] or (b) any simple weapon  
-- (a) a [[/6. Mechanics/Items/dungeoneers-pack.md\|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
-- 10 [[/6. Mechanics/Items/dart.md\|darts]]  
+- (a) a [[/6. Mechanics/Items/Shortsword.md|shortsword]] or (b) any simple weapon  
+- (a) a [[/6. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- 10 [[/6. Mechanics/Items/Dart.md|darts]]  
 
 Alternatively, you may start with 5d4 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Monk, you must meet the following prerequisites:
 You gain the following proficiencies:
 
 - **Armor:** none
-- **Weapons:** simple, [[/6. Mechanics/Items/shortsword.md\|shortswords]]
+- **Weapons:** simple, [[/6. Mechanics/Items/Shortsword.md|shortswords]]
 - **Tools:** none
 
 ## Class Features
@@ -110,12 +110,12 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 ### Martial Arts (Level 1)
 
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [[/6. Mechanics/Items/shortsword.md\|shortswords]] and any simple melee weapons that don't have the two-handed or heavy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [[/6. Mechanics/Items/Shortsword.md|shortswords]] and any simple melee weapons that don't have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[/6. Mechanics/Items/shield.md\|shield]].
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[/6. Mechanics/Items/Shield.md|shield]].
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
-- You can roll a `dice: d4\|avg` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
+- You can roll a `dice: d4` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
 - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
@@ -165,7 +165,7 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 
 ### Deflect Missiles (Level 3)
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice: 1d10\|avg` (`1d10`) + your Dexterity modifier + your monk level.
+Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice: 1d10` (`1d10`) + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack (range 20/60 feet) with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
 
@@ -203,7 +203,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Stunning Strike (Level 5)
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [[6. Mechanics/Rules/conditions.md#stunned\|stunned]] until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [[6. Mechanics/Rules/Conditions.md#stunned|stunned]] until the end of your next turn.
 
 ### Focused Aim (Level 5)
 _Source: Tasha's Cauldron of Everything p. 48_
@@ -222,11 +222,11 @@ At 6th level, you gain one feature granted by your Monastic Tradition.
 
 ### Evasion (Level 7)
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [[/6. Mechanics/Spells/fireball.md\|fireball]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [[/6. Mechanics/Spells/Fireball.md|fireball]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind (Level 7)
 
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]].
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[6. Mechanics/Rules/Conditions.md#frightened|frightened]].
 
 ### Ability Score Improvement (Level 8)
 
@@ -278,9 +278,9 @@ At 17th level, you gain one feature granted by your Monastic Tradition.
 
 ### Empty Body (Level 18)
 
-Beginning at 18th level, you can use your action to spend 4 ki points to become [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] for 1 minute. During that time, you also have resistance to all damage but force damage.
+Beginning at 18th level, you can use your action to spend 4 ki points to become [[6. Mechanics/Rules/Conditions.md#invisible|invisible]] for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the [[/6. Mechanics/Spells/astral-projection.md\|astral projection]] spell, without needing material components. When you do so, you can't take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the [[/6. Mechanics/Spells/Astral Projection.md|astral projection]] spell, without needing material components. When you do so, you can't take any other creatures with you.
 
 ### Ability Score Improvement (Level 19)
 

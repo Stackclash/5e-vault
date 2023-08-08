@@ -3,10 +3,11 @@
   "enabledCssSnippets": [
     "ITS - Encoded Fonts",
     "ITS - Encoded Icons",
+    "custom_callouts",
     "Folder Icons",
     "dnd5e-compendium",
-    "custom_callouts"
+    "ITS - Alternate Themes"
   ],
-  "theme": "obsidian",
-  "cssTheme": ""
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme"
 }

@@ -13,7 +13,7 @@ aliases: ["Brass Dragon Scale Mail"]
 *Medium Armor, major, very rare (requires attunement)*  
 
 - **Armor Class**: 14 + DEX (max of +2)
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: ⏤
 - **Weight**: 45.0 lbs.

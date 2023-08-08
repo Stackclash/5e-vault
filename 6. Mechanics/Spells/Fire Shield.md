@@ -27,8 +27,8 @@ Thin and wispy flames wreathe your body for the duration, shedding bright light 
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice: 2d8\|avg` (`2d8`) fire damage from a warm shield, or `dice: 2d8\|avg` (`2d8`) cold damage from a cold shield.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice: 2d8` (`2d8`) fire damage from a warm shield, or `dice: 2d8` (`2d8`) cold damage from a cold shield.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer Armorer (TCE).md\|Artificer (Armorer)]], [[/6. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Artificer (Battle Smith)]], [[/6. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md\|Druid (Circle of Wildfire)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer (Armorer)]], [[/6. Mechanics/Classes/Artificer Battle Smith (TCE).md|Artificer (Battle Smith)]], [[/6. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md|Druid (Circle of Wildfire)]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock The Fiend.md|Warlock (The Fiend)]], [[/6. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 242

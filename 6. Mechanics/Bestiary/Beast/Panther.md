@@ -8,8 +8,12 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Panther
+*Source: Monster Manual p. 333, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist*  
+
+```statblock
 "name": "Panther"
 "size": "Medium"
 "type": "beast"
@@ -33,14 +37,14 @@ statblock-link: "#^statblock"
 "cr": "1/4"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The panther has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The panther has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "If the panther moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 12 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].\
-    \ If the target is [[6. Mechanics/Rules/conditions.md#prone\|prone]], the panther\
+    \ 12 Strength saving throw or be knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ If the target is [[6. Mechanics/Rules/Conditions.md#prone|prone]], the panther\
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -57,43 +61,7 @@ statblock-link: "#^statblock"
 - "TftYP"
 - "ToA"
 - "WDH"
-"image": "/compendium/bestiary/beast/token/panther.png"
-aliases: ["Panther"]
----
-# Panther
-*Source: Monster Manual p. 333, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist*  
-
-```ad-statblock
-title: Panther
-![[/6. Mechanics/Bestiary/Beast/Token/panther.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** `dice: 3d8|text(13)` (3d8) 
-- **Speed** walk 50 ft., climb 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|15 (+2)|10 (+0)| 3 (-4)|14 (+2)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +4, Stealth +6
-- **Senses** passive Perception 14
-- **Languages** —
-- **Challenge** 1/4
-
-## Traits
-
-***Keen Smell.*** The panther has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on smell.
-
-***Pounce.*** If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]]. If the target is [[6. Mechanics/Rules/conditions.md#prone\|prone]], the panther can make one bite attack against it as a bonus action.
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) slashing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/panther.png"
 ```
 ^statblock
 

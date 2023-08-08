@@ -23,11 +23,11 @@ As a Psi Warrior, you might have honed your psionic abilities through solo disci
 
 _3rd-level Psi Warrior feature_
 
-You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6\|avg` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a `dice: d6` (`d6`). You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8\|avg` (`d8`)), 11th level (`dice: d10\|avg` (`d10`)), and 17th level (`dice: d12\|avg` (`d12`)).
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (`dice: d8` (`d8`)), 11th level (`dice: d10` (`d10`)), and 17th level (`dice: d12` (`d12`)).
 
 The powers below use your Psionic Energy dice.
 
@@ -55,19 +55,19 @@ You have mastered new ways to use your telekinetic abilities, detailed below.
 
 - **Telekinetic Thrust**  
 
-    When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target [[6. Mechanics/Rules/conditions.md#prone\|prone]] or move it up to 10 feet in any direction horizontally.  
+    When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target [[6. Mechanics/Rules/Conditions.md#prone|prone]] or move it up to 10 feet in any direction horizontally.  
 
 ### Guarded Mind (Level 10)
 
 _10th-level Psi Warrior feature_
 
-The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] or [[6. Mechanics/Rules/conditions.md#frightened\|frightened]], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[6. Mechanics/Rules/Conditions.md#frightened|frightened]], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
 
 ### Bulwark of Force (Level 15)
 
 _15th-level Psi Warrior feature_
 
-You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
+You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
 Once you take this bonus action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.
 
@@ -75,6 +75,6 @@ Once you take this bonus action, you can't do so again until you finish a long r
 
 _18th-level Psi Warrior feature_
 
-Your ability to move creatures and objects with your mind is matched by few. You can cast the [[/6. Mechanics/Spells/telekinesis.md\|telekinesis]] spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
+Your ability to move creatures and objects with your mind is matched by few. You can cast the [[/6. Mechanics/Spells/Telekinesis.md|telekinesis]] spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.

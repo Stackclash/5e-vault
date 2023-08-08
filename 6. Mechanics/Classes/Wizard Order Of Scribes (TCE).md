@@ -51,13 +51,13 @@ _6th-level Order of Scribes feature_
 
 You can conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The spectral mind is intangible and doesn't occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice).
 
-While manifested, the spectral mind can hear and see, and it has [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required).
+While manifested, the spectral mind can hear and see, and it has [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required).
 
 Whenever you cast a wizard spell on your turn, you can cast it as if you were in the spectral mind's space, instead of your own, using its senses. You can do so a number of times per day equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects.
 
-The spectral mind stops manifesting if it is ever more than 300 feet away from you, if someone casts [[/6. Mechanics/Spells/dispel-magic.md\|dispel magic]] on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the spectral mind as a bonus action.
+The spectral mind stops manifesting if it is ever more than 300 feet away from you, if someone casts [[/6. Mechanics/Spells/Dispel Magic.md|dispel magic]] on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the spectral mind as a bonus action.
 
 Once you conjure the mind, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to conjure it again.
 
@@ -75,10 +75,10 @@ You are also adept at crafting spell scrolls, which are described in the treasur
 
 _14th-level Order of Scribes feature_
 
-Your connection to your Awakened Spellbook has become so profound that your soul has become entwined with it. While the book is on your person, you have advantage on all Intelligence ([[6. Mechanics/Rules/skills.md#Arcana\|Arcana]]) checks, as the spellbook helps you remember magical lore.
+Your connection to your Awakened Spellbook has become so profound that your soul has become entwined with it. While the book is on your person, you have advantage on all Intelligence ([[6. Mechanics/Rules/Skills.md#Arcana|Arcana]]) checks, as the spellbook helps you remember magical lore.
 
-Moreover, if you take damage while your spellbook's mind is manifested, you can prevent all of that damage to you by using your reaction to dismiss the spectral mind, using its magic to save yourself. Then roll `dice: 3d6\|avg` (`3d6`). The spellbook temporarily loses spells of your choice that have a combined spell level equal to that roll or higher. For example, if the roll's total is 9, spells vanish from the book that have a combined level of at least 9, which could mean one 9th-level spell, three 3rd-level spells, or some other combination. If there aren't enough spells in the book to cover this cost, you drop to 0 hit points.
+Moreover, if you take damage while your spellbook's mind is manifested, you can prevent all of that damage to you by using your reaction to dismiss the spectral mind, using its magic to save yourself. Then roll `dice: 3d6` (`3d6`). The spellbook temporarily loses spells of your choice that have a combined spell level equal to that roll or higher. For example, if the roll's total is 9, spells vanish from the book that have a combined level of at least 9, which could mean one 9th-level spell, three 3rd-level spells, or some other combination. If there aren't enough spells in the book to cover this cost, you drop to 0 hit points.
 
-Until you finish `dice: 1d6\|avg` (`1d6`) long rests, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. After you finish the required number of rests, the spells reappear in the spellbook.
+Until you finish `dice: 1d6` (`1d6`) long rests, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. After you finish the required number of rests, the spells reappear in the spellbook.
 
 Once you use this reaction, you can't do so again until you finish a long rest.

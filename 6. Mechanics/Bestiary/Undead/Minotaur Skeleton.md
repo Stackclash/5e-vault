@@ -6,60 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Minotaur Skeleton"
-"size": "Large"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "12"
-"hp": !!int "67"
-"hit_dice": "9d10 + 18"
-"stats":
-- !!int "18"
-- !!int "11"
-- !!int "15"
-- !!int "6"
-- !!int "8"
-- !!int "5"
-"speed": "walk 40 ft."
-"damage_vulnerabilities": "bludgeoning"
-"damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 9"
-"languages": "understands Abyssal but can't speak"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra 9 (dice:\
-    \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
-    \ [[6. Mechanics/Rules/conditions.md#prone\|prone]]."
-  "name": "Charge"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) slashing damage."
-  "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
-  "name": "Gore"
-"source":
-- "MM"
-- "ToA"
-- "WDH"
-- "WDMM"
-- "GoS"
-- "DIP"
-- "SDW"
-- "BGDIA"
-- "IMR"
-- "DSotDQ"
-- "KftGV"
-"image": "/compendium/bestiary/undead/token/minotaur-skeleton.png"
-aliases: ["Minotaur Skeleton"]
+statblock: inline
 ---
 # Minotaur Skeleton
 *Source: Monster Manual p. 273, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
@@ -92,38 +39,58 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ## Stat Block
 
-```ad-statblock
-title: Minotaur Skeleton
-![[/6. Mechanics/Bestiary/Undead/Token/minotaur-skeleton.png#token]]
-*Large undead, Lawful Evil*
-
-- **Armor Class** 12 (natural armor)
-- **Hit Points** `dice: 9d10 + 18|text(67)` (9d10 + 18) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Damage Vulnerabilities** bludgeoning
-- **Damage Immunities** poison
-- **Condition Immunities** exhaustion, poisoned
-- **Languages** understands Abyssal but can't speak
-- **Challenge** 2
-
-## Traits
-
-***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`dice: 2d8` (`2d8`)) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]].
-
-## Actions
-
-***Greataxe.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d12 + 4` (`2d12 + 4`) slashing damage.
-
-***Gore.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 4` (`2d8 + 4`) piercing damage.
+```statblock
+"name": "Minotaur Skeleton"
+"size": "Large"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "12"
+"hp": !!int "67"
+"hit_dice": "9d10 + 18"
+"stats":
+- !!int "18"
+- !!int "11"
+- !!int "15"
+- !!int "6"
+- !!int "8"
+- !!int "5"
+"speed": "walk 40 ft."
+"damage_vulnerabilities": "bludgeoning"
+"damage_immunities": "poison"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "darkvision 60 ft., passive Perception 9"
+"languages": "understands Abyssal but can't speak"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
+    \ hits it with a gore attack on the same turn, the target takes an extra 9 (dice:\
+    \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
+    \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
+    \ [[6. Mechanics/Rules/Conditions.md#prone|prone]]."
+  "name": "Charge"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) slashing damage."
+  "name": "Greataxe"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+  "name": "Gore"
+"source":
+- "MM"
+- "ToA"
+- "WDH"
+- "WDMM"
+- "GoS"
+- "DIP"
+- "SDW"
+- "BGDIA"
+- "IMR"
+- "DSotDQ"
+- "KftGV"
+"image": "6. Mechanics/Bestiary/Undead/token/minotaur-skeleton.png"
 ```
 ^statblock
 

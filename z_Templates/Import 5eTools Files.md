@@ -6,6 +6,7 @@ const dv = app.plugins.plugins.dataview.api
 <!-- UPDATE THESE VALUES -->
 
 <!-- Handle moving img folder over -->
+<!-- Remove pipe escapes, instead just remove `|avg` from dice -->
 const dryRun = false
 const limit = 1000
 const vaultRootPath = 'D:\\Projects\\Personal\\5e-vault'
@@ -47,16 +48,16 @@ function getNewPath(path) {
 }
 
 function getNewFilePath(path) {
-    const pageInfo = path.match(/([\w\s\d\/\.\-%\d]*?)([\w\s\d\-%\d\.]+)$/)
+    const pageInfo = path.match(/([\w\s\d\/\.\-%\d]*?)([\w\s\d\-%\d\.]+)(\.\w+)$/)
     const filePath = pageInfo[1]
     const fileName = pageInfo[2]
-    const dvPage = dv.page(`${path}`)
+    const extension = pageInfo[3]
 
-    return `${getNewPath(filePath)}${(dvPage ? `${getNewFileName(dvPage.file.name)}.${dvPage.file.ext}` : fileName)}`
+    return `${getNewPath(filePath)}${(!['.png', '.jpg', '.jpeg'].includes(extension) ? `${getNewFileName(fileName)}${extension}` : `${fileName}${extension}`)}`
 }
 
 async function updateContent(page, content) {
-    let matches = [...content.matchAll(/\[([\w\s\d,:'\.\(\)]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*[\w%]*)\s*"*([\w\d\s:&,'\.]*)"*\)/g)]
+    let matches = [...content.matchAll(/\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.]*)"*\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
@@ -70,10 +71,10 @@ async function updateContent(page, content) {
             if(!displayText && !title) {
                 newLink = `[[${path}${section}]]`
             } else {
-                newLink = title ? `[[${path}${section}\\|"${title}"]]` : `[[${path}${section}\\|${displayText}]]`
+                newLink = title ? `[[${path}${section}|"${title}"]]` : `[[${path}${section}|${displayText}]]`
             }
 
-            linkChanges += `| \`${oldLink}\` | \`${newLink}\` |\n`
+            linkChanges += `| \`${oldLink}\` | \`${newLink.replace('|', '\\|')}\` |\n`
             content = content.replace(oldLink, newLink)
         })
     }

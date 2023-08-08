@@ -18,7 +18,7 @@ aliases: ["Tasha's Otherworldly Guise"]
 Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:
 
 - You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).  
-- You are immune to the [[6. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition (Lower Planes) or the [[6. Mechanics/Rules/Conditions.md#charmed\|charmed]] condition (Upper Planes).  
+- You are immune to the [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition (Lower Planes) or the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] condition (Upper Planes).  
 - Spectral wings appear on your back, giving you a flying speed of 40 feet.  
 - You have a +2 bonus to AC.  
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.  

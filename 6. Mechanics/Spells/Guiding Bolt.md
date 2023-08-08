@@ -20,10 +20,10 @@ aliases: ["Guiding Bolt"]
 - **Components:** V, S
 - **Duration:** 1 round
 
-A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes `dice: 4d6\|avg` (`4d6`) radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes `dice: 4d6` (`4d6`) radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of Stars (TCE).md\|Druid (Circle of Stars)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid Circle Of Stars (TCE).md|Druid (Circle of Stars)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
 
 Source: Player's Handbook p. 248

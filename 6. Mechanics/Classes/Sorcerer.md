@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws:** Constitution, Charisma
 - **Armor:** none
-- **Weapons:** [[/6. Mechanics/Items/dagger.md\|daggers]], [[/6. Mechanics/Items/dart.md\|darts]], [[/6. Mechanics/Items/sling.md\|slings]], [[/6. Mechanics/Items/quarterstaff.md\|quarterstaffs]], [[/6. Mechanics/Items/light-crossbow.md\|light crossbows]]
+- **Weapons:** [[/6. Mechanics/Items/Dagger.md|daggers]], [[/6. Mechanics/Items/Dart.md|darts]], [[/6. Mechanics/Items/Sling.md|slings]], [[/6. Mechanics/Items/Quarterstaff.md|quarterstaffs]], [[/6. Mechanics/Items/Light Crossbow.md|light crossbows]]
 - **Tools:** none
 - **Skills:** Choose 2 from *Arcana*, *Deception*, *Insight*, *Intimidation*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/6. Mechanics/Items/light-crossbow.md\|light crossbow]] and [[/6. Mechanics/Items/crossbow-bolts-20.md\|20 bolts]] or (b) any simple weapon  
-- (a) a [[/6. Mechanics/Items/component-pouch.md\|component pouch]] or (b) an arcane focus  
-- (a) a [[/6. Mechanics/Items/dungeoneers-pack.md\|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/explorers-pack.md\|explorer's pack]]  
-- Two [[/6. Mechanics/Items/dagger.md\|daggers]]  
+- (a) a [[/6. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/6. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]] or (b) any simple weapon  
+- (a) a [[/6. Mechanics/Items/Component Pouch.md|component pouch]] or (b) an arcane focus  
+- (a) a [[/6. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/6. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- Two [[/6. Mechanics/Items/Dagger.md|daggers]]  
 
 Alternatively, you may start with 3d4 × 10 gp and choose your own equipment.
 
@@ -110,7 +110,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer spell list
 
 The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[/6. Mechanics/Spells/burning-hands.md\|burning hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/6. Mechanics/Spells/burning-hands.md\|burning hands]] using either slot.
+For example, if you know the 1st-level spell [[/6. Mechanics/Spells/Burning Hands.md|burning hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/6. Mechanics/Spells/Burning Hands.md|burning hands]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -175,14 +175,14 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-- [[/6. Mechanics/Classes/Sorcerer.md#Careful%20Spell\|Careful Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Distant%20Spell\|Distant Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Empowered%20Spell\|Empowered Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Extended%20Spell\|Extended Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Heightened%20Spell\|Heightened Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Quickened%20Spell\|Quickened Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Subtle%20Spell\|Subtle Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Twinned%20Spell\|Twinned Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Careful%20Spell|Careful Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Distant%20Spell|Distant Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Empowered%20Spell|Empowered Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Extended%20Spell|Extended Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Heightened%20Spell|Heightened Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Quickened%20Spell|Quickened Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Subtle%20Spell|Subtle Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Twinned%20Spell|Twinned Spell]]  
 
 ### Metamagic Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 65_
@@ -191,8 +191,8 @@ _3rd-level sorcerer optional class features_
 
 When you choose Metamagic options, you have access to the following additional options.
 
-- [[/6. Mechanics/Classes/Sorcerer.md#Seeking%20Spell\|Seeking Spell]]  
-- [[/6. Mechanics/Classes/Sorcerer.md#Transmuted%20Spell\|Transmuted Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Seeking%20Spell|Seeking Spell]]  
+- [[/6. Mechanics/Classes/Sorcerer.md#Transmuted%20Spell|Transmuted Spell]]  
 
 ### Ability Score Improvement (Level 4)
 
@@ -215,7 +215,7 @@ _Source: Tasha's Cauldron of Everything p. 65_
 
 _5th-level sorcerer optional class features_
 
-You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20\|avg` (`d20`), and you must use the new roll, potentially turning the failure into a success.
+You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20` (`d20`), and you must use the new roll, potentially turning the failure into a success.
 
 ### Sorcerous Origin feature (Level 6)
 
@@ -303,7 +303,7 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 ### Seeking Spell
 _Source: Tasha's Cauldron of Everything p. 66_
 
-If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the `dice: d20\|avg` (`d20`), and you must use the new roll.
+If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the `dice: d20` (`d20`), and you must use the new roll.
 
 You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.
 
@@ -325,7 +325,7 @@ When you cast a spell that deals a type of damage from the following list, you c
 
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, [[/6. Mechanics/Spells/magic-missile.md\|magic missile]] and [[/6. Mechanics/Spells/scorching-ray.md\|scorching ray]] aren't eligible, but [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]] and [[/6. Mechanics/Spells/chromatic-orb.md\|chromatic orb]] are.
+To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, [[/6. Mechanics/Spells/Magic Missile.md|magic missile]] and [[/6. Mechanics/Spells/Scorching Ray.md|scorching ray]] aren't eligible, but [[/6. Mechanics/Spells/Ray Of Frost.md|ray of frost]] and [[/6. Mechanics/Spells/Chromatic Orb.md|chromatic orb]] are.
 
 ### Unerring Spell
 _Source: Unearthed Arcana: Class Feature Variants p. 10_

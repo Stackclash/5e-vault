@@ -6,8 +6,12 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Black Bear
+*Source: Monster Manual p. 318, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Infernal Machine Rebuild*  
+
+```statblock
 "name": "Black Bear"
 "size": "Medium"
 "type": "beast"
@@ -30,7 +34,7 @@ statblock-link: "#^statblock"
 "cr": "1/2"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The bear has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
@@ -52,43 +56,7 @@ statblock-link: "#^statblock"
 - "WDMM"
 - "GoS"
 - "IMR"
-"image": "/compendium/bestiary/beast/token/black-bear.png"
-aliases: ["Black Bear"]
----
-# Black Bear
-*Source: Monster Manual p. 318, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Infernal Machine Rebuild*  
-
-```ad-statblock
-title: Black Bear
-![[/6. Mechanics/Bestiary/Beast/Token/black-bear.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 11 (natural armor)
-- **Hit Points** `dice: 3d8 + 6|text(19)` (3d8 + 6) 
-- **Speed** walk 40 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** —
-- **Challenge** 1/2
-
-## Traits
-
-***Keen Smell.*** The bear has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on smell.
-
-## Actions
-
-***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 2d4 + 2` (`2d4 + 2`) slashing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/black-bear.png"
 ```
 ^statblock
 

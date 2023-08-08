@@ -16,12 +16,12 @@ aliases: ["Staff of Striking"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]], [[6. Mechanics/Rules/item-properties.md#Versatile\|Versatile]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[6. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
 
-The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra `dice: 1d6\|avg` (`1d6`) force damage. The staff regains `dice: 1d6 + 4\|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20\|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff.
+The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra `dice: 1d6` (`1d6`) force damage. The staff regains `dice: 1d6 + 4` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff.
 
 *Source: Dungeon Master's Guide p. 203*

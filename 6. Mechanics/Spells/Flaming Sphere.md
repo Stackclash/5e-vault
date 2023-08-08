@@ -23,7 +23,7 @@ aliases: ["Flaming Sphere"]
 - **Components:** V, S, a bit of tallow, a pinch of brimstone, and a dusting of powdered iron
 - **Duration:** Concentration, up to 1 minute
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes `dice: 2d6\|avg` (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
+A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes `dice: 2d6` (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere's damage, and the sphere stops moving this turn.
 
@@ -31,6 +31,6 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[/6. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[/6. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md\|Druid (Circle of Wildfire)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]], [[/6. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[/6. Mechanics/Classes/Artificer Alchemist (TCE).md|Artificer (Alchemist)]], [[/6. Mechanics/Classes/Cleric Light Domain.md|Cleric (Light Domain)]], [[/6. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md|Druid (Circle of Wildfire)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]], [[/6. Mechanics/Classes/Wizard.md|Wizard]]
 
 Source: Player's Handbook p. 242

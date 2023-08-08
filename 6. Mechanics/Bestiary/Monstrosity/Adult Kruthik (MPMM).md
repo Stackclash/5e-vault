@@ -8,60 +8,12 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
-"name": "Adult Kruthik"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "18"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"stats":
-- !!int "15"
-- !!int "16"
-- !!int "15"
-- !!int "7"
-- !!int "12"
-- !!int "8"
-"speed": "walk 40 ft., burrow 20 ft., climb 40 ft."
-"skillsaves":
-  "Perception": !!int "5"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
-"languages": "Kruthik"
-"cr": "2"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik has advantage on an attack roll against a creature if at least\
-    \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
-    \ [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Pack Tactics"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
-    \ leaves a 5-foot-diameter tunnel in its wake."
-  "name": "Tunneler"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik makes two Stab or Spike attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
-  "name": "Stab"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
-  "name": "Spike"
-"source":
-- "MPMM"
-- "MTF"
-"image": "/compendium/bestiary/monstrosity/token/adult-kruthik.png"
-aliases: ["Adult Kruthik"]
+statblock: inline
 ---
 # Adult Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
-It takes six months of steady eating for a [[/6. Mechanics/Bestiary/Monstrosity/young-kruthik-mpmm.md\|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [[/6. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -87,39 +39,53 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ## Stat Block
 
-```ad-statblock
-title: Adult Kruthik
-![[/6. Mechanics/Bestiary/Monstrosity/Token/adult-kruthik.png#token]]
-*Medium monstrosity, Unaligned*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 6d8 + 12|text(39)` (6d8 + 12) 
-- **Speed** walk 40 ft., burrow 20 ft., climb 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|16 (+3)|15 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +5
-- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 15
-- **Languages** Kruthik
-- **Challenge** 2
-
-## Traits
-
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
-
-## Actions
-
-***Multiattack.*** The kruthik makes two Stab or Spike attacks.
-
-***Stab.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) piercing damage.
-
-***Spike.*** *Ranged Weapon Attack:* `dice: d20+5` (+5 to hit), range 20/60 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage.
+```statblock
+"name": "Adult Kruthik"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "18"
+"hp": !!int "39"
+"hit_dice": "6d8 + 12"
+"stats":
+- !!int "15"
+- !!int "16"
+- !!int "15"
+- !!int "7"
+- !!int "12"
+- !!int "8"
+"speed": "walk 40 ft., burrow 20 ft., climb 40 ft."
+"skillsaves":
+  "Perception": !!int "5"
+"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
+"languages": "Kruthik"
+"cr": "2"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kruthik has advantage on an attack roll against a creature if at least\
+    \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
+    \ [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Pack Tactics"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
+    \ leaves a 5-foot-diameter tunnel in its wake."
+  "name": "Tunneler"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The kruthik makes two Stab or Spike attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+  "name": "Stab"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
+    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+  "name": "Spike"
+"source":
+- "MPMM"
+- "MTF"
+"image": "6. Mechanics/Bestiary/Monstrosity/token/adult-kruthik.png"
 ```
 ^statblock
 

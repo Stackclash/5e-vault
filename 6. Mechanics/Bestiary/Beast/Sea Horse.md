@@ -5,8 +5,12 @@ tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Sea Horse
+*Source: Monster Manual p. 337*  
+
+```statblock
 "name": "Sea Horse"
 "size": "Tiny"
 "type": "beast"
@@ -31,34 +35,6 @@ statblock-link: "#^statblock"
   "name": "Water Breathing"
 "source":
 - "MM"
-"image": "/compendium/bestiary/beast/token/sea-horse.png"
-aliases: ["Sea Horse"]
----
-# Sea Horse
-*Source: Monster Manual p. 337*  
-
-```ad-statblock
-title: Sea Horse
-![[/6. Mechanics/Bestiary/Beast/Token/sea-horse.png#token]]
-*Tiny beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** `dice: 1d4 - 1|text(1)` (1d4 - 1) 
-- **Speed** swim 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|12 (+1)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Water Breathing.*** The sea horse can breathe only underwater.
+"image": "6. Mechanics/Bestiary/Beast/token/sea-horse.png"
 ```
 ^statblock

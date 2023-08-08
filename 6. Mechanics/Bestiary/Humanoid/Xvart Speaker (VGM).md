@@ -7,56 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/humanoid/xvart
-statblock: true
-statblock-link: "#^statblock"
-"name": "Xvart Speaker"
-"size": "Small"
-"type": "humanoid"
-"subtype": "xvart"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "7"
-"hit_dice": "2d6"
-"stats":
-- !!int "8"
-- !!int "14"
-- !!int "10"
-- !!int "13"
-- !!int "7"
-- !!int "7"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Stealth": !!int "4"
-"senses": "darkvision 30 ft., passive Perception 8"
-"languages": "Abyssal and one additional language (usually Common or Goblin)"
-"cr": "1/8"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xvart can take the Disengage action as a bonus action on each of its\
-    \ turns."
-  "name": "Low Cunning"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xvart has advantage on Strength (Athletics) checks to shove a creature\
-    \ if at least one of the xvart's allies is within 5 feet of the target and the\
-    \ ally isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]."
-  "name": "Overbearing Pack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xvart can communicate with ordinary bats and rats, as well as giant\
-    \ bats and giant rats."
-  "name": "Raxivort's Tongue"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
-  "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
-  "name": "Sling"
-"source":
-- "VGM"
-"image": "/compendium/bestiary/humanoid/token/xvart-speaker.png"
-aliases: ["Xvart Speaker"]
+statblock: inline
 ---
 # Xvart Speaker
 *Source: Volo's Guide to Monsters p. 200*  
@@ -103,39 +54,54 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 
 ## Stat Block
 
-```ad-statblock
-title: Xvart Speaker
-![[/6. Mechanics/Bestiary/Humanoid/Token/xvart-speaker.png#token]]
-*Small humanoid(xvart), Chaotic Evil*
-
-- **Armor Class** 13 ([[/6. Mechanics/Items/leather-armor.md\|leather armor]])
-- **Hit Points** `dice: 2d6|text(7)` (2d6) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|14 (+2)|10 (+0)|13 (+1)| 7 (-2)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Stealth +4
-- **Senses** darkvision 30 ft., passive Perception 8
-- **Languages** Abyssal and one additional language (usually Common or Goblin)
-- **Challenge** 1/8
-
-## Traits
-
-***Low Cunning.*** The xvart can take the Disengage action as a bonus action on each of its turns.
-
-***Overbearing Pack.*** The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]].
-
-***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
-
-## Actions
-
-***Shortsword.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Sling.*** *Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), range 30/120 ft., one target. Hit: `dice: 1d4 + 2` (`1d4 + 2`) bludgeoning damage.
+```statblock
+"name": "Xvart Speaker"
+"size": "Small"
+"type": "humanoid"
+"subtype": "xvart"
+"alignment": "Chaotic Evil"
+"ac": !!int "13"
+"hp": !!int "7"
+"hit_dice": "2d6"
+"stats":
+- !!int "8"
+- !!int "14"
+- !!int "10"
+- !!int "13"
+- !!int "7"
+- !!int "7"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Stealth": !!int "4"
+"senses": "darkvision 30 ft., passive Perception 8"
+"languages": "Abyssal and one additional language (usually Common or Goblin)"
+"cr": "1/8"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The xvart can take the Disengage action as a bonus action on each of its\
+    \ turns."
+  "name": "Low Cunning"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The xvart has advantage on Strength (Athletics) checks to shove a creature\
+    \ if at least one of the xvart's allies is within 5 feet of the target and the\
+    \ ally isn't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+  "name": "Overbearing Pack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The xvart can communicate with ordinary bats and rats, as well as giant\
+    \ bats and giant rats."
+  "name": "Raxivort's Tongue"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+  "name": "Shortsword"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
+    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+  "name": "Sling"
+"source":
+- "VGM"
+"image": "6. Mechanics/Bestiary/Humanoid/token/xvart-speaker.png"
 ```
 ^statblock
 

@@ -8,8 +8,12 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Giant Weasel
+*Source: Monster Manual p. 329, Tales from the Yawning Portal, Ghosts of Saltmarsh*  
+
+```statblock
 "name": "Giant Weasel"
 "size": "Medium"
 "type": "beast"
@@ -33,7 +37,7 @@ statblock-link: "#^statblock"
 "cr": "1/8"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The weasel has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "The weasel has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
@@ -45,39 +49,7 @@ statblock-link: "#^statblock"
 - "MM"
 - "TftYP"
 - "GoS"
-"image": "/compendium/bestiary/beast/token/giant-weasel.png"
-aliases: ["Giant Weasel"]
----
-# Giant Weasel
-*Source: Monster Manual p. 329, Tales from the Yawning Portal, Ghosts of Saltmarsh*  
-
-```ad-statblock
-title: Giant Weasel
-![[/6. Mechanics/Bestiary/Beast/Token/giant-weasel.png#token]]
-*Medium beast, Unaligned*
-
-- **Armor Class** 13 
-- **Hit Points** `dice: 2d8|text(9)` (2d8) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|16 (+3)|10 (+0)| 4 (-3)|12 (+1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Perception +3, Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 1/8
-
-## Traits
-
-***Keen Hearing and Smell.*** The weasel has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on hearing or smell.
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage.
+"image": "6. Mechanics/Bestiary/Beast/token/giant-weasel.png"
 ```
 ^statblock
 

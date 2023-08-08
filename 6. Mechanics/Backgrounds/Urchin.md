@@ -8,9 +8,9 @@ aliases: ["Urchin"]
 # Urchin
 *Source: Player's Handbook p. 141*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Sleight%20of%20Hand\|Sleight of Hand]], [[6. Mechanics/Rules/skills.md#Stealth\|Stealth]]  
-- **Tool Proficiencies.** [[/6. Mechanics/Items/disguise-kit.md\|Disguise kit]], [[/6. Mechanics/Items/thieves-tools.md\|Thieves' tools]]  
-- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [[/6. Mechanics/Items/common-clothes.md\|common clothes]], and a belt [[/6. Mechanics/Items/pouch.md\|pouch]] containing 10 gp  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]], [[6. Mechanics/Rules/Skills.md#Stealth|Stealth]]  
+- **Tool Proficiencies.** [[/6. Mechanics/Items/Disguise Kit.md|Disguise kit]], [[/6. Mechanics/Items/Thieves Tools.md|Thieves' tools]]  
+- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [[/6. Mechanics/Items/Common Clothes.md|common clothes]], and a belt [[/6. Mechanics/Items/Pouch.md|pouch]] containing 10 gp  
 
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 

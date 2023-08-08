@@ -11,7 +11,7 @@ aliases: ["+1 Amulet of the Devout"]
 # +1 Amulet of the Devout
 *Wondrous Item, uncommon (requires attunement by a cleric or paladin)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 

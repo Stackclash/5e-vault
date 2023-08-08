@@ -5,51 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: true
-statblock-link: "#^statblock"
-"name": "Lemure"
-"size": "Medium"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "7"
-"hp": !!int "13"
-"hit_dice": "3d8"
-"stats":
-- !!int "10"
-- !!int "5"
-- !!int "11"
-- !!int "1"
-- !!int "11"
-- !!int "3"
-"speed": "walk 15 ft."
-"damage_resistances": "cold"
-"damage_immunities": "fire, poison"
-"condition_immunities": "charmed, frightened, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
-"languages": "understands Infernal but can't speak"
-"cr": "0"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the lemure's darkvision."
-  "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A lemure that dies in the Nine Hells comes back to life with all its hit\
-    \ points in dice: 1d10|avg (1d10) days unless it is killed by a good-aligned\
-    \ creature with a [[/6. Mechanics/Spells/bless.md\|bless]] spell cast on that creature\
-    \ or its remains are sprinkled with holy water."
-  "name": "Hellish Rejuvenation"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage"
-  "name": "Fist"
-"source":
-- "MM"
-- "WDH"
-- "BGDIA"
-"image": "/compendium/bestiary/fiend/token/lemure.png"
-aliases: ["Lemure"]
+statblock: inline
 ---
 # Lemure
 *Source: Monster Manual p. 76, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus*  
@@ -154,7 +110,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[6. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -180,37 +136,48 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ## Stat Block
 
-```ad-statblock
-title: Lemure
-![[/6. Mechanics/Bestiary/Fiend/Token/lemure.png#token]]
-*Medium fiend(devil), Lawful Evil*
-
-- **Armor Class** 7 
-- **Hit Points** `dice: 3d8|text(13)` (3d8) 
-- **Speed** walk 15 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)| 5 (-3)|11 (+0)| 1 (-5)|11 (+0)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Damage Resistances** cold
-- **Damage Immunities** fire, poison
-- **Condition Immunities** charmed, frightened, poisoned
-- **Languages** understands Infernal but can't speak
-- **Challenge** 0
-
-## Traits
-
-***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
-
-***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in `dice: 1d10` (`1d10`) days unless it is killed by a good-aligned creature with a [[/6. Mechanics/Spells/bless.md\|bless]] spell cast on that creature or its remains are sprinkled with holy water.
-
-## Actions
-
-***Fist.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 1d4` (`1d4`) bludgeoning damage
+```statblock
+"name": "Lemure"
+"size": "Medium"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "7"
+"hp": !!int "13"
+"hit_dice": "3d8"
+"stats":
+- !!int "10"
+- !!int "5"
+- !!int "11"
+- !!int "1"
+- !!int "11"
+- !!int "3"
+"speed": "walk 15 ft."
+"damage_resistances": "cold"
+"damage_immunities": "fire, poison"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "understands Infernal but can't speak"
+"cr": "0"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Magical darkness doesn't impede the lemure's darkvision."
+  "name": "Devil's Sight"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "A lemure that dies in the Nine Hells comes back to life with all its hit\
+    \ points in dice: 1d10|avg (1d10) days unless it is killed by a good-aligned\
+    \ creature with a [[/6. Mechanics/Spells/Bless.md|bless]] spell cast on that creature\
+    \ or its remains are sprinkled with holy water."
+  "name": "Hellish Rejuvenation"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage"
+  "name": "Fist"
+"source":
+- "MM"
+- "WDH"
+- "BGDIA"
+"image": "/compendium/bestiary/fiend/token/lemure.png"
 ```
 ^statblock

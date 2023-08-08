@@ -6,51 +6,7 @@ tags:
 - monster/environment/hill
 - monster/size/huge
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Hill Giant"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "105"
-"hit_dice": "10d12 + 40"
-"stats":
-- !!int "21"
-- !!int "8"
-- !!int "19"
-- !!int "5"
-- !!int "9"
-- !!int "6"
-"speed": "walk 40 ft."
-"skillsaves":
-  "Perception": !!int "2"
-"senses": "passive Perception 12"
-"languages": "Giant"
-"cr": "5"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatclub attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
-  "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
-  "name": "Rock"
-"source":
-- "MM"
-- "PotA"
-- "RoT"
-- "SKT"
-- "TftYP"
-- "GoS"
-- "ERLW"
-- "EGW"
-"image": "/compendium/bestiary/giant/token/hill-giant.png"
-aliases: ["Hill Giant"]
+statblock: inline
 ---
 # Hill Giant
 *Source: Monster Manual p. 155, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Eberron: Rising from the Last War, Explorer's Guide to Wildemount*  
@@ -127,33 +83,49 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ## Stat Block
 
-```ad-statblock
-title: Hill Giant
-![[/6. Mechanics/Bestiary/Giant/Token/hill-giant.png#token]]
-*Huge giant, Chaotic Evil*
-
-- **Armor Class** 13 (natural armor)
-- **Hit Points** `dice: 10d12 + 40|text(105)` (10d12 + 40) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)| 8 (-1)|19 (+4)| 5 (-3)| 9 (-1)| 6 (-2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** Perception +2
-- **Senses** passive Perception 12
-- **Languages** Giant
-- **Challenge** 5
-
-## Actions
-
-***Multiattack.*** The giant makes two greatclub attacks.
-
-***Greatclub.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 10 ft., one target. Hit: `dice: 3d8 + 5` (`3d8 + 5`) bludgeoning damage.
-
-***Rock.*** *Ranged Weapon Attack:* `dice: d20+8` (+8 to hit), range 60/240 ft., one target. Hit: `dice: 3d10 + 5` (`3d10 + 5`) bludgeoning damage.
+```statblock
+"name": "Hill Giant"
+"size": "Huge"
+"type": "giant"
+"alignment": "Chaotic Evil"
+"ac": !!int "13"
+"hp": !!int "105"
+"hit_dice": "10d12 + 40"
+"stats":
+- !!int "21"
+- !!int "8"
+- !!int "19"
+- !!int "5"
+- !!int "9"
+- !!int "6"
+"speed": "walk 40 ft."
+"skillsaves":
+  "Perception": !!int "2"
+"senses": "passive Perception 12"
+"languages": "Giant"
+"cr": "5"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The giant makes two greatclub attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
+  "name": "Greatclub"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60/240 ft., one\
+    \ target. Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
+  "name": "Rock"
+"source":
+- "MM"
+- "PotA"
+- "RoT"
+- "SKT"
+- "TftYP"
+- "GoS"
+- "ERLW"
+- "EGW"
+"image": "6. Mechanics/Bestiary/Giant/token/hill-giant.png"
 ```
 ^statblock
 

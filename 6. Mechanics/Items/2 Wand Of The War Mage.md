@@ -12,7 +12,7 @@ aliases: ["+2 Wand of the War Mage"]
 # +2 Wand of the War Mage
 *Wand, major, rare (requires attunement by a spellcaster)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 

@@ -27,6 +27,6 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25|||No answer!|Answer% chance chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Order Domain (TCE).md|Cleric (Order Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Paladin Oath Of Devotion.md|Paladin (Oath of Devotion)]], [[/6. Mechanics/Classes/Paladin Oath Of Glory (TCE).md|Paladin (Oath of Glory)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 223

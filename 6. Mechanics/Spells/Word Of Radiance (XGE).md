@@ -17,10 +17,10 @@ aliases: ["Word of Radiance"]
 - **Components:** V, a holy symbol
 - **Duration:** Instantaneous
 
-You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take `dice: 1d6\|avg` (`1d6`) radiant damage.
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take `dice: 1d6` (`1d6`) radiant damage.
 
-The spell's damage increases by `dice: 1d6\|avg` (`1d6`) when you reach 5th level (`dice: 2d6\|avg` (`2d6`)), 11th level (`dice: 3d6\|avg` (`3d6`)), and 17th level (`dice: 4d6\|avg` (`4d6`)).
+The spell's damage increases by `dice: 1d6` (`1d6`) when you reach 5th level (`dice: 2d6` (`2d6`)), 11th level (`dice: 3d6` (`3d6`)), and 17th level (`dice: 4d6` (`4d6`)).
 
-**Classes**: [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Xanathar's Guide to Everything p. 171

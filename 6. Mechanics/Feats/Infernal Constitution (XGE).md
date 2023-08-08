@@ -13,4 +13,4 @@ aliases: ["Infernal Constitution"]
 Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
 
 - You have resistance to cold and poison damage.  
-- You have advantage on saving throws against being [[6. Mechanics/Rules/conditions.md#poisoned\|poisoned]].
+- You have advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]].

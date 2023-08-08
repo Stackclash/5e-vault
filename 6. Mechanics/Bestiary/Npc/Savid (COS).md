@@ -14,8 +14,12 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Savid
+*Source: Curse of Strahd p. 133, Derived from Scout (MM)*  
+
+```statblock
 "name": "Savid"
 "size": "Medium"
 "type": "humanoid"
@@ -42,7 +46,7 @@ statblock-link: "#^statblock"
 "cr": "1/2"
 "traits":
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Savid has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]])\
+  "desc": "Savid has advantage on Wisdom ([[6. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
@@ -59,43 +63,7 @@ statblock-link: "#^statblock"
   "name": "Longbow"
 "source":
 - "CoS"
-"image": "/compendium/bestiary/npc/token/savid.png"
-aliases: ["Savid"]
----
-# Savid
-*Source: Curse of Strahd p. 133, Derived from Scout (MM)*  
-
-```ad-statblock
-title: Savid
-![[/6. Mechanics/Bestiary/Npc/Token/savid.png#token]]
-*Medium humanoid(Dusk elf), Neutral*
-
-- **Armor Class** 13 ([[/6. Mechanics/Items/leather-armor.md\|leather armor]])
-- **Hit Points** `dice: 3d8 + 3|text(16)` (3d8 + 3) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
-- **Senses** passive Perception 15
-- **Languages** any one language (usually Common)
-- **Challenge** 1/2
-
-## Traits
-
-***Keen Hearing and Sight.*** Savid has advantage on Wisdom ([[6. Mechanics/Rules/skills.md#Perception\|Perception]]) checks that rely on hearing or sight.
-
-## Actions
-
-***Multiattack.*** Savid makes two melee attacks or two ranged attacks.
-
-***Shortsword.*** *Melee Weapon Attack:* `dice: d20+4` (+4 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 2` (`1d6 + 2`) piercing damage.
-
-***Longbow.*** *Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), ranged 150/600 ft., one target. Hit: `dice: 1d8 + 2` (`1d8 + 2`) piercing damage.
+"image": "6. Mechanics/Bestiary/Npc/token/savid.png"
 ```
 ^statblock
 

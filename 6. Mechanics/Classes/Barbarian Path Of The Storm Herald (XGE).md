@@ -33,7 +33,7 @@ If your aura's effects require a saving throw, the DC equals 8 + your proficienc
 
 - **Sea**  
 
-    When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes `dice: 1d6\|avg` (`1d6`) lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to `dice: 2d6\|avg` (`2d6`) at 10th level, `dice: 3d6\|avg` (`3d6`) at 15th level, and `dice: 4d6\|avg` (`4d6`) at 20th level.  
+    When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes `dice: 1d6` (`1d6`) lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to `dice: 2d6` (`2d6`) at 10th level, `dice: 3d6` (`3d6`) at 15th level, and `dice: 4d6` (`4d6`) at 20th level.  
 
 - **Tundra**  
 
@@ -69,7 +69,7 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 
 - **Sea**  
 
-    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [[6. Mechanics/Rules/conditions.md#prone\|prone]], as if struck by a wave.  
+    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [[6. Mechanics/Rules/Conditions.md#prone|prone]], as if struck by a wave.  
 
 - **Tundra**  
 

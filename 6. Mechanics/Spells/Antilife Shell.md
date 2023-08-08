@@ -25,6 +25,6 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [[/6. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]]
+**Classes**: [[/6. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/6. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Warlock The Undead (VRGR).md|Warlock (The Undead)]]
 
 Source: Player's Handbook p. 213

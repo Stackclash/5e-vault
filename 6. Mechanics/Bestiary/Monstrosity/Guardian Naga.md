@@ -7,8 +7,38 @@ tags:
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: true
-statblock-link: "#^statblock"
+statblock: inline
+---
+# Guardian Naga
+*Source: Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh*  
+
+Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
+
+A guardian naga doesn't seek out violence, warning off intruders rather than attacking. Only if its foes persist does the naga attack, accosting enemies with its spells and poisonous spittle.
+
+## Nagas
+
+Nagas are intelligent serpents that inhabit the ruins of the past, amassing arcane treasures and knowledge.
+
+The first nagas were created as immortal guardians by a humanoid race long lost to history. When this race died out, the nagas deemed themselves the rightful inheritors of their masters' treasures and magical lore. Industrious and driven, nagas occasionally venture out from their lairs to track down magic items or rare spellbooks.
+
+Nagas never feel the ravages of time or succumb to sickness. Even if it is struck down, a naga's immortal spirit reforms in a new body in a matter of days, ready to continue its eternal work.
+
+### Benevolent Dictators and Brutal Tyrants
+
+A naga rules its domain with absolute authority. Whether it rules with compassion or by terrorizing its subjects, the naga believes itself the master of all other creatures that inhabit its domain.
+
+### Rivalry
+
+Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself as the epitome of serpentine evolution. Though cooperation between them is rare, nagas and yuan-ti sometimes set aside their differences to work toward common objectives. However, yuan-ti always chafe under a naga's authority.
+
+### Immortal Nature
+
+A naga doesn't require air, food, drink, or sleep.
+
+## Stat Block
+
+```statblock
 "name": "Guardian Naga"
 "size": "Large"
 "type": "monstrosity"
@@ -40,21 +70,21 @@ statblock-link: "#^statblock"
   "desc": "The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks), and it needs\
     \ only verbal components to cast its spells. It has the following cleric spells\
-    \ prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/mending.md\|mending]],\
-    \ [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/command.md\|command]],\
-    \ [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], [[/6. Mechanics/Spells/shield-of-faith.md\|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/calm-emotions.md\|calm emotions]],\
-    \ [[/6. Mechanics/Spells/hold-person.md\|hold person]]\n\n3rd level (3 3rd-level\
-    \ slots): [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]], [[/6. Mechanics/Spells/clairvoyance.md\|clairvoyance]]\n\
-    \n4th level (3 4th-level slots): [[/6. Mechanics/Spells/banishment.md\|banishment]],\
-    \ [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]]\n\n5th level\
-    \ (2 5th-level slots): [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/geas.md\|geas]]\n\
-    \n6th level (1 6th-level slots): [[/6. Mechanics/Spells/true-seeing.md\|true seeing]]"
+    \ prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Mending.md|mending]],\
+    \ [[/6. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/Command.md|command]],\
+    \ [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/6. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[/6. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
+    \ [[/6. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
+    \ slots): [[/6. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/6. Mechanics/Spells/Clairvoyance.md|clairvoyance]]\n\
+    \n4th level (3 4th-level slots): [[/6. Mechanics/Spells/Banishment.md|banishment]],\
+    \ [[/6. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
+    \ (2 5th-level slots): [[/6. Mechanics/Spells/Flame Strike.md|flame strike]], [[/6. Mechanics/Spells/Geas.md|geas]]\n\
+    \n6th level (1 6th-level slots): [[/6. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "spells"
 - !!dev.ebullient.convert.tools.dnd5e.qute.Trait
   "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
-    \ regains all its hit points. Only a [[/6. Mechanics/Spells/wish.md\|wish]] spell\
+    \ regains all its hit points. Only a [[/6. Mechanics/Spells/Wish.md|wish]] spell\
     \ can prevent this trait from functioning."
   "name": "Rejuvenation"
 "actions":
@@ -74,85 +104,7 @@ statblock-link: "#^statblock"
 - "MM"
 - "ToA"
 - "GoS"
-"image": "/compendium/bestiary/monstrosity/token/guardian-naga.png"
-aliases: ["Guardian Naga"]
----
-# Guardian Naga
-*Source: Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh*  
-
-Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
-
-A guardian naga doesn't seek out violence, warning off intruders rather than attacking. Only if its foes persist does the naga attack, accosting enemies with its spells and poisonous spittle.
-
-## Nagas
-
-Nagas are intelligent serpents that inhabit the ruins of the past, amassing arcane treasures and knowledge.
-
-The first nagas were created as immortal guardians by a humanoid race long lost to history. When this race died out, the nagas deemed themselves the rightful inheritors of their masters' treasures and magical lore. Industrious and driven, nagas occasionally venture out from their lairs to track down magic items or rare spellbooks.
-
-Nagas never feel the ravages of time or succumb to sickness. Even if it is struck down, a naga's immortal spirit reforms in a new body in a matter of days, ready to continue its eternal work.
-
-### Benevolent Dictators and Brutal Tyrants
-
-A naga rules its domain with absolute authority. Whether it rules with compassion or by terrorizing its subjects, the naga believes itself the master of all other creatures that inhabit its domain.
-
-### Rivalry
-
-Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself as the epitome of serpentine evolution. Though cooperation between them is rare, nagas and yuan-ti sometimes set aside their differences to work toward common objectives. However, yuan-ti always chafe under a naga's authority.
-
-### Immortal Nature
-
-A naga doesn't require air, food, drink, or sleep.
-
-## Stat Block
-
-```ad-statblock
-title: Guardian Naga
-![[/6. Mechanics/Bestiary/Monstrosity/Token/guardian-naga.png#token]]
-*Large monstrosity, Lawful Good*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 15d10 + 45|text(127)` (15d10 + 45) 
-- **Speed** walk 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +8, Constitution +7, Intelligence +7, Wisdom +8, Charisma +8
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, poisoned
-- **Languages** Celestial, Common
-- **Challenge** 10
-
-## Traits
-
-***Rejuvenation.*** If it dies, the naga returns to life in `dice: 1d6` (`1d6`) days and regains all its hit points. Only a [[/6. Mechanics/Spells/wish.md\|wish]] spell can prevent this trait from functioning.
-
-***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, `dice: d20+8` (+8 to hit) with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/mending.md\|mending]], [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]], [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], [[/6. Mechanics/Spells/shield-of-faith.md\|shield of faith]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/calm-emotions.md\|calm emotions]], [[/6. Mechanics/Spells/hold-person.md\|hold person]]
-
-**3rd level (3 3rd-level slots)**: [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]], [[/6. Mechanics/Spells/clairvoyance.md\|clairvoyance]]
-
-**4th level (3 4th-level slots)**: [[/6. Mechanics/Spells/banishment.md\|banishment]], [[/6. Mechanics/Spells/freedom-of-movement.md\|freedom of movement]]
-
-**5th level (2 5th-level slots)**: [[/6. Mechanics/Spells/flame-strike.md\|flame strike]], [[/6. Mechanics/Spells/geas.md\|geas]]
-
-**6th level (1 6th-level slots)**: [[/6. Mechanics/Spells/true-seeing.md\|true seeing]]
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 10 ft., one creature. Hit: `dice: 1d8 + 4` (`1d8 + 4`) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (`dice: 10d8` (`10d8`)) poison damage on a failed save, or half as much damage on a successful one.
-
-***Spit Poison.*** *Ranged Weapon Attack:* `dice: d20+8` (+8 to hit), range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (`dice: 10d8` (`10d8`)) poison damage on a failed save, or half as much damage on a successful one.
+"image": "6. Mechanics/Bestiary/Monstrosity/token/guardian-naga.png"
 ```
 ^statblock
 

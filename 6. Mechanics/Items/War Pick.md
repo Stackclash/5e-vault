@@ -11,7 +11,7 @@ aliases: ["War Pick"]
 *Melee Weapon*  
 
 - **Damage**: 1d8 P
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]]
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

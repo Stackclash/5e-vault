@@ -21,10 +21,10 @@ aliases: ["Protection from Poison"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature. If it is [[6. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
+You touch a creature. If it is [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 
-For the duration, the target has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], and it has resistance to poison damage.
+For the duration, the target has advantage on saving throws against being [[6. Mechanics/Rules/Conditions.md#poisoned|poisoned]], and it has resistance to poison damage.
 
-**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Paladin.md\|Paladin]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Paladin.md|Paladin]], [[/6. Mechanics/Classes/Ranger.md|Ranger]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 270

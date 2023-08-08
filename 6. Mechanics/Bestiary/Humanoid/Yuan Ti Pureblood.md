@@ -9,68 +9,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/yuan-ti
-statblock: true
-statblock-link: "#^statblock"
-"name": "Yuan-ti Pureblood"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "yuan-ti"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "40"
-"hit_dice": "9d8"
-"stats":
-- !!int "11"
-- !!int "12"
-- !!int "11"
-- !!int "13"
-- !!int "12"
-- !!int "14"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "3"
-  "Perception": !!int "3"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 13"
-"languages": "Abyssal, Common, Draconic"
-"cr": "1"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
-    \ yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] (snakes\
-    \ only)\n\n3/day each: [[/6. Mechanics/Spells/poison-spray.md\|poison spray]],\
-    \ [[/6. Mechanics/Spells/suggestion.md\|suggestion]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes two melee attacks."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
-  "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
-    \ (2d6) poison damage."
-  "name": "Shortbow"
-"source":
-- "MM"
-- "HotDQ"
-- "RoT"
-- "SKT"
-- "ToA"
-- "WDMM"
-- "CM"
-"image": "/compendium/bestiary/humanoid/token/yuan-ti-pureblood.png"
-aliases: ["Yuan-ti Pureblood"]
+statblock: inline
 ---
 # Yuan-ti Pureblood
 *Source: Monster Manual p. 310, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries*  
@@ -121,45 +60,66 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ## Stat Block
 
-```ad-statblock
-title: Yuan-ti Pureblood
-![[/6. Mechanics/Bestiary/Humanoid/Token/yuan-ti-pureblood.png#token]]
-*Medium humanoid(yuan-ti), Neutral Evil*
-
-- **Armor Class** 11 
-- **Hit Points** `dice: 9d8|text(40)` (9d8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Deception +6, Perception +3, Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Common, Draconic
-- **Challenge** 1
-
-## Traits
-
-***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
-
-***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] (snakes only)
-
-**3/day each**: [[/6. Mechanics/Spells/poison-spray.md\|poison spray]], [[/6. Mechanics/Spells/suggestion.md\|suggestion]]
-
-## Actions
-
-***Multiattack.*** The yuan-ti makes two melee attacks.
-
-***Scimitar.*** *Melee Weapon Attack:* `dice: d20+3` (+3 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 1` (`1d6 + 1`) slashing damage.
-
-***Shortbow.*** *Ranged Weapon Attack:* `dice: d20+3` (+3 to hit), range 80/320 ft., one target. Hit: `dice: 1d6 + 1` (`1d6 + 1`) piercing damage plus `dice: 2d6` (`2d6`) poison damage.
+```statblock
+"name": "Yuan-ti Pureblood"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "yuan-ti"
+"alignment": "Neutral Evil"
+"ac": !!int "11"
+"hp": !!int "40"
+"hit_dice": "9d8"
+"stats":
+- !!int "11"
+- !!int "12"
+- !!int "11"
+- !!int "13"
+- !!int "12"
+- !!int "14"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Deception": !!int "6"
+  "Stealth": !!int "3"
+  "Perception": !!int "3"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Abyssal, Common, Draconic"
+"cr": "1"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
+    \ yuan-ti can innately cast the following spells, requiring no material components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n3/day each: [[/6. Mechanics/Spells/Poison Spray.md|poison spray]],\
+    \ [[/6. Mechanics/Spells/Suggestion.md|suggestion]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti makes two melee attacks."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
+  "name": "Scimitar"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
+    \ target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
+  "name": "Shortbow"
+"source":
+- "MM"
+- "HotDQ"
+- "RoT"
+- "SKT"
+- "ToA"
+- "WDMM"
+- "CM"
+"image": "6. Mechanics/Bestiary/Humanoid/token/yuan-ti-pureblood.png"
 ```
 ^statblock
 

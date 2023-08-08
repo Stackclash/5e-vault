@@ -5,53 +5,7 @@ tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Blue Dragon Wyrmling"
-"size": "Medium"
-"type": "dragon"
-"alignment": "Lawful Evil"
-"ac": !!int "17"
-"hp": !!int "52"
-"hit_dice": "8d8 + 16"
-"stats":
-- !!int "17"
-- !!int "10"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "15"
-"speed": "walk 30 ft., burrow 15 ft., fly 60 ft."
-"saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
-"skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
-"damage_immunities": "lightning"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "3"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 1d6|avg\
-    \ (1d6) lightning damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
-    \ creature in that line must make a DC 12 Dexterity saving throw, taking 22 (dice:\
-    \ 4d10|avg (4d10)) lightning damage on a failed save, or half as much damage\
-    \ on a successful one."
-  "name": "Lightning Breath (Recharge 5-6)"
-"source":
-- "MM"
-- "MOT"
-- "DoSI"
-"image": "/compendium/bestiary/dragon/token/blue-dragon-wyrmling.png"
-aliases: ["Blue Dragon Wyrmling"]
+statblock: inline
 ---
 # Blue Dragon Wyrmling
 *Source: Monster Manual p. 91, Mythic Odysseys of Theros, Dragons of Stormwreck Isle*  
@@ -142,31 +96,50 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Blue Dragon Wyrmling
-![[/6. Mechanics/Bestiary/Dragon/Token/blue-dragon-wyrmling.png#token]]
-*Medium dragon, Lawful Evil*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 8d8 + 16|text(52)` (8d8 + 16) 
-- **Speed** walk 30 ft., burrow 15 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +2, Constitution +4, Wisdom +2, Charisma +4
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Damage Immunities** lightning
-- **Languages** Draconic
-- **Challenge** 3
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d10 + 3` (`1d10 + 3`) piercing damage plus `dice: 1d6` (`1d6`) lightning damage.
-
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (`dice: 4d10` (`4d10`)) lightning damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Blue Dragon Wyrmling"
+"size": "Medium"
+"type": "dragon"
+"alignment": "Lawful Evil"
+"ac": !!int "17"
+"hp": !!int "52"
+"hit_dice": "8d8 + 16"
+"stats":
+- !!int "17"
+- !!int "10"
+- !!int "15"
+- !!int "12"
+- !!int "11"
+- !!int "15"
+"speed": "walk 30 ft., burrow 15 ft., fly 60 ft."
+"saves":
+  "Charisma": !!int "4"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
+"skillsaves":
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
+"damage_immunities": "lightning"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"languages": "Draconic"
+"cr": "3"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 1d6|avg\
+    \ (1d6) lightning damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
+    \ creature in that line must make a DC 12 Dexterity saving throw, taking 22 (dice:\
+    \ 4d10|avg (4d10)) lightning damage on a failed save, or half as much damage\
+    \ on a successful one."
+  "name": "Lightning Breath (Recharge 5-6)"
+"source":
+- "MM"
+- "MOT"
+- "DoSI"
+"image": "6. Mechanics/Bestiary/Dragon/token/blue-dragon-wyrmling.png"
 ```
 ^statblock

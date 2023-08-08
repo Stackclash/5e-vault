@@ -6,68 +6,7 @@ tags:
 - monster/environment/coastal
 - monster/size/large
 - monster/type/dragon
-statblock: true
-statblock-link: "#^statblock"
-"name": "Young Bronze Dragon"
-"size": "Large"
-"type": "dragon"
-"alignment": "Lawful Good"
-"ac": !!int "18"
-"hp": !!int "142"
-"hit_dice": "15d10 + 60"
-"stats":
-- !!int "21"
-- !!int "10"
-- !!int "19"
-- !!int "14"
-- !!int "13"
-- !!int "17"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "7"
-"skillsaves":
-  "Stealth": !!int "3"
-  "Insight": !!int "4"
-  "Perception": !!int "7"
-"damage_immunities": "lightning"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
-"languages": "Common, Draconic"
-"cr": "8"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-  "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
-  "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
-  "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
-    \ The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 15 Dexterity saving throw, taking 55 (dice: 10d10|avg\
-    \ (10d10)) lightning damage on a failed save, or half as much damage on a successful\
-    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
-    \ cone. Each creature in that area must succeed on a DC 15 Strength saving throw.\
-    \ On a failed save, the creature is pushed 40 feet away from the dragon.  "
-  "name": "Breath Weapons (Recharge 5-6)"
-"source":
-- "MM"
-- "WDH"
-- "GoS"
-- "CM"
-"image": "/compendium/bestiary/dragon/token/young-bronze-dragon.png"
-aliases: ["Young Bronze Dragon"]
+statblock: inline
 ---
 # Young Bronze Dragon
 *Source: Monster Manual p. 108, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries*  
@@ -140,43 +79,66 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ## Stat Block
 
-```ad-statblock
-title: Young Bronze Dragon
-![[/6. Mechanics/Bestiary/Dragon/Token/young-bronze-dragon.png#token]]
-*Large dragon, Lawful Good*
-
-- **Armor Class** 18 (natural armor)
-- **Hit Points** `dice: 15d10 + 60|text(142)` (15d10 + 60) 
-- **Speed** walk 40 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +3, Constitution +7, Wisdom +4, Charisma +6
-- **Skills** Insight +4, Perception +7, Stealth +3
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
-- **Damage Immunities** lightning
-- **Languages** Common, Draconic
-- **Challenge** 8
-
-## Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-## Actions
-
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 10 ft., one target. Hit: `dice: 2d10 + 5` (`2d10 + 5`) piercing damage.
-
-***Claw.*** *Melee Weapon Attack:* `dice: d20+8` (+8 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 5` (`2d6 + 5`) slashing damage.
-
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
-
-- **Lightning Breath.** The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (`dice: 10d10` (`10d10`)) lightning damage on a failed save, or half as much damage on a successful one.  
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.  
+```statblock
+"name": "Young Bronze Dragon"
+"size": "Large"
+"type": "dragon"
+"alignment": "Lawful Good"
+"ac": !!int "18"
+"hp": !!int "142"
+"hit_dice": "15d10 + 60"
+"stats":
+- !!int "21"
+- !!int "10"
+- !!int "19"
+- !!int "14"
+- !!int "13"
+- !!int "17"
+"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"saves":
+  "Charisma": !!int "6"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "7"
+"skillsaves":
+  "Stealth": !!int "3"
+  "Insight": !!int "4"
+  "Perception": !!int "7"
+"damage_immunities": "lightning"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+"languages": "Common, Draconic"
+"cr": "8"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon can breathe air and water."
+  "name": "Amphibious"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+  "name": "Multiattack"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
+  "name": "Bite"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+  "name": "Claw"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
+    \ The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature\
+    \ in that line must make a DC 15 Dexterity saving throw, taking 55 (dice: 10d10|avg\
+    \ (10d10)) lightning damage on a failed save, or half as much damage on a successful\
+    \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
+    \ cone. Each creature in that area must succeed on a DC 15 Strength saving throw.\
+    \ On a failed save, the creature is pushed 40 feet away from the dragon.  "
+  "name": "Breath Weapons (Recharge 5-6)"
+"source":
+- "MM"
+- "WDH"
+- "GoS"
+- "CM"
+"image": "6. Mechanics/Bestiary/Dragon/token/young-bronze-dragon.png"
 ```
 ^statblock
 

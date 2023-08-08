@@ -8,83 +8,7 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/fey
-statblock: true
-statblock-link: "#^statblock"
-"name": "Green Hag"
-"size": "Medium"
-"type": "fey"
-"alignment": "Neutral Evil"
-"ac": !!int "17"
-"hp": !!int "82"
-"hit_dice": "11d8 + 33"
-"stats":
-- !!int "18"
-- !!int "12"
-- !!int "16"
-- !!int "13"
-- !!int "14"
-- !!int "14"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
-  "Arcana": !!int "3"
-"senses": "darkvision 60 ft., passive Perception 14"
-"languages": "Common, Draconic, Sylvan"
-"cr": "3"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 12). She\
-    \ can innately cast the following spells, requiring no material components:\n\n\
-    At will: [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]],\
-    \ [[/6. Mechanics/Spells/vicious-mockery.md\|vicious mockery]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag can breathe air and water."
-  "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears\
-    \ the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight)\
-    \ check."
-  "name": "Mimicry"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
-  "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
-    \ illusion that makes her look like another creature of her general size and humanoid\
-    \ shape. The illusion ends if the hag takes a bonus action to end it or if she\
-    \ dies.\n\nThe changes wrought by this effect fail to hold up to physical inspection.\
-    \ For example, the hag could appear to have smooth skin, but someone touching\
-    \ her would feel her rough flesh. Otherwise, a creature must take an action to\
-    \ visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation)\
-    \ check to discern that the hag is disguised."
-  "name": "Illusory Appearance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ until she attacks or casts a spell, or until her [[6. Mechanics/Rules/status.md#concentration\|concentration]]\
-    \ ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell).\
-    \ While [[6. Mechanics/Rules/conditions.md#invisible\|invisible]], she leaves no physical\
-    \ evidence of her passage, so she can be tracked only by magic. Any equipment\
-    \ she wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]]\
-    \ with her."
-  "name": "Invisible Passage"
-"source":
-- "MM"
-- "ToA"
-- "GoS"
-- "IMR"
-- "EGW"
-- "MOT"
-- "TCE"
-- "CM"
-- "WBtW"
-- "JttRC"
-"image": "/compendium/bestiary/fey/token/green-hag.png"
-aliases: ["Green Hag"]
+statblock: inline
 ---
 # Green Hag
 *Source: Monster Manual p. 177, Tomb of Annihilation, Ghosts of Saltmarsh, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
@@ -147,65 +71,97 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> - 1st level (4 slots): [[/6. Mechanics/Spells/identify.md\|identify]], [[/6. Mechanics/Spells/ray-of-sickness.md\|ray of sickness]]  
-> - 2nd level (3 slots): [[/6. Mechanics/Spells/hold-person.md\|hold person]], [[/6. Mechanics/Spells/locate-object.md\|locate object]]  
-> - 3rd level (3 slots): [[/6. Mechanics/Spells/bestow-curse.md\|bestow curse]], [[/6. Mechanics/Spells/counterspell.md\|counterspell]], [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]  
-> - 4th level (3 slots): [[/6. Mechanics/Spells/phantasmal-killer.md\|phantasmal killer]], [[/6. Mechanics/Spells/polymorph.md\|polymorph]]  
-> - 5th level (2 slots): [[/6. Mechanics/Spells/contact-other-plane.md\|contact other plane]], [[/6. Mechanics/Spells/scrying.md\|scrying]]  
-> - 6th level (1 slot): [[/6. Mechanics/Spells/eyebite.md\|eyebite]]  
+> - 1st level (4 slots): [[/6. Mechanics/Spells/Identify.md|identify]], [[/6. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]  
+> - 2nd level (3 slots): [[/6. Mechanics/Spells/Hold Person.md|hold person]], [[/6. Mechanics/Spells/Locate Object.md|locate object]]  
+> - 3rd level (3 slots): [[/6. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/6. Mechanics/Spells/Counterspell.md|counterspell]], [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]  
+> - 4th level (3 slots): [[/6. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[/6. Mechanics/Spells/Polymorph.md|polymorph]]  
+> - 5th level (2 slots): [[/6. Mechanics/Spells/Contact Other Plane.md|contact other plane]], [[/6. Mechanics/Spells/Scrying.md|scrying]]  
+> - 6th level (1 slot): [[/6. Mechanics/Spells/Eyebite.md|eyebite]]  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[6. Mechanics/Rules/senses.md#darkvision\|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[6. Mechanics/Rules/conditions.md#blinded\|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[6. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[6. Mechanics/Rules/conditions.md#blinded\|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[6. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ## Stat Block
 
-```ad-statblock
-title: Green Hag
-![[/6. Mechanics/Bestiary/Fey/Token/green-hag.png#token]]
-*Medium fey, Neutral Evil*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** `dice: 11d8 + 33|text(82)` (11d8 + 33) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Common, Draconic, Sylvan
-- **Challenge** 3
-
-## Traits
-
-***Amphibious.*** The hag can breathe air and water.
-
-***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
-
-***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/dancing-lights.md\|dancing lights]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/vicious-mockery.md\|vicious mockery]]
-
-## Actions
-
-***Claws.*** *Melee Weapon Attack:* `dice: d20+6` (+6 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 4` (`2d8 + 4`) slashing damage.
-
-***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
-
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
-
-***Invisible Passage.*** The hag magically turns [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] until she attacks or casts a spell, or until her [[6. Mechanics/Rules/status.md#concentration\|concentration]] ends (as if [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell). While [[6. Mechanics/Rules/conditions.md#invisible\|invisible]], she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is [[6. Mechanics/Rules/conditions.md#invisible\|invisible]] with her.
-
-## _copy
-
-
+```statblock
+"name": "Green Hag"
+"size": "Medium"
+"type": "fey"
+"alignment": "Neutral Evil"
+"ac": !!int "17"
+"hp": !!int "82"
+"hit_dice": "11d8 + 33"
+"stats":
+- !!int "18"
+- !!int "12"
+- !!int "16"
+- !!int "13"
+- !!int "14"
+- !!int "14"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Deception": !!int "4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
+  "Arcana": !!int "3"
+"senses": "darkvision 60 ft., passive Perception 14"
+"languages": "Common, Draconic, Sylvan"
+"cr": "3"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 12). She\
+    \ can innately cast the following spells, requiring no material components:\n\n\
+    At will: [[/6. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[/6. Mechanics/Spells/Vicious Mockery.md|vicious mockery]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag can breathe air and water."
+  "name": "Amphibious"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears\
+    \ the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight)\
+    \ check."
+  "name": "Mimicry"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+  "name": "Claws"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
+    \ illusion that makes her look like another creature of her general size and humanoid\
+    \ shape. The illusion ends if the hag takes a bonus action to end it or if she\
+    \ dies.\n\nThe changes wrought by this effect fail to hold up to physical inspection.\
+    \ For example, the hag could appear to have smooth skin, but someone touching\
+    \ her would feel her rough flesh. Otherwise, a creature must take an action to\
+    \ visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation)\
+    \ check to discern that the hag is disguised."
+  "name": "Illusory Appearance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The hag magically turns [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until she attacks or casts a spell, or until her [[6. Mechanics/Rules/Status.md#concentration|concentration]]\
+    \ ends (as if [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
+    \ While [[6. Mechanics/Rules/Conditions.md#invisible|invisible]], she leaves no physical\
+    \ evidence of her passage, so she can be tracked only by magic. Any equipment\
+    \ she wears or carries is [[6. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ with her."
+  "name": "Invisible Passage"
+"source":
+- "MM"
+- "ToA"
+- "GoS"
+- "IMR"
+- "EGW"
+- "MOT"
+- "TCE"
+- "CM"
+- "WBtW"
+- "JttRC"
+"image": "6. Mechanics/Bestiary/Fey/token/green-hag.png"
 ```
 ^statblock
 

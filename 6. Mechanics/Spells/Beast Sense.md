@@ -19,8 +19,8 @@ aliases: ["Beast Sense"]
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
 
-You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are [[6. Mechanics/Rules/Conditions.md#blinded\|blinded]] and [[6. Mechanics/Rules/Conditions.md#deafened\|deafened]] to your own surroundings.
+You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are [[6. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[6. Mechanics/Rules/Conditions.md#deafened|deafened]] to your own surroundings.
 
-**Classes**: [[/6. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]], [[/6. Mechanics/Classes/Druid.md\|Druid]], [[/6. Mechanics/Classes/Ranger.md\|Ranger]]
+**Classes**: [[/6. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian (Path of the Totem Warrior)]], [[/6. Mechanics/Classes/Druid.md|Druid]], [[/6. Mechanics/Classes/Ranger.md|Ranger]]
 
 Source: Player's Handbook p. 217

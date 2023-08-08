@@ -9,87 +9,7 @@ tags:
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
-statblock: true
-statblock-link: "#^statblock"
-"name": "Yuan-ti Malison (Type 3)"
-"size": "Medium"
-"type": "monstrosity"
-"subtype": "shapechanger, yuan-ti"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "66"
-"hit_dice": "12d8 + 12"
-"stats":
-- !!int "16"
-- !!int "14"
-- !!int "13"
-- !!int "14"
-- !!int "12"
-- !!int "16"
-"speed": "walk 30 ft."
-"skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-"damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 11"
-"languages": "Abyssal, Common, Draconic"
-"cr": "3"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
-    \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] (snakes\
-    \ only)\n\n3/day: [[/6. Mechanics/Spells/suggestion.md\|suggestion]]"
-  "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
-    \ into its true form. Its statistics are the same in each form. Any equipment\
-    \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."
-  "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
-    \ effects."
-  "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has one of the following types:\n\n- Type 1. Human body\
-    \ with snake head  \n- Type 2. Human head and body with snakes for arms  \n\
-    - Type 3. Human head and upper body with a serpentine lower body instead of\
-    \ legs  "
-  "name": "Malison Type"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes two ranged attacks or two melee attacks, but can constrict\
-    \ only once."
-  "name": "Multiattack (Yuan-ti Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg (2d6)\
-    \ poison damage."
-  "name": "Bite (Snake Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]],\
-    \ and the yuan-ti can't constrict another target."
-  "name": "Constrict"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
-  "name": "Scimitar (Yuan-ti Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
-  "name": "Longbow (Yuan-ti Form Only)"
-"source":
-- "MM"
-- "HotDQ"
-- "RoT"
-- "SKT"
-- "ToA"
-- "CM"
-"image": "/compendium/bestiary/monstrosity/token/yuan-ti-malison-type-3.png"
-aliases: ["Yuan-ti Malison (Type 3)"]
+statblock: inline
 ---
 # Yuan-ti Malison (Type 3)
 *Source: Monster Manual p. 309, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Candlekeep Mysteries*  
@@ -140,57 +60,85 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ## Stat Block
 
-```ad-statblock
-title: Yuan-ti Malison (Type 3)
-![[/6. Mechanics/Bestiary/Monstrosity/Token/yuan-ti-malison-type-3.png#token]]
-*Medium monstrosity(shapechanger, yuan-ti), Neutral Evil*
-
-- **Armor Class** 12 
-- **Hit Points** `dice: 12d8 + 12|text(66)` (12d8 + 12) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** Deception +5, Stealth +4
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Languages** Abyssal, Common, Draconic
-- **Challenge** 3
-
-## Traits
-
-***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
-
-***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
-
-***Malison Type.*** The yuan-ti has one of the following types:
-
-- **Type 1.** Human body with snake head  
-- **Type 2.** Human head and body with snakes for arms  
-- **Type 3.** Human head and upper body with a serpentine lower body instead of legs  
-
-***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
-
-**At will**: [[/6. Mechanics/Spells/animal-friendship.md\|animal friendship]] (snakes only)
-
-**3/day**: [[/6. Mechanics/Spells/suggestion.md\|suggestion]]
-
-## Actions
-
-***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two ranged attacks or two melee attacks, but can constrict only once.
-
-***Bite (Snake Form Only).*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one creature. Hit: `dice: 1d4 + 3` (`1d4 + 3`) piercing damage plus `dice: 2d6` (`2d6`) poison damage.
-
-***Constrict.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) bludgeoning damage, and the target is [[6. Mechanics/Rules/conditions.md#grappled\|grappled]] (escape DC 13). Until this grapple ends, the target is [[6. Mechanics/Rules/conditions.md#restrained\|restrained]], and the yuan-ti can't constrict another target.
-
-***Scimitar (Yuan-ti Form Only).*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 1d6 + 3` (`1d6 + 3`) slashing damage.
-
-***Longbow (Yuan-ti Form Only).*** *Ranged Weapon Attack:* `dice: d20+4` (+4 to hit), range 150/600 ft., one target. Hit: `dice: 1d8 + 2` (`1d8 + 2`) piercing damage.
+```statblock
+"name": "Yuan-ti Malison (Type 3)"
+"size": "Medium"
+"type": "monstrosity"
+"subtype": "shapechanger, yuan-ti"
+"alignment": "Neutral Evil"
+"ac": !!int "12"
+"hp": !!int "66"
+"hit_dice": "12d8 + 12"
+"stats":
+- !!int "16"
+- !!int "14"
+- !!int "13"
+- !!int "14"
+- !!int "12"
+- !!int "16"
+"speed": "walk 30 ft."
+"skillsaves":
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
+"damage_immunities": "poison"
+"condition_immunities": "poisoned"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "Abyssal, Common, Draconic"
+"cr": "3"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
+    \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
+    \nAt will: [[/6. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n3/day: [[/6. Mechanics/Spells/Suggestion.md|suggestion]]"
+  "name": "innate"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
+    \ into its true form. Its statistics are the same in each form. Any equipment\
+    \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."
+  "name": "Shapechanger"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+    \ effects."
+  "name": "Magic Resistance"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti has one of the following types:\n\n- Type 1. Human body\
+    \ with snake head  \n- Type 2. Human head and body with snakes for arms  \n\
+    - Type 3. Human head and upper body with a serpentine lower body instead of\
+    \ legs  "
+  "name": "Malison Type"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The yuan-ti makes two ranged attacks or two melee attacks, but can constrict\
+    \ only once."
+  "name": "Multiattack (Yuan-ti Form Only)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg (2d6)\
+    \ poison damage."
+  "name": "Bite (Snake Form Only)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is [[6. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[6. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ and the yuan-ti can't constrict another target."
+  "name": "Constrict"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+  "name": "Scimitar (Yuan-ti Form Only)"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
+    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+  "name": "Longbow (Yuan-ti Form Only)"
+"source":
+- "MM"
+- "HotDQ"
+- "RoT"
+- "SKT"
+- "ToA"
+- "CM"
+"image": "6. Mechanics/Bestiary/Monstrosity/token/yuan-ti-malison-type-3.png"
 ```
 ^statblock
 

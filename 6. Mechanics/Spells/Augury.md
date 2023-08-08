@@ -33,6 +33,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative 25|||Random reading!|Regular reading% chance chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [[/6. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian (XGE).md\|Barbarian (Path of the Ancestral Guardian)]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Cleric.md\|Cleric]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[/6. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian (XGE).md|Barbarian (Path of the Ancestral Guardian)]], [[/6. Mechanics/Classes/Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[/6. Mechanics/Classes/Cleric.md|Cleric]], [[/6. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/6. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/6. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
 Source: Player's Handbook p. 215

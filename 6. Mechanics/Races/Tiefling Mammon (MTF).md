@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Infernal Legacy
 
-You know the [[/6. Mechanics/Spells/thaumaturgy.md\|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/6. Mechanics/Spells/hellish-rebuke.md\|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/6. Mechanics/Spells/darkness.md\|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/6. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/6. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/6. Mechanics/Spells/Darkness.md|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 
@@ -43,4 +43,4 @@ You can speak, read, and write Common and Infernal.
 
 ### Legacy of Minauros
 
-You know the [[/6. Mechanics/Spells/mage-hand.md\|mage hand]] cantrip. When you reach 3rd level, you can cast the [[/6. Mechanics/Spells/tensers-floating-disk.md\|Tenser's floating disk]] spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [[/6. Mechanics/Spells/arcane-lock.md\|arcane lock]] spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/6. Mechanics/Spells/Mage Hand.md|mage hand]] cantrip. When you reach 3rd level, you can cast the [[/6. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]] spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [[/6. Mechanics/Spells/Arcane Lock.md|arcane lock]] spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.

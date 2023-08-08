@@ -11,7 +11,7 @@ aliases: ["Masquerade Tattoo"]
 # Masquerade Tattoo
 *Wondrous Item, common (requires attunement)*  
 
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -29,6 +29,6 @@ As a bonus action, you can shape the tattoo into any color or pattern and move i
 
 ## Disguise Self
 
-As an action, you can use the tattoo to cast the [[/6. Mechanics/Spells/disguise-self.md\|disguise self]] spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
+As an action, you can use the tattoo to cast the [[/6. Mechanics/Spells/Disguise Self.md|disguise self]] spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 131*

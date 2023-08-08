@@ -13,11 +13,11 @@ aliases: ["Mace of Disruption"]
 *Melee Weapon, major, rare (requires attunement)*  
 
 - **Damage**: 1d6 B
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Requires%20Attunement\|Requires Attunement]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
-When you hit a fiend or an undead with this magic weapon, that creature takes an extra `dice: 2d6\|avg` (`2d6`) radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[6. Mechanics/Rules/conditions.md#frightened\|frightened]] of you until the end of your next turn.
+When you hit a fiend or an undead with this magic weapon, that creature takes an extra `dice: 2d6` (`2d6`) radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[6. Mechanics/Rules/Conditions.md#frightened|frightened]] of you until the end of your next turn.
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 

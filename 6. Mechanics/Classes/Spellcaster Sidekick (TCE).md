@@ -97,7 +97,7 @@ _1st-level Spellcaster feature_
 
 The sidekick gains proficiency in one saving throw of your choice: Wisdom, Intelligence, or Charisma.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [[6. Mechanics/Rules/skills.md#Arcana\|Arcana]], [[6. Mechanics/Rules/skills.md#History\|History]], [[6. Mechanics/Rules/skills.md#Insight\|Insight]], [[6. Mechanics/Rules/skills.md#Investigation\|Investigation]], [[6. Mechanics/Rules/skills.md#Medicine\|Medicine]], [[6. Mechanics/Rules/skills.md#Performance\|Performance]], [[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]], and [[6. Mechanics/Rules/skills.md#Religion\|Religion]].
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [[6. Mechanics/Rules/Skills.md#Arcana|Arcana]], [[6. Mechanics/Rules/Skills.md#History|History]], [[6. Mechanics/Rules/Skills.md#Insight|Insight]], [[6. Mechanics/Rules/Skills.md#Investigation|Investigation]], [[6. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[6. Mechanics/Rules/Skills.md#Performance|Performance]], [[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]], and [[6. Mechanics/Rules/Skills.md#Religion|Religion]].
 
 The sidekick gains proficiency with light armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons.
 
@@ -124,9 +124,9 @@ The Spellcaster table shows how many spell slots the sidekick has to cast its Sp
 
 The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-- **Mage.** [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]], [[/6. Mechanics/Spells/thunderwave.md\|thunderwave]]  
-- **Healer.** [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]], [[/6. Mechanics/Spells/guidance.md\|guidance]], [[/6. Mechanics/Spells/sacred-flame.md\|sacred flame]]  
-- **Prodigy.** [[/6. Mechanics/Spells/eldritch-blast.md\|eldritch blast]], [[/6. Mechanics/Spells/healing-word.md\|healing word]], [[/6. Mechanics/Spells/light.md\|light]]  
+- **Mage.** [[/6. Mechanics/Spells/Mage Hand.md|mage hand]], [[/6. Mechanics/Spells/Ray Of Frost.md|ray of frost]], [[/6. Mechanics/Spells/Thunderwave.md|thunderwave]]  
+- **Healer.** [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/6. Mechanics/Spells/Guidance.md|guidance]], [[/6. Mechanics/Spells/Sacred Flame.md|sacred flame]]  
+- **Prodigy.** [[/6. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], [[/6. Mechanics/Spells/Healing Word.md|healing word]], [[/6. Mechanics/Spells/Light.md|light]]  
 - The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
 - Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
 
@@ -190,4 +190,4 @@ At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increase
 
 _20th-level Spellcaster feature_
 
-Taking damage can't break the sidekick's [[6. Mechanics/Rules/status.md#concentration\|concentration]] on a spell.
+Taking damage can't break the sidekick's [[6. Mechanics/Rules/Status.md#concentration|concentration]] on a spell.

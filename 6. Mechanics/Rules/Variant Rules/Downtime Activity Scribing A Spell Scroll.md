@@ -12,7 +12,7 @@ With time and patience, a spellcaster can transfer a spell to a scroll, creating
 
 ### Resources
 
-Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the [[6. Mechanics/Rules/Skills.md#Arcana\|Arcana]] skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.
+Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the [[6. Mechanics/Rules/Skills.md#Arcana|Arcana]] skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 

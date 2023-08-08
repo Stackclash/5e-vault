@@ -14,6 +14,6 @@ aliases: ["Potion of Diminution"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-When you drink this potion, you gain the "reduce" effect of the [enlarge/reduce](/compendium/spells/enlarge-reduce.md) spell for `dice: 1d4\|avg` (`1d4`) hours (no [[6. Mechanics/Rules/status.md#concentration\|concentration]] required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
+When you drink this potion, you gain the "reduce" effect of the [enlarge/reduce](/compendium/spells/enlarge-reduce.md) spell for `dice: 1d4` (`1d4`) hours (no [[6. Mechanics/Rules/Status.md#concentration|concentration]] required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
 
 *Source: Dungeon Master's Guide p. 187*

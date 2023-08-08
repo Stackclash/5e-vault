@@ -39,7 +39,7 @@ As an action, you can touch a creature and cause it to regain a number of hit po
 
 ### Light Bearer
 
-You know the [[/6. Mechanics/Spells/light.md\|light]] cantrip. Charisma is your spellcasting ability for it.
+You know the [[/6. Mechanics/Spells/Light.md|light]] cantrip. Charisma is your spellcasting ability for it.
 
 ### Languages
 

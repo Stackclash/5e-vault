@@ -21,23 +21,23 @@ Monks of the Way of the Sun Soul learn to channel their life energy into searing
 
 Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
 
-You gain a new attack option that you can use with the Attack action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `dice: d4\|avg` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+You gain a new attack option that you can use with the Attack action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a `dice: d4` (`d4`). This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 
 When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
 
 ### Searing Arc Strike (Level 6)
 
-At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the [[/6. Mechanics/Spells/burning-hands.md\|burning hands]] spell as a bonus action.
+At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the [[/6. Mechanics/Spells/Burning Hands.md|burning hands]] spell as a bonus action.
 
-You can spend additional ki points to cast [[/6. Mechanics/Spells/burning-hands.md\|burning hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+You can spend additional ki points to cast [[/6. Mechanics/Spells/Burning Hands.md|burning hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
 
 ### Searing Sunburst (Level 11)
 
 At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.
 
-Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take `dice: 2d6\|avg` (`2d6`) radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
+Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take `dice: 2d6` (`2d6`) radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
 
-You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by `dice: 2d6\|avg` (`2d6`).
+You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by `dice: 2d6` (`2d6`).
 
 ### Sun Shield (Level 17)
 

@@ -28,16 +28,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/6. Mechanics/Spells/command.md\|command]], [[/6. Mechanics/Spells/heroism.md\|heroism]] |
-| 3rd | [[/6. Mechanics/Spells/hold-person.md\|hold person]], [[/6. Mechanics/Spells/zone-of-truth.md\|zone of truth]] |
-| 5th | [[/6. Mechanics/Spells/mass-healing-word.md\|mass healing word]], [[/6. Mechanics/Spells/slow.md\|slow]] |
-| 7th | [[/6. Mechanics/Spells/compulsion.md\|compulsion]], [[/6. Mechanics/Spells/locate-creature.md\|locate creature]] |
-| 9th | [[/6. Mechanics/Spells/commune.md\|commune]], [[/6. Mechanics/Spells/dominate-person.md\|dominate person]] |
+| 1st | [[/6. Mechanics/Spells/Command.md|command]], [[/6. Mechanics/Spells/Heroism.md|heroism]] |
+| 3rd | [[/6. Mechanics/Spells/Hold Person.md|hold person]], [[/6. Mechanics/Spells/Zone Of Truth.md|zone of truth]] |
+| 5th | [[/6. Mechanics/Spells/Mass Healing Word.md|mass healing word]], [[/6. Mechanics/Spells/Slow.md|slow]] |
+| 7th | [[/6. Mechanics/Spells/Compulsion.md|compulsion]], [[/6. Mechanics/Spells/Locate Creature.md|locate creature]] |
+| 9th | [[/6. Mechanics/Spells/Commune.md|commune]], [[/6. Mechanics/Spells/Dominate Person.md|dominate person]] |
 ^order-domain-spells
 
 ### Bonus Proficiencies (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [[6. Mechanics/Rules/skills.md#Intimidation\|Intimidation]] or [[6. Mechanics/Rules/skills.md#Persuasion\|Persuasion]] skill (your choice).
+When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [[6. Mechanics/Rules/Skills.md#Intimidation|Intimidation]] or [[6. Mechanics/Rules/Skills.md#Persuasion|Persuasion]] skill (your choice).
 
 ### Voice of Authority (Level 1)
 
@@ -49,7 +49,7 @@ If the spell targets more than one ally, you choose the ally who can make the at
 
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
-As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] by you until the end of your next turn or until the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] creature takes any damage. You can also cause any of the [[6. Mechanics/Rules/conditions.md#charmed\|charmed]] creatures to drop what they are holding when they fail the saving throw.
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] by you until the end of your next turn or until the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] creature takes any damage. You can also cause any of the [[6. Mechanics/Rules/Conditions.md#charmed|charmed]] creatures to drop what they are holding when they fail the saving throw.
 
 ### Embodiment of the Law (Level 6)
 
@@ -61,14 +61,14 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8\|avg` (`1d8`) psychic damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8\|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) psychic damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 
 _8th-level cleric optional class features, which replaces the Divine Strike feature_
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8\|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Order's Wrath (Level 17)
 
-Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes `dice: 2d8\|avg` (`2d8`) psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
+Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes `dice: 2d8` (`2d8`) psychic damage, and the curse ends. You can curse a creature in this way only once per turn.

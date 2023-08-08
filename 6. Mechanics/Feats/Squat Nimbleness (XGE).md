@@ -13,5 +13,5 @@ aliases: ["Squat Nimbleness"]
 You are uncommonly nimble for your race. You gain the following benefits:
 
 - Increase your walking speed by 5 feet.  
-- You gain proficiency in the [[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]] or [[6. Mechanics/Rules/skills.md#Athletics\|Athletics]] skill (your choice).  
-- You have advantage on any Strength ([[6. Mechanics/Rules/skills.md#Athletics\|Athletics]]) or Dexterity ([[6. Mechanics/Rules/skills.md#Acrobatics\|Acrobatics]]) check you make to escape from being [[6. Mechanics/Rules/conditions.md#grappled\|grappled]].
+- You gain proficiency in the [[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]] or [[6. Mechanics/Rules/Skills.md#Athletics|Athletics]] skill (your choice).  
+- You have advantage on any Strength ([[6. Mechanics/Rules/Skills.md#Athletics|Athletics]]) or Dexterity ([[6. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check you make to escape from being [[6. Mechanics/Rules/Conditions.md#grappled|grappled]].

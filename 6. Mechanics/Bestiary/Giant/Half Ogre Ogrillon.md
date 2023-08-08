@@ -12,48 +12,7 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/giant
-statblock: true
-statblock-link: "#^statblock"
-"name": "Half-Ogre (Ogrillon)"
-"size": "Large"
-"type": "giant"
-"alignment": "Any Chaotic alignment"
-"ac": !!int "12"
-"hp": !!int "30"
-"hit_dice": "4d10 + 8"
-"stats":
-- !!int "17"
-- !!int "10"
-- !!int "14"
-- !!int "7"
-- !!int "9"
-- !!int "10"
-"speed": "walk 30 ft."
-"senses": "darkvision 60 ft., passive Perception 9"
-"languages": "Common, Giant"
-"cr": "1"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage, or 14 (dice: 2d10 + 3|avg\
-    \ (2d10 + 3)) slashing damage if used with two hands."
-  "name": "Battleaxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing\
-    \ damage."
-  "name": "Javelin"
-"source":
-- "MM"
-- "PotA"
-- "SKT"
-- "WDH"
-- "BGDIA"
-- "ERLW"
-- "IDRotF"
-- "DSotDQ"
-"image": "/compendium/bestiary/giant/token/half-ogre-ogrillon.png"
-aliases: ["Half-Ogre (Ogrillon)"]
+statblock: inline
 ---
 # Half-Ogre (Ogrillon)
 *Source: Monster Manual p. 238, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  
@@ -100,31 +59,46 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 
 ## Stat Block
 
-```ad-statblock
-title: Half-Ogre (Ogrillon)
-![[/6. Mechanics/Bestiary/Giant/Token/half-ogre-ogrillon.png#token]]
-*Large giant, Any Chaotic alignment*
-
-- **Armor Class** 12 ([[/6. Mechanics/Items/hide-armor.md\|hide armor]])
-- **Hit Points** `dice: 4d10 + 8|text(30)` (4d10 + 8) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|10 (+0)|14 (+2)| 7 (-2)| 9 (-1)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** Common, Giant
-- **Challenge** 1
-
-## Actions
-
-***Battleaxe.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft., one target. Hit: `dice: 2d8 + 3` (`2d8 + 3`) slashing damage, or 14 (`dice: 2d10 + 3` (`2d10 + 3`)) slashing damage if used with two hands.
-
-***Javelin.*** *Melee or Ranged Weapon Attack:* `dice: d20+5` (+5 to hit), reach 5 ft. or range 30/120 ft., one target. Hit: `dice: 2d6 + 3` (`2d6 + 3`) piercing damage.
+```statblock
+"name": "Half-Ogre (Ogrillon)"
+"size": "Large"
+"type": "giant"
+"alignment": "Any Chaotic alignment"
+"ac": !!int "12"
+"hp": !!int "30"
+"hit_dice": "4d10 + 8"
+"stats":
+- !!int "17"
+- !!int "10"
+- !!int "14"
+- !!int "7"
+- !!int "9"
+- !!int "10"
+"speed": "walk 30 ft."
+"senses": "darkvision 60 ft., passive Perception 9"
+"languages": "Common, Giant"
+"cr": "1"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage, or 14 (dice: 2d10 + 3|avg\
+    \ (2d10 + 3)) slashing damage if used with two hands."
+  "name": "Battleaxe"
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing\
+    \ damage."
+  "name": "Javelin"
+"source":
+- "MM"
+- "PotA"
+- "SKT"
+- "WDH"
+- "BGDIA"
+- "ERLW"
+- "IDRotF"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Giant/token/half-ogre-ogrillon.png"
 ```
 ^statblock
 

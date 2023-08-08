@@ -10,7 +10,7 @@ Ravenloft is a place where your nightmares can run wild, where anything you can 
 
 This chapter explores how to create such domains, a process that starts by defining a Darklord—the villain at the heart of each sinister realm. Descriptions of various genres of horror also provide details to guide and inspire your creations.
 
-![[/5. World Almanac/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.jpg#center\|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
+![[/5. World Almanac/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.jpg#center|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
 
 ## Creating a Darklord
 
@@ -162,7 +162,7 @@ In every domain, instruments of suffering from the Darklord's past ensure their 
 - **Shocking Reminders.** The domain is drowning in symbolic reminders of the Darklord's inadequacies. When symbolism is too subtle, the literal specters from the Darklord's past return to haunt them.  
 - **Unpleasant Hope.** The Darklord's desire—commonly their bond—is present and obvious, but still unattainable. This instills hope in the Darklord that they are unable to deny, resist, or ignore. Furthermore, they are overcome by their desire's presence, spurring them to act irrationally.  
 
-![[/5. World Almanac/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.png#center\|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
+![[/5. World Almanac/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.png#center|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
 
 ### Domain Overview
 
@@ -300,18 +300,18 @@ A variety of monsters can be used without modification. This includes all manner
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1 | [[/6. Mechanics/Bestiary/Construct/Carrionette (VRGR).md\|Carrionette]] | VGR |
-| 2 | [[/6. Mechanics/Bestiary/Aberration/Gibbering Mouther.md\|Gibbering mouther]] | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Monstrosity/Carrion Stalker (VRGR).md\|Carrion stalker]] | VGR |
-| 3 | [[/6. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|Doppelganger]] | "MM" |
-| 4 | [[/6. Mechanics/Bestiary/Ooze/Black Pudding.md\|Black pudding]] | "MM" |
-| 4 | [[/6. Mechanics/Bestiary/Monstrosity/Strigoi (VRGR).md\|Strigoi]] | VGR |
-| 5 | [[/6. Mechanics/Bestiary/Construct/Flesh Golem.md\|Flesh golem]] | "MM" |
-| 5 | [[/6. Mechanics/Bestiary/Aberration/Red Slaad.md\|Red slaad]] | "MM" |
+| 1 | [[/6. Mechanics/Bestiary/Construct/Carrionette (VRGR).md|Carrionette]] | VGR |
+| 2 | [[/6. Mechanics/Bestiary/Aberration/Gibbering Mouther.md|Gibbering mouther]] | "MM" |
+| 3 | [[/6. Mechanics/Bestiary/Monstrosity/Carrion Stalker (VRGR).md|Carrion stalker]] | VGR |
+| 3 | [[/6. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]] | "MM" |
+| 4 | [[/6. Mechanics/Bestiary/Ooze/Black Pudding.md|Black pudding]] | "MM" |
+| 4 | [[/6. Mechanics/Bestiary/Monstrosity/Strigoi (VRGR).md|Strigoi]] | VGR |
+| 5 | [[/6. Mechanics/Bestiary/Construct/Flesh Golem.md|Flesh golem]] | "MM" |
+| 5 | [[/6. Mechanics/Bestiary/Aberration/Red Slaad.md|Red slaad]] | "MM" |
 | 6 | Medusa | "MM" |
-| 6 | [[/6. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md\|Zombie clot]] | VGR |
-| 8 | [[/6. Mechanics/Bestiary/Fiend/Chain Devil.md\|Chain devil]] | "MM" |
-| 10 | [[/6. Mechanics/Bestiary/Aberration/Aboleth.md\|Aboleth]] | "MM" |
+| 6 | [[/6. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|Zombie clot]] | VGR |
+| 8 | [[/6. Mechanics/Bestiary/Fiend/Chain Devil.md|Chain devil]] | "MM" |
+| 10 | [[/6. Mechanics/Bestiary/Aberration/Aboleth.md|Aboleth]] | "MM" |
 ^body-horror-monsters
 
 #### Body Horror Villains
@@ -434,21 +434,21 @@ Monsters that work well in cosmic horror adventures enact change on their unwill
 | Challenge | Creature | Source |
 |-----------|----------|--------|
 | 1/4 | [Kuo-toa](/compendium/bestiary/humanoid/kuo-toa.md) | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Aberration/Intellect Devourer.md\|Intellect devourer]] | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Construct/Pentadrone.md\|Pentadrone]] | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md\|Brain in a jar]] | VGR |
-| 3 | [[/6. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md\|Githyanki warrior]] | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Aberration/Grell.md\|Grell]] | "MM" |
-| 5 | [[/6. Mechanics/Bestiary/Undead/Vampiric Mind Flayer (VRGR).md\|Vampiric mind flayer]] | VGR |
-| 7 | [[/6. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md\|Bodytaker plant]] | VGR |
-| 7 | [[/6. Mechanics/Bestiary/Aberration/Mind Flayer.md\|Mind flayer]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Aberration/Intellect Devourer.md|Intellect devourer]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Construct/Pentadrone.md|Pentadrone]] | "MM" |
+| 3 | [[/6. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md|Brain in a jar]] | VGR |
+| 3 | [[/6. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|Githyanki warrior]] | "MM" |
+| 3 | [[/6. Mechanics/Bestiary/Aberration/Grell.md|Grell]] | "MM" |
+| 5 | [[/6. Mechanics/Bestiary/Undead/Vampiric Mind Flayer (VRGR).md|Vampiric mind flayer]] | VGR |
+| 7 | [[/6. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md|Bodytaker plant]] | VGR |
+| 7 | [[/6. Mechanics/Bestiary/Aberration/Mind Flayer.md|Mind flayer]] | "MM" |
 | 7 | [Yuan-ti abomination](/compendium/bestiary/monstrosity/yuan-ti-abomination.md) | "MM" |
-| 8 | [[/6. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md\|Unspeakable horror]] | VGR |
-| 10 | [[/6. Mechanics/Bestiary/Aberration/Aboleth.md\|Aboleth]] | "MM" |
-| 13 | [[/6. Mechanics/Bestiary/Aberration/Beholder.md\|Beholder]] | "MM" |
-| 19 | [[/6. Mechanics/Bestiary/Aberration/Lesser Star Spawn Emissary (VRGR).md\|Lesser star spawn emissary]] | VGR |
-| 21 | [[/6. Mechanics/Bestiary/Aberration/Greater Star Spawn Emissary (VRGR).md\|Greater star spawn emissary]] | VGR |
-| 23 | [[/6. Mechanics/Bestiary/Monstrosity/Kraken.md\|Kraken]] | "MM" |
+| 8 | [[/6. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md|Unspeakable horror]] | VGR |
+| 10 | [[/6. Mechanics/Bestiary/Aberration/Aboleth.md|Aboleth]] | "MM" |
+| 13 | [[/6. Mechanics/Bestiary/Aberration/Beholder.md|Beholder]] | "MM" |
+| 19 | [[/6. Mechanics/Bestiary/Aberration/Lesser Star Spawn Emissary (VRGR).md|Lesser star spawn emissary]] | VGR |
+| 21 | [[/6. Mechanics/Bestiary/Aberration/Greater Star Spawn Emissary (VRGR).md|Greater star spawn emissary]] | VGR |
+| 23 | [[/6. Mechanics/Bestiary/Monstrosity/Kraken.md|Kraken]] | "MM" |
 ^cosmic-horror-monsters
 
 #### Cosmic Horror Villains
@@ -565,22 +565,22 @@ Any monster can find a place in a dark fantasy plot. D&D's most iconic threats�
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1/8 | [[/6. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md\|Gremishka]] | VGR |
-| 1/4 | [[/6. Mechanics/Bestiary/Humanoid/Goblin.md\|Goblin]] | "MM" |
-| 1/4 | [[/6. Mechanics/Bestiary/Fey/Sprite.md\|Sprite]] | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Monstrosity/Displacer Beast.md\|Displacer beast]] | "MM" |
-| 4 | [[/6. Mechanics/Bestiary/Fiend/Shadow Demon.md\|Shadow demon]] | "MM" |
-| 5 | [[/6. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|Umber hulk]] | "MM" |
-| 6 | [[/6. Mechanics/Bestiary/Monstrosity/Drider.md\|Drider]] | "MM" |
-| 7 | [[/6. Mechanics/Bestiary/Undead/Necrichor (VRGR).md\|Necrichor]] | VGR |
-| 8 | [[/6. Mechanics/Bestiary/Giant/Fomorian.md\|Fomorian]] | "MM" |
-| 8 | [[/6. Mechanics/Bestiary/Humanoid/Inquisitor Of The Mind Fire (VRGR).md\|Inquisitor of the Mind Fire]] | VGR |
-| 10 | [[/6. Mechanics/Bestiary/Fiend/Yochlol.md\|Yochlol]] | "MM" |
-| 13 | [[/6. Mechanics/Bestiary/Aberration/Beholder.md\|Beholder]] | "MM" |
-| 15 | [[/6. Mechanics/Bestiary/Monstrosity/Purple Worm.md\|Purple worm]] | "MM" |
-| 17 | [[/6. Mechanics/Bestiary/Undead/Death Knight.md\|Death knight]] | "MM" |
-| 17 | [[/6. Mechanics/Bestiary/Undead/Adult Blue Dracolich.md\|Adult blue dracolich]] | "MM" |
-| 21 | [[/6. Mechanics/Bestiary/Undead/Lich.md\|Lich]] | "MM" |
+| 1/8 | [[/6. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md|Gremishka]] | VGR |
+| 1/4 | [[/6. Mechanics/Bestiary/Humanoid/Goblin.md|Goblin]] | "MM" |
+| 1/4 | [[/6. Mechanics/Bestiary/Fey/Sprite.md|Sprite]] | "MM" |
+| 3 | [[/6. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|Displacer beast]] | "MM" |
+| 4 | [[/6. Mechanics/Bestiary/Fiend/Shadow Demon.md|Shadow demon]] | "MM" |
+| 5 | [[/6. Mechanics/Bestiary/Monstrosity/Umber Hulk.md|Umber hulk]] | "MM" |
+| 6 | [[/6. Mechanics/Bestiary/Monstrosity/Drider.md|Drider]] | "MM" |
+| 7 | [[/6. Mechanics/Bestiary/Undead/Necrichor (VRGR).md|Necrichor]] | VGR |
+| 8 | [[/6. Mechanics/Bestiary/Giant/Fomorian.md|Fomorian]] | "MM" |
+| 8 | [[/6. Mechanics/Bestiary/Humanoid/Inquisitor Of The Mind Fire (VRGR).md|Inquisitor of the Mind Fire]] | VGR |
+| 10 | [[/6. Mechanics/Bestiary/Fiend/Yochlol.md|Yochlol]] | "MM" |
+| 13 | [[/6. Mechanics/Bestiary/Aberration/Beholder.md|Beholder]] | "MM" |
+| 15 | [[/6. Mechanics/Bestiary/Monstrosity/Purple Worm.md|Purple worm]] | "MM" |
+| 17 | [[/6. Mechanics/Bestiary/Undead/Death Knight.md|Death knight]] | "MM" |
+| 17 | [[/6. Mechanics/Bestiary/Undead/Adult Blue Dracolich.md|Adult blue dracolich]] | "MM" |
+| 21 | [[/6. Mechanics/Bestiary/Undead/Lich.md|Lich]] | "MM" |
 ^dark-fantasy-monsters
 
 #### Dark Fantasy Villains
@@ -653,7 +653,7 @@ Evil is entrenched and effective in dark fantasy domains, truths reflected by gr
 | 4 | A criminal consortium's lavish sewer-academy, where recruits are transformed to be perfectly suited to enacting one near-impossible heist |
 | 5 | The fractured mind-scape of a powerful but dormant sentient weapon |
 | 6 | A massive construct-cathedral built to exact the ultimate expression of faith and sacrifice |
-| 7 | A palace where the nonhumanoid inhabitants purposefully [[6. Mechanics/Rules/Conditions.md#petrified\|petrified]] themselves |
+| 7 | A palace where the nonhumanoid inhabitants purposefully [[6. Mechanics/Rules/Conditions.md#petrified|petrified]] themselves |
 | 8 | A fortress with seven locked gates that seal off the underworld |
 ^dark-fantasy-adventure-sites
 
@@ -707,15 +707,15 @@ Any monster might feature in your folk horror domains. It's acceptance of such c
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1/2 | [[/6. Mechanics/Bestiary/Plant/Myconid Adult.md\|Myconid adult]] | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Plant/Awakened Tree.md\|Awakened tree]] | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|Cult fanatic]] | "MM" |
+| 1/2 | [[/6. Mechanics/Bestiary/Plant/Myconid Adult.md|Myconid adult]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Plant/Awakened Tree.md|Awakened tree]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Humanoid/Cult Fanatic.md|Cult fanatic]] | "MM" |
 | 2 | [Will-o'-wisp](/compendium/bestiary/undead/will-o-wisp.md) | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Fey/Green Hag.md\|Green hag]] | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Humanoid/Werewolf.md\|Werewolf]] | "MM" |
-| 5 | [[/6. Mechanics/Bestiary/Plant/Shambling Mound.md\|Shambling mound]] | "MM" |
-| 7 | [[/6. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md\|Bodytaker plant]] | VGR |
-| 9 | [[/6. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md\|Jiangshi]] | VGR |
+| 3 | [[/6. Mechanics/Bestiary/Fey/Green Hag.md|Green hag]] | "MM" |
+| 3 | [[/6. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]] | "MM" |
+| 5 | [[/6. Mechanics/Bestiary/Plant/Shambling Mound.md|Shambling mound]] | "MM" |
+| 7 | [[/6. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md|Bodytaker plant]] | VGR |
+| 9 | [[/6. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|Jiangshi]] | VGR |
 ^folk-horror-monsters
 
 #### Folk Horror Villains
@@ -826,17 +826,17 @@ Any creature that embodies or serves as a response to past injustices or tragedi
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1/2 | [[/6. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md\|Death's head]] | VGR |
-| 1 | [[/6. Mechanics/Bestiary/Construct/Animated Armor.md\|Animated armor]] | "MM" |
-| 1 | [[/6. Mechanics/Bestiary/Monstrosity/Death Dog.md\|Death dog]] | "MM" |
-| 1 | [[/6. Mechanics/Bestiary/Construct/Scarecrow.md\|Scarecrow]] | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Undead/Specter.md\|Specter]] ([[/6. Mechanics/Bestiary/Undead/Poltergeist.md\|poltergeist]]) | "MM" |
-| 4 | [[/6. Mechanics/Bestiary/Undead/Banshee.md\|Banshee]] | "MM" |
-| 4 | [[/6. Mechanics/Bestiary/Undead/Ghost.md\|Ghost]] | "MM" |
-| 5 | [[/6. Mechanics/Bestiary/Undead/Revenant.md\|Revenant]] | "MM" |
-| 6 | [[/6. Mechanics/Bestiary/Undead/Gallows Speaker (VRGR).md\|Gallow speaker]] | VGR |
-| 9 | [[/6. Mechanics/Bestiary/Plant/Treant.md\|Treant]] | "MM" |
-| 10 | [[/6. Mechanics/Bestiary/Undead/Dullahan (VRGR).md\|Dullahan]] | VGR |
+| 1/2 | [[/6. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|Death's head]] | VGR |
+| 1 | [[/6. Mechanics/Bestiary/Construct/Animated Armor.md|Animated armor]] | "MM" |
+| 1 | [[/6. Mechanics/Bestiary/Monstrosity/Death Dog.md|Death dog]] | "MM" |
+| 1 | [[/6. Mechanics/Bestiary/Construct/Scarecrow.md|Scarecrow]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Undead/Specter.md|Specter]] ([[/6. Mechanics/Bestiary/Undead/Poltergeist.md|poltergeist]]) | "MM" |
+| 4 | [[/6. Mechanics/Bestiary/Undead/Banshee.md|Banshee]] | "MM" |
+| 4 | [[/6. Mechanics/Bestiary/Undead/Ghost.md|Ghost]] | "MM" |
+| 5 | [[/6. Mechanics/Bestiary/Undead/Revenant.md|Revenant]] | "MM" |
+| 6 | [[/6. Mechanics/Bestiary/Undead/Gallows Speaker (VRGR).md|Gallow speaker]] | VGR |
+| 9 | [[/6. Mechanics/Bestiary/Plant/Treant.md|Treant]] | "MM" |
+| 10 | [[/6. Mechanics/Bestiary/Undead/Dullahan (VRGR).md|Dullahan]] | VGR |
 ^ghost-story-monsters
 
 #### Ghost Story Villains
@@ -953,17 +953,17 @@ Creatures imbued with tragedy or abominable origins work well in gothic horror a
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1/4 | [[/6. Mechanics/Bestiary/Undead/Zombie.md\|Zombie]] | "MM" |
-| 1 | [[/6. Mechanics/Bestiary/Undead/Ghoul.md\|Ghoul]] | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Elemental/Gargoyle.md\|Gargoyle]] | "MM" |
-| 2 | [[/6. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|Wereraven]] | VGR |
-| 3 | [[/6. Mechanics/Bestiary/Fey/Green Hag.md\|Green hag]] | "MM" |
-| 3 | [[/6. Mechanics/Bestiary/Humanoid/Werewolf.md\|Werewolf]] | "MM" |
-| 4 | [[/6. Mechanics/Bestiary/Fiend/Succubus.md\|Succubus]]/ [[/6. Mechanics/Bestiary/Fiend/Incubus.md\|incubus]] | "MM" |
-| 8 | [[/6. Mechanics/Bestiary/Undead/Nosferatu (VRGR).md\|Nosferatu]] | VGR |
-| 11 | [[/6. Mechanics/Bestiary/Elemental/Efreeti.md\|Efreeti]] | "MM" |
-| 13 | [[/6. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|Loup garou]] | VGR |
-| 13 | [[/6. Mechanics/Bestiary/Undead/Vampire.md\|Vampire]] | "MM" |
+| 1/4 | [[/6. Mechanics/Bestiary/Undead/Zombie.md|Zombie]] | "MM" |
+| 1 | [[/6. Mechanics/Bestiary/Undead/Ghoul.md|Ghoul]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Elemental/Gargoyle.md|Gargoyle]] | "MM" |
+| 2 | [[/6. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]] | VGR |
+| 3 | [[/6. Mechanics/Bestiary/Fey/Green Hag.md|Green hag]] | "MM" |
+| 3 | [[/6. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]] | "MM" |
+| 4 | [[/6. Mechanics/Bestiary/Fiend/Succubus.md|Succubus]]/ [[/6. Mechanics/Bestiary/Fiend/Incubus.md|incubus]] | "MM" |
+| 8 | [[/6. Mechanics/Bestiary/Undead/Nosferatu (VRGR).md|Nosferatu]] | VGR |
+| 11 | [[/6. Mechanics/Bestiary/Elemental/Efreeti.md|Efreeti]] | "MM" |
+| 13 | [[/6. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md|Loup garou]] | VGR |
+| 13 | [[/6. Mechanics/Bestiary/Undead/Vampire.md|Vampire]] | "MM" |
 ^gothic-horror-monsters
 
 #### Gothic Horror Villains

@@ -31,24 +31,24 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 | Affinity | Spell |
 |----------|-------|
-| Good | [[/6. Mechanics/Spells/cure-wounds.md\|cure wounds]] |
-| Evil | [[/6. Mechanics/Spells/inflict-wounds.md\|inflict wounds]] |
-| Law | [[/6. Mechanics/Spells/bless.md\|bless]] |
-| Chaos | [[/6. Mechanics/Spells/bane.md\|bane]] |
-| Neutrality | [[/6. Mechanics/Spells/protection-from-evil-and-good.md\|protection from evil and good]] |
+| Good | [[/6. Mechanics/Spells/Cure Wounds.md|cure wounds]] |
+| Evil | [[/6. Mechanics/Spells/Inflict Wounds.md|inflict wounds]] |
+| Law | [[/6. Mechanics/Spells/Bless.md|bless]] |
+| Chaos | [[/6. Mechanics/Spells/Bane.md|bane]] |
+| Neutrality | [[/6. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]] |
 ^affinity-spell
 
 ### Favored by the Gods (Level 1)
 
-Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice: 2d4\|avg` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
+Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice: 2d4` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Empowered Healing (Level 6)
 
-Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]]. You can use this feature only once per turn.
+Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. You can use this feature only once per turn.
 
 ### Otherworldly Wings (Level 14)
 
-Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're [[6. Mechanics/Rules/conditions.md#incapacitated\|incapacitated]], you die, or you dismiss them as a bonus action.
+Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're [[6. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], you die, or you dismiss them as a bonus action.
 
 The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
 

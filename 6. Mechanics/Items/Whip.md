@@ -13,7 +13,7 @@ aliases: ["Whip"]
 *Melee Weapon*  
 
 - **Damage**: 1d4 S
-- **Properties**: [[6. Mechanics/Rules/item-properties.md#Finesse\|Finesse]], [[6. Mechanics/Rules/item-properties.md#Martial\|Martial]], [[6. Mechanics/Rules/item-properties.md#Reach\|Reach]]
+- **Properties**: [[6. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[6. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[6. Mechanics/Rules/Item Properties.md#Reach|Reach]]
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
 

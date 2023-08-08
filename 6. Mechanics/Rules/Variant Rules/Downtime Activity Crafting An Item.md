@@ -20,10 +20,10 @@ A character needs to be proficient with the tools needed to craft an item and ha
 
 | Proficiency | Items |
 |-------------|-------|
-| [[/6. Mechanics/Items/Herbalism Kit.md\|Herbalism kit]] | Antitoxin, [[/6. Mechanics/Items/Potion Of Healing.md\|potion of healing]] |
-| [[/6. Mechanics/Items/Leatherworkers Tools.md\|Leatherworker's tools]] | Leather armor, boots |
-| [[/6. Mechanics/Items/Smiths Tools.md\|Smith's tools]] | Armor, weapons |
-| [[/6. Mechanics/Items/Weavers Tools.md\|Weaver's tools]] | Cloaks, robes |
+| [[/6. Mechanics/Items/Herbalism Kit.md|Herbalism kit]] | Antitoxin, [[/6. Mechanics/Items/Potion Of Healing.md|potion of healing]] |
+| [[/6. Mechanics/Items/Leatherworkers Tools.md|Leatherworker's tools]] | Leather armor, boots |
+| [[/6. Mechanics/Items/Smiths Tools.md|Smith's tools]] | Armor, weapons |
+| [[/6. Mechanics/Items/Weavers Tools.md|Weaver's tools]] | Cloaks, robes |
 ^proficiency-items
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
@@ -51,7 +51,7 @@ The Magic Item Ingredients table suggests the challenge rating of a creature tha
 | Legendary | 19+ |
 ^magic-item-ingredients
 
-If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating mariner's armor might require the essence of a water weird. Crafting a [[/6. Mechanics/Items/Staff Of Charming.md\|staff of charming]] might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [[/6. Mechanics/Items/Staff Of Power.md\|staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
+If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating mariner's armor might require the essence of a water weird. Crafting a [[/6. Mechanics/Items/Staff Of Charming.md|staff of charming]] might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [[/6. Mechanics/Items/Staff Of Power.md|staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
@@ -66,7 +66,7 @@ In addition to facing a specific creature, creating an item comes with a gold pi
 | Legendary | 50 | 100,000 gp |
 ^magic-item-crafting-time-and-cost
 
-To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[6. Mechanics/Rules/Skills.md#Arcana\|Arcana]] skill.
+To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[6. Mechanics/Rules/Skills.md#Arcana|Arcana]] skill.
 
 If all the above requirements are met, the result of the process is a magic item of the desired sort.
 
@@ -88,7 +88,7 @@ Most of the complications involved in creating something, especially a magic ite
 
 ### Brewing Potions of Healing
 
-Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [[/6. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] can create these potions. The times and costs for doing so are summarized on the [[/6. Mechanics/Items/Potion Of Healing.md\|Potion of Healing]] Creation table.
+Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [[/6. Mechanics/Items/Herbalism Kit.md|herbalism kit]] can create these potions. The times and costs for doing so are summarized on the [[/6. Mechanics/Items/Potion Of Healing.md|Potion of Healing]] Creation table.
 
 **Potion of Healing Creation**
 

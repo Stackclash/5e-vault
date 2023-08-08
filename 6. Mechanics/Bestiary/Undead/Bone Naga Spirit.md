@@ -6,51 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
-statblock: true
-statblock-link: "#^statblock"
-"name": "Bone Naga (Spirit)"
-"size": "Large"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "58"
-"hit_dice": "9d10 + 9"
-"stats":
-- !!int "15"
-- !!int "16"
-- !!int "12"
-- !!int "15"
-- !!int "15"
-- !!int "16"
-"speed": "walk 30 ft."
-"damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 12"
-"languages": "Common plus one other language"
-"cr": "4"
-"traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The naga is a 5th-level spellcaster (spell save DC 12, dice: d20+4 (+4\
-    \ to hit) with spell attacks) that needs only verbal components to cast its spells.\
-    \ Its spellcasting ability is Intelligence, and it has the following wizard spells\
-    \ prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/mage-hand.md\|mage hand]],\
-    \ [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/charm-person.md\|charm person]],\
-    \ [[/6. Mechanics/Spells/sleep.md\|sleep]]\n\n2nd level (3 2nd-level slots): [detect\
-    \ thoughts](/compendium/spells/detect-thoughts.md), [[/6. Mechanics/Spells/hold-person.md\|hold person]]\n\
-    \n3rd level (2 3rd-level slots): [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]"
-  "name": "spells"
-"actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 3d6|avg (3d6)\
-    \ poison damage."
-  "name": "Bite"
-"source":
-- "MM"
-- "DSotDQ"
-"image": "/compendium/bestiary/undead/token/bone-naga-spirit.png"
-aliases: ["Bone Naga (Spirit)"]
+statblock: inline
 ---
 # Bone Naga (Spirit)
 *Source: Monster Manual p. 233, Dragonlance: Shadow of the Dragon Queen*  
@@ -79,41 +35,49 @@ A naga doesn't require air, food, drink, or sleep.
 
 ## Stat Block
 
-```ad-statblock
-title: Bone Naga (Spirit)
-![[/6. Mechanics/Bestiary/Undead/Token/bone-naga-spirit.png#token]]
-*Large undead, Lawful Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** `dice: 9d10 + 9|text(58)` (9d10 + 9) 
-- **Speed** walk 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|16 (+3)|12 (+1)|15 (+2)|15 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
-- **Languages** Common plus one other language
-- **Challenge** 4
-
-***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, `dice: d20+4` (+4 to hit) with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
-
-**Cantrips (at will)**: [[/6. Mechanics/Spells/mage-hand.md\|mage hand]], [[/6. Mechanics/Spells/minor-illusion.md\|minor illusion]], [[/6. Mechanics/Spells/ray-of-frost.md\|ray of frost]]
-
-**1st level (4 1st-level slots)**: [[/6. Mechanics/Spells/charm-person.md\|charm person]], [[/6. Mechanics/Spells/sleep.md\|sleep]]
-
-**2nd level (3 2nd-level slots)**: [[/6. Mechanics/Spells/detect-thoughts.md\|detect thoughts]], [[/6. Mechanics/Spells/hold-person.md\|hold person]]
-
-**3rd level (2 3rd-level slots)**: [[/6. Mechanics/Spells/lightning-bolt.md\|lightning bolt]]
-
-## Actions
-
-***Bite.*** *Melee Weapon Attack:* `dice: d20+5` (+5 to hit), reach 10 ft., one creature. Hit: `dice: 2d6 + 3` (`2d6 + 3`) piercing damage plus `dice: 3d6` (`3d6`) poison damage.
+```statblock
+"name": "Bone Naga (Spirit)"
+"size": "Large"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"hp": !!int "58"
+"hit_dice": "9d10 + 9"
+"stats":
+- !!int "15"
+- !!int "16"
+- !!int "12"
+- !!int "15"
+- !!int "15"
+- !!int "16"
+"speed": "walk 30 ft."
+"damage_immunities": "poison"
+"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "Common plus one other language"
+"cr": "4"
+"traits":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "The naga is a 5th-level spellcaster (spell save DC 12, dice: d20+4 (+4\
+    \ to hit) with spell attacks) that needs only verbal components to cast its spells.\
+    \ Its spellcasting ability is Intelligence, and it has the following wizard spells\
+    \ prepared:\n\nCantrips (at will): [[/6. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[/6. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/6. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+    \n1st level (4 1st-level slots): [[/6. Mechanics/Spells/Charm Person.md|charm person]],\
+    \ [[/6. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 2nd-level slots): [detect\
+    \ thoughts](/compendium/spells/detect-thoughts.md), [[/6. Mechanics/Spells/Hold Person.md|hold person]]\n\
+    \n3rd level (2 3rd-level slots): [[/6. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
+  "name": "spells"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 3d6|avg (3d6)\
+    \ poison damage."
+  "name": "Bite"
+"source":
+- "MM"
+- "DSotDQ"
+"image": "6. Mechanics/Bestiary/Undead/token/bone-naga-spirit.png"
 ```
 ^statblock
 

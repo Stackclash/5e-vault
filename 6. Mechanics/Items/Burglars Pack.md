@@ -14,19 +14,19 @@ aliases: ["Burglar's Pack"]
 
 Includes:
 
-- a [[/6. Mechanics/Items/Backpack.md\|backpack]]  
-- a [[/6. Mechanics/Items/Ball Bearings Bag Of-1-000.md\|bag of 1,000 ball bearings]]  
+- a [[/6. Mechanics/Items/Backpack.md|backpack]]  
+- a [[/6. Mechanics/Items/Ball Bearings Bag Of-1-000.md|bag of 1,000 ball bearings]]  
 - 10 feet of string  
-- a [[/6. Mechanics/Items/Bell.md\|bell]]  
-- 5 [[/6. Mechanics/Items/candle.md\|candles]]  
-- a [[/6. Mechanics/Items/crowbar.md\|crowbar]]  
-- a [[/6. Mechanics/Items/hammer.md\|hammer]]  
-- 10 [[/6. Mechanics/Items/piton.md\|pitons]]  
-- a [[/6. Mechanics/Items/hooded-lantern.md\|hooded lantern]]  
-- 2 [[/6. Mechanics/Items/oil-flask.md\|flasks of oil]]  
-- 5 days [[/6. Mechanics/Items/rations-1-day.md\|rations]]  
-- a [[/6. Mechanics/Items/tinderbox.md\|tinderbox]]  
-- a [[/6. Mechanics/Items/waterskin.md\|waterskin]]  
-- [[/6. Mechanics/Items/hempen-rope-50-feet.md\|50 feet of hempen rope]]  
+- a [[/6. Mechanics/Items/Bell.md|bell]]  
+- 5 [[/6. Mechanics/Items/Candle.md|candles]]  
+- a [[/6. Mechanics/Items/Crowbar.md|crowbar]]  
+- a [[/6. Mechanics/Items/Hammer.md|hammer]]  
+- 10 [[/6. Mechanics/Items/Piton.md|pitons]]  
+- a [[/6. Mechanics/Items/Hooded Lantern.md|hooded lantern]]  
+- 2 [[/6. Mechanics/Items/Oil Flask.md|flasks of oil]]  
+- 5 days [[/6. Mechanics/Items/Rations-1 Day.md|rations]]  
+- a [[/6. Mechanics/Items/Tinderbox.md|tinderbox]]  
+- a [[/6. Mechanics/Items/Waterskin.md|waterskin]]  
+- [[/6. Mechanics/Items/Hempen Rope-50 Feet.md|50 feet of hempen rope]]  
 
 *Source: Player's Handbook p. 151*

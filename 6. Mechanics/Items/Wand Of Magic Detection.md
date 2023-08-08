@@ -14,6 +14,6 @@ aliases: ["Wand of Magic Detection"]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the [[/6. Mechanics/Spells/detect-magic.md\|detect magic]] spell from it. The wand regains `dice: 1d3\|avg` (`1d3`) expended charges daily at dawn.
+This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the [[/6. Mechanics/Spells/Detect Magic.md|detect magic]] spell from it. The wand regains `dice: 1d3` (`1d3`) expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 211*

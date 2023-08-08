@@ -8,9 +8,9 @@ aliases: ["Acolyte"]
 # Acolyte
 *Source: Player's Handbook p. 127*  
 
-- **Skill Proficiencies.** [[6. Mechanics/Rules/skills.md#Insight\|Insight]], [[6. Mechanics/Rules/skills.md#Religion\|Religion]]  
+- **Skill Proficiencies.** [[6. Mechanics/Rules/Skills.md#Insight|Insight]], [[6. Mechanics/Rules/Skills.md#Religion|Religion]]  
 - **Languages.** Two of your choice  
-- **Equipment.** A holy symbol (a gift to you when you entered the priesthood), a prayer [[/6. Mechanics/Items/book.md\|book]] or prayer wheel, 5 sticks of incense, vestments, a set of [[/6. Mechanics/Items/common-clothes.md\|common clothes]], and a belt [[/6. Mechanics/Items/pouch.md\|pouch]] containing 15 gp  
+- **Equipment.** A holy symbol (a gift to you when you entered the priesthood), a prayer [[/6. Mechanics/Items/Book.md|book]] or prayer wheel, 5 sticks of incense, vestments, a set of [[/6. Mechanics/Items/Common Clothes.md|common clothes]], and a belt [[/6. Mechanics/Items/Pouch.md|pouch]] containing 15 gp  
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
 
