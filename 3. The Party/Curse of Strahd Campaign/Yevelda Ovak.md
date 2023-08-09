@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 statblock: true
 name: Yevelda Ovak
-level: 2
+level: 3
 modifier: 2
 ac: 15
-hp: 18
+hp: 21
 stats: [
 	17,
 	14,

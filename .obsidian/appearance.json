@@ -1,10 +1,13 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
+    "custom_callouts",
     "Folder Icons",
+    "initiative-tracker-fix",
+    "ITS - Alternate Themes",
     "ITS - Encoded Icons",
     "ITS - Encoded Fonts"
   ],
   "theme": "moonstone",
-  "cssTheme": "ITS Theme"
+  "cssTheme": ""
 }

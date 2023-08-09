@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 statblock: true
 name: Faerah Duskrane
-level: 2
-modifier: 3
-ac: 14
-hp: 17
+level: 3
+modifier: 5
+ac: 15
+hp: 24
 stats: [
 	8,
 	17,

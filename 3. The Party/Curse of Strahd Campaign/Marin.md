@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 statblock: true
 name: Marin
-level: 2
+level: 3
 modifier: -1
 ac: 9
-hp: 12
+hp: 21
 stats: [
 	9,
 	8,

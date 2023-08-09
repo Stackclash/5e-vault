@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 statblock: true
 name: Seluvis Felo'melorn
-level: 2
+level: 3
 modifier: 3
 ac: 15
-hp: 15
+hp: 21
 stats: [
 	8,
 	16,

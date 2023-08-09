@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c130fafc0a5e769",
+        "id": "9370591805a97163",
         "type": "tabs",
         "children": [
           {
-            "id": "b3df4c0154e6d8aa",
+            "id": "d83cbee30af99725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "5. World Almanac/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "e3604c53572b46a4",
+            "id": "727e0abd02c06392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "61df8708edefdcb6",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "currency",
+                "query": "health potion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "1f13915f7834e187",
@@ -117,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
               }
             }
           },
@@ -171,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +185,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3604c53572b46a4",
+  "active": "727e0abd02c06392",
   "lastOpenFiles": [
+    "5. World Almanac/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/10 Chapter-8 The Village Of Krezk.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
+    "6. Mechanics/Items/Items.md",
+    "6. Mechanics/Items/Elixir Of Health.md",
+    "5. World Almanac/Resources/The Interactive Tome of Strahd.pdf",
+    "5. World Almanac/Resources/Curse of Strahd NPC Map.pdf",
+    "5. World Almanac/Resources/A Guide to Curse of Strahd.pdf",
+    "5. World Almanac/Books/Van Richtens Guide To Ravenloft/1 Welcome To Ravenloft.md",
+    "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
+    "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
+    "3. The Party/Curse of Strahd Campaign/Marin.md",
+    "3. The Party/Curse of Strahd Campaign/Redgrave.md",
+    "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
     "Untitled.md",
     "6. Mechanics/Bestiary/Aberration/Aberration.md",
     "6. Mechanics/Bestiary/Beast/Beast.md",
@@ -202,25 +210,12 @@
     "4. Session Journal/Curse of Strahd Campaign/23-08-05 Session 3.md",
     "4. Session Journal/Curse of Strahd Campaign/23-07-08 Session 1.md",
     "4. Session Journal/Curse of Strahd Campaign/23-06-24 Session 0.md",
-    "6. Mechanics/Items/Items.md",
     "6. Mechanics/Bestiary/Undead/Death Knight.md",
     "6. Mechanics/Bestiary/Undead/Deathlock (MPMM).md",
     "6. Mechanics/Bestiary/Undead/Demilich.md",
     "6. Mechanics/Bestiary/Undead/Undead.md",
     "6. Mechanics/Bestiary/Aberration/Beholder.md",
     "6. Mechanics/Bestiary/Celestial/Celestial.md",
-    "6. Mechanics/Bestiary/Celestial/Solar.md",
-    "6. Mechanics/Bestiary/Celestial/Empyrean.md",
-    "6. Mechanics/Bestiary/Celestial/Deva.md",
-    "z_Templates/Import 5eTools Files.md",
-    "6. Mechanics/Tables/Art Objects.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "6. Mechanics/Spells/Acid Splash.md",
-    "6. Mechanics/Spells/Absorb Elements (XGE).md",
-    "6. Mechanics/Spells/Abi Dalzims Horrid Wilting (XGE).md",
-    "6. Mechanics/Tables/Names Tiefling.md",
-    "6. Mechanics/Tables/Personality Traits.md",
     "6. Mechanics/Bestiary/Undead/token/zombie.png",
     "6. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
     "6. Mechanics/Bestiary/Undead/token/zombie-clot.png",
@@ -237,9 +232,6 @@
     "6. Mechanics/Bestiary/Plant/img",
     "6. Mechanics/Bestiary/Ooze/token",
     "6. Mechanics/Bestiary/Ooze/img",
-    "6. Mechanics/Bestiary/Npc/token",
-    "6. Mechanics/Bestiary/Npc/img",
-    "6. Mechanics/Bestiary/Monstrosity/token",
-    "6. Mechanics/Bestiary/Monstrosity/img"
+    "6. Mechanics/Bestiary/Npc/token"
   ]
 }
