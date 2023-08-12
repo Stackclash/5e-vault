@@ -13,5 +13,6 @@
   "templater-obsidian",
   "obsidian-view-mode-by-frontmatter",
   "folder-note-plugin",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "obsidian-git"
 ]

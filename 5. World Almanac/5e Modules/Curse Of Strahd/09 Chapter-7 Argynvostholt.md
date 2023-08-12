@@ -435,7 +435,7 @@ When one or more characters approach within 10 feet of the fireplace, add:
 The smoky dragonet has the statistics of a [[/6. Mechanics/Bestiary/Elemental/Smoke Mephit.md|smoke mephit]] but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase (area Q17), through the curtain at area Q30, over the rubble in area Q33, and into area Q36. Once there, it lands on the back of Vladimir's throne and disappears.
 
 > [!gallery]
-> ![Map 7.2: Argynvostholt (Ar...](/compendium/adventures/curse-of-strahd/img/079-021.jpg#gallery "Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon")
+> ![[/5. World Almanac/5e Modules/Curse Of Strahd/img/079-021.jpg#gallery|"Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon"]]
 > ![[/5. World Almanac/5e Modules/Curse Of Strahd/img/080-cos702.jpg#gallery|Player Version]]
 
 ### Q27. Knights' Quarters
