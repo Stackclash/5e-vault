@@ -1,0 +1,132 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+{#if resource.tags }
+tags:
+{#for tag in resource.tags}
+- {tag}
+{/for}
+{/if}
+statblock: true
+name: {resource.name}
+size: {resource.size}
+type: {resource.fullType}
+alignment: {resource.alignment}
+ac: {#if resource.ac }{resource.ac}{/if}
+hp: {resource.hp}
+hit_dice: {#if resource.hitDice }{resource.hitDice}{/if}
+stats:
+- {resource.scores.str}
+- {resource.scores.dex}
+- {resource.scores.con}
+- {resource.scores.int}
+- {resource.scores.wis}
+- {resource.scores.cha}
+speed: {resource.speed}
+damage_immunities: {resource.immune}
+senses: {resource.senses}, passive Perception {resource.passive}
+languages: {resource.languages}
+traits: {#for trait in resource.trait}
+- name: {trait.name}
+  desc: {trait.desc}{/for}
+actions: {#for action in resource.action}
+- name: {action.name}
+  desc: {action.desc}{/for}
+spells: {#for spell in resource.spellcasting}
+- name: {spell.name}
+  desc: {spell}{/for}
+legendary_actions: {#for legendary in resource.legendary}
+- name: {legendary.name}
+  desc: {legendary.desc}{\for}
+bonus_actions: {#for bonusAction in resource.bonusAction}
+- name: {bonusAction.name}
+  desc: {bonusAction.desc}{/for}
+reactions: {#for reaction in resource.reaction}
+- name: {reaction.name}
+  desc: {reaction.desc}{/for}
+source: {resource.source}
+image: {resource.token.vaultPath}
+aliases: ["{resource.name}"]
+---
+# {resource.name}
+*Source: {resource.source}*  
+
+{#if resource.description }
+{resource.description}
+
+{/if}
+```ad-statblock
+title: {resource.name}{#if resource.token}
+![{resource.token.title}]({resource.token.vaultPath}#token){/if}
+*{resource.size} {resource.fullType}, {resource.alignment}*
+
+- **Armor Class** {#if resource.ac }{resource.ac} {/if}{#if resource.acText }({resource.acText}){/if}
+- **Hit Points** {resource.hp} {#if resource.hitDice }({resource.hitDice}){/if} {#if resource.hpText }({resource.hpText}){/if}
+- **Speed** {resource.speed}
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|{resource.scoreString}|
+
+- **Proficiency Bonus** {resource.pb}
+- **Saving Throws** {#if resource.savingThrows }{resource.savingThrows}{#else}⏤{/if}
+- **Skills** {#if resource.skills }{resource.skills}{#else}⏤{/if}
+- **Senses** {#if resource.senses }{resource.senses}, {/if}passive Perception {resource.passive}
+{#if resource.vulnerable }
+- **Damage Vulnerabilities** {resource.vulnerable}
+{/if}{#if resource.resist}
+- **Damage Resistances** {resource.resist}
+{/if}{#if resource.immune}
+- **Damage Immunities** {resource.immune}
+{/if}{#if resource.conditionImmune}
+- **Condition Immunities** {resource.conditionImmune}
+{/if}
+- **Languages** {#if resource.languages }{resource.languages}{#else}—{/if}
+- **Challenge** {resource.cr}
+{#if resource.trait}
+
+## Traits
+{#for trait in resource.trait}
+
+{#if trait.name }***{trait.name}.*** {/if}{trait.desc}
+{/for}{/if}{#if resource.spellcasting}{#for spellcasting in resource.spellcasting}
+
+***{spellcasting.name}.*** {spellcasting.desc}
+{/for}{/if}{#if resource.action}
+
+## Actions
+{#for action in resource.action}
+
+{#if action.name }***{action.name}.*** {/if}{action.desc}
+{/for}{/if}{#if resource.bonusAction}
+
+## Bonus Actions
+{#for bonusAction in resource.bonusAction}
+
+{#if bonusAction.name }***{bonusAction.name}.*** {/if}{bonusAction.desc}
+{/for}{/if}{#if resource.reaction}
+
+## Reactions
+{#for reaction in resource.reaction}
+
+{#if reaction.name }***{reaction.name}.*** {/if}{reaction.desc}
+{/for}{/if}{#if resource.legendary}
+
+## Legendary Actions
+{#for legendary in resource.legendary}
+
+{#if legendary.name }***{legendary.name}.*** {/if}{legendary.desc}
+{/for}{/if}{#if resource.legendaryGroup}{#for group in resource.legendaryGroup}
+
+## {group.key}
+
+{#if group.value.name }***{group.value.name}.*** {/if}{group.value.desc}
+{/for}{/if}
+```
+^statblock
+{#if resource.environment }
+
+## Environment
+
+{resource.environment}
+{/if}
