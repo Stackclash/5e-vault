@@ -3,6 +3,18 @@
   "windows": {
     "Player View": {
       "hosts": {}
+    },
+    "DEFAULT": {
+      "hosts": {
+        "Office-PC": {
+          "x": -1928,
+          "y": -8,
+          "width": 1936,
+          "height": 1048,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
     }
   }
 }

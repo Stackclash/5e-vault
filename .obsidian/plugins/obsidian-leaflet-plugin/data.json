@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Barovia-Map",
+      "locked": true,
+      "lastAccessed": 1691872255827,
+      "markers": [
+        {
+          "id": "ID_6b79c9fb4928",
+          "type": "default",
+          "loc": [
+            11.14013671875,
+            16.757017480496966
+          ],
+          "layer": "%5B%5B008-cos201.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
