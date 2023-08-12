@@ -1,0 +1,34 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-spell
+tags:
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/bard
+- spell/class/cleric/trickery-domain
+- spell/class/fighter/eldritch-knight
+- spell/class/ranger/gloom-stalker
+- spell/class/rogue/arcane-trickster
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/1
+- spell/school/illusion
+aliases: ["Disguise Self"]
+---
+# Disguise Self
+*1st-level, Illusion*  
+
+- **Casting time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 hour
+
+You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
+
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check against your spell save DC.
+
+**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Cleric Trickery Domain.md|Cleric (Trickery Domain)]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+
+Source: Player's Handbook p. 233

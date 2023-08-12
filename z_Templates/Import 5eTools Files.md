@@ -10,10 +10,10 @@ const dv = app.plugins.plugins.dataview.api
 const dryRun = false
 const limit = 1000
 const vaultRootPath = 'D:\\Projects\\Personal\\5e-vault'
-const newCompendiumLocation = '6. Mechanics'
+const newCompendiumLocation = '5. Mechanics'
 const newLocations = {
-    'compendium/books': '5. World Almanac/books',
-    'compendium/adventures': '5. World Almanac/5e Modules'
+    'compendium/books': '4. World Almanac/books',
+    'compendium/adventures': '4. World Almanac/5e Modules'
 }
 
 let count = 0

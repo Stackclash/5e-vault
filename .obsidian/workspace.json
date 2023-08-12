@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d10c0b4f9e07f78b",
+        "id": "324d1e9f6b76937b",
         "type": "tabs",
         "children": [
           {
-            "id": "aa3b4a7e474998a0",
+            "id": "bd211b6e058bf7b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Resources/5e Modules/5e Modules.md",
-                "mode": "source",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Resources/5e Modules/5e Modules.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Resources/5e Modules/5e Modules.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Resources/5e Modules/5e Modules.md"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,51 +176,52 @@
   },
   "active": "da6520ec1fb0cefb",
   "lastOpenFiles": [
-    "7. Resources/Books/Books.md",
+    "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
+    "4. World Almanac/Eldoria/NPCs/Ireena Kolyana.md",
+    "4. World Almanac/Eldoria/NPCs",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Krezk.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Tser Pool Encampment.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Town of Vallaki.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/The Wizard of Wines.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/The Amber Temple.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Castle Ravenloft.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Argynvostholt.md",
+    "6. Resources/5e Modules/5e Modules.md",
+    "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
+    "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
+    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+    "6. Resources/5e Modules/Curse Of Strahd/02 Introduction.md",
+    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
     "7. Resources/5e Modules/5e Modules.md",
-    "Test NPD.md",
-    "7. Resources",
-    "z_Templates/NPC.md",
+    "7. Resources/Books/Books.md",
+    "7. Resources/Untitled.canvas",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-    "6. Mechanics/Bestiary/Beast/Beast.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-08-05 Session 3.md",
-    "3. The Party/Curse of Strahd Campaign/Characters/Faerah Duskrane.md",
+    "7. Resources",
     "3. The Party/Curse of Strahd Campaign/Session Log",
     "3. The Party/Curse of Strahd Campaign/Characters",
-    "z_Templates/Leaflet Map.md",
-    "z_Templates/Leaflet Bounds Calculator.md",
     "7. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
-    "7. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "7. Resources/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
-    "7. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "6. Mechanics/Bestiary/Npc/Exethanter (COS).md",
-    "7. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
-    "7. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
     "4. World Almanac/Eldoria/Locations/Barovia",
     "4. World Almanac/Eldoria/Locations",
     "4. World Almanac/Eldoria",
-    "5. World Almanac/Untitled.md",
-    "7. Resources/5e Modules/Curse Of Strahd/12 Chapter-10 The Ruins Of Berez.md",
-    "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
-    "3. The Party/Curse of Strahd Campaign/Characters/Yevelda Ovak.md",
-    "7. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
-    "6. Mechanics/Bestiary/Undead/Banshee.md",
-    "7. Resources/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
-    "7. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "7. Resources/5e Modules/Curse Of Strahd/10 Chapter-8 The Village Of Krezk.md",
-    "6. Mechanics/Items/Items.md",
     "7. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "7. Resources/Resources/Curse of Strahd NPC Map.pdf",
     "7. Resources/Resources/A Guide to Curse of Strahd.pdf",
-    "6. Mechanics/Bestiary/Undead/token/zombie.png",
-    "6. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
-    "6. Mechanics/Bestiary/Undead/token/zombie-clot.png",
-    "6. Mechanics/Bestiary/Undead/token/wraith.png",
-    "6. Mechanics/Bestiary/Undead/token/will-o-wisp.png",
-    "6. Mechanics/Bestiary/Undead/token/wight.png",
-    "6. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png",
-    "6. Mechanics/Bestiary/Undead/token/vampiric-mist.png",
-    "6. Mechanics/Bestiary/Undead/token/vampiric-mind-flayer.png",
-    "6. Mechanics/Bestiary/Undead/token"
+    "5. Mechanics/Bestiary/Undead/token/zombie.png",
+    "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
+    "5. Mechanics/Bestiary/Undead/token/zombie-clot.png",
+    "5. Mechanics/Bestiary/Undead/token/wraith.png",
+    "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png",
+    "5. Mechanics/Bestiary/Undead/token/wight.png",
+    "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png",
+    "5. Mechanics/Bestiary/Undead/token/vampiric-mist.png",
+    "5. Mechanics/Bestiary/Undead/token/vampiric-mind-flayer.png"
   ]
 }

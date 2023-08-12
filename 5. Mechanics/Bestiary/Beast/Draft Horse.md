@@ -1,0 +1,51 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/mm
+- monster/environment/urban
+- monster/size/large
+- monster/type/beast
+statblock: inline
+---
+# Draft Horse
+*Source: Monster Manual p. 321, Curse of Strahd, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
+
+```statblock
+"name": "Draft Horse"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "19"
+"hit_dice": "3d10 + 3"
+"stats":
+- !!int "18"
+- !!int "10"
+- !!int "12"
+- !!int "2"
+- !!int "11"
+- !!int "7"
+"speed": "walk 40 ft."
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "1/4"
+"actions":
+- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
+  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage."
+  "name": "Hooves"
+"source":
+- "MM"
+- "CoS"
+- "SKT"
+- "WDH"
+- "GoS"
+- "BGDIA"
+"image": "5. Mechanics/Bestiary/Beast/token/draft-horse.png"
+```
+^statblock
+
+## Environment
+
+urban
