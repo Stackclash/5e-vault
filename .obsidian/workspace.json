@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "324d1e9f6b76937b",
+        "id": "4f29b7da38d26389",
         "type": "tabs",
         "children": [
           {
-            "id": "bd211b6e058bf7b3",
+            "id": "2cc1ff87b153ad61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "e2121afc7d1fc436",
+            "id": "008d84c720cea053",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "cd9f55d5c66bda9f",
+            "id": "850e8caf06b8f560",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -167,15 +167,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "da6520ec1fb0cefb",
+  "active": "2cc1ff87b153ad61",
   "lastOpenFiles": [
+    "z_Templates/Session Note.md",
+    "z_Templates/Quest.md",
+    "z_Templates/Party Dashboard.md",
+    "z_Templates/Settlement.md",
+    "z_Templates/Settlement Database.md",
+    "z_Templates/NPC Database.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
     "4. World Almanac/Eldoria/NPCs/Ireena Kolyana.md",
     "4. World Almanac/Eldoria/NPCs",
@@ -196,14 +203,7 @@
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "6. Resources/5e Modules/Curse Of Strahd/02 Introduction.md",
-    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
-    "5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
-    "7. Resources/5e Modules/5e Modules.md",
-    "7. Resources/Books/Books.md",
     "7. Resources/Untitled.canvas",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "7. Resources",
     "3. The Party/Curse of Strahd Campaign/Session Log",
     "3. The Party/Curse of Strahd Campaign/Characters",

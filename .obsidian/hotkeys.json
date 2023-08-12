@@ -1,1 +1,18 @@
-{}
+{
+  "image-window:open-image": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ]
+}

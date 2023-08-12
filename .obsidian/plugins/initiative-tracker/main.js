@@ -6477,7 +6477,7 @@ var Conditions = [
 ];
 
 // src/utils/constants.ts
-var INTIATIVE_TRACKER_VIEW = "initiative-tracker-view";
+var INITIATIVE_TRACKER_VIEW = "initiative-tracker-view";
 var PLAYER_VIEW_VIEW = "initiative-tracker-player-view";
 var CREATURE_TRACKER_VIEW = "initiative-tracker-creature-view";
 var DEFAULT_UNDEFINED = "\u2013";
@@ -6494,7 +6494,6 @@ var DEFAULT_SETTINGS = {
   initiative: "1d20 + %mod%",
   modifier: null,
   sync: false,
-  leafletIntegration: false,
   playerMarker: "default",
   monsterMarker: "default",
   state: {
@@ -6599,7 +6598,6 @@ function registerIcons() {
   (0, import_obsidian2.addIcon)(NEW, NEW_ICON);
   (0, import_obsidian2.addIcon)(DICE, DICE_ICON);
   (0, import_obsidian2.addIcon)(START_ENCOUNTER, START_ENCOUNTER_ICON);
-  (0, import_obsidian2.addIcon)(MAP, MAP_ICON);
   (0, import_obsidian2.addIcon)(COPY, COPY_ICON);
   (0, import_obsidian2.addIcon)(
     GROUP,
@@ -6612,10 +6610,6 @@ function registerIcons() {
   (0, import_obsidian2.addIcon)(
     ACTIVE,
     `<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-right" class="svg-inline--fa fa-angle-right fa-w-8" role="img" viewBox="0 0 256 512"><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg>`
-  );
-  (0, import_obsidian2.addIcon)(
-    MAPMARKER,
-    `<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marker-alt" class="svg-inline--fa fa-map-marker-alt fa-w-12" role="img" viewBox="0 0 384 512"><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg>`
   );
   (0, import_obsidian2.addIcon)(
     CREATURE,
@@ -6632,7 +6626,6 @@ function registerIcons() {
     `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-a-z"><path d="m3 16 4 4 4-4"></path><path d="M7 20V4"></path><path d="M20 8h-5"></path><path d="M15 10V6.5a2.5 2.5 0 0 1 5 0V10"></path><path d="M15 14h5l-5 6h5"></path></svg>`
   );
 }
-var MAPMARKER = "tracker-map-marker";
 var EXPAND = "expand-creatures";
 var GROUP = "group-creatures";
 var ACTIVE = "initiative-tracker-active";
@@ -6643,8 +6636,6 @@ var SORT_STRING = "ARROW_DOWN_A-Z";
 var SORT_NUMBER = "ARROW_DOWN_0-1";
 var BASE = "initiative-tracker";
 var ICON = `<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="dice-d20" class="svg-inline--fa fa-dice-d20 fa-w-15" role="img" viewBox="0 0 480 512"><path fill="currentColor" d="M106.75 215.06L1.2 370.95c-3.08 5 .1 11.5 5.93 12.14l208.26 22.07-108.64-190.1zM7.41 315.43L82.7 193.08 6.06 147.1c-2.67-1.6-6.06.32-6.06 3.43v162.81c0 4.03 5.29 5.53 7.41 2.09zM18.25 423.6l194.4 87.66c5.3 2.45 11.35-1.43 11.35-7.26v-65.67l-203.55-22.3c-4.45-.5-6.23 5.59-2.2 7.57zm81.22-257.78L179.4 22.88c4.34-7.06-3.59-15.25-10.78-11.14L17.81 110.35c-2.47 1.62-2.39 5.26.13 6.78l81.53 48.69zM240 176h109.21L253.63 7.62C250.5 2.54 245.25 0 240 0s-10.5 2.54-13.63 7.62L130.79 176H240zm233.94-28.9l-76.64 45.99 75.29 122.35c2.11 3.44 7.41 1.94 7.41-2.1V150.53c0-3.11-3.39-5.03-6.06-3.43zm-93.41 18.72l81.53-48.7c2.53-1.52 2.6-5.16.13-6.78l-150.81-98.6c-7.19-4.11-15.12 4.08-10.78 11.14l79.93 142.94zm79.02 250.21L256 438.32v65.67c0 5.84 6.05 9.71 11.35 7.26l194.4-87.66c4.03-1.97 2.25-8.06-2.2-7.56zm-86.3-200.97l-108.63 190.1 208.26-22.07c5.83-.65 9.01-7.14 5.93-12.14L373.25 215.06zM240 208H139.57L240 383.75 340.43 208H240z"/></svg>`;
-var MAP = "initiative-tracker-map";
-var MAP_ICON = `<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marked-alt" class="svg-inline--fa fa-map-marked-alt fa-w-18" role="img" viewBox="0 0 576 512"><path fill="currentColor" d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"/></svg>`;
 var START_ENCOUNTER = "crossed-swords";
 var START_ENCOUNTER_ICON = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path fill="currentColor" d="M27.43 918.8l30.374-30.374 80.793 80.793-30.374 30.374L27.43 918.8zm422.393-253.815c0-48.521-39.36-87.882-87.882-87.882s-87.88 39.36-87.88 87.88c0 48.521 39.338 87.859 87.882 87.882s87.902-39.338 87.88-87.88zm-175.351 8.401l-.807-.807-166.337 166.336 80.794 80.794 166.337-166.337-.92-.92c-41.832-3.986-75.099-37.253-79.067-79.065zm-.411-8.402c0-45.507 34.621-82.952 78.95-87.431-46.731-53.121-88.214-110.883-123.852-172.613L117.593 516.506 274.47 673.383a88.927 88.927 0 0 1-.409-8.399zm175.315 8.962c-4.472 44.334-41.914 78.942-87.433 78.92a89.137 89.137 0 0 1-8.406-.413l157.058 157.058 111.566-111.566c-62.063-35.842-119.841-77.405-172.785-123.999zM815.497 74.632L392.493 497.636c6.535 9.622 10.729 21.41 10.729 33.817 0 19.234-9.188 36.441-23.375 47.483 34.711 7.191 61.918 34.869 68.453 69.814 11.013-14.625 28.5-24.14 48.078-24.14 12.407 0 23.51 3.51 32.978 9.891l423.002-423.002 29.691-166.555-166.553 29.688zM41.964 872.58l112.539 112.539 49.514-49.514L91.478 823.066 41.964 872.58z"/></svg>';
 var SAVE = "initiative-tracker-save";
@@ -6796,6 +6787,12 @@ var Dnd5eRpgSystem = class extends RpgSystem {
     super();
     __privateAdd(this, _getXpMult);
     __publicField(this, "plugin");
+    __publicField(this, "systemDifficulties", [
+      "Easy",
+      "Medium",
+      "Hard",
+      "Deadly"
+    ]);
     this.plugin = plugin;
     this.displayName = "DnD 5e";
   }
@@ -6890,6 +6887,10 @@ var Dnd5eLazyGmRpgSystem = class extends RpgSystem {
     super();
     __publicField(this, "plugin");
     __publicField(this, "dnd5eRpgSystem");
+    __publicField(this, "systemDifficulties", [
+      "Not Deadly",
+      "Deadly"
+    ]);
     this.plugin = plugin;
     this.valueUnit = "CR";
     this.displayName = "DnD 5e Lazy GM";
@@ -6946,13 +6947,102 @@ Deadly Threshold: ${deadlyThreshold}`;
   }
 };
 
+// src/utils/rpg-system/pf2e.ts
+var XP_CREATURE_DIFFERENCES = {
+  "-4": 10,
+  "-3": 15,
+  "-2": 20,
+  "-1": 30,
+  "0": 40,
+  "1": 60,
+  "2": 80,
+  "3": 120,
+  "4": 160
+};
+var PF2E_DND5E_DIFFICULTY_MAPPING = {
+  "trivial": "trivial",
+  "low": "easy",
+  "moderate": "medium",
+  "severe": "hard",
+  "extreme": "deadly"
+};
+var Pathfinder2eRpgSystem = class extends RpgSystem {
+  constructor(plugin) {
+    super();
+    __publicField(this, "plugin");
+    __publicField(this, "systemDifficulties", [
+      "Trivial",
+      "Low",
+      "Moderate",
+      "Severe",
+      "Extreme"
+    ]);
+    this.plugin = plugin;
+    this.displayName = "Pathfinder 2e";
+  }
+  getCreatureDifficulty(creature, playerLevels) {
+    const lvl = getFromCreatureOrBestiary(
+      this.plugin,
+      creature,
+      (c) => c?.level
+    )?.toString().split(" ").slice(-1);
+    if (lvl == null || lvl == void 0)
+      return 0;
+    const partyLvl = playerLevels?.length ?? 0 > 0 ? playerLevels.reduce((a, b) => a + b) / playerLevels.length : 0;
+    const creature_differences = String(
+      lvl - partyLvl
+    );
+    return XP_CREATURE_DIFFERENCES[creature_differences] ?? 0;
+  }
+  getDifficultyThresholds(playerLevels) {
+    const budget = playerLevels.length * 20;
+    const encounterBudget = {
+      trivial: Math.floor(budget * 0.5),
+      low: Math.floor(budget * 0.75),
+      moderate: budget,
+      severe: Math.floor(budget * 1.5),
+      extreme: Math.floor(budget * 2)
+    };
+    return Object.entries(encounterBudget).map(([name3, value]) => ({
+      displayName: name3.charAt(0).toUpperCase() + name3.slice(1),
+      minValue: value
+    })).sort((a, b) => a.minValue - b.minValue);
+  }
+  getEncounterDifficulty(creatures, playerLevels) {
+    const creatureXp = [...creatures].reduce(
+      (acc, [creature, count]) => acc + this.getCreatureDifficulty(creature, playerLevels) * count,
+      0
+    );
+    const thresholds = this.getDifficultyThresholds(playerLevels);
+    const displayName = thresholds.find((threshold) => creatureXp <= threshold.minValue)?.displayName ?? "Trivial";
+    const thresholdSummary = thresholds.map((threshold) => `${threshold.displayName}: ${threshold.minValue}`).join("\n");
+    const summary = `Encounter is ${displayName}
+    Total XP: ${creatureXp}
+    Threshold
+    ${thresholdSummary}`;
+    return {
+      displayName,
+      summary,
+      cssClass: PF2E_DND5E_DIFFICULTY_MAPPING[displayName.toLowerCase()] ?? "trivial",
+      value: creatureXp,
+      title: "Total XP",
+      intermediateValues: [{ label: "Total XP", value: creatureXp }]
+    };
+  }
+};
+
 // src/utils/rpg-system/index.ts
 var RpgSystemSetting = /* @__PURE__ */ ((RpgSystemSetting2) => {
   RpgSystemSetting2["Dnd5e"] = "dnd5e";
   RpgSystemSetting2["Dnd5eLazyGm"] = "dnd5e-lazygm";
+  RpgSystemSetting2["Pathfinder2e"] = "pathfinder2e";
   return RpgSystemSetting2;
 })(RpgSystemSetting || {});
 var UndefinedRpgSystem = class extends RpgSystem {
+  constructor() {
+    super(...arguments);
+    __publicField(this, "systemDifficulties", [DEFAULT_UNDEFINED, DEFAULT_UNDEFINED]);
+  }
 };
 function getRpgSystem(plugin, settingId) {
   switch (settingId ? settingId : plugin.data.rpgSystem) {
@@ -6960,6 +7050,8 @@ function getRpgSystem(plugin, settingId) {
       return new Dnd5eRpgSystem(plugin);
     case "dnd5e-lazygm" /* Dnd5eLazyGm */:
       return new Dnd5eLazyGmRpgSystem(plugin);
+    case "pathfinder2e" /* Pathfinder2e */:
+      return new Pathfinder2eRpgSystem(plugin);
   }
   return new UndefinedRpgSystem();
 }
@@ -7002,7 +7094,7 @@ function getFromCreatureOrBestiary(plugin, creature, getter) {
   const fromBase = getter(creature);
   if (fromBase)
     return fromBase;
-  return getter(plugin.bestiary.find((c) => c.name == creature.name));
+  return getter(plugin.getCreatureFromBestiary(creature.name));
 }
 
 // src/settings/settings.ts
@@ -10850,7 +10942,7 @@ var Creature_default = Creature2;
 
 // src/encounter/ui/Encounter.svelte
 function add_css2(target) {
-  append_styles(target, "svelte-e1kfxz", ".encounter-name.svelte-e1kfxz.svelte-e1kfxz{display:flex;justify-content:flex-start;align-items:center}.encounter-name.svelte-e1kfxz .initiative-tracker-name.svelte-e1kfxz{margin:0}.encounter-instance.svelte-e1kfxz>.creatures-container>.encounter-creatures:first-of-type h4.svelte-e1kfxz,.encounter-creatures.svelte-e1kfxz>ul.svelte-e1kfxz{margin-top:0}.creature-li.svelte-e1kfxz.svelte-e1kfxz{width:fit-content}.xp-parent.svelte-e1kfxz.svelte-e1kfxz{display:inline-flex}.difficulty.svelte-e1kfxz.svelte-e1kfxz{width:fit-content}.deadly.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:red}.hard.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:orange}.medium.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:yellow}.easy.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:green}.icons.svelte-e1kfxz.svelte-e1kfxz{display:flex}.icons.svelte-e1kfxz>div.svelte-e1kfxz:first-child .clickable-icon{margin-right:0}.creature-name.svelte-e1kfxz.svelte-e1kfxz{display:inline-flex;align-items:center;gap:0.25rem}.has-icon.svelte-e1kfxz.svelte-e1kfxz{display:flex;align-items:center}");
+  append_styles(target, "svelte-w3ego1", ".encounter-name.svelte-w3ego1.svelte-w3ego1{display:flex;justify-content:flex-start;align-items:center}.encounter-name.svelte-w3ego1 .initiative-tracker-name.svelte-w3ego1{margin:0}.encounter-instance.svelte-w3ego1>.creatures-container>.encounter-creatures:first-of-type h4.svelte-w3ego1,.encounter-creatures.svelte-w3ego1>ul.svelte-w3ego1{margin-top:0}.creature-li.svelte-w3ego1.svelte-w3ego1{width:fit-content}.xp-parent.svelte-w3ego1.svelte-w3ego1{display:inline-flex}.difficulty.svelte-w3ego1.svelte-w3ego1{width:fit-content}.deadly.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:red}.hard.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:orange}.medium.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:yellow}.easy.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:green}.trivial.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:#AAAAAA}.icons.svelte-w3ego1.svelte-w3ego1{display:flex}.icons.svelte-w3ego1>div.svelte-w3ego1:first-child .clickable-icon{margin-right:0}.creature-name.svelte-w3ego1.svelte-w3ego1{display:inline-flex;align-items:center;gap:0.25rem}.has-icon.svelte-w3ego1.svelte-w3ego1{display:flex;align-items:center}");
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -10911,7 +11003,7 @@ function create_if_block_8(ctx) {
   return {
     c() {
       div = element("div");
-      div.innerHTML = `<h4 class="svelte-e1kfxz">No Players</h4>`;
+      div.innerHTML = `<h4 class="svelte-w3ego1">No Players</h4>`;
       attr(div, "class", "encounter-creatures encounter-players");
     },
     m(target, anchor) {
@@ -10946,9 +11038,9 @@ function create_if_block_7(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(h4, "class", "svelte-e1kfxz");
-      attr(ul, "class", "svelte-e1kfxz");
-      attr(div, "class", "encounter-creatures encounter-players svelte-e1kfxz");
+      attr(h4, "class", "svelte-w3ego1");
+      attr(ul, "class", "svelte-w3ego1");
+      attr(div, "class", "encounter-creatures encounter-players svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -11045,7 +11137,7 @@ function create_if_block_32(ctx) {
       t1 = space();
       if_block1.c();
       if_block1_anchor = empty();
-      attr(h4, "class", "creatures-header svelte-e1kfxz");
+      attr(h4, "class", "creatures-header svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, h4, anchor);
@@ -11121,7 +11213,7 @@ function create_if_block_5(ctx) {
   return {
     c() {
       span = element("span");
-      attr(span, "class", "has-icon svelte-e1kfxz");
+      attr(span, "class", "has-icon svelte-w3ego1");
       attr(span, "aria-label", "Rolling for HP");
     },
     m(target, anchor) {
@@ -11175,7 +11267,7 @@ function create_if_block_42(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(ul, "class", "svelte-e1kfxz");
+      attr(ul, "class", "svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, ul, anchor);
@@ -11281,7 +11373,7 @@ function create_each_block(ctx) {
       create_component(creaturecomponent.$$.fragment);
       t2 = space();
       attr(li, "aria-label", li_aria_label_value = ctx[16](ctx[21]));
-      attr(li, "class", "creature-li svelte-e1kfxz");
+      attr(li, "class", "creature-li svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, li, anchor);
@@ -11332,7 +11424,7 @@ function create_if_block2(ctx) {
       div = element("div");
       if (if_block)
         if_block.c();
-      attr(div, "class", "encounter-xp difficulty svelte-e1kfxz");
+      attr(div, "class", "encounter-xp difficulty svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -11392,13 +11484,13 @@ function create_if_block_12(ctx) {
       t4 = space();
       span2 = element("span");
       span2.textContent = ")";
-      attr(strong, "class", "difficulty-label svelte-e1kfxz");
+      attr(strong, "class", "difficulty-label svelte-w3ego1");
       attr(span0, "class", "paren left");
       attr(span1, "class", "xp-container");
       attr(span2, "class", "paren right");
-      attr(span3, "class", "xp-parent difficulty svelte-e1kfxz");
+      attr(span3, "class", "xp-parent difficulty svelte-w3ego1");
       attr(span4, "aria-label", span4_aria_label_value = ctx[9].summary);
-      attr(span4, "class", span4_class_value = null_to_empty(ctx[9].cssClass) + " svelte-e1kfxz");
+      attr(span4, "class", span4_class_value = null_to_empty(ctx[9].cssClass) + " svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, span4, anchor);
@@ -11432,7 +11524,7 @@ function create_if_block_12(ctx) {
       if (dirty & 512 && span4_aria_label_value !== (span4_aria_label_value = ctx2[9].summary)) {
         attr(span4, "aria-label", span4_aria_label_value);
       }
-      if (dirty & 512 && span4_class_value !== (span4_class_value = null_to_empty(ctx2[9].cssClass) + " svelte-e1kfxz")) {
+      if (dirty & 512 && span4_class_value !== (span4_class_value = null_to_empty(ctx2[9].cssClass) + " svelte-w3ego1")) {
         attr(span4, "class", span4_class_value);
       }
     },
@@ -11528,16 +11620,16 @@ function create_fragment2(ctx) {
       if (if_block2)
         if_block2.c();
       attr(h3, "data-heading", ctx[1]);
-      attr(h3, "class", "initiative-tracker-name svelte-e1kfxz");
+      attr(h3, "class", "initiative-tracker-name svelte-w3ego1");
       attr(div0, "aria-label", "Start Encounter");
-      attr(div0, "class", "svelte-e1kfxz");
+      attr(div0, "class", "svelte-w3ego1");
       attr(div1, "aria-label", "Add to Encounter");
-      attr(div1, "class", "svelte-e1kfxz");
-      attr(div2, "class", "icons svelte-e1kfxz");
-      attr(div3, "class", "encounter-name svelte-e1kfxz");
-      attr(div4, "class", "encounter-creatures svelte-e1kfxz");
+      attr(div1, "class", "svelte-w3ego1");
+      attr(div2, "class", "icons svelte-w3ego1");
+      attr(div3, "class", "encounter-name svelte-w3ego1");
+      attr(div4, "class", "encounter-creatures svelte-w3ego1");
       attr(div5, "class", "creatures-container");
-      attr(div6, "class", "encounter-instance svelte-e1kfxz");
+      attr(div6, "class", "encounter-instance svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, div6, anchor);
@@ -11830,7 +11922,7 @@ var Encounter_default = Encounter;
 // src/encounter/ui/EncounterRow.svelte
 var import_obsidian6 = require("obsidian");
 function add_css3(target) {
-  append_styles(target, "svelte-bf6d6a", ".deadly.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:red}.hard.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:orange}.medium.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:yellow}.easy.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:green}.icons.svelte-bf6d6a.svelte-bf6d6a{display:flex}.icons.svelte-bf6d6a>div.svelte-bf6d6a:first-child .clickable-icon{margin-right:0}ul.svelte-bf6d6a.svelte-bf6d6a{margin:0}");
+  append_styles(target, "svelte-9nyuhm", ".deadly.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:red}.hard.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:orange}.medium.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:yellow}.easy.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:green}.trivial.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:#AAAAAA}.icons.svelte-9nyuhm.svelte-9nyuhm{display:flex}.icons.svelte-9nyuhm>div.svelte-9nyuhm:first-child .clickable-icon{margin-right:0}ul.svelte-9nyuhm.svelte-9nyuhm{margin:0}");
 }
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -11868,7 +11960,7 @@ function create_if_block_43(ctx) {
       td = element("td");
       ul = element("ul");
       if_block.c();
-      attr(ul, "class", "encounter-creatures encounter-list svelte-bf6d6a");
+      attr(ul, "class", "encounter-creatures encounter-list svelte-9nyuhm");
     },
     m(target, anchor) {
       insert(target, td, anchor);
@@ -12117,7 +12209,7 @@ function create_if_block_23(ctx) {
       td = element("td");
       ul = element("ul");
       if_block.c();
-      attr(ul, "class", "encounter-players encounter-list svelte-bf6d6a");
+      attr(ul, "class", "encounter-players encounter-list svelte-9nyuhm");
     },
     m(target, anchor) {
       insert(target, td, anchor);
@@ -12301,9 +12393,9 @@ function create_if_block_13(ctx) {
       span = element("span");
       strong = element("strong");
       t2 = text(t_value);
-      attr(strong, "class", "difficulty-label svelte-bf6d6a");
+      attr(strong, "class", "difficulty-label svelte-9nyuhm");
       attr(span, "aria-label", span_aria_label_value = ctx[8].summary);
-      attr(span, "class", span_class_value = null_to_empty(ctx[8].cssClass) + " svelte-bf6d6a");
+      attr(span, "class", span_class_value = null_to_empty(ctx[8].cssClass) + " svelte-9nyuhm");
     },
     m(target, anchor) {
       insert(target, span, anchor);
@@ -12316,7 +12408,7 @@ function create_if_block_13(ctx) {
       if (dirty & 256 && span_aria_label_value !== (span_aria_label_value = ctx2[8].summary)) {
         attr(span, "aria-label", span_aria_label_value);
       }
-      if (dirty & 256 && span_class_value !== (span_class_value = null_to_empty(ctx2[8].cssClass) + " svelte-bf6d6a")) {
+      if (dirty & 256 && span_class_value !== (span_class_value = null_to_empty(ctx2[8].cssClass) + " svelte-9nyuhm")) {
         attr(span, "class", span_class_value);
       }
     },
@@ -12369,10 +12461,10 @@ function create_fragment3(ctx) {
       div0 = element("div");
       t5 = space();
       div1 = element("div");
-      attr(div0, "class", "svelte-bf6d6a");
+      attr(div0, "class", "svelte-9nyuhm");
       attr(div1, "aria-label", "Add to Encounter");
-      attr(div1, "class", "svelte-bf6d6a");
-      attr(div2, "class", "icons svelte-bf6d6a");
+      attr(div1, "class", "svelte-9nyuhm");
+      attr(div2, "class", "icons svelte-9nyuhm");
       attr(tr, "class", "encounter-row");
     },
     m(target, anchor) {
@@ -13085,7 +13177,7 @@ var EncounterParser = class {
     }
     if (!name3 || typeof name3 != "string")
       return {};
-    let existing = this.plugin.bestiary.find((c) => c.name == name3);
+    let existing = this.plugin.getCreatureFromBestiary(name3);
     let creature = existing ? Creature.from(existing) : new Creature({ name: name3 });
     creature.display = display;
     creature.hp = hp ?? creature.hp;
@@ -13976,7 +14068,7 @@ var InitiativeTrackerSettings = class extends import_obsidian9.PluginSettingTab 
     containerEl.empty();
     new import_obsidian9.Setting(containerEl).setHeading().setName("Basic Settings");
     new import_obsidian9.Setting(containerEl).setName("Display Beginner Tips").setDesc(
-      "Display instructions in the intiative tracker, helping you get used to the workflow."
+      "Display instructions in the initiative tracker, helping you get used to the workflow."
     ).addToggle((t2) => {
       t2.setValue(this.plugin.data.beginnerTips).onChange(
         async (v) => {
@@ -14734,95 +14826,6 @@ var InitiativeTrackerSettings = class extends import_obsidian9.PluginSettingTab 
         await this.plugin.saveSettings();
       };
     });
-    new import_obsidian9.Setting(containerEl).setName("Integrate with Obsidian Leaflet").setDesc(
-      createFragment((e) => {
-        e.createSpan({
-          text: "Integrate with the Obsidian Leaflet plugin and display combats on a map."
-        });
-        if (!this.plugin.canUseLeaflet) {
-          e.createEl("br");
-          e.createEl("br");
-          e.createSpan({
-            attr: {
-              style: `color: var(--text-error);`
-            },
-            text: "Requires  "
-          });
-          e.createEl("a", {
-            text: "Obsidian Leaflet",
-            href: "https://github.com/valentine195/obsidian-leaflet-plugin",
-            cls: "external-link"
-          });
-          e.createSpan({
-            attr: {
-              style: `color: var(--text-error);`
-            },
-            text: " version 4.0.0 to modify."
-          });
-        }
-      })
-    ).addToggle((t2) => {
-      if (!this.plugin.canUseLeaflet) {
-        t2.setDisabled(true);
-        this.plugin.data.leafletIntegration = false;
-      }
-      t2.setValue(this.plugin.data.leafletIntegration);
-      t2.onChange(async (v) => {
-        this.plugin.data.leafletIntegration = v;
-        await this.plugin.saveSettings();
-        this._displayIntegrations(containerEl);
-      });
-    });
-    if (this.plugin.canUseLeaflet && this.plugin.data.leafletIntegration) {
-      new import_obsidian9.Setting(containerEl).setName("Default Player Marker Type").setDesc(
-        createFragment((e) => {
-          if (this.plugin.data.playerMarker) {
-            const div = e.createDiv("marker-type-display");
-            const inner = div.createDiv("marker-icon-display");
-            const marker = this.plugin.leaflet.markerIcons.find(
-              (icon) => icon.type == this.plugin.data.playerMarker
-            );
-            if (marker) {
-              inner.innerHTML = marker.html;
-            }
-          }
-        })
-      ).addDropdown((drop) => {
-        for (let marker of this.plugin.leaflet.markerIcons) {
-          drop.addOption(marker.type, marker.type);
-        }
-        drop.setValue(this.plugin.data.playerMarker ?? "default");
-        drop.onChange(async (v) => {
-          this.plugin.data.playerMarker = v;
-          await this.plugin.saveSettings();
-          this._displayIntegrations(containerEl);
-        });
-      });
-      new import_obsidian9.Setting(containerEl).setName("Default Monster Marker Type").setDesc(
-        createFragment((e) => {
-          if (this.plugin.data.monsterMarker) {
-            const div = e.createDiv("marker-type-display");
-            const inner = div.createDiv("marker-icon-display");
-            const marker = this.plugin.leaflet.markerIcons.find(
-              (icon) => icon.type == this.plugin.data.monsterMarker
-            );
-            if (marker) {
-              inner.innerHTML = marker.html;
-            }
-          }
-        })
-      ).addDropdown((drop) => {
-        for (let marker of this.plugin.leaflet.markerIcons) {
-          drop.addOption(marker.type, marker.type);
-        }
-        drop.setValue(this.plugin.data.monsterMarker);
-        drop.onChange(async (v) => {
-          this.plugin.data.monsterMarker = v;
-          await this.plugin.saveSettings();
-          this._displayIntegrations(containerEl);
-        });
-      });
-    }
   }
 };
 var NewPlayerModal = class extends import_obsidian10.Modal {
@@ -15951,12 +15954,6 @@ function instance6($$self, $$props, $$invalidate) {
         dispatch2("load");
       }).setDisabled(Object.keys(plugin.data.encounters).length == 0);
     });
-    if ($data.leafletIntegration) {
-      menu.addSeparator();
-      menu.addItem((item) => {
-        item.setIcon(MAP).setTitle("Open Leaflet Map").onClick(() => dispatch2("open-map"));
-      });
-    }
     menu.showAtMouseEvent(evt);
   };
   const menuIcon = (node) => {
@@ -16219,26 +16216,6 @@ function instance8($$self, $$props, $$invalidate) {
         menu.addItem((item) => {
           item.setIcon(ENABLE).setTitle("Enable").onClick(() => {
             tracker.updateCreatures({ creature, change: { enabled: true } });
-          });
-        });
-      }
-      if (plugin.data.leafletIntegration) {
-        menu.addItem((item) => {
-          item.setIcon(MAPMARKER).setTitle("Change Marker").onClick((evt2) => {
-            const markerMenu = new import_obsidian15.Menu();
-            markerMenu.setNoIcon();
-            for (let marker of plugin.leaflet.markerIcons) {
-              markerMenu.addItem((item2) => {
-                item2.setTitle(marker.type);
-                item2.onClick(() => {
-                  tracker.updateCreatures({
-                    creature,
-                    change: { marker: marker.type }
-                  });
-                });
-              });
-            }
-            markerMenu.showAtMouseEvent(evt2);
           });
         });
       }
@@ -19599,13 +19576,13 @@ function create_fragment12(ctx) {
     c() {
       div = element("div");
       span0 = element("span");
-      span0.textContent = "Easy";
+      span0.textContent = `${ctx[3].systemDifficulties[0]}`;
       t1 = space();
       span1 = element("span");
       meter = element("meter");
       t2 = space();
       span2 = element("span");
-      span2.textContent = "Deadly";
+      span2.textContent = `${ctx[3].systemDifficulties.slice(-1)}`;
       attr(meter, "class", "difficulty-bar svelte-137y560");
       attr(meter, "min", "0");
       attr(meter, "low", "0.33");
@@ -19647,23 +19624,24 @@ function instance12($$self, $$props, $$invalidate) {
   const { difficulty } = tracker;
   const plugin = getContext("plugin");
   const dif = difficulty(plugin);
-  component_subscribe($$self, dif, (value) => $$invalidate(4, $dif = value));
+  component_subscribe($$self, dif, (value) => $$invalidate(5, $dif = value));
+  const rpgSystem = getRpgSystem(plugin);
   const difficultyBar = tweened(0, { duration: 400, easing: cubicOut });
   component_subscribe($$self, difficultyBar, (value) => $$invalidate(1, $difficultyBar = value));
   $$self.$$.update = () => {
-    if ($$self.$$.dirty & 16) {
+    if ($$self.$$.dirty & 32) {
       $: {
         if ($dif.thresholds.last()) {
           difficultyBar.set(Math.min($dif.difficulty.value / $dif.thresholds.last().minValue, 1));
         }
       }
     }
-    if ($$self.$$.dirty & 16) {
+    if ($$self.$$.dirty & 32) {
       $:
         $$invalidate(0, summary = $dif.difficulty.summary);
     }
   };
-  return [summary, $difficultyBar, dif, difficultyBar, $dif];
+  return [summary, $difficultyBar, dif, rpgSystem, difficultyBar, $dif];
 }
 var Difficulty = class extends SvelteComponent {
   constructor(options) {
@@ -24185,10 +24163,9 @@ var TrackerView = class extends import_obsidian29.ItemView {
       }
     });
     this.ui.$on("player-view", () => this.openPlayerView());
-    this.ui.$on("open-map", () => this.openInitiativeView());
   }
   getViewType() {
-    return INTIATIVE_TRACKER_VIEW;
+    return INITIATIVE_TRACKER_VIEW;
   }
   getDisplayText() {
     return "Initiative Tracker";
@@ -24201,9 +24178,6 @@ var TrackerView = class extends import_obsidian29.ItemView {
   }
   get npcs() {
     return [];
-  }
-  openInitiativeView() {
-    this.plugin.leaflet.openInitiativeView(this.pcs, this.npcs);
   }
   getExistingPlayerView() {
     const existing = this.plugin.app.workspace.getLeavesOfType(PLAYER_VIEW_VIEW);
@@ -55161,7 +55135,7 @@ var InitiativeTracker = class extends import_obsidian52.Plugin {
   }
   get view() {
     const leaves = this.app.workspace.getLeavesOfType(
-      INTIATIVE_TRACKER_VIEW
+      INITIATIVE_TRACKER_VIEW
     );
     const leaf = leaves?.length ? leaves[0] : null;
     if (leaf && leaf.view && leaf.view instanceof TrackerView)
@@ -55207,7 +55181,7 @@ var InitiativeTracker = class extends import_obsidian52.Plugin {
     this.setBuilderIcon();
     this.addSettingTab(new InitiativeTrackerSettings(this));
     this.registerView(
-      INTIATIVE_TRACKER_VIEW,
+      INITIATIVE_TRACKER_VIEW,
       (leaf) => new TrackerView(leaf, this)
     );
     this.registerView(
@@ -55481,16 +55455,16 @@ Please re-link it in settings.`
   async onunload() {
     await this.saveSettings();
     this.app.workspace.trigger("initiative-tracker:unload");
-    this.app.workspace.getLeavesOfType(INTIATIVE_TRACKER_VIEW).forEach((leaf) => leaf.detach());
+    this.app.workspace.getLeavesOfType(INITIATIVE_TRACKER_VIEW).forEach((leaf) => leaf.detach());
     this.app.workspace.getLeavesOfType(CREATURE_TRACKER_VIEW).forEach((leaf) => leaf.detach());
     console.log("Initiative Tracker unloaded");
   }
   async addTrackerView() {
-    if (this.app.workspace.getLeavesOfType(INTIATIVE_TRACKER_VIEW)?.length) {
+    if (this.app.workspace.getLeavesOfType(INITIATIVE_TRACKER_VIEW)?.length) {
       return;
     }
     await this.app.workspace.getRightLeaf(false).setViewState({
-      type: INTIATIVE_TRACKER_VIEW
+      type: INITIATIVE_TRACKER_VIEW
     });
   }
   get builder() {
@@ -55552,12 +55526,6 @@ Please re-link it in settings.`
       await this.loadData()
     );
     this.data = data;
-    if (this.data.leafletIntegration && !this.data.players.every((p) => p.marker)) {
-      this.data.players = this.data.players.map((p) => {
-        p.marker = p.marker ?? this.data.playerMarker;
-        return p;
-      });
-    }
     if (this.data.statuses?.some((c) => !c.id)) {
       for (const condition of this.data.statuses) {
         condition.id = condition.id ?? Conditions.find((c) => c.name == condition.name)?.id ?? getId();
@@ -55567,12 +55535,6 @@ Please re-link it in settings.`
     this.data.version = this.manifest.version.split(".").map((n) => Number(n));
   }
   async saveSettings() {
-    if (this.data.leafletIntegration && !this.data.players.every((p) => p.marker)) {
-      this.data.players = this.data.players.map((p) => {
-        p.marker = p.marker ?? this.data.playerMarker;
-        return p;
-      });
-    }
     await this.saveData(this.data);
     tracker.setData(this.data);
   }
@@ -55593,7 +55555,7 @@ Please re-link it in settings.`
     if (this.data.builder.sidebarIcon) {
       this._builderIcon = this.addRibbonIcon(
         BUILDER_VIEW,
-        "Intiative Tracker Encounter Builder",
+        "Initiative Tracker Encounter Builder",
         () => {
           this.addBuilderView();
         }
