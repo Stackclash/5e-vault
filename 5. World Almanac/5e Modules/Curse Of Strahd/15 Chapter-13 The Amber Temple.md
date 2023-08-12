@@ -32,7 +32,7 @@ Characters who visit the temple can sense the presence of great evil. The dark v
 The following areas correspond to labels on the maps of the Amber Temple below.
 
 > [!gallery]
-> ![Map 13.1: Amber Temple (Area X) - Upper Level](/compendium/adventures/curse-of-strahd/img/117-029.jpg#gallery)
+> ![[/5. World Almanac/5e Modules/Curse Of Strahd/img/117-029.jpg#gallery|Map 13.1: Amber Temple (Area X) - Upper Level]]
 > ![[/5. World Almanac/5e Modules/Curse Of Strahd/img/118-cos1301.jpg#gallery|Player Version]]
 
 All the doors in the temple are fashioned from blocks of translucent amber with iron hinges and fittings. Unless otherwise noted, arrow slits in the temple are 5 inches wide, 4 feet tall, and 1 foot thick.

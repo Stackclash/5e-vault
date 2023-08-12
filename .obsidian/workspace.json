@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9370591805a97163",
+        "id": "d23794cd5418406e",
         "type": "tabs",
         "children": [
           {
-            "id": "d83cbee30af99725",
+            "id": "a47f1a7570596d9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cfc3868bc8a236c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-                "mode": "preview",
+                "file": "5. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "health potion",
+                "query": "Kasimir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
+                "file": "5. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
+                "file": "5. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Redgrave.md"
+                "file": "5. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
               }
             }
           },
@@ -184,18 +172,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d83cbee30af99725",
+  "active": "a47f1a7570596d9d",
   "lastOpenFiles": [
-    "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/12 Chapter-10 The Ruins Of Berez.md",
+    "z_Templates/Leaflet Map.md",
+    "5. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "z_Templates/Leaflet Bounds Calculator.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
     "5. World Almanac/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Mechanics/Bestiary/Npc/Exethanter (COS).md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
+    "5. World Almanac/Eldoria/Locations/Barovia",
+    "5. World Almanac/Eldoria/Locations",
+    "5. World Almanac/Eldoria",
+    "5. World Almanac/Untitled.md",
+    "5. World Almanac/5e Modules/Curse Of Strahd/12 Chapter-10 The Ruins Of Berez.md",
+    "3. The Party/Curse of Strahd Campaign/Redgrave.md",
+    "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
     "5. World Almanac/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
     "6. Mechanics/Bestiary/Undead/Banshee.md",
     "5. World Almanac/5e Modules/Curse Of Strahd/09 Chapter-7 Argynvostholt.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. World Almanac/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "5. World Almanac/5e Modules/Curse Of Strahd/10 Chapter-8 The Village Of Krezk.md",
-    "5. World Almanac/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
     "6. Mechanics/Items/Items.md",
     "6. Mechanics/Items/Elixir Of Health.md",
     "5. World Almanac/Resources/The Interactive Tome of Strahd.pdf",
@@ -204,17 +204,9 @@
     "5. World Almanac/Books/Van Richtens Guide To Ravenloft/1 Welcome To Ravenloft.md",
     "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
     "3. The Party/Curse of Strahd Campaign/Marin.md",
-    "3. The Party/Curse of Strahd Campaign/Redgrave.md",
     "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
     "Untitled.md",
     "6. Mechanics/Bestiary/Aberration/Aberration.md",
-    "6. Mechanics/Bestiary/Beast/Beast.md",
-    "5. World Almanac/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
-    "4. Session Journal/Curse of Strahd Campaign/23-08-05 Session 3.md",
-    "4. Session Journal/Curse of Strahd Campaign/23-07-08 Session 1.md",
-    "4. Session Journal/Curse of Strahd Campaign/23-06-24 Session 0.md",
-    "6. Mechanics/Bestiary/Undead/Death Knight.md",
-    "6. Mechanics/Bestiary/Undead/Deathlock (MPMM).md",
     "6. Mechanics/Bestiary/Undead/token/zombie.png",
     "6. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
     "6. Mechanics/Bestiary/Undead/token/zombie-clot.png",
@@ -224,13 +216,9 @@
     "6. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png",
     "6. Mechanics/Bestiary/Undead/token/vampiric-mist.png",
     "6. Mechanics/Bestiary/Undead/token/vampiric-mind-flayer.png",
-    "6. Mechanics/Bestiary/Undead/token/vampire.png",
     "6. Mechanics/Bestiary/Undead/token",
     "6. Mechanics/Bestiary/Undead/img",
     "6. Mechanics/Bestiary/Plant/token",
-    "6. Mechanics/Bestiary/Plant/img",
-    "6. Mechanics/Bestiary/Ooze/token",
-    "6. Mechanics/Bestiary/Ooze/img",
-    "6. Mechanics/Bestiary/Npc/token"
+    "6. Mechanics/Bestiary/Plant/img"
   ]
 }

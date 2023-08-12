@@ -94,9 +94,9 @@ Thirty [[/6. Mechanics/Bestiary/Plant/Needle Blight.md|needle blights]] (in six 
 
 | Round | Creatures |
 |-------|-----------|
-| 3 | 1 [[/6. Mechanics/Bestiary/Humanoid/Druid.md|druid]] and 24 [[/6. Mechanics/Bestiary/Plant/Twig Blight.md|twig blights]] (from area W9) |
-| 4 | 1 [[/6. Mechanics/Bestiary/Humanoid/Druid.md|druid]] and 5 [[/6. Mechanics/Bestiary/Plant/Needle Blight.md|needle blights]] (from area W14) |
-| 5 | 1 [[/6. Mechanics/Bestiary/Humanoid/Druid.md|druid]] and 2 [[/6. Mechanics/Bestiary/Plant/Vine Blight.md|vine blights]] (from area W20) |
+| 3 | 1 [[/6. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and 24 [[/6. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] (from area W9) |
+| 4 | 1 [[/6. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and 5 [[/6. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] (from area W14) |
+| 5 | 1 [[/6. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and 2 [[/6. Mechanics/Bestiary/Plant/Vine Blight.md\|vine blights]] (from area W20) |
 ^round-creatures
 
 The druid lurking in area W16 carries a [[/6. Mechanics/Items/Gulthias Staff (COS).md|Gulthias staff]] (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
