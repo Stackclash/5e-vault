@@ -57,7 +57,7 @@ function getNewFilePath(path) {
 }
 
 async function updateContent(page, content) {
-    let matches = [...content.matchAll(/\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.]*)"*\)/g)]
+    let matches = [...content.matchAll(/\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.\(\)\-]*)"*\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
