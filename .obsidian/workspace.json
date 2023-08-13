@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa21f7321073d84",
+        "id": "4f6e6d06c2eebe07",
         "type": "tabs",
         "children": [
           {
-            "id": "3fe1a68d63f0cd00",
+            "id": "a0c02d538ec92859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-                "mode": "preview",
+                "file": "z_Templates/Party Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "317039050e1d2df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Scratch Notes/Fields for Locations.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kasimir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "z_Templates/Party Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "z_Templates/Party Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
+                "file": "z_Templates/Party Dashboard.md"
               }
             }
           },
@@ -145,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,36 +185,38 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3fe1a68d63f0cd00",
+  "active": "a0c02d538ec92859",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Locations.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "2. Scratch Notes/Fields for Shops.md",
+    "2. Scratch Notes/Fields for NPCs.md",
     "4. World Almanac/Eldoria/Groups/Groups.md",
-    "4. World Almanac/Eldoria/Groups/Group Database.md",
-    "z_Templates/Leaflet Map.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Krezk.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Argynvostholt.md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "z_Assets/Barovia.jpg",
+    "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
+    "Untitled 1.md",
+    "z_Templates/Location Database.md",
     "z_Templates/Settlement.md",
+    "z_Templates/Leaflet Map.md",
+    "z_Templates/Session Note.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Castle Ravenloft.md",
+    "3. The Party/Curse of Strahd Campaign/Session Log/23-06-24 Session 0.md",
+    "4. World Almanac/Eldoria/NPCs/Ireena Kolyana.md",
+    "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
+    "4. World Almanac/Eldoria/Groups/Group Database.md",
     "Untitled.md",
     "4. World Almanac/Eldoria/Groups",
     "6. Resources/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Castle Ravenloft.md",
     "6. Resources/5e Modules/5e Modules.md",
-    "z_Templates/Session Note.md",
     "z_Templates/Quest.md",
     "z_Templates/Party Dashboard.md",
-    "z_Templates/Settlement Database.md",
     "z_Templates/NPC Database.md",
-    "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
-    "4. World Almanac/Eldoria/NPCs/Ireena Kolyana.md",
     "4. World Almanac/Eldoria/NPCs",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Krezk.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Tser Pool Encampment.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Town of Vallaki.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/The Wizard of Wines.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/The Amber Temple.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Argynvostholt.md",
-    "6. Resources/5e Modules/Curse Of Strahd/14 Chapter-12 The Wizard Of Wines.md",
-    "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
-    "6. Resources/5e Modules/Curse Of Strahd/13 Chapter-11 Van Richtens Tower.md",
     "7. Resources/Untitled.canvas",
     "7. Resources",
     "3. The Party/Curse of Strahd Campaign/Session Log",
@@ -220,8 +233,6 @@
     "5. Mechanics/Bestiary/Undead/token/wraith.png",
     "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png",
     "5. Mechanics/Bestiary/Undead/token/wight.png",
-    "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png",
-    "5. Mechanics/Bestiary/Undead/token/vampiric-mist.png",
-    "5. Mechanics/Bestiary/Undead/token/vampiric-mind-flayer.png"
+    "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png"
   ]
 }

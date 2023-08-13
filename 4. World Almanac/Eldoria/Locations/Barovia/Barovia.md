@@ -41,12 +41,14 @@ TBD
 ## Map
 >```leaflet
 > id: Barovia-Map
-> image: [[008-cos201.jpg]]
+> image: [[Barovia.jpg]]
 > lock: true
 > recenter: true
 > width: 95%
 > height: 700px
-> bounds: [[0,0], [11.68,18.21]]
+> bounds: 
+> - [0,0]
+> - [11.68,18.21]
 > lat: 5.84
 > long: 9.10
 > minZoom: 6

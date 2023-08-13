@@ -1,5 +1,7 @@
 ---
-location: [4.44, 14.39]
+location:
+  - 4.44
+  - 14.39
 mapmarker: village
 ---
 

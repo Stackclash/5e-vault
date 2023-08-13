@@ -38,18 +38,23 @@ TBD
 
 ## Map
 > ```leaflet
-> id: TBD
-> image: [[PlaceholderImage.png]]
-> height: 600px
-> width: 640px
-> lat: 50
-> long: 50
-> minZoom: 1
-> maxZoom: 5
-> defaultZoom: 1
-> unit: meters
-> scale: 1
-> darkMode: false
+> id: Faerun_Map
+> lock: true  
+> recenter: true  
+> noScrollZoom: true  
+> image: [[HighRes (with Saltmarsh) (Orig).jpg]] 
+> bounds: [[0,0], [1815.07, 2805.48]]  
+> height: 900px  
+> width: 95%
+> lat: 907.53  
+> long: 1402.74  
+> minZoom: -1.5
+> maxZoom: 1.5  
+> defaultZoom: -1
+> zoomDelta: 0.5
+> unit: miles  
+> scale: 1  
+> darkMode: false  
 > ```
 
 ## Notable Locations

@@ -1,5 +1,5 @@
 # **Current Party**
-**[[Player Database|Edit Players]]** | **[[NPC Database|Edit NPCs]]**
+**[[Player Database|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID
