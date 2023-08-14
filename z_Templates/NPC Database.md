@@ -100,12 +100,12 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Neutral", backgroundColor: "hsl(99, 95%, 90%)"}
-      - { label: "TN", backgroundColor: "hsl(240, 95%, 90%)"}
-      - { label: "CN", backgroundColor: "hsl(177, 95%, 90%)"}
-      - { label: "NG", backgroundColor: "hsl(152, 95%, 90%)"}
-      - { label: "LG", backgroundColor: "hsl(287, 95%, 90%)"}
-      - { label: "CG", backgroundColor: "hsl(174, 95%, 90%)"}
+      - { label: "Neutral", value: "Neutral", color: "hsl(99, 95%, 90%)"}
+      - { label: "TN", value: "TN", color: "hsl(240, 95%, 90%)"}
+      - { label: "CN", value: "CN", color: "hsl(177, 95%, 90%)"}
+      - { label: "NG", value: "NG", color: "hsl(152, 95%, 90%)"}
+      - { label: "LG", value: "LG", color: "hsl(287, 95%, 90%)"}
+      - { label: "CG", value: "CG", color: "hsl(174, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -129,23 +129,23 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Human", backgroundColor: "hsl(13, 95%, 90%)"}
-      - { label: "Wood Elf", backgroundColor: "hsl(16, 95%, 90%)"}
-      - { label: "Vampire", backgroundColor: "hsl(255, 95%, 90%)"}
-      - { label: "Halfing", backgroundColor: "hsl(232, 95%, 90%)"}
-      - { label: "Tiefling", backgroundColor: "hsl(29, 95%, 90%)"}
-      - { label: "Goliath", backgroundColor: "hsl(143, 95%, 90%)"}
-      - { label: "Dwarf", backgroundColor: "hsl(183, 95%, 90%)"}
-      - { label: "Halfling", backgroundColor: "hsl(269, 95%, 90%)"}
-      - { label: "Tabaxi", backgroundColor: "hsl(137, 95%, 90%)"}
-      - { label: "Gnome", backgroundColor: "hsl(341, 95%, 90%)"}
-      - { label: "Half-Elf", backgroundColor: "hsl(82, 95%, 90%)"}
-      - { label: "Dragonborn", backgroundColor: "hsl(112, 95%, 90%)"}
-      - { label: "Aasimar", backgroundColor: "hsl(157, 95%, 90%)"}
-      - { label: "Drow", backgroundColor: "hsl(131, 95%, 90%)"}
-      - { label: "Half-Orc", backgroundColor: "hsl(16, 95%, 90%)"}
-      - { label: "Harengon", backgroundColor: "hsl(304, 95%, 90%)"}
-      - { label: "Tortle", backgroundColor: "hsl(15, 95%, 90%)"}
+      - { label: "Human", value: "Human", color: "hsl(13, 95%, 90%)"}
+      - { label: "Wood Elf", value: "Wood Elf", color: "hsl(16, 95%, 90%)"}
+      - { label: "Vampire", value: "Vampire", color: "hsl(255, 95%, 90%)"}
+      - { label: "Halfing", value: "Halfing", color: "hsl(232, 95%, 90%)"}
+      - { label: "Tiefling", value: "Tiefling", color: "hsl(29, 95%, 90%)"}
+      - { label: "Goliath", value: "Goliath", color: "hsl(143, 95%, 90%)"}
+      - { label: "Dwarf", value: "Dwarf", color: "hsl(183, 95%, 90%)"}
+      - { label: "Halfling", value: "Halfling", color: "hsl(269, 95%, 90%)"}
+      - { label: "Tabaxi", value: "Tabaxi", color: "hsl(137, 95%, 90%)"}
+      - { label: "Gnome", value: "Gnome", color: "hsl(341, 95%, 90%)"}
+      - { label: "Half-Elf", value: "Half-Elf", color: "hsl(82, 95%, 90%)"}
+      - { label: "Dragonborn", value: "Dragonborn", color: "hsl(112, 95%, 90%)"}
+      - { label: "Aasimar", value: "Aasimar", color: "hsl(157, 95%, 90%)"}
+      - { label: "Drow", value: "Drow", color: "hsl(131, 95%, 90%)"}
+      - { label: "Half-Orc", value: "Half-Orc", color: "hsl(16, 95%, 90%)"}
+      - { label: "Harengon", value: "Harengon", color: "hsl(304, 95%, 90%)"}
+      - { label: "Tortle", value: "Tortle", color: "hsl(15, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -169,10 +169,10 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Female", backgroundColor: "hsl(111, 95%, 90%)"}
-      - { label: "Male", backgroundColor: "hsl(74, 95%, 90%)"}
-      - { label: "N/A", backgroundColor: "hsl(296, 95%, 90%)"}
-      - { label: "Other", backgroundColor: "hsl(345, 95%, 90%)"}
+      - { label: "Female", value: "Female", color: "hsl(111, 95%, 90%)"}
+      - { label: "Male", value: "Male", color: "hsl(74, 95%, 90%)"}
+      - { label: "N/A", value: "N/A", color: "hsl(296, 95%, 90%)"}
+      - { label: "Other", value: "Other", color: "hsl(345, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -196,14 +196,14 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Adult", backgroundColor: "hsl(4, 95%, 90%)"}
-      - { label: "Ancient", backgroundColor: "hsl(270, 95%, 90%)"}
-      - { label: "Child", backgroundColor: "hsl(271, 95%, 90%)"}
-      - { label: "Elderly", backgroundColor: "hsl(231, 95%, 90%)"}
-      - { label: "Infant", backgroundColor: "hsl(94, 95%, 90%)"}
-      - { label: "Mature Adult", backgroundColor: "hsl(331, 95%, 90%)"}
-      - { label: "Teen", backgroundColor: "hsl(328, 95%, 90%)"}
-      - { label: "Young Adult", backgroundColor: "hsl(86, 95%, 90%)"}
+      - { label: "Adult", value: "Adult", color: "hsl(4, 95%, 90%)"}
+      - { label: "Ancient", value: "Ancient", color: "hsl(270, 95%, 90%)"}
+      - { label: "Child", value: "Child", color: "hsl(271, 95%, 90%)"}
+      - { label: "Elderly", value: "Elderly", color: "hsl(231, 95%, 90%)"}
+      - { label: "Infant", value: "Infant", color: "hsl(94, 95%, 90%)"}
+      - { label: "Mature Adult", value: "Mature Adult", color: "hsl(331, 95%, 90%)"}
+      - { label: "Teen", value: "Teen", color: "hsl(328, 95%, 90%)"}
+      - { label: "Young Adult", value: "Young Adult", color: "hsl(86, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -227,7 +227,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Character", backgroundColor: "hsl(221, 95%, 90%)"}
+      - { label: "Character", value: "Character", color: "hsl(221, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -251,11 +251,11 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Dead", backgroundColor: "hsl(280, 95%, 90%)"}
-      - { label: "Dying", backgroundColor: "hsl(323, 95%, 90%)"}
-      - { label: "Healthy", backgroundColor: "hsl(342, 95%, 90%)"}
-      - { label: "Hurt", backgroundColor: "hsl(10, 95%, 90%)"}
-      - { label: "Sick", backgroundColor: "hsl(80, 95%, 90%)"}
+      - { label: "Dead", value: "Dead", color: "hsl(280, 95%, 90%)"}
+      - { label: "Dying", value: "Dying", color: "hsl(323, 95%, 90%)"}
+      - { label: "Healthy", value: "Healthy", color: "hsl(342, 95%, 90%)"}
+      - { label: "Hurt", value: "Hurt", color: "hsl(10, 95%, 90%)"}
+      - { label: "Sick", value: "Sick", color: "hsl(80, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -324,27 +324,27 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Adventurer", backgroundColor: "hsl(232, 95%, 90%)"}
-      - { label: "Alchemist", backgroundColor: "hsl(204, 95%, 90%)"}
-      - { label: "Archeologist", backgroundColor: "hsl(66, 95%, 90%)"}
-      - { label: "Barkeeper", backgroundColor: "hsl(68, 95%, 90%)"}
-      - { label: "Blacksmith", backgroundColor: "hsl(66, 95%, 90%)"}
-      - { label: "Courier", backgroundColor: "hsl(164, 95%, 90%)"}
-      - { label: "Enchanter", backgroundColor: "hsl(178, 95%, 90%)"}
-      - { label: "Farmer", backgroundColor: "hsl(70, 95%, 90%)"}
-      - { label: "Guard", backgroundColor: "hsl(320, 95%, 90%)"}
-      - { label: "Historian", backgroundColor: "hsl(24, 95%, 90%)"}
-      - { label: "Libarian", backgroundColor: "hsl(7, 95%, 90%)"}
-      - { label: "Mage", backgroundColor: "hsl(194, 95%, 90%)"}
-      - { label: "Merchant", backgroundColor: "hsl(140, 95%, 90%)"}
-      - { label: "Noble", backgroundColor: "hsl(28, 95%, 90%)"}
-      - { label: "Priest", backgroundColor: "hsl(322, 95%, 90%)"}
-      - { label: "Royal", backgroundColor: "hsl(126, 95%, 90%)"}
-      - { label: "Servant", backgroundColor: "hsl(249, 95%, 90%)"}
-      - { label: "Stablehand", backgroundColor: "hsl(25, 95%, 90%)"}
-      - { label: "Steward", backgroundColor: "hsl(339, 95%, 90%)"}
-      - { label: "Teacher", backgroundColor: "hsl(36, 95%, 90%)"}
-      - { label: "Hunter", backgroundColor: "hsl(354, 95%, 90%)"}
+      - { label: "Adventurer", value: "Adventurer", color: "hsl(232, 95%, 90%)"}
+      - { label: "Alchemist", value: "Alchemist", color: "hsl(204, 95%, 90%)"}
+      - { label: "Archeologist", value: "Archeologist", color: "hsl(66, 95%, 90%)"}
+      - { label: "Barkeeper", value: "Barkeeper", color: "hsl(68, 95%, 90%)"}
+      - { label: "Blacksmith", value: "Blacksmith", color: "hsl(66, 95%, 90%)"}
+      - { label: "Courier", value: "Courier", color: "hsl(164, 95%, 90%)"}
+      - { label: "Enchanter", value: "Enchanter", color: "hsl(178, 95%, 90%)"}
+      - { label: "Farmer", value: "Farmer", color: "hsl(70, 95%, 90%)"}
+      - { label: "Guard", value: "Guard", color: "hsl(320, 95%, 90%)"}
+      - { label: "Historian", value: "Historian", color: "hsl(24, 95%, 90%)"}
+      - { label: "Libarian", value: "Libarian", color: "hsl(7, 95%, 90%)"}
+      - { label: "Mage", value: "Mage", color: "hsl(194, 95%, 90%)"}
+      - { label: "Merchant", value: "Merchant", color: "hsl(140, 95%, 90%)"}
+      - { label: "Noble", value: "Noble", color: "hsl(28, 95%, 90%)"}
+      - { label: "Priest", value: "Priest", color: "hsl(322, 95%, 90%)"}
+      - { label: "Royal", value: "Royal", color: "hsl(126, 95%, 90%)"}
+      - { label: "Servant", value: "Servant", color: "hsl(249, 95%, 90%)"}
+      - { label: "Stablehand", value: "Stablehand", color: "hsl(25, 95%, 90%)"}
+      - { label: "Steward", value: "Steward", color: "hsl(339, 95%, 90%)"}
+      - { label: "Teacher", value: "Teacher", color: "hsl(36, 95%, 90%)"}
+      - { label: "Hunter", value: "Hunter", color: "hsl(354, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -439,7 +439,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Party 1", backgroundColor: "hsl(152, 95%, 90%)"}
+      - { label: "Party 1", value: "Party 1", color: "hsl(152, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -463,8 +463,8 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "NPC", backgroundColor: "hsl(175, 95%, 90%)"}
-      - { label: "VIP", backgroundColor: "hsl(38, 95%, 90%)"}
+      - { label: "NPC", value: "NPC", color: "hsl(175, 95%, 90%)"}
+      - { label: "VIP", value: "VIP", color: "hsl(38, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -487,10 +487,10 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Asexual", backgroundColor: "hsl(36, 95%, 90%)"}
-      - { label: "Bisexual", backgroundColor: "hsl(313, 95%, 90%)"}
-      - { label: "Gay", backgroundColor: "hsl(235, 95%, 90%)"}
-      - { label: "Straight", backgroundColor: "hsl(355, 95%, 90%)"}
+      - { label: "Asexual", value: "Asexual", color: "hsl(36, 95%, 90%)"}
+      - { label: "Bisexual", value: "Bisexual", color: "hsl(313, 95%, 90%)"}
+      - { label: "Gay", value: "Gay", color: "hsl(235, 95%, 90%)"}
+      - { label: "Straight", value: "Straight", color: "hsl(355, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -512,37 +512,37 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Bossy", backgroundColor: "hsl(115, 95%, 90%)"}
-      - { label: "Cruel", backgroundColor: "hsl(116, 95%, 90%)"}
-      - { label: "Deferential", backgroundColor: "hsl(325, 95%, 90%)"}
-      - { label: "Demanding", backgroundColor: "hsl(111, 95%, 90%)"}
-      - { label: "Dependable", backgroundColor: "hsl(217, 95%, 90%)"}
-      - { label: "Dishonest", backgroundColor: "hsl(100, 95%, 90%)"}
-      - { label: "Forthcoming", backgroundColor: "hsl(110, 95%, 90%)"}
-      - { label: "Friendly", backgroundColor: "hsl(234, 95%, 90%)"}
-      - { label: "Generous", backgroundColor: "hsl(297, 95%, 90%)"}
-      - { label: "Helpful", backgroundColor: "hsl(303, 95%, 90%)"}
-      - { label: "Honest", backgroundColor: "hsl(145, 95%, 90%)"}
-      - { label: "Impartial", backgroundColor: "hsl(70, 95%, 90%)"}
-      - { label: "Intolerant", backgroundColor: "hsl(136, 95%, 90%)"}
-      - { label: "Lenient", backgroundColor: "hsl(343, 95%, 90%)"}
-      - { label: "Loyal", backgroundColor: "hsl(280, 95%, 90%)"}
-      - { label: "Peaceful", backgroundColor: "hsl(105, 95%, 90%)"}
-      - { label: "Quite", backgroundColor: "hsl(218, 95%, 90%)"}
-      - { label: "Secretive", backgroundColor: "hsl(310, 95%, 90%)"}
-      - { label: "Selfish", backgroundColor: "hsl(70, 95%, 90%)"}
-      - { label: "Selfless", backgroundColor: "hsl(79, 95%, 90%)"}
-      - { label: "Stingy", backgroundColor: "hsl(129, 95%, 90%)"}
-      - { label: "Suspicious", backgroundColor: "hsl(80, 95%, 90%)"}
-      - { label: "Talkative", backgroundColor: "hsl(198, 95%, 90%)"}
-      - { label: "Tolerant", backgroundColor: "hsl(154, 95%, 90%)"}
-      - { label: "Trusting", backgroundColor: "hsl(207, 95%, 90%)"}
-      - { label: "Uncooperative", backgroundColor: "hsl(66, 95%, 90%)"}
-      - { label: "Unfair", backgroundColor: "hsl(176, 95%, 90%)"}
-      - { label: "Unfaithful", backgroundColor: "hsl(329, 95%, 90%)"}
-      - { label: "Unfriendly", backgroundColor: "hsl(37, 95%, 90%)"}
-      - { label: "Unreliable", backgroundColor: "hsl(318, 95%, 90%)"}
-      - { label: "Violent", backgroundColor: "hsl(124, 95%, 90%)"}
+      - { label: "Bossy", value: "Bossy", color: "hsl(115, 95%, 90%)"}
+      - { label: "Cruel", value: "Cruel", color: "hsl(116, 95%, 90%)"}
+      - { label: "Deferential", value: "Deferential", color: "hsl(325, 95%, 90%)"}
+      - { label: "Demanding", value: "Demanding", color: "hsl(111, 95%, 90%)"}
+      - { label: "Dependable", value: "Dependable", color: "hsl(217, 95%, 90%)"}
+      - { label: "Dishonest", value: "Dishonest", color: "hsl(100, 95%, 90%)"}
+      - { label: "Forthcoming", value: "Forthcoming", color: "hsl(110, 95%, 90%)"}
+      - { label: "Friendly", value: "Friendly", color: "hsl(234, 95%, 90%)"}
+      - { label: "Generous", value: "Generous", color: "hsl(297, 95%, 90%)"}
+      - { label: "Helpful", value: "Helpful", color: "hsl(303, 95%, 90%)"}
+      - { label: "Honest", value: "Honest", color: "hsl(145, 95%, 90%)"}
+      - { label: "Impartial", value: "Impartial", color: "hsl(70, 95%, 90%)"}
+      - { label: "Intolerant", value: "Intolerant", color: "hsl(136, 95%, 90%)"}
+      - { label: "Lenient", value: "Lenient", color: "hsl(343, 95%, 90%)"}
+      - { label: "Loyal", value: "Loyal", color: "hsl(280, 95%, 90%)"}
+      - { label: "Peaceful", value: "Peaceful", color: "hsl(105, 95%, 90%)"}
+      - { label: "Quite", value: "Quite", color: "hsl(218, 95%, 90%)"}
+      - { label: "Secretive", value: "Secretive", color: "hsl(310, 95%, 90%)"}
+      - { label: "Selfish", value: "Selfish", color: "hsl(70, 95%, 90%)"}
+      - { label: "Selfless", value: "Selfless", color: "hsl(79, 95%, 90%)"}
+      - { label: "Stingy", value: "Stingy", color: "hsl(129, 95%, 90%)"}
+      - { label: "Suspicious", value: "Suspicious", color: "hsl(80, 95%, 90%)"}
+      - { label: "Talkative", value: "Talkative", color: "hsl(198, 95%, 90%)"}
+      - { label: "Tolerant", value: "Tolerant", color: "hsl(154, 95%, 90%)"}
+      - { label: "Trusting", value: "Trusting", color: "hsl(207, 95%, 90%)"}
+      - { label: "Uncooperative", value: "Uncooperative", color: "hsl(66, 95%, 90%)"}
+      - { label: "Unfair", value: "Unfair", color: "hsl(176, 95%, 90%)"}
+      - { label: "Unfaithful", value: "Unfaithful", color: "hsl(329, 95%, 90%)"}
+      - { label: "Unfriendly", value: "Unfriendly", color: "hsl(37, 95%, 90%)"}
+      - { label: "Unreliable", value: "Unreliable", color: "hsl(318, 95%, 90%)"}
+      - { label: "Violent", value: "Violent", color: "hsl(124, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -563,34 +563,34 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Adaptive", backgroundColor: "hsl(346, 95%, 90%)"}
-      - { label: "Ambitious", backgroundColor: "hsl(191, 95%, 90%)"}
-      - { label: "Analytical", backgroundColor: "hsl(124, 95%, 90%)"}
-      - { label: "Cautious", backgroundColor: "hsl(329, 95%, 90%)"}
-      - { label: "Comformist", backgroundColor: "hsl(73, 95%, 90%)"}
-      - { label: "Complacent", backgroundColor: "hsl(258, 95%, 90%)"}
-      - { label: "Courageous", backgroundColor: "hsl(53, 95%, 90%)"}
-      - { label: "Cowardly", backgroundColor: "hsl(247, 95%, 90%)"}
-      - { label: "Creative", backgroundColor: "hsl(96, 95%, 90%)"}
-      - { label: "Decisive", backgroundColor: "hsl(336, 95%, 90%)"}
-      - { label: "Emotional", backgroundColor: "hsl(212, 95%, 90%)"}
-      - { label: "Impatient", backgroundColor: "hsl(84, 95%, 90%)"}
-      - { label: "Inattentive", backgroundColor: "hsl(281, 95%, 90%)"}
-      - { label: "Incompetent", backgroundColor: "hsl(186, 95%, 90%)"}
-      - { label: "Indecisive", backgroundColor: "hsl(270, 95%, 90%)"}
-      - { label: "Independent", backgroundColor: "hsl(319, 95%, 90%)"}
-      - { label: "Intelligent", backgroundColor: "hsl(66, 95%, 90%)"}
-      - { label: "Patient", backgroundColor: "hsl(290, 95%, 90%)"}
-      - { label: "Perceptive", backgroundColor: "hsl(21, 95%, 90%)"}
-      - { label: "Reckless", backgroundColor: "hsl(59, 95%, 90%)"}
-      - { label: "Religious", backgroundColor: "hsl(279, 95%, 90%)"}
-      - { label: "Secular", backgroundColor: "hsl(352, 95%, 90%)"}
-      - { label: "Skeptical", backgroundColor: "hsl(11, 95%, 90%)"}
-      - { label: "Skillful", backgroundColor: "hsl(354, 95%, 90%)"}
-      - { label: "Stupid", backgroundColor: "hsl(315, 95%, 90%)"}
-      - { label: "Superstitious", backgroundColor: "hsl(355, 95%, 90%)"}
-      - { label: "Tenacious", backgroundColor: "hsl(195, 95%, 90%)"}
-      - { label: "Uninventive", backgroundColor: "hsl(207, 95%, 90%)"}
+      - { label: "Adaptive", value: "Adaptive", color: "hsl(346, 95%, 90%)"}
+      - { label: "Ambitious", value: "Ambitious", color: "hsl(191, 95%, 90%)"}
+      - { label: "Analytical", value: "Analytical", color: "hsl(124, 95%, 90%)"}
+      - { label: "Cautious", value: "Cautious", color: "hsl(329, 95%, 90%)"}
+      - { label: "Comformist", value: "Comformist", color: "hsl(73, 95%, 90%)"}
+      - { label: "Complacent", value: "Complacent", color: "hsl(258, 95%, 90%)"}
+      - { label: "Courageous", value: "Courageous", color: "hsl(53, 95%, 90%)"}
+      - { label: "Cowardly", value: "Cowardly", color: "hsl(247, 95%, 90%)"}
+      - { label: "Creative", value: "Creative", color: "hsl(96, 95%, 90%)"}
+      - { label: "Decisive", value: "Decisive", color: "hsl(336, 95%, 90%)"}
+      - { label: "Emotional", value: "Emotional", color: "hsl(212, 95%, 90%)"}
+      - { label: "Impatient", value: "Impatient", color: "hsl(84, 95%, 90%)"}
+      - { label: "Inattentive", value: "Inattentive", color: "hsl(281, 95%, 90%)"}
+      - { label: "Incompetent", value: "Incompetent", color: "hsl(186, 95%, 90%)"}
+      - { label: "Indecisive", value: "Indecisive", color: "hsl(270, 95%, 90%)"}
+      - { label: "Independent", value: "Independent", color: "hsl(319, 95%, 90%)"}
+      - { label: "Intelligent", value: "Intelligent", color: "hsl(66, 95%, 90%)"}
+      - { label: "Patient", value: "Patient", color: "hsl(290, 95%, 90%)"}
+      - { label: "Perceptive", value: "Perceptive", color: "hsl(21, 95%, 90%)"}
+      - { label: "Reckless", value: "Reckless", color: "hsl(59, 95%, 90%)"}
+      - { label: "Religious", value: "Religious", color: "hsl(279, 95%, 90%)"}
+      - { label: "Secular", value: "Secular", color: "hsl(352, 95%, 90%)"}
+      - { label: "Skeptical", value: "Skeptical", color: "hsl(11, 95%, 90%)"}
+      - { label: "Skillful", value: "Skillful", color: "hsl(354, 95%, 90%)"}
+      - { label: "Stupid", value: "Stupid", color: "hsl(315, 95%, 90%)"}
+      - { label: "Superstitious", value: "Superstitious", color: "hsl(355, 95%, 90%)"}
+      - { label: "Tenacious", value: "Tenacious", color: "hsl(195, 95%, 90%)"}
+      - { label: "Uninventive", value: "Uninventive", color: "hsl(207, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -611,43 +611,43 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Anxious", backgroundColor: "hsl(21, 95%, 90%)"}
-      - { label: "Apathetic", backgroundColor: "hsl(38, 95%, 90%)"}
-      - { label: "Articulate", backgroundColor: "hsl(131, 95%, 90%)"}
-      - { label: "Awkward", backgroundColor: "hsl(278, 95%, 90%)"}
-      - { label: "Calm", backgroundColor: "hsl(136, 95%, 90%)"}
-      - { label: "Caring", backgroundColor: "hsl(196, 95%, 90%)"}
-      - { label: "Charming", backgroundColor: "hsl(12, 95%, 90%)"}
-      - { label: "Cheerful", backgroundColor: "hsl(293, 95%, 90%)"}
-      - { label: "Childish", backgroundColor: "hsl(339, 95%, 90%)"}
-      - { label: "Cold", backgroundColor: "hsl(266, 95%, 90%)"}
-      - { label: "Depressed", backgroundColor: "hsl(130, 95%, 90%)"}
-      - { label: "Dull", backgroundColor: "hsl(248, 95%, 90%)"}
-      - { label: "Eccentric", backgroundColor: "hsl(244, 95%, 90%)"}
-      - { label: "Energetic", backgroundColor: "hsl(74, 95%, 90%)"}
-      - { label: "Enthusiastic", backgroundColor: "hsl(333, 95%, 90%)"}
-      - { label: "Funny", backgroundColor: "hsl(205, 95%, 90%)"}
-      - { label: "Gentle", backgroundColor: "hsl(233, 95%, 90%)"}
-      - { label: "Humble", backgroundColor: "hsl(197, 95%, 90%)"}
-      - { label: "Humorless", backgroundColor: "hsl(128, 95%, 90%)"}
-      - { label: "Impolite", backgroundColor: "hsl(67, 95%, 90%)"}
-      - { label: "Incoherent", backgroundColor: "hsl(49, 95%, 90%)"}
-      - { label: "Listless", backgroundColor: "hsl(127, 95%, 90%)"}
-      - { label: "Mature", backgroundColor: "hsl(138, 95%, 90%)"}
-      - { label: "Naive", backgroundColor: "hsl(320, 95%, 90%)"}
-      - { label: "Optimistic", backgroundColor: "hsl(136, 95%, 90%)"}
-      - { label: "Overt", backgroundColor: "hsl(187, 95%, 90%)"}
-      - { label: "Pessimistic", backgroundColor: "hsl(345, 95%, 90%)"}
-      - { label: "Polite", backgroundColor: "hsl(251, 95%, 90%)"}
-      - { label: "Proud", backgroundColor: "hsl(353, 95%, 90%)"}
-      - { label: "Repulsive", backgroundColor: "hsl(77, 95%, 90%)"}
-      - { label: "Respectful", backgroundColor: "hsl(61, 95%, 90%)"}
-      - { label: "Savvy", backgroundColor: "hsl(85, 95%, 90%)"}
-      - { label: "Sensitive", backgroundColor: "hsl(186, 95%, 90%)"}
-      - { label: "Smooth", backgroundColor: "hsl(81, 95%, 90%)"}
-      - { label: "Subtle", backgroundColor: "hsl(266, 95%, 90%)"}
-      - { label: "Thick-skinned", backgroundColor: "hsl(69, 95%, 90%)"}
-      - { label: "Wrathful", backgroundColor: "hsl(186, 95%, 90%)"}
+      - { label: "Anxious", value: "Anxious", color: "hsl(21, 95%, 90%)"}
+      - { label: "Apathetic", value: "Apathetic", color: "hsl(38, 95%, 90%)"}
+      - { label: "Articulate", value: "Articulate", color: "hsl(131, 95%, 90%)"}
+      - { label: "Awkward", value: "Awkward", color: "hsl(278, 95%, 90%)"}
+      - { label: "Calm", value: "Calm", color: "hsl(136, 95%, 90%)"}
+      - { label: "Caring", value: "Caring", color: "hsl(196, 95%, 90%)"}
+      - { label: "Charming", value: "Charming", color: "hsl(12, 95%, 90%)"}
+      - { label: "Cheerful", value: "Cheerful", color: "hsl(293, 95%, 90%)"}
+      - { label: "Childish", value: "Childish", color: "hsl(339, 95%, 90%)"}
+      - { label: "Cold", value: "Cold", color: "hsl(266, 95%, 90%)"}
+      - { label: "Depressed", value: "Depressed", color: "hsl(130, 95%, 90%)"}
+      - { label: "Dull", value: "Dull", color: "hsl(248, 95%, 90%)"}
+      - { label: "Eccentric", value: "Eccentric", color: "hsl(244, 95%, 90%)"}
+      - { label: "Energetic", value: "Energetic", color: "hsl(74, 95%, 90%)"}
+      - { label: "Enthusiastic", value: "Enthusiastic", color: "hsl(333, 95%, 90%)"}
+      - { label: "Funny", value: "Funny", color: "hsl(205, 95%, 90%)"}
+      - { label: "Gentle", value: "Gentle", color: "hsl(233, 95%, 90%)"}
+      - { label: "Humble", value: "Humble", color: "hsl(197, 95%, 90%)"}
+      - { label: "Humorless", value: "Humorless", color: "hsl(128, 95%, 90%)"}
+      - { label: "Impolite", value: "Impolite", color: "hsl(67, 95%, 90%)"}
+      - { label: "Incoherent", value: "Incoherent", color: "hsl(49, 95%, 90%)"}
+      - { label: "Listless", value: "Listless", color: "hsl(127, 95%, 90%)"}
+      - { label: "Mature", value: "Mature", color: "hsl(138, 95%, 90%)"}
+      - { label: "Naive", value: "Naive", color: "hsl(320, 95%, 90%)"}
+      - { label: "Optimistic", value: "Optimistic", color: "hsl(136, 95%, 90%)"}
+      - { label: "Overt", value: "Overt", color: "hsl(187, 95%, 90%)"}
+      - { label: "Pessimistic", value: "Pessimistic", color: "hsl(345, 95%, 90%)"}
+      - { label: "Polite", value: "Polite", color: "hsl(251, 95%, 90%)"}
+      - { label: "Proud", value: "Proud", color: "hsl(353, 95%, 90%)"}
+      - { label: "Repulsive", value: "Repulsive", color: "hsl(77, 95%, 90%)"}
+      - { label: "Respectful", value: "Respectful", color: "hsl(61, 95%, 90%)"}
+      - { label: "Savvy", value: "Savvy", color: "hsl(85, 95%, 90%)"}
+      - { label: "Sensitive", value: "Sensitive", color: "hsl(186, 95%, 90%)"}
+      - { label: "Smooth", value: "Smooth", color: "hsl(81, 95%, 90%)"}
+      - { label: "Subtle", value: "Subtle", color: "hsl(266, 95%, 90%)"}
+      - { label: "Thick-skinned", value: "Thick-skinned", color: "hsl(69, 95%, 90%)"}
+      - { label: "Wrathful", value: "Wrathful", color: "hsl(186, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -728,13 +728,13 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Friend", backgroundColor: "hsl(243, 95%, 90%)"}
-      - { label: "Family", backgroundColor: "hsl(208, 95%, 90%)"}
-      - { label: "Ally", backgroundColor: "hsl(91, 95%, 90%)"}
-      - { label: "Enemy", backgroundColor: "hsl(238, 95%, 90%)"}
-      - { label: "Unmet", backgroundColor: "hsl(108, 95%, 90%)"}
-      - { label: "Acquaintance", backgroundColor: "hsl(10, 95%, 90%)"}
-      - { label: "Lover", backgroundColor: "hsl(337, 95%, 90%)"}
+      - { label: "Friend", value: "Friend", color: "hsl(243, 95%, 90%)"}
+      - { label: "Family", value: "Family", color: "hsl(208, 95%, 90%)"}
+      - { label: "Ally", value: "Ally", color: "hsl(91, 95%, 90%)"}
+      - { label: "Enemy", value: "Enemy", color: "hsl(238, 95%, 90%)"}
+      - { label: "Unmet", value: "Unmet", color: "hsl(108, 95%, 90%)"}
+      - { label: "Acquaintance", value: "Acquaintance", color: "hsl(10, 95%, 90%)"}
+      - { label: "Lover", value: "Lover", color: "hsl(337, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -755,9 +755,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "He/Him", backgroundColor: "hsl(111, 95%, 90%)"}
-      - { label: "She/Her", backgroundColor: "hsl(17, 95%, 90%)"}
-      - { label: "They/Them", backgroundColor: "hsl(187, 95%, 90%)"}
+      - { label: "He/Him", value: "He/Him", color: "hsl(111, 95%, 90%)"}
+      - { label: "She/Her", value: "She/Her", color: "hsl(17, 95%, 90%)"}
+      - { label: "They/Them", value: "They/Them", color: "hsl(187, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -798,6 +798,7 @@ config:
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
   enable_footer: false
   implementation: default
+  show_metadata_tags: false
 filters:
   enabled: false
   conditions:

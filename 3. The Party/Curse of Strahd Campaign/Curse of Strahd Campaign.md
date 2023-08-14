@@ -7,7 +7,7 @@ obsidianUIMode: preview
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	embed(Art) AS "Art",
+>	embed(link(Art)) AS "Art",
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
@@ -22,7 +22,7 @@ TABLE WITHOUT ID
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	QuickNotes AS "QuickNotes"
-WHERE contains(NoteIcon, "SessionNote") AND contains(WhichParty, "Party 1")
+WHERE contains(file.folder, this.file.folder) AND contains(file.folder, "Session Log")
 >SORT file.name desc LIMIT 9
 >```
 

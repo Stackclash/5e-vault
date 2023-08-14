@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0c02d538ec92859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Party Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "317039050e1d2df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
-                "mode": "source",
+                "file": "z_Templates/NPC.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Party Dashboard.md",
+                "file": "z_Templates/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Party Dashboard.md",
+                "file": "z_Templates/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Party Dashboard.md"
+                "file": "z_Templates/NPC.md"
               }
             }
           },
@@ -185,54 +173,54 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a0c02d538ec92859",
+  "active": "317039050e1d2df0",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Locations/Locations.md",
-    "2. Scratch Notes/Fields for Locations.md",
-    "2. Scratch Notes/Fields for Shops.md",
-    "2. Scratch Notes/Fields for NPCs.md",
-    "4. World Almanac/Eldoria/Groups/Groups.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Krezk.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Argynvostholt.md",
-    "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-    "z_Assets/Barovia.jpg",
-    "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
-    "Untitled 1.md",
     "z_Templates/Location Database.md",
     "z_Templates/Settlement.md",
-    "z_Templates/Leaflet Map.md",
-    "z_Templates/Session Note.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Castle Ravenloft.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-06-24 Session 0.md",
-    "4. World Almanac/Eldoria/NPCs/Ireena Kolyana.md",
-    "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
-    "4. World Almanac/Eldoria/Groups/Group Database.md",
-    "Untitled.md",
-    "4. World Almanac/Eldoria/Groups",
-    "6. Resources/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
-    "6. Resources/5e Modules/5e Modules.md",
-    "z_Templates/Quest.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Locations.md",
+    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
+    "4. World Almanac/Eldoria/Groups/Groups.md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "3. The Party/Session Notes Database.md",
+    "3. The Party/Player Database.md",
+    "3. The Party/Quest Database.md",
+    "Session Notes Database.md",
+    "3. The Party/Curse of Strahd Campaign/Characters/Yevelda Ovak.md",
+    "3. The Party/Curse of Strahd Campaign/Characters/Faerah Duskrane.md",
+    "3. The Party/Curse of Strahd Campaign/Characters/Marin.md",
+    "z_Assets/Yevelda Ovak.jpeg",
+    "z_Assets/Yevelda Ovak.jpeg.crdownload",
+    "z_Assets/Seluvis Felo'melorn.jpeg",
+    "z_Assets/Seluvis Felo'melorn.jpeg.crdownload",
+    "z_Assets/Redgrave.jpeg",
+    "z_Assets/Redgrave.jpeg.crdownload",
+    "z_Assets/Marin.jpeg",
+    "z_Assets/Marin.jpeg.crdownload",
     "z_Templates/Party Dashboard.md",
+    "z_Assets/Faerah Duskrane.jpeg",
+    "z_Assets/Faerah Duskrane.jpeg.crdownload",
+    "z_Templates/NPC.md",
+    "2. Scratch Notes/Fields for Shops.md",
+    "2. Scratch Notes/Fields for NPCs.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "z_Templates/Leaflet Bounds Calculator.md",
+    "z_Templates/Import 5eTools Files.md",
+    "z_Templates/Leaflet Map.md",
     "z_Templates/NPC Database.md",
+    "z_Templates/Session Note.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "z_Assets/Barovia.jpg",
+    "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
+    "4. World Almanac/Eldoria/Groups",
     "4. World Almanac/Eldoria/NPCs",
     "7. Resources/Untitled.canvas",
     "7. Resources",
     "3. The Party/Curse of Strahd Campaign/Session Log",
     "3. The Party/Curse of Strahd Campaign/Characters",
     "7. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
-    "4. World Almanac/Eldoria/Locations/Barovia",
-    "4. World Almanac/Eldoria/Locations",
-    "4. World Almanac/Eldoria",
-    "7. Resources/Resources/The Interactive Tome of Strahd.pdf",
-    "7. Resources/Resources/Curse of Strahd NPC Map.pdf",
     "5. Mechanics/Bestiary/Undead/token/zombie.png",
-    "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
-    "5. Mechanics/Bestiary/Undead/token/zombie-clot.png",
-    "5. Mechanics/Bestiary/Undead/token/wraith.png",
-    "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png",
-    "5. Mechanics/Bestiary/Undead/token/wight.png",
-    "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png"
+    "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png"
   ]
 }

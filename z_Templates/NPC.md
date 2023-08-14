@@ -1,4 +1,7 @@
-```
+---
+obsidianUIMode: preview
+---
+<% await tp.file.move("/4. World Almanac/NPCs/" + tp.file.title) %>
 > [!infobox]
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
@@ -68,4 +71,3 @@ TBD
 
 
 ### General Notes
-```

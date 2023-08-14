@@ -1,4 +1,6 @@
-
+---
+obsidianUIMode: preview
+---
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"

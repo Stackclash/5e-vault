@@ -1,4 +1,6 @@
-  
+---
+obsidianUIMode: preview
+---  
 # `=this.file.name`
 ## Session Prep:
 Things I need to get ready before the session:
