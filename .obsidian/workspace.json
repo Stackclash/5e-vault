@@ -4,29 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6e6d06c2eebe07",
+        "id": "fb4aaf76ac3d3659",
         "type": "tabs",
         "children": [
           {
-            "id": "317039050e1d2df0",
+            "id": "37fe13237557bf91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1701d73ba110628e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7f4052c15c688fe",
+            "id": "007cdc9536b3e097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-                "mode": "preview",
+                "file": "2. Scratch Notes/Fields for Locations.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Muriel",
+                "query": "file:Goblin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
               }
             }
           },
@@ -185,34 +197,34 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "317039050e1d2df0",
+  "active": "37fe13237557bf91",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md",
-    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-08-05 Session 3.md",
-    "6. Resources/5e Modules/Curse Of Strahd/08 Chapter-6 Old Bonegrinder.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/20 Appendix B Death House.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-07-22 Session 2.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-07-08 Session 1.md",
-    "4. World Almanac/Eldoria/Locations/Locations.md",
-    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
-    "4. World Almanac/Eldoria/Groups/Groups.md",
-    "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
-    "z_Templates/NPC.md",
-    "z_Templates/Location Database.md",
-    "z_Templates/Settlement.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
-    "3. The Party/Session Notes Database.md",
-    "3. The Party/Player Database.md",
-    "3. The Party/Quest Database.md",
-    "Session Notes Database.md",
-    "3. The Party/Curse of Strahd Campaign/Characters/Yevelda Ovak.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "4. World Almanac/Eldoria/Locations/Locations.md",
+    "z_Templates/NPC.md",
+    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
+    "3. The Party/Curse of Strahd Campaign/Characters/Faerah Duskrane.md",
+    "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md",
+    "3. The Party/Curse of Strahd Campaign/Session Log/23-06-24 Session 0.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "5. Mechanics/Bestiary/Humanoid/Goblin Boss.md",
+    "5. Mechanics/Races/Goblin (MPMM).md",
+    "5. Mechanics/Races/Goblin (DMG).md",
+    "5. Mechanics/Bestiary/Humanoid/Goblin.md",
+    "4. World Almanac/Eldoria/NPCs/Baron Vargas Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Milivoj.md",
+    "4. World Almanac/Eldoria/NPCs/Father Lucian Petrovich.md",
+    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
+    "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Nikolai Wachter.md",
+    "5. Mechanics/Bestiary/Npc/Lady Fiona Wachter (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Lady Fiona Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
     "z_Assets/Yevelda Ovak.jpeg",
     "z_Assets/Yevelda Ovak.jpeg.crdownload",
     "z_Assets/Seluvis Felo'melorn.jpeg",

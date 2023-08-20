@@ -1,3 +1,0 @@
-```statblock
-monster: Ismark Kolyanovich
-```

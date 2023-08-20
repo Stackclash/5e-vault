@@ -1,5 +1,11 @@
 ---
 obsidianUIMode: preview
+Type: Region
+GovtType: Monarchy
+Imports:
+  - None
+Exports:
+  - None
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -40,7 +46,7 @@ TBD
 
 ## Map
 >```leaflet
-> id: Barovia-Map
+> id: Barovia
 > image: [[Barovia.jpg]]
 > lock: true
 > recenter: true

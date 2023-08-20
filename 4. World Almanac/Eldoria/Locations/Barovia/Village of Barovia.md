@@ -1,8 +1,4 @@
 ---
-location:
-  - 4.44
-  - 14.39
-mapmarker: village
 ---
 
 ```leaflet
