@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "34ea136f9292a197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "317039050e1d2df0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Party Dashboard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Party Dashboard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Party Dashboard.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,8 +198,23 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a0c02d538ec92859",
+  "active": "34ea136f9292a197",
   "lastOpenFiles": [
+    "z_Templates/Party Dashboard.md",
+    "conflict-files-obsidian-git.md",
+    "z_Assets/Yevelda Ovak.jpeg",
+    "z_Assets/Seluvis Felo'melorn.jpeg",
+    "z_Assets/Redgrave.jpeg",
+    "z_Assets/Marin.jpeg",
+    "z_Assets/Faerah Duskrane.jpeg",
+    "Untitled.md",
+    "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
+    "3. The Party/Session Notes Database.md",
+    "3. The Party/Quest Database.md",
+    "3. The Party/Player Database.md",
+    "3. The Party/Curse of Strahd Campaign/Session Log/23-08-18 Session 4.md",
+    "3. The Party/Curse of Strahd Campaign/Session Log/23-07-22 Session 2.md",
+    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "2. Scratch Notes/Fields for Locations.md",
     "2. Scratch Notes/Fields for Shops.md",
@@ -205,17 +233,7 @@
     "z_Templates/Leaflet Map.md",
     "z_Templates/Session Note.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Castle Ravenloft.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-06-24 Session 0.md",
-    "4. World Almanac/Eldoria/NPCs/Ireena Kolyana.md",
-    "4. World Almanac/Eldoria/NPCs/Ismark Kolyanovich.md",
-    "4. World Almanac/Eldoria/Groups/Group Database.md",
-    "Untitled.md",
     "4. World Almanac/Eldoria/Groups",
-    "6. Resources/5e Modules/Curse Of Strahd/15 Chapter-13 The Amber Temple.md",
-    "6. Resources/5e Modules/5e Modules.md",
-    "z_Templates/Quest.md",
-    "z_Templates/Party Dashboard.md",
-    "z_Templates/NPC Database.md",
     "4. World Almanac/Eldoria/NPCs",
     "7. Resources/Untitled.canvas",
     "7. Resources",
@@ -228,11 +246,6 @@
     "7. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "7. Resources/Resources/Curse of Strahd NPC Map.pdf",
     "5. Mechanics/Bestiary/Undead/token/zombie.png",
-    "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png",
-    "5. Mechanics/Bestiary/Undead/token/zombie-clot.png",
-    "5. Mechanics/Bestiary/Undead/token/wraith.png",
-    "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png",
-    "5. Mechanics/Bestiary/Undead/token/wight.png",
-    "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png"
+    "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png"
   ]
 }

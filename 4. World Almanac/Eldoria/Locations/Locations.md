@@ -121,6 +121,7 @@ columns:
       - { label: "Small City", value: "Small City", color: "hsl(324, 95%, 90%)"}
       - { label: "Large City", value: "Large City", color: "hsl(162, 95%, 90%)"}
       - { label: "Metropolis", value: "Metropolis", color: "hsl(344, 95%, 90%)"}
+      - { label: "Region", value: "Region", color: "hsl(201, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -131,6 +132,7 @@ columns:
       footer_type: none
       persist_changes: false
       source_data: current_folder
+      option_source: manual
   Defences:
     input: select
     accessor: Defences
@@ -271,6 +273,7 @@ columns:
     options:
       - { label: "Lumber", value: "Lumber", color: "hsl(164, 95%, 90%)"}
       - { label: "Grain", value: "Grain", color: "hsl(96, 95%, 90%)"}
+      - { label: "None", value: "None", color: "hsl(288, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -280,6 +283,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   Exports:
     input: tags
     accessorKey: Exports
@@ -293,6 +297,7 @@ columns:
     options:
       - { label: "Lumber", value: "Lumber", color: "hsl(112, 95%, 90%)"}
       - { label: "Grain", value: "Grain", color: "hsl(78, 95%, 90%)"}
+      - { label: "None", value: "None", color: "hsl(182, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -302,6 +307,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
   enable_show_state: false
   group_folder_column: 

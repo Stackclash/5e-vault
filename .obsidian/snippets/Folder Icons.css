@@ -46,8 +46,8 @@
 	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
 }
 
-.nav-folder-title[data-path="5. World Almanac"],
-.nav-folder-title[data-path="5. World Almanac"] + .nav-folder-children {
+.nav-folder-title[data-path="4. World Almanac"],
+.nav-folder-title[data-path="4. World Almanac"] + .nav-folder-children {
 	--folder-icon: "\f57d";
 	--folder-font: var(--fa5);
 	
@@ -58,8 +58,8 @@
 	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
 }
 
-.nav-folder-title[data-path="6. Mechanics"],
-.nav-folder-title[data-path="6. Mechanics"] + .nav-folder-children {
+.nav-folder-title[data-path="5. Mechanics"],
+.nav-folder-title[data-path="5. Mechanics"] + .nav-folder-children {
 	--folder-icon: "\f7d9";
 	--folder-font: var(--fa5);
 	

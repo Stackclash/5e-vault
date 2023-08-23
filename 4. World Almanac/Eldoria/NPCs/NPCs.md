@@ -215,30 +215,6 @@ columns:
       persist_changes: false
       persist_formula: false
       source_data: current_folder
-  NoteIcon:
-    input: select
-    accessor: NoteIcon
-    key: NoteIcon
-    label: NoteIcon
-    position: 5
-    skipPersist: false
-    accessorKey: NoteIcon
-    width: 150
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Character", value: "Character", color: "hsl(221, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      persist_formula: false
-      source_data: current_folder
   Condition:
     input: select
     accessor: Condition
@@ -440,31 +416,6 @@ columns:
     sortIndex: -1
     options:
       - { label: "Party 1", value: "Party 1", color: "hsl(152, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      persist_formula: false
-      source_data: current_folder
-  Type:
-    input: tags
-    accessor: Type
-    key: Type
-    label: Type
-    position: 6
-    skipPersist: false
-    accessorKey: Type
-    width: 115
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "NPC", value: "NPC", color: "hsl(175, 95%, 90%)"}
-      - { label: "VIP", value: "VIP", color: "hsl(38, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -780,7 +731,7 @@ config:
   show_metadata_tasks: false
   frontmatter_quote_wrap: false
   row_templates_folder: /
-  current_row_template: z_Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md
+  current_row_template: z_Templates/NPC.md
   pagination_size: 15
   source_destination_path: /
   remove_empty_folders: false
