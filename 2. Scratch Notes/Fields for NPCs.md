@@ -1,0 +1,17 @@
+- Group
+- Image
+- Party Relationship
+- Race
+- Alignment
+- Gender
+- Condition
+- Occupation
+- Religion
+- Likes
+- Dislikes
+- Personality Trait
+- Social Trait
+- Mental Trait
+- Bond
+- Flaw
+- Ideal
