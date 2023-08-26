@@ -1,9 +1,12 @@
 ---
+obsidianUIMode: preview
+location: [4.52, 14.36]
+mapmarker: village
 ---
 
 ```leaflet
-id: village-of-baro
-image: [[Village of Barovia.png]]
+id: village-of-barovia
+image: [[Village of Barovia.jpg]]
 height: 800px
 minZoom: 0
 maxZoom: 1
@@ -23,11 +26,3 @@ marker: church, 565.875, 171.5, [[Village of Barovia#Church]]
 marker: graveyard, 679.875, 170.5, [[Village of Barovia#Cemetery]]
 marker: house, 77.875, 271.5, [[Village of Barovia#Burgomaster's Mansion]]
 ```
-
-# Death House
-# Bildrath's Mercantile
-# Mad Mary's Townhouse
-# Burgomaster's Mansion
-# Blood of the Vine Tavern
-# Church
-# Cemetery

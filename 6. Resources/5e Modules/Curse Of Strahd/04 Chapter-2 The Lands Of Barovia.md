@@ -773,6 +773,8 @@ If your card reading reveals that a treasure is here, it is buried in one of the
 
 ### G. Tser Pool Encampment
 
+^b1f054
+
 > [!quote] ...
 > 
 > The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and goings of wagons.

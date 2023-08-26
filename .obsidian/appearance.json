@@ -8,5 +8,6 @@
     "ITS - Encoded Fonts"
   ],
   "theme": "moonstone",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 14
 }
