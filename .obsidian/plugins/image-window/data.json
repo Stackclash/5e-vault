@@ -2,7 +2,16 @@
   "saveWindowLocations": true,
   "windows": {
     "Player View": {
-      "hosts": {}
+      "hosts": {
+        "Ricks-MBP": {
+          "x": 1728,
+          "y": 25,
+          "width": 960,
+          "height": 679,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
     },
     "DEFAULT": {
       "hosts": {
