@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Session Log/23-08-25 Session 4.md",
-                "mode": "source",
+                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road",
+                "query": "file:potion healing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md"
+                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md"
               }
             }
           },
@@ -203,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,11 +226,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9cb13740bf00b665",
+  "active": "46be5e8fde93cedf",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "3. The Party/Curse of Strahd Campaign/Characters/Yevelda Ovak.md",
+    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
+    "3. The Party/Curse of Strahd Campaign/Characters/Faerah Duskrane.md",
     "3. The Party/Curse of Strahd Campaign/Session Log/23-08-25 Session 4.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. Mechanics/Items/Potion Of Greater Healing.md",
+    "5. Mechanics/Items/Potion Of Healing.md",
+    "5. Mechanics/Items/Potion Of Invisibility.md",
+    "5. Mechanics/Items/Potion Of Growth.md",
+    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Items/Alchemy Jug.md",
     "6. Resources/5e Modules/Curse Of Strahd/08 Chapter-6 Old Bonegrinder.md",
     "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
@@ -239,7 +248,6 @@
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "5. Mechanics/Deities/Deities.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
-    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
     "2. Scratch Notes/1693025245103 - Test.md",
     "5. Mechanics/Deities/Forgotten Realms Waukeen.md",
     "5. Mechanics/Deities/Forgotten Realms Umberlee.md",
@@ -249,14 +257,6 @@
     "5. Mechanics/Deities/Forgotten Realms Tempus.md",
     "5. Mechanics/Deities/Forgotten Realms Talos.md",
     "5. Mechanics/Deities/Forgotten Realms Talona.md",
-    "5. Mechanics/Deities/Forgotten Realms Sune.md",
-    "5. Mechanics/Deities/Forgotten Realms Silvanus.md",
-    "5. Mechanics/Deities/Forgotten Realms Shar.md",
-    "5. Mechanics/Deities/Forgotten Realms Selune.md",
-    "5. Mechanics/Deities/Forgotten Realms Savras.md",
-    "5. Mechanics/Deities/Forgotten Realms Mystra.md",
-    "5. Mechanics/Deities/Forgotten Realms Myrkul.md",
-    "5. Mechanics/Deities/Forgotten Realms Milil.md",
     "z_Assets/Village of Barovia.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/img/014-cos301.jpg",
     "z_Assets/Yevelda Ovak.jpeg",

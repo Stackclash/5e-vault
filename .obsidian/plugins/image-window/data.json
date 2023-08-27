@@ -4,12 +4,12 @@
     "Player View": {
       "hosts": {
         "Ricks-MBP": {
-          "x": 1728,
-          "y": 25,
+          "x": 608,
+          "y": 38,
           "width": 960,
           "height": 679,
           "fullscreen": false,
-          "maximized": true
+          "maximized": false
         }
       }
     },
