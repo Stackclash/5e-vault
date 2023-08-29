@@ -12,10 +12,10 @@ aliases: ["Periapt of Wound Closure"]
 # Periapt of Wound Closure
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
 
-*Source: Dungeon Master's Guide p. 184*
+*Source: Dungeon Master's Guide p. 184. Available in the SRD.*

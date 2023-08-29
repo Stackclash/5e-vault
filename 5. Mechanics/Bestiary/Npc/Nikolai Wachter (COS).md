@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Nikolai Wachter"]
 ---
 # Nikolai Wachter
 *Source: Curse of Strahd p. 110, Derived from Noble (MM)*  
@@ -27,27 +26,25 @@ statblock: inline
 - !!int "12"
 - !!int "14"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Insight": !!int "4"
-  "Persuasion": !!int "5"
+  "Deception": "+5"
+  "Insight": "+4"
+  "Persuasion": "+5"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
   "name": "Rapier"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Nikolai adds 2 to its AC against one melee attack that would hit it. To\
+- "desc": "Nikolai adds 2 to its AC against one melee attack that would hit it. To\
     \ do so, Nikolai must see the attacker and be wielding a melee weapon."
   "name": "Parry"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/nikolai-wachter.png"
+"image": "compendium/bestiary/npc/token/nikolai-wachter.png"
 ```
 ^statblock
 

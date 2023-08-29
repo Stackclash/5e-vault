@@ -28,4 +28,4 @@ While within 5 feet of the mirror, you can use an action to speak the name of on
 
 In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-*Source: Dungeon Master's Guide p. 181*
+*Source: Dungeon Master's Guide p. 181. Available in the SRD.*

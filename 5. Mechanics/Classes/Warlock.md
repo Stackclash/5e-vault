@@ -7,7 +7,7 @@ tags:
 aliases: ["Warlock"]
 ---
 # Warlock
-*Source: Player's Handbook p. 105*  
+*Source: Player's Handbook p. 105. Available in the SRD.*  
 
 > [!tldr]- Feature progression
 > 
@@ -16,7 +16,7 @@ aliases: ["Warlock"]
 > | 1st | +2 | [Pact Magic](#Pact%20Magic%20(Level%201)), [Otherworldly Patron](#Otherworldly%20Patron%20(Level%201)) |
 > | 2nd | +2 | [Eldritch Invocations](#Eldritch%20Invocations%20(Level%202)) |
 > | 3rd | +2 | [Pact Boon](#Pact%20Boon%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Eldritch Versatility](#Eldritch%20Versatility%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | ⏤ |
 > | 6th | +3 | [Otherworldly Patron feature](#Otherworldly%20Patron%20feature%20(Level%206)) |
 > | 7th | +3 | ⏤ |
@@ -39,8 +39,8 @@ aliases: ["Warlock"]
 
 > [!tldr]- Class progression
 > 
-> | Level | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
-> |-------|----------------|--------------|-------------|------------|-------------------|
+> | Level | Cantrips Known | Spells Known | Spell Slots | Slot Level | [[5. Mechanics\Optional Features\List Eldritch Invocation.md|Invocations Known]] |
+> |-------|----------------|--------------|-------------|------------|-------------------------------------------------------------------------------|
 > | 1st | 2 | 2 | 1 | 1st | ⏤ |
 > | 2nd | 2 | 3 | 2 | 1st | 2 |
 > | 3rd | 2 | 4 | 2 | 2nd | 2 |
@@ -69,24 +69,24 @@ aliases: ["Warlock"]
 
 - **Hit Dice**: 1d8 per Warlock level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d8 + CON  (minimum of 1)
 
-## Starting a Warlock
+## Starting Warlock
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Saving Throws:** Wisdom, Charisma
-- **Armor:** light
-- **Weapons:** simple
-- **Tools:** none
-- **Skills:** Choose 2 from *Arcana*, *Deception*, *History*, *Intimidation*, *Investigation*, *Nature*, *Religion*
+- **Saving Throws**: Wisdom, Charisma
+- **Armor**: light
+- **Weapons**: simple
+- **Tools**: none
+- **Skills**: Choose 2 from *Arcana*, *Deception*, *History*, *Intimidation*, *Investigation*, *Nature*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]] or (b) any simple weapon  
-- (a) a [[/5. Mechanics/Items/Component Pouch.md|component pouch]] or (b) an arcane focus  
-- (a) a [[/5. Mechanics/Items/Scholars Pack.md|scholar's pack]] or (b) a [[/5. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]]  
-- [[/5. Mechanics/Items/Leather Armor.md|Leather armor]], any simple weapon, and two [[/5. Mechanics/Items/Dagger.md|daggers]]  
+- (a) a [[5. Mechanics\Items\Light Crossbow.md|light crossbow]] and [[5. Mechanics\Items\Crossbow Bolts-20.md|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics\Items\Component Pouch.md|component pouch]] or (b) an arcane focus  
+- (a) a [[5. Mechanics\Items\Scholars Pack.md|scholar's pack]] or (b) a [[5. Mechanics\Items\Dungeoneers Pack.md|dungeoneer's pack]]  
+- [[5. Mechanics\Items\Leather Armor.md|Leather armor]], any simple weapon, and two [[5. Mechanics\Items\Dagger.md|daggers]]  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -98,9 +98,114 @@ To multiclass as a Warlock, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light
-- **Weapons:** simple
-- **Tools:** none
+- **Armor**: light
+- **Weapons**: simple
+- **Tools**: none
+
+## Warlock
+
+With a pseudodragon curled on his shoulder, a young elf in golden robes smiles warmly, weaving a magical charm into his honeyed words and bending the palace sentinel to his will.
+
+As flames spring to life in her hands, a wizened human whispers the secret name of her demonic patron, infusing her spell with fiendish magic.
+
+Shifting his gaze between a battered tome and the odd alignment of the stars overhead, a wild-eyed tiefling chants the mystic ritual that will open a doorway to a distant world.
+
+Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular. Drawing on the ancient knowledge of beings such as fey nobles, demons, devils, hags, and alien entities of the Far Realm, warlocks piece together arcane secrets to bolster their own power.
+
+### Sworn and Beholden
+
+A warlock is defined by a pact with an otherworldly being. Sometimes the relationship between warlock and patron is like that of a cleric and a deity, though the beings that serve as patrons for warlocks are not gods. A warlock might lead a cult dedicated to a demon prince, an archdevil, or an utterly alien entity—beings not typically served by clerics. More often, though, the arrangement is similar to that between a master and an apprentice. The warlock learns and grows in power, at the cost of occasional services performed on the patron's behalf.
+
+The magic bestowed on a warlock ranges from minor but lasting alterations to the warlock's being (such as the ability to see in darkness or to read any language) to access to powerful spells. Unlike bookish wizards, warlocks supplement their magic with some facility at hand-to-hand combat. They are comfortable in light armor and know how to use simple weapons.
+
+### Delvers into Secrets
+
+Warlocks are driven by an insatiable need for knowledge and power, which compels them into their pacts and shapes their lives. This thirst drives warlocks into their pacts and shapes their later careers as well.
+
+Stories of warlocks binding themselves to fiends are widely known. But many warlocks serve patrons that are not fiendish. Sometimes a traveler in the wilds comes to a strangely beautiful tower, meets its fey lord or lady, and stumbles into a pact without being fully aware of it. And sometimes, while poring over tomes of forbidden lore, a brilliant but crazed student's mind is opened to realities beyond the material world and to the alien beings that dwell in the outer void.
+
+Once a pact is made, a warlock's thirst for knowledge and power can't be slaked with mere study and research. No one makes a pact with such a mighty patron if he or she doesn't intend to use the power thus gained. Rather, the vast majority of warlocks spend their days in active pursuit of their goals, which typically means some kind of adventuring. Furthermore, the demands of their patrons drive warlocks toward adventure.
+
+### Creating a Warlock
+
+As you make your warlock character, spend some time thinking about your patron and the obligations that your pact imposes upon you. What led you to make the pact, and how did you make contact with your patron? Were you seduced into summoning a devil, or did you seek out the ritual that would allow you to make contact with an alien elder god? Did you search for your patron, or did your patron find and choose you? Do you chafe under the obligations of your pact or serve joyfully in anticipation of the rewards promised to you?
+
+Work with your DM to determine how big a part your pact will play in your character's adventuring career. Your patron's demands might drive you into adventures, or they might consist entirely of small favors you can do between adventures.
+
+What kind of relationship do you have with your patron? Is it friendly, antagonistic, uneasy, or romantic? How important does your patron consider you to be? What part do you play in your patron's plans? Do you know other servants of your patron?
+
+How does your patron communicate with you? If you have a familiar, it might occasionally speak with your patron's voice. Some warlocks find messages from their patrons etched on trees, mingled among tea leaves, or adrift in the clouds—messages that only the warlock can see. Other warlocks converse with their patrons in dreams or waking visions, or deal only with intermediaries.
+
+#### Quick Build
+
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics\Backgrounds\Charlatan.md|charlatan]] background. Third, choose the [[5. Mechanics\Spells\Eldritch Blast.md|eldritch blast]] and [[5. Mechanics\Spells\Chill Touch.md|chill touch]] cantrips, along with the 1st-level spells [[5. Mechanics\Spells\Charm Person.md|charm person]] and [[5. Mechanics\Spells\Witch Bolt.md|witch bolt]].
+
+> [!quote]- A quote from Xarren, herald of Acamar  
+> 
+> You think me mad? I think true insanity is being content to live a life of mortal drudgery when knowledge and power is there for the taking in the realm beyond.
+
+Warlocks are finders and keepers of secrets. They push at the edge of our understanding of the world, always seeking to expand their expertise. Where sages or wizards might heed a clear sign of danger and end their research, a warlock plunges ahead, heedless of the cost. Thus, it takes a peculiar mixture of intelligence, curiosity, and recklessness to produce a warlock. Many folk would describe that combination as evidence of madness. Warlocks see it as a demonstration of bravery.
+
+Warlocks are defined by two elements that work in concert to forge their path into this class. The first element is the event or circumstances that led to a warlock's entering into a pact with a planar entity. The second one is the nature of the entity a warlock is bound to. Unlike clerics, who typically embrace a deity and that god's ethos, a warlock might have no love for a patron, or vice versa.
+
+The sections that follow provide ways to embellish a warlock character that could generate some intriguing story and roleplaying opportunities.
+
+## Patron's Attitude
+_Source: Xanathar's Guide to Everything_
+
+Every relationship is a two-way street, but in the case of warlocks and their patrons it's not necessarily true that both sides of the street are the same width or made of the same stuff. The feeling that a warlock holds for their patron, whether positive or negative, might be reciprocated by the patron, or the two participants in the pact might view one another with opposing emotions.
+
+When you determine the attitude your warlock character holds toward your patron, also consider how things look from the patron's perspective. How does your patron behave toward you? Is your patron a friend and ally, or an enemy that grants you power only because you forced a pact upon it?
+
+**Patron Attitudes**
+
+| `dice: d6\|avg` (`d6`) | Attitude |
+|-----------|------------|----------|
+| 1 | Your patron has guided and helped your family for generations and is kindly toward you. |
+| 2 | Each interaction with your capricious patron is a surprise, whether pleasant or painful. |
+| 3 | Your patron is the spirit of a long-dead hero who sees your pact as a way for it to continue to influence the world. |
+| 4 | Your patron is a strict disciplinarian but treats you with a measure of respect. |
+| 5 | Your patron tricked you into a pact and treats you as a slave. |
+| 6 | You are mostly left to your own devices with no interference from your patron. Sometimes you dread the demands it will make when it does appear. |
+^patron-attitudes
+
+## Special Terms of the Pact
+_Source: Xanathar's Guide to Everything_
+
+A pact can range from a loose agreement to a formal contract with lengthy, detailed clauses and lists of requirements. The terms of a pact—what a warlock must do to receive a patron's favor—are always dictated by the patron. On occasion, those terms include a special proviso that might seem odd or whimsical, but warlocks take these dictates as seriously as they do the other requirements of their pacts.
+
+Does your character have a pact that requires you to change your behavior in an unusual or seemingly frivolous way? Even if your patron hasn't imposed such a duty on you already, that's not to say it couldn't still happen.
+
+**Special Terms**
+
+| `dice: d6\|avg` (`d6`) | Term |
+|-----------|------------|------|
+| 1 | When directed, you must take immediate action against a specific enemy of your patron. |
+| 2 | Your pact tests your willpower; you are required to abstain from alcohol and other intoxicants. |
+| 3 | At least once a day, you must inscribe or carve your patron's name or symbol on the wall of a building. |
+| 4 | You must occasionally conduct bizarre rituals to maintain your pact. |
+| 5 | You can never wear the same outfit twice, since your patron finds such predictability to be boring. |
+| 6 | When you use an eldritch invocation, you must speak your patron's name aloud or risk incurring its displeasure. |
+^special-terms
+
+## Binding Mark
+_Source: Xanathar's Guide to Everything_
+
+Some patrons make a habit of, and often enjoy, marking the warlocks under their sway in some fashion. A binding mark makes it clear—to those who know about such things—that the individual in question is bound to the patron's service. A warlock might take advantage of such a mark, claiming it as proof of one's pact, or might want to keep it under wraps (if possible) to avoid the difficulties it might bring.
+
+If your warlock's pact comes with a binding mark, how you feel about displaying it probably depends on the nature of your relationship with the one who gave it to you. Is the mark a source of pride or something you are secretly ashamed of?
+
+**Binding Marks**
+
+| dice: d6 | Mark |
+|----------|------|
+| 1 | One of your eyes looks the same as one of your patron's eyes. |
+| 2 | Each time you wake up, the small blemish on your face appears in a different place. |
+| 3 | You display outward symptoms of a disease but suffer no ill effects from it. |
+| 4 | Your tongue is an unnatural color. |
+| 5 | You have a vestigial tail. |
+| 6 | Your nose glows in the dark. |
+^binding-marks
 
 ## Class Features
 
@@ -116,7 +221,7 @@ You know two cantrips of your choice from the warlock spell list. You learn addi
 
 The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[/5. Mechanics/Spells/Witch Bolt.md|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[5. Mechanics\Spells\Witch Bolt.md|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 #### Spells Known of 1st Level and Higher
 
@@ -146,7 +251,7 @@ At 1st level, you have struck a bargain with an otherworldly being chosen from t
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the Optional Features page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[5. Mechanics\Optional Features\List Eldritch Invocation.md|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -156,31 +261,15 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-- [[/5. Mechanics/Classes/Warlock.md#Pact%20of%20the%20Chain|Pact of the Chain]]  
-- [[/5. Mechanics/Classes/Warlock.md#Pact%20of%20the%20Blade|Pact of the Blade]]  
-- [[/5. Mechanics/Classes/Warlock.md#Pact%20of%20the%20Tome|Pact of the Tome]]  
-- Pact of the Star Chain  
-- Pact of the Talisman  
-- [[/5. Mechanics/Classes/Warlock.md#Pact%20of%20the%20Talisman|Pact of the Talisman]]  
+- [[5. Mechanics\Optional Features\Pact Of The Chain.md|Pact of the Chain]]  
+- [[5. Mechanics\Optional Features\Pact Of The Blade.md|Pact of the Blade]]  
+- [[5. Mechanics\Optional Features\Pact Of The Tome.md|Pact of the Tome]]  
 
 ### Ability Score Improvement (Level 4)
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
-
-### Eldritch Versatility (Level 4)
-_Source: Tasha's Cauldron of Everything p. 70_
-
-_4th-level warlock optional class features_
-
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
-
-- Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the warlock spell list.  
-- Replace the option you chose for the Pact Boon feature with one of that feature's other options.  
-- If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.  
-
-If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.
 
 ### Otherworldly Patron feature (Level 6)
 
@@ -248,598 +337,12 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
 
-## Eldritch Invocations
-
-### Agonizing Blast
-
-When you cast [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], add your Charisma modifier to the damage it deals on a hit.
-
-### Arcane Gunslinger
-_Source: Unearthed Arcana: Modern Magic p. 3_
-
-You can create a pact weapon that is a sidearm or long arm, and you can transform a magical sidearm or long arm into your pact weapon.
-
-### Armor of Shadows
-
-You can cast [[/5. Mechanics/Spells/Mage Armor.md|mage armor]] on yourself at will, without expending a spell slot or material components.
-
-### Ascendant Step
-
-You can cast [[/5. Mechanics/Spells/Levitate.md|levitate]] on yourself at will, without expending a spell slot or material components.
-
-### Aspect of the Moon
-_Source: Unearthed Arcana: Revised Class Options p. 5_
-
-You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
-
-### Aspect of the Moon
-_Source: Xanathar's Guide to Everything p. 56_
-
-You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
-
-### Aspect of the Moon
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-You have gained the Maiden of the Moon's favor. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading and keeping watch.
-
-### Beast Speech
-
-You can cast [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]] at will, without expending a spell slot.
-
-### Beguiling Influence
-
-You gain proficiency in the [[5. Mechanics/Rules/Skills.md#Deception|Deception]] and [[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]] skills.
-
-### Bewitching Whispers
-
-You can cast [[/5. Mechanics/Spells/Compulsion.md|compulsion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Bond of the Talisman
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you.
-
-### Bond of the Talisman
-_Source: Tasha's Cauldron of Everything p. 70_
-
-While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-
-### Book of Ancient Secrets
-
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells needn't be from the same spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
-
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
-
-### Burning Hex
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-As a bonus action, you cause a target cursed by your Hexblade's Curse to take fire damage equal to your Charisma modifier (minimum of 1).
-
-### Caiphon's Beacon
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-The purple star Caiphon is the doom of inexperienced mariners. Those who use its deceptive light to guide their travels invariably come to ruin. You gain proficiency in the [[5. Mechanics/Rules/Skills.md#Deception|Deception]] and [[5. Mechanics/Rules/Skills.md#Stealth|Stealth]] skills, and you have advantage on attack rolls against [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] creatures.
-
-### Chain Master's Fury
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-As a bonus action, you can command your familiar to make one attack.
-
-### Chains of Carceri
-
-You can cast [[/5. Mechanics/Spells/Hold Monster.md|hold monster]] at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
-
-### Chilling Hex
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-As a bonus action, you cause frost to swirl around a target cursed by your Hexblade's Curse, dealing cold damage to each of your enemies within 5 feet of the target. The cold damage equals your Charisma modifier (minimum of 1).
-
-### Chronicle of the Raven Queen
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-You can place a corpse's hand or similar appendage on your Book of Shadows and ask one question aloud. After 1 minute, the answer appears written in blood in your book. The answer is provided by the dead creature's spirit to the best of its knowledge and is translated into a language of your choice. You must use this ability within 1 minute of a creature's death, and a given creature can only be asked one question in this manner.
-
-### Claw of Acamar
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-You can create a black, lead flail using your Pact of the Blade feature. The flail's head is sculpted to resemble a pair of grasping tentacles. The weapon has the reach property. When you hit a creature with it, you can expend a spell slot to deal an additional `dice: 2d8` (`2d8`) necrotic damage to the target per spell level, and you can reduce the creature's speed to 0 feet until the end of your next turn.
-
-### Cloak of Baalzebul
-_Source: Unearthed Arcana: Warlock and Wizard p. 3_
-
-As a bonus action, you can conjure a swarm of buzzing flies around you. The swarm grants you advantage on Charisma ([[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]) checks but disadvantage on all other Charisma checks. In addition, a creature that starts its turn within 5 feet of you takes poison damage equal to your Charisma modifier. You can dismiss the swarm with another bonus action.
-
-### Cloak of Flies
-_Source: Unearthed Arcana: Revised Class Options p. 5_
-
-As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura includes your space, extends 5 feet from you in every direction, and is blocked by total cover. It lasts until you're [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or you dismiss it with a bonus action.
-
-The aura grants you advantage on Charisma ([[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
-
-Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Cloak of Flies
-_Source: Xanathar's Guide to Everything p. 56_
-
-As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or you dismiss it as a bonus action.
-
-The aura grants you advantage on Charisma ([[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
-
-Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Curse Bringer
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-You can create a greatsword forged from silver, with black runes etched into its blade, using your Pact of the Blade feature. If you reduce a target cursed by your Hexblade's Curse to 0 hit points with this sword, you can immediately change the target of the curse to a different creature. This change doesn't extend the curse's duration.
-
-When you hit a creature with this weapon, you can expend a spell slot to deal an additional `dice: 2d8` (`2d8`) slashing damage to the target per spell level, and you can reduce the creature's speed to 0 feet until the end of your next turn.
-
-### Devil's Sight
-
-You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
-
-### Dreadful Word
-
-You can cast [[/5. Mechanics/Spells/Confusion.md|confusion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Eldritch Armor
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-As an action, you can touch a suit of armor that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing armor already. You are proficient with this suit of armor until it's removed.
-
-### Eldritch Mind
-_Source: Tasha's Cauldron of Everything p. 71_
-
-You have advantage on Constitution saving throws that you make to maintain your [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell.
-
-### Eldritch Mind
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-You have advantage on Constitution saving throws that you make to maintain your [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell.
-
-### Eldritch Sight
-
-You can cast [[/5. Mechanics/Spells/Detect Magic.md|detect magic]] at will, without expending a spell slot.
-
-### Eldritch Smite
-_Source: Xanathar's Guide to Everything p. 56_
-
-Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra `dice: 1d8` (`1d8`) force damage to the target, plus another `dice: 1d8` (`1d8`) per level of the spell slot, and you can knock the target [[5. Mechanics/Rules/Conditions.md#prone|prone]] if it is Huge or smaller.
-
-### Eldritch Smite
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra `dice: 1d8` (`1d8`) force damage to the target, plus another `dice: 1d8` (`1d8`) per level of the spell slot. If the target takes any of this damage, you can knock the target [[5. Mechanics/Rules/Conditions.md#prone|prone]] if it is Huge or smaller.
-
-### Eldritch Spear
-
-When you cast [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], its range is 300 feet.
-
-### Eyes of the Rune Keeper
-
-You can read all writing.
-
-### Far Scribe
-_Source: Tasha's Cauldron of Everything p. 71_
-
-A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
-
-You can cast the [[/5. Mechanics/Spells/Sending.md|sending]] spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
-
-As an action, you can magically erase a name on the page by touching it.
-
-### Far Scribe
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).
-
-You can cast the [[/5. Mechanics/Spells/Sending.md|sending]] spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
-
-As an action, you can magically erase a name on the page by touching the name on it.
-
-### Fiendish Vigor
-
-You can cast [[/5. Mechanics/Spells/False Life.md|false life]] on yourself at will as a 1st-level spell, without expending a spell slot or material components.
-
-### Frost Lance
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-Once on each of your turns when you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
-
-### Frost Lance
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-You draw on the gifts of the Prince of Frost to trap your enemies in ice. When you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]] cantrip one or more times on your turn, you can reduce that creature's speed by 10 feet until the end of your next turn.
-
-### Gaze of Khirad
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-You gain the piercing gaze of the blue star Khirad. As an action, you can see through solid objects to a range of 30 feet until the end of the current turn. During that time, you perceive objects as ghostly, transparent images.
-
-### Gaze of Two Minds
-
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[5. Mechanics/Rules/Conditions.md#deafened|deafened]] to your own surroundings.
-
-### Ghostly Gaze
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]] if you don't already have it. This special sight lasts until the end of the current turn. During that time, you perceive objects as ghostly, transparent images. Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Ghostly Gaze
-_Source: Xanathar's Guide to Everything p. 56_
-
-As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]] if you don't already have it. This special sight lasts for 1 minute or until your [[5. Mechanics/Rules/Status.md#concentration|concentration]] ends (as if you were [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell). During that time, you perceive objects as ghostly, transparent images.
-
-Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Gift of the Depths
-_Source: Xanathar's Guide to Everything p. 57_
-
-You can breathe underwater, and you gain a swimming speed equal to your walking speed.
-
-You can also cast [[/5. Mechanics/Spells/Water Breathing.md|water breathing]] once without expending a spell slot. You regain the ability to do so when you finish a long rest.
-
-### Gift of the Depths
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-You can breathe underwater, and you gain a swimming speed equal to your walking speed. You can also cast [[/5. Mechanics/Spells/Water Breathing.md|water breathing]] without expending a spell slot. Once you cast it using this invocation, you can't do so again until you finish a long rest.
-
-### Gift of the Ever-Living Ones
-_Source: Xanathar's Guide to Everything p. 57_
-
-Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
-
-### Gift of the Ever-Living Ones
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
-
-### Gift of the Protectors
-_Source: Tasha's Cauldron of Everything p. 71_
-
-A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
-
-When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
-
-As an action, you can magically erase a name on the page by touching it.
-
-### Gift of the Protectors
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).
-
-When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
-
-As an action, you can magically erase a name on the page by touching the name on it.
-
-### Grasp of Hadar
-_Source: Xanathar's Guide to Everything p. 57_
-
-Once on each of your turns when you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], you can move that creature in a straight line 10 feet closer to you.
-
-### Grasp of Hadar
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-Once during your turn when you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]] cantrip, you can move that creature in a straight line 10 feet closer to yourself.
-
-### Grasp of Hadar
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-Once on each of your turns when you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]] cantrip, you can move that creature in a straight line 10 feet closer to yourself.
-
-### Green Lord's Gift
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-The Green Lord oversees a verdant realm of everlasting summer. Your soul is linked to his power. Whenever you regain hit points, you treat any dice rolled to determine the hit points you regain as having rolled their maximum value.
-
-### Improved Pact Weapon
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells. In addition, the weapon counts as a magic weapon with a +1 bonus to its attack and damage rolls, unless it is already a magic weapon that you transformed into your pact weapon.
-
-### Improved Pact Weapon
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-Any weapon you create using your Pact of the Blade feature is a +1 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
-
-### Improved Pact Weapon
-_Source: Xanathar's Guide to Everything p. 57_
-
-You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.
-
-In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
-
-Finally, the weapon you conjure can be a [[/5. Mechanics/Items/Shortbow.md|shortbow]], [[/5. Mechanics/Items/Longbow.md|longbow]], [[/5. Mechanics/Items/Light Crossbow.md|light crossbow]], or [[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]].
-
-### Investment of the Chain Master
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
-
-- The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.  
-- The familiar no longer needs to breathe.  
-- The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.  
-- If the familiar forces a creature to make a saving throw, it uses your spell save DC.  
-
-### Investment of the Chain Master
-_Source: Tasha's Cauldron of Everything p. 71_
-
-When you cast [[/5. Mechanics/Spells/Find Familiar.md|find familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
-
-- The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.  
-- As a bonus action, you can command the familiar to take the Attack action.  
-- The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.  
-- If the familiar forces a creature to make a saving throw, it uses your spell save DC.  
-- When the familiar takes damage, you can use your reaction to grant it resistance against that damage.  
-
-### Kiss of Mephistopheles
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-When you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], you can cast [[/5. Mechanics/Spells/Fireball.md|fireball]] as a bonus action using a warlock spell slot. The spell must be centered on the creature you hit with [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]].
-
-### Kiss of Mephistopheles
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-You can channel the fires of Mephistopheles through your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]. When you hit a creature with that cantrip, you can cast [[/5. Mechanics/Spells/Fireball.md|fireball]] as a bonus action using a warlock spell slot. However, the spell must be centered on a creature you hit with eldritch blast.
-
-### Lance of Lethargy
-_Source: Xanathar's Guide to Everything p. 57_
-
-Once on each of your turns when you hit a creature with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
-
-### Lifedrinker
-
-When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum of 1).
-
-### Mace of Dispater
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-When you create your pact weapon as a mace, it manifests as an iron mace forged in Dis, the second of the Nine Hells. When you hit a creature with it, you can expend a spell slot to deal an additional `dice: 2d8` (`2d8`) force damage to the target per spell level, and you can knock the target [[5. Mechanics/Rules/Conditions.md#prone|prone]] if it is Huge or smaller.
-
-### Maddening Hex
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-As a bonus action, you cause a psychic disturbance around the target cursed by your [[/5. Mechanics/Spells/Hex.md|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. When you do so, you deal psychic damage to the target and each creature of your choice within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 0 damage).
-
-### Maddening Hex
-_Source: Xanathar's Guide to Everything p. 57_
-
-As a bonus action, you cause a psychic disturbance around the target cursed by your [[/5. Mechanics/Spells/Hex.md|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
-
-### Mask of Many Faces
-
-You can cast [[/5. Mechanics/Spells/Disguise Self.md|disguise self]] at will, without expending a spell slot.
-
-### Master of Myriad Forms
-
-You can cast [[/5. Mechanics/Spells/Alter Self.md|alter self]] at will, without expending a spell slot.
-
-### Minions of Chaos
-
-You can cast [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Mire the Mind
-
-You can cast [[/5. Mechanics/Spells/Slow.md|slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Misty Visions
-
-You can cast [[/5. Mechanics/Spells/Silent Image.md|silent image]] at will, without expending a spell slot or material components.
-
-### Moon Bow
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-You can create a longbow using your Pact of the Blade feature. When you draw back its string and fire, it creates an arrow of white wood, which vanishes after 1 minute. You have advantage on attack rolls against lycanthropes with the bow. When you hit a creature with it, you can expend a spell slot to deal an additional `dice: 2d8` (`2d8`) radiant damage to the target per spell level.
-
-### One with Shadows
-
-When you are in an area of dim light or darkness, you can use your action to become [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] until you move or take an action or a reaction.
-
-### Otherworldly Leap
-
-You can cast [[/5. Mechanics/Spells/Jump.md|jump]] on yourself at will, without expending a spell slot or material components.
-
-### Path of the Seeker
-_Source: Unearthed Arcana: Warlock and Wizard p. 4_
-
-The Seeker bids you to travel in search of knowledge, and little can prevent you from walking this path. You ignore difficult terrain, have advantage on all checks to escape a grapple, manacles, or rope bindings, and advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].
-
-### Protection of the Talisman
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-When the wearer of your talisman makes a saving throw in which they lack proficiency, they can add a `dice: d4` (`d4`) to the roll.
-
-### Protection of the Talisman
-_Source: Tasha's Cauldron of Everything p. 71_
-
-When the wearer of your talisman fails a saving throw, they can add a `dice: d4` (`d4`) to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-
-### Raven Queen's Blessing
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-When you score a critical hit with your [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]] cantrip, pick yourself or an ally you can see within 30 feet of you. The chosen creature can immediately expend a Hit Die to regain hit points equal to the roll + the creature's Constitution modifier (minimum of 1 hit point).
-
-### Rebuke of the Talisman
-_Source: Tasha's Cauldron of Everything p. 71_
-
-When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman's wearer.
-
-### Rebuke of the Talisman
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your Charisma modifier (minimum of 1 damage) and push it up to 10 feet away from the talisman's wearer.
-
-### Relentless Hex
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your [[/5. Mechanics/Spells/Hex.md|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
-
-### Relentless Hex
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-Your Hexblade's Curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport to a space you can see within 5 feet of the target cursed by your Hexblade's Curse. To do so, you must be able to see the target and must be within 30 feet of it.
-
-### Relentless Hex
-_Source: Xanathar's Guide to Everything p. 57_
-
-Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your [[/5. Mechanics/Spells/Hex.md|hex]] spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
-
-### Repelling Blast
-
-When you hit a creature with [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], you can push the creature up to 10 feet away from you in a straight line.
-
-### Sculptor of Flesh
-
-You can cast [[/5. Mechanics/Spells/Polymorph.md|polymorph]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Sea Twins' Gift
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-The Sea Twins rule seas in the Feywild. Their gift allows you to travel through water with ease. You can breathe underwater, and you gain a swimming speed equal to your walking speed.
-
-You can also cast [[/5. Mechanics/Spells/Water Breathing.md|water breathing]] using a warlock spell slot. Once you cast it using this invocation, you can't do so again until you finish a long rest.
-
-### Seeker's Speech
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-Your quest for knowledge allows you to master any spoken language. When you complete a long rest, you can pick two languages. You gain the ability to speak, read, and write the chosen languages until you finish your next long rest.
-
-### Shroud of Shadow
-_Source: Xanathar's Guide to Everything p. 57_
-
-You can cast [[/5. Mechanics/Spells/Invisibility.md|invisibility]] at will, without expending a spell slot.
-
-### Shroud of Shadow
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-You can cast [[/5. Mechanics/Spells/Invisibility.md|invisibility]] at will, without expending a spell slot.
-
-### Shroud of Ulban
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-The blue-white star Ulban maintains a fickle presence among the stars, fluttering into view only to herald a dire omen. As an action, you can turn [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] for 1 minute. If you attack, deal damage, or force a creature to make a saving throw, you become visible at the end of the current turn.
-
-### Sign of Ill Omen
-
-You can cast [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Superior Pact Weapon
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-Any weapon you create using your Pact of the Blade feature is a +2 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
-
-### Thief of Five Fates
-
-You can cast [[/5. Mechanics/Spells/Bane.md|bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
-
-### Thirsting Blade
-
-You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
-
-### Tomb of Levistus
-_Source: Unearthed Arcana: Revised Class Options p. 6_
-
-As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. You also gain vulnerability to fire damage, your speed is reduced to 0, and you are [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. These effects all end when the ice melts.
-
-Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Tomb of Levistus
-_Source: Xanathar's Guide to Everything p. 57_
-
-As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. These effects, including any remaining temporary hit points, all end when the ice melts.
-
-Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Tomb of Levistus
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. You also gain vulnerability to fire damage, your speed drops to 0, and you are [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. All of these effects end when the ice melts.
-
-Once you use this invocation, you can't use it again until you finish a short or long rest.
-
-### Trickster's Escape
-_Source: Unearthed Arcana: Revised Class Options p. 7_
-
-You can cast [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
-
-### Trickster's Escape
-_Source: Xanathar's Guide to Everything p. 57_
-
-You can cast [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
-
-### Ultimate Pact Weapon
-_Source: Unearthed Arcana: Warlock and Wizard p. 5_
-
-Any weapon you create using your Pact of the Blade feature is a +3 weapon. This invocation doesn't affect a magic weapon you transformed into your pact weapon.
-
-### Undying Servitude
-_Source: Tasha's Cauldron of Everything p. 71_
-
-You can cast [[/5. Mechanics/Spells/Animate Dead.md|animate dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
-
-### Visions of Distant Realms
-
-You can cast [[/5. Mechanics/Spells/Arcane Eye.md|arcane eye]] at will, without expending a spell slot.
-
-### Voice of the Chain Master
-
-You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
-
-### Whispers of the Grave
-
-You can cast [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]] at will, without expending a spell slot.
-
-### Witch Sight
-
-You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
-
-## Pact Boon
-
-### Pact of the Blade
-
-You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
-
-Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
-
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
-
-### Pact of the Chain
-
-You learn the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
-
-When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [[/5. Mechanics/Bestiary/Fiend/Imp.md|imp]], [[/5. Mechanics/Bestiary/Dragon/Pseudodragon.md|pseudodragon]], [[/5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]], or [[/5. Mechanics/Bestiary/Fey/Sprite.md|sprite]].
-
-Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
-
-### Pact of the Star Chain
-_Source: Unearthed Arcana: The Faithful p. 1_
-
-At 3rd level, a character dedicated to the Seeker can select this option instead of one of the warlock's existing Pact Boon options.
-
-The Seeker grants you a chain forged from starlight, decorated with seven gleaming motes of brightness. While the chain is on your person, you know the [[/5. Mechanics/Spells/Augury.md|augury]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
-
-Additionally, you can invoke the Seeker's power to gain advantage on an Intelligence check while you carry this item. Once you use this ability, you cannot use it again until you complete a short or long rest.
-
-If you lose your Star Chain, you can perform a 1-hour ceremony to receive a replacement from the Seeker. The ceremony can be performed during a short or long rest, and it destroys the previous chain. The chain disappears in a flash of light when you die.
-
-The exact form of this item might be different depending on your patron. The Star Chain is inspired by the Greyhawk deity Celestian.
-
-### Pact of the Talisman
-_Source: Unearthed Arcana: Class Feature Variants p. 11_
-
-Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a `dice: d4` (`d4`) to the roll.
-
-If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.
-
-The talisman turns to ash when you die.
-
-### Pact of the Talisman
-_Source: Tasha's Cauldron of Everything p. 71_
-
-Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a `dice: d4` (`d4`) to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-
-If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
-
-### Pact of the Tome
-
-Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+## Optional Features
+
+> [!example]- Eldritch Invocation
+> ![[5. Mechanics\Optional Features\List Eldritch Invocation.md#Eldritch%20Invocation|Eldritch Invocation]]
+^list-eldritch-invocation
+
+> [!example]- Pact Boon
+> ![[5. Mechanics\Optional Features\List Pact Boon.md#Pact%20Boon|Pact Boon]]
+^list-pact-boon

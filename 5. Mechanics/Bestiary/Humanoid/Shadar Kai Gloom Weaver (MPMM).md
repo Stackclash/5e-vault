@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: inline
+aliases: ["Shadar-kai Gloom Weaver"]
 ---
 # Shadar-kai Gloom Weaver
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  
@@ -30,14 +29,12 @@ Within the fortress are items that the Raven Queen finds irresistible: objects i
 
 Shadar-kai encountered outside the Shadowfell are often on quests to find the most sorrow-touched items they can find to bring back to their queen's gloomy castle.
 
-## Stat Block
-
 ```statblock
 "name": "Shadar-kai Gloom Weaver"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
@@ -48,57 +45,52 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - !!int "15"
 - !!int "12"
 - !!int "18"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "8"
-  "Constitution": !!int "6"
+  "Dexterity": "+8"
+  "Constitution": "+6"
 "damage_immunities": "necrotic"
 "condition_immunities": "charmed, exhaustion"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shadar-kai casts one of the following spells, requiring no material\
+- "desc": "The shadar-kai casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-    \nAt will: [[/5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
-    \ [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[/5. Mechanics/Spells/Bane.md|bane]],\
-    \ [[/5. Mechanics/Spells/Confusion.md|confusion]], [[/5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[/5. Mechanics/Spells/Fear.md|fear]], [[/5. Mechanics/Spells/Major Image.md|major image]],\
-    \ [[/5. Mechanics/Spells/True Seeing.md|true seeing]]"
+    \nAt will: [[5. Mechanics\Spells\Arcane Eye.md|arcane eye]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]],\
+    \ [[5. Mechanics\Spells\Speak With Dead.md|speak with dead]]\n\n1/day each: [arcane\
+    \ gate](compendium/spells/arcane-gate.md), [[5. Mechanics\Spells\Bane.md|bane]],\
+    \ [[5. Mechanics\Spells\Confusion.md|confusion]], [[5. Mechanics\Spells\Darkness.md|darkness]],\
+    \ [[5. Mechanics\Spells\Fear.md|fear]], [[5. Mechanics\Spells\Major Image.md|major image]],\
+    \ [[5. Mechanics\Spells\True Seeing.md|true seeing]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
+- "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
     \ while within 10 feet of the shadar-kai."
   "name": "Burden of Time"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shadar-kai has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The shadar-kai has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put it to sleep."
   "name": "Fey Ancestry"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shadar-kai makes three Shadow Spear attacks. It can replace one attack\
+- "desc": "The shadar-kai makes three Shadow Spear attacks. It can replace one attack\
     \ with a use of Spellcasting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
-    \ or range 30/120, one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage\
-    \ plus dice: 4d12|avg (4d12) necrotic damage. Hit or Miss: The spear magically\
-    \ returns to the shadar-kai's hand immediately after a ranged attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
+    \ or range 30/120, one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing\
+    \ damage plus 26 (dice: 4d12|avg (4d12)) necrotic damage. Hit or Miss: The\
+    \ spear magically returns to the shadar-kai's hand immediately after a ranged\
+    \ attack."
   "name": "Shadow Spear"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the shadar-kai takes damage, it turns [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "When the shadar-kai takes damage, it turns [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ and teleports, along with any equipment it is wearing or carrying, up to 60\
-    \ feet to an unoccupied space it can see. It remains [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ feet to an unoccupied space it can see. It remains [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ until the start of its next turn or until it attacks or casts a spell."
   "name": "Misty Escape (Recharge 6-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/shadar-kai-gloom-weaver.png"
+"image": "compendium/bestiary/humanoid/token/shadar-kai-gloom-weaver.png"
 ```
 ^statblock
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Silvanus"]
 ---
 # Silvanus
-*Source: Player's Handbook p. 294* 
+*Source: Player's Handbook p. 294. Available in the SRD and the Basic Rules.* 
 
 - **Alignment**: Neutral
 - **Domains**: Nature

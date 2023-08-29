@@ -12,4 +12,4 @@ aliases: ["Chariot"]
 - **Cost**: 250 gp
 - **Weight**: 100.0 lbs.
 
-*Source: Player's Handbook p. 157, Mythic Odysseys of Theros p. 196*
+*Source: Player's Handbook p. 157, Mythic Odysseys of Theros p. 196. Available in the SRD and the Basic Rules.*

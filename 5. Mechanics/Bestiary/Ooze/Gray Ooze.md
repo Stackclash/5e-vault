@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/ooze
-statblock: inline
+aliases: ["Gray Ooze"]
 ---
 # Gray Ooze
-*Source: Monster Manual p. 243, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Keys from the Golden Vault*  
+*Source: Monster Manual p. 243, Curse of Strahd. Available in the SRD.*  
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
 
@@ -39,8 +38,6 @@ According to the Demonomicon of Iggwilv and other sources, oozes are scattered f
 
 An ooze doesn't require sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Gray Ooze"
 "size": "Medium"
@@ -56,36 +53,33 @@ An ooze doesn't require sleep.
 - !!int "1"
 - !!int "6"
 - !!int "2"
-"speed": "walk 10 ft., climb 10 ft."
+"speed": "10 ft., climb 10 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  "Stealth": "+2"
 "damage_resistances": "acid, cold, fire"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ooze can move through a space as narrow as 1 inch wide without squeezing."
+- "desc": "The ooze can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any nonmagical weapon made of metal that hits the ooze corrodes. After\
+- "desc": "Any nonmagical weapon made of metal that hits the ooze corrodes. After\
     \ dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage\
     \ rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition\
     \ made of metal that hits the ooze is destroyed after dealing damage.\n\nThe ooze\
     \ can eat through 2-inch-thick, nonmagical metal in 1 round."
   "name": "Corrode Metal"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the ooze remains motionless, it is indistinguishable from an oily\
+- "desc": "While the ooze remains motionless, it is indistinguishable from an oily\
     \ pool or wet rock."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage plus dice: 2d6|avg\
-    \ (2d6) acid damage, and if the target is wearing nonmagical metal armor, its\
-    \ armor is partly corroded and takes a permanent and cumulative −1 penalty to\
-    \ the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage plus 7 (dice:\
+    \ 2d6|avg (2d6)) acid damage, and if the target is wearing nonmagical metal\
+    \ armor, its armor is partly corroded and takes a permanent and cumulative −1\
+    \ penalty to the AC it offers. The armor is destroyed if the penalty reduces its\
+    \ AC to 10."
   "name": "Pseudopod"
 "source":
 - "MM"
@@ -95,7 +89,7 @@ An ooze doesn't require sleep.
 - "WDH"
 - "GoS"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Ooze/token/gray-ooze.png"
+"image": "compendium/bestiary/ooze/token/gray-ooze.png"
 ```
 ^statblock
 

@@ -6,7 +6,6 @@ tags:
 - spell/class/bard
 - spell/class/cleric/knowledge-domain
 - spell/class/druid
-- spell/class/druid/circle-of-spores
 - spell/class/fighter/eldritch-knight
 - spell/class/paladin/oathbreaker
 - spell/class/rogue/arcane-trickster
@@ -17,6 +16,7 @@ tags:
 aliases: ["Confusion"]
 ---
 # Confusion
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Enchantment*  
 
 - **Casting time:** 1 action
@@ -30,9 +30,9 @@ An affected target can't take reactions and must roll a `dice: d10` (`d10`) at t
 
 **Confusion Behavior**
 
-| `dice: d10` (`d10`) | Behavior |
-|-----------|-------------|----------|
-| 1 | The creature uses all its movement to move in a random direction. To determine the direction, roll a `dice: d8` (`d8`) and assign a direction to each die face. The creature doesn't take an action this turn. |
+| `dice: d10\|avg` (`d10`) | Behavior |
+|------------|-------------|----------|
+| 1 | The creature uses all its movement to move in a random direction. To determine the direction, roll a `dice: d8\|avg` (`d8`) and assign a direction to each die face. The creature doesn't take an action this turn. |
 | 2-6 | The creature doesn't move or take actions this turn. |
 | 7-8 | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn. |
 | 9-10 | The creature can act and move normally. |
@@ -42,6 +42,6 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[/5. Mechanics/Classes/Druid Circle Of Spores (TCE).md|Druid (Circle of Spores)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Paladin Oathbreaker.md|Paladin (Oathbreaker)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Paladin Oathbreaker.md|Paladin (Oathbreaker)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 224
+*Source: Player's Handbook p. 224. Available in the SRD.*

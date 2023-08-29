@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
-- spell/class/artificer
 - spell/class/druid/circle-of-the-moon
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
@@ -14,6 +13,7 @@ tags:
 aliases: ["Alter Self"]
 ---
 # Alter Self
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -37,6 +37,6 @@ You grow claws, fangs, spines, horns, or a different natural weapon of your choi
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Druid Circle Of The Moon.md|Druid (Circle of the Moon)]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid Circle Of The Moon.md|Druid (Circle of the Moon)]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 211
+*Source: Player's Handbook p. 211. Available in the SRD.*

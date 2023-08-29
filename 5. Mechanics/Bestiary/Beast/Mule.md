@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Mule"]
 ---
 # Mule
-*Source: Monster Manual p. 333, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Keys from the Golden Vault*  
+*Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Mule"
@@ -28,23 +27,20 @@ statblock: inline
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mule is considered to be a Large animal for the purpose of determining\
+- "desc": "The mule is considered to be a Large animal for the purpose of determining\
     \ its carrying capacity."
   "name": "Beast of Burden"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
+    \ effects that would knock it [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"
@@ -52,7 +48,7 @@ statblock: inline
 - "SKT"
 - "GoS"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/mule.png"
+"image": "compendium/bestiary/beast/token/mule.png"
 ```
 ^statblock
 

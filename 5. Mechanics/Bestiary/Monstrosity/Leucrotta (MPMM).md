@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Leucrotta"]
 ---
 # Leucrotta
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
@@ -26,7 +25,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "name": "Leucrotta"
 "size": "Large"
 "type": "monstrosity"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "67"
 "hit_dice": "9d10 + 18"
@@ -37,48 +36,42 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 - !!int "9"
 - !!int "12"
 - !!int "6"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "skillsaves":
-  "Deception": !!int "2"
-  "Perception": !!int "5"
+  "Deception": "+2"
+  "Perception": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Gnoll"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature that\
+- "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature that\
     \ hears the sounds can tell they are imitations only with a successful DC 14 Wisdom\
-    \ ([[5. Mechanics/Rules/Skills.md#Insight|Insight]]) check."
+    \ ([[\5. Mechanics\Rules\Skills.md#Insight|Insight]]) check."
   "name": "Mimicry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
+- "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
     \ 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw or\
-    \ be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the start of the\
+    \ be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] until the start of the\
     \ creature's next turn. On a successful saving throw, the creature is immune to\
     \ the Stench of all leucrottas for 1 hour."
   "name": "Stench"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leucrotta makes one Bite attack and one Hooves attack."
+- "desc": "The leucrotta makes one Bite attack and one Hooves attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage. If the leucrotta scores\
-    \ a critical hit, it rolls the damage dice three times, instead of twice."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage. If the leucrotta\
+    \ scores a critical hit, it rolls the damage dice three times, instead of twice."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Hooves"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the Disengage\
+- "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[\5. Mechanics\Rules\Actions.md#Disengage|Disengage]]\
     \ action."
   "name": "Kicking Retreat"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/leucrotta.png"
+"image": "compendium/bestiary/monstrosity/token/leucrotta.png"
 ```
 ^statblock
 

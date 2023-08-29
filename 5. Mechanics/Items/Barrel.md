@@ -14,4 +14,4 @@ aliases: ["Barrel"]
 
 A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

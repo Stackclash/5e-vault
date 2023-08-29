@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Water Weird"]
 ---
 # Water Weird
-*Source: Monster Manual p. 299, Princes of the Apocalypse, Tales from the Yawning Portal, Dragon of Icespire Peak, Storm Lord's Wrath, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 299*  
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
 
@@ -20,7 +19,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [[Purify Food And Drink|purify food and drink]] spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [[5. Mechanics\Spells\Purify Food And Drink.md|purify food and drink]] spell.
 
 ## Elemental Nature
 
@@ -30,8 +29,6 @@ A water weird doesn't require air, food, drink, or sleep.
 > 
 > Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life.
 
-
-## Stat Block
 
 ```statblock
 "name": "Water Weird"
@@ -48,7 +45,7 @@ A water weird doesn't require air, food, drink, or sleep.
 - !!int "11"
 - !!int "10"
 - !!int "10"
-"speed": "walk 0 ft., swim 60 ft."
+"speed": "0 ft., swim 60 ft."
 "damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, grappled, paralyzed, poisoned, restrained, prone,\
@@ -57,22 +54,20 @@ A water weird doesn't require air, food, drink, or sleep.
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The water weird is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The water weird is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ while fully immersed in water."
   "name": "Invisible in Water"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The water weird dies if it leaves the water to which it is bound or if\
+- "desc": "The water weird dies if it leaves the water to which it is bound or if\
     \ that water is destroyed."
   "name": "Water Bound"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) bludgeoning damage. If the target is Medium\
-    \ or smaller, it is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the\
-    \ target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], the water\
-    \ weird tries to drown it, and the water weird can't constrict another target."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
+    \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3)) bludgeoning damage. If the target\
+    \ is Medium or smaller, it is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple\
+    \ ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
+    \ the water weird tries to drown it, and the water weird can't constrict another\
+    \ target."
   "name": "Constrict"
 "source":
 - "MM"
@@ -85,7 +80,7 @@ A water weird doesn't require air, food, drink, or sleep.
 - "CM"
 - "JttRC"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Elemental/token/water-weird.png"
+"image": "compendium/bestiary/elemental/token/water-weird.png"
 ```
 ^statblock
 

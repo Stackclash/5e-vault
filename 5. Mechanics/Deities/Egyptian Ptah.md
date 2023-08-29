@@ -8,7 +8,7 @@ tags:
 aliases: ["Ptah"]
 ---
 # Ptah
-*Source: Player's Handbook p. 299* 
+*Source: Player's Handbook p. 299. Available in the SRD.* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Knowledge

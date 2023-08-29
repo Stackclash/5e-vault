@@ -7,22 +7,22 @@ tags:
 aliases: ["Ranger"]
 ---
 # Ranger
-*Source: Player's Handbook p. 89*  
+*Source: Player's Handbook p. 89. Available in the SRD.*  
 
 > [!tldr]- Feature progression
 > 
 > | Level | PB | Features |
 > |-------|----|----------|
-> | 1st | +2 | [Favored Enemy](#Favored%20Enemy%20(Level%201)), [Favored Foe](#Favored%20Foe%20(Level%201)), [Natural Explorer](#Natural%20Explorer%20(Level%201)), [Deft Explorer](#Deft%20Explorer%20(Level%201)) |
-> | 2nd | +2 | [Fighting Style](#Fighting%20Style%20(Level%202)), [Spellcasting](#Spellcasting%20(Level%202)), [Spellcasting Focus](#Spellcasting%20Focus%20(Level%202)) |
-> | 3rd | +2 | [Ranger Archetype](#Ranger%20Archetype%20(Level%203)), [Primeval Awareness](#Primeval%20Awareness%20(Level%203)), [Primal Awareness](#Primal%20Awareness%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
+> | 1st | +2 | [Favored Enemy](#Favored%20Enemy%20(Level%201)), [Natural Explorer](#Natural%20Explorer%20(Level%201)) |
+> | 2nd | +2 | [Fighting Style](#Fighting%20Style%20(Level%202)), [Spellcasting](#Spellcasting%20(Level%202)) |
+> | 3rd | +2 | [Ranger Archetype](#Ranger%20Archetype%20(Level%203)), [Primeval Awareness](#Primeval%20Awareness%20(Level%203)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
-> | 6th | +3 | [Favored Enemy and Natural Explorer improvements](#Favored%20Enemy%20and%20Natural%20Explorer%20improvements%20(Level%206)), [Deft Explorer Improvement](#Deft%20Explorer%20Improvement%20(Level%206)) |
+> | 6th | +3 | [Favored Enemy and Natural Explorer improvements](#Favored%20Enemy%20and%20Natural%20Explorer%20improvements%20(Level%206)) |
 > | 7th | +3 | [Ranger Archetype feature](#Ranger%20Archetype%20feature%20(Level%207)) |
 > | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)), [Land's Stride](#Land's%20Stride%20(Level%208)) |
 > | 9th | +4 | ⏤ |
-> | 10th | +4 | [Hide in Plain Sight](#Hide%20in%20Plain%20Sight%20(Level%2010)), [Nature's Veil](#Nature's%20Veil%20(Level%2010)), [Natural Explorer improvement](#Natural%20Explorer%20improvement%20(Level%2010)), [Deft Explorer Improvement](#Deft%20Explorer%20Improvement%20(Level%2010)) |
+> | 10th | +4 | [Hide in Plain Sight](#Hide%20in%20Plain%20Sight%20(Level%2010)), [Natural Explorer improvement](#Natural%20Explorer%20improvement%20(Level%2010)) |
 > | 11th | +4 | [Ranger Archetype feature](#Ranger%20Archetype%20feature%20(Level%2011)) |
 > | 12th | +4 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%2012)) |
 > | 13th | +5 | ⏤ |
@@ -69,24 +69,24 @@ aliases: ["Ranger"]
 
 - **Hit Dice**: 1d10 per Ranger level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d10 + CON  (minimum of 1)
 
-## Starting a Ranger
+## Starting Ranger
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Saving Throws:** Strength, Dexterity
-- **Armor:** light, medium, [[/5. Mechanics/Items/Shield.md|shields]]
-- **Weapons:** simple, martial
-- **Tools:** none
-- **Skills:** Choose 3 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
+- **Saving Throws**: Strength, Dexterity
+- **Armor**: light, medium, [[5. Mechanics\Items\Shield.md|shields]]
+- **Weapons**: simple, martial
+- **Tools**: none
+- **Skills**: Choose 3 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[/5. Mechanics/Items/Scale Mail.md|scale mail]] or (b) [[/5. Mechanics/Items/Leather Armor.md|leather armor]]  
-- (a) two [[/5. Mechanics/Items/Shortsword.md|shortswords]] or (b) two simple melee weapons  
-- (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- A [[/5. Mechanics/Items/Longbow.md|longbow]] and a [[/5. Mechanics/Items/Quiver.md|quiver]] of [[/5. Mechanics/Items/Arrows-20.md|20 arrows]]  
+- (a) [[5. Mechanics\Items\Scale Mail.md|scale mail]] or (b) [[5. Mechanics\Items\Leather Armor.md|leather armor]]  
+- (a) two [[5. Mechanics\Items\Shortsword.md|shortswords]] or (b) two simple melee weapons  
+- (a) a [[5. Mechanics\Items\Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[5. Mechanics\Items\Explorers Pack.md|explorer's pack]]  
+- A [[5. Mechanics\Items\Longbow.md|longbow]] and a [[5. Mechanics\Items\Quiver.md|quiver]] of [[5. Mechanics\Items\Arrows-20.md|20 arrows]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,10 +99,109 @@ To multiclass as a Ranger, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/5. Mechanics/Items/Shield.md|shields]]
-- **Weapons:** simple, martial
-- **Tools:** none
-- **Skills:** Choose 1 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
+- **Armor**: light, medium, [[5. Mechanics\Items\Shield.md|shields]]
+- **Weapons**: simple, martial
+- **Tools**: none
+- **Skills**: Choose 1 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
+
+## Ranger
+
+Rough and wild looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a shortsword in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.
+
+After tumbling away from a cone of freezing air, an elf finds her feet and draws back her bow to loose an arrow at the white dragon. Shrugging off the wave of fear that emanates from the dragon like the cold of its breath, she sends one arrow after another to find the gaps between the dragon's thick scales.
+
+Holding his hand high, a half-elf whistles to the hawk that circles high above him, calling the bird back to his side. Whispering instructions in Elvish, he points to the owlbear he's been tracking and sends the hawk to distract the creature while he readies his bow.
+
+Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.
+
+### Deadly Hunters
+
+Warriors of the wilderness, rangers specialize in hunting the monsters that threaten the edges of civilization—humanoid raiders, rampaging beasts and monstrosities, terrible giants, and deadly dragons. They learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble. Rangers focus their combat training on techniques that are particularly useful against their specific favored foes.
+
+Thanks to their familiarity with the wilds, rangers acquire the ability to cast spells that harness nature's power, much as a druid does. Their spells, like their combat abilities, emphasize speed, stealth, and the hunt. A ranger's talents and abilities are honed with deadly focus on the grim task of protecting the borderlands.
+
+### Independent Adventurers
+
+Though a ranger might make a living as a hunter, a guide, or a tracker, a ranger's true calling is to defend the outskirts of civilization from the ravages of monsters and humanoid hordes that press in from the wild. In some places, rangers gather in secretive orders or join forces with druidic circles. Many rangers, though, are independent almost to a fault, knowing that, when a dragon or a band of orcs attacks, a ranger might be the first—and possibly the last—line of defense.
+
+This fierce independence makes rangers well suited to adventuring, since they are accustomed to life far from the comforts of a dry bed and a hot bath. Faced with city-bred adventurers who grouse and whine about the hardships of the wild, rangers respond with some mixture of amusement, frustration, and compassion. But they quickly learn that other adventurers who can carry their own weight in a fight against civilization's foes are worth any extra burden. Coddled city folk might not know how to feed themselves or find fresh water in the wild, but they make up for it in other ways.
+
+### Creating a Ranger
+
+As you create your ranger character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, wandering the wilds together until you mastered the ranger's ways? Did you leave your apprenticeship, or was your mentor slain—perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of rangers affiliated with a druidic circle, trained in mystic paths as well as wilderness lore. You might be self-taught, a recluse who learned combat skills, tracking, and even a magical connection to nature through the necessity of surviving in the wilds.
+
+What's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work in protecting the borderlands, or a significant change? What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?
+
+#### Quick Build
+
+You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the [[5. Mechanics\Backgrounds\Outlander.md|outlander]] background.
+
+> [!quote]- A quote from Soveliss  
+> 
+> I spend a lot of my life away from civilization, keeping to its fringes to protect it. Don't assume that because I don't bend the knee to your king that I haven't done more to protect him than all his knights put together.
+
+Rangers are free-minded wanderers and seekers who patrol the edges of civilized territory, turning back the denizens of the wild lands beyond. It is a thankless job, since their efforts are rarely understood and almost never rewarded. Yet rangers persist in their duties, never doubting that their work makes the world a safer place.
+
+A relationship with civilization informs every ranger's personality and history. Some rangers see themselves as enforcers of the law and bringers of justice on civilization's frontier, answering to no sovereign power. Others are survivalists who eschew civilization altogether. They vanquish monsters to keep themselves safe while they live in and travel through the perilous wild areas of the world. If their efforts also benefit the kingdoms and other civilized realms that they avoid, so be it.
+
+If you're creating or playing a ranger character, the following sections offer ideas for embellishing the character and enhancing your roleplaying experience.
+
+## View of the World
+_Source: Xanathar's Guide to Everything_
+
+A ranger's view of the world begins (and sometimes ends) with that character's outlook toward civilized folk and the places they occupy. Some rangers have an attitude toward civilization that's deeply rooted in disdain, while others pity the people they have sworn to protect—though on the battlefield, it's impossible to tell the difference between one ranger and another. Indeed, to those who have seen them operate and been the beneficiaries of their prowess, it scarcely matters why rangers do what they do. That said, no two rangers are likely to express their opinions on any matter in the same way.
+
+If you haven't yet thought about the details of your character's worldview, consider putting a finer point on things by summarizing that viewpoint in a short statement (such as the entries on the following table). How might that feeling affect the way you conduct yourself?
+
+**View of the World**
+
+| `dice: d6\|avg` (`d6`) | View |
+|-----------|------------|------|
+| 1 | Towns and cities are the best places for those who can't survive on their own. |
+| 2 | The advancement of civilization is the best way to thwart chaos, but its reach must be monitored. |
+| 3 | Towns and cities are a necessary evil, but once the wilderness is purged of supernatural threats, we will need them no more. |
+| 4 | Walls are for cowards, who huddle behind them while others do the work of making the world safe. |
+| 5 | Visiting a town is not unpleasant, but after a few days I feel the irresistible call to return to the wild. |
+| 6 | Cities breed weakness by isolating folk from the harsh lessons of the wild. |
+^view-of-the-world
+
+## Homelands
+_Source: Xanathar's Guide to Everything_
+
+All rangers, regardless of how they came to take up the profession, have a strong connection to the natural world and its various terrains. For some rangers, the wilderness is where they grew up, either as a result of being born there or moving there at a young age. For other rangers, civilization was originally home, but the wilderness became a second homeland.
+
+Think of your character's backstory and decide what terrain feels most like home, whether or not you were born there. What does that terrain say about your personality? Does it influence which spells you choose to learn? Have your experiences there shaped who your favored enemies are?
+
+**Homelands**
+
+| `dice: d6\|avg` (`d6`) | Homeland |
+|-----------|------------|----------|
+| 1 | You patrolled an ancient forest, darkened and corrupted by several crossings to the Shadowfell. |
+| 2 | As part of a group of nomads, you acquired the skills for surviving in the desert. |
+| 3 | Your early life in the Underdark prepared you for the challenges of combating its denizens. |
+| 4 | You dwelled on the edge of a swamp, in an area imperiled by land creatures as well as aquatic ones. |
+| 5 | Because you grew up among the peaks, finding the best path through the mountains is second nature to you. |
+| 6 | You wandered the far north, learning how to protect yourself and prosper in a realm overrun by ice. |
+^homelands
+
+## Sworn Enemy
+_Source: Xanathar's Guide to Everything_
+
+Every ranger begins with a favored enemy (or two). The determination of a favored enemy might be tied to a specific event in the character's early life, or it might be entirely a matter of choice.
+
+What spurred your character to select a particular enemy? Was the choice made because of tradition or curiosity, or do you have a grudge to settle?
+
+**Sworn Enemies**
+
+| `dice: d6\|avg` (`d6`) | Enemy |
+|-----------|------------|-------|
+| 1 | You seek revenge on nature's behalf for the great transgressions your foe has committed. |
+| 2 | Your forebears or predecessors fought these creatures, and so shall you. |
+| 3 | You bear no enmity toward your foe. You stalk such creatures as a hunter tracks down a wild animal. |
+| 4 | You find your foe fascinating, and you collect books of tales and history concerning it. |
+| 5 | You collect tokens of your fallen enemies to remind you of each kill. |
+| 6 | You respect your chosen enemy, and you see your battles as a test of respective skills. |
+^sworn-enemies
 
 ## Class Features
 
@@ -110,26 +209,13 @@ You gain the following proficiencies:
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md|gnolls]] and [[/5. Mechanics/Bestiary/Humanoid/Orc.md|orcs]]) as favored enemies.
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[5. Mechanics\Bestiary\Humanoid\Gnoll.md|gnolls]] and [[5. Mechanics\Bestiary\Humanoid\Orc.md|orcs]]) as favored enemies.
 
-You have advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Survival|Survival]]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+You have advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Survival|Survival]]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
 You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
-
-### Favored Foe (Level 1)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-_1st-level ranger optional class features, which replaces the Favored Enemy feature and works with the Foe Slayer feature_
-
-When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[5. Mechanics/Rules/Status.md#concentration|concentration]] (as if you were [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).
-
-The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice: 1d4` (`1d4`).
-
-You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-This feature's extra damage increases when you reach certain levels in this class: to `dice: 1d6` (`1d6`) at 6th level and to `dice: 1d8` (`1d8`) at 14th level.
 
 ### Natural Explorer (Level 1)
 
@@ -146,38 +232,14 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 
 You choose additional favored terrain types at 6th and 10th level.
 
-### Deft Explorer (Level 1)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-_1st-level ranger optional class features, which replaces the Natural Explorer feature_
-
-You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
-
-#### Canny
-
-Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.
-
-You can also speak, read, and write two additional languages of your choice.
-
 ### Fighting Style (Level 2)
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-- [[/5. Mechanics/Classes/Fighter.md#Archery|Archery]]  
-- Close Quarters Shooter  
-- [[/5. Mechanics/Classes/Fighter.md#Defense|Defense]]  
-- [[/5. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
-- Mariner  
-- Tunnel Fighter  
-- [Two-Weapon Fighting](/compendium/classes/fighter.md#Two-Weapon%20Fighting)  
-- Blind Fighting  
-- Interception  
-- Thrown Weapon Fighting  
-- Unarmed Fighting  
-- Druidic Warrior  
-- [[/5. Mechanics/Classes/Fighter.md#Blind%20Fighting|Blind Fighting]]  
-- [[/5. Mechanics/Classes/Ranger.md#Druidic%20Warrior|Druidic Warrior]]  
-- [[/5. Mechanics/Classes/Fighter.md#Thrown%20Weapon%20Fighting|Thrown Weapon Fighting]]  
+- [[5. Mechanics\Optional Features\Archery.md|Archery]]  
+- [[5. Mechanics\Optional Features\Defense.md|Defense]]  
+- [[5. Mechanics\Optional Features\Dueling.md|Dueling]]  
+- [[5. Mechanics\Optional Features\Two Weapon Fighting.md|Two-Weapon Fighting]]  
 
 ### Spellcasting (Level 2)
 
@@ -187,7 +249,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] using either slot.
+For example, if you know the 1st-level spell [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -205,13 +267,6 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 
 **Spell attack modifier**: your proficiency bonus + your Wisdom modifier
 
-### Spellcasting Focus (Level 2)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-_2nd-level ranger optional class features_
-
-You can use a druidic focus as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
-
 ### Ranger Archetype (Level 3)
 
 At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level.
@@ -220,57 +275,21 @@ At 3rd level, you choose an archetype that you strive to emulate from the list o
 
 Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
 
-### Primal Awareness (Level 3)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-_3rd-level ranger optional class features, which replaces the Primeval Awareness feature_
-
-You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.
-
-**Primal Awareness Spells**
-
-| Ranger Level | Spell |
-|--------------|-------|
-| 3rd | [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]] |
-| 5th | [[/5. Mechanics/Spells/Beast Sense.md|beast sense]] |
-| 9th | [[/5. Mechanics/Spells/Speak With Plants.md|speak with plants]] |
-| 13th | [[/5. Mechanics/Spells/Locate Creature.md|locate creature]] |
-| 17th | [[/5. Mechanics/Spells/Commune With Nature.md|commune with nature]] |
-^primal-awareness-spells
-
-You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
-
 ### Ability Score Improvement (Level 4)
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Martial Versatility (Level 4)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-_4th-level ranger optional class features_
-
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
-
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[\5. Mechanics\Rules\Actions.md#Attack|Attack]] action on your turn.
 
 ### Favored Enemy and Natural Explorer improvements (Level 6)
 
 At 6th level, you gain an additional favored terrain.
 
 At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.
-
-### Deft Explorer Improvement (Level 6)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-You gain an additional benefit when you reach 6th level in this class.
-
-#### Roving
-
-Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
 
 ### Ranger Archetype feature (Level 7)
 
@@ -286,37 +305,17 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[/5. Mechanics/Spells/Entangle.md|entangle]] spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[5. Mechanics\Spells\Entangle.md|entangle]] spell.
 
 ### Hide in Plain Sight (Level 10)
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
-
-### Nature's Veil (Level 10)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-_10th-level ranger optional class features, which replaces the Hide in Plain Sight feature_
-
-You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become [[5. Mechanics/Rules/Conditions.md#invisible|invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
-
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]]) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
 ### Natural Explorer improvement (Level 10)
 
 You gain an additional favored terrain.
-
-### Deft Explorer Improvement (Level 10)
-_Source: Tasha's Cauldron of Everything p. 56_
-
-You gain an additional benefit when you reach 10th level in this class.
-
-#### Tireless
-
-As an action, you can give yourself a number of temporary hit points equal to `dice: 1d8` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-In addition, whenever you finish a short rest, your [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] level, if any, is decreased by 1.
 
 ### Ranger Archetype feature (Level 11)
 
@@ -330,7 +329,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Vanish (Level 14)
 
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+Starting at 14th level, you can use the [[\5. Mechanics\Rules\Actions.md#Hide|Hide]] action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
 ### Favored Enemy improvement (Level 14)
 
@@ -348,7 +347,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Feral Senses (Level 18)
 
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] or [[5. Mechanics/Rules/Conditions.md#deafened|deafened]].
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] or [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]].
 
 ### Ability Score Improvement (Level 19)
 
@@ -360,81 +359,8 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-## Fighting Style
+## Optional Features
 
-### Archery
-
-You gain a +2 bonus to attack rolls you make with ranged weapons.
-
-### Blind Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.
-
-### Blind Fighting
-_Source: Tasha's Cauldron of Everything p. 41_
-
-You have [[5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
-
-### Close Quarters Shooter
-_Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
-
-When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
-
-### Defense
-
-While you are wearing armor, you gain a +1 bonus to AC.
-
-### Druidic Warrior
-_Source: Unearthed Arcana: Class Feature Variants p. 7_
-
-You learn two cantrips of your choice from the druid spell list. They count as druid spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
-
-### Druidic Warrior
-_Source: Tasha's Cauldron of Everything p. 57_
-
-You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
-
-### Dueling
-
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-### Interception
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-
-### Mariner
-_Source: Unearthed Arcana: Waterborne Adventures p. 3_
-
-As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
-
-### Thrown Weapon Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 13_
-
-You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.
-
-### Thrown Weapon Fighting
-_Source: Tasha's Cauldron of Everything p. 42_
-
-You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
-
-### Tunnel Fighter
-_Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
-
-As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
-
-### Two-Weapon Fighting
-
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
-
-### Unarmed Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 13_
-
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
-
-When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+> [!example]- Fighting Style, Ranger
+> ![Fighting Style, Ranger](compendium/optional-features/list-fighting-style-ranger.md#Fighting%20Style,%20Ranger)
+^list-fighting-style-ranger

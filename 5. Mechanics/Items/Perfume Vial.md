@@ -12,4 +12,4 @@ aliases: ["Perfume (vial)"]
 - **Cost**: 5 gp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

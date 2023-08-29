@@ -11,6 +11,7 @@ tags:
 aliases: ["Heroes' Feast"]
 ---
 # Heroes' Feast
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 10 minute
@@ -20,8 +21,8 @@ aliases: ["Heroes' Feast"]
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice: 2d10` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice: 2d10` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
-Source: Player's Handbook p. 250
+*Source: Player's Handbook p. 250. Available in the SRD and the Basic Rules.*

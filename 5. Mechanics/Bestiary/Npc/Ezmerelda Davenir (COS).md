@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Ezmerelda d'Avenir"]
 ---
 # Ezmerelda d'Avenir
 *Source: Curse of Strahd p. 231*  
@@ -52,8 +51,6 @@ Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Alth
 
 "I go where angels fear to tread."
 
-## Stat Block
-
 ```statblock
 "name": "Ezmerelda d'Avenir"
 "size": "Medium"
@@ -70,81 +67,73 @@ Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Alth
 - !!int "16"
 - !!int "11"
 - !!int "17"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "3"
+  "Wisdom": "+3"
 "skillsaves":
-  "Medicine": !!int "3"
-  "Sleight of Hand": !!int "7"
-  "Deception": !!int "9"
-  "Stealth": !!int "7"
-  "Insight": !!int "3"
-  "Perception": !!int "6"
-  "Performance": !!int "6"
-  "Acrobatics": !!int "7"
-  "Arcana": !!int "6"
-  "Survival": !!int "6"
+  "Medicine": "+3"
+  "Sleight of Hand": "+7"
+  "Deception": "+9"
+  "Stealth": "+7"
+  "Insight": "+3"
+  "Perception": "+6"
+  "Performance": "+6"
+  "Acrobatics": "+7"
+  "Arcana": "+6"
+  "Survival": "+6"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence\
+- "desc": "Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). Ezmerelda\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
-    \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-    \ 1st-level slots): [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
-    \ [[/5. Mechanics/Spells/Magic Missile.md|magic missile]], [[/5. Mechanics/Spells/Shield.md|shield]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Darkvision.md|darkvision]],\
-    \ [[/5. Mechanics/Spells/Knock.md|knock]], [[/5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
-    \ [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[/5. Mechanics/Spells/Magic Circle.md|magic circle]]\n\
-    \n4th level (1 4th-level slots): [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Fire Bolt.md|fire bolt]],\
+    \ [[5. Mechanics\Spells\Light.md|light]], [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\n1st level (4\
+    \ 1st-level slots): [[5. Mechanics\Spells\Protection From Evil And Good.md|protection from evil and good]],\
+    \ [[5. Mechanics\Spells\Magic Missile.md|magic missile]], [[5. Mechanics\Spells\Shield.md|shield]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Darkvision.md|darkvision]],\
+    \ [[5. Mechanics\Spells\Knock.md|knock]], [[5. Mechanics\Spells\Mirror Image.md|mirror image]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics\Spells\Clairvoyance.md|clairvoyance]],\
+    \ [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]], [[5. Mechanics\Spells\Magic Circle.md|magic circle]]\n\
+    \n4th level (1 4th-level slots): [[5. Mechanics\Spells\Greater Invisibility.md|greater invisibility]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In addition to her magic armor and weapons, Ezmerelda has two [potions\
-    \ of greater healing](/compendium/items/potion-of-greater-healing.md), six [vials\
-    \ of holy water](/compendium/items/holy-water-flask.md), and three wooden stakes."
+- "desc": "In addition to her magic armor and weapons, Ezmerelda has two [potions\
+    \ of greater healing](compendium/items/potion-of-greater-healing.md), six [vials\
+    \ of holy water](compendium/items/holy-water-flask.md), and three wooden stakes."
   "name": "Special Equipment"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ezmerelda makes three attacks: two with her +1 rapier and one with her\
+- "desc": "Ezmerelda makes three attacks: two with her +1 rapier and one with her\
     \ +1 handaxe or her silvered shortsword."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) piercing damage."
   "name": "Rapier +1"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing\
     \ damage."
   "name": "Handaxe +1"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
   "name": "Silvered Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ezmerelda targets one creature that she can see within 30 feet of her.\
+- "desc": "Ezmerelda targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed,\
     \ the target has vulnerability to one type of damage of Ezmerelda's choice. The\
-    \ curse lasts until ended with a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell, a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ curse lasts until ended with a [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
+    \ spell, a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell, or similar\
     \ magic. When the curse ends, Ezmerelda takes dice: 3d6|avg (3d6) psychic\
     \ damage."
   "name": "Curse (Recharges after a Long Rest)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ezmerelda targets one creature that she can see within 10 feet of her and\
+- "desc": "Ezmerelda targets one creature that she can see within 10 feet of her and\
     \ casts one of the following spells on the target (save DC 14), requiring neither\
     \ somatic nor material components to do so: animal friendship, charm person, or\
     \ hold person. If the target succeeds on the initial saving throw, Ezmerelda is\
-    \ [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of her next\
+    \ [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] until the end of her next\
     \ turn. Once a target succeeds on a saving throw against this effect, it is immune\
     \ to the Evil Eye power of all Vistani for 24 hours."
   "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/ezmerelda-davenir.png"
+"image": "compendium/bestiary/npc/token/ezmerelda-davenir.png"
 ```
 ^statblock

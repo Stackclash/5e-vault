@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Giant Strider"]
 ---
 # Giant Strider
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
@@ -40,23 +39,20 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 - !!int "4"
 - !!int "12"
 - !!int "6"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "damage_immunities": "fire"
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the giant strider is subjected to fire damage, it takes no damage\
+- "desc": "Whenever the giant strider is subjected to fire damage, it takes no damage\
     \ and regains a number of hit points equal to half the fire damage dealt."
   "name": "Fire Absorption"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant strider hurls a gout of flame at a point it can see within 60\
+- "desc": "The giant strider hurls a gout of flame at a point it can see within 60\
     \ feet of it. Each creature in a 10-foot-radius sphere centered on that point\
     \ must make a DC 12 Dexterity saving throw, taking 14 (dice: 4d6|avg (4d6))\
     \ fire damage on a failed save, or half as much damage on a successful one. The\
@@ -66,7 +62,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Elemental/token/giant-strider.png"
+"image": "compendium/bestiary/elemental/token/giant-strider.png"
 ```
 ^statblock
 

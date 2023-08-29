@@ -9,7 +9,7 @@ tags:
 aliases: ["Lugh"]
 ---
 # Lugh
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Chaotic Neutral
 - **Domains**: Knowledge, Life

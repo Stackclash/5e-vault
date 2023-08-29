@@ -17,6 +17,7 @@ tags:
 aliases: ["Daylight"]
 ---
 # Daylight
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -30,6 +31,6 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Light Domain.md|Cleric (Light Domain)]], [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Paladin.md|Paladin]], [[/5. Mechanics/Classes/Ranger.md|Ranger]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics\Classes\Cleric Light Domain.md|Cleric (Light Domain)]], [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Paladin.md|Paladin]], [[5. Mechanics\Classes\Ranger.md|Ranger]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
 
-Source: Player's Handbook p. 230
+*Source: Player's Handbook p. 230. Available in the SRD.*

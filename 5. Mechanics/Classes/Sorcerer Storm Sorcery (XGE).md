@@ -7,8 +7,8 @@ tags:
 aliases: ["Storm Sorcery"]
 ---
 # Storm Sorcery
-*Sorcerer: Sorcerous Origin*  
-*Source: Xanathar's Guide to Everything p. 51, Sword Coast Adventurer's Guide p. 137*  
+*[[Sorcerer.md|Sorcerer]]: Sorcerous Origin*  
+*Source: Xanathar's Guide to Everything p. 51*  
 
 
 ## Class Features

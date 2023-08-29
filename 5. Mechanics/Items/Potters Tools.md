@@ -12,4 +12,4 @@ aliases: ["Potter's Tools"]
 - **Cost**: 10 gp
 - **Weight**: 3.0 lbs.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 84*
+*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 84. Available in the SRD and the Basic Rules.*

@@ -14,4 +14,4 @@ aliases: ["Basket"]
 
 A basket holds 2 cubic feet or 40 pounds of gear.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

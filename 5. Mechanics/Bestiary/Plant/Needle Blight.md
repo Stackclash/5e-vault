@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/plant
-statblock: inline
+aliases: ["Needle Blight"]
 ---
 # Needle Blight
-*Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 32, Curse of Strahd*  
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 
@@ -38,8 +37,6 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
 
 
-## Stat Block
-
 ```statblock
 "name": "Needle Blight"
 "size": "Medium"
@@ -55,26 +52,25 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - !!int "4"
 - !!int "8"
 - !!int "3"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "condition_immunities": "blinded, deafened"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) piercing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 30/60 ft., one\
-    \ target. Hit: dice: 2d6 + 1|avg (2d6 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 30/60 ft., one\
+    \ target. Hit: 8 (dice: 2d6 + 1|avg (2d6 + 1)) piercing damage."
   "name": "Needles"
 "source":
 - "MM"
 - "CoS"
 - "GoS"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Plant/token/needle-blight.png"
+- "PSI"
+"image": "compendium/bestiary/plant/token/needle-blight.png"
 ```
 ^statblock
 

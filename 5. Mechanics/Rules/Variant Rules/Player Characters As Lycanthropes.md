@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/mm
 aliases: ["Player Characters as Lycanthropes"]
 ---
 # Player Characters as Lycanthropes
@@ -12,36 +14,39 @@ A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthrop
 
 The following information applies to specific lycanthropes.
 
-## [[/5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]]
+## Werebear
 
 The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 
-## [[/5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]]
+## Wereboar
 
 The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 
-## [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]]
+## Wererat
 
 The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 
-## [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]]
+## Weretiger
 
 The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 
-## [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]]
+## Werewolf
 
 The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 
-## [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]
+## Wereraven
+_Source: Curse of Strahd_
 
 A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy.
 
 ## Werebat
+_Source: Waterdeep: Dungeon of the Mad Mage_
 
 A player character who becomes a werebat gains a Dexterity of 17 if their score isn't already higher. Attack and damage rolls for the werebat's bite attack are based on the character's Strength or Dexterity score, whichever is higher.
 
-## [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md|Loup Garou]]
+## Loup Garou
+_Source: Van Richten's Guide to Ravenloft_
 
-A Humanoid who succumbs to a loup garou's lycanthropy becomes a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.
+A Humanoid who succumbs to a loup garou's lycanthropy becomes a [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolf]] (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.
 
-Once a loup garou is slain, a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
+Once a loup garou is slain, a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]]. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.

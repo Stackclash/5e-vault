@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Duodrone"]
 ---
 # Duodrone
-*Source: Monster Manual p. 225, Keys from the Golden Vault*  
+*Source: Monster Manual p. 225*  
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
 
@@ -44,8 +43,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
 
-## Stat Block
-
 ```statblock
 "name": "Duodrone"
 "size": "Medium"
@@ -61,35 +58,30 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "6"
 - !!int "10"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duodrone can't be compelled to act in a manner contrary to its nature\
+- "desc": "The duodrone can't be compelled to act in a manner contrary to its nature\
     \ or its instructions."
   "name": "Axiomatic Mind"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the duodrone dies, its body disintegrates into dust, leaving behind\
+- "desc": "If the duodrone dies, its body disintegrates into dust, leaving behind\
     \ its weapons and anything else it was carrying."
   "name": "Disintegration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duodrone makes two fist attacks or two javelin attacks."
+- "desc": "The duodrone makes two fist attacks or two javelin attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1))\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/duodrone.png"
+"image": "compendium/bestiary/construct/token/duodrone.png"
 ```
 ^statblock

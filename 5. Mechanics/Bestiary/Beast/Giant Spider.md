@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Spider"]
 ---
 # Giant Spider
-*Source: Monster Manual p. 328, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Critical Role: Call of the Netherdeep, Dragonlance: Shadow of the Dragon Queen, Plane Shift: Ixalan*  
+*Source: Monster Manual p. 328, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
@@ -32,38 +31,33 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 - !!int "2"
 - !!int "11"
 - !!int "4"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "7"
+  "Stealth": "+7"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spider can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The spider can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in contact with a web, the spider knows the exact location of any\
+- "desc": "While in contact with a web, the spider knows the exact location of any\
     \ other creature in contact with the same web."
   "name": "Web Sense"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spider ignores movement restrictions caused by webbing."
+- "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage, and the target must make\
-    \ a DC 11 Constitution saving throw, taking 9 (dice: 2d8|avg (2d8)) poison\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking 9 (dice: 2d8|avg (2d8)) poison\
     \ damage on a failed save, or half as much damage on a successful one. If the\
-    \ poison damage reduces the target to 0 hit points, the target is stable but [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour, even after regaining hit points, and is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ poison damage reduces the target to 0 hit points, the target is stable but [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour, even after regaining hit points, and is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
+    \ while [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 30/60 ft., one\
-    \ creature. Hit: The target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by webbing. As an action, the [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 30/60 ft., one\
+    \ creature. Hit: The target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by webbing. As an action, the [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ target can make a DC 12 Strength check, bursting the webbing on a success. The\
     \ webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire\
     \ damage; immunity to bludgeoning, poison, and psychic damage)."
@@ -90,7 +84,7 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 - "CRCotN"
 - "DSotDQ"
 - "PSX"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-spider.png"
+"image": "compendium/bestiary/beast/token/giant-spider.png"
 ```
 ^statblock
 

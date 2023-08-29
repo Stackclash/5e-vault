@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Gold Dragon"]
 ---
 # Young Gold Dragon
-*Source: Monster Manual p. 115*  
+*Source: Monster Manual p. 115. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
@@ -80,8 +79,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Young Gold Dragon"
 "size": "Large"
@@ -97,39 +94,34 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "16"
 - !!int "13"
 - !!int "20"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "5"
-  "Constitution": !!int "9"
+  "Charisma": "+9"
+  "Dexterity": "+6"
+  "Wisdom": "+5"
+  "Constitution": "+9"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Insight": !!int "5"
-  "Perception": !!int "9"
-  "Persuasion": !!int "9"
+  "Stealth": "+6"
+  "Insight": "+5"
+  "Perception": "+9"
+  "Persuasion": "+9"
 "damage_immunities": "fire"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
 "languages": "Common, Draconic"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 30-foot cone. Each creature in that area must make\
     \ a DC 17 Dexterity saving throw, taking 55 (dice: 10d10|avg (10d10)) fire\
     \ damage on a failed save, or half as much damage on a successful one.  \n- Weakening\
@@ -141,7 +133,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-gold-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-gold-dragon.png"
 ```
 ^statblock
 

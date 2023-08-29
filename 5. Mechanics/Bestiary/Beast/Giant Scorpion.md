@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Scorpion"]
 ---
 # Giant Scorpion
-*Source: Monster Manual p. 327, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Scorpion"
@@ -26,24 +25,21 @@ statblock: inline
 - !!int "1"
 - !!int "9"
 - !!int "3"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": ""
 "cr": "3"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The scorpion makes three attacks: two with its claws and one with its sting."
+- "desc": "The scorpion makes three attacks: two with its claws and one with its sting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). The scorpion has two claws, each of which can grapple only one\
-    \ target."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 12). The\
+    \ scorpion has two claws, each of which can grapple only one target."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage, and the target must\
-    \ make a DC 12 Constitution saving throw, taking 22 (dice: 4d10|avg (4d10))\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage, and the target\
+    \ must make a DC 12 Constitution saving throw, taking 22 (dice: 4d10|avg (4d10))\
     \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Sting"
 "source":
@@ -55,7 +51,8 @@ statblock: inline
 - "CM"
 - "JttRC"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-scorpion.png"
+- "PSA"
+"image": "compendium/bestiary/beast/token/giant-scorpion.png"
 ```
 ^statblock
 

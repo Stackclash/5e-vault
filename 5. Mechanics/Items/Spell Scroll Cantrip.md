@@ -22,4 +22,4 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 
 A spell cast from this scroll has a save DC of 13 and an attack bonus of `dice: d20+5` (+5).
 
-*Source: Dungeon Master's Guide p. 199*
+*Source: Dungeon Master's Guide p. 199. Available in the SRD and the Basic Rules.*

@@ -15,7 +15,7 @@ aliases: ["Treebane"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, [[\5. Mechanics\Rules\Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 

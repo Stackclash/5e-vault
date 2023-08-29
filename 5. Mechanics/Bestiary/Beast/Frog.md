@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Frog"]
 ---
 # Frog
-*Source: Monster Manual p. 322, Tomb of Annihilation, Curse of Strahd, The Wild Beyond the Witchlight, Plane Shift: Ixalan, Keys from the Golden Vault*  
+*Source: Monster Manual p. 322, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.
 
@@ -27,19 +26,17 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 - !!int "1"
 - !!int "8"
 - !!int "3"
-"speed": "walk 20 ft., swim 20 ft."
+"speed": "20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "1"
+  "Stealth": "+3"
+  "Perception": "+1"
 "senses": "darkvision 30 ft., passive Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The frog can breathe air and water."
+- "desc": "The frog can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The frog's long jump is up to 10 feet and its high jump is up to 5 feet,\
+- "desc": "The frog's long jump is up to 10 feet and its high jump is up to 5 feet,\
     \ with or without a running start."
   "name": "Standing Leap"
 "source":
@@ -49,6 +46,6 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 - "WBtW"
 - "PSX"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/frog.png"
+"image": "compendium/bestiary/beast/token/frog.png"
 ```
 ^statblock

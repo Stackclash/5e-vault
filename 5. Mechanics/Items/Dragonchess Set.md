@@ -12,4 +12,4 @@ aliases: ["Dragonchess Set"]
 - **Cost**: 1 gp
 - **Weight**: 0.5 lbs.
 
-*Source: Player's Handbook p. 154*
+*Source: Player's Handbook p. 154. Available in the Basic Rules.*

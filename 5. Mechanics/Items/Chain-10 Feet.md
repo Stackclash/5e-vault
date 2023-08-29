@@ -14,4 +14,4 @@ aliases: ["Chain (10 feet)"]
 
 A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 
-*Source: Player's Handbook p. 151*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

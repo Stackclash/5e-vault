@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/mountain
 - monster/size/gargantuan
 - monster/type/dragon
-statblock: inline
+aliases: ["Ancient Red Dragon"]
 ---
 # Ancient Red Dragon
-*Source: Monster Manual p. 97, Storm King's Thunder, Mythic Odysseys of Theros, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 97. Available in the SRD.*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
@@ -90,8 +89,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Ancient Red Dragon"
 "size": "Gargantuan"
@@ -107,66 +104,56 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "18"
 - !!int "15"
 - !!int "23"
-"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
+"speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "13"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "9"
-  "Constitution": !!int "16"
+  "Charisma": "+13"
+  "Dexterity": "+7"
+  "Wisdom": "+9"
+  "Constitution": "+16"
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "16"
+  "Stealth": "+7"
+  "Perception": "+16"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "24"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+- "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 10|avg (2d10 + 10) piercing damage plus dice: 4d6|avg\
-    \ (4d6) fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
+    \ Hit: 21 (dice: 2d10 + 10|avg (2d10 + 10)) piercing damage plus 14 (dice:\
+    \ 4d6|avg (4d6)) fire damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 10|avg (2d6 + 10) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
+    \ Hit: 17 (dice: 2d6 + 10|avg (2d6 + 10)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 10|avg (2d8 + 10) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 20 ft., one target.\
+    \ Hit: 19 (dice: 2d8 + 10|avg (2d8 + 10)) bludgeoning damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales fire in a 90-foot cone. Each creature in that area must\
+- "desc": "The dragon exhales fire in a 90-foot cone. Each creature in that area must\
     \ make a DC 24 Dexterity saving throw, taking 91 (dice: 26d6|avg (26d6)) fire\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The dragon makes a Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
+- "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 25 Dexterity saving throw or take dice: 2d6 + 10|avg\
-    \ (2d6 + 10) bludgeoning damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+- "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
+    \ must succeed on a DC 25 Dexterity saving throw or take 17 (dice: 2d6 + 10|avg\
+    \ (2d6 + 10)) bludgeoning damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":
@@ -174,7 +161,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "SKT"
 - "MOT"
 - "TCE"
-"image": "5. Mechanics/Bestiary/Dragon/token/ancient-red-dragon.png"
+"image": "compendium/bestiary/dragon/token/ancient-red-dragon.png"
 ```
 ^statblock
 

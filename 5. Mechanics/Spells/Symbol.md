@@ -12,6 +12,7 @@ tags:
 aliases: ["Symbol"]
 ---
 # Symbol
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Abjuration*  
 
 - **Casting time:** 1 minute
@@ -21,7 +22,7 @@ aliases: ["Symbol"]
 
 When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible, requiring an Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check against your spell save DC to find it.
+The glyph is nearly invisible, requiring an Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]]) check against your spell save DC to find it.
 
 You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or stepping on the glyph, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it. For glyphs inscribed within an object, the most common triggers are opening the object, approaching within a certain distance of it, or seeing or reading the glyph.
 
@@ -39,7 +40,7 @@ Each target must make a Constitution saving throw. On a failed save, a target bi
 
 ## Fear
 
-Each target must make a Wisdom saving throw and becomes [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute on a failed save. While [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must make a Wisdom saving throw and becomes [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] for 1 minute on a failed save. While [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Hopelessness
 
@@ -51,18 +52,18 @@ Each target must make an Intelligence saving throw. On a failed save, the target
 
 ## Pain
 
-Each target must make a Constitution saving throw and becomes [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] with excruciating pain for 1 minute on a failed save.
+Each target must make a Constitution saving throw and becomes [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] with excruciating pain for 1 minute on a failed save.
 
 ## Sleep
 
-Each target must make a Wisdom saving throw and falls [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+Each target must make a Wisdom saving throw and falls [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
 ## Stunning
 
-Each target must make a Wisdom saving throw and becomes [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute on a failed save.
+Each target must make a Wisdom saving throw and becomes [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] for 1 minute on a failed save.
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 280
+*Source: Player's Handbook p. 280. Available in the SRD.*

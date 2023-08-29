@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/urban
 - monster/size/small
 - monster/type/fey
-statblock: inline
+aliases: ["Darkling"]
 ---
 # Darkling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
@@ -20,13 +19,11 @@ The Summer Queen's curse causes a darkling's body to absorb light, which wizens 
 
 Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summer Queens' wrath, she cursed every member of his house. The seelie fey's true name has been stricken from history, but the stories call him Dubh Catha ("Dark Crow" in Common), and other Fey refer to the house's descendants as dubh sith—"darklings." Darklings dwell in secluded caverns and chambers beneath the towns of other species. From such enclaves, they quietly ply their trade as thieves and assassins.
 
-## Stat Block
-
 ```statblock
 "name": "Darkling"
 "size": "Small"
 "type": "fey"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
@@ -37,38 +34,35 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 - !!int "10"
 - !!int "12"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "2"
-  "Stealth": !!int "7"
-  "Perception": !!int "5"
-  "Acrobatics": !!int "5"
+  "Deception": "+2"
+  "Stealth": "+7"
+  "Perception": "+5"
+  "Acrobatics": "+5"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the darkling dies, nonmagical light flashes out from it in a 10-foot\
+- "desc": "When the darkling dies, nonmagical light flashes out from it in a 10-foot\
     \ radius as its body and possessions, other than metal or magic objects, burn\
     \ to ash. Any creature in that area must succeed on a DC 10 Constitution saving\
-    \ throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end\
+    \ throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] until the end\
     \ of its next turn."
   "name": "Death Flash"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in bright light, the darkling has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+- "desc": "While in bright light, the darkling has disadvantage on attack rolls, as\
+    \ well as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks\
     \ that rely on sight."
   "name": "Light Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
-    \ damage plus dice: 2d6|avg (2d6) necrotic damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing\
+    \ damage plus 7 (dice: 2d6|avg (2d6)) necrotic damage."
   "name": "Dagger"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/darkling.png"
+"image": "compendium/bestiary/fey/token/darkling.png"
 ```
 ^statblock
 

@@ -12,6 +12,7 @@ tags:
 aliases: ["Druidcraft"]
 ---
 # Druidcraft
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 action
@@ -26,6 +27,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.  
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[/5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Fighter Arcane Archer (XGE).md|Fighter (Arcane Archer)]]
+**Classes**: [[5. Mechanics\Classes\Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics\Classes\Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Fighter Arcane Archer (XGE).md|Fighter (Arcane Archer)]]
 
-Source: Player's Handbook p. 236
+*Source: Player's Handbook p. 236. Available in the SRD.*

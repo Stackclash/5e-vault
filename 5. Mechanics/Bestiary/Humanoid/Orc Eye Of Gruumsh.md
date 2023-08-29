@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -12,10 +11,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc Eye of Gruumsh"]
 ---
 # Orc Eye of Gruumsh
-*Source: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -53,8 +52,6 @@ When an orc slays an elf in Gruumsh's name and offers the corpse of its foe as a
 
 If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting ability and special favor, along with the right to call itself an Eye of Gruumsh. When not using their auguries to advise their war chiefs, these savage devotees of the god of slaughter hurl themselves into battle, their weapons stained with blood.
 
-## Stat Block
-
 ```statblock
 "name": "Orc Eye of Gruumsh"
 "size": "Medium"
@@ -71,34 +68,30 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 - !!int "9"
 - !!int "13"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "3"
-  "Religion": !!int "1"
+  "Intimidation": "+3"
+  "Religion": "+1"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The orc has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Resistance.md|resistance]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Command.md|command]]\n\
-    \n2nd level (2 2nd-level slots): [[/5. Mechanics/Spells/Augury.md|augury]], [spiritual\
-    \ weapon](/compendium/spells/spiritual-weapon.md) (spear)"
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Resistance.md|resistance]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Bless.md|bless]], [[5. Mechanics\Spells\Command.md|command]]\n\
+    \n2nd level (2 2nd-level slots): [[5. Mechanics\Spells\Augury.md|augury]], [spiritual\
+    \ weapon](compendium/spells/spiritual-weapon.md) (spear)"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
+- "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
     \ with a weapon attack (included in the attacks)."
   "name": "Gruumsh's Fury"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
     \ or range 20/60 ft., one target. Hit: 11 (dice: 1d6 + 3|avg (1d6 + 3) plus\
     \ dice: 1d8|avg (1d8)) piercing damage, or 12 (dice: 2d8 + 3|avg (2d8 +\
     \ 3)) piercing damage if used with two hands to make a melee attack."
@@ -110,7 +103,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 - "TftYP"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-eye-of-gruumsh.png"
+"image": "compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.png"
 ```
 ^statblock
 

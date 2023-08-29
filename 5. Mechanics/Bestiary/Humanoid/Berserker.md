@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -11,10 +10,10 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: inline
+aliases: ["Berserker"]
 ---
 # Berserker
-*Source: Monster Manual p. 344, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 
@@ -34,20 +33,18 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 - !!int "9"
 - !!int "11"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of its turn, the berserker can gain advantage on all melee\
+- "desc": "At the start of its turn, the berserker can gain advantage on all melee\
     \ weapon attack rolls during that turn, but attack rolls against it have advantage\
     \ until the start of its next turn."
   "name": "Reckless"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 3|avg (1d12 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d12 + 3|avg (1d12 + 3)) slashing damage."
   "name": "Greataxe"
 "source":
 - "MM"
@@ -66,7 +63,7 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 - "IDRotF"
 - "CM"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Humanoid/token/berserker.png"
+"image": "compendium/bestiary/humanoid/token/berserker.png"
 ```
 ^statblock
 

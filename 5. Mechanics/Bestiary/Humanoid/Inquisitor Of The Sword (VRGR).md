@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Inquisitor of the Sword"]
 ---
 # Inquisitor of the Sword
 *Source: Van Richten's Guide to Ravenloft p. 249*  
@@ -33,51 +32,47 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 - !!int "15"
 - !!int "18"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "5"
+  "Charisma": "+6"
+  "Wisdom": "+7"
+  "Intelligence": "+5"
 "skillsaves":
-  "Athletics": !!int "4"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "Acrobatics": !!int "5"
+  "Athletics": "+4"
+  "Insight": "+7"
+  "Perception": "+7"
+  "Acrobatics": "+5"
 "condition_immunities": "charmed, frightened"
 "senses": "truesight 30 ft., passive Perception 17"
 "languages": "any two languages, telepathy 120 ft."
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor casts one of the following spells, requiring no components\
+- "desc": "The inquisitor casts one of the following spells, requiring no components\
     \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Fly.md|fly]],\
-    \ [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
+    \ [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], [[5. Mechanics\Spells\Sending.md|sending]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Dimension Door.md|dimension door]], [[5. Mechanics\Spells\Fly.md|fly]],\
+    \ [[5. Mechanics\Spells\Greater Invisibility.md|greater invisibility]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of each of its turns, the inquisitor regains 10 hit points\
+- "desc": "At the start of each of its turns, the inquisitor regains 10 hit points\
     \ and can end one condition on itself, provided the inquisitor has at least 1\
     \ hit point."
   "name": "Metabolic Control"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor attacks twice with its Silver Longsword. After it hits or\
+- "desc": "The inquisitor attacks twice with its Silver Longsword. After it hits or\
     \ misses with an attack, the inquisitor can teleport up to 30 feet to an unoccupied\
     \ space it can see."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
-    \ (1d10 + 4)) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
+    \ + 4|avg (1d10 + 4)) if used with two hands, plus 18 (dice: 4d8|avg (4d8))\
+    \ force damage."
   "name": "Silver Longsword"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor teleports up to 60 feet to an unoccupied space it can see."
+- "desc": "The inquisitor teleports up to 60 feet to an unoccupied space it can see."
   "name": "Blink Step"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-sword.png"
+"image": "compendium/bestiary/humanoid/token/inquisitor-of-the-sword.png"
 ```
 ^statblock

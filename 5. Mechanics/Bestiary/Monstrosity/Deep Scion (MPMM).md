@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Deep Scion"]
 ---
 # Deep Scion
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
@@ -22,7 +21,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "name": "Deep Scion"
 "size": "Medium"
 "type": "monstrosity"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
@@ -33,51 +32,44 @@ The training to which a deep scion is subjected rids it of empathy for those the
 - !!int "10"
 - !!int "12"
 - !!int "14"
-"speed": "walk 30 ft. (20 ft. and swim 40 ft. in hybrid form)"
+"speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "3"
+  "Charisma": "+4"
+  "Wisdom": "+3"
 "skillsaves":
-  "Sleight of Hand": !!int "3"
-  "Deception": !!int "6"
-  "Stealth": !!int "3"
-  "Insight": !!int "3"
+  "Sleight of Hand": "+3"
+  "Deception": "+6"
+  "Stealth": "+3"
+  "Insight": "+3"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deep scion can breathe air and water."
+- "desc": "The deep scion can breathe air and water."
   "name": "Amphibious (Hybrid Form Only)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
+- "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
     \ and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
     \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
     \ + 4|avg (1d10 + 4)) slashing damage if used with two hands."
   "name": "Battleaxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
+    \ Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) piercing damage."
   "name": "Bite (Hybrid Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing damage."
   "name": "Claw (Hybrid Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
+- "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
     \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-    \ or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the end of the\
+    \ or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] until the end of the\
     \ deep scion's next turn. In water, the psychic screech also telepathically transmits\
     \ the deep scion's memories of the last 24 hours to its master, regardless of\
     \ distance, so long as it and its master are in the same body of water."
   "name": "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deep scion transforms into a hybrid form (humanoid-piscine) or back\
+- "desc": "The deep scion transforms into a hybrid form (humanoid-piscine) or back\
     \ into its true form, which is humanlike. Its statistics, other than its speed,\
     \ are the same in each form. Any equipment it is wearing or carrying isn't transformed.\
     \ The deep scion reverts to its true form if it dies."
@@ -85,7 +77,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/deep-scion.png"
+"image": "compendium/bestiary/monstrosity/token/deep-scion.png"
 ```
 ^statblock
 

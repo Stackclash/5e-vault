@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: inline
+aliases: ["Rahadin"]
 ---
 # Rahadin
 *Source: Curse of Strahd p. 237*  
@@ -50,8 +49,6 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
-## Stat Block
-
 ```statblock
 "name": "Rahadin"
 "size": "Medium"
@@ -68,58 +65,51 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 - !!int "15"
 - !!int "16"
 - !!int "18"
-"speed": "walk 35 ft."
+"speed": "35 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "7"
+  "Wisdom": "+7"
+  "Constitution": "+7"
 "skillsaves":
-  "Intimidation": !!int "12"
-  "Deception": !!int "8"
-  "Stealth": !!int "14"
-  "Insight": !!int "7"
-  "Perception": !!int "11"
+  "Intimidation": "+12"
+  "Deception": "+8"
+  "Stealth": "+14"
+  "Insight": "+7"
+  "Perception": "+11"
 "senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common, Elvish"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-    \ cast the following spells, requiring no components:\n\n1/day: [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
-    \ [[/5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[/5. Mechanics/Spells/Misty Step.md|misty step]],\
-    \ [[/5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
+- "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
+    \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics\Spells\Magic Weapon.md|magic weapon]],\
+    \ [[5. Mechanics\Spells\Nondetection.md|nondetection]]\n\n3/day: [[5. Mechanics\Spells\Misty Step.md|misty step]],\
+    \ [[5. Mechanics\Spells\Phantom Steed.md|phantom steed]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
-    \ blank](/compendium/spells/mind-blank.md) spell hears in its mind the screams\
+- "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
+    \ blank](compendium/spells/mind-blank.md) spell hears in its mind the screams\
     \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
     \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
-    \ throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed\
-    \ save, or half as much damage on a successful one."
+    \ throw. Each creature takes 16 (dice: 3d10|avg (3d10)) psychic damage on\
+    \ a failed save, or half as much damage on a successful one."
   "name": "Deathly Choir"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "Rahadin has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put him to sleep."
   "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
+- "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
     \ heavy rain, falling snow, mist, and other natural phenomena."
   "name": "Mask of the Wild"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rahadin attacks three times with his scimitar, or twice with his [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Rahadin attacks three times with his scimitar, or twice with his [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ darts."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d6 + 6|avg (1d6 + 6)) slashing damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg\
-    \ (2d4) poison damage."
+- "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one\
+    \ target. Hit: 8 (dice: 1d4 + 6|avg (1d4 + 6)) piercing damage plus 5 (dice:\
+    \ 2d4|avg (2d4)) poison damage."
   "name": "Poisoned Dart"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/rahadin.png"
+"image": "compendium/bestiary/npc/token/rahadin.png"
 ```
 ^statblock

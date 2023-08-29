@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Draft Horse"]
 ---
 # Draft Horse
-*Source: Monster Manual p. 321, Curse of Strahd, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Draft Horse"
@@ -26,14 +25,13 @@ statblock: inline
 - !!int "2"
 - !!int "11"
 - !!int "7"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"
@@ -42,7 +40,7 @@ statblock: inline
 - "WDH"
 - "GoS"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Beast/token/draft-horse.png"
+"image": "compendium/bestiary/beast/token/draft-horse.png"
 ```
 ^statblock
 

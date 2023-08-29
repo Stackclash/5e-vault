@@ -14,4 +14,4 @@ aliases: ["Bullseye Lantern"]
 
 A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 
-*Source: Player's Handbook p. 152*
+*Source: Player's Handbook p. 152. Available in the SRD and the Basic Rules.*

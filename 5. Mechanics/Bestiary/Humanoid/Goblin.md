@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/humanoid/goblinoid
-statblock: inline
+aliases: ["Goblin"]
 ---
 # Goblin
-*Source: Monster Manual p. 166, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 166. Available in the SRD and the Basic Rules.*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
@@ -45,8 +44,6 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 > **Bree-Yark!**
 
 
-## Stat Block
-
 ```statblock
 "name": "Goblin"
 "size": "Small"
@@ -63,25 +60,22 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - !!int "10"
 - !!int "8"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  "Stealth": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goblin can take the Disengage or Hide action as a bonus action on each\
+- "desc": "The goblin can take the Disengage or Hide action as a bonus action on each\
     \ of its turns."
   "name": "Nimble Escape"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) slashing damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
+    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"
@@ -102,7 +96,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - "WBtW"
 - "CRCotN"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Humanoid/token/goblin.png"
+"image": "compendium/bestiary/humanoid/token/goblin.png"
 ```
 ^statblock
 

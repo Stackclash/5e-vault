@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Wight"]
 ---
 # Wight
-*Source: Monster Manual p. 300, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 300, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
 
@@ -34,8 +33,6 @@ Humanoids slain by a wight can rise as zombies under its control. Motivated by h
 
 A wight doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Wight"
 "size": "Medium"
@@ -51,10 +48,10 @@ A wight doesn't require air, food, drink, or sleep.
 - !!int "10"
 - !!int "13"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  "Stealth": "+4"
+  "Perception": "+3"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
@@ -63,35 +60,30 @@ A wight doesn't require air, food, drink, or sleep.
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wight makes two longsword attacks or two longbow attacks. It can use\
+- "desc": "The wight makes two longsword attacks or two longbow attacks. It can use\
     \ its Life Drain in place of one longsword attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) necrotic damage. The target must succeed\
-    \ on a DC 13 Constitution saving throw or its hit point maximum is reduced by\
-    \ an amount equal to the damage taken. This reduction lasts until the target finishes\
-    \ a long rest. The target dies if this effect reduces its hit point maximum to\
-    \ 0.\n\nA humanoid slain by this attack rises 24 hours later as a [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) necrotic damage. The target must\
+    \ succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced\
+    \ by an amount equal to the damage taken. This reduction lasts until the target\
+    \ finishes a long rest. The target dies if this effect reduces its hit point maximum\
+    \ to 0.\n\nA humanoid slain by this attack rises 24 hours later as a [[5. Mechanics\Bestiary\Undead\Zombie.md|zombie]]\
     \ under the wight's control, unless the humanoid is restored to life or its body\
     \ is destroyed. The wight can have no more than twelve zombies under its control\
     \ at one time."
   "name": "Life Drain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage, or 7 (dice: 1d10 + 2|avg\
-    \ (1d10 + 2)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) slashing damage, or 7 (dice: 1d10\
+    \ + 2|avg (1d10 + 2)) slashing damage if used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
+    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"
@@ -110,7 +102,8 @@ A wight doesn't require air, food, drink, or sleep.
 - "IDRotF"
 - "CM"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Undead/token/wight.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/wight.png"
 ```
 ^statblock
 

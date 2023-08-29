@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Wraith"]
 ---
 # Wraith
-*Source: Monster Manual p. 302, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 302, Curse of Strahd. Available in the SRD.*  
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 
@@ -33,8 +32,6 @@ Wraiths sometimes rule the legions of the dead, plotting the doom of living crea
 
 A wraith doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Wraith"
 "size": "Medium"
@@ -50,7 +47,7 @@ A wraith doesn't require air, food, drink, or sleep.
 - !!int "12"
 - !!int "14"
 - !!int "15"
-"speed": "walk 0 ft., fly 60 ft. (hover)"
+"speed": "0 ft., fly 60 ft. (hover)"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
@@ -60,29 +57,25 @@ A wraith doesn't require air, food, drink, or sleep.
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wraith can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+- "desc": "The wraith can move through other creatures and objects as if they were\
+    \ difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the wraith has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the wraith has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 4d8 + 3|avg (4d8 + 3) necrotic damage. The target must succeed\
-    \ on a DC 14 Constitution saving throw or its hit point maximum is reduced by\
-    \ an amount equal to the damage taken. This reduction lasts until the target finishes\
-    \ a long rest. The target dies if this effect reduces its hit point maximum to\
-    \ 0."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
+    \ Hit: 21 (dice: 4d8 + 3|avg (4d8 + 3)) necrotic damage. The target must\
+    \ succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced\
+    \ by an amount equal to the damage taken. This reduction lasts until the target\
+    \ finishes a long rest. The target dies if this effect reduces its hit point maximum\
+    \ to 0."
   "name": "Life Drain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wraith targets a humanoid within 10 feet of it that has been dead for\
-    \ no longer than 1 minute and died violently. The target's spirit rises as a [[/5. Mechanics/Bestiary/Undead/Specter.md|specter]]\
-    \ in the space of its corpse or in the nearest unoccupied space. The [[/5. Mechanics/Bestiary/Undead/Specter.md|specter]]\
+- "desc": "The wraith targets a humanoid within 10 feet of it that has been dead for\
+    \ no longer than 1 minute and died violently. The target's spirit rises as a [[5. Mechanics\Bestiary\Undead\Specter.md|specter]]\
+    \ in the space of its corpse or in the nearest unoccupied space. The [[5. Mechanics\Bestiary\Undead\Specter.md|specter]]\
     \ is under the wraith's control. The wraith can have no more than seven specters\
     \ under its control at one time."
   "name": "Create Specter"
@@ -107,7 +100,8 @@ A wraith doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Undead/token/wraith.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/wraith.png"
 ```
 ^statblock
 

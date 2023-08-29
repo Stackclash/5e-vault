@@ -9,7 +9,7 @@ tags:
 aliases: ["Sobek"]
 ---
 # Sobek
-*Source: Player's Handbook p. 299* 
+*Source: Player's Handbook p. 299. Available in the SRD.* 
 
 - **Alignment**: Lawful Evil
 - **Domains**: Nature, Tempest

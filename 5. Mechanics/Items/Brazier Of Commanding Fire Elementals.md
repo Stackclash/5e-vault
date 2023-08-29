@@ -14,8 +14,8 @@ aliases: ["Brazier of Commanding Fire Elementals"]
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
-While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]], as if you had cast the [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] spell. The brazier can't be used this way again until the next dawn.
+While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a [[5. Mechanics\Bestiary\Elemental\Fire Elemental.md|fire elemental]], as if you had cast the [[5. Mechanics\Spells\Conjure Elemental.md|conjure elemental]] spell. The brazier can't be used this way again until the next dawn.
 
 The brazier weighs 5 pounds.
 
-*Source: Dungeon Master's Guide p. 156*
+*Source: Dungeon Master's Guide p. 156. Available in the SRD.*

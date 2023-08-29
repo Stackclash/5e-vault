@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Madam Eva"]
 ---
 # Madam Eva
 *Source: Curse of Strahd p. 233*  
@@ -40,8 +39,6 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 
 "The people whose fates I divine aren't important. They are but the means to an end."
 
-## Stat Block
-
 ```statblock
 "name": "Madam Eva"
 "size": "Medium"
@@ -58,69 +55,65 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 - !!int "17"
 - !!int "20"
 - !!int "18"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "saves":
-  "Constitution": !!int "5"
+  "Constitution": "+5"
 "skillsaves":
-  "Intimidation": !!int "8"
-  "Deception": !!int "8"
-  "Religion": !!int "7"
-  "Insight": !!int "13"
-  "Perception": !!int "9"
-  "Arcana": !!int "7"
+  "Intimidation": "+8"
+  "Deception": "+8"
+  "Religion": "+7"
+  "Insight": "+13"
+  "Perception": "+9"
+  "Arcana": "+7"
 "senses": "passive Perception 19"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom\
+- "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Madam Eva\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Light.md|light]],\
-    \ [[/5. Mechanics/Spells/Mending.md|mending]], [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-    \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [protection\
-    \ from evil and good](/compendium/spells/protection-from-evil-and-good.md)\n\n\
-    2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
-    \ [[/5. Mechanics/Spells/Protection From Poison.md|protection from poison]], [spiritual\
-    \ weapon](/compendium/spells/spiritual-weapon.md)\n\n3rd level (3 3rd-level\
-    \ slots): [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]],\
-    \ [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]], [[/5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
-    \n4th level (3 4th-level slots): [[/5. Mechanics/Spells/Divination.md|divination]],\
-    \ [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [guardian\
-    \ of faith](/compendium/spells/guardian-of-faith.md)\n\n5th level (2 5th-level\
-    \ slots): [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
-    \ [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\n6th level (1 6th-level slots):\
-    \ [[/5. Mechanics/Spells/Find The Path.md|find the path]], [[/5. Mechanics/Spells/Harm.md|harm]],\
-    \ [[/5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 7th-level\
-    \ slots): [[/5. Mechanics/Spells/Fire Storm.md|fire storm]], [[/5. Mechanics/Spells/Regenerate.md|regenerate]]\n\
-    \n8th level (1 8th-level slots): [[/5. Mechanics/Spells/Earthquake.md|earthquake]]"
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Light.md|light]],\
+    \ [[5. Mechanics\Spells\Mending.md|mending]], [[5. Mechanics\Spells\Sacred Flame.md|sacred flame]],\
+    \ [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[5. Mechanics\Spells\Bane.md|bane]], [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Detect Evil And Good.md|detect evil and good]], [protection\
+    \ from evil and good](compendium/spells/protection-from-evil-and-good.md)\n\n\
+    2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]],\
+    \ [[5. Mechanics\Spells\Protection From Poison.md|protection from poison]], [spiritual\
+    \ weapon](compendium/spells/spiritual-weapon.md)\n\n3rd level (3 3rd-level slots):\
+    \ [[5. Mechanics\Spells\Create Food And Water.md|create food and water]], [speak\
+    \ with dead](compendium/spells/speak-with-dead.md), [[5. Mechanics\Spells\Spirit Guardians.md|spirit guardians]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics\Spells\Divination.md|divination]],\
+    \ [[5. Mechanics\Spells\Freedom Of Movement.md|freedom of movement]], [guardian of\
+    \ faith](compendium/spells/guardian-of-faith.md)\n\n5th level (2 5th-level slots):\
+    \ [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]], [[5. Mechanics\Spells\Raise Dead.md|raise dead]]\n\
+    \n6th level (1 6th-level slots): [[5. Mechanics\Spells\Find The Path.md|find the path]],\
+    \ [[5. Mechanics\Spells\Harm.md|harm]], [[5. Mechanics\Spells\True Seeing.md|true seeing]]\n\
+    \n7th level (1 7th-level slots): [[5. Mechanics\Spells\Fire Storm.md|fire storm]],\
+    \ [[5. Mechanics\Spells\Regenerate.md|regenerate]]\n\n8th level (1 8th-level slots):\
+    \ [[5. Mechanics\Spells\Earthquake.md|earthquake]]"
   "name": "spells"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 2 (dice: 1d4|avg (1d4)) piercing damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
+- "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed,\
-    \ the target is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[5. Mechanics/Rules/Conditions.md#deafened|deafened]].\
-    \ The curse lasts until ended with a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell, a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ the target is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] and [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]].\
+    \ The curse lasts until ended with a [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
+    \ spell, a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell, or similar\
     \ magic. When the curse ends, Madam Eva takes dice: 5d6|avg (5d6) psychic\
     \ damage."
   "name": "Curse (Recharges after a Long Rest)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Madam Eva targets one creature that she can see within 10 feet of her and\
+- "desc": "Madam Eva targets one creature that she can see within 10 feet of her and\
     \ casts one of the following spells on the target (save DC 17), requiring neither\
-    \ somatic nor material components to do so: [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
-    \ [[/5. Mechanics/Spells/Charm Person.md|charm person]], or [[/5. Mechanics/Spells/Hold Person.md|hold person]].\
-    \ If the target succeeds on the initial saving throw, Madam Eva is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ somatic nor material components to do so: [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]],\
+    \ [[5. Mechanics\Spells\Charm Person.md|charm person]], or [[5. Mechanics\Spells\Hold Person.md|hold person]].\
+    \ If the target succeeds on the initial saving throw, Madam Eva is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ until the end of her next turn. Once a target succeeds on a saving throw against\
     \ this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
   "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/madam-eva.png"
+"image": "compendium/bestiary/npc/token/madam-eva.png"
 ```
 ^statblock

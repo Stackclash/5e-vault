@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/arctic
 - monster/size/gargantuan
 - monster/type/dragon
-statblock: inline
+aliases: ["Ancient White Dragon"]
 ---
 # Ancient White Dragon
-*Source: Monster Manual p. 100, Storm King's Thunder, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 100. Available in the SRD.*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
@@ -93,8 +92,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Ancient White Dragon"
 "size": "Gargantuan"
@@ -110,72 +107,61 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "10"
 - !!int "13"
 - !!int "14"
-"speed": "walk 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft."
+"speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "14"
+  "Charisma": "+8"
+  "Dexterity": "+6"
+  "Wisdom": "+7"
+  "Constitution": "+14"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "13"
+  "Stealth": "+6"
+  "Perception": "+13"
 "damage_immunities": "cold"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Common, Draconic"
 "cr": "20"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can move across and climb icy surfaces without needing to make\
+- "desc": "The dragon can move across and climb icy surfaces without needing to make\
     \ an ability check. Additionally, difficult terrain composed of ice or snow doesn't\
     \ cost it extra movement."
   "name": "Ice Walk"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+- "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) piercing damage plus dice: 2d8|avg\
-    \ (2d8) cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
+    \ Hit: 19 (dice: 2d10 + 8|avg (2d10 + 8)) piercing damage plus 9 (dice:\
+    \ 2d8|avg (2d8)) cold damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 8|avg (2d6 + 8) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 2d6 + 8|avg (2d6 + 8)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d8 + 8|avg (2d8 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
+    \ Hit: 17 (dice: 2d8 + 8|avg (2d8 + 8)) bludgeoning damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales an icy blast in a 90-foot cone. Each creature in that\
+- "desc": "The dragon exhales an icy blast in a 90-foot cone. Each creature in that\
     \ area must make a DC 22 Constitution saving throw, taking 72 (dice: 16d8|avg\
     \ (16d8)) cold damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Cold Breath (Recharge 5-6)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The dragon makes a Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
+- "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 22 Dexterity saving throw or take dice: 2d6 + 8|avg (2d6\
-    \ + 8) bludgeoning damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+- "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
+    \ must succeed on a DC 22 Dexterity saving throw or take 15 (dice: 2d6 + 8|avg\
+    \ (2d6 + 8)) bludgeoning damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":
@@ -183,7 +169,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "SKT"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Dragon/token/ancient-white-dragon.png"
+"image": "compendium/bestiary/dragon/token/ancient-white-dragon.png"
 ```
 ^statblock
 

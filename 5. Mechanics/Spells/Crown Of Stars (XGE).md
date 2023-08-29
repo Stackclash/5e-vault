@@ -11,6 +11,7 @@ tags:
 aliases: ["Crown of Stars"]
 ---
 # Crown of Stars
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
-**Classes**: [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 152
+*Source: Xanathar's Guide to Everything p. 152*

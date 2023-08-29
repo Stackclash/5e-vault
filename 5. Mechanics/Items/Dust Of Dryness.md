@@ -20,4 +20,4 @@ Someone can use an action to smash the pellet against a hard surface, causing th
 
 An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking `dice: 10d6` (`10d6`) necrotic damage on a failed save, or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide p. 166*
+*Source: Dungeon Master's Guide p. 166. Available in the SRD.*

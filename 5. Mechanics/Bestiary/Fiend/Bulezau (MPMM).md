@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Bulezau"]
 ---
 # Bulezau
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  
@@ -27,7 +26,7 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
@@ -38,7 +37,7 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 - !!int "8"
 - !!int "9"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, frightened, poisoned"
@@ -46,26 +45,22 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When any creature that isn't a demon starts its turn within 30 feet of\
+- "desc": "When any creature that isn't a demon starts its turn within 30 feet of\
     \ the bulezau, that creature must succeed on a DC 13 Constitution saving throw\
-    \ or take dice: 1d6|avg (1d6) necrotic damage."
+    \ or take 3 (dice: 1d6|avg (1d6)) necrotic damage."
   "name": "Rotting Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bulezau's long jump is up to 20 feet and its high jump is up to 10\
+- "desc": "The bulezau's long jump is up to 20 feet and its high jump is up to 10\
     \ feet, with or without a running start."
   "name": "Standing Leap"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bulezau has advantage on Strength and Dexterity saving throws made\
-    \ against effects that would knock it [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "The bulezau has advantage on Strength and Dexterity saving throws made\
+    \ against effects that would knock it [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Sure-Footed"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 2|avg (1d12 + 2) piercing damage plus dice: 1d8|avg\
-    \ (1d8) necrotic damage. If the target is a creature, it must succeed on a DC\
-    \ 13 Constitution saving throw against disease or become [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until the disease ends. While [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d12 + 2|avg (1d12 + 2)) piercing damage plus 4 (dice:\
+    \ 1d8|avg (1d8)) necrotic damage. If the target is a creature, it must succeed\
+    \ on a DC 13 Constitution saving throw against disease or become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ until the disease ends. While [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ in this way, the target sports festering boils, coughs up flies, and sheds rotting\
     \ skin, and the target must repeat the saving throw after every 24 hours that\
     \ elapse. On a successful save, the disease ends. On a failed save, the target's\
@@ -75,6 +70,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/bulezau.png"
+"image": "compendium/bestiary/fiend/token/bulezau.png"
 ```
 ^statblock

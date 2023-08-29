@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Xvart"]
 ---
 # Xvart
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
@@ -18,15 +17,13 @@ Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts
 
 Xvarts are cowardly, greedy creatures spawned by a renegade demigod, Raxivort. They have blue skin, orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
 
-Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Raxivort plundered his lord's vault. One of the treasures he stole was the _Infinity Spindle_, a crystalline shard that could transform even a creature as lowly as Raxivort into a demigod. After his apotheosis, Raxivort forged the Black Sewers, a realm within Pandemonium that he filled with his beloved creatures, rats and bats, which xvarts befriend to this day. He enjoyed his reign only briefly before Graz'zt unleashed his vengeance. The demon prince urged villains far and wide to pursue the Infinity Spindle for themselves and destroy Raxivort.
-
-## Stat Block
+Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Raxivort plundered his lord's vault. One of the treasures he stole was the *Infinity Spindle*, a crystalline shard that could transform even a creature as lowly as Raxivort into a demigod. After his apotheosis, Raxivort forged the Black Sewers, a realm within Pandemonium that he filled with his beloved creatures, rats and bats, which xvarts befriend to this day. He enjoyed his reign only briefly before Graz'zt unleashed his vengeance. The demon prince urged villains far and wide to pursue the Infinity Spindle for themselves and destroy Raxivort.
 
 ```statblock
 "name": "Xvart"
 "size": "Small"
 "type": "monstrosity"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
 "hp": !!int "7"
 "hit_dice": "2d6"
@@ -37,37 +34,34 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 - !!int "8"
 - !!int "7"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  "Stealth": "+4"
 "senses": "darkvision 30 ft., passive Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xvart can communicate with ordinary [[/5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
-    \ and [[/5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[/5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
-    \ and [[/5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
+- "desc": "The xvart can communicate with ordinary [[5. Mechanics\Bestiary\Beast\Bat.md|bats]]\
+    \ and [[5. Mechanics\Bestiary\Beast\Rat.md|rats]], as well as [[5. Mechanics\Bestiary\Beast\Giant Bat.md|giant bats]]\
+    \ and [[5. Mechanics\Bestiary\Beast\Giant Rat.md|giant rats]]."
   "name": "Raxivort's Tongue"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage. If at least one of\
-    \ the xvart's allies is within 5 feet of the target, the xvart can push the target\
-    \ 5 feet if the target is a Medium or smaller creature."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage. If at least one\
+    \ of the xvart's allies is within 5 feet of the target, the xvart can push the\
+    \ target 5 feet if the target is a Medium or smaller creature."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
+    \ target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) bludgeoning damage."
   "name": "Sling"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xvart takes the Disengage action."
+- "desc": "The xvart takes the [[\5. Mechanics\Rules\Actions.md#Disengage|Disengage]]\
+    \ action."
   "name": "Low Cunning"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/xvart.png"
+"image": "compendium/bestiary/monstrosity/token/xvart.png"
 ```
 ^statblock
 

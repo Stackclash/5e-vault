@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend
-statblock: inline
+aliases: ["Night Hag"]
 ---
 # Night Hag
-*Source: Monster Manual p. 178, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 178, Curse of Strahd. Available in the SRD.*  
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 
@@ -16,7 +15,7 @@ Night hags were once creatures of the Feywild, but their foulness saw them exile
 
 ## Soulmongers
 
-While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [[Senses#truesight|truesight]] can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
+While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [[\5. Mechanics\Rules\Senses.md#truesight|truesight]] can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
 
 ## Covens
 
@@ -79,21 +78,19 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> - 1st level (4 slots): [[Identify|identify]], [[Ray Of Sickness|ray of sickness]]  
-> - 2nd level (3 slots): [[Hold Person|hold person]], [[Locate Object|locate object]]  
-> - 3rd level (3 slots): [[Bestow Curse|bestow curse]], [[Counterspell|counterspell]], [[Lightning Bolt|lightning bolt]]  
-> - 4th level (3 slots): [[Phantasmal Killer|phantasmal killer]], [[Polymorph|polymorph]]  
-> - 5th level (2 slots): [[Contact Other Plane|contact other plane]], [[Scrying|scrying]]  
-> - 6th level (1 slot): [[Eyebite|eyebite]]  
+> 1st level (4 slots): [[5. Mechanics\Spells\Identify.md|identify]], [[5. Mechanics\Spells\Ray Of Sickness.md|ray of sickness]]  
+> 2nd level (3 slots): [[5. Mechanics\Spells\Hold Person.md|hold person]], [[5. Mechanics\Spells\Locate Object.md|locate object]]  
+> 3rd level (3 slots): [[5. Mechanics\Spells\Bestow Curse.md|bestow curse]], [[5. Mechanics\Spells\Counterspell.md|counterspell]], [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]]  
+> 4th level (3 slots): [[5. Mechanics\Spells\Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics\Spells\Polymorph.md|polymorph]]  
+> 5th level (2 slots): [[5. Mechanics\Spells\Contact Other Plane.md|contact other plane]], [[5. Mechanics\Spells\Scrying.md|scrying]]  
+> 6th level (1 slot): [[5. Mechanics\Spells\Eyebite.md|eyebite]]  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[Senses#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[Conditions#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[Conditions#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
-
-## Stat Block
 
 ```statblock
 "name": "Night Hag"
@@ -110,12 +107,12 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - !!int "16"
 - !!int "14"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "5"
-  "Insight": !!int "5"
-  "Perception": !!int "5"
+  "Deception": "+6"
+  "Stealth": "+5"
+  "Insight": "+5"
+  "Perception": "+5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "condition_immunities": "charmed"
@@ -123,20 +120,17 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 14, dice:\
+- "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 14, dice:\
     \ d20+6 (+6 to hit) with spell attacks). She can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [plane\
-    \ shift](/compendium/spells/plane-shift.md) (self only), [[/5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
-    \ [[/5. Mechanics/Spells/Sleep.md|sleep]]"
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Magic Missile.md|magic missile]]\n\n2/day each: [plane\
+    \ shift](compendium/spells/plane-shift.md) (self only), [[5. Mechanics\Spells\Ray Of Enfeeblement.md|ray of enfeeblement]],\
+    \ [[5. Mechanics\Spells\Sleep.md|sleep]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag has advantage on saving throws against spells and other magical\
+- "desc": "The hag has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A night hag carries two very rare magic items that she must craft for herself.\
+- "desc": "A night hag carries two very rare magic items that she must craft for herself.\
     \ If either object is lost, the night hag will go to great lengths to retrieve\
     \ it, as creating a new tool takes time and effort.\n\nHeartstone: This lustrous\
     \ black gem allows a night hag to become ethereal while it is in her possession.\
@@ -148,30 +142,26 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ 7 days and a humanoid sacrifice (whose flesh is used to make the bag)."
   "name": "Night Hag Items"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
   "name": "Claws (Hag Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag magically polymorphs into a Small or Medium female humanoid, or\
+- "desc": "The hag magically polymorphs into a Small or Medium female humanoid, or\
     \ back into her true form. Her statistics are the same in each form. Any equipment\
     \ she is wearing or carrying isn't transformed. She reverts to her true form if\
     \ she dies."
   "name": "Change Shape"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag magically enters the Ethereal Plane from the Material Plane, or\
+- "desc": "The hag magically enters the Ethereal Plane from the Material Plane, or\
     \ vice versa. To do so, the hag must have a heartstone in her possession."
   "name": "Etherealness"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While on the Ethereal Plane, the hag magically touches a sleeping humanoid\
-    \ on the Material Plane. A [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]\
+- "desc": "While on the Ethereal Plane, the hag magically touches a sleeping humanoid\
+    \ on the Material Plane. A [[5. Mechanics\Spells\Protection From Evil And Good.md|protection from evil and good]]\
     \ spell cast on the target prevents this contact, as does a magic circle. As long\
     \ as the contact persists, the target has dreadful visions. If these visions last\
     \ for at least 1 hour, the target gains no benefit from its rest, and its hit\
     \ point maximum is reduced by 5 (dice: 1d10|avg (1d10)). If this effect reduces\
     \ the target's hit point maximum to 0, the target dies, and if the target was\
     \ evil, its soul is trapped in the hag's soul bag. The reduction to the target's\
-    \ hit point maximum lasts until removed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ hit point maximum lasts until removed by the  [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
     \ spell or similar magic."
   "name": "Nightmare Haunting (1/Day)"
 "source":
@@ -188,6 +178,6 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "CM"
 - "JttRC"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/night-hag.png"
+"image": "compendium/bestiary/fiend/token/night-hag.png"
 ```
 ^statblock

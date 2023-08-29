@@ -8,9 +8,9 @@ aliases: ["Investigator"]
 # Investigator
 *Source: Van Richten's Guide to Ravenloft p. 35*  
 
-- **Skill Proficiencies.** Choose two from among [[Skills#Insight|Insight]], [[Skills#Investigation|Investigation]], or [[Skills#Perception|Perception]]  
-- **Tool Proficiencies.** [[Disguise Kit|Disguise kit]], [[Thieves Tools|Thieves' tools]]  
-- **Equipment.** A [[Magnifying Glass|magnifying glass]], evidence from a past case (choose one or roll for a trinket from the [[Horror Trinket (VRGR)|Horror Trinkets]] later in this chapter), a [[Common Clothes|set of common clothes]], and 10 gp  
+- **Skill Proficiencies.** Choose two from among [[\5. Mechanics\Rules\Skills.md#Insight|Insight]], [[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]], or [[\5. Mechanics\Rules\Skills.md#Perception|Perception]]  
+- **Tool Proficiencies.** [[5. Mechanics\Items\Disguise Kit.md|Disguise kit]], [[5. Mechanics\Items\Thieves Tools.md|Thieves' tools]]  
+- **Equipment.** A [[5. Mechanics\Items\Magnifying Glass.md|magnifying glass]], evidence from a past case (choose one or roll for a trinket from the [[5. Mechanics\Items\Horror Trinket (VRGR).md|Horror Trinkets]] later in this chapter), a [[5. Mechanics\Items\Common Clothes.md|set of common clothes]], and 10 gp  
 
 You relentlessly seek the truth. Perhaps you're motivated by belief in the law and a sense of universal justice, or maybe that very law has failed you and you seek to make things right. You could have witnessed something remarkable or terrible, and now you must know more about this hidden truth. Or maybe you're a detective for hire, uncovering secrets for well-paying clients. Whether the mysteries you're embroiled in are local crimes or realm-spanning conspiracies, you're driven by a personal need to hunt down even the most elusive clues and reveal what others would keep hidden in the shadows.
 

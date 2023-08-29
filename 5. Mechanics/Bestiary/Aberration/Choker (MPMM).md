@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration
-statblock: inline
+aliases: ["Choker"]
 ---
 # Choker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
@@ -27,7 +26,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "name": "Choker"
 "size": "Small"
 "type": "aberration"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
@@ -38,33 +37,28 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 - !!int "4"
 - !!int "12"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  "Stealth": "+6"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choker can take an extra action on its turn."
+- "desc": "The choker can take an extra action on its turn."
   "name": "Aberrant Quickness (Recharges after a Short or Long Rest)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choker can move through and occupy a space as narrow as 4 inches wide\
+- "desc": "The choker can move through and occupy a space as narrow as 4 inches wide\
     \ without squeezing."
   "name": "Boneless"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choker can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The choker can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choker makes two Tentacle attacks."
+- "desc": "The choker makes two Tentacle attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage. If the target is a Large\
-    \ or smaller creature, it is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage. If the target is\
+    \ a Large or smaller creature, it is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 15). Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the choker can't use this tentacle on another target. The choker has two\
     \ tentacles. If this attack is a critical hit, the target also can't breathe or\
     \ speak until the grapple ends."
@@ -72,7 +66,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/choker.png"
+"image": "compendium/bestiary/aberration/token/choker.png"
 ```
 ^statblock
 

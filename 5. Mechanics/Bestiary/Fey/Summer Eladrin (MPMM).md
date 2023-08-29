@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey/elf
-statblock: inline
+aliases: ["Summer Eladrin"]
 ---
 # Summer Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
@@ -30,16 +29,14 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[Conditions#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
-
-## Stat Block
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Summer Eladrin"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
 "hp": !!int "165"
 "hit_dice": "22d8 + 66"
@@ -50,57 +47,50 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - !!int "14"
 - !!int "12"
 - !!int "18"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "skillsaves":
-  "Intimidation": !!int "8"
-  "Athletics": !!int "8"
+  "Intimidation": "+8"
+  "Athletics": "+8"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
+- "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
     \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] of the eladrin for 1\
-    \ minute. A creature can repeat the saving throw at the end of each of its turns,\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] of the eladrin for\
+    \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
     \ ending the effect on itself on a success. If a creature's saving throw is successful\
     \ or the effect ends for it, the creature is immune to any eladrin's Fearsome\
     \ Presence for the next 24 hours."
   "name": "Fearsome Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin has advantage on saving throws against spells and other magical\
+- "desc": "The eladrin has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin makes two Longsword or Longbow attacks."
+- "desc": "The eladrin makes two Longsword or Longbow attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or 15 (dice: 2d10 + 4|avg\
-    \ (2d10 + 4)) slashing damage if used with two hands, plus dice: 2d8|avg (2d8)\
-    \ fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, or 15 (dice: 2d10\
+    \ + 4|avg (2d10 + 4)) slashing damage if used with two hands, plus 9 (dice:\
+    \ 2d8|avg (2d8)) fire damage."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage plus dice: 2d8|avg\
-    \ (2d8) fire damage."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 150/600 ft., one\
+    \ target. Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) piercing damage plus 9 (dice:\
+    \ 2d8|avg (2d8)) fire damage."
   "name": "Longbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
+- "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see."
   "name": "Fey Step (Recharge 4-6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin adds 3 to its AC against one melee attack that would hit it.\
+- "desc": "The eladrin adds 3 to its AC against one melee attack that would hit it.\
     \ To do so, the eladrin must see the attacker and be wielding a melee weapon."
   "name": "Parry"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Fey/token/summer-eladrin.png"
+"image": "compendium/bestiary/fey/token/summer-eladrin.png"
 ```
 ^statblock
 

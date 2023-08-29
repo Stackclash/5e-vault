@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/yugoloth
-statblock: inline
+aliases: ["Dhergoloth"]
 ---
 # Dhergoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
@@ -26,7 +25,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "size": "Medium"
 "type": "fiend"
 "subtype": "yugoloth"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
@@ -37,9 +36,9 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 - !!int "7"
 - !!int "10"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Strength": !!int "6"
+  "Strength": "+6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -48,37 +47,31 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dhergoloth casts one of the following spells, requiring no material\
+- "desc": "The dhergoloth casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-    \nAt will: [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Fear.md|fear]]"
+    \nAt will: [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Fear.md|fear]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dhergoloth has advantage on saving throws against spells and other\
+- "desc": "The dhergoloth has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dhergoloth makes two Claw attacks."
+- "desc": "The dhergoloth makes two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) force damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dhergoloth moves up to its speed in a straight line and targets each\
+- "desc": "The dhergoloth moves up to its speed in a straight line and targets each\
     \ creature within 5 feet of it during its movement. Each target must succeed on\
-    \ a DC 14 Dexterity saving throw or take dice: 3d12 + 3|avg (3d12 + 3) force\
-    \ damage."
+    \ a DC 14 Dexterity saving throw or take 22 (dice: 3d12 + 3|avg (3d12 + 3))\
+    \ force damage."
   "name": "Flailing Claws (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dhergoloth teleports, along with any equipment it is wearing or carrying,\
+- "desc": "The dhergoloth teleports, along with any equipment it is wearing or carrying,\
     \ up to 60 feet to an unoccupied space it can see."
   "name": "Teleport"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/dhergoloth.png"
+"image": "compendium/bestiary/fiend/token/dhergoloth.png"
 ```
 ^statblock
 

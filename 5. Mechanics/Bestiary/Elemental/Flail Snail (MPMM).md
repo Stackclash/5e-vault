@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Flail Snail"]
 ---
 # Flail Snail
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
@@ -21,11 +20,9 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[Spellguard Shield|spellguard shield]].
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[5. Mechanics\Items\Spellguard Shield.md|spellguard shield]].
 
-A flail snail shell can also be used to make a [[Robe Of Scintillating Colors|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
-
-## Stat Block
+A flail snail shell can also be used to make a [[5. Mechanics\Items\Robe Of Scintillating Colors.md|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail"
@@ -42,15 +39,14 @@ A flail snail shell can also be used to make a [[Robe Of Scintillating Colors|ro
 - !!int "3"
 - !!int "10"
 - !!int "5"
-"speed": "walk 10 ft."
+"speed": "10 ft."
 "damage_immunities": "fire, poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The snail has advantage on saving throws against spells, and any creature\
+- "desc": "The snail has advantage on saving throws against spells, and any creature\
     \ making a spell attack against the snail has disadvantage on the attack roll.\n\
     \nIf the snail succeeds on its saving throw against a spell or a spell's attack\
     \ roll misses it, the snail's shell converts some of the spell's energy into a\
@@ -60,31 +56,27 @@ A flail snail shell can also be used to make a [[Robe Of Scintillating Colors|ro
     \ save, or half as much damage on a successful one."
   "name": "Antimagic Shell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The snail makes five Flail Tentacle attacks."
+- "desc": "The snail makes five Flail Tentacle attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
   "name": "Flail Tentacle"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The snail's shell emits dazzling, colored light until the end of the snail's\
+- "desc": "The snail's shell emits dazzling, colored light until the end of the snail's\
     \ next turn. During this time, the shell sheds bright light in a 30-foot radius\
     \ and dim light for an additional 30 feet, and creatures that can see the snail\
     \ have disadvantage on attack rolls against it. In addition, any creature within\
     \ the bright light and able to see the snail when this power is activated must\
-    \ succeed on a DC 15 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ succeed on a DC 15 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ until the light ends."
   "name": "Scintillating Shell (Recharges after a Short or Long Rest)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flail snail withdraws into its shell. Until it emerges, it gains a\
-    \ +4 bonus to its AC and is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "The flail snail withdraws into its shell. Until it emerges, it gains a\
+    \ +4 bonus to its AC and is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
     \ It can emerge from its shell as a bonus action on its turn."
   "name": "Shell Defense"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Elemental/token/flail-snail.png"
+"image": "compendium/bestiary/elemental/token/flail-snail.png"
 ```
 ^statblock
 

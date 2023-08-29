@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/aberration
-statblock: inline
+aliases: ["Slaad Tadpole"]
 ---
 # Slaad Tadpole
-*Source: Monster Manual p. 276, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 276*  
 
 ## Slaadi
 
@@ -34,21 +33,19 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[Conditions#charmed|charmed]] while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[Wish|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[5. Mechanics\Spells\Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [[Greater Restoration|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
+> A [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[Skills#Medicine|Medicine]]) can remove the gem from an [[Conditions#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[Skills#Medicine|Medicine]]) check. Each failed attempt deals 22 (`dice: 4d10` (`4d10`)) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[\5. Mechanics\Rules\Skills.md#Medicine|Medicine]]) can remove the gem from an [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[\5. Mechanics\Rules\Skills.md#Medicine|Medicine]]) check. Each failed attempt deals 22 (`dice: 4d10` (`4d10`)) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
 > 
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
 
-
-## Stat Block
 
 ```statblock
 "name": "Slaad Tadpole"
@@ -65,22 +62,20 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - !!int "3"
 - !!int "5"
 - !!int "3"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  "Stealth": "+4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Slaad but can't speak"
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The slaad has advantage on saving throws against spells and other magical\
+- "desc": "The slaad has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -89,6 +84,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "CM"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Aberration/token/slaad-tadpole.png"
+"image": "compendium/bestiary/aberration/token/slaad-tadpole.png"
 ```
 ^statblock

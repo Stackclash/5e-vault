@@ -14,4 +14,4 @@ aliases: ["Iron Pot"]
 
 An iron pot holds 1 gallon of liquid.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

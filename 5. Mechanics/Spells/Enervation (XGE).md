@@ -11,6 +11,7 @@ tags:
 aliases: ["Enervation"]
 ---
 # Enervation
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 155
+*Source: Xanathar's Guide to Everything p. 155*

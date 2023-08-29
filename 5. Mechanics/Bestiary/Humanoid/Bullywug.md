@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/humanoid/bullywug
-statblock: inline
+aliases: ["Bullywug"]
 ---
 # Bullywug
-*Source: Monster Manual p. 35, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 35*  
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
 
@@ -33,8 +32,6 @@ Bullywugs speak a language that allows them to communicate over large areas by c
 
 Simple concepts in the language are understandable to frogs and toads. Bullywugs use this capability to form strong bonds with giant frogs, which they train as guardians and hunters. Larger specimens are sometimes used as mounts as well. The frogs' ability to swallow creatures whole provides a bullywug hunting band an easy means of carrying prey back to their villages.
 
-## Stat Block
-
 ```statblock
 "name": "Bullywug"
 "size": "Medium"
@@ -51,40 +48,33 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 - !!int "7"
 - !!int "10"
 - !!int "7"
-"speed": "walk 20 ft., swim 40 ft."
+"speed": "20 ft., swim 40 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  "Stealth": "+3"
 "senses": "passive Perception 10"
 "languages": "Bullywug"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bullywug can breathe air and water."
+- "desc": "The bullywug can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bullywug can communicate simple concepts to frogs and toads when it\
+- "desc": "The bullywug can communicate simple concepts to frogs and toads when it\
     \ speaks in Bullywug."
   "name": "Speak with Frogs and Toads"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bullywug has advantage on Dexterity (Stealth) checks made to hide in\
+- "desc": "The bullywug has advantage on Dexterity (Stealth) checks made to hide in\
     \ swampy terrain."
   "name": "Swamp Camouflage"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to 10\
+- "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to 10\
     \ feet, with or without a running start."
   "name": "Standing Leap"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bullywug makes two melee attacks: one with its bite and one with its\
+- "desc": "The bullywug makes two melee attacks: one with its bite and one with its\
     \ spear."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing\
     \ damage, or 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage if used with\
     \ two hands to make a melee attack."
   "name": "Spear"
@@ -95,7 +85,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 - "GoS"
 - "EGW"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bullywug.png"
+"image": "compendium/bestiary/humanoid/token/bullywug.png"
 ```
 ^statblock
 

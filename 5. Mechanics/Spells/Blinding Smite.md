@@ -9,6 +9,7 @@ tags:
 aliases: ["Blinding Smite"]
 ---
 # Blinding Smite
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation*  
 
 - **Casting time:** 1 bonus
@@ -16,10 +17,10 @@ aliases: ["Blinding Smite"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra `dice: 3d8` (`3d8`) radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the spell ends.
+The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra `dice: 3d8` (`3d8`) radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] until the spell ends.
 
-A creature [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[5. Mechanics/Rules/Conditions.md#blinded|blinded]].
+A creature [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]].
 
-**Classes**: [[/5. Mechanics/Classes/Paladin.md|Paladin]]
+**Classes**: [[5. Mechanics\Classes\Paladin.md|Paladin]]
 
-Source: Player's Handbook p. 219
+*Source: Player's Handbook p. 219*

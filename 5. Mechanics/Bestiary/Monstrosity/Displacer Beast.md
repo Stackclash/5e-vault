@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Displacer Beast"]
 ---
 # Displacer Beast
-*Source: Monster Manual p. 81, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Eberron: Rising from the Last War, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 81*  
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 
@@ -27,8 +26,6 @@ Displacer beasts kill not just for food but also for sport. They target prey eve
 
 Displacer beasts hunt alone or in small prides that demonstrate skill at setting ambushes. A single beast will strike and withdraw, luring prey into a densely wooded area where its pack mates wait. Packs of displacer beasts hunting near trade roads recall the frequency and schedule of regular caravans, laying down ambushes to pick off those caravans.
 
-## Stat Block
-
 ```statblock
 "name": "Displacer Beast"
 "size": "Large"
@@ -44,32 +41,28 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 - !!int "6"
 - !!int "12"
 - !!int "8"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the displacer beast is subjected to an effect that allows it to make\
+- "desc": "If the displacer beast is subjected to an effect that allows it to make\
     \ a saving throw to take only half damage, it instead takes no damage if it succeeds\
     \ on the saving throw, and only half damage if it fails."
   "name": "Avoidance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The displacer beast projects a magical illusion that makes it appear to\
+- "desc": "The displacer beast projects a magical illusion that makes it appear to\
     \ be standing near its actual location, causing attack rolls against it to have\
     \ disadvantage. If it is hit by an attack, this trait is disrupted until the end\
     \ of its next turn. This trait is also disrupted while the displacer beast is\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or has a speed\
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] or has a speed\
     \ of 0."
   "name": "Displacement"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The displacer beast makes two attacks with its tentacles."
+- "desc": "The displacer beast makes two attacks with its tentacles."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage plus dice: 1d6|avg\
-    \ (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) piercing damage."
   "name": "Tentacle"
 "source":
 - "MM"
@@ -80,7 +73,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 - "WBtW"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/displacer-beast.png"
+"image": "compendium/bestiary/monstrosity/token/displacer-beast.png"
 ```
 ^statblock
 

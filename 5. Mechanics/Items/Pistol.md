@@ -14,7 +14,7 @@ aliases: ["Pistol"]
 
 - **Damage**: 1d10 P
 - **Range**: 30/90
-- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[5. Mechanics/Rules/Item Properties.md#Loading|Loading]], [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]]
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Ammunition%20|"(Firearm"]]), [[\5. Mechanics\Rules\Item Properties.md#Loading|Loading]], Martial
 - **Cost**: 250 gp
 - **Weight**: 3.0 lbs.
 

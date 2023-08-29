@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/underwater
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Constrictor Snake"]
 ---
 # Constrictor Snake
-*Source: Monster Manual p. 320, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Constrictor Snake"
@@ -29,19 +28,18 @@ statblock: inline
 - !!int "1"
 - !!int "10"
 - !!int "3"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "senses": "blindsight 10 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the creature is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 14). Until\
+    \ this grapple ends, the creature is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the snake can't constrict another target."
   "name": "Constrict"
 "source":
@@ -49,7 +47,7 @@ statblock: inline
 - "TftYP"
 - "ToA"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Beast/token/constrictor-snake.png"
+"image": "compendium/bestiary/beast/token/constrictor-snake.png"
 ```
 ^statblock
 

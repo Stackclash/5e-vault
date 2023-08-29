@@ -3,16 +3,15 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
-- spell/class/artificer
 - spell/class/cleric/forge-domain
 - spell/class/sorcerer
-- spell/class/warlock/the-genie
 - spell/class/wizard
 - spell/level/5
 - spell/school/illusion
 aliases: ["Creation"]
 ---
 # Creation
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Illusion*  
 
 - **Casting time:** 1 minute
@@ -39,6 +38,6 @@ Using any material created by this spell as another spell's material component c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric (Forge Domain)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Cleric Forge Domain (XGE).md|Cleric (Forge Domain)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 229
+*Source: Player's Handbook p. 229. Available in the SRD.*

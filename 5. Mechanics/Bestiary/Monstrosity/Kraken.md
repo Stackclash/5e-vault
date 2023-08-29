@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underwater
 - monster/size/gargantuan
 - monster/type/monstrosity/titan
-statblock: inline
+aliases: ["Kraken"]
 ---
 # Kraken
-*Source: Monster Manual p. 197, Ghosts of Saltmarsh, Storm Lord's Wrath, Explorer's Guide to Wildemount, Mythic Odysseys of Theros*  
+*Source: Monster Manual p. 197. Available in the SRD.*  
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
 
@@ -31,8 +30,6 @@ Some krakens are virtual gods, with cults and minions spread across sea and land
 
 A kraken lives in dark depths, usually a sunken rift or a cavern filled with detritus, treasure, and wrecked ships.
 
-## Stat Block
-
 ```statblock
 "name": "Kraken"
 "size": "Gargantuan"
@@ -49,13 +46,13 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 - !!int "22"
 - !!int "18"
 - !!int "20"
-"speed": "walk 20 ft., swim 60 ft."
+"speed": "20 ft., swim 60 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "11"
-  "Intelligence": !!int "13"
-  "Strength": !!int "17"
-  "Constitution": !!int "14"
+  "Dexterity": "+7"
+  "Wisdom": "+11"
+  "Intelligence": "+13"
+  "Strength": "+17"
+  "Constitution": "+14"
 "damage_immunities": "lightning; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "frightened, paralyzed"
 "senses": "truesight 120 ft., passive Perception 14"
@@ -63,68 +60,57 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   \ speak"
 "cr": "23"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken can breathe air and water."
+- "desc": "The kraken can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken ignores difficult terrain, and magical effects can't reduce\
-    \ its speed or cause it to be [[5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "The kraken ignores difficult terrain, and magical effects can't reduce\
+    \ its speed or cause it to be [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
     \ It can spend 5 feet of movement to escape from nonmagical restraints or being\
-    \ [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]."
   "name": "Freedom of Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken deals double damage to objects and structures."
+- "desc": "The kraken deals double damage to objects and structures."
   "name": "Siege Monster"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken makes three tentacle attacks, each of which it can replace with\
+- "desc": "The kraken makes three tentacle attacks, each of which it can replace with\
     \ one use of Fling."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 10|avg (3d8 + 10) piercing damage. If the target is a Large\
-    \ or smaller creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
-    \ kraken, that creature is swallowed, and the grapple ends. While swallowed, the\
-    \ creature is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 5 ft., one target.\
+    \ Hit: 23 (dice: 3d8 + 10|avg (3d8 + 10)) piercing damage. If the target\
+    \ is a Large or smaller creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ by the kraken, that creature is swallowed, and the grapple ends. While swallowed,\
+    \ the creature is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] and [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ it has total cover against attacks and other effects outside the kraken, and\
-    \ it takes dice: 12d6|avg (12d6) acid damage at the start of each of the kraken's\
-    \ turns. If the kraken takes 50 damage or more on a single turn from a creature\
-    \ inside it, the kraken must succeed on a DC 25 Constitution saving throw at the\
-    \ end of that turn or regurgitate all swallowed creatures, which fall [[5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature\
-    \ is no longer [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it and\
-    \ can escape from the corpse using 15 feet of movement, exiting [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ it takes 42 (dice: 12d6|avg (12d6)) acid damage at the start of each of\
+    \ the kraken's turns. If the kraken takes 50 damage or more on a single turn from\
+    \ a creature inside it, the kraken must succeed on a DC 25 Constitution saving\
+    \ throw at the end of that turn or regurgitate all swallowed creatures, which\
+    \ fall [[\5. Mechanics\Rules\Conditions.md#prone|prone]] in a space within 10 feet\
+    \ of the kraken. If the kraken dies, a swallowed creature is no longer [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by it and can escape from the corpse using 15 feet of movement, exiting [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 30 ft., one target.\
-    \ Hit: dice: 3d6 + 10|avg (3d6 + 10) bludgeoning damage, and the target is\
-    \ [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 18). Until this\
-    \ grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 30 ft., one target.\
+    \ Hit: 20 (dice: 3d6 + 10|avg (3d6 + 10)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 18). Until\
+    \ this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
     \ The kraken has ten tentacles, each of which can grapple one target."
   "name": "Tentacle"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One Large or smaller object held or creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by the kraken is thrown up to 60 feet in a random direction and knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If a thrown target strikes a solid surface, the target takes dice: 1d6|avg\
-    \ (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
+- "desc": "One Large or smaller object held or creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ by the kraken is thrown up to 60 feet in a random direction and knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
+    \ If a thrown target strikes a solid surface, the target takes 3 (dice: 1d6|avg\
+    \ (1d6)) bludgeoning damage for every 10 feet it was thrown. If the target is\
     \ thrown at another creature, that creature must succeed on a DC 18 Dexterity\
-    \ saving throw or take the same damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ saving throw or take the same damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Fling"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken magically creates three bolts of lightning, each of which can\
+- "desc": "The kraken magically creates three bolts of lightning, each of which can\
     \ strike a target the kraken can see within 120 feet of it. A target must make\
     \ a DC 23 Dexterity saving throw, taking 22 (dice: 4d10|avg (4d10)) lightning\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Lightning Storm"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken makes one tentacle attack or uses its Fling."
+- "desc": "The kraken makes one tentacle attack or uses its Fling."
   "name": "Tentacle Attack or Fling"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kraken uses Lightning Storm."
+- "desc": "The kraken uses Lightning Storm."
   "name": "Lightning Storm (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While underwater, the kraken expels an ink cloud in a 60-foot radius. The\
+- "desc": "While underwater, the kraken expels an ink cloud in a 60-foot radius. The\
     \ cloud spreads around corners, and that area is heavily obscured to creatures\
     \ other than the kraken. Each creature other than the kraken that ends its turn\
     \ there must succeed on a DC 23 Constitution saving throw, taking 16 (dice: 3d10|avg\
@@ -138,7 +124,7 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 - "SLW"
 - "EGW"
 - "MOT"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/kraken.png"
+"image": "compendium/bestiary/monstrosity/token/kraken.png"
 ```
 ^statblock
 

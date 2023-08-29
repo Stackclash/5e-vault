@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Downtime Activity: Gaining Renown"]
 ---
 # Downtime Activity: Gaining Renown

@@ -10,6 +10,7 @@ tags:
 aliases: ["Word of Radiance"]
 ---
 # Word of Radiance
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action
@@ -21,6 +22,6 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 
 The spell's damage increases by `dice: 1d6` (`1d6`) when you reach 5th level (`dice: 2d6` (`2d6`)), 11th level (`dice: 3d6` (`3d6`)), and 17th level (`dice: 4d6` (`4d6`)).
 
-**Classes**: [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
-Source: Xanathar's Guide to Everything p. 171
+*Source: Xanathar's Guide to Everything p. 171*

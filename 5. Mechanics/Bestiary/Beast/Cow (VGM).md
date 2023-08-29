@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vgm
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Cow"]
 ---
 # Cow
-*Source: Volo's Guide to Monsters p. 207, Dragon of Icespire Peak*  
+*Source: Volo's Guide to Monsters p. 207*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
 
@@ -28,25 +27,23 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 - !!int "2"
 - !!int "10"
 - !!int "4"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the cow moves at least 20 feet straight toward a target and then hits\
+- "desc": "If the cow moves at least 20 feet straight toward a target and then hits\
     \ it with a gore attack on the same turn, the target takes an extra 7 (dice:\
     \ 2d6|avg (2d6)) piercing damage."
   "name": "Charge"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
   "name": "Gore"
 "source":
 - "VGM"
 - "DIP"
-"image": "5. Mechanics/Bestiary/Beast/token/cow.png"
+"image": "compendium/bestiary/beast/token/cow.png"
 ```
 ^statblock
 

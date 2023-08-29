@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/huge
 - monster/type/plant
-statblock: inline
+aliases: ["Treant"]
 ---
 # Treant
-*Source: Monster Manual p. 289, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 289. Available in the SRD.*  
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
 
@@ -27,8 +26,6 @@ Even after awakening, a treant spends much of its time living as a tree. While r
 
 Woodcutters who avoid culling healthy living trees and hunters who take only what they need of the forest's bounty are unlikely to arouse a treant's ire. Creatures careless with fire, those who poison the forest, and those who destroy great trees, especially a tree close to awakening, face the treant's wrath.
 
-## Stat Block
-
 ```statblock
 "name": "Treant"
 "size": "Huge"
@@ -44,35 +41,29 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 - !!int "12"
 - !!int "16"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "senses": "passive Perception 13"
 "languages": "Common, Druidic, Elvish, Sylvan"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the treant remains motionless, it is indistinguishable from a normal\
+- "desc": "While the treant remains motionless, it is indistinguishable from a normal\
     \ tree."
   "name": "False Appearance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The treant deals double damage to objects and structures."
+- "desc": "The treant deals double damage to objects and structures."
   "name": "Siege Monster"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The treant makes two slam attacks."
+- "desc": "The treant makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/180 ft.,\
-    \ one target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/180 ft.,\
+    \ one target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage."
   "name": "Rock"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The treant magically animates one or two trees it can see within 60 feet\
-    \ of it. These trees have the same statistics as a [[/5. Mechanics/Bestiary/Plant/Treant.md|treant]],\
+- "desc": "The treant magically animates one or two trees it can see within 60 feet\
+    \ of it. These trees have the same statistics as a [[5. Mechanics\Bestiary\Plant\Treant.md|treant]],\
     \ except they have Intelligence and Charisma scores of 1, they can't speak, and\
     \ they have only the Slam action option. An animated tree acts as an ally of the\
     \ treant. The tree remains animate for 1 day or until it dies; until the treant\
@@ -97,7 +88,8 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 - "JttRC"
 - "LoX"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Plant/token/treant.png"
+- "PSI"
+"image": "compendium/bestiary/plant/token/treant.png"
 ```
 ^statblock
 

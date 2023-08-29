@@ -10,6 +10,7 @@ tags:
 aliases: ["Soul Cage"]
 ---
 # Soul Cage
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Necromancy*  
 
 - **Casting time:** 1 reaction
@@ -33,12 +34,12 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [[/5. Mechanics/Spells/See Invisibility.md|see invisibility]] or [[5. Mechanics/Rules/Senses.md#truesight|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [[5. Mechanics\Spells\See Invisibility.md|see invisibility]] or [[\5. Mechanics\Rules\Senses.md#truesight|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 165
+*Source: Xanathar's Guide to Everything p. 165*

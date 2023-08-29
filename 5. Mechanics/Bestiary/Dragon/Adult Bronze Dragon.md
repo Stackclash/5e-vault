@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/coastal
 - monster/size/huge
 - monster/type/dragon
-statblock: inline
+aliases: ["Adult Bronze Dragon"]
 ---
 # Adult Bronze Dragon
-*Source: Monster Manual p. 108, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Sleeping Dragon's Wake, Explorer's Guide to Wildemount, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 108. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
@@ -77,8 +76,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Adult Bronze Dragon"
 "size": "Huge"
@@ -94,54 +91,46 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "16"
 - !!int "15"
 - !!int "19"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "11"
+  "Charisma": "+9"
+  "Dexterity": "+5"
+  "Wisdom": "+7"
+  "Constitution": "+11"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Insight": !!int "7"
-  "Perception": !!int "12"
+  "Stealth": "+5"
+  "Insight": "+7"
+  "Perception": "+12"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "15"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
+- "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
+    \ Hit: 18 (dice: 2d10 + 7|avg (2d10 + 7)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d6 + 7|avg (2d6 + 7)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
+    \ Hit: 16 (dice: 2d8 + 7|avg (2d8 + 7)) bludgeoning damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
+    \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 19 Dexterity saving throw, taking 66 (dice: 12d10|avg\
     \ (12d10)) lightning damage on a failed save, or half as much damage on a successful\
@@ -149,8 +138,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ cone. Each creature in that area must succeed on a DC 19 Strength saving throw.\
     \ On a failed save, the creature is pushed 60 feet away from the dragon.  "
   "name": "Breath Weapons (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
+- "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
     \ rating no higher than its own, or back into its true form. It reverts to its\
     \ true form if it dies. Any equipment it is wearing or carrying is absorbed or\
     \ borne by the new form (the dragon's choice).\n\nIn a new form, the dragon retains\
@@ -161,17 +149,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ that form."
   "name": "Change Shape"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The dragon makes a Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes a tail attack."
+- "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
-    \ must succeed on a DC 20 Dexterity saving throw or take dice: 2d6 + 7|avg (2d6\
-    \ + 7) bludgeoning damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+- "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
+    \ must succeed on a DC 20 Dexterity saving throw or take 14 (dice: 2d6 + 7|avg\
+    \ (2d6 + 7)) bludgeoning damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":
@@ -184,7 +169,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "JttRC"
 - "DoSI"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-bronze-dragon.png"
+"image": "compendium/bestiary/dragon/token/adult-bronze-dragon.png"
 ```
 ^statblock
 

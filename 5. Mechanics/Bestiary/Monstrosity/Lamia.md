@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Lamia"]
 ---
 # Lamia
-*Source: Monster Manual p. 201, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 201. Available in the SRD.*  
 
-Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[Jackalwere|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
+Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
 
 A lamia has a beautiful humanoid upper body that merges into a powerful four-legged leonine form. Its vicious black claws speak to its predatory nature, as does its hunger for torture and humanoid flesh.
 
@@ -19,11 +18,11 @@ A lamia has a beautiful humanoid upper body that merges into a powerful four-leg
 
 Lamias adorn their crumbling havens with finery stolen from passing caravans, then use magic to further accentuate their lairs, masking decay with illusion. A lair's breathtaking gardens, finely decorated apartments, and numerous slaves seem at odds with its remoteness and state of ruin.
 
-Using its intoxicating touch, a lamia weakens the minds of its enemies, making them more susceptible to its enchantment spells and turning them into its slaves. Those it beguiles with [[Geas|geas]] spells are pitted against each other in elaborate contests for the lamia's amusement.
+Using its intoxicating touch, a lamia weakens the minds of its enemies, making them more susceptible to its enchantment spells and turning them into its slaves. Those it beguiles with [[5. Mechanics\Spells\Geas.md|geas]] spells are pitted against each other in elaborate contests for the lamia's amusement.
 
 ## Vain Predators
 
-Always anxious to gain more wealth and slaves, a lamia uses a pool of water or a mirror in conjunction with a [[Scrying|scrying]] spell to view its domain. A lamia uses this power to watch over trade routes and nearby settlements, or to seek out objects and creatures it fancies.
+Always anxious to gain more wealth and slaves, a lamia uses a pool of water or a mirror in conjunction with a [[5. Mechanics\Spells\Scrying.md|scrying]] spell to view its domain. A lamia uses this power to watch over trade routes and nearby settlements, or to seek out objects and creatures it fancies.
 
 Lamias are particularly fond of seeking out adventurers with pure hearts to seduce and corrupt to evil, savoring the destruction of their virtue. They use their magic to lure potential victims to their lairs, relying on illusion and their thralls to capture hapless foes. Lamias prize beauty and strength above all else, however. Any prisoner that falls short of their esteem becomes the main course in a horrible feast, or is set free to die while wandering the wastes.
 
@@ -32,8 +31,6 @@ As long as they have slaves to face their enemies, lamias fight from the fringes
 ## Minions of Graz'zt
 
 The demon lord Graz'zt creates lamias from his mortal servants, granting them immortality in return for monstrous power and an oath of fealty. Graz'zt sometimes tasks lamias with guarding locations important to him, but lamias in his service remain free to spread their evil as they see fit.
-
-## Stat Block
 
 ```statblock
 "name": "Lamia"
@@ -50,41 +47,35 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 - !!int "14"
 - !!int "15"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "7"
-  "Stealth": !!int "3"
-  "Insight": !!int "4"
+  "Deception": "+7"
+  "Stealth": "+3"
+  "Insight": "+4"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lamia's innate spellcasting ability is Charisma (spell save DC 13).\
+- "desc": "The lamia's innate spellcasting ability is Charisma (spell save DC 13).\
     \ It can innately cast the following spells, requiring no material components.\n\
-    \nAt will: [[/5. Mechanics/Spells/Disguise Self.md|disguise self]] (any humanoid\
-    \ form), [[/5. Mechanics/Spells/Major Image.md|major image]]\n\n1/day: [[/5. Mechanics/Spells/Geas.md|geas]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Charm Person.md|charm person]], [mirror\
-    \ image](/compendium/spells/mirror-image.md), [[/5. Mechanics/Spells/Scrying.md|scrying]],\
-    \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \nAt will: [[5. Mechanics\Spells\Disguise Self.md|disguise self]] (any humanoid\
+    \ form), [[5. Mechanics\Spells\Major Image.md|major image]]\n\n1/day: [[5. Mechanics\Spells\Geas.md|geas]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Mirror Image.md|mirror image]],\
+    \ [[5. Mechanics\Spells\Scrying.md|scrying]], [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "innate"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lamia makes two attacks: one with its claws and one with its dagger\
+- "desc": "The lamia makes two attacks: one with its claws and one with its dagger\
     \ or Intoxicating Touch."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: The target is magically cursed for 1 hour. Until the curse ends, the target\
-    \ has disadvantage on Wisdom saving throws and all ability checks."
+- "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: The target is magically cursed for 1 hour. Until the curse ends, the\
+    \ target has disadvantage on Wisdom saving throws and all ability checks."
   "name": "Intoxicating Touch"
 "source":
 - "MM"
@@ -92,7 +83,7 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 - "MOT"
 - "CM"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/lamia.png"
+"image": "compendium/bestiary/monstrosity/token/lamia.png"
 ```
 ^statblock
 

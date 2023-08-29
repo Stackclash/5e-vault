@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey
-statblock: inline
+aliases: ["Satyr"]
 ---
 # Satyr
-*Source: Monster Manual p. 267, Storm King's Thunder, Infernal Machine Rebuild, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
+*Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*  
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
 
@@ -52,8 +51,6 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 > I while away the hours as I please.
 
 
-## Stat Block
-
 ```statblock
 "name": "Satyr"
 "size": "Medium"
@@ -69,31 +66,27 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 - !!int "12"
 - !!int "10"
 - !!int "14"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
-  "Performance": !!int "6"
+  "Stealth": "+5"
+  "Perception": "+2"
+  "Performance": "+6"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The satyr has advantage on saving throws against spells and other magical\
+- "desc": "The satyr has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) bludgeoning damage."
   "name": "Ram"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
+    \ target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"
@@ -102,7 +95,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 - "CM"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Fey/token/satyr.png"
+"image": "compendium/bestiary/fey/token/satyr.png"
 ```
 ^statblock
 

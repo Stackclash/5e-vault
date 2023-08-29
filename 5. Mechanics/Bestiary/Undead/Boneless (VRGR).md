@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Boneless"]
 ---
 # Boneless
 *Source: Van Richten's Guide to Ravenloft p. 228*  
@@ -31,39 +30,34 @@ Whether through accident or depraved genius, some villains use one corpse to cre
 - !!int "1"
 - !!int "10"
 - !!int "1"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  "Stealth": "+4"
 "damage_resistances": "bludgeoning, poison"
 "condition_immunities": "charmed, exhaustion, frightened"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The boneless can move through any opening at least 1 inch wide without\
+- "desc": "The boneless can move through any opening at least 1 inch wide without\
     \ squeezing. It can also squeeze to fit into a space that a Tiny creature could\
     \ fit in."
   "name": "Compression"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The boneless doesn't require sleep."
+- "desc": "The boneless doesn't require sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The boneless makes two Slam attacks. If both attacks hit a Large or smaller\
-    \ creature, the creature is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "The boneless makes two Slam attacks. If both attacks hit a Large or smaller\
+    \ creature, the creature is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
     \ (escape DC 13), and the boneless can use Crushing Embrace."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The boneless wraps its body around a Large or smaller creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it. While the boneless is attached, the target is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+- "desc": "The boneless wraps its body around a Large or smaller creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ by it. While the boneless is attached, the target is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ and is unable to breathe. The target must succeed on a DC 13 Strength saving\
-    \ throw at the start of each of the boneless' turns or take dice: 1d4 + 3|avg\
-    \ (1d4 + 3) bludgeoning damage. If something moves the target, the boneless\
+    \ throw at the start of each of the boneless' turns or take 5 (dice: 1d4 + 3|avg\
+    \ (1d4 + 3)) bludgeoning damage. If something moves the target, the boneless\
     \ moves with it. The boneless can detach itself by spending 5 feet of its movement.\
     \ A creature, including the target, can use its action to try to detach the boneless\
     \ and force it to move into the nearest unoccupied space, doing so with a successful\
@@ -72,6 +66,6 @@ Whether through accident or depraved genius, some villains use one corpse to cre
   "name": "Crushing Embrace"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/boneless.png"
+"image": "compendium/bestiary/undead/token/boneless.png"
 ```
 ^statblock

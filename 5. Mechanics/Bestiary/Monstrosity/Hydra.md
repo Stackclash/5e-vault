@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/swamp
 - monster/size/huge
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Hydra"]
 ---
 # Hydra
-*Source: Monster Manual p. 190, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Light of Xaryxis*  
+*Source: Monster Manual p. 190. Available in the SRD and the Basic Rules.*  
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
 
@@ -20,8 +19,6 @@ A rapacious and gluttonous monster, a hydra snatches and tears apart its prey in
 ## Hardy Water Dwellers
 
 Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shallows, and in wetland bogs. A hydra rarely requires shelter from the elements, so it doesn't normally have a lair. Only in colder climes are hydras drawn to the protection of sheltered caverns and ruins. When a hydra sleeps, at least one of its heads remains awake and alert, making the creature difficult to catch by surprise.
-
-## Stat Block
 
 ```statblock
 "name": "Hydra"
@@ -38,42 +35,36 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 - !!int "2"
 - !!int "10"
 - !!int "7"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  "Perception": "+6"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hydra can hold its breath for 1 hour."
+- "desc": "The hydra can hold its breath for 1 hour."
   "name": "Hold Breath"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hydra has five heads. While it has more than one head, the hydra has\
-    \ advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ and knocked [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\n\nWhenever\
-    \ the hydra takes 25 or more damage in a single turn, one of its heads dies. If\
-    \ all its heads die, the hydra dies.\n\nAt the end of its turn, it grows two heads\
-    \ for each of its heads that died since its last turn, unless it has taken fire\
-    \ damage since its last turn. The hydra regains 10 hit points for each head regrown\
-    \ in this way."
+- "desc": "The hydra has five heads. While it has more than one head, the hydra has\
+    \ advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]],\
+    \ and knocked [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]].\n\n\
+    Whenever the hydra takes 25 or more damage in a single turn, one of its heads\
+    \ dies. If all its heads die, the hydra dies.\n\nAt the end of its turn, it grows\
+    \ two heads for each of its heads that died since its last turn, unless it has\
+    \ taken fire damage since its last turn. The hydra regains 10 hit points for each\
+    \ head regrown in this way."
   "name": "Multiple Heads"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For each head the hydra has beyond one, it gets an extra reaction that\
+- "desc": "For each head the hydra has beyond one, it gets an extra reaction that\
     \ can be used only for opportunity attacks."
   "name": "Reactive Heads"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the hydra sleeps, at least one of its heads is awake."
+- "desc": "While the hydra sleeps, at least one of its heads is awake."
   "name": "Wakeful"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hydra makes as many bite attacks as it has heads."
+- "desc": "The hydra makes as many bite attacks as it has heads."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -89,7 +80,8 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 - "IDRotF"
 - "JttRC"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hydra.png"
+- "PSZ"
+"image": "compendium/bestiary/monstrosity/token/hydra.png"
 ```
 ^statblock
 

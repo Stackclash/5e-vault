@@ -9,6 +9,7 @@ tags:
 aliases: ["Wall of Thorns"]
 ---
 # Wall of Thorns
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]]
 
-Source: Player's Handbook p. 287
+*Source: Player's Handbook p. 287. Available in the SRD.*

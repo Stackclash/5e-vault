@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/gargantuan
 - monster/type/construct
-statblock: inline
+aliases: ["Baba Lysaga's Creeping Hut"]
 ---
 # Baba Lysaga's Creeping Hut
 *Source: Curse of Strahd p. 226*  
@@ -20,9 +19,7 @@ The hut is a 15-foot-square, ramshackle wooden building with a gently sloping th
 
 The gemstone that has given life to Baba Lysaga's hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. Baba Lysaga stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
 
-Removing the gem from the hut renders the hut [[Conditions#incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 (`dice: 3d6` (`3d6`)) piercing damage and fails to obtain the gem.
-
-## Stat Block
+Removing the gem from the hut renders the hut [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 (`dice: 3d6` (`3d6`)) piercing damage and fails to obtain the gem.
 
 ```statblock
 "name": "Baba Lysaga's Creeping Hut"
@@ -39,11 +36,11 @@ Removing the gem from the hut renders the hut [[Conditions#incapacitated|incapac
 - !!int "1"
 - !!int "3"
 - !!int "3"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "0"
-  "Wisdom": !!int "0"
-  "Constitution": !!int "9"
+  "Charisma": "+0"
+  "Wisdom": "+0"
+  "Constitution": "+9"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
   \ petrified, prone"
@@ -51,37 +48,31 @@ Removing the gem from the hut renders the hut [[Conditions#incapacitated|incapac
 "languages": ""
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
+- "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
     \ that animates an object is dispelled when the construct drops to 0 hit points.\
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hut is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while the magic gem that animates it is in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the hut must\
+- "desc": "The hut is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
+    \ while the magic gem that animates it is in the area of an [[5. Mechanics\Spells\Antimagic Field.md|antimagic field]].\
+    \ If targeted by [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], the hut must\
     \ succeed on a Constitution saving throw against the caster's spell save DC or\
-    \ fall [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
+    \ fall [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for 1 minute."
   "name": "Antimagic Susceptibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hut deals double damage to objects and structures."
+- "desc": "The hut deals double damage to objects and structures."
   "name": "Siege Monster"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hut makes three attacks with its roots. It can replace one of these\
+- "desc": "The hut makes three attacks with its roots. It can replace one of these\
     \ attacks with a rock attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 60 ft., one target.\
-    \ Hit: dice: 4d10 + 8|avg (4d10 + 8) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 60 ft., one target.\
+    \ Hit: 30 (dice: 4d10 + 8|avg (4d10 + 8)) bludgeoning damage."
   "name": "Root"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
-    \ target. Hit: dice: 3d8 + 8|avg (3d8 + 8) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
+    \ target. Hit: 21 (dice: 3d8 + 8|avg (3d8 + 8)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/baba-lysagas-creeping-hut.png"
+"image": "compendium/bestiary/npc/token/baba-lysagas-creeping-hut.png"
 ```
 ^statblock

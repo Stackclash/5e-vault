@@ -10,7 +10,7 @@ aliases: ["Changeling"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 10*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 
@@ -26,7 +26,7 @@ You are Medium or Small. You choose the size when you select this race.
 
 ### Changeling Instincts
 
-Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: [[5. Mechanics/Rules/Skills.md#Deception|Deception]], [[5. Mechanics/Rules/Skills.md#Insight|Insight]], [[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], [[5. Mechanics/Rules/Skills.md#Performance|Performance]], or [[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]].
+Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: [[\5. Mechanics\Rules\Skills.md#Deception|Deception]], [[\5. Mechanics\Rules\Skills.md#Insight|Insight]], [[\5. Mechanics\Rules\Skills.md#Intimidation|Intimidation]], [[\5. Mechanics\Rules\Skills.md#Performance|Performance]], or [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]].
 
 ### Shapechanger
 

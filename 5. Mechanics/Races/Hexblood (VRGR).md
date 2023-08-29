@@ -10,7 +10,7 @@ aliases: ["Hexblood"]
 *Source: Van Richten's Guide to Ravenloft p. 18*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma
@@ -40,13 +40,13 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 As a bonus action, you can harmlessly remove a lock of your hair, one of your nails, or one of your teeth. This token is imbued with magic until you finish a long rest. While the token is imbued in this way, you can take these actions:
 
 - **Telepathic Message.** As an action, you can send a telepathic message to the creature holding or carrying the token, as long as you are within 10 miles of it. The message can contain up to twenty-five words.  
-- **Remote Viewing.** If you are within 10 miles of the token, you can enter a trance as an action. The trance lasts for 1 minute, but it ends early if you dismiss it (no action required) or are [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. During this trance, you can see and hear from the token as if you were located where it is. While you are using your senses at the token's location, you are [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[5. Mechanics/Rules/Conditions.md#deafened|deafened]] in regard to your own surroundings. When the trance ends, the token is harmlessly destroyed.  
+- **Remote Viewing.** If you are within 10 miles of the token, you can enter a trance as an action. The trance lasts for 1 minute, but it ends early if you dismiss it (no action required) or are [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. During this trance, you can see and hear from the token as if you were located where it is. While you are using your senses at the token's location, you are [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] and [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]] in regard to your own surroundings. When the trance ends, the token is harmlessly destroyed.  
 
 Once you create a token using this feature, you can't do so again until you finish a long rest, at which point your missing part regrows.
 
 ### Hex Magic
 
-You can cast the [[/5. Mechanics/Spells/Disguise Self.md|disguise self]] and [[/5. Mechanics/Spells/Hex.md|hex]] spells with this trait. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+You can cast the [[5. Mechanics\Spells\Disguise Self.md|disguise self]] and [[5. Mechanics\Spells\Hex.md|hex]] spells with this trait. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose the ability when you gain this lineage).
 
@@ -57,7 +57,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ## Description
 
-Where wishing fails, ancient magic can offer a heart's desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag's influence: ears that split in forked points, skin in lurid shades, long hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]] and a variety of magical methods to beguile the senses and avoid the same.
+Where wishing fails, ancient magic can offer a heart's desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag's influence: ears that split in forked points, skin in lurid shades, long hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] and a variety of magical methods to beguile the senses and avoid the same.
 
 While many hexbloods gain their lineage after making a deal with a hag, others reveal their nature as they age—particularly if a hag influenced them early in life or even before their birth. Many hexbloods turn to lives of adventure, seeking to discover the mysteries of their magic, to forge a connection with their fey natures, or to avoid a hag that obsesses over them.
 

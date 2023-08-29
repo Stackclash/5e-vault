@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/grassland
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Cadaver Collector"]
 ---
 # Cadaver Collector
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  
@@ -21,7 +20,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "name": "Cadaver Collector"
 "size": "Large"
 "type": "construct"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
@@ -32,7 +31,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 - !!int "5"
 - !!int "11"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -40,33 +39,27 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "languages": "understands all languages but can't speak"
 "cr": "14"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The collector has advantage on saving throws against spells and other magical\
+- "desc": "The collector has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The collector doesn't require air, food, drink, or sleep."
+- "desc": "The collector doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The collector makes two Slam attacks."
+- "desc": "The collector makes two Slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage plus dice: 3d10|avg\
-    \ (3d10) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage plus 16 (dice:\
+    \ 3d10|avg (3d10)) necrotic damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
-    \ in that area must make a successful DC 18 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ for 1 minute. A [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] creature\
+- "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
+    \ in that area must make a successful DC 18 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. A [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] creature\
     \ repeats the saving throw at the end of each of its turns, ending the effect\
     \ on itself with a success."
   "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The collector calls up the enslaved spirits of those it has slain; dice:\
-    \ 1d4|avg (1d4) [[/5. Mechanics/Bestiary/Undead/Specter.md|specters]] (without\
+- "desc": "The collector calls up the enslaved spirits of those it has slain; dice:\
+    \ 1d4|avg (1d4) [[5. Mechanics\Bestiary\Undead\Specter.md|specters]] (without\
     \ Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
     \ act right after the collector on the same initiative count and fight until they're\
     \ destroyed. They disappear when the collector is destroyed."
@@ -74,7 +67,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/cadaver-collector.png"
+"image": "compendium/bestiary/construct/token/cadaver-collector.png"
 ```
 ^statblock
 

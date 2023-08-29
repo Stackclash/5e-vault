@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead/warlock
-statblock: inline
+aliases: ["Deathlock Mastermind"]
 ---
 # Deathlock Mastermind
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
@@ -19,14 +18,12 @@ The forging of a pact between a warlock and a patron is no minor occasion—at l
 
 An powerful necromancer might also discover the wicked methods of creating a deathlock and then subjugate it, acting as the deathlock's patron.
 
-## Stat Block
-
 ```statblock
 "name": "Deathlock Mastermind"
 "size": "Medium"
 "type": "undead"
 "subtype": "warlock"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "13"
 "hp": !!int "110"
 "hit_dice": "20d8 + 20"
@@ -37,14 +34,14 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - !!int "15"
 - !!int "12"
 - !!int "17"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Intelligence": !!int "5"
+  "Charisma": "+6"
+  "Intelligence": "+5"
 "skillsaves":
-  "Perception": !!int "4"
-  "History": !!int "5"
-  "Arcana": !!int "5"
+  "Perception": "+4"
+  "History": "+5"
+  "Arcana": "+5"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
@@ -53,44 +50,37 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 14):\n\nAt will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [[/5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Fly.md|fly]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]"
+- "desc": "The deathlock casts one of the following spells, using Charisma as the\
+    \ spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Disguise Self.md|disguise self]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]]\n\n1/day each: [[5. Mechanics\Spells\Darkness.md|darkness]],\
+    \ [[5. Mechanics\Spells\Dimension Door.md|dimension door]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Fly.md|fly]], [[5. Mechanics\Spells\Invisibility.md|invisibility]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the deathlock's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the deathlock's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock has advantage on saving throws against any effect that turns\
+- "desc": "The deathlock has advantage on saving throws against any effect that turns\
     \ Undead."
   "name": "Turn Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock doesn't require air, food, drink, or sleep."
+- "desc": "The deathlock doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
+- "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
     \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3) necrotic damage)."
   "name": "Deathly Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8|avg (3d8) necrotic damage. If the target is Large or smaller,\
-    \ it must succeed on a DC 16 Strength saving throw or become [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ as shadowy tendrils wrap around it for 1 minute. A [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
+    \ Hit: 13 (dice: 3d8|avg (3d8)) necrotic damage. If the target is Large\
+    \ or smaller, it must succeed on a DC 16 Strength saving throw or become [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ as shadowy tendrils wrap around it for 1 minute. A [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ target can use its action to repeat the saving throw, ending the effect on itself\
     \ on a success."
   "name": "Grave Bolt"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/deathlock-mastermind.png"
+"image": "compendium/bestiary/undead/token/deathlock-mastermind.png"
 ```
 ^statblock
 

@@ -5,79 +5,76 @@ aliases: ["Ideals"]
 ---
 # Ideals
 
-
-## Ideals
-
 | All Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^good-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^evil-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^lawful-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^chaotic-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^good-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^evil-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^lawful-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^chaotic-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^neutral-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^all-ideals
 
 | Chaotic Good Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^good-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^chaotic-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^good-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^chaotic-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^cg-ideals
 
 | Chaotic Evil Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^evil-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^chaotic-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^evil-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^chaotic-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^ce-ideals
 
 | Chaotic Neutral Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^chaotic-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^neutral-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^chaotic-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^cn-ideals
 
 | Lawful Good Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^good-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^lawful-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^good-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^lawful-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^lg-ideals
 
 | Lawful Evil Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^evil-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^lawful-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^evil-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^lawful-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^le-ideals
 
 | Lawful Neutral Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^lawful-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^neutral-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^lawful-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^ln-ideals
 
 | Neutral Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^neutral-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^n-ideals
 
 | Neutral Good Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^good-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^neutral-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^good-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^ng-ideals
 
 | Neutral Evil Ideals |
 |------------|
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^evil-ideals]]`  |
-| `dice: [[/5. Mechanics/Tables/Ideals.md#^universal-ideals-any]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^neutral-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^evil-ideals]]`  |
+| `dice: [[5. Mechanics\Tables\Ideals.md#^universal-ideals-any]]`  |
 ^ne-ideals
 
 ## Good Ideals
@@ -190,6 +187,6 @@ aliases: ["Ideals"]
 | Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any) |
 | Destiny. Nothing and no one can steer me away from my higher calling. (Any) |
 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
-| Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any) |
 | Self-Knowledge. If you know yourself, there's nothing left to know. (Any) |
+| Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any) |
 ^universal-ideals-any

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Master Thief"]
 ---
 # Master Thief
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
@@ -46,53 +45,48 @@ When a master thief completes a challenging heist, they often leave behind a cal
 - !!int "11"
 - !!int "11"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Intelligence": !!int "3"
+  "Dexterity": "+7"
+  "Intelligence": "+3"
 "skillsaves":
-  "Athletics": !!int "3"
-  "Sleight of Hand": !!int "7"
-  "Stealth": !!int "7"
-  "Perception": !!int "3"
-  "Acrobatics": !!int "7"
+  "Athletics": "+3"
+  "Sleight of Hand": "+7"
+  "Stealth": "+7"
+  "Perception": "+3"
+  "Acrobatics": "+7"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus thieves' cant"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the thief is subjected to an effect that allows it to make a Dexterity\
+- "desc": "If the thief is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the thief instead takes no damage if\
     \ it succeeds on the saving throw and only half damage if it fails, provided the\
-    \ thief isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ thief isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Evasion"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The thief makes three Shortsword or Shortbow attacks."
+- "desc": "The thief makes three Shortsword or Shortbow attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 1d6|avg (1d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 3 (dice: 1d6|avg\
+    \ (1d6)) poison damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 1d6|avg\
-    \ (1d6) poison damage."
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 80/320 ft., one\
+    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) poison damage."
   "name": "Shortbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The thief takes the Dash, Disengage, or Hide action."
+- "desc": "The thief takes the [[\5. Mechanics\Rules\Actions.md#Dash|Dash]], [[\5. Mechanics\Rules\Actions.md#Disengage|Disengage]],\
+    \ or [[\5. Mechanics\Rules\Actions.md#Hide|Hide]] action."
   "name": "Cunning Action"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The thief halves the damage that it takes from an attack that hits it.\
+- "desc": "The thief halves the damage that it takes from an attack that hits it.\
     \ The thief must be able to see the attacker."
   "name": "Uncanny Dodge"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/master-thief.png"
+"image": "compendium/bestiary/humanoid/token/master-thief.png"
 ```
 ^statblock
 

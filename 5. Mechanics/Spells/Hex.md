@@ -9,6 +9,7 @@ tags:
 aliases: ["Hex"]
 ---
 # Hex
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 bonus
@@ -20,10 +21,10 @@ You place a curse on a creature that you can see within range. Until the spell e
 
 If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
 
-A [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] cast on the target ends this spell early.
+A [[5. Mechanics\Spells\Remove Curse.md|remove curse]] cast on the target ends this spell early.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [[5. Mechanics/Rules/Status.md#concentration|concentration]] on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [[5. Mechanics/Rules/Status.md#concentration|concentration]] on the spell for up to 24 hours.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]] on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]] on the spell for up to 24 hours.
 
-**Classes**: [[/5. Mechanics/Classes/Warlock.md|Warlock]]
+**Classes**: [[5. Mechanics\Classes\Warlock.md|Warlock]]
 
-Source: Player's Handbook p. 251
+*Source: Player's Handbook p. 251*

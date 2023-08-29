@@ -22,6 +22,6 @@ You can use an action to close a portable hole by taking hold of the edges of th
 
 If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.
 
-Placing a portable hole inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md|bag of holding]], [[/5. Mechanics/Items/Hewards Handy Haversack.md|Heward's handy haversack]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing a portable hole inside an extradimensional space created by a [[5. Mechanics\Items\Bag Of Holding.md|bag of holding]], [[5. Mechanics\Items\Hewards Handy Haversack.md|Heward's handy haversack]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide p. 185*
+*Source: Dungeon Master's Guide p. 185. Available in the SRD.*

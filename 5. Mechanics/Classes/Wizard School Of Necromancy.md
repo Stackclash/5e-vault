@@ -7,7 +7,7 @@ tags:
 aliases: ["School of Necromancy"]
 ---
 # School of Necromancy
-*Wizard: Arcane Tradition*  
+*[[Wizard.md|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 118*  
 
 
@@ -29,7 +29,7 @@ At 2nd level, you gain the ability to reap life energy from creatures you kill w
 
 ### Undead Thralls (Level 6)
 
-At 6th level, you add the [[/5. Mechanics/Spells/Animate Dead.md|animate dead]] spell to your spellbook if it is not there already. When you cast [[/5. Mechanics/Spells/Animate Dead.md|animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [[5. Mechanics\Spells\Animate Dead.md|animate dead]] spell to your spellbook if it is not there already. When you cast [[5. Mechanics\Spells\Animate Dead.md|animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 

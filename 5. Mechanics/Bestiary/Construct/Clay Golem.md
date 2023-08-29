@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Clay Golem"]
 ---
 # Clay Golem
-*Source: Monster Manual p. 168, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 168, Curse of Strahd. Available in the SRD.*  
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
 
@@ -40,13 +39,11 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[Conditions#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
 A golem doesn't require air, food, drink, or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Clay Golem"
@@ -63,7 +60,7 @@ A golem doesn't require air, food, drink, or sleep.
 - !!int "3"
 - !!int "8"
 - !!int "1"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "damage_immunities": "acid; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -71,43 +68,35 @@ A golem doesn't require air, food, drink, or sleep.
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the golem is subjected to acid damage, it takes no damage and\
+- "desc": "Whenever the golem is subjected to acid damage, it takes no damage and\
     \ instead regains a number of hit points equal to the acid damage dealt."
   "name": "Acid Absorption"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the golem starts its turn with 60 hit points or fewer, roll a\
+- "desc": "Whenever the golem starts its turn with 60 hit points or fewer, roll a\
     \ dice: d6|avg (d6). On a 6, the golem goes berserk. On each of its turns\
     \ while berserk, the golem attacks the nearest creature it can see. If no creature\
     \ is near enough to move to and attack, the golem attacks an object, with preference\
     \ for an object smaller than itself. Once the golem goes berserk, it continues\
     \ to do so until it is destroyed or regains all its hit points."
   "name": "Berserk"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem is immune to any spell or effect that would alter its form."
+- "desc": "The golem is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem has advantage on saving throws against spells and other magical\
+- "desc": "The golem has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem's weapon attacks are magical."
+- "desc": "The golem's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem makes two slam attacks."
+- "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 15 Constitution saving throw or have its\
-    \ hit point maximum reduced by an amount equal to the damage taken. The target\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 15 Constitution saving throw or have\
+    \ its hit point maximum reduced by an amount equal to the damage taken. The target\
     \ dies if this attack reduces its hit point maximum to 0. The reduction lasts\
-    \ until removed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ until removed by the  [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
     \ spell or other magic."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Until the end of its next turn, the golem magically gains a +2 bonus to\
+- "desc": "Until the end of its next turn, the golem magically gains a +2 bonus to\
     \ its AC, has advantage on Dexterity saving throws, and can use its slam attack\
     \ as a bonus action."
   "name": "Haste (Recharge 5-6)"
@@ -120,6 +109,6 @@ A golem doesn't require air, food, drink, or sleep.
 - "WDMM"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/clay-golem.png"
+"image": "compendium/bestiary/construct/token/clay-golem.png"
 ```
 ^statblock

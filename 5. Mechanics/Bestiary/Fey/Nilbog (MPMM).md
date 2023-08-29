@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/fey/goblinoid
-statblock: inline
+aliases: ["Nilbog"]
 ---
 # Nilbog
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
@@ -27,14 +26,12 @@ A goblin targeted by the spirit must succeed on a DC 15 Charisma saving throw or
 
 If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protection from evil and good, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of their nilbog spirit reverts to their normal statistics and loses the traits they gained while possessed.
 
-## Stat Block
-
 ```statblock
 "name": "Nilbog"
 "size": "Small"
 "type": "fey"
 "subtype": "goblinoid"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
 "hp": !!int "7"
 "hit_dice": "2d6"
@@ -45,50 +42,45 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 - !!int "10"
 - !!int "8"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  "Stealth": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]"
+- "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Tashas Hideous Laughter.md|Tasha's hideous laughter]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature that attempts to damage the nilbog must first succeed on a\
-    \ DC 12 Charisma saving throw or be [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ until the end of the creature's next turn. A creature [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+- "desc": "Any creature that attempts to damage the nilbog must first succeed on a\
+    \ DC 12 Charisma saving throw or be [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ until the end of the creature's next turn. A creature [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ in this way must use its action praising the nilbog.\n\nThe nilbog can't regain\
     \ hit points, including through magical healing, except through its Reversal of\
     \ Fortune reaction."
   "name": "Nilbogism"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
   "name": "Fool's Scepter"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nilbog targets one creature it can see within 60 feet of it. The target\
-    \ must succeed on a DC 12 Wisdom saving throw or take dice: 2d4|avg (2d4)\
+- "desc": "The nilbog targets one creature it can see within 60 feet of it. The target\
+    \ must succeed on a DC 12 Wisdom saving throw or take 5 (dice: 2d4|avg (2d4))\
     \ psychic damage and have disadvantage on its next attack roll before the end\
     \ of its next turn."
   "name": "Mocking Word"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nilbog takes the Disengage or Hide action."
+- "desc": "The nilbog takes the [[\5. Mechanics\Rules\Actions.md#Disengage|Disengage]]\
+    \ or [[\5. Mechanics\Rules\Actions.md#Hide|Hide]] action."
   "name": "Nimble Escape"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to another creature dealing damage to the nilbog, the nilbog\
+- "desc": "In response to another creature dealing damage to the nilbog, the nilbog\
     \ reduces the damage to 0 and regains 3 (dice: 1d6|avg (1d6)) hit points."
   "name": "Reversal of Fortune"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/nilbog.png"
+"image": "compendium/bestiary/fey/token/nilbog.png"
 ```
 ^statblock
 

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Shadow Demon"]
 ---
 # Shadow Demon
-*Source: Monster Manual p. 64, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 64, Curse of Strahd*  
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
 
@@ -158,7 +157,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -167,15 +166,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -184,8 +183,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Shadow Demon"
@@ -203,12 +200,12 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "14"
 - !!int "13"
 - !!int "14"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "5"
+  "Charisma": "+4"
+  "Dexterity": "+5"
 "skillsaves":
-  "Stealth": !!int "7"
+  "Stealth": "+7"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; fire; necrotic; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
@@ -219,25 +216,22 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+- "desc": "The demon can move through other creatures and objects as if they were\
+    \ difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in bright light, the demon has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Light Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the demon can take the Hide action as a\
+- "desc": "While in dim light or darkness, the demon can take the Hide action as a\
     \ bonus action."
   "name": "Shadow Stealth"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) psychic damage or, if the demon had advantage\
-    \ on the attack roll, 17 (dice: 4d6 + 3|avg (4d6 + 3)) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) psychic damage or, if the demon\
+    \ had advantage on the attack roll, 17 (dice: 4d6 + 3|avg (4d6 + 3)) psychic\
+    \ damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -254,6 +248,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "CRCotN"
 - "JttRC"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/shadow-demon.png"
+"image": "compendium/bestiary/fiend/token/shadow-demon.png"
 ```
 ^statblock

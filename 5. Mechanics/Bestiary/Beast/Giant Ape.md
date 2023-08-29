@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/huge
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Ape"]
 ---
 # Giant Ape
-*Source: Monster Manual p. 323, Ghosts of Saltmarsh*  
+*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Ape"
@@ -26,29 +25,26 @@ statblock: inline
 - !!int "7"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft., climb 40 ft."
+"speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Athletics": !!int "9"
-  "Perception": !!int "4"
+  "Athletics": "+9"
+  "Perception": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "7"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ape makes two fist attacks."
+- "desc": "The ape makes two fist attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: 22 (dice: 3d10 + 6|avg (3d10 + 6)) bludgeoning damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 50/100 ft., one\
-    \ target. Hit: dice: 7d6 + 6|avg (7d6 + 6) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 50/100 ft., one\
+    \ target. Hit: 30 (dice: 7d6 + 6|avg (7d6 + 6)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"
 - "GoS"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-ape.png"
+"image": "compendium/bestiary/beast/token/giant-ape.png"
 ```
 ^statblock
 

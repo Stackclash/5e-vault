@@ -9,7 +9,7 @@ tags:
 aliases: ["Hephaestus"]
 ---
 # Hephaestus
-*Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18* 
+*Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18. Available in the SRD.* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Forge, Knowledge

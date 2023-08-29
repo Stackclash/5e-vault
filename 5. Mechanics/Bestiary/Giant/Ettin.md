@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
-statblock: inline
+aliases: ["Ettin"]
 ---
 # Ettin
-*Source: Monster Manual p. 132, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 132. Available in the SRD.*  
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
 
@@ -39,8 +38,6 @@ In ancient dialects of Common, the word "ettin" translates as "ugly giant." Lege
 
 Whatever the truth of the ettins' origin, orcs treat them as distant cousins, and orc tribes often entice ettins to serve as guards, scouts, and marauders. An ettin isn't particularly loyal to its orc handlers, but the orcs can win it over with the promise of food and loot.
 
-## Stat Block
-
 ```statblock
 "name": "Ettin"
 "size": "Large"
@@ -56,34 +53,29 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 - !!int "6"
 - !!int "10"
 - !!int "8"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant, Orc"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettin has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks and on saving throws against being [[5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ and knocked [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The ettin has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
+    \ checks and on saving throws against being [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]],\
+    \ and knocked [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]."
   "name": "Two Heads"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When one of the ettin's heads is asleep, its other head is awake."
+- "desc": "When one of the ettin's heads is asleep, its other head is awake."
   "name": "Wakeful"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettin makes two attacks: one with its battleaxe and one with its morningstar."
+- "desc": "The ettin makes two attacks: one with its battleaxe and one with its morningstar."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) slashing damage."
   "name": "Battleaxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) piercing damage."
   "name": "Morningstar"
 "source":
 - "MM"
@@ -93,7 +85,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 - "TftYP"
 - "WDMM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Giant/token/ettin.png"
+"image": "compendium/bestiary/giant/token/ettin.png"
 ```
 ^statblock
 

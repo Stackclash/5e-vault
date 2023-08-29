@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/large
 - monster/type/fiend
-statblock: inline
+aliases: ["Relentless Juggernaut"]
 ---
 # Relentless Juggernaut
 *Source: Van Richten's Guide to Ravenloft p. 243*  
@@ -44,8 +43,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 | 8 | Trophy Taker. The killer reliably collects something from its victims, hoarding them as trophies. |
 ^relentless-methods
 
-## Stat Block
-
 ```statblock
 "name": "Relentless Juggernaut"
 "size": "Large"
@@ -61,76 +58,66 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 - !!int "8"
 - !!int "15"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "6"
+  "Charisma": "+7"
+  "Dexterity": "+5"
+  "Wisdom": "+6"
 "skillsaves":
-  "Perception": !!int "6"
-  "Survival": !!int "6"
+  "Perception": "+6"
+  "Survival": "+6"
 "condition_immunities": "charmed, exhaustion, frightened"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "understands all languages but can't speak"
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the juggernaut fails a saving throw, it can choose to succeed instead."
+- "desc": "If the juggernaut fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The juggernaut regains 20 hit points at the start of its turn. If the juggernaut\
+- "desc": "The juggernaut regains 20 hit points at the start of its turn. If the juggernaut\
     \ takes radiant damage, this trait doesn't function at the start of its next turn.\
     \ The juggernaut dies only if it starts its turn with 0 hit points and doesn't\
     \ regenerate."
   "name": "Regeneration"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The juggernaut doesn't require air, food, drink, or sleep."
+- "desc": "The juggernaut doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The juggernaut makes two attacks. It can replace one attack with Deadly\
+- "desc": "The juggernaut makes two attacks. It can replace one attack with Deadly\
     \ Shaping if it is ready."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage, and if the target is\
-    \ a creature, its speed is reduced by 10 feet until the start of the juggernaut's\
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage, and if the target\
+    \ is a creature, its speed is reduced by 10 feet until the start of the juggernaut's\
     \ next turn."
   "name": "Executioner's Pick"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 6|avg (1d10 + 6) bludgeoning damage, and if the target\
-    \ is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw\
-    \ or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 1d10 + 6|avg (1d10 + 6)) bludgeoning damage, and if the\
+    \ target is a Large or smaller creature, it must succeed on a DC 18 Strength saving\
+    \ throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The juggernaut magically shapes a feature of its surroundings into a deadly\
+- "desc": "The juggernaut magically shapes a feature of its surroundings into a deadly\
     \ implement. A creature the juggernaut can see within 60 feet of it must make\
     \ a DC 18 Dexterity saving throw. If the saving throw fails, the targeted creature\
     \ is struck by one of the following (juggernaut's choice):"
   "name": "Deadly Shaping (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The target takes dice: 5d8|avg (5d8) bludgeoning damage and is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ until the start of the juggernaut's next turn, and the implement vanishes."
+- "desc": "The target takes 22 (dice: 5d8|avg (5d8)) bludgeoning damage and is\
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] until the start\
+    \ of the juggernaut's next turn, and the implement vanishes."
   "name": "Flying Stone"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The target takes dice: 4d6|avg (4d6) slashing damage, and the implement\
-    \ vanishes. At the start of each of its turns, the target takes dice: 3d6|avg\
-    \ (3d6) necrotic damage from the wound left by the shrapnel. The wound ends\
-    \ if the target regains any hit points or if a creature uses an action to stanch\
-    \ the wound, which requires a successful DC 15 Wisdom (Medicine) check."
+- "desc": "The target takes 14 (dice: 4d6|avg (4d6)) slashing damage, and the\
+    \ implement vanishes. At the start of each of its turns, the target takes 10 (dice:\
+    \ 3d6|avg (3d6)) necrotic damage from the wound left by the shrapnel. The wound\
+    \ ends if the target regains any hit points or if a creature uses an action to\
+    \ stanch the wound, which requires a successful DC 15 Wisdom (Medicine) check."
   "name": "Scything Shrapnel"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The juggernaut moves up to its speed, ignoring difficult terrain. Any object\
-    \ in its path takes dice: 10d10|avg (10d10) bludgeoning damage if it isn't\
-    \ being worn or carried."
+- "desc": "The juggernaut moves up to its speed, ignoring difficult terrain. Any object\
+    \ in its path takes 55 (dice: 10d10|avg (10d10)) bludgeoning damage if it\
+    \ isn't being worn or carried."
   "name": "Implacable Advance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The juggernaut recharges Deadly Shaping and uses it."
+- "desc": "The juggernaut recharges Deadly Shaping and uses it."
   "name": "Rapid Shaping (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "/compendium/bestiary/fiend/token/relentless-juggernaut.png"
+"image": "compendium/bestiary/fiend/token/relentless-juggernaut.png"
 ```
 ^statblock

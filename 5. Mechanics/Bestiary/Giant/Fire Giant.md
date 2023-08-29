@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Fire Giant"]
 ---
 # Fire Giant
-*Source: Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 154. Available in the SRD and the Basic Rules.*  
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 
@@ -80,8 +79,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
 
-## Stat Block
-
 ```statblock
 "name": "Fire Giant"
 "size": "Huge"
@@ -97,29 +94,26 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "10"
 - !!int "14"
 - !!int "13"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "3"
-  "Constitution": !!int "10"
+  "Charisma": "+5"
+  "Dexterity": "+3"
+  "Constitution": "+10"
 "skillsaves":
-  "Athletics": !!int "11"
-  "Perception": !!int "6"
+  "Athletics": "+11"
+  "Perception": "+6"
 "damage_immunities": "fire"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatsword attacks."
+- "desc": "The giant makes two greatsword attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 6d6 + 7|avg (6d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
+    \ Hit: 28 (dice: 6d6 + 7|avg (6d6 + 7)) slashing damage."
   "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
+    \ one target. Hit: 29 (dice: 4d10 + 7|avg (4d10 + 7)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"
@@ -131,7 +125,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "EGW"
 - "MOT"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Giant/token/fire-giant.png"
+- "GotSF"
+"image": "compendium/bestiary/giant/token/fire-giant.png"
 ```
 ^statblock
 

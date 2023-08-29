@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Monodrone"]
 ---
 # Monodrone
-*Source: Monster Manual p. 224, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault*  
+*Source: Monster Manual p. 224*  
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
 
@@ -44,8 +43,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
 
-## Stat Block
-
 ```statblock
 "name": "Monodrone"
 "size": "Medium"
@@ -61,27 +58,24 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "4"
 - !!int "10"
 - !!int "5"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The monodrone can't be compelled to act in a manner contrary to its nature\
+- "desc": "The monodrone can't be compelled to act in a manner contrary to its nature\
     \ or its instructions."
   "name": "Axiomatic Mind"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the monodrone dies, its body disintegrates into dust, leaving behind\
+- "desc": "If the monodrone dies, its body disintegrates into dust, leaving behind\
     \ its weapons and anything else it was carrying."
   "name": "Disintegration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 3 (dice: 1d6|avg (1d6)) piercing\
+    \ damage."
   "name": "Javelin"
 "source":
 - "MM"
@@ -89,6 +83,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "BGDIA"
 - "CM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/monodrone.png"
+"image": "compendium/bestiary/construct/token/monodrone.png"
 ```
 ^statblock

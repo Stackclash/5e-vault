@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/swamp
 - monster/size/large
 - monster/type/beast/dinosaur
-statblock: inline
+aliases: ["Hadrosaurus"]
 ---
 # Hadrosaurus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
@@ -30,21 +29,20 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) bludgeoning damage."
   "name": "Tail"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/hadrosaurus.png"
+"image": "compendium/bestiary/beast/token/hadrosaurus.png"
 ```
 ^statblock
 

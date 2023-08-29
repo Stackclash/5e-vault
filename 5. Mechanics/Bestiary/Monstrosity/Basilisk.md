@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Basilisk"]
 ---
 # Basilisk
-*Source: Monster Manual p. 24, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*  
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
 
@@ -23,14 +22,12 @@ A basilisk born and raised in captivity can be domesticated and trained. Such a 
 
 Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meeting a basilisk's supernatural gaze can be enough to affect a rapid transformation, transforming a victim into porous stone. Basilisks, with their strong jaws, are able to consume the stone. The stone returns to organic form in the basilisk's gullet.
 
-Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [[Conditions#petrified|petrified]] creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [[Conditions#petrified|petrified]] creature, such as its head, is detached.
+Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]] creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]] creature, such as its head, is detached.
 
 > [!quote]- A quote from X the Mystic's 4th rule of dungeon survival  
 > 
 > No one carves statues of frightened warriors. If you see one, keep your eyes closed and your ears open.
 
-
-## Stat Block
 
 ```statblock
 "name": "Basilisk"
@@ -47,19 +44,18 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 - !!int "2"
 - !!int "8"
 - !!int "7"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If a creature starts its turn within 30 feet of the basilisk and the two\
+- "desc": "If a creature starts its turn within 30 feet of the basilisk and the two\
     \ of them can see each other, the basilisk can force the creature to make a DC\
-    \ 12 Constitution saving throw if the basilisk isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
-    \ On a failed save, the creature magically begins to turn to stone and is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ 12 Constitution saving throw if the basilisk isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].\
+    \ On a failed save, the creature magically begins to turn to stone and is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
     \ It must repeat the saving throw at the end of its next turn. On a success, the\
-    \ effect ends. On a failure, the creature is [[5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
-    \ until freed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ effect ends. On a failure, the creature is [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]]\
+    \ until freed by the  [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
     \ spell or other magic.\n\nA creature that isn't surprised can avert its eyes\
     \ to avoid the saving throw at the start of its turn. If it does so, it can't\
     \ see the basilisk until the start of its next turn, when it can avert its eyes\
@@ -68,10 +64,9 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
     \ light, it mistakes itself for a rival and targets itself with its gaze."
   "name": "Petrifying Gaze"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 2d6|avg (2d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) poison damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -80,7 +75,8 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 - "BGDIA"
 - "MOT"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/basilisk.png"
+- "PSZ"
+"image": "compendium/bestiary/monstrosity/token/basilisk.png"
 ```
 ^statblock
 

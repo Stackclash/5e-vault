@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
-statblock: inline
+aliases: ["Shrieker"]
 ---
 # Shrieker
-*Source: Monster Manual p. 138, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  
+*Source: Monster Manual p. 138. Available in the SRD.*  
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
 
@@ -20,8 +19,6 @@ With its sky of jagged stone and perpetual night, the Underdark is home to all m
 Fungi spawn in organic matter, then break that matter down to consume it, feeding on filth and corpses. As they mature, fungi eject spores that drift on the lightest breeze to spawn new fungi.
 
 Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice of the Underdark. Transformed by the magic that permeates that underground realm, Underdark fungi often develop potent defensive mechanisms or abilities of mimicry and attack. The largest specimens can spread to create vast subterranean forests in which countless creatures live and feed.
-
-## Stat Block
 
 ```statblock
 "name": "Shrieker"
@@ -38,19 +35,17 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - !!int "1"
 - !!int "3"
 - !!int "1"
-"speed": "walk 0 ft."
+"speed": "0 ft."
 "condition_immunities": "blinded, deafened, frightened"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the shrieker remains motionless, it is indistinguishable from an\
+- "desc": "While the shrieker remains motionless, it is indistinguishable from an\
     \ ordinary fungus."
   "name": "False Appearance"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When bright light or a creature is within 30 feet of the shrieker, it emits\
+- "desc": "When bright light or a creature is within 30 feet of the shrieker, it emits\
     \ a shriek audible within 300 feet of it. The shrieker continues to shriek until\
     \ the disturbance moves out of range and for dice: 1d4|avg (1d4) of the shrieker's\
     \ turns afterward."
@@ -59,7 +54,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "MM"
 - "WDMM"
 - "GoS"
-"image": "5. Mechanics/Bestiary/Plant/token/shrieker.png"
+"image": "compendium/bestiary/plant/token/shrieker.png"
 ```
 ^statblock
 

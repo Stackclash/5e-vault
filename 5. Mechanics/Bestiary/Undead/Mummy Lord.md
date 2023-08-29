@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Mummy Lord"]
 ---
 # Mummy Lord
-*Source: Monster Manual p. 229, The Rise of Tiamat, Storm King's Thunder, Tasha's Cauldron of Everything, Candlekeep Mysteries*  
+*Source: Monster Manual p. 229. Available in the SRD.*  
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -65,8 +64,6 @@ The mummy lord's heart has AC 5, 25 hit points, and immunity to all damage excep
 
 A mummy lord watches over an ancient temple or tomb that is protected by lesser undead and rigged with traps. Hidden in this temple is the sarcophagus where a mummy lord keeps its greatest treasures. A mummy lord encountered in its lair has a challenge rating of 16 (15,000 XP).
 
-## Stat Block
-
 ```statblock
 "name": "Mummy Lord"
 "size": "Medium"
@@ -82,15 +79,15 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - !!int "11"
 - !!int "18"
 - !!int "16"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "5"
-  "Constitution": !!int "8"
+  "Charisma": "+8"
+  "Wisdom": "+9"
+  "Intelligence": "+5"
+  "Constitution": "+8"
 "skillsaves":
-  "Religion": !!int "5"
-  "History": !!int "5"
+  "Religion": "+5"
+  "History": "+5"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
@@ -99,84 +96,73 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 "languages": "the languages it knew in life"
 "cr": "15"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord is a 10th-level spellcaster. Its spellcasting ability is\
+- "desc": "The mummy lord is a 10th-level spellcaster. Its spellcasting ability is\
     \ Wisdom (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). The\
     \ mummy lord has the following cleric spells prepared:\n\nCantrips (at will):\
-    \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[/5. Mechanics/Spells/Silence.md|silence]], [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
-    \n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-    \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n4th level (3 4th-level\
-    \ slots): [[/5. Mechanics/Spells/Divination.md|divination]], [[/5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\
-    \n5th level (2 5th-level slots): [[/5. Mechanics/Spells/Contagion.md|contagion]],\
-    \ [[/5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\n6th level (1 6th-level\
-    \ slots): [[/5. Mechanics/Spells/Harm.md|harm]]"
+    \ [[5. Mechanics\Spells\Sacred Flame.md|sacred flame]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Guiding Bolt.md|guiding bolt]], [[5. Mechanics\Spells\Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Hold Person.md|hold person]],\
+    \ [[5. Mechanics\Spells\Silence.md|silence]], [[5. Mechanics\Spells\Spiritual Weapon.md|spiritual weapon]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics\Spells\Animate Dead.md|animate dead]],\
+    \ [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]]\n\n4th level (3 4th-level\
+    \ slots): [[5. Mechanics\Spells\Divination.md|divination]], [[5. Mechanics\Spells\Guardian Of Faith.md|guardian of faith]]\n\
+    \n5th level (2 5th-level slots): [[5. Mechanics\Spells\Contagion.md|contagion]],\
+    \ [[5. Mechanics\Spells\Insect Plague.md|insect plague]]\n\n6th level (1 6th-level\
+    \ slots): [[5. Mechanics\Spells\Harm.md|harm]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord has advantage on saving throws against spells and other\
+- "desc": "The mummy lord has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A destroyed mummy lord gains a new body in 24 hours if its heart is intact,\
+- "desc": "A destroyed mummy lord gains a new body in 24 hours if its heart is intact,\
     \ regaining all its hit points and becoming active again. The new body appears\
     \ within 5 feet of the mummy lord's heart."
   "name": "Rejuvenation"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
+- "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
     \ fist."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 4|avg (3d6 + 4) bludgeoning damage plus dice: 6d6|avg\
-    \ (6d6) necrotic damage. If the target is a creature, it must succeed on a DC\
-    \ 16 Constitution saving throw or be cursed with mummy rot. The cursed target\
-    \ can't regain hit points, and its hit point maximum decreases by 10 (dice: 3d6|avg\
-    \ (3d6)) for every 24 hours that elapse. If the curse reduces the target's hit\
-    \ point maximum to 0, the target dies, and its body turns to dust. The curse lasts\
-    \ until removed by the [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell\
-    \ or other magic."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 3d6 + 4|avg (3d6 + 4)) bludgeoning damage plus 21 (dice:\
+    \ 6d6|avg (6d6)) necrotic damage. If the target is a creature, it must succeed\
+    \ on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed\
+    \ target can't regain hit points, and its hit point maximum decreases by 10 (dice:\
+    \ 3d6|avg (3d6)) for every 24 hours that elapse. If the curse reduces the target's\
+    \ hit point maximum to 0, the target dies, and its body turns to dust. The curse\
+    \ lasts until removed by the [[5. Mechanics\Spells\Remove Curse.md|remove curse]]\
+    \ spell or other magic."
   "name": "Rotting Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord targets one creature it can see within 60 feet of it. If\
+- "desc": "The mummy lord targets one creature it can see within 60 feet of it. If\
     \ the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving\
-    \ throw against this magic or become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ throw against this magic or become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ until the end of the mummy's next turn. If the target fails the saving throw\
-    \ by 5 or more, it is also [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ by 5 or more, it is also [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ for the same duration. A target that succeeds on the saving throw is immune\
     \ to the Dreadful Glare of all mummies and mummy lords for the next 24 hours."
   "name": "Dreadful Glare"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord makes one attack with its rotting fist or uses its Dreadful\
+- "desc": "The mummy lord makes one attack with its rotting fist or uses its Dreadful\
     \ Glare."
   "name": "Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Blinding dust and sand swirls magically around the mummy lord. Each creature\
+- "desc": "Blinding dust and sand swirls magically around the mummy lord. Each creature\
     \ within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving\
-    \ throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end\
+    \ throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] until the end\
     \ of the creature's next turn."
   "name": "Blinding Dust"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord utters a blasphemous word. Each non-undead creature within\
+- "desc": "The mummy lord utters a blasphemous word. Each non-undead creature within\
     \ 10 feet of the mummy lord that can hear the magical utterance must succeed on\
-    \ a DC 16 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ a DC 16 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ until the end of the mummy lord's next turn."
   "name": "Blasphemous Word (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord magically unleashes negative energy. Creatures within 60\
+- "desc": "The mummy lord magically unleashes negative energy. Creatures within 60\
     \ feet of the mummy lord, including ones behind barriers and around corners, can't\
     \ regain hit points until the end of the mummy lord's next turn."
   "name": "Channel Negative Energy (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mummy lord magically transforms into a whirlwind of sand, moves up\
+- "desc": "The mummy lord magically transforms into a whirlwind of sand, moves up\
     \ to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy\
-    \ lord is immune to all damage, and it can't be [[5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
-    \ [[5. Mechanics/Rules/Conditions.md#petrified|petrified]], knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]],\
-    \ [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], or [[5. Mechanics/Rules/Conditions.md#stunned|stunned]].\
+    \ lord is immune to all damage, and it can't be [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]], knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]], or [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]].\
     \ Equipment worn or carried by the mummy lord remain in its possession."
   "name": "Whirlwind of Sand (Costs 2 Actions)"
 "source":
@@ -185,7 +171,7 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - "SKT"
 - "TCE"
 - "CM"
-"image": "5. Mechanics/Bestiary/Undead/token/mummy-lord.png"
+"image": "compendium/bestiary/undead/token/mummy-lord.png"
 ```
 ^statblock
 

@@ -12,10 +12,10 @@ aliases: ["Amulet of Proof against Detection and Location"]
 # Amulet of Proof against Detection and Location
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
 
-*Source: Dungeon Master's Guide p. 150*
+*Source: Dungeon Master's Guide p. 150. Available in the SRD.*

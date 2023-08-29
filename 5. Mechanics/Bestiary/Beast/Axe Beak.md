@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Axe Beak"]
 ---
 # Axe Beak
-*Source: Monster Manual p. 317, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
@@ -29,14 +28,13 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) slashing damage."
   "name": "Beak"
 "source":
 - "MM"
@@ -45,7 +43,7 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 - "WDH"
 - "GoS"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Beast/token/axe-beak.png"
+"image": "compendium/bestiary/beast/token/axe-beak.png"
 ```
 ^statblock
 

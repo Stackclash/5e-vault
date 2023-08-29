@@ -14,7 +14,7 @@ aliases: ["Javelin of Lightning"]
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Thrown|Thrown]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
@@ -22,4 +22,4 @@ This javelin is a magic weapon. When you hurl it and speak its command word, it 
 
 The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
 
-*Source: Dungeon Master's Guide p. 178*
+*Source: Dungeon Master's Guide p. 178. Available in the SRD.*

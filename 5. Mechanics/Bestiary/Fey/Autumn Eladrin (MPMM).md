@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey/elf
-statblock: inline
+aliases: ["Autumn Eladrin"]
 ---
 # Autumn Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  
@@ -29,16 +28,14 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[Conditions#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
-
-## Stat Block
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Autumn Eladrin"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
 "hp": !!int "165"
 "hit_dice": "22d8 + 66"
@@ -49,67 +46,59 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - !!int "14"
 - !!int "17"
 - !!int "18"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "7"
-  "Insight": !!int "7"
+  "Medicine": "+7"
+  "Insight": "+7"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin casts one of the following spells, requiring no material components\
+- "desc": "The eladrin casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n1/day each: [greater\
-    \ restoration](/compendium/spells/greater-restoration.md), [[/5. Mechanics/Spells/Revivify.md|revivify]]\n\
-    \n2/day each: [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]] (as a 5th-level\
-    \ spell), [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]"
+    \ [[5. Mechanics\Spells\Hold Person.md|hold person]]\n\n1/day each: [greater\
+    \ restoration](compendium/spells/greater-restoration.md), [[5. Mechanics\Spells\Revivify.md|revivify]]\n\
+    \n2/day each: [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]] (as a 5th-level\
+    \ spell), [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
+- "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
     \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-    \ [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the eladrin for 1 minute.\
+    \ [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by the eladrin for 1 minute.\
     \ On a successful save, the creature becomes immune to any eladrin's Enchanting\
-    \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ creature, the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] creature can\
+    \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ creature, the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] creature can\
     \ repeat the saving throw, ending the effect on itself on a success."
   "name": "Enchanting Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin has advantage on saving throws against spells and other magical\
+- "desc": "The eladrin has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
+- "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage, or 6 (dice: 1d10 + 1|avg\
-    \ (1d10 + 1)) slashing damage if used with two hands, plus dice: 5d8|avg (5d8)\
-    \ psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) slashing damage, or 6 (dice: 1d10\
+    \ + 1|avg (1d10 + 1)) slashing damage if used with two hands, plus 22 (dice:\
+    \ 5d8|avg (5d8)) psychic damage."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 5d8|avg\
-    \ (5d8) psychic damage."
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
+    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 22 (dice:\
+    \ 5d8|avg (5d8)) psychic damage."
   "name": "Longbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
+- "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see."
   "name": "Fey Step (Recharge 4-6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If a creature [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the\
+- "desc": "If a creature [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by the\
     \ eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin\
     \ magically causes the attack to miss, provided the eladrin can see the attacker."
   "name": "Foster Peace"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Fey/token/autumn-eladrin.png"
+"image": "compendium/bestiary/fey/token/autumn-eladrin.png"
 ```
 ^statblock
 

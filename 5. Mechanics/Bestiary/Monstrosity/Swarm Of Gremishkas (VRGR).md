@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Swarm of Gremishkas"]
 ---
 # Swarm of Gremishkas
 *Source: Van Richten's Guide to Ravenloft p. 235*  
@@ -31,9 +30,9 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 - !!int "12"
 - !!int "14"
 - !!int "4"
-"speed": "walk 25 ft."
+"speed": "25 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
   \ restrained, stunned"
@@ -41,30 +40,26 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 "languages": "understands Common but can't speak"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swarm automatically succeeds on saving throws against spells of 3rd\
+- "desc": "The swarm automatically succeeds on saving throws against spells of 3rd\
     \ level or lower, and the attack rolls of such spells always miss it."
   "name": "Limited Spell Immunity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
+- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
     \ can move through any opening large enough for a Tiny gremishka. The swarm can't\
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 3d6 + 2|avg (3d6 + 2) piercing damage,\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one target\
+    \ in the swarm's space. Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) piercing damage,\
     \ or 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage if the swarm has half\
-    \ of its hit points or fewer, plus dice: 2d6|avg (2d6) force damage."
+    \ of its hit points or fewer, plus 7 (dice: 2d6|avg (2d6)) force damage."
   "name": "Bites"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to a spell attack roll missing the swarm, the swarm causes\
+- "desc": "In response to a spell attack roll missing the swarm, the swarm causes\
     \ that spell to hit another creature of its choice within 30 feet of it that it\
     \ can see."
   "name": "Spell Redirection"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/swarm-of-gremishkas.png"
+"image": "compendium/bestiary/monstrosity/token/swarm-of-gremishkas.png"
 ```
 ^statblock

@@ -10,6 +10,7 @@ tags:
 aliases: ["Abi-Dalzim's Horrid Wilting"]
 ---
 # Abi-Dalzim's Horrid Wilting
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -21,6 +22,6 @@ You draw the moisture from every creature in a 30-foot cube centered on a point 
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
-**Classes**: [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 150, Elemental Evil Player's Companion p. 15
+*Source: Xanathar's Guide to Everything p. 150*

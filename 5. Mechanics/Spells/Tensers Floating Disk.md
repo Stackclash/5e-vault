@@ -12,6 +12,7 @@ tags:
 aliases: ["Tenser's Floating Disk"]
 ---
 # Tenser's Floating Disk
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual
@@ -25,6 +26,6 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
-**Classes**: [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 282
+*Source: Player's Handbook p. 282. Available in the SRD (as 'Floating Disk').*

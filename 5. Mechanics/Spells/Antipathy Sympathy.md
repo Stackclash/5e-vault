@@ -10,6 +10,7 @@ tags:
 aliases: ["Antipathy/Sympathy"]
 ---
 # Antipathy/Sympathy
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Enchantment*  
 
 - **Casting time:** 1 hour
@@ -21,7 +22,7 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 ## Antipathy
 
-The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]. The creature remains [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] while it can see the target or is within 60 feet of it. While [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], but the creature becomes [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] again if it regains sight of the target or moves within 60 feet of it.
+The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]. The creature remains [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] while it can see the target or is within 60 feet of it. While [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], but the creature becomes [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] again if it regains sight of the target or moves within 60 feet of it.
 
 ## Sympathy
 
@@ -37,6 +38,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 214
+*Source: Player's Handbook p. 214. Available in the SRD.*

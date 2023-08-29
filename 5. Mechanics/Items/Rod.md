@@ -12,4 +12,4 @@ aliases: ["Rod"]
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook p. 151*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

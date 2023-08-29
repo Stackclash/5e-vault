@@ -14,4 +14,4 @@ aliases: ["Tankard"]
 
 A tankard holds 1 pint of liquid.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

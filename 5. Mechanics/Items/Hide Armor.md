@@ -15,4 +15,4 @@ aliases: ["Hide Armor"]
 
 This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
 
-*Source: Player's Handbook p. 144*
+*Source: Player's Handbook p. 144. Available in the SRD and the Basic Rules.*

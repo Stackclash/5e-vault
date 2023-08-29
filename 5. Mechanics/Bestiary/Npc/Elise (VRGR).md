@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Elise"]
 ---
 # Elise
 *Source: Van Richten's Guide to Ravenloft p. 143*  
@@ -29,7 +28,7 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
 - !!int "6"
 - !!int "10"
 - !!int "5"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "cold; lightning; poison; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -37,29 +36,23 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Elise is immune to any spell or effect that would alter her form."
+- "desc": "Elise is immune to any spell or effect that would alter her form."
   "name": "Immutable Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever Elise is subjected to lightning damage, she takes no damage and\
+- "desc": "Whenever Elise is subjected to lightning damage, she takes no damage and\
     \ instead regains a number of hit points equal to the lightning damage dealt."
   "name": "Lightning Absorption"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Elise has advantage on saving throws against spells and other magical effects."
+- "desc": "Elise has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Elise's weapon attacks are magical."
+- "desc": "Elise's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Elise makes two slam attacks."
+- "desc": "Elise makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Npc/token/elise.png"
+"image": "compendium/bestiary/npc/token/elise.png"
 ```
 ^statblock

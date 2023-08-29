@@ -10,7 +10,7 @@ aliases: ["Tabaxi"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 33*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: walk: 30 ft.; climb equal to your walking speed
 
@@ -30,7 +30,7 @@ You can use your claws to make unarmed strikes. When you hit with them, the stri
 
 ### Cat's Talent
 
-You have proficiency in the [[5. Mechanics/Rules/Skills.md#Perception|Perception]] and [[5. Mechanics/Rules/Skills.md#Stealth|Stealth]] skills.
+You have proficiency in the [[\5. Mechanics\Rules\Skills.md#Perception|Perception]] and [[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]] skills.
 
 ### Darkvision
 

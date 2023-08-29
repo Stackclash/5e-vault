@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/small
 - monster/type/construct
-statblock: inline
+aliases: ["Pidlwick II"]
 ---
 # Pidlwick II
 *Source: Curse of Strahd p. 236*  
@@ -44,8 +43,6 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 
 "When I'm upset, I do bad things."
 
-## Stat Block
-
 ```statblock
 "name": "Pidlwick II"
 "size": "Small"
@@ -61,30 +58,27 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 - !!int "8"
 - !!int "13"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Performance": !!int "2"
+  "Performance": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "paralyzed, petrified, poisoned"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls\
+- "desc": "During the first round of combat, Pidlwick II has advantage on attack rolls\
     \ against any creature that hasn't had a turn yet."
   "name": "Ambusher"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
   "name": "Club"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one\
+    \ target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Dart"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/pidlwick-ii.png"
+"image": "compendium/bestiary/npc/token/pidlwick-ii.png"
 ```
 ^statblock

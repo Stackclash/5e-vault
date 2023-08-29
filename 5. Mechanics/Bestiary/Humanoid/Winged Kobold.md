@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -14,10 +13,10 @@ tags:
 - monster/environment/urban
 - monster/size/small
 - monster/type/humanoid/kobold
-statblock: inline
+aliases: ["Winged Kobold"]
 ---
 # Winged Kobold
-*Source: Monster Manual p. 195, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragons of Stormwreck Isle*  
+*Source: Monster Manual p. 195*  
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
@@ -32,8 +31,6 @@ Kobolds make up for their physical ineptitude with a cleverness for trap making 
 ## The Lost God
 
 In addition to the dragons they revere, kobolds worship a lesser god named Kurtulmak. Legends speak of how Kurtulmak served as Tiamat's vassal in the Nine Hells until Garl Glittergold, the god of gnomes, stole a trinket from the Dragon Queen's hoard. Tiamat sent Kurtulmak to retrieve the trinket, but Garl Glittergold played a trick on him, collapsing the earth and trapping the kobold god in an underground maze for eternity. For this reason, kobolds hate gnomes and pranks of any kind. Kurtulmak's most devoted worshipers dedicate themselves to finding and releasing their lost god from his prison-maze.
-
-## Stat Block
 
 ```statblock
 "name": "Winged Kobold"
@@ -51,29 +48,25 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 - !!int "8"
 - !!int "7"
 - !!int "8"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold has advantage on an attack roll against a creature if at least\
+- "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), one target directly\
-    \ below the kobold. Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), one target directly\
+    \ below the kobold. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
   "name": "Dropped Rock"
 "source":
 - "MM"
@@ -82,7 +75,7 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 - "GoS"
 - "CM"
 - "DoSI"
-"image": "5. Mechanics/Bestiary/Humanoid/token/winged-kobold.png"
+"image": "compendium/bestiary/humanoid/token/winged-kobold.png"
 ```
 ^statblock
 

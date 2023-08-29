@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/size/large
 - monster/type/aberration
-statblock: inline
+aliases: ["Star Spawn Hulk"]
 ---
 # Star Spawn Hulk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
@@ -36,13 +35,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tharizdun, the Chained God  
 - Cult of Tyranthraxus, the Flamed One  
 
-## Stat Block
-
 ```statblock
 "name": "Star Spawn Hulk"
 "size": "Large"
 "type": "aberration"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "136"
 "hit_dice": "13d10 + 65"
@@ -53,42 +50,38 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "7"
 - !!int "12"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "5"
+  "Dexterity": "+3"
+  "Wisdom": "+5"
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "charmed, frightened"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the hulk takes psychic damage, each creature within 10 feet of the hulk\
+- "desc": "If the hulk takes psychic damage, each creature within 10 feet of the hulk\
     \ takes that damage instead; the hulk takes none of the damage. In addition, the\
     \ hulk's thoughts and location can't be discerned by magic."
   "name": "Psychic Mirror"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hulk makes two Slam attacks. If both attacks hit the same target, the\
-    \ target also takes dice: 2d8|avg (2d8) psychic damage and must succeed on\
-    \ a DC 17 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "The hulk makes two Slam attacks. If both attacks hit the same target, the\
+    \ target also takes 9 (dice: 2d8|avg (2d8)) psychic damage and must succeed\
+    \ on a DC 17 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ until the end of the target's next turn."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hulk makes a separate Slam attack against each creature within 10 feet\
+- "desc": "The hulk makes a separate Slam attack against each creature within 10 feet\
     \ of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving\
-    \ throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Reaping Arms (Recharge 5-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-hulk.png"
+"image": "compendium/bestiary/aberration/token/star-spawn-hulk.png"
 ```
 ^statblock

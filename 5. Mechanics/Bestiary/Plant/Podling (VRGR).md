@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/plant
-statblock: inline
+aliases: ["Podling"]
 ---
 # Podling
 *Source: Van Richten's Guide to Ravenloft p. 227*  
@@ -41,14 +40,13 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
 - !!int "10"
 - !!int "10"
 - !!int "10"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "condition_immunities": "charmed, frightened"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "Deep Speech, the languages the creature knew in life"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The podling is a physical copy of a creature digested by a bodytaker plant.\
+- "desc": "The podling is a physical copy of a creature digested by a bodytaker plant.\
     \ The podling has the digested creature's memories and behaves like that creature,\
     \ but with occasional lapses. An observer familiar with the digested creature\
     \ can recognize the discrepancies with a successful DC 20 Wisdom (Insight) check,\
@@ -57,16 +55,14 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
     \ a slurry when it dies, when the bodytaker plant that created it dies, or when\
     \ the bodytaker plant dismisses it (no action required)."
   "name": "Semblance of Life"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The podling doesn't require sleep."
+- "desc": "The podling doesn't require sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Plant/token/podling.png"
+"image": "compendium/bestiary/plant/token/podling.png"
 ```
 ^statblock

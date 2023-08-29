@@ -12,6 +12,7 @@ tags:
 aliases: ["Conjure Minor Elementals"]
 ---
 # Conjure Minor Elementals
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 minute
@@ -34,6 +35,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 226
+*Source: Player's Handbook p. 226. Available in the SRD.*

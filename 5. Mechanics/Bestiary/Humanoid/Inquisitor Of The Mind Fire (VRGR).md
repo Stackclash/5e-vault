@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Inquisitor of the Mind Fire"]
 ---
 # Inquisitor of the Mind Fire
 *Source: Van Richten's Guide to Ravenloft p. 248*  
@@ -33,54 +32,50 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 - !!int "17"
 - !!int "16"
 - !!int "19"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "6"
+  "Charisma": "+7"
+  "Wisdom": "+6"
+  "Intelligence": "+6"
 "skillsaves":
-  "Insight": !!int "6"
-  "Perception": !!int "6"
+  "Insight": "+6"
+  "Perception": "+6"
 "condition_immunities": "charmed, frightened"
 "senses": "truesight 30 ft., passive Perception 16"
 "languages": "any three languages, telepathy 120 ft."
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor casts one of the following spells, requiring no components\
+- "desc": "The inquisitor casts one of the following spells, requiring no components\
     \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[/5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Sending.md|sending]],\
-    \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n1/day each: [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
-    \ [[/5. Mechanics/Spells/Modify Memory.md|modify memory]]"
+    \ [[5. Mechanics\Spells\Arcane Eye.md|arcane eye]], [[5. Mechanics\Spells\Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], [[5. Mechanics\Spells\Sending.md|sending]],\
+    \ [[5. Mechanics\Spells\Suggestion.md|suggestion]]\n\n1/day each: [[5. Mechanics\Spells\Mass Suggestion.md|mass suggestion]],\
+    \ [[5. Mechanics\Spells\Modify Memory.md|modify memory]]"
   "name": "innate"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor attacks twice with its Silver Longsword or uses Mind Fire\
+- "desc": "The inquisitor attacks twice with its Silver Longsword or uses Mind Fire\
     \ twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
-    \ (1d10 + 4)) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
+    \ + 4|avg (1d10 + 4)) if used with two hands, plus 18 (dice: 4d8|avg (4d8))\
+    \ force damage."
   "name": "Silver Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor targets one creature it can see within 120 feet of it. The\
-    \ target must succeed on a DC 15 Intelligence saving throw or take dice: 3d8\
-    \ + 4|avg (3d8 + 4) psychic damage and be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "The inquisitor targets one creature it can see within 120 feet of it. The\
+    \ target must succeed on a DC 15 Intelligence saving throw or take 17 (dice:\
+    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ until the start of the inquisitor's next turn."
   "name": "Mind Fire"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the inquisitor's choice that it can see within 60 feet\
-    \ of it must succeed on a DC 15 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ until the start of the inquisitor's next turn. On the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+- "desc": "Each creature of the inquisitor's choice that it can see within 60 feet\
+    \ of it must succeed on a DC 15 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ until the start of the inquisitor's next turn. On the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ target's turn, the inquisitor can telepathically control the target's move,\
     \ action, or both. When controlled in this way, the target can take only the Attack\
     \ (inquisitor chooses the target) or Dash action."
   "name": "Inquisitor's Command (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-mind-fire.png"
+"image": "compendium/bestiary/humanoid/token/inquisitor-of-the-mind-fire.png"
 ```
 ^statblock

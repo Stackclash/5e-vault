@@ -4,7 +4,6 @@ cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
-- spell/class/cleric/twilight-domain
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/wizard
@@ -14,6 +13,7 @@ tags:
 aliases: ["Leomund's Tiny Hut"]
 ---
 # Leomund's Tiny Hut
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
@@ -27,6 +27,6 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Cleric Twilight Domain (TCE).md|Cleric (Twilight Domain)]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 255
+*Source: Player's Handbook p. 255. Available in the SRD (as 'Tiny Hut').*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Wolf Spider"]
 ---
 # Giant Wolf Spider
-*Source: Monster Manual p. 330, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Plane Shift: Ixalan*  
+*Source: Monster Manual p. 330, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
@@ -32,34 +31,30 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 - !!int "3"
 - !!int "12"
 - !!int "4"
-"speed": "walk 40 ft., climb 40 ft."
+"speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "3"
+  "Stealth": "+7"
+  "Perception": "+3"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spider can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The spider can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in contact with a web, the spider knows the exact location of any\
+- "desc": "While in contact with a web, the spider knows the exact location of any\
     \ other creature in contact with the same web."
   "name": "Web Sense"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spider ignores movement restrictions caused by webbing."
+- "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage, and the target must make\
-    \ a DC 11 Constitution saving throw, taking 7 (dice: 2d6|avg (2d6)) poison\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking 7 (dice: 2d6|avg (2d6)) poison\
     \ damage on a failed save, or half as much damage on a successful one. If the\
-    \ poison damage reduces the target to 0 hit points, the target is stable but [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour, even after regaining hit points, and is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ poison damage reduces the target to 0 hit points, the target is stable but [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour, even after regaining hit points, and is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
+    \ while [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite"
 "source":
 - "MM"
@@ -70,7 +65,7 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 - "TCE"
 - "WBtW"
 - "PSX"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-wolf-spider.png"
+"image": "compendium/bestiary/beast/token/giant-wolf-spider.png"
 ```
 ^statblock
 

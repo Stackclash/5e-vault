@@ -11,6 +11,7 @@ tags:
 aliases: ["Grasping Vine"]
 ---
 # Grasping Vine
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 bonus
@@ -22,6 +23,6 @@ You conjure a vine that sprouts from the ground in an unoccupied space of your c
 
 Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Player's Handbook p. 246
+*Source: Player's Handbook p. 246*

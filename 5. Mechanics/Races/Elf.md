@@ -7,10 +7,10 @@ tags:
 aliases: ["Elf"]
 ---
 # Elf
-*Source: Player's Handbook p. 21*  
+*Source: Player's Handbook p. 21. Available in the SRD and the Basic Rules.*  
 
 - **Ability Scores**: Dexterity +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -30,11 +30,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [[5. Mechanics/Rules/Skills.md#Perception|Perception]] skill.
+You have proficiency in the [[\5. Mechanics\Rules\Skills.md#Perception|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], and magic can't put you to sleep.
+You have advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and magic can't put you to sleep.
 
 ### Trance
 

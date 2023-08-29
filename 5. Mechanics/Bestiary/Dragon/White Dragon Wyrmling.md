@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["White Dragon Wyrmling"]
 ---
 # White Dragon Wyrmling
-*Source: Monster Manual p. 102, Storm King's Thunder, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 102. Available in the SRD.*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
@@ -92,8 +91,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "White Dragon Wyrmling"
 "size": "Medium"
@@ -109,27 +106,25 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "5"
 - !!int "10"
 - !!int "11"
-"speed": "walk 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
+"speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": !!int "2"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  "Charisma": "+2"
+  "Dexterity": "+2"
+  "Wisdom": "+2"
+  "Constitution": "+4"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  "Stealth": "+2"
+  "Perception": "+4"
 "damage_immunities": "cold"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d4|avg\
-    \ (1d4) cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage plus 2 (dice:\
+    \ 1d4|avg (1d4)) cold damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales an icy blast of hail in a 15-foot cone. Each creature\
+- "desc": "The dragon exhales an icy blast of hail in a 15-foot cone. Each creature\
     \ in that area must make a DC 12 Constitution saving throw, taking 22 (dice:\
     \ 5d8|avg (5d8)) cold damage on a failed save, or half as much damage on a\
     \ successful one."
@@ -139,6 +134,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "SKT"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Dragon/token/white-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/white-dragon-wyrmling.png"
 ```
 ^statblock

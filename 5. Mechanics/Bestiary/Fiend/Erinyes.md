@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Erinyes"]
 ---
 # Erinyes
-*Source: Monster Manual p. 73, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Keys from the Golden Vault*  
+*Source: Monster Manual p. 73. Available in the SRD.*  
 
 The most beautiful and striking of all lesser and greater devils, the erinyes are fierce and disciplined warriors. Sweeping down from the skies, they bring swift death to creatures that have wronged their masters or defied the edicts of Asmodeus. The erinyes appear as male or female humanoids with statuesque builds and large feathery wings. Most wear stylized armor and horned helms, and carry exquisite swords and bows. A few also use ropes of entanglement to ensnare powerful foes.
 
@@ -20,7 +19,7 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 
 > [!quote] Variant: Rope of Entanglement
 > 
-> Some erinyes carry a [[Rope Of Entanglement|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
+> Some erinyes carry a [[5. Mechanics\Items\Rope Of Entanglement.md|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 ^variant-rope-of-entanglement
 
 ## Devils
@@ -119,7 +118,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -132,18 +131,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30|30 percent% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30|30 percent% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40|40 percent% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50|50 percent% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30|30 percent% chance chance of summoning one horned devil.  
-> - An ice devil has a 60|60 percent% chance chance of summoning one ice devil.  
+> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
+> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30% chance chance of summoning one horned devil.  
+> - An ice devil has a 60% chance chance of summoning one ice devil.  
 > - A pit fiend summons `dice: 2d4` (`2d4`) bearded devils, `dice: 1d4` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
-
-## Stat Block
 
 ```statblock
 "name": "Erinyes"
@@ -161,12 +158,12 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "14"
 - !!int "14"
 - !!int "18"
-"speed": "walk 30 ft., fly 60 ft."
+"speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "6"
-  "Constitution": !!int "8"
+  "Charisma": "+8"
+  "Dexterity": "+7"
+  "Wisdom": "+6"
+  "Constitution": "+8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -175,35 +172,29 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (dice: 3d8|avg\
+- "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (dice: 3d8|avg\
     \ (3d8)) poison damage on a hit (included in the attacks)."
   "name": "Hellish Weapons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes has advantage on saving throws against spells and other magical\
+- "desc": "The erinyes has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes makes three attacks."
+- "desc": "The erinyes makes three attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
-    \ (1d10 + 4)) slashing damage if used with two hands, plus dice: 3d8|avg (3d8)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
+    \ + 4|avg (1d10 + 4)) slashing damage if used with two hands, plus 13 (dice:\
+    \ 3d8|avg (3d8)) poison damage."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 3d8|avg\
-    \ (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving\
-    \ throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The poison\
-    \ lasts until it is removed by the [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
+    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 13 (dice:\
+    \ 3d8|avg (3d8)) poison damage, and the target must succeed on a DC 14 Constitution\
+    \ saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]. The\
+    \ poison lasts until it is removed by the [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]]\
     \ spell or similar magic."
   "name": "Longbow"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The erinyes adds 4 to its AC against one melee attack that would hit it.\
+- "desc": "The erinyes adds 4 to its AC against one melee attack that would hit it.\
     \ To do so, the erinyes must see the attacker and be wielding a melee weapon."
   "name": "Parry"
 "source":
@@ -212,6 +203,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "EGW"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/erinyes.png"
+"image": "compendium/bestiary/fiend/token/erinyes.png"
 ```
 ^statblock

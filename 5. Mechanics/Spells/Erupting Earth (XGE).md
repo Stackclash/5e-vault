@@ -13,6 +13,7 @@ tags:
 aliases: ["Erupting Earth"]
 ---
 # Erupting Earth
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ Choose a point you can see on the ground within range. A fountain of churned ear
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 155, Elemental Evil Player's Companion p. 17
+*Source: Xanathar's Guide to Everything p. 155*

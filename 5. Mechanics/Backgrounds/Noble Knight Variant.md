@@ -8,10 +8,10 @@ aliases: ["Noble (Knight) (Variant)"]
 # Noble (Knight) (Variant)
 *Source: Player's Handbook p. 136, Derived from Noble (PHB)*  
 
-- **Skill Proficiencies.** [[Skills#History|History]], [[Skills#Persuasion|Persuasion]]  
+- **Skill Proficiencies.** [[\5. Mechanics\Rules\Skills.md#History|History]], [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [[Fine Clothes|fine clothes]], a [[Signet Ring|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [[5. Mechanics\Items\Fine Clothes.md|fine clothes]], a [[5. Mechanics\Items\Signet Ring.md|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
 
 A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).
 

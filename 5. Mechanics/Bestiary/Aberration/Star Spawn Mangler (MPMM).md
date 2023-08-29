@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
+aliases: ["Star Spawn Mangler"]
 ---
 # Star Spawn Mangler
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote]- A quote from Mordenkainen  
 > 
-> The cultists who blaspheme reality by calling out to Elder Evils often speak of a Far Ream from which these entities hail.
+> The cultists who blaspheme reality by calling out to Elder Evils often speak of a Far Realm from which these entities hail.
 > 
 > In truth, there is no one place or space from which they come. There is the multiverse of things that are, and there is the multiverse of things that shouldn't be.
 
@@ -42,13 +41,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tharizdun, the Chained God  
 - Cult of Tyranthraxus, the Flamed One  
 
-## Stat Block
-
 ```statblock
 "name": "Star Spawn Mangler"
 "size": "Medium"
 "type": "aberration"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
@@ -59,12 +56,12 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "11"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft., climb 40 ft."
+"speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Constitution": !!int "4"
+  "Dexterity": "+7"
+  "Constitution": "+4"
 "skillsaves":
-  "Stealth": !!int "7"
+  "Stealth": "+7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
 "condition_immunities": "charmed, frightened, prone"
@@ -72,30 +69,25 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "languages": "Deep Speech"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mangler has advantage on initiative rolls."
+- "desc": "The mangler has advantage on initiative rolls."
   "name": "Ambusher"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mangler makes two Claw attacks."
+- "desc": "The mangler makes two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage. If the attack roll has\
-    \ advantage, the target also takes dice: 2d6|avg (2d6) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage. If the attack roll\
+    \ has advantage, the target also takes 7 (dice: 2d6|avg (2d6)) psychic damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
-    \ it can move up to its speed without provoking opportunity attack||opportunity\
-    \ attacks."
+- "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
+    \ it can move up to its speed without provoking opportunity attacks."
   "name": "Flurry of Claws (Recharge 5-6)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the mangler takes the Hide action."
+- "desc": "While in dim light or darkness, the mangler takes the [[\5. Mechanics\Rules\Actions.md#Hide|Hide]]\
+    \ action."
   "name": "Shadow Stealth"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-mangler.png"
+"image": "compendium/bestiary/aberration/token/star-spawn-mangler.png"
 ```
 ^statblock

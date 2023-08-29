@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/paladin
-statblock: inline
+aliases: ["Blackguard"]
 ---
 # Blackguard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
@@ -35,7 +34,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "size": "Medium"
 "type": "humanoid"
 "subtype": "paladin"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "18"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
@@ -46,62 +45,54 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 - !!int "11"
 - !!int "14"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "5"
+  "Charisma": "+5"
+  "Wisdom": "+5"
 "skillsaves":
-  "Intimidation": !!int "5"
-  "Athletics": !!int "7"
-  "Deception": !!int "5"
+  "Intimidation": "+5"
+  "Athletics": "+7"
+  "Deception": "+5"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The blackguard casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 13):\n\n2/day each: [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Find Steed.md|find steed]]"
+- "desc": "The blackguard casts one of the following spells, using Charisma as the\
+    \ spellcasting ability (spell save DC 13):\n\n2/day each: [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], [[5. Mechanics\Spells\Find Steed.md|find steed]]"
   "name": "spells"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The blackguard makes three attacks, using Glaive, Shortbow, or both."
+- "desc": "The blackguard makes three attacks, using Glaive, Shortbow, or both."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) slashing damage plus dice: 2d8|avg\
-    \ (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) slashing damage plus 9 (dice:\
+    \ 2d8|avg (2d8)) necrotic damage."
   "name": "Glaive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
+    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom\
-    \ saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] of\
-    \ the blackguard for 1 minute. If a [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom\
+    \ saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ of the blackguard for 1 minute. If a [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ target ends its turn more than 30 feet away from the blackguard, the target\
     \ can repeat the saving throw, ending the effect on itself on a success."
   "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Immediately after the blackguard hits a target with an attack roll, the\
+- "desc": "Immediately after the blackguard hits a target with an attack roll, the\
     \ blackguard can force that target to make a DC 13 Constitution saving throw.\
     \ On a failed save, the target suffers one of the following effects of the blackguard's\
     \ choice:"
   "name": "Smite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The target is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 1 minute.\
-    \ The [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] target can repeat the\
-    \ save at the end of each of its turns, ending the effect on itself on a success."
+- "desc": "The target is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] for 1\
+    \ minute. The [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] target can repeat\
+    \ the save at the end of each of its turns, ending the effect on itself on a success."
   "name": "Blind"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The target is pushed up to 10 feet away and knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "The target is pushed up to 10 feet away and knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Shove"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/blackguard.png"
+"image": "compendium/bestiary/humanoid/token/blackguard.png"
 ```
 ^statblock
 

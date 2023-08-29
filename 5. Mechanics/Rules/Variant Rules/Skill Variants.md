@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Skill Variants"]
 ---
 # Skill Variants
 *Source: Dungeon Master's Guide p. 263* 
 
-A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [[5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]] and [[5. Mechanics/Rules/Skills.md#Stealth|Stealth]] are two different aspects of Dexterity, and a character can specialize in either or both.
+A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [[\5. Mechanics\Rules\Skills.md#Acrobatics|Acrobatics]] and [[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]] are two different aspects of Dexterity, and a character can specialize in either or both.
 
 You can dispense with skills and use one of the following variants. Choose whichever one best suits your campaign.
 
@@ -14,23 +16,7 @@ You can dispense with skills and use one of the following variants. Choose which
 
 With this variant rule, characters don't have skill proficiencies. Instead, each character has proficiency in two abilities: one tied to the character's class and one tied to the character's background. The Ability Proficiencies by Class table suggests a proficiency for each class, and you choose which ability is tied to a given background. Starting at 1st level, a character adds his or her proficiency bonus to any ability check tied to one or the other of these two abilities.
 
-**Ability Check Proficiency by Class**
-
-| Class | Ability Check |
-|-------|---------------|
-| [[/5. Mechanics/Classes/Barbarian.md|Barbarian]] | Strength, Dexterity, or Wisdom |
-| [[/5. Mechanics/Classes/Bard.md|Bard]] | Any one |
-| [[/5. Mechanics/Classes/Cleric.md|Cleric]] | Intelligence, Wisdom, or Charisma |
-| [[/5. Mechanics/Classes/Druid.md|Druid]] | Intelligence or Wisdom |
-| [[/5. Mechanics/Classes/Fighter.md|Fighter]] | Strength, Dexterity, or Wisdom |
-| [[/5. Mechanics/Classes/Monk.md|Monk]] | Strength, Dexterity, or Intelligence |
-| [[/5. Mechanics/Classes/Paladin.md|Paladin]] | Strength, Wisdom, or Charisma |
-| [[/5. Mechanics/Classes/Ranger.md|Ranger]] | Strength, Dexterity, or Wisdom |
-| [[/5. Mechanics/Classes/Rogue.md|Rogue]] | Dexterity, Intelligence, Wisdom, or Charisma |
-| [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]] | Intelligence or Charisma |
-| [[/5. Mechanics/Classes/Warlock.md|Warlock]] | Intelligence or Charisma |
-| [[/5. Mechanics/Classes/Wizard.md|Wizard]] | Intelligence or Wisdom |
-^ability-check-proficiency-by-class
+![[5. Mechanics\Tables\Ability Check Proficiency By Class.md|Ability Check Proficiency by Class]]
 
 The Expertise feature works differently than normal under this rule. At 1st level, instead of choosing two skill proficiencies, a character with the Expertise class feature chooses one of the abilities in which he or she has proficiency. Selecting an ability counts as two of the character's Expertise choices. If the character would gain an additional skill proficiency, that character instead selects another ability check in which to gain proficiency.
 

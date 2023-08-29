@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration/sorcerer
-statblock: inline
+aliases: ["Derro Savant"]
 ---
 # Derro Savant
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
@@ -30,7 +29,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "size": "Small"
 "type": "aberration"
 "subtype": "sorcerer"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
@@ -41,36 +40,31 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 - !!int "11"
 - !!int "5"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  "Stealth": "+4"
 "senses": "darkvision 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Sleep.md|sleep]],\
-    \ [[/5. Mechanics/Spells/Spider Climb.md|spider climb]]"
+- "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Message.md|message]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Invisibility.md|invisibility]], [[5. Mechanics\Spells\Sleep.md|sleep]],\
+    \ [[5. Mechanics\Spells\Spider Climb.md|spider climb]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The derro has advantage on saving throws against spells and other magical\
+- "desc": "The derro has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
+    \ Hit: 2 (dice: 1d6 - 1|avg (1d6 - 1)) bludgeoning damage."
   "name": "Quarterstaff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The derro launches a brilliant beam of magical energy in a 5-foot-wide\
+- "desc": "The derro launches a brilliant beam of magical energy in a 5-foot-wide\
     \ line that is 60 feet long. Each creature in the line must make a DC 12 Dexterity\
     \ saving throw, taking 21 (dice: 6d6|avg (6d6)) radiant damage on a failed\
     \ save, or half as much damage on a successful one."
@@ -78,7 +72,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/derro-savant.png"
+"image": "compendium/bestiary/aberration/token/derro-savant.png"
 ```
 ^statblock
 

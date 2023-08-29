@@ -9,6 +9,7 @@ tags:
 aliases: ["Eldritch Blast"]
 ---
 # Eldritch Blast
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action
@@ -20,6 +21,6 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-**Classes**: [[/5. Mechanics/Classes/Warlock.md|Warlock]]
+**Classes**: [[5. Mechanics\Classes\Warlock.md|Warlock]]
 
-Source: Player's Handbook p. 237
+*Source: Player's Handbook p. 237. Available in the SRD and the Basic Rules.*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vgm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc Nurtured One of Yurtrus"]
 ---
 # Orc Nurtured One of Yurtrus
 *Source: Volo's Guide to Monsters p. 184*  
@@ -24,8 +23,6 @@ In addition, orcs have special relationships with two creatures that are sometim
 ## Orc Nurtured One of Yurtrus
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
-
-## Stat Block
 
 ```statblock
 "name": "Orc Nurtured One of Yurtrus"
@@ -43,41 +40,37 @@ When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests 
 - !!int "7"
 - !!int "11"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the orc is reduced to 0 hit points, it explodes, and any creature\
+- "desc": "When the orc is reduced to 0 hit points, it explodes, and any creature\
     \ within 10 feet of it must make a DC 13 Constitution saving throw. On a failed\
-    \ save, the creature takes dice: 4d6|avg (4d6) poison damage and becomes [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ On a success, the creature takes half as much damage and isn't [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ A creature [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] by this effect\
+    \ save, the creature takes 14 (dice: 4d6|avg (4d6)) poison damage and becomes\
+    \ [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]. On a success, the creature\
+    \ takes half as much damage and isn't [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]].\
+    \ A creature [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] by this effect\
     \ can repeat the save at the end of each of its turn, ending the effect on itself\
-    \ on a success. While [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] by this\
-    \ effect, a creature can't regain hit points."
+    \ on a success. While [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] by\
+    \ this effect, a creature can't regain hit points."
   "name": "Corrupted Carrier"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc has advantage on saving throws against poison and disease."
+- "desc": "The orc has advantage on saving throws against poison and disease."
   "name": "Nurtured One of Yurtrus"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage plus dice: 1d4|avg (1d4)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage plus 2 (dice: 1d4|avg\
+    \ (1d4)) necrotic damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc reduces itself to 0 hit points, triggering its Corrupted Carrier\
+- "desc": "The orc reduces itself to 0 hit points, triggering its Corrupted Carrier\
     \ trait."
   "name": "Corrupted Vengeance"
 "source":
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-nurtured-one-of-yurtrus.png"
+"image": "compendium/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus.png"
 ```
 ^statblock
 

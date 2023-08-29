@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/size/medium
 - monster/type/fiend/devil
 - monster/type/fiend/wizard
-statblock: inline
+aliases: ["Blue Abishai"]
 ---
 # Blue Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
@@ -23,14 +22,12 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
-## Stat Block
-
 ```statblock
 "name": "Blue Abishai"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil, wizard"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "19"
 "hp": !!int "202"
 "hit_dice": "27d8 + 81"
@@ -41,12 +38,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "22"
 - !!int "23"
 - !!int "18"
-"speed": "walk 30 ft., fly 50 ft."
+"speed": "30 ft., fly 50 ft."
 "saves":
-  "Wisdom": !!int "12"
-  "Intelligence": !!int "12"
+  "Wisdom": "+12"
+  "Intelligence": "+12"
 "skillsaves":
-  "Arcana": !!int "12"
+  "Arcana": "+12"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, lightning, poison"
@@ -55,43 +52,36 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "17"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 20):\n\nAt will: [[/5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
-    \n2/day each: [[/5. Mechanics/Spells/Charm Person.md|charm person]], [dispel\
-    \ magic](/compendium/spells/dispel-magic.md), [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-    \ [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+- "desc": "The abishai casts one of the following spells, using Intelligence as the\
+    \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics\Spells\Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]]\n\
+    \n2/day each: [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Greater Invisibility.md|greater invisibility]], [wall of\
+    \ force](compendium/spells/wall-of-force.md)"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the abishai's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai has advantage on saving throws against spells and other magical\
+- "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai makes three Bite or Lightning Strike attacks."
+- "desc": "The abishai makes three Bite or Lightning Strike attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 2|avg (2d10 + 2) piercing damage plus dice: 4d6|avg\
-    \ (4d6) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d10 + 2|avg (2d10 + 2)) piercing damage plus 14 (dice:\
+    \ 4d6|avg (4d6)) lightning damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
-    \ target. Hit: dice: 8d8|avg (8d8) lightning damage."
+- "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
+    \ target. Hit: 36 (dice: 8d8|avg (8d8)) lightning damage."
   "name": "Lightning Strike"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\
+- "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space that it can see."
   "name": "Teleport"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/blue-abishai.png"
+"image": "compendium/bestiary/fiend/token/blue-abishai.png"
 ```
 ^statblock
 

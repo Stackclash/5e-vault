@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/large
 - monster/type/celestial
-statblock: inline
+aliases: ["Unicorn"]
 ---
 # Unicorn
-*Source: Monster Manual p. 294, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
+*Source: Monster Manual p. 294. Available in the SRD.*  
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 
@@ -49,8 +48,6 @@ As long as the troubled times of darkness persist, the unicorn stays by the cham
 
 A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing surrounded by mighty oaks, a flower-covered hilltop alive with butterflies, or some other serene woodland location.
 
-## Stat Block
-
 ```statblock
 "name": "Unicorn"
 "size": "Large"
@@ -66,67 +63,55 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - !!int "11"
 - !!int "17"
 - !!int "16"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "damage_immunities": "poison"
 "condition_immunities": "charmed, paralyzed, poisoned"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn's innate spellcasting ability is Charisma (spell save DC 14).\
+- "desc": "The unicorn's innate spellcasting ability is Charisma (spell save DC 14).\
     \ The unicorn can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[/5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [dispel\
-    \ evil and good](/compendium/spells/dispel-evil-and-good.md), [[/5. Mechanics/Spells/Entangle.md|entangle]]"
+    \nAt will: [[5. Mechanics\Spells\Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics\Spells\Druidcraft.md|druidcraft]], [[5. Mechanics\Spells\Pass Without Trace.md|pass without trace]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Calm Emotions.md|calm emotions]], [dispel\
+    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics\Spells\Entangle.md|entangle]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
+- "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
     \ hits it with a horn attack on the same turn, the target takes an extra 9 (dice:\
     \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 15 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 15 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Charge"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn has advantage on saving throws against spells and other magical\
+- "desc": "The unicorn has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn's weapon attacks are magical."
+- "desc": "The unicorn's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn makes two attacks: one with its hooves and one with its horn."
+- "desc": "The unicorn makes two attacks: one with its hooves and one with its horn."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Hooves"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Horn"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn touches another creature with its horn. The target magically\
+- "desc": "The unicorn touches another creature with its horn. The target magically\
     \ regains 11 (dice: 2d8 + 2|avg (2d8 + 2)) hit points. In addition, the touch\
     \ removes all diseases and neutralizes all poisons afflicting the target."
   "name": "Healing Touch (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn magically teleports itself and up to three willing creatures\
+- "desc": "The unicorn magically teleports itself and up to three willing creatures\
     \ it can see within 5 feet of it, along with any equipment they are wearing or\
     \ carrying, to a location the unicorn is familiar with, up to 1 mile away."
   "name": "Teleport (1/Day)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn makes one attack with its hooves."
+- "desc": "The unicorn makes one attack with its hooves."
   "name": "Hooves"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn creates a shimmering, magical field around itself or another\
+- "desc": "The unicorn creates a shimmering, magical field around itself or another\
     \ creature it can see within 60 feet of it. The target gains a +2 bonus to AC\
     \ until the end of the unicorn's next turn."
   "name": "Shimmering Shield (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The unicorn magically regains 11 (dice: 2d8 + 2|avg (2d8 + 2)) hit\
+- "desc": "The unicorn magically regains 11 (dice: 2d8 + 2|avg (2d8 + 2)) hit\
     \ points."
   "name": "Heal Self (Costs 3 Actions)"
 "source":
@@ -138,7 +123,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - "TCE"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Celestial/token/unicorn.png"
+"image": "compendium/bestiary/celestial/token/unicorn.png"
 ```
 ^statblock
 

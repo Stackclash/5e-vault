@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Bulette"]
 ---
 # Bulette
-*Source: Monster Manual p. 34, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 34. Available in the SRD.*  
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
 
@@ -31,8 +30,6 @@ All creatures shun bulettes, which treat anything that moves as food-even other 
 
 Some sages believe the bulette is the result of a mad wizard's experiments at crossbreeding snapping turtles and armadillos, within fusions of demon ichor. Bulettes have been thought to be extinct at different times, but after years without a sighting, the creatures inevitably reappear. Because their young are almost never seen, some sages suspect that bulettes maintain secret nesting grounds from which adults strike out into the world.
 
-## Stat Block
-
 ```statblock
 "name": "Bulette"
 "size": "Large"
@@ -48,33 +45,30 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 40 ft., burrow 40 ft."
+"speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  "Perception": "+6"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bulette's long jump is up to 30 feet and its high jump is up to 15\
+- "desc": "The bulette's long jump is up to 30 feet and its high jump is up to 15\
     \ feet, with or without a running start."
   "name": "Standing Leap"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d12 + 4|avg (4d12 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 30 (dice: 4d12 + 4|avg (4d12 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the bulette jumps at least 15 feet as part of its movement, it can then\
+- "desc": "If the bulette jumps at least 15 feet as part of its movement, it can then\
     \ use this action to land on its feet in a space that contains one or more other\
     \ creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity\
-    \ saving throw (target's choice) or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ and take dice: 3d6 + 4|avg (3d6 + 4) bludgeoning damage plus dice: 3d6\
-    \ + 4|avg (3d6 + 4) slashing damage. On a successful save, the creature takes\
-    \ only half the damage, isn't knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]],\
+    \ saving throw (target's choice) or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]\
+    \ and take 14 (dice: 3d6 + 4|avg (3d6 + 4)) bludgeoning damage plus 14 (dice:\
+    \ 3d6 + 4|avg (3d6 + 4)) slashing damage. On a successful save, the creature\
+    \ takes only half the damage, isn't knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]],\
     \ and is pushed 5 feet out of the bulette's space into an unoccupied space of\
     \ the creature's choice. If no unoccupied space is within range, the creature\
-    \ instead falls [[5. Mechanics/Rules/Conditions.md#prone|prone]] in the bulette's\
+    \ instead falls [[\5. Mechanics\Rules\Conditions.md#prone|prone]] in the bulette's\
     \ space."
   "name": "Deadly Leap"
 "source":
@@ -85,7 +79,7 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 - "JttRC"
 - "LoX"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/bulette.png"
+"image": "compendium/bestiary/monstrosity/token/bulette.png"
 ```
 ^statblock
 

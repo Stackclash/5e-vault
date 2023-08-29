@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/humanoid/thri-kreen
-statblock: inline
+aliases: ["Thri-kreen"]
 ---
 # Thri-kreen
-*Source: Monster Manual p. 288, Journeys through the Radiant Citadel, Light of Xaryxis*  
+*Source: Monster Manual p. 288*  
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
 
@@ -32,8 +31,6 @@ Thri-kreen consider all other living creatures as potential nourishment, and the
 
 Thri-kreen don't require sleep and can rest while remaining alert and performing light tasks. Their inability to sleep is thought to be the reason why thri-kreen have such short lifespans, the average thri-kreen life expectancy being only thirty years.
 
-## Stat Block
-
 ```statblock
 "name": "Thri-kreen"
 "size": "Medium"
@@ -50,46 +47,41 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 - !!int "8"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
-  "Survival": !!int "3"
+  "Stealth": "+4"
+  "Perception": "+3"
+  "Survival": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Thri-kreen"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The thri-kreen can change the color of its carapace to match the color\
+- "desc": "The thri-kreen can change the color of its carapace to match the color\
     \ and texture of its surroundings. As a result, it has advantage on Dexterity\
     \ (Stealth) checks made to hide."
   "name": "Chameleon Carapace"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The thri-kreen's long jump is up to 30 feet and its high jump is up to\
+- "desc": "The thri-kreen's long jump is up to 30 feet and its high jump is up to\
     \ 15 feet, with or without a running start."
   "name": "Standing Leap"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The thri-kreen makes two attacks: one with its bite and one with its claws."
+- "desc": "The thri-kreen makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage, and the target must succeed\
-    \ on a DC 11 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. If the saving throw fails by 5 or more, the target is also [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ target can repeat the saving throw at the end of each of its turns, ending the\
-    \ effect on itself on a success."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage, and the target must\
+    \ succeed on a DC 11 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. If the saving throw fails by 5 or more, the target is also [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
+    \ while [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in this way. The\
+    \ [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] target can repeat the saving\
+    \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
 - "JttRC"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Humanoid/token/thri-kreen.png"
+"image": "compendium/bestiary/humanoid/token/thri-kreen.png"
 ```
 ^statblock
 

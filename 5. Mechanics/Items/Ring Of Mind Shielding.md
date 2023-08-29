@@ -12,14 +12,14 @@ aliases: ["Ring of Mind Shielding"]
 # Ring of Mind Shielding
 *Ring, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 
-You can use an action to cause the ring to become [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] until you use another action to make it visible, until you remove the ring, or until you die.
+You can use an action to cause the ring to become [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] until you use another action to make it visible, until you remove the ring, or until you die.
 
 If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
 
-*Source: Dungeon Master's Guide p. 191*
+*Source: Dungeon Master's Guide p. 191. Available in the SRD.*

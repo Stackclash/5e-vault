@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/tiny
 - monster/type/undead
-statblock: inline
+aliases: ["Death's Head"]
 ---
 # Death's Head
 *Source: Van Richten's Guide to Ravenloft p. 232*  
@@ -15,8 +14,6 @@ A death's head is a disembodied, flying head. The type of creature one of these 
 ## Death's Head Tree
 
 In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6` (`2d6`) death's heads dangle like foul fruit. The heads detach to protect the tree if it's threatened. Should the tree be destroyed, the heads scatter and plant themselves in unholy ground. A new death's head tree emerges from each planted head `dice: 1d12` (`1d12`) months later.
-
-## Stat Block
 
 ```statblock
 "name": "Death's Head"
@@ -33,43 +30,38 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6` (
 - !!int "5"
 - !!int "14"
 - !!int "3"
-"speed": "walk 0 ft., fly 30 ft. (hover)"
+"speed": "0 ft., fly 30 ft. (hover)"
 "damage_resistances": "necrotic"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When created, a death's head takes one of three forms: Aberrant Head, Gnashing\
+- "desc": "When created, a death's head takes one of three forms: Aberrant Head, Gnashing\
     \ Head, or Petrifying Head. This form determines the creature's attack."
   "name": "Beheaded Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The death's head doesn't require air, food, drink, or sleep."
+- "desc": "The death's head doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg (2d6)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) necrotic damage."
   "name": "Gnashing Bite (Gnashing Head Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 1d10|avg (1d10)\
-    \ necrotic damage, and the target must succeed on a DC 10 Intelligence saving\
-    \ throw or it can't take a reaction until the end of its next turn. Moreover,\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage plus 5 (dice: 1d10|avg\
+    \ (1d10)) necrotic damage, and the target must succeed on a DC 10 Intelligence\
+    \ saving throw or it can't take a reaction until the end of its next turn. Moreover,\
     \ on its next turn, the target must choose whether it gets a move, an action,\
     \ or a bonus action; it gets only one of the three."
   "name": "Mind-Bending Bite (Aberrant Head Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage, and the target must succeed\
-    \ on a DC 10 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage, and the target must\
+    \ succeed on a DC 10 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ as it begins to turn to stone. The target must repeat the saving throw at the\
     \ end of its next turn. On a success, the effect ends. On a failure, the target\
-    \ is [[5. Mechanics/Rules/Conditions.md#petrified|petrified]] for 10 minutes."
+    \ is [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]] for 10 minutes."
   "name": "Petrifying Bite (Petrifying Head Only)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/deaths-head.png"
+"image": "compendium/bestiary/undead/token/deaths-head.png"
 ```
 ^statblock

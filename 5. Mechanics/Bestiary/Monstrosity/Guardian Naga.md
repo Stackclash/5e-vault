@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Guardian Naga"]
 ---
 # Guardian Naga
-*Source: Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh*  
+*Source: Monster Manual p. 234. Available in the SRD.*  
 
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
 
@@ -36,8 +35,6 @@ Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself
 
 A naga doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Guardian Naga"
 "size": "Large"
@@ -53,49 +50,45 @@ A naga doesn't require air, food, drink, or sleep.
 - !!int "16"
 - !!int "19"
 - !!int "18"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "8"
-  "Intelligence": !!int "7"
-  "Constitution": !!int "7"
+  "Charisma": "+8"
+  "Dexterity": "+8"
+  "Wisdom": "+8"
+  "Intelligence": "+7"
+  "Constitution": "+7"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, poisoned"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks), and it needs\
     \ only verbal components to cast its spells. It has the following cleric spells\
-    \ prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Mending.md|mending]],\
-    \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
-    \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
-    \ slots): [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/5. Mechanics/Spells/Clairvoyance.md|clairvoyance]]\n\
-    \n4th level (3 4th-level slots): [[/5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (2 5th-level slots): [[/5. Mechanics/Spells/Flame Strike.md|flame strike]], [[/5. Mechanics/Spells/Geas.md|geas]]\n\
-    \n6th level (1 6th-level slots): [[/5. Mechanics/Spells/True Seeing.md|true seeing]]"
+    \ prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Mending.md|mending]],\
+    \ [[5. Mechanics\Spells\Sacred Flame.md|sacred flame]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]], [[5. Mechanics\Spells\Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics\Spells\Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
+    \ slots): [[5. Mechanics\Spells\Bestow Curse.md|bestow curse]], [[5. Mechanics\Spells\Clairvoyance.md|clairvoyance]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics\Spells\Banishment.md|banishment]],\
+    \ [[5. Mechanics\Spells\Freedom Of Movement.md|freedom of movement]]\n\n5th level\
+    \ (2 5th-level slots): [[5. Mechanics\Spells\Flame Strike.md|flame strike]], [[5. Mechanics\Spells\Geas.md|geas]]\n\
+    \n6th level (1 6th-level slots): [[5. Mechanics\Spells\True Seeing.md|true seeing]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
-    \ regains all its hit points. Only a [[/5. Mechanics/Spells/Wish.md|wish]] spell\
-    \ can prevent this trait from functioning."
+- "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
+    \ regains all its hit points. Only a [[5. Mechanics\Spells\Wish.md|wish]] spell can\
+    \ prevent this trait from functioning."
   "name": "Rejuvenation"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage, and the target must make\
-    \ a DC 15 Constitution saving throw, taking 45 (dice: 10d8|avg (10d8)) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage, and the target must\
+    \ make a DC 15 Constitution saving throw, taking 45 (dice: 10d8|avg (10d8))\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 15/30 ft., one\
+- "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 15/30 ft., one\
     \ creature. Hit: The target must make a DC 15 Constitution saving throw, taking\
     \ 45 (dice: 10d8|avg (10d8)) poison damage on a failed save, or half as much\
     \ damage on a successful one."
@@ -104,7 +97,7 @@ A naga doesn't require air, food, drink, or sleep.
 - "MM"
 - "ToA"
 - "GoS"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/guardian-naga.png"
+"image": "compendium/bestiary/monstrosity/token/guardian-naga.png"
 ```
 ^statblock
 

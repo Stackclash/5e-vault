@@ -11,6 +11,7 @@ tags:
 aliases: ["Mass Polymorph"]
 ---
 # Mass Polymorph
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -28,6 +29,6 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The target can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 160
+*Source: Xanathar's Guide to Everything p. 160*

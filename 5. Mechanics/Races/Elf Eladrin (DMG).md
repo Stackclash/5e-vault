@@ -10,7 +10,7 @@ aliases: ["Elf (Eladrin) (DMG)"]
 *Source: Dungeon Master's Guide p. 286*  
 
 - **Ability Scores**: Intelligence +1
-- **Creature Type**: subrace
+- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -31,11 +31,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [[5. Mechanics/Rules/Skills.md#Perception|Perception]] skill.
+You have proficiency in the [[\5. Mechanics\Rules\Skills.md#Perception|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], and magic can't put you to sleep.
+You have advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and magic can't put you to sleep.
 
 ### Trance
 
@@ -50,8 +50,8 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [[/5. Mechanics/Items/Longsword.md|longsword]], [[/5. Mechanics/Items/Shortsword.md|shortsword]], [[/5. Mechanics/Items/Shortbow.md|shortbow]], and [[/5. Mechanics/Items/Longbow.md|longbow]].
+You have proficiency with the [[5. Mechanics\Items\Longsword.md|longsword]], [[5. Mechanics\Items\Shortsword.md|shortsword]], [[5. Mechanics\Items\Shortbow.md|shortbow]], and [[5. Mechanics\Items\Longbow.md|longbow]].
 
 ### Fey Step
 
-You can cast the [[/5. Mechanics/Spells/Misty Step.md|misty step]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+You can cast the [[5. Mechanics\Spells\Misty Step.md|misty step]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.

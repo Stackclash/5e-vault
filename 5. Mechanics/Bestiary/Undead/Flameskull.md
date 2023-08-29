@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/tiny
 - monster/type/undead
-statblock: inline
+aliases: ["Flameskull"]
 ---
 # Flameskull
-*Source: Monster Manual p. 134, Curse of Strahd, Lost Mine of Phandelver, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 134, Curse of Strahd. Available in the Basic Rules.*  
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
 
@@ -29,13 +28,11 @@ The fire wreathing a flameskull burns continually, giving off bright light that 
 
 ## Eldritch Rejuvenation
 
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [[Dispel Magic|dispel magic]] or [[Remove Curse|remove curse]] spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]] or [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
 
 ## Undead Nature
 
 A flameskull doesn't require air, food, drink, or sleep
-
-## Stat Block
 
 ```statblock
 "name": "Flameskull"
@@ -52,10 +49,10 @@ A flameskull doesn't require air, food, drink, or sleep
 - !!int "16"
 - !!int "10"
 - !!int "11"
-"speed": "walk 0 ft., fly 40 ft. (hover)"
+"speed": "0 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "2"
-  "Arcana": !!int "5"
+  "Perception": "+2"
+  "Arcana": "+5"
 "damage_resistances": "lightning, necrotic, piercing"
 "damage_immunities": "cold, fire, poison"
 "condition_immunities": "charmed, frightened, paralyzed, poisoned, prone"
@@ -63,37 +60,31 @@ A flameskull doesn't require air, food, drink, or sleep
 "languages": "Common"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
+- "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks).\
     \ It requires no somatic or material components to cast its spells. The flameskull\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
-    \n1st level (3 1st-level slots): [[/5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-    \ [[/5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 2nd-level slots):\
-    \ [[/5. Mechanics/Spells/Blur.md|blur]], [[/5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\
-    \n3rd level (1 3rd-level slots): [[/5. Mechanics/Spells/Fireball.md|fireball]]"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Mage Hand.md|mage hand]]\n\
+    \n1st level (3 1st-level slots): [[5. Mechanics\Spells\Magic Missile.md|magic missile]],\
+    \ [[5. Mechanics\Spells\Shield.md|shield]]\n\n2nd level (2 2nd-level slots):\
+    \ [[5. Mechanics\Spells\Blur.md|blur]], [[5. Mechanics\Spells\Flaming Sphere.md|flaming sphere]]\n\
+    \n3rd level (1 3rd-level slots): [[5. Mechanics\Spells\Fireball.md|fireball]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright light\
+- "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright light\
     \ in a 15-foot radius and dim light for an additional 15 feet. It can switch between\
     \ the options as an action."
   "name": "Illumination"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flameskull has advantage on saving throws against spells and other\
+- "desc": "The flameskull has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
-    \ unless holy water is sprinkled on its remains or a [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\
-    \ or [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on them."
+- "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
+    \ unless holy water is sprinkled on its remains or a [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]]\
+    \ or [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell is cast on them."
   "name": "Rejuvenation"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flameskull uses Fire Ray twice."
+- "desc": "The flameskull uses Fire Ray twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 30 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 30 ft., one target.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage."
   "name": "Fire Ray"
 "source":
 - "MM"
@@ -113,7 +104,7 @@ A flameskull doesn't require air, food, drink, or sleep
 - "CRCotN"
 - "JttRC"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Undead/token/flameskull.png"
+"image": "compendium/bestiary/undead/token/flameskull.png"
 ```
 ^statblock
 

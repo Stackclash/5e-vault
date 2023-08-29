@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/small
 - monster/type/elemental
-statblock: inline
+aliases: ["Dust Mephit"]
 ---
 # Dust Mephit
-*Source: Monster Manual p. 215, Princes of the Apocalypse, Tomb of Annihilation*  
+*Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits
 
@@ -24,8 +23,6 @@ A mephit doesn't require food, drink, or sleep.
 ## Dust Mephit
 
 Composed of earth and air, dust mephits are drawn to catacombs and find death morbidly fascinating.
-
-## Stat Block
 
 ```statblock
 "name": "Dust Mephit"
@@ -42,10 +39,10 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - !!int "9"
 - !!int "11"
 - !!int "10"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  "Stealth": "+4"
+  "Perception": "+2"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
@@ -53,26 +50,22 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 "languages": "Auran, Terran"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit can innately cast [[/5. Mechanics/Spells/Sleep.md|sleep]], requiring\
+- "desc": "The mephit can innately cast [[5. Mechanics\Spells\Sleep.md|sleep]], requiring\
     \ no material components. Its innate spellcasting ability is Charisma.\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Sleep.md|sleep]]"
+    \ will: [[5. Mechanics\Spells\Sleep.md|sleep]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
-    \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
-    \ for 1 minute. A [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] creature can\
-    \ repeat the saving throw on each of its turns, ending the effect on itself on\
-    \ a success."
+- "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
+    \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
+    \ for 1 minute. A [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] creature\
+    \ can repeat the saving throw on each of its turns, ending the effect on itself\
+    \ on a success."
   "name": "Death Burst"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+- "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in that\
+    \ area must succeed on a DC 10 Dexterity saving throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Blinding Breath (Recharge 6)"
@@ -80,7 +73,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - "MM"
 - "PotA"
 - "ToA"
-"image": "5. Mechanics/Bestiary/Elemental/token/dust-mephit.png"
+"image": "compendium/bestiary/elemental/token/dust-mephit.png"
 ```
 ^statblock
 

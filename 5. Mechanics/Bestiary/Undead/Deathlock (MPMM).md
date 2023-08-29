@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead/warlock
-statblock: inline
+aliases: ["Deathlock"]
 ---
 # Deathlock
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
@@ -21,14 +20,12 @@ The forging of a pact between a warlock and a patron is no minor occasion—at l
 
 An powerful necromancer might also discover the wicked methods of creating a deathlock and then subjugate it, acting as the deathlock's patron.
 
-## Stat Block
-
 ```statblock
 "name": "Deathlock"
 "size": "Medium"
 "type": "undead"
 "subtype": "warlock"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "12"
 "hp": !!int "36"
 "hit_dice": "8d8"
@@ -39,13 +36,13 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - !!int "14"
 - !!int "12"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Intelligence": !!int "4"
+  "Charisma": "+5"
+  "Intelligence": "+4"
 "skillsaves":
-  "History": !!int "4"
-  "Arcana": !!int "4"
+  "History": "+4"
+  "Arcana": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
@@ -54,37 +51,31 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "languages": "the languages it knew in life"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 13):\n\nAt will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\n1/day each: [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[/5. Mechanics/Spells/Spider Climb.md|spider climb]]"
+- "desc": "The deathlock casts one of the following spells, using Charisma as the\
+    \ spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Disguise Self.md|disguise self]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]]\n\n1/day each: [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Hunger Of Hadar.md|hunger of Hadar]], [[5. Mechanics\Spells\Invisibility.md|invisibility]],\
+    \ [[5. Mechanics\Spells\Spider Climb.md|spider climb]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock has advantage on saving throws against any effect that turns\
+- "desc": "The deathlock has advantage on saving throws against any effect that turns\
     \ Undead."
   "name": "Turn Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock doesn't require air, food, drink, or sleep."
+- "desc": "The deathlock doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
+- "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) necrotic damage."
   "name": "Deathly Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
+    \ Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3)) necrotic damage."
   "name": "Grave Bolt"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/deathlock.png"
+"image": "compendium/bestiary/undead/token/deathlock.png"
 ```
 ^statblock
 

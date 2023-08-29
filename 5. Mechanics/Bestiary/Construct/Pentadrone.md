@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Pentadrone"]
 ---
 # Pentadrone
-*Source: Monster Manual p. 226, Tomb of Annihilation, Keys from the Golden Vault*  
+*Source: Monster Manual p. 226*  
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
 
@@ -44,8 +43,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
 
-## Stat Block
-
 ```statblock
 "name": "Pentadrone"
 "size": "Large"
@@ -61,32 +58,27 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "10"
 - !!int "10"
 - !!int "13"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Modron"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pentadrone can't be compelled to act in a manner contrary to its nature\
+- "desc": "The pentadrone can't be compelled to act in a manner contrary to its nature\
     \ or its instructions."
   "name": "Axiomatic Mind"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the pentadrone dies, its body disintegrates into dust, leaving behind\
+- "desc": "If the pentadrone dies, its body disintegrates into dust, leaving behind\
     \ its weapons and anything else it was carrying."
   "name": "Disintegration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pentadrone makes five arm attacks."
+- "desc": "The pentadrone makes five arm attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
   "name": "Arm"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
-    \ must succeed on a DC 11 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
+    \ must succeed on a DC 11 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralysis Gas (Recharge 5-6)"
@@ -94,6 +86,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "MM"
 - "ToA"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/pentadrone.png"
+"image": "compendium/bestiary/construct/token/pentadrone.png"
 ```
 ^statblock

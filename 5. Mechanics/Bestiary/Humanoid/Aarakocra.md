@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/humanoid/aarakocra
-statblock: inline
+aliases: ["Aarakocra"]
 ---
 # Aarakocra
-*Source: Monster Manual p. 12, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep, Light of Xaryxis*  
+*Source: Monster Manual p. 12*  
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
 
@@ -23,14 +22,12 @@ Aarakocra have no concept of political borders or property ownership, and the va
 
 ### Search for the Seven Shards
 
-The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, which once ruled many worlds. A creature known as the Queen of Chaos arose and initiated an interplanar war against vaati rule. To combat the threat, seven vaati heroes combined their powers to create the mighty _Rod of Law_. In a battle against the queen's greatest general, Mishka the Wolf Spider, a vaati killed Mishka by thrusting the rod into him like a spear. The rod shattered into seven shards that scattered across the multiverse. Aaracokra seek signs of the pieces' locations in order to rebuild what is now known as the _Rod of Seven Parts_.
+The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, which once ruled many worlds. A creature known as the Queen of Chaos arose and initiated an interplanar war against vaati rule. To combat the threat, seven vaati heroes combined their powers to create the mighty *Rod of Law*. In a battle against the queen's greatest general, Mishka the Wolf Spider, a vaati killed Mishka by thrusting the rod into him like a spear. The rod shattered into seven shards that scattered across the multiverse. Aaracokra seek signs of the pieces' locations in order to rebuild what is now known as the *Rod of Seven Parts*.
 
 > [!quote] Summoning Air Elementals
 > 
 > Five aarakocra within 30 feet of each other can magically summon an air elemental. Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can't perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.
 ^summoning-air-elementals
-
-## Stat Block
 
 ```statblock
 "name": "Aarakocra"
@@ -48,41 +45,36 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - !!int "11"
 - !!int "12"
 - !!int "11"
-"speed": "walk 20 ft., fly 50 ft."
+"speed": "20 ft., fly 50 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "senses": "passive Perception 15"
 "languages": "Auran, Aarakocra"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the aarakocra is flying and dives at least 30 feet straight toward a\
+- "desc": "If the aarakocra is flying and dives at least 30 feet straight toward a\
     \ target and then hits it with a melee weapon attack, the attack deals an extra\
     \ 3 (dice: 1d6|avg (1d6)) damage to the target."
   "name": "Dive Attack"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Talon"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2))\
+    \ piercing damage."
   "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
-    \ elemental](/compendium/bestiary/elemental/air-elemental.md). Each of the five\
+- "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
+    \ elemental](compendium/bestiary/elemental/air-elemental.md). Each of the five\
     \ must use its action and movement on three consecutive turns to perform an aerial\
-    \ dance and must maintain [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ while doing so (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ on a spell). When all five have finished their third turn of the dance, the\
-    \ elemental appears in an unoccupied space within 60 feet of them. It is friendly\
-    \ toward them and obeys their spoken commands. It remains for 1 hour, until it\
-    \ or all its summoners die, or until any of its summoners dismisses it as a bonus\
-    \ action. A summoner can't perform the dance again until it finishes a short rest.\
-    \ When the elemental returns to the Elemental Plane of Air, any aarakocra within\
-    \ 5 feet of it can return with it."
+    \ dance and must maintain [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ while doing so (as if concentrating on a spell). When all five have finished\
+    \ their third turn of the dance, the elemental appears in an unoccupied space\
+    \ within 60 feet of them. It is friendly toward them and obeys their spoken commands.\
+    \ It remains for 1 hour, until it or all its summoners die, or until any of its\
+    \ summoners dismisses it as a bonus action. A summoner can't perform the dance\
+    \ again until it finishes a short rest. When the elemental returns to the Elemental\
+    \ Plane of Air, any aarakocra within 5 feet of it can return with it."
   "name": "Summon Air Elemental"
 "source":
 - "MM"
@@ -93,7 +85,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - "IDRotF"
 - "CRCotN"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Humanoid/token/aarakocra.png"
+"image": "compendium/bestiary/humanoid/token/aarakocra.png"
 ```
 ^statblock
 

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/swamp
 - monster/size/small
 - monster/type/elemental
-statblock: inline
+aliases: ["Mud Mephit"]
 ---
 # Mud Mephit
-*Source: Monster Manual p. 216, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 216*  
 
 ## Mephits
 
@@ -24,8 +23,6 @@ A mephit doesn't require food, drink, or sleep.
 ## Mud Mephit
 
 Mud mephits are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
-
-## Stat Block
 
 ```statblock
 "name": "Mud Mephit"
@@ -42,34 +39,30 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 - !!int "9"
 - !!int "11"
 - !!int "7"
-"speed": "walk 20 ft., fly 20 ft., swim 20 ft."
+"speed": "20 ft., fly 20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  "Stealth": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Aquan, Terran"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium\
+- "desc": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium\
     \ or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving\
-    \ throw or be [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the\
+    \ throw or be [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]] until the\
     \ end of the creature's next turn."
   "name": "Death Burst"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
+- "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
     \ mound of mud."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage."
   "name": "Fists"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit belches viscid mud onto one creature within 5 feet of it. If\
+- "desc": "The mephit belches viscid mud onto one creature within 5 feet of it. If\
     \ the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving\
-    \ throw or be [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] for 1 minute.\
+    \ throw or be [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]] for 1 minute.\
     \ A creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Mud Breath (Recharge 6)"
@@ -81,7 +74,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 - "GoS"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Elemental/token/mud-mephit.png"
+"image": "compendium/bestiary/elemental/token/mud-mephit.png"
 ```
 ^statblock
 

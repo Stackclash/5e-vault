@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
+aliases: ["Nothic"]
 ---
 # Nothic
-*Source: Monster Manual p. 236, Curse of Strahd, Lost Mine of Phandelver, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*  
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 
@@ -24,8 +23,6 @@ Nothics possess a strange magical insight that allows them to extract knowledge 
 ### Lurkers in Magical Places
 
 Nothics are notorious for infiltrating arcane academies and other places rich in magical learning. They are driven by the vague knowledge that there exists a method to reverse their condition. This isn't a clear sense of purpose, but rather an obsessive tug at the end of the mind. Some nothics are clever enough to realize that this is merely part of the strange lesson for their folly, a false hope to drive them to seek out more arcane secrets.
-
-## Stat Block
 
 ```statblock
 "name": "Nothic"
@@ -42,38 +39,33 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 - !!int "13"
 - !!int "10"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Insight": !!int "4"
-  "Perception": !!int "2"
-  "Arcana": !!int "3"
+  "Stealth": "+5"
+  "Insight": "+4"
+  "Perception": "+2"
+  "Arcana": "+3"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nothic has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The nothic has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nothic makes two claw attacks."
+- "desc": "The nothic makes two claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
+- "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
     \ must succeed on a DC 12 Constitution saving throw against this magic or take\
-    \ dice: 3d6|avg (3d6) necrotic damage."
+    \ 10 (dice: 3d6|avg (3d6)) necrotic damage."
   "name": "Rotting Gaze"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
+- "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
     \ must contest its Charisma (Deception) check against the nothic's Wisdom (Insight)\
     \ check. If the nothic wins, it magically learns one fact or secret about the\
-    \ target. The target automatically wins if it is immune to being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]."
+    \ target. The target automatically wins if it is immune to being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]."
   "name": "Weird Insight"
 "source":
 - "MM"
@@ -89,7 +81,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 - "IDRotF"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Aberration/token/nothic.png"
+"image": "compendium/bestiary/aberration/token/nothic.png"
 ```
 ^statblock
 

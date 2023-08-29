@@ -14,6 +14,7 @@ tags:
 aliases: ["Illusory Script"]
 ---
 # Illusory Script
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual
@@ -27,8 +28,8 @@ To you and any creatures you designate when you cast the spell, the writing appe
 
 Should the spell be dispelled, the original script and the illusion both disappear.
 
-A creature with [[5. Mechanics/Rules/Senses.md#truesight|truesight]] can read the hidden message.
+A creature with [[\5. Mechanics\Rules\Senses.md#truesight|truesight]] can read the hidden message.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 252
+*Source: Player's Handbook p. 252. Available in the SRD.*

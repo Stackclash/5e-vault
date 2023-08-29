@@ -18,4 +18,4 @@ This wooden broom, which weighs 3 pounds, functions like a mundane broom until y
 
 You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.
 
-*Source: Dungeon Master's Guide p. 156*
+*Source: Dungeon Master's Guide p. 156. Available in the SRD.*

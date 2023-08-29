@@ -10,7 +10,7 @@ aliases: ["Skeleton (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Dexterity +2, Intelligence -4, Charisma -4
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -22,7 +22,7 @@ You are vulnerable to bludgeoning damage.
 
 ### Undead Nature
 
-You are immune to poison damage and [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], and you can't be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. You don't require air, food, drink, or sleep.
+You are immune to poison damage and [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]], and you can't be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]. You don't require air, food, drink, or sleep.
 
 ### Darkvision
 

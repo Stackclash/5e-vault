@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Cave Fisher"]
 ---
 # Cave Fisher
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
@@ -23,8 +22,6 @@ Nearly every part of a cave fisher is useful after the creature has been dispatc
 
 While some folk hunt cave fishers to kill them to harvest their filaments, shells, and blood, others capture cave fisher eggs and rear the hatchlings, which can be trained to guard passages or serve as beasts of war. Cave fishers have a natural aversion to fire, since their blood is flammable. As such, Underdark denizens often use the threat of fire when training them.
 
-## Stat Block
-
 ```statblock
 "name": "Cave Fisher"
 "size": "Medium"
@@ -40,32 +37,27 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 - !!int "3"
 - !!int "10"
 - !!int "3"
-"speed": "walk 20 ft., climb 20 ft."
+"speed": "20 ft., climb 20 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
+  "Stealth": "+5"
+  "Perception": "+2"
 "senses": "blindsight 60 ft., passive Perception 12"
 "languages": ""
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the cave fisher drops to half its hit points or fewer, it gains vulnerability\
+- "desc": "If the cave fisher drops to half its hit points or fewer, it gains vulnerability\
     \ to fire damage."
   "name": "Flammable Blood"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cave fisher can climb difficult surfaces, including upside down on\
+- "desc": "The cave fisher can climb difficult surfaces, including upside down on\
     \ ceilings, without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cave fisher makes two Claw attacks."
+- "desc": "The cave fisher makes two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One Large or smaller creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "One Large or smaller creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
     \ by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw.\
     \ On a failed save, the target is pulled into an unoccupied space within 5 feet\
     \ of the cave fisher, and the cave fisher makes one Claw attack against it. Anyone\
@@ -73,9 +65,8 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
     \ the target, the cave fisher can't use Adhesive Filament."
   "name": "Retract Filament"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cave fisher extends a sticky filament up to 60 feet, and the filament\
-    \ adheres to anything that touches it. A creature the filament adheres to is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "The cave fisher extends a sticky filament up to 60 feet, and the filament\
+    \ adheres to anything that touches it. A creature the filament adheres to is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
     \ by the cave fisher (escape DC 13), and ability checks made to escape this grapple\
     \ have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity\
     \ to poison and psychic damage). A weapon that fails to sever it becomes stuck\
@@ -86,7 +77,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/cave-fisher.png"
+"image": "compendium/bestiary/monstrosity/token/cave-fisher.png"
 ```
 ^statblock
 

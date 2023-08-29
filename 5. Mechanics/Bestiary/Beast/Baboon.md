@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/hill
 - monster/size/small
 - monster/type/beast
-statblock: inline
+aliases: ["Baboon"]
 ---
 # Baboon
-*Source: Monster Manual p. 318, Tales from the Yawning Portal, Tomb of Annihilation, Candlekeep Mysteries, Curse of Strahd, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
+*Source: Monster Manual p. 318, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Baboon"
@@ -27,20 +26,18 @@ statblock: inline
 - !!int "4"
 - !!int "12"
 - !!int "6"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The baboon has advantage on an attack roll against a creature if at least\
+- "desc": "The baboon has advantage on an attack roll against a creature if at least\
     \ one of the baboon's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
+    \ Hit: 1 (dice: 1d4 - 1|avg (1d4 - 1)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -50,7 +47,7 @@ statblock: inline
 - "CoS"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/baboon.png"
+"image": "compendium/bestiary/beast/token/baboon.png"
 ```
 ^statblock
 

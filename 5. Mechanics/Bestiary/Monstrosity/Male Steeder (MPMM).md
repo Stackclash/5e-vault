@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Male Steeder"]
 ---
 # Male Steeder
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
@@ -25,8 +24,6 @@ Steeders are intelligent enough to learn simple hand signals and vocal commands,
 
 Rather than spinning webs, steeders excrete a viscous substance from their legs. This goo allows them to creep along walls and ceilings and to grapple prey.
 
-## Stat Block
-
 ```statblock
 "name": "Male Steeder"
 "size": "Medium"
@@ -42,38 +39,34 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 - !!int "2"
 - !!int "10"
 - !!int "3"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "4"
+  "Stealth": "+5"
+  "Perception": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The distance of the steeder's long jumps is tripled; every foot of its\
+- "desc": "The distance of the steeder's long jumps is tripled; every foot of its\
     \ walking speed that it spends on the jump allows it to jump 3 feet."
   "name": "Extraordinary Leap"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The steeder can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The steeder can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 1d8|avg (1d8)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage plus 4 (dice: 1d8|avg\
+    \ (1d8)) poison damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one Small\
-    \ or Tiny creature. Hit: The target is stuck to the steeder's leg and [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). The steeder can have only one creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one Small\
+    \ or Tiny creature. Hit: The target is stuck to the steeder's leg and [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 12). The steeder can have only one creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
     \ at a time."
   "name": "Sticky Leg"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/male-steeder.png"
+"image": "compendium/bestiary/monstrosity/token/male-steeder.png"
 ```
 ^statblock
 

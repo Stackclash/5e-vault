@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Umber Hulk"]
 ---
 # Umber Hulk
-*Source: Monster Manual p. 292, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Infernal Machine Rebuild, Icewind Dale: Rime of the Frostmaiden, Light of Xaryxis*  
+*Source: Monster Manual p. 292*  
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
 
@@ -28,8 +27,6 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 > The wall caved in. That's the last thing I remember.
 
 
-## Stat Block
-
 ```statblock
 "name": "Umber Hulk"
 "size": "Large"
@@ -45,15 +42,14 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - !!int "9"
 - !!int "10"
 - !!int "10"
-"speed": "walk 30 ft., burrow 20 ft."
+"speed": "30 ft., burrow 20 ft."
 "senses": "darkvision 120 ft., tremorsense 60 ft., passive Perception 10"
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When a creature starts its turn within 30 feet of the umber hulk and is\
+- "desc": "When a creature starts its turn within 30 feet of the umber hulk and is\
     \ able to see the umber hulk's eyes, the umber hulk can magically force it to\
-    \ make a DC 15 Charisma saving throw, unless the umber hulk is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\n\
+    \ make a DC 15 Charisma saving throw, unless the umber hulk is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].\n\
     \nOn a failed saving throw, the creature can't take reactions until the start\
     \ of its next turn and rolls a dice: d8|avg (d8) to determine what it does\
     \ during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature\
@@ -65,22 +61,18 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
     \ when it can avert its eyes again. If the creature looks at the umber hulk in\
     \ the meantime, it must immediately make the save."
   "name": "Confusing Gaze"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The umber hulk can burrow through solid rock at half its burrowing speed\
+- "desc": "The umber hulk can burrow through solid rock at half its burrowing speed\
     \ and leaves a 5 foot-wide, 8-foot-high tunnel in its wake."
   "name": "Tunneler"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The umber hulk makes three attacks: two with its claws and one with its\
+- "desc": "The umber hulk makes three attacks: two with its claws and one with its\
     \ mandibles."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) slashing damage."
   "name": "Mandibles"
 "source":
 - "MM"
@@ -89,7 +81,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - "IMR"
 - "IDRotF"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/umber-hulk.png"
+"image": "compendium/bestiary/monstrosity/token/umber-hulk.png"
 ```
 ^statblock
 

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Gold Dragon Wyrmling"]
 ---
 # Gold Dragon Wyrmling
-*Source: Monster Manual p. 115*  
+*Source: Monster Manual p. 115. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
@@ -78,8 +77,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Gold Dragon Wyrmling"
 "size": "Medium"
@@ -95,30 +92,27 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "14"
 - !!int "11"
 - !!int "16"
-"speed": "walk 30 ft., fly 60 ft., swim 30 ft."
+"speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "5"
+  "Charisma": "+5"
+  "Dexterity": "+4"
+  "Wisdom": "+2"
+  "Constitution": "+5"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  "Stealth": "+4"
+  "Perception": "+4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 15-foot cone. Each creature in that area must make\
     \ a DC 13 Dexterity saving throw, taking 22 (dice: 4d10|avg (4d10)) fire damage\
     \ on a failed save, or half as much damage on a successful one.  \n- Weakening\
@@ -130,6 +124,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/gold-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/gold-dragon-wyrmling.png"
 ```
 ^statblock

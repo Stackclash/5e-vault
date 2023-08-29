@@ -10,7 +10,7 @@ aliases: ["Lizardfolk"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim equal to your walking speed
 
@@ -38,7 +38,7 @@ You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [[5. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[5. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[5. Mechanics/Rules/Skills.md#Nature|Nature]], [[5. Mechanics/Rules/Skills.md#Perception|Perception]], [[5. Mechanics/Rules/Skills.md#Stealth|Stealth]], or [[5. Mechanics/Rules/Skills.md#Survival|Survival]].
+Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [[\5. Mechanics\Rules\Skills.md#Animal%20Handling|Animal Handling]], [[\5. Mechanics\Rules\Skills.md#Medicine|Medicine]], [[\5. Mechanics\Rules\Skills.md#Nature|Nature]], [[\5. Mechanics\Rules\Skills.md#Perception|Perception]], [[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]], or [[\5. Mechanics\Rules\Skills.md#Survival|Survival]].
 
 ## Description
 

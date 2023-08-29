@@ -8,7 +8,7 @@ tags:
 aliases: ["Tempest Domain"]
 ---
 # Tempest Domain
-*Cleric: Divine Domain*  
+*[[Cleric.md|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 
@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]] |
-| 3rd | [[/5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[/5. Mechanics/Spells/Shatter.md|shatter]] |
-| 5th | [[/5. Mechanics/Spells/Call Lightning.md|call lightning]], [[/5. Mechanics/Spells/Sleet Storm.md|sleet storm]] |
-| 7th | [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Ice Storm.md|ice storm]] |
-| 9th | [[/5. Mechanics/Spells/Destructive Wave.md|destructive wave]], [[/5. Mechanics/Spells/Insect Plague.md|insect plague]] |
+| 1st | [[5. Mechanics\Spells\Fog Cloud.md|fog cloud]], [[5. Mechanics\Spells\Thunderwave.md|thunderwave]] |
+| 3rd | [[5. Mechanics\Spells\Gust Of Wind.md|gust of wind]], [[5. Mechanics\Spells\Shatter.md|shatter]] |
+| 5th | [[5. Mechanics\Spells\Call Lightning.md|call lightning]], [[5. Mechanics\Spells\Sleet Storm.md|sleet storm]] |
+| 7th | [[5. Mechanics\Spells\Control Water.md|control water]], [[5. Mechanics\Spells\Ice Storm.md|ice storm]] |
+| 9th | [[5. Mechanics\Spells\Destructive Wave.md|destructive wave]], [[5. Mechanics\Spells\Insect Plague.md|insect plague]] |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -54,13 +54,6 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 ### Divine Strike (Level 8)
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) thunder damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
-
-### Blessed Strikes (Level 8)
-_Source: Tasha's Cauldron of Everything p. 30_
-
-_8th-level cleric optional class features, which replaces the Divine Strike feature_
-
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Stormborn (Level 17)
 

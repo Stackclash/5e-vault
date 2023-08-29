@@ -12,6 +12,6 @@ aliases: ["Quiver"]
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
 
-A quiver can hold up to 20 [[/5. Mechanics/Items/Arrow.md|arrows]].
+A quiver can hold up to 20 [[5. Mechanics\Items\Arrow.md|arrows]].
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

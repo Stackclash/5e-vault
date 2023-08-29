@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/undead
-statblock: inline
+aliases: ["Nightwalker"]
 ---
 # Nightwalker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
@@ -24,7 +23,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "name": "Nightwalker"
 "size": "Huge"
 "type": "undead"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "337"
 "hit_dice": "25d12 + 175"
@@ -35,9 +34,9 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 - !!int "6"
 - !!int "9"
 - !!int "8"
-"speed": "walk 40 ft., fly 40 ft."
+"speed": "40 ft., fly 40 ft."
 "saves":
-  "Constitution": !!int "13"
+  "Constitution": "+13"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
@@ -47,44 +46,38 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "languages": ""
 "cr": "20"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature that starts its turn within 30 feet of the nightwalker must\
-    \ succeed on a DC 21 Constitution saving throw or take dice: 6d6|avg (6d6)\
+- "desc": "Any creature that starts its turn within 30 feet of the nightwalker must\
+    \ succeed on a DC 21 Constitution saving throw or take 21 (dice: 6d6|avg (6d6))\
     \ necrotic damage. Undead are immune to this aura."
   "name": "Annihilating Aura"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-    \ be revived except by a [[/5. Mechanics/Spells/Wish.md|wish]] spell."
+- "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
+    \ be revived except by a [[5. Mechanics\Spells\Wish.md|wish]] spell."
   "name": "Life Eater"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nightwalker doesn't require air, food, drink, or sleep."
+- "desc": "The nightwalker doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nightwalker makes two Enervating Focus attacks, one of which can be\
+- "desc": "The nightwalker makes two Enervating Focus attacks, one of which can be\
     \ replaced by Finger of Doom, if available."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 5d8 + 6|avg (5d8 + 6) necrotic damage. The target must succeed\
-    \ on a DC 21 Constitution saving throw or its hit point maximum is reduced by\
-    \ an amount equal to the necrotic damage taken. This reduction lasts until the\
-    \ target finishes a long rest. The target dies if its hit point maximum is reduced\
-    \ to 0."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
+    \ Hit: 28 (dice: 5d8 + 6|avg (5d8 + 6)) necrotic damage. The target must\
+    \ succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced\
+    \ by an amount equal to the necrotic damage taken. This reduction lasts until\
+    \ the target finishes a long rest. The target dies if its hit point maximum is\
+    \ reduced to 0."
   "name": "Enervating Focus"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nightwalker points at one creature it can see within 300 feet of it.\
-    \ The target must succeed on a DC 21 Wisdom saving throw or take dice: 6d12|avg\
-    \ (6d12) necrotic damage and become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ until the end of the nightwalker's next turn. While [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ in this way, the creature is also [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+- "desc": "The nightwalker points at one creature it can see within 300 feet of it.\
+    \ The target must succeed on a DC 21 Wisdom saving throw or take 39 (dice: 6d12|avg\
+    \ (6d12)) necrotic damage and become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ until the end of the nightwalker's next turn. While [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ in this way, the creature is also [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]].\
     \ If a target's saving throw is successful, the target is immune to the nightwalker's\
     \ Finger of Doom for the next 24 hours."
   "name": "Finger of Doom (Recharge 6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/nightwalker.png"
+"image": "compendium/bestiary/undead/token/nightwalker.png"
 ```
 ^statblock
 

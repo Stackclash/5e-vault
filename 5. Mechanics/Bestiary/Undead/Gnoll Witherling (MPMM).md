@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Gnoll Witherling"]
 ---
 # Gnoll Witherling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
@@ -28,7 +27,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "name": "Gnoll Witherling"
 "size": "Medium"
 "type": "undead"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "12"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
@@ -39,42 +38,36 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 - !!int "5"
 - !!int "5"
 - !!int "5"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, poisoned"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Gnoll but can't speak"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The witherling doesn't require air, food, drink, or sleep."
+- "desc": "The witherling doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The witherling makes two Bite or Spiked Club attacks."
+- "desc": "The witherling makes two Bite or Spiked Club attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) necrotic damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Spiked Club"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "After the witherling reduces a creature to 0 hit points with a melee attack\
+- "desc": "After the witherling reduces a creature to 0 hit points with a melee attack\
     \ on its turn, the gnoll moves up to half its speed and makes one Bite attack."
   "name": "Rampage"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to a gnoll being reduced to 0 hit points within 30 feet of\
+- "desc": "In response to a gnoll being reduced to 0 hit points within 30 feet of\
     \ the witherling, the witherling makes one Bite or Spiked Club attack."
   "name": "Vengeful Strike"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/gnoll-witherling.png"
+"image": "compendium/bestiary/undead/token/gnoll-witherling.png"
 ```
 ^statblock
 

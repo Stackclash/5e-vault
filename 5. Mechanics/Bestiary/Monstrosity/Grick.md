@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Grick"]
 ---
 # Grick
-*Source: Monster Manual p. 173, Curse of Strahd, Lost Mine of Phandelver, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 173, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
@@ -25,8 +24,6 @@ Gricks remain in an area until the food supply dwindles, often because sentient 
 ## Spoils of Slaughter
 
 Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these tell-tale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.
-
-## Stat Block
 
 ```statblock
 "name": "Grick"
@@ -43,28 +40,24 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - !!int "3"
 - !!int "14"
 - !!int "5"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky\
+- "desc": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky\
     \ terrain."
   "name": "Stone Camouflage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
+- "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
     \ grick can make one beak attack against the same target."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage."
   "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Beak"
 "source":
 - "MM"
@@ -76,7 +69,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - "CM"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/grick.png"
+"image": "compendium/bestiary/monstrosity/token/grick.png"
 ```
 ^statblock
 

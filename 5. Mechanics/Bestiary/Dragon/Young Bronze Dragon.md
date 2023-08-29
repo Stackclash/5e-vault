@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/coastal
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Bronze Dragon"]
 ---
 # Young Bronze Dragon
-*Source: Monster Manual p. 108, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries*  
+*Source: Monster Manual p. 108. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
@@ -77,8 +76,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Young Bronze Dragon"
 "size": "Large"
@@ -94,38 +91,33 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "14"
 - !!int "13"
 - !!int "17"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "7"
+  "Charisma": "+6"
+  "Dexterity": "+3"
+  "Wisdom": "+4"
+  "Constitution": "+7"
 "skillsaves":
-  "Stealth": !!int "3"
-  "Insight": !!int "4"
-  "Perception": !!int "7"
+  "Stealth": "+3"
+  "Insight": "+4"
+  "Perception": "+7"
 "damage_immunities": "lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 15 Dexterity saving throw, taking 55 (dice: 10d10|avg\
     \ (10d10)) lightning damage on a failed save, or half as much damage on a successful\
@@ -138,7 +130,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "WDH"
 - "GoS"
 - "CM"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-bronze-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-bronze-dragon.png"
 ```
 ^statblock
 

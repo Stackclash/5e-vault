@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,14 +6,14 @@ tags:
 - monster/environment/underwater
 - monster/size/large
 - monster/type/aberration
-statblock: inline
+aliases: ["Morkoth"]
 ---
 # Morkoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [[Conditions#petrified|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[Conditions#petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -30,13 +29,11 @@ A morkoth claims dominion over an entire island, and it also maintains a central
 
 A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 
-## Stat Block
-
 ```statblock
 "name": "Morkoth"
 "size": "Large"
 "type": "aberration"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
 "hp": !!int "165"
 "hit_dice": "22d10 + 44"
@@ -47,64 +44,57 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 - !!int "20"
 - !!int "15"
 - !!int "13"
-"speed": "walk 25 ft., swim 50 ft."
+"speed": "25 ft., swim 50 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "9"
+  "Dexterity": "+6"
+  "Wisdom": "+6"
+  "Intelligence": "+9"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "10"
-  "History": !!int "9"
-  "Arcana": !!int "9"
+  "Stealth": "+6"
+  "Perception": "+10"
+  "History": "+9"
+  "Arcana": "+9"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 "languages": "telepathy 120 ft."
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The morkoth casts one of the following spells, requiring no material components\
+- "desc": "The morkoth casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-    \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-    \ [[/5. Mechanics/Spells/Sending.md|sending]]"
+    \ will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Mage Hand.md|mage hand]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Dimension Door.md|dimension door]],\
+    \ [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]],\
+    \ [[5. Mechanics\Spells\Sending.md|sending]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The morkoth can breathe air and water."
+- "desc": "The morkoth can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The morkoth makes either two Bite attacks and one Tentacles attack or three\
+- "desc": "The morkoth makes either two Bite attacks and one Tentacles attack or three\
     \ Bite attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage plus dice: 3d6|avg (3d6)\
-    \ psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage plus 10 (dice: 3d6|avg\
+    \ (3d6)) psychic damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 2|avg (3d8 + 2) bludgeoning damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] and takes\
-    \ dice: 3d8 + 2|avg (3d8 + 2) bludgeoning damage at the start of each of its\
-    \ turns, and the morkoth can't use its tentacles on another target."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 15 ft., one target.\
+    \ Hit: 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 14) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ and takes 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning damage at the start\
+    \ of each of its turns, and the morkoth can't use its tentacles on another target."
   "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature in\
+- "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature in\
     \ that area must make a DC 17 Wisdom saving throw. On a failed save, the creature\
-    \ is [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the morkoth for 1 minute.\
-    \ While [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] in this way, the target\
-    \ tries to get as close to the morkoth as possible, using its actions to Dash\
-    \ until it is within 5 feet of the morkoth. A [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ is [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by the morkoth for 1 minute.\
+    \ While [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] in this way, the target\
+    \ tries to get as close to the morkoth as possible, using its actions to [[\5. Mechanics\Rules\Actions.md#Dash|Dash]]\
+    \ until it is within 5 feet of the morkoth. A [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ target can repeat the saving throw at the end of each of its turns and whenever\
     \ it takes damage, ending the effect on itself on a success. If a creature's saving\
     \ throw is successful or the effect ends for it, the creature has advantage on\
     \ saving throws against the morkoth's Hypnosis for 24 hours."
   "name": "Hypnosis"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the morkoth makes a successful saving throw against a spell or a spell\
+- "desc": "If the morkoth makes a successful saving throw against a spell or a spell\
     \ attack misses it, the morkoth can choose another creature (including the spellcaster)\
     \ it can see within 120 feet of it. The spell targets the chosen creature instead\
     \ of the morkoth. If the spell forced a saving throw, the chosen creature makes\
@@ -114,7 +104,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/morkoth.png"
+"image": "compendium/bestiary/aberration/token/morkoth.png"
 ```
 ^statblock
 

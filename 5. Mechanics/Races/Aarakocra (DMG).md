@@ -10,7 +10,7 @@ aliases: ["Aarakocra (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Dexterity +2, Wisdom +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: walk: 20 ft.; fly: 50 ft.
 

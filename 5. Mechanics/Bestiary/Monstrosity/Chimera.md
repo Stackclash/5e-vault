@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Chimera"]
 ---
 # Chimera
-*Source: Monster Manual p. 39, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 39. Available in the SRD and the Basic Rules.*  
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
 
@@ -25,8 +24,6 @@ A chimera combines the worst aspects of its three parts. Its dragon head drives 
 ## Servant of Evil
 
 Though chimeras are far from cunning, their draconic ego makes them susceptible to flattery and gifts. If offered food and treasure, a chimera might spare a traveler. A villain can lure a chimera into service by keeping it well fed and its treasure hoard well stocked.
-
-## Stat Block
 
 ```statblock
 "name": "Chimera"
@@ -43,32 +40,27 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 - !!int "3"
 - !!int "14"
 - !!int "10"
-"speed": "walk 30 ft., fly 60 ft."
+"speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "8"
+  "Perception": "+8"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chimera makes three attacks: one with its bite, one with its horns,\
+- "desc": "The chimera makes three attacks: one with its bite, one with its horns,\
     \ and one with its claws. When its fire breath is available, it can use the breath\
     \ in place of its bite or horns."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 1d12 + 4|avg (1d12 + 4)) bludgeoning damage."
   "name": "Horns"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon head exhales fire in a 15-foot cone. Each creature in that area\
+- "desc": "The dragon head exhales fire in a 15-foot cone. Each creature in that area\
     \ must make a DC 15 Dexterity saving throw, taking 31 (dice: 7d8|avg (7d8))\
     \ fire damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
@@ -81,7 +73,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 - "WDMM"
 - "SDW"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/chimera.png"
+"image": "compendium/bestiary/monstrosity/token/chimera.png"
 ```
 ^statblock
 

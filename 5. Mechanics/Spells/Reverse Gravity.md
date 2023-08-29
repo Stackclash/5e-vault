@@ -11,6 +11,7 @@ tags:
 aliases: ["Reverse Gravity"]
 ---
 # Reverse Gravity
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ If some solid object (such as a ceiling) is encountered in this fall, falling ob
 
 At the end of the duration, affected objects and creatures fall back down.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 272
+*Source: Player's Handbook p. 272. Available in the SRD.*

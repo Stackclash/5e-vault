@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Animated Armor"]
 ---
 # Animated Armor
-*Source: Monster Manual p. 19, Curse of Strahd, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
+*Source: Monster Manual p. 19, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
 
@@ -21,8 +20,6 @@ Animated objects are crafted with potent magic to follow the commands of their c
 ### Constructed Nature
 
 An animated object doesn't require air, food, drink, or sleep. The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.
-
-## Stat Block
 
 ```statblock
 "name": "Animated Armor"
@@ -39,7 +36,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - !!int "1"
 - !!int "3"
 - !!int "1"
-"speed": "walk 25 ft."
+"speed": "25 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
   \ petrified, poisoned"
@@ -47,24 +44,21 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armor is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+- "desc": "The armor is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
+    \ while in the area of an [[5. Mechanics\Spells\Antimagic Field.md|antimagic field]].\
+    \ If targeted by [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], the armor\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
+    \ DC or fall [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for 1\
+    \ minute."
   "name": "Antimagic Susceptibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the armor remains motionless, it is indistinguishable from a normal\
+- "desc": "While the armor remains motionless, it is indistinguishable from a normal\
     \ suit of armor."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armor makes two melee attacks."
+- "desc": "The armor makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"
@@ -82,6 +76,6 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - "CM"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-armor.png"
+"image": "compendium/bestiary/construct/token/animated-armor.png"
 ```
 ^statblock

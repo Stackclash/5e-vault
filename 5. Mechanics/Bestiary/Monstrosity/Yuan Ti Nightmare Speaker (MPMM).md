@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/warlock
-statblock: inline
+aliases: ["Yuan-ti Nightmare Speaker"]
 ---
 # Yuan-ti Nightmare Speaker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
@@ -22,7 +21,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "warlock"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
@@ -33,77 +32,68 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 - !!int "14"
 - !!int "12"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "3"
+  "Charisma": "+5"
+  "Wisdom": "+3"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
+  "Deception": "+5"
+  "Stealth": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti casts one of the following spells, requiring no material components\
+- "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only),\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
-    \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Fear.md|fear]]\n\
-    \n3/day: [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] (snakes only), [mage\
+    \ hand](compendium/spells/mage-hand.md), [[5. Mechanics\Spells\Message.md|message]],\
+    \ [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\n2/day each:\
+    \ [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Fear.md|fear]]\n\
+    \n3/day: [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the yuan-ti's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the yuan-ti's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes one Constrict attack and one Scimitar attack, or it makes\
+- "desc": "The yuan-ti makes one Constrict attack and one Scimitar attack, or it makes\
     \ two Spectral Fangs attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]. The yuan-ti\
-    \ can constrict only one creature at a time."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 14) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
+    \ The yuan-ti can constrict only one creature at a time."
   "name": "Constrict"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
+    \ Hit: 16 (dice: 3d8 + 3|avg (3d8 + 3)) necrotic damage."
   "name": "Spectral Fangs"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti taps into the nightmares of one creature it can see within\
+- "desc": "The yuan-ti taps into the nightmares of one creature it can see within\
     \ 60 feet of it and creates an illusory, immobile manifestation of the creature's\
     \ deepest fears, visible only to that creature.\n\nThe target must make a DC 13\
-    \ Intelligence saving throw. On a failed save, the target takes dice: 4d10|avg\
-    \ (4d10) psychic damage and is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ Intelligence saving throw. On a failed save, the target takes 22 (dice: 4d10|avg\
+    \ (4d10)) psychic damage and is [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ of the manifestation, believing it to be real. The yuan-ti must concentrate\
-    \ to maintain the illusion (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ on a spell), which lasts for up to 1 minute and can't be harmed. The target\
-    \ can repeat the saving throw at the end of each of its turns, ending the illusion\
-    \ on a success or taking 11 (dice: 2d10|avg (2d10)) psychic damage on a failure."
+    \ to maintain the illusion (as if concentrating on a spell), which lasts for up\
+    \ to 1 minute and can't be harmed. The target can repeat the saving throw at the\
+    \ end of each of its turns, ending the illusion on a success or taking 11 (dice:\
+    \ 2d10|avg (2d10)) psychic damage on a failure."
   "name": "Invoke Nightmare (Recharges after a Short or Long Rest)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
+- "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
     \ Its statistics are the same in each form. Any equipment it is wearing or carrying\
     \ isn't transformed. If it dies, it stays in its current form."
   "name": "Change Shape"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-nightmare-speaker.png"
+"image": "compendium/bestiary/monstrosity/token/yuan-ti-nightmare-speaker.png"
 ```
 ^statblock
 

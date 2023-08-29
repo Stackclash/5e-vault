@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: inline
+aliases: ["Drow Priestess of Lolth"]
 ---
 # Drow Priestess of Lolth
-*Source: Monster Manual p. 129, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  
+*Source: Monster Manual p. 129*  
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
 
@@ -53,7 +52,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[Conditions#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!quote] Variant: Drow Magic Armor and Weapons
 > 
@@ -68,8 +67,6 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 > 
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
 
-
-## Stat Block
 
 ```statblock
 "name": "Drow Priestess of Lolth"
@@ -87,78 +84,70 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - !!int "13"
 - !!int "17"
 - !!int "18"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Constitution": !!int "4"
+  "Charisma": "+7"
+  "Wisdom": "+6"
+  "Constitution": "+4"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Religion": !!int "4"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
+  "Stealth": "+5"
+  "Religion": "+4"
+  "Insight": "+6"
+  "Perception": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow's spellcasting ability is Charisma (spell save DC 15). She can\
+- "desc": "The drow's spellcasting ability is Charisma (spell save DC 15). She can\
     \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
+    \ will: [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]]\n\n1/day each:\
+    \ [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Faerie Fire.md|faerie fire]],\
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]] (self only)"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom\
+- "desc": "The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The drow has the\
-    \ following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Poison Spray.md|poison spray]], [[/5. Mechanics/Spells/Resistance.md|resistance]],\
-    \ [[/5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
-    \ [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/5. Mechanics/Spells/Detect Poison And Disease.md|detect poison and disease]],\
-    \ [[/5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]\n\n2nd level (3 2nd-level\
-    \ slots): [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection\
-    \ from poison](/compendium/spells/protection-from-poison.md), [[/5. Mechanics/Spells/Web.md|web]]\n\
-    \n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
-    \ (2 [[/5. Mechanics/Bestiary/Beast/Giant Spider.md|giant spiders]]), [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
-    \n4th level (3 4th-level slots): [[/5. Mechanics/Spells/Divination.md|divination]],\
-    \ [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (2 5th-level slots): [[/5. Mechanics/Spells/Insect Plague.md|insect plague]],\
-    \ [[/5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]"
+    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Poison Spray.md|poison spray]], [[5. Mechanics\Spells\Resistance.md|resistance]],\
+    \ [[5. Mechanics\Spells\Spare The Dying.md|spare the dying]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]],\
+    \ [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]], [[5. Mechanics\Spells\Detect Poison And Disease.md|detect poison and disease]],\
+    \ [[5. Mechanics\Spells\Ray Of Sickness.md|ray of sickness]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]], [protection\
+    \ from poison](compendium/spells/protection-from-poison.md), [[5. Mechanics\Spells\Web.md|web]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics\Spells\Conjure Animals.md|conjure animals]]\
+    \ (2 [[5. Mechanics\Bestiary\Beast\Giant Spider.md|giant spiders]]), [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics\Spells\Divination.md|divination]],\
+    \ [[5. Mechanics\Spells\Freedom Of Movement.md|freedom of movement]]\n\n5th level\
+    \ (2 5th-level slots): [[5. Mechanics\Spells\Insect Plague.md|insect plague]],\
+    \ [[5. Mechanics\Spells\Mass Cure Wounds.md|mass cure wounds]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
+    \ on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow makes two scourge attacks."
+- "desc": "The drow makes two scourge attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage plus dice: 5d6|avg (5d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage plus 17 (dice: 5d6|avg\
+    \ (5d6)) poison damage."
   "name": "Scourge"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow attempts to magically summon a [[/5. Mechanics/Bestiary/Fiend/Yochlol.md|yochlol]]\
-    \ with a 30|30 percent|30% summoning chance% chance chance of success. If the\
-    \ attempt fails, the drow takes dice: 1d10|avg (1d10) psychic damage. Otherwise,\
-    \ the summoned demon appears in an unoccupied space within 60 feet of its summoner,\
-    \ acts as an ally of its summoner, and can't summon other demons. It remains for\
-    \ 10 minutes, until it or its summoner dies, or until its summoner dismisses it\
-    \ as an action."
+- "desc": "The drow attempts to magically summon a [[5. Mechanics\Bestiary\Fiend\Yochlol.md|yochlol]]\
+    \ with a 30% chance chance of success. If the attempt fails, the drow takes 5\
+    \ (dice: 1d10|avg (1d10)) psychic damage. Otherwise, the summoned demon appears\
+    \ in an unoccupied space within 60 feet of its summoner, acts as an ally of its\
+    \ summoner, and can't summon other demons. It remains for 10 minutes, until it\
+    \ or its summoner dies, or until its summoner dismisses it as an action."
   "name": "Summon Demon (1/Day)"
 "source":
 - "MM"
 - "TftYP"
 - "WDMM"
 - "GoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow-priestess-of-lolth.png"
+"image": "compendium/bestiary/humanoid/token/drow-priestess-of-lolth.png"
 ```
 ^statblock
 

@@ -16,4 +16,4 @@ aliases: ["Potion of Healing"]
 
 You regain `dice: 2d4 + 2` (`2d4 + 2`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
-*Source: Dungeon Master's Guide p. 187*
+*Source: Dungeon Master's Guide p. 187. Available in the SRD.*

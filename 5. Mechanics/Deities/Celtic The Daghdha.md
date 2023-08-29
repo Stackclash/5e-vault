@@ -9,7 +9,7 @@ tags:
 aliases: ["The Daghdha"]
 ---
 # The Daghdha
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: Nature, Trickery

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/dragon
-statblock: inline
+aliases: ["Faerie Dragon (Orange)"]
 ---
 # Faerie Dragon (Orange)
 *Source: Monster Manual p. 133*  
@@ -38,8 +37,6 @@ A faerie dragon's scales change hue as it ages, moving through all the colors of
 
 CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green, blue, indigo, or violet faerie dragon
 
-## Stat Block
-
 ```statblock
 "name": "Faerie Dragon (Orange)"
 "size": "Tiny"
@@ -55,51 +52,43 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 - !!int "14"
 - !!int "12"
 - !!int "16"
-"speed": "walk 10 ft., fly 60 ft."
+"speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "3"
-  "Arcana": !!int "4"
+  "Stealth": "+7"
+  "Perception": "+3"
+  "Arcana": "+4"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
+- "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
     \ It can innately cast a number of spells, requiring no material components:\n\
-    \n1/day each: [[/5. Mechanics/Spells/Color Spray.md|color spray]], [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]"
+    \n1/day each: [[5. Mechanics\Spells\Color Spray.md|color spray]], [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
+- "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
     \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
     \ gaining new spells as they mature.\n\nRed—5 years or less\n\nOrange—6–10 years\n\
     \nYellow—11–20 years\n\nGreen—21–30 years\n\nBlue—31–40 years\n\nIndigo—41–50\
     \ years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
     \ to 2."
   "name": "The Colors of Age"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the dragon can magically turn [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until its [[5. Mechanics/Rules/Status.md#concentration|concentration]] ends (as\
-    \ if [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell). Any\
-    \ equipment the dragon wears or carries is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ with it."
+- "desc": "As a bonus action, the dragon can magically turn [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
+    \ until its [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]] ends\
+    \ (as if concentrating on a spell). Any equipment the dragon wears or carries\
+    \ is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] with it."
   "name": "Superior Invisibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Using telepathy, the dragon can magically communicate with any other faerie\
+- "desc": "Using telepathy, the dragon can magically communicate with any other faerie\
     \ dragon within 60 feet of it."
   "name": "Limited Telepathy"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The faerie dragon has advantage on saving throws against spells and other\
+- "desc": "The faerie dragon has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales a puff of euphoria gas at one creature within 5 feet\
+- "desc": "The dragon exhales a puff of euphoria gas at one creature within 5 feet\
     \ of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute,\
     \ the target can't take reactions and must roll a dice: d6|avg (d6) at the\
     \ start of each of its turns to determine its behavior during the turn:\n\n1–\
@@ -110,7 +99,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
   "name": "Euphoria Breath (Recharge 5-6)"
 "source":
 - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/faerie-dragon-orange.png"
+"image": "compendium/bestiary/dragon/token/faerie-dragon-orange.png"
 ```
 ^statblock
 

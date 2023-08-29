@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/coastal
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Djinni"]
 ---
 # Djinni
-*Source: Monster Manual p. 144, Princes of the Apocalypse, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 144. Available in the SRD.*  
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
 
@@ -61,8 +60,6 @@ Noble genies are the rarest of their kind. They are used to getting what they wa
 
 Genies acknowledge the gods as powerful entities but have no desire to court or worship them. They find the endless fawning and mewling of religious devotees tiresome-except as it is directed toward them by their worshipful slaves.
 
-## Stat Block
-
 ```statblock
 "name": "Djinni"
 "size": "Large"
@@ -78,55 +75,49 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - !!int "15"
 - !!int "16"
 - !!int "20"
-"speed": "walk 30 ft., fly 90 ft."
+"speed": "30 ft., fly 90 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
+  "Charisma": "+9"
+  "Dexterity": "+6"
+  "Wisdom": "+7"
 "damage_immunities": "lightning, thunder"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Auran"
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
+- "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
     \ dice: d20+9 (+9 to hit) with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
-    \ ([[/5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]] only), [[/5. Mechanics/Spells/Creation.md|creation]],\
-    \ [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]]\
-    \ (can create wine instead of water), [[/5. Mechanics/Spells/Tongues.md|tongues]],\
-    \ [[/5. Mechanics/Spells/Wind Walk.md|wind walk]]"
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics\Spells\Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Thunderwave.md|thunderwave]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Conjure Elemental.md|conjure elemental]]\
+    \ ([[5. Mechanics\Bestiary\Elemental\Air Elemental.md|air elemental]] only), [[5. Mechanics\Spells\Creation.md|creation]],\
+    \ [[5. Mechanics\Spells\Gaseous Form.md|gaseous form]], [[5. Mechanics\Spells\Invisibility.md|invisibility]],\
+    \ [[5. Mechanics\Spells\Major Image.md|major image]], [[5. Mechanics\Spells\Plane Shift.md|plane shift]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Create Food And Water.md|create food and water]]\
+    \ (can create wine instead of water), [[5. Mechanics\Spells\Tongues.md|tongues]],\
+    \ [[5. Mechanics\Spells\Wind Walk.md|wind walk]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
+- "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
     \ behind only equipment the djinni was wearing or carrying."
   "name": "Elemental Demise"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The djinni makes three scimitar attacks."
+- "desc": "The djinni makes three scimitar attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 1d6|avg (1d6)\
-    \ lightning or thunder damage (djinni's choice)."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage plus 3 (dice: 1d6|avg\
+    \ (1d6)) lightning or thunder damage (djinni's choice)."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
+- "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
     \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\
-    \ long as the djinni maintains [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
-    \ Any creature but the djinni that enters the whirlwind must succeed on a DC 18\
-    \ Strength saving throw or be [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ long as the djinni maintains [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ (as if concentrating on a spell). Any creature but the djinni that enters the\
+    \ whirlwind must succeed on a DC 18 Strength saving throw or be [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures\
-    \ [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] by the whirlwind move\
+    \ [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]] by the whirlwind move\
     \ with it. The whirlwind ends if the djinni loses sight of it.\n\nA creature can\
-    \ use its action to free a creature [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ use its action to free a creature [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ by the whirlwind, including itself, by succeeding on a DC 18 Strength check.\
-    \ If the check succeeds, the creature is no longer [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ If the check succeeds, the creature is no longer [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ and moves to the nearest space outside the whirlwind."
   "name": "Create Whirlwind"
 "source":
@@ -136,7 +127,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "TCE"
 - "CM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Elemental/token/djinni.png"
+"image": "compendium/bestiary/elemental/token/djinni.png"
 ```
 ^statblock
 

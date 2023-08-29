@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Grick Alpha"]
 ---
 # Grick Alpha
-*Source: Monster Manual p. 173, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 173*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
@@ -25,8 +24,6 @@ Gricks remain in an area until the food supply dwindles, often because sentient 
 ## Spoils of Slaughter
 
 Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these tell-tale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.
-
-## Stat Block
 
 ```statblock
 "name": "Grick Alpha"
@@ -43,40 +40,35 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 - !!int "4"
 - !!int "14"
 - !!int "9"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky\
+- "desc": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky\
     \ terrain."
   "name": "Stone Camouflage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grick makes two attacks: one with its tail and one with its tentacles.\
+- "desc": "The grick makes two attacks: one with its tail and one with its tentacles.\
     \ If it hits with its tentacles, the grick can make one beak attack against the\
     \ same target."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d8 + 4|avg (4d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) slashing damage."
   "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage."
   "name": "Beak"
 "source":
 - "MM"
 - "WDMM"
 - "CM"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/grick-alpha.png"
+"image": "compendium/bestiary/monstrosity/token/grick-alpha.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
+aliases: ["Swarm of Cranium Rats"]
 ---
 # Swarm of Cranium Rats
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
@@ -18,13 +17,11 @@ Mind flayers create cranium rats by bombarding rats with psionic energy. Cranium
 
 A single cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us." Some mind flayer colonies use cranium rats as spies. The rats invade communities and act as eyes and ears for the colony's elder brain, transmitting their thoughts when they swarm and are within range of the elder brain's telepathy.
 
-## Stat Block
-
 ```statblock
 "name": "Swarm of Cranium Rats"
 "size": "Medium"
 "type": "aberration"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "12"
 "hp": !!int "76"
 "hit_dice": "17d8"
@@ -35,7 +32,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 - !!int "15"
 - !!int "11"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
   \ restrained, stunned"
@@ -43,33 +40,27 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "languages": "telepathy 30 ft."
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As long as it has more than half of its hit points remaining, the swarm\
+- "desc": "As long as it has more than half of its hit points remaining, the swarm\
     \ casts one of the following spells, requiring no spell components and using Intelligence\
-    \ as the spellcasting ability (spell save DC 13):\n\nAt will: [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [detect\
-    \ thoughts](/compendium/spells/detect-thoughts.md)\n\n1/day each: [[/5. Mechanics/Spells/Confusion.md|confusion]],\
-    \ [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]]"
+    \ as the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Comprehend Languages.md|comprehend languages]], [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Confusion.md|confusion]], [[5. Mechanics\Spells\Dominate Monster.md|dominate monster]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
+- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
     \ can move through any opening large enough for a Tiny rat. The swarm can't regain\
     \ hit points or gain temporary hit points."
   "name": "Swarm"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swarm is immune to any effect that would sense its emotions or read\
+- "desc": "The swarm is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as to all divination spells."
   "name": "Telepathic Shroud"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 4d6|avg (4d6) piercing damage, or 7 (dice:\
-    \ 2d6|avg (2d6)) piercing damage if the swarm has half of its hit points or\
-    \ fewer, plus dice: 5d8|avg (5d8) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 0 ft., one target\
+    \ in the swarm's space. Hit: 14 (dice: 4d6|avg (4d6)) piercing damage, or\
+    \ 7 (dice: 2d6|avg (2d6)) piercing damage if the swarm has half of its hit\
+    \ points or fewer, plus 22 (dice: 5d8|avg (5d8)) psychic damage."
   "name": "Bites"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swarm sheds dim light from its brains in a 5-foot radius, increases\
+- "desc": "The swarm sheds dim light from its brains in a 5-foot radius, increases\
     \ the illumination to bright light in a 5- to 20-foot radius (and dim light for\
     \ an additional number of feet equal to the chosen radius), or extinguishes the\
     \ light."
@@ -77,7 +68,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/swarm-of-cranium-rats.png"
+"image": "compendium/bestiary/aberration/token/swarm-of-cranium-rats.png"
 ```
 ^statblock
 

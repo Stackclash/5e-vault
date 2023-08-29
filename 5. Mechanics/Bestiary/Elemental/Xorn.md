@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/elemental
-statblock: inline
+aliases: ["Xorn"]
 ---
 # Xorn
-*Source: Monster Manual p. 304, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 304. Available in the SRD.*  
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
 
@@ -23,8 +22,6 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 > 
 > Keep a few gems in your pocket. A hungry xorn is a helpful xorn.
 
-
-## Stat Block
 
 ```statblock
 "name": "Xorn"
@@ -41,44 +38,38 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 - !!int "11"
 - !!int "10"
 - !!int "11"
-"speed": "walk 20 ft., burrow 20 ft."
+"speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "6"
+  "Stealth": "+3"
+  "Perception": "+6"
 "damage_resistances": "piercing, slashing from nonmagical attacks that aren't adamantine"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": "Terran"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
+- "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
     \ doing so, the xorn doesn't disturb the material it moves through."
   "name": "Earth Glide"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky\
+- "desc": "The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky\
     \ terrain."
   "name": "Stone Camouflage"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xorn can pinpoint, by scent, the location of precious metals and stones,\
+- "desc": "The xorn can pinpoint, by scent, the location of precious metals and stones,\
     \ such as coins and gems, within 60 feet of it."
   "name": "Treasure Sense"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The xorn makes three claw attacks and one bite attack."
+- "desc": "The xorn makes three claw attacks and one bite attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
   "name": "Claw"
 "source":
 - "MM"
 - "PotA"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Elemental/token/xorn.png"
+"image": "compendium/bestiary/elemental/token/xorn.png"
 ```
 ^statblock
 

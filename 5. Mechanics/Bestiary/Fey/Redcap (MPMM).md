@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/swamp
 - monster/size/small
 - monster/type/fey
-statblock: inline
+aliases: ["Redcap"]
 ---
 # Redcap
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
@@ -29,7 +28,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "name": "Redcap"
 "size": "Small"
 "type": "fey"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "45"
 "hit_dice": "6d6 + 24"
@@ -40,39 +39,35 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 - !!int "10"
 - !!int "12"
 - !!int "9"
-"speed": "walk 25 ft."
+"speed": "25 ft."
 "skillsaves":
-  "Athletics": !!int "6"
-  "Perception": !!int "3"
+  "Athletics": "+6"
+  "Perception": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The redcap has disadvantage on Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+- "desc": "The redcap has disadvantage on Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]])\
     \ checks."
   "name": "Iron Boots"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While grappling, the redcap is considered to be Medium. Also, wielding\
+- "desc": "While grappling, the redcap is considered to be Medium. Also, wielding\
     \ a heavy weapon doesn't impose disadvantage on its attack rolls."
   "name": "Outsize Strength"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The redcap makes three Wicked Sickle attacks."
+- "desc": "The redcap makes three Wicked Sickle attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) slashing damage."
   "name": "Wicked Sickle"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
+- "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
     \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw or\
-    \ take dice: 3d10 + 4|avg (3d10 + 4) bludgeoning damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ take 20 (dice: 3d10 + 4|avg (3d10 + 4)) bludgeoning damage and be knocked\
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Ironbound Pursuit"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/redcap.png"
+"image": "compendium/bestiary/fey/token/redcap.png"
 ```
 ^statblock
 

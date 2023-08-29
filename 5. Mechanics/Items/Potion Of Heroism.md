@@ -14,6 +14,6 @@ aliases: ["Potion of Heroism"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [[/5. Mechanics/Spells/Bless.md|bless]] spell (no [[5. Mechanics/Rules/Status.md#concentration|concentration]] required). This blue potion bubbles and steams as if boiling.
+For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [[5. Mechanics\Spells\Bless.md|bless]] spell (no [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]] required). This blue potion bubbles and steams as if boiling.
 
-*Source: Dungeon Master's Guide p. 188*
+*Source: Dungeon Master's Guide p. 188. Available in the SRD.*

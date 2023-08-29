@@ -12,4 +12,4 @@ aliases: ["Parchment (one sheet)"]
 - **Cost**: 1 sp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

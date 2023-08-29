@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Black Bear"]
 ---
 # Black Bear
-*Source: Monster Manual p. 318, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Infernal Machine Rebuild*  
+*Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Black Bear"
@@ -26,28 +25,24 @@ statblock: inline
 - !!int "2"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft., climb 30 ft."
+"speed": "40 ft., climb 30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The bear has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear makes two attacks: one with its bite and one with its claws."
+- "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -56,7 +51,7 @@ statblock: inline
 - "WDMM"
 - "GoS"
 - "IMR"
-"image": "5. Mechanics/Bestiary/Beast/token/black-bear.png"
+"image": "compendium/bestiary/beast/token/black-bear.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Brown Bear"]
 ---
 # Brown Bear
-*Source: Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Infernal Machine Rebuild, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Brown Bear"
@@ -28,28 +27,24 @@ statblock: inline
 - !!int "2"
 - !!int "13"
 - !!int "7"
-"speed": "walk 40 ft., climb 30 ft."
+"speed": "40 ft., climb 30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The bear has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear makes two attacks: one with its bite and one with its claws."
+- "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -61,7 +56,7 @@ statblock: inline
 - "MOT"
 - "IDRotF"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Beast/token/brown-bear.png"
+"image": "compendium/bestiary/beast/token/brown-bear.png"
 ```
 ^statblock
 

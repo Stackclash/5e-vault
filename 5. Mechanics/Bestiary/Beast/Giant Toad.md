@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Toad"]
 ---
 # Giant Toad
-*Source: Monster Manual p. 329, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
+*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Toad"
@@ -30,36 +29,32 @@ statblock: inline
 - !!int "2"
 - !!int "10"
 - !!int "3"
-"speed": "walk 20 ft., swim 40 ft."
+"speed": "20 ft., swim 40 ft."
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The toad can breathe air and water."
+- "desc": "The toad can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet,\
+- "desc": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet,\
     \ with or without a running start."
   "name": "Standing Leap"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d10|avg\
-    \ (1d10) poison damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage plus 5 (dice:\
+    \ 1d10|avg (1d10)) poison damage, and the target is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the toad can't bite another target."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The toad makes one bite attack against a Medium or smaller target it is\
+- "desc": "The toad makes one bite attack against a Medium or smaller target it is\
     \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
-    \ The swallowed target is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
-    \ [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
-    \ against attacks and other effects outside the toad, and it takes dice: 3d6|avg\
-    \ (3d6) acid damage at the start of each of the toad's turns. The toad can have\
-    \ only one target swallowed at a time.\n\nIf the toad dies, a swallowed creature\
-    \ is no longer [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it and\
-    \ can escape from the corpse using 5 feet of movement, exiting [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ The swallowed target is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] and\
+    \ [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]], it has total cover\
+    \ against attacks and other effects outside the toad, and it takes 10 (dice:\
+    \ 3d6|avg (3d6)) acid damage at the start of each of the toad's turns. The\
+    \ toad can have only one target swallowed at a time.\n\nIf the toad dies, a swallowed\
+    \ creature is no longer [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by it and can escape from the corpse using 5 feet of movement, exiting [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Swallow"
 "source":
 - "MM"
@@ -69,7 +64,7 @@ statblock: inline
 - "TCE"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-toad.png"
+"image": "compendium/bestiary/beast/token/giant-toad.png"
 ```
 ^statblock
 

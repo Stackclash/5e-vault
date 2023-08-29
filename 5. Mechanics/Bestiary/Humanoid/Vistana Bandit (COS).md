@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
@@ -11,7 +10,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: inline
+aliases: ["Vistana Bandit"]
 ---
 # Vistana Bandit
 *Source: Curse of Strahd p. 28, Derived from Bandit (MM)*  
@@ -32,21 +31,18 @@ statblock: inline
 - !!int "10"
 - !!int "10"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
+    \ target. Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
   "name": "Light Crossbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The Vistana targets one creature that it can see within 30 feet of it.\
+- "desc": "The Vistana targets one creature that it can see within 30 feet of it.\
     \ The target must succeed on a DC 10 Wisdom saving throw or be cursed. The Vistana\
     \ chooses the curse's effect from the options that follow; other Vistani curses\
     \ are possible. All such effects deal psychic damage to the Vistani who uttered\
@@ -68,20 +64,19 @@ statblock: inline
     \ damage.  \n- The target's attunement to one magic item (chosen by the DM) ends,\
     \ and the target can't attune to the chosen item until the curse ends. When this\
     \ curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n- The\
-    \ target is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+    \ target is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]], [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]],\
     \ or both. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic\
-    \ damage.  \n\nThe curse lasts until ended with a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell, a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ damage.  \n\nThe curse lasts until ended with a [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
+    \ spell, a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell, or similar\
     \ magic. It doesn't end when the target dies. If a cursed target is returned to\
     \ life, the curse remains in effect."
   "name": "Curse (Recharges After a Long Rest)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As an action, a Vistana can target a creature within 10 feet that the Vistana\
+- "desc": "As an action, a Vistana can target a creature within 10 feet that the Vistana\
     \ can see. This magical ability, which the Vistani call the Evil Eye, duplicates\
-    \ the duration and effect of the [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
-    \ [[/5. Mechanics/Spells/Charm Person.md|charm person]], or [[/5. Mechanics/Spells/Hold Person.md|hold person]]\
+    \ the duration and effect of the [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]],\
+    \ [[5. Mechanics\Spells\Charm Person.md|charm person]], or [[5. Mechanics\Spells\Hold Person.md|hold person]]\
     \ spell (Vistana's choice; spell DC 10), but requires neither somatic nor material\
-    \ components. If the target succeeds on the save, the Vistana is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ components. If the target succeeds on the save, the Vistana is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ until the end of the Vistana's next turn.\n\nA Vistana who uses Evil Eye can't\
     \ use it again before finishing a short or long rest. Once a target succeeds on\
     \ a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of\
@@ -89,7 +84,7 @@ statblock: inline
   "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/vistana-bandit.png"
+"image": "compendium/bestiary/humanoid/token/vistana-bandit.png"
 ```
 ^statblock
 

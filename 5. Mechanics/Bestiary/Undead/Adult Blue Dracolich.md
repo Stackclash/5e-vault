@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/huge
 - monster/type/undead
-statblock: inline
+aliases: ["Adult Blue Dracolich"]
 ---
 # Adult Blue Dracolich
-*Source: Monster Manual p. 84, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 84*  
 
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
 
@@ -45,13 +44,11 @@ The dracolich has immunity to poison. It also retains any immunities it had prio
 
 ### Condition Immunities
 
-The dracolich can't be [[Conditions#charmed|charmed]], [[Conditions#frightened|frightened]], [[Conditions#paralyzed|paralyzed]], or [[Conditions#poisoned|poisoned]]. It also doesn't suffer from [[Conditions#exhaustion|exhaustion]].
+The dracolich can't be [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]], or [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]. It also doesn't suffer from [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]].
 
 ### Magic Resistance
 
 The dracolich has advantage on saving throws against spells and other magical effects.
-
-## Stat Block
 
 ```statblock
 "name": "Adult Blue Dracolich"
@@ -68,15 +65,15 @@ The dracolich has advantage on saving throws against spells and other magical ef
 - !!int "16"
 - !!int "15"
 - !!int "19"
-"speed": "walk 40 ft., burrow 30 ft., fly 80 ft."
+"speed": "40 ft., burrow 30 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "10"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "8"
-  "Constitution": !!int "12"
+  "Charisma": "+10"
+  "Dexterity": "+6"
+  "Wisdom": "+8"
+  "Constitution": "+12"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "14"
+  "Stealth": "+6"
+  "Perception": "+14"
 "damage_resistances": "necrotic"
 "damage_immunities": "lightning, poison"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
@@ -84,58 +81,47 @@ The dracolich has advantage on saving throws against spells and other magical ef
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the dracolich fails a saving throw, it can choose to succeed instead."
+- "desc": "If the dracolich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dracolich has advantage on saving throws against spells and other magical\
+- "desc": "The dracolich has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dracolich can use its Frightful Presence. It then makes three attacks:\
+- "desc": "The dracolich can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage plus dice: 1d10|avg\
-    \ (1d10) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: 18 (dice: 2d10 + 7|avg (2d10 + 7)) piercing damage plus 5 (dice:\
+    \ 1d10|avg (1d10)) lightning damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d6 + 7|avg (2d6 + 7)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
+    \ Hit: 16 (dice: 2d8 + 7|avg (2d8 + 7)) bludgeoning damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
+- "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
     \ dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A creature\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] for 1 minute. A creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success. If a creature's saving throw is successful or the effect\
     \ ends for it, the creature is immune to the dracolich's Frightful Presence for\
     \ the next 24 hours."
   "name": "Frightful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dracolich exhales lightning in a 90-foot line that is 5 feet wide.\
+- "desc": "The dracolich exhales lightning in a 90-foot line that is 5 feet wide.\
     \ Each creature in that line must make a DC 20 Dexterity saving throw, taking\
     \ 66 (dice: 12d10|avg (12d10)) lightning damage on a failed save, or half\
     \ as much damage on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dracolich makes a Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The dracolich makes a Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dracolich makes a tail attack."
+- "desc": "The dracolich makes a tail attack."
   "name": "Tail Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dracolich beats its tattered wings. Each creature within 10 feet of\
-    \ the dracolich must succeed on a DC 21 Dexterity saving throw or take dice:\
-    \ 2d6 + 7|avg (2d6 + 7) bludgeoning damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+- "desc": "The dracolich beats its tattered wings. Each creature within 10 feet of\
+    \ the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (dice:\
+    \ 2d6 + 7|avg (2d6 + 7)) bludgeoning damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ After beating its wings this way, the dracolich can fly up to half its flying\
     \ speed."
   "name": "Wing Attack (Costs 2 Actions)"
@@ -144,7 +130,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
 - "WDMM"
 - "CM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Undead/token/adult-blue-dracolich.png"
+"image": "compendium/bestiary/undead/token/adult-blue-dracolich.png"
 ```
 ^statblock
 

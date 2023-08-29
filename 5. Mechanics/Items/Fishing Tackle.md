@@ -14,4 +14,4 @@ aliases: ["Fishing Tackle"]
 
 This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 
-*Source: Player's Handbook p. 151*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

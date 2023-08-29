@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/urban
 - monster/size/small
 - monster/type/humanoid
-statblock: inline
+aliases: ["Kobold Scale Sorcerer"]
 ---
 # Kobold Scale Sorcerer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*  
@@ -34,50 +33,44 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 - !!int "10"
 - !!int "9"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "1"
-  "Arcana": !!int "2"
+  "Medicine": "+1"
+  "Arcana": "+2"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold casts one of the following spells, requiring no material components\
+- "desc": "The kobold casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n2/day each: [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]]"
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\
+    \n2/day each: [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Fog Cloud.md|fog cloud]],\
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold has advantage on an attack roll against a creature if at least\
+- "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one\
+- "desc": "The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
     \ damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 60 feet, one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) of a type of the kobold's choice: acid,\
-    \ cold, fire, lightning, poison, or thunder."
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 60 feet, one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) of a type of the kobold's choice:\
+    \ acid, cold, fire, lightning, poison, or thunder."
   "name": "Chromatic Bolt"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kobold-scale-sorcerer.png"
+"image": "compendium/bestiary/humanoid/token/kobold-scale-sorcerer.png"
 ```
 ^statblock
 

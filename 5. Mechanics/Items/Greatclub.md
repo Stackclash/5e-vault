@@ -11,8 +11,8 @@ aliases: ["Greatclub"]
 *Melee Weapon*  
 
 - **Damage**: 1d8 B
-- **Properties**: [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Two-handed|Two-handed]]
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 
-*Source: Player's Handbook p. 149*
+*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

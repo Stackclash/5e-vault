@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Tanarukk"]
 ---
 # Tanarukk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
@@ -19,7 +18,7 @@ statblock: inline
 
 When demonic influence corrupts the leadership of a people or an organization, the leaders might embrace abyssal magic to make tanarukks, using these ferocious warriors to bolster their followers' strength.
 
-The demon lord [[Baphomet (MPMM)|Baphomet]] gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
+The demon lord [[5. Mechanics\Bestiary\Npc\Baphomet (MPMM).md|Baphomet]] gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
 
 Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
 
@@ -28,7 +27,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "95"
 "hit_dice": "10d8 + 50"
@@ -39,44 +38,38 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 - !!int "9"
 - !!int "9"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "2"
-  "Perception": !!int "2"
+  "Intimidation": "+2"
+  "Perception": "+2"
 "damage_resistances": "fire, poison"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common, plus any one language"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tanarukk has advantage on saving throws against spells and other magical\
+- "desc": "The tanarukk has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tanarukk makes one Bite attack and one Greatsword attack."
+- "desc": "The tanarukk makes one Bite attack and one Greatsword attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Greatsword"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tanarukk moves up to its speed toward an enemy that it can see."
+- "desc": "The tanarukk moves up to its speed toward an enemy that it can see."
   "name": "Aggressive"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to being hit by a melee attack, the tanarukk can make one Bite\
+- "desc": "In response to being hit by a melee attack, the tanarukk can make one Bite\
     \ or Greatsword attack with advantage against the attacker."
   "name": "Unbridled Fury"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/fiend/token/tanarukk.png"
+"image": "compendium/bestiary/fiend/token/tanarukk.png"
 ```
 ^statblock
 

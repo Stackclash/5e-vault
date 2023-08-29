@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Half-Red Dragon Veteran"]
 ---
 # Half-Red Dragon Veteran
-*Source: Monster Manual p. 180, The Rise of Tiamat, Ghosts of Saltmarsh, Storm Lord's Wrath, Infernal Machine Rebuild*  
+*Source: Monster Manual p. 180. Available in the SRD.*  
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
 
@@ -28,7 +27,7 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [[Senses#blindsight|blindsight]] with a radius of 10 feet and [[Senses#darkvision|darkvision]] with a radius of 60 feet.
+The half-dragon gains [[\5. Mechanics\Rules\Senses.md#blindsight|blindsight]] with a radius of 10 feet and [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] with a radius of 60 feet.
 
 ### Resistances
 
@@ -60,9 +59,7 @@ The half-dragon has the breath weapon of its dragon half. The half-dragon's size
 
 ### Sample Half-Dragon
 
-Here the half-dragon template has been applied to a human [[Veteran|veteran]] to create a half-red dragon veteran. [[Splint Armor|Splint armor]] has been replaced with [[Plate Armor|plate]].
-
-## Stat Block
+Here the half-dragon template has been applied to a human [[5. Mechanics\Bestiary\Humanoid\Veteran.md|veteran]] to create a half-red dragon veteran. [[5. Mechanics\Items\Splint Armor.md|Splint armor]] has been replaced with [[5. Mechanics\Items\Plate Armor.md|plate]].
 
 ```statblock
 "name": "Half-Red Dragon Veteran"
@@ -80,34 +77,29 @@ Here the half-dragon template has been applied to a human [[Veteran|veteran]] to
 - !!int "10"
 - !!int "11"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Athletics": !!int "6"
-  "Perception": !!int "3"
+  "Athletics": "+6"
+  "Perception": "+3"
 "damage_resistances": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Common, Draconic"
 "cr": "5"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
+- "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
     \ it can also make a shortsword attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or 8 (dice: 1d10 + 3|avg\
-    \ (1d10 + 3)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
+    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 100/400 ft., one\
-    \ target. Hit: dice: 1d10 + 1|avg (1d10 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 100/400 ft., one\
+    \ target. Hit: 6 (dice: 1d10 + 1|avg (1d10 + 1)) piercing damage."
   "name": "Heavy Crossbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The veteran exhales fire in a 15-foot cone. Each creature in that area\
+- "desc": "The veteran exhales fire in a 15-foot cone. Each creature in that area\
     \ must make a DC 15 Dexterity saving throw, taking 24 (dice: 7d6|avg (7d6))\
     \ fire damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
@@ -117,6 +109,6 @@ Here the half-dragon template has been applied to a human [[Veteran|veteran]] to
 - "GoS"
 - "SLW"
 - "IMR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/half-red-dragon-veteran.png"
+"image": "compendium/bestiary/humanoid/token/half-red-dragon-veteran.png"
 ```
 ^statblock

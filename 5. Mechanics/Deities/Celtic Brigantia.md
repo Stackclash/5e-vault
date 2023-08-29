@@ -8,7 +8,7 @@ tags:
 aliases: ["Brigantia"]
 ---
 # Brigantia
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Life

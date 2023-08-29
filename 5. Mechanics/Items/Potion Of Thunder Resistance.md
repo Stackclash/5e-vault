@@ -16,4 +16,4 @@ aliases: ["Potion of Thunder Resistance"]
 
 When you drink this potion, you gain resistance to thunder damage for 1 hour.
 
-*Source: Dungeon Master's Guide p. 188*
+*Source: Dungeon Master's Guide p. 188. Available in the SRD.*

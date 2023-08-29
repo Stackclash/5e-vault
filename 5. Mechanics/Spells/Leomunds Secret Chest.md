@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
-- spell/class/artificer
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/wizard
@@ -12,6 +11,7 @@ tags:
 aliases: ["Leomund's Secret Chest"]
 ---
 # Leomund's Secret Chest
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -23,8 +23,8 @@ You hide a chest, and all its contents, on the Ethereal Plane. You must touch th
 
 While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
 
-After 60 days, there is a cumulative 5|||Effect ends!|Effect continues% chance chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
+After 60 days, there is a cumulative 5% chance chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
-**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 254
+*Source: Player's Handbook p. 254. Available in the SRD (as 'Secret Chest').*

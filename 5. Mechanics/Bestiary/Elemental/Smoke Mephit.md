@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/urban
 - monster/size/small
 - monster/type/elemental
-statblock: inline
+aliases: ["Smoke Mephit"]
 ---
 # Smoke Mephit
-*Source: Monster Manual p. 217, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault*  
+*Source: Monster Manual p. 217, Curse of Strahd*  
 
 ## Mephits
 
@@ -24,8 +23,6 @@ A mephit doesn't require food, drink, or sleep.
 ## Smoke Mephit
 
 Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
-
-## Stat Block
 
 ```statblock
 "name": "Smoke Mephit"
@@ -42,34 +39,30 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 - !!int "10"
 - !!int "10"
 - !!int "11"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  "Stealth": "+4"
+  "Perception": "+2"
 "damage_immunities": "fire, poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Auran, Ignan"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit can innately cast [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+- "desc": "The mephit can innately cast [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]],\
     \ requiring no material components. Its innate spellcasting ability is Charisma.\n\
-    \nAt will: [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]]"
+    \nAt will: [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius\
+- "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius\
     \ sphere centered on its space. The sphere is heavily obscured. Wind disperses\
     \ the cloud, which otherwise lasts for 1 minute."
   "name": "Death Burst"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+- "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in that\
+    \ area must succeed on a DC 10 Dexterity saving throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ until the end of the mephit's next turn."
   "name": "Cinder Breath (Recharge 6)"
 "source":
@@ -80,7 +73,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 - "ToA"
 - "WDMM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Elemental/token/smoke-mephit.png"
+"image": "compendium/bestiary/elemental/token/smoke-mephit.png"
 ```
 ^statblock
 

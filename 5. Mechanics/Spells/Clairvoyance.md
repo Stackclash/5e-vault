@@ -17,6 +17,7 @@ tags:
 aliases: ["Clairvoyance"]
 ---
 # Clairvoyance
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Divination*  
 
 - **Casting time:** 10 minute
@@ -28,8 +29,8 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
 
-A creature that can see the sensor (such as a creature benefiting from [[/5. Mechanics/Spells/See Invisibility.md|see invisibility]] or [[5. Mechanics/Rules/Senses.md#truesight|truesight]]) sees a luminous, intangible orb about the size of your fist.
+A creature that can see the sensor (such as a creature benefiting from [[5. Mechanics\Spells\See Invisibility.md|see invisibility]] or [[\5. Mechanics\Rules\Senses.md#truesight|truesight]]) sees a luminous, intangible orb about the size of your fist.
 
-**Classes**: [[/5. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian (XGE).md|Barbarian (Path of the Ancestral Guardian)]], [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock The Great Old One.md|Warlock (The Great Old One)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Barbarian Path Of The Ancestral Guardian (XGE).md|Barbarian (Path of the Ancestral Guardian)]], [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock The Great Old One.md|Warlock (The Great Old One)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 222
+*Source: Player's Handbook p. 222. Available in the SRD.*

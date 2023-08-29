@@ -8,7 +8,7 @@ tags:
 aliases: ["Grave Domain"]
 ---
 # Grave Domain
-*Cleric: Divine Domain*  
+*[[Cleric.md|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 19*  
 
 
@@ -22,18 +22,18 @@ Gods of the grave watch over the line between life and death. To these deities, 
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/False Life.md|false life]] |
-| 3rd | [[/5. Mechanics/Spells/Gentle Repose.md|gentle repose]], [[/5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]] |
-| 5th | [[/5. Mechanics/Spells/Revivify.md|revivify]], [[/5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]] |
-| 7th | [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Death Ward.md|death ward]] |
-| 9th | [[/5. Mechanics/Spells/Antilife Shell.md|antilife shell]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]] |
+| 1st | [[5. Mechanics\Spells\Bane.md|bane]], [[5. Mechanics\Spells\False Life.md|false life]] |
+| 3rd | [[5. Mechanics\Spells\Gentle Repose.md|gentle repose]], [[5. Mechanics\Spells\Ray Of Enfeeblement.md|ray of enfeeblement]] |
+| 5th | [[5. Mechanics\Spells\Revivify.md|revivify]], [[5. Mechanics\Spells\Vampiric Touch.md|vampiric touch]] |
+| 7th | [[5. Mechanics\Spells\Blight.md|blight]], [[5. Mechanics\Spells\Death Ward.md|death ward]] |
+| 9th | [[5. Mechanics\Spells\Antilife Shell.md|antilife shell]], [[5. Mechanics\Spells\Raise Dead.md|raise dead]] |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [[Spare The Dying|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [[5. Mechanics\Spells\Spare The Dying.md|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -57,13 +57,6 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-### Blessed Strikes (Level 8)
-_Source: Tasha's Cauldron of Everything p. 30_
-
-_8th-level cleric optional class features, which replaces the Potent Spellcasting feature_
-
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
-
 ### Keeper of Souls (Level 17)
 
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[Conditions#incapacitated|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.

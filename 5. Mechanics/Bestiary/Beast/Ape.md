@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Ape"]
 ---
 # Ape
-*Source: Monster Manual p. 317, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries*  
+*Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Ape"
@@ -26,24 +25,21 @@ statblock: inline
 - !!int "6"
 - !!int "12"
 - !!int "7"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Perception": !!int "3"
+  "Athletics": "+5"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ape makes two fist attacks."
+- "desc": "The ape makes two fist attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 25/50 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 25/50 ft., one\
+    \ target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"
@@ -52,7 +48,7 @@ statblock: inline
 - "WDH"
 - "GoS"
 - "CM"
-"image": "5. Mechanics/Bestiary/Beast/token/ape.png"
+"image": "compendium/bestiary/beast/token/ape.png"
 ```
 ^statblock
 

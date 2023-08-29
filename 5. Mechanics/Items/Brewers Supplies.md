@@ -12,4 +12,4 @@ aliases: ["Brewer's Supplies"]
 - **Cost**: 20 gp
 - **Weight**: 9.0 lbs.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 79*
+*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 79. Available in the SRD and the Basic Rules.*

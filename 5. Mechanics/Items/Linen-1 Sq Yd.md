@@ -12,4 +12,4 @@ aliases: ["Linen (1 sq. yd.)"]
 - **Cost**: 5 gp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 157*
+*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules.*

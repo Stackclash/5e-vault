@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Riding Horse"]
 ---
 # Riding Horse
-*Source: Monster Manual p. 336, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Riding Horse"
@@ -27,14 +26,13 @@ statblock: inline
 - !!int "2"
 - !!int "11"
 - !!int "7"
-"speed": "walk 60 ft."
+"speed": "60 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"
@@ -48,7 +46,7 @@ statblock: inline
 - "CRCotN"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/riding-horse.png"
+"image": "compendium/bestiary/beast/token/riding-horse.png"
 ```
 ^statblock
 

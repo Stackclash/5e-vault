@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/size/medium
 - monster/type/undead/mind-flayer
 - monster/type/undead/wizard
-statblock: inline
+aliases: ["Alhoon"]
 ---
 # Alhoon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
@@ -38,14 +37,12 @@ The undeath conferred by a periapt of mind trapping lasts only so long as the li
 
 Destroying a periapt of mind trapping consigns those trapped within it to oblivion, and thus alhoons often work together to create elaborate protections for their periapt and their preferred ritual site. Sometimes a single alhoon is entrusted with the periapt of mind trapping, but this is a dangerous proposition. Anyone who holds the periapt gains advantage on attacks, saving throws, and checks against the alhoons associated with its creation, and those alhoons in turn suffer disadvantage on attacks, saving throws, and checks against the holder. In addition, the holder can telepathically communicate with any sacrificed soul trapped within, and alhoons within the periapt can speak telepathically with the holder. A creature carrying the periapt can't prevent communication from alhoons but can silence trapped souls.
 
-## Stat Block
-
 ```statblock
 "name": "Alhoon"
 "size": "Medium"
 "type": "undead"
 "subtype": "mind flayer, wizard"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
@@ -56,19 +53,19 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 - !!int "19"
 - !!int "17"
 - !!int "17"
-"speed": "walk 30 ft., fly 15 ft. (hover)"
+"speed": "30 ft., fly 15 ft. (hover)"
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "8"
-  "Constitution": !!int "7"
+  "Charisma": "+7"
+  "Wisdom": "+7"
+  "Intelligence": "+8"
+  "Constitution": "+7"
 "skillsaves":
-  "Deception": !!int "7"
-  "Stealth": !!int "5"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "History": !!int "8"
-  "Arcana": !!int "8"
+  "Deception": "+7"
+  "Stealth": "+5"
+  "Insight": "+7"
+  "Perception": "+7"
+  "History": "+8"
+  "Arcana": "+8"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
@@ -76,54 +73,47 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alhoon casts one of the following spells, requiring no material components\
+- "desc": "The alhoon casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
-    \ [[/5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
-    \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Modify Memory.md|modify memory]],\
-    \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only), [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+    \ will: [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]], [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], [[5. Mechanics\Spells\Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Dominate Monster.md|dominate monster]], [globe\
+    \ of invulnerability](compendium/spells/globe-of-invulnerability.md), [[5. Mechanics\Spells\Invisibility.md|invisibility]],\
+    \ [[5. Mechanics\Spells\Modify Memory.md|modify memory]], [[5. Mechanics\Spells\Plane Shift.md|plane shift]]\
+    \ (self only), [[5. Mechanics\Spells\Wall Of Force.md|wall of force]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alhoon has advantage on saving throws against spells and other magical\
+- "desc": "The alhoon has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alhoon has advantage on saving throws against any effect that turns\
+- "desc": "The alhoon has advantage on saving throws against any effect that turns\
     \ Undead."
   "name": "Turn Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
+- "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6|avg (4d6) cold damage, and the alhoon regains 14 hit points."
+- "desc": "Melee Spell Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 4d6|avg (4d6)) cold damage, and the alhoon regains 14 hit\
+    \ points."
   "name": "Chilling Grasp"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+8 (+8 to hit), range 120 ft., one target.\
-    \ Hit: dice: 8d6|avg (8d6) force damage."
+- "desc": "Ranged Spell Attack: dice: d20+8 (+8 to hit), range 120 ft., one target.\
+    \ Hit: 28 (dice: 8d6|avg (8d6)) force damage."
   "name": "Arcane Bolt"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 16 Intelligence saving throw or take dice:\
-    \ 4d8 + 4|avg (4d8 + 4) psychic damage and be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
+    \ in that area must succeed on a DC 16 Intelligence saving throw or take 22 (dice:\
+    \ 4d8 + 4|avg (4d8 + 4)) psychic damage and be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alhoon targets one creature it can see within 60 feet of it that is\
+- "desc": "The alhoon targets one creature it can see within 60 feet of it that is\
     \ casting a spell. If the spell is 3rd level or lower, the spell fails, but any\
     \ spell slots or charges are not wasted."
   "name": "Negate Spell (3/Day)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/alhoon.png"
+"image": "compendium/bestiary/undead/token/alhoon.png"
 ```
 ^statblock
 

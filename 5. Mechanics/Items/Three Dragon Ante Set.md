@@ -12,4 +12,4 @@ aliases: ["Three-Dragon Ante Set"]
 - **Cost**: 1 gp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 154*
+*Source: Player's Handbook p. 154. Available in the Basic Rules.*

@@ -16,4 +16,4 @@ aliases: ["Half Plate Armor"]
 
 Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
-*Source: Player's Handbook p. 145*
+*Source: Player's Handbook p. 145. Available in the SRD and the Basic Rules.*

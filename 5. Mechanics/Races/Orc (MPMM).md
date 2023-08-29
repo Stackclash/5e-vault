@@ -10,7 +10,7 @@ aliases: ["Orc"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 28*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -18,7 +18,7 @@ aliases: ["Orc"]
 
 ### Adrenaline Rush
 
-You can take the Dash action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can take the [[\5. Mechanics\Rules\Actions.md#Dash|Dash]] action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Whenever you use this trait, you gain a number of temporary hit points equal to your proficiency bonus.
 

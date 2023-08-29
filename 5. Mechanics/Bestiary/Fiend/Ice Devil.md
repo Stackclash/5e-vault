@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Ice Devil"]
 ---
 # Ice Devil
-*Source: Monster Manual p. 75, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 75. Available in the SRD.*  
 
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
@@ -20,7 +19,7 @@ Resembling a giant bipedal insect, an ice devil has clawed hands and feet, power
 > 
 > **Multiattack.** The devil makes two attacks: one with its spear and one with its tail.
 > 
-> **Ice Spear.** *Melee Weapon Attack:* ++10 to hit, reach 10 ft., one target. Hit: `dice: 2d8 + 5` (`2d8 + 5`) piercing damage + 10 (`dice: 3d6` (`3d6`)) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> **Ice Spear.** *Melee Weapon Attack:* ++10 to hit, reach 10 ft., one target. *Hit:* 14 (`dice: 2d8 + 5` (`2d8 + 5`)) piercing damage + 10 (`dice: 3d6` (`3d6`)) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ^variant-ice-devil-spear
 
 ## Devils
@@ -119,7 +118,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -132,18 +131,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30|30 percent% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30|30 percent% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40|40 percent% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50|50 percent% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30|30 percent% chance chance of summoning one horned devil.  
-> - An ice devil has a 60|60 percent% chance chance of summoning one ice devil.  
+> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
+> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30% chance chance of summoning one horned devil.  
+> - An ice devil has a 60% chance chance of summoning one ice devil.  
 > - A pit fiend summons `dice: 2d4` (`2d4`) bearded devils, `dice: 1d4` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
-
-## Stat Block
 
 ```statblock
 "name": "Ice Devil"
@@ -161,12 +158,12 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "18"
 - !!int "15"
 - !!int "18"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "9"
+  "Charisma": "+9"
+  "Dexterity": "+7"
+  "Wisdom": "+7"
+  "Constitution": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "fire, poison, cold"
@@ -175,43 +172,36 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "14"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
+- "desc": "Magical darkness doesn't impede the devil's darkvision."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
+- "desc": "The devil has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes three attacks: one with its bite, one with its claws, and\
+- "desc": "The devil makes three attacks: one with its bite, one with its claws, and\
     \ one with its tail."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) piercing damage plus dice: 3d6|avg (3d6)\
-    \ cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) piercing damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) cold damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) slashing damage plus dice: 3d6|avg (3d6)\
-    \ cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d4 + 5|avg (2d4 + 5)) slashing damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) cold damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage plus dice: 3d6|avg\
-    \ (3d6) cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) cold damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil magically forms an opaque wall of ice on a solid surface it can\
+- "desc": "The devil magically forms an opaque wall of ice on a solid surface it can\
     \ see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and\
     \ 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.\n\nWhen\
     \ the wall appears, each creature in its space is pushed out of it by the shortest\
     \ route. The creature chooses which side of the wall to end up on, unless the\
-    \ creature is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. The\
-    \ creature then makes a DC 17 Dexterity saving throw, taking 35 (dice: 10d6|avg\
+    \ creature is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].\
+    \ The creature then makes a DC 17 Dexterity saving throw, taking 35 (dice: 10d6|avg\
     \ (10d6)) cold damage on a failed save, or half as much damage on a successful\
-    \ one.\n\nThe wall lasts for 1 minute or until the devil is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ one.\n\nThe wall lasts for 1 minute or until the devil is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
     \ or dies. The wall can be damaged and breached; each 10-foot section has AC 5,\
     \ 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic,\
     \ poison, and psychic damage. If a section is destroyed, it leaves behind a sheet\
@@ -225,6 +215,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "MM"
 - "BGDIA"
 - "TCE"
-"image": "/compendium/bestiary/fiend/token/ice-devil.png"
+"image": "compendium/bestiary/fiend/token/ice-devil.png"
 ```
 ^statblock

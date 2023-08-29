@@ -8,7 +8,7 @@ tags:
 aliases: ["Bast"]
 ---
 # Bast
-*Source: Player's Handbook p. 299* 
+*Source: Player's Handbook p. 299. Available in the SRD.* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: War

@@ -12,6 +12,7 @@ tags:
 aliases: ["Barkskin"]
 ---
 # Barkskin
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -21,6 +22,6 @@ aliases: ["Barkskin"]
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[/5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics\Classes\Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Player's Handbook p. 217
+*Source: Player's Handbook p. 217. Available in the SRD.*

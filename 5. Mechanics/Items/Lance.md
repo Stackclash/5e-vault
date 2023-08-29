@@ -13,7 +13,7 @@ aliases: ["Lance"]
 *Melee Weapon*  
 
 - **Damage**: 1d12 P
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Reach|Reach]], [[5. Mechanics/Rules/Item Properties.md#Special|Special]]
+- **Properties**: Martial, [[\5. Mechanics\Rules\Item Properties.md#Reach|Reach]], [[\5. Mechanics\Rules\Item Properties.md#Special|Special]]
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 
@@ -21,4 +21,4 @@ aliases: ["Lance"]
 
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
-*Source: Player's Handbook p. 149*
+*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

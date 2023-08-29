@@ -12,6 +12,7 @@ tags:
 aliases: ["Antilife Shell"]
 ---
 # Antilife Shell
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -25,6 +26,6 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/5. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Warlock The Undead (VRGR).md|Warlock (The Undead)]]
+**Classes**: [[5. Mechanics\Classes\Cleric Death Domain.md|Cleric (Death Domain)]], [[5. Mechanics\Classes\Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Warlock The Undead (VRGR).md|Warlock (The Undead)]]
 
-Source: Player's Handbook p. 213
+*Source: Player's Handbook p. 213. Available in the SRD.*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -14,10 +13,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
-statblock: inline
+aliases: ["Ogre"]
 ---
 # Ogre
-*Source: Monster Manual p. 237, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Spelljammer Academy, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 237. Available in the SRD and the Basic Rules.*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -54,8 +53,6 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 > Worst. Dancers. Ever.
 
 
-## Stat Block
-
 ```statblock
 "name": "Ogre"
 "size": "Large"
@@ -71,19 +68,17 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 - !!int "5"
 - !!int "7"
 - !!int "7"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
   "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4))\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"
@@ -106,7 +101,8 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 - "SjA"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Giant/token/ogre.png"
+- "PSZ"
+"image": "compendium/bestiary/giant/token/ogre.png"
 ```
 ^statblock
 

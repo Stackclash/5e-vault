@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Barbed Devil"]
 ---
 # Barbed Devil
-*Source: Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 70. Available in the SRD.*  
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
@@ -110,7 +109,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -123,18 +122,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30|30 percent% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30|30 percent% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40|40 percent% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50|50 percent% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30|30 percent% chance chance of summoning one horned devil.  
-> - An ice devil has a 60|60 percent% chance chance of summoning one ice devil.  
+> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
+> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30% chance chance of summoning one horned devil.  
+> - An ice devil has a 60% chance chance of summoning one ice devil.  
 > - A pit fiend summons `dice: 2d4` (`2d4`) bearded devils, `dice: 1d4` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
-
-## Stat Block
 
 ```statblock
 "name": "Barbed Devil"
@@ -152,16 +149,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "12"
 - !!int "14"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "5"
-  "Strength": !!int "6"
-  "Constitution": !!int "7"
+  "Charisma": "+5"
+  "Wisdom": "+5"
+  "Strength": "+6"
+  "Constitution": "+7"
 "skillsaves":
-  "Deception": !!int "5"
-  "Insight": !!int "5"
-  "Perception": !!int "8"
+  "Deception": "+5"
+  "Insight": "+5"
+  "Perception": "+8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -170,34 +167,27 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of each of its turns, the barbed devil deals 5 (dice: 1d10|avg\
+- "desc": "At the start of each of its turns, the barbed devil deals 5 (dice: 1d10|avg\
     \ (1d10)) piercing damage to any creature grappling it."
   "name": "Barbed Hide"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
+- "desc": "Magical darkness doesn't impede the devil's darkvision."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
+- "desc": "The devil has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes three melee attacks: one with its tail and two with its\
+- "desc": "The devil makes three melee attacks: one with its tail and two with its\
     \ claws. Alternatively, it can use Hurl Flame twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 150 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
-    \ that isn't being worn or carried, it also catches fire."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 150 ft., one target.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage. If the target is a flammable\
+    \ object that isn't being worn or carried, it also catches fire."
   "name": "Hurl Flame"
 "source":
 - "MM"
@@ -209,6 +199,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "EGW"
 - "IDRotF"
 - "TCE"
-"image": "/compendium/bestiary/fiend/token/barbed-devil.png"
+"image": "compendium/bestiary/fiend/token/barbed-devil.png"
 ```
 ^statblock

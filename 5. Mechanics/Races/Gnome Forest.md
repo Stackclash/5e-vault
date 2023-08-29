@@ -10,7 +10,7 @@ aliases: ["Gnome (Forest)"]
 *Source: Player's Handbook p. 37*  
 
 - **Ability Scores**: Dexterity +1
-- **Creature Type**: subrace
+- **Type**: subrace
 - **Size**: Small
 - **Speed**: 25 ft.
 - **Spellcasting**: Intelligence
@@ -39,7 +39,7 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Natural Illusionist
 
-You know the [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]] cantrip. Intelligence is your spellcasting ability for it.
+You know the [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]] cantrip. Intelligence is your spellcasting ability for it.
 
 ### Speak with Small Beasts
 

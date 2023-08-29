@@ -12,4 +12,4 @@ aliases: ["Hourglass"]
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

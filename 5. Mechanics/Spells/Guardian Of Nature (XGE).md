@@ -10,6 +10,7 @@ tags:
 aliases: ["Guardian of Nature"]
 ---
 # Guardian of Nature
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Transmutation*  
 
 - **Casting time:** 1 bonus
@@ -24,7 +25,7 @@ A nature spirit answers your call and transforms you into a powerful guardian. T
 Bestial fur covers your body, your facial features become feral, and you gain the following benefits:
 
 - Your walking speed increases by 10 feet.  
-- You gain [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a range of 120 feet.  
+- You gain [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] with a range of 120 feet.  
 - You make Strength-based attack rolls with advantage.  
 - Your melee weapon attacks deal an extra `dice: 1d6` (`1d6`) force damage on a hit.  
 
@@ -39,6 +40,6 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Xanathar's Guide to Everything p. 157
+*Source: Xanathar's Guide to Everything p. 157*

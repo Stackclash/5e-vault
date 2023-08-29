@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Hyena"]
 ---
 # Giant Hyena
-*Source: Monster Manual p. 326, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Hyena"
@@ -29,29 +28,27 @@ statblock: inline
 - !!int "2"
 - !!int "12"
 - !!int "7"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the hyena reduces a creature to 0 hit points with a melee attack on\
+- "desc": "When the hyena reduces a creature to 0 hit points with a melee attack on\
     \ its turn, the hyena can take a bonus action to move up to half its speed and\
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
 - "TftYP"
 - "GoS"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-hyena.png"
+"image": "compendium/bestiary/beast/token/giant-hyena.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Poltergeist"]
 ---
 # Poltergeist
-*Source: Monster Manual p. 279, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault*  
+*Source: Monster Manual p. 279, Curse of Strahd*  
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
 
@@ -29,7 +28,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 - !!int "10"
 - !!int "10"
 - !!int "11"
-"speed": "walk 0 ft., fly 50 ft. (hover)"
+"speed": "0 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
@@ -39,26 +38,21 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The poltergeist can move through other creatures and objects as if they\
-    \ were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it\
-    \ ends its turn inside an object."
+- "desc": "The poltergeist can move through other creatures and objects as if they\
+    \ were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
+    \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+- "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as\
+    \ well as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks\
     \ that rely on sight."
   "name": "Sunlight Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The poltergeist is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
+- "desc": "The poltergeist is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]."
   "name": "Invisibility"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d6|avg (3d6) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) force damage."
   "name": "Forceful Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The poltergeist targets a creature or unattended object within 30 feet\
+- "desc": "The poltergeist targets a creature or unattended object within 30 feet\
     \ of it. A creature must be Medium or smaller to be affected by this magic, and\
     \ an object can weigh up to 150 pounds.\n\nIf the target is a creature, the poltergeist\
     \ makes a Charisma check contested by the target's Strength check. If the poltergeist\
@@ -77,7 +71,8 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 - "IDRotF"
 - "CM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Undead/token/poltergeist.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/poltergeist.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Alkilith"]
 ---
 # Alkilith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
@@ -23,7 +22,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
 "hp": !!int "168"
 "hit_dice": "16d8 + 96"
@@ -34,12 +33,12 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 - !!int "6"
 - !!int "11"
 - !!int "7"
-"speed": "walk 40 ft., climb 40 ft."
+"speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "8"
-  "Constitution": !!int "10"
+  "Dexterity": "+8"
+  "Constitution": "+10"
 "skillsaves":
-  "Stealth": !!int "8"
+  "Stealth": "+8"
 "damage_resistances": "acid; cold; fire; lightning; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
@@ -48,54 +47,45 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "languages": "understands Abyssal but can't speak"
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the alkilith surrounds a door, window, or similar opening continuously\
+- "desc": "If the alkilith surrounds a door, window, or similar opening continuously\
     \ for dice: 6d6|avg (6d6) days, the opening becomes a permanent portal to\
     \ a random layer of the Abyss."
   "name": "Abyssal Rift"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alkilith can move through a space as narrow as 1 inch wide without\
+- "desc": "The alkilith can move through a space as narrow as 1 inch wide without\
     \ squeezing."
   "name": "Amorphous"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the alkilith is motionless at the start of combat, it has advantage\
+- "desc": "If the alkilith is motionless at the start of combat, it has advantage\
     \ on its initiative roll. Moreover, if a creature hasn't observed the alkilith\
-    \ move or act, that creature must succeed on a DC 18 Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
+    \ move or act, that creature must succeed on a DC 18 Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]])\
     \ check to discern that the alkilith isn't ordinary slime or fungus."
   "name": "False Appearance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature that isn't a demon that starts its turn within 30 feet of\
+- "desc": "Any creature that isn't a demon that starts its turn within 30 feet of\
     \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
     \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
     \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-    \ fails by 5 or more, the creature is instead subjected to the [[/5. Mechanics/Spells/Confusion.md|confusion]]\
-    \ spell for 1 minute (no [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
+    \ fails by 5 or more, the creature is instead subjected to the [[5. Mechanics\Spells\Confusion.md|confusion]]\
+    \ spell for 1 minute (no [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
     \ required by the alkilith). While under the effect of that confusion, the creature\
     \ is immune to Foment Confusion."
   "name": "Foment Confusion"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alkilith has advantage on saving throws against spells and other magical\
+- "desc": "The alkilith has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alkilith can climb difficult surfaces, such as upside down on ceilings,\
+- "desc": "The alkilith can climb difficult surfaces, such as upside down on ceilings,\
     \ without making an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alkilith doesn't require air, food, drink, or sleep."
+- "desc": "The alkilith doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The alkilith makes three Tentacle attacks."
+- "desc": "The alkilith makes three Tentacle attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 4d6 + 4|avg (4d6 + 4) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
+    \ Hit: 18 (dice: 4d6 + 4|avg (4d6 + 4)) acid damage."
   "name": "Tentacle"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/alkilith.png"
+"image": "compendium/bestiary/fiend/token/alkilith.png"
 ```
 ^statblock
 

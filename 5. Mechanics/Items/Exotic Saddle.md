@@ -14,4 +14,4 @@ aliases: ["Exotic Saddle"]
 
 An exotic saddle is required for riding any aquatic or flying mount.
 
-*Source: Player's Handbook p. 157*
+*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules.*

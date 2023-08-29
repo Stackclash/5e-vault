@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/hill
 - monster/size/huge
 - monster/type/giant/hill-giant
-statblock: inline
+aliases: ["Mouth of Grolantor"]
 ---
 # Mouth of Grolantor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  
@@ -23,7 +22,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "size": "Huge"
 "type": "giant"
 "subtype": "hill giant"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "105"
 "hit_dice": "10d12 + 40"
@@ -34,16 +33,15 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 - !!int "5"
 - !!int "7"
 - !!int "5"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  "Perception": "+1"
 "condition_immunities": "frightened"
 "senses": "passive Perception 11"
 "languages": "Giant"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant is immune to the [[/5. Mechanics/Spells/Confusion.md|confusion]]\
+- "desc": "The giant is immune to the [[5. Mechanics\Spells\Confusion.md|confusion]]\
     \ spell.\n\nOn each of its turns, the giant uses all its movement to move toward\
     \ the nearest creature or whatever else it might perceive as food. Roll a dice:\
     \ d10|avg (d10) at the start of each of the giant's turns to determine its\
@@ -54,26 +52,24 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
     \ within reach. If no creatures are within reach, the giant makes one Fist attack\
     \ against itself.  \n- 6–7. The giant makes one Bite attack against one random\
     \ creature within reach. If no other creatures are within reach, its eyes glaze\
-    \ over and it is [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the start\
-    \ of its next turn.  \n- 8–10. The giant makes one Bite attack and two Fist\
-    \ attacks against one random creature within reach. If no creatures are within\
+    \ over and it is [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] until the\
+    \ start of its next turn.  \n- 8–10. The giant makes one Bite attack and two\
+    \ Fist attacks against one random creature within reach. If no creatures are within\
     \ reach, the giant flies into a rage and gains advantage on all attack rolls until\
     \ the end of its next turn.  "
   "name": "Mouth of Chaos"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage, and the giant magically\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
+    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage, and the giant magically\
     \ regains hit points equal to the damage dealt."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage."
   "name": "Fist"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Giant/token/mouth-of-grolantor.png"
+"image": "compendium/bestiary/giant/token/mouth-of-grolantor.png"
 ```
 ^statblock
 

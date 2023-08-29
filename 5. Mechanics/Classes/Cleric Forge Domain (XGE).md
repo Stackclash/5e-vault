@@ -8,7 +8,7 @@ tags:
 aliases: ["Forge Domain"]
 ---
 # Forge Domain
-*Cleric: Divine Domain*  
+*[[Cleric.md|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 18*  
 
 
@@ -24,16 +24,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/5. Mechanics/Spells/Identify.md|identify]], [[/5. Mechanics/Spells/Searing Smite.md|searing smite]] |
-| 3rd | [[/5. Mechanics/Spells/Heat Metal.md|heat metal]], [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]] |
-| 5th | [[/5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]], [[/5. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
-| 7th | [[/5. Mechanics/Spells/Fabricate.md|fabricate]], [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]] |
-| 9th | [[/5. Mechanics/Spells/Animate Objects.md|animate objects]], [[/5. Mechanics/Spells/Creation.md|creation]] |
+| 1st | [[5. Mechanics\Spells\Identify.md|identify]], [[5. Mechanics\Spells\Searing Smite.md|searing smite]] |
+| 3rd | [[5. Mechanics\Spells\Heat Metal.md|heat metal]], [[5. Mechanics\Spells\Magic Weapon.md|magic weapon]] |
+| 5th | [[5. Mechanics\Spells\Elemental Weapon.md|elemental weapon]], [[5. Mechanics\Spells\Protection From Energy.md|protection from energy]] |
+| 7th | [[5. Mechanics\Spells\Fabricate.md|fabricate]], [[5. Mechanics\Spells\Wall Of Fire.md|wall of fire]] |
+| 9th | [[5. Mechanics\Spells\Animate Objects.md|animate objects]], [[5. Mechanics\Spells\Creation.md|creation]] |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [[Smiths Tools|smith's tools]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [[5. Mechanics\Items\Smiths Tools.md|smith's tools]].
 
 ### Blessing of the Forge (Level 1)
 
@@ -59,13 +59,6 @@ Starting at 6th level, your mastery of the forge grants you special abilities:
 ### Divine Strike (Level 8)
 
 At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8` (`1d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8` (`2d8`).
-
-### Blessed Strikes (Level 8)
-_Source: Tasha's Cauldron of Everything p. 30_
-
-_8th-level cleric optional class features, which replaces the Divine Strike feature_
-
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Saint of Forge and Fire (Level 17)
 

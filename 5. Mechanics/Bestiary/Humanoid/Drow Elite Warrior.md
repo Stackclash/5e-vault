@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: inline
+aliases: ["Drow Elite Warrior"]
 ---
 # Drow Elite Warrior
-*Source: Monster Manual p. 128, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 128*  
 
 ## Drow
 
@@ -49,7 +48,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[Conditions#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!quote] Variant: Drow Magic Armor and Weapons
 > 
@@ -64,8 +63,6 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 > 
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
 
-
-## Stat Block
 
 ```statblock
 "name": "Drow Elite Warrior"
@@ -83,55 +80,48 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - !!int "11"
 - !!int "13"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "5"
+  "Dexterity": "+7"
+  "Wisdom": "+4"
+  "Constitution": "+5"
 "skillsaves":
-  "Stealth": !!int "10"
-  "Perception": !!int "4"
+  "Stealth": "+10"
+  "Perception": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
+- "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
     \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
+    \ will: [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]]\n\n1/day each:\
+    \ [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Faerie Fire.md|faerie fire]],\
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]] (self only)"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
+    \ on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow makes two shortsword attacks."
+- "desc": "The drow makes two shortsword attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg\
+    \ (3d6)) poison damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
-    \ while [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The target\
-    \ wakes up if it takes damage or if another creature takes an action to shake\
-    \ it awake."
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 30/120 ft., one\
+    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage, and the\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]\
+    \ while [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in this way. The\
+    \ target wakes up if it takes damage or if another creature takes an action to\
+    \ shake it awake."
   "name": "Hand Crossbow"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow adds 3 to its AC against one melee attack that would hit it. To\
+- "desc": "The drow adds 3 to its AC against one melee attack that would hit it. To\
     \ do so, the drow must see the attacker and be wielding a melee weapon."
   "name": "Parry"
 "source":
@@ -145,7 +135,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "SLW"
 - "IDRotF"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow-elite-warrior.png"
+"image": "compendium/bestiary/humanoid/token/drow-elite-warrior.png"
 ```
 ^statblock
 

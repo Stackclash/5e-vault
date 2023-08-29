@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/underwater
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Water Elemental"]
 ---
 # Water Elemental
-*Source: Monster Manual p. 125, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 125. Available in the SRD and the Basic Rules.*  
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 
@@ -35,8 +34,6 @@ Powerful magic can bind an elemental spirit into a material template that define
 
 An elemental doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Water Elemental"
 "size": "Large"
@@ -52,7 +49,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - !!int "5"
 - !!int "10"
 - !!int "8"
-"speed": "walk 30 ft., swim 90 ft."
+"speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
@@ -61,34 +58,29 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Aquan"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental can enter a hostile creature's space and stop there. It can\
+- "desc": "The elemental can enter a hostile creature's space and stop there. It can\
     \ move through a space as narrow as 1 inch wide without squeezing."
   "name": "Water Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the elemental takes cold damage, it partially freezes; its speed is\
+- "desc": "If the elemental takes cold damage, it partially freezes; its speed is\
     \ reduced by 20 feet until the end of its next turn."
   "name": "Freeze"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental makes two slam attacks."
+- "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
-    \ throw. On a failure, a target takes dice: 2d8 + 4|avg (2d8 + 4) bludgeoning\
-    \ damage. If it is Large or smaller, it is also [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
+    \ throw. On a failure, a target takes 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning\
+    \ damage. If it is Large or smaller, it is also [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ and unable to breathe unless it can breathe water. If the saving throw is successful,\
     \ the target is pushed out of the elemental's space.\n\nThe elemental can grapple\
     \ one Large creature or up to two Medium or smaller creatures at one time. At\
-    \ the start of each of the elemental's turns, each target [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it takes dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage. A creature within\
-    \ 5 feet of the elemental can pull a creature or object out of it by taking an\
-    \ action to make a DC 14 Strength check and succeeding."
+    \ the start of each of the elemental's turns, each target [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ by it takes 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage. A creature\
+    \ within 5 feet of the elemental can pull a creature or object out of it by taking\
+    \ an action to make a DC 14 Strength check and succeeding."
   "name": "Whelm (Recharge 4-6)"
 "source":
 - "MM"
@@ -105,7 +97,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "CM"
 - "JttRC"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Elemental/token/water-elemental.png"
+"image": "compendium/bestiary/elemental/token/water-elemental.png"
 ```
 ^statblock
 

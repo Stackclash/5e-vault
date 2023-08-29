@@ -7,10 +7,10 @@ tags:
 aliases: ["Gnome"]
 ---
 # Gnome
-*Source: Player's Handbook p. 35*  
+*Source: Player's Handbook p. 35. Available in the SRD.*  
 
 - **Ability Scores**: Intelligence +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small
 - **Speed**: 25 ft.
 

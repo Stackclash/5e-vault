@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/ooze
-statblock: inline
+aliases: ["Oblex Spawn"]
 ---
 # Oblex Spawn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
@@ -31,13 +30,11 @@ By experimenting on the slimes, jellies, and puddings that infest the depths of 
 
 When oblexes feed on thoughts, they can form weird copies of their prey to use as lures, which helps them harvest even more victims for their mind flayer masters.
 
-## Stat Block
-
 ```statblock
 "name": "Oblex Spawn"
 "size": "Tiny"
 "type": "ooze"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "13"
 "hp": !!int "18"
 "hit_dice": "4d4 + 8"
@@ -48,35 +45,31 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - !!int "14"
 - !!int "11"
 - !!int "10"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "saves":
-  "Charisma": !!int "2"
-  "Intelligence": !!int "4"
+  "Charisma": "+2"
+  "Intelligence": "+4"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, prone"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
+- "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\
+- "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\
     \ ability checks until the end of its next turn."
   "name": "Aversion to Fire"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex doesn't require sleep."
+- "desc": "The oblex doesn't require sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage plus dice: 1d4|avg\
-    \ (1d4) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage plus 2 (dice:\
+    \ 1d4|avg (1d4)) psychic damage."
   "name": "Pseudopod"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Ooze/token/oblex-spawn.png"
+"image": "compendium/bestiary/ooze/token/oblex-spawn.png"
 ```
 ^statblock
 

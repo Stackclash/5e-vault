@@ -14,4 +14,4 @@ aliases: ["Ladder (10-foot)"]
 
 Ladder (10-foot)
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

@@ -12,7 +12,7 @@ aliases: ["Ring of Spell Storing"]
 # Ring of Spell Storing
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -22,4 +22,4 @@ Any creature can cast a spell of 1st through 5th level into the ring by touching
 
 While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
 
-*Source: Dungeon Master's Guide p. 192*
+*Source: Dungeon Master's Guide p. 192. Available in the SRD.*

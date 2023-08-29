@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/mountain
 - monster/size/gargantuan
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Roc"]
 ---
 # Roc
-*Source: Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 260, Curse of Strahd. Available in the SRD.*  
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
 
@@ -31,8 +30,6 @@ Rocs are solitary creatures that can live for centuries. They lair in nests made
 
 Sometimes a roc's nest contains treasures from the caravans or ships they raid, but these creatures are heedless of such baubles. More rarely, a nest holds eggs that are taller than a human, produced by the rocs' infrequent mating.
 
-## Stat Block
-
 ```statblock
 "name": "Roc"
 "size": "Gargantuan"
@@ -48,34 +45,31 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 - !!int "3"
 - !!int "10"
 - !!int "9"
-"speed": "walk 20 ft., fly 120 ft."
+"speed": "20 ft., fly 120 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "9"
+  "Charisma": "+3"
+  "Dexterity": "+4"
+  "Wisdom": "+4"
+  "Constitution": "+9"
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The roc has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The roc has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The roc makes two attacks: one with its beak and one with its talons."
+- "desc": "The roc makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d8 + 9|avg (4d8 + 9) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: 27 (dice: 4d8 + 9|avg (4d8 + 9)) piercing damage."
   "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 9|avg (4d6 + 9) slashing damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 19). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
+    \ Hit: 23 (dice: 4d6 + 9|avg (4d6 + 9)) slashing damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 19). Until\
+    \ this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the roc can't use its talons on another target."
   "name": "Talons"
 "source":
@@ -90,7 +84,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 - "IDRotF"
 - "CM"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/roc.png"
+"image": "compendium/bestiary/monstrosity/token/roc.png"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases: ["Centaur"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 40 ft.
 
@@ -36,7 +36,7 @@ You have hooves that you can use to make unarmed strikes. When you hit with them
 
 ### Natural Affinity
 
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [[5. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[5. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[5. Mechanics/Rules/Skills.md#Nature|Nature]], or [[5. Mechanics/Rules/Skills.md#Survival|Survival]].
+Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [[\5. Mechanics\Rules\Skills.md#Animal%20Handling|Animal Handling]], [[\5. Mechanics\Rules\Skills.md#Medicine|Medicine]], [[\5. Mechanics\Rules\Skills.md#Nature|Nature]], or [[\5. Mechanics\Rules\Skills.md#Survival|Survival]].
 
 ## Description
 

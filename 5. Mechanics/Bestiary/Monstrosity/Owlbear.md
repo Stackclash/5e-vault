@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Owlbear"]
 ---
 # Owlbear
-*Source: Monster Manual p. 249, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, The Lost Dungeon of Rickedness: Big Rick Energy, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Dragons of Stormwreck Isle*  
+*Source: Monster Manual p. 249. Available in the SRD and the Basic Rules.*  
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
 
@@ -40,8 +39,6 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 > The only good thing about owlbears is that the wizard who created them is probably dead.
 
 
-## Stat Block
-
 ```statblock
 "name": "Owlbear"
 "size": "Large"
@@ -57,28 +54,24 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - !!int "3"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owlbear has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The owlbear has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
+- "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) piercing damage."
   "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -98,7 +91,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - "WBtW"
 - "CRCotN"
 - "DoSI"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/owlbear.png"
+"image": "compendium/bestiary/monstrosity/token/owlbear.png"
 ```
 ^statblock
 

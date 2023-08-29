@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Harpy"]
 ---
 # Harpy
-*Source: Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Dragon of Icespire Peak, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle*  
+*Source: Monster Manual p. 181. Available in the SRD and the Basic Rules.*  
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 
@@ -40,8 +39,6 @@ When they attack, harpies play with their food, delighting in the "music" their 
 
 Harpies take shiny baubles, valuable objects, and other trophies from their victims, sometimes fighting with each other for the right to claim the choicest prizes. When no valuable objects can be found, a harpy takes hair, bones, or body parts to line its nest. A harpy's lair is usually hidden in remote ruins, where adventurers can discover valuable treasure and magic hidden beneath foul piles of offal.
 
-## Stat Block
-
 ```statblock
 "name": "Harpy"
 "size": "Medium"
@@ -57,31 +54,27 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 - !!int "7"
 - !!int "10"
 - !!int "13"
-"speed": "walk 20 ft., fly 40 ft."
+"speed": "20 ft., fly 40 ft."
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The harpy makes two attacks: one with its claws and one with its club."
+- "desc": "The harpy makes two attacks: one with its claws and one with its club."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage."
   "name": "Club"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The harpy sings a magical melody. Every humanoid and giant within 300 feet\
+- "desc": "The harpy sings a magical melody. Every humanoid and giant within 300 feet\
     \ of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw\
-    \ or be [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] until the song ends.\
+    \ or be [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] until the song ends.\
     \ The harpy must take a bonus action on its subsequent turns to continue singing.\
-    \ It can stop singing at any time. The song ends if the harpy is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\n\
-    \nWhile [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the harpy, a target\
-    \ is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] and ignores\
-    \ the songs of other harpies. If the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ It can stop singing at any time. The song ends if the harpy is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].\n\
+    \nWhile [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by the harpy, a target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] and ignores\
+    \ the songs of other harpies. If the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ target is more than 5 feet away from the harpy, the target must move on its\
     \ turn toward the harpy by the most direct route. It doesn't avoid opportunity\
     \ attacks, but before moving into damaging terrain, such as lava or a pit, and\
@@ -102,7 +95,7 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 - "MOT"
 - "IDRotF"
 - "DoSI"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/harpy.png"
+"image": "compendium/bestiary/monstrosity/token/harpy.png"
 ```
 ^statblock
 

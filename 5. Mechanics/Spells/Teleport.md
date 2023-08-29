@@ -11,6 +11,7 @@ tags:
 aliases: ["Teleport"]
 ---
 # Teleport
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -61,6 +62,6 @@ The spell's unpredictable magic results in a difficult journey. Each teleporting
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 281
+*Source: Player's Handbook p. 281. Available in the SRD and the Basic Rules.*

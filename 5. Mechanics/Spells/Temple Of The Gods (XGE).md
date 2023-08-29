@@ -10,6 +10,7 @@ tags:
 aliases: ["Temple of the Gods"]
 ---
 # Temple of the Gods
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Conjuration*  
 
 - **Casting time:** 1 hour
@@ -29,10 +30,10 @@ In addition, the sensors created by divination spells can't appear inside the te
 
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
 
-The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], and [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]] has no effect on it. A [[/5. Mechanics/Spells/Disintegrate.md|disintegrate]] spell destroys the temple instantly.
+The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], and [[5. Mechanics\Spells\Antimagic Field.md|antimagic field]] has no effect on it. A [[5. Mechanics\Spells\Disintegrate.md|disintegrate]] spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
-Source: Xanathar's Guide to Everything p. 167
+*Source: Xanathar's Guide to Everything p. 167*

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Black Dragon Wyrmling"]
 ---
 # Black Dragon Wyrmling
-*Source: Monster Manual p. 88, Tales from the Yawning Portal*  
+*Source: Monster Manual p. 88. Available in the SRD.*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 
@@ -86,8 +85,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Black Dragon Wyrmling"
 "size": "Medium"
@@ -103,31 +100,28 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "10"
 - !!int "11"
 - !!int "13"
-"speed": "walk 30 ft., fly 60 ft., swim 30 ft."
+"speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "3"
+  "Charisma": "+3"
+  "Dexterity": "+4"
+  "Wisdom": "+2"
+  "Constitution": "+3"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  "Stealth": "+4"
+  "Perception": "+4"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d4|avg\
-    \ (1d4) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage plus 2 (dice:\
+    \ 1d4|avg (1d4)) acid damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature\
+- "desc": "The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 11 Dexterity saving throw, taking 22 (dice: 5d8|avg\
     \ (5d8)) acid damage on a failed save, or half as much damage on a successful\
     \ one."
@@ -135,6 +129,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
 - "MM"
 - "TftYP"
-"image": "5. Mechanics/Bestiary/Dragon/token/black-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/black-dragon-wyrmling.png"
 ```
 ^statblock

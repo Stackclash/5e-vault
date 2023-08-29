@@ -8,7 +8,7 @@ tags:
 aliases: ["Mask"]
 ---
 # Mask
-*Source: Player's Handbook p. 294* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
 
 - **Alignment**: Chaotic Neutral
 - **Domains**: Trickery

@@ -10,6 +10,7 @@ tags:
 aliases: ["Wrath of Nature"]
 ---
 # Wrath of Nature
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -29,14 +30,14 @@ At the start of each of your turns, each of your enemies within 10 feet of any t
 
 ## Roots and Vines
 
-At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the spell ends. A [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] creature can use an action to make a Strength ([[5. Mechanics/Rules/Skills.md#Athletics|Athletics]]) check against your spell save DC, ending the effect on itself on a success.
+At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]] until the spell ends. A [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]] creature can use an action to make a Strength ([[\5. Mechanics\Rules\Skills.md#Athletics|Athletics]]) check against your spell save DC, ending the effect on itself on a success.
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice: 3d8` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[5. Mechanics/Rules/Conditions.md#prone|prone]].
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice: 3d8` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[\5. Mechanics\Rules\Conditions.md#prone|prone]].
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Xanathar's Guide to Everything p. 171
+*Source: Xanathar's Guide to Everything p. 171*

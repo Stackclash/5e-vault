@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Steel Predator"]
 ---
 # Steel Predator
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
@@ -25,7 +24,7 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "name": "Steel Predator"
 "size": "Large"
 "type": "construct"
-"alignment": "Lawful Neutral"
+"alignment": "Typically  Lawful Neutral"
 "ac": !!int "20"
 "hp": !!int "207"
 "hit_dice": "18d10 + 108"
@@ -36,11 +35,11 @@ If all goes according to plan, a steel predator slays its target and then volunt
 - !!int "4"
 - !!int "14"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "8"
-  "Perception": !!int "7"
-  "Survival": !!int "7"
+  "Stealth": "+8"
+  "Perception": "+7"
+  "Survival": "+7"
 "damage_resistances": "cold, lightning, necrotic, thunder"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
@@ -50,44 +49,37 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "languages": "understands Modron and the language of its owner but can't speak"
 "cr": "16"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The steel predator casts one of the following spells, requiring no spell\
+- "desc": "The steel predator casts one of the following spells, requiring no spell\
     \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
-    \ [[/5. Mechanics/Spells/Dimension Door.md|dimension door]] (self only), [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]\
+    \ [[5. Mechanics\Spells\Dimension Door.md|dimension door]] (self only), [[5. Mechanics\Spells\Plane Shift.md|plane shift]]\
     \ (self only)"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The steel predator has advantage on saving throws against spells and other\
+- "desc": "The steel predator has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The steel predator doesn't require air, food, drink, or sleep."
+- "desc": "The steel predator doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The steel predator makes one Bite attack and two Claw attacks."
+- "desc": "The steel predator makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: 18 (dice: 2d10 + 7|avg (2d10 + 7)) lightning damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: 16 (dice: 2d8 + 7|avg (2d8 + 7)) force damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
+- "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
     \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
-    \ takes dice: 6d10|avg (6d10) thunder damage, drops everything it's holding,\
-    \ and is [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute. The [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ creature can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success. On a successful save, a creature takes half\
-    \ as much damage and isn't [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]."
+    \ takes 33 (dice: 6d10|avg (6d10)) thunder damage, drops everything it's holding,\
+    \ and is [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] for 1 minute. The\
+    \ [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] creature can repeat the saving\
+    \ throw at the end of each of its turns, ending the effect on itself on a success.\
+    \ On a successful save, a creature takes half as much damage and isn't [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]."
   "name": "Stunning Roar (Recharge 5-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/steel-predator.png"
+"image": "compendium/bestiary/construct/token/steel-predator.png"
 ```
 ^statblock
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Zombie Plague Spreader"]
 ---
 # Zombie Plague Spreader
 *Source: Van Richten's Guide to Ravenloft p. 255*  
@@ -20,13 +19,11 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 
 | dice: d4 | Zombie Plot |
 |----------|-------------|
-| 1 | A twisted wish causes those affected by healing magic and [[/5. Mechanics/Items/Potion Of Healing.md|potions of healing]] to rise as zombies. |
-| 2 | Overwhelming magic reanimates zombies again and again as [[/5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md|swarms of zombie limbs]]. |
-| 3 | The githyanki unleash [[/5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] to scour mind flayers from a world. |
-| 4 | The seals containing an underground zombie horde fail, releasing ancient [[/5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|zombie clots]]. |
+| 1 | A twisted wish causes those affected by healing magic and [[5. Mechanics\Items\Potion Of Healing.md|potions of healing]] to rise as zombies. |
+| 2 | Overwhelming magic reanimates zombies again and again as [[5. Mechanics\Bestiary\Undead\Swarm Of Zombie Limbs (VRGR).md|swarms of zombie limbs]]. |
+| 3 | The githyanki unleash [[5. Mechanics\Bestiary\Undead\Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] to scour mind flayers from a world. |
+| 4 | The seals containing an underground zombie horde fail, releasing ancient [[5. Mechanics\Bestiary\Undead\Zombie Clot (VRGR).md|zombie clots]]. |
 ^zombie-apocalypses
-
-## Stat Block
 
 ```statblock
 "name": "Zombie Plague Spreader"
@@ -43,7 +40,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 - !!int "3"
 - !!int "5"
 - !!int "5"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, exhaustion, poisoned"
@@ -51,32 +48,26 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
+- "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
     \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
     \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
   "name": "Undead Fortitude"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The zombie doesn't require air, food, drink, or sleep."
+- "desc": "The zombie doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature that starts its turn within 10 feet of the plague spreader\
+- "desc": "Any creature that starts its turn within 10 feet of the plague spreader\
     \ must make a DC 12 Constitution saving throw. On a failed save, the creature\
-    \ is [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] and can't regain hit\
+    \ is [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] and can't regain hit\
     \ points until the end of its next turn. On a successful save, the creature is\
     \ immune to this plague spreader's Viral Aura for 24 hours."
   "name": "Viral Aura"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The plague spreader makes two Slam attacks."
+- "desc": "The plague spreader makes two Slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage plus dice: 2d8|avg\
-    \ (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage plus 9 (dice:\
+    \ 2d8|avg (2d8)) necrotic damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered\
+- "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered\
     \ on itself. Each creature in that area must make a DC 12 Constitution saving\
     \ throw, taking 14 (dice: 4d6|avg (4d6)) poison damage on a failed save, or\
     \ half as much damage on a successful one. A Humanoid reduced to 0 hit points\
@@ -86,6 +77,6 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   "name": "Virulent Miasma (1/Day)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/zombie-plague-spreader.png"
+"image": "compendium/bestiary/undead/token/zombie-plague-spreader.png"
 ```
 ^statblock

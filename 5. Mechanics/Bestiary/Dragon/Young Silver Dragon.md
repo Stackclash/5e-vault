@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Silver Dragon"]
 ---
 # Young Silver Dragon
-*Source: Monster Manual p. 118, Storm King's Thunder, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 118. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 
@@ -84,8 +83,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Young Silver Dragon"
 "size": "Large"
@@ -101,41 +98,37 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "14"
 - !!int "11"
 - !!int "19"
-"speed": "walk 40 ft., fly 80 ft."
+"speed": "40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "9"
+  "Charisma": "+8"
+  "Dexterity": "+4"
+  "Wisdom": "+4"
+  "Constitution": "+9"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "8"
-  "History": !!int "6"
-  "Arcana": !!int "6"
+  "Stealth": "+4"
+  "Perception": "+8"
+  "History": "+6"
+  "Arcana": "+6"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "9"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
     \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
     \ must make a DC 17 Constitution saving throw, taking 54 (dice: 12d8|avg (12d8))\
     \ cold damage on a failed save, or half as much damage on a successful one.  \n\
     - Paralyzing Breath. The dragon exhales paralyzing gas in a 30-foot cone.\
     \ Each creature in that area must succeed on a DC 17 Constitution saving throw\
-    \ or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
+    \ or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
     \ creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
@@ -143,7 +136,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "SKT"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-silver-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-silver-dragon.png"
 ```
 ^statblock
 

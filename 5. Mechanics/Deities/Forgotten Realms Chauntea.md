@@ -8,7 +8,7 @@ tags:
 aliases: ["Chauntea"]
 ---
 # Chauntea
-*Source: Player's Handbook p. 294* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Life

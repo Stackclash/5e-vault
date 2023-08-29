@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -12,10 +11,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Guard Drake"]
 ---
 # Guard Drake
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
 
@@ -40,28 +39,25 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 - !!int "4"
 - !!int "10"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"
 "cr": "2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The guard drake makes one Bite attack and one Tail attack."
+- "desc": "The guard drake makes one Bite attack and one Tail attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
   "name": "Tail"
 "source":
 - "MPMM"
 - "HotDQ"
-"image": "5. Mechanics/Bestiary/Dragon/token/guard-drake.png"
+"image": "compendium/bestiary/dragon/token/guard-drake.png"
 ```
 ^statblock
 

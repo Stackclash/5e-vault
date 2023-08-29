@@ -10,7 +10,7 @@ aliases: ["Orc (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Strength +2, Intelligence -2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

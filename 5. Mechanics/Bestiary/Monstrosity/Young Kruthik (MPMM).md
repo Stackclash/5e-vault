@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Young Kruthik"]
 ---
 # Young Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  
@@ -35,8 +34,6 @@ Although they can feed on carrion, kruthiks prefer live prey. They kill enemies 
 
 Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
 
-## Stat Block
-
 ```statblock
 "name": "Young Kruthik"
 "size": "Small"
@@ -52,31 +49,28 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - !!int "4"
 - !!int "10"
 - !!int "6"
-"speed": "walk 30 ft., burrow 10 ft., climb 30 ft."
+"speed": "30 ft., burrow 10 ft., climb 30 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": "Kruthik"
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik has advantage on an attack roll against a creature if at least\
+- "desc": "The kruthik has advantage on an attack roll against a creature if at least\
     \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
+- "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
     \ leaves a 2½-foot-diameter tunnel in its wake."
   "name": "Tunneler"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
   "name": "Stab"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/young-kruthik.png"
+"image": "compendium/bestiary/monstrosity/token/young-kruthik.png"
 ```
 ^statblock
 

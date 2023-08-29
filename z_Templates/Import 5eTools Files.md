@@ -8,12 +8,12 @@ const dv = app.plugins.plugins.dataview.api
 <!-- Handle moving img folder over -->
 <!-- Remove pipe escapes, instead just remove `|avg` from dice -->
 const dryRun = false
-const limit = 1000
+const limit = 500
 const vaultRootPath = 'D:\\Projects\\Personal\\5e-vault'
 const newCompendiumLocation = '5. Mechanics'
 const newLocations = {
-    'compendium/books': '4. World Almanac/books',
-    'compendium/adventures': '4. World Almanac/5e Modules'
+    'compendium/books': '6. Resources/books',
+    'compendium/adventures': '6. Resources/5e Modules'
 }
 
 let count = 0
@@ -27,6 +27,29 @@ tp.file.rename('Importing 5eTools Data')
 if(dryRun) {
     linkChanges += "| NO CHANGES HAVE BEEN MADE | NO CHANGES HAVE BEEN MADE |\n"
     fileMoves += "| NO CHANGES HAVE BEEN MADE | NO CHANGES HAVE BEEN MADE |\n"
+}
+
+function moveImgFolder(filePath) {
+    const files = fs.readdirSync(path.join(vaultRootPath,filePath))
+
+    files.forEach((file) => {
+        const oldRelativeFilePath = path.join(filePath, file)
+        const oldFilePath = path.join(vaultRootPath, oldRelativeFilePath)
+        const oldPath = path.join(vaultRootPath, filePath)
+        const newPath = path.join(vaultRootPath, getNewPath(filePath))
+        const isDirectory = fs.statSync(oldFilePath).isDirectory()
+
+        if ((oldFilePath.includes('img') || oldFilePath.includes('token')) && !isDirectory) {
+            const newFilePath = path.join(vaultRootPath, getNewFilePath(oldRelativeFilePath))
+
+            if (!dryRun) {
+                if (!fs.existsSync(newPath)) fs.mkdirSync(newPath, {recursive: true})
+                fs.renameSync(oldFilePath, newFilePath)
+            }
+        } else if (isDirectory) {
+            moveImgFolder(oldRelativeFilePath)
+        }
+    })
 }
 
 function getNewFileName(fileName) {
@@ -44,20 +67,22 @@ function getNewPath(path) {
 
     pagePath = pagePath.replaceAll('%20', '\ ').replace(/^(\w)/, (all, letter) => letter.toUpperCase())
 
-    return pagePath.replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
+    const newPath = pagePath.replaceAll(/([\\\/\-])([a-z])(?!mg)(?!oken)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
+
+    return newPath
 }
 
-function getNewFilePath(path) {
-    const pageInfo = path.match(/([\w\s\d\/\.\-%\d]*?)([\w\s\d\-%\d\.]+)(\.\w+)$/)
+function getNewFilePath(oldPath) {
+    const pageInfo = oldPath.match(/([\w\s\d\/\.\-%:\\\d]*?)([\w\s\d\-%\d\.]+)(\.\w+)$/)
     const filePath = pageInfo[1]
     const fileName = pageInfo[2]
     const extension = pageInfo[3]
 
-    return `${getNewPath(filePath)}${(!['.png', '.jpg', '.jpeg'].includes(extension) ? `${getNewFileName(fileName)}${extension}` : `${fileName}${extension}`)}`
+    return path.join(getNewPath(filePath), (!['.png', '.jpg', '.jpeg'].includes(extension) ? `${getNewFileName(fileName)}${extension}` : `${fileName}${extension}`))
 }
 
 async function updateContent(page, content) {
-    let matches = [...content.matchAll(/\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.\(\)\-]*)"*\)/g)]
+    let matches = [...content.matchAll(/\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g)]
     if (matches.length > 0) {
 
         matches.forEach((link) => {
@@ -99,14 +124,14 @@ async function moveFile(page) {
     const oldFilePath = page.file.path
     const newFilePath = getNewFilePath(page.file.path)
     const newFolderPath = getNewPath(page.file.folder)
-    isIndex = oldFilePath.includes(`${page.file.name}/${page.file.name}`) ? true : false
+    isIndex = oldFilePath.includes(`${page.file.name}/${page.file.name}`)
 
     fileMoves += `| ${oldFilePath} | ${isIndex ? 'Created Index File' : newFilePath} |\n`
     if (!dryRun) {
         if (!fs.existsSync(newFolderPath)) fs.mkdirSync(path.join(vaultRootPath, newFolderPath), {recursive: true})
-        fs.renameSync(path.join(vaultRootPath, oldFilePath), path.join(vaultRootPath, newFilePath))
+        if (isIndex) await this.app.vault.modify(tp.file.find_tfile(oldFilePath), `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``)
 
-        if (isIndex) this.app.vault.modify(tp.file.find_tfile(newFilePath), `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``)
+        fs.renameSync(path.join(vaultRootPath, oldFilePath), path.join(vaultRootPath, newFilePath))
     }
 }
 
@@ -135,6 +160,8 @@ const allOtherPages = dv.pages(`"compendium"${query}`)
 for (let x = 0; x < allOtherPages.length; x++) {
     await processFile(allOtherPages[x])
 }
+
+moveImgFolder('compendium')
 
 tR += linkChanges + "\n\n"
 tR += fileMoves

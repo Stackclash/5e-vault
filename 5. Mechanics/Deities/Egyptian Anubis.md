@@ -10,7 +10,7 @@ tags:
 aliases: ["Anubis"]
 ---
 # Anubis
-*Source: Player's Handbook p. 299, Xanathar's Guide to Everything p. 19* 
+*Source: Player's Handbook p. 299, Xanathar's Guide to Everything p. 19. Available in the SRD.* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Death, Grave, Order

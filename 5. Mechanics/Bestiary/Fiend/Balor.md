@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/huge
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Balor"]
 ---
 # Balor
-*Source: Monster Manual p. 55, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 55. Available in the SRD.*  
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -154,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -163,15 +162,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -180,8 +179,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Balor"
@@ -199,12 +196,12 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "20"
 - !!int "16"
 - !!int "22"
-"speed": "walk 40 ft., fly 80 ft."
+"speed": "40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "12"
-  "Wisdom": !!int "9"
-  "Strength": !!int "14"
-  "Constitution": !!int "12"
+  "Charisma": "+12"
+  "Wisdom": "+9"
+  "Strength": "+14"
+  "Constitution": "+12"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
@@ -213,45 +210,37 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the balor dies, it explodes, and each creature within 30 feet of it\
+- "desc": "When the balor dies, it explodes, and each creature within 30 feet of it\
     \ must make a DC 20 Dexterity saving throw, taking 70 (dice: 20d6|avg (20d6))\
     \ fire damage on a failed save, or half as much damage on a successful one. The\
     \ explosion ignites flammable objects in that area that aren't being worn or carried,\
     \ and it destroys the balor's weapons."
   "name": "Death Throes"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of each of the balor's turns, each creature within 5 feet\
-    \ of it takes dice: 3d6|avg (3d6) fire damage, and flammable objects in the\
-    \ aura that aren't being worn or carried ignite. A creature that touches the balor\
-    \ or hits it with a melee attack while within 5 feet of it takes dice: 3d6|avg\
-    \ (3d6) fire damage."
+- "desc": "At the start of each of the balor's turns, each creature within 5 feet\
+    \ of it takes 10 (dice: 3d6|avg (3d6)) fire damage, and flammable objects\
+    \ in the aura that aren't being worn or carried ignite. A creature that touches\
+    \ the balor or hits it with a melee attack while within 5 feet of it takes 10\
+    \ (dice: 3d6|avg (3d6)) fire damage."
   "name": "Fire Aura"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balor has advantage on saving throws against spells and other magical\
+- "desc": "The balor has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balor's weapon attacks are magical."
+- "desc": "The balor's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balor makes two attacks: one with its longsword and one with its whip."
+- "desc": "The balor makes two attacks: one with its longsword and one with its whip."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) slashing damage plus dice: 3d8|avg (3d8)\
-    \ lightning damage. If the balor scores a critical hit, it rolls damage dice three\
-    \ times, instead of twice."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
+    \ Hit: 21 (dice: 3d8 + 8|avg (3d8 + 8)) slashing damage plus 13 (dice:\
+    \ 3d8|avg (3d8)) lightning damage. If the balor scores a critical hit, it rolls\
+    \ damage dice three times, instead of twice."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 30 ft., one target.\
-    \ Hit: dice: 2d6 + 8|avg (2d6 + 8) slashing damage plus dice: 3d6|avg (3d6)\
-    \ fire damage, and the target must succeed on a DC 20 Strength saving throw or\
-    \ be pulled up to 25 feet toward the balor."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 30 ft., one target.\
+    \ Hit: 15 (dice: 2d6 + 8|avg (2d6 + 8)) slashing damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) fire damage, and the target must succeed on a DC 20 Strength\
+    \ saving throw or be pulled up to 25 feet toward the balor."
   "name": "Whip"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balor magically teleports, along with any equipment it is wearing or\
+- "desc": "The balor magically teleports, along with any equipment it is wearing or\
     \ carrying, up to 120 feet to an unoccupied space it can see."
   "name": "Teleport"
 "source":
@@ -261,6 +250,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "TCE"
 - "CRCotN"
-"image": "/compendium/bestiary/fiend/token/balor.png"
+"image": "compendium/bestiary/fiend/token/balor.png"
 ```
 ^statblock

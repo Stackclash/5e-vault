@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Spirit Naga"]
 ---
 # Spirit Naga
-*Source: Monster Manual p. 234, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 234. Available in the SRD.*  
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
@@ -37,8 +36,6 @@ Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself
 
 A naga doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Spirit Naga"
 "size": "Large"
@@ -54,44 +51,41 @@ A naga doesn't require air, food, drink, or sleep.
 - !!int "16"
 - !!int "15"
 - !!int "16"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "5"
-  "Constitution": !!int "5"
+  "Charisma": "+6"
+  "Dexterity": "+6"
+  "Wisdom": "+5"
+  "Constitution": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, poisoned"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
+- "desc": "The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks), and it needs\
     \ only verbal components to cast its spells. It has the following wizard spells\
-    \ prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Charm Person.md|charm person]],\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Sleep.md|sleep]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
-    \ slots): [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[/5. Mechanics/Spells/Water Breathing.md|water breathing]]\n\
-    \n4th level (3 4th-level slots): [[/5. Mechanics/Spells/Blight.md|blight]], [dimension\
-    \ door](/compendium/spells/dimension-door.md)\n\n5th level (2 5th-level slots):\
-    \ [[/5. Mechanics/Spells/Dominate Person.md|dominate person]]"
+    \ prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]], [[5. Mechanics\Spells\Ray Of Frost.md|ray of frost]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Charm Person.md|charm person]],\
+    \ [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Sleep.md|sleep]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics\Spells\Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
+    \ slots): [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]], [[5. Mechanics\Spells\Water Breathing.md|water breathing]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics\Spells\Blight.md|blight]], [dimension\
+    \ door](compendium/spells/dimension-door.md)\n\n5th level (2 5th-level slots):\
+    \ [[5. Mechanics\Spells\Dominate Person.md|dominate person]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
-    \ regains all its hit points. Only a [[/5. Mechanics/Spells/Wish.md|wish]] spell\
-    \ can prevent this trait from functioning."
+- "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
+    \ regains all its hit points. Only a [[5. Mechanics\Spells\Wish.md|wish]] spell can\
+    \ prevent this trait from functioning."
   "name": "Rejuvenation"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and the target must make\
-    \ a DC 13 Constitution saving throw, taking 31 (dice: 7d8|avg (7d8)) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage, and the target must\
+    \ make a DC 13 Constitution saving throw, taking 31 (dice: 7d8|avg (7d8))\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Bite"
 "source":
 - "MM"
@@ -101,7 +95,7 @@ A naga doesn't require air, food, drink, or sleep.
 - "EGW"
 - "MOT"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/spirit-naga.png"
+"image": "compendium/bestiary/monstrosity/token/spirit-naga.png"
 ```
 ^statblock
 

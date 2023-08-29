@@ -10,7 +10,7 @@ tags:
 aliases: ["Hecate"]
 ---
 # Hecate
-*Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125* 
+*Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125. Available in the SRD.* 
 
 - **Alignment**: Chaotic Evil
 - **Domains**: Knowledge, Trickery, Arcana

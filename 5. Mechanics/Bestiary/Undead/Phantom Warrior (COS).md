@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Phantom Warrior"]
 ---
 # Phantom Warrior
 *Source: Curse of Strahd p. 235*  
@@ -22,13 +21,11 @@ A phantom warrior retains the alignment and personality it had before it died, a
 
 ## Forceful Presence
 
-Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [[Conditions#invisible|invisible]] sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
+Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
 
 ## Undead Nature
 
 A phantom warrior doesn't require air, food, drink, or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Phantom Warrior"
@@ -45,10 +42,10 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 - !!int "8"
 - !!int "10"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  "Stealth": "+4"
+  "Perception": "+2"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
@@ -57,34 +54,28 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "languages": "any languages it knew in life"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
+- "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
     \ on the Material Plane, and vice versa."
   "name": "Ethereal Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage\
+- "desc": "The phantom warrior can move through other creatures and objects as if\
+    \ they were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
     \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
+- "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
   "name": "Spectral Armor and Shield"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior makes two attacks with its spectral longsword."
+- "desc": "The phantom warrior makes two attacks with its spectral longsword."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) force damage."
   "name": "Spectral Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
+- "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
     \ or vice versa. It is visible on the Material Plane while it is in the Border\
     \ Ethereal, and vice versa, yet it can't affect or be affected by anything on\
     \ the other plane."
   "name": "Etherealness"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/phantom-warrior.png"
+"image": "compendium/bestiary/undead/token/phantom-warrior.png"
 ```
 ^statblock

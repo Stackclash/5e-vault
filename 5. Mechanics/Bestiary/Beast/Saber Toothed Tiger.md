@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Saber-Toothed Tiger"]
 ---
 # Saber-Toothed Tiger
-*Source: Monster Manual p. 336, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Saber-Toothed Tiger"
@@ -27,33 +26,29 @@ statblock: inline
 - !!int "3"
 - !!int "12"
 - !!int "8"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "3"
+  "Stealth": "+6"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tiger has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The tiger has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
+- "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 14 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[5. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
+    \ 14 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
+    \ If the target is [[\5. Mechanics\Rules\Conditions.md#prone|prone]], the tiger can\
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage."
   "name": "Claw"
 "source":
 - "MM"
@@ -62,7 +57,7 @@ statblock: inline
 - "IDRotF"
 - "CoS"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Beast/token/saber-toothed-tiger.png"
+"image": "compendium/bestiary/beast/token/saber-toothed-tiger.png"
 ```
 ^statblock
 

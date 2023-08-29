@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Necrichor"]
 ---
 # Necrichor
 *Source: Van Richten's Guide to Ravenloft p. 238*  
@@ -29,13 +28,13 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 - !!int "17"
 - !!int "13"
 - !!int "10"
-"speed": "walk 20 ft., climb 20 ft."
+"speed": "20 ft., climb 20 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "6"
-  "Constitution": !!int "6"
+  "Wisdom": "+4"
+  "Intelligence": "+6"
+  "Constitution": "+6"
 "skillsaves":
-  "Arcana": !!int "9"
+  "Arcana": "+9"
 "damage_resistances": "acid, necrotic"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
   \ paralyzed, poisoned, prone, restrained"
@@ -43,40 +42,32 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "languages": "any three languages, telepathy 120 ft."
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the necrichor fails a saving throw, it can choose to succeed instead."
+- "desc": "If the necrichor fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (2/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Unless its lifeless remains are splashed with holy water or placed in a\
-    \ vessel under the effects of the [[/5. Mechanics/Spells/Hallow.md|hallow]] spell,\
+- "desc": "Unless its lifeless remains are splashed with holy water or placed in a\
+    \ vessel under the effects of the [[5. Mechanics\Spells\Hallow.md|hallow]] spell,\
     \ the destroyed necrichor re-forms in dice: 1d10|avg (1d10) days, regaining\
     \ all its hits points and appearing in the place it died or in the nearest unoccupied\
     \ space."
   "name": "Rejuvenation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The necrichor can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The necrichor can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The necrichor doesn't require air, food, drink, or sleep."
+- "desc": "The necrichor doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The necrichor makes two attacks."
+- "desc": "The necrichor makes two attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) necrotic damage, and the target must succeed\
-    \ on a DC 14 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) necrotic damage, and the target must\
+    \ succeed on a DC 14 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ until the start of the necrichor's next turn."
   "name": "Pseudopod"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one creature.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) necrotic damage, and the target can't regain\
-    \ hit points until the start of the necrichor's next turn."
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one creature.\
+    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) necrotic damage, and the target\
+    \ can't regain hit points until the start of the necrichor's next turn."
   "name": "Necrotic Bolt"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The necrichor targets a creature it can see within 5 feet of it that is\
+- "desc": "The necrichor targets a creature it can see within 5 feet of it that is\
     \ missing any of its hit points. If the target isn't a Construct or an Undead,\
     \ it must succeed on a DC 14 Constitution saving throw or the necrichor enters\
     \ the target's space and attaches itself to the target for 1 minute. While attached,\
@@ -91,6 +82,6 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   "name": "Blood Puppeteering (Recharge 6)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/necrichor.png"
+"image": "compendium/bestiary/undead/token/necrichor.png"
 ```
 ^statblock

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underwater
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Sea Horse"]
 ---
 # Giant Sea Horse
-*Source: Monster Manual p. 328, Ghosts of Saltmarsh, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*  
 
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
 
@@ -28,30 +27,27 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 - !!int "2"
 - !!int "12"
 - !!int "5"
-"speed": "walk 0 ft., swim 40 ft."
+"speed": "0 ft., swim 40 ft."
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the sea horse moves at least 20 feet straight toward a target and then\
+- "desc": "If the sea horse moves at least 20 feet straight toward a target and then\
     \ hits it with a ram attack on the same turn, the target takes an extra 7 (dice:\
     \ 2d6|avg (2d6)) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 11 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 11 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Charge"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sea horse can breathe only underwater."
+- "desc": "The sea horse can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage."
   "name": "Ram"
 "source":
 - "MM"
 - "GoS"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-sea-horse.png"
+"image": "compendium/bestiary/beast/token/giant-sea-horse.png"
 ```
 ^statblock
 

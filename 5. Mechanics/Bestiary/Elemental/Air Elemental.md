@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Air Elemental"]
 ---
 # Air Elemental
-*Source: Monster Manual p. 124, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Eberron: Rising from the Last War, Infernal Machine Rebuild, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 124. Available in the SRD and the Basic Rules.*  
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 
@@ -35,8 +34,6 @@ Powerful magic can bind an elemental spirit into a material template that define
 ### Elemental Nature
 
 An elemental doesn't require air, food, drink, or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Air Elemental"
@@ -63,29 +60,25 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Auran"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental can enter a hostile creature's space and stop there. It can\
+- "desc": "The elemental can enter a hostile creature's space and stop there. It can\
     \ move through a space as narrow as 1 inch wide without squeezing."
   "name": "Air Form"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental makes two slam attacks."
+- "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
-    \ throw. On a failure, a target takes dice: 3d8 + 2|avg (3d8 + 2) bludgeoning\
+- "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
+    \ throw. On a failure, a target takes 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning\
     \ damage and is flung up 20 feet away from the elemental in a random direction\
-    \ and knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]. If a thrown target\
-    \ strikes an object, such as a wall or floor, the target takes dice: 1d6|avg\
-    \ (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
+    \ and knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]. If a thrown target\
+    \ strikes an object, such as a wall or floor, the target takes 3 (dice: 1d6|avg\
+    \ (1d6)) bludgeoning damage for every 10 feet it was thrown. If the target is\
     \ thrown at another creature, that creature must succeed on a DC 13 Dexterity\
-    \ saving throw or take the same damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\n\
+    \ saving throw or take the same damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\n\
     \nIf the saving throw is successful, the target takes half the bludgeoning damage\
-    \ and isn't flung away or knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ and isn't flung away or knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Whirlwind (Recharge 4-6)"
 "source":
 - "MM"
@@ -108,7 +101,8 @@ An elemental doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Elemental/token/air-elemental.png"
+- "GotSF"
+"image": "compendium/bestiary/elemental/token/air-elemental.png"
 ```
 ^statblock
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/arctic
 - monster/size/medium
 - monster/type/fey
-statblock: inline
+aliases: ["Bheur Hag"]
 ---
 # Bheur Hag
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
@@ -23,7 +22,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "name": "Bheur Hag"
 "size": "Medium"
 "type": "fey"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
@@ -34,62 +33,54 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 - !!int "12"
 - !!int "13"
 - !!int "16"
-"speed": "walk 30 ft., fly 50 ft. (hover, Graystaff magic)"
+"speed": "30 ft., fly 50 ft. (hover, Graystaff magic)"
 "saves":
-  "Wisdom": !!int "4"
+  "Wisdom": "+4"
 "skillsaves":
-  "Nature": !!int "4"
-  "Stealth": !!int "6"
-  "Perception": !!int "4"
-  "Survival": !!int "4"
+  "Nature": "+4"
+  "Stealth": "+6"
+  "Perception": "+4"
+  "Survival": "+4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Auran, Common, Giant"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While holding or riding the graystaff, the hag casts one of the following\
+- "desc": "While holding or riding the graystaff, the hag casts one of the following\
     \ spells, requiring no material components and using Charisma as the spellcasting\
-    \ ability (spell save DC 14):\n\nAt will: [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[/5. Mechanics/Spells/Ice Storm.md|ice storm]],\
-    \ [[/5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]"
+    \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics\Spells\Hold Person.md|hold person]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Cone Of Cold.md|cone of cold]], [[5. Mechanics\Spells\Ice Storm.md|ice storm]],\
+    \ [[5. Mechanics\Spells\Wall Of Ice.md|wall of ice]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag can cast the [[/5. Mechanics/Spells/Control Weather.md|control weather]]\
+- "desc": "The hag can cast the [[5. Mechanics\Spells\Control Weather.md|control weather]]\
     \ spell, requiring no material components and using Charisma as the spellcasting\
     \ ability."
   "name": "Control Weather (1/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag carries a graystaff, a magic staff. The hag can use its flying\
+- "desc": "The hag carries a graystaff, a magic staff. The hag can use its flying\
     \ speed only while astride the staff. If the staff is lost or destroyed, the hag\
     \ must craft another, which takes a year and a day. Only a bheur hag can use a\
     \ graystaff"
   "name": "Graystaff Magic"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag can move across and climb icy surfaces without needing to make\
+- "desc": "The hag can move across and climb icy surfaces without needing to make\
     \ an ability check, and difficult terrain composed of ice or snow doesn't cost\
     \ the hag extra moment."
   "name": "Ice Walk"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag makes two Slam or Frost Shard attacks."
+- "desc": "The hag makes two Slam or Frost Shard attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 1|avg (2d8 + 1) bludgeoning damage plus dice: 4d8|avg\
-    \ (4d8) cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d8 + 1|avg (2d8 + 1)) bludgeoning damage plus 18 (dice:\
+    \ 4d8|avg (4d8)) cold damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 60 ft., one target.\
-    \ Hit: dice: 6d8 + 3|avg (6d8 + 3) cold damage, and the target's speed is\
-    \ reduced by 10 feet until the start of the hag's next turn."
+- "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 60 ft., one target.\
+    \ Hit: 30 (dice: 6d8 + 3|avg (6d8 + 3)) cold damage, and the target's speed\
+    \ is reduced by 10 feet until the start of the hag's next turn."
   "name": "Frost Shard"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag feeds on the corpse of one enemy within reach that died within\
+- "desc": "The hag feeds on the corpse of one enemy within reach that died within\
     \ the past minute. Each creature of the hag's choice that is within 60 feet and\
-    \ able to see the feeding must succeed on a DC 15 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the hag for 1 minute. While [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ in this way, a creature is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+    \ able to see the feeding must succeed on a DC 15 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ of the hag for 1 minute. While [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ in this way, a creature is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]],\
     \ can't understand what others say, can't read, and speaks only in gibberish.\
     \ A creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success. If a creature's saving throw is successful\
@@ -99,7 +90,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/bheur-hag.png"
+"image": "compendium/bestiary/fey/token/bheur-hag.png"
 ```
 ^statblock
 

@@ -10,6 +10,7 @@ tags:
 aliases: ["Hellish Rebuke"]
 ---
 # Hellish Rebuke
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 reaction
@@ -21,6 +22,6 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Classes/Paladin Oathbreaker.md|Paladin (Oathbreaker)]], [[/5. Mechanics/Classes/Warlock.md|Warlock]]
+**Classes**: [[5. Mechanics\Classes\Paladin Oathbreaker.md|Paladin (Oathbreaker)]], [[5. Mechanics\Classes\Warlock.md|Warlock]]
 
-Source: Player's Handbook p. 250
+*Source: Player's Handbook p. 250. Available in the SRD.*

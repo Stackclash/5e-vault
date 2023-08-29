@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Stone Giant Dreamwalker"]
 ---
 # Stone Giant Dreamwalker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
@@ -25,7 +24,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "name": "Stone Giant Dreamwalker"
 "size": "Huge"
 "type": "giant"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "18"
 "hp": !!int "161"
 "hit_dice": "14d12 + 70"
@@ -36,58 +35,53 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 - !!int "10"
 - !!int "8"
 - !!int "12"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "9"
+  "Dexterity": "+6"
+  "Wisdom": "+3"
+  "Constitution": "+9"
 "skillsaves":
-  "Athletics": !!int "14"
-  "Perception": !!int "3"
+  "Athletics": "+14"
+  "Perception": "+3"
 "condition_immunities": "charmed, frightened"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Giant"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "An enemy that starts its turn within 30 feet of the giant must make a DC\
-    \ 13 Charisma saving throw, provided that the giant isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
-    \ On a failed save, the creature is [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ by the giant. A creature [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] in\
-    \ this way can repeat the saving throw at the end of each of its turns, ending\
+- "desc": "An enemy that starts its turn within 30 feet of the giant must make a DC\
+    \ 13 Charisma saving throw, provided that the giant isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].\
+    \ On a failed save, the creature is [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ by the giant. A creature [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ in this way can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success. Once it succeeds on the saving throw, the\
     \ creature is immune to this giant's Dreamwalker's Charm for 24 hours."
   "name": "Dreamwalker's Charm"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two Greatclub or Rock attacks."
+- "desc": "The giant makes two Greatclub or Rock attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 4d8 + 6|avg (4d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one target.\
+    \ Hit: 24 (dice: 4d8 + 6|avg (4d8 + 6)) bludgeoning damage."
   "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage. If the\
-    \ target is a creature, it must succeed on a DC 17 Strength saving throw or be\
-    \ knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/240 ft.,\
+    \ one target. Hit: 22 (dice: 3d10 + 6|avg (3d10 + 6)) bludgeoning damage.\
+    \ If the target is a creature, it must succeed on a DC 17 Strength saving throw\
+    \ or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Rock"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant touches one Medium or smaller creature within 10 feet of it that\
-    \ is [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by it. The target must\
+- "desc": "The giant touches one Medium or smaller creature within 10 feet of it that\
+    \ is [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by it. The target must\
     \ make a DC 17 Constitution saving throw. On a failed save, the target becomes\
-    \ [[5. Mechanics/Rules/Conditions.md#petrified|petrified]], and the giant can adhere\
-    \ the target to its stony body. [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spells and other magic that can undo petrification have no effect on a [[5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]], and the giant can adhere\
+    \ the target to its stony body. [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
+    \ spells and other magic that can undo petrification have no effect on a [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]]\
     \ creature adhered to the giant unless the giant is dead, in which case the magic\
-    \ works normally, freeing the [[5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
-    \ creature as well as ending the [[5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ works normally, freeing the [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]]\
+    \ creature as well as ending the [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]]\
     \ condition on it."
   "name": "Petrifying Touch"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Giant/token/stone-giant-dreamwalker.png"
+"image": "compendium/bestiary/giant/token/stone-giant-dreamwalker.png"
 ```
 ^statblock
 

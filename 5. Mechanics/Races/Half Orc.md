@@ -7,10 +7,10 @@ tags:
 aliases: ["Half-Orc"]
 ---
 # Half-Orc
-*Source: Player's Handbook p. 40*  
+*Source: Player's Handbook p. 40. Available in the SRD.*  
 
 - **Ability Scores**: Strength +2, Constitution +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -30,7 +30,7 @@ Thanks to your orc blood, you have superior vision in dark and dim conditions. Y
 
 ### Menacing
 
-You gain proficiency in the [[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]] skill.
+You gain proficiency in the [[\5. Mechanics\Rules\Skills.md#Intimidation|Intimidation]] skill.
 
 ### Relentless Endurance
 

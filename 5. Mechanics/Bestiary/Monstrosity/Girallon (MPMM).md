@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Girallon"]
 ---
 # Girallon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*  
@@ -40,34 +39,30 @@ Girallons that are well treated might be willing to serve as guards, though they
 - !!int "5"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft., climb 40 ft."
+"speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  "Stealth": "+5"
+  "Perception": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The girallon makes one Bite attack and four Claw attacks."
+- "desc": "The girallon makes one Bite attack and four Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing damage."
   "name": "Claw"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The girallon moves up to its speed toward a hostile creature that it can\
+- "desc": "The girallon moves up to its speed toward a hostile creature that it can\
     \ see."
   "name": "Aggressive"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/girallon.png"
+"image": "compendium/bestiary/monstrosity/token/girallon.png"
 ```
 ^statblock
 

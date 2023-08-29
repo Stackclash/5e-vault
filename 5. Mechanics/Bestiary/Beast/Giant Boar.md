@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Boar"]
 ---
 # Giant Boar
-*Source: Monster Manual p. 323, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros*  
+*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Boar"
@@ -28,25 +27,22 @@ statblock: inline
 - !!int "2"
 - !!int "7"
 - !!int "5"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the boar moves at least 20 feet straight toward a target and then hits\
+- "desc": "If the boar moves at least 20 feet straight toward a target and then hits\
     \ it with a tusk attack on the same turn, the target takes an extra 7 (dice:\
     \ 2d6|avg (2d6)) slashing damage. If the target is a creature, it must succeed\
-    \ on a DC 13 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 13 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Charge"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points,\
+- "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
   "name": "Relentless (Recharges after a Short or Long Rest)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
   "name": "Tusk"
 "source":
 - "MM"
@@ -54,7 +50,8 @@ statblock: inline
 - "ToA"
 - "GoS"
 - "MOT"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-boar.png"
+- "PSI"
+"image": "compendium/bestiary/beast/token/giant-boar.png"
 ```
 ^statblock
 

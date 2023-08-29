@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend
-statblock: inline
+aliases: ["Cambion"]
 ---
 # Cambion
-*Source: Monster Manual p. 36, Storm King's Thunder, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault*  
+*Source: Monster Manual p. 36*  
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
 
@@ -30,13 +29,11 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 > They crawl from their mother's wombs to spread corruption throughout the multiverse. What's not to love?
 
 
-## Stat Block
-
 ```statblock
 "name": "Cambion"
 "size": "Medium"
 "type": "fiend"
-"alignment": "Any Evil Alignment"
+"alignment": "Any Evil alignment"
 "ac": !!int "19"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
@@ -47,51 +44,45 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - !!int "14"
 - !!int "12"
 - !!int "16"
-"speed": "walk 30 ft., fly 60 ft."
+"speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Intelligence": !!int "5"
-  "Strength": !!int "7"
-  "Constitution": !!int "6"
+  "Charisma": "+6"
+  "Intelligence": "+5"
+  "Strength": "+7"
+  "Constitution": "+6"
 "skillsaves":
-  "Intimidation": !!int "6"
-  "Deception": !!int "6"
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
+  "Intimidation": "+6"
+  "Deception": "+6"
+  "Stealth": "+7"
+  "Perception": "+4"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cambion's spellcasting ability is Charisma (spell save DC 14). The\
+- "desc": "The cambion's spellcasting ability is Charisma (spell save DC 14). The\
     \ cambion can innately cast the following spells, requiring no material components:\n\
-    \n1/day: [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)\n\n\
-    3/day each: [[/5. Mechanics/Spells/Alter Self.md|alter self]], [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]]"
+    \n1/day: [[5. Mechanics\Spells\Plane Shift.md|plane shift]] (self only)\n\n3/day\
+    \ each: [[5. Mechanics\Spells\Alter Self.md|alter self]], [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Detect Magic.md|detect magic]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The AC of the cambion includes its Charisma bonus."
+- "desc": "The AC of the cambion includes its Charisma bonus."
   "name": "Fiendish Blessing"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cambion makes two melee attacks or uses its Fire Ray twice."
+- "desc": "The cambion makes two melee attacks or uses its Fire Ray twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing\
     \ damage, or 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage if used with\
-    \ two hands to make a melee attack, plus dice: 1d6|avg (1d6) fire damage."
+    \ two hands to make a melee attack, plus 3 (dice: 1d6|avg (1d6)) fire damage."
   "name": "Spear"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage."
   "name": "Fire Ray"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One humanoid the cambion can see within 30 feet of it must succeed on a\
-    \ DC 14 Wisdom saving throw or be magically [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ for 1 day. The [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] target obeys\
+- "desc": "One humanoid the cambion can see within 30 feet of it must succeed on a\
+    \ DC 14 Wisdom saving throw or be magically [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ for 1 day. The [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] target obeys\
     \ the cambion's spoken commands. If the target suffers any harm from the cambion\
     \ or another creature or receives a suicidal command from the cambion, the target\
     \ can repeat the saving throw, ending the effect on itself on a success. If a\
@@ -104,7 +95,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - "BGDIA"
 - "CM"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/cambion.png"
+"image": "compendium/bestiary/fiend/token/cambion.png"
 ```
 ^statblock
 

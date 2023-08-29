@@ -16,4 +16,4 @@ aliases: ["Padded Armor"]
 
 Padded armor consists of quilted layers of cloth and batting.
 
-*Source: Player's Handbook p. 144*
+*Source: Player's Handbook p. 144. Available in the SRD and the Basic Rules.*

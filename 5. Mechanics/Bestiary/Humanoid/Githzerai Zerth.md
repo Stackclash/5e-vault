@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/humanoid/gith
-statblock: inline
+aliases: ["Githzerai Zerth"]
 ---
 # Githzerai Zerth
-*Source: Monster Manual p. 161, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 161*  
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
 
@@ -28,7 +27,7 @@ The social hierarchy of the githzerai is based on merit, and those githzerai who
 
 ## Disciples of Zerthimon
 
-Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [[Mind Flayer|mind flayers]].
+Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|mind flayers]].
 
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths.
 
@@ -44,20 +43,18 @@ As a special devotion, they organize a rrakkma—an illithid hunting party—to 
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[Mind Flayer|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[Mind Flayer|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote]- A quote from Aristul the Yellow, master of planar lore  
 > 
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
 
-
-## Stat Block
 
 ```statblock
 "name": "Githzerai Zerth"
@@ -75,44 +72,40 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - !!int "16"
 - !!int "17"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "6"
-  "Strength": !!int "4"
+  "Dexterity": "+7"
+  "Wisdom": "+6"
+  "Intelligence": "+6"
+  "Strength": "+4"
 "skillsaves":
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "6"
+  "Insight": "+6"
+  "Perception": "+6"
+  "Arcana": "+6"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
-    \ cast the following spells, requiring no components:\n\nAt will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[/5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]],\
-    \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n3/day each: [feather\
-    \ fall](/compendium/spells/feather-fall.md), [[/5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[/5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[/5. Mechanics/Spells/Shield.md|shield]]"
+- "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
+    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]]\
+    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics\Spells\Phantasmal Killer.md|phantasmal killer]],\
+    \ [[5. Mechanics\Spells\Plane Shift.md|plane shift]]\n\n3/day each: [feather\
+    \ fall](compendium/spells/feather-fall.md), [[5. Mechanics\Spells\Jump.md|jump]],\
+    \ [[5. Mechanics\Spells\See Invisibility.md|see invisibility]], [[5. Mechanics\Spells\Shield.md|shield]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
+- "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."
   "name": "Psychic Defense"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The githzerai makes two unarmed strikes."
+- "desc": "The githzerai makes two unarmed strikes."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage plus dice: 3d8|avg\
-    \ (3d8) psychic damage. This is a magic weapon attack."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage plus 13 (dice:\
+    \ 3d8|avg (3d8)) psychic damage. This is a magic weapon attack."
   "name": "Unarmed Strike"
 "source":
 - "MM"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/githzerai-zerth.png"
+"image": "compendium/bestiary/humanoid/token/githzerai-zerth.png"
 ```
 ^statblock

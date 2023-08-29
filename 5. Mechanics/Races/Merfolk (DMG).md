@@ -10,7 +10,7 @@ aliases: ["Merfolk (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: None
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: walk: 10 ft.; swim: 40 ft.
 

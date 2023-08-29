@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["White Abishai"]
 ---
 # White Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  
@@ -21,14 +20,12 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
-## Stat Block
-
 ```statblock
 "name": "White Abishai"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
 "hp": !!int "68"
 "hit_dice": "8d8 + 32"
@@ -39,10 +36,10 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "11"
 - !!int "12"
 - !!int "13"
-"speed": "walk 30 ft., fly 40 ft."
+"speed": "30 ft., fly 40 ft."
 "saves":
-  "Strength": !!int "6"
-  "Constitution": !!int "7"
+  "Strength": "+6"
+  "Constitution": "+7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
@@ -51,47 +48,39 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the abishai's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai has advantage on saving throws against spells and other magical\
+- "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of its turn, the abishai can gain advantage on all melee weapon\
+- "desc": "At the start of its turn, the abishai can gain advantage on all melee weapon\
     \ attack rolls during that turn, but attack rolls against it have advantage until\
     \ the start of its next turn."
   "name": "Reckless"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai makes one Bite attack, one Claw attack, and one Longsword attack."
+- "desc": "The abishai makes one Bite attack, one Claw attack, and one Longsword attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 1d6|avg (1d6)\
-    \ cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 3 (dice: 1d6|avg\
+    \ (1d6)) cold damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage, or 8 (dice: 1d10 + 3|avg\
-    \ (1d10 + 3)) force damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) force damage, or 8 (dice: 1d10 +\
+    \ 3|avg (1d10 + 3)) force damage if used with two hands."
   "name": "Longsword"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to taking damage, the abishai makes one Bite attack against\
+- "desc": "In response to taking damage, the abishai makes one Bite attack against\
     \ a random creature within 5 feet of it. If no creature is within reach, the abishai\
     \ moves up to half its speed toward an enemy it can see, without provoking opportunity\
-    \ attack||opportunity attacks."
+    \ attacks."
   "name": "Vicious Reprisal"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/white-abishai.png"
+"image": "compendium/bestiary/fiend/token/white-abishai.png"
 ```
 ^statblock
 

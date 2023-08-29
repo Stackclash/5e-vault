@@ -8,7 +8,7 @@ tags:
 aliases: ["Thoth"]
 ---
 # Thoth
-*Source: Player's Handbook p. 299* 
+*Source: Player's Handbook p. 299. Available in the SRD.* 
 
 - **Alignment**: Neutral
 - **Domains**: Knowledge

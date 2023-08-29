@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
@@ -14,7 +13,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: inline
+aliases: ["Barovian Scout"]
 ---
 # Barovian Scout
 *Source: Curse of Strahd p. 29, Derived from Scout (MM)*  
@@ -35,35 +34,31 @@ statblock: inline
 - !!int "11"
 - !!int "13"
 - !!int "11"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Nature": !!int "4"
-  "Stealth": !!int "6"
-  "Perception": !!int "5"
-  "Survival": !!int "5"
+  "Nature": "+4"
+  "Stealth": "+6"
+  "Perception": "+5"
+  "Survival": "+5"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The scout has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The scout has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The scout makes two melee attacks or two ranged attacks."
+- "desc": "The scout makes two melee attacks or two ranged attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 80/320 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 80/320 ft., one\
+    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
   "name": "Light Crossbows"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/barovian-scout.png"
+"image": "compendium/bestiary/humanoid/token/barovian-scout.png"
 ```
 ^statblock
 

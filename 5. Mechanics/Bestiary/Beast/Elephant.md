@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/grassland
 - monster/size/huge
 - monster/type/beast
-statblock: inline
+aliases: ["Elephant"]
 ---
 # Elephant
-*Source: Monster Manual p. 322, Tomb of Annihilation*  
+*Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Elephant"
@@ -26,31 +25,28 @@ statblock: inline
 - !!int "3"
 - !!int "11"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the elephant moves at least 20 feet straight toward a creature and then\
+- "desc": "If the elephant moves at least 20 feet straight toward a creature and then\
     \ hits it with a gore attack on the same turn, that target must succeed on a DC\
-    \ 12 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[5. Mechanics/Rules/Conditions.md#prone|prone]], the elephant\
+    \ 12 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
+    \ If the target is [[\5. Mechanics\Rules\Conditions.md#prone|prone]], the elephant\
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) piercing damage."
   "name": "Gore"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one [[5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one [[\5. Mechanics\Rules\Conditions.md#prone|prone]]\
+    \ creature. Hit: 22 (dice: 3d10 + 6|avg (3d10 + 6)) bludgeoning damage."
   "name": "Stomp"
 "source":
 - "MM"
 - "ToA"
-"image": "5. Mechanics/Bestiary/Beast/token/elephant.png"
+"image": "compendium/bestiary/beast/token/elephant.png"
 ```
 ^statblock
 

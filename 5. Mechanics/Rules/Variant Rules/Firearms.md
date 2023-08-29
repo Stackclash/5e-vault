@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Firearms"]
 ---
 # Firearms
@@ -10,7 +12,7 @@ If you want to model the swashbuckling style of The Three Musketeers and similar
 
 ## Proficiency
 
-It's up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn't have such proficiency. During their downtime, characters can use the Downtime Activity: Training rules in the "Player's Handbook" to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.
+It's up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn't have such proficiency. During their downtime, characters can use the [[\5. Mechanics\Rules\Variant Rules\Downtime Activity Training.md|Downtime Activity: Training]] rules in the "Player's Handbook" to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.
 
 ## Properties
 

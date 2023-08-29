@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
-statblock: inline
+aliases: ["Duergar Warlord"]
 ---
 # Duergar Warlord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  
@@ -34,8 +33,6 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
-## Stat Block
-
 ```statblock
 "name": "Duergar Warlord"
 "size": "Medium"
@@ -52,54 +49,45 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - !!int "12"
 - !!int "12"
 - !!int "14"
-"speed": "walk 25 ft."
+"speed": "25 ft."
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Dwarvish, Undercommon"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on saving throws against spells and the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-    \ [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "The duergar has advantage on saving throws against spells and the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]], and [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ conditions."
   "name": "Duergar Resilience"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses\
+- "desc": "The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses\
     \ Call to Attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) bludgeoning damage, or 15 (dice: 2d10\
-    \ + 4|avg (2d10 + 4)) bludgeoning damage while under the effect of Enlarge,\
-    \ plus dice: 1d10|avg (1d10) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) bludgeoning damage, or 15 (dice:\
+    \ 2d10 + 4|avg (2d10 + 4)) bludgeoning damage while under the effect of Enlarge,\
+    \ plus 5 (dice: 1d10|avg (1d10)) psychic damage."
   "name": "Psychic-Attuned Hammer"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while under\
-    \ the effect of Enlarge."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4))\
+    \ piercing damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while\
+    \ under the effect of Enlarge."
   "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
+- "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
     \ each use their reaction to make one weapon attack."
   "name": "Call to Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar magically turns [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The duergar magically turns [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[5. Mechanics/Rules/Status.md#concentration|concentration]] is broken\
-    \ (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
-    \ Any equipment the duergar wears or carries is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ with it."
+    \ throw, or its [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ is broken (as if concentrating on a spell). Any equipment the duergar wears\
+    \ or carries is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility (Recharge 4-6)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For 1 minute, the duergar magically increases in size, along with anything\
+- "desc": "For 1 minute, the duergar magically increases in size, along with anything\
     \ it is wearing or carrying. While enlarged, the duergar is Large, doubles its\
     \ damage dice on Strength-based weapon attacks (included in the attacks), and\
     \ makes Strength checks and Strength saving throws with advantage. If the duergar\
@@ -107,8 +95,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ space available."
   "name": "Enlarge (Recharges after a Short or Long Rest)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When an ally that the duergar can see makes a dice: d20|avg (d20) roll,\
+- "desc": "When an ally that the duergar can see makes a dice: d20|avg (d20) roll,\
     \ the duergar can roll a dice: d6|avg (d6), and the ally can add the number\
     \ rolled to the dice: d20|avg (d20) by taking 3 (dice: 1d6|avg (1d6))\
     \ psychic damage."
@@ -116,7 +103,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-warlord.png"
+"image": "compendium/bestiary/humanoid/token/duergar-warlord.png"
 ```
 ^statblock
 

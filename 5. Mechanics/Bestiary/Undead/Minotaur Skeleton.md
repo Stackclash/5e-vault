@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
-statblock: inline
+aliases: ["Minotaur Skeleton"]
 ---
 # Minotaur Skeleton
-*Source: Monster Manual p. 273, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 273. Available in the SRD.*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -37,8 +36,6 @@ When skeletons encounter living creatures, the necromantic energy that drives th
 
 A skeleton doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Minotaur Skeleton"
 "size": "Large"
@@ -54,7 +51,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 - !!int "6"
 - !!int "8"
 - !!int "5"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, poisoned"
@@ -62,21 +59,18 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
+- "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
     \ hits it with a gore attack on the same turn, the target takes an extra 9 (dice:\
     \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
     \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Charge"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 17 (dice: 2d12 + 4|avg (2d12 + 4)) slashing damage."
   "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage."
   "name": "Gore"
 "source":
 - "MM"
@@ -90,7 +84,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "IMR"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Undead/token/minotaur-skeleton.png"
+"image": "compendium/bestiary/undead/token/minotaur-skeleton.png"
 ```
 ^statblock
 

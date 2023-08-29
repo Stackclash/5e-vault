@@ -10,7 +10,7 @@ aliases: ["Shifter"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 32*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -18,7 +18,7 @@ aliases: ["Shifter"]
 
 ### Bestial Instincts
 
-Channeling the beast within, you have proficiency in one of the following skills of your choice: [[5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]], [[5. Mechanics/Rules/Skills.md#Athletics|Athletics]], [[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], or [[5. Mechanics/Rules/Skills.md#Survival|Survival]].
+Channeling the beast within, you have proficiency in one of the following skills of your choice: [[\5. Mechanics\Rules\Skills.md#Acrobatics|Acrobatics]], [[\5. Mechanics\Rules\Skills.md#Athletics|Athletics]], [[\5. Mechanics\Rules\Skills.md#Intimidation|Intimidation]], or [[\5. Mechanics\Rules\Skills.md#Survival|Survival]].
 
 ### Darkvision
 
@@ -33,7 +33,7 @@ Whenever you shift, you gain an additional benefit based on one of the following
 - **Beasthide.** You gain `dice: 1d6` (`1d6`) additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.  
 - **Longtooth.** When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to `dice: 1d6` (`1d6`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.  
 - **Swiftstride.** While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.  
-- **Wildhunt.** While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].  
+- **Wildhunt.** While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].  
 
 ## Description
 

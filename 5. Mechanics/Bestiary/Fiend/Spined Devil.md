@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/small
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Spined Devil"]
 ---
 # Spined Devil
-*Source: Monster Manual p. 78, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault*  
+*Source: Monster Manual p. 78*  
 
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect. A spined devil's body and tail bristle with spines, and it can fling its tail spines as ranged weapons. The spines burst into flame on impact.
 
@@ -114,7 +113,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -127,18 +126,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30|30 percent% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30|30 percent% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40|40 percent% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50|50 percent% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30|30 percent% chance chance of summoning one horned devil.  
-> - An ice devil has a 60|60 percent% chance chance of summoning one ice devil.  
+> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
+> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30% chance chance of summoning one horned devil.  
+> - An ice devil has a 60% chance chance of summoning one ice devil.  
 > - A pit fiend summons `dice: 2d4` (`2d4`) bearded devils, `dice: 1d4` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
-
-## Stat Block
 
 ```statblock
 "name": "Spined Devil"
@@ -156,7 +153,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "11"
 - !!int "14"
 - !!int "8"
-"speed": "walk 20 ft., fly 40 ft."
+"speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -165,38 +162,30 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
+- "desc": "Magical darkness doesn't impede the devil's darkvision."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil doesn't provoke an opportunity attack when it flies out of an\
+- "desc": "The devil doesn't provoke an opportunity attack when it flies out of an\
     \ enemy's reach."
   "name": "Flyby"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has twelve tail spines. Used spines regrow by the time the devil\
+- "desc": "The devil has twelve tail spines. Used spines regrow by the time the devil\
     \ finishes a long rest."
   "name": "Limited Spines"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
+- "desc": "The devil has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes two attacks: one with its bite and one with its fork or\
+- "desc": "The devil makes two attacks: one with its bite and one with its fork or\
     \ two with its tail spines."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4|avg (2d4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 2d4|avg (2d4)) slashing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
   "name": "Fork"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/80 ft., one\
-    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 1d6|avg\
-    \ (1d6) fire damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/80 ft., one\
+    \ target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) fire damage."
   "name": "Tail Spine"
 "source":
 - "MM"
@@ -204,6 +193,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "WDH"
 - "BGDIA"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/spined-devil.png"
+- "PSI"
+"image": "compendium/bestiary/fiend/token/spined-devil.png"
 ```
 ^statblock

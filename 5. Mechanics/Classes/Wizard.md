@@ -7,7 +7,7 @@ tags:
 aliases: ["Wizard"]
 ---
 # Wizard
-*Source: Player's Handbook p. 112*  
+*Source: Player's Handbook p. 112. Available in the SRD and the Basic Rules.*  
 
 > [!tldr]- Feature progression
 > 
@@ -15,7 +15,7 @@ aliases: ["Wizard"]
 > |-------|----|----------|
 > | 1st | +2 | [Arcane Recovery](#Arcane%20Recovery%20(Level%201)), [Spellcasting](#Spellcasting%20(Level%201)) |
 > | 2nd | +2 | [Arcane Tradition](#Arcane%20Tradition%20(Level%202)) |
-> | 3rd | +2 | [Cantrip Formulas](#Cantrip%20Formulas%20(Level%203)) |
+> | 3rd | +2 | ⏤ |
 > | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | ⏤ |
 > | 6th | +3 | [Arcane Tradition feature](#Arcane%20Tradition%20feature%20(Level%206)) |
@@ -69,24 +69,24 @@ aliases: ["Wizard"]
 
 - **Hit Dice**: 1d6 per Wizard level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 3 OR 1d6 + CON  (minimum of 1)
 
-## Starting a Wizard
+## Starting Wizard
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Saving Throws:** Intelligence, Wisdom
-- **Armor:** none
-- **Weapons:** [[/5. Mechanics/Items/Dagger.md|daggers]], [[/5. Mechanics/Items/Dart.md|darts]], [[/5. Mechanics/Items/Sling.md|slings]], [[/5. Mechanics/Items/Quarterstaff.md|quarterstaffs]], [[/5. Mechanics/Items/Light Crossbow.md|light crossbows]]
-- **Tools:** none
-- **Skills:** Choose 2 from *Arcana*, *History*, *Insight*, *Investigation*, *Medicine*, *Religion*
+- **Saving Throws**: Intelligence, Wisdom
+- **Armor**: none
+- **Weapons**: [[5. Mechanics\Items\Dagger.md|daggers]], [[5. Mechanics\Items\Dart.md|darts]], [[5. Mechanics\Items\Sling.md|slings]], [[5. Mechanics\Items\Quarterstaff.md|quarterstaffs]], [[5. Mechanics\Items\Light Crossbow.md|light crossbows]]
+- **Tools**: none
+- **Skills**: Choose 2 from *Arcana*, *History*, *Insight*, *Investigation*, *Medicine*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]] or (b) a [[/5. Mechanics/Items/Dagger.md|dagger]]  
-- (a) a [[/5. Mechanics/Items/Component Pouch.md|component pouch]] or (b) an arcane focus  
-- (a) a [[/5. Mechanics/Items/Scholars Pack.md|scholar's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- A [[/5. Mechanics/Items/Spellbook.md|spellbook]]  
+- (a) a [[5. Mechanics\Items\Quarterstaff.md|quarterstaff]] or (b) a [[5. Mechanics\Items\Dagger.md|dagger]]  
+- (a) a [[5. Mechanics\Items\Component Pouch.md|component pouch]] or (b) an arcane focus  
+- (a) a [[5. Mechanics\Items\Scholars Pack.md|scholar's pack]] or (b) an [[5. Mechanics\Items\Explorers Pack.md|explorer's pack]]  
+- A [[5. Mechanics\Items\Spellbook.md|spellbook]]  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -95,6 +95,103 @@ Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 To multiclass as a Wizard, you must meet the following prerequisites:
 
 - Intelligence 13
+
+## Wizard
+
+Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.
+
+Checking and rechecking his work, a human scribes an intricate magic circle in chalk on the bare stone floor, then sprinkles powdered iron along every line and graceful curve. When the circle is complete, he drones a long incantation. A hole opens in space inside the circle, bringing a whiff of brimstone from the otherworldly plane beyond.
+
+Crouching on the floor in a dungeon intersection, a gnome tosses a handful of small bones inscribed with mystic symbols, muttering a few words of power over them. Closing his eyes to see the visions more clearly, he nods slowly, then opens his eyes and points down the passage to his left.
+
+Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, and brute-force mind control. Their magic conjures monsters from other planes of existence, glimpses the future, or turns slain foes into zombies. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals to other worlds.
+
+### Scholars of the Arcane
+
+Wild and enigmatic, varied in form and function, the power of magic draws students who seek to master its mysteries. Some aspire to become like the gods, shaping reality itself. Though the casting of a typical spell requires merely the utterance of a few strange words, fleeting gestures, and sometimes a pinch or clump of exotic materials, these surface components barely hint at the expertise attained after years of apprenticeship and countless hours of study.
+
+Wizards live and die by their spells. Everything else is secondary. They learn new spells as they experiment and grow in experience. They can also learn them from other wizards, from ancient tomes or inscriptions, and from ancient creatures (such as the fey) that are steeped in magic.
+
+### The Lure of Knowledge
+
+Wizards' lives are seldom mundane. The closest a wizard is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other wizards sell their services as diviners, serve in military forces, or pursue lives of crime or domination.
+
+But the lure of knowledge and power calls even the most unadventurous wizards out of the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
+
+### Creating a Wizard
+
+Creating a wizard character demands a backstory dominated by at least one extraordinary event. How did your character first come into contact with magic? How did you discover you had an aptitude for it? Do you have a natural talent, or did you simply study hard and practice incessantly? Did you encounter a magical creature or an ancient tome that taught you the basics of magic?
+
+What drew you forth from your life of study? Did your first taste of magical knowledge leave you hungry for more? Have you received word of a secret repository of knowledge not yet plundered by any other wizard? Perhaps you're simply eager to put your newfound magical skills to the test in the face of danger.
+
+#### Quick Build
+
+You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [[5. Mechanics\Backgrounds\Sage.md|sage]] background. Third, choose the [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Light.md|light]], and [[5. Mechanics\Spells\Ray Of Frost.md|ray of frost]] cantrips, along with the following 1st-level spells for your spellbook: [[5. Mechanics\Spells\Burning Hands.md|burning hands]], [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Feather Fall.md|feather fall]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]], [[5. Mechanics\Spells\Magic Missile.md|magic missile]], and [[5. Mechanics\Spells\Sleep.md|sleep]].
+
+> [!quote]- A quote from Gimble the illusionist  
+> 
+> Wizardry requires understanding. The knowledge of how and why magic works, and our efforts to broaden that understanding, have brought about the key advances in civilization over the centuries.
+
+Only a select few people in the world are wielders of magic. Of all those, wizards stand at the pinnacle of the craft. Even the least of them can manipulate forces that flout the laws of nature, and the most accomplished among them can cast spells with world-shaking effects.
+
+The price that wizards pay for their mastery is that most valuable of commodities: time. It takes years of study, instruction, and experimentation to learn how to harness magical energy and carry spells around in one's own mind. For adventuring wizards and other spellcasters who aspire to the highest echelons of the profession, the studying never ends, nor does the quest for knowledge and power.
+
+If you're playing a wizard, take advantage of the opportunity to make your character more than just a stereotypical spell-slinger. Use the advice that follows to add some intriguing details to how your wizard interacts with the world.
+
+## Spellbook
+_Source: Xanathar's Guide to Everything_
+
+Your wizard character's most prized possession—your spellbook—might be an innocuous-looking volume whose covers show no hint of what's inside. Or you might display some flair, as many wizards do, by carrying a spellbook of an unusual sort. If you don't own such an item already, one of your goals might be to find a spellbook that sets you apart by its appearance or its means of manufacture.
+
+**Spellbooks**
+
+| `dice: d6\|avg` (`d6`) | Spellbook |
+|-----------|------------|-----------|
+| 1 | A tome with pages that are thin sheets of metal, spells etched into them with acid |
+| 2 | Long straps of leather on which spells are written, wrapped around a staff for ease of transport |
+| 3 | A battered tome filled with pictographs that only you can understand |
+| 4 | Small stones inscribed with spells and kept in a cloth bag |
+| 5 | A scorched book, ravaged by dragon fire, with the script of your spells barely visible on its pages |
+| 6 | A tome full of black pages whose writing is visible only in dim light or darkness |
+^spellbooks
+
+## Ambition
+_Source: Xanathar's Guide to Everything_
+
+Few aspiring wizards undertake the study of magic without some personal goal in mind. Many wizards use their spells as a tool to produce a tangible benefit, in material goods or in status, for themselves or their companions. For others, the theoretical aspect of magic might have a strong appeal, pushing those wizards to seek out knowledge that supports new theories of the arcane or confirms old ones.
+
+Beyond the obvious, why does your wizard character study magic, and what do you want to achieve? If you haven't given these questions much thought, you can do so now, and the answers you come up with will likely affect how your future unfolds.
+
+**Ambitions**
+
+| `dice: d6\|avg` (`d6`) | Ambition |
+|-----------|------------|----------|
+| 1 | You will prove that the gods aren't as powerful as folk believe. |
+| 2 | Immortality is the end goal of your studies. |
+| 3 | If you can fully understand magic, you can unlock its use for all and usher in an era of equality. |
+| 4 | Magic is a dangerous tool. You use it to protect what you treasure. |
+| 5 | Arcane power must be taken away from those who would abuse it. |
+| 6 | You will become the greatest wizard the world has seen in generations. |
+^ambitions
+
+## Eccentricity
+_Source: Xanathar's Guide to Everything_
+
+Endless hours of solitary study and research can have a negative effect on anyone's social skills. Wizards, who are a breed apart to begin with, are no exception. An odd mannerism or two is not necessarily a drawback, though; an eccentricity of this sort is usually harmless and could provide a source of amusement or serve as a calling card of sorts.
+
+If your character has an eccentricity, is it a physical tic or a mental one? Are you well known in some circles because of it? Do you fight to overcome it, or do you embrace this minor claim to fame of yours?
+
+**Eccentricities**
+
+| `dice: d6\|avg` (`d6`) | Eccentricity |
+|-----------|------------|--------------|
+| 1 | You have the habit of tapping your foot incessantly, which often annoys those around you. |
+| 2 | Your memory is quite good, but you have no trouble pretending to be absentminded when it suits your purposes. |
+| 3 | You never enter a room without looking to see what's hanging from the ceiling. |
+| 4 | Your most prized possession is a dead worm that you keep inside a potion vial. |
+| 5 | When you want people to leave you alone, you start talking to yourself. That usually does the trick. |
+| 6 | Your fashion sense and grooming, or more accurately lack thereof, sometimes cause others to assume you are a beggar. |
+^eccentricities
 
 ## Class Features
 
@@ -124,7 +221,7 @@ The Wizard table shows how many spell slots you have to cast your wizard spells 
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Magic Missile.md|magic missile]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [[5. Mechanics\Spells\Magic Missile.md|magic missile]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
@@ -154,31 +251,24 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 > 
 > A spellbook doesn't contain cantrips.
 > 
-> **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
+> **.** **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
 > 
 > Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
 > 
 > For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 > 
-> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([[5. Mechanics/Rules/Skills.md#Arcana|Arcana]]) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([[\5. Mechanics\Rules\Skills.md#Arcana|Arcana]]) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 > 
-> **Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+> **.** **Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 > 
 > If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 > 
-> **The Book's Appearance.** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+> **.** **The Book's Appearance.** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 ^your-spellbook
 
 ### Arcane Tradition (Level 2)
 
 When you reach 2nd level, you choose an arcane tradition from the list of available traditions, shaping your practice of magic. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
-
-### Cantrip Formulas (Level 3)
-_Source: Tasha's Cauldron of Everything p. 75_
-
-_3rd-level wizard optional class features_
-
-You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 
 ### Ability Score Improvement (Level 4)
 

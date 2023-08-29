@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Banderhobb"]
 ---
 # Banderhobb
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  
@@ -23,7 +22,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 "name": "Banderhobb"
 "size": "Large"
 "type": "monstrosity"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
@@ -34,65 +33,59 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 - !!int "11"
 - !!int "14"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Athletics": !!int "8"
-  "Stealth": !!int "7"
+  "Athletics": "+8"
+  "Stealth": "+7"
 "condition_immunities": "charmed, frightened"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "understands Common and the languages of its creator but can't speak"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the banderhobb has even a tiny piece of a creature or an object in its\
+- "desc": "If the banderhobb has even a tiny piece of a creature or an object in its\
     \ possession, such as a lock of hair or a splinter of wood, it knows the most\
     \ direct route to that creature or object if it is within 1 mile of the banderhobb."
   "name": "Resonant Connection"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The banderhobb makes one Bite attack and one Tongue attack. It can replace\
+- "desc": "The banderhobb makes one Bite attack and one Tongue attack. It can replace\
     \ one attack with a use of Shadow Step."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 16) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the\
-    \ banderhobb can't use its Bite attack or Tongue attack on another target."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 16) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
+    \ and the banderhobb can't use its Bite attack or Tongue attack on another target."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one creature.\
-    \ Hit: dice: 3d6|avg (3d6) necrotic damage, and the target must make a DC\
-    \ 16 Strength saving throw. On a failed save, the target is pulled to a space\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one creature.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) necrotic damage, and the target must make\
+    \ a DC 16 Strength saving throw. On a failed save, the target is pulled to a space\
     \ within 5 feet of the banderhobb."
   "name": "Tongue"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The banderhobb teleports up to 30 feet to an un occupied space of dim light\
+- "desc": "The banderhobb teleports up to 30 feet to an un occupied space of dim light\
     \ or darkness that it can see."
   "name": "Shadow Step"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one Medium\
-    \ or smaller creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
-    \ banderhobb. Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage. The creature\
-    \ is also swallowed, and the grapple ends. The swallowed creature is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
-    \ and [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
-    \ against attacks and other effects outside the banderhobb, and it takes dice:\
-    \ 3d6|avg (3d6) necrotic damage at the start of each of the banderhobb's turns.\
-    \ A creature reduced to 0 hit points in this way stops taking the necrotic damage\
-    \ and becomes stable.\n\nThe banderhobb can have only one creature swallowed at\
-    \ a time. While the banderhobb isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one Medium\
+    \ or smaller creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] by\
+    \ the banderhobb. Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage.\
+    \ The creature is also swallowed, and the grapple ends. The swallowed creature\
+    \ is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] and [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
+    \ it has total cover against attacks and other effects outside the banderhobb,\
+    \ and it takes 10 (dice: 3d6|avg (3d6)) necrotic damage at the start of each\
+    \ of the banderhobb's turns. A creature reduced to 0 hit points in this way stops\
+    \ taking the necrotic damage and becomes stable.\n\nThe banderhobb can have only\
+    \ one creature swallowed at a time. While the banderhobb isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]],\
     \ it can regurgitate the creature at any time (no action required) in a space\
-    \ within 5 feet of it. The creature exits [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ within 5 feet of it. The creature exits [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ If the banderhobb dies, it likewise regurgitates a swallowed creature."
   "name": "Swallow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the banderhobb takes the Hide action."
+- "desc": "While in dim light or darkness, the banderhobb takes the [[\5. Mechanics\Rules\Actions.md#Hide|Hide]]\
+    \ action."
   "name": "Shadow Stealth"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/banderhobb.png"
+"image": "compendium/bestiary/monstrosity/token/banderhobb.png"
 ```
 ^statblock
 

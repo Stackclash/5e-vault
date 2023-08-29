@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Amber Golem"]
 ---
 # Amber Golem
 *Source: Curse of Strahd p. 186, Derived from Stone Golem (MM)*  
@@ -25,7 +24,7 @@ statblock: inline
 - !!int "3"
 - !!int "11"
 - !!int "1"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -33,26 +32,20 @@ statblock: inline
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem is immune to any spell or effect that would alter its form."
+- "desc": "The golem is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem has advantage on saving throws against spells and other magical\
+- "desc": "The golem has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem's weapon attacks are magical."
+- "desc": "The golem's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem makes two slam attacks."
+- "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
+- "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
     \ Each target must make a DC 17 Wisdom saving throw against this magic. On a failed\
     \ save, a target can't use reactions, its speed is halved, and it can't make more\
     \ than one attack on its turn. In addition, the target can take either an action\
@@ -62,6 +55,6 @@ statblock: inline
   "name": "Slow (Recharge 5-6)"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/amber-golem.png"
+"image": "compendium/bestiary/construct/token/amber-golem.png"
 ```
 ^statblock

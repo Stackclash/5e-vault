@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Chasme"]
 ---
 # Chasme
-*Source: Monster Manual p. 57, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Critical Role: Call of the Netherdeep, Keys from the Golden Vault*  
+*Source: Monster Manual p. 57*  
 
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
 
@@ -154,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -163,15 +162,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -180,8 +179,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Chasme"
@@ -199,12 +196,12 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "11"
 - !!int "14"
 - !!int "10"
-"speed": "walk 20 ft., fly 60 ft."
+"speed": "20 ft., fly 60 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "5"
+  "Dexterity": "+5"
+  "Wisdom": "+5"
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
@@ -212,33 +209,29 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chasme produces a horrid droning sound to which demons are immune.\
+- "desc": "The chasme produces a horrid droning sound to which demons are immune.\
     \ Any other creature that starts its turn with in 30 feet of the chasme must succeed\
-    \ on a DC 12 Constitution saving throw or fall [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ on a DC 12 Constitution saving throw or fall [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]\
     \ for 10 minutes. A creature that can't hear the drone automatically succeeds\
     \ on the save. The effect on the creature ends if it takes damage or if another\
     \ creature takes an action to splash it with holy water. If a creature's saving\
     \ throw is successful or the effect ends for it, it is immune to the drone for\
     \ the next 24 hours."
   "name": "Drone"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chasme has advantage on saving throws against spells and other magical\
+- "desc": "The chasme has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chasme can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The chasme can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 4d6 + 2|avg (4d6 + 2) piercing damage plus dice: 7d6|avg (7d6)\
-    \ necrotic damage, and the target's hit point maximum is reduced by an amount\
-    \ equal to the necrotic damage taken. If this effect reduces a creature's hit\
-    \ point maximum to 0, the creature dies. This reduction to a creature's hit point\
-    \ maximum lasts until the creature finishes a long rest or until it is affected\
-    \ by a spell like  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 16 (dice: 4d6 + 2|avg (4d6 + 2)) piercing damage plus 24 (dice:\
+    \ 7d6|avg (7d6)) necrotic damage, and the target's hit point maximum is reduced\
+    \ by an amount equal to the necrotic damage taken. If this effect reduces a creature's\
+    \ hit point maximum to 0, the creature dies. This reduction to a creature's hit\
+    \ point maximum lasts until the creature finishes a long rest or until it is affected\
+    \ by a spell like  [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]."
   "name": "Proboscis"
 "source":
 - "MM"
@@ -246,6 +239,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "BGDIA"
 - "CRCotN"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/chasme.png"
+"image": "compendium/bestiary/fiend/token/chasme.png"
 ```
 ^statblock

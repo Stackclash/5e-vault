@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of the Moon"]
 ---
 # Circle of the Moon
-*Druid: Druid Circle*  
+*[[Druid.md|Druid]]: Druid Circle*  
 *Source: Player's Handbook p. 69*  
 
 
@@ -51,8 +51,8 @@ Starting at 6th level, your attacks in beast form count as magical for the purpo
 
 ### Elemental Wild Shape (Level 10)
 
-At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [[Air Elemental|air elemental]], an [[Earth Elemental|earth elemental]], a [[Fire Elemental|fire elemental]], or a [[Water Elemental|water elemental]].
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [[5. Mechanics\Bestiary\Elemental\Air Elemental.md|air elemental]], an [[5. Mechanics\Bestiary\Elemental\Earth Elemental.md|earth elemental]], a [[5. Mechanics\Bestiary\Elemental\Fire Elemental.md|fire elemental]], or a [[5. Mechanics\Bestiary\Elemental\Water Elemental.md|water elemental]].
 
 ### Thousand Forms (Level 14)
 
-By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [[Alter Self|alter self]] spell at will.
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [[5. Mechanics\Spells\Alter Self.md|alter self]] spell at will.

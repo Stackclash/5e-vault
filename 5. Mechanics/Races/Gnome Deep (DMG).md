@@ -10,7 +10,7 @@ aliases: ["Gnome (Deep) (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Strength +1, Dexterity +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small
 - **Speed**: 20 ft.
 - **Spellcasting**: Intelligence
@@ -21,14 +21,14 @@ aliases: ["Gnome (Deep) (DMG)"]
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [[/5. Mechanics/Spells/Nondetection.md|nondetection]] (self only)  
-- **1/day each.** [blindness/deafness](/compendium/spells/blindness-deafness.md), [[/5. Mechanics/Spells/Blur.md|blur]], [[/5. Mechanics/Spells/Disguise Self.md|disguise self]]  
+- **At will.** [[5. Mechanics\Spells\Nondetection.md|nondetection]] (self only)  
+- **1/day each.** [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics\Spells\Blur.md|blur]], [[5. Mechanics\Spells\Disguise Self.md|disguise self]]  
 
 Intelligence is your spellcasting ability for these spells.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks to hide in rocky terrain.
+You have advantage on Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]]) checks to hide in rocky terrain.
 
 ### Gnome Cunning
 

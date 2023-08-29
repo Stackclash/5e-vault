@@ -12,4 +12,4 @@ aliases: ["Tinker's Tools"]
 - **Cost**: 50 gp
 - **Weight**: 10.0 lbs.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 84*
+*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 84. Available in the SRD and the Basic Rules.*

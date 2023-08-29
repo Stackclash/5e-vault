@@ -7,10 +7,10 @@ tags:
 aliases: ["Dwarf (Mountain)"]
 ---
 # Dwarf (Mountain)
-*Source: Player's Handbook p. 20*  
+*Source: Player's Handbook p. 20. Available in the Basic Rules.*  
 
 - **Ability Scores**: Strength +2
-- **Creature Type**: subrace
+- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 25 ft.
 
@@ -38,15 +38,15 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [[/5. Mechanics/Items/Battleaxe.md|battleaxe]], [[/5. Mechanics/Items/Handaxe.md|handaxe]], [[/5. Mechanics/Items/Light Hammer.md|light hammer]], and [[/5. Mechanics/Items/Warhammer.md|warhammer]].
+You have proficiency with the [[5. Mechanics\Items\Battleaxe.md|battleaxe]], [[5. Mechanics\Items\Handaxe.md|handaxe]], [[5. Mechanics\Items\Light Hammer.md|light hammer]], and [[5. Mechanics\Items\Warhammer.md|warhammer]].
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [[/5. Mechanics/Items/Smiths Tools.md|Smith's tools]], [[/5. Mechanics/Items/Brewers Supplies.md|brewer's supplies]], or [[/5. Mechanics/Items/Masons Tools.md|mason's tools]].
+You gain proficiency with the artisan's tools of your choice: [[5. Mechanics\Items\Smiths Tools.md|Smith's tools]], [[5. Mechanics\Items\Brewers Supplies.md|brewer's supplies]], or [[5. Mechanics\Items\Masons Tools.md|mason's tools]].
 
 ### Stonecunning
 
-Whenever you make an Intelligence ([[5. Mechanics/Rules/Skills.md#History|History]]) check related to the origin of stonework, you are considered proficient in the [[5. Mechanics/Rules/Skills.md#History|History]] skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Whenever you make an Intelligence ([[\5. Mechanics\Rules\Skills.md#History|History]]) check related to the origin of stonework, you are considered proficient in the [[\5. Mechanics\Rules\Skills.md#History|History]] skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ### Languages
 

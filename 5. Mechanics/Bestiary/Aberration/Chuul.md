@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
-statblock: inline
+aliases: ["Chuul"]
 ---
 # Chuul
-*Source: Monster Manual p. 40, Princes of the Apocalypse, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 40. Available in the SRD.*  
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
 
@@ -29,8 +28,6 @@ Whatever riches that the explorers bring with them adds to the hoard guarded by 
 
 Although the aboleths' ancient empire fell long ago, the psychic bonds between them and their created servants remain intact. Chuuls that come into contact with aboleths immediately assume their old roles. Such chuuls redirect their compulsions to the service of the aboleths' sinister purposes.
 
-## Stat Block
-
 ```statblock
 "name": "Chuul"
 "size": "Large"
@@ -46,38 +43,33 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - !!int "5"
 - !!int "11"
 - !!int "5"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chuul can breathe air and water."
+- "desc": "The chuul can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chuul senses magic within 120 feet of it at will. This trait otherwise\
-    \ works like the [[/5. Mechanics/Spells/Detect Magic.md|detect magic]] spell but\
-    \ isn't itself magical."
+- "desc": "The chuul senses magic within 120 feet of it at will. This trait otherwise\
+    \ works like the [[5. Mechanics\Spells\Detect Magic.md|detect magic]] spell but isn't\
+    \ itself magical."
   "name": "Sense Magic"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chuul makes two pincer attacks. If the chuul is grappling a creature,\
+- "desc": "The chuul makes two pincer attacks. If the chuul is grappling a creature,\
     \ the chuul can also use its tentacles once."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. The target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have\
-    \ two other creatures [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage. The target is\
+    \ [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 14) if it is\
+    \ a Large or smaller creature and the chuul doesn't have two other creatures [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]."
   "name": "Pincer"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
-    \ chuul must succeed on a DC 13 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. Until this poison ends, the target is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+- "desc": "One creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] by the\
+    \ chuul must succeed on a DC 13 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. Until this poison ends, the target is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Tentacles"
@@ -88,7 +80,7 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "WDMM"
 - "GoS"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Aberration/token/chuul.png"
+"image": "compendium/bestiary/aberration/token/chuul.png"
 ```
 ^statblock
 

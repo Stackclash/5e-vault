@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -12,10 +11,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc War Chief"]
 ---
 # Orc War Chief
-*Source: Monster Manual p. 246, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 246*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -71,8 +70,6 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 > He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions .The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
 
 
-## Stat Block
-
 ```statblock
 "name": "Orc War Chief"
 "size": "Medium"
@@ -89,42 +86,36 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - !!int "11"
 - !!int "11"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "2"
-  "Strength": !!int "6"
-  "Constitution": !!int "6"
+  "Wisdom": "+2"
+  "Strength": "+6"
+  "Constitution": "+6"
 "skillsaves":
-  "Intimidation": !!int "5"
+  "Intimidation": "+5"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
+- "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
     \ with a weapon attack (included in the attacks)."
   "name": "Gruumsh's Fury"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc makes two attacks with its greataxe or its spear."
+- "desc": "The orc makes two attacks with its greataxe or its spear."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
     \ Hit: 15 (dice: 1d12 + 4|avg (1d12 + 4) plus dice: 1d8|avg (1d8)) slashing\
     \ damage."
   "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
     \ or range 20/60 ft., one target. Hit: 12 (dice: 1d6 + 4|avg (1d6 + 4) plus\
     \ dice: 1d8|avg (1d8)) piercing damage, or 13 (dice: 2d8 + 4|avg (2d8 +\
     \ 4)) piercing damage if used with two hands to make a melee attack."
   "name": "Spear"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature of the war chief's choice that is within 30 feet of it, can\
+- "desc": "Each creature of the war chief's choice that is within 30 feet of it, can\
     \ hear it, and not already affected by Battle Cry gain advantage on attack rolls\
     \ until the start of the war chief's next turn. The war chief can then make one\
     \ attack as a bonus action."
@@ -138,7 +129,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - "IDRotF"
 - "WBtW"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-war-chief.png"
+"image": "compendium/bestiary/humanoid/token/orc-war-chief.png"
 ```
 ^statblock
 

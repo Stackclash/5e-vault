@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Armanite"]
 ---
 # Armanite
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
@@ -22,7 +21,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "94"
 "hit_dice": "9d10 + 45"
@@ -33,7 +32,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 - !!int "8"
 - !!int "12"
 - !!int "13"
-"speed": "walk 60 ft."
+"speed": "60 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
@@ -41,32 +40,26 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armanite has advantage on saving throws against spells and other magical\
+- "desc": "The armanite has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armanite makes one Claw attack, one Hooves attack, and one Serrated\
+- "desc": "The armanite makes one Claw attack, one Hooves attack, and one Serrated\
     \ Tail attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) slashing damage plus dice: 2d8|avg (2d8)\
-    \ lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d4 + 5|avg (2d4 + 5)) slashing damage plus 9 (dice: 2d8|avg\
+    \ (2d8)) lightning damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage. If the target is a\
-    \ Large or smaller creature, it must succeed on a DC 16 Strength saving throw\
-    \ or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage. If the target\
+    \ is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw\
+    \ or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Hooves"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) slashing damage."
   "name": "Serrated Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armanite looses a bolt of lightning in a line that is 60 feet long\
+- "desc": "The armanite looses a bolt of lightning in a line that is 60 feet long\
     \ and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving\
     \ throw, taking 36 (dice: 8d8|avg (8d8)) lightning damage on a failed save,\
     \ or half as much damage on a successful one."
@@ -74,7 +67,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/armanite.png"
+"image": "compendium/bestiary/fiend/token/armanite.png"
 ```
 ^statblock
 

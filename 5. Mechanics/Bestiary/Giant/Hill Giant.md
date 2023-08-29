@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/hill
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Hill Giant"]
 ---
 # Hill Giant
-*Source: Monster Manual p. 155, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Eberron: Rising from the Last War, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 155. Available in the SRD and the Basic Rules.*  
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
 
@@ -81,8 +80,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
 
-## Stat Block
-
 ```statblock
 "name": "Hill Giant"
 "size": "Huge"
@@ -98,23 +95,20 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "5"
 - !!int "9"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatclub attacks."
+- "desc": "The giant makes two greatclub attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage."
   "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60/240 ft., one\
+    \ target. Hit: 21 (dice: 3d10 + 5|avg (3d10 + 5)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"
@@ -125,7 +119,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "GoS"
 - "ERLW"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Giant/token/hill-giant.png"
+"image": "compendium/bestiary/giant/token/hill-giant.png"
 ```
 ^statblock
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Hades"]
 ---
 # Hades
-*Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 19* 
+*Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 19. Available in the SRD.* 
 
 - **Alignment**: Lawful Evil
 - **Domains**: Death, Grave

@@ -9,6 +9,7 @@ tags:
 aliases: ["Chaos Bolt"]
 ---
 # Chaos Bolt
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -20,8 +21,8 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 **Chaos Bolt**
 
-| `dice: d8` (`d8`) | Damage Type |
-|----------|------------|-------------|
+| `dice: d8\|avg` (`d8`) | Damage Type |
+|-----------|------------|-------------|
 | 1 | Acid |
 | 2 | Cold |
 | 3 | Fire |
@@ -38,6 +39,6 @@ A creature can be targeted only once by each casting of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]]
+**Classes**: [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]]
 
-Source: Xanathar's Guide to Everything p. 151, Guildmasters' Guide to Ravnica
+*Source: Xanathar's Guide to Everything p. 151*

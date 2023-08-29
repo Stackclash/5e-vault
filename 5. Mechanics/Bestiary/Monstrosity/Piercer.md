@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Piercer"]
 ---
 # Piercer
-*Source: Monster Manual p. 252, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 252*  
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
 
@@ -20,8 +19,6 @@ A piercer is the larval form of a roper, and the two creatures often attack in t
 Piercers can see, but they can also respond to noise and heat, waiting for living creatures to pass beneath them, then falling to attack. A piercer that misses its chance to kill must make its slow way back to the ceiling. A fallen piercer excretes a foul-smelling slime when attacked, making most predators think twice about eating it.
 
 Piercers gather in colonies to maximize the effectiveness of their attacks, dropping simultaneously to increase the odds of striking prey. After a piercer successfully slays a creature, the others slowly creep toward the corpse to join in the feast.
-
-## Stat Block
 
 ```statblock
 "name": "Piercer"
@@ -38,27 +35,24 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 - !!int "1"
 - !!int "7"
 - !!int "3"
-"speed": "walk 5 ft., climb 5 ft."
+"speed": "5 ft., climb 5 ft."
 "skillsaves":
-  "Stealth": !!int "5"
+  "Stealth": "+5"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the piercer remains motionless on the ceiling, it is indistinguishable\
+- "desc": "While the piercer remains motionless on the ceiling, it is indistinguishable\
     \ from a normal stalactite."
   "name": "False Appearance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The piercer can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The piercer can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), one creature directly\
-    \ underneath the piercer. Hit: dice: 1d6|avg (1d6) piercing damage per 10\
-    \ feet fallen, up to 21 (dice: 6d6|avg (6d6)). Miss: The piercer takes half\
-    \ the normal falling damage for the distance fallen."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), one creature directly\
+    \ underneath the piercer. Hit: 3 (dice: 1d6|avg (1d6)) piercing damage per\
+    \ 10 feet fallen, up to 21 (dice: 6d6|avg (6d6)). Miss: The piercer takes\
+    \ half the normal falling damage for the distance fallen."
   "name": "Drop"
 "source":
 - "MM"
@@ -67,7 +61,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 - "TftYP"
 - "WDMM"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/piercer.png"
+"image": "compendium/bestiary/monstrosity/token/piercer.png"
 ```
 ^statblock
 

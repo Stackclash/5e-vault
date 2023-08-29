@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration
-statblock: inline
+aliases: ["Neogi"]
 ---
 # Neogi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
@@ -26,13 +25,11 @@ A neogi looks like an outsize spider with an eel's neck and head. It can poison 
 
 Neogi usually dwell in far-flung locations on the Material Plane, as well as in the Astral Plane and the Ethereal Plane. They left their home world long ago to conquer and devour creatures in other realms. During this era, they dominated umber hulks and used them to build sleek, spidery ships capable of traversing the multiverse.
 
-## Stat Block
-
 ```statblock
 "name": "Neogi"
 "size": "Small"
 "type": "aberration"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
 "hp": !!int "33"
 "hit_dice": "6d6 + 12"
@@ -43,54 +40,48 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - !!int "13"
 - !!int "12"
 - !!int "15"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Intimidation": !!int "4"
-  "Perception": !!int "3"
+  "Intimidation": "+4"
+  "Perception": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The neogi has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], and magic can't\
+- "desc": "The neogi has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ or [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], and magic can't\
     \ put the neogi to sleep."
   "name": "Mental Fortitude"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The neogi makes one Bite attack and two Claw attacks."
+- "desc": "The neogi makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 4d6|avg (4d6)\
-    \ poison damage, and the target must succeed on a DC 12 Constitution saving throw\
-    \ or become [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
-    \ A target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 14 (dice: 4d6|avg\
+    \ (4d6)) poison damage, and the target must succeed on a DC 12 Constitution\
+    \ saving throw or become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. A target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) slashing damage."
   "name": "Claw"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 14 Wisdom saving throw or be magically [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+- "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
+    \ must succeed on a DC 14 Wisdom saving throw or be magically [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-    \ the target. The [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] target obeys\
+    \ the target. The [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] target obeys\
     \ the neogi's commands and can't take reactions, and the neogi and the target\
     \ can communicate telepathically with each other at a distance of up to 1 mile.\
-    \ Whenever the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] target takes\
+    \ Whenever the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] target takes\
     \ damage, it can repeat the saving throw, ending the effect on itself on a success."
   "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/neogi.png"
+"image": "compendium/bestiary/aberration/token/neogi.png"
 ```
 ^statblock
 

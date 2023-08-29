@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Ghost"]
 ---
 # Ghost
-*Source: Monster Manual p. 147, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Light of Xaryxis, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 147, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 
@@ -28,8 +27,6 @@ Sensations of profound sadness, loneliness, and unfulfilled yearning emanate fro
 
 A ghost doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Ghost"
 "size": "Medium"
@@ -45,7 +42,7 @@ A ghost doesn't require air, food, drink, or sleep.
 - !!int "10"
 - !!int "12"
 - !!int "17"
-"speed": "walk 0 ft., fly 40 ft. (hover)"
+"speed": "0 ft., fly 40 ft. (hover)"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
@@ -55,49 +52,43 @@ A ghost doesn't require air, food, drink, or sleep.
 "languages": "any languages it knew in life"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ghost can see 60 feet into the Ethereal Plane when it is on the Material\
+- "desc": "The ghost can see 60 feet into the Ethereal Plane when it is on the Material\
     \ Plane, and vice versa."
   "name": "Ethereal Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ghost can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+- "desc": "The ghost can move through other creatures and objects as if they were\
+    \ difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 17 (dice: 4d6 + 3|avg (4d6 + 3)) necrotic damage."
   "name": "Withering Touch"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice versa.\
+- "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice versa.\
     \ It is visible on the Material Plane while it is in the Border Ethereal, and\
     \ vice versa, yet it can't affect or be affected by anything on the other plane."
   "name": "Etherealness"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each non-undead creature within 60 feet of the ghost that can see it must\
-    \ succeed on a DC 13 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Each non-undead creature within 60 feet of the ghost that can see it must\
+    \ succeed on a DC 13 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10\
-    \ years. A [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can\
-    \ repeat the saving throw at the end of each of its turns, ending the [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ years. A [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] target can\
+    \ repeat the saving throw at the end of each of its turns, ending the [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ condition on itself on a success. If a target's saving throw is successful or\
     \ the effect ends for it, the target is immune to this ghost's Horrifying Visage\
-    \ for the next 24 hours. The aging effect can be reversed with a  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ for the next 24 hours. The aging effect can be reversed with a  [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
     \ spell, but only within 24 hours of it occurring."
   "name": "Horrifying Visage"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One humanoid that the ghost can see within 5 feet of it must succeed on\
+- "desc": "One humanoid that the ghost can see within 5 feet of it must succeed on\
     \ a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears,\
-    \ and the target is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ and the target is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
     \ and loses control of its body. The ghost now controls the body but doesn't deprive\
     \ the target of awareness. The ghost can't be targeted by any attack, spell, or\
     \ other effect, except ones that turn undead, and it retains its alignment, Intelligence,\
-    \ Wisdom, Charisma, and immunity to being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ and [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]. It otherwise uses\
+    \ Wisdom, Charisma, and immunity to being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ and [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]. It otherwise uses\
     \ the possessed target's statistics, but doesn't gain access to the target's knowledge,\
     \ class features, or proficiencies.\n\nThe possession lasts until the body drops\
     \ to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned\
-    \ or forced out by an effect like the [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
+    \ or forced out by an effect like the [[5. Mechanics\Spells\Dispel Evil And Good.md|dispel evil and good]]\
     \ spell. When the possession ends, the ghost reappears in an unoccupied space\
     \ within 5 feet of the body. The target is immune to this ghost's Possession for\
     \ 24 hours after succeeding on the saving throw or after the possession ends."
@@ -127,7 +118,7 @@ A ghost doesn't require air, food, drink, or sleep.
 - "LoX"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Undead/token/ghost.png"
+"image": "compendium/bestiary/undead/token/ghost.png"
 ```
 ^statblock
 

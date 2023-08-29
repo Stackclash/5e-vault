@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/humanoid/lizardfolk
-statblock: inline
+aliases: ["Lizardfolk"]
 ---
 # Lizardfolk
-*Source: Monster Manual p. 204, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 204. Available in the SRD and the Basic Rules.*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -49,8 +48,6 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
 
 
-## Stat Block
-
 ```statblock
 "name": "Lizardfolk"
 "size": "Medium"
@@ -67,38 +64,32 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - !!int "7"
 - !!int "12"
 - !!int "7"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
-  "Survival": !!int "5"
+  "Stealth": "+4"
+  "Perception": "+3"
+  "Survival": "+5"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lizardfolk can hold its breath for 15 minutes."
+- "desc": "The lizardfolk can hold its breath for 15 minutes."
   "name": "Hold Breath"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
+- "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
   "name": "Heavy Club"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2))\
+    \ piercing damage."
   "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Spiked Shield"
 "source":
 - "MM"
@@ -114,7 +105,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "EGW"
 - "TCE"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk.png"
+"image": "compendium/bestiary/humanoid/token/lizardfolk.png"
 ```
 ^statblock
 

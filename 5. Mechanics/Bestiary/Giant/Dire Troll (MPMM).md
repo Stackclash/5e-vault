@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Dire Troll"]
 ---
 # Dire Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
@@ -29,13 +28,11 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
-## Stat Block
-
 ```statblock
 "name": "Dire Troll"
 "size": "Huge"
 "type": "giant"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
 "hp": !!int "172"
 "hit_dice": "15d12 + 75"
@@ -46,46 +43,41 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "9"
 - !!int "11"
 - !!int "5"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Charisma": !!int "2"
-  "Wisdom": !!int "5"
+  "Charisma": "+2"
+  "Wisdom": "+5"
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "frightened, poisoned"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
+- "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
     \ takes acid or fire damage, it regains only 5 hit points at the start of its\
     \ next turn. The troll dies only if it is hit by an attack that deals 10 or more\
     \ acid or fire damage while the troll has 0 hit points."
   "name": "Regeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": " The troll makes one Bite attack and four Claw attacks."
+- "desc": " The troll makes one Bite attack and four Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) piercing damage plus dice: 1d10|avg (1d10)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
+    \ Hit: 10 (dice: 1d8 + 6|avg (1d8 + 6)) piercing damage plus 5 (dice: 1d10|avg\
+    \ (1d10)) poison damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 6|avg (3d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
+    \ Hit: 16 (dice: 3d6 + 6|avg (3d6 + 6)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature within 10 feet of the troll must make a DC 19 Dexterity saving\
+- "desc": "Each creature within 10 feet of the troll must make a DC 19 Dexterity saving\
     \ throw, taking 44 (dice: 8d10|avg (8d10)) slashing damage on a failed save,\
     \ or half as much damage on a successful one."
   "name": "Whirlwind of Claws (Recharge 5-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Giant/token/dire-troll.png"
+"image": "compendium/bestiary/giant/token/dire-troll.png"
 ```
 ^statblock
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Evoker Wizard"]
 ---
 # Evoker Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
@@ -16,8 +15,6 @@ Evokers harness arcane energy to destroy. Many armies employ evokers to rain des
 ## Wizards
 
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
-
-## Stat Block
 
 ```statblock
 "name": "Evoker Wizard"
@@ -34,48 +31,45 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "17"
 - !!int "12"
 - !!int "11"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "7"
+  "Wisdom": "+5"
+  "Intelligence": "+7"
 "skillsaves":
-  "History": !!int "7"
-  "Arcana": !!int "7"
+  "History": "+7"
+  "Arcana": "+7"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The evoker casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 15):\n\nAt will: [[/5. Mechanics/Spells/Light.md|light]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]\n\n2/day each: [[/5. Mechanics/Spells/Ice Storm.md|ice storm]],\
-    \ [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+- "desc": "The evoker casts one of the following spells, using Intelligence as the\
+    \ spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics\Spells\Light.md|light]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Message.md|message]],\
+    \ [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics\Spells\Wall Of Ice.md|wall of ice]]\n\n2/day each: [[5. Mechanics\Spells\Ice Storm.md|ice storm]],\
+    \ [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]]"
   "name": "spells"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The evoker makes three Arcane Burst attacks."
+- "desc": "The evoker makes three Arcane Burst attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: dice: 4d10 + 3|avg (4d10 + 3) force damage."
+- "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 120 ft., one target. Hit: 25 (dice: 4d10 + 3|avg (4d10 + 3))\
+    \ force damage."
   "name": "Arcane Burst"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The evoker unleashes a magical explosion of a particular damage type: cold,\
+- "desc": "The evoker unleashes a magical explosion of a particular damage type: cold,\
     \ fire, lightning, or thunder. The magic erupts in a 20-foot-radius sphere centered\
     \ on a point within 150 feet of the evoker. Each creature in that area must make\
     \ a DC 15 Dexterity saving throw. The evoker can select up to three creatures\
     \ it can see in the area to ignore the spell, as the evoker sculpts the spell's\
-    \ energy around them. On a failed save, a creature takes dice: 9d8|avg (9d8)\
-    \ damage of the chosen type and is knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ energy around them. On a failed save, a creature takes 40 (dice: 9d8|avg (9d8))\
+    \ damage of the chosen type and is knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Sculpted Explosion (Recharge 4-6)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/evoker-wizard.png"
+"image": "compendium/bestiary/humanoid/token/evoker-wizard.png"
 ```
 ^statblock
 

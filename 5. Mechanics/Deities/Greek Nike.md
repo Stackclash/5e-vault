@@ -8,7 +8,7 @@ tags:
 aliases: ["Nike"]
 ---
 # Nike
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: War

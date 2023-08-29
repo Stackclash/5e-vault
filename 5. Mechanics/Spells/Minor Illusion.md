@@ -16,6 +16,7 @@ tags:
 aliases: ["Minor Illusion"]
 ---
 # Minor Illusion
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Illusion*  
 
 - **Casting time:** 1 action
@@ -29,8 +30,8 @@ If you create a sound, its volume can range from a whisper to a scream. It can b
 
 If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Monk Way Of Shadow.md|Monk (Way of Shadow)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard School Of Illusion.md|Wizard (School of Illusion)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Monk Way Of Shadow.md|Monk (Way of Shadow)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard School Of Illusion.md|Wizard (School of Illusion)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 260
+*Source: Player's Handbook p. 260. Available in the SRD and the Basic Rules.*

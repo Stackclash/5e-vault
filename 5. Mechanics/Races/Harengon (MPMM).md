@@ -10,7 +10,7 @@ aliases: ["Harengon"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 22*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 
@@ -26,11 +26,11 @@ You can add your proficiency bonus to your initiative rolls.
 
 ### Leporine Senses
 
-You have proficiency in the [[5. Mechanics/Rules/Skills.md#Perception|Perception]] skill.
+You have proficiency in the [[\5. Mechanics\Rules\Skills.md#Perception|Perception]] skill.
 
 ### Lucky Footwork
 
-When you fail a Dexterity saving throw, you can use your reaction to roll a `dice: d4` (`d4`) and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [[5. Mechanics/Rules/Conditions.md#prone|prone]] or your speed is 0.
+When you fail a Dexterity saving throw, you can use your reaction to roll a `dice: d4` (`d4`) and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [[\5. Mechanics\Rules\Conditions.md#prone|prone]] or your speed is 0.
 
 ### Rabbit Hop
 

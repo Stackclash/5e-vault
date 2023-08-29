@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Lizard"]
 ---
 # Giant Lizard
-*Source: Monster Manual p. 326, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
 
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.
 
@@ -41,14 +40,13 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -60,7 +58,8 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 - "IDRotF"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-lizard.png"
+- "PSA"
+"image": "compendium/bestiary/beast/token/giant-lizard.png"
 ```
 ^statblock
 

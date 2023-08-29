@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Babau"]
 ---
 # Babau
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
@@ -25,7 +24,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
@@ -36,10 +35,10 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 - !!int "11"
 - !!int "12"
 - !!int "13"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  "Stealth": "+5"
+  "Perception": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -48,25 +47,21 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "languages": "Abyssal"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The babau casts one of the following spells, requiring no material components\
+- "desc": "The babau casts one of the following spells, requiring no material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Fear.md|fear]], [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]]"
+    \ [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Fear.md|fear]], [[5. Mechanics\Spells\Heat Metal.md|heat metal]],\
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]]"
   "name": "spells"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The babau makes two Claw attacks. It can replace one attack with a use\
+- "desc": "The babau makes two Claw attacks. It can replace one attack with a use\
     \ of Spellcasting or Weakening Gaze."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage plus dice: 1d4|avg (1d4)\
-    \ acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) slashing damage plus 2 (dice: 1d4|avg\
+    \ (1d4)) acid damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The babau targets one creature that it can see within 20 feet of it. The\
+- "desc": "The babau targets one creature that it can see within 20 feet of it. The\
     \ target must make a DC 13 Constitution saving throw. On a failed save, the target\
     \ deals only half damage with weapon attacks that use Strength for 1 minute. The\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
@@ -75,7 +70,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/fiend/token/babau.png"
+"image": "compendium/bestiary/fiend/token/babau.png"
 ```
 ^statblock
 

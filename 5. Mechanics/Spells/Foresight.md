@@ -12,6 +12,7 @@ tags:
 aliases: ["Foresight"]
 ---
 # Foresight
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Divination*  
 
 - **Casting time:** 1 minute
@@ -23,6 +24,6 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 This spell immediately ends if you cast it again before its duration ends.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 244
+*Source: Player's Handbook p. 244. Available in the SRD and the Basic Rules.*

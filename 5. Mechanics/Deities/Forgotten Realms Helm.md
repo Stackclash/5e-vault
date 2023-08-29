@@ -10,7 +10,7 @@ tags:
 aliases: ["Helm"]
 ---
 # Helm
-*Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34* 
+*Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules.* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Life, Light, Twilight

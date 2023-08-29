@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/elemental
-statblock: inline
+aliases: ["Gargoyle"]
 ---
 # Gargoyle
-*Source: Monster Manual p. 140, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 140, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
 
@@ -41,8 +40,6 @@ A gargoyle doesn't require air, food, drink, or sleep.
 > On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into Aaqa, the domain of the aarakocra and the benevolent Wind Dukes the bird folk serve in the Elemental Plane of Air.
 ^shards-of-elemental-evil
 
-## Stat Block
-
 ```statblock
 "name": "Gargoyle"
 "size": "Medium"
@@ -58,7 +55,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
 - !!int "6"
 - !!int "11"
 - !!int "7"
-"speed": "walk 30 ft., fly 60 ft."
+"speed": "30 ft., fly 60 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison"
@@ -67,21 +64,17 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "languages": "Terran"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the gargoyle remains motionless, it is indistinguishable from an\
+- "desc": "While the gargoyle remains motionless, it is indistinguishable from an\
     \ inanimate statue."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
+- "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -98,7 +91,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
 - "IDRotF"
 - "CM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.png"
+"image": "compendium/bestiary/elemental/token/gargoyle.png"
 ```
 ^statblock
 

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Earth Elemental"]
 ---
 # Earth Elemental
-*Source: Monster Manual p. 124, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 124. Available in the SRD and the Basic Rules.*  
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
 
@@ -35,8 +34,6 @@ Powerful magic can bind an elemental spirit into a material template that define
 
 An elemental doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Earth Elemental"
 "size": "Large"
@@ -52,7 +49,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - !!int "5"
 - !!int "10"
 - !!int "5"
-"speed": "walk 30 ft., burrow 30 ft."
+"speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
@@ -61,20 +58,16 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Terran"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
+- "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
     \ While doing so, the elemental doesn't disturb the material it moves through."
   "name": "Earth Glide"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental deals double damage to objects and structures."
+- "desc": "The elemental deals double damage to objects and structures."
   "name": "Siege Monster"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental makes two slam attacks."
+- "desc": "The elemental makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"
@@ -86,7 +79,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - "MOT"
 - "TCE"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental.png"
+"image": "compendium/bestiary/elemental/token/earth-elemental.png"
 ```
 ^statblock
 

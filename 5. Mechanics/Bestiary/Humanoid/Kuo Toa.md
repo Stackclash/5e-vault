@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
-statblock: inline
+aliases: ["Kuo-toa"]
 ---
 # Kuo-toa
-*Source: Monster Manual p. 199, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 199*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
@@ -53,8 +52,6 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > They invent their own gods... the very definition of insanity.
 
 
-## Stat Block
-
 ```statblock
 "name": "Kuo-toa"
 "size": "Medium"
@@ -71,56 +68,48 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - !!int "11"
 - !!int "10"
 - !!int "8"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can breathe air and water."
+- "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+- "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
+    \ that is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
+- "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
     \ a grapple."
   "name": "Slippery"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing\
     \ damage, or 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage if used with\
     \ two hands to make a melee attack."
   "name": "Spear"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 5/15 ft., one\
-    \ Large or smaller creature. Hit: The target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 5/15 ft., one\
+    \ Large or smaller creature. Hit: The target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
     \ A creature can use its action to make a DC 10 Strength check to free itself\
     \ or another creature in a net, ending the effect on a success. Dealing 5 slashing\
     \ damage to the net (AC 10) frees the target without harming it and destroys the\
     \ net."
   "name": "Net"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When a creature misses the kuo-toa with a melee weapon attack, the kuo-toa\
+- "desc": "When a creature misses the kuo-toa with a melee weapon attack, the kuo-toa\
     \ uses its sticky shield to catch the weapon. The attacker must succeed on a DC\
     \ 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's shield.\
     \ If the weapon's wielder can't or won't let go of the weapon, the wielder is\
-    \ [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] while the weapon is stuck.\
+    \ [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] while the weapon is stuck.\
     \ While stuck, the weapon can't be used. A creature can pull the weapon free by\
     \ taking an action to make a DC 11 Strength check and succeeding."
   "name": "Sticky Shield"
@@ -132,7 +121,8 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "WDMM"
 - "GoS"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa.png"
+- "PSI"
+"image": "compendium/bestiary/humanoid/token/kuo-toa.png"
 ```
 ^statblock
 

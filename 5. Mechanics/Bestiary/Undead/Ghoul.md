@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Ghoul"]
 ---
 # Ghoul
-*Source: Monster Manual p. 148, Curse of Strahd, Lost Mine of Phandelver, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Storm Lord's Wrath, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Keys from the Golden Vault*  
+*Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
@@ -26,8 +25,6 @@ Ghouls trace their origins to the Abyss. Doresain, the first of their kind, was 
 ## Ghasts
 
 Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a ghast. Whereas ghouls are little more than savage beasts, a ghast is cunning and can inspire a pack of ghouls to follow its commands.
-
-## Stat Block
 
 ```statblock
 "name": "Ghoul"
@@ -44,24 +41,22 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - !!int "7"
 - !!int "10"
 - !!int "6"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "charmed, exhaustion, poisoned"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one creature.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage. If the target is a creature\
-    \ other than an elf or undead, it must succeed on a DC 10 Constitution saving\
-    \ throw or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute.\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage. If the target is\
+    \ a creature other than an elf or undead, it must succeed on a DC 10 Constitution\
+    \ saving throw or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] for\
+    \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
+    \ ending the effect on itself on a success."
   "name": "Claws"
 "source":
 - "MM"
@@ -84,7 +79,8 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "JttRC"
 - "DoSI"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Undead/token/ghoul.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/ghoul.png"
 ```
 ^statblock
 

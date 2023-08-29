@@ -10,7 +10,7 @@ aliases: ["Firbolg"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 15*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma
@@ -19,13 +19,13 @@ aliases: ["Firbolg"]
 
 ### Firbolg Magic
 
-You can cast [[/5. Mechanics/Spells/Detect Magic.md|detect magic]] and [[/5. Mechanics/Spells/Disguise Self.md|disguise self]] spells with this trait. When you use this version of [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+You can cast [[5. Mechanics\Spells\Detect Magic.md|detect magic]] and [[5. Mechanics\Spells\Disguise Self.md|disguise self]] spells with this trait. When you use this version of [[5. Mechanics\Spells\Disguise Self.md|disguise self]], you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 ### Hidden Step
 
-As a bonus action, you can magically turn [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a bonus action, you can magically turn [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Powerful Build
 

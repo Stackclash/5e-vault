@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/arctic
 - monster/size/huge
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Abominable Yeti"]
 ---
 # Abominable Yeti
-*Source: Monster Manual p. 306, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries*  
+*Source: Monster Manual p. 306*  
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
 
@@ -38,8 +37,6 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 > On your guard! That's not the wind howling!
 
 
-## Stat Block
-
 ```statblock
 "name": "Abominable Yeti"
 "size": "Huge"
@@ -55,47 +52,41 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - !!int "9"
 - !!int "13"
 - !!int "9"
-"speed": "walk 40 ft., climb 40 ft."
+"speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  "Stealth": "+4"
+  "Perception": "+5"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Yeti"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
+- "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
     \ ability checks until the end of its next turn."
   "name": "Fear of Fire"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yeti has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The yeti has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yeti has advantage on Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+- "desc": "The yeti has advantage on Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]])\
     \ checks made to hide in snowy terrain."
   "name": "Snow Camouflage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
+- "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage plus dice: 2d6|avg (2d6)\
-    \ cold damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d6 + 7|avg (2d6 + 7)) slashing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) cold damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
+- "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
     \ can see the yeti, the target must succeed on a DC 18 Constitution saving throw\
-    \ against this magic or take dice: 6d6|avg (6d6) cold damage and then be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
-    \ saving throw at the end of each of its turns, ending the effect on itself on\
-    \ a success. If the target's saving throw is successful, or if the effect ends\
-    \ on it, the target is immune to this yeti's gaze for 1 hour."
+    \ against this magic or take 21 (dice: 6d6|avg (6d6)) cold damage and then\
+    \ be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] for 1 minute, unless\
+    \ it is immune to cold damage. The target can repeat the saving throw at the end\
+    \ of each of its turns, ending the effect on itself on a success. If the target's\
+    \ saving throw is successful, or if the effect ends on it, the target is immune\
+    \ to this yeti's gaze for 1 hour."
   "name": "Chilling Gaze"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yeti exhales a 30-foot cone of frigid air. Each creature in that area\
+- "desc": "The yeti exhales a 30-foot cone of frigid air. Each creature in that area\
     \ must make a DC 18 Constitution saving throw, taking 45 (dice: 10d8|avg (10d8))\
     \ cold damage on a failed save, or half as much damage on a successful one."
   "name": "Cold Breath (Recharge 6)"
@@ -106,7 +97,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "EGW"
 - "IDRotF"
 - "CM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/abominable-yeti.png"
+"image": "compendium/bestiary/monstrosity/token/abominable-yeti.png"
 ```
 ^statblock
 

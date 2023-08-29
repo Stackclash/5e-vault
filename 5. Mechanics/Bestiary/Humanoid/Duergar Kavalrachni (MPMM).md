@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,12 +6,12 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
-statblock: inline
+aliases: ["Duergar Kavalrachni"]
 ---
 # Duergar Kavalrachni
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  
 
-Kavalrachni are duergar cavalry trained to fight while riding [[Female Steeder (MPMM)|female steeders]] (in this book) or other Underdark creatures as mounts.
+Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics\Bestiary\Monstrosity\Female Steeder (MPMM).md|female steeders]] (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
@@ -34,8 +33,6 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
-## Stat Block
-
 ```statblock
 "name": "Duergar Kavalrachni"
 "size": "Medium"
@@ -52,53 +49,46 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - !!int "11"
 - !!int "10"
 - !!int "9"
-"speed": "walk 25 ft."
+"speed": "25 ft."
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the duergar hits a target with a melee attack while mounted, the mount\
+- "desc": "When the duergar hits a target with a melee attack while mounted, the mount\
     \ can use its reaction to make one melee attack against the same target."
   "name": "Cavalry Training"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on saving throws against spells and the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-    \ [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "The duergar has advantage on saving throws against spells and the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]], and [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ conditions."
   "name": "Duergar Resilience"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar makes two War Pick attacks."
+- "desc": "The duergar makes two War Pick attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 2d4|avg (2d4)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage plus 5 (dice: 2d4|avg\
+    \ (2d4)) poison damage."
   "name": "War Pick"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
-    \ target. Hit: dice: 1d10|avg (1d10) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
+    \ target. Hit: 5 (dice: 1d10|avg (1d10)) piercing damage."
   "name": "Heavy Crossbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar magically turns [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The duergar magically turns [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[5. Mechanics/Rules/Status.md#concentration|concentration]] is broken\
-    \ (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
-    \ Any equipment the duergar wears or carries is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ with it. While the [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] duergar\
-    \ is mounted, the mount is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ throw, or its [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ is broken (as if concentrating on a spell). Any equipment the duergar wears\
+    \ or carries is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] with it.\
+    \ While the [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] duergar is\
+    \ mounted, the mount is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ as well. The invisibility ends early on the mount immediately after it attacks."
   "name": "Shared Invisibility (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-kavalrachni.png"
+"image": "compendium/bestiary/humanoid/token/duergar-kavalrachni.png"
 ```
 ^statblock
 

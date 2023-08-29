@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Wolf"]
 ---
 # Wolf
-*Source: Monster Manual p. 341, Curse of Strahd, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries*  
+*Source: Monster Manual p. 341, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Wolf"
@@ -28,28 +27,25 @@ statblock: inline
 - !!int "3"
 - !!int "12"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  "Stealth": "+4"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wolf has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The wolf has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wolf has advantage on an attack roll against a creature if at least\
+- "desc": "The wolf has advantage on an attack roll against a creature if at least\
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 11 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"
@@ -64,7 +60,7 @@ statblock: inline
 - "IDRotF"
 - "TCE"
 - "CM"
-"image": "5. Mechanics/Bestiary/Beast/token/wolf.png"
+"image": "compendium/bestiary/beast/token/wolf.png"
 ```
 ^statblock
 

@@ -14,4 +14,4 @@ aliases: ["Vial"]
 
 A vial can hold up to 4 ounces of liquid.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

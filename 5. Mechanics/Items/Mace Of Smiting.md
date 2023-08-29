@@ -22,4 +22,4 @@ When you roll a 20 on an attack roll made with this weapon, the target takes an 
 > [!note]
 > According to the SRD, it is an extra `dice: 2d6` (`2d6`) and `dice: 4d6` (`4d6`) bludgeoning damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
-*Source: Dungeon Master's Guide p. 179*
+*Source: Dungeon Master's Guide p. 179. Available in the SRD.*

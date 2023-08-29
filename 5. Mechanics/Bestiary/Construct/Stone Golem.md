@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Stone Golem"]
 ---
 # Stone Golem
-*Source: Monster Manual p. 170, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Candlekeep Mysteries, Curse of Strahd, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault*  
+*Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.
 
@@ -36,13 +35,11 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[Conditions#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
 A golem doesn't require air, food, drink, or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Stone Golem"
@@ -59,7 +56,7 @@ A golem doesn't require air, food, drink, or sleep.
 - !!int "3"
 - !!int "11"
 - !!int "1"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -67,26 +64,20 @@ A golem doesn't require air, food, drink, or sleep.
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem is immune to any spell or effect that would alter its form."
+- "desc": "The golem is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem has advantage on saving throws against spells and other magical\
+- "desc": "The golem has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem's weapon attacks are magical."
+- "desc": "The golem's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem makes two slam attacks."
+- "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
+- "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
     \ Each target must make a DC 17 Wisdom saving throw against this magic. On a failed\
     \ save, a target can't use reactions, its speed is halved, and it can't make more\
     \ than one attack on its turn. In addition, the target can take either an action\
@@ -113,6 +104,6 @@ A golem doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/stone-golem.png"
+"image": "compendium/bestiary/construct/token/stone-golem.png"
 ```
 ^statblock

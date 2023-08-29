@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/gnoll
-statblock: inline
+aliases: ["Gnoll Pack Lord"]
 ---
 # Gnoll Pack Lord
-*Source: Monster Manual p. 163, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 163*  
 
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
 
@@ -34,8 +33,6 @@ Gnolls are dangerous because they strike at random. They emerge from the wildern
 
 No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
-## Stat Block
-
 ```statblock
 "name": "Gnoll Pack Lord"
 "size": "Medium"
@@ -52,35 +49,29 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - !!int "8"
 - !!int "11"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
+- "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
     \ its turn, the gnoll can take a bonus action to move up to half its speed and\
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gnoll makes two attacks, either with its glaive or its longbow, and\
+- "desc": "The gnoll makes two attacks, either with its glaive or its longbow, and\
     \ uses its Incite Rampage if it can."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) slashing damage."
   "name": "Glaive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
+    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
   "name": "Longbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One creature the gnoll can see within 30 feet of it can use its reaction\
+- "desc": "One creature the gnoll can see within 30 feet of it can use its reaction\
     \ to make a melee attack if it can hear the gnoll and has the Rampage trait."
   "name": "Incite Rampage (Recharge 5-6)"
 "source":
@@ -88,7 +79,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - "PotA"
 - "GoS"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Humanoid/token/gnoll-pack-lord.png"
+"image": "compendium/bestiary/humanoid/token/gnoll-pack-lord.png"
 ```
 ^statblock
 

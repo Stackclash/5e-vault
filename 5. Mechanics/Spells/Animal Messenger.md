@@ -12,6 +12,7 @@ tags:
 aliases: ["Animal Messenger"]
 ---
 # Animal Messenger
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual
@@ -25,6 +26,6 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 **At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Player's Handbook p. 212
+*Source: Player's Handbook p. 212. Available in the SRD.*

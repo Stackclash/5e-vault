@@ -12,4 +12,4 @@ aliases: ["Common Wine (Pitcher)"]
 - **Cost**: 2 sp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 158*
+*Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.*

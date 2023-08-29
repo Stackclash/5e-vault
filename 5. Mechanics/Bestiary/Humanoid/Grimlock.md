@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/grimlock
-statblock: inline
+aliases: ["Grimlock"]
 ---
 # Grimlock
-*Source: Monster Manual p. 175, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 175. Available in the SRD.*  
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
 
@@ -31,8 +30,6 @@ For most creatures, blindness is an enormous hindrance. For a grimlock with its 
 
 Grimlocks still venerate the mind flayers, serving them whenever possible. Grimlocks also recall the war in which they were driven underground. To them, it has never ended. They continue to return to the surface world to abduct captives for their illithid masters.
 
-## Stat Block
-
 ```statblock
 "name": "Grimlock"
 "size": "Medium"
@@ -49,39 +46,35 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 - !!int "9"
 - !!int "8"
 - !!int "6"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Stealth": !!int "3"
-  "Perception": !!int "3"
+  "Athletics": "+5"
+  "Stealth": "+3"
+  "Perception": "+3"
 "condition_immunities": "blinded"
 "senses": "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius),\
   \ passive Perception 13"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grimlock can't use its blindsight while [[5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+- "desc": "The grimlock can't use its blindsight while [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]]\
     \ and unable to smell."
   "name": "Blind Senses"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grimlock has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The grimlock has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in\
+- "desc": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in\
     \ rocky terrain."
   "name": "Stone Camouflage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage plus dice: 1d4|avg\
-    \ (1d4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage plus 2 (dice:\
+    \ 1d4|avg (1d4)) piercing damage."
   "name": "Spiked Bone Club"
 "source":
 - "MM"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/grimlock.png"
+"image": "compendium/bestiary/humanoid/token/grimlock.png"
 ```
 ^statblock
 

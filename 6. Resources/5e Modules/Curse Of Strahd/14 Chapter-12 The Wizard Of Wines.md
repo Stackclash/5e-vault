@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/cos
 aliases: ["Chapter 12: The Wizard of Wines"]
 ---
 # Chapter 12: The Wizard of Wines
@@ -12,21 +14,21 @@ Although the Vistani often bring wine from distant lands, they share it infreque
 
 The Wizard of Wines was founded by a mage whose name is buried in the annals of history. The wizard fashioned three magic gems, each one as big as a pinecone, and planted them in the rich valley soil. These "seeds" gave rise to healthy grapevines, which produced sweet, plump grapes. Even after Strahd's curse settled over Barovia, the gems kept the vines and their grapes from succumbing to the darkness.
 
-Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]], is a wereraven, as are his children and grandchildren.
+Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]], is a wereraven, as are his children and grandchildren.
 
-![[110-cos12-01.png#center]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\110-cos12-01.png#center]]
 
 The wereravens provide the wine to Barovian taverns for free, knowing the good it brings to the Barovian people.
 
-> [!quote]- A quote from [[/5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]  
+> [!quote]- A quote from [[5. Mechanics\Bestiary\Npc\Strahd Von Zarovich (COS).md|Strahd von Zarovich]]  
 > 
 > Why, it is nothing to become an animal, for that is the true nature of every man. We are not meant to wear crowns and drink from goblets.
 
-The winery is known for three wines: the unremarkable Purple Grapemash No. 3, the slightly more tantalizing Red Dragon Crush, and the rich Champagne du le Stomp. Ten years ago, one of the vineyard's magic gems was dug up and stolen, and as a result, the winery stopped producing its best vintage, the champagne. No one knows what happened to the gem. [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]] blames his middle son, Urwin (see chapter 5, area N2), for the loss because Urwin was on watch the night the gem was taken. Davian is convinced that Urwin shirked his duty to spend time with his betrothed, and the two men have been at odds ever since. To this day, Urwin steadfastly denies his father's accusation.
+The winery is known for three wines: the unremarkable Purple Grapemash No. 3, the slightly more tantalizing Red Dragon Crush, and the rich Champagne du le Stomp. Ten years ago, one of the vineyard's magic gems was dug up and stolen, and as a result, the winery stopped producing its best vintage, the champagne. No one knows what happened to the gem. [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]] blames his middle son, Urwin (see chapter 5, area N2), for the loss because Urwin was on watch the night the gem was taken. Davian is convinced that Urwin shirked his duty to spend time with his betrothed, and the two men have been at odds ever since. To this day, Urwin steadfastly denies his father's accusation.
 
-Adding to Davian's misery, the wereravens have been fending off frequent attacks by [[/5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]]'s scarecrow constructs. Three weeks ago, during one such attack, another gem was found, dug up, and taken. Davian believes that it is in the possession of [[/5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] (see chapter 10, area U3).
+Adding to Davian's misery, the wereravens have been fending off frequent attacks by [[5. Mechanics\Bestiary\Npc\Baba Lysaga (COS).md|Baba Lysaga]]'s scarecrow constructs. Three weeks ago, during one such attack, another gem was found, dug up, and taken. Davian believes that it is in the possession of [[5. Mechanics\Bestiary\Npc\Baba Lysaga (COS).md|Baba Lysaga]] (see chapter 10, area U3).
 
-Davian's belief is correct. The gem was a lucky find for [[/5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]], who had previously suspected that magic was the root of the vineyard's health but knew nothing of its source. Even after this great discovery, [[/5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] continues to send her scarecrows against the winery, antagonizing the wereravens like a bad neighbor.
+Davian's belief is correct. The gem was a lucky find for [[5. Mechanics\Bestiary\Npc\Baba Lysaga (COS).md|Baba Lysaga]], who had previously suspected that magic was the root of the vineyard's health but knew nothing of its source. Even after this great discovery, [[5. Mechanics\Bestiary\Npc\Baba Lysaga (COS).md|Baba Lysaga]] continues to send her scarecrows against the winery, antagonizing the wereravens like a bad neighbor.
 
 Five days ago, evil druids stole the third and final gem and bore it to Yester Hill (chapter 14). The wereravens launched a counterattack on Yester Hill, hoping to get it back, but to no avail. The druids and their blights proved more than a match for the lycanthropes.
 
@@ -50,13 +52,13 @@ If the characters head west on the trail toward the vineyard, read:
 > A light drizzle begins to fall. Unpainted fences blindly follow the trail, which skirts north of a sprawling vineyard before bending south toward a stately building. The fog takes on ghostly forms as it swirls between the neatly tended rows of grapevines. Here and there, you see rope-handled half-barrels used for hauling grapes. North of the trail is a large stand of trees. A man wearing a dark cloak and cowl stands at the edge of the trees, beckoning you.
 ^594
 
-The beckoning figure is one of nine [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereravens]] (LG male and female humans) hiding in the grove north of the vineyard. If the characters ignore the cloaked figure and continue on to the winery, the wereravens keep their distance and wait to see what happens.
+The beckoning figure is one of nine [[5. Mechanics\Bestiary\Humanoid\Wereraven (VRGR).md|wereravens]] (LG male and female humans) hiding in the grove north of the vineyard. If the characters ignore the cloaked figure and continue on to the winery, the wereravens keep their distance and wait to see what happens.
 
 ### The Martikov Family
 
 If the characters head toward the cloaked figure, the other wereravens emerge from the stand of trees and greet them in human form. They wear dark leather rain cloaks and cowls.
 
-One of them is the current owner of the winery and vineyard, [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]], who is an old and suspicious man. Until he trusts the characters, he says nothing about the stolen gems but tells them that evil druids and blights have attacked the winery and forced his family to take refuge in the woods.
+One of them is the current owner of the winery and vineyard, [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]], who is an old and suspicious man. Until he trusts the characters, he says nothing about the stolen gems but tells them that evil druids and blights have attacked the winery and forced his family to take refuge in the woods.
 
 If the characters rid the winery of its invaders, Davian is grateful. Only then does he tell them that the vineyard's three magic "seeds" have been stolen. He describes them as gems the size and shape of pinecones, each one containing a glowing green light as bright as a torch. For the good of all Barovia, he urges the characters to travel to Berez (area U) and Yester Hill (area Y) to retrieve two of them. He has no idea what happened to the third gem.
 
@@ -90,28 +92,28 @@ When the characters reach the winery, read:
 > You hear the rustle of dead vines all around you. Inhuman shapes emerge from the vineyard, their limbs cracking as they trudge forth through the mist and rain.
 ^598
 
-Thirty [[/5. Mechanics/Bestiary/Plant/Needle Blight.md|needle blights]] (in six groups of five) emerge from the surrounding vineyard and make their way toward the characters and the winery. The blights are 120 feet away when they first become visible, and they have a walking speed of 30 feet. Characters can either barricade themselves inside the winery, thus keeping the needle blights at bay, or stand and fight. If they stay outside and fight, druids and blights from inside the winery join the battle on the rounds shown below.
+Thirty [[5. Mechanics\Bestiary\Plant\Needle Blight.md|needle blights]] (in six groups of five) emerge from the surrounding vineyard and make their way toward the characters and the winery. The blights are 120 feet away when they first become visible, and they have a walking speed of 30 feet. Characters can either barricade themselves inside the winery, thus keeping the needle blights at bay, or stand and fight. If they stay outside and fight, druids and blights from inside the winery join the battle on the rounds shown below.
 
 | Round | Creatures |
 |-------|-----------|
-| 3 | 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and 24 [[/5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] (from area W9) |
-| 4 | 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and 5 [[/5. Mechanics/Bestiary/Plant/Needle Blight.md\|needle blights]] (from area W14) |
-| 5 | 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and 2 [[/5. Mechanics/Bestiary/Plant/Vine Blight.md\|vine blights]] (from area W20) |
+| 3 | 1 [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] and 24 [[5. Mechanics\Bestiary\Plant\Twig Blight.md|twig blights]] (from area W9) |
+| 4 | 1 [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] and 5 [[5. Mechanics\Bestiary\Plant\Needle Blight.md|needle blights]] (from area W14) |
+| 5 | 1 [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] and 2 [[5. Mechanics\Bestiary\Plant\Vine Blight.md|vine blights]] (from area W20) |
 ^round-creatures
 
-The druid lurking in area W16 carries a [[/5. Mechanics/Items/Gulthias Staff (COS).md|Gulthias staff]] (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
+The druid lurking in area W16 carries a [[5. Mechanics\Items\Gulthias Staff (COS).md|Gulthias staff]] (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
 
 ## Areas of the Winery
 
 The following areas correspond to labels on the map of the winery below.
 
 > [!gallery]
-> ![[111-028.jpg#gallery|Map 12.1: Wizard of Wines Winery (Area W)]]
-> ![[112-cos1201.jpg#gallery|Player Version]]
+> ![[6. Resources\5e Modules\Curse Of Strahd\img\111-028.jpg#gallery|Map 12.1: Wizard of Wines Winery (Area W)]]
+> ![[6. Resources\5e Modules\Curse Of Strahd\img\112-cos1201.jpg#gallery|Player Version]]
 
 ### W1. Stables
 
-The Martikovs keep two [[/5. Mechanics/Bestiary/Beast/Draft Horse.md|draft horses]] here and use them to pull their wine wagon.
+The Martikovs keep two [[5. Mechanics\Bestiary\Beast\Draft Horse.md|draft horses]] here and use them to pull their wine wagon.
 
 ### W2. Loading Dock
 
@@ -184,9 +186,9 @@ The wooden beam on the floor can be used to bar the outer door.
 > The rich smell of fermenting wine fills this large, two-story chamber, which is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. Stacked against the wall underneath the balcony are old, empty barrels with "The Wizard of Wines" burned into their sides. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery's upper level. Underneath these side balconies are several doors, some of which hang open. Beneath the sloping roof stretch thick rafters, upon which scores of ravens have quietly gathered. They watch you with great interest.
 ^5a9
 
-Four [[/5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md|swarms of ravens]] perch on the rafters but don't attack the characters under any circumstances.
+Four [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|swarms of ravens]] perch on the rafters but don't attack the characters under any circumstances.
 
-Unless they have been drawn outside, twenty-four [[/5. Mechanics/Bestiary/Plant/Twig Blight.md|twig blights]] and one [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] (NE female human) are also present. If they are here, read:
+Unless they have been drawn outside, twenty-four [[5. Mechanics\Bestiary\Plant\Twig Blight.md|twig blights]] and one [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] (NE female human) are also present. If they are here, read:
 
 > [!quote] ...
 > 
@@ -195,9 +197,9 @@ Unless they have been drawn outside, twenty-four [[/5. Mechanics/Bestiary/Plant/
 
 The four containers are fermentation vats, where grape juice is mixed with other ingredients and turned into wine. The easternmost cask has split in the back, creating a 6-inch-wide, 6-foot-high opening through which the twig blights can pass. All twenty-four twig blights are hidden in the cask, ready to emerge and attack when commanded to do so. While inside the cask, they have total cover against attacks that originate outside the cask.
 
-![[113-cos12-03.png#center|Twig Blight]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\113-cos12-03.png#center|Twig Blight]]
 
-The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [[/5. Mechanics/Items/Potion Of Poison.md|potion of poison]]. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [[/5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]] spell on a vat neutralizes the poison without spoiling the wine.
+The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [[5. Mechanics\Items\Potion Of Poison.md|potion of poison]]. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [[5. Mechanics\Spells\Purify Food And Drink.md|purify food and drink]] spell on a vat neutralizes the poison without spoiling the wine.
 
 In addition to her animal skin gown and horned headdress, the druid wears necklaces of human teeth. If the characters attack the druid, she calls forth her twig blights. When that happens, the swarms of ravens descend from the rafters and begin attacking the blights. Each swarm tears apart one twig blight on each of its turns.
 
@@ -254,14 +256,14 @@ In the winery's heyday, the wine cellar was packed with barrels awaiting shipmen
 > Wooden pillars and beams support the ten-foot-high ceiling of this ice-cold cellar, which is split in two by a five-foot-thick brick wall. A thin mist covers the floor. Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half filled with wine bottles.
 ^5b6
 
-Unless they have been drawn outside, five [[/5. Mechanics/Bestiary/Plant/Needle Blight.md|needle blights]] and one [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
+Unless they have been drawn outside, five [[5. Mechanics\Bestiary\Plant\Needle Blight.md|needle blights]] and one [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
 
 > [!quote] ...
 > 
 > Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
 ^5b7
 
-On his first turn, from behind the wine rack, the druid casts a [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]] spell, which shatters `dice: 1d20 + 10` (`1d20 + 10`) of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
+On his first turn, from behind the wine rack, the druid casts a [[5. Mechanics\Spells\Thunderwave.md|thunderwave]] spell, which shatters `dice: 1d20 + 10` (`1d20 + 10`) of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
 
 The cellar gets markedly colder the closer one gets to the north wall. Against that wall in the eastern portion of the cellar rest three frosty barrels containing Purple Grapemash No. 3, a fact that is emblazoned on each barrel's side. A single bottle of Purple Grapemash No. 3 lies on the flagstone floor in the western half of the cellar.
 
@@ -278,7 +280,7 @@ If the characters open the secret door, read:
 > It takes some effort to push open the secret door, and you are greeted by a blast of cold air. A dark tunnel stretches for fifteen feet, ending at an archway beyond which lies a shallow cave.
 ^5b9
 
-Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of brown mold (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). The characters are safe from the mold as long as they keep their distance.
+Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of [[5. Mechanics\Traps Hazards\Brown Mold.md|brown mold]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). The characters are safe from the mold as long as they keep their distance.
 
 ### W16. Loading Winch
 
@@ -287,24 +289,24 @@ Characters who have a light source can see brown mold covering the walls, floor,
 > This room has a wooden floor with a ten-foot-square hole cut into the middle of it. Looming over the hole is a wooden winch. Perched atop it is a man with wild hair, rotted teeth, and skin painted red with blood. He waves a gnarled staff made from a black branch and babbles at you.
 ^5bc
 
-The man is a [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] (NE male human) who fights only if cornered. Otherwise, he tries to flee by dropping onto the wagon in the loading dock (area W2). He then looks for a place in the winery to hide. A character who understands Druidic can translate the his words: "Nature bows to my every whim, for I have the vampire's staff!"
+The man is a [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] (NE male human) who fights only if cornered. Otherwise, he tries to flee by dropping onto the wagon in the loading dock (area W2). He then looks for a place in the winery to hide. A character who understands Druidic can translate the his words: "Nature bows to my every whim, for I have the vampire's staff!"
 
 A secret door in the north corner of the west wall can be pulled open to reveal a bedroom (area W17).
 
 #### Treasure
 
-The druid wields a [[/5. Mechanics/Items/Gulthias Staff (COS).md|Gulthias staff]] (see appendix C), which can be used to destroy the blights in the winery.
+The druid wields a [[5. Mechanics\Items\Gulthias Staff (COS).md|Gulthias staff]] (see appendix C), which can be used to destroy the blights in the winery.
 
 ### W17. Master Bedroom
 
-This bedroom normally belongs to [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]] but is currently being used by his daughter, Stefania, and son-in-law, Dag, while they raise their baby daughter.
+This bedroom normally belongs to [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]] but is currently being used by his daughter, Stefania, and son-in-law, Dag, while they raise their baby daughter.
 
 > [!quote] ...
 > 
 > This room contains a four-poster bed, its headboard carved in the likeness of a giant raven. A soft black rug covers the floor between the bed and the door. In the corners of the south wall stand two slender wardrobes with a tapestry of a church hanging on the wall between them. Beneath the tapestry sits a handsomely carved rocking cradle. To the north, under a window, is a plain desk and chair. Other furnishings include a wooden chest and a freestanding mirror in a wooden frame.
 ^5bf
 
-![[114-cos12-04.png#center|Davian Martikov]]
+![[Davian Martikov](compendi...](compendium/adventures/curse-of-strahd/img/114-cos12-04.png#center "[[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]]")
 
 One of the wardrobes contains Stefania's clothes, and the other contains Dag's. The desk holds manifests recording wine shipments for the past century. A cursory examination of recent records reveals that almost all shipments are made to the following locations:
 
@@ -321,7 +323,7 @@ A secret door in the north corner of the east wall can be pushed open to gain ac
 
 #### Treasure
 
-Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[/5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
+Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[5. Mechanics\Bestiary\Npc\Strahd Von Zarovich (COS).md|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
 
 ### W18. Kitchen and Dining Room
 
@@ -339,7 +341,7 @@ The cupboard holds dishware and eating utensils. The pantry holds cooking ingred
 > Two pairs of bunk beds occupy this room. Against the west wall rest four identical footlockers.
 ^5c4
 
-Davian, Adrian, and Elvir sleep in the westernmost room. Claudiu and his two younger brothers sleep in the easternmost room, where a few toys are scattered about. One of the toys seems to resemble a child's wooden rocking horse, except that the horse is black with wild eyes and has painted orange flames where its mane, tail, and hooves should be. Carved into the wooden nightmare is the name "[[/5. Mechanics/Bestiary/Npc/Beucephalus (COS).md|Beucephalus]]" and, in smaller lettering, the slogan "Is No Fun, Is No Blinsky!"
+Davian, Adrian, and Elvir sleep in the westernmost room. Claudiu and his two younger brothers sleep in the easternmost room, where a few toys are scattered about. One of the toys seems to resemble a child's wooden rocking horse, except that the horse is black with wild eyes and has painted orange flames where its mane, tail, and hooves should be. Carved into the wooden nightmare is the name "[[5. Mechanics\Bestiary\Npc\Beucephalus (COS).md|Beucephalus]]" and, in smaller lettering, the slogan "Is No Fun, Is No Blinsky!"
 
 The footlockers contain clothing and personal belongings, but nothing of value.
 
@@ -352,7 +354,7 @@ The door to this room hangs open.
 > In this chamber are a desk, a chair, a tall wooden cabinet, and a strange contraption that takes up most of the northern end of the room.
 ^5c6
 
-Two [[/5. Mechanics/Bestiary/Plant/Vine Blight.md|vine blights]] and one [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
+Two [[5. Mechanics\Bestiary\Plant\Vine Blight.md|vine blights]] and one [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
 
 > [!quote] ...
 > 
@@ -363,7 +365,7 @@ The druid and the vine blights fight to the death.
 
 Inside the cabinet is a key hanging on a loop of twine. The key unlocks the padlock on the sliding doors between the veranda (area W5) and the fermentation vats (area W9).
 
-The contraption standing near the north wall is a printing press, which [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]] uses to make wine bottle labels. The ink is made from wine and stored in bottles in the cabinet, along with pieces of parchment and jars of glue.
+The contraption standing near the north wall is a printing press, which [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]] uses to make wine bottle labels. The ink is made from wine and stored in bottles in the cabinet, along with pieces of parchment and jars of glue.
 
 ## Special Events
 
@@ -371,9 +373,9 @@ You can use one or both of the following special events after the characters hav
 
 ### Wine Delivery
 
-After restoring the Martikovs to their rightful positions, the characters might ask them to deliver wine to the Blue Water Inn (chapter 5, area N2), the Vistani in the camp outside Vallaki (chapter 5, area N9), or the burgomaster of Krezk (chapter 8, area S2). A grateful Davian sets his sons to the task immediately. Adrian Martikov brings the three remaining wine barrels up from the cellar and sets them on the wagon while Elvir Martikov secures the horses. Adrian and Elvir make the delivery themselves, but they welcome the party's escort. If the characters don't volunteer for guard duty, [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]] suggests they go along with the wine wagon to ensure its safety.
+After restoring the Martikovs to their rightful positions, the characters might ask them to deliver wine to the Blue Water Inn (chapter 5, area N2), the Vistani in the camp outside Vallaki (chapter 5, area N9), or the burgomaster of Krezk (chapter 8, area S2). A grateful Davian sets his sons to the task immediately. Adrian Martikov brings the three remaining wine barrels up from the cellar and sets them on the wagon while Elvir Martikov secures the horses. Adrian and Elvir make the delivery themselves, but they welcome the party's escort. If the characters don't volunteer for guard duty, [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]] suggests they go along with the wine wagon to ensure its safety.
 
-If the characters escort the wagon, check for a random encounter once for each mile traveled. The wagon is also watched over by two [[/5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md|swarms of ravens]] that swoop down to attack anything that threatens the wagon or the characters.
+If the characters escort the wagon, check for a random encounter once for each mile traveled. The wagon is also watched over by two [[5. Mechanics\Bestiary\Beast\Swarm Of Ravens.md|swarms of ravens]] that swoop down to attack anything that threatens the wagon or the characters.
 
 #### Development
 
@@ -381,14 +383,14 @@ The characters can trade the six barrels of wine for a much-needed treasure in t
 
 ### Wintersplinter Attacks
 
-If the characters leave the winery and return at a later time before dealing with Wintersplinter (see the "Druids' Ritual" section in chapter 14), the enormous [[/5. Mechanics/Bestiary/Plant/Tree Blight (COS).md|tree blight]] (see appendix D) is sent from Yester Hill to ravage the vineyard and destroy the winery.
+If the characters leave the winery and return at a later time before dealing with Wintersplinter (see the "Druids' Ritual" section in chapter 14), the enormous [[5. Mechanics\Bestiary\Plant\Tree Blight (COS).md|tree blight]] (see appendix D) is sent from Yester Hill to ravage the vineyard and destroy the winery.
 
 The characters arrive to find the grapevines trampled and the winery in ruins. Wintersplinter's tracks are clearly visible on the trail to the south. Characters who follow the tracks catch up with Wintersplinter as the blight slowly makes its way back to Yester Hill.
 
-The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vallaki (chapter 5, area N2). [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]] is crushed by the loss of the winery, and morale in Vallaki sinks to an all-time low as word of the winery's destruction spreads through town.
+The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vallaki (chapter 5, area N2). [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]] is crushed by the loss of the winery, and morale in Vallaki sinks to an all-time low as word of the winery's destruction spreads through town.
 
 #### Development
 
-Three days after Wintersplinter's attack, [[/5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[/5. Mechanics/Bestiary/Construct/Scarecrow.md|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
+Three days after Wintersplinter's attack, [[5. Mechanics\Bestiary\Npc\Baba Lysaga (COS).md|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[5. Mechanics\Bestiary\Construct\Scarecrow.md|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
 
-![[115-cos12-05.png#center]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\115-cos12-05.png#center]]

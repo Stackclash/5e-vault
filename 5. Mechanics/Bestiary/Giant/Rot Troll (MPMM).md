@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
-statblock: inline
+aliases: ["Rot Troll"]
 ---
 # Rot Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
@@ -26,13 +25,11 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
-## Stat Block
-
 ```statblock
 "name": "Rot Troll"
 "size": "Large"
 "type": "giant"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "138"
 "hit_dice": "12d10 + 72"
@@ -43,37 +40,33 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "5"
 - !!int "8"
 - !!int "4"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "damage_immunities": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Giant"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the end of each of the troll's turns, each creature within 5 feet of\
-    \ it takes dice: 2d10|avg (2d10) necrotic damage, unless the troll has taken\
-    \ acid or fire damage since the end of its last turn."
+- "desc": "At the end of each of the troll's turns, each creature within 5 feet of\
+    \ it takes 11 (dice: 2d10|avg (2d10)) necrotic damage, unless the troll has\
+    \ taken acid or fire damage since the end of its last turn."
   "name": "Rancid Degeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll makes one Bite attack and two Claw attacks."
+- "desc": "The troll makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage plus dice: 3d10|avg\
-    \ (3d10) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage plus 16 (dice:\
+    \ 3d10|avg (3d10)) necrotic damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage plus dice: 2d6|avg (2d6)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) necrotic damage."
   "name": "Claws"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Giant/token/rot-troll.png"
+"image": "compendium/bestiary/giant/token/rot-troll.png"
 ```
 ^statblock
 

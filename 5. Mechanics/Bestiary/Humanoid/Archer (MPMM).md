@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Archer"]
 ---
 # Archer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*  
@@ -49,35 +48,31 @@ Some renowned archers and groups of archers are known for the special fletching 
 - !!int "11"
 - !!int "13"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "5"
-  "Acrobatics": !!int "6"
+  "Perception": "+5"
+  "Acrobatics": "+6"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The archer makes two Shortsword or Longbow attacks."
+- "desc": "The archer makes two Shortsword or Longbow attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
+    \ target. Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Longbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Immediately after making an attack roll or a damage roll with a ranged\
+- "desc": "Immediately after making an attack roll or a damage roll with a ranged\
     \ weapon, the archer can roll a dice: d10|avg (d10) and add the number rolled\
     \ to the total."
   "name": "Archer's Eye (3/Day)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/archer.png"
+"image": "compendium/bestiary/humanoid/token/archer.png"
 ```
 ^statblock
 

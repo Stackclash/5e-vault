@@ -12,4 +12,4 @@ aliases: ["Fine Wine (Bottle)"]
 - **Cost**: 10 gp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 158*
+*Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.*

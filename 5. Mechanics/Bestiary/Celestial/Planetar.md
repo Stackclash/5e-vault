@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/celestial
-statblock: inline
+aliases: ["Planetar"]
 ---
 # Planetar
-*Source: Monster Manual p. 17, Baldur's Gate: Descent Into Avernus, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 17. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -34,8 +33,6 @@ Planetars act as the weapons of the gods they serve, presenting a tangible repre
 
 Planetars are muscular and hairless and have opalescent green skin and white-feathered wings. They tower over most humanoids, brandishing immense swords with grace. Sometimes sent to aid powerful mortals on important tasks for good, planetars are especially fond of missions that involve battling fiends.
 
-## Stat Block
-
 ```statblock
 "name": "Planetar"
 "size": "Large"
@@ -51,52 +48,45 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 - !!int "19"
 - !!int "22"
 - !!int "25"
-"speed": "walk 40 ft., fly 120 ft."
+"speed": "40 ft., fly 120 ft."
 "saves":
-  "Charisma": !!int "12"
-  "Wisdom": !!int "11"
-  "Constitution": !!int "12"
+  "Charisma": "+12"
+  "Wisdom": "+11"
+  "Constitution": "+12"
 "skillsaves":
-  "Perception": !!int "11"
+  "Perception": "+11"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "charmed, exhaustion, frightened"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The planetar's spellcasting ability is Charisma (spell save DC 20). The\
+- "desc": "The planetar's spellcasting ability is Charisma (spell save DC 20). The\
     \ planetar can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Commune.md|commune]], [[/5. Mechanics/Spells/Control Weather.md|control weather]],\
-    \ [[/5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\n3/day each: [blade\
-    \ barrier](/compendium/spells/blade-barrier.md), [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
-    \ [[/5. Mechanics/Spells/Flame Strike.md|flame strike]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+    \nAt will: [[5. Mechanics\Spells\Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics\Spells\Invisibility.md|invisibility]] (self only)\n\n1/day each:\
+    \ [[5. Mechanics\Spells\Commune.md|commune]], [[5. Mechanics\Spells\Control Weather.md|control weather]],\
+    \ [[5. Mechanics\Spells\Insect Plague.md|insect plague]]\n\n3/day each: [blade\
+    \ barrier](compendium/spells/blade-barrier.md), [[5. Mechanics\Spells\Dispel Evil And Good.md|dispel evil and good]],\
+    \ [[5. Mechanics\Spells\Flame Strike.md|flame strike]], [[5. Mechanics\Spells\Raise Dead.md|raise dead]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
+- "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
     \ any weapon, the weapon deals an extra dice: 5d8|avg (5d8) radiant damage\
     \ (included in the attack)."
   "name": "Angelic Weapons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The planetar knows if it hears a lie."
+- "desc": "The planetar knows if it hears a lie."
   "name": "Divine Awareness"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The planetar has advantage on saving throws against spells and other magical\
+- "desc": "The planetar has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The planetar makes two melee attacks."
+- "desc": "The planetar makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 7|avg (4d6 + 7) slashing damage plus dice: 5d8|avg (5d8)\
-    \ radiant damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: 21 (dice: 4d6 + 7|avg (4d6 + 7)) slashing damage plus 22 (dice:\
+    \ 5d8|avg (5d8)) radiant damage."
   "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The planetar touches another creature. The target magically regains 30\
+- "desc": "The planetar touches another creature. The target magically regains 30\
     \ (dice: 6d8 + 3|avg (6d8 + 3)) hit points and is freed from any curse, disease,\
     \ poison, blindness, or deafness."
   "name": "Healing Touch (4/Day)"
@@ -105,6 +95,6 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 - "BGDIA"
 - "CRCotN"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Celestial/token/planetar.png"
+"image": "compendium/bestiary/celestial/token/planetar.png"
 ```
 ^statblock

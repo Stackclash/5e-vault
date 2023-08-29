@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/troglodyte
-statblock: inline
+aliases: ["Troglodyte"]
 ---
 # Troglodyte
-*Source: Monster Manual p. 290, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 290*  
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
 
@@ -30,8 +29,6 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 > Smells liek an orc's loincloth in here!
 
 
-## Stat Block
-
 ```statblock
 "name": "Troglodyte"
 "size": "Medium"
@@ -48,39 +45,33 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - !!int "6"
 - !!int "10"
 - !!int "6"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  "Stealth": "+2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troglodyte has advantage on Dexterity (Stealth) checks made to hide."
+- "desc": "The troglodyte has advantage on Dexterity (Stealth) checks made to hide."
   "name": "Chameleon Skin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
-    \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
+    \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ until the start of the creature's next turn. On a successful saving throw, the\
     \ creature is immune to the stench of all troglodytes for 1 hour."
   "name": "Stench"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
+- "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
+    \ well as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks\
     \ that rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troglodyte makes three attacks: one with its bite and two with its\
+- "desc": "The troglodyte makes three attacks: one with its bite and two with its\
     \ claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claw"
 "source":
 - "MM"
@@ -89,7 +80,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - "TftYP"
 - "WDH"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/troglodyte.png"
+"image": "compendium/bestiary/humanoid/token/troglodyte.png"
 ```
 ^statblock
 

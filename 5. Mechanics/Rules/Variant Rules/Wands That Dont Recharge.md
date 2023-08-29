@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Wands That Don't Recharge"]
 ---
 # Wands That Don't Recharge

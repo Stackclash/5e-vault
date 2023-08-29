@@ -12,4 +12,4 @@ aliases: ["Fine Clothes"]
 - **Cost**: 15 gp
 - **Weight**: 6.0 lbs.
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

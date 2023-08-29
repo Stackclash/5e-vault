@@ -5,6 +5,7 @@ aliases: ["Personality Traits"]
 ---
 # Personality Traits
 
+`dice: [[Personality Traits.md#^personality-traits]]`
 
 | Personality Traits |
 |--------------------|
@@ -18,9 +19,8 @@ aliases: ["Personality Traits"]
 | I am utterly serene, even in the face of disaster. |
 | When I set my mind to something, I follow through no matter what gets in my way. |
 | I misuse long words in an attempt to sound smarter. |
-| Nothing is more important than life, and I never leave anyone in danger. |
-| I'm convinced that people are always trying to steal my secrets. |
 | I'm oblivious to etiquette and social expectations. |
+| I'm convinced that people are always trying to steal my secrets. |
 | I get bitter if I'm not the center of attention. |
 | I'm rude to people who lack my commitment to hard work and fair play. |
 | I connect everything that happens to me to a grand, cosmic plan. |
@@ -33,20 +33,17 @@ aliases: ["Personality Traits"]
 | I'm haunted by memories of war. I can't get the images of violence out of my mind. |
 | I pocket anything I see that might have some value. |
 | I think anyone who's nice to me is hiding evil intent. |
-| I use polysyllabic words that convey the impression of great erudition. |
 | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace. |
 | Thinking is for other people. I prefer action. |
+| I use polysyllabic words that convey the impression of great erudition. |
 | I've lost too many friends, and I'm slow to make new ones. |
 | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. |
 | If someone is in trouble, I'm always ready to lend help. |
 | I enjoy being strong and like breaking things. |
-| It doesn't matter if the whole world's against me. I'll always do what I think is right. |
 | I fall in and out of love easily, and am always pursuing someone. |
-| I'm easily startled, but I'm not a coward. |
 | I ask a lot of questions. |
 | I have a crude sense of humor. |
 | If you do me an injury, I will crush you, ruin your name, and salt your fields. |
-| I never accept that I'm out of my depth. |
 | I know a story relevant to almost every situation. |
 | I feel far more comfortable around animals than people. |
 | I judge people by their actions, not their words. |
@@ -56,25 +53,24 @@ aliases: ["Personality Traits"]
 |  I'm driven by a wanderlust that led me away from home. |
 | Whenever I come to a new place, I collect local rumors and spread gossip. |
 | I bluntly say what others are hinting at or hiding. |
-| I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me. |
 | The first thing I do in a new place is note the locations of everything valuable—or where such things could be hidden. |
+| I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me. |
 | I'm willing to listen to every side of an argument before I make my own judgment. |
 | I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms. |
 | I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations. |
-| I work hard so that I can play hard when the work is done. |
 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |
+| I work hard so that I can play hard when the work is done. |
 | I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt. |
 | I'm full of witty aphorisms and have a proverb for every occasion. |
 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. |
-| I had an encounter that I believe gives me a special affinity with a supernatural creature or event. |
 | I'm a snob who looks down on those who can't appreciate fine art. |
 | I face problems head-on. A simple, direct solution is the best path to success. |
 | I am working on a grand philosophical theory and love sharing my ideas. |
-| There's nothing I like more than a good mystery. |
 | I quote (or misquote) sacred texts and proverbs in almost every situation. |
+| There's nothing I like more than a good mystery. |
 | I don't like to bathe. |
-| I am incredibly slow to trust. Those who seem the fairest often have the most to hide. |
 | Nothing can shake my optimistic attitude. |
+| I am incredibly slow to trust. Those who seem the fairest often have the most to hide. |
 | Nobody stays angry at me or around me for long, since I can defuse any amount of tension. |
 | My friends know they can rely on me, no matter what. |
 | I take great pains to always look my best and follow the latest fashions. |
@@ -82,28 +78,25 @@ aliases: ["Personality Traits"]
 | I see omens in every event and action. The gods try to speak to us, we just need to listen. |
 | I have a strong sense of fair play and always try to find the most equitable solution to arguments. |
 | I once ran twenty-five miles without stopping to warn to my clan of an approaching orc horde. I'd do it again if I had to. |
-| I'm quick to jump to extreme solutions. Why risk a lesser option not working? |
 | I'm a born gambler who can't resist taking a risk for a potential payoff. |
 | I lie about almost everything, even when there's no reason to. |
-| I must know the answer to every secret. No door remains unopened in my presence. |
 | The best way to get me to do something is to tell me I can't do it. |
-| I feel tremendous empathy for all who suffer. |
 | I like to talk at length about my profession. |
+| I feel tremendous empathy for all who suffer. |
 | I stretch the truth for the sake of a good story. |
 | I get bored easily. When am I going to get on with my destiny? |
 | I like to squeeze into small places where no one else can get to me. |
 | I enjoy sailing into new ports and making new friends over a flagon of ale. |
 | I'll settle for nothing less than perfection. |
 | I have a lesson for every situation, drawn from observing nature. |
-| I never pass up a friendly wager. |
 | I have a joke for every occasion, especially occasions where humor is inappropriate. |
-| I have a personal ritual, mantra, or relaxation method I use to deal with stress. |
+| I never pass up a friendly wager. |
+| dice: d8 | Personality Trait |
 | I've read every book in the world's greatest libraries—or I like to boast that I have. |
 | My language is as foul as an otyugh nest. |
 | I hide scraps of food and trinkets away in my pockets. |
-| I have morbid interests and a macabre aesthetic. |
-| I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment. |
 | I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me. |
+| I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment. |
 | My favor, once lost, is lost forever. |
 | I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others. |
 | I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist. |
@@ -112,16 +105,13 @@ aliases: ["Personality Traits"]
 | The common folk love me for my kindness and generosity. |
 | I love a good insult, even one directed at me. |
 | To me, a tavern brawl is a nice way to get to know a new city. |
-| I'm always polite and respectful. |
 | I blow up at the slightest insult. |
+| I'm always polite and respectful. |
 | No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses. |
 | I am horribly, horribly awkward in social situations. |
-| A signature piece of clothing or distinct weapon serves as an emblem of who I am. |
 | I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me. |
 | I always want to know how things work and what makes people tick. |
 | I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear. |
-| I let people underestimate me, revealing my full competency only to those close to me. |
 | I don't part with my money easily and will haggle tirelessly to get the best deal possible. |
 | I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them. |
-| I compulsively seek to collect trophies of my travels and victories. |
 ^personality-traits

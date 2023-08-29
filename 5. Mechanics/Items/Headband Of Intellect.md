@@ -12,10 +12,10 @@ aliases: ["Headband of Intellect"]
 # Headband of Intellect
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it.
 
-*Source: Dungeon Master's Guide p. 173*
+*Source: Dungeon Master's Guide p. 173. Available in the SRD and the Basic Rules.*

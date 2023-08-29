@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Strigoi"]
 ---
 # Strigoi
 *Source: Van Richten's Guide to Ravenloft p. 246*  
@@ -31,42 +30,37 @@ Many strigoi seek ways to return to their former existence while being compelled
 - !!int "11"
 - !!int "17"
 - !!int "10"
-"speed": "walk 30 ft., fly 40 ft."
+"speed": "30 ft., fly 40 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "5"
-  "Strength": !!int "5"
+  "Dexterity": "+4"
+  "Wisdom": "+5"
+  "Strength": "+5"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "5"
+  "Stealth": "+6"
+  "Perception": "+5"
 "damage_resistances": "necrotic"
 "condition_immunities": "charmed, frightened"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Common"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The strigoi can magically command any [[/5. Mechanics/Bestiary/Beast/Stirge.md|stirge]]\
+- "desc": "The strigoi can magically command any [[5. Mechanics\Bestiary\Beast\Stirge.md|stirge]]\
     \ within 120 feet of it, using a limited form of telepathy."
   "name": "Stirge Telepathy"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The strigoi makes one Claw attack and makes one Proboscis attack."
+- "desc": "The strigoi makes one Claw attack and makes one Proboscis attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage plus dice: 1d12|avg (1d12)\
-    \ acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage plus 6 (dice: 1d12|avg\
+    \ (1d12)) acid damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 3d6|avg\
-    \ (3d6) necrotic damage, and the strigoi regains hit points equal to the amount\
-    \ of necrotic damage dealt. A creature reduced to 0 hit points from this attack\
-    \ dies and leaves nothing behind except its skin and its equipment."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) necrotic damage, and the strigoi regains hit points equal\
+    \ to the amount of necrotic damage dealt. A creature reduced to 0 hit points from\
+    \ this attack dies and leaves nothing behind except its skin and its equipment."
   "name": "Proboscis"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The strigoi magically summons dice: 1d4 + 2|avg (1d4 + 2) [[/5. Mechanics/Bestiary/Beast/Stirge.md|stirges]]\
+- "desc": "The strigoi magically summons dice: 1d4 + 2|avg (1d4 + 2) [[5. Mechanics\Bestiary\Beast\Stirge.md|stirges]]\
     \ (see their entry in the Monster Manual) in unoccupied spaces it can see within\
     \ 30 feet of it. The stirges are under the strigoi's control and act immediately\
     \ after the strigoi in the initiative order. The stirges disappear after 1 hour,\
@@ -74,6 +68,6 @@ Many strigoi seek ways to return to their former existence while being compelled
   "name": "Ravenous Children (1/Day)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/strigoi.png"
+"image": "compendium/bestiary/monstrosity/token/strigoi.png"
 ```
 ^statblock

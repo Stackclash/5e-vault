@@ -9,7 +9,7 @@ tags:
 aliases: ["Sune"]
 ---
 # Sune
-*Source: Player's Handbook p. 294* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: Life, Light

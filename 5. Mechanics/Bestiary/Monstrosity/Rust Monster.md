@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Rust Monster"]
 ---
 # Rust Monster
-*Source: Monster Manual p. 262, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 262. Available in the SRD.*  
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
 
@@ -32,8 +31,6 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 > Destroyed me hammer and me axe, it did. Put me faith to the test that day, it did.
 
 
-## Stat Block
-
 ```statblock
 "name": "Rust Monster"
 "size": "Medium"
@@ -49,29 +46,25 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 - !!int "2"
 - !!int "13"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The rust monster can pinpoint, by scent, the location of ferrous metal\
+- "desc": "The rust monster can pinpoint, by scent, the location of ferrous metal\
     \ within 30 feet of it."
   "name": "Iron Scent"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any nonmagical weapon made of metal that hits the rust monster corrodes.\
+- "desc": "Any nonmagical weapon made of metal that hits the rust monster corrodes.\
     \ After dealing damage, the weapon takes a permanent and cumulative −1 penalty\
     \ to damage rolls. If its penalty drops to −5, the weapon is destroyed. Non magical\
     \ ammunition made of metal that hits the rust monster is destroyed after dealing\
     \ damage."
   "name": "Rust Metal"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The rust monster corrodes a nonmagical ferrous metal object it can see\
+- "desc": "The rust monster corrodes a nonmagical ferrous metal object it can see\
     \ within 5 feet of it. If the object isn't being worn or carried, the touch destroys\
     \ a 1-foot cube of it. If the object is being worn or carried by a creature, the\
     \ creature can make a DC 11 Dexterity saving throw to avoid the rust monster's\
@@ -90,7 +83,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 - "IMR"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/rust-monster.png"
+"image": "compendium/bestiary/monstrosity/token/rust-monster.png"
 ```
 ^statblock
 

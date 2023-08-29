@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
-statblock: inline
+aliases: ["Yuan-ti Malison (Type 2)"]
 ---
 # Yuan-ti Malison (Type 2)
-*Source: Monster Manual p. 309, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation*  
+*Source: Monster Manual p. 309*  
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
 
@@ -58,8 +57,6 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
 
 
-## Stat Block
-
 ```statblock
 "name": "Yuan-ti Malison (Type 2)"
 "size": "Medium"
@@ -76,45 +73,39 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - !!int "14"
 - !!int "12"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
+  "Deception": "+5"
+  "Stealth": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
+- "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
-    \ only)\n\n3/day: [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \nAt will: [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n3/day: [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
+- "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\
     \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."
   "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has one of the following types:\n\n- Type 1. Human body\
+- "desc": "The yuan-ti has one of the following types:\n\n- Type 1. Human body\
     \ with snake head  \n- Type 2. Human head and body with snakes for arms  \n\
     - Type 3. Human head and upper body with a serpentine lower body instead of\
     \ legs  "
   "name": "Malison Type"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes two bite attacks using its snake arms."
+- "desc": "The yuan-ti makes two bite attacks using its snake arms."
   "name": "Multiattack (Yuan-ti Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg (2d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) poison damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -122,7 +113,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "RoT"
 - "SKT"
 - "ToA"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-malison-type-2.png"
+"image": "compendium/bestiary/monstrosity/token/yuan-ti-malison-type-2.png"
 ```
 ^statblock
 

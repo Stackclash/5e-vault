@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/undead
-statblock: inline
+aliases: ["Warhorse Skeleton"]
 ---
 # Warhorse Skeleton
-*Source: Monster Manual p. 273, Curse of Strahd, Storm King's Thunder, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 273, Curse of Strahd. Available in the SRD.*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -36,8 +35,6 @@ When skeletons encounter living creatures, the necromantic energy that drives th
 
 A skeleton doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Warhorse Skeleton"
 "size": "Large"
@@ -53,7 +50,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 - !!int "2"
 - !!int "8"
 - !!int "5"
-"speed": "walk 60 ft."
+"speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, poisoned"
@@ -61,9 +58,8 @@ A skeleton doesn't require air, food, drink, or sleep.
 "languages": ""
 "cr": "1/2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"
@@ -71,6 +67,6 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "SKT"
 - "CM"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.png"
+"image": "compendium/bestiary/undead/token/warhorse-skeleton.png"
 ```
 ^statblock

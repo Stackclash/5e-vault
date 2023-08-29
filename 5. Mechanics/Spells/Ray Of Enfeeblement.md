@@ -14,6 +14,7 @@ tags:
 aliases: ["Ray of Enfeeblement"]
 ---
 # Ray of Enfeeblement
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -25,6 +26,6 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/5. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Cleric Death Domain.md|Cleric (Death Domain)]], [[5. Mechanics\Classes\Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 271
+*Source: Player's Handbook p. 271. Available in the SRD.*

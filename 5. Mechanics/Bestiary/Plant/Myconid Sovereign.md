@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/plant
-statblock: inline
+aliases: ["Myconid Sovereign"]
 ---
 # Myconid Sovereign
-*Source: Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Infernal Machine Rebuild, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault*  
+*Source: Monster Manual p. 232*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
@@ -22,8 +21,6 @@ A meld is a form of communal meditation that allows myconids to transcend their 
 ## Myconid Reproduction
 
 Like other fungi, myconids reproduce by mundane sporing. They carefully control their spores' release to avoid overpopulation.
-
-## Stat Block
 
 ```statblock
 "name": "Myconid Sovereign"
@@ -40,53 +37,45 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - !!int "13"
 - !!int "15"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the myconid takes damage, all other myconids within 240 feet of it\
+- "desc": "When the myconid takes damage, all other myconids within 240 feet of it\
     \ can sense its pain."
   "name": "Distress Spores"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the myconid has disadvantage on ability checks, attack\
+- "desc": "While in sunlight, the myconid has disadvantage on ability checks, attack\
     \ rolls, and saving throws. The myconid dies if it spends more than 1 hour in\
     \ direct sunlight."
   "name": "Sun Sickness"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The myconid uses either its Hallucination Spores or its Pacifying Spores,\
+- "desc": "The myconid uses either its Hallucination Spores or its Pacifying Spores,\
     \ then makes a fist attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d4 + 1|avg (3d4 + 1) bludgeoning damage plus dice: 3d4|avg\
-    \ (3d4) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 3d4 + 1|avg (3d4 + 1)) bludgeoning damage plus 7 (dice:\
+    \ 3d4|avg (3d4)) poison damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
+- "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
     \ within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse\
     \ rises as a spore servant. The corpse stays animated for dice: 1d4 + 1|avg\
     \ (1d4 + 1) weeks or until destroyed, and it can't be animated again in this\
     \ way."
   "name": "Animating Spores (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 12 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
-    \ is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] while it hallucinates.\
+- "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
+    \ The target must succeed on a DC 12 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. The [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] while it hallucinates.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Hallucination Spores"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 12 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
+    \ The target must succeed on a DC 12 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Pacifying Spores"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 30-foot radius of spores extends from the myconid. These spores can go\
+- "desc": "A 30-foot radius of spores extends from the myconid. These spores can go\
     \ around corners and affect only creatures with an Intelligence of 2 or higher\
     \ that aren't undead, constructs, or elementals. Affected creatures can communicate\
     \ telepathically with one another while they are within 30 feet of each other.\
@@ -99,7 +88,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - "IMR"
 - "IDRotF"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Plant/token/myconid-sovereign.png"
+"image": "compendium/bestiary/plant/token/myconid-sovereign.png"
 ```
 ^statblock
 

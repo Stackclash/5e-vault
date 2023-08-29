@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Ettercap"]
 ---
 # Ettercap
-*Source: Monster Manual p. 131, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 131. Available in the SRD.*  
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
 
@@ -27,8 +26,6 @@ Though they dwell in the wilds, ettercaps have no desire to live in harmony with
 
 Ettercaps are natural enemies of fey creatures. The foul creatures set web snares to catch sprites and pixies, which they hungrily devour, and will encase a dryad's tree in webbing in a vain attempt to trap the dryad. Otherwise timid fey will sometimes approach outsiders for help in dealing with an ettercap infestation, being ill-equipped to deal with the malevolent creatures themselves.
 
-## Stat Block
-
 ```statblock
 "name": "Ettercap"
 "size": "Medium"
@@ -44,46 +41,39 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 - !!int "7"
 - !!int "12"
 - !!int "8"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
-  "Survival": !!int "3"
+  "Stealth": "+4"
+  "Perception": "+3"
+  "Survival": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettercap can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The ettercap can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in contact with a web, the ettercap knows the exact location of any\
+- "desc": "While in contact with a web, the ettercap knows the exact location of any\
     \ other creature in contact with the same web."
   "name": "Web Sense"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettercap ignores movement restrictions caused by webbing."
+- "desc": "The ettercap ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ettercap makes two attacks: one with its bite and one with its claws."
+- "desc": "The ettercap makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 1d8|avg (1d8)\
-    \ poison damage. The target must succeed on a DC 11 Constitution saving throw\
-    \ or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. The\
-    \ creature can repeat the saving throw at the end of each of its turns, ending\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage plus 4 (dice: 1d8|avg\
+    \ (1d8)) poison damage. The target must succeed on a DC 11 Constitution saving\
+    \ throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] for 1 minute.\
+    \ The creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/60 ft., one\
-    \ Large or smaller creature. Hit: The creature is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by webbing. As an action, the [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/60 ft., one\
+    \ Large or smaller creature. Hit: The creature is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by webbing. As an action, the [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ creature can make a DC 11 Strength check, escaping from the webbing on a success.\
     \ The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points,\
     \ is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage."
@@ -100,7 +90,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 - "EGW"
 - "CM"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/ettercap.png"
+"image": "compendium/bestiary/monstrosity/token/ettercap.png"
 ```
 ^statblock
 

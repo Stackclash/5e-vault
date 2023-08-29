@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -11,10 +10,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Poisonous Snake"]
 ---
 # Giant Poisonous Snake
-*Source: Monster Manual p. 327, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 327, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Poisonous Snake"
@@ -31,18 +30,17 @@ statblock: inline
 - !!int "2"
 - !!int "10"
 - !!int "3"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "blindsight 10 ft., passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) piercing damage, and the target must make\
-    \ a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6)) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Bite"
 "source":
 - "MM"
@@ -53,7 +51,7 @@ statblock: inline
 - "MOT"
 - "TCE"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-poisonous-snake.png"
+"image": "compendium/bestiary/beast/token/giant-poisonous-snake.png"
 ```
 ^statblock
 

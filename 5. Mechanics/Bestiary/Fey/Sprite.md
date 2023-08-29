@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
-statblock: inline
+aliases: ["Sprite"]
 ---
 # Sprite
-*Source: Monster Manual p. 283, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Infernal Machine Rebuild, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault*  
+*Source: Monster Manual p. 283. Available in the SRD.*  
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
 
@@ -36,8 +35,6 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars. An' when I stood up an' looked around, both the tree an' the wee village were gone.
 
 
-## Stat Block
-
 ```statblock
 "name": "Sprite"
 "size": "Tiny"
@@ -53,39 +50,34 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - !!int "14"
 - !!int "13"
 - !!int "11"
-"speed": "walk 10 ft., fly 40 ft."
+"speed": "10 ft., fly 40 ft."
 "skillsaves":
-  "Stealth": !!int "8"
-  "Perception": !!int "3"
+  "Stealth": "+8"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 40/160 ft., one\
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 40/160 ft., one\
     \ target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution\
-    \ saving throw or become [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
-    \ 1 minute. If its saving throw result is 5 or lower, the [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ target falls [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for the\
-    \ same duration, or until it takes damage or another creature takes an action\
+    \ saving throw or become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. If its saving throw result is 5 or lower, the [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ target falls [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for\
+    \ the same duration, or until it takes damage or another creature takes an action\
     \ to shake it awake."
   "name": "Shortbow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sprite touches a creature and magically knows the creature's current\
+- "desc": "The sprite touches a creature and magically knows the creature's current\
     \ emotional state. If the target fails a DC 10 Charisma saving throw, the sprite\
     \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
     \ fail the saving throw."
   "name": "Heart Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sprite magically turns [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until it attacks or casts a spell, or until its [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ ends (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell).\
-    \ Any equipment the sprite wears or carries is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ with it."
+- "desc": "The sprite magically turns [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
+    \ until it attacks or casts a spell, or until its [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ ends (as if concentrating on a spell). Any equipment the sprite wears or carries\
+    \ is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "MM"
@@ -98,7 +90,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - "CM"
 - "WBtW"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Fey/token/sprite.png"
+"image": "compendium/bestiary/fey/token/sprite.png"
 ```
 ^statblock
 

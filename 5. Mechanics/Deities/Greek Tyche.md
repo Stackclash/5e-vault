@@ -8,7 +8,7 @@ tags:
 aliases: ["Tyche"]
 ---
 # Tyche
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Neutral
 - **Domains**: Trickery

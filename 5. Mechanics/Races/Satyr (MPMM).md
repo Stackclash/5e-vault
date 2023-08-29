@@ -10,7 +10,7 @@ aliases: ["Satyr"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 29*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 35 ft.
 
@@ -34,7 +34,7 @@ Whenever you make a long jump or a high jump, you can roll a `dice: d8` (`d8`) a
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [[5. Mechanics/Rules/Skills.md#Performance|Performance]] and [[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]] skills, and you have proficiency with one musical instrument of your choice.
+As an embodiment of revelry, you have proficiency in the [[\5. Mechanics\Rules\Skills.md#Performance|Performance]] and [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]] skills, and you have proficiency with one musical instrument of your choice.
 
 ## Description
 

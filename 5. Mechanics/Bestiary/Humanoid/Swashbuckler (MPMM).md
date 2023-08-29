@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Swashbuckler"]
 ---
 # Swashbuckler
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*  
@@ -18,8 +17,8 @@ Many swashbucklers have a signature flourish with which they embellish their act
 
 **Swashbuckler Flourishes**
 
-| `dice: d8` (`d8`) | Flourish |
-|----------|------------|----------|
+| `dice: d8\|avg` (`d8`) | Flourish |
+|-----------|------------|----------|
 | 1 | Winks and flashes a charming grin |
 | 2 | Bows theatrically |
 | 3 | Constantly flips their dagger |
@@ -45,40 +44,36 @@ Many swashbucklers have a signature flourish with which they embellish their act
 - !!int "14"
 - !!int "11"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Acrobatics": !!int "8"
-  "Persuasion": !!int "6"
+  "Athletics": "+5"
+  "Acrobatics": "+8"
+  "Persuasion": "+6"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the swashbuckler is wearing light or no armor and wielding no [[/5. Mechanics/Items/Shield.md|shield]],\
+- "desc": "While the swashbuckler is wearing light or no armor and wielding no [[5. Mechanics\Items\Shield.md|shield]],\
     \ its AC includes its Charisma modifier."
   "name": "Suave Defense"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swashbuckler makes one Dagger attack and two Rapier attacks."
+- "desc": "The swashbuckler makes one Dagger attack and two Rapier attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 4|avg (1d4 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) piercing\
     \ damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Rapier"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swashbuckler takes the Dash or Disengage action."
+- "desc": "The swashbuckler takes the [[\5. Mechanics\Rules\Actions.md#Dash|Dash]] or\
+    \ [[\5. Mechanics\Rules\Actions.md#Disengage|Disengage]] action."
   "name": "Lightfooted"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/swashbuckler.png"
+"image": "compendium/bestiary/humanoid/token/swashbuckler.png"
 ```
 ^statblock
 

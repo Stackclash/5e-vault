@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/coastal
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Crab"]
 ---
 # Crab
-*Source: Monster Manual p. 320, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Crab"
@@ -26,19 +25,17 @@ statblock: inline
 - !!int "1"
 - !!int "8"
 - !!int "2"
-"speed": "walk 20 ft., swim 20 ft."
+"speed": "20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  "Stealth": "+2"
 "senses": "blindsight 30 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The crab can breathe air and water."
+- "desc": "The crab can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
     \ Hit: 1 bludgeoning damage."
   "name": "Claw"
 "source":
@@ -46,7 +43,7 @@ statblock: inline
 - "ToA"
 - "GoS"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Beast/token/crab.png"
+"image": "compendium/bestiary/beast/token/crab.png"
 ```
 ^statblock
 

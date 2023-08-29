@@ -1,20 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/cos
 aliases: ["Chapter 1: Into the Mists"]
 ---
 # Chapter 1: Into the Mists
 *Source: Curse of Strahd, p. 9* 
 
-Eerie mists surround Barovia and bind its inhabitants there. This chapter gives you the information you need to prepare for the adventurers' journey into those mists. The chapter first outlines the history and goals of Count [[/5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]] so that you are prepared for what awaits the characters. In the "Fortunes of Ravenloft" section, the chapter walks you through the tarokka card reading that helps set the stage for the adventure's action, and the chapter closes with adventure hooks that you can use to draw the characters into the horror of Barovia.
+Eerie mists surround Barovia and bind its inhabitants there. This chapter gives you the information you need to prepare for the adventurers' journey into those mists. The chapter first outlines the history and goals of Count [[5. Mechanics\Bestiary\Npc\Strahd Von Zarovich (COS).md|Strahd von Zarovich]] so that you are prepared for what awaits the characters. In the "Fortunes of Ravenloft" section, the chapter walks you through the tarokka card reading that helps set the stage for the adventure's action, and the chapter closes with adventure hooks that you can use to draw the characters into the horror of Barovia.
 
 ## Strahd von Zarovich
 
-[[/5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]], a vampire and wizard, has the statistics presented in appendix D. Although he can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading later in this chapter, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
+[[5. Mechanics\Bestiary\Npc\Strahd Von Zarovich (COS).md|Strahd von Zarovich]], a vampire and wizard, has the statistics presented in appendix D. Although he can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading later in this chapter, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
 
 ### The Vampire's History
 
-In life, [[/5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]] was a count, a prince, a soldier, and a conqueror. After the death of his father, King Barov, Strahd waged long, bloody wars against his family's enemies. He and his army cornered the last of these enemies in a remote mountain valley before slaying them all. Strahd named the valley Barovia, after his deceased father, and was so struck by its scenic beauty that he decided to settle there.
+In life, [[5. Mechanics\Bestiary\Npc\Strahd Von Zarovich (COS).md|Strahd von Zarovich]] was a count, a prince, a soldier, and a conqueror. After the death of his father, King Barov, Strahd waged long, bloody wars against his family's enemies. He and his army cornered the last of these enemies in a remote mountain valley before slaying them all. Strahd named the valley Barovia, after his deceased father, and was so struck by its scenic beauty that he decided to settle there.
 
 Queen Ravenovia lamented the death of Barov and was fearful of Strahd. War had made him cold and arrogant. She kept her younger son, Sergei, away from the battlefield. Strahd envied the love and attention his mother visited upon his brother, so in Barovia he remained. Peace made Strahd restless, and he began to feel like his best years were behind him. Unwilling to go the way of his father, Strahd studied magic and forged a pact with the Dark Powers of the Shadowfell in return for the promise of immortality.
 
@@ -22,7 +24,7 @@ Strahd scoured his conquered lands for wizards and artisans, brought them to the
 
 Strahd's attention soon turned to Tatyana, a young Barovian woman of fine lineage and remarkable beauty. Strahd believed her to be a worthy bride, and he lavished Tatyana with gifts and attention. Despite Strahd's efforts, she instead fell in love with the younger, warmer Sergei. Strahd's pride prevented him from standing in the way of the young couple's love until the day of Sergei and Tatyana's wedding, when Strahd gazed into a mirror and realized he had been a fool. Strahd murdered Sergei and drank his blood, sealing the evil pact between Strahd and the Dark Powers. He then chased Sergei's bride-to-be through the gardens, determined to make her accept and love him. Tatyana hurled herself off a castle balcony to escape Strahd's pursuit, plunging to her death. Treacherous castle guards, seizing the opportunity to rid the world of Strahd forever, shot their master with arrows.
 
-![[000-cos01-01.png#center]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\000-cos01-01.png#center]]
 
 But Strahd did not die. The Dark Powers honored the pact they had made. The sky went black as Strahd turned on the guards, his eyes blazing red. He had become a vampire.
 
@@ -44,7 +46,7 @@ Strahd has the following goals in the adventure.
 
 #### Turn Ireena Kolyana
 
-Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed the young woman [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]] in the village of Barovia and felt extreme déjà vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
+Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed the young woman [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]] in the village of Barovia and felt extreme déjà vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
 
 Strahd's evil courtship has led him to visit Ireena twice. On both occasions, he charmed his way into her home—the house of her adopted father, the burgomaster of the village of Barovia—and drank her blood. He intends to kill Ireena during their next meeting and turn her into his vampire spawn consort.
 
@@ -52,13 +54,13 @@ Chapter 3 gives details about Ireena and where to find her in the village of Bar
 
 #### Find Rudolph van Richten
 
-Although he is usually focused on making [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]] his bride, Strahd has been distracted by reports that a legendary vampire hunter named Rudolph van Richten has come to Barovia. It takes more than one old man with a death wish to frighten Strahd; nevertheless, the vampire has his spies searching Barovia for van Richten. Strahd would like very much to meet the old vampire hunter, lock him in the dungeons of Castle Ravenloft, and slowly break his spirit.
+Although he is usually focused on making [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]] his bride, Strahd has been distracted by reports that a legendary vampire hunter named Rudolph van Richten has come to Barovia. It takes more than one old man with a death wish to frighten Strahd; nevertheless, the vampire has his spies searching Barovia for van Richten. Strahd would like very much to meet the old vampire hunter, lock him in the dungeons of Castle Ravenloft, and slowly break his spirit.
 
 Chapter 5 describes the town of Vallaki, where van Richten currently resides incognito.
 
 #### Search for a Successor or Consort
 
-Strahd can sense the arrival of new blood in his domain. When newcomers enter Barovia, he shifts his attention from [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]] and van Richten to his new guests so that he can determine whether any of them is worthy to be his successor or consort. (Eventually, he decides that none of them can replace him as master of Barovia, but he doesn't arrive at this conclusion immediately.)
+Strahd can sense the arrival of new blood in his domain. When newcomers enter Barovia, he shifts his attention from [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]] and van Richten to his new guests so that he can determine whether any of them is worthy to be his successor or consort. (Eventually, he decides that none of them can replace him as master of Barovia, but he doesn't arrive at this conclusion immediately.)
 
 Strahd pays close attention to adventurers who are charismatic and arrogant, like himself. He focuses his attacks on them, to see how much they can withstand. If they crumble easily, he loses interest in them. If they exhibit great fortitude and defiance, his interest is piqued—even more so if the character displays uncommon knowledge or beauty. Such a person might not be worthy to succeed him, but the man or woman might provide amusement to Strahd as a new possession.
 
@@ -68,7 +70,7 @@ Strahd believes his soul is lost to evil. He feels neither pity nor remorse, nei
 
 When he was alive, Strahd could admit to letting his emotions get the better of him from time to time. Now, as a vampire, he is more monster than man, with barely a hint of emotion left. He is above the concerns of the living. The only event that occasionally haunts him is the death of Tatyana, but his view of the past is bereft of romance or regret. In his mind, her death couldn't have been prevented, and what is done cannot be undone.
 
-In life, Strahd lived to conquer. In undeath, he conquers still—not realms, but people, driving good souls to become corrupt and destroying those who won't yield. Characters who try to appeal to Strahd's humanity will be gravely disappointed, because there is little humanity left in him. If they ask Strahd why he's preying on [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]], he tells them that Ireena's body is the host for Tatyana's soul, and Tatyana's soul belongs to him.
+In life, Strahd lived to conquer. In undeath, he conquers still—not realms, but people, driving good souls to become corrupt and destroying those who won't yield. Characters who try to appeal to Strahd's humanity will be gravely disappointed, because there is little humanity left in him. If they ask Strahd why he's preying on [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]], he tells them that Ireena's body is the host for Tatyana's soul, and Tatyana's soul belongs to him.
 
 Strahd can be seductive and subtle when he chooses to be, especially if a person is clever or attractive. Men and women of beauty and cunning amuse Strahd for a time—playthings to possess or discard as he desires.
 
@@ -87,12 +89,12 @@ These encounters are meant to test the characters, not kill them. After a few ro
 The events of this adventure are part of dark twists of fate that a fortuneteller can discern with the cards of a tarokka deck. Before you run this adventure, you must draw cards from a deck to determine the following elements of the adventure:
 
 - Strahd's location inside Castle Ravenloft  
-- The placement of three important treasures that can be used against Strahd—the [[/5. Mechanics/Items/Tome Of Strahd (COS).md|Tome of Strahd]], the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]], and the [[/5. Mechanics/Items/Sunsword (COS).md|Sunsword]]  
+- The placement of three important treasures that can be used against Strahd—the [[5. Mechanics\Items\Tome Of Strahd (COS).md|Tome of Strahd]], the [[5. Mechanics\Items\Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]], and the [[5. Mechanics\Items\Sunsword (COS).md|Sunsword]]  
 - The identity of a powerful ally in the fight against Strahd  
 
 This card reading can make the adventure different each time you play it.
 
-At some point during the adventure, the characters are likely to meet [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]], the old Vistani seer (see chapter 2, area G), who can perform the same card reading for them. Characters can also have [[/5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]] perform a card reading for them, provided she has her deck of tarokka cards. Ezmerelda's cards are hidden in her wagon (chapter 11, area V1).
+At some point during the adventure, the characters are likely to meet [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]], the old Vistani seer (see chapter 2, area G), who can perform the same card reading for them. Characters can also have [[5. Mechanics\Bestiary\Npc\Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]] perform a card reading for them, provided she has her deck of tarokka cards. Ezmerelda's cards are hidden in her wagon (chapter 11, area V1).
 
 Appendix E shows all the cards of the tarokka deck and summarizes their symbolic meanings.
 
@@ -131,7 +133,7 @@ When you perform a card reading before running the adventure, write down the res
 
 When you're ready to begin the card reading, remove the fourteen cards with the crown icon (the high deck) and shuffle them. Then shuffle the remaining cards (the common deck), keeping the two decks separate. Draw the top three cards from the common deck and lay them face down in the 1, 2, and 3 positions. Then draw the top two cards from the high deck and lay them face down in the 4 and 5 positions, as shown below:
 
-![[001-cos01-01a.png#center]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\001-cos01-01a.png#center]]
 
 Once all five cards are drawn and placed face down, follow the instructions below for each card in order.
 
@@ -144,7 +146,7 @@ Flip over card 1, and read:
 > This card tells of history. Knowledge of the ancient will help you better understand your enemy.
 ^023
 
-This card determines the location of the [[/5. Mechanics/Items/Tome Of Strahd (COS).md|Tome of Strahd]] (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+This card determines the location of the [[5. Mechanics\Items\Tome Of Strahd (COS).md|Tome of Strahd]] (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
 
 #### 2. The Holy Symbol of Ravenkind
 
@@ -155,7 +157,7 @@ Flip over card 2, and read:
 > This card tells of a powerful force for good and protection, a holy symbol of great hope.
 ^025
 
-This card determines the location of the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]] (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+This card determines the location of the [[5. Mechanics\Items\Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]] (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
 
 #### 3. The Sunsword
 
@@ -166,7 +168,7 @@ Flip over card 3, and read:
 > This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.
 ^027
 
-This card determines the location of the [[/5. Mechanics/Items/Sunsword (COS).md|Sunsword]] (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+This card determines the location of the [[5. Mechanics\Items\Sunsword (COS).md|Sunsword]] (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
 
 #### 4. Strahd's Enemy
 
@@ -192,7 +194,7 @@ The revealed card determines where Strahd can always be found. Read the boxed te
 
 ### Treasure Locations
 
-The cards of the common deck determine the locations of the [[/5. Mechanics/Items/Tome Of Strahd (COS).md|Tome of Strahd]] (card 1), the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]] (card 2), and the [[/5. Mechanics/Items/Sunsword (COS).md|Sunsword]] (card 3).
+The cards of the common deck determine the locations of the [[5. Mechanics\Items\Tome Of Strahd (COS).md|Tome of Strahd]] (card 1), the [[5. Mechanics\Items\Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]] (card 2), and the [[5. Mechanics\Items\Sunsword (COS).md|Sunsword]] (card 3).
 
 #### Swords (Spades)
 
@@ -203,7 +205,7 @@ The cards of the common deck determine the locations of the [[/5. Mechanics/Item
 > The treasure lies in a dragon's house, in hands once clean and now corrupted.
 ^02e
 
-The treasure is in the possession of [[/5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md|Vladimir Horngaard]] in Argynvostholt (chapter 7, area Q36).
+The treasure is in the possession of [[5. Mechanics\Bestiary\Npc\Vladimir Horngaard (COS).md|Vladimir Horngaard]] in Argynvostholt (chapter 7, area Q36).
 
 > [!quote] ...
 > 
@@ -304,7 +306,7 @@ The treasure lies in Castle Ravenloft's north tower peak (chapter 4, area K60).
 > Look to the one who sees all. The treasure is hidden in her camp.
 ^03a
 
-The treasure lies in [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]]'s encampment (chapter 2, area G). If she is the one performing the card reading, she says, "I think the treasure is under my very nose!"
+The treasure lies in [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]]'s encampment (chapter 2, area G). If she is the one performing the card reading, she says, "I think the treasure is under my very nose!"
 
 > [!quote] ...
 > 
@@ -349,7 +351,7 @@ The treasure is hidden in the crypt of Gralmore Nimblenobs (chapter 4, area K84,
 > A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 ^03f
 
-The treasure lies in [[/5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]]'s carnival wagon (chapter 5, area N5).
+The treasure lies in [[5. Mechanics\Bestiary\Npc\Rictavio (COS).md|Rictavio]]'s carnival wagon (chapter 5, area N5).
 
 > [!quote] ...
 > 
@@ -367,7 +369,7 @@ The treasure lies in Castle Ravenloft's study (chapter 4, area K37).
 > I see a dead village, drowned by a river, ruled by one who has brought great evil into the world.
 ^041
 
-The treasure is in [[/5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]]'s hut (chapter 10, area U3).
+The treasure is in [[5. Mechanics\Bestiary\Npc\Baba Lysaga (COS).md|Baba Lysaga]]'s hut (chapter 10, area U3).
 
 > [!quote] ...
 > 
@@ -450,7 +452,7 @@ The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2
 > The Vistani have what you seek. A missing child holds the key to the treasure's release.
 ^04b
 
-The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to [[/5. Mechanics/Bestiary/Npc/Arabelle (COS).md|Arabelle]] (see chapter 2, area L).
+The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to [[5. Mechanics\Bestiary\Npc\Arabelle (COS).md|Arabelle]] (see chapter 2, area L).
 
 > [!quote] ...
 > 
@@ -581,9 +583,9 @@ Each of the NPCs described in this section has a role to play in the adventure, 
 > Look for an entertaining man with a monkey. This man is more than he seems.
 ^05c
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] (see appendix D), who can be found at the Blue Water Inn in Vallaki (chapter 5, area N2). Normally reluctant to accompany the characters, [[/5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] changes his tune if the characters tell him about the card reading. He sheds his disguise and introduces himself as Dr. Rudolph van Richten.
+This card refers to [[5. Mechanics\Bestiary\Npc\Rictavio (COS).md|Rictavio]] (see appendix D), who can be found at the Blue Water Inn in Vallaki (chapter 5, area N2). Normally reluctant to accompany the characters, [[5. Mechanics\Bestiary\Npc\Rictavio (COS).md|Rictavio]] changes his tune if the characters tell him about the card reading. He sheds his disguise and introduces himself as Dr. Rudolph van Richten.
 
-The characters might think that [[/5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md|Gadof Blinsky]], the toymaker of Vallaki (area N7), is the figure they seek, because he has a pet monkey. If they speak to him about this possibility, Blinsky jokes that he and the monkey are "old friends," but if the characters ask him to come with them to fight Strahd, he politely declines. If the characters tell him about the tarokka reading, Blinsky admits that he acquired the monkey from a half-elf carnival ringmaster named [[/5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]].
+The characters might think that [[5. Mechanics\Bestiary\Npc\Gadof Blinsky (COS).md|Gadof Blinsky]], the toymaker of Vallaki (area N7), is the figure they seek, because he has a pet monkey. If they speak to him about this possibility, Blinsky jokes that he and the monkey are "old friends," but if the characters ask him to come with them to fight Strahd, he politely declines. If the characters tell him about the tarokka reading, Blinsky admits that he acquired the monkey from a half-elf carnival ringmaster named [[5. Mechanics\Bestiary\Npc\Rictavio (COS).md|Rictavio]].
 
 > [!quote] ...
 > 
@@ -592,7 +594,7 @@ The characters might think that [[/5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS)
 > A werewolf holds a secret hatred for your enemy. Use her hatred to your advantage.
 ^05d
 
-This card refers to the werewolf [[/5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md|Zuleika Toranescu]] (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [[/5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]].
+This card refers to the werewolf [[5. Mechanics\Bestiary\Npc\Zuleika Toranescu (COS).md|Zuleika Toranescu]] (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]].
 
 > [!quote] ...
 > 
@@ -601,7 +603,7 @@ This card refers to the werewolf [[/5. Mechanics/Bestiary/Npc/Zuleika Toranescu 
 > Your greatest ally will be a wizard. His mind is broken, but his spells are strong.
 ^05e
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/The Mad Mage Of Mount Baratok (COS).md|the Mad Mage of Mount Baratok]] (see chapter 2, area M).
+This card refers to [[5. Mechanics\Bestiary\Npc\The Mad Mage Of Mount Baratok (COS).md|the Mad Mage of Mount Baratok]] (see chapter 2, area M).
 
 > [!quote] ...
 > 
@@ -610,7 +612,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/The Mad Mage Of Mount Baratok (
 > I see a man of faith whose sanity hangs by a thread. He has lost someone close to him.
 ^05f
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Donavich (COS).md|Donavich]], the priest in the village of Barovia (see chapter 3, area E5). He will not accompany the characters until his son, [[/5. Mechanics/Bestiary/Npc/Doru (COS).md|Doru]], is dead and buried.
+This card refers to [[5. Mechanics\Bestiary\Npc\Donavich (COS).md|Donavich]], the priest in the village of Barovia (see chapter 3, area E5). He will not accompany the characters until his son, [[5. Mechanics\Bestiary\Npc\Doru (COS).md|Doru]], is dead and buried.
 
 > [!quote] ...
 > 
@@ -628,7 +630,7 @@ There is no NPC who can inspire the characters.
 > Search for a troubled young man surrounded by wealth and madness. His home is his prison.
 ^061
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Victor Vallakovich (COS).md|Victor Vallakovich]] (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
+This card refers to [[5. Mechanics\Bestiary\Npc\Victor Vallakovich (COS).md|Victor Vallakovich]] (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
 
 > [!quote] ...
 > 
@@ -637,7 +639,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Victor Vallakovich (COS).md|Vic
 > Find a girl driven to insanity, locked in the heart of her dead father's house. Curing her madness is key to your success.
 ^062
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md|Stella Wachter]] (see chapter 5, area N4n). She grants the party no benefit unless her madness is cured. With her wits restored, Stella is happy to join the party and leave her rotten family behind.
+This card refers to [[5. Mechanics\Bestiary\Npc\Stella Wachter (COS).md|Stella Wachter]] (see chapter 5, area N4n). She grants the party no benefit unless her madness is cured. With her wits restored, Stella is happy to join the party and leave her rotten family behind.
 
 > [!quote] ...
 > 
@@ -646,7 +648,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md|Stella 
 > Look for a dusk elf living among the Vistani. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.
 ^063
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md|Kasimir Velikov]] (see chapter 5, area N9a). The dusk elf accompanies the characters to Castle Ravenloft only after they lead him to the Amber Temple and help him find the means to resurrect his dead sister, [[/5. Mechanics/Bestiary/Npc/Patrina Velikovna (COS).md|Patrina Velikovna]].
+This card refers to [[5. Mechanics\Bestiary\Npc\Kasimir Velikov (COS).md|Kasimir Velikov]] (see chapter 5, area N9a). The dusk elf accompanies the characters to Castle Ravenloft only after they lead him to the Amber Temple and help him find the means to resurrect his dead sister, [[5. Mechanics\Bestiary\Npc\Patrina Velikovna (COS).md|Patrina Velikovna]].
 
 > [!quote] ...
 > 
@@ -655,7 +657,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md|Kasimi
 > I see a fallen paladin of a fallen order of knights. He lingers like a ghost in a dead dragon's lair.
 ^064
 
-This card refers to the revenant [[/5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym (COS).md|Sir Godfrey Gwilym]] (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma ([[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check.
+This card refers to the revenant [[5. Mechanics\Bestiary\Npc\Sir Godfrey Gwilym (COS).md|Sir Godfrey Gwilym]] (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma ([[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]]) check.
 
 > [!quote] ...
 > 
@@ -664,7 +666,7 @@ This card refers to the revenant [[/5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym
 > Stir the spirit of the clumsy knight whose crypt lies deep within the castle.
 ^065
 
-This card refers to Sir Klutz the [[/5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md|phantom warrior]] (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
+This card refers to Sir Klutz the [[5. Mechanics\Bestiary\Undead\Phantom Warrior (COS).md|phantom warrior]] (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
 
 > [!quote] ...
 > 
@@ -673,7 +675,7 @@ This card refers to Sir Klutz the [[/5. Mechanics/Bestiary/Undead/Phantom Warrio
 > Seek out the brother of the devil's bride. They call him "the lesser," but he has a powerful soul.
 ^066
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Ismark Kolyanovich (COS).md|Ismark Kolyanovich]] (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]], is safe.
+This card refers to [[5. Mechanics\Bestiary\Npc\Ismark Kolyanovich (COS).md|Ismark Kolyanovich]] (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]], is safe.
 
 > [!quote] ...
 > 
@@ -682,18 +684,18 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Ismark Kolyanovich (COS).md|Ism
 > I see a dead man of noble birth, guarded by his widow. Return life to the dead man's corpse, and he will be your staunch ally.
 ^067
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Nikolai Wachter (COS).md|Nikolai Wachter]] the elder, who is dead (see chapter 5, area N4o). If the characters cast a [[/5. Mechanics/Spells/Raise Dead.md|raise dead]] spell or a [[/5. Mechanics/Spells/Resurrection.md|resurrection]] spell on his preserved corpse, Nikolai (LN male human [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]]) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
+This card refers to [[5. Mechanics\Bestiary\Npc\Nikolai Wachter (COS).md|Nikolai Wachter]] the elder, who is dead (see chapter 5, area N4o). If the characters cast a [[5. Mechanics\Spells\Raise Dead.md|raise dead]] spell or a [[5. Mechanics\Spells\Resurrection.md|resurrection]] spell on his preserved corpse, Nikolai (LN male human [[5. Mechanics\Bestiary\Humanoid\Noble.md|noble]]) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
 
-If the characters don't have the means to raise Nikolai from the dead, [[/5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] (see appendix D) gives them a spell scroll of [[/5. Mechanics/Spells/Raise Dead.md|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
+If the characters don't have the means to raise Nikolai from the dead, [[5. Mechanics\Bestiary\Npc\Rictavio (COS).md|Rictavio]] (see appendix D) gives them a spell scroll of [[5. Mechanics\Spells\Raise Dead.md|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
 
 > [!quote] ...
 > 
 > **B. Horseman (Joker 2)**
 > 
-> A man of death named [[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] will forsake his dark lord to serve your cause. Beware! He has a rotten soul.
+> A man of death named [[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] will forsake his dark lord to serve your cause. Beware! He has a rotten soul.
 ^068
 
-This card refers to the Vistani assassin [[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] (see chapter 5, area N9c). If the characters mention this card reading to him, he accepts his fate and accompanies them. If the characters succeed in defeating Strahd, [[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] betrays and attacks them, believing that he is destined to become Barovia's new lord.
+This card refers to the Vistani assassin [[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] (see chapter 5, area N9c). If the characters mention this card reading to him, he accepts his fate and accompanies them. If the characters succeed in defeating Strahd, [[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] betrays and attacks them, believing that he is destined to become Barovia's new lord.
 
 > [!quote] ...
 > 
@@ -702,7 +704,7 @@ This card refers to the Vistani assassin [[/5. Mechanics/Bestiary/Npc/Arrigal (C
 > I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the village of Barovia.
 ^069
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Parriwimple (COS).md|Parriwimple]] (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]], who is very beautiful. The characters must somehow deal with Bildrath, [[/5. Mechanics/Bestiary/Npc/Parriwimple (COS).md|Parriwimple]]'s employer, who won't let the foolish boy go to the castle for any reason.
+This card refers to [[5. Mechanics\Bestiary\Npc\Parriwimple (COS).md|Parriwimple]] (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]], who is very beautiful. The characters must somehow deal with Bildrath, [[5. Mechanics\Bestiary\Npc\Parriwimple (COS).md|Parriwimple]]'s employer, who won't let the foolish boy go to the castle for any reason.
 
 > [!quote] ...
 > 
@@ -711,7 +713,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Parriwimple (COS).md|Parriwimpl
 > Evil's bride is the one you seek!
 ^06a
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]] (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
+This card refers to [[5. Mechanics\Bestiary\Npc\Ireena Kolyana (COS).md|Ireena Kolyana]] (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
 
 > [!quote] ...
 > 
@@ -720,7 +722,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena 
 > What horror is this? I see a man made by a man. Ageless and alone, it haunts the towers of the castle.
 ^06b
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md|Pidlwick II]] (see chapter 4, area K59, as well as appendix D).
+This card refers to [[5. Mechanics\Bestiary\Npc\Pidlwick Ii (COS).md|Pidlwick II]] (see chapter 4, area K59, as well as appendix D).
 
 > [!quote] ...
 > 
@@ -729,7 +731,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md|Pidlwick I
 > Look for a man of music, a man with two heads. He lives in a place of great hunger and sorrow.
 ^06c
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md|Clovin Belview]] (see chapter 8, area S17), the two-headed [[/5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md|mongrelfolk]]. Clovin serves [[/5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]] out of fear and a perverse sense of loyalty. His job is to deliver food to the other mongrelfolk, whom he abhors. If [[/5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]] still lives, Clovin doesn't want to earn his Master's ire by attempting to leave, and he refuses to accompany the characters. But if [[/5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]] dies, Clovin doesn't have any reason to remain in the abbey, so he's willing to come along if he is bribed with wine. Clovin provides no benefit to the party without his viol.
+This card refers to [[5. Mechanics\Bestiary\Npc\Clovin Belview (COS).md|Clovin Belview]] (see chapter 8, area S17), the two-headed [[5. Mechanics\Bestiary\Humanoid\Mongrelfolk (COS).md|mongrelfolk]]. Clovin serves [[5. Mechanics\Bestiary\Npc\The Abbot (COS).md|the Abbot]] out of fear and a perverse sense of loyalty. His job is to deliver food to the other mongrelfolk, whom he abhors. If [[5. Mechanics\Bestiary\Npc\The Abbot (COS).md|the Abbot]] still lives, Clovin doesn't want to earn his Master's ire by attempting to leave, and he refuses to accompany the characters. But if [[5. Mechanics\Bestiary\Npc\The Abbot (COS).md|the Abbot]] dies, Clovin doesn't have any reason to remain in the abbey, so he's willing to come along if he is bribed with wine. Clovin provides no benefit to the party without his viol.
 
 > [!quote] ...
 > 
@@ -738,7 +740,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md|Clovin 
 > A Vistana wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out at Saint Markovia's abbey, near the mists.
 ^06d
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]] (see appendix D). She can be found in the Abbey of Saint Markovia (see chapter 8, area S19), as well as several other locations throughout Barovia.
+This card refers to [[5. Mechanics\Bestiary\Npc\Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]] (see appendix D). She can be found in the Abbey of Saint Markovia (see chapter 8, area S19), as well as several other locations throughout Barovia.
 
 > [!quote] ...
 > 
@@ -747,7 +749,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|Ezme
 > Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him.
 ^06e
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]] (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, [[/5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md|Urwin Martikov]] (see chapter 5, area N2).
+This card refers to [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]] (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, [[5. Mechanics\Bestiary\Npc\Urwin Martikov (COS).md|Urwin Martikov]] (see chapter 5, area N2).
 
 > [!quote] ...
 > 
@@ -756,7 +758,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian
 > I see a child—a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake!
 ^06f
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Arabelle (COS).md|Arabelle]] (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, [[/5. Mechanics/Bestiary/Npc/Luvash (COS).md|Luvash]], refuses to let her leave.
+This card refers to [[5. Mechanics\Bestiary\Npc\Arabelle (COS).md|Arabelle]] (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, [[5. Mechanics\Bestiary\Npc\Luvash (COS).md|Luvash]], refuses to let her leave.
 
 > [!quote] ...
 > 
@@ -765,7 +767,7 @@ This card refers to [[/5. Mechanics/Bestiary/Npc/Arabelle (COS).md|Arabelle]] (s
 > I hear a wedding bell, or perhaps a death knell. It calls thee to a mountainside abbey, wherein you will find a woman who is more than the sum of her parts.
 ^070
 
-This card refers to [[/5. Mechanics/Bestiary/Npc/Vasilka (COS).md|Vasilka]] the flesh golem (see chapter 8, area S13).
+This card refers to [[5. Mechanics\Bestiary\Npc\Vasilka (COS).md|Vasilka]] the flesh golem (see chapter 8, area S13).
 
 ### Strahd's Location in the Castle
 
@@ -877,7 +879,7 @@ Strahd faces the characters in the north tower peak (area K60).
 > The cards can't see where the evil lurks. The mists obscure all!
 ^07d
 
-The card offers no clue about where the final showdown with Strahd will occur. It can happen anywhere you like in Castle Ravenloft. Alternatively, [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]] tells the characters to return to her after at least three days, and she will consult the cards again for them, but only to discern the location of their enemy.
+The card offers no clue about where the final showdown with Strahd will occur. It can happen anywhere you like in Castle Ravenloft. Alternatively, [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]] tells the characters to return to her after at least three days, and she will consult the cards again for them, but only to discern the location of their enemy.
 
 > [!quote] ...
 > 
@@ -909,7 +911,7 @@ In "Werewolves in the Mist," the characters are drawn together by a series of we
 
 In "Creeping Fog," the characters are traveling a lonely road through the woods when the fog engulfs them, spiriting them away to the land of Barovia.
 
-![[002-cos01-02.png#center]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\002-cos01-02.png#center]]
 
 ### Plea for Help
 
@@ -932,11 +934,11 @@ The characters start their adventure in an old tavern, the details of which are 
 > The babble of tavern voices resumes, although somewhat subdued. The letter is lying before you. The seal is in the shape of a crest you don't recognize.
 ^082
 
-![[003-cos19-10.png#center|Strahd's Crest]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\003-cos19-10.png#center|Strahd's Crest]]
 
-The characters can interrupt the messenger at any time. His name is [[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] (NE male human [[/5. Mechanics/Bestiary/Humanoid/Assassin.md|assassin]]), and he is a Vistani. The other tavern patrons regard his people as friendly folk who travel about in covered wagons and usually keep to themselves.
+The characters can interrupt the messenger at any time. His name is [[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] (NE male human [[5. Mechanics\Bestiary\Humanoid\Assassin.md|assassin]]), and he is a Vistani. The other tavern patrons regard his people as friendly folk who travel about in covered wagons and usually keep to themselves.
 
-[[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] describes Barovia as a valley of great beauty and his master as a remarkable man. If the characters question [[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] about the identity of his master, he claims to serve Burgomaster Kolyan Indirovich, but in truth he serves Strahd. After delivering the letter, [[/5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] mounts his horse and rides off. He doesn't wait for the characters to follow him.
+[[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] describes Barovia as a valley of great beauty and his master as a remarkable man. If the characters question [[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] about the identity of his master, he claims to serve Burgomaster Kolyan Indirovich, but in truth he serves Strahd. After delivering the letter, [[5. Mechanics\Bestiary\Npc\Arrigal (COS).md|Arrigal]] mounts his horse and rides off. He doesn't wait for the characters to follow him.
 
 The crest depicted on the letter's seal belongs to Strahd, though the characters have never seen it before. Show the players Strahd's crest.
 
@@ -970,40 +972,40 @@ When the characters approach the camp, read:
 
 The men and women are Vistani. They have no interest in Daggerford. Their orders are to deliver the characters safely to Barovia.
 
-The leader of this group is [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]] (CN male human), an old man with the statistics of a [[/5. Mechanics/Bestiary/Humanoid/Mage.md|mage]] who has the following spells prepared:
+The leader of this group is [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]] (CN male human), an old man with the statistics of a [[5. Mechanics\Bestiary\Humanoid\Mage.md|mage]] who has the following spells prepared:
 
 > [!quote] ...
 > 
-> - Cantrips (at will): [[/5. Mechanics/Spells/Friends.md|friends]], [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]  
-> - 1st level (4 slots): [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]], [[/5. Mechanics/Spells/Shield.md|shield]], [[/5. Mechanics/Spells/Sleep.md|sleep]]  
-> - 2nd level (3 slots): [[/5. Mechanics/Spells/Misty Step.md|misty step]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]]  
-> - 3rd level (3 slots): [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/5. Mechanics/Spells/Phantom Steed.md|phantom steed]], [[/5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]  
-> - 4th level (3 slots): [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]], [[/5. Mechanics/Spells/Stoneskin.md|stoneskin]]  
-> - 5th level (1 slot): [[/5. Mechanics/Spells/Dominate Person.md|dominate person]]  
+> - Cantrips (at will): [[5. Mechanics\Spells\Friends.md|friends]], [[5. Mechanics\Spells\Light.md|light]], [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]  
+> - 1st level (4 slots): [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]], [[5. Mechanics\Spells\Shield.md|shield]], [[5. Mechanics\Spells\Sleep.md|sleep]]  
+> - 2nd level (3 slots): [[5. Mechanics\Spells\Misty Step.md|misty step]], [[5. Mechanics\Spells\Suggestion.md|suggestion]]  
+> - 3rd level (3 slots): [[5. Mechanics\Spells\Bestow Curse.md|bestow curse]], [[5. Mechanics\Spells\Phantom Steed.md|phantom steed]], [[5. Mechanics\Spells\Vampiric Touch.md|vampiric touch]]  
+> - 4th level (3 slots): [[5. Mechanics\Spells\Greater Invisibility.md|greater invisibility]], [[5. Mechanics\Spells\Stoneskin.md|stoneskin]]  
+> - 5th level (1 slot): [[5. Mechanics\Spells\Dominate Person.md|dominate person]]  
 ^086
 
-[[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]] is joined by his daughter, Damia (CN female human [[/5. Mechanics/Bestiary/Humanoid/Vistana Spy (COS).md|spy]]), and his son, Ratka (CN male human [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md|bandit captain]]). Nine other Vistani (male and female [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md|bandits]]) heed Ratka's commands. The six [[/5. Mechanics/Bestiary/Beast/Draft Horse.md|draft horses]] are used to pull the Vistani wagons, which contain their belongings but nothing of value.
+[[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]] is joined by his daughter, Damia (CN female human [[5. Mechanics\Bestiary\Humanoid\Vistana Spy (COS).md|spy]]), and his son, Ratka (CN male human [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit Captain (COS).md|bandit captain]]). Nine other Vistani (male and female [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit (COS).md|bandits]]) heed Ratka's commands. The six [[5. Mechanics\Bestiary\Beast\Draft Horse.md|draft horses]] are used to pull the Vistani wagons, which contain their belongings but nothing of value.
 
 ### The Dancing Fire
 
-[[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]] introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
+[[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]] introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
 
 > [!quote] ...
 > 
-> [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]] laughs. "Don't worry. We have no wish to make enemies of Lady Morwen. I have a story to tell all of you. First you listen, then we go."
+> [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]] laughs. "Don't worry. We have no wish to make enemies of Lady Morwen. I have a story to tell all of you. First you listen, then we go."
 ^089
 
-If the characters agree to hear [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]]'s story, he invites them to gather around the fire and hear his tale:
+If the characters agree to hear [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]]'s story, he invites them to gather around the fire and hear his tale:
 
 > [!quote] ...
 > 
-> [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]] fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.
+> [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]] fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.
 > 
 > "We come from an ancient land whose name is long forgotten—a land of kings. Our enemies forced us from our homes, and now we wander the lost roads."
 > 
 > The dark shape in the fire takes the form of a man being knocked from his horse, a spear piercing his side.
 > 
-> [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]] continues. "One night, a wounded soldier staggered into our camp and collapsed. We nursed his terrible injury and quenched his thirst with wine. He survived. When we asked him who he was, he wouldn't say. All he wanted was to return home, but we were deep in the land of his enemies. We took him as one of our own and followed him back toward his homeland. His enemies hunted him. They said he was a prince, yet we didn't give him up, even when their assassins fell upon us like wolves."
+> [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]] continues. "One night, a wounded soldier staggered into our camp and collapsed. We nursed his terrible injury and quenched his thirst with wine. He survived. When we asked him who he was, he wouldn't say. All he wanted was to return home, but we were deep in the land of his enemies. We took him as one of our own and followed him back toward his homeland. His enemies hunted him. They said he was a prince, yet we didn't give him up, even when their assassins fell upon us like wolves."
 > 
 > Deep in the bonfire, you see the dark figure standing with sword drawn, fighting off a host of shadowy shapes.
 > 
@@ -1011,14 +1013,14 @@ If the characters agree to hear [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|S
 > 
 > The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.
 > 
-> [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]]'s face becomes a somber mask. "A curse has befallen our noble prince, turning him into a tyrant. We alone have the power to leave his domain. We've traveled far and wide to find heroes such as yourselves to end our dread lord's curse and put his troubled soul to rest. Our leader, [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]], knows all. Will you return to Barovia with us and speak with her?"
+> [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]]'s face becomes a somber mask. "A curse has befallen our noble prince, turning him into a tyrant. We alone have the power to leave his domain. We've traveled far and wide to find heroes such as yourselves to end our dread lord's curse and put his troubled soul to rest. Our leader, [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]], knows all. Will you return to Barovia with us and speak with her?"
 ^08a
 
-These Vistani refuse to speak the name of their "dread lord" and provide no additional information. If the characters press them for details, the Vistani reply, "[[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]] has the answers you seek."
+These Vistani refuse to speak the name of their "dread lord" and provide no additional information. If the characters press them for details, the Vistani reply, "[[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]] has the answers you seek."
 
-If the characters agree to accompany the Vistani, the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]], at area G (see chapter 2). The characters arrive at area A and are taken through areas B, E, and F on the way to [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]]'s camp. If the characters rid themselves of their Vistani hosts before reaching [[/5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]]'s camp, they're on the own.
+If the characters agree to accompany the Vistani, the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]], at area G (see chapter 2). The characters arrive at area A and are taken through areas B, E, and F on the way to [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]]'s camp. If the characters rid themselves of their Vistani hosts before reaching [[5. Mechanics\Bestiary\Npc\Madam Eva (COS).md|Madam Eva]]'s camp, they're on the own.
 
-If the characters decline [[/5. Mechanics/Bestiary/Npc/Stanimir (COS).md|Stanimir]]'s invitation, the Vistani are disappointed but leave as promised. A day or two later, use the "Creeping Fog" adventure hook or some variation of it to draw the characters into Barovia.
+If the characters decline [[5. Mechanics\Bestiary\Npc\Stanimir (COS).md|Stanimir]]'s invitation, the Vistani are disappointed but leave as promised. A day or two later, use the "Creeping Fog" adventure hook or some variation of it to draw the characters into Barovia.
 
 ### Werewolves in the Mist
 
@@ -1040,9 +1042,9 @@ The Misty Forest lies thirty miles east of Daggerford. Before the characters emb
 > "We strive to protect the powerless," he says. "If the children kidnapped by the werewolves are still alive, I would see them safely returned."
 ^08e
 
-Zelraun Roaringhorn (LN male human [[/5. Mechanics/Bestiary/Humanoid/Mage.md|mage]]) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
+Zelraun Roaringhorn (LN male human [[5. Mechanics\Bestiary\Humanoid\Mage.md|mage]]) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
 
-Zelraun gives each Harper character a spell scroll of [[/5. Mechanics/Spells/Remove Curse.md|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
+Zelraun gives each Harper character a spell scroll of [[5. Mechanics\Spells\Remove Curse.md|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
 
 ##### About the Harpers
 
@@ -1052,10 +1054,10 @@ The Harpers is a network of spellcasters and spies who advocate equality and who
 
 > [!quote] ...
 > 
-> You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [[/5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md|knight of the order]] named Lanniver Strayl offers you his blessing.
+> You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [[5. Mechanics\Bestiary\Undead\Knight Of The Order (COS).md|knight of the order]] named Lanniver Strayl offers you his blessing.
 ^091
 
-Lanniver Strayl (LG male human [[/5. Mechanics/Bestiary/Humanoid/Knight.md|knight]]), a devout follower of Tyr recently arrived in Daggerford, gives a [[/5. Mechanics/Items/Potion Of Heroism.md|potion of heroism]] to each member of the order in the party.
+Lanniver Strayl (LG male human [[5. Mechanics\Bestiary\Humanoid\Knight.md|knight]]), a devout follower of Tyr recently arrived in Daggerford, gives a [[5. Mechanics\Items\Potion Of Heroism.md|potion of heroism]] to each member of the order in the party.
 
 ##### About the Order of the Gauntlet
 
@@ -1083,14 +1085,14 @@ Branches of the organization can be found wherever untamed wilderness exists. Me
 > A Lords' Alliance operative from Waterdeep named Eravien Haund comes to Daggerford bearing news that alliance agents have not only captured one of the werewolves but also conducted a thorough interrogation before putting the creature out of its misery.
 ^097
 
-Eravien Haund (LN male half-elf [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]]) imparts the following information to fellow Lords' Alliance members and tells them not to share it:
+Eravien Haund (LN male half-elf [[5. Mechanics\Bestiary\Humanoid\Noble.md|noble]]) imparts the following information to fellow Lords' Alliance members and tells them not to share it:
 
 - The werewolf pack has almost a dozen members. The leader of the pack is a man named Kiril.  
 - The werewolves come from a distant land called Barovia. The Lords' Alliance has no information about it.  
 - The werewolves worship a deity called Mother Night.  
 - The werewolves leave and return to Barovia through some kind of ancient portal. (This is a deduction on Eravien's part, based on the werewolf prisoner's vague description of how the pack gets to and from Barovia.)  
 
-Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a spell scroll of [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
+Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a spell scroll of [[5. Mechanics\Spells\Magic Weapon.md|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
 
 ##### About the Lords' Alliance
 
@@ -1105,7 +1107,7 @@ Although alliance members have pledged to join forces against common threats, ev
 > The Black Network sees the werewolf menace as an opportunity to provide lords and nervous landowners with mercenaries to protect their holdings. But at least one of your fellow members has a grudge against the lycanthropes. Davra Jassur, a member of the Zhentarim based in Waterdeep, arranges a private meeting with you.
 ^09a
 
-Davra Jassur (LE female human [[/5. Mechanics/Bestiary/Humanoid/Assassin.md|assassin]]) poses as a recruiter for the Black Network but is, in fact, a cutthroat who quietly disposes of competitors. Her husband, Yarak, was also a member of the Black Network. He was escorting a caravan traveling from Daggerford to the Way Inn (about sixty miles southeast of Daggerford, along the Trade Way) when the werewolves attacked. Yarak was slain, and Davra wants revenge; she wants the head of the werewolf pack leader. She is too tied up with "business" to engage in a personal vendetta, but if another member of the Black Network were to help, she would owe that individual a special favor (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide").
+Davra Jassur (LE female human [[5. Mechanics\Bestiary\Humanoid\Assassin.md|assassin]]) poses as a recruiter for the Black Network but is, in fact, a cutthroat who quietly disposes of competitors. Her husband, Yarak, was also a member of the Black Network. He was escorting a caravan traveling from Daggerford to the Way Inn (about sixty miles southeast of Daggerford, along the Trade Way) when the werewolves attacked. Yarak was slain, and Davra wants revenge; she wants the head of the werewolf pack leader. She is too tied up with "business" to engage in a personal vendetta, but if another member of the Black Network were to help, she would owe that individual a special favor (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide").
 
 ##### About the Zhentarim
 

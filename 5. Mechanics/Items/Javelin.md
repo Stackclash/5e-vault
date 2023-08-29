@@ -12,8 +12,8 @@ aliases: ["Javelin"]
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Thrown|Thrown]]
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook p. 149*
+*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/goblinoid
-statblock: inline
+aliases: ["Hobgoblin"]
 ---
 # Hobgoblin
-*Source: Monster Manual p. 186, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 186. Available in the SRD and the Basic Rules.*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
@@ -72,8 +71,6 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 > Victory is ours!
 
 
-## Stat Block
-
 ```statblock
 "name": "Hobgoblin"
 "size": "Medium"
@@ -90,25 +87,22 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - !!int "10"
 - !!int "10"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Once per turn, the hobgoblin can deal an extra 7 (dice: 2d6|avg (2d6))\
+- "desc": "Once per turn, the hobgoblin can deal an extra 7 (dice: 2d6|avg (2d6))\
     \ damage to a creature it hits with a weapon attack if that creature is within\
-    \ 5 feet of an ally of the hobgoblin that isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ 5 feet of an ally of the hobgoblin that isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage, or 6 (dice: 1d10 + 1|avg\
-    \ (1d10 + 1)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) slashing damage, or 6 (dice: 1d10\
+    \ + 1|avg (1d10 + 1)) slashing damage if used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
+    \ target. Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"
@@ -125,7 +119,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - "EGW"
 - "WBtW"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin.png"
+"image": "compendium/bestiary/humanoid/token/hobgoblin.png"
 ```
 ^statblock
 

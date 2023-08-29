@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
-- spell/class/artificer
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
@@ -12,6 +11,7 @@ tags:
 aliases: ["Skill Empowerment"]
 ---
 # Skill Empowerment
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -23,6 +23,6 @@ Your magic deepens a creature's understanding of its own talent. You touch one w
 
 You must choose a skill in which the target is proficient and that isn't already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.
 
-**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 165
+*Source: Xanathar's Guide to Everything p. 165*

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Nalfeshnee"]
 ---
 # Nalfeshnee
-*Source: Monster Manual p. 62, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries*  
+*Source: Monster Manual p. 62. Available in the SRD.*  
 
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
 
@@ -154,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -163,15 +162,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -180,8 +179,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Nalfeshnee"
@@ -199,12 +196,12 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "19"
 - !!int "12"
 - !!int "15"
-"speed": "walk 20 ft., fly 30 ft."
+"speed": "20 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "9"
-  "Constitution": !!int "11"
+  "Charisma": "+7"
+  "Wisdom": "+6"
+  "Intelligence": "+9"
+  "Constitution": "+11"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -213,34 +210,28 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee has advantage on saving throws against spells and other\
+- "desc": "The nalfeshnee has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks:\
+- "desc": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 5d10 + 5|avg (5d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 32 (dice: 5d10 + 5|avg (5d10 + 5)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
+- "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
     \ creature within 15 feet of the nalfeshnee that can see the light must succeed\
-    \ on a DC 15 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ on a DC 15 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the nalfeshnee's\
     \ Horror Nimbus for the next 24 hours."
   "name": "Horror Nimbus (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nalfeshnee magically teleports, along with any equipment it is wearing\
+- "desc": "The nalfeshnee magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 120 feet to an unoccupied space it can see."
   "name": "Teleport"
 "source":
@@ -250,6 +241,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "WDMM"
 - "BGDIA"
 - "CM"
-"image": "/compendium/bestiary/fiend/token/nalfeshnee.png"
+"image": "compendium/bestiary/fiend/token/nalfeshnee.png"
 ```
 ^statblock

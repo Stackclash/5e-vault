@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
-statblock: inline
+aliases: ["Beholder Zombie"]
 ---
 # Beholder Zombie
-*Source: Monster Manual p. 316, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 316*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
@@ -17,7 +16,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 
 Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [[Resurrection|resurrection]] spell.
+Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [[5. Mechanics\Spells\Resurrection.md|resurrection]] spell.
 
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
@@ -37,10 +36,8 @@ A zombie doesn't require air, food, drink, or sleep.
 
 > [!quote]- A quote from Fonkin Hoodypeak  
 > 
-> After Beek died, we cast an [[Animate Dead|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+> After Beek died, we cast an [[5. Mechanics\Spells\Animate Dead.md|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
-
-## Stat Block
 
 ```statblock
 "name": "Beholder Zombie"
@@ -57,39 +54,36 @@ A zombie doesn't require air, food, drink, or sleep.
 - !!int "3"
 - !!int "8"
 - !!int "5"
-"speed": "walk 0 ft., fly 20 ft. (hover)"
+"speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Wisdom": !!int "2"
+  "Wisdom": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned, prone"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
+- "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
     \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
     \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
   "name": "Undead Fortitude"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6|avg (4d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 4d6|avg (4d6)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
+- "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
     \ see within 60 feet of it.\n\n- 1. Paralyzing Ray. The targeted creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ must succeed on a DC 14 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 2. Fear Ray. The targeted\
-    \ creature must succeed on a DC 14 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ creature must succeed on a DC 14 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 3. Enervation Ray.\
     \ The targeted creature must make a DC 14 Constitution saving throw, taking 36\
     \ (dice: 8d8|avg (8d8)) necrotic damage on a failed save, or half as much\
     \ damage on a successful one.  \n- 4. Disintegration Ray. If the target is\
-    \ a creature, it must succeed on a DC 14 Dexterity saving throw or take dice:\
-    \ 10d8|avg (10d8) force damage. If this damage reduces the creature to 0 hit\
+    \ a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (dice:\
+    \ 10d8|avg (10d8)) force damage. If this damage reduces the creature to 0 hit\
     \ points, its body becomes a pile of fine gray dust.  \n\n    If the target is\
     \ a Large or smaller nonmagical object or creation of magical force, it is disintegrated\
     \ without a saving throw. If the target is a Huge or larger nonmagical object\
@@ -99,7 +93,7 @@ A zombie doesn't require air, food, drink, or sleep.
 - "MM"
 - "WDH"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Undead/token/beholder-zombie.png"
+"image": "compendium/bestiary/undead/token/beholder-zombie.png"
 ```
 ^statblock
 

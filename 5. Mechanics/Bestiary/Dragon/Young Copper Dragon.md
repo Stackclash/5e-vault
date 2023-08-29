@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/hill
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Copper Dragon"]
 ---
 # Young Copper Dragon
-*Source: Monster Manual p. 112, Storm King's Thunder*  
+*Source: Monster Manual p. 112. Available in the SRD.*  
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 
@@ -77,8 +76,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Young Copper Dragon"
 "size": "Large"
@@ -94,34 +91,30 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "16"
 - !!int "13"
 - !!int "15"
-"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
+"speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  "Charisma": "+5"
+  "Dexterity": "+4"
+  "Wisdom": "+4"
+  "Constitution": "+6"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
+  "Deception": "+5"
+  "Stealth": "+4"
+  "Perception": "+7"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "7"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
     \ The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 14 Dexterity saving throw, taking 40 (dice: 9d8|avg\
     \ (9d8)) acid damage on a failed save, or half as much damage on a successful\
@@ -136,7 +129,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
 - "MM"
 - "SKT"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-copper-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-copper-dragon.png"
 ```
 ^statblock
 

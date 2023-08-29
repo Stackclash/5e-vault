@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/small
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Dretch"]
 ---
 # Dretch
-*Source: Monster Manual p. 57, Curse of Strahd, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 57, Curse of Strahd. Available in the SRD.*  
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
 
@@ -152,7 +151,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -161,15 +160,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -178,8 +177,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Dretch"
@@ -197,7 +194,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "5"
 - !!int "8"
 - !!int "3"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
@@ -206,23 +203,19 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   \ Abyssal)"
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dretch makes two attacks: one with its bite and one with its claws."
+- "desc": "The dretch makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4|avg (2d4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 2d4|avg (2d4)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 10-foot radius of disgusting green gas extends out from the dretch. The\
+- "desc": "A 10-foot radius of disgusting green gas extends out from the dretch. The\
     \ gas spreads around corners, and its area is lightly obscured. It lasts for 1\
     \ minute or until a strong wind disperses it. Any creature that starts its turn\
-    \ in that area must succeed on a DC 11 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until the start of its next turn. While [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ in that area must succeed on a DC 11 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ until the start of its next turn. While [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ in this way, the target can take either an action or a bonus action on its turn,\
     \ not both, and can't take reactions."
   "name": "Fetid Cloud (1/Day)"
@@ -234,6 +227,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "IMR"
 - "EGW"
 - "WBtW"
-"image": "/compendium/bestiary/fiend/token/dretch.png"
+- "PSI"
+"image": "compendium/bestiary/fiend/token/dretch.png"
 ```
 ^statblock

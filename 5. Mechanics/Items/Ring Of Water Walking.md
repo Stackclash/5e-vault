@@ -16,4 +16,4 @@ aliases: ["Ring of Water Walking"]
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
-*Source: Dungeon Master's Guide p. 193*
+*Source: Dungeon Master's Guide p. 193. Available in the SRD.*

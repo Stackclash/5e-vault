@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Centaur"]
 ---
 # Centaur
-*Source: Monster Manual p. 38, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Dragon of Icespire Peak, Mythic Odysseys of Theros, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 38. Available in the SRD and the Basic Rules.*  
 
 > [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
 > 
@@ -35,8 +34,6 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 > I hear centaurs make excellent mounts!
 
 
-## Stat Block
-
 ```statblock
 "name": "Centaur"
 "size": "Large"
@@ -52,36 +49,31 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 - !!int "9"
 - !!int "13"
 - !!int "11"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "skillsaves":
-  "Athletics": !!int "6"
-  "Perception": !!int "3"
-  "Survival": !!int "3"
+  "Athletics": "+6"
+  "Perception": "+3"
+  "Survival": "+3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the centaur moves at least 30 feet straight toward a target and then\
+- "desc": "If the centaur moves at least 30 feet straight toward a target and then\
     \ hits it with a pike attack on the same turn, the target takes an extra 10 (dice:\
     \ 3d6|avg (3d6)) piercing damage."
   "name": "Charge"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The centaur makes two attacks: one with its pike and one with its hooves\
+- "desc": "The centaur makes two attacks: one with its pike and one with its hooves\
     \ or two with its longbow."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage."
   "name": "Pike"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Hooves"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
+    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"
@@ -91,7 +83,7 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 - "DIP"
 - "MOT"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.png"
+"image": "compendium/bestiary/monstrosity/token/centaur.png"
 ```
 ^statblock
 

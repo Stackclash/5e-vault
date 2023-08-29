@@ -12,10 +12,10 @@ aliases: ["Ring of Jumping"]
 # Ring of Jumping
 *Ring, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this ring, you can cast the [[/5. Mechanics/Spells/Jump.md|jump]] spell from it as a bonus action at will, but can target only yourself when you do so.
+While wearing this ring, you can cast the [[5. Mechanics\Spells\Jump.md|jump]] spell from it as a bonus action at will, but can target only yourself when you do so.
 
-*Source: Dungeon Master's Guide p. 191*
+*Source: Dungeon Master's Guide p. 191. Available in the SRD.*

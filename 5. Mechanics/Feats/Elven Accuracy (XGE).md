@@ -8,7 +8,7 @@ aliases: ["Elven Accuracy"]
 # Elven Accuracy
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** Elf, Half-Elf
+***Prerequisites*** [[5. Mechanics\Races\Elf.md|Elf]], [[5. Mechanics\Races\Half Elf.md|Half-Elf]]
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
 

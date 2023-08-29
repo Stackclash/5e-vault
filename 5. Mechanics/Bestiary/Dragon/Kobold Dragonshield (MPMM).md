@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/dragon
-statblock: inline
+aliases: ["Kobold Dragonshield"]
 ---
 # Kobold Dragonshield
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
@@ -37,50 +36,45 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 - !!int "8"
 - !!int "9"
 - !!int "10"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  "Perception": "+1"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold has resistance to a type of damage based on the color of dragon\
+- "desc": "The kobold has resistance to a type of damage based on the color of dragon\
     \ that invested it with power (choose or roll a dice: d10|avg (d10)): 1–2,\
     \ acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass, gold,\
     \ or red); 7–8, lightning (blue or bronze); 9–10, poison (green)."
   "name": "Dragon's Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the kobold is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ or [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] by an effect that allows\
-    \ a saving throw, it can repeat the save at the start of its turn to end the effect\
-    \ on itself and all kobolds within 30 feet of it. Any kobold that benefits from\
-    \ this trait (including the dragonshield) has advantage on its next attack roll."
+- "desc": "If the kobold is [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ or [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] by an effect that\
+    \ allows a saving throw, it can repeat the save at the start of its turn to end\
+    \ the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits\
+    \ from this trait (including the dragonshield) has advantage on its next attack\
+    \ roll."
   "name": "Heart of the Dragon"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold has advantage on an attack roll against a creature if at least\
+- "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kobold makes two Spear attacks."
+- "desc": "The kobold makes two Spear attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing\
     \ damage, or 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage if used with\
     \ two hands to make a melee attack."
   "name": "Spear"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Dragon/token/kobold-dragonshield.png"
+"image": "compendium/bestiary/dragon/token/kobold-dragonshield.png"
 ```
 ^statblock
 

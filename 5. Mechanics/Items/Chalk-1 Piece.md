@@ -12,4 +12,4 @@ aliases: ["Chalk (1 piece)"]
 - **Cost**: 1 cp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

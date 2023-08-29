@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/coastal
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Tortle Druid"]
 ---
 # Tortle Druid
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
@@ -18,8 +17,6 @@ Many tortles view the world as a place of wonder. They live for the chance to he
 Tortles are omnivorous, turtle-like bipeds with shells that cover most of their bodies. Because they carry their homes on their backs, tortles feel little need to stay put for long.
 
 Most tortles like to see how other folk live. A tortle can spend decades away from their native land without feeling homesick, often viewing their current companions as their family.
-
-## Stat Block
 
 ```statblock
 "name": "Tortle Druid"
@@ -36,42 +33,36 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 - !!int "11"
 - !!int "15"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Nature": !!int "2"
-  "Animal Handling": !!int "4"
-  "Survival": !!int "4"
+  "Nature": "+2"
+  "Animal Handling": "+4"
+  "Survival": "+4"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tortle casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-    \ [[/5. Mechanics/Spells/Guidance.md|guidance]]\n\n2/day each: [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[/5. Mechanics/Spells/Hold Person.md|hold person]], [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
-    \ [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]"
+- "desc": "The tortle casts one of the following spells, using Wisdom as the spellcasting\
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics\Spells\Druidcraft.md|druidcraft]],\
+    \ [[5. Mechanics\Spells\Guidance.md|guidance]]\n\n2/day each: [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]],\
+    \ [[5. Mechanics\Spells\Hold Person.md|hold person]], [[5. Mechanics\Spells\Speak With Animals.md|speak with animals]],\
+    \ [[5. Mechanics\Spells\Thunderwave.md|thunderwave]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tortle can hold its breath for 1 hour."
+- "desc": "The tortle can hold its breath for 1 hour."
   "name": "Hold Breath"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tortle makes four Claw attacks or two Nature's Wrath attacks."
+- "desc": "The tortle makes four Claw attacks or two Nature's Wrath attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 90 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) damage of a type chosen by the tortle:\
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 90 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) damage of a type chosen by the tortle:\
     \ cold, fire, lightning, or thunder."
   "name": "Nature's Wrath"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\
+- "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\
     \ to AC and has advantage on Strength and Constitution saving throws. While in\
-    \ its shell, the tortle is [[5. Mechanics/Rules/Conditions.md#prone|prone]], its\
+    \ its shell, the tortle is [[\5. Mechanics\Rules\Conditions.md#prone|prone]], its\
     \ speed is 0 and can't increase, it has disadvantage on Dexterity saving throws,\
     \ it can't take reactions, and the only action it can take is a bonus action to\
     \ emerge."
@@ -79,7 +70,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/tortle-druid.png"
+"image": "compendium/bestiary/humanoid/token/tortle-druid.png"
 ```
 ^statblock
 

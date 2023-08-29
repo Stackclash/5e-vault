@@ -10,6 +10,7 @@ tags:
 aliases: ["Programmed Illusion"]
 ---
 # Programmed Illusion
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Illusion*  
 
 - **Casting time:** 1 action
@@ -23,8 +24,8 @@ When the condition you specify occurs, the illusion springs into existence and p
 
 The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the illusion to trigger only when a creature says the correct word or phrase.
 
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 269
+*Source: Player's Handbook p. 269. Available in the SRD.*

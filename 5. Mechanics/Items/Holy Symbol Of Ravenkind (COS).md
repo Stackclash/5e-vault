@@ -11,7 +11,7 @@ aliases: ["Holy Symbol of Ravenkind"]
 # Holy Symbol of Ravenkind
 *Wondrous Item, legendary (requires attunement by a cleric or paladin of good alignment)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -23,7 +23,7 @@ The holy symbol has 10 charges for the following properties. It regains `dice: 1
 
 ## Hold Vampires
 
-As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
+As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[5. Mechanics\Bestiary\Undead\Vampire Spawn.md|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
 
 ## Turn Undead
 

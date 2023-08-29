@@ -9,6 +9,7 @@ tags:
 aliases: ["Flame Blade"]
 ---
 # Flame Blade
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 bonus
@@ -24,6 +25,6 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]]
 
-Source: Player's Handbook p. 242
+*Source: Player's Handbook p. 242. Available in the SRD.*

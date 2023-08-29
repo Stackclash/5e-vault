@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Gnoll Flesh Gnawer"]
 ---
 # Gnoll Flesh Gnawer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
@@ -20,13 +19,11 @@ These gnolls eschew the use of ranged weapons in favor of short blades that they
 
 The first gnolls were hyenas transformed by magic. Many of them were then corrupted by the demon lord Yeenoghu. Whether in service to Yeenoghu or dedicated to the survival of their kin, gnoll war bands seek to soften up foes with surprise attacks and to leave no survivors alive.
 
-## Stat Block
-
 ```statblock
 "name": "Gnoll Flesh Gnawer"
 "size": "Medium"
 "type": "monstrosity"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
@@ -37,37 +34,32 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 - !!int "8"
 - !!int "10"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "4"
+  "Dexterity": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gnoll makes one Bite attack and two Shortsword attacks."
+- "desc": "The gnoll makes one Bite attack and two Shortsword attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and it\
-    \ doesn't provoke opportunity attack||opportunity attacks."
+- "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and it\
+    \ doesn't provoke opportunity attacks."
   "name": "Sudden Rush"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\
+- "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\
     \ on its turn, the gnoll moves up to half its speed and makes a Bite attack."
   "name": "Rampage"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/gnoll-flesh-gnawer.png"
+"image": "compendium/bestiary/monstrosity/token/gnoll-flesh-gnawer.png"
 ```
 ^statblock
 

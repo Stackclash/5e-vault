@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
-statblock: inline
+aliases: ["Doppelganger"]
 ---
 # Doppelganger
-*Source: Monster Manual p. 82, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 82. Available in the SRD and the Basic Rules.*  
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
 
@@ -25,8 +24,6 @@ Doppelgangers work alone or in small groups, with group roles shifting from con 
 ## Changelings
 
 Doppelgangers are too lazy or self-interested to raise their young. They assume attractive male forms and seduce women, leaving them to raise their progeny. A doppelganger child appears to be a normal member of its mother's species until it reaches adolescence, at which point it discovers its true nature and is driven to seek out its kind to join them.
-
-## Stat Block
 
 ```statblock
 "name": "Doppelganger"
@@ -44,49 +41,43 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 - !!int "11"
 - !!int "12"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "6"
-  "Insight": !!int "3"
+  "Deception": "+6"
+  "Insight": "+3"
 "condition_immunities": "charmed"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The doppelganger can use its action to polymorph into a Small or Medium\
+- "desc": "The doppelganger can use its action to polymorph into a Small or Medium\
     \ humanoid it has seen, or back into its true form. Its statistics, other than\
     \ its size, are the same in each form. Any equipment it is wearing or carrying\
     \ isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In the first round of a combat, the doppelganger has advantage on attack\
+- "desc": "In the first round of a combat, the doppelganger has advantage on attack\
     \ rolls against any creature it surprised."
   "name": "Ambusher"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the doppelganger surprises a creature and hits it with an attack during\
+- "desc": "If the doppelganger surprises a creature and hits it with an attack during\
     \ the first round of combat, the target takes an extra 10 (dice: 3d6|avg (3d6))\
     \ damage from the attack."
   "name": "Surprise Attack"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The doppelganger makes two melee attacks."
+- "desc": "The doppelganger makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The doppelganger magically reads the surface thoughts of one creature within\
+- "desc": "The doppelganger magically reads the surface thoughts of one creature within\
     \ 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt,\
     \ 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While\
     \ the target is in range, the doppelganger can continue reading its thoughts,\
-    \ as long as the doppelganger's [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ isn't broken (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ on a spell). While reading the target's mind, the doppelganger has advantage\
-    \ on Wisdom ([[5. Mechanics/Rules/Skills.md#Insight|Insight]]) and Charisma ([[5. Mechanics/Rules/Skills.md#Deception|Deception]],\
-    \ [[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], and [[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]])\
-    \ checks against the target."
+    \ as long as the doppelganger's [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ isn't broken (as if concentrating on a spell). While reading the target's mind,\
+    \ the doppelganger has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Insight|Insight]])\
+    \ and Charisma ([[\5. Mechanics\Rules\Skills.md#Deception|Deception]], [[\5. Mechanics\Rules\Skills.md#Intimidation|Intimidation]],\
+    \ and [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]]) checks against the\
+    \ target."
   "name": "Read Thoughts"
 "source":
 - "MM"
@@ -104,7 +95,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 - "IDRotF"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.png"
+"image": "compendium/bestiary/monstrosity/token/doppelganger.png"
 ```
 ^statblock
 

@@ -12,4 +12,4 @@ aliases: ["Saddlebags"]
 - **Cost**: 4 gp
 - **Weight**: 8.0 lbs.
 
-*Source: Player's Handbook p. 157*
+*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules.*

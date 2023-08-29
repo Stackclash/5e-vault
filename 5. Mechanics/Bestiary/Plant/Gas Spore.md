@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/plant
-statblock: inline
+aliases: ["Gas Spore"]
 ---
 # Gas Spore
-*Source: Monster Manual p. 138, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 138*  
 
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
 
@@ -33,8 +32,6 @@ Fungi spawn in organic matter, then break that matter down to consume it, feedin
 
 Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice of the Underdark. Transformed by the magic that permeates that underground realm, Underdark fungi often develop potent defensive mechanisms or abilities of mimicry and attack. The largest specimens can spread to create vast subterranean forests in which countless creatures live and feed.
 
-## Stat Block
-
 ```statblock
 "name": "Gas Spore"
 "size": "Large"
@@ -50,32 +47,29 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - !!int "1"
 - !!int "1"
 - !!int "1"
-"speed": "walk 0 ft., fly 10 ft. (hover)"
+"speed": "0 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
 "condition_immunities": "blinded, deafened, frightened, paralyzed, poisoned, prone"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 5"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gas spore explodes when it drops to 0 hit points. Each creature within\
-    \ 20 feet of it must succeed on a DC 15 Constitution saving throw or take dice:\
-    \ 3d6|avg (3d6) poison damage and become infected with a disease on a failed\
-    \ save. Creatures immune to the [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "The gas spore explodes when it drops to 0 hit points. Each creature within\
+    \ 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (dice:\
+    \ 3d6|avg (3d6)) poison damage and become infected with a disease on a failed\
+    \ save. Creatures immune to the [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ condition are immune to this disease.\n\nSpores invade an infected creature's\
     \ system, killing the creature in a number of hours equal to dice: 1d12|avg\
     \ (1d12) + the creature's Constitution score, unless the disease is removed.\
-    \ In half that time, the creature becomes [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ In half that time, the creature becomes [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ for the rest of the duration. After the creature dies, it sprouts dice: 2d4|avg\
     \ (2d4) Tiny gas spores that grow to full size in 7 days."
   "name": "Death Burst"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gas spore resembles a beholder. A creature that can see the gas spore\
+- "desc": "The gas spore resembles a beholder. A creature that can see the gas spore\
     \ can discern its true nature with a successful DC 15 Intelligence (Nature) check."
   "name": "Eerie Resemblance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one creature.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one creature.\
     \ Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution\
     \ saving throw or become infected with the disease described in the Death Burst\
     \ trait."
@@ -85,7 +79,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "TftYP"
 - "WDH"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Plant/token/gas-spore.png"
+"image": "compendium/bestiary/plant/token/gas-spore.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Vampire Spawn"]
 ---
 # Vampire Spawn
-*Source: Monster Manual p. 298, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 298, Curse of Strahd. Available in the SRD.*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 
@@ -36,9 +35,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!quote] Player Characters as Vampires
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[Senses#darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[Wish|wish]] spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics\Spells\Wish.md|wish]] spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!quote] Strahd von Zarovich
@@ -57,8 +56,6 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 > I am The Ancient, I am The Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears down stone into sand.
 
 
-## Stat Block
-
 ```statblock
 "name": "Vampire Spawn"
 "size": "Medium"
@@ -74,57 +71,51 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - !!int "11"
 - !!int "10"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "3"
+  "Dexterity": "+6"
+  "Wisdom": "+3"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "3"
+  "Stealth": "+6"
+  "Perception": "+3"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vampire regains 10 hit points at the start of its turn if it has at\
+- "desc": "The vampire regains 10 hit points at the start of its turn if it has at\
     \ least 1 hit point and isn't in sunlight or running water. If the vampire takes\
     \ radiant damage or damage from holy water, this trait doesn't function at the\
     \ start of the vampire's next turn."
   "name": "Regeneration"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vampire can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The vampire can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vampire has the following flaws:\n\n_Forbiddance._ The vampire can't\
-    \ enter a residence without an invitation from one of the occupants.\n\n_Harmed\
-    \ by Running Water._ The vampire takes 20 acid damage when it ends its turn in\
-    \ running water.\n\n_Stake to the Heart._ The vampire is destroyed if a piercing\
-    \ weapon made of wood is driven into its heart while it is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ in its resting place.\n\n_Sunlight Hypersensitivity._ The vampire takes 20 radiant\
+- "desc": "The vampire has the following flaws:\n\nForbiddance. The vampire can't\
+    \ enter a residence without an invitation from one of the occupants.\n\nHarmed\
+    \ by Running Water. The vampire takes 20 acid damage when it ends its turn in\
+    \ running water.\n\nStake to the Heart. The vampire is destroyed if a piercing\
+    \ weapon made of wood is driven into its heart while it is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
+    \ in its resting place.\n\nSunlight Hypersensitivity. The vampire takes 20 radiant\
     \ damage when it starts its turn in sunlight. While in sunlight, it has disadvantage\
     \ on attack rolls and ability checks."
   "name": "Vampire Weaknesses"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vampire makes two attacks, only one of which can be a bite attack."
+- "desc": "The vampire makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by the vampire, [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ or [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
-    \ + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage.\
-    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
-    \ damage taken, and the vampire regains hit points equal to that amount. The reduction\
-    \ lasts until the target finishes a long rest. The target dies if this effect\
-    \ reduces its hit point maximum to 0."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
+    \ creature, or a creature that is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ by the vampire, [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]],\
+    \ or [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]. Hit: 6 (dice:\
+    \ 1d6 + 3|avg (1d6 + 3)) piercing damage plus 7 (dice: 2d6|avg (2d6)) necrotic\
+    \ damage. The target's hit point maximum is reduced by an amount equal to the\
+    \ necrotic damage taken, and the vampire regains hit points equal to that amount.\
+    \ The reduction lasts until the target finishes a long rest. The target dies if\
+    \ this effect reduces its hit point maximum to 0."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage,\
-    \ the vampire can grapple the target (escape DC 13)."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
+    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) slashing damage. Instead of dealing\
+    \ damage, the vampire can grapple the target (escape DC 13)."
   "name": "Claws"
 "source":
 - "MM"
@@ -139,7 +130,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "SLW"
 - "EGW"
 - "TCE"
-"image": "5. Mechanics/Bestiary/Undead/token/vampire-spawn.png"
+"image": "compendium/bestiary/undead/token/vampire-spawn.png"
 ```
 ^statblock
 

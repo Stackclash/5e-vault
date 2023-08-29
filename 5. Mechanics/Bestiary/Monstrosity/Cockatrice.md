@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/grassland
 - monster/size/small
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Cockatrice"]
 ---
 # Cockatrice
-*Source: Monster Manual p. 42, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Mythic Odysseys of Theros, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 42. Available in the SRD and the Basic Rules.*  
 
 The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. A cockatrice flies into the face of any threat, squawking and madly beating its wings as its head darts out to peck. The smallest scratch from a cockatrice's beak can spell doom as its victim slowly turns to stone from the injury.
 
@@ -28,18 +27,17 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 - !!int "2"
 - !!int "13"
 - !!int "5"
-"speed": "walk 20 ft., fly 40 ft."
+"speed": "20 ft., fly 40 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage, and the target must succeed\
-    \ on a DC 11 Constitution saving throw against being magically [[5. Mechanics/Rules/Conditions.md#petrified|petrified]].\
-    \ On a failed save, the creature begins to turn to stone and is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage, and the target must\
+    \ succeed on a DC 11 Constitution saving throw against being magically [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]].\
+    \ On a failed save, the creature begins to turn to stone and is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]].\
     \ It must repeat the saving throw at the end of its next turn. On a success, the\
-    \ effect ends. On a failure, the creature is [[5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ effect ends. On a failure, the creature is [[\5. Mechanics\Rules\Conditions.md#petrified|petrified]]\
     \ for 24 hours."
   "name": "Bite"
 "source":
@@ -49,7 +47,7 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 - "ERLW"
 - "MOT"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/cockatrice.png"
+"image": "compendium/bestiary/monstrosity/token/cockatrice.png"
 ```
 ^statblock
 

@@ -12,4 +12,4 @@ aliases: ["Grappling Hook"]
 - **Cost**: 2 gp
 - **Weight**: 4.0 lbs.
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Locate Animals or Plants"]
 ---
 # Locate Animals or Plants
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual
@@ -21,6 +22,6 @@ aliases: ["Locate Animals or Plants"]
 
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Player's Handbook p. 256
+*Source: Player's Handbook p. 256. Available in the SRD.*

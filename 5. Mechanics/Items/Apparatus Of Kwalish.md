@@ -14,7 +14,7 @@ aliases: ["Apparatus of Kwalish"]
 - **Cost**: ⏤
 - **Weight**: 500.0 lbs.
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
+This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]]) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
 The apparatus of Kwalish is a Large object with the following statistics:
 
@@ -37,7 +37,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front sides of the apparatus. | The claws retract. |
-| 5 | Each extended claw makes the following melee weapon attack: `dice: d20+8` (+8 to hit), reach 5 ft., one target. Hit: `dice: 2d6` (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `dice: d20+8` (+8 to hit), reach 5 ft., one target. Hit:  The target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15). |
+| 5 | Each extended claw makes the following melee weapon attack: `dice: d20+8` (+8 to hit), reach 5 ft., one target. *Hit:*  7 (`dice: 2d6\|avg` (`2d6`)) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `dice: d20+8` (+8 to hit), reach 5 ft., one target. *Hit:*  The target is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 15). |
 | 6 | The apparatus walks or swims forward. | The apparatus walks or swims backward. |
 | 7 | The apparatus turns 90 degrees left. | The apparatus turns 90 degrees right. |
 | 8 | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet. | The light turns off. |
@@ -45,4 +45,4 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers
 
-*Source: Dungeon Master's Guide p. 151*
+*Source: Dungeon Master's Guide p. 151. Available in the SRD (as 'Apparatus of the Crab').*

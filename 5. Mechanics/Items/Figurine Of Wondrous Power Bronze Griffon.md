@@ -20,8 +20,8 @@ The creature is friendly to you and your companions. It understands your languag
 
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
 
-[[/5. Mechanics/Bestiary/Monstrosity/Griffon.md|Bronze Griffon]].
+## Bronze Griffon
 
-This bronze statuette is of a [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md|griffon]] rampant. It can become a [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md|griffon]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+This bronze statuette is of a [[5. Mechanics\Bestiary\Monstrosity\Griffon.md|griffon]] rampant. It can become a [[5. Mechanics\Bestiary\Monstrosity\Griffon.md|griffon]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
-*Source: Dungeon Master's Guide p. 169*
+*Source: Dungeon Master's Guide p. 169. Available in the SRD.*

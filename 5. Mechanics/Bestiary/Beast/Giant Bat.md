@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Bat"]
 ---
 # Giant Bat
-*Source: Monster Manual p. 323, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Plane Shift: Ixalan*  
+*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Bat"
@@ -27,22 +26,19 @@ statblock: inline
 - !!int "2"
 - !!int "12"
 - !!int "6"
-"speed": "walk 10 ft., fly 60 ft."
+"speed": "10 ft., fly 60 ft."
 "senses": "blindsight 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bat can't use its blindsight while [[5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The bat can't use its blindsight while [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]]."
   "name": "Echolocation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bat has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The bat has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -51,7 +47,7 @@ statblock: inline
 - "MOT"
 - "TCE"
 - "PSX"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-bat.png"
+"image": "compendium/bestiary/beast/token/giant-bat.png"
 ```
 ^statblock
 

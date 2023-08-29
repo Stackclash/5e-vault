@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Rat"]
 ---
 # Rat
-*Source: Monster Manual p. 335, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Rat"
@@ -27,18 +26,16 @@ statblock: inline
 - !!int "2"
 - !!int "10"
 - !!int "4"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The rat has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The rat has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":
@@ -50,7 +47,7 @@ statblock: inline
 - "BGDIA"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Beast/token/rat.png"
+"image": "compendium/bestiary/beast/token/rat.png"
 ```
 ^statblock
 

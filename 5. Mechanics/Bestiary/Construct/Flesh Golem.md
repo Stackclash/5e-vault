@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Flesh Golem"]
 ---
 # Flesh Golem
-*Source: Monster Manual p. 169, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries*  
+*Source: Monster Manual p. 169, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 A flesh golem is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The golem's muscle tissue responds to the power of lightning, invigorating the creature with vitality and strength. Powerful enchantments protect the golem's skin, deflecting spells and all but the most potent weapons.
 
@@ -40,13 +39,11 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[Conditions#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
 A golem doesn't require air, food, drink, or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Flesh Golem"
@@ -63,7 +60,7 @@ A golem doesn't require air, food, drink, or sleep.
 - !!int "6"
 - !!int "10"
 - !!int "5"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -71,8 +68,7 @@ A golem doesn't require air, food, drink, or sleep.
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the golem starts its turn with 40 hit points or fewer, roll a\
+- "desc": "Whenever the golem starts its turn with 40 hit points or fewer, roll a\
     \ dice: d6|avg (d6). On a 6, the golem goes berserk. On each of its turns\
     \ while berserk, the golem attacks the nearest creature it can see. If no creature\
     \ is near enough to move to and attack, the golem attacks an object, with preference\
@@ -84,31 +80,24 @@ A golem doesn't require air, food, drink, or sleep.
     \ the golem ceases being berserk. If it takes damage while still at 40 hit points\
     \ or fewer, the golem might go berserk again."
   "name": "Berserk"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the golem takes fire damage, it has disadvantage on attack rolls and\
+- "desc": "If the golem takes fire damage, it has disadvantage on attack rolls and\
     \ ability checks until the end of its next turn."
   "name": "Aversion of Fire"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem is immune to any spell or effect that would alter its form."
+- "desc": "The golem is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the golem is subjected to lightning damage, it takes no damage\
+- "desc": "Whenever the golem is subjected to lightning damage, it takes no damage\
     \ and instead regains a number of hit points equal to the lightning damage dealt."
   "name": "Lightning Absorption"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem has advantage on saving throws against spells and other magical\
+- "desc": "The golem has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem's weapon attacks are magical."
+- "desc": "The golem's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem makes two slam attacks."
+- "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"
@@ -125,6 +114,6 @@ A golem doesn't require air, food, drink, or sleep.
 - "MOT"
 - "IDRotF"
 - "CM"
-"image": "5. Mechanics/Bestiary/Construct/token/flesh-golem.png"
+"image": "compendium/bestiary/construct/token/flesh-golem.png"
 ```
 ^statblock

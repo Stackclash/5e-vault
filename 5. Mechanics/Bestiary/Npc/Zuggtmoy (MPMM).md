@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Zuggtmoy"]
 ---
 # Zuggtmoy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157*  
@@ -27,8 +26,6 @@ Their devotion might begin with the seemingly harmless promises offered by exoti
 
 Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen mushrooms of pale yellow and rancid brown. These massive fungi are some of the largest in existence. They are surrounded by a field of acidic puffballs and poisonous vapors. The mushrooms themselves are all interconnected by bridges of shelf-fungi, and countless chambers have been hollowed out from within their rubbery, fibrous stalks.
 
-## Stat Block
-
 ```statblock
 "name": "Zuggtmoy"
 "size": "Large"
@@ -45,13 +42,13 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 - !!int "20"
 - !!int "19"
 - !!int "24"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "9"
-  "Wisdom": !!int "11"
-  "Constitution": !!int "11"
+  "Dexterity": "+9"
+  "Wisdom": "+11"
+  "Constitution": "+11"
 "skillsaves":
-  "Perception": !!int "11"
+  "Perception": "+11"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
 "condition_immunities": "charmed, exhaustion, frightened, poisoned"
@@ -59,32 +56,27 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Zuggtmoy casts one of the following spells, requiring no material components\
+- "desc": "Zuggtmoy casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Locate Animals Or Plants.md|locate animals or plants]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Etherealness.md|etherealness]], [[/5. Mechanics/Spells/Teleport.md|teleport]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[/5. Mechanics/Spells/Plant Growth.md|plant growth]]"
+    \ [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Locate Animals Or Plants.md|locate animals or plants]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Etherealness.md|etherealness]], [[5. Mechanics\Spells\Teleport.md|teleport]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], [[5. Mechanics\Spells\Entangle.md|entangle]],\
+    \ [[5. Mechanics\Spells\Plant Growth.md|plant growth]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If Zuggtmoy fails a saving throw, she can choose to succeed instead."
+- "desc": "If Zuggtmoy fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Zuggtmoy has advantage on saving throws against spells and other magical\
+- "desc": "Zuggtmoy has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Zuggtmoy makes three Pseudopod attacks."
+- "desc": "Zuggtmoy makes three Pseudopod attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: ++13 to hit, reach 10 ft., one target. Hit: dice:\
-    \ 2d8 + 6|avg (2d8 + 6) force damage plus dice: 2d8|avg (2d8) poison damage."
+- "desc": "Melee Weapon Attack: ++13 to hit, reach 10 ft., one target. Hit: 15\
+    \ (dice: 2d8 + 6|avg (2d8 + 6)) force damage plus 9 (dice: 2d8|avg (2d8))\
+    \ poison damage."
   "name": "Pseudopod"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
+- "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
     \ sphere centered on her, and it lingers for 1 minute. Any creature in the cloud\
     \ when it appears, or that enters it later, must make a DC 19 Constitution saving\
     \ throw. On a successful save, the creature can't be infected by these spores\
@@ -94,37 +86,33 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
     \ must repeat the saving throw at the end of every 24 hours, ending the infection\
     \ on a success. On a failure, the infected creature's body is slowly taken over\
     \ by fungal growth, and after three such failed saves, the creature dies and is\
-    \ reanimated as a [[/5. Mechanics/Bestiary/Plant/Quaggoth Spore Servant.md|spore servant]]\
+    \ reanimated as a [[5. Mechanics\Bestiary\Plant\Quaggoth Spore Servant.md|spore servant]]\
     \ if it's a type of creature that can be."
   "name": "Infestation Spores (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
+- "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
     \ sphere centered on her, and it lingers for 1 minute. Humanoids and Beasts in\
     \ the cloud when it appears, or that enter it later, must make a DC 19 Wisdom\
     \ saving throw. On a successful save, a creature can't be infected by these spores\
     \ for 24 hours. On a failed save, the creature is infected with a disease called\
     \ the influence of Zuggtmoy for 24 hours. While infected in this way, the creature\
-    \ is [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by her and can't be reinfected\
+    \ is [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by her and can't be reinfected\
     \ by these spores."
   "name": "Mind Control Spores (Recharge 5-6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When Zuggtmoy is hit by an attack roll, one creature within 10 feet of\
-    \ her that is [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by her is hit\
+- "desc": "When Zuggtmoy is hit by an attack roll, one creature within 10 feet of\
+    \ her that is [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by her is hit\
     \ by the attack instead."
   "name": "Protective Thrall"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Zuggtmoy makes one Pseudopod attack."
+- "desc": "Zuggtmoy makes one Pseudopod attack."
   "name": "Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One creature [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by Zuggtmoy\
+- "desc": "One creature [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by Zuggtmoy\
     \ that she can see must use its reaction, if a available, to move up to its speed\
     \ as she directs or to make one weapon attack against a target that she designates."
   "name": "Exert Will"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Npc/token/zuggtmoy.png"
+"image": "compendium/bestiary/npc/token/zuggtmoy.png"
 ```
 ^statblock

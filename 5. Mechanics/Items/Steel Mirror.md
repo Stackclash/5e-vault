@@ -12,4 +12,4 @@ aliases: ["Steel Mirror"]
 - **Cost**: 5 gp
 - **Weight**: 0.5 lbs.
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

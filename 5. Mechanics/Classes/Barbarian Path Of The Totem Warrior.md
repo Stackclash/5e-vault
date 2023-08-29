@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Totem Warrior"]
 ---
 # Path of the Totem Warrior
-*Barbarian: Primal Path*  
+*[[Barbarian.md|Barbarian]]: Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 
@@ -21,7 +21,7 @@ Most barbarian tribes consider a totem animal to be kin to a particular clan. In
 
 ### Spirit Seeker (Level 3)
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [[Beast Sense|beast sense]] and [[Speak With Animals|speak with animals]] spells, but only as rituals, as described in "chapter 10".
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [[5. Mechanics\Spells\Beast Sense.md|beast sense]] and [[5. Mechanics\Spells\Speak With Animals.md|speak with animals]] spells, but only as rituals, as described in "chapter 10".
 
 ### Totem Spirit (Level 3)
 
@@ -35,7 +35,7 @@ Your totem animal might be an animal related to those listed here but more appro
 
 - **Eagle**  
 
-    While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.  
+    While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the [[\5. Mechanics\Rules\Actions.md#Dash|Dash]] action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.  
 
 - **Wolf**  
 
@@ -51,7 +51,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 - **Eagle**  
 
-    You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom ([[Skills#Perception|Perception]]) checks.  
+    You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks.  
 
 - **Wolf**  
 
@@ -59,7 +59,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 ### Spirit Walker (Level 10)
 
-At 10th level, you can cast the [[Commune With Nature|commune with nature]] spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+At 10th level, you can cast the [[5. Mechanics\Spells\Commune With Nature.md|commune with nature]] spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement (Level 14)
 
@@ -67,7 +67,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 - **Bear**  
 
-    While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [[Conditions#frightened|frightened]].  
+    While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]].  
 
 - **Eagle**  
 
@@ -75,4 +75,4 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 - **Wolf**  
 
-    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [[Conditions#prone|prone]] when you hit it with melee weapon attack.
+    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [[\5. Mechanics\Rules\Conditions.md#prone|prone]] when you hit it with melee weapon attack.

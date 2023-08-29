@@ -9,7 +9,7 @@ tags:
 aliases: ["Arawn"]
 ---
 # Arawn
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Neutral Evil
 - **Domains**: Life, Death

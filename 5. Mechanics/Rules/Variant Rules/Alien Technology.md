@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Alien Technology"]
 ---
 # Alien Technology
@@ -12,12 +14,4 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-**Figuring Out Alien Technology**
-
-| Int. Check Total | Result |
-|------------------|--------|
-| 9 or lower | One failure; one charge or use is wasted, if applicable; character has disadvantage on next check |
-| 10-14 | One failure |
-| 15-19 | One success |
-| 20 or higher | One success; character has advantage on next check |
-^figuring-out-alien-technology
+![[5. Mechanics\Tables\Figuring Out Alien Technology.md|Figuring Out Alien Technology]]

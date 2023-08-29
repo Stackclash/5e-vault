@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Rictavio"]
 ---
 # Rictavio
 *Source: Curse of Strahd p. 238*  
@@ -40,8 +39,6 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 
 "I am cursed. Thus, I will never have peace."
 
-## Stat Block
-
 ```statblock
 "name": "Rictavio"
 "size": "Medium"
@@ -58,59 +55,54 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 - !!int "16"
 - !!int "18"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "4"
+  "Wisdom": "+7"
+  "Constitution": "+4"
 "skillsaves":
-  "Medicine": !!int "7"
-  "Sleight of Hand": !!int "4"
-  "Religion": !!int "6"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "Arcana": !!int "9"
+  "Medicine": "+7"
+  "Sleight of Hand": "+4"
+  "Religion": "+6"
+  "Insight": "+7"
+  "Perception": "+7"
+  "Arcana": "+9"
 "senses": "passive Perception 17"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom\
+- "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). Rictavio has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mending.md|mending]],\
-    \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [detect evil and\
-    \ good](/compendium/spells/detect-evil-and-good.md), [protection from evil and\
-    \ good](/compendium/spells/protection-from-evil-and-good.md), [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Augury.md|augury]], [lesser\
-    \ restoration](/compendium/spells/lesser-restoration.md), [[/5. Mechanics/Spells/Protection From Poison.md|protection from poison]]\n\
-    \n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Magic Circle.md|magic circle]],\
-    \ [[/5. Mechanics/Spells/Remove Curse.md|remove curse]], [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\
-    \n4th level (3 4th-level slots): [[/5. Mechanics/Spells/Death Ward.md|death ward]],\
-    \ [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (1 5th-level slots): [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Light.md|light]], [[5. Mechanics\Spells\Mending.md|mending]],\
+    \ [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]], [detect evil and\
+    \ good](compendium/spells/detect-evil-and-good.md), [protection from evil and\
+    \ good](compendium/spells/protection-from-evil-and-good.md), [[5. Mechanics\Spells\Sanctuary.md|sanctuary]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Augury.md|augury]], [lesser\
+    \ restoration](compendium/spells/lesser-restoration.md), [[5. Mechanics\Spells\Protection From Poison.md|protection from poison]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics\Spells\Magic Circle.md|magic circle]],\
+    \ [[5. Mechanics\Spells\Remove Curse.md|remove curse]], [[5. Mechanics\Spells\Speak With Dead.md|speak with dead]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics\Spells\Death Ward.md|death ward]],\
+    \ [[5. Mechanics\Spells\Freedom Of Movement.md|freedom of movement]]\n\n5th level\
+    \ (1 5th-level slots): [[5. Mechanics\Spells\Dispel Evil And Good.md|dispel evil and good]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In addition to his sword cane, Rictavio wears a [[/5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
-    \ and a [[/5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
-    \ and he carries a [[/5. Mechanics/Items/Spell Scroll-5th Level.md|spell scroll]]\
-    \ of [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]."
+- "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics\Items\Hat Of Disguise.md|hat of disguise]]\
+    \ and a [[5. Mechanics\Items\Ring Of Mind Shielding.md|ring of mind shielding]],\
+    \ and he carries a [[5. Mechanics\Items\Spell Scroll-5th Level.md|spell scroll]]\
+    \ of [[5. Mechanics\Spells\Raise Dead.md|raise dead]]."
   "name": "Special Equipment"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
+- "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
     \ extra 10 (dice: 3d6|avg (3d6)) damage of the weapon's type."
   "name": "Undead Slayer"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Rictavio makes two attacks with his sword cane."
+- "desc": "Rictavio makes two attacks with his sword cane."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage (wooden cane) or piercing\
-    \ damage (silvered sword)."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage (wooden cane)\
+    \ or piercing damage (silvered sword)."
   "name": "Sword Cane"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/rictavio.png"
+"image": "compendium/bestiary/npc/token/rictavio.png"
 ```
 ^statblock

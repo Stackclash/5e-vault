@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -14,10 +13,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: inline
+aliases: ["Druid"]
 ---
 # Druid
-*Source: Monster Manual p. 346, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 346, Curse of Strahd. Available in the SRD.*  
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
@@ -37,32 +36,30 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 - !!int "12"
 - !!int "15"
 - !!int "11"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "4"
-  "Nature": !!int "3"
-  "Perception": !!int "4"
+  "Medicine": "+4"
+  "Nature": "+3"
+  "Perception": "+4"
 "senses": "passive Perception 14"
 "languages": "Druidic plus any two languages"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). It has the\
-    \ following druid spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-    \ [[/5. Mechanics/Spells/Produce Flame.md|produce flame]], [[/5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[/5. Mechanics/Spells/Longstrider.md|longstrider]], [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
-    \ [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
-    \ slots): [[/5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [[/5. Mechanics/Spells/Barkskin.md|barkskin]]"
+    \ following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Druidcraft.md|druidcraft]],\
+    \ [[5. Mechanics\Spells\Produce Flame.md|produce flame]], [[5. Mechanics\Spells\Shillelagh.md|shillelagh]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Entangle.md|entangle]],\
+    \ [[5. Mechanics\Spells\Longstrider.md|longstrider]], [[5. Mechanics\Spells\Speak With Animals.md|speak with animals]],\
+    \ [[5. Mechanics\Spells\Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics\Spells\Animal Messenger.md|animal messenger]], [[5. Mechanics\Spells\Barkskin.md|barkskin]]"
   "name": "spells"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit) (dice: d20+4 (+4 to\
-    \ hit) with shillelagh), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6)\
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit) (dice: d20+4 (+4 to\
+    \ hit) with shillelagh), reach 5 ft., one target. Hit: 3 (dice: 1d6|avg (1d6))\
     \ bludgeoning damage, 4 (dice: 1d8|avg (1d8)) bludgeoning damage if wielded\
     \ with two hands, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage with\
-    \ [[/5. Mechanics/Spells/Shillelagh.md|shillelagh]]."
+    \ [[5. Mechanics\Spells\Shillelagh.md|shillelagh]]."
   "name": "Quarterstaff"
 "source":
 - "MM"
@@ -82,7 +79,8 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 - "WBtW"
 - "CRCotN"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Humanoid/token/druid.png"
+- "PSI"
+"image": "compendium/bestiary/humanoid/token/druid.png"
 ```
 ^statblock
 

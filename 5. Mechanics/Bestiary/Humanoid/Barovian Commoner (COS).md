@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
@@ -12,7 +11,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: inline
+aliases: ["Barovian Commoner"]
 ---
 # Barovian Commoner
 *Source: Curse of Strahd p. 29, Derived from Commoner (MM)*  
@@ -33,18 +32,17 @@ statblock: inline
 - !!int "10"
 - !!int "10"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6|avg (1d6) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
   "name": "Pitchfork"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/barovian-commoner.png"
+"image": "compendium/bestiary/humanoid/token/barovian-commoner.png"
 ```
 ^statblock
 

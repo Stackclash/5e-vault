@@ -16,10 +16,10 @@ aliases: ["Scimitar of Speed"]
 *Melee Weapon, major, very rare (requires attunement)*  
 
 - **Damage**: 1d6 S
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[5. Mechanics/Rules/Item Properties.md#Light|Light]], [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Finesse|Finesse]], [[\5. Mechanics\Rules\Item Properties.md#Light|Light]], Martial, Requires Attunement
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
 
-*Source: Dungeon Master's Guide p. 199*
+*Source: Dungeon Master's Guide p. 199. Available in the SRD.*

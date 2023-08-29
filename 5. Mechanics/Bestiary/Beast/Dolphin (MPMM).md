@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Dolphin"]
 ---
 # Dolphin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
@@ -17,8 +16,6 @@ Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds
 ## Dolphins
 
 Dolphins are clever, social marine mammals that feed on small fish and squid. An adult specimen is between 5 and 6 feet long.
-
-## Stat Block
 
 ```statblock
 "name": "Dolphin"
@@ -35,27 +32,25 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 - !!int "6"
 - !!int "12"
 - !!int "7"
-"speed": "walk 0 ft., swim 60 ft."
+"speed": "0 ft., swim 60 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dolphin can hold its breath for 20 minutes."
+- "desc": "The dolphin can hold its breath for 20 minutes."
   "name": "Hold Breath"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage. If the dolphin moved\
-    \ at least 30 feet straight toward the target immediately before the hit, the\
-    \ target takes an extra 3 (dice: 1d6|avg (1d6)) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage. If the dolphin\
+    \ moved at least 30 feet straight toward the target immediately before the hit,\
+    \ the target takes an extra 3 (dice: 1d6|avg (1d6)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/dolphin.png"
+"image": "compendium/bestiary/beast/token/dolphin.png"
 ```
 ^statblock
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Savras"]
 ---
 # Savras
-*Source: Player's Handbook p. 294* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Knowledge

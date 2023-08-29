@@ -10,7 +10,7 @@ aliases: ["Aasimar (DMG)"]
 *Source: Dungeon Master's Guide p. 286*  
 
 - **Ability Scores**: Wisdom +1, Charisma +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -35,7 +35,7 @@ You have resistance to necrotic and radiant damage.
 
 ### Celestial Legacy
 
-You know the [[/5. Mechanics/Spells/Light.md|light]] cantrip. Once you reach 3rd level, you can cast the [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the [[/5. Mechanics/Spells/Daylight.md|daylight]] spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[5. Mechanics\Spells\Light.md|light]] cantrip. Once you reach 3rd level, you can cast the [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]] spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the [[5. Mechanics\Spells\Daylight.md|daylight]] spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Language
 

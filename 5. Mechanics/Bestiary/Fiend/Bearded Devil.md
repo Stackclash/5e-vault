@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Bearded Devil"]
 ---
 # Bearded Devil
-*Source: Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 70. Available in the SRD.*  
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
 
@@ -110,7 +109,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -123,18 +122,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
 > 
-> - A barbed devil has a 30|30 percent% chance chance of summoning one barbed devil.  
-> - A bearded devil has a 30|30 percent% chance chance of summoning one bearded devil.  
-> - A bone devil has a 40|40 percent% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50|50 percent% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
-> - A horned devil has a 30|30 percent% chance chance of summoning one horned devil.  
-> - An ice devil has a 60|60 percent% chance chance of summoning one ice devil.  
+> - A barbed devil has a 30% chance chance of summoning one barbed devil.  
+> - A bearded devil has a 30% chance chance of summoning one bearded devil.  
+> - A bone devil has a 40% chance chance of summoning `dice: 2d6` (`2d6`) spined devils or one bone devil.  
+> - An erinyes has a 50% chance chance of summoning `dice: 3d6` (`3d6`) spined devils, `dice: 1d6` (`1d6`) bearded devils, or one erinyes.  
+> - A horned devil has a 30% chance chance of summoning one horned devil.  
+> - An ice devil has a 60% chance chance of summoning one ice devil.  
 > - A pit fiend summons `dice: 2d4` (`2d4`) bearded devils, `dice: 1d4` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
-
-## Stat Block
 
 ```statblock
 "name": "Bearded Devil"
@@ -152,11 +149,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "9"
 - !!int "11"
 - !!int "11"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "2"
-  "Strength": !!int "5"
-  "Constitution": !!int "4"
+  "Wisdom": "+2"
+  "Strength": "+5"
+  "Constitution": "+4"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -165,39 +162,33 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the devil's darkvision."
+- "desc": "Magical darkness doesn't impede the devil's darkvision."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil has advantage on saving throws against spells and other magical\
+- "desc": "The devil has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil can't be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "The devil can't be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ while it can see an allied creature within 30 feet of it."
   "name": "Steadfast"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The devil makes two attacks: one with its beard and one with its glaive."
+- "desc": "The devil makes two attacks: one with its beard and one with its glaive."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage, and the target must succeed\
-    \ on a DC 12 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. While [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this\
-    \ way, the target can't regain hit points. The target can repeat the saving throw\
-    \ at the end of each of its turns, ending the effect on itself on a success."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage, and the target must\
+    \ succeed on a DC 12 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. While [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in\
+    \ this way, the target can't regain hit points. The target can repeat the saving\
+    \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Beard"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage. If the target is a creature\
-    \ other than an undead or a construct, it must succeed on a DC 12 Constitution\
-    \ saving throw or lose 5 (dice: 1d10|avg (1d10)) hit points at the start of\
-    \ each of its turns due to an infernal wound. Each time the devil hits the wounded\
-    \ target with this attack, the damage dealt by the wound increases by 5 (dice:\
-    \ 1d10|avg (1d10)). Any creature can take an action to stanch the wound with\
-    \ a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target\
-    \ receives magical healing."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) slashing damage. If the target\
+    \ is a creature other than an undead or a construct, it must succeed on a DC 12\
+    \ Constitution saving throw or lose 5 (dice: 1d10|avg (1d10)) hit points at\
+    \ the start of each of its turns due to an infernal wound. Each time the devil\
+    \ hits the wounded target with this attack, the damage dealt by the wound increases\
+    \ by 5 (dice: 1d10|avg (1d10)). Any creature can take an action to stanch\
+    \ the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes\
+    \ if the target receives magical healing."
   "name": "Glaive"
 "source":
 - "MM"
@@ -207,6 +198,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "EGW"
 - "IDRotF"
-"image": "/compendium/bestiary/fiend/token/bearded-devil.png"
+"image": "compendium/bestiary/fiend/token/bearded-devil.png"
 ```
 ^statblock

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Deer"]
 ---
 # Deer
-*Source: Monster Manual p. 321, Hoard of the Dragon Queen, Dragon of Icespire Peak*  
+*Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Deer"
@@ -27,20 +26,19 @@ statblock: inline
 - !!int "2"
 - !!int "14"
 - !!int "5"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "0"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4|avg (1d4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
+    \ Hit: 2 (dice: 1d4|avg (1d4)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
 - "HotDQ"
 - "DIP"
-"image": "5. Mechanics/Bestiary/Beast/token/deer.png"
+"image": "compendium/bestiary/beast/token/deer.png"
 ```
 ^statblock
 

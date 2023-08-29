@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/yugoloth
-statblock: inline
+aliases: ["Ultroloth"]
 ---
 # Ultroloth
-*Source: Monster Manual p. 314, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 314*  
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
 
@@ -18,7 +17,7 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 
 ## Yugoloths
 
-Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: _What's in it for me?_
+Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: *What's in it for me?*
 
 ### Spawn of Gehenna
 
@@ -67,8 +66,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > Power. We all crave it, but only a select few of us deserve it.
 
 
-## Stat Block
-
 ```statblock
 "name": "Ultroloth"
 "size": "Medium"
@@ -85,11 +82,11 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "18"
 - !!int "15"
 - !!int "19"
-"speed": "walk 30 ft., fly 60 ft."
+"speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Intimidation": !!int "9"
-  "Stealth": !!int "8"
-  "Perception": !!int "7"
+  "Intimidation": "+9"
+  "Stealth": "+8"
+  "Perception": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -98,45 +95,37 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ultroloth's innate spellcasting ability is Charisma (spell save DC\
+- "desc": "The ultroloth's innate spellcasting ability is Charisma (spell save DC\
     \ 17). The ultroloth can innately cast the following spells, requiring no material\
-    \ components:\n\nAt will: [[/5. Mechanics/Spells/Alter Self.md|alter self]],\
-    \ [[/5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[/5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only), [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Fire Storm.md|fire storm]], [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Fear.md|fear]],\
-    \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
+    \ components:\n\nAt will: [[5. Mechanics\Spells\Alter Self.md|alter self]], [[5. Mechanics\Spells\Clairvoyance.md|clairvoyance]],\
+    \ [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Invisibility.md|invisibility]] (self only), [[5. Mechanics\Spells\Suggestion.md|suggestion]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Fire Storm.md|fire storm]], [[5. Mechanics\Spells\Mass Suggestion.md|mass suggestion]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Dimension Door.md|dimension door]], [[5. Mechanics\Spells\Fear.md|fear]],\
+    \ [[5. Mechanics\Spells\Wall Of Fire.md|wall of fire]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ultroloth has advantage on saving throws against spells and other magical\
+- "desc": "The ultroloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ultroloth's weapon attacks are magical."
+- "desc": "The ultroloth's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ultroloth can use its Hypnotic Gaze and makes three melee attacks."
+- "desc": "The ultroloth can use its Hypnotic Gaze and makes three melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or 8 (dice: 1d10 + 3|avg\
-    \ (1d10 + 3)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
+    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one creature\
+- "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one creature\
     \ it can see within 30 feet of it. If the target can see the ultroloth, the target\
-    \ must succeed on a DC 17 Wisdom saving throw against this magic or be [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ until the end of the ultroloth's next turn. The [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ target is [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]. If the target's\
+    \ must succeed on a DC 17 Wisdom saving throw against this magic or be [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ until the end of the ultroloth's next turn. The [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ target is [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]. If the target's\
     \ saving throw is successful, the target is immune to the ultroloth's gaze for\
     \ the next 24 hours."
   "name": "Hypnotic Gaze"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ultroloth magically teleports, along with any equipment it is wearing\
+- "desc": "The ultroloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."
   "name": "Teleport"
 "source":
@@ -145,6 +134,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "BGDIA"
 - "EGW"
 - "JttRC"
-"image": "/compendium/bestiary/fiend/token/ultroloth.png"
+"image": "compendium/bestiary/fiend/token/ultroloth.png"
 ```
 ^statblock

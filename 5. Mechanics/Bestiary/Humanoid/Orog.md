@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -11,10 +10,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orog"]
 ---
 # Orog
-*Source: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -66,8 +65,6 @@ Wanting nothing more than to hack their enemies to pieces, orogs are a terrifyin
 
 Mistrusted by orcs, some orogs form independent mercenary war bands that sell themselves to the highest bidder. As long as they are rewarded, orog mercenaries gladly serve as elite warriors and shock troops for evil wizards, depraved giants, and other villains.
 
-## Stat Block
-
 ```statblock
 "name": "Orog"
 "size": "Medium"
@@ -84,30 +81,26 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 - !!int "12"
 - !!int "11"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "5"
-  "Survival": !!int "2"
+  "Intimidation": "+5"
+  "Survival": "+2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orog can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orog can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orog makes two greataxe attacks."
+- "desc": "The orog makes two greataxe attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 1d12 + 4|avg (1d12 + 4)) slashing damage."
   "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4))\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"
@@ -118,7 +111,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 - "WDMM"
 - "GoS"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orog.png"
+"image": "compendium/bestiary/humanoid/token/orog.png"
 ```
 ^statblock
 

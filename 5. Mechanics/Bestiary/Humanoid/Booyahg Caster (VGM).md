@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vgm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/humanoid/goblinoid
-statblock: inline
+aliases: ["Booyahg Caster"]
 ---
 # Booyahg Caster
 *Source: Volo's Guide to Monsters p. 42, Derived from Goblin (MM)*  
@@ -23,8 +22,6 @@ Spellcasters of any sort among the goblins are rare. Goblins typically lack the 
 Even when a goblin is born with the ability to become a spellcaster, the knowledge and talent necessary to carry on the tradition rarely persists for more than a couple of generations. Because they have so little experience with magic, goblins make no distinction between its forms. To them all magic is "booyahg," and the word is part of the name they give to any of its practitioners.
 
 A goblin with access to booyahg becomes a member of the lashers and can often rise to the role of boss.
-
-## Stat Block
 
 ```statblock
 "name": "Booyahg Caster"
@@ -42,34 +39,30 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 - !!int "10"
 - !!int "8"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  "Stealth": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goblin can cast a randomly determined 1st-level wizard spell once per\
+- "desc": "The goblin can cast a randomly determined 1st-level wizard spell once per\
     \ day. Intelligence is its spellcasting ability (spell save DC 10, dice: d20+2\
     \ (+2 to hit) with spell attacks)."
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goblin can take the Disengage or Hide action as a bonus action on each\
+- "desc": "The goblin can take the Disengage or Hide action as a bonus action on each\
     \ of its turns."
   "name": "Nimble Escape"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) slashing damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
+    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortbow"
 "source":
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/booyahg-caster.png"
+"image": "compendium/bestiary/humanoid/token/booyahg-caster.png"
 ```
 ^statblock
 

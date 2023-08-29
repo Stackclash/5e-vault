@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Skulk"]
 ---
 # Skulk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
@@ -19,7 +18,7 @@ statblock: inline
 > 
 > Some children have imaginary friends that their parents can't see. Sometimes those invisible friends aren't imaginary.
 
-Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [[Conditions#invisible|invisible]]. Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
+Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]. Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
 
 A skulk can be summoned from the Shadowfell by performing a ritual, and it is bound to obey the summoner's commands for 30 days. During this time, if the skulk is visible, an astute observer might deduce who summoned it, because the skulk assumes a vague likeness of its master.
 
@@ -29,7 +28,7 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 "name": "Skulk"
 "size": "Medium"
 "type": "monstrosity"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
 "hp": !!int "18"
 "hit_dice": "4d8"
@@ -40,18 +39,17 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 - !!int "10"
 - !!int "7"
 - !!int "1"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Constitution": !!int "2"
+  "Constitution": "+2"
 "skillsaves":
-  "Stealth": !!int "8"
+  "Stealth": "+8"
 "condition_immunities": "blinded"
 "senses": "darkvision 120 ft., passive Perception 8"
 "languages": "understands Common but can't speak"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skulk is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]. This\
+- "desc": "The skulk is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]. This\
     \ invisibility can be circumvented by three things:\n\n- Charnel Candles.\
     \ The skulk appears as a dim, translucent form in the light of a candle made of\
     \ fat rendered from a corpse whose identity is unknown.  \n- Children. Humanoid\
@@ -59,20 +57,18 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
     \ Surfaces. The skulk appears as a drab, smoothskinned biped if its reflection\
     \ can be seen in a mirror or on another surface.  "
   "name": "Fallible Invisibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skulk leaves no tracks to indicate where it has been or where it's\
+- "desc": "The skulk leaves no tracks to indicate where it has been or where it's\
     \ headed."
   "name": "Trackless"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage plus dice: 1d6|avg (1d6)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) slashing damage plus 3 (dice: 1d6|avg\
+    \ (1d6)) necrotic damage."
   "name": "Claw"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/skulk.png"
+"image": "compendium/bestiary/monstrosity/token/skulk.png"
 ```
 ^statblock
 

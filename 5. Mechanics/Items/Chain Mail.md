@@ -17,4 +17,4 @@ aliases: ["Chain Mail"]
 
 Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 
-*Source: Player's Handbook p. 145*
+*Source: Player's Handbook p. 145. Available in the SRD and the Basic Rules.*

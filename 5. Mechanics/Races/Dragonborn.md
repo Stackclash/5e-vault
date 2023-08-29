@@ -7,10 +7,10 @@ tags:
 aliases: ["Dragonborn"]
 ---
 # Dragonborn
-*Source: Player's Handbook p. 32*  
+*Source: Player's Handbook p. 32. Available in the SRD.*  
 
 - **Ability Scores**: Strength +2, Charisma +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 

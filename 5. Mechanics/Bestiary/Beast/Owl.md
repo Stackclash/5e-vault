@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Owl"]
 ---
 # Owl
-*Source: Monster Manual p. 333, The Rise of Tiamat, Infernal Machine Rebuild, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries*  
+*Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Owl"
@@ -27,25 +26,22 @@ statblock: inline
 - !!int "2"
 - !!int "12"
 - !!int "7"
-"speed": "walk 5 ft., fly 60 ft."
+"speed": "5 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "3"
+  "Stealth": "+3"
+  "Perception": "+3"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
+- "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
     \ reach."
   "name": "Flyby"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owl has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The owl has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Talons"
 "source":
@@ -54,7 +50,7 @@ statblock: inline
 - "IMR"
 - "IDRotF"
 - "CM"
-"image": "5. Mechanics/Bestiary/Beast/token/owl.png"
+"image": "compendium/bestiary/beast/token/owl.png"
 ```
 ^statblock
 

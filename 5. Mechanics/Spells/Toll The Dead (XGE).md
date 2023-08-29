@@ -15,6 +15,7 @@ tags:
 aliases: ["Toll the Dead"]
 ---
 # Toll the Dead
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Necromancy*  
 
 - **Casting time:** 1 action
@@ -26,6 +27,6 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 The spell's damage increases by one die when you reach 5th level (`dice: 2d8` (`2d8`) or `dice: 2d12` (`2d12`)), 11th level (`dice: 3d8` (`3d8`) or `dice: 3d12` (`3d12`)), and 17th level (`dice: 4d8` (`4d8`) or `dice: 4d12` (`4d12`)).
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Cleric Death Domain.md|Cleric (Death Domain)]], [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 169
+*Source: Xanathar's Guide to Everything p. 169*

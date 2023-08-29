@@ -11,6 +11,7 @@ tags:
 aliases: ["Antimagic Field"]
 ---
 # Antimagic Field
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -24,11 +25,11 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 ## Targeted Effects
 
-Spells and other magical effects, such as [[/5. Mechanics/Spells/Magic Missile.md|magic missile]] and [[/5. Mechanics/Spells/Charm Person.md|charm person]], that target a creature or an object in the sphere have no effect on that target.
+Spells and other magical effects, such as [[5. Mechanics\Spells\Magic Missile.md|magic missile]] and [[5. Mechanics\Spells\Charm Person.md|charm person]], that target a creature or an object in the sphere have no effect on that target.
 
 ## Areas of Magic
 
-The area of another spell or magical effect, such as [[/5. Mechanics/Spells/Fireball.md|fireball]], can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+The area of another spell or magical effect, such as [[5. Mechanics\Spells\Fireball.md|fireball]], can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 ## Spells
 
@@ -50,10 +51,10 @@ A creature or object summoned or created by magic temporarily winks out of exist
 
 ## Dispel Magic
 
-Spells and magical effects such as [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]] have no effect on the sphere. Likewise, the spheres created by different [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]] spells don't nullify each other.
+Spells and magical effects such as [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]] have no effect on the sphere. Likewise, the spheres created by different [[5. Mechanics\Spells\Antimagic Field.md|antimagic field]] spells don't nullify each other.
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 213
+*Source: Player's Handbook p. 213. Available in the SRD and the Basic Rules.*

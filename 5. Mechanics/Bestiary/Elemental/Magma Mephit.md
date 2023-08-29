@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/small
 - monster/type/elemental
-statblock: inline
+aliases: ["Magma Mephit"]
 ---
 # Magma Mephit
-*Source: Monster Manual p. 216, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Spelljammer Academy*  
+*Source: Monster Manual p. 216. Available in the SRD.*  
 
 ## Mephits
 
@@ -24,8 +23,6 @@ A mephit doesn't require food, drink, or sleep.
 ## Magma Mephit
 
 Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
-
-## Stat Block
 
 ```statblock
 "name": "Magma Mephit"
@@ -42,9 +39,9 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 - !!int "7"
 - !!int "10"
 - !!int "10"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  "Stealth": "+3"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "poisoned"
@@ -52,29 +49,24 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 "languages": "Ignan, Terran"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit can innately cast [[/5. Mechanics/Spells/Heat Metal.md|heat metal]]\
+- "desc": "The mephit can innately cast [[5. Mechanics\Spells\Heat Metal.md|heat metal]]\
     \ (spell save DC 10), requiring no material components. Its innate spellcasting\
-    \ ability is Charisma.\n\nAt will: [[/5. Mechanics/Spells/Heat Metal.md|heat metal]]"
+    \ ability is Charisma.\n\nAt will: [[5. Mechanics\Spells\Heat Metal.md|heat metal]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
+- "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
     \ 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (dice: 2d6|avg\
     \ (2d6)) fire damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Death Burst"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
+- "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
     \ mound of magma."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage plus dice: 1d4|avg (1d4)\
-    \ fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) slashing damage plus 2 (dice: 1d4|avg\
+    \ (1d4)) fire damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mephit exhales a 15-foot cone of fire. Each creature in that area must\
+- "desc": "The mephit exhales a 15-foot cone of fire. Each creature in that area must\
     \ make a DC 11 Dexterity saving throw, taking 7 (dice: 2d6|avg (2d6)) fire\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 6)"
@@ -87,7 +79,7 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 - "GoS"
 - "EGW"
 - "SjA"
-"image": "5. Mechanics/Bestiary/Elemental/token/magma-mephit.png"
+"image": "compendium/bestiary/elemental/token/magma-mephit.png"
 ```
 ^statblock
 

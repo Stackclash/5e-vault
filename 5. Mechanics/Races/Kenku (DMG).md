@@ -10,7 +10,7 @@ aliases: ["Kenku (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Dexterity +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -22,7 +22,7 @@ In the first round of a combat, you have advantage on attack rolls against any c
 
 ### Mimicry
 
-You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[5. Mechanics/Rules/Skills.md#Insight|Insight]]) check.
+You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[\5. Mechanics\Rules\Skills.md#Insight|Insight]]) check.
 
 ### Languages
 

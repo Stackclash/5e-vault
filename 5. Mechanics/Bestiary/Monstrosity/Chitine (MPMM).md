@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Chitine"]
 ---
 # Chitine
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  
@@ -25,7 +24,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "name": "Chitine"
 "size": "Small"
 "type": "monstrosity"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
@@ -36,43 +35,37 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 - !!int "10"
 - !!int "10"
 - !!int "7"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "4"
-  "Stealth": !!int "4"
+  "Athletics": "+4"
+  "Stealth": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Undercommon"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chitine has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The chitine has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put the chitine to sleep."
   "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in contact with a web, the chitine knows the exact location of any\
+- "desc": "While in contact with a web, the chitine knows the exact location of any\
     \ other creature in contact with the same web."
   "name": "Web Sense"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chitine ignores movement restrictions caused by webbing."
+- "desc": "The chitine ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The chitine makes three Dagger attacks."
+- "desc": "The chitine makes three Dagger attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
     \ damage."
   "name": "Dagger"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/chitine.png"
+"image": "compendium/bestiary/monstrosity/token/chitine.png"
 ```
 ^statblock
 

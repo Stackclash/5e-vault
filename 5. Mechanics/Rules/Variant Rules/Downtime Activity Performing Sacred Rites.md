@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Downtime Activity: Performing Sacred Rites"]
 ---
 # Downtime Activity: Performing Sacred Rites

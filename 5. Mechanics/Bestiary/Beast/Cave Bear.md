@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Cave Bear"]
 ---
 # Cave Bear
-*Source: Monster Manual p. 334, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 334*  
 
 ```statblock
 "name": "Cave Bear"
@@ -27,34 +26,30 @@ statblock: inline
 - !!int "2"
 - !!int "13"
 - !!int "7"
-"speed": "walk 40 ft., swim 30 ft."
+"speed": "40 ft., swim 30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The bear has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The bear makes two attacks: one with its bite and one with its claws."
+- "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
 - "TftYP"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Beast/token/cave-bear.png"
+"image": "compendium/bestiary/beast/token/cave-bear.png"
 ```
 ^statblock
 

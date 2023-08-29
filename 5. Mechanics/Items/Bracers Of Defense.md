@@ -12,10 +12,10 @@ aliases: ["Bracers of Defense"]
 # Bracers of Defense
 *Wondrous Item, major, rare (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
 While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
 
-*Source: Dungeon Master's Guide p. 156*
+*Source: Dungeon Master's Guide p. 156. Available in the SRD.*

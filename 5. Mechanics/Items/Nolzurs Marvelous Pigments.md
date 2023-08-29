@@ -24,4 +24,4 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
-*Source: Dungeon Master's Guide p. 183*
+*Source: Dungeon Master's Guide p. 183. Available in the SRD (as 'Marvelous Pigments').*

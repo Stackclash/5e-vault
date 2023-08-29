@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Green Dragon"]
 ---
 # Young Green Dragon
-*Source: Monster Manual p. 94, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, The Lost Dungeon of Rickedness: Big Rick Energy*  
+*Source: Monster Manual p. 94. Available in the SRD and the Basic Rules.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 
@@ -101,8 +100,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Young Green Dragon"
 "size": "Large"
@@ -118,40 +115,35 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "16"
 - !!int "13"
 - !!int "15"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  "Charisma": "+5"
+  "Dexterity": "+4"
+  "Wisdom": "+4"
+  "Constitution": "+6"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
+  "Deception": "+5"
+  "Stealth": "+4"
+  "Perception": "+7"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 2d6|avg\
-    \ (2d6) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) piercing damage plus 7 (dice:\
+    \ 2d6|avg (2d6)) poison damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in that\
+- "desc": "The dragon exhales poisonous gas in a 30-foot cone. Each creature in that\
     \ area must make a DC 14 Constitution saving throw, taking 42 (dice: 12d6|avg\
     \ (12d6)) poison damage on a failed save, or half as much damage on a successful\
     \ one."
@@ -163,7 +155,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "WDMM"
 - "BGDIA"
 - "RMBRE"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-green-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-green-dragon.png"
 ```
 ^statblock
 

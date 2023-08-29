@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
-statblock: inline
+aliases: ["Kuo-toa Monitor"]
 ---
 # Kuo-toa Monitor
-*Source: Monster Manual p. 198, Princes of the Apocalypse, Ghosts of Saltmarsh*  
+*Source: Monster Manual p. 198*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
@@ -53,8 +52,6 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > They invent their own gods... the very definition of insanity.
 
 
-## Stat Block
-
 ```statblock
 "name": "Kuo-toa Monitor"
 "size": "Medium"
@@ -71,53 +68,45 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - !!int "12"
 - !!int "14"
 - !!int "11"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "5"
-  "Perception": !!int "6"
+  "Religion": "+5"
+  "Perception": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can breathe air and water."
+- "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+- "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
+    \ that is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
+- "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
     \ a grapple."
   "name": "Slippery"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa adds its Wisdom modifier to its armor class."
+- "desc": "The kuo-toa adds its Wisdom modifier to its armor class."
   "name": "Unarmored Defense"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
+- "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage plus dice: 1d6|avg\
-    \ (1d6) lightning damage, and the target can't take reactions until the end\
-    \ of the kuo-toa's next turn."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) lightning damage, and the target can't take reactions until\
+    \ the end of the kuo-toa's next turn."
   "name": "Unarmed Strike"
 "source":
 - "MM"
 - "PotA"
 - "GoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-monitor.png"
+"image": "compendium/bestiary/humanoid/token/kuo-toa-monitor.png"
 ```
 ^statblock
 

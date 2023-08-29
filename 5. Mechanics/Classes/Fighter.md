@@ -7,7 +7,7 @@ tags:
 aliases: ["Fighter"]
 ---
 # Fighter
-*Source: Player's Handbook p. 70*  
+*Source: Player's Handbook p. 70. Available in the SRD and the Basic Rules.*  
 
 > [!tldr]- Feature progression
 > 
@@ -16,7 +16,7 @@ aliases: ["Fighter"]
 > | 1st | +2 | [Fighting Style](#Fighting%20Style%20(Level%201)), [Second Wind](#Second%20Wind%20(Level%201)) |
 > | 2nd | +2 | [Action Surge](#Action%20Surge%20(Level%202)) |
 > | 3rd | +2 | [Martial Archetype](#Martial%20Archetype%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
 > | 6th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%206)) |
 > | 7th | +3 | [Martial Archetype feature](#Martial%20Archetype%20feature%20(Level%207)) |
@@ -42,24 +42,24 @@ aliases: ["Fighter"]
 
 - **Hit Dice**: 1d10 per Fighter level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d10 + CON  (minimum of 1)
 
-## Starting a Fighter
+## Starting Fighter
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Saving Throws:** Strength, Constitution
-- **Armor:** light, medium, heavy, [[/5. Mechanics/Items/Shield.md|shields]]
-- **Weapons:** simple, martial
-- **Tools:** none
-- **Skills:** Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *History*, *Insight*, *Intimidation*, *Perception*, *Survival*
+- **Saving Throws**: Strength, Constitution
+- **Armor**: light, medium, heavy, [[5. Mechanics\Items\Shield.md|shields]]
+- **Weapons**: simple, martial
+- **Tools**: none
+- **Skills**: Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *History*, *Insight*, *Intimidation*, *Perception*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[/5. Mechanics/Items/Chain Mail.md|chain mail]] or (b) [[/5. Mechanics/Items/Leather Armor.md|leather armor]], [[/5. Mechanics/Items/Longbow.md|longbow]], and [[/5. Mechanics/Items/Arrows-20.md|20 arrows]]  
-- (a) a martial weapon and a [[/5. Mechanics/Items/Shield.md|shield]] or (b) two martial weapons  
-- (a) a [[/5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]] or (b) two [[/5. Mechanics/Items/Handaxe.md|handaxes]]  
-- (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- (a) [[5. Mechanics\Items\Chain Mail.md|chain mail]] or (b) [[5. Mechanics\Items\Leather Armor.md|leather armor]], [[5. Mechanics\Items\Longbow.md|longbow]], and [[5. Mechanics\Items\Arrows-20.md|20 arrows]]  
+- (a) a martial weapon and a [[5. Mechanics\Items\Shield.md|shield]] or (b) two martial weapons  
+- (a) a [[5. Mechanics\Items\Light Crossbow.md|light crossbow]] and [[5. Mechanics\Items\Crossbow Bolts-20.md|20 bolts]] or (b) two [[5. Mechanics\Items\Handaxe.md|handaxes]]  
+- (a) a [[5. Mechanics\Items\Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[5. Mechanics\Items\Explorers Pack.md|explorer's pack]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -71,9 +71,108 @@ To multiclass as a Fighter, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/5. Mechanics/Items/Shield.md|shields]]
-- **Weapons:** simple, martial
-- **Tools:** none
+- **Armor**: light, medium, [[5. Mechanics\Items\Shield.md|shields]]
+- **Weapons**: simple, martial
+- **Tools**: none
+
+## Fighter
+
+A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.
+
+A dwarf in chain mail interposes his shield between the ogre's club and his companion, knocking the deadly blow aside. His companion, a half-elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.
+
+A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd's delight—and his own tactical advantage. His opponent's sword flares with blue light an instant before she sends lightning flashing forth to smite him.
+
+All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of Dungeons & Dragons. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings—as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.
+
+### Well-Rounded Specialists
+
+Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.
+
+### Trained for Danger
+
+Not every member of the city watch, the village militia, or the queen's army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.
+
+Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards—few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.
+
+### Creating a Fighter
+
+As you build your fighter, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.
+
+You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death's embrace.
+
+#### Quick Build
+
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [[5. Mechanics\Backgrounds\Soldier.md|soldier]] background.
+
+> [!quote]- A quote from Tordek  
+> 
+> Let me know when you're all done talking.
+
+Of all the adventurers in the worlds of D&D, the fighter is perhaps the greatest paradox. On the one hand, a singular feature of the class is that no two fighters ply their craft in quite the same way; their weapons, armor, and tactics differ across a vast spectrum. On the other hand, regardless of the tools and methods one uses, at the heart of every fighter's motivation lies the same basic truth: it is better to wound than to be wounded.
+
+Although some adventuring fighters risk their lives fighting for glory or treasure, others are primarily concerned with the welfare of others. They put more value on the well-being of the society, the village, or the group than on their own safety. Even if there's gold in the offing, the true reward for most fighters comes from sending enemies to their doom.
+
+The sections below offer ways to add a little depth and a few personal touches to your fighter character.
+
+## Heraldic Sign
+_Source: Xanathar's Guide to Everything_
+
+Fighters typically do battle for a cause. Some fight on behalf of kingdoms besieged by monsters, while others quest only for personal glory. In either case, a fighter often displays a heraldic sign that represents that cause, either adopting the symbol of a nation or a royal line, or creating a crest to represent one's self-interest.
+
+Your character could be affiliated with an organization or a cause, and thus might already travel under a banner of some sort. If that's not the case, consider devising a heraldic sign that symbolizes an aspect of your nature or speaks to what you see as your purpose in the world.
+
+**Heraldic Signs**
+
+| `dice: d6\|avg` (`d6`) | Heraldic Signs |
+|-----------|------------|----------------|
+| 1 | A rampant golden dragon on a green field, representing valor and a quest for wealth |
+| 2 | The fist of a storm giant clutching lightning before a storm cloud, symbolizing wrath and power |
+| 3 | Crossed greatswords in front of a castle gate, signifying the defense of a city or kingdom |
+| 4 | A skull with a dagger through it, representing the doom you bring to your enemies |
+| 5 | A phoenix in a ring of fire, an expression of an indomitable spirit |
+| 6 | Three drops of blood beneath a horizontal sword blade on a black background, symbolizing three foes you have sworn to kill |
+^heraldic-signs
+
+## Instructor
+_Source: Xanathar's Guide to Everything_
+
+Some fighters are natural-born combatants who have a talent for surviving in battle. Others learned the basics of their combat prowess in their formative years from spending time in a military or some other martial organization, when they were taught by the leaders of the group.
+
+A third type of fighter comes from the ranks of those who received one-on-one instruction from an accomplished veteran of the craft. That instructor was, or perhaps still is, well versed in a certain aspect of combat that relates to the student's background.
+
+If you decide that your character had an individual instructor, what is that person's specialty? Do you emulate your instructor in how you fight, or did you take the instructor's teachings and adapt them to your own purposes?
+
+**Instructor**
+
+| `dice: d6\|avg` (`d6`) | Instructor |
+|-----------|------------|------------|
+| 1 | Gladiator. Your instructor was a slave who fought for freedom in the arena, or one who willingly chose the gladiator's life to earn money and fame. |
+| 2 | Military. Your trainer served with a group of soldiers and knows much about working as a team. |
+| 3 | City Watch. Crowd control and peacekeeping are your instructor's specialties. |
+| 4 | Tribal Warrior. Your instructor grew up in a tribe, where fighting for one's life was practically an everyday occurrence. |
+| 5 | Street Fighter. Your trainer excels at urban combat, combining close-quarters work with silence and efficiency. |
+| 6 | Weapon Master. Your mentor helped you to become one with your chosen weapon, by imparting highly specialized knowledge of how to wield it most effectively. |
+^instructor
+
+## Style
+_Source: Xanathar's Guide to Everything_
+
+Many fighters distinguish themselves from their peers by adopting and perfecting a particular style or method of waging combat. Although this style might be a natural outgrowth of a fighter's personality, that's not always the case—someone's approach to the world in general does not necessarily dictate how that person operates when lives are on the line.
+
+Do you have a combat style that mirrors your outlook on life, or is something else inside you unleashed when weapons are drawn?
+
+**Style**
+
+| `dice: d6\|avg` (`d6`) | Style |
+|-----------|------------|-------|
+| 1 | Elegant. You move with precise grace and total control, never using more energy than you need. |
+| 2 | Brutal. Your attacks rain down like hammer blows, meant to splinter bone or send blood flying. |
+| 3 | Cunning. You dart in to attack at just the right moment and use small-scale tactics to tilt the odds in your favor. |
+| 4 | Effortless. You rarely perspire or display anything other than a stoic expression in battle. |
+| 5 | Energetic. You sing and laugh during combat as your spirit soars. You are happiest when you have a foe in front of you and a weapon in hand. |
+| 6 | Sinister. You scowl and sneer while fighting, and you enjoy mocking your foes as you defeat them. |
+^style
 
 ## Class Features
 
@@ -81,25 +180,12 @@ You gain the following proficiencies:
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [[/5. Mechanics/Classes/Fighter.md#Archery|Archery]]  
-- Close Quarters Shooter  
-- [[/5. Mechanics/Classes/Fighter.md#Defense|Defense]]  
-- [[/5. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
-- [[/5. Mechanics/Classes/Fighter.md#Great%20Weapon%20Fighting|Great Weapon Fighting]]  
-- Mariner  
-- [[/5. Mechanics/Classes/Fighter.md#Protection|Protection]]  
-- Tunnel Fighter  
-- [Two-Weapon Fighting](/compendium/classes/fighter.md#Two-Weapon%20Fighting)  
-- Superior Technique  
-- Blind Fighting  
-- Interception  
-- Thrown Weapon Fighting  
-- Unarmed Fighting  
-- [[/5. Mechanics/Classes/Fighter.md#Blind%20Fighting|Blind Fighting]]  
-- [[/5. Mechanics/Classes/Fighter.md#Interception|Interception]]  
-- [[/5. Mechanics/Classes/Fighter.md#Superior%20Technique|Superior Technique]]  
-- [[/5. Mechanics/Classes/Fighter.md#Thrown%20Weapon%20Fighting|Thrown Weapon Fighting]]  
-- [[/5. Mechanics/Classes/Fighter.md#Unarmed%20Fighting|Unarmed Fighting]]  
+- [[5. Mechanics\Optional Features\Archery.md|Archery]]  
+- [[5. Mechanics\Optional Features\Defense.md|Defense]]  
+- [[5. Mechanics\Optional Features\Dueling.md|Dueling]]  
+- [[5. Mechanics\Optional Features\Great Weapon Fighting.md|Great Weapon Fighting]]  
+- [[5. Mechanics\Optional Features\Protection.md|Protection]]  
+- [[5. Mechanics\Optional Features\Two Weapon Fighting.md|Two-Weapon Fighting]]  
 
 ### Second Wind (Level 1)
 
@@ -123,19 +209,9 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Martial Versatility (Level 4)
-_Source: Tasha's Cauldron of Everything p. 41_
-
-_4th-level fighter optional class features_
-
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
-
-- Replace a fighting style you know with another fighting style available to fighters.  
-- If you know any maneuvers from the [[/5. Mechanics/Classes/Fighter Battle Master.md|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
-
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[\5. Mechanics\Rules\Actions.md#Attack|Attack]] action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
@@ -167,7 +243,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 
 ### Extra Attack (2) (Level 11)
 
-At 11th level, you can attack three times whenever you take the Attack action on your turn.
+At 11th level, you can attack three times whenever you take the [[\5. Mechanics\Rules\Actions.md#Attack|Attack]] action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -215,107 +291,10 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) (Level 20)
 
-At 20th level, you can attack four times whenever you take the Attack action on your turn.
+At 20th level, you can attack four times whenever you take the [[\5. Mechanics\Rules\Actions.md#Attack|Attack]] action on your turn.
 
-## Fighting Style
+## Optional Features
 
-### Archery
-
-You gain a +2 bonus to attack rolls you make with ranged weapons.
-
-### Blind Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.
-
-### Blind Fighting
-_Source: Tasha's Cauldron of Everything p. 41_
-
-You have [[5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
-
-### Close Quarters Shooter
-_Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
-
-When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
-
-### Defense
-
-While you are wearing armor, you gain a +1 bonus to AC.
-
-### Dueling
-
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-### Great Weapon Fighting
-
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
-
-### Interception
-_Source: Tasha's Cauldron of Everything p. 41_
-
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/5. Mechanics/Items/Shield.md|shield]] or a simple or martial weapon to use this reaction.
-
-### Interception
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-
-### Mariner
-_Source: Unearthed Arcana: Waterborne Adventures p. 3_
-
-As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
-
-### Protection
-
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-### Superior Technique
-_Source: Unearthed Arcana: Class Feature Variants p. 5_
-
-You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-
-You gain one superiority die, which is a `dice: d6` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-
-### Superior Technique
-_Source: Tasha's Cauldron of Everything p. 41_
-
-You learn one maneuver of your choice from among those available to the [[/5. Mechanics/Classes/Fighter Battle Master.md|Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-
-You gain one superiority die, which is a `dice: d6` (`d6`) (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
-
-### Thrown Weapon Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 13_
-
-You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.
-
-### Thrown Weapon Fighting
-_Source: Tasha's Cauldron of Everything p. 42_
-
-You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
-
-### Tunnel Fighter
-_Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
-
-As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
-
-### Two-Weapon Fighting
-
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
-
-### Unarmed Fighting
-_Source: Tasha's Cauldron of Everything p. 42_
-
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier on a hit. If you aren't wielding any weapons or a [[/5. Mechanics/Items/Shield.md|shield]] when you make the attack roll, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
-
-At the start of each of your turns, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to one creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] by you.
-
-### Unarmed Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 13_
-
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
-
-When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+> [!example]- Fighting Style, Fighter
+> ![Fighting Style, Fighter](compendium/optional-features/list-fighting-style-fighter.md#Fighting%20Style,%20Fighter)
+^list-fighting-style-fighter

@@ -16,7 +16,7 @@ aliases: ["Staff of the Adder"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 

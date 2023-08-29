@@ -12,4 +12,4 @@ aliases: ["Sling Bullet"]
 - **Cost**: ⏤
 - **Weight**: 0.075 lbs.
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Hippogriff"]
 ---
 # Hippogriff
-*Source: Monster Manual p. 184, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Eberron: Rising from the Last War, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 184. Available in the SRD and the Basic Rules.*  
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
 
@@ -22,8 +21,6 @@ Dragons, griffons, and wyverns have a taste for hippogriff meat and frequently p
 ## Flying Mounts
 
 A hippogriff raised in captivity can be trained to be a faithful companion and mount. Of all the creatures that can serve as flying mounts, hippogriffs are among the easiest to train and the most loyal once trained properly.
-
-## Stat Block
 
 ```statblock
 "name": "Hippogriff"
@@ -40,28 +37,24 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 - !!int "2"
 - !!int "12"
 - !!int "8"
-"speed": "walk 40 ft., fly 60 ft."
+"speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hippogriff has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The hippogriff has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hippogriff makes two attacks: one with its beak and one with its claws."
+- "desc": "The hippogriff makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage."
   "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -70,7 +63,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 - "WDH"
 - "ERLW"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hippogriff.png"
+"image": "compendium/bestiary/monstrosity/token/hippogriff.png"
 ```
 ^statblock
 

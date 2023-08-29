@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/goblinoid
-statblock: inline
+aliases: ["Hobgoblin Warlord"]
 ---
 # Hobgoblin Warlord
-*Source: Monster Manual p. 187, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 187*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
@@ -72,8 +71,6 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 > Victory is ours!
 
 
-## Stat Block
-
 ```statblock
 "name": "Hobgoblin Warlord"
 "size": "Medium"
@@ -90,50 +87,44 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - !!int "14"
 - !!int "11"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "3"
-  "Intelligence": !!int "5"
+  "Charisma": "+5"
+  "Wisdom": "+3"
+  "Intelligence": "+5"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Once per turn, the hobgoblin can deal an extra 14 (dice: 4d6|avg (4d6))\
+- "desc": "Once per turn, the hobgoblin can deal an extra 14 (dice: 4d6|avg (4d6))\
     \ damage to a creature it hits with a weapon attack if that creature is within\
-    \ 5 feet of an ally of the hobgoblin that isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ 5 feet of an ally of the hobgoblin that isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin makes three melee attacks. Alternatively, it can make two\
+- "desc": "The hobgoblin makes three melee attacks. Alternatively, it can make two\
     \ ranged attacks with its javelins."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or 8 (dice: 1d10 + 3|avg\
-    \ (1d10 + 3)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
+    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage. If the target is Large\
-    \ or smaller, it must succeed on a DC 14 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage. If the target\
+    \ is Large or smaller, it must succeed on a DC 14 Strength saving throw or be\
+    \ knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Shield Bash"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3))\
+    \ piercing damage."
   "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
+- "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
     \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
     \ provided it can hear and understand the hobgoblin. A creature can benefit from\
-    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin adds 3 to its AC against one melee attack that would hit\
+- "desc": "The hobgoblin adds 3 to its AC against one melee attack that would hit\
     \ it. To do so, the hobgoblin must see the attacker and be wielding a melee weapon."
   "name": "Parry"
 "source":
@@ -142,7 +133,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - "WDMM"
 - "BGDIA"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Humanoid/token/hobgoblin-warlord.png"
+"image": "compendium/bestiary/humanoid/token/hobgoblin-warlord.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Owl"]
 ---
 # Giant Owl
-*Source: Monster Manual p. 327, Storm King's Thunder, Eberron: Rising from the Last War, Infernal Machine Rebuild, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 
@@ -30,26 +29,23 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 - !!int "8"
 - !!int "13"
 - !!int "10"
-"speed": "walk 5 ft., fly 60 ft."
+"speed": "5 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  "Stealth": "+4"
+  "Perception": "+5"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Giant Owl, understands Common, Elvish, and Sylvan but can't speak them"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
+- "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
     \ reach."
   "name": "Flyby"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The owl has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The owl has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 1|avg (2d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 2d6 + 1|avg (2d6 + 1)) slashing damage."
   "name": "Talons"
 "source":
 - "MM"
@@ -57,7 +53,7 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 - "ERLW"
 - "IMR"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-owl.png"
+"image": "compendium/bestiary/beast/token/giant-owl.png"
 ```
 ^statblock
 

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/small
 - monster/type/plant
-statblock: inline
+aliases: ["Myconid Sprout"]
 ---
 # Myconid Sprout
-*Source: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Dragons of Stormwreck Isle*  
+*Source: Monster Manual p. 230*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
@@ -22,8 +21,6 @@ A meld is a form of communal meditation that allows myconids to transcend their 
 ## Myconid Reproduction
 
 Like other fungi, myconids reproduce by mundane sporing. They carefully control their spores' release to avoid overpopulation.
-
-## Stat Block
 
 ```statblock
 "name": "Myconid Sprout"
@@ -40,28 +37,24 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - !!int "8"
 - !!int "11"
 - !!int "5"
-"speed": "walk 10 ft."
+"speed": "10 ft."
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the myconid takes damage, all other myconids within 240 feet of it\
+- "desc": "When the myconid takes damage, all other myconids within 240 feet of it\
     \ can sense its pain."
   "name": "Distress Spores"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the myconid has disadvantage on ability checks, attack\
+- "desc": "While in sunlight, the myconid has disadvantage on ability checks, attack\
     \ rolls, and saving throws. The myconid dies if it spends more than 1 hour in\
     \ direct sunlight."
   "name": "Sun Sickness"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) bludgeoning damage plus dice: 1d4|avg\
-    \ (1d4) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
+    \ Hit: 1 (dice: 1d4 - 1|avg (1d4 - 1)) bludgeoning damage plus 2 (dice:\
+    \ 1d4|avg (1d4)) poison damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 10-foot radius of spores extends from the myconid. These spores can go\
+- "desc": "A 10-foot radius of spores extends from the myconid. These spores can go\
     \ around corners and affect only creatures with an Intelligence of 2 or higher\
     \ that aren't undead, constructs, or elementals. Affected creatures can communicate\
     \ telepathically with one another while they are within 30 feet of each other.\
@@ -71,7 +64,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 - "MM"
 - "WDMM"
 - "DoSI"
-"image": "5. Mechanics/Bestiary/Plant/token/myconid-sprout.png"
+"image": "compendium/bestiary/plant/token/myconid-sprout.png"
 ```
 ^statblock
 

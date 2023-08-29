@@ -10,7 +10,7 @@ aliases: ["Kobold"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 25*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma
@@ -29,8 +29,8 @@ As a bonus action, you let out a cry at your enemies within 10 feet of you. Unti
 
 Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold.
 
-- **Craftiness.** You have proficiency in one of the following skills of your choice: [[5. Mechanics/Rules/Skills.md#Arcana|Arcana]], [[5. Mechanics/Rules/Skills.md#Investigation|Investigation]], [[5. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]], or [[5. Mechanics/Rules/Skills.md#Survival|Survival]].  
-- **Defiance.** You have advantage on saving throws to avoid or end the [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] condition on yourself.  
+- **Craftiness.** You have proficiency in one of the following skills of your choice: [[\5. Mechanics\Rules\Skills.md#Arcana|Arcana]], [[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]], [[\5. Mechanics\Rules\Skills.md#Medicine|Medicine]], [[\5. Mechanics\Rules\Skills.md#Sleight%20of%20Hand|Sleight of Hand]], or [[\5. Mechanics\Rules\Skills.md#Survival|Survival]].  
+- **Defiance.** You have advantage on saving throws to avoid or end the [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] condition on yourself.  
 - **Draconic Sorcery.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).  
 
 ## Description

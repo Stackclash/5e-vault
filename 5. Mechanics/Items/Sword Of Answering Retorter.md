@@ -17,7 +17,7 @@ aliases: ["Sword of Answering (Retorter)"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Frost Giant"]
 ---
 # Frost Giant
-*Source: Monster Manual p. 155, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 155. Available in the SRD and the Basic Rules.*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
 
@@ -74,8 +73,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
 
-## Stat Block
-
 ```statblock
 "name": "Frost Giant"
 "size": "Huge"
@@ -91,29 +88,26 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "9"
 - !!int "10"
 - !!int "12"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "8"
+  "Charisma": "+4"
+  "Wisdom": "+3"
+  "Constitution": "+8"
 "skillsaves":
-  "Athletics": !!int "9"
-  "Perception": !!int "3"
+  "Athletics": "+9"
+  "Perception": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
 "languages": "Giant"
 "cr": "8"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greataxe attacks."
+- "desc": "The giant makes two greataxe attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d12 + 6|avg (3d12 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: 25 (dice: 3d12 + 6|avg (3d12 + 6)) slashing damage."
   "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
+    \ target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"
@@ -123,7 +117,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "ToA"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Giant/token/frost-giant.png"
+"image": "compendium/bestiary/giant/token/frost-giant.png"
 ```
 ^statblock
 

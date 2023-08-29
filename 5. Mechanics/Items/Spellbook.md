@@ -14,4 +14,4 @@ aliases: ["Spellbook"]
 
 Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

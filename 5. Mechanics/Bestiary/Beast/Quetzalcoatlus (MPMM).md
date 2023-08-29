@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/beast/dinosaur
-statblock: inline
+aliases: ["Quetzalcoatlus"]
 ---
 # Quetzalcoatlus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
@@ -31,28 +30,26 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 10 ft., fly 80 ft."
+"speed": "10 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quetzalcoatlus doesn't provoke an opportunity attack when it flies\
-    \ out of an enemy's reach."
+- "desc": "The quetzalcoatlus doesn't provoke an [[\5. Mechanics\Rules\Actions.md#opportunity%20attack|opportunity attack]]\
+    \ when it flies out of an enemy's reach."
   "name": "Flyby"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 3d6 + 2|avg (3d6 + 2) piercing damage. If the quetzalcoatlus\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one creature.\
+    \ Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) piercing damage. If the quetzalcoatlus\
     \ flew least 30 feet toward the target immediately before the hit, the target\
     \ takes an extra 10 (dice: 3d6|avg (3d6)) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/quetzalcoatlus.png"
+"image": "compendium/bestiary/beast/token/quetzalcoatlus.png"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases: ["Hobgoblin (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: None
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -18,7 +18,7 @@ aliases: ["Hobgoblin (DMG)"]
 
 ### Martial Advantage
 
-Once per turn, you can deal an extra `dice: 2d6` (`2d6`) damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
+Once per turn, you can deal an extra `dice: 2d6` (`2d6`) damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].
 
 ### Darkvision
 

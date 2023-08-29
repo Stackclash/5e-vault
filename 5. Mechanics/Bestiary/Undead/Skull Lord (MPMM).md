@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead/sorcerer
-statblock: inline
+aliases: ["Skull Lord"]
 ---
 # Skull Lord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
@@ -22,7 +21,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "size": "Medium"
 "type": "undead"
 "subtype": "sorcerer"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
@@ -33,12 +32,12 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - !!int "16"
 - !!int "15"
 - !!int "21"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Athletics": !!int "7"
-  "Stealth": !!int "8"
-  "Perception": !!int "12"
-  "History": !!int "8"
+  "Athletics": "+7"
+  "Stealth": "+8"
+  "Perception": "+12"
+  "History": "+8"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
@@ -48,54 +47,42 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "languages": "all the languages it knew in life"
 "cr": "15"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skull, lord casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 18):\n\nAt will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Message.md|message]]\n\n1/day each: [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[/5. Mechanics/Spells/Cone Of Cold.md|cone of cold]]\n\n2/day each: [dimension\
-    \ door](/compendium/spells/dimension-door.md), [[/5. Mechanics/Spells/Fear.md|fear]]"
+- "desc": "The skull, lord casts one of the following spells, using Charisma as the\
+    \ spellcasting ability (spell save DC 18):\n\nAt will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Message.md|message]]\n\n1/day each: [[5. Mechanics\Spells\Cloudkill.md|cloudkill]],\
+    \ [[5. Mechanics\Spells\Cone Of Cold.md|cone of cold]]\n\n2/day each: [dimension\
+    \ door](compendium/spells/dimension-door.md), [[5. Mechanics\Spells\Fear.md|fear]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the skull lord is subjected to an effect that allows it to make a Dexterity\
+- "desc": "If the skull lord is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half the damage, the skull lord instead takes no damage\
     \ if it succeeds on the saving throw and only half damage if it fails, provided\
-    \ it isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ it isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Evasion"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
+- "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While within 30 feet of the skull lord, any Undead ally of the skull lord\
+- "desc": "While within 30 feet of the skull lord, any Undead ally of the skull lord\
     \ makes saving throws with advantage, and that ally regains dice: 1d6|avg (1d6)\
     \ hit points whenever it starts its turn there."
   "name": "Master of the Grave"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skull lord doesn't require air, food, drink, or sleep."
+- "desc": "The skull lord doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skull lord makes three Bone Staff or Deathly Ray attacks."
+- "desc": "The skull lord makes three Bone Staff or Deathly Ray attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage plus dice: 6d6|avg\
-    \ (6d6) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) bludgeoning damage plus 21 (dice:\
+    \ 6d6|avg (6d6)) necrotic damage."
   "name": "Bone Staff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 60 ft., one target.\
-    \ Hit: dice: 5d8 + 5|avg (5d8 + 5) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 60 ft., one target.\
+    \ Hit: 27 (dice: 5d8 + 5|avg (5d8 + 5)) necrotic damage."
   "name": "Deathly Ray"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."
+- "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."
   "name": "Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skull lord moves up to its speed without provoking opportunity attack||opportunity\
-    \ attacks."
+- "desc": "The skull lord moves up to its speed without provoking opportunity attacks."
   "name": "Move"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The skull lord summons up to five [[/5. Mechanics/Bestiary/Undead/Skeleton.md|skeletons]]\
-    \ or [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombies]] in unoccupied spaces within\
+- "desc": "The skull lord summons up to five [[5. Mechanics\Bestiary\Undead\Skeleton.md|skeletons]]\
+    \ or [[5. Mechanics\Bestiary\Undead\Zombie.md|zombies]] in unoccupied spaces within\
     \ 30 feet of it. They remain until destroyed. Undead summoned in this way roll\
     \ initiative, act in the next available turn, and obey the skull lord. The skull\
     \ lord can have no more than five Undead summoned by this ability at a time."
@@ -103,7 +90,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/skull-lord.png"
+"image": "compendium/bestiary/undead/token/skull-lord.png"
 ```
 ^statblock
 

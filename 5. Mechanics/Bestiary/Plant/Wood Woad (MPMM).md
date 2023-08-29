@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/forest
 - monster/size/medium
 - monster/type/plant
-statblock: inline
+aliases: ["Wood Woad"]
 ---
 # Wood Woad
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  
@@ -23,13 +22,13 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[5. Mechanics/Bestiary/Humanoid/Druid|druids]] and [[Treant|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[5. Mechanics\Bestiary\Humanoid\Druid.md|druids]] and [[5. Mechanics\Bestiary\Plant\Treant.md|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
 "name": "Wood Woad"
 "size": "Medium"
 "type": "plant"
-"alignment": "Lawful Neutral"
+"alignment": "Typically  Lawful Neutral"
 "ac": !!int "18"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
@@ -40,11 +39,11 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 - !!int "10"
 - !!int "13"
 - !!int "8"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "7"
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  "Athletics": "+7"
+  "Stealth": "+4"
+  "Perception": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "condition_immunities": "charmed, frightened"
@@ -52,34 +51,29 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "languages": "Sylvan"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wood woad has advantage on Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
+- "desc": "The wood woad has advantage on Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]])\
     \ checks it makes in any terrain with ample obscuring vegetation."
   "name": "Plant Camouflage"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wood woad regains 10 hit points at the start of its turn if it is in\
+- "desc": "The wood woad regains 10 hit points at the start of its turn if it is in\
     \ contact with the ground. If the wood woad takes fire damage, this trait doesn't\
     \ function at the start of the wood woad's next turn. The wood woad dies only\
     \ if it starts its turn with 0 hit points and doesn't regenerate."
   "name": "Regeneration"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Once on each of its turns, the wood woad can use 10 feet of its movement\
+- "desc": "Once on each of its turns, the wood woad can use 10 feet of its movement\
     \ to step magically into one living tree within 5 feet of it and emerge from a\
     \ second living tree within 60 feet of it that it can see, appearing in an unoccupied\
     \ space within 5 feet of the second tree. Both trees must be Large or bigger."
   "name": "Tree Stride"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wood woad makes two Club attacks."
+- "desc": "The wood woad makes two Club attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d4 + 4|avg (4d4 + 4) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 4d4 + 4|avg (4d4 + 4)) force damage."
   "name": "Club"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Plant/token/wood-woad.png"
+"image": "compendium/bestiary/plant/token/wood-woad.png"
 ```
 ^statblock
 

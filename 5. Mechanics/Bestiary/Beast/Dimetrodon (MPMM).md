@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/beast/dinosaur
-statblock: inline
+aliases: ["Dimetrodon"]
 ---
 # Dimetrodon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
@@ -30,21 +29,20 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 30 ft., swim 20 ft."
+"speed": "30 ft., swim 20 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/dimetrodon.png"
+"image": "compendium/bestiary/beast/token/dimetrodon.png"
 ```
 ^statblock
 

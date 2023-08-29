@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/fey/elf
-statblock: inline
+aliases: ["Spring Eladrin"]
 ---
 # Spring Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
@@ -30,16 +29,14 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[Conditions#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
-
-## Stat Block
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Spring Eladrin"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
 "hp": !!int "165"
 "hit_dice": "22d8 + 66"
@@ -50,59 +47,52 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - !!int "18"
 - !!int "11"
 - !!int "18"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "8"
-  "Persuasion": !!int "8"
+  "Deception": "+8"
+  "Persuasion": "+8"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin casts one of the following spells, requiring no material components\
+- "desc": "The eladrin casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\n\
-    1/day each: [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ [[5. Mechanics\Spells\Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\n\
+    1/day each: [[5. Mechanics\Spells\Major Image.md|major image]], [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
+- "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
     \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-    \ [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the eladrin for 1 minute.\
+    \ [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by the eladrin for 1 minute.\
     \ On a successful save, the creature becomes immune to any eladrin's Joyful Presence\
-    \ for 24 hours.\n\nWhenever the eladrin deals damage to the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ creature, the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] creature can\
+    \ for 24 hours.\n\nWhenever the eladrin deals damage to the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ creature, the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] creature can\
     \ repeat the saving throw, ending the effect on itself on a success."
   "name": "Joyful Presence"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin has advantage on saving throws against spells and other magical\
+- "desc": "The eladrin has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
+- "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) slashing damage, or 7 (dice: 1d10 + 2|avg\
-    \ (1d10 + 2)) slashing damage if used with two hands, plus dice: 5d8|avg (5d8)\
-    \ psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) slashing damage, or 7 (dice: 1d10\
+    \ + 2|avg (1d10 + 2)) slashing damage if used with two hands, plus 22 (dice:\
+    \ 5d8|avg (5d8)) psychic damage."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 5d8|avg\
-    \ (5d8) psychic damage."
+- "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
+    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 22 (dice:\
+    \ 5d8|avg (5d8)) psychic damage."
   "name": "Longbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
+- "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see."
   "name": "Fey Step (Recharge 4-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Fey/token/spring-eladrin.png"
+"image": "compendium/bestiary/fey/token/spring-eladrin.png"
 ```
 ^statblock
 

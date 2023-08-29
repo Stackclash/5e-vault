@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/elemental
-statblock: inline
+aliases: ["Azer"]
 ---
 # Azer
-*Source: Monster Manual p. 22, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault*  
+*Source: Monster Manual p. 22. Available in the SRD.*  
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
 
@@ -39,8 +38,6 @@ An azer doesn't require food, drink, or sleep.
 > Give me a hundred azer slaves, and I can forge an empire that would make the gods tremble.
 
 
-## Stat Block
-
 ```statblock
 "name": "Azer"
 "size": "Medium"
@@ -56,39 +53,35 @@ An azer doesn't require food, drink, or sleep.
 - !!int "12"
 - !!int "13"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Constitution": !!int "4"
+  "Constitution": "+4"
 "damage_immunities": "fire, poison"
 "condition_immunities": "poisoned"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A creature that touches the azer or hits it with a melee attack while within\
-    \ 5 feet of it takes dice: 1d10|avg (1d10) fire damage."
+- "desc": "A creature that touches the azer or hits it with a melee attack while within\
+    \ 5 feet of it takes 5 (dice: 1d10|avg (1d10)) fire damage."
   "name": "Heated Body"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the azer hits with a metal melee weapon, it deals an extra 3 (dice:\
+- "desc": "When the azer hits with a metal melee weapon, it deals an extra 3 (dice:\
     \ 1d6|avg (1d6)) fire damage (included in the attack)."
   "name": "Heated Weapons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The azer sheds bright light in a 10-foot radius and dim light for an additional\
+- "desc": "The azer sheds bright light in a 10-foot radius and dim light for an additional\
     \ 10 feet."
   "name": "Illumination"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage, or 8 (dice: 1d10 +\
-    \ 3|avg (1d10 + 3)) bludgeoning damage if used with two hands to make a melee\
-    \ attack, plus dice: 1d6|avg (1d6) fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) bludgeoning damage, or 8 (dice:\
+    \ 1d10 + 3|avg (1d10 + 3)) bludgeoning damage if used with two hands to make\
+    \ a melee attack, plus 3 (dice: 1d6|avg (1d6)) fire damage."
   "name": "Warhammer"
 "source":
 - "MM"
 - "PotA"
 - "WDMM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Elemental/token/azer.png"
+"image": "compendium/bestiary/elemental/token/azer.png"
 ```
 ^statblock

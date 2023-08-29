@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Maw Demon"]
 ---
 # Maw Demon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
@@ -40,7 +39,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
@@ -51,7 +50,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 - !!int "5"
 - !!int "8"
 - !!int "5"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, frightened, poisoned"
@@ -59,19 +58,17 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 2|avg (2d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d8 + 2|avg (2d8 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
-    \ on a DC 11 Dexterity saving throw or take dice: 2d10|avg (2d10) acid damage\
-    \ and fall [[5. Mechanics/Rules/Conditions.md#prone|prone]] in the spew."
+- "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
+    \ on a DC 11 Dexterity saving throw or take 11 (dice: 2d10|avg (2d10)) acid\
+    \ damage and fall [[\5. Mechanics\Rules\Conditions.md#prone|prone]] in the spew."
   "name": "Disgorge (Recharge 6)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/fiend/token/maw-demon.png"
+"image": "compendium/bestiary/fiend/token/maw-demon.png"
 ```
 ^statblock
 

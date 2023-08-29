@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underwater
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Merrow"]
 ---
 # Merrow
-*Source: Monster Manual p. 219, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 219. Available in the SRD.*  
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
 
@@ -25,8 +24,6 @@ Not knowing what it was, they brought the artifact to their king. Everyone who t
 Whenever an opportunity presents itself, the Prince of Demons sends merrow back to the Material Plane to wreak havoc in the oceans. The merrow are bullies, attacking all creatures smaller and weaker than themselves.
 
 Merrow dwell in undersea caves filled with treasures and trophies, taken from their victims and sunken ships. They tie the rotting corpses of dead enemies and drowned sailors to strands of kelp to mark the borders of their territory.
-
-## Stat Block
 
 ```statblock
 "name": "Merrow"
@@ -43,32 +40,28 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 - !!int "8"
 - !!int "10"
 - !!int "9"
-"speed": "walk 10 ft., swim 40 ft."
+"speed": "10 ft., swim 40 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Aquan"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The merrow can breathe air and water."
+- "desc": "The merrow can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The merrow makes two attacks: one with its bite and one with its claws\
+- "desc": "The merrow makes two attacks: one with its bite and one with its claws\
     \ or harpoon."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
-    \ damage. If the target is a Huge or smaller creature, it must succeed on a Strength\
-    \ contest against the merrow or be pulled up to 20 feet toward the merrow."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4))\
+    \ piercing damage. If the target is a Huge or smaller creature, it must succeed\
+    \ on a Strength contest against the merrow or be pulled up to 20 feet toward the\
+    \ merrow."
   "name": "Harpoon"
 "source":
 - "MM"
@@ -81,7 +74,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 - "IDRotF"
 - "WBtW"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/merrow.png"
+"image": "compendium/bestiary/monstrosity/token/merrow.png"
 ```
 ^statblock
 

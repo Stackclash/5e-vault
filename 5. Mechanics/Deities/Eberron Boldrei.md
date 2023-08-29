@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/5e/erlw
+- compendium/src/5e/phb
 - deity/eberron
 - domain/life
 - domain/peace
@@ -10,14 +10,10 @@ tags:
 aliases: ["Boldrei"]
 ---
 # Boldrei
-*Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 32, Tasha's Cauldron of Everything p. 34* 
-![[/5. Mechanics/Deities/img/erlw-the-sovereign-host.png#symbol|The Sovereign Host]]
+*Source: Player's Handbook p. 296, Tasha's Cauldron of Everything p. 32, Tasha's Cauldron of Everything p. 34* 
 
-- **Alignment**: Unaligned
+- **Alignment**: Lawful Good
 - **Category**: The Sovereign Host
 - **Domains**: Life, Peace, Twilight
 - **Pantheon**: Eberron
-- **Province**: Community, home
-- **Symbol**: Fire in a stone hearth _or_ copper dragon
-
-Boldrei is the Sovereign of Hall and Hearth. She guides and protects communities and families, inspiring people to work together for the common good.
+- **Symbol**: Fire in a stone hearth

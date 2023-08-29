@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
-statblock: inline
+aliases: ["Balhannoth"]
 ---
 # Balhannoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119*  
@@ -21,13 +20,11 @@ Dungeon builders and Underdark tyrants sometimes venture into the Shadowfell to 
 
 In the Shadowfell, balhannoths make their lairs near places inhabited by creatures they hunt. They typically haunt well-traveled roads and paths, snatching people who come along. A balhannoth used as a guardian in the Underdark might lair in caves near Underdark passages and guard the ways in and out of its keepers' enclave.
 
-## Stat Block
-
 ```statblock
 "name": "Balhannoth"
 "size": "Large"
 "type": "aberration"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
 "hp": !!int "114"
 "hit_dice": "12d10 + 48"
@@ -38,52 +35,45 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 - !!int "6"
 - !!int "15"
 - !!int "8"
-"speed": "walk 25 ft., climb 25 ft."
+"speed": "25 ft., climb 25 ft."
 "saves":
-  "Constitution": !!int "8"
+  "Constitution": "+8"
 "skillsaves":
-  "Perception": !!int "6"
+  "Perception": "+6"
 "condition_immunities": "blinded"
 "senses": "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
 "languages": "understands Deep Speech, telepathy 1 mile"
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the balhannoth fails a saving throw, it can choose to succeed instead."
+- "desc": "If the balhannoth fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (2/Day)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balhannoth makes one Bite attack and two Tentacle attacks."
+- "desc": "The balhannoth makes one Bite attack and two Tentacle attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple\
-    \ ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and the balhannoth can't use this tentacle against other targets. The balhannoth\
-    \ has four tentacles."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 15) and is\
+    \ moved up to 5 feet toward the balhannoth. Until this grapple ends, the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]], and the balhannoth\
+    \ can't use this tentacle against other targets. The balhannoth has four tentacles."
   "name": "Tentacle"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balhannoth makes one Bite attack against one creature it has [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
+- "desc": "The balhannoth makes one Bite attack against one creature it has [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balhannoth teleports, along with any equipment it is wearing or carrying\
-    \ and any creatures it has [[5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+- "desc": "The balhannoth teleports, along with any equipment it is wearing or carrying\
+    \ and any creatures it has [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]],\
     \ up to 60 feet to an unoccupied space it can see."
   "name": "Teleport"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The balhannoth magically becomes [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The balhannoth magically becomes [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
     \ for up to 10 minutes or until immediately after it makes an attack roll."
   "name": "Vanish"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/balhannoth.png"
+"image": "compendium/bestiary/aberration/token/balhannoth.png"
 ```
 ^statblock
 

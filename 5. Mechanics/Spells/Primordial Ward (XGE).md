@@ -9,6 +9,7 @@ tags:
 aliases: ["Primordial Ward"]
 ---
 # Primordial Ward
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Abjuration*  
 
 - **Casting time:** 1 action
@@ -20,6 +21,6 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]]
 
-Source: Xanathar's Guide to Everything p. 163, Elemental Evil Player's Companion p. 21
+*Source: Xanathar's Guide to Everything p. 163*

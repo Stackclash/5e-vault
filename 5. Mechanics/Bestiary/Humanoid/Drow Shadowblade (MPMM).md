@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
-statblock: inline
+aliases: ["Drow Shadowblade"]
 ---
 # Drow Shadowblade
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*  
@@ -31,59 +30,51 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 - !!int "12"
 - !!int "14"
 - !!int "13"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "9"
-  "Wisdom": !!int "6"
-  "Constitution": !!int "7"
+  "Dexterity": "+9"
+  "Wisdom": "+6"
+  "Constitution": "+7"
 "skillsaves":
-  "Stealth": !!int "9"
-  "Perception": !!int "6"
+  "Stealth": "+9"
+  "Perception": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow casts one of the following spells, requiring no material components\
+- "desc": "The drow casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Darkness.md|darkness]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[/5. Mechanics/Spells/Levitate.md|levitate]]\
+    \ [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]], [[5. Mechanics\Spells\Darkness.md|darkness]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Faerie Fire.md|faerie fire]], [[5. Mechanics\Spells\Levitate.md|levitate]]\
     \ (self only)"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the drow's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the drow's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
+    \ on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The drow makes three Shadow Sword attacks. One of the attacks can be replaced\
+- "desc": "The drow makes three Shadow Sword attacks. One of the attacks can be replaced\
     \ by a Hand Crossbow attack. The drow can also use Spellcasting to cast darkness."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 7d6 + 5|avg (7d6 + 5) necrotic\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: 27 (dice: 7d6 + 5|avg (7d6 + 5))\
+    \ necrotic damage."
   "name": "Shadow Sword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 5|avg (1d6 + 5) piercing damage, and the target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
-    \ while [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The target\
-    \ regains consciousness if it takes damage or if another creature takes an action\
-    \ to shake it."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
+    \ target. Hit: 8 (dice: 1d6 + 5|avg (1d6 + 5)) piercing damage, and the\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]\
+    \ while [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in this way. The\
+    \ target regains consciousness if it takes damage or if another creature takes\
+    \ an action to shake it."
   "name": "Hand Crossbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the drow teleports, along with any equipment\
+- "desc": "While in dim light or darkness, the drow teleports, along with any equipment\
     \ it is wearing or carrying, up to 60 feet to an unoccupied space it can see that\
     \ is also in dim light or darkness. It then has advantage on the first melee attack\
     \ it makes before the end of the turn."
@@ -91,7 +82,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow-shadowblade.png"
+"image": "compendium/bestiary/humanoid/token/drow-shadowblade.png"
 ```
 ^statblock
 

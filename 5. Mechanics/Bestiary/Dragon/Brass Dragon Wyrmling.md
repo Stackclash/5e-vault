@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Brass Dragon Wyrmling"]
 ---
 # Brass Dragon Wyrmling
-*Source: Monster Manual p. 106*  
+*Source: Monster Manual p. 106. Available in the SRD.*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
@@ -76,8 +75,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Brass Dragon Wyrmling"
 "size": "Medium"
@@ -93,37 +90,35 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "10"
 - !!int "11"
 - !!int "13"
-"speed": "walk 30 ft., burrow 15 ft., fly 60 ft."
+"speed": "30 ft., burrow 15 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "3"
+  "Charisma": "+3"
+  "Dexterity": "+2"
+  "Wisdom": "+2"
+  "Constitution": "+3"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  "Stealth": "+2"
+  "Perception": "+4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 11 Dexterity saving throw, taking 14 (dice: 4d6|avg\
     \ (4d6)) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Sleep Breath. The dragon exhales sleep gas in a 15-foot cone.\
     \ Each creature in that area must succeed on a DC 11 Constitution saving throw\
-    \ or fall [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute.\
+    \ or fall [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for 1 minute.\
     \ This effect ends for a creature if the creature takes damage or someone uses\
     \ an action to wake it.  "
   "name": "Breath Weapons (Recharge 5-6)"
 "source":
 - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/brass-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/brass-dragon-wyrmling.png"
 ```
 ^statblock

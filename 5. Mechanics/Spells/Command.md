@@ -6,7 +6,6 @@ tags:
 - spell/class/bard/college-of-glamour
 - spell/class/cleric
 - spell/class/cleric/knowledge-domain
-- spell/class/cleric/order-domain
 - spell/class/paladin
 - spell/class/paladin/oath-of-conquest
 - spell/class/sorcerer/divine-soul
@@ -16,6 +15,7 @@ tags:
 aliases: ["Command"]
 ---
 # Command
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Enchantment*  
 
 - **Casting time:** 1 action
@@ -41,7 +41,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [[5. Mechanics/Rules/Conditions.md#prone|prone]] and then ends its turn.
+The target falls [[\5. Mechanics\Rules\Conditions.md#prone|prone]] and then ends its turn.
 
 ## Halt
 
@@ -53,6 +53,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Classes/Bard College Of Glamour (XGE).md|Bard (College of Glamour)]], [[/5. Mechanics/Classes/Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[/5. Mechanics/Classes/Cleric Order Domain (TCE).md|Cleric (Order Domain)]], [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md|Paladin (Oath of Conquest)]], [[/5. Mechanics/Classes/Paladin.md|Paladin]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[/5. Mechanics/Classes/Warlock The Fiend.md|Warlock (The Fiend)]]
+**Classes**: [[5. Mechanics\Classes\Bard College Of Glamour (XGE).md|Bard (College of Glamour)]], [[5. Mechanics\Classes\Cleric Knowledge Domain.md|Cleric (Knowledge Domain)]], [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Paladin Oath Of Conquest (XGE).md|Paladin (Oath of Conquest)]], [[5. Mechanics\Classes\Paladin.md|Paladin]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics\Classes\Warlock The Fiend.md|Warlock (The Fiend)]]
 
-Source: Player's Handbook p. 223
+*Source: Player's Handbook p. 223. Available in the SRD and the Basic Rules.*

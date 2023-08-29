@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/small
 - monster/type/construct
-statblock: inline
+aliases: ["Animated Halberd"]
 ---
 # Animated Halberd
 *Source: Curse of Strahd p. 59, Derived from Flying Sword (MM)*  
@@ -25,9 +24,9 @@ statblock: inline
 - !!int "1"
 - !!int "5"
 - !!int "1"
-"speed": "walk 0 ft., fly 50 ft. (hover)"
+"speed": "0 ft., fly 50 ft. (hover)"
 "saves":
-  "Dexterity": !!int "4"
+  "Dexterity": "+4"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
   \ poisoned"
@@ -35,24 +34,22 @@ statblock: inline
 "languages": ""
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sword is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the sword\
+- "desc": "The sword is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
+    \ while in the area of an [[5. Mechanics\Spells\Antimagic Field.md|antimagic field]].\
+    \ If targeted by [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], the sword\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
+    \ DC or fall [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for 1\
+    \ minute."
   "name": "Antimagic Susceptibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
+- "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
     \ from a normal sword."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 1|avg (1d10 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d10 + 1|avg (1d10 + 1)) slashing damage."
   "name": "Halberd"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-halberd.png"
+"image": "compendium/bestiary/construct/token/animated-halberd.png"
 ```
 ^statblock

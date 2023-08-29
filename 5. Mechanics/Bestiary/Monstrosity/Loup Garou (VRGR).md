@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
-statblock: inline
+aliases: ["Loup Garou"]
 ---
 # Loup Garou
 *Source: Van Richten's Guide to Ravenloft p. 237*  
@@ -14,11 +13,9 @@ Loup garou possess a strain of lycanthropy more virulent than that carried by co
 
 ## Loup Garou Lycanthropy
 
-A Humanoid who succumbs to a loup garou's lycanthropy becomes a werewolf. This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives. See the _Monster Manual_ for details on lycanthropy.
+A Humanoid who succumbs to a loup garou's lycanthropy becomes a werewolf. This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives. See the *Monster Manual* for details on lycanthropy.
 
-Once a loup garou is slain, a [[Remove Curse|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
-
-## Stat Block
+Once a loup garou is slain, a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
 
 ```statblock
 "name": "Loup Garou"
@@ -36,76 +33,65 @@ Once a loup garou is slain, a [[Remove Curse|remove curse]] spell cast during th
 - !!int "14"
 - !!int "16"
 - !!int "16"
-"speed": "walk 30 ft. (40 ft. in hybrid form, 50 ft. in dire wolf form)"
+"speed": "30 ft. (40 ft. in hybrid form, 50 ft. in dire wolf form)"
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "9"
-  "Constitution": !!int "9"
+  "Charisma": "+8"
+  "Dexterity": "+9"
+  "Constitution": "+9"
 "skillsaves":
-  "Stealth": !!int "9"
-  "Perception": !!int "13"
+  "Stealth": "+9"
+  "Perception": "+13"
 "condition_immunities": "charmed, frightened"
 "senses": "darkvision 120 ft., passive Perception 23"
 "languages": "Common (can't speak in wolf form)"
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou has advantage on attack rolls against a creature that doesn't\
+- "desc": "The loup garou has advantage on attack rolls against a creature that doesn't\
     \ have all its hit points."
   "name": "Blood Frenzy"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the loup garou fails a saving throw, it can choose to succeed instead."
+- "desc": "When the loup garou fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (2/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou regains 10 hit points at the start of each of its turns.\
+- "desc": "The loup garou regains 10 hit points at the start of each of its turns.\
     \ If the loup garou takes damage from a silver weapon, this trait doesn't function\
     \ at the start of the loup garou's next turn. The loup garou dies only if it starts\
     \ its turn with 0 hit points and doesn't regenerate."
   "name": "Regeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou makes two attacks: two with its Longsword (humanoid form)\
+- "desc": "The loup garou makes two attacks: two with its Longsword (humanoid form)\
     \ or one with its Bite and one with its Claws (dire wolf or hybrid form)."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage plus dice: 4d6|avg (4d6)\
-    \ necrotic damage. If the target is a Humanoid, it must succeed on a DC 17 Constitution\
-    \ saving throw or be cursed with loup garou lycanthropy."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage plus 14 (dice:\
+    \ 4d6|avg (4d6)) necrotic damage. If the target is a Humanoid, it must succeed\
+    \ on a DC 17 Constitution saving throw or be cursed with loup garou lycanthropy."
   "name": "Bite (Dire Wolf or Hybrid Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. If the target is a creature,\
-    \ it must succeed on a DC 17 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. If the target is\
+    \ a creature, it must succeed on a DC 17 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Claws (Dire Wolf or Hybrid Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or 15 (dice: 2d10 + 4|avg\
-    \ (2d10 + 4)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, or 15 (dice: 2d10\
+    \ + 4|avg (2d10 + 4)) slashing damage if used with two hands."
   "name": "Longsword (Humanoid Form Only)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou polymorphs into a Large wolf-humanoid hybrid or into a Large\
+- "desc": "The loup garou polymorphs into a Large wolf-humanoid hybrid or into a Large\
     \ dire wolf, or back into its true form, which appears humanoid. Its statistics,\
     \ other than its size and speed, are the same in each form. Any equipment it is\
     \ wearing or carrying isn't transformed. It reverts to its true form if it dies."
   "name": "Change Shape"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou makes one Claws attack (dire wolf or hybrid form only) or\
+- "desc": "The loup garou makes one Claws attack (dire wolf or hybrid form only) or\
     \ one Longsword attack (humanoid form only)."
   "name": "Swipe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou moves up to its speed without provoking opportunity attacks,\
+- "desc": "The loup garou moves up to its speed without provoking opportunity attacks,\
     \ and it can make one Claws attack (dire wolf or hybrid form only) or one Longsword\
     \ attack (humanoid form only) against each creature it moves past."
   "name": "Mauling Pounce (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The loup garou changes into hybrid or dire wolf form and then makes one\
+- "desc": "The loup garou changes into hybrid or dire wolf form and then makes one\
     \ Bite attack."
   "name": "Bite (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/loup-garou.png"
+"image": "compendium/bestiary/monstrosity/token/loup-garou.png"
 ```
 ^statblock

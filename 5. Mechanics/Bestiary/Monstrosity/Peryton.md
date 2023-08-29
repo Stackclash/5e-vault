@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Peryton"]
 ---
 # Peryton
-*Source: Monster Manual p. 251, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 251*  
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
 
@@ -28,8 +27,6 @@ Perytons roost atop mountain ridges and lair in high caves. They prey on creatur
 
 Established settlements are attractive to perytons as a renewable food source. As such, village councils and local nobles often hire adventurers to eliminate peryton nests.
 
-## Stat Block
-
 ```statblock
 "name": "Peryton"
 "size": "Medium"
@@ -45,38 +42,32 @@ Established settlements are attractive to perytons as a renewable food source. A
 - !!int "9"
 - !!int "12"
 - !!int "10"
-"speed": "walk 20 ft., fly 60 ft."
+"speed": "20 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "passive Perception 15"
 "languages": "understands Common and Elvish but can't speak"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the peryton is flying and dives at least 30 feet straight toward a target\
+- "desc": "If the peryton is flying and dives at least 30 feet straight toward a target\
     \ and then hits it with a melee weapon attack, the attack deals an extra 9 (dice:\
     \ 2d8|avg (2d8)) damage to the target."
   "name": "Dive Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
+- "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
     \ an enemy's reach."
   "name": "Flyby"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The peryton has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The peryton has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The peryton makes one gore attack and one talon attack."
+- "desc": "The peryton makes one gore attack and one talon attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
   "name": "Gore"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) piercing damage."
   "name": "Talons"
 "source":
 - "MM"
@@ -87,7 +78,7 @@ Established settlements are attractive to perytons as a renewable food source. A
 - "IDRotF"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/peryton.png"
+"image": "compendium/bestiary/monstrosity/token/peryton.png"
 ```
 ^statblock
 

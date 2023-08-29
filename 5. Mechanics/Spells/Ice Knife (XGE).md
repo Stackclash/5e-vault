@@ -13,6 +13,7 @@ tags:
 aliases: ["Ice Knife"]
 ---
 # Ice Knife
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 157, Elemental Evil Player's Companion p. 19
+*Source: Xanathar's Guide to Everything p. 157*

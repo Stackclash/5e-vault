@@ -14,4 +14,4 @@ aliases: ["Two-Person Tent"]
 
 A simple and portable canvas shelter, a tent sleeps two.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
-- spell/class/artificer
 - spell/class/cleric/forge-domain
 - spell/class/paladin
 - spell/class/warlock/the-hexblade
@@ -12,6 +11,7 @@ tags:
 aliases: ["Elemental Weapon"]
 ---
 # Elemental Weapon
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -23,6 +23,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.
 
-**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric (Forge Domain)]], [[/5. Mechanics/Classes/Paladin.md|Paladin]], [[/5. Mechanics/Classes/Warlock The Hexblade (XGE).md|Warlock (The Hexblade)]]
+**Classes**: [[5. Mechanics\Classes\Cleric Forge Domain (XGE).md|Cleric (Forge Domain)]], [[5. Mechanics\Classes\Paladin.md|Paladin]], [[5. Mechanics\Classes\Warlock The Hexblade (XGE).md|Warlock (The Hexblade)]]
 
-Source: Player's Handbook p. 237
+*Source: Player's Handbook p. 237*

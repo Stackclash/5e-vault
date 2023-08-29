@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Shadow"]
 ---
 # Shadow
-*Source: Monster Manual p. 269, Curse of Strahd, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Spelljammer Academy*  
+*Source: Monster Manual p. 269, Curse of Strahd. Available in the SRD.*  
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 
@@ -23,8 +22,6 @@ If a creature from which a shadow has been created somehow returns to life, its 
 ## Undead Nature
 
 A shadow doesn't require air, food, drink, or sleep
-
-## Stat Block
 
 ```statblock
 "name": "Shadow"
@@ -41,9 +38,9 @@ A shadow doesn't require air, food, drink, or sleep
 - !!int "6"
 - !!int "10"
 - !!int "8"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  "Stealth": "+4"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
@@ -54,23 +51,19 @@ A shadow doesn't require air, food, drink, or sleep
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shadow can move through a space as narrow as 1 inch wide without squeezing."
+- "desc": "The shadow can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the shadow can take the Hide action as\
+- "desc": "While in dim light or darkness, the shadow can take the Hide action as\
     \ a bonus action. Its stealth bonus is also improved to +6."
   "name": "Shadow Stealth"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the shadow has disadvantage on attack rolls, ability\
+- "desc": "While in sunlight, the shadow has disadvantage on attack rolls, ability\
     \ checks, and saving throws."
   "name": "Sunlight Weakness"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) necrotic damage, and the target's Strength\
-    \ score is reduced by dice: 1d4|avg (1d4). The target dies if this reduces\
-    \ its Strength to 0. Otherwise, the reduction lasts until the target finishes\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) necrotic damage, and the target's\
+    \ Strength score is reduced by dice: 1d4|avg (1d4). The target dies if this\
+    \ reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes\
     \ a short or long rest.\n\nIf a non-evil humanoid dies from this attack, a new\
     \ shadow rises from the corpse dice: 1d4|avg (1d4) hours later."
   "name": "Strength Drain"
@@ -90,7 +83,8 @@ A shadow doesn't require air, food, drink, or sleep
 - "CM"
 - "WBtW"
 - "SjA"
-"image": "5. Mechanics/Bestiary/Undead/token/shadow.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/shadow.png"
 ```
 ^statblock
 

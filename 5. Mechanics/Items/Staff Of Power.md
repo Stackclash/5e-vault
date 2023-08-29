@@ -16,7 +16,7 @@ aliases: ["Staff of Power"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
@@ -30,7 +30,7 @@ When you hit with a melee attack using the staff, you can expend 1 charge to dea
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/5. Mechanics/Spells/Cone Of Cold.md|cone of cold]] (5 charges), [[/5. Mechanics/Spells/Fireball.md|fireball]] (5th-level version, 5 charges), [[/5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]] (6 charges), [[/5. Mechanics/Spells/Hold Monster.md|hold monster]] (5 charges), [[/5. Mechanics/Spells/Levitate.md|levitate]] (2 charges). [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]] (5th-level version, 5 charges), [[/5. Mechanics/Spells/Magic Missile.md|magic missile]] (1 charge), [[/5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]] (1 charge), or [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]] (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[5. Mechanics\Spells\Cone Of Cold.md|cone of cold]] (5 charges), [[5. Mechanics\Spells\Fireball.md|fireball]] (5th-level version, 5 charges), [[5. Mechanics\Spells\Globe Of Invulnerability.md|globe of invulnerability]] (6 charges), [[5. Mechanics\Spells\Hold Monster.md|hold monster]] (5 charges), [[5. Mechanics\Spells\Levitate.md|levitate]] (2 charges). [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]] (5th-level version, 5 charges), [[5. Mechanics\Spells\Magic Missile.md|magic missile]] (1 charge), [[5. Mechanics\Spells\Ray Of Enfeeblement.md|ray of enfeeblement]] (1 charge), or [[5. Mechanics\Spells\Wall Of Force.md|wall of force]] (5 charges).
 
 ## Retributive Strike
 
@@ -45,4 +45,4 @@ You have a 50% chance chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-effect
 
-*Source: Dungeon Master's Guide p. 202*
+*Source: Dungeon Master's Guide p. 202. Available in the SRD.*

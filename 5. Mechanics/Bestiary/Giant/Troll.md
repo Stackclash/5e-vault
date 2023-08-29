@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -11,10 +10,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
-statblock: inline
+aliases: ["Troll"]
 ---
 # Troll
-*Source: Monster Manual p. 291, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Storm Lord's Wrath, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 291. Available in the SRD and the Basic Rules.*  
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
@@ -25,8 +24,6 @@ Smashing a troll's bones and slashing through its rubbery hide only makes it ang
 ## Troll Freaks
 
 Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature's traits.
-
-## Stat Block
 
 ```statblock
 "name": "Troll"
@@ -43,34 +40,29 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 - !!int "7"
 - !!int "9"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The troll has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
+- "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
     \ takes acid or fire damage, this trait doesn't function at the start of the troll's\
     \ next turn. The troll dies only if it starts its turn with 0 hit points and doesn't\
     \ regenerate."
   "name": "Regeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll makes three attacks: one with its bite and two with its claws."
+- "desc": "The troll makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claw"
 "source":
 - "MM"
@@ -85,7 +77,8 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 - "GoS"
 - "SLW"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Giant/token/troll.png"
+- "PSZ"
+"image": "compendium/bestiary/giant/token/troll.png"
 ```
 ^statblock
 

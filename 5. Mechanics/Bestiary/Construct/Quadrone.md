@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Quadrone"]
 ---
 # Quadrone
-*Source: Monster Manual p. 226, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault*  
+*Source: Monster Manual p. 226*  
 
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
 
@@ -44,8 +43,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
 
-## Stat Block
-
 ```statblock
 "name": "Quadrone"
 "size": "Medium"
@@ -61,38 +58,33 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "10"
 - !!int "10"
 - !!int "11"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quadrone can't be compelled to act in a manner contrary to its nature\
+- "desc": "The quadrone can't be compelled to act in a manner contrary to its nature\
     \ or its instructions."
   "name": "Axiomatic Mind"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the quadrone dies, its body disintegrates into dust, leaving behind\
+- "desc": "If the quadrone dies, its body disintegrates into dust, leaving behind\
     \ its weapons and anything else it was carrying."
   "name": "Disintegration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quadrone makes two fist attacks or four shortbow attacks."
+- "desc": "The quadrone makes two fist attacks or four shortbow attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
+    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"
 - "ToA"
 - "WDMM"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/quadrone.png"
+"image": "compendium/bestiary/construct/token/quadrone.png"
 ```
 ^statblock

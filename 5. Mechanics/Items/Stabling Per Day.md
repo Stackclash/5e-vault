@@ -12,4 +12,4 @@ aliases: ["Stabling (per day)"]
 - **Cost**: 5 sp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 157*
+*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules.*

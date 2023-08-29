@@ -12,4 +12,4 @@ aliases: ["Paper (one sheet)"]
 - **Cost**: 2 sp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

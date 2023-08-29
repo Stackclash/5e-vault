@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Merregon"]
 ---
 # Merregon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  
@@ -21,7 +20,7 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
@@ -32,7 +31,7 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 - !!int "6"
 - !!int "12"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -41,33 +40,27 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the merregon's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the merregon's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The merregon has advantage on saving throws against spells and other magical\
+- "desc": "The merregon has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The merregon makes three Halberd attacks."
+- "desc": "The merregon makes three Halberd attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) slashing damage."
   "name": "Halberd"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 100/400 ft., one\
-    \ target. Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 100/400 ft., one\
+    \ target. Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage."
   "name": "Heavy Crossbow"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When another Fiend within 5 feet of the merregon is hit by an attack roll,\
+- "desc": "When another Fiend within 5 feet of the merregon is hit by an attack roll,\
     \ the merregon causes itself to be hit instead."
   "name": "Loyal Bodyguard"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/merregon.png"
+"image": "compendium/bestiary/fiend/token/merregon.png"
 ```
 ^statblock

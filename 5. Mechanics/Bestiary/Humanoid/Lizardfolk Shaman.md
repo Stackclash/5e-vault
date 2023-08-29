@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/humanoid/lizardfolk
-statblock: inline
+aliases: ["Lizardfolk Shaman"]
 ---
 # Lizardfolk Shaman
-*Source: Monster Manual p. 205, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Infernal Machine Rebuild, Explorer's Guide to Wildemount*  
+*Source: Monster Manual p. 205*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -49,8 +48,6 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
 
 
-## Stat Block
-
 ```statblock
 "name": "Lizardfolk Shaman"
 "size": "Medium"
@@ -67,50 +64,44 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - !!int "10"
 - !!int "15"
 - !!int "8"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
-  "Survival": !!int "6"
+  "Stealth": "+4"
+  "Perception": "+4"
+  "Survival": "+6"
 "senses": "passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is\
+- "desc": "The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is\
     \ Wisdom (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The\
     \ lizardfolk has the following druid spells prepared:\n\nCantrips (at will):\
-    \ [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[/5. Mechanics/Spells/Produce Flame.md|produce flame]],\
-    \ [[/5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\n1st level (4 1st-level slots):\
-    \ [[/5. Mechanics/Spells/Entangle.md|entangle]], [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
-    \ [[/5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\n3rd level (2 3rd-level\
-    \ slots): [[/5. Mechanics/Spells/Conjure Animals.md|conjure animals]] (reptiles\
-    \ only), [[/5. Mechanics/Spells/Plant Growth.md|plant growth]]"
+    \ [[5. Mechanics\Spells\Druidcraft.md|druidcraft]], [[5. Mechanics\Spells\Produce Flame.md|produce flame]],\
+    \ [[5. Mechanics\Spells\Thorn Whip.md|thorn whip]]\n\n1st level (4 1st-level slots):\
+    \ [[5. Mechanics\Spells\Entangle.md|entangle]], [[5. Mechanics\Spells\Fog Cloud.md|fog cloud]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Heat Metal.md|heat metal]],\
+    \ [[5. Mechanics\Spells\Spike Growth.md|spike growth]]\n\n3rd level (2 3rd-level\
+    \ slots): [[5. Mechanics\Spells\Conjure Animals.md|conjure animals]] (reptiles\
+    \ only), [[5. Mechanics\Spells\Plant Growth.md|plant growth]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lizardfolk can hold its breath for 15 minutes."
+- "desc": "The lizardfolk can hold its breath for 15 minutes."
   "name": "Hold Breath"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lizardfolk makes two attacks: one with its bite and one with its claws."
+- "desc": "The lizardfolk makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack (Lizardfolk Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, or 7 (dice: 1d10 + 2|avg\
-    \ (1d10 + 2)) piercing damage in [[/5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage, or 7 (dice: 1d10\
+    \ + 2|avg (1d10 + 2)) piercing damage in [[5. Mechanics\Bestiary\Beast\Crocodile.md|crocodile]]\
     \ form. If the lizardfolk is in crocodile form and the target is a Large or smaller\
-    \ creature, the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ creature, the target is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 12). Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the lizardfolk can't bite another target. If the lizardfolk reverts to its\
     \ true form, the grapple ends."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claws (Lizardfolk Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lizardfolk magically polymorphs into a [[/5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]],\
+- "desc": "The lizardfolk magically polymorphs into a [[5. Mechanics\Bestiary\Beast\Crocodile.md|crocodile]],\
     \ remaining in that form for up to 1 hour. It can revert to its true form as a\
     \ bonus action. Its statistics, other than its size, are the same in each form.\
     \ Any equipment it is wearing or carrying isn't transformed. It reverts to its\
@@ -123,7 +114,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "GoS"
 - "IMR"
 - "EGW"
-"image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk-shaman.png"
+"image": "compendium/bestiary/humanoid/token/lizardfolk-shaman.png"
 ```
 ^statblock
 

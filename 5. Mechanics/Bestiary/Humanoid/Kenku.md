@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/kenku
-statblock: inline
+aliases: ["Kenku"]
 ---
 # Kenku
-*Source: Monster Manual p. 194, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 194*  
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
 
@@ -35,8 +34,6 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 > If you hear a baby crying in an alley, walk the other way. That's my advice to you.
 
 
-## Stat Block
-
 ```statblock
 "name": "Kenku"
 "size": "Medium"
@@ -53,33 +50,29 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 - !!int "11"
 - !!int "10"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
+  "Deception": "+4"
+  "Stealth": "+5"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": "understands Auran and Common but speaks only through the use of its\
   \ Mimicry trait"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In the first round of a combat, the kenku has advantage on attack rolls\
+- "desc": "In the first round of a combat, the kenku has advantage on attack rolls\
     \ against any creature it surprised."
   "name": "Ambusher"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
+- "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 14 Wisdom\
     \ (Insight) check."
   "name": "Mimicry"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Shortsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
+    \ target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"
@@ -90,7 +83,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 - "ERLW"
 - "CM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kenku.png"
+"image": "compendium/bestiary/humanoid/token/kenku.png"
 ```
 ^statblock
 

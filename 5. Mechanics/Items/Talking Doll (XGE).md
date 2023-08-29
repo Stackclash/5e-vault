@@ -12,7 +12,7 @@ aliases: ["Talking Doll"]
 # Talking Doll
 *Wondrous Item, minor, common (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 

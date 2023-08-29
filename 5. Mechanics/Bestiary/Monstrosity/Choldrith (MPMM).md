@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/cleric
-statblock: inline
+aliases: ["Choldrith"]
 ---
 # Choldrith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
@@ -24,7 +23,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "cleric"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
@@ -35,68 +34,59 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 - !!int "11"
 - !!int "14"
 - !!int "10"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Stealth": !!int "5"
-  "Religion": !!int "2"
+  "Athletics": "+5"
+  "Stealth": "+5"
+  "Religion": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choldrith casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day each: [[/5. Mechanics/Spells/Bane.md|bane]],\
-    \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]"
+- "desc": "The choldrith casts one of the following spells, using Wisdom as the spellcasting\
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\n1/day each: [[5. Mechanics\Spells\Bane.md|bane]],\
+    \ [[5. Mechanics\Spells\Hold Person.md|hold person]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choldrith has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The choldrith has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put the choldrith to sleep."
   "name": "Fey Ancestry"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choldrith can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The choldrith can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the choldrith has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the choldrith has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in contact with a web, the choldrith knows the exact location of\
+- "desc": "While in contact with a web, the choldrith knows the exact location of\
     \ any other creature in contact with the same web."
   "name": "Web Sense"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choldrith ignores movement restrictions caused by webbing."
+- "desc": "The choldrith ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
-    \ damage plus dice: 3d6|avg (3d6) poison damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing\
+    \ damage plus 10 (dice: 3d6|avg (3d6)) poison damage."
   "name": "Dagger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 30/60 ft., one\
-    \ Large or smaller creature. Hit: The target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by webbing. As an action, the [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 30/60 ft., one\
+    \ Large or smaller creature. Hit: The target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by webbing. As an action, the [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
     \ target can make a DC 11 Strength check, bursting the webbing on a success. The\
     \ webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability\
     \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
   "name": "Web (Recharge 5-6)"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of itself.\
+- "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of itself.\
     \ The choldrith can make a melee spell attack (dice: d20+4 (+4 to hit)) against\
-    \ one creature within 5 feet of the dagger. On a hit, the target takes dice:\
-    \ 1d8 + 2|avg (1d8 + 2) force damage.\n\nThe dagger lasts for 1 minute. As\
+    \ one creature within 5 feet of the dagger. On a hit, the target takes 6 (dice:\
+    \ 1d8 + 2|avg (1d8 + 2)) force damage.\n\nThe dagger lasts for 1 minute. As\
     \ a bonus action on later turns, the choldrith can move the dagger up to 20 feet\
     \ and repeat the attack against one creature within 5 feet of the dagger."
   "name": "Spectral Dagger (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/choldrith.png"
+"image": "compendium/bestiary/monstrosity/token/choldrith.png"
 ```
 ^statblock
 

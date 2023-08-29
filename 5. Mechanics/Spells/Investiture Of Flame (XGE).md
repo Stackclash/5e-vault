@@ -12,6 +12,7 @@ tags:
 aliases: ["Investiture of Flame"]
 ---
 # Investiture of Flame
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Transmutation*  
 
 - **Casting time:** 1 action
@@ -25,6 +26,6 @@ Flames race across your body, shedding bright light in a 30-foot radius and dim 
 - Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes `dice: 1d10` (`1d10`) fire damage.  
 - You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes `dice: 4d8` (`4d8`) fire damage on a failed save, or half as much damage on a successful one.  
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 159, Elemental Evil Player's Companion p. 19
+*Source: Xanathar's Guide to Everything p. 159*

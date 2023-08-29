@@ -9,7 +9,7 @@ tags:
 aliases: ["Manannan mac Lir"]
 ---
 # Manannan mac Lir
-*Source: Player's Handbook p. 298* 
+*Source: Player's Handbook p. 298. Available in the SRD.* 
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Nature, Tempest

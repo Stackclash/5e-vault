@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Vrock"]
 ---
 # Vrock
-*Source: Monster Manual p. 64, Curse of Strahd, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 64, Curse of Strahd. Available in the SRD.*  
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
 
@@ -156,7 +155,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -165,15 +164,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -182,8 +181,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Vrock"
@@ -201,11 +198,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "8"
 - !!int "13"
 - !!int "8"
-"speed": "walk 40 ft., fly 60 ft."
+"speed": "40 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "2"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
+  "Charisma": "+2"
+  "Dexterity": "+5"
+  "Wisdom": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -214,37 +211,31 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vrock has advantage on saving throws against spells and other magical\
+- "desc": "The vrock has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vrock makes two attacks: one with its beak and one with its talons."
+- "desc": "The vrock makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage."
   "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3)) slashing damage."
   "name": "Talons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
+- "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
     \ spores spread around corners. Each creature in that area must succeed on a DC\
-    \ 14 Constitution saving throw or become [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ While [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, a target\
-    \ takes dice: 1d10|avg (1d10) poison damage at the start of each of its turns.\
-    \ A target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success. Emptying a vial of holy water on the target\
-    \ also ends the effect on it."
+    \ 14 Constitution saving throw or become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]].\
+    \ While [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] in this way, a target\
+    \ takes 5 (dice: 1d10|avg (1d10)) poison damage at the start of each of its\
+    \ turns. A target can repeat the saving throw at the end of each of its turns,\
+    \ ending the effect on itself on a success. Emptying a vial of holy water on the\
+    \ target also ends the effect on it."
   "name": "Spores (Recharge 6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
+- "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
     \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
-    \ saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the\
-    \ end of the vrock's next turn."
+    \ saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] until\
+    \ the end of the vrock's next turn."
   "name": "Stunning Screech (1/Day)"
 "source":
 - "MM"
@@ -257,6 +248,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "TCE"
 - "CM"
 - "CRCotN"
-"image": "/compendium/bestiary/fiend/token/vrock.png"
+- "PSI"
+"image": "compendium/bestiary/fiend/token/vrock.png"
 ```
 ^statblock

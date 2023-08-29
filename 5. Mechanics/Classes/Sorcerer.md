@@ -7,7 +7,7 @@ tags:
 aliases: ["Sorcerer"]
 ---
 # Sorcerer
-*Source: Player's Handbook p. 99*  
+*Source: Player's Handbook p. 99. Available in the SRD.*  
 
 > [!tldr]- Feature progression
 > 
@@ -15,9 +15,9 @@ aliases: ["Sorcerer"]
 > |-------|----|----------|
 > | 1st | +2 | [Spellcasting](#Spellcasting%20(Level%201)), [Sorcerous Origin](#Sorcerous%20Origin%20(Level%201)) |
 > | 2nd | +2 | [Font of Magic](#Font%20of%20Magic%20(Level%202)) |
-> | 3rd | +2 | [Metamagic](#Metamagic%20(Level%203)), [Metamagic Options](#Metamagic%20Options%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Sorcerous Versatility](#Sorcerous%20Versatility%20(Level%204)) |
-> | 5th | +3 | [Magical Guidance](#Magical%20Guidance%20(Level%205)) |
+> | 3rd | +2 | [Metamagic](#Metamagic%20(Level%203)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
+> | 5th | +3 | ⏤ |
 > | 6th | +3 | [Sorcerous Origin feature](#Sorcerous%20Origin%20feature%20(Level%206)) |
 > | 7th | +3 | ⏤ |
 > | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
@@ -69,24 +69,24 @@ aliases: ["Sorcerer"]
 
 - **Hit Dice**: 1d6 per Sorcerer level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 3 OR 1d6 + CON  (minimum of 1)
 
-## Starting a Sorcerer
+## Starting Sorcerer
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Saving Throws:** Constitution, Charisma
-- **Armor:** none
-- **Weapons:** [[/5. Mechanics/Items/Dagger.md|daggers]], [[/5. Mechanics/Items/Dart.md|darts]], [[/5. Mechanics/Items/Sling.md|slings]], [[/5. Mechanics/Items/Quarterstaff.md|quarterstaffs]], [[/5. Mechanics/Items/Light Crossbow.md|light crossbows]]
-- **Tools:** none
-- **Skills:** Choose 2 from *Arcana*, *Deception*, *Insight*, *Intimidation*, *Persuasion*, *Religion*
+- **Saving Throws**: Constitution, Charisma
+- **Armor**: none
+- **Weapons**: [[5. Mechanics\Items\Dagger.md|daggers]], [[5. Mechanics\Items\Dart.md|darts]], [[5. Mechanics\Items\Sling.md|slings]], [[5. Mechanics\Items\Quarterstaff.md|quarterstaffs]], [[5. Mechanics\Items\Light Crossbow.md|light crossbows]]
+- **Tools**: none
+- **Skills**: Choose 2 from *Arcana*, *Deception*, *Insight*, *Intimidation*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[/5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts-20.md|20 bolts]] or (b) any simple weapon  
-- (a) a [[/5. Mechanics/Items/Component Pouch.md|component pouch]] or (b) an arcane focus  
-- (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- Two [[/5. Mechanics/Items/Dagger.md|daggers]]  
+- (a) a [[5. Mechanics\Items\Light Crossbow.md|light crossbow]] and [[5. Mechanics\Items\Crossbow Bolts-20.md|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics\Items\Component Pouch.md|component pouch]] or (b) an arcane focus  
+- (a) a [[5. Mechanics\Items\Dungeoneers Pack.md|dungeoneer's pack]] or (b) an [[5. Mechanics\Items\Explorers Pack.md|explorer's pack]]  
+- Two [[5. Mechanics\Items\Dagger.md|daggers]]  
 
 Alternatively, you may start with 3d4 × 10 gp and choose your own equipment.
 
@@ -95,6 +95,128 @@ Alternatively, you may start with 3d4 × 10 gp and choose your own equipment.
 To multiclass as a Sorcerer, you must meet the following prerequisites:
 
 - Charisma 13
+
+## Sorcerer
+
+Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
+
+Long hair whipped by a conjured wind, a half-elf spreads his arms wide and throws his head back. Lifting him momentarily off the ground, a wave of magic surges up in him, through him, and out from him in a mighty blast of lightning.
+
+Crouching behind a stalagmite, a halfling points a finger at a charging troglodyte. A blast of fire springs from her finger to strike the creature. She ducks back behind the rock formation with a grin, unaware that her wild magic has turned her skin bright blue.
+
+Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. One can't study sorcery as one learns a language, any more than one can learn to live a legendary life. No one chooses sorcery; the power chooses the sorcerer.
+
+### Raw Magic
+
+Magic is a part of every sorcerer, suffusing body, mind, and spirit with a latent power that waits to be tapped. Some sorcerers wield magic that springs from an ancient bloodline infused with the magic of dragons. Others carry a raw, uncontrolled magic within them, a chaotic storm that manifests in unexpected ways.
+
+The appearance of sorcerous powers is wildly unpredictable. Some draconic bloodlines produce exactly one sorcerer in every generation, but in other lines of descent every individual is a sorcerer. Most of the time, the talents of sorcery appear as apparent flukes. Some sorcerers can't name the origin of their power, while others trace it to strange events in their own lives. The touch of a demon, the blessing of a dryad at a baby's birth, or a taste of the water from a mysterious spring might spark the gift of sorcery. So too might the gift of a deity of magic, exposure to the elemental forces of the Inner Planes or the maddening chaos of Limbo, or a glimpse into the inner workings of reality.
+
+Sorcerers have no use for the spellbooks and ancient tomes of magic lore that wizards rely on, nor do they rely on a patron to grant their spells as warlocks do. By learning to harness and channel their own inborn magic, they can discover new and staggering ways to unleash that power.
+
+### Unexplained Powers
+
+Sorcerers are rare in the world, and it's unusual to find a sorcerer who is not involved in the adventuring life in some way. People with magical power seething in their veins soon discover that the power doesn't like to stay quiet. A sorcerer's magic wants to be wielded, and it has a tendency to spill out in unpredictable ways if it isn't called on.
+
+Sorcerers often have obscure or quixotic motivations driving them to adventure. Some seek a greater understanding of the magical force that infuses them, or the answer to the mystery of its origin. Others hope to find a way to get rid of it, or to unleash its full potential. Whatever their goals, sorcerers are every bit as useful to an adventuring party as wizards, making up for a comparative lack of breadth in their magical knowledge with enormous flexibility in using the spells they know.
+
+### Creating a Sorcerer
+
+The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you'll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?
+
+How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you've been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world—the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.
+
+#### Quick Build
+
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [[5. Mechanics\Spells\Light.md|light]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]], [[5. Mechanics\Spells\Ray Of Frost.md|ray of frost]], and [[5. Mechanics\Spells\Shocking Grasp.md|shocking grasp]] cantrips, along with the 1st-level spells [[5. Mechanics\Spells\Shield.md|shield]] and [[5. Mechanics\Spells\Magic Missile.md|magic missile]].
+
+> [!quote]- A quote from Hennet, scion of Tiamat  
+> 
+> Practice and study are for amateurs. True power is a birthright.
+
+When it comes to drawing forth their abilities in times of need, sorcerers have it easy compared to other characters. Their power not only rests within them, but it likely takes some effort to keep it at bay. Every sorcerer is born to the role, or stumbles into it through cosmic chance. Unlike other characters, who must actively learn, embrace, and pursue their talents, sorcerers have their power thrust upon them.
+
+Because the idea of an innately magical being traveling among them does not sit well with many folk, sorcerers tend to breed mistrust and suspicion in others they come across. Nonetheless, many sorcerers succeed in overcoming that prejudice through deeds that benefit their less magically gifted contemporaries.
+
+Sorcerers are often defined by the events surrounding the manifestation of their power. For those who receive it as an expected birthright, its appearance is a cause for celebration. Other sorcerers are treated as outcasts, banished from their homes after the sudden, terrifying arrival of their abilities.
+
+Playing a sorcerer character can be as rewarding as it is challenging. The sections below offer suggestions on how to flesh out and personalize your persona.
+
+## Arcane Origins
+_Source: Xanathar's Guide to Everything_
+
+Some sorcerers understand where their power came from, based on how their abilities manifested. Others can only speculate, since their powers came to them in a way that suggests no particular cause.
+
+Does your character know the source of your magical power? Does it tie back to some distant relative, a cosmic event, or blind chance? If your sorcerer doesn't know where their power arose from, your DM can use this table (or select an origin) and reveal it to you when the information plays a role in the campaign.
+
+**Arcane Origins**
+
+| `dice: d6\|avg` (`d6`) | Origin |
+|-----------|------------|--------|
+| 1 | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
+| 2 | You are the reincarnation of a being from another plane of existence. |
+| 3 | A powerful entity entered the world. Its magic changed you. |
+| 4 | Your birth was prophesied in an ancient text, and you are foretold to use your power for terrible ends. |
+| 5 | You are the product of generations of careful, selective breeding. |
+| 6 | You were made in a vat by an alchemist. |
+^arcane-origins
+
+## Reaction
+_Source: Xanathar's Guide to Everything_
+
+When a new sorcerer enters the world, either at birth or later when one's power becomes evident, the consequences of that event depend greatly on how its witnesses react to what they have seen.
+
+When your sorcerer's powers appeared, how did the world around you respond? Were other people supportive, fearful, or somewhere in between?
+
+**Reactions**
+
+| `dice: d6\|avg` (`d6`) | Reaction |
+|-----------|------------|----------|
+| 1 | Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community. |
+| 2 | Your powers caused destruction and even a death when they became evident, and you were treated as a criminal. |
+| 3 | Your neighbors hate and fear your power, causing them to shun you. |
+| 4 | You came to the attention of a sinister cult that plans on exploiting your abilities. |
+| 5 | People around you believe that your powers are a curse levied on your family for a past transgression. |
+| 6 | Your powers are believed to be tied to an ancient line of mad kings that supposedly ended in a bloody revolt over a century ago. |
+^reactions
+
+## Supernatural Mark
+_Source: Xanathar's Guide to Everything_
+
+A sorcerer at rest is almost indistinguishable from a normal person; it's only when their magic flies forth that sorcerers reveal their true nature. Even so, many sorcerers have a subtle but telling physical trait that sets them apart from other folk.
+
+If your sorcerer has a supernatural mark, it might be one that's easily concealed, or it could be a source of pride that you keep on constant display.
+
+**Supernatural Marks**
+
+| `dice: d6\|avg` (`d6`) | Mark |
+|-----------|------------|------|
+| 1 | Your eyes are an unusual color, such as red. |
+| 2 | You have an extra toe on one foot. |
+| 3 | One of your ears is noticeably larger than the other. |
+| 4 | Your hair grows at a prodigious rate. |
+| 5 | You wrinkle your nose repeatedly while you are chewing. |
+| 6 | A red splotch appears on your neck once a day, then vanishes after an hour. |
+^supernatural-marks
+
+## Signs of Sorcery
+_Source: Xanathar's Guide to Everything_
+
+As the world well knows, some sorcerers are better than others at controlling their spellcasting. Sometimes a wild display of magic gone awry emanates from a sorcerer who casts a spell. But even when one's magic goes off as planned, the act of casting is often accompanied by a telltale sign that makes it clear where that magical energy came from.
+
+When your sorcerer character casts a spell, does the effort reveal itself in a sign of sorcery? Is this sign tied to your origin or some other aspect of who you are, or is it a seemingly random phenomenon?
+
+**Signs of Sorcery**
+
+| `dice: d6\|avg` (`d6`) | Sign |
+|-----------|------------|------|
+| 1 | You deliver the verbal components of your spells in the booming voice of a titan. |
+| 2 | For a moment after you cast a spell, the area around you grows dark and gloomy. |
+| 3 | You sweat profusely while casting a spell and for a few seconds thereafter. |
+| 4 | Your hair and garments are briefly buffeted about, as if by a breeze, whenever you call forth a spell. |
+| 5 | If you are standing when you cast a spell, you rise six inches into the air and gently float back down. |
+| 6 | Illusory blue flames wreathe your head as you begin your casting, then abruptly disappear. |
+^signs-of-sorcery
 
 ## Class Features
 
@@ -110,7 +232,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer spell list
 
 The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Burning Hands.md|burning hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Burning Hands.md|burning hands]] using either slot.
+For example, if you know the 1st-level spell [[5. Mechanics\Spells\Burning Hands.md|burning hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics\Spells\Burning Hands.md|burning hands]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -175,47 +297,20 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-- [[/5. Mechanics/Classes/Sorcerer.md#Careful%20Spell|Careful Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Distant%20Spell|Distant Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Empowered%20Spell|Empowered Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Extended%20Spell|Extended Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Heightened%20Spell|Heightened Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Quickened%20Spell|Quickened Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Subtle%20Spell|Subtle Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Twinned%20Spell|Twinned Spell]]  
-
-### Metamagic Options (Level 3)
-_Source: Tasha's Cauldron of Everything p. 65_
-
-_3rd-level sorcerer optional class features_
-
-When you choose Metamagic options, you have access to the following additional options.
-
-- [[/5. Mechanics/Classes/Sorcerer.md#Seeking%20Spell|Seeking Spell]]  
-- [[/5. Mechanics/Classes/Sorcerer.md#Transmuted%20Spell|Transmuted Spell]]  
+- [[5. Mechanics\Optional Features\Careful Spell.md|Careful Spell]]  
+- [[5. Mechanics\Optional Features\Distant Spell.md|Distant Spell]]  
+- [[5. Mechanics\Optional Features\Empowered Spell.md|Empowered Spell]]  
+- [[5. Mechanics\Optional Features\Extended Spell.md|Extended Spell]]  
+- [[5. Mechanics\Optional Features\Heightened Spell.md|Heightened Spell]]  
+- [[5. Mechanics\Optional Features\Quickened Spell.md|Quickened Spell]]  
+- [[5. Mechanics\Optional Features\Subtle Spell.md|Subtle Spell]]  
+- [[5. Mechanics\Optional Features\Twinned Spell.md|Twinned Spell]]  
 
 ### Ability Score Improvement (Level 4)
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
-
-### Sorcerous Versatility (Level 4)
-_Source: Tasha's Cauldron of Everything p. 65_
-
-_4th-level sorcerer optional class features_
-
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
-
-- Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.  
-- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.  
-
-### Magical Guidance (Level 5)
-_Source: Tasha's Cauldron of Everything p. 65_
-
-_5th-level sorcerer optional class features_
-
-You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20` (`d20`), and you must use the new roll, potentially turning the failure into a success.
 
 ### Sorcerous Origin feature (Level 6)
 
@@ -265,71 +360,8 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
-## Metamagic
+## Optional Features
 
-### Careful Spell
-
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
-
-### Distant Spell
-
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
-
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
-
-### Elemental Spell
-_Source: Unearthed Arcana: Class Feature Variants p. 10_
-
-When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.
-
-### Empowered Spell
-
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
-
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
-
-### Extended Spell
-
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
-
-### Heightened Spell
-
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
-
-### Quickened Spell
-
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
-
-### Seeking Spell
-_Source: Tasha's Cauldron of Everything p. 66_
-
-If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the `dice: d20` (`d20`), and you must use the new roll.
-
-You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.
-
-### Seeking Spell
-_Source: Unearthed Arcana: Class Feature Variants p. 10_
-
-When you cast a spell that requires you to make a spell attack roll or that forces a target to make a Dexterity saving throw, you can spend 1 sorcery point to ignore the effects of half- and three-quarters cover against targets of the spell.
-
-### Subtle Spell
-
-When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
-
-### Transmuted Spell
-_Source: Tasha's Cauldron of Everything p. 66_
-
-When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
-
-### Twinned Spell
-
-When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
-
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, [[/5. Mechanics/Spells/Magic Missile.md|magic missile]] and [[/5. Mechanics/Spells/Scorching Ray.md|scorching ray]] aren't eligible, but [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]] and [[/5. Mechanics/Spells/Chromatic Orb.md|chromatic orb]] are.
-
-### Unerring Spell
-_Source: Unearthed Arcana: Class Feature Variants p. 10_
-
-If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the attack roll. You must use the result of the second roll.
-
-You can use Unerring Spell even if you have already used a different Metamagic option during the casting of the spell.
+> [!example]- Metamagic
+> ![[5. Mechanics\Optional Features\List Metamagic.md#Metamagic|Metamagic]]
+^list-metamagic

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/huge
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Goristro"]
 ---
 # Goristro
 *Source: Monster Manual p. 59*  
@@ -154,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -163,15 +162,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -180,8 +179,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Goristro"
@@ -199,14 +196,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "6"
 - !!int "13"
 - !!int "14"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-  "Strength": !!int "13"
-  "Constitution": !!int "13"
+  "Dexterity": "+6"
+  "Wisdom": "+7"
+  "Strength": "+13"
+  "Constitution": "+13"
 "skillsaves":
-  "Perception": !!int "7"
+  "Perception": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -215,42 +212,35 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal"
 "cr": "17"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the goristro moves at least 15 feet straight toward a target and then\
+- "desc": "If the goristro moves at least 15 feet straight toward a target and then\
     \ hits it with a gore attack on the same turn, the target takes an extra 38 (dice:\
     \ 7d10|avg (7d10)) piercing damage. If the target is a creature, it must succeed\
     \ on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Charge"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro can perfectly recall any path it has traveled."
+- "desc": "The goristro can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro has advantage on saving throws against spells and other magical\
+- "desc": "The goristro has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro deals double damage to objects and structures."
+- "desc": "The goristro deals double damage to objects and structures."
   "name": "Siege Monster"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
+- "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: 20 (dice: 3d8 + 7|avg (3d8 + 7)) bludgeoning damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 21 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
+    \ Hit: 23 (dice: 3d10 + 7|avg (3d10 + 7)) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 21 Strength saving throw or be knocked\
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Hoof"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 7d10 + 7|avg (7d10 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: 45 (dice: 7d10 + 7|avg (7d10 + 7)) piercing damage."
   "name": "Gore"
 "source":
 - "MM"
-"image": "/compendium/bestiary/fiend/token/goristro.png"
+"image": "compendium/bestiary/fiend/token/goristro.png"
 ```
 ^statblock

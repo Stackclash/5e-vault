@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Cat"]
 ---
 # Cat
-*Source: Monster Manual p. 320, Curse of Strahd, Hoard of the Dragon Queen, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Infernal Machine Rebuild, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 320, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Cat"
@@ -29,21 +28,19 @@ statblock: inline
 - !!int "3"
 - !!int "12"
 - !!int "7"
-"speed": "walk 40 ft., climb 30 ft."
+"speed": "40 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  "Stealth": "+4"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cat has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The cat has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
     \ Hit: 1 slashing damage."
   "name": "Claws"
 "source":
@@ -59,7 +56,7 @@ statblock: inline
 - "CM"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Beast/token/cat.png"
+"image": "compendium/bestiary/beast/token/cat.png"
 ```
 ^statblock
 

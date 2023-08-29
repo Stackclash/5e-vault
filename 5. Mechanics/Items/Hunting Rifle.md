@@ -15,7 +15,7 @@ aliases: ["Hunting Rifle"]
 
 - **Damage**: 2d10 P
 - **Range**: 80/240
-- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Reload|Reload]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Ammunition%20|"(Firearm"]]), Martial, [[\5. Mechanics\Rules\Item Properties.md#Reload|Reload]], [[\5. Mechanics\Rules\Item Properties.md#Two-handed|Two-handed]]
 - **Cost**: ⏤
 - **Weight**: 8.0 lbs.
 

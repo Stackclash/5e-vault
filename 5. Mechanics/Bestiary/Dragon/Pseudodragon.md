@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -11,10 +10,10 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/dragon
-statblock: inline
+aliases: ["Pseudodragon"]
 ---
 # Pseudodragon
-*Source: Monster Manual p. 254, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Eberron: Rising from the Last War, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 254. Available in the SRD.*  
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
 
@@ -43,8 +42,6 @@ A pseudodragon often vocalizes animal noises. A rasping purr indicates pleasure,
 
 The pseudodragon can serve another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded, the companion can sense what the pseudodragon senses as long as they are within 1 mile of each other. While the pseudodragon is within 10 feet of its companion, the companion shares the pseudodragon's Magic Resistance trait. At any time and for any reason, the pseudodragon can end its service as a familiar, ending the telepathic bond.
 
-## Stat Block
-
 ```statblock
 "name": "Pseudodragon"
 "size": "Tiny"
@@ -60,37 +57,32 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 - !!int "10"
 - !!int "12"
 - !!int "10"
-"speed": "walk 15 ft., fly 60 ft."
+"speed": "15 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  "Stealth": "+4"
+  "Perception": "+3"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pseudodragon has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The pseudodragon has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight, hearing, or smell."
   "name": "Keen Senses"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pseudodragon has advantage on saving throws against spells and other\
+- "desc": "The pseudodragon has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The pseudodragon can magically communicate simple ideas, emotions, and\
+- "desc": "The pseudodragon can magically communicate simple ideas, emotions, and\
     \ images telepathically with any creature within 100 feet of it that can understand\
     \ a language."
   "name": "Limited Telepathy"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target must succeed\
-    \ on a DC 11 Constitution saving throw or become [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage, and the target must\
+    \ succeed on a DC 11 Constitution saving throw or become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]\
     \ for the same duration, or until it takes damage or another creature uses an\
     \ action to shake it awake."
   "name": "Sting"
@@ -104,7 +96,7 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 - "IMR"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Dragon/token/pseudodragon.png"
+"image": "compendium/bestiary/dragon/token/pseudodragon.png"
 ```
 ^statblock
 

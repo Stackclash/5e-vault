@@ -3,8 +3,6 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
-- spell/class/cleric/peace-domain
-- spell/class/sorcerer/aberrant-mind
 - spell/class/wizard
 - spell/level/5
 - spell/ritual
@@ -12,6 +10,7 @@ tags:
 aliases: ["Rary's Telepathic Bond"]
 ---
 # Rary's Telepathic Bond
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual
@@ -23,6 +22,6 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Peace Domain (TCE).md|Cleric (Peace Domain)]], [[/5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md|Sorcerer (Aberrant Mind)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 270
+*Source: Player's Handbook p. 270. Available in the SRD (as 'Telepathic Bond').*

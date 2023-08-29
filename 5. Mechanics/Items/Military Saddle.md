@@ -14,4 +14,4 @@ aliases: ["Military Saddle"]
 
 A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.
 
-*Source: Player's Handbook p. 157*
+*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules.*

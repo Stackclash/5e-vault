@@ -11,6 +11,7 @@ tags:
 aliases: ["Mirage Arcane"]
 ---
 # Mirage Arcane
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Illusion*  
 
 - **Casting time:** 10 minute
@@ -24,8 +25,8 @@ Similarly, you can alter the appearance of structures, or add them where none ar
 
 The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.
 
-Creatures with [[5. Mechanics/Rules/Senses.md#truesight|truesight]] can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
+Creatures with [[\5. Mechanics\Rules\Senses.md#truesight|truesight]] can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 260
+*Source: Player's Handbook p. 260. Available in the SRD.*

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underwater
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Quipper"]
 ---
 # Quipper
-*Source: Monster Manual p. 335, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 A quipper is a carnivorous fish with sharp teeth.
 
@@ -35,16 +34,13 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quipper has advantage on melee attack rolls against any creature that\
+- "desc": "The quipper has advantage on melee attack rolls against any creature that\
     \ doesn't have all its hit points."
   "name": "Blood Frenzy"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quipper can breathe only underwater."
+- "desc": "The quipper can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":
@@ -55,7 +51,8 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
 - "MOT"
 - "IDRotF"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Beast/token/quipper.png"
+- "PSA"
+"image": "compendium/bestiary/beast/token/quipper.png"
 ```
 ^statblock
 

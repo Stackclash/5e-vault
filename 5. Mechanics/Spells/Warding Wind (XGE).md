@@ -14,6 +14,7 @@ tags:
 aliases: ["Warding Wind"]
 ---
 # Warding Wind
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -25,12 +26,12 @@ A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves
 
 The wind has the following effects:
 
-- It [[5. Mechanics/Rules/Conditions.md#deafened|deafened]] you and other creatures in its area.  
+- It deafens you and other creatures in its area.  
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.  
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.  
 - The area is difficult terrain for creatures other than you.  
 - The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.  
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 170, Elemental Evil Player's Companion p. 23
+*Source: Xanathar's Guide to Everything p. 170*

@@ -16,4 +16,4 @@ A poisoner's kit includes the vials, chemicals, and other equipment necessary fo
 
 Additionally, the "Crafting and Harvesting Poison" rules require the use of a poisoner's kit.
 
-*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83*
+*Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the SRD and the Basic Rules.*

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
-statblock: inline
+aliases: ["Aboleth"]
 ---
 # Aboleth
-*Source: Monster Manual p. 13, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 13. Available in the SRD.*  
 
 Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
 
@@ -37,8 +36,6 @@ Ultimately, aboleths dream of overthrowing the gods and regaining control of the
 
 Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers.
 
-## Stat Block
-
 ```statblock
 "name": "Aboleth"
 "size": "Large"
@@ -54,76 +51,66 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - !!int "18"
 - !!int "15"
 - !!int "18"
-"speed": "walk 10 ft., swim 40 ft."
+"speed": "10 ft., swim 40 ft."
 "saves":
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "8"
-  "Constitution": !!int "6"
+  "Wisdom": "+6"
+  "Intelligence": "+8"
+  "Constitution": "+6"
 "skillsaves":
-  "Perception": !!int "10"
-  "History": !!int "12"
+  "Perception": "+10"
+  "History": "+12"
 "senses": "darkvision 120 ft., passive Perception 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The aboleth can breathe air and water."
+- "desc": "The aboleth can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While underwater, the aboleth is surrounded by transformative mucus. A\
+- "desc": "While underwater, the aboleth is surrounded by transformative mucus. A\
     \ creature that touches the aboleth or that hits it with a melee attack while\
     \ within 5 feet of it must make a DC 14 Constitution saving throw. On a failure,\
     \ the creature is diseased for dice: 1d4|avg (1d4) hours. The diseased creature\
     \ can breathe only underwater."
   "name": "Mucous Cloud"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If a creature communicates telepathically with the aboleth, the aboleth\
+- "desc": "If a creature communicates telepathically with the aboleth, the aboleth\
     \ learns the creature's greatest desires if the aboleth can see the creature."
   "name": "Probing Telepathy"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The aboleth makes three tentacle attacks."
+- "desc": "The aboleth makes three tentacle attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage. If the target is a\
-    \ creature, it must succeed on a DC 14 Constitution saving throw or become diseased.\
-    \ The disease has no effect for 1 minute and can be removed by any magic that\
-    \ cures disease. After 1 minute, the diseased creature's skin becomes translucent\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 14 Constitution saving throw or become\
+    \ diseased. The disease has no effect for 1 minute and can be removed by any magic\
+    \ that cures disease. After 1 minute, the diseased creature's skin becomes translucent\
     \ and slimy, the creature can't regain hit points unless it is underwater, and\
-    \ the disease can be removed only by [[/5. Mechanics/Spells/Heal.md|heal]] or another\
+    \ the disease can be removed only by [[5. Mechanics\Spells\Heal.md|heal]] or another\
     \ disease-curing spell of 6th level or higher. When the creature is outside a\
-    \ body of water, it takes dice: 1d12|avg (1d12) acid damage every 10 minutes\
+    \ body of water, it takes 6 (dice: 1d12|avg (1d12)) acid damage every 10 minutes\
     \ unless moisture is applied to the skin before 10 minutes have passed."
   "name": "Tentacle"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) bludgeoning damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The aboleth targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 14 Wisdom saving throw or be magically [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+- "desc": "The aboleth targets one creature it can see within 30 feet of it. The target\
+    \ must succeed on a DC 14 Wisdom saving throw or be magically [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ by the aboleth until the aboleth dies or until it is on a different plane of\
-    \ existence from the target. The [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ existence from the target. The [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ target is under the aboleth's control and can't take reactions, and the aboleth\
     \ and the target can communicate telepathically with each other over any distance.\n\
-    \nWhenever the [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] target takes\
+    \nWhenever the [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] target takes\
     \ damage, the target can repeat the saving throw. On a success, the effect ends.\
     \ No more than once every 24 hours, the target can also repeat the saving throw\
     \ when it is at least 1 mile away from the aboleth."
   "name": "Enslave (3/Day)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The aboleth makes a Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The aboleth makes a Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The aboleth makes one tail attack."
+- "desc": "The aboleth makes one tail attack."
   "name": "Tail Swipe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One creature [[5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the aboleth\
-    \ takes dice: 3d6|avg (3d6) psychic damage, and the aboleth regains hit points\
-    \ equal to the damage the creature takes."
+- "desc": "One creature [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]] by the\
+    \ aboleth takes 10 (dice: 3d6|avg (3d6)) psychic damage, and the aboleth regains\
+    \ hit points equal to the damage the creature takes."
   "name": "Psychic Drain (Costs 2 Actions)"
 "source":
 - "MM"
@@ -132,7 +119,7 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "WDH"
 - "WDMM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Aberration/token/aboleth.png"
+"image": "compendium/bestiary/aberration/token/aboleth.png"
 ```
 ^statblock
 

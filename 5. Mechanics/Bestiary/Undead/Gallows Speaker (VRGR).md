@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Gallows Speaker"]
 ---
 # Gallows Speaker
 *Source: Van Richten's Guide to Ravenloft p. 234*  
@@ -29,11 +28,11 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
 - !!int "10"
 - !!int "12"
 - !!int "18"
-"speed": "walk 0 ft., fly 40 ft. (hover)"
+"speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Wisdom": !!int "4"
+  "Wisdom": "+4"
 "skillsaves":
-  "Perception": !!int "7"
+  "Perception": "+7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
@@ -42,36 +41,31 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
 "languages": "any languages its component spirits knew in life"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gallows speaker can see 60 feet into the Ethereal Plane when it is\
+- "desc": "The gallows speaker can see 60 feet into the Ethereal Plane when it is\
     \ on the Material Plane and vice versa."
   "name": "Divination Senses"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gallows speaker can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage\
+- "desc": "The gallows speaker can move through other creatures and objects as if\
+    \ they were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
     \ if it ends it turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gallows speaker doesn't require air, food, drink, or sleep."
+- "desc": "The gallows speaker doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) psychic damage, and the target must roll\
-    \ a dice: d4|avg (d4) and subtract the number rolled from the next attack\
-    \ roll or saving throw it makes before the start of the gallows speaker's next\
-    \ turn."
+- "desc": "Melee Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) psychic damage, and the target\
+    \ must roll a dice: d4|avg (d4) and subtract the number rolled from the next\
+    \ attack roll or saving throw it makes before the start of the gallows speaker's\
+    \ next turn."
   "name": "Foretelling Touch"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gallows speaker targets a creature it can see within 30 feet of it.\
+- "desc": "The gallows speaker targets a creature it can see within 30 feet of it.\
     \ The target must make a DC 15 Wisdom saving throw. On a failed save, the target\
-    \ takes dice: 3d12|avg (3d12) psychic damage, and waves of painful memories\
+    \ takes 19 (dice: 3d12|avg (3d12)) psychic damage, and waves of painful memories\
     \ leap from the target to up to three other creatures of the gallows speaker's\
-    \ choice that are within 30 feet of the target, each of which takes dice: 3d8|avg\
-    \ (3d8) psychic damage."
+    \ choice that are within 30 feet of the target, each of which takes 13 (dice:\
+    \ 3d8|avg (3d8)) psychic damage."
   "name": "Suffering Echoes"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/gallows-speaker.png"
+"image": "compendium/bestiary/undead/token/gallows-speaker.png"
 ```
 ^statblock

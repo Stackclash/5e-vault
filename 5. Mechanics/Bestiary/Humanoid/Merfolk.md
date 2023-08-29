@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/humanoid/merfolk
-statblock: inline
+aliases: ["Merfolk"]
 ---
 # Merfolk
-*Source: Monster Manual p. 218, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*  
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
 
@@ -23,8 +22,6 @@ Merfolk lack the materials and practical means to forge weapons beneath the wave
 Merfolk build their settlements in vast undersea caverns, mazes of coral, the ruins of sunken cities, or structures they carve from the rocky seabed. They live in water shallow enough that the passage of time can be marked by the gleam and fade of sunlight through the water. In the reefs and trenches near their settlements, merfolk harvest coral and farm the seabed, shepherding schools of fish as land-based farmers tend sheep. Only rarely do merfolk venture into the darkest depths of the ocean. In such depths and in their undersea caverns, merfolk rely on the light of bioluminescent flora and fauna, such as jellyfish, whose slow pulsing movements lend merfolk settlements an otherworldly aesthetic.
 
 Merfolk defend their communities with spears crafted from whatever materials they can salvage from shipwrecks, beaches, and dead undersea creatures.
-
-## Stat Block
 
 ```statblock
 "name": "Merfolk"
@@ -42,22 +39,20 @@ Merfolk defend their communities with spears crafted from whatever materials the
 - !!int "11"
 - !!int "11"
 - !!int "12"
-"speed": "walk 10 ft., swim 40 ft."
+"speed": "10 ft., swim 40 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The merfolk can breathe air and water."
+- "desc": "The merfolk can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6|avg (1d6) piercing damage,\
-    \ or 4 (dice: 1d8|avg (1d8)) piercing damage if used with two hands to make\
-    \ a melee attack."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 3 (dice: 1d6|avg (1d6)) piercing\
+    \ damage, or 4 (dice: 1d8|avg (1d8)) piercing damage if used with two hands\
+    \ to make a melee attack."
   "name": "Spear"
 "source":
 - "MM"
@@ -65,7 +60,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
 - "GoS"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Humanoid/token/merfolk.png"
+"image": "compendium/bestiary/humanoid/token/merfolk.png"
 ```
 ^statblock
 

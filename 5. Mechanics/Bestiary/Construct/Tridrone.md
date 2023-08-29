@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Tridrone"]
 ---
 # Tridrone
-*Source: Monster Manual p. 225, Tomb of Annihilation, Keys from the Golden Vault*  
+*Source: Monster Manual p. 225*  
 
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.
 
@@ -44,8 +43,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
 
 
-## Stat Block
-
 ```statblock
 "name": "Tridrone"
 "size": "Medium"
@@ -61,36 +58,31 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "9"
 - !!int "10"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tridrone can't be compelled to act in a manner contrary to its nature\
+- "desc": "The tridrone can't be compelled to act in a manner contrary to its nature\
     \ or its instructions."
   "name": "Axiomatic Mind"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the tridrone dies, its body disintegrates into dust, leaving behind\
+- "desc": "If the tridrone dies, its body disintegrates into dust, leaving behind\
     \ its weapons and anything else it was carrying."
   "name": "Disintegration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tridrone makes three fist attacks or three javelin attacks."
+- "desc": "The tridrone makes three fist attacks or three javelin attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1))\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"
 - "ToA"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Construct/token/tridrone.png"
+"image": "compendium/bestiary/construct/token/tridrone.png"
 ```
 ^statblock

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/celestial
-statblock: inline
+aliases: ["Pegasus"]
 ---
 # Pegasus
-*Source: Monster Manual p. 250, Eberron: Rising from the Last War, Mythic Odysseys of Theros, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 250. Available in the SRD and the Basic Rules.*  
 
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.
 
@@ -32,8 +31,6 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 > Behold, the pegasus. It can outrace a dragon in the open sky, and only the best among us can ever hope to ride one. A fitting emblem for our great house, don't you think?
 
 
-## Stat Block
-
 ```statblock
 "name": "Pegasus"
 "size": "Large"
@@ -49,20 +46,19 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 - !!int "10"
 - !!int "15"
 - !!int "13"
-"speed": "walk 60 ft., fly 90 ft."
+"speed": "60 ft., fly 90 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
+  "Charisma": "+3"
+  "Dexterity": "+4"
+  "Wisdom": "+4"
 "skillsaves":
-  "Perception": !!int "6"
+  "Perception": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 "cr": "2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"
@@ -70,7 +66,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 - "MOT"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Celestial/token/pegasus.png"
+"image": "compendium/bestiary/celestial/token/pegasus.png"
 ```
 ^statblock
 

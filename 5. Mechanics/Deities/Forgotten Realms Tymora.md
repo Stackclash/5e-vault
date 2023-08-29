@@ -8,7 +8,7 @@ tags:
 aliases: ["Tymora"]
 ---
 # Tymora
-*Source: Player's Handbook p. 294* 
+*Source: Player's Handbook p. 294. Available in the Basic Rules.* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: Trickery

@@ -9,7 +9,7 @@ tags:
 aliases: ["Gond"]
 ---
 # Gond
-*Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 18* 
+*Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules.* 
 
 - **Alignment**: Neutral
 - **Domains**: Forge, Knowledge

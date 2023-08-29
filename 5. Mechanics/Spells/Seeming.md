@@ -7,13 +7,13 @@ tags:
 - spell/class/ranger/gloom-stalker
 - spell/class/sorcerer
 - spell/class/warlock/the-archfey
-- spell/class/warlock/the-genie
 - spell/class/wizard
 - spell/level/5
 - spell/school/illusion
 aliases: ["Seeming"]
 ---
 # Seeming
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Illusion*  
 
 - **Casting time:** 1 action
@@ -27,8 +27,8 @@ The spell disguises physical appearance as well as clothing, armor, weapons, and
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-A creature can use its action to inspect a target and make an Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature can use its action to inspect a target and make an Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock The Archfey.md|Warlock (The Archfey)]], [[/5. Mechanics/Classes/Warlock The Genie (TCE).md|Warlock (The Genie)]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock The Archfey.md|Warlock (The Archfey)]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 274
+*Source: Player's Handbook p. 274. Available in the SRD.*

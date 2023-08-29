@@ -16,10 +16,10 @@ aliases: ["Silver Sword"]
 *Melee Weapon, major, unknown (magic) (requires attunement by a creature that has psionic ability)*  
 
 - **Damage**: 2d6 S
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Heavy|Heavy]], Martial, Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Two-handed|Two-handed]]
 - **Cost**: ⏤
 - **Weight**: 6.0 lbs.
 
-You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [[/5. Mechanics/Spells/Astral Projection.md|astral projection]] spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [[5. Mechanics\Spells\Astral Projection.md|astral projection]] spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 *Source: Mordenkainen's Tome of Foes p. 89*

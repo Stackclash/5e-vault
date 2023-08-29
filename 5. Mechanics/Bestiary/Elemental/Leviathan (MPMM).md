@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underwater
 - monster/size/gargantuan
 - monster/type/elemental
-statblock: inline
+aliases: ["Leviathan"]
 ---
 # Leviathan
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*  
@@ -20,7 +19,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "name": "Leviathan"
 "size": "Gargantuan"
 "type": "elemental"
-"alignment": "Neutral"
+"alignment": "Typically  Neutral"
 "ac": !!int "17"
 "hp": !!int "328"
 "hit_dice": "16d20 + 160"
@@ -31,10 +30,10 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 - !!int "2"
 - !!int "18"
 - !!int "17"
-"speed": "walk 40 ft., swim 120 ft."
+"speed": "40 ft., swim 120 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "10"
+  "Charisma": "+9"
+  "Wisdom": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
@@ -43,57 +42,47 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "languages": ""
 "cr": "20"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the leviathan fails a saving throw, it can choose to succeed instead."
+- "desc": "If the leviathan fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the leviathan takes 50 cold damage or more during a single turn, the\
+- "desc": "If the leviathan takes 50 cold damage or more during a single turn, the\
     \ leviathan partially freezes; until the end of its next turn, its speeds are\
     \ reduced to 20 feet, and it makes attack rolls with disadvantage."
   "name": "Partial Freeze"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leviathan deals double damage to objects and structures."
+- "desc": "The leviathan deals double damage to objects and structures."
   "name": "Siege Monster"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leviathan can enter a hostile creature's space and stop there. It can\
+- "desc": "The leviathan can enter a hostile creature's space and stop there. It can\
     \ move through a space as narrow as 1 inch wide without squeezing."
   "name": "Water Form"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leviathan makes one Slam attack and one Tail attack."
+- "desc": "The leviathan makes one Slam attack and one Tail attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d12 + 8|avg (2d12 + 8) bludgeoning damage plus dice: 2d12|avg\
-    \ (2d12) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
+    \ Hit: 21 (dice: 2d12 + 8|avg (2d12 + 8)) bludgeoning damage plus 13 (dice:\
+    \ 2d12|avg (2d12)) acid damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) bludgeoning damage plus dice: 3d6|avg\
-    \ (3d6) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
+    \ Hit: 19 (dice: 2d10 + 8|avg (2d10 + 8)) bludgeoning damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) acid damage."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leviathan magically creates a wave of water that extends from a point\
+- "desc": "The leviathan magically creates a wave of water that extends from a point\
     \ it can see within 120 feet of itself. The wave is up to 250 feet long, up to\
     \ 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a\
-    \ DC 24 Strength saving throw. On a failed save, a creature takes dice: 7d12|avg\
-    \ (7d12) bludgeoning damage and is knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ DC 24 Strength saving throw. On a failed save, a creature takes 45 (dice: 7d12|avg\
+    \ (7d12)) bludgeoning damage and is knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]. The water spreads out across\
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]]. The water spreads out across\
     \ the ground in all directions, extinguishing unprotected flames in its area and\
     \ within 250 feet of it, and then it vanishes."
   "name": "Tidal Wave (Recharge 6)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leviathan moves up to its speed."
+- "desc": "The leviathan moves up to its speed."
   "name": "Move"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The leviathan makes one Slam attack."
+- "desc": "The leviathan makes one Slam attack."
   "name": "Slam (Costs 2 Actions)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Elemental/token/leviathan.png"
+"image": "compendium/bestiary/elemental/token/leviathan.png"
 ```
 ^statblock
 

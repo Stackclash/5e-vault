@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Crocodile"]
 ---
 # Crocodile
-*Source: Monster Manual p. 320, Hoard of the Dragon Queen, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Infernal Machine Rebuild, Explorer's Guide to Wildemount, The Wild Beyond the Witchlight, Plane Shift: Ixalan*  
+*Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Crocodile"
@@ -27,21 +26,20 @@ statblock: inline
 - !!int "2"
 - !!int "10"
 - !!int "5"
-"speed": "walk 20 ft., swim 30 ft."
+"speed": "20 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  "Stealth": "+2"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The crocodile can hold its breath for 15 minutes."
+- "desc": "The crocodile can hold its breath for 15 minutes."
   "name": "Hold Breath"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 12). Until\
+    \ this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the crocodile can't bite another target"
   "name": "Bite"
 "source":
@@ -56,7 +54,8 @@ statblock: inline
 - "EGW"
 - "WBtW"
 - "PSX"
-"image": "5. Mechanics/Bestiary/Beast/token/crocodile.png"
+- "PSA"
+"image": "compendium/bestiary/beast/token/crocodile.png"
 ```
 ^statblock
 

@@ -13,6 +13,7 @@ tags:
 aliases: ["Tree Stride"]
 ---
 # Tree Stride
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[/5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Paladin Oath Of The Ancients.md|Paladin (Oath of the Ancients)]], [[/5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics\Classes\Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics\Classes\Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Paladin Oath Of The Ancients.md|Paladin (Oath of the Ancients)]], [[5. Mechanics\Classes\Ranger.md|Ranger]]
 
-Source: Player's Handbook p. 283
+*Source: Player's Handbook p. 283. Available in the SRD.*

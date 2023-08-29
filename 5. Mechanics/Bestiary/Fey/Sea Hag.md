@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/fey
-statblock: inline
+aliases: ["Sea Hag"]
 ---
 # Sea Hag
-*Source: Monster Manual p. 179, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 179. Available in the SRD.*  
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
 
@@ -72,21 +71,19 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> - 1st level (4 slots): [[Identify|identify]], [[Ray Of Sickness|ray of sickness]]  
-> - 2nd level (3 slots): [[Hold Person|hold person]], [[Locate Object|locate object]]  
-> - 3rd level (3 slots): [[Bestow Curse|bestow curse]], [[Counterspell|counterspell]], [[Lightning Bolt|lightning bolt]]  
-> - 4th level (3 slots): [[Phantasmal Killer|phantasmal killer]], [[Polymorph|polymorph]]  
-> - 5th level (2 slots): [[Contact Other Plane|contact other plane]], [[Scrying|scrying]]  
-> - 6th level (1 slot): [[Eyebite|eyebite]]  
+> 1st level (4 slots): [[5. Mechanics\Spells\Identify.md|identify]], [[5. Mechanics\Spells\Ray Of Sickness.md|ray of sickness]]  
+> 2nd level (3 slots): [[5. Mechanics\Spells\Hold Person.md|hold person]], [[5. Mechanics\Spells\Locate Object.md|locate object]]  
+> 3rd level (3 slots): [[5. Mechanics\Spells\Bestow Curse.md|bestow curse]], [[5. Mechanics\Spells\Counterspell.md|counterspell]], [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]]  
+> 4th level (3 slots): [[5. Mechanics\Spells\Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics\Spells\Polymorph.md|polymorph]]  
+> 5th level (2 slots): [[5. Mechanics\Spells\Contact Other Plane.md|contact other plane]], [[5. Mechanics\Spells\Scrying.md|scrying]]  
+> 6th level (1 slot): [[5. Mechanics\Spells\Eyebite.md|eyebite]]  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[Senses#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[Conditions#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10` (`3d10`) psychic damage and is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[Conditions#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
-
-## Stat Block
 
 ```statblock
 "name": "Sea Hag"
@@ -103,18 +100,16 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - !!int "12"
 - !!int "12"
 - !!int "13"
-"speed": "walk 30 ft., swim 40 ft."
+"speed": "30 ft., swim 40 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Aquan, Common, Giant"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag can breathe air and water."
+- "desc": "The hag can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
+- "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
     \ the hag's true form must make a DC 11 Wisdom saving throw. On a failed save,\
-    \ the creature is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
+    \ the creature is [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] for\
     \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
     \ with disadvantage if the hag is within line of sight, ending the effect on itself\
     \ on a success. If a creature's saving throw is successful or the effect ends\
@@ -125,18 +120,15 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ disadvantage on attack rolls against the hag."
   "name": "Horrific Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag targets one [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "The hag targets one [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ creature she can see within 30 feet of her. If the target can see the hag, it\
     \ must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0\
     \ hit points."
   "name": "Death Glare"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
+- "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
     \ illusion that makes her look like an ugly creature of her general size and humanoid\
     \ shape. The effect ends if the hag takes a bonus action to end it or if she dies.\n\
     \nThe changes wrought by this effect fail to hold up to physical inspection. For\
@@ -157,7 +149,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "MOT"
 - "IDRotF"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Fey/token/sea-hag.png"
+"image": "compendium/bestiary/fey/token/sea-hag.png"
 ```
 ^statblock
 

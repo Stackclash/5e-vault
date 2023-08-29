@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Gray Render"]
 ---
 # Gray Render
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  
@@ -42,7 +41,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "name": "Gray Render"
 "size": "Large"
 "type": "monstrosity"
-"alignment": "Chaotic Neutral"
+"alignment": "Typically  Chaotic Neutral"
 "ac": !!int "19"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
@@ -53,39 +52,35 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 - !!int "3"
 - !!int "6"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Strength": !!int "8"
-  "Constitution": !!int "9"
+  "Strength": "+8"
+  "Constitution": "+9"
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "12"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gray render makes one Bite attack and two Claw attacks."
+- "desc": "The gray render makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) piercing damage. If the target is Medium\
-    \ or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 17 (dice: 2d12 + 4|avg (2d12 + 4)) piercing damage. If the target\
+    \ is Medium or smaller, the target must succeed on a DC 16 Strength saving throw\
+    \ or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, plus dice: 3d6|avg (3d6)\
-    \ bludgeoning damage if the target is [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, plus 10 (dice:\
+    \ 3d6|avg (3d6)) bludgeoning damage if the target is [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Claw"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the gray render takes damage, it makes one Claw attack against a random\
+- "desc": "When the gray render takes damage, it makes one Claw attack against a random\
     \ creature within its reach, other than its master."
   "name": "Bloody Rampage"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/gray-render.png"
+"image": "compendium/bestiary/monstrosity/token/gray-render.png"
 ```
 ^statblock
 

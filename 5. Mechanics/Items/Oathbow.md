@@ -18,7 +18,7 @@ aliases: ["Oathbow"]
 
 - **Damage**: 1d8 P
 - **Range**: 150/600
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]], [[5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [Two-handed](compendium/rules/item-properties.md#Two-handed)
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Ammunition|Ammunition]], [[\5. Mechanics\Rules\Item Properties.md#Heavy|Heavy]], Martial, Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Two-handed|Two-handed]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
@@ -28,4 +28,4 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
-*Source: Dungeon Master's Guide p. 183*
+*Source: Dungeon Master's Guide p. 183. Available in the SRD.*

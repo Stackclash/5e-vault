@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/huge
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Unspeakable Horror"]
 ---
 # Unspeakable Horror
 *Source: Van Richten's Guide to Ravenloft p. 250*  
@@ -38,10 +37,10 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 
 | dice: d4 | Hex |
 |----------|-----|
-| 1 | **Beguiling Hex (Recharge 5-6).** The horror expels a wave of mind-altering magic. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw, taking 33 (`dice: 6d10` (`6d10`)) psychic damage and being incapacitated until the end of the creature's next turn on a failed save, or taking half as much damage on a successful one. |
-| 2 | **Bile Hex (Recharge 5-6).** The horror expels acidic bile in a 60-foot line that is 5 feet wide. Each creature in that line must succeed on a DC 15 Dexterity saving throw or be covered in bile. A creature covered in bile takes `dice: 7d8` (`7d8`) acid damage at the start of each of its turns until it or another creature uses its action to scrape or wash off the bile that covers it. |
-| 3 | **Petrifying Hex (Recharge 5-6).** The horror expels petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or take `dice: 4d6` (`4d6`) necrotic damage and be restrained as it begins to turn to stone. A restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or other magic. |
-| 4 | **Reality-Stealing Hex (Recharge 5-6).** The horror expels a wave of perception-distorting energy. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw. On a failed save, the target takes `dice: 5d8` (`5d8`) psychic damage and is deafened until the end of its next turn. If the saving throw fails by 5 or more, the target is also blinded until the end of its next turn. |
+| 1 | **Beguiling Hex (Recharge 5-6).** The horror expels a wave of mind-altering magic. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw, taking 33 (`dice: 6d10\|avg` (`6d10`)) psychic damage and being incapacitated until the end of the creature's next turn on a failed save, or taking half as much damage on a successful one. |
+| 2 | **Bile Hex (Recharge 5-6).** The horror expels acidic bile in a 60-foot line that is 5 feet wide. Each creature in that line must succeed on a DC 15 Dexterity saving throw or be covered in bile. A creature covered in bile takes 31 (`dice: 7d8\|avg` (`7d8`)) acid damage at the start of each of its turns until it or another creature uses its action to scrape or wash off the bile that covers it. |
+| 3 | **Petrifying Hex (Recharge 5-6).** The horror expels petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or take 14 (`dice: 4d6\|avg` (`4d6`)) necrotic damage and be restrained as it begins to turn to stone. A restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]] spell or other magic. |
+| 4 | **Reality-Stealing Hex (Recharge 5-6).** The horror expels a wave of perception-distorting energy. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw. On a failed save, the target takes 22 (`dice: 5d8\|avg` (`5d8`)) psychic damage and is deafened until the end of its next turn. If the saving throw fails by 5 or more, the target is also blinded until the end of its next turn. |
 ^hex-blast
 
 **Limbs**
@@ -49,12 +48,10 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 | dice: d4 | Attack |
 |----------|--------|
 | 1 | **Bone Blade.** The horror's limb ends in a blade made of bone, which deals slashing damage instead of bludgeoning damage. In addition, it scores a critical hit on a roll of 19 or 20 and rolls the damage dice of a crit three times, instead of twice. |
-| 2 | **Corrosive Pseudopod.** The horror's limb attack deals an extra 9 (`dice: 2d8` (`2d8`)) acid damage. |
+| 2 | **Corrosive Pseudopod.** The horror's limb attack deals an extra 9 (`dice: 2d8\|avg` (`2d8`)) acid damage. |
 | 3 | **Grasping Tentacle.** The horror's limb is a grasping tentacle. When the horror hits a creature with this limb, the creature is also grappled (escape DC 16). The limb can have only one creature grappled at a time. |
-| 4 | **Poisonous Limb.** The horror's limb deals piercing damage instead of bludgeoning damage. In addition, when the horror hits a creature with this limb, the creature must succeed on a DC 15 Constitution saving throw or take `dice: 2d6` (`2d6`) poison damage and be poisoned until the end of its next turn. |
+| 4 | **Poisonous Limb.** The horror's limb deals piercing damage instead of bludgeoning damage. In addition, when the horror hits a creature with this limb, the creature must succeed on a DC 15 Constitution saving throw or take 7 (`dice: 2d6\|avg` (`2d6`)) poison damage and be poisoned until the end of its next turn. |
 ^limbs
-
-## Stat Block
 
 ```statblock
 "name": "Unspeakable Horror"
@@ -71,49 +68,42 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 - !!int "3"
 - !!int "14"
 - !!int "17"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Wisdom": !!int "5"
-  "Constitution": !!int "7"
+  "Wisdom": "+5"
+  "Constitution": "+7"
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When created, the horror's body composition takes one of four forms: Aberrant\
+- "desc": "When created, the horror's body composition takes one of four forms: Aberrant\
     \ Armor, Loathsome Limbs, Malleable Mass, or Oozing Organs. This form determines\
     \ certain traits in this stat block."
   "name": "Formed by the Mists"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The horror can move through any opening at least 1 inch wide without squeezing."
+- "desc": "The horror can move through any opening at least 1 inch wide without squeezing."
   "name": "Amorphous (Malleable Mass Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature that touches the horror or hits it with a melee attack takes\
-    \ dice: 1d10|avg (1d10) acid damage."
+- "desc": "Any creature that touches the horror or hits it with a melee attack takes\
+    \ 5 (dice: 1d10|avg (1d10)) acid damage."
   "name": "Bile Body (Oozing Organs Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The horror can move through the space of another creature. The first time\
+- "desc": "The horror can move through the space of another creature. The first time\
     \ on a turn that the horror enters a creature's space during this move, the creature\
-    \ must succeed on a DC 16 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ must succeed on a DC 16 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Relentless Stride (Loathsome Limbs Only)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The horror makes two Limbs attacks."
+- "desc": "The horror makes two Limbs attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 21 (dice: 3d10 + 5|avg (3d10 + 5)) bludgeoning damage."
   "name": "Limbs"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The horror expels necrotic energy in a 30-foot cone. Each creature in that\
+- "desc": "The horror expels necrotic energy in a 30-foot cone. Each creature in that\
     \ area must make a DC 15 Constitution saving throw, taking 45 (dice: 7d12|avg\
     \ (7d12)) necrotic damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Hex Blast (Recharge 5-6)"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/unspeakable-horror.png"
+"image": "compendium/bestiary/monstrosity/token/unspeakable-horror.png"
 ```
 ^statblock

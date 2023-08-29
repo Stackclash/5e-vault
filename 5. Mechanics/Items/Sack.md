@@ -14,4 +14,4 @@ aliases: ["Sack"]
 
 A sack can hold up to 1 cubic foot or 30 pounds of gear.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

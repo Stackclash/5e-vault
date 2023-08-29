@@ -16,4 +16,4 @@ aliases: ["Potion of Superior Healing"]
 
 You regain `dice: 8d4 + 8` (`8d4 + 8`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
-*Source: Dungeon Master's Guide p. 187*
+*Source: Dungeon Master's Guide p. 187. Available in the SRD.*

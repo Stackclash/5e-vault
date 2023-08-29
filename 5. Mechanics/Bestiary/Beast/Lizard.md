@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Lizard"]
 ---
 # Lizard
-*Source: Monster Manual p. 332, Tomb of Annihilation, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Lizard"
@@ -25,13 +24,12 @@ statblock: inline
 - !!int "1"
 - !!int "8"
 - !!int "3"
-"speed": "walk 20 ft., climb 20 ft."
+"speed": "20 ft., climb 20 ft."
 "senses": "darkvision 30 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
+- "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 5 ft., one target.\
     \ Hit: 1 piercing damage."
   "name": "Bite"
 "source":
@@ -39,6 +37,6 @@ statblock: inline
 - "ToA"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/lizard.png"
+"image": "compendium/bestiary/beast/token/lizard.png"
 ```
 ^statblock

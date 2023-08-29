@@ -17,4 +17,4 @@ aliases: ["Splint Armor"]
 
 This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
 
-*Source: Player's Handbook p. 145*
+*Source: Player's Handbook p. 145. Available in the SRD and the Basic Rules.*

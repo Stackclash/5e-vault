@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/swamp
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Catoblepas"]
 ---
 # Catoblepas
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*  
@@ -25,8 +24,6 @@ Ordinary folk rarely see a catoblepas, but the creature has such a feared reputa
 
 Sages say that gods of pestilence and rot created catoblepases as embodiments of their influence, while other stories link them to misfortune. Some such tales claim that swamp-dwelling hags tend catoblepases like cattle, drinking the monsters' milk and using them as guardians or pets. Other legends say that those of impure heart can tame a catoblepas and whisper of malevolent warlocks and wicked knights who ride them into battle.
 
-## Stat Block
-
 ```statblock
 "name": "Catoblepas"
 "size": "Large"
@@ -42,28 +39,25 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 - !!int "3"
 - !!int "14"
 - !!int "8"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature other than a catoblepas that starts its turn within 10 feet\
-    \ of the catoblepas must succeed on a DC 16 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Any creature other than a catoblepas that starts its turn within 10 feet\
+    \ of the catoblepas must succeed on a DC 16 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ until the start of the creature's next turn. On a successful saving throw, the\
     \ creature is immune to the Stench of any catoblepas for 1 hour."
   "name": "Stench"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 5d6 + 4|avg (5d6 + 4) bludgeoning damage, and the target must\
-    \ succeed on a DC 16 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 21 (dice: 5d6 + 4|avg (5d6 + 4)) bludgeoning damage, and the target\
+    \ must succeed on a DC 16 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ until the start of the catoblepas's next turn."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The catoblepas targets one creature it can see within 30 feet of it. The\
+- "desc": "The catoblepas targets one creature it can see within 30 feet of it. The\
     \ target must make a DC 16 Constitution saving throw, taking 36 (dice: 8d8|avg\
     \ (8d8)) necrotic damage on a failed save, or half as much damage on a successful\
     \ one. If the saving throw fails by 5 or more, the target instead takes 64 necrotic\
@@ -72,7 +66,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/catoblepas.png"
+"image": "compendium/bestiary/monstrosity/token/catoblepas.png"
 ```
 ^statblock
 

@@ -12,10 +12,10 @@ aliases: ["Hat of Disguise"]
 # Hat of Disguise
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this hat, you can use an action to cast the [[/5. Mechanics/Spells/Disguise Self.md|disguise self]] spell from it at will. The spell ends if the hat is removed.
+While wearing this hat, you can use an action to cast the [[5. Mechanics\Spells\Disguise Self.md|disguise self]] spell from it at will. The spell ends if the hat is removed.
 
-*Source: Dungeon Master's Guide p. 173*
+*Source: Dungeon Master's Guide p. 173. Available in the SRD.*

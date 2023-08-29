@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -12,10 +11,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc"]
 ---
 # Orc
-*Source: Monster Manual p. 246, Hoard of the Dragon Queen, Lost Mine of Phandelver, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 246. Available in the SRD and the Basic Rules.*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -47,8 +46,6 @@ Strength and power are the greatest of orcish virtues, and orcs embrace all mann
 
 Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs procreate often and indiscriminately so that orc hordes swell generation after generation. The orcs' drive to reproduce runs stronger than any other humanoid race, and they readily crossbreed with other races. When an orc procreates with a non-orc humanoid of similar size and stature (such as a human or a dwarf), the resulting child is either an orc or a half-orc. When an orc produces young with an ogre, the child is a half-ogre of intimidating strength and brutish features called an ogrillon.
 
-## Stat Block
-
 ```statblock
 "name": "Orc"
 "size": "Medium"
@@ -65,26 +62,23 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 - !!int "7"
 - !!int "11"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "2"
+  "Intimidation": "+2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d12 + 3|avg (1d12 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d12 + 3|avg (1d12 + 3)) slashing damage."
   "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3))\
+    \ piercing damage."
   "name": "Javelin"
 "source":
 - "MM"
@@ -101,7 +95,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 - "EGW"
 - "IDRotF"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc.png"
+"image": "compendium/bestiary/humanoid/token/orc.png"
 ```
 ^statblock
 

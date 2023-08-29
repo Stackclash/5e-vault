@@ -9,6 +9,7 @@ tags:
 aliases: ["Shadow of Moil"]
 ---
 # Shadow of Moil
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Necromancy*  
 
 - **Casting time:** 1 action
@@ -20,6 +21,6 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `dice: 2d8` (`2d8`) necrotic damage.
 
-**Classes**: [[/5. Mechanics/Classes/Warlock.md|Warlock]]
+**Classes**: [[5. Mechanics\Classes\Warlock.md|Warlock]]
 
-Source: Xanathar's Guide to Everything p. 164
+*Source: Xanathar's Guide to Everything p. 164*

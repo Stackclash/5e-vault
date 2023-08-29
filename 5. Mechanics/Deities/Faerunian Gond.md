@@ -10,7 +10,7 @@ aliases: ["Gond", "The Wonderbringer", "The Inspiration Divine", "The Holy Maker
 ---
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 
-![[/5. Mechanics/Deities/img/scag-symbol-of-gond.jpg#symbol]]
+![[5. Mechanics\Deities\img\scag-symbol-of-gond.jpg#symbol]]
 
 - **Alternate Names**: The Wonderbringer, The Inspiration Divine, The Holy Maker of All Things
 - **Alignment**: Neutral

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Green Abishai"]
 ---
 # Green Abishai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
@@ -21,14 +20,12 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
-## Stat Block
-
 ```statblock
 "name": "Green Abishai"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
 "hp": !!int "195"
 "hit_dice": "26d8 + 78"
@@ -39,15 +36,15 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "17"
 - !!int "12"
 - !!int "19"
-"speed": "walk 30 ft., fly 40 ft."
+"speed": "30 ft., fly 40 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Intelligence": !!int "8"
+  "Charisma": "+9"
+  "Intelligence": "+8"
 "skillsaves":
-  "Deception": !!int "9"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Persuasion": !!int "9"
+  "Deception": "+9"
+  "Insight": "+6"
+  "Perception": "+6"
+  "Persuasion": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -56,40 +53,35 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "15"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai casts one of the following spells, requiring no material components\
+- "desc": "The abishai casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Alter Self.md|alter self]], [[/5. Mechanics/Spells/Major Image.md|major image]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Confusion.md|confusion]], [[/5. Mechanics/Spells/Dominate Person.md|dominate person]],\
-    \ [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\n3/day each:\
-    \ [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[/5. Mechanics/Spells/Fear.md|fear]]"
+    \ [[5. Mechanics\Spells\Alter Self.md|alter self]], [[5. Mechanics\Spells\Major Image.md|major image]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Confusion.md|confusion]], [[5. Mechanics\Spells\Dominate Person.md|dominate person]],\
+    \ [[5. Mechanics\Spells\Mass Suggestion.md|mass suggestion]]\n\n3/day each: [charm\
+    \ person](compendium/spells/charm-person.md), [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics\Spells\Fear.md|fear]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the abishai's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai has advantage on saving throws against spells and other magical\
+- "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The abishai makes two Fiendish Claw attacks, or it makes one Fiendish Claw\
+- "desc": "The abishai makes two Fiendish Claw attacks, or it makes one Fiendish Claw\
     \ attack and uses Spellcasting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) force damage. If the target is a creature,\
-    \ it must succeed on a DC 16 Constitution saving throw or take dice: 3d10|avg\
-    \ (3d10) poison damage and become [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) force damage. If the target is a\
+    \ creature, it must succeed on a DC 16 Constitution saving throw or take 16 (dice:\
+    \ 3d10|avg (3d10)) poison damage and become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. The [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success."
   "name": "Fiendish Claw"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/green-abishai.png"
+"image": "compendium/bestiary/fiend/token/green-abishai.png"
 ```
 ^statblock
 

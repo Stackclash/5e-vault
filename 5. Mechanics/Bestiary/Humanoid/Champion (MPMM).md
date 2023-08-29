@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Champion"]
 ---
 # Champion
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
@@ -53,44 +52,40 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 - !!int "10"
 - !!int "14"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Strength": !!int "9"
-  "Constitution": !!int "6"
+  "Strength": "+9"
+  "Constitution": "+6"
 "skillsaves":
-  "Intimidation": !!int "5"
-  "Athletics": !!int "9"
-  "Perception": !!int "6"
+  "Intimidation": "+5"
+  "Athletics": "+9"
+  "Perception": "+6"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "9"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The champion rerolls a failed saving throw."
+- "desc": "The champion rerolls a failed saving throw."
   "name": "Indomitable (2/Day)"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The champion makes three Greatsword or Shortbow attacks."
+- "desc": "The champion makes three Greatsword or Shortbow attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage, plus dice: 2d6|avg (2d6)\
-    \ slashing damage if the champion has more than half of its total hit points remaining."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage, plus 7 (dice:\
+    \ 2d6|avg (2d6)) slashing damage if the champion has more than half of its\
+    \ total hit points remaining."
   "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, plus dice: 2d6|avg\
-    \ (2d6) piercing damage if the champion has more than half of its total hit\
-    \ points remaining."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one\
+    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage, plus 7 (dice:\
+    \ 2d6|avg (2d6)) piercing damage if the champion has more than half of its\
+    \ total hit points remaining."
   "name": "Shortbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The champion regains 20 hit points."
+- "desc": "The champion regains 20 hit points."
   "name": "Second Wind (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/champion.png"
+"image": "compendium/bestiary/humanoid/token/champion.png"
 ```
 ^statblock
 

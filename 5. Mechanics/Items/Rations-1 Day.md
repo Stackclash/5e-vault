@@ -14,4 +14,4 @@ aliases: ["Rations (1 day)"]
 
 Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

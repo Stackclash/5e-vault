@@ -12,10 +12,10 @@ aliases: ["Mantle of Spell Resistance"]
 # Mantle of Spell Resistance
 *Wondrous Item, major, rare (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
 You have advantage on saving throws against spells while you wear this cloak.
 
-*Source: Dungeon Master's Guide p. 180*
+*Source: Dungeon Master's Guide p. 180. Available in the SRD.*

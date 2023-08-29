@@ -16,4 +16,4 @@ As an action, you can splash the contents of this flask onto a creature within 5
 
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
-*Source: Player's Handbook p. 151*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

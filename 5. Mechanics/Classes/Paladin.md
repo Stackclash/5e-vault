@@ -7,7 +7,7 @@ tags:
 aliases: ["Paladin"]
 ---
 # Paladin
-*Source: Player's Handbook p. 82*  
+*Source: Player's Handbook p. 82. Available in the SRD.*  
 
 > [!tldr]- Feature progression
 > 
@@ -16,7 +16,7 @@ aliases: ["Paladin"]
 > | 1st | +2 | [Divine Sense](#Divine%20Sense%20(Level%201)), [Lay on Hands](#Lay%20on%20Hands%20(Level%201)) |
 > | 2nd | +2 | [Divine Smite](#Divine%20Smite%20(Level%202)), [Fighting Style](#Fighting%20Style%20(Level%202)), [Spellcasting](#Spellcasting%20(Level%202)) |
 > | 3rd | +2 | [Divine Health](#Divine%20Health%20(Level%203)), [Sacred Oath](#Sacred%20Oath%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
 > | 6th | +3 | [Aura of Protection](#Aura%20of%20Protection%20(Level%206)) |
 > | 7th | +3 | [Sacred Oath feature](#Sacred%20Oath%20feature%20(Level%207)) |
@@ -69,24 +69,24 @@ aliases: ["Paladin"]
 
 - **Hit Dice**: 1d10 per Paladin level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d10 + CON  (minimum of 1)
 
-## Starting a Paladin
+## Starting Paladin
 
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Saving Throws:** Wisdom, Charisma
-- **Armor:** light, medium, heavy, [[/5. Mechanics/Items/Shield.md|shields]]
-- **Weapons:** simple, martial
-- **Tools:** none
-- **Skills:** Choose 2 from *Athletics*, *Insight*, *Intimidation*, *Medicine*, *Persuasion*, *Religion*
+- **Saving Throws**: Wisdom, Charisma
+- **Armor**: light, medium, heavy, [[5. Mechanics\Items\Shield.md|shields]]
+- **Weapons**: simple, martial
+- **Tools**: none
+- **Skills**: Choose 2 from *Athletics*, *Insight*, *Intimidation*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a martial weapon and a [[/5. Mechanics/Items/Shield.md|shield]] or (b) two martial weapons  
-- (a) five [[/5. Mechanics/Items/Javelin.md|javelins]] or (b) any simple melee weapon  
-- (a) a [[/5. Mechanics/Items/Priests Pack.md|priest's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- [[/5. Mechanics/Items/Chain Mail.md|Chain mail]] and a holy symbol  
+- (a) a martial weapon and a [[5. Mechanics\Items\Shield.md|shield]] or (b) two martial weapons  
+- (a) five [[5. Mechanics\Items\Javelin.md|javelins]] or (b) any simple melee weapon  
+- (a) a [[5. Mechanics\Items\Priests Pack.md|priest's pack]] or (b) an [[5. Mechanics\Items\Explorers Pack.md|explorer's pack]]  
+- [[5. Mechanics\Items\Chain Mail.md|Chain mail]] and a holy symbol  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,15 +99,135 @@ To multiclass as a Paladin, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor:** light, medium, [[/5. Mechanics/Items/Shield.md|shields]]
-- **Weapons:** simple, martial
-- **Tools:** none
+- **Armor**: light, medium, [[5. Mechanics\Items\Shield.md|shields]]
+- **Weapons**: simple, martial
+- **Tools**: none
+
+## Paladin
+
+Clad in plate armor that gleams in the sunlight despite the dust and grime of long travel, a human lays down her sword and shield and places her hands on a mortally wounded man. Divine radiance shines from her hands, the man's wounds knit closed, and his eyes open wide with amazement.
+
+A dwarf crouches behind an outcrop, his black cloak making him nearly invisible in the night, and watches an orc war band celebrating its recent victory. Silently, he stalks into their midst and whispers an oath, and two orcs are dead before they even realize he is there.
+
+Silver hair shining in a shaft of light that seems to illuminate only him, an elf laughs with exultation. His spear flashes like his eyes as he jabs again and again at a twisted giant, until at last his light overcomes its hideous darkness.
+
+Whatever their origin and their mission, paladins are united by their oaths to stand against the forces of evil. Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
+
+### The Cause of Righteousness
+
+A paladin swears to uphold justice and righteousness, to stand with the good things of the world against the encroaching darkness, and to hunt the forces of evil wherever they lurk. Different paladins focus on various aspects of the cause of righteousness, but all are bound by the oaths that grant them power to do their sacred work. Although many paladins are devoted to gods of good, a paladin's power comes as much from a commitment to justice itself as it does from a god.
+
+Paladins train for years to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the sick and injured, to smite the wicked and the undead, and to protect the innocent and those who join them in the fight for justice.
+
+### Beyond the Mundane Life
+
+Almost by definition, the life of a paladin is an adventuring life. Unless a lasting injury has taken him or her away from adventuring for a time, every paladin lives on the front lines of the cosmic struggle against evil. Fighters are rare enough among the ranks of the militias and armies of the world, but even fewer people can claim the true calling of a paladin. When they do receive the call, these warriors turn from their former occupations and take up arms to fight evil. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then their loyalty is first to the cause of righteousness, not to crown and country.
+
+Adventuring paladins take their work seriously. A delve into an ancient ruin or dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Evil lurks in dungeons and primeval forests, and even the smallest victory against it can tilt the cosmic balance away from oblivion.
+
+### Creating a Paladin
+
+The most important aspect of a paladin character is the nature of his or her holy quest. Although the class features related to your oath don't appear until you reach 3rd level, plan ahead for that choice by reading the oath descriptions at the end of the class. Are you a devoted servant of good, loyal to the gods of justice and honor, a holy knight in shining armor venturing forth to smite evil? Are you a glorious champion of the light, cherishing everything beautiful that stands against the shadow, a knight whose oath descends from traditions older than many of the gods? Or are you an embittered loner sworn to take vengeance on those who have done great evil, sent as an angel of death by the gods or driven by your need for revenge? Appendix B lists many deities worshiped by paladins throughout the multiverse, such as Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, the Silver Flame, Bahamut, Athena, Re-Horakhty, and Heimdall.
+
+How did you experience your call to serve as a paladin? Did you hear a whisper from an unseen god or angel while you were at prayer? Did another paladin sense the potential within you and decide to train you as a squire? Or did some terrible event—the destruction of your home, perhaps—drive you to your quests? Perhaps you stumbled into a sacred grove or a hidden elven enclave and found yourself called to protect all such refuges of goodness and beauty. Or you might have known from your earliest memories that the paladin's life was your calling, almost as if you had been sent into the world with that purpose stamped on your soul.
+
+As guardians against the forces of wickedness, paladins are rarely of any evil alignment. Most of them walk the paths of charity and justice. Consider how your alignment colors the way you pursue your holy quest and the manner in which you conduct yourself before gods and mortals. Your oath and alignment might be in harmony, or your oath might represent standards of behavior that you have not yet attained.
+
+#### Quick Build
+
+You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [[5. Mechanics\Backgrounds\Noble.md|noble]] background.
+
+> [!quote]- A quote from Isteval  
+> 
+> The true worth of a paladin is measured not in foes defeated or dungeons plundered. It is measured in lives saved and hearts turned to the causes of mercy and justice.
+
+A paladin is a living embodiment of an oath—a promise or a vow made manifest in the person of a holy warrior who has the skill and the determination to see the cause through to the end. Some paladins devote themselves expressly to protecting the innocent and spreading justice in the world, while others resolve to attain that goal by conquering those who stand defiant and bringing them under the rule of law.
+
+Although no paladin in the world could be described as typical, a number of them are narrow-minded do-gooders who refuse to tolerate even the smallest deviation from their own outlook. Paladins who take up the adventuring life, however, rarely remain so rigid in their attitudes—if only to keep from alienating their companions.
+
+You can flesh out your paladin character by using the suggestions below. It's important to keep in mind that most paladins aren't robots. They have doubts and prejudices and harbor contradictory thoughts just as any other character does. Some are compelled by an internal motivation that might sometimes be at odds with the principles of their oaths.
+
+## Personal Goal
+_Source: Xanathar's Guide to Everything_
+
+The precepts of a paladin's oath provide purpose to the character and dictate an ultimate goal or an overall intent that the paladin abides by and advances. Aside from that, some paladins are driven by a personal goal that either complements or transcends the dictates of their oaths. Paladins who swear different oaths might have the same personal goal, differing only in how they apply that goal to their actions when upholding their oaths.
+
+If your paladin character has a personal goal, it might be drawn from some life event and thus not directly tied to the oath.
+
+**Personal Goal**
+
+| `dice: d6\|avg` (`d6`) | Personal Goal |
+|-----------|------------|---------------|
+| 1 | Peace. You fight so that future generations will not have to. |
+| 2 | Revenge. Your oath is the vehicle through which you will right an ancient wrong. |
+| 3 | Duty. You will live up to what you have sworn to do, or die trying. |
+| 4 | Leadership. You will win a great battle that bards will sing about, and in so doing, you will become an example to inspire others. |
+| 5 | Faith. You know your path is righteous, or else the gods would not have set you upon it. |
+| 6 | Glory. You will lead the world into a grand new era, one that will be branded with your name. |
+^personal-goal
+
+## Symbol
+_Source: Xanathar's Guide to Everything_
+
+Paladins are mindful of the influence of symbols, and many of them adopt or design an artistic device that bears a distinctive image. Your symbol exemplifies the oath you have taken and communicates that message to those around you, friend and foe alike.
+
+Your symbol might be displayed on a banner, a flag, or your clothing for all to see. Or it could be less obvious, such as a trinket or a token that you carry concealed on your person.
+
+**Symbol**
+
+| `dice: d6\|avg` (`d6`) | Symbol |
+|-----------|------------|--------|
+| 1 | A dragon, emblematic of your nobility in peace and your ferocity in combat |
+| 2 | A clenched fist, because you are always ready to fight for your beliefs |
+| 3 | An upraised open hand, indicating your preference for diplomacy over combat |
+| 4 | A red heart, showing the world your commitment to justice |
+| 5 | A black heart, signifying that emotions such as pity do not sway your dedication to your oath |
+| 6 | An unblinking eye, meaning that you are ever alert to all threats against your cause |
+^symbol
+
+## Nemesis
+_Source: Xanathar's Guide to Everything_
+
+Their adherence to a sacred oath demands that paladins take an active stance in carrying their beliefs into the world. This activity naturally leads to conflict with creatures or entities that oppose those beliefs. Among those opponents, one often stands out as a paladin's most persistent or most formidable foe—a nemesis whose presence or influence is a constant factor in a paladin's life.
+
+Your paladin character might have an enemy that dates from the days before you took up your path. Or you could be a target because when you became a paladin, you immediately attracted the attention of those that would do you in. If you have a nemesis, who or what is it? Whom among your enemies do you consider to be the biggest threat to achieving your goals?
+
+**Nemesis**
+
+| `dice: d6\|avg` (`d6`) | Nemesis |
+|-----------|------------|---------|
+| 1 | A mighty orc war chief who threatens to overrun and destroy everything you hold sacred |
+| 2 | A fiend or a celestial, the agent of a power of the Outer Planes, who has been charged with corrupting or redeeming you, as appropriate |
+| 3 | A dragon whose servants dog your steps |
+| 4 | A high priest who sees you as a misguided fool and wants you to abandon your religion |
+| 5 | A rival paladin who trained with you but became an oath-breaker and holds you responsible |
+| 6 | A vampire who has sworn revenge against all paladins after being defeated by one |
+^nemesis
+
+## Temptation
+_Source: Xanathar's Guide to Everything_
+
+Although paladins are dedicated to their oaths, they are mortals, and thus they are flawed. Many of them exhibit a type of behavior or hold to an attitude that is not in keeping with the highest ideals of their calling.
+
+What is the temptation that your character succumbs to or finds it difficult to resist?
+
+**Temptation**
+
+| `dice: d6\|avg` (`d6`) | Temptation |
+|-----------|------------|------------|
+| 1 | Fury. When your anger is roused, you have trouble thinking straight, and you fear you might do something you'll regret. |
+| 2 | Pride. Your deeds are noteworthy, and no one takes note of them more often than you. |
+| 3 | Lust. You can't resist an attractive face and a pleasant smile. |
+| 4 | Envy. You are mindful of what some famous folk have accomplished, and you feel inadequate when your deeds don't compare to theirs. |
+| 5 | Despair. You consider the great strength of the enemies you must defeat, and at times you see no way to achieve final victory. |
+| 6 | Greed. Regardless of how much glory and treasure you amass, it's never enough for you. |
+^temptation
 
 ## Class Features
 
 ### Divine Sense (Level 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[/5. Mechanics/Spells/Hallow.md|hallow]] spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[5. Mechanics\Spells\Hallow.md|hallow]] spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -129,21 +249,10 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- Close Quarters Shooter  
-- [[/5. Mechanics/Classes/Fighter.md#Defense|Defense]]  
-- [[/5. Mechanics/Classes/Fighter.md#Dueling|Dueling]]  
-- [[/5. Mechanics/Classes/Fighter.md#Great%20Weapon%20Fighting|Great Weapon Fighting]]  
-- Mariner  
-- [[/5. Mechanics/Classes/Fighter.md#Protection|Protection]]  
-- Tunnel Fighter  
-- Blind Fighting  
-- Interception  
-- Thrown Weapon Fighting  
-- Unarmed Fighting  
-- Blessed Warrior  
-- [[/5. Mechanics/Classes/Paladin.md#Blessed%20Warrior|Blessed Warrior]]  
-- [[/5. Mechanics/Classes/Fighter.md#Blind%20Fighting|Blind Fighting]]  
-- [[/5. Mechanics/Classes/Fighter.md#Interception|Interception]]  
+- [[5. Mechanics\Optional Features\Defense.md|Defense]]  
+- [[5. Mechanics\Optional Features\Dueling.md|Dueling]]  
+- [[5. Mechanics\Optional Features\Great Weapon Fighting.md|Great Weapon Fighting]]  
+- [[5. Mechanics\Optional Features\Protection.md|Protection]]  
 
 ### Spellcasting (Level 2)
 
@@ -155,7 +264,7 @@ The Paladin table shows how many spell slots you have to cast your paladin spell
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -195,13 +304,6 @@ When you use your Channel Divinity, you choose which option to use. You must the
 
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
-### Channel Divinity: Harness Divine Power (Level 3)
-_Source: Tasha's Cauldron of Everything p. 52_
-
-_3rd-level paladin optional class features_
-
-You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
-
 > [!quote] Breaking Your Oath
 > 
 > A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
@@ -217,16 +319,9 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Martial Versatility (Level 4)
-_Source: Tasha's Cauldron of Everything p. 52_
-
-_4th-level paladin optional class features_
-
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
-
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[\5. Mechanics\Rules\Actions.md#Attack|Attack]] action on your turn.
 
 ### Aura of Protection (Level 6)
 
@@ -246,7 +341,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -290,79 +385,8 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 20th level, you gain a feature granted to you by your Sacred Oath.
 
-## Fighting Style
+## Optional Features
 
-### Blessed Warrior
-_Source: Tasha's Cauldron of Everything p. 52_
-
-You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
-
-### Blessed Warrior
-_Source: Unearthed Arcana: Class Feature Variants p. 6_
-
-You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
-
-### Blind Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-Being unable to see a creature doesn't impose disadvantage on your attack rolls against it, provided the creature isn't hidden from you.
-
-### Blind Fighting
-_Source: Tasha's Cauldron of Everything p. 41_
-
-You have [[5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] or in darkness. Moreover, you can see an [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within that range, unless the creature successfully hides from you.
-
-### Close Quarters Shooter
-_Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
-
-When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
-
-### Defense
-
-While you are wearing armor, you gain a +1 bonus to AC.
-
-### Dueling
-
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-### Great Weapon Fighting
-
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
-
-### Interception
-_Source: Tasha's Cauldron of Everything p. 41_
-
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [[/5. Mechanics/Items/Shield.md|shield]] or a simple or martial weapon to use this reaction.
-
-### Interception
-_Source: Unearthed Arcana: Class Feature Variants p. 12_
-
-When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `dice: 1d10` (`1d10`) + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-
-### Mariner
-_Source: Unearthed Arcana: Waterborne Adventures p. 3_
-
-As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
-
-### Protection
-
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-### Thrown Weapon Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 13_
-
-You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
-
-In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.
-
-### Tunnel Fighter
-_Source: Unearthed Arcana: Light, Dark, Underdark! p. 1_
-
-As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
-
-### Unarmed Fighting
-_Source: Unearthed Arcana: Class Feature Variants p. 13_
-
-Your unarmed strikes can deal bludgeoning damage equal to `dice: 1d6` (`1d6`) + your Strength modifier. If you strike with two free hands, the `dice: d6` (`d6`) becomes a `dice: d8` (`d8`).
-
-When you successfully start a grapple, you can deal `dice: 1d4` (`1d4`) bludgeoning damage to the [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+> [!example]- Fighting Style, Paladin
+> ![Fighting Style, Paladin](compendium/optional-features/list-fighting-style-paladin.md#Fighting%20Style,%20Paladin)
+^list-fighting-style-paladin

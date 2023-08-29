@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
+aliases: ["Star Spawn Seer"]
 ---
 # Star Spawn Seer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  
@@ -43,13 +42,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tharizdun, the Chained God  
 - Cult of Tyranthraxus, the Flamed One  
 
-## Stat Block
-
 ```statblock
 "name": "Star Spawn Seer"
 "size": "Medium"
 "type": "aberration"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
@@ -60,14 +57,14 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "22"
 - !!int "19"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "11"
+  "Charisma": "+8"
+  "Dexterity": "+6"
+  "Wisdom": "+9"
+  "Intelligence": "+11"
 "skillsaves":
-  "Perception": !!int "9"
+  "Perception": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
 "condition_immunities": "charmed, frightened"
@@ -75,40 +72,34 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The seer can move through other creatures and objects as if they were difficult\
-    \ terrain, and its movement doesn't provoke opportunity attack||opportunity attacks.\n\
-    \nEach creature it moves through takes dice: 1d10|avg (1d10) psychic damage;\
-    \ no creature can take this damage more than once per turn.\n\nThe seer takes\
-    \ dice: 1d10|avg (1d10) force damage if it ends its turn inside an object."
+- "desc": "The seer can move through other creatures and objects as if they were difficult\
+    \ terrain, and its movement doesn't provoke opportunity attacks.\n\nEach creature\
+    \ it moves through takes 5 (dice: 1d10|avg (1d10)) psychic damage; no creature\
+    \ can take this damage more than once per turn.\n\nThe seer takes 5 (dice: 1d10|avg\
+    \ (1d10)) force damage if it ends its turn inside an object."
   "name": "Out-Of-Phase Movement"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The seer makes two Comet Staff or Psychic Orb attacks."
+- "desc": "The seer makes two Comet Staff or Psychic Orb attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) bludgeoning damage plus dice: 4d8|avg\
-    \ (4d8) psychic damage, and if the target is a creature, it must succeed on\
-    \ a DC 19 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 1d8 + 6|avg (1d8 + 6)) bludgeoning damage plus 18 (dice:\
+    \ 4d8|avg (4d8)) psychic damage, and if the target is a creature, it must succeed\
+    \ on a DC 19 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
     \ until the end of its next turn."
   "name": "Comet Staff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+11 (+11 to hit), range 120 feet, one\
-    \ creature. Hit: dice: 5d10|avg (5d10) psychic damage."
+- "desc": "Ranged Spell Attack: dice: d20+11 (+11 to hit), range 120 feet, one\
+    \ creature. Hit: 27 (dice: 5d10|avg (5d10)) psychic damage."
   "name": "Psychic Orb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The seer warps space around one creature it can see within 30 feet of it.\
+- "desc": "The seer warps space around one creature it can see within 30 feet of it.\
     \ That creature must make a DC 19 Wisdom saving throw. On a failed save, the target,\
     \ along with any equipment it is wearing or carrying, is teleported up to 60 feet\
     \ to an unoccupied space the seer can see, and then each creature within 10 feet\
-    \ of the target's original space takes dice: 6d12|avg (6d12) psychic damage.\
-    \ On a successful save, the target takes dice: 3d12|avg (3d12) psychic damage\
-    \ and isn't teleported."
+    \ of the target's original space takes 39 (dice: 6d12|avg (6d12)) psychic\
+    \ damage. On a successful save, the target takes 19 (dice: 3d12|avg (3d12))\
+    \ psychic damage and isn't teleported."
   "name": "Collapse Distance (Recharge 6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the seer would be hit by an attack roll, it teleports, along with\
+- "desc": "When the seer would be hit by an attack roll, it teleports, along with\
     \ any equipment it is wearing or carrying, exchanging positions with another star\
     \ spawn it can see within 60 feet of it. The other star spawn is hit by the attack\
     \ instead."
@@ -116,7 +107,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-seer.png"
+"image": "compendium/bestiary/aberration/token/star-spawn-seer.png"
 ```
 ^statblock
 

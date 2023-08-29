@@ -11,7 +11,7 @@ aliases: ["Book of Exalted Deeds"]
 # Book of Exalted Deeds
 *Wondrous Item, artifact (requires attunement by a creature of good alignment)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
@@ -27,8 +27,8 @@ Benefits granted by the Book of Exalted Deeds last only as long as you strive to
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 Artifact Properties; Minor Beneficial Properties  
-- 2 Artifact Properties; Major Beneficial Properties  
+- 2 [[5. Mechanics\Tables\Artifact Properties Minor Beneficial Properties.md|minor beneficial properties]]  
+- 2 [[5. Mechanics\Tables\Artifact Properties Major Beneficial Properties.md|major beneficial properties]]  
 
 ## Increased Wisdom
 
@@ -40,7 +40,7 @@ Once you've read and studied the book, any spell slot you expend to cast a cleri
 
 ## Halo
 
-Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) checks made to interact with good creatures and Charisma ([[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
+Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]]) checks made to interact with good creatures and Charisma ([[\5. Mechanics\Rules\Skills.md#Intimidation|Intimidation]]) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
 
 ## Destroying the Book
 

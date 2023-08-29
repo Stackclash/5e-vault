@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
-statblock: inline
+aliases: ["Cult Fanatic"]
 ---
 # Cult Fanatic
-*Source: Monster Manual p. 345, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Light of Xaryxis, Keys from the Golden Vault*  
+*Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD.*  
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 
@@ -29,37 +28,33 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - !!int "10"
 - !!int "13"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "4"
-  "Religion": !!int "2"
-  "Persuasion": !!int "4"
+  "Deception": "+4"
+  "Religion": "+2"
+  "Persuasion": "+4"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The fanatic\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Light.md|light]],\
-    \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]"
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Light.md|light]],\
+    \ [[5. Mechanics\Spells\Sacred Flame.md|sacred flame]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Inflict Wounds.md|inflict wounds]], [[5. Mechanics\Spells\Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Hold Person.md|hold person]],\
+    \ [[5. Mechanics\Spells\Spiritual Weapon.md|spiritual weapon]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The fanatic has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The fanatic has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
+    \ or [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]."
   "name": "Dark Devotion"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The fanatic makes two melee attacks."
+- "desc": "The fanatic makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one creature. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one creature. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2))\
+    \ piercing damage."
   "name": "Dagger"
 "source":
 - "MM"
@@ -86,7 +81,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - "JttRC"
 - "LoX"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Humanoid/token/cult-fanatic.png"
+- "PSI"
+"image": "compendium/bestiary/humanoid/token/cult-fanatic.png"
 ```
 ^statblock
 

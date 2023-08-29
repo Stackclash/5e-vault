@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fey/goblinoid
-statblock: inline
+aliases: ["Hobgoblin Iron Shadow"]
 ---
 # Hobgoblin Iron Shadow
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
@@ -22,7 +21,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 "size": "Medium"
 "type": "fey"
 "subtype": "goblinoid"
-"alignment": "Lawful Neutral"
+"alignment": "Typically  Lawful Neutral"
 "ac": !!int "15"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
@@ -33,49 +32,43 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 - !!int "14"
 - !!int "15"
 - !!int "11"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Athletics": !!int "4"
-  "Stealth": !!int "5"
-  "Acrobatics": !!int "5"
+  "Athletics": "+4"
+  "Stealth": "+5"
+  "Acrobatics": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 12):\n\nAt will: [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[/5. Mechanics/Spells/Silent Image.md|silent image]]"
+- "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
+    \ the spellcasting ability (spell save DC 12):\n\nAt will: [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics\Spells\Silent Image.md|silent image]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the hobgoblin is wearing no armor and wielding no shield, its AC\
+- "desc": "While the hobgoblin is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."
   "name": "Unarmored Defense"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin makes four attacks, each of which can be an Unarmed Strike\
+- "desc": "The hobgoblin makes four attacks, each of which can be an Unarmed Strike\
     \ or a Dart attack. It can also use\n\nShadow Jaunt once, either before or after\
     \ one of the attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
   "name": "Unarmed Strike"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
+    \ target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
   "name": "Dart"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin teleports, along with any equipment it is wearing or carrying,\
+- "desc": "The hobgoblin teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see. Both the space it leaves and\
     \ its destination must be in dim light or darkness."
   "name": "Shadow Jaunt"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/hobgoblin-iron-shadow.png"
+"image": "compendium/bestiary/fey/token/hobgoblin-iron-shadow.png"
 ```
 ^statblock
 

@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Pony"]
 ---
 # Pony
-*Source: Monster Manual p. 335, Storm King's Thunder, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 335. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Pony"
@@ -26,20 +25,19 @@ statblock: inline
 - !!int "2"
 - !!int "11"
 - !!int "7"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"
 - "SKT"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Beast/token/pony.png"
+"image": "compendium/bestiary/beast/token/pony.png"
 ```
 ^statblock
 

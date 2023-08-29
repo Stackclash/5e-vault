@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Stone Giant"]
 ---
 # Stone Giant
-*Source: Monster Manual p. 156, Hoard of the Dragon Queen, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros*  
+*Source: Monster Manual p. 156. Available in the SRD.*  
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
 
@@ -75,8 +74,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
 
-## Stat Block
-
 ```statblock
 "name": "Stone Giant"
 "size": "Huge"
@@ -92,39 +89,34 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "10"
 - !!int "12"
 - !!int "9"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "8"
+  "Dexterity": "+5"
+  "Wisdom": "+4"
+  "Constitution": "+8"
 "skillsaves":
-  "Athletics": !!int "12"
-  "Perception": !!int "4"
+  "Athletics": "+12"
+  "Perception": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky\
+- "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky\
     \ terrain."
   "name": "Stone Camouflage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatclub attacks."
+- "desc": "The giant makes two greatclub attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
+    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
   "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 17 Strength saving throw or be knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
+    \ target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage. If\
+    \ the target is a creature, it must succeed on a DC 17 Strength saving throw or\
+    \ be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Rock"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
+- "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
     \ a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning\
     \ damage from it."
   "name": "Rock Catching"
@@ -135,7 +127,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "TftYP"
 - "WDMM"
 - "MOT"
-"image": "5. Mechanics/Bestiary/Giant/token/stone-giant.png"
+"image": "compendium/bestiary/giant/token/stone-giant.png"
 ```
 ^statblock
 

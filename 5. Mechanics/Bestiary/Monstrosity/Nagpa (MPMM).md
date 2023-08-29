@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -11,7 +10,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity/wizard
-statblock: inline
+aliases: ["Nagpa"]
 ---
 # Nagpa
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
@@ -27,7 +26,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "wizard"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "19"
 "hp": !!int "203"
 "hit_dice": "37d8 + 37"
@@ -38,64 +37,58 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 - !!int "23"
 - !!int "18"
 - !!int "21"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "11"
-  "Wisdom": !!int "10"
-  "Intelligence": !!int "12"
+  "Charisma": "+11"
+  "Wisdom": "+10"
+  "Intelligence": "+12"
 "skillsaves":
-  "Deception": !!int "11"
-  "Insight": !!int "10"
-  "Perception": !!int "10"
-  "History": !!int "12"
-  "Arcana": !!int "12"
+  "Deception": "+11"
+  "Insight": "+10"
+  "Perception": "+10"
+  "History": "+12"
+  "Arcana": "+12"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common plus up to five other languages"
 "cr": "17"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 20):\n\nAt will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
-    \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [dominate\
-    \ person](/compendium/spells/dominate-person.md), [[/5. Mechanics/Spells/Etherealness.md|etherealness]],\
-    \ [[/5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n2/day each: [[/5. Mechanics/Spells/Fireball.md|fireball]],\
-    \ [[/5. Mechanics/Spells/Fly.md|fly]], [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]], [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
+- "desc": "The nagpa casts one of the following spells, using Intelligence as the\
+    \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Message.md|message]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]]\n\n1/day each: [dominate\
+    \ person](compendium/spells/dominate-person.md), [[5. Mechanics\Spells\Etherealness.md|etherealness]],\
+    \ [[5. Mechanics\Spells\Feeblemind.md|feeblemind]]\n\n2/day each: [[5. Mechanics\Spells\Fireball.md|fireball]],\
+    \ [[5. Mechanics\Spells\Fly.md|fly]], [[5. Mechanics\Spells\Hold Person.md|hold person]],\
+    \ [[5. Mechanics\Spells\Suggestion.md|suggestion]], [[5. Mechanics\Spells\Wall Of Fire.md|wall of fire]]"
   "name": "spells"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
+- "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 7d6|avg\
-    \ (7d6) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) bludgeoning damage plus 24 (dice:\
+    \ 7d6|avg (7d6)) necrotic damage."
   "name": "Staff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
-    \ target. Hit: dice: 7d6 + 6|avg (7d6 + 6) necrotic damage."
+- "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
+    \ target. Hit: 30 (dice: 7d6 + 6|avg (7d6 + 6)) necrotic damage."
   "name": "Deathly Ray"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
+- "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
     \ must make a DC 20 Charisma saving throw. An evil creature makes the save with\
-    \ disadvantage. On a failed save, the target is [[5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ disadvantage. On a failed save, the target is [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]]\
     \ by the nagpa until the start of the nagpa's next turn. On a successful save,\
     \ the target becomes immune to the nagpa's Corruption for the next 24 hours."
   "name": "Corruption"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom\
+- "desc": "The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom\
     \ saving throw, excluding Undead and Constructs. On a failed save, a target is\
-    \ [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] for 1 minute. A [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Paralysis (Recharge 6-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/nagpa.png"
+"image": "compendium/bestiary/monstrosity/token/nagpa.png"
 ```
 ^statblock
 

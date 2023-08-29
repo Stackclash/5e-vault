@@ -10,7 +10,7 @@ aliases: ["Tortle"]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 34*  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 
@@ -34,11 +34,11 @@ Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[5. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[5. Mechanics/Rules/Skills.md#Medicine|Medicine]], [[5. Mechanics/Rules/Skills.md#Nature|Nature]], [[5. Mechanics/Rules/Skills.md#Perception|Perception]], [[5. Mechanics/Rules/Skills.md#Stealth|Stealth]], or [[5. Mechanics/Rules/Skills.md#Survival|Survival]].
+Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[\5. Mechanics\Rules\Skills.md#Animal%20Handling|Animal Handling]], [[\5. Mechanics\Rules\Skills.md#Medicine|Medicine]], [[\5. Mechanics\Rules\Skills.md#Nature|Nature]], [[\5. Mechanics\Rules\Skills.md#Perception|Perception]], [[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]], or [[\5. Mechanics\Rules\Skills.md#Survival|Survival]].
 
 ### Shell Defense
 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [[5. Mechanics/Rules/Conditions.md#prone|prone]], your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [[\5. Mechanics\Rules\Conditions.md#prone|prone]], your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
 ## Description
 

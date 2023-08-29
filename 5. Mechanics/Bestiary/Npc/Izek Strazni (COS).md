@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Izek Strazni"]
 ---
 # Izek Strazni
 *Source: Curse of Strahd p. 232*  
@@ -46,8 +45,6 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 "I would do anything, kill anything, to find my sister."
 
-## Stat Block
-
 ```statblock
 "name": "Izek Strazni"
 "size": "Medium"
@@ -64,34 +61,30 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 - !!int "10"
 - !!int "9"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "8"
-  "Perception": !!int "2"
+  "Intimidation": "+8"
+  "Perception": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A melee weapon deals one extra die of its damage when Izek hits with it\
+- "desc": "A melee weapon deals one extra die of its damage when Izek hits with it\
     \ (included in the attack)."
   "name": "Brute"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Izek makes two attacks with his battleaxe."
+- "desc": "Izek makes two attacks with his battleaxe."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or 15 (dice: 2d10 + 4|avg\
-    \ (2d10 + 4)) when used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, or 15 (dice: 2d10\
+    \ + 4|avg (2d10 + 4)) when used with two hands."
   "name": "Battleaxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
-    \ that isn't being worn or carried, it catches fire."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage. If the target is a flammable\
+    \ object that isn't being worn or carried, it catches fire."
   "name": "Hurl Flame"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/izek-strazni.png"
+"image": "compendium/bestiary/npc/token/izek-strazni.png"
 ```
 ^statblock

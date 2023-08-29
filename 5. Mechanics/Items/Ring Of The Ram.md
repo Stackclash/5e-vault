@@ -12,7 +12,7 @@ aliases: ["Ring of the Ram"]
 # Ring of the Ram
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -20,4 +20,4 @@ This ring has 3 charges, and it regains `dice: 1d3` (`1d3`) expended charges dai
 
 Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
-*Source: Dungeon Master's Guide p. 193*
+*Source: Dungeon Master's Guide p. 193. Available in the SRD.*

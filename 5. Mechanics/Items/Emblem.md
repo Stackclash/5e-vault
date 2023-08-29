@@ -12,4 +12,4 @@ aliases: ["Emblem"]
 - **Cost**: 5 gp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 151*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

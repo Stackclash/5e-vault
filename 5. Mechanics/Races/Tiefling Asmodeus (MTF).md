@@ -10,7 +10,7 @@ aliases: ["Tiefling (Asmodeus)"]
 *Source: Mordenkainen's Tome of Foes p. 21*  
 
 - **Ability Scores**: Charisma +2, Intelligence +1
-- **Creature Type**: subrace
+- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -35,7 +35,7 @@ You have resistance to fire damage.
 
 ### Infernal Legacy
 
-You know the [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/5. Mechanics/Spells/Hellish Rebuke.md|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/5. Mechanics/Spells/Darkness.md|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[5. Mechanics\Spells\Hellish Rebuke.md|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[5. Mechanics\Spells\Darkness.md|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

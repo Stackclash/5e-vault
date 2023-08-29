@@ -14,4 +14,4 @@ aliases: ["Spyglass"]
 
 Objects viewed through a spyglass are magnified to twice their size.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

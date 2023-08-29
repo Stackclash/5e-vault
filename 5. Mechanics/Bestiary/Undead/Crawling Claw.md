@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/undead
-statblock: inline
+aliases: ["Crawling Claw"]
 ---
 # Crawling Claw
-*Source: Monster Manual p. 44, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Light of Xaryxis, Keys from the Golden Vault*  
+*Source: Monster Manual p. 44, Curse of Strahd*  
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 
@@ -43,8 +42,6 @@ A crawling claw doesn't require air, food, drink, or sleep.
 > Makes you wonder what can be done with all those other murderer parts, doesn't it?
 
 
-## Stat Block
-
 ```statblock
 "name": "Crawling Claw"
 "size": "Tiny"
@@ -60,20 +57,18 @@ A crawling claw doesn't require air, food, drink, or sleep.
 - !!int "5"
 - !!int "10"
 - !!int "4"
-"speed": "walk 20 ft., climb 20 ft."
+"speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "charmed, exhaustion, poisoned"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The claw is immune to effects that turn undead."
+- "desc": "The claw is immune to effects that turn undead."
   "name": "Turn Immunity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning or slashing damage (claw's\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning or slashing damage (claw's\
     \ choice)."
   "name": "Claw"
 "source":
@@ -88,6 +83,6 @@ A crawling claw doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "LoX"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Undead/token/crawling-claw.png"
+"image": "compendium/bestiary/undead/token/crawling-claw.png"
 ```
 ^statblock

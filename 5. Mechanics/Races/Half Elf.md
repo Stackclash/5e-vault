@@ -7,10 +7,10 @@ tags:
 aliases: ["Half-Elf"]
 ---
 # Half-Elf
-*Source: Player's Handbook p. 38*  
+*Source: Player's Handbook p. 38. Available in the SRD.*  
 
 - **Ability Scores**: Charisma +2, Apply +1 to 2 (distinct) of Strength, Dexterity, Constitution, Intelligence, Wisdom
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -30,7 +30,7 @@ Thanks to your elf blood, you have superior vision in dark and dim conditions. Y
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], and magic can't put you to sleep.
+You have advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and magic can't put you to sleep.
 
 ### Skill Versatility
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Isis"]
 ---
 # Isis
-*Source: Player's Handbook p. 299, Sword Coast Adventurer's Guide p. 125* 
+*Source: Player's Handbook p. 299, Sword Coast Adventurer's Guide p. 125. Available in the SRD.* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Knowledge, Life, Arcana

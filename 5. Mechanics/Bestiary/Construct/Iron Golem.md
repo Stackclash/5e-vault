@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/large
 - monster/type/construct
-statblock: inline
+aliases: ["Iron Golem"]
 ---
 # Iron Golem
-*Source: Monster Manual p. 170, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 170, Curse of Strahd. Available in the SRD.*  
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
 
@@ -40,13 +39,11 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[Conditions#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
 A golem doesn't require air, food, drink, or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Iron Golem"
@@ -63,7 +60,7 @@ A golem doesn't require air, food, drink, or sleep.
 - !!int "3"
 - !!int "11"
 - !!int "1"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "fire; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -71,34 +68,26 @@ A golem doesn't require air, food, drink, or sleep.
 "languages": "understands the languages of its creator but can't speak"
 "cr": "16"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the golem is subjected to fire damage, it takes no damage and\
+- "desc": "Whenever the golem is subjected to fire damage, it takes no damage and\
     \ instead regains a number of hit points equal to the fire damage dealt."
   "name": "Fire Absorption"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem is immune to any spell or effect that would alter its form."
+- "desc": "The golem is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem has advantage on saving throws against spells and other magical\
+- "desc": "The golem has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem's weapon attacks are magical."
+- "desc": "The golem's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem makes two melee attacks."
+- "desc": "The golem makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
+    \ Hit: 20 (dice: 3d8 + 7|avg (3d8 + 7)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: 23 (dice: 3d10 + 7|avg (3d10 + 7)) slashing damage."
   "name": "Sword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The golem exhales poisonous gas in a 15-foot cone. Each creature in that\
+- "desc": "The golem exhales poisonous gas in a 15-foot cone. Each creature in that\
     \ area must make a DC 19 Constitution saving throw, taking 45 (dice: 10d8|avg\
     \ (10d8)) poison damage on a failed save, or half as much damage on a successful\
     \ one."
@@ -112,6 +101,6 @@ A golem doesn't require air, food, drink, or sleep.
 - "EGW"
 - "MOT"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Construct/token/iron-golem.png"
+"image": "compendium/bestiary/construct/token/iron-golem.png"
 ```
 ^statblock

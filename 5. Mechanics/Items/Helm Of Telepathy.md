@@ -12,12 +12,12 @@ aliases: ["Helm of Telepathy"]
 # Helm of Telepathy
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this helm, you can use an action to cast the [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]] spell (save DC 13) from it. As long as you maintain [[5. Mechanics/Rules/Status.md#concentration|concentration]] on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.
+While wearing this helm, you can use an action to cast the [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]] spell (save DC 13) from it. As long as you maintain [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]] on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.
 
-While focusing on a creature with [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], you can use an action to cast the [[/5. Mechanics/Spells/Suggestion.md|suggestion]] spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn.
+While focusing on a creature with [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], you can use an action to cast the [[5. Mechanics\Spells\Suggestion.md|suggestion]] spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 174*
+*Source: Dungeon Master's Guide p. 174. Available in the SRD.*

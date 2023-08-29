@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Hook Horror"]
 ---
 # Hook Horror
-*Source: Monster Manual p. 189, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Light of Xaryxis, Keys from the Golden Vault*  
+*Source: Monster Manual p. 189*  
 
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
 
@@ -24,8 +23,6 @@ The omnivorous hook horrors eat lichens, fungi, plants, and any creature they ca
 ## Dedicated Clans
 
 Hook horrors live in extended family groups or clans. Each clan is ruled by the eldest female, who typically places her mate in charge of the clan's hunters. Hook horrors lay eggs, which are clustered in a central, well-defended area of a clan's home caverns.
-
-## Stat Block
 
 ```statblock
 "name": "Hook Horror"
@@ -42,27 +39,23 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 - !!int "6"
 - !!int "12"
 - !!int "7"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 13"
 "languages": "Hook Horror"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hook horror can't use its blindsight while [[5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The hook horror can't use its blindsight while [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]]."
   "name": "Echolocation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hook horror has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The hook horror has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hook horror makes two hook attacks."
+- "desc": "The hook horror makes two hook attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage."
   "name": "Hook"
 "source":
 - "MM"
@@ -71,7 +64,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 - "WDMM"
 - "LoX"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hook-horror.png"
+"image": "compendium/bestiary/monstrosity/token/hook-horror.png"
 ```
 ^statblock
 

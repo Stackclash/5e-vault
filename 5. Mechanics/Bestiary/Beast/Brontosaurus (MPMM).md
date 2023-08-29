@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/grassland
 - monster/size/gargantuan
 - monster/type/beast/dinosaur
-statblock: inline
+aliases: ["Brontosaurus"]
 ---
 # Brontosaurus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
@@ -30,26 +29,24 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 - !!int "2"
 - !!int "10"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Constitution": !!int "6"
+  "Constitution": "+6"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "5"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 5d8 + 5|avg (5d8 + 5) bludgeoning damage, and the target must\
-    \ succeed on a DC 14 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
+    \ Hit: 27 (dice: 5d8 + 5|avg (5d8 + 5)) bludgeoning damage, and the target\
+    \ must succeed on a DC 14 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Stomp"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 6d8 + 5|avg (6d8 + 5) bludgeoning damage"
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
+    \ Hit: 32 (dice: 6d8 + 5|avg (6d8 + 5)) bludgeoning damage"
   "name": "Tail"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/brontosaurus.png"
+"image": "compendium/bestiary/beast/token/brontosaurus.png"
 ```
 ^statblock
 

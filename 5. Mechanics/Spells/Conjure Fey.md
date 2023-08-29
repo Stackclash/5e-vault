@@ -10,6 +10,7 @@ tags:
 aliases: ["Conjure Fey"]
 ---
 # Conjure Fey
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 minute
@@ -21,12 +22,12 @@ You summon a fey creature of challenge rating 6 or lower, or a fey spirit that t
 
 The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 
-If your [[5. Mechanics/Rules/Status.md#concentration|concentration]] is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
+If your [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]] is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
 
 The DM has the fey creature's statistics.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Classes/Druid.md|Druid]], [[/5. Mechanics/Classes/Warlock.md|Warlock]]
+**Classes**: [[5. Mechanics\Classes\Druid.md|Druid]], [[5. Mechanics\Classes\Warlock.md|Warlock]]
 
-Source: Player's Handbook p. 226
+*Source: Player's Handbook p. 226. Available in the SRD.*

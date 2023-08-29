@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/elemental
-statblock: inline
+aliases: ["Invisible Stalker"]
 ---
 # Invisible Stalker
-*Source: Monster Manual p. 192, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Divine Contention, Dragon of Icespire Peak, Storm Lord's Wrath, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Keys from the Golden Vault*  
+*Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*  
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
 
@@ -27,8 +26,6 @@ Invisible stalkers are composed of air and are naturally invisible. A creature m
 
 An invisible stalker requires no air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Invisible Stalker"
 "size": "Medium"
@@ -44,10 +41,10 @@ An invisible stalker requires no air, food, drink, or sleep.
 - !!int "10"
 - !!int "15"
 - !!int "11"
-"speed": "walk 50 ft., fly 50 ft. (hover)"
+"speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  "Stealth": !!int "10"
-  "Perception": !!int "8"
+  "Stealth": "+10"
+  "Perception": "+8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
@@ -56,21 +53,17 @@ An invisible stalker requires no air, food, drink, or sleep.
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The stalker is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
+- "desc": "The stalker is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]."
   "name": "Invisibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The stalker is given a quarry by its summoner. The stalker knows the direction\
+- "desc": "The stalker is given a quarry by its summoner. The stalker knows the direction\
     \ and distance to its quarry as long as the two of them are on the same plane\
     \ of existence. The stalker also knows the location of its summoner."
   "name": "Faultless Tracker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The stalker makes two slam attacks."
+- "desc": "The stalker makes two slam attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"
@@ -89,7 +82,7 @@ An invisible stalker requires no air, food, drink, or sleep.
 - "WBtW"
 - "CRCotN"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Elemental/token/invisible-stalker.png"
+"image": "compendium/bestiary/elemental/token/invisible-stalker.png"
 ```
 ^statblock
 

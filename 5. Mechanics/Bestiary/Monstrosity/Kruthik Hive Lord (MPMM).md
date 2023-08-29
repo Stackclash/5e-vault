@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Kruthik Hive Lord"]
 ---
 # Kruthik Hive Lord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
@@ -35,8 +34,6 @@ Although they can feed on carrion, kruthiks prefer live prey. They kill enemies 
 
 Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
 
-## Stat Block
-
 ```statblock
 "name": "Kruthik Hive Lord"
 "size": "Large"
@@ -52,43 +49,37 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - !!int "10"
 - !!int "14"
 - !!int "10"
-"speed": "walk 40 ft., burrow 20 ft., climb 40 ft."
+"speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  "Perception": !!int "8"
+  "Perception": "+8"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 18"
 "languages": "Kruthik"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik has advantage on an attack roll against a creature if at least\
+- "desc": "The kruthik has advantage on an attack roll against a creature if at least\
     \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
+- "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
     \ leaves a 10-foot-diameter tunnel in its wake."
   "name": "Tunneler"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik makes two Stab or Spike attacks."
+- "desc": "The kruthik makes two Stab or Spike attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage."
   "name": "Stab"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 30/120 ft., one\
+    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
   "name": "Spike"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kruthik sprays acid in a 15-foot cone. Each creature in that area must\
+- "desc": "The kruthik sprays acid in a 15-foot cone. Each creature in that area must\
     \ make a DC 14 Dexterity saving throw, taking 22 (dice: 4d10|avg (4d10)) acid\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Acid Spray (Recharge 5-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/kruthik-hive-lord.png"
+"image": "compendium/bestiary/monstrosity/token/kruthik-hive-lord.png"
 ```
 ^statblock
 

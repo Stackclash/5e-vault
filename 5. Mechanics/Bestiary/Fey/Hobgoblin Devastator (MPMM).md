@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fey/goblinoid
-statblock: inline
+aliases: ["Hobgoblin Devastator"]
 ---
 # Hobgoblin Devastator
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
@@ -29,7 +28,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "size": "Medium"
 "type": "fey"
 "subtype": "goblinoid"
-"alignment": "Lawful Neutral"
+"alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
@@ -40,46 +39,41 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 - !!int "16"
 - !!int "13"
 - !!int "11"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Arcana": !!int "5"
+  "Arcana": "+5"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 13):\n\nAt will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
-    \ [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Fly.md|fly]],\
-    \ [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[/5. Mechanics/Spells/Gust Of Wind.md|gust of wind]],\
-    \ [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
+- "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
+    \ the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\n2/day each:\
+    \ [[5. Mechanics\Spells\Fireball.md|fireball]], [[5. Mechanics\Spells\Fly.md|fly]],\
+    \ [[5. Mechanics\Spells\Fog Cloud.md|fog cloud]], [[5. Mechanics\Spells\Gust Of Wind.md|gust of wind]],\
+    \ [[5. Mechanics\Spells\Lightning Bolt.md|lightning bolt]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the hobgoblin casts a spell that causes damage or that forces other\
+- "desc": "When the hobgoblin casts a spell that causes damage or that forces other\
     \ creatures to make a saving throw, it can choose itself and any number of allies\
     \ to be immune to the damage caused by the spell and to succeed on the required\
     \ saving throw."
   "name": "Army Arcana"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The hobgoblin makes two Quarterstaff or Devastating Bolt attacks."
+- "desc": "The hobgoblin makes two Quarterstaff or Devastating Bolt attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage, or 5 (dice: 1d8 +\
-    \ 1|avg (1d8 + 1)) bludgeoning damage if used with two hands, plus dice: 3d8|avg\
-    \ (3d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage, or 5 (dice:\
+    \ 1d8 + 1|avg (1d8 + 1)) bludgeoning damage if used with two hands, plus 13\
+    \ (dice: 3d8|avg (3d8)) force damage."
   "name": "Quarterstaff"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 4d8 + 3|avg (4d8 + 3) force damage, and the target is knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
+    \ Hit: 21 (dice: 4d8 + 3|avg (4d8 + 3)) force damage, and the target is\
+    \ knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Devastating Bolt"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/hobgoblin-devastator.png"
+"image": "compendium/bestiary/fey/token/hobgoblin-devastator.png"
 ```
 ^statblock
 

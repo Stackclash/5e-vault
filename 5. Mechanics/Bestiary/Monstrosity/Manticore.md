@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Manticore"]
 ---
 # Manticore
-*Source: Monster Manual p. 213, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 213. Available in the SRD and the Basic Rules.*  
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
 
@@ -34,8 +33,6 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 > Manticores love the taste of human flesh. That's why, on trips through the moutnains, I always travel with human guards.
 
 
-## Stat Block
-
 ```statblock
 "name": "Manticore"
 "size": "Large"
@@ -51,31 +48,26 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 - !!int "7"
 - !!int "12"
 - !!int "8"
-"speed": "walk 30 ft., fly 50 ft."
+"speed": "30 ft., fly 50 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The manticore has twenty-four tail spikes. Used spikes regrow when the\
+- "desc": "The manticore has twenty-four tail spikes. Used spikes regrow when the\
     \ manticore finishes a long rest."
   "name": "Tail Spike Regrowth"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The manticore makes three attacks: one with its bite and two with its claws\
+- "desc": "The manticore makes three attacks: one with its bite and two with its claws\
     \ or three with its tail spikes."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 100/200 ft., one\
-    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 100/200 ft., one\
+    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
   "name": "Tail Spike"
 "source":
 - "MM"
@@ -91,7 +83,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 - "MOT"
 - "JttRC"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/manticore.png"
+"image": "compendium/bestiary/monstrosity/token/manticore.png"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases: ["Aasimar (Scourge)"]
 *Source: Volo's Guide to Monsters p. 105*  
 
 - **Ability Scores**: Constitution +1
-- **Creature Type**: subrace
+- **Type**: subrace
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -39,7 +39,7 @@ As an action, you can touch a creature and cause it to regain a number of hit po
 
 ### Light Bearer
 
-You know the [[/5. Mechanics/Spells/Light.md|light]] cantrip. Charisma is your spellcasting ability for it.
+You know the [[5. Mechanics\Spells\Light.md|light]] cantrip. Charisma is your spellcasting ability for it.
 
 ### Languages
 

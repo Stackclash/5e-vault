@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
-statblock: inline
+aliases: ["Kuo-toa Archpriest"]
 ---
 # Kuo-toa Archpriest
-*Source: Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage*  
+*Source: Monster Manual p. 200*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
@@ -53,8 +52,6 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > They invent their own gods... the very definition of insanity.
 
 
-## Stat Block
-
 ```statblock
 "name": "Kuo-toa Archpriest"
 "size": "Medium"
@@ -71,64 +68,56 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - !!int "13"
 - !!int "16"
 - !!int "14"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "7"
-  "Perception": !!int "9"
+  "Religion": "+7"
+  "Perception": "+9"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "Undercommon"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The kuo-toa\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (3\
-    \ 3rd-level slots): [[/5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]],\
-    \ [[/5. Mechanics/Spells/Tongues.md|tongues]]\n\n4th level (3 4th-level slots):\
-    \ [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Divination.md|divination]]\n\
-    \n5th level (2 5th-level slots): [[/5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
-    \ [[/5. Mechanics/Spells/Scrying.md|scrying]]"
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Sacred Flame.md|sacred flame]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Sanctuary.md|sanctuary]], [[5. Mechanics\Spells\Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Hold Person.md|hold person]],\
+    \ [[5. Mechanics\Spells\Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (3\
+    \ 3rd-level slots): [[5. Mechanics\Spells\Spirit Guardians.md|spirit guardians]],\
+    \ [[5. Mechanics\Spells\Tongues.md|tongues]]\n\n4th level (3 4th-level slots):\
+    \ [[5. Mechanics\Spells\Control Water.md|control water]], [[5. Mechanics\Spells\Divination.md|divination]]\n\
+    \n5th level (2 5th-level slots): [[5. Mechanics\Spells\Mass Cure Wounds.md|mass cure wounds]],\
+    \ [[5. Mechanics\Spells\Scrying.md|scrying]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can breathe air and water."
+- "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+- "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
+    \ that is [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
+- "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
     \ a grapple."
   "name": "Slippery"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The kuo-toa makes two melee attacks."
+- "desc": "The kuo-toa makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage plus dice: 4d6|avg\
-    \ (4d6) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage plus 14 (dice:\
+    \ 4d6|avg (4d6)) lightning damage."
   "name": "Scepter"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
   "name": "Unarmed Strike"
 "source":
 - "MM"
 - "PotA"
 - "WDMM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-archpriest.png"
+"image": "compendium/bestiary/humanoid/token/kuo-toa-archpriest.png"
 ```
 ^statblock
 

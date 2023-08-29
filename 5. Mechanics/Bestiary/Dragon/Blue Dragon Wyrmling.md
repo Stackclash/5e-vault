@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Blue Dragon Wyrmling"]
 ---
 # Blue Dragon Wyrmling
-*Source: Monster Manual p. 91, Mythic Odysseys of Theros, Dragons of Stormwreck Isle*  
+*Source: Monster Manual p. 91. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
@@ -94,8 +93,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Blue Dragon Wyrmling"
 "size": "Medium"
@@ -111,27 +108,25 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "12"
 - !!int "11"
 - !!int "15"
-"speed": "walk 30 ft., burrow 15 ft., fly 60 ft."
+"speed": "30 ft., burrow 15 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  "Charisma": "+4"
+  "Dexterity": "+2"
+  "Wisdom": "+2"
+  "Constitution": "+4"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  "Stealth": "+2"
+  "Perception": "+4"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 1d6|avg\
-    \ (1d6) lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) lightning damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
+- "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
     \ creature in that line must make a DC 12 Dexterity saving throw, taking 22 (dice:\
     \ 4d10|avg (4d10)) lightning damage on a failed save, or half as much damage\
     \ on a successful one."
@@ -140,6 +135,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "MOT"
 - "DoSI"
-"image": "5. Mechanics/Bestiary/Dragon/token/blue-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/blue-dragon-wyrmling.png"
 ```
 ^statblock

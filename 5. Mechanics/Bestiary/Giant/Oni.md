@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/giant
-statblock: inline
+aliases: ["Oni"]
 ---
 # Oni
-*Source: Monster Manual p. 239, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 239. Available in the SRD.*  
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 
@@ -41,8 +40,6 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 > Till then, beware the oni's smile.
 
 
-## Stat Block
-
 ```statblock
 "name": "Oni"
 "size": "Large"
@@ -58,50 +55,43 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 - !!int "14"
 - !!int "12"
 - !!int "15"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  "Charisma": "+5"
+  "Dexterity": "+3"
+  "Wisdom": "+4"
+  "Constitution": "+6"
 "skillsaves":
-  "Deception": !!int "8"
-  "Perception": !!int "4"
-  "Arcana": !!int "5"
+  "Deception": "+8"
+  "Perception": "+4"
+  "Arcana": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oni's innate spellcasting ability is Charisma (spell save DC 13). The\
+- "desc": "The oni's innate spellcasting ability is Charisma (spell save DC 13). The\
     \ oni can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Charm Person.md|charm person]], [cone of\
-    \ cold](/compendium/spells/cone-of-cold.md), [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
-    \ [[/5. Mechanics/Spells/Sleep.md|sleep]]"
+    \nAt will: [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Invisibility.md|invisibility]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Charm Person.md|charm person]], [cone of\
+    \ cold](compendium/spells/cone-of-cold.md), [[5. Mechanics\Spells\Gaseous Form.md|gaseous form]],\
+    \ [[5. Mechanics\Spells\Sleep.md|sleep]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oni's weapon attacks are magical."
+- "desc": "The oni's weapon attacks are magical."
   "name": "Magic Weapons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oni regains 10 hit points at the start of its turn if it has at least\
+- "desc": "The oni regains 10 hit points at the start of its turn if it has at least\
     \ 1 hit point."
   "name": "Regeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oni makes two attacks, either with its claws or its glaive."
+- "desc": "The oni makes two attacks, either with its claws or its glaive."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage."
   "name": "Claw (Oni Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) slashing damage, or 9 (dice: 1d10 +\
-    \ 4|avg (1d10 + 4)) slashing damage in Small or Medium form."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) slashing damage, or 9 (dice:\
+    \ 1d10 + 4|avg (1d10 + 4)) slashing damage in Small or Medium form."
   "name": "Glaive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oni magically polymorphs into a Small or Medium humanoid, into a Large\
+- "desc": "The oni magically polymorphs into a Small or Medium humanoid, into a Large\
     \ giant, or back into its true form. Other than its size, its statistics are the\
     \ same in each form. The only equipment that is transformed is its glaive, which\
     \ shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts\
@@ -120,7 +110,8 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 - "WBtW"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Giant/token/oni.png"
+- "PSZ"
+"image": "compendium/bestiary/giant/token/oni.png"
 ```
 ^statblock
 

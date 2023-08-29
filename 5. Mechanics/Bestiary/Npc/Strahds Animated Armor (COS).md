@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/construct
-statblock: inline
+aliases: ["Strahd's Animated Armor"]
 ---
 # Strahd's Animated Armor
 *Source: Curse of Strahd p. 227*  
@@ -17,8 +16,6 @@ The armor that Strahd wore into battle when he was alive lives on today as a hea
 Strahd imbued his automaton with a sliver of his being, bequeathing unto his armor a malevolence not found in most animated objects. He also fortified his armor and placed a number of permanent spell effects on it to make the armor a better castle defender.
 
 The armor understands Common but obeys only the commands of its master.
-
-## Stat Block
 
 ```statblock
 "name": "Strahd's Animated Armor"
@@ -35,9 +32,9 @@ The armor understands Common but obeys only the commands of its master.
 - !!int "9"
 - !!int "10"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning, poison"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
@@ -46,39 +43,34 @@ The armor understands Common but obeys only the commands of its master.
 "languages": "understands Common but can't speak"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
+- "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe magic\
     \ that animates an object is dispelled when the construct drops to 0 hit points.\
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armor is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+- "desc": "The armor is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
+    \ while in the area of an [[5. Mechanics\Spells\Antimagic Field.md|antimagic field]].\
+    \ If targeted by [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], the armor\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
+    \ DC or fall [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] for 1\
+    \ minute."
   "name": "Antimagic Susceptibility"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the armor remains motionless, it is indistinguishable from a normal\
+- "desc": "While the armor remains motionless, it is indistinguishable from a normal\
     \ suit of armor."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The armor makes two melee attacks or uses Shocking Bolt twice."
+- "desc": "The armor makes two melee attacks or uses Shocking Bolt twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage plus dice: 1d6|avg (1d6)\
-    \ lightning damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage plus 3 (dice: 1d6|avg\
+    \ (1d6)) lightning damage."
   "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit) (with advantage on the\
+- "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit) (with advantage on the\
     \ attack roll if the target is wearing armor made of metal), range 60 ft., one\
-    \ target. Hit: dice: 3d6|avg (3d6) lightning damage."
+    \ target. Hit: 10 (dice: 3d6|avg (3d6)) lightning damage."
   "name": "Shocking Bolt"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/strahds-animated-armor.png"
+"image": "compendium/bestiary/npc/token/strahds-animated-armor.png"
 ```
 ^statblock

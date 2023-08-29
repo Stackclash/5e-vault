@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Death Dog"]
 ---
 # Death Dog
-*Source: Monster Manual p. 321, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Light of Xaryxis*  
+*Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  
 
 A death dog is an ugly two-headed hound that roams plains, deserts, and the Underdark. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.
 
@@ -28,34 +27,31 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 - !!int "3"
 - !!int "13"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  "Stealth": "+4"
+  "Perception": "+5"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dog has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks and on saving throws against being [[5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ or knocked [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The dog has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
+    \ checks and on saving throws against being [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]],\
+    \ or knocked [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]."
   "name": "Two-Headed"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dog makes two bite attacks."
+- "desc": "The dog makes two bite attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage. If the target is a creature,\
-    \ it must succeed on a DC 12 Constitution saving throw against disease or become\
-    \ [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the disease is cured.\
-    \ Every 24 hours that elapse, the creature must repeat the saving throw, reducing\
-    \ its hit point maximum by 5 (dice: 1d10|avg (1d10)) on a failure. This reduction\
-    \ lasts until the disease is cured. The creature dies if the disease reduces its\
-    \ hit point maximum to 0."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage. If the target is\
+    \ a creature, it must succeed on a DC 12 Constitution saving throw against disease\
+    \ or become [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] until the disease\
+    \ is cured. Every 24 hours that elapse, the creature must repeat the saving throw,\
+    \ reducing its hit point maximum by 5 (dice: 1d10|avg (1d10)) on a failure.\
+    \ This reduction lasts until the disease is cured. The creature dies if the disease\
+    \ reduces its hit point maximum to 0."
   "name": "Bite"
 "source":
 - "MM"
@@ -64,7 +60,7 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 - "WDMM"
 - "MOT"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/death-dog.png"
+"image": "compendium/bestiary/monstrosity/token/death-dog.png"
 ```
 ^statblock
 

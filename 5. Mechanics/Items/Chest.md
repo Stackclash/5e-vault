@@ -14,4 +14,4 @@ aliases: ["Chest"]
 
 A chest holds 12 cubic feet or 300 pounds of gear.
 
-*Source: Player's Handbook p. 153*
+*Source: Player's Handbook p. 153. Available in the SRD and the Basic Rules.*

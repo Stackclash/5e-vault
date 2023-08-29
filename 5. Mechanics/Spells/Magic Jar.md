@@ -9,6 +9,7 @@ tags:
 aliases: ["Magic Jar"]
 ---
 # Magic Jar
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Necromancy*  
 
 - **Casting time:** 1 minute
@@ -18,7 +19,7 @@ aliases: ["Magic Jar"]
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoid's body.
 
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]] or [[/5. Mechanics/Spells/Magic Circle.md|magic circle]] spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a [[5. Mechanics\Spells\Protection From Evil And Good.md|protection from evil and good]] or [[5. Mechanics\Spells\Magic Circle.md|magic circle]] spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
 Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.
 
@@ -30,6 +31,6 @@ If the container is destroyed or the spell ends, your soul immediately returns t
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 257
+*Source: Player's Handbook p. 257. Available in the SRD.*

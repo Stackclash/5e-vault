@@ -14,4 +14,4 @@ aliases: ["Crowbar"]
 
 Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
 
-*Source: Player's Handbook p. 151*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules.*

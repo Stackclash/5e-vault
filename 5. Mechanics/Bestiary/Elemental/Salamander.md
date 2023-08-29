@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Salamander"]
 ---
 # Salamander
-*Source: Monster Manual p. 266, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Keys from the Golden Vault*  
+*Source: Monster Manual p. 266. Available in the SRD.*  
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
@@ -39,8 +38,6 @@ Salamanders generate intense heat, and when they fight, their weapons glow red a
 
 This inherent heat is an asset to salamanders' skill as smiths, allowing them to soften and shape iron and steel with their bare hands. Although not as meticulous as azers, salamanders number among the greatest metalsmiths in all the planes. Powerful creatures summon them as warriors, but others enlist the salamanders for their crafting skills, or bind them to forges and ovens to generate limitless heat.
 
-## Stat Block
-
 ```statblock
 "name": "Salamander"
 "size": "Large"
@@ -56,7 +53,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - !!int "11"
 - !!int "10"
 - !!int "12"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_vulnerabilities": "cold"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
@@ -64,29 +61,25 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "languages": "Ignan"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A creature that touches the salamander or hits it with a melee attack while\
-    \ within 5 feet of it takes dice: 2d6|avg (2d6) fire damage."
+- "desc": "A creature that touches the salamander or hits it with a melee attack while\
+    \ within 5 feet of it takes 7 (dice: 2d6|avg (2d6)) fire damage."
   "name": "Heated Body"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any metal melee weapon the salamander wields deals an extra 3 (dice: 1d6|avg\
+- "desc": "Any metal melee weapon the salamander wields deals an extra 3 (dice: 1d6|avg\
     \ (1d6)) fire damage on a hit (included in the attack)."
   "name": "Heated Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The salamander makes two attacks: one with its spear and one with its tail."
+- "desc": "The salamander makes two attacks: one with its spear and one with its tail."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
-    \ damage, or 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage if used with\
-    \ two hands to make a melee attack, plus dice: 1d6|avg (1d6) fire damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4))\
+    \ piercing damage, or 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage if\
+    \ used with two hands to make a melee attack, plus 3 (dice: 1d6|avg (1d6))\
+    \ fire damage."
   "name": "Spear"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage plus dice: 2d6|avg\
-    \ (2d6) fire damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage plus 7 (dice:\
+    \ 2d6|avg (2d6)) fire damage, and the target is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ the salamander can automatically hit the target with its tail, and the salamander\
     \ can't make tail attacks against other targets."
   "name": "Tail"
@@ -100,7 +93,8 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - "JttRC"
 - "DoSI"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Elemental/token/salamander.png"
+- "GotSF"
+"image": "compendium/bestiary/elemental/token/salamander.png"
 ```
 ^statblock
 

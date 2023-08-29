@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/ooze
-statblock: inline
+aliases: ["Ochre Jelly"]
 ---
 # Ochre Jelly
-*Source: Monster Manual p. 243, Lost Mine of Phandelver, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, The Lost Dungeon of Rickedness: Big Rick Energy, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 243. Available in the SRD and the Basic Rules.*  
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
 
@@ -41,8 +40,6 @@ According to the Demonomicon of Iggwilv and other sources, oozes are scattered f
 
 An ooze doesn't require sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Ochre Jelly"
 "size": "Large"
@@ -58,7 +55,7 @@ An ooze doesn't require sleep.
 - !!int "2"
 - !!int "6"
 - !!int "1"
-"speed": "walk 10 ft., climb 10 ft."
+"speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
@@ -66,22 +63,18 @@ An ooze doesn't require sleep.
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The jelly can move through a space as narrow as 1 inch wide without squeezing."
+- "desc": "The jelly can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The jelly can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The jelly can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 1d6|avg\
-    \ (1d6) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) bludgeoning damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) acid damage."
   "name": "Pseudopod"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
+- "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
     \ damage, it splits into two new jellies if it has at least 10 hit points. Each\
     \ new jelly has hit points equal to half the original jelly's, rounded down. New\
     \ jellies are one size smaller than the original jelly."
@@ -99,7 +92,7 @@ An ooze doesn't require sleep.
 - "RMBRE"
 - "CRCotN"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Ooze/token/ochre-jelly.png"
+"image": "compendium/bestiary/ooze/token/ochre-jelly.png"
 ```
 ^statblock
 

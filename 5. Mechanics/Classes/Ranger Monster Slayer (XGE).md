@@ -7,7 +7,7 @@ tags:
 aliases: ["Monster Slayer"]
 ---
 # Monster Slayer
-*Ranger: Ranger Archetype*  
+*[[Ranger.md|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 43*  
 
 
@@ -25,11 +25,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]] |
-| 5th | [[/5. Mechanics/Spells/Zone Of Truth.md|zone of truth]] |
-| 9th | [[/5. Mechanics/Spells/Magic Circle.md|magic circle]] |
-| 13th | [[/5. Mechanics/Spells/Banishment.md|banishment]] |
-| 17th | [[/5. Mechanics/Spells/Hold Monster.md|hold monster]] |
+| 3rd | [[5. Mechanics\Spells\Protection From Evil And Good.md|protection from evil and good]] |
+| 5th | [[5. Mechanics\Spells\Zone Of Truth.md|zone of truth]] |
+| 9th | [[5. Mechanics\Spells\Magic Circle.md|magic circle]] |
+| 13th | [[5. Mechanics\Spells\Banishment.md|banishment]] |
+| 17th | [[5. Mechanics\Spells\Hold Monster.md|hold monster]] |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)

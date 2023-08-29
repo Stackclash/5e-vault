@@ -9,7 +9,7 @@ tags:
 aliases: ["Re-Horakhty"]
 ---
 # Re-Horakhty
-*Source: Player's Handbook p. 299* 
+*Source: Player's Handbook p. 299. Available in the SRD.* 
 
 - **Alignment**: Lawful Good
 - **Domains**: Life, Light

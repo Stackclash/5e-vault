@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/dmg
 aliases: ["Downtime Activity: Crafting a Magic Item"]
 ---
 # Downtime Activity: Crafting a Magic Item
@@ -8,9 +10,9 @@ aliases: ["Downtime Activity: Crafting a Magic Item"]
 
 Magic items are the DM's purview, so you decide how they fall into the party's possession. As an option, you can allow player characters to craft magic items.
 
-The creation of a magic item is a lengthy, expensive task. To start, a character must have a formula that describes the construction of the item. The character must also be a spellcaster with spell slots and must be able to cast any spells that the item can produce. Moreover, the character must meet a level minimum determined by the item's rarity, as shown in the Crafting Magic Items table. For example, a 3rd-level character could create a [[/5. Mechanics/Items/Wand Of Magic Missiles.md|wand of magic missiles]] (an uncommon item), as long as the character has spell slots and can cast [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]. That same character could make a +1 weapon (another uncommon item), no particular spell required.
+The creation of a magic item is a lengthy, expensive task. To start, a character must have a formula that describes the construction of the item. The character must also be a spellcaster with spell slots and must be able to cast any spells that the item can produce. Moreover, the character must meet a level minimum determined by the item's rarity, as shown in the Crafting Magic Items table. For example, a 3rd-level character could create a [[5. Mechanics\Items\Wand Of Magic Missiles.md|wand of magic missiles]] (an uncommon item), as long as the character has spell slots and can cast [[5. Mechanics\Spells\Magic Missile.md|magic missile]]. That same character could make a +1 weapon (another uncommon item), no particular spell required.
 
-You can decide that certain items also require special materials or locations to be created. For example, a character might need [[/5. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]] to brew a particular potion, or the formula for a flame tongue might require that the weapon be forged with lava.
+You can decide that certain items also require special materials or locations to be created. For example, a character might need [[5. Mechanics\Items\Alchemists Supplies.md|alchemist's supplies]] to brew a particular potion, or the formula for a flame tongue might require that the weapon be forged with lava.
 
 **Crafting Magic Items**
 

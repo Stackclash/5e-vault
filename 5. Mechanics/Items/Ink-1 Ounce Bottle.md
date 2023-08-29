@@ -14,4 +14,4 @@ aliases: ["Ink (1-ounce bottle)"]
 
 Ink (1-ounce bottle)
 
-*Source: Player's Handbook p. 150*
+*Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

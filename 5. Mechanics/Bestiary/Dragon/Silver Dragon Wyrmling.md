@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Silver Dragon Wyrmling"]
 ---
 # Silver Dragon Wyrmling
-*Source: Monster Manual p. 118, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 118. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 
@@ -82,8 +81,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Silver Dragon Wyrmling"
 "size": "Medium"
@@ -99,32 +96,30 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "12"
 - !!int "11"
 - !!int "15"
-"speed": "walk 30 ft., fly 60 ft."
+"speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "5"
+  "Charisma": "+4"
+  "Dexterity": "+2"
+  "Wisdom": "+2"
+  "Constitution": "+5"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  "Stealth": "+2"
+  "Perception": "+4"
 "damage_immunities": "cold"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
     \ The dragon exhales an icy blast in a 15-foot cone. Each creature in that area\
     \ must make a DC 13 Constitution saving throw, taking 18 (dice: 4d8|avg (4d8))\
     \ cold damage on a failed save, or half as much damage on a successful one.  \n\
     - Paralyzing Breath. The dragon exhales paralyzing gas in a 15-foot cone.\
     \ Each creature in that area must succeed on a DC 13 Constitution saving throw\
-    \ or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
+    \ or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
     \ creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"
@@ -132,6 +127,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MM"
 - "SKT"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Dragon/token/silver-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/silver-dragon-wyrmling.png"
 ```
 ^statblock

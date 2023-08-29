@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
-statblock: inline
+aliases: ["Duergar Despot"]
 ---
 # Duergar Despot
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  
@@ -34,8 +33,6 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
-## Stat Block
-
 ```statblock
 "name": "Duergar Despot"
 "size": "Medium"
@@ -52,56 +49,48 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - !!int "15"
 - !!int "14"
 - !!int "13"
-"speed": "walk 25 ft."
+"speed": "25 ft."
 "saves":
-  "Wisdom": !!int "6"
-  "Constitution": !!int "8"
+  "Wisdom": "+6"
+  "Constitution": "+8"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar casts one of the following spells, requiring no spell components\
+- "desc": "The duergar casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
-    \n1/day: [[/5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
+    \ will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]]\n\
+    \n1/day: [[5. Mechanics\Spells\Stinking Cloud.md|stinking cloud]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar has advantage on saving throws against spells and other magical\
+- "desc": "The duergar has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the duergar suffers a critical hit or is reduced to 0 hit points,\
+- "desc": "When the duergar suffers a critical hit or is reduced to 0 hit points,\
     \ psychic energy erupts from its frame to deal 14 (dice: 4d6|avg (4d6)) psychic\
     \ damage to each creature within 5 feet of it."
   "name": "Psychic Engine"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar makes two Iron Fist attacks and two Stomping Foot attacks.\
+- "desc": "The duergar makes two Iron Fist attacks and two Stomping Foot attacks.\
     \ After one of the attacks, the duergar can move up to its speed without provoking\
-    \ opportunity attack||opportunity attacks. It can replace one of the attacks with\
-    \ a use of Flame Jet."
+    \ opportunity attacks. It can replace one of the attacks with a use of Flame Jet."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d8 + 5|avg (4d8 + 5) bludgeoning damage. If the target is a\
-    \ Large or smaller creature, it must succeed on a DC 17 Strength saving throw\
-    \ or be pushed up to 30 feet away in a straight line and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 23 (dice: 4d8 + 5|avg (4d8 + 5)) bludgeoning damage. If the target\
+    \ is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw\
+    \ or be pushed up to 30 feet away in a straight line and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Iron Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) bludgeoning damage, or 21 (dice: 3d10\
-    \ + 5|avg (3d10 + 5)) to a [[5. Mechanics/Rules/Conditions.md#prone|prone]] target."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) bludgeoning damage, or 21 (dice:\
+    \ 3d10 + 5|avg (3d10 + 5)) to a [[\5. Mechanics\Rules\Conditions.md#prone|prone]]\
+    \ target."
   "name": "Stomping Foot"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
+- "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
     \ creature in the line must make a DC 16 Dexterity saving throw, taking 18 (dice:\
     \ 4d8|avg (4d8)) fire damage on a failed save, or half as much damage on a\
     \ successful one."
@@ -109,7 +98,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-despot.png"
+"image": "compendium/bestiary/humanoid/token/duergar-despot.png"
 ```
 ^statblock
 

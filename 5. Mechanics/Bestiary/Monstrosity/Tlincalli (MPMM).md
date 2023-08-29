@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Tlincalli"]
 ---
 # Tlincalli
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  
@@ -27,7 +26,7 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 "name": "Tlincalli"
 "size": "Large"
 "type": "monstrosity"
-"alignment": "Neutral"
+"alignment": "Typically  Neutral"
 "ac": !!int "15"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
@@ -38,45 +37,41 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 - !!int "8"
 - !!int "12"
 - !!int "8"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
-  "Survival": !!int "4"
+  "Stealth": "+4"
+  "Perception": "+4"
+  "Survival": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Tlincalli"
 "cr": "5"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The tlincalli makes one Longsword or Spiked Chain attack and one Sting\
+- "desc": "The tlincalli makes one Longsword or Spiked Chain attack and one Sting\
     \ attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or 8 (dice: 1d10 + 3|avg\
-    \ (1d10 + 3)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
+    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 11) if it is a Large or smaller creature. Until this grapple ends,\
-    \ the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the\
-    \ tlincalli can't use the spiked chain against another target."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage, and the target is\
+    \ [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 11) if it is\
+    \ a Large or smaller creature. Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
+    \ and the tlincalli can't use the spiked chain against another target."
   "name": "Spiked Chain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 4d6|avg (4d6)\
-    \ poison damage, and the target must succeed on a DC 14 Constitution saving throw\
-    \ or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. If it\
-    \ fails the saving throw by 5 or more, the target is also [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The target can repeat\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 14 (dice: 4d6|avg\
+    \ (4d6)) poison damage, and the target must succeed on a DC 14 Constitution\
+    \ saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] for\
+    \ 1 minute. If it fails the saving throw by 5 or more, the target is also [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
+    \ while [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]. The target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success."
   "name": "Sting"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/tlincalli.png"
+"image": "compendium/bestiary/monstrosity/token/tlincalli.png"
 ```
 ^statblock
 

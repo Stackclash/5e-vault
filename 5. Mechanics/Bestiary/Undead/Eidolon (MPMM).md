@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -11,12 +10,12 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Eidolon"]
 ---
 # Eidolon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 
-To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[Eidolon (MPMM)|eidolon]] plunges into a [[Sacred Statue (MPMM)|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[5. Mechanics\Bestiary\Undead\Eidolon (MPMM).md|eidolon]] plunges into a [[5. Mechanics\Bestiary\Construct\Sacred Statue (MPMM).md|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```statblock
 "name": "Eidolon"
@@ -33,11 +32,11 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 - !!int "14"
 - !!int "19"
 - !!int "16"
-"speed": "walk 0 ft., fly 40 ft. (hover)"
+"speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Wisdom": !!int "8"
+  "Wisdom": "+8"
 "skillsaves":
-  "Perception": !!int "8"
+  "Perception": "+8"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
@@ -47,33 +46,29 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "languages": "the languages it knew in life"
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eidolon can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object other than a [[/5. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md|sacred statue]]."
+- "desc": "The eidolon can move through other creatures and objects as if they were\
+    \ difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it\
+    \ ends its turn inside an object other than a [[5. Mechanics\Bestiary\Construct\Sacred Statue (MPMM).md|sacred statue]]."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the eidolon moves into a space occupied by a [[/5. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md|sacred statue]],\
+- "desc": "When the eidolon moves into a space occupied by a [[5. Mechanics\Bestiary\Construct\Sacred Statue (MPMM).md|sacred statue]],\
     \ the eidolon can disappear, causing the statue to become a creature under the\
-    \ eidolon's control. The eidolon uses the [[/5. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md|sacred statue's stat block]]\
+    \ eidolon's control. The eidolon uses the [[5. Mechanics\Bestiary\Construct\Sacred Statue (MPMM).md|sacred statue's stat block]]\
     \ in place of its own."
   "name": "Sacred Animation (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eidolon has advantage on saving throws against any effect that turns\
+- "desc": "The eidolon has advantage on saving throws against any effect that turns\
     \ Undead."
   "name": "Turn Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The eidolon doesn't require air, food, drink, or sleep."
+- "desc": "The eidolon doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature within 60 feet of the eidolon that can see it must succeed\
-    \ on a DC 15 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of it for 1 minute. While [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ in this way, the creature must take the Dash action and move away from the eidolon\
-    \ by the safest available route at the start of each of its turns, unless there\
-    \ is nowhere for it to move, in which case the creature also becomes [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ until it can move again. A [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "Each creature within 60 feet of the eidolon that can see it must succeed\
+    \ on a DC 15 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ of it for 1 minute. While [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ in this way, the creature must take the [[\5. Mechanics\Rules\Actions.md#Dash|Dash]]\
+    \ action and move away from the eidolon by the safest available route at the start\
+    \ of each of its turns, unless there is nowhere for it to move, in which case\
+    \ the creature also becomes [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
+    \ until it can move again. A [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success. If a target's saving throw is successful or the\
     \ effect ends for it, the target is immune to any eidolon's Divine Dread for the\
@@ -82,7 +77,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/eidolon.png"
+"image": "compendium/bestiary/undead/token/eidolon.png"
 ```
 ^statblock
 

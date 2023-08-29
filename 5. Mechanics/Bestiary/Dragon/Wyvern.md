@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Wyvern"]
 ---
 # Wyvern
-*Source: Monster Manual p. 303, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Storm Lord's Wrath, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 303. Available in the SRD and the Basic Rules.*  
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
 
@@ -30,8 +29,6 @@ Although they possess more cunning than ordinary beasts, wyverns lack the intell
 
 A wyvern can be tamed for use as a mount, but doing so presents a difficult and deadly challenge. Raising one as a hatchling offers the best results. However, a wyvern's violent temperament has cost the life of many a would-be master.
 
-## Stat Block
-
 ```statblock
 "name": "Wyvern"
 "size": "Large"
@@ -47,30 +44,26 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 - !!int "5"
 - !!int "12"
 - !!int "6"
-"speed": "walk 20 ft., fly 80 ft."
+"speed": "20 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  "Perception": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "6"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The wyvern makes two attacks: one with its bite and one with its stinger.\
+- "desc": "The wyvern makes two attacks: one with its bite and one with its stinger.\
     \ While flying, it can use its claws in place of one other attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage. The target must make a\
-    \ DC 15 Constitution saving throw, taking 24 (dice: 7d6|avg (7d6)) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage. The target must\
+    \ make a DC 15 Constitution saving throw, taking 24 (dice: 7d6|avg (7d6))\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Stinger"
 "source":
 - "MM"
@@ -83,7 +76,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 - "BGDIA"
 - "CM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Dragon/token/wyvern.png"
+"image": "compendium/bestiary/dragon/token/wyvern.png"
 ```
 ^statblock
 

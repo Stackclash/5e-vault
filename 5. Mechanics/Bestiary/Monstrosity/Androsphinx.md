@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Androsphinx"]
 ---
 # Androsphinx
-*Source: Monster Manual p. 281, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Candlekeep Mysteries*  
+*Source: Monster Manual p. 281. Available in the SRD.*  
 
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
 
@@ -53,8 +52,6 @@ Whether through the weariness of the ages, regret at the slaughter of innocents,
 
 A sphinx presides over an ancient temple, sepulcher, or vault, within which are hidden divine secrets and treasures beyond the reach of mortals.
 
-## Stat Block
-
 ```statblock
 "name": "Androsphinx"
 "size": "Large"
@@ -70,84 +67,75 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - !!int "16"
 - !!int "18"
 - !!int "23"
-"speed": "walk 40 ft., fly 60 ft."
+"speed": "40 ft., fly 60 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "10"
-  "Intelligence": !!int "9"
-  "Constitution": !!int "11"
+  "Dexterity": "+6"
+  "Wisdom": "+10"
+  "Intelligence": "+9"
+  "Constitution": "+11"
 "skillsaves":
-  "Religion": !!int "15"
-  "Perception": !!int "10"
-  "Arcana": !!int "9"
+  "Religion": "+15"
+  "Perception": "+10"
+  "Arcana": "+9"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "charmed, frightened"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common, Sphinx"
 "cr": "17"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). It requires\
     \ no material components to cast its spells. The sphinx has the following cleric\
-    \ spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-    \ [[/5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Command.md|command]],\
-    \ [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [detect\
-    \ magic](/compendium/spells/detect-magic.md)\n\n2nd level (3 2nd-level slots):\
-    \ [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\
-    \n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Tongues.md|tongues]]\n\n4th level (3 4th-level slots):\
-    \ [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
-    \n5th level (2 5th-level slots): [[/5. Mechanics/Spells/Flame Strike.md|flame strike]],\
-    \ [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\n\n6th level\
-    \ (1 6th-level slots): [[/5. Mechanics/Spells/Heroes Feast.md|heroes' feast]]"
+    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Sacred Flame.md|sacred flame]],\
+    \ [[5. Mechanics\Spells\Spare The Dying.md|spare the dying]], [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Command.md|command]],\
+    \ [[5. Mechanics\Spells\Detect Evil And Good.md|detect evil and good]], [[5. Mechanics\Spells\Detect Magic.md|detect magic]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]],\
+    \ [[5. Mechanics\Spells\Zone Of Truth.md|zone of truth]]\n\n3rd level (3 3rd-level\
+    \ slots): [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]], [[5. Mechanics\Spells\Tongues.md|tongues]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics\Spells\Banishment.md|banishment]],\
+    \ [[5. Mechanics\Spells\Freedom Of Movement.md|freedom of movement]]\n\n5th level\
+    \ (2 5th-level slots): [[5. Mechanics\Spells\Flame Strike.md|flame strike]], [greater\
+    \ restoration](compendium/spells/greater-restoration.md)\n\n6th level (1 6th-level\
+    \ slots): [[5. Mechanics\Spells\Heroes Feast.md|heroes' feast]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx is immune to any effect that would sense its emotions or read\
+- "desc": "The sphinx is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\
     \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
   "name": "Inscrutable"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx's weapon attacks are magical."
+- "desc": "The sphinx's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx makes two claw attacks."
+- "desc": "The sphinx makes two claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
+    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx emits a magical roar. Each time it roars before finishing a\
+- "desc": "The sphinx emits a magical roar. Each time it roars before finishing a\
     \ long rest, the roar is louder and the effect is different, as detailed below.\
     \ Each creature within 500 feet of the sphinx and able to hear the roar must make\
     \ a saving throw.\n\n- First Roar. Each creature that fails a DC 18 Wisdom\
-    \ saving throw is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
-    \ 1 minute. A [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature\
+    \ saving throw is [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] for\
+    \ 1 minute. A [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  \n- Second Roar. Each creature that fails a DC\
-    \ 18 Wisdom saving throw is [[5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
-    \ and [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ 18 Wisdom saving throw is [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]]\
+    \ and [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] for 1 minute. A\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] creature is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ and can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
-    \ 18 Constitution saving throw. On a failed save, a creature takes dice: 8d10|avg\
-    \ (8d10) thunder damage and is knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ 18 Constitution saving throw. On a failed save, a creature takes 44 (dice:\
+    \ 8d10|avg (8d10)) thunder damage and is knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ On a successful save, the creature takes half as much damage and isn't knocked\
-    \ [[5. Mechanics/Rules/Conditions.md#prone|prone]].  "
+    \ [[\5. Mechanics\Rules\Conditions.md#prone|prone]].  "
   "name": "Roar (3/Day)"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx makes one claw attack."
+- "desc": "The sphinx makes one claw attack."
   "name": "Claw Attack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx magically teleports, along with any equipment it is wearing\
+- "desc": "The sphinx magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 120 feet to an unoccupied space it can see."
   "name": "Teleport (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sphinx casts a spell from its list of prepared spells, using a spell\
+- "desc": "The sphinx casts a spell from its list of prepared spells, using a spell\
     \ slot as normal."
   "name": "Cast a Spell (Costs 3 Actions)"
 "source":
@@ -155,7 +143,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "EGW"
 - "MOT"
 - "CM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/androsphinx.png"
+"image": "compendium/bestiary/monstrosity/token/androsphinx.png"
 ```
 ^statblock
 

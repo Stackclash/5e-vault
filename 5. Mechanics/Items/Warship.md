@@ -12,4 +12,4 @@ aliases: ["Warship"]
 - **Cost**: 25,000 gp
 - **Weight**: ⏤
 
-*Source: Dungeon Master's Guide p. 119*
+*Source: Dungeon Master's Guide p. 119. Available in the SRD and the Basic Rules.*

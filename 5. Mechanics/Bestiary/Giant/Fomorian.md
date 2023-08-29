@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Fomorian"]
 ---
 # Fomorian
-*Source: Monster Manual p. 136, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 136*  
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
 
@@ -31,8 +30,6 @@ The deformities visited on the fomorians prevent them from hurling rocks like th
 
 Fomorians can pass their curse onto others using a power called the evil eye-a last vestige of the giants' once-remarkable spellcasting ability. A creature cursed by a fomorian's evil eye is magically twisted and deformed, gaining a glimpse into the pain and malice that has consumed this evil race.
 
-## Stat Block
-
 ```statblock
 "name": "Fomorian"
 "size": "Huge"
@@ -48,29 +45,26 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 - !!int "9"
 - !!int "14"
 - !!int "6"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "8"
+  "Stealth": "+3"
+  "Perception": "+8"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The fomorian attacks twice with its greatclub or makes one greatclub attack\
+- "desc": "The fomorian attacks twice with its greatclub or makes one greatclub attack\
     \ and uses Evil Eye once."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
+    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
   "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The fomorian magically forces a creature it can see within 60 feet of it\
-    \ to make a DC 14 Charisma saving throw. The creature takes dice: 6d8|avg (6d8)\
-    \ psychic damage on a failed save, or half as much damage on a successful one."
+- "desc": "The fomorian magically forces a creature it can see within 60 feet of it\
+    \ to make a DC 14 Charisma saving throw. The creature takes 27 (dice: 6d8|avg\
+    \ (6d8)) psychic damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Evil Eye"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "With a stare, the fomorian uses Evil Eye, but on a failed save, the creature\
+- "desc": "With a stare, the fomorian uses Evil Eye, but on a failed save, the creature\
     \ is also cursed with magical deformities. While deformed, the creature has its\
     \ speed halved and has disadvantage on ability checks, saving throws, and attacks\
     \ based on Strength or Dexterity.\n\nThe transformed creature can repeat the saving\
@@ -82,7 +76,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 - "CM"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Giant/token/fomorian.png"
+"image": "compendium/bestiary/giant/token/fomorian.png"
 ```
 ^statblock
 

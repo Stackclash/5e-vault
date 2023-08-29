@@ -1,80 +1,20 @@
 {
   "main": {
-    "id": "f72a57abf17adcee",
+    "id": "697bae3ec32cc390",
     "type": "split",
     "children": [
       {
-        "id": "30215788141fd558",
+        "id": "dd6cc07be3a2a7de",
         "type": "tabs",
         "children": [
           {
-            "id": "46be5e8fde93cedf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b9a9024f6c0add7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54674e27f66d1fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dd07b605d3a400d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6456109438a11f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cb13740bf00b665",
+            "id": "10a301c197e90c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c1e506365ae4f10",
+    "id": "ae6eaadecf4ff536",
     "type": "split",
     "children": [
       {
-        "id": "111e8222852b72f4",
+        "id": "28bc88b0e814d9be",
         "type": "tabs",
         "children": [
           {
-            "id": "da6520ec1fb0cefb",
+            "id": "a88a1818b2c15bdd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -103,12 +43,12 @@
             }
           },
           {
-            "id": "7d5a5e68c66692a6",
+            "id": "3629b92bcb84e179",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:potion healing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +58,7 @@
             }
           },
           {
-            "id": "1c1b8819060edcc6",
+            "id": "9de706c123097ea4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,34 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 300
   },
   "right": {
-    "id": "1f13915f7834e187",
+    "id": "68a7579a19bc6383",
     "type": "split",
     "children": [
       {
-        "id": "b557a6c6cbc06287",
+        "id": "15a33885637fcfa9",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6d3284a5e0bd06",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "fd9e1bacfcaa5804",
+            "id": "c029466a8cc9cd4d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,112 +97,129 @@
             }
           },
           {
-            "id": "3b68fe835c7f2f20",
+            "id": "b7a316b990ff2b76",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "00f4a1718e188c22",
+            "id": "ff3e6272d6c6b24b",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Characters/Redgrave.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "008d84c720cea053",
+            "id": "332abb4ace240687",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md"
+              }
+            }
+          },
+          {
+            "id": "be8a05b7b3c7fb4e",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "ef34cacf567e1afa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBGeorge": false,
       "obsidian-custom-frames:Open DnDBTim": false,
       "obsidian-custom-frames:Open DnDBShi": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "46be5e8fde93cedf",
+  "active": "10a301c197e90c44",
   "lastOpenFiles": [
-    "3. The Party/Curse of Strahd Campaign/Characters/Yevelda Ovak.md",
-    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
-    "3. The Party/Curse of Strahd Campaign/Characters/Faerah Duskrane.md",
-    "3. The Party/Curse of Strahd Campaign/Session Log/23-08-25 Session 4.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "5. Mechanics/Items/Potion Of Greater Healing.md",
-    "5. Mechanics/Items/Potion Of Healing.md",
-    "5. Mechanics/Items/Potion Of Invisibility.md",
-    "5. Mechanics/Items/Potion Of Growth.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/000-cos01-01.png.md",
     "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "5. Mechanics/Items/Items.md",
-    "5. Mechanics/Items/Alchemy Jug.md",
-    "6. Resources/5e Modules/Curse Of Strahd/08 Chapter-6 Old Bonegrinder.md",
-    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/000-cos01-01.png",
+    "6. Resources/5e Modules/Curse Of Strahd/02 Introduction.md",
+    "0-500.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "5. Mechanics/Bestiary/Npc/img/ireena-kolyana.png",
-    "5. Mechanics/Bestiary/Npc/token/ireena-kolyana.png",
-    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
-    "5. Mechanics/Deities/Deities.md",
-    "6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.jpg",
-    "2. Scratch Notes/1693025245103 - Test.md",
-    "5. Mechanics/Deities/Forgotten Realms Waukeen.md",
-    "5. Mechanics/Deities/Forgotten Realms Umberlee.md",
-    "5. Mechanics/Deities/Forgotten Realms Tyr.md",
-    "5. Mechanics/Deities/Forgotten Realms Tymora.md",
-    "5. Mechanics/Deities/Forgotten Realms Torm.md",
-    "5. Mechanics/Deities/Forgotten Realms Tempus.md",
-    "5. Mechanics/Deities/Forgotten Realms Talos.md",
-    "5. Mechanics/Deities/Forgotten Realms Talona.md",
-    "z_Assets/Village of Barovia.jpg",
-    "6. Resources/5e Modules/Curse Of Strahd/img/014-cos301.jpg",
-    "z_Assets/Yevelda Ovak.jpeg",
-    "z_Assets/Seluvis Felo'melorn.jpeg",
-    "z_Assets/Redgrave.jpeg",
-    "z_Assets/Marin.jpeg",
-    "z_Assets/Faerah Duskrane.jpeg",
-    "4. World Almanac/Eldoria/Groups",
-    "4. World Almanac/Eldoria/NPCs",
-    "7. Resources/Untitled.canvas",
-    "7. Resources",
-    "3. The Party/Curse of Strahd Campaign/Session Log",
-    "3. The Party/Curse of Strahd Campaign/Characters",
-    "4. World Almanac/Eldoria/Locations/Barovia",
-    "4. World Almanac/Eldoria/Locations",
-    "4. World Almanac/Eldoria",
-    "7. Resources/Resources/The Interactive Tome of Strahd.pdf",
-    "7. Resources/Resources/Curse of Strahd NPC Map.pdf"
+    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
+    "Importing 5eTools Data.md",
+    "Importing 5eTools Data.md",
+    "3000-3500.md",
+    "5. Mechanics/Backgrounds/Acolyte.md",
+    "5. Mechanics/Backgrounds/Backgrounds.md",
+    "5. Mechanics/Backgrounds/Charlatan.md",
+    "5. Mechanics/Backgrounds/Criminal Spy Variant.md",
+    "5. Mechanics/Backgrounds/Criminal.md",
+    "5. Mechanics/Backgrounds/Entertainer Gladiator Variant.md",
+    "5. Mechanics/Backgrounds/Entertainer.md",
+    "5. Mechanics/Backgrounds/Folk Hero.md",
+    "5. Mechanics/Backgrounds/Guild Artisan Guild Merchant Variant.md",
+    "5. Mechanics/Backgrounds/Guild Artisan.md",
+    "5. Mechanics/Backgrounds/Haunted One (VRGR).md",
+    "5. Mechanics/Backgrounds/Hermit.md",
+    "5. Mechanics/Backgrounds/Investigator (VRGR).md",
+    "5. Mechanics/Backgrounds/Noble Knight Variant.md",
+    "5. Mechanics/Backgrounds/Noble Retainers Variant.md",
+    "5. Mechanics/Backgrounds/Noble.md",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/149-06-001.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/123-05-003-the-bagman.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/122-05-002-the-whistling-fiend.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/121-05-001-intro-splash.jpg",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/106-04-002.png",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/105-04-001-intro-splash.jpg",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/img",
+    "6. Resources/5e Modules/Curse Of Strahd/img",
+    "5. Mechanics/Classes",
+    "5. Mechanics/Deities/img",
+    "5. Mechanics/Deities",
+    "5. Mechanics/Feats",
+    "5. Mechanics/Items/img",
+    "5. Mechanics/Items",
+    "5. Mechanics/Objects",
+    "5. Mechanics/Optional Features"
   ]
 }

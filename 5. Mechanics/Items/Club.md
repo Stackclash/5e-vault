@@ -11,8 +11,8 @@ aliases: ["Club"]
 *Melee Weapon*  
 
 - **Damage**: 1d4 B
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Light|Light]]
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Light|Light]]
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook p. 149*
+*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

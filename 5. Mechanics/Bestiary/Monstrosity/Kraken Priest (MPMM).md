@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Kraken Priest"]
 ---
 # Kraken Priest
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
@@ -20,7 +19,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "name": "Kraken Priest"
 "size": "Medium"
 "type": "monstrosity"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
@@ -31,50 +30,44 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 - !!int "10"
 - !!int "15"
 - !!int "14"
-"speed": "walk 30 ft., swim 30 ft."
+"speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The priest casts one of the following spells, requiring no material components\
+- "desc": "The priest casts one of the following spells, requiring no material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]]\n\
-    \n1/day: [[/5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[/5. Mechanics/Spells/Water Breathing.md|water breathing]], [[/5. Mechanics/Spells/Water Walk.md|water walk]]"
+    \ [[5. Mechanics\Spells\Command.md|command]], [[5. Mechanics\Spells\Create Or Destroy Water.md|create or destroy water]]\n\
+    \n1/day: [[5. Mechanics\Spells\Evards Black Tentacles.md|Evard's black tentacles]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Control Water.md|control water]], [[5. Mechanics\Spells\Darkness.md|darkness]],\
+    \ [[5. Mechanics\Spells\Water Breathing.md|water breathing]], [[5. Mechanics\Spells\Water Walk.md|water walk]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The priest can breathe air and water."
+- "desc": "The priest can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The priest makes two Thunderous Touch or Thunderbolt attacks."
+- "desc": "The priest makes two Thunderous Touch or Thunderbolt attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 5d10|avg (5d10) thunder damage."
+- "desc": "Melee Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 27 (dice: 5d10|avg (5d10)) thunder damage."
   "name": "Thunderous Touch"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: dice: 2d10|avg (2d10) lightning damage plus 11 (dice: 2d10|avg (2d10))\
-    \ thunder damage, and the target is knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
+    \ Hit: 11 (dice: 2d10|avg (2d10)) lightning damage plus 11 (dice: 2d10|avg\
+    \ (2d10)) thunder damage, and the target is knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Thunderbolt"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A kraken speaks through the priest with a thunderous voice audible within\
+- "desc": "A kraken speaks through the priest with a thunderous voice audible within\
     \ 300 feet. Creatures of the priest's choice that can hear the kraken's words\
     \ (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC\
-    \ 14 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the priest for 1 minute. A [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ 14 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ of the priest for 1 minute. A [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Voice of the Kraken (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/kraken-priest.png"
+"image": "compendium/bestiary/monstrosity/token/kraken-priest.png"
 ```
 ^statblock
 

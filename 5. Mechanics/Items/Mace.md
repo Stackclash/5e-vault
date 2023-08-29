@@ -13,4 +13,4 @@ aliases: ["Mace"]
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 
-*Source: Player's Handbook p. 149*
+*Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

@@ -12,4 +12,4 @@ aliases: ["Playing Card Set"]
 - **Cost**: 5 sp
 - **Weight**: ⏤
 
-*Source: Player's Handbook p. 154*
+*Source: Player's Handbook p. 154. Available in the SRD and the Basic Rules.*

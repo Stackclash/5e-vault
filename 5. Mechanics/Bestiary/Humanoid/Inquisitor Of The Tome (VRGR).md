@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Inquisitor of the Tome"]
 ---
 # Inquisitor of the Tome
 *Source: Van Richten's Guide to Ravenloft p. 249*  
@@ -33,60 +32,55 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 - !!int "19"
 - !!int "16"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  "Charisma": "+5"
+  "Wisdom": "+6"
+  "Intelligence": "+7"
 "skillsaves":
-  "Nature": !!int "7"
-  "Religion": !!int "10"
-  "History": !!int "7"
-  "Arcana": !!int "10"
+  "Nature": "+7"
+  "Religion": "+10"
+  "History": "+7"
+  "Arcana": "+10"
 "condition_immunities": "charmed, frightened"
 "senses": "truesight 30 ft., passive Perception 13"
 "languages": "any four languages, telepathy 120 ft."
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor casts one of the following spells, requiring no components\
+- "desc": "The inquisitor casts one of the following spells, requiring no components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md|Otiluke's resilient sphere]],\
-    \ [[/5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
+    \ will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]], [[5. Mechanics\Spells\Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Sending.md|sending]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Otilukes Resilient Sphere.md|Otiluke's resilient sphere]],\
+    \ [[5. Mechanics\Spells\Telekinesis.md|telekinesis]]"
   "name": "innate"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The inquisitor attacks twice."
+- "desc": "The inquisitor attacks twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 4d8 + 4|avg (4d8 + 4) force damage, and if the target is a Large\
-    \ or smaller creature, the inquisitor can push it up to 10 feet away."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
+    \ Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) force damage, and if the target\
+    \ is a Large or smaller creature, the inquisitor can push it up to 10 feet away."
   "name": "Force Bolt"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
-    \ (1d10 + 4)) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
+    \ + 4|avg (1d10 + 4)) if used with two hands, plus 18 (dice: 4d8|avg (4d8))\
+    \ force damage."
   "name": "Silver Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
+- "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
     \ can see within 120 feet of it must succeed on a DC 15 Constitution saving throw\
-    \ or take dice: 6d8 + 4|avg (6d8 + 4) force damage and be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ or take 31 (dice: 6d8 + 4|avg (6d8 + 4)) force damage and be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]\
     \ and moved to the unoccupied space closest to the sphere's center. Large and\
     \ smaller objects that aren't being worn or carried in the sphere automatically\
     \ take the damage and are similarly moved."
   "name": "Implode (Recharge 4-6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to being hit by an attack roll, the inquisitor increases its\
+- "desc": "In response to being hit by an attack roll, the inquisitor increases its\
     \ AC by 4 against the attack. If this causes the attack to miss, the attacker\
     \ is hit by the attack instead."
   "name": "Telekinetic Deflection"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-tome.png"
+"image": "compendium/bestiary/humanoid/token/inquisitor-of-the-tome.png"
 ```
 ^statblock

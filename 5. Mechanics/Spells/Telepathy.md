@@ -9,6 +9,7 @@ tags:
 aliases: ["Telepathy"]
 ---
 # Telepathy
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Evocation*  
 
 - **Casting time:** 1 action
@@ -20,6 +21,6 @@ You create a telepathic link between yourself and a willing creature with which 
 
 Until the spell ends, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature with an Intelligence score of at least 1 to understand the meaning of your words and take in the scope of any sensory messages you send to it.
 
-**Classes**: [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 281
+*Source: Player's Handbook p. 281*

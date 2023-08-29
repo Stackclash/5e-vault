@@ -16,7 +16,7 @@ aliases: ["Nepenthe"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
@@ -26,7 +26,7 @@ While you hold the drawn sword, it creates an aura in a 10-foot radius around yo
 
 ## Sentience
 
-Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically.
+Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically.
 
 ## Personality
 

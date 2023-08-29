@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Vulture"]
 ---
 # Giant Vulture
-*Source: Monster Manual p. 329, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
@@ -29,33 +28,28 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 - !!int "6"
 - !!int "12"
 - !!int "7"
-"speed": "walk 10 ft., fly 60 ft."
+"speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vulture has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The vulture has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vulture has advantage on an attack roll against a creature if at least\
+- "desc": "The vulture has advantage on an attack roll against a creature if at least\
     \ one of the vulture's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The vulture makes two attacks: one with its beak and one with its talons."
+- "desc": "The vulture makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage."
   "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage."
   "name": "Talons"
 "source":
 - "MM"
@@ -65,7 +59,7 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 - "MOT"
 - "IDRotF"
 - "CRCotN"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-vulture.png"
+"image": "compendium/bestiary/beast/token/giant-vulture.png"
 ```
 ^statblock
 

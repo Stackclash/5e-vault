@@ -8,10 +8,10 @@ aliases: ["Guild Artisan (Guild Merchant) (Variant)"]
 # Guild Artisan (Guild Merchant) (Variant)
 *Source: Player's Handbook p. 133, Derived from Guild Artisan (PHB)*  
 
-- **Skill Proficiencies.** [[Skills#Insight|Insight]], [[Skills#Persuasion|Persuasion]]  
-- **Tool Proficiencies.** One type of artisan's tools, or [[Navigators Tools|navigator's tools]], or an additional language  
+- **Skill Proficiencies.** [[\5. Mechanics\Rules\Skills.md#Insight|Insight]], [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]]  
+- **Tool Proficiencies.** One type of artisan's tools, or [[5. Mechanics\Items\Navigators Tools.md|navigator's tools]], or an additional language  
 - **Languages.** One of your choice  
-- **Equipment.** A set of artisan's tools (one of your choice) or a [[5. Mechanics/Items/Mule|mule]] and [[Cart|cart]], a letter of introduction from your guild, a set of [[Travelers Clothes|traveler's clothes]], and a belt [[Pouch|pouch]] containing 15 gp  
+- **Equipment.** A set of artisan's tools (one of your choice) or a [[5. Mechanics\Items\Mule.md|mule]] and [[5. Mechanics\Items\Cart.md|cart]], a letter of introduction from your guild, a set of [[5. Mechanics\Items\Travelers Clothes.md|traveler's clothes]], and a belt [[5. Mechanics\Items\Pouch.md|pouch]] containing 15 gp  
 
 Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
 

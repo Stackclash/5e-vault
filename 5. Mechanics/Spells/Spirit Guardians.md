@@ -11,6 +11,7 @@ tags:
 aliases: ["Spirit Guardians"]
 ---
 # Spirit Guardians
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 action
@@ -24,6 +25,6 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Classes/Cleric War Domain.md|Cleric (War Domain)]], [[/5. Mechanics/Classes/Cleric.md|Cleric]], [[/5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics\Classes\Cleric War Domain.md|Cleric (War Domain)]], [[5. Mechanics\Classes\Cleric.md|Cleric]], [[5. Mechanics\Classes\Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
 
-Source: Player's Handbook p. 278
+*Source: Player's Handbook p. 278. Available in the SRD and the Basic Rules.*

@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Lich"]
 ---
 # Lich
-*Source: Monster Manual p. 202, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 202, Curse of Strahd. Available in the SRD.*  
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
 
@@ -24,7 +23,7 @@ With its phylactery prepared, the future lich drinks a potion of transformation-
 
 ## Soul Sacrifices
 
-A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [[Imprisonment|imprisonment]] spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [[Dispel Magic|dispel magic]] cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
+A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [[5. Mechanics\Spells\Imprisonment.md|imprisonment]] spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]] cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
 
 A lich that fails or forgets to maintain its body with sacrificed souls begins to physically fall apart, and might eventually become a demilich.
 
@@ -54,13 +53,11 @@ A lich often haunts the abode it favored in life, such as a lonely tower, a haun
 
 A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 
-## Stat Block
-
 ```statblock
 "name": "Lich"
 "size": "Medium"
 "type": "undead"
-"alignment": "Any Evil Alignment"
+"alignment": "Any Evil alignment"
 "ac": !!int "17"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
@@ -71,16 +68,16 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 - !!int "20"
 - !!int "14"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "12"
-  "Constitution": !!int "10"
+  "Wisdom": "+9"
+  "Intelligence": "+12"
+  "Constitution": "+10"
 "skillsaves":
-  "Insight": !!int "9"
-  "Perception": !!int "9"
-  "History": !!int "12"
-  "Arcana": !!int "19"
+  "Insight": "+9"
+  "Perception": "+9"
+  "History": "+12"
+  "Arcana": "+19"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
@@ -88,66 +85,57 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "languages": "Common plus up to five other languages"
 "cr": "21"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
+- "desc": "The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks). The lich\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Magic Missile.md|magic missile]], [[/5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
-    \ slots): [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[/5. Mechanics/Spells/Melfs Acid Arrow.md|Melf's acid arrow]], [[/5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-    \ [[/5. Mechanics/Spells/Counterspell.md|counterspell]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
-    \ [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
-    \n5th level (3 5th-level slots): [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[/5. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
-    \ [[/5. Mechanics/Spells/Disintegrate.md|disintegrate]], [[/5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\
-    \n7th level (1 7th-level slots): [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-    \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 8th-level\
-    \ slots): [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [power\
-    \ word stun](/compendium/spells/power-word-stun.md)\n\n9th level (1 9th-level\
-    \ slots): [[/5. Mechanics/Spells/Power Word Kill.md|power word kill]]"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]], [[5. Mechanics\Spells\Ray Of Frost.md|ray of frost]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Magic Missile.md|magic missile]], [[5. Mechanics\Spells\Shield.md|shield]],\
+    \ [[5. Mechanics\Spells\Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], [[5. Mechanics\Spells\Invisibility.md|invisibility]],\
+    \ [[5. Mechanics\Spells\Melfs Acid Arrow.md|Melf's acid arrow]], [[5. Mechanics\Spells\Mirror Image.md|mirror image]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics\Spells\Animate Dead.md|animate dead]],\
+    \ [[5. Mechanics\Spells\Counterspell.md|counterspell]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
+    \ [[5. Mechanics\Spells\Blight.md|blight]], [[5. Mechanics\Spells\Dimension Door.md|dimension door]]\n\
+    \n5th level (3 5th-level slots): [[5. Mechanics\Spells\Cloudkill.md|cloudkill]],\
+    \ [[5. Mechanics\Spells\Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
+    \ [[5. Mechanics\Spells\Disintegrate.md|disintegrate]], [[5. Mechanics\Spells\Globe Of Invulnerability.md|globe of invulnerability]]\n\
+    \n7th level (1 7th-level slots): [[5. Mechanics\Spells\Finger Of Death.md|finger of death]],\
+    \ [[5. Mechanics\Spells\Plane Shift.md|plane shift]]\n\n8th level (1 8th-level\
+    \ slots): [[5. Mechanics\Spells\Dominate Monster.md|dominate monster]], [power\
+    \ word stun](compendium/spells/power-word-stun.md)\n\n9th level (1 9th-level\
+    \ slots): [[5. Mechanics\Spells\Power Word Kill.md|power word kill]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the lich fails a saving throw, it can choose to succeed instead."
+- "desc": "If the lich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If it has a phylactery, a destroyed lich gains a new body in dice: 1d10|avg\
+- "desc": "If it has a phylactery, a destroyed lich gains a new body in dice: 1d10|avg\
     \ (1d10) days, regaining all its hit points and becoming active again. The new\
     \ body appears within 5 feet of the phylactery."
   "name": "Rejuvenation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lich has advantage on saving throws against any effect that turns undead."
+- "desc": "The lich has advantage on saving throws against any effect that turns undead."
   "name": "Turn Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d6|avg (3d6) cold damage. The target must succeed on a DC 18\
-    \ Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
+    \ Hit: 10 (dice: 3d6|avg (3d6)) cold damage. The target must succeed on\
+    \ a DC 18 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Touch"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lich casts a cantrip."
+- "desc": "The lich casts a cantrip."
   "name": "Cantrip"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lich uses its Paralyzing Touch."
+- "desc": "The lich uses its Paralyzing Touch."
   "name": "Paralyzing Touch (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The lich fixes its gaze on one creature it can see within 10 feet of it.\
+- "desc": "The lich fixes its gaze on one creature it can see within 10 feet of it.\
     \ The target must succeed on a DC 18 Wisdom saving throw against this magic or\
-    \ become [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute.\
-    \ The [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat\
+    \ become [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] for 1 minute.\
+    \ The [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success. If a target's saving throw is successful or the effect ends for\
     \ it, the target is immune to the lich's gaze for the next 24 hours."
   "name": "Frightening Gaze (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution\
+- "desc": "Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution\
     \ saving throw against this magic, taking 21 (dice: 6d6|avg (6d6)) necrotic\
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Disrupt Life (Costs 3 Actions)"
@@ -157,6 +145,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 - "GoS"
 - "IDRotF"
 - "TCE"
-"image": "5. Mechanics/Bestiary/Undead/token/lich.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/lich.png"
 ```
 ^statblock

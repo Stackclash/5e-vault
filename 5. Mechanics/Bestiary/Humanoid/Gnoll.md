@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/gnoll
-statblock: inline
+aliases: ["Gnoll"]
 ---
 # Gnoll
-*Source: Monster Manual p. 163, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 163. Available in the SRD and the Basic Rules.*  
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 
@@ -30,8 +29,6 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 
 No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
-## Stat Block
-
 ```statblock
 "name": "Gnoll"
 "size": "Medium"
@@ -48,30 +45,26 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - !!int "6"
 - !!int "10"
 - !!int "7"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
+- "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
     \ its turn, the gnoll can take a bonus action to move up to half its speed and\
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing\
     \ damage, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage if used with\
     \ two hands to make a melee attack."
   "name": "Spear"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
+    \ target. Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"
@@ -82,7 +75,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - "ERLW"
 - "EGW"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/gnoll.png"
+"image": "compendium/bestiary/humanoid/token/gnoll.png"
 ```
 ^statblock
 

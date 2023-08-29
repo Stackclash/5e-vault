@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underwater
 - monster/size/gargantuan
 - monster/type/dragon
-statblock: inline
+aliases: ["Dragon Turtle"]
 ---
 # Dragon Turtle
-*Source: Monster Manual p. 119, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Candlekeep Mysteries, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 119. Available in the SRD.*  
 
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
 
@@ -30,8 +29,6 @@ A dragon turtle is smart enough to be bribed, and pirates sailing seas patrolled
 
 Dragon turtles sometimes find their way through sunken planar rifts to the Elemental Plane of Water. Those monstrous specimens can often be found in the service of marids, which strap magnificent coral thrones to the backs of dragon turtles and ride them as mounts.
 
-## Stat Block
-
 ```statblock
 "name": "Dragon Turtle"
 "size": "Gargantuan"
@@ -47,40 +44,34 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
 - !!int "10"
 - !!int "12"
 - !!int "12"
-"speed": "walk 20 ft., swim 40 ft."
+"speed": "20 ft., swim 40 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "11"
+  "Dexterity": "+6"
+  "Wisdom": "+7"
+  "Constitution": "+11"
 "damage_resistances": "fire"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Draconic"
 "cr": "17"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon turtle can breathe air and water."
+- "desc": "The dragon turtle can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon turtle makes three attacks: one with its bite and two with its\
+- "desc": "The dragon turtle makes three attacks: one with its bite and two with its\
     \ claws. It can make one tail attack in place of its two claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d12 + 7|avg (3d12 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
+    \ Hit: 26 (dice: 3d12 + 7|avg (3d12 + 7)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
+    \ Hit: 16 (dice: 2d8 + 7|avg (2d8 + 7)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 3d12 + 7|avg (3d12 + 7) bludgeoning damage. If the target is\
-    \ a creature, it must succeed on a DC 20 Strength saving throw or be pushed up\
-    \ to 10 feet away from the dragon turtle and knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
+    \ Hit: 26 (dice: 3d12 + 7|avg (3d12 + 7)) bludgeoning damage. If the target\
+    \ is a creature, it must succeed on a DC 20 Strength saving throw or be pushed\
+    \ up to 10 feet away from the dragon turtle and knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Tail"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon turtle exhales scalding steam in a 60-foot cone. Each creature\
+- "desc": "The dragon turtle exhales scalding steam in a 60-foot cone. Each creature\
     \ in that area must make a DC 18 Constitution saving throw, taking 52 (dice:\
     \ 15d6|avg (15d6)) fire damage on a failed save, or half as much damage on\
     \ a successful one. Being underwater doesn't grant resistance against this damage."
@@ -94,7 +85,7 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
 - "MOT"
 - "CM"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Dragon/token/dragon-turtle.png"
+"image": "compendium/bestiary/dragon/token/dragon-turtle.png"
 ```
 ^statblock
 

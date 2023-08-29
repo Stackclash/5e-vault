@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/forest
 - monster/size/small
 - monster/type/plant
-statblock: inline
+aliases: ["Twig Blight"]
 ---
 # Twig Blight
-*Source: Monster Manual p. 32, Curse of Strahd, Lost Mine of Phandelver, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Lost Dungeon of Rickedness: Big Rick Energy, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules.*  
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 
@@ -40,8 +39,6 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
 
 
-## Stat Block
-
 ```statblock
 "name": "Twig Blight"
 "size": "Small"
@@ -57,23 +54,21 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - !!int "4"
 - !!int "8"
 - !!int "3"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  "Stealth": "+3"
 "damage_vulnerabilities": "fire"
 "condition_immunities": "blinded, deafened"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the blight remains motionless, it is indistinguishable from a dead\
+- "desc": "While the blight remains motionless, it is indistinguishable from a dead\
     \ shrub."
   "name": "False Appearance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -83,7 +78,8 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - "GoS"
 - "RMBRE"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Plant/token/twig-blight.png"
+- "PSI"
+"image": "compendium/bestiary/plant/token/twig-blight.png"
 ```
 ^statblock
 

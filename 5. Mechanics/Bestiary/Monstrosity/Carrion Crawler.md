@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Carrion Crawler"]
 ---
 # Carrion Crawler
-*Source: Monster Manual p. 37, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 37*  
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
 
@@ -20,8 +19,6 @@ A carrion crawler follows the scent of death to its food, but it prefers not to 
 ## Patient Predators
 
 Whether in subterranean darkness or while hunting at night, light signals a potential meal. A carrion crawler might follow a light source from a distance for hours, hoping to pick up the scent of blood. Despite their great size, carrion crawlers can also easily set up ambushes by waiting around blind corners for prey to come to them. When facing potential prey or intruders, a carrion crawler lets its poison do the work. Once a victim goes rigid with paralysis, the carrion crawler wraps it with its tentacles and drags it away to a high ledge or isolated passageway, where it can be killed safely. The monster then resumes patrolling its territory while waiting for its meal to ripen.
-
-## Stat Block
 
 ```statblock
 "name": "Carrion Crawler"
@@ -38,37 +35,32 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 - !!int "1"
 - !!int "12"
 - !!int "5"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The carrion crawler has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The carrion crawler has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The carrion crawler can climb difficult surfaces, including upside down\
+- "desc": "The carrion crawler can climb difficult surfaces, including upside down\
     \ on ceilings, without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The carrion crawler makes two attacks: one with its tentacles and one with\
+- "desc": "The carrion crawler makes two attacks: one with its tentacles and one with\
     \ its bite."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) poison damage, and the target must succeed\
-    \ on a DC 13 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. Until this poison ends, the target is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) poison damage, and the target must\
+    \ succeed on a DC 13 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. Until this poison ends, the target is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the poison on itself on a success."
   "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -79,7 +71,7 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 - "DIP"
 - "BGDIA"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/carrion-crawler.png"
+"image": "compendium/bestiary/monstrosity/token/carrion-crawler.png"
 ```
 ^statblock
 

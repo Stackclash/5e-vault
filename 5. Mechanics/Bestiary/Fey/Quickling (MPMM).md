@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
-statblock: inline
+aliases: ["Quickling"]
 ---
 # Quickling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
@@ -27,7 +26,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "name": "Quickling"
 "size": "Tiny"
 "type": "fey"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "10"
 "hit_dice": "3d4 + 3"
@@ -38,38 +37,34 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 - !!int "10"
 - !!int "12"
 - !!int "7"
-"speed": "walk 120 ft."
+"speed": "120 ft."
 "skillsaves":
-  "Sleight of Hand": !!int "8"
-  "Stealth": !!int "8"
-  "Perception": !!int "5"
-  "Acrobatics": !!int "8"
+  "Sleight of Hand": "+8"
+  "Stealth": "+8"
+  "Perception": "+5"
+  "Acrobatics": "+8"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Attack rolls against the quickling have disadvantage unless it is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Attack rolls against the quickling have disadvantage unless it is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
     \ or its speed is 0."
   "name": "Blurred Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
+- "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-    \ on the saving throw and only half damage if it fails, provided it isn't [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ on the saving throw and only half damage if it fails, provided it isn't [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Evasion"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The quickling makes three Dagger attacks."
+- "desc": "The quickling makes three Dagger attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 8 (dice: 1d4 + 6|avg (1d4 + 6)) piercing\
     \ damage."
   "name": "Dagger"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/quickling.png"
+"image": "compendium/bestiary/fey/token/quickling.png"
 ```
 ^statblock
 

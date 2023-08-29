@@ -13,7 +13,7 @@ aliases: ["Copper Dragon Scale Mail"]
 *Medium Armor, major, very rare (requires attunement)*  
 
 - **Armor Class**: 14 + DEX (max of +2)
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: ⏤
 - **Weight**: 45.0 lbs.
@@ -22,4 +22,4 @@ Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest copper dragon within 30 miles of you. This special action can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 165*
+*Source: Dungeon Master's Guide p. 165. Available in the SRD.*

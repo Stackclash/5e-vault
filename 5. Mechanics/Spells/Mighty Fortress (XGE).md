@@ -9,6 +9,7 @@ tags:
 aliases: ["Mighty Fortress"]
 ---
 # Mighty Fortress
+%%-- Embedded content starts on the next line. --%%
 *8th-level, Conjuration*  
 
 - **Casting time:** 1 minute
@@ -30,6 +31,6 @@ After 7 days or when you cast this spell somewhere else, the fortress harmlessly
 
 Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.
 
-**Classes**: [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Xanathar's Guide to Everything p. 161, Adventures in the Forgotten Realms: A Verdant Tomb p. 10, Adventures in the Forgotten Realms: From Cyan Depths p. 12
+*Source: Xanathar's Guide to Everything p. 161*

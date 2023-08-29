@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/yugoloth
-statblock: inline
+aliases: ["Mezzoloth"]
 ---
 # Mezzoloth
-*Source: Monster Manual p. 313, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 313*  
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
 
@@ -16,7 +15,7 @@ Violence and reward are the fundamental drives of a mezzoloth, and powerful bein
 
 ## Yugoloths
 
-Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: _What's in it for me?_
+Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: *What's in it for me?*
 
 ### Spawn of Gehenna
 
@@ -65,8 +64,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > Power. We all crave it, but only a select few of us deserve it.
 
 
-## Stat Block
-
 ```statblock
 "name": "Mezzoloth"
 "size": "Medium"
@@ -83,9 +80,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "7"
 - !!int "10"
 - !!int "11"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -94,35 +91,28 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
+- "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
     \ 11). The mezzoloth can innately cast the following spells, requiring no material\
-    \ components:\n\n1/day: [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]]\n\n2/day\
-    \ each: [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
+    \ components:\n\n1/day: [[5. Mechanics\Spells\Cloudkill.md|cloudkill]]\n\n2/day\
+    \ each: [[5. Mechanics\Spells\Darkness.md|darkness]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth has advantage on saving throws against spells and other magical\
+- "desc": "The mezzoloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth's weapon attacks are magical."
+- "desc": "The mezzoloth's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
+- "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) slashing damage."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 20/60 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing\
     \ damage, or 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage when held with\
     \ two claws and used to make a melee attack."
   "name": "Trident"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
+- "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."
   "name": "Teleport"
 "source":
@@ -132,6 +122,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "ToA"
 - "WDMM"
 - "BGDIA"
-"image": "/compendium/bestiary/fiend/token/mezzoloth.png"
+"image": "compendium/bestiary/fiend/token/mezzoloth.png"
 ```
 ^statblock

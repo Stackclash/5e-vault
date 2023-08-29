@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
-statblock: inline
+aliases: ["Quaggoth Spore Servant"]
 ---
 # Quaggoth Spore Servant
-*Source: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 230*  
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
 
@@ -39,11 +38,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [[Senses#blindsight|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [[\5. Mechanics\Rules\Senses.md#blindsight|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [[Conditions#blinded|blinded]], [[Conditions#charmed|charmed]], [[Conditions#frightened|frightened]], or [[Conditions#paralyzed|paralyzed]].
+The servant can't be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]], [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], or [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]].
 
 ## Languages
 
@@ -52,8 +51,6 @@ The servant loses all known languages, but it responds to orders given to it by 
 ## Attacks
 
 If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice: 1d4` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice: 2d4` (`2d4`) + its Strength modifier.
-
-## Stat Block
 
 ```statblock
 "name": "Quaggoth Spore Servant"
@@ -70,25 +67,23 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 - !!int "2"
 - !!int "6"
 - !!int "1"
-"speed": "walk 20 ft., climb 20 ft."
+"speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "blinded, charmed, frightened, paralyzed, poisoned"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spore servant makes two claw attacks."
+- "desc": "The spore servant makes two claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
   "name": "Claw"
 "source":
 - "MM"
 - "WDMM"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Plant/token/quaggoth-spore-servant.png"
+"image": "compendium/bestiary/plant/token/quaggoth-spore-servant.png"
 ```
 ^statblock
 

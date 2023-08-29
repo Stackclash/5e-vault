@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/size/large
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
-statblock: inline
+aliases: ["Yuan-ti Abomination"]
 ---
 # Yuan-ti Abomination
-*Source: Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Storm Lord's Wrath, Candlekeep Mysteries*  
+*Source: Monster Manual p. 308*  
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
 
@@ -58,8 +57,6 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
 
 
-## Stat Block
-
 ```statblock
 "name": "Yuan-ti Abomination"
 "size": "Large"
@@ -76,55 +73,48 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - !!int "17"
 - !!int "15"
 - !!int "18"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "5"
+  "Stealth": "+6"
+  "Perception": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15).\
+- "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15).\
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
-    \ only)\n\n1/day: [[/5. Mechanics/Spells/Fear.md|fear]]\n\n3/day: [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \nAt will: [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n1/day: [[5. Mechanics\Spells\Fear.md|fear]]\n\n3/day: [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
+- "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\
     \ it is wearing or carrying isn't transformed. It doesn't change form if it dies."
   "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes two ranged attacks or three melee attacks, but can use\
+- "desc": "The yuan-ti makes two ranged attacks or three melee attacks, but can use\
     \ its bite and constrict attacks only once each."
   "name": "Multiattack (Abomination Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg\
+    \ (3d6)) poison damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 14). Until\
+    \ this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Scimitar (Abomination Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing damage plus dice: 3d6|avg\
-    \ (3d6) poison damage."
+- "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
+    \ target. Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) piercing damage plus 10\
+    \ (dice: 3d6|avg (3d6)) poison damage."
   "name": "Longbow (Abomination Form Only)"
 "source":
 - "MM"
@@ -134,7 +124,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "DIP"
 - "SLW"
 - "CM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-abomination.png"
+"image": "compendium/bestiary/monstrosity/token/yuan-ti-abomination.png"
 ```
 ^statblock
 

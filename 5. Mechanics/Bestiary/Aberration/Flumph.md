@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration
-statblock: inline
+aliases: ["Flumph"]
 ---
 # Flumph
-*Source: Monster Manual p. 135, Waterdeep: Dungeon of the Mad Mage, Light of Xaryxis*  
+*Source: Monster Manual p. 135*  
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
 
@@ -29,8 +28,6 @@ Consuming psionic energy reveals the thoughts and emotions of the creatures on w
 
 Flumphs live in complex and organized groups called cloisters, within which each flumph has a place and purpose. These harmonious groupings have no need for leaders, since all flumphs contribute in their own way
 
-## Stat Block
-
 ```statblock
 "name": "Flumph"
 "size": "Small"
@@ -46,47 +43,42 @@ Flumphs live in complex and organized groups called cloisters, within which each
 - !!int "14"
 - !!int "14"
 - !!int "11"
-"speed": "walk 5 ft., fly 30 ft."
+"speed": "5 ft., fly 30 ft."
 "skillsaves":
-  "Religion": !!int "4"
-  "History": !!int "4"
-  "Arcana": !!int "4"
+  "Religion": "+4"
+  "History": "+4"
+  "Arcana": "+4"
 "damage_vulnerabilities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Undercommon but can't speak, telepathy 60 ft."
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flumph can perceive the content of any telepathic communication used\
+- "desc": "The flumph can perceive the content of any telepathic communication used\
     \ within 60 feet of it, and it can't be surprised by creatures with any form of\
     \ telepathy."
   "name": "Advanced Telepathy"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the flumph is knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]],\
-    \ roll a die. On an odd result, the flumph lands upside-down and is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+- "desc": "If the flumph is knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]],\
+    \ roll a die. On an odd result, the flumph lands upside-down and is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]].\
     \ At the end of each of its turns, the flumph can make a DC 10 Dexterity saving\
-    \ throw, righting itself and ending the [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ throw, righting itself and ending the [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
     \ condition if it succeeds."
   "name": "Prone Deficiency"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The flumph is immune to any effect that would sense its emotions or read\
+- "desc": "The flumph is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as all divination spells."
   "name": "Telepathic Shroud"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 1d4|avg (1d4)\
-    \ acid damage. At the end of each of its turns, the target must make a DC 10 Constitution\
-    \ saving throw, taking 2 (dice: 1d4|avg (1d4)) acid damage on a failure or\
-    \ ending the recurring acid damage on a success. A [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage plus 2 (dice: 1d4|avg\
+    \ (1d4)) acid damage. At the end of each of its turns, the target must make\
+    \ a DC 10 Constitution saving throw, taking 2 (dice: 1d4|avg (1d4)) acid damage\
+    \ on a failure or ending the recurring acid damage on a success. A [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]]\
     \ spell cast on the target also ends the recurring acid damage."
   "name": "Tendrils"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
+- "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
     \ on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A\
     \ coated creature exudes a horrible stench for dice: 1d4|avg (1d4) hours.\
-    \ The coated creature is [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] as\
-    \ long as the stench lasts, and other creatures are [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ The coated creature is [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ as long as the stench lasts, and other creatures are [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ while with in 5 feet of the coated creature. A creature can remove the stench\
     \ on itself by using a short rest to bathe in water, alcohol, or vinegar."
   "name": "Stench Spray (1/Day)"
@@ -94,7 +86,7 @@ Flumphs live in complex and organized groups called cloisters, within which each
 - "MM"
 - "WDMM"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Aberration/token/flumph.png"
+"image": "compendium/bestiary/aberration/token/flumph.png"
 ```
 ^statblock
 

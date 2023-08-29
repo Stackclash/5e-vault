@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
-statblock: inline
+aliases: ["Martial Arts Adept"]
 ---
 # Martial Arts Adept
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  
@@ -44,39 +43,34 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 - !!int "11"
 - !!int "16"
 - !!int "10"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Insight": !!int "5"
-  "Acrobatics": !!int "5"
+  "Stealth": "+5"
+  "Insight": "+5"
+  "Acrobatics": "+5"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While the adept is wearing no armor and wielding no shield, its AC includes\
+- "desc": "While the adept is wearing no armor and wielding no shield, its AC includes\
     \ its Wisdom modifier."
   "name": "Unarmored Defense"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The adept makes three Unarmed Strike attacks or five Dart attacks."
+- "desc": "The adept makes three Unarmed Strike attacks or five Dart attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage. Once per turn, the\
-    \ adept can cause one of the following additional effects (choose one or roll\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) bludgeoning damage. Once per turn,\
+    \ the adept can cause one of the following additional effects (choose one or roll\
     \ a dice: d4|avg (d4)):\n\n- 1–2 Knock Down.. The target must succeed\
-    \ on a DC 13 Dexterity saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ on a DC 13 Dexterity saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \  \n- 3–4 Push.. The target must succeed on a DC 13 Strength saving throw\
     \ or be pushed up to 10 feet directly away from the adept.  "
   "name": "Unarmed Strike"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
+    \ target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
   "name": "Dart"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In response to being hit by a ranged weapon attack, the adept deflects\
+- "desc": "In response to being hit by a ranged weapon attack, the adept deflects\
     \ the missile. The damage it takes from the attack is reduced by dice: 1d10 +\
     \ 3|avg (1d10 + 3). If the damage is reduced to 0, the adept catches the missile\
     \ if it's small enough to hold in one hand and the adept has a hand free."
@@ -84,7 +78,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/martial-arts-adept.png"
+"image": "compendium/bestiary/humanoid/token/martial-arts-adept.png"
 ```
 ^statblock
 

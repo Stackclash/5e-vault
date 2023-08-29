@@ -16,7 +16,7 @@ aliases: ["Staff of Thunder and Lightning"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]], [[5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Requires Attunement, [[\5. Mechanics\Rules\Item Properties.md#Versatile|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
@@ -28,7 +28,7 @@ When you hit with a melee attack using the staff, you can cause the target to ta
 
 ## Thunder
 
-When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the end of your next turn.
+When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] until the end of your next turn.
 
 ## Lightning Strike
 
@@ -36,10 +36,10 @@ You can use an action to cause a bolt of lightning to leap from the staff's tip 
 
 ## Thunderclap
 
-You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `dice: 2d6` (`2d6`) thunder damage and becomes [[5. Mechanics/Rules/Conditions.md#deafened|deafened]] for 1 minute. On a successful save, a creature takes half damage and isn't [[5. Mechanics/Rules/Conditions.md#deafened|deafened]].
+You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `dice: 2d6` (`2d6`) thunder damage and becomes [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]] for 1 minute. On a successful save, a creature takes half damage and isn't [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]].
 
 ## Thunder and Lightning
 
 You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
 
-*Source: Dungeon Master's Guide p. 204*
+*Source: Dungeon Master's Guide p. 204. Available in the SRD.*

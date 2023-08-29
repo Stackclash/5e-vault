@@ -24,4 +24,4 @@ When the box becomes a vessel, its weight becomes that of a normal vessel its si
 
 The third command word causes the folding boat to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
 
-*Source: Dungeon Master's Guide p. 170*
+*Source: Dungeon Master's Guide p. 170. Available in the SRD.*

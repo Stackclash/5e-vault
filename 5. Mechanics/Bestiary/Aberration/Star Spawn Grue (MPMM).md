@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/swamp
 - monster/size/small
 - monster/type/aberration
-statblock: inline
+aliases: ["Star Spawn Grue"]
 ---
 # Star Spawn Grue
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
@@ -38,13 +37,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tharizdun, the Chained God  
 - Cult of Tyranthraxus, the Flamed One  
 
-## Stat Block
-
 ```statblock
 "name": "Star Spawn Grue"
 "size": "Small"
 "type": "aberration"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "11"
 "hp": !!int "17"
 "hit_dice": "5d6"
@@ -55,28 +52,26 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "9"
 - !!int "11"
 - !!int "6"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_immunities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Deep Speech"
 "cr": "1/4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Creatures within 20 feet of the grue that aren't Aberrations have disadvantage\
+- "desc": "Creatures within 20 feet of the grue that aren't Aberrations have disadvantage\
     \ on saving throws, as well as on attack rolls against creatures other than a\
     \ star spawn grue."
   "name": "Aura of Shrieks"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage, and the target must succeed\
-    \ on a DC 10 Wisdom saving throw or attack rolls against it have advantage until\
-    \ the start of the grue's next turn."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) piercing damage, and the target must\
+    \ succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage\
+    \ until the start of the grue's next turn."
   "name": "Confounding Bite"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-grue.png"
+"image": "compendium/bestiary/aberration/token/star-spawn-grue.png"
 ```
 ^statblock
 

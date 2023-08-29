@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/celestial
-statblock: inline
+aliases: ["Deva"]
 ---
 # Deva
-*Source: Monster Manual p. 16, Waterdeep: Dungeon of the Mad Mage, Curse of Strahd, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -34,8 +33,6 @@ Devas are angels that act as divine messengers or agents to the Material Plane, 
 
 Legend tells of angels that take mortal form for years, lending aid, hope, and courage to goodhearted folk. A deva can take any shape, although it prefers to appear to mortals as an innocuous humanoid or animal. When circumstances require that it cast off its guise, a deva is a beautiful humanoid-like creature with silvery skin. Its hair and eyes gleam with an unearthly luster, and large feathery wings unfurl from its shoulder blades.
 
-## Stat Block
-
 ```statblock
 "name": "Deva"
 "size": "Medium"
@@ -51,50 +48,43 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - !!int "17"
 - !!int "20"
 - !!int "20"
-"speed": "walk 30 ft., fly 90 ft."
+"speed": "30 ft., fly 90 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "9"
+  "Charisma": "+9"
+  "Wisdom": "+9"
 "skillsaves":
-  "Insight": !!int "9"
-  "Perception": !!int "9"
+  "Insight": "+9"
+  "Perception": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "charmed, exhaustion, frightened"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva\
+- "desc": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva\
     \ can innately cast the following spells, requiring only verbal components:\n\n\
-    At will: [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Commune.md|commune]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+    At will: [[5. Mechanics\Spells\Detect Evil And Good.md|detect evil and good]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Commune.md|commune]], [[5. Mechanics\Spells\Raise Dead.md|raise dead]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
+- "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg (4d8) radiant damage (included in\
     \ the attack)."
   "name": "Angelic Weapons"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deva has advantage on saving throws against spells and other magical\
+- "desc": "The deva has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deva makes two melee attacks."
+- "desc": "The deva makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage plus dice: 4d8|avg\
-    \ (4d8) radiant damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage plus 18 (dice:\
+    \ 4d8|avg (4d8)) radiant damage."
   "name": "Mace"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deva touches another creature. The target magically regains 20 (dice:\
+- "desc": "The deva touches another creature. The target magically regains 20 (dice:\
     \ 4d8 + 2|avg (4d8 + 2)) hit points and is freed from any curse, disease, poison,\
     \ blindness, or deafness."
   "name": "Healing Touch (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge\
+- "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge\
     \ rating equal to or less than its own, or back into its true form. It reverts\
     \ to its true form if it dies. Any equipment it is wearing or carrying is absorbed\
     \ or borne by the new form (the deva's choice).\n\nIn a new form, the deva retains\
@@ -110,6 +100,6 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - "CRCotN"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Celestial/token/deva.png"
+"image": "compendium/bestiary/celestial/token/deva.png"
 ```
 ^statblock

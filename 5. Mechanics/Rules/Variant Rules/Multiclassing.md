@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/phb
 aliases: ["Multiclassing"]
 ---
 # Multiclassing
@@ -18,23 +20,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
-**Multiclassing Prerequisites**
-
-| Class | Ability Score Minimum |
-|-------|-----------------------|
-| [[/5. Mechanics/Classes/Barbarian.md|Barbarian]] | Strength 13 |
-| [[/5. Mechanics/Classes/Bard.md|Bard]] | Charisma 13 |
-| [[/5. Mechanics/Classes/Cleric.md|Cleric]] | Wisdom 13 |
-| [[/5. Mechanics/Classes/Druid.md|Druid]] | Wisdom 13 |
-| [[/5. Mechanics/Classes/Fighter.md|Fighter]] | Strength 13 or Dexterity 13 |
-| [[/5. Mechanics/Classes/Monk.md|Monk]] | Dexterity 13 and Wisdom 13 |
-| [[/5. Mechanics/Classes/Paladin.md|Paladin]] | Strength 13 and Charisma 13 |
-| [[/5. Mechanics/Classes/Ranger.md|Ranger]] | Dexterity 13 and Wisdom 13 |
-| [[/5. Mechanics/Classes/Rogue.md|Rogue]] | Dexterity 13 |
-| [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]] | Charisma 13 |
-| [[/5. Mechanics/Classes/Warlock.md|Warlock]] | Charisma 13 |
-| [[/5. Mechanics/Classes/Wizard.md|Wizard]] | Intelligence 13 |
-^multiclassing-prerequisites
+![[5. Mechanics\Tables\Multiclassing Prerequisites.md|Multiclassing Prerequisites]]
 
 ### Experience Points
 
@@ -54,23 +40,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-**Multiclassing Proficiencies**
-
-| Class | Proficiencies Gained |
-|-------|----------------------|
-| [[/5. Mechanics/Classes/Barbarian.md|Barbarian]] | Shields, simple weapons, martial weapons |
-| [[/5. Mechanics/Classes/Bard.md|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
-| [[/5. Mechanics/Classes/Cleric.md|Cleric]] | Light armor, medium armor, shields |
-| [[/5. Mechanics/Classes/Druid.md|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| [[/5. Mechanics/Classes/Fighter.md|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[/5. Mechanics/Classes/Monk.md|Monk]] | Simple weapons, shortswords |
-| [[/5. Mechanics/Classes/Paladin.md|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[/5. Mechanics/Classes/Ranger.md|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| [[/5. Mechanics/Classes/Rogue.md|Rogue]] | Light armor, one skill from the class's skill list, [[/5. Mechanics/Items/Thieves Tools.md|thieves' tools]] |
-| [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]] | — |
-| [[/5. Mechanics/Classes/Warlock.md|Warlock]] | Light armor, simple weapons |
-| [[/5. Mechanics/Classes/Wizard.md|Wizard]] | — |
-^multiclassing-proficiencies
+![[5. Mechanics\Tables\Multiclassing Proficiencies.md|Multiclassing Proficiencies]]
 
 ### Class Features
 
@@ -102,7 +72,7 @@ Each spell you know and prepare is associated with one of your classes, and you 
 
 You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[/5. Mechanics/Spells/Burning Hands.md|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[5. Mechanics\Spells\Burning Hands.md|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3. you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 

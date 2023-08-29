@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration/beholder
-statblock: inline
+aliases: ["Death Kiss"]
 ---
 # Death Kiss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*  
@@ -24,7 +23,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "size": "Large"
 "type": "aberration"
 "subtype": "beholder"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
@@ -35,46 +34,42 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 - !!int "10"
 - !!int "12"
 - !!int "10"
-"speed": "walk 0 ft., fly 30 ft. (hover)"
+"speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  "Wisdom": !!int "5"
-  "Constitution": !!int "8"
+  "Wisdom": "+5"
+  "Constitution": "+8"
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "damage_immunities": "lightning"
 "condition_immunities": "prone"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A creature within 5 feet of the death kiss takes dice: 1d10|avg (1d10)\
+- "desc": "A creature within 5 feet of the death kiss takes 5 (dice: 1d10|avg (1d10))\
     \ lightning damage whenever it hits the death kiss with a melee attack that deals\
     \ piercing or slashing damage."
   "name": "Lightning Blood"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The death kiss makes three Tentacle attacks. Up to three of these attacks\
+- "desc": "The death kiss makes three Tentacle attacks. Up to three of these attacks\
     \ can be replaced by Blood Drain—one replacement per tentacle grappling a creature."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage, and the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends,\
-    \ the target is [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the\
-    \ death kiss can't use the same tentacle on another target. The death kiss has\
-    \ ten tentacles."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage, and the target\
+    \ is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] (escape DC 14) if it\
+    \ is a Huge or smaller creature. Until this grapple ends, the target is [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]],\
+    \ and the death kiss can't use the same tentacle on another target. The death\
+    \ kiss has ten tentacles."
   "name": "Tentacle"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "One creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] by a tentacle\
-    \ of the death kiss must make a DC 16 Constitution saving throw. On a failed save,\
-    \ the target takes dice: 4d10|avg (4d10) lightning damage, and the death kiss\
-    \ regains half as many hit points."
+- "desc": "One creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] by a\
+    \ tentacle of the death kiss must make a DC 16 Constitution saving throw. On a\
+    \ failed save, the target takes 22 (dice: 4d10|avg (4d10)) lightning damage,\
+    \ and the death kiss regains half as many hit points."
   "name": "Blood Drain"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/death-kiss.png"
+"image": "compendium/bestiary/aberration/token/death-kiss.png"
 ```
 ^statblock
 

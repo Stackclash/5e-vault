@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/swamp
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Black Dragon"]
 ---
 # Young Black Dragon
-*Source: Monster Manual p. 88, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 88. Available in the SRD.*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 
@@ -87,8 +86,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Young Black Dragon"
 "size": "Large"
@@ -104,38 +101,33 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "12"
 - !!int "11"
 - !!int "15"
-"speed": "walk 40 ft., fly 80 ft., swim 40 ft."
+"speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "6"
+  "Charisma": "+5"
+  "Dexterity": "+5"
+  "Wisdom": "+3"
+  "Constitution": "+6"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "6"
+  "Stealth": "+5"
+  "Perception": "+6"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
-    \ (1d8) acid damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) piercing damage plus 4 (dice:\
+    \ 1d8|avg (1d8)) acid damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
+- "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 14 Dexterity saving throw, taking 49 (dice: 11d8|avg\
     \ (11d8)) acid damage on a failed save, or half as much damage on a successful\
     \ one."
@@ -146,7 +138,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "TftYP"
 - "GoS"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-black-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-black-dragon.png"
 ```
 ^statblock
 

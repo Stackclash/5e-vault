@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Phantom Warrior (Archer)"]
 ---
 # Phantom Warrior (Archer)
 *Source: Curse of Strahd p. 142, Derived from Phantom Warrior (CoS)*  
@@ -25,10 +24,10 @@ statblock: inline
 - !!int "8"
 - !!int "10"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  "Stealth": "+4"
+  "Perception": "+2"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
@@ -37,39 +36,32 @@ statblock: inline
 "languages": "any languages it knew in life"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
+- "desc": "The phantom warrior can see 60 feet into the Ethereal Plane when it is\
     \ on the Material Plane, and vice versa."
   "name": "Ethereal Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage\
+- "desc": "The phantom warrior can move through other creatures and objects as if\
+    \ they were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
     \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
+- "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
   "name": "Spectral Armor and Shield"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior makes two attacks with its spectral longsword or spectral\
+- "desc": "The phantom warrior makes two attacks with its spectral longsword or spectral\
     \ longbow."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) force damage."
   "name": "Spectral Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
+- "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
     \ or vice versa. It is visible on the Material Plane while it is in the Border\
     \ Ethereal, and vice versa, yet it can't affect or be affected by anything on\
     \ the other plane."
   "name": "Etherealness"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8|avg (1d8) force damage."
+- "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 150/600 ft., one\
+    \ target. Hit: 4 (dice: 1d8|avg (1d8)) force damage."
   "name": "Spectral Longbow"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/phantom-warrior-archer.png"
+"image": "compendium/bestiary/undead/token/phantom-warrior-archer.png"
 ```
 ^statblock

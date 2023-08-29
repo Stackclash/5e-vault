@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/humanoid/gith
-statblock: inline
+aliases: ["Githyanki Knight"]
 ---
 # Githyanki Knight
-*Source: Monster Manual p. 160, Waterdeep: Dungeon of the Mad Mage, Light of Xaryxis*  
+*Source: Monster Manual p. 160*  
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
 
@@ -26,7 +25,7 @@ Of all their enemies, the githyanki most hate their former masters, the mind fla
 
 In ancient times, gith knights created special weapons to combat their mind flayer masters.
 
-These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [[Greatsword|greatsword]], and takes on the properties of a +3 greatsword in the hands of its creator.
+These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [[5. Mechanics\Items\Greatsword.md|greatsword]], and takes on the properties of a +3 greatsword in the hands of its creator.
 
 In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
 
@@ -40,20 +39,18 @@ Since creatures that dwell on the Astral Plane don't age, the githyanki establis
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[Mind Flayer|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[Mind Flayer|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote]- A quote from Aristul the Yellow, master of planar lore  
 > 
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
 
-
-## Stat Block
 
 ```statblock
 "name": "Githyanki Knight"
@@ -71,33 +68,30 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - !!int "14"
 - !!int "14"
 - !!int "15"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "5"
-  "Constitution": !!int "5"
+  "Wisdom": "+5"
+  "Intelligence": "+5"
+  "Constitution": "+5"
 "senses": "passive Perception 12"
 "languages": "Gith"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The githyanki's innate spellcasting ability is Intelligence (spell save\
+- "desc": "The githyanki's innate spellcasting ability is Intelligence (spell save\
     \ DC 13, dice: d20+5 (+5 to hit) with spell attacks). It can innately cast the\
-    \ following spells, requiring no components:\n\nAt will: [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[/5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n3/day each: [[/5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[/5. Mechanics/Spells/Misty Step.md|misty step]], [[/5. Mechanics/Spells/Nondetection.md|nondetection]]\
-    \ (self only), [[/5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ following spells, requiring no components:\n\nAt will: [[5. Mechanics\Spells\Mage Hand.md|mage hand]]\
+    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics\Spells\Plane Shift.md|plane shift]],\
+    \ [[5. Mechanics\Spells\Telekinesis.md|telekinesis]]\n\n3/day each: [[5. Mechanics\Spells\Jump.md|jump]],\
+    \ [[5. Mechanics\Spells\Misty Step.md|misty step]], [[5. Mechanics\Spells\Nondetection.md|nondetection]]\
+    \ (self only), [[5. Mechanics\Spells\Tongues.md|tongues]]"
   "name": "innate"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The githyanki makes two silver greatsword attacks."
+- "desc": "The githyanki makes two silver greatsword attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage plus dice: 3d6|avg (3d6)\
-    \ psychic damage. This is a magic weapon attack. On a critical hit against a target\
-    \ in an astral body (as with the [[/5. Mechanics/Spells/Astral Projection.md|astral projection]]\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage plus 10 (dice:\
+    \ 3d6|avg (3d6)) psychic damage. This is a magic weapon attack. On a critical\
+    \ hit against a target in an astral body (as with the [[5. Mechanics\Spells\Astral Projection.md|astral projection]]\
     \ spell), the githyanki can cut the silvery cord that tethers the target to its\
     \ material body, instead of dealing damage."
   "name": "Silver Greatsword"
@@ -105,6 +99,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "MM"
 - "WDMM"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Humanoid/token/githyanki-knight.png"
+"image": "compendium/bestiary/humanoid/token/githyanki-knight.png"
 ```
 ^statblock

@@ -15,4 +15,4 @@ aliases: ["Shield"]
 
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
-*Source: Player's Handbook p. 144*
+*Source: Player's Handbook p. 144. Available in the SRD and the Basic Rules.*

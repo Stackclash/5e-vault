@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend/demon
-statblock: inline
+aliases: ["Draegloth"]
 ---
 # Draegloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[Glabrezu|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics\Bestiary\Fiend\Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -24,7 +23,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
 "hp": !!int "123"
 "hit_dice": "13d10 + 52"
@@ -35,10 +34,10 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 - !!int "13"
 - !!int "11"
 - !!int "11"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  "Stealth": "+5"
+  "Perception": "+3"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
@@ -46,32 +45,27 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The draegloth casts one of the following spells, requiring no material\
+- "desc": "The draegloth casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-    \nAt will: [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Darkness.md|darkness]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Confusion.md|confusion]], [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
+    \nAt will: [[5. Mechanics\Spells\Dancing Lights.md|dancing lights]], [[5. Mechanics\Spells\Darkness.md|darkness]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Confusion.md|confusion]], [[5. Mechanics\Spells\Faerie Fire.md|faerie fire]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The draegloth has advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The draegloth has advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]],\
     \ and magic can't put it to sleep."
   "name": "Fey Ancestry"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The draegloth makes one Bite attack and two Claw attacks."
+- "desc": "The draegloth makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
+    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/fiend/token/draegloth.png"
+"image": "compendium/bestiary/fiend/token/draegloth.png"
 ```
 ^statblock
 

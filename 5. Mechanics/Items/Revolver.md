@@ -14,7 +14,7 @@ aliases: ["Revolver"]
 
 - **Damage**: 2d8 P
 - **Range**: 40/120
-- **Properties**: [Ammunition (Firearm)](compendium/rules/item-properties.md#Ammunition%20(Firearm)), [[5. Mechanics/Rules/Item Properties.md#Martial|Martial]], [[5. Mechanics/Rules/Item Properties.md#Reload|Reload]]
+- **Properties**: [[\5. Mechanics\Rules\Item Properties.md#Ammunition%20|"(Firearm"]]), Martial, [[\5. Mechanics\Rules\Item Properties.md#Reload|Reload]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 

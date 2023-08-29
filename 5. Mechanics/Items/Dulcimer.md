@@ -12,4 +12,4 @@ aliases: ["Dulcimer"]
 - **Cost**: 25 gp
 - **Weight**: 10.0 lbs.
 
-*Source: Player's Handbook p. 154*
+*Source: Player's Handbook p. 154. Available in the SRD and the Basic Rules.*

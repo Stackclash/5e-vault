@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/beast
-statblock: inline
+aliases: ["Swarm of Maggots"]
 ---
 # Swarm of Maggots
 *Source: Van Richten's Guide to Ravenloft p. 247*  
@@ -37,7 +36,7 @@ Base creatures are among the first to respond to sinister forces at work in a la
 - !!int "1"
 - !!int "7"
 - !!int "1"
-"speed": "walk 20 ft., swim 20 ft."
+"speed": "20 ft., swim 20 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
   \ restrained, stunned"
@@ -45,20 +44,18 @@ Base creatures are among the first to respond to sinister forces at work in a la
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
+- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
     \ can move through any opening large enough for a Tiny maggot. The swarm can't\
     \ regain hit points or gain temporary hit points."
   "name": "Swarm"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: dice: 4d4|avg (4d4) piercing damage, or 5 (dice:\
-    \ 2d4|avg (2d4)) piercing damage if the swarm has half of its hit points or\
-    \ fewer. A creature damaged by the swarm must succeed on a DC 12 Constitution\
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 0 ft., one target\
+    \ in the swarm's space. Hit: 10 (dice: 4d4|avg (4d4)) piercing damage, or\
+    \ 5 (dice: 2d4|avg (2d4)) piercing damage if the swarm has half of its hit\
+    \ points or fewer. A creature damaged by the swarm must succeed on a DC 12 Constitution\
     \ saving throw or contract a disease.\n\nEach time the diseased creature finishes\
     \ a long rest, roll a dice: d6|avg (d6) to determine the disease's effect:\n\
-    \n- 1-2. The creature is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \n- 1-2. The creature is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ until it finishes a long rest.  \n- 3-4. The creature's hit point maximum\
     \ decreases by 5 (dice: 2d4|avg (2d4)), and the reduction can't be removed\
     \ until the disease ends. The creature dies if its hit point maximum drops to\
@@ -69,6 +66,6 @@ Base creatures are among the first to respond to sinister forces at work in a la
   "name": "Infestation"
 "source":
 - "VRGR"
-"image": "5. Mechanics/Bestiary/Beast/token/swarm-of-maggots.png"
+"image": "compendium/bestiary/beast/token/swarm-of-maggots.png"
 ```
 ^statblock

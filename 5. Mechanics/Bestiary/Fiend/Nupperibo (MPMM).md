@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/size/medium
 - monster/type/fiend/devil
-statblock: inline
+aliases: ["Nupperibo"]
 ---
 # Nupperibo
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
@@ -20,7 +19,7 @@ statblock: inline
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [[Stirge|stirges]], and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [[5. Mechanics\Bestiary\Beast\Stirge.md|stirges]], and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -31,7 +30,7 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "13"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
@@ -42,9 +41,9 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 - !!int "3"
 - !!int "8"
 - !!int "1"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  "Perception": "+1"
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "blinded, charmed, frightened, poisoned"
@@ -52,25 +51,22 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Any creature, other than a devil, that starts its turn within 20 feet of\
+- "desc": "Any creature, other than a devil, that starts its turn within 20 feet of\
     \ one or more nupperibos must succeed on a DC 11 Constitution saving throw or\
-    \ take dice: 2d4|avg (2d4) acid damage. A creature within the areas of two\
-    \ or more nupperibos makes the saving throw with disadvantage."
+    \ take 5 (dice: 2d4|avg (2d4)) acid damage. A creature within the areas of\
+    \ two or more nupperibos makes the saving throw with disadvantage."
   "name": "Cloud of Vermin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In the Nine Hells, the nupperibo can flawlessly track any creature that\
+- "desc": "In the Nine Hells, the nupperibo can flawlessly track any creature that\
     \ has taken damage from any nupperibo's Cloud of Vermin within the previous 24\
     \ hours."
   "name": "Driven Tracker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"
 - "MTF"
-"image": "/compendium/bestiary/fiend/token/nupperibo.png"
+"image": "compendium/bestiary/fiend/token/nupperibo.png"
 ```
 ^statblock

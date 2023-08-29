@@ -8,9 +8,9 @@ aliases: ["Charlatan"]
 # Charlatan
 *Source: Player's Handbook p. 128*  
 
-- **Skill Proficiencies.** [[Skills#Deception|Deception]], [[Skills#Sleight%20of%20Hand|Sleight of Hand]]  
-- **Tool Proficiencies.** [[Disguise Kit|Disguise kit]], [[Forgery Kit|Forgery kit]]  
-- **Equipment.** A set of [[Fine Clothes|fine clothes]], a [[Disguise Kit|disguise kit]], tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [[Pouch|pouch]] containing 15 gp  
+- **Skill Proficiencies.** [[\5. Mechanics\Rules\Skills.md#Deception|Deception]], [[\5. Mechanics\Rules\Skills.md#Sleight%20of%20Hand|Sleight of Hand]]  
+- **Tool Proficiencies.** [[5. Mechanics\Items\Disguise Kit.md|Disguise kit]], [[5. Mechanics\Items\Forgery Kit.md|Forgery kit]]  
+- **Equipment.** A set of [[5. Mechanics\Items\Fine Clothes.md|fine clothes]], a [[5. Mechanics\Items\Disguise Kit.md|disguise kit]], tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [[5. Mechanics\Items\Pouch.md|pouch]] containing 15 gp  
 
 You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage
 

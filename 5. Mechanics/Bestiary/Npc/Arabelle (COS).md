@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
@@ -12,7 +11,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
-statblock: inline
+aliases: ["Arabelle"]
 ---
 # Arabelle
 *Source: Curse of Strahd p. 38, Derived from Commoner (MM)*  
@@ -33,13 +32,13 @@ statblock: inline
 - !!int "10"
 - !!int "10"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/arabelle.png"
+"image": "compendium/bestiary/npc/token/arabelle.png"
 ```
 ^statblock
 

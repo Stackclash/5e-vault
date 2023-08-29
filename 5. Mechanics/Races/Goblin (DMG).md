@@ -10,7 +10,7 @@ aliases: ["Goblin (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Strength -2, Dexterity +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small
 - **Speed**: 30 ft.
 
@@ -18,7 +18,7 @@ aliases: ["Goblin (DMG)"]
 
 ### Nimble Escape
 
-You can take the Disengage or Hide action as a bonus action on each of your turns.
+You can take the [[\5. Mechanics\Rules\Actions.md#Disengage|Disengage]] or [[\5. Mechanics\Rules\Actions.md#Hide|Hide]] action as a bonus action on each of your turns.
 
 ### Darkvision
 

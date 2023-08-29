@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Efreeti"]
 ---
 # Efreeti
-*Source: Monster Manual p. 145, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 145. Available in the SRD.*  
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 
@@ -63,8 +62,6 @@ Noble genies are the rarest of their kind. They are used to getting what they wa
 
 Genies acknowledge the gods as powerful entities but have no desire to court or worship them. They find the endless fawning and mewling of religious devotees tiresome-except as it is directed toward them by their worshipful slaves.
 
-## Stat Block
-
 ```statblock
 "name": "Efreeti"
 "size": "Large"
@@ -80,43 +77,38 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - !!int "16"
 - !!int "15"
 - !!int "16"
-"speed": "walk 40 ft., fly 60 ft."
+"speed": "40 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  "Charisma": "+7"
+  "Wisdom": "+6"
+  "Intelligence": "+7"
 "damage_immunities": "fire"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Ignan"
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC 15,\
+- "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC 15,\
     \ dice: d20+7 (+7 to hit) with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
-    \ ([[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only), [gaseous\
-    \ form](/compendium/spells/gaseous-form.md), [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n3/day each: [enlarge/reduce](/compendium/spells/enlarge-reduce.md),\
-    \ [[/5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Conjure Elemental.md|conjure elemental]]\
+    \ ([[5. Mechanics\Bestiary\Elemental\Fire Elemental.md|fire elemental]] only), [gaseous\
+    \ form](compendium/spells/gaseous-form.md), [[5. Mechanics\Spells\Invisibility.md|invisibility]],\
+    \ [[5. Mechanics\Spells\Major Image.md|major image]], [[5. Mechanics\Spells\Plane Shift.md|plane shift]],\
+    \ [[5. Mechanics\Spells\Wall Of Fire.md|wall of fire]]\n\n3/day each: [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
+    \ [[5. Mechanics\Spells\Tongues.md|tongues]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the efreeti dies, its body disintegrates in a flash of fire and puff\
+- "desc": "If the efreeti dies, its body disintegrates in a flash of fire and puff\
     \ of smoke, leaving behind only equipment the efreeti was wearing or carrying."
   "name": "Elemental Demise"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The efreeti makes two scimitar attacks or uses its Hurl Flame twice."
+- "desc": "The efreeti makes two scimitar attacks or uses its Hurl Flame twice."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage plus dice: 2d6|avg (2d6)\
-    \ fire damage."
+- "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) fire damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: dice: 5d6|avg (5d6) fire damage."
+- "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
+    \ Hit: 17 (dice: 5d6|avg (5d6)) fire damage."
   "name": "Hurl Flame"
 "source":
 - "MM"
@@ -128,7 +120,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "TCE"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Elemental/token/efreeti.png"
+"image": "compendium/bestiary/elemental/token/efreeti.png"
 ```
 ^statblock
 

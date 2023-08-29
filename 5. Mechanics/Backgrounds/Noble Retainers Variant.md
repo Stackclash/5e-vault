@@ -8,10 +8,10 @@ aliases: ["Noble (Retainers) (Variant)"]
 # Noble (Retainers) (Variant)
 *Source: Player's Handbook p. 136, Derived from Noble (PHB)*  
 
-- **Skill Proficiencies.** [[Skills#History|History]], [[Skills#Persuasion|Persuasion]]  
+- **Skill Proficiencies.** [[\5. Mechanics\Rules\Skills.md#History|History]], [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [[Fine Clothes|fine clothes]], a [[Signet Ring|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [[5. Mechanics\Items\Fine Clothes.md|fine clothes]], a [[5. Mechanics\Items\Signet Ring.md|signet ring]], a scroll of pedigree, and a purse containing 25 gp  
 
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 
@@ -27,7 +27,7 @@ These details help establish your family and your title as features of the world
 
 ## Feature: Retainers
 
-You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused
+You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
 
 ## Suggested Characteristics
 

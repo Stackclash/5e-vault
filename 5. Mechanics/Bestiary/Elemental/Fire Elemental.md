@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/desert
 - monster/size/large
 - monster/type/elemental
-statblock: inline
+aliases: ["Fire Elemental"]
 ---
 # Fire Elemental
-*Source: Monster Manual p. 125, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Infernal Machine Rebuild, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 125. Available in the SRD and the Basic Rules.*  
 
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
 
@@ -33,8 +32,6 @@ Powerful magic can bind an elemental spirit into a material template that define
 
 An elemental doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Fire Elemental"
 "size": "Large"
@@ -50,7 +47,7 @@ An elemental doesn't require air, food, drink, or sleep.
 - !!int "6"
 - !!int "10"
 - !!int "7"
-"speed": "walk 50 ft."
+"speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
 "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
@@ -59,34 +56,29 @@ An elemental doesn't require air, food, drink, or sleep.
 "languages": "Ignan"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental can move through a space as narrow as 1 inch wide without\
+- "desc": "The elemental can move through a space as narrow as 1 inch wide without\
     \ squeezing. A creature that touches the elemental or hits it with a melee attack\
-    \ while within 5 feet of it takes dice: 1d10|avg (1d10) fire damage. In addition,\
-    \ the elemental can enter a hostile creature's space and stop there. The first\
-    \ time it enters a creature's space on a turn, that creature takes dice: 1d10|avg\
-    \ (1d10) fire damage and catches fire; until someone takes an action to douse\
-    \ the fire, the creature takes dice: 1d10|avg (1d10) fire damage at the start\
-    \ of each of its turns."
+    \ while within 5 feet of it takes 5 (dice: 1d10|avg (1d10)) fire damage. In\
+    \ addition, the elemental can enter a hostile creature's space and stop there.\
+    \ The first time it enters a creature's space on a turn, that creature takes 5\
+    \ (dice: 1d10|avg (1d10)) fire damage and catches fire; until someone takes\
+    \ an action to douse the fire, the creature takes 5 (dice: 1d10|avg (1d10))\
+    \ fire damage at the start of each of its turns."
   "name": "Fire Form"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental sheds bright light in a 30-foot radius and dim light in an\
+- "desc": "The elemental sheds bright light in a 30-foot radius and dim light in an\
     \ additional 30 feet."
   "name": "Illumination"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "For every 5 feet the elemental moves in water, or for every gallon of water\
+- "desc": "For every 5 feet the elemental moves in water, or for every gallon of water\
     \ splashed on it, it takes 1 cold damage."
   "name": "Water Susceptibility"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elemental makes two touch attacks."
+- "desc": "The elemental makes two touch attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) fire damage. If the target is a creature\
-    \ or a flammable object, it ignites. Until a creature takes an action to douse\
-    \ the fire, the target takes dice: 1d10|avg (1d10) fire damage at the start\
-    \ of each of its turns."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) fire damage. If the target is a\
+    \ creature or a flammable object, it ignites. Until a creature takes an action\
+    \ to douse the fire, the target takes 5 (dice: 1d10|avg (1d10)) fire damage\
+    \ at the start of each of its turns."
   "name": "Touch"
 "source":
 - "MM"
@@ -102,7 +94,8 @@ An elemental doesn't require air, food, drink, or sleep.
 - "TCE"
 - "CM"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Elemental/token/fire-elemental.png"
+- "PSI"
+"image": "compendium/bestiary/elemental/token/fire-elemental.png"
 ```
 ^statblock
 

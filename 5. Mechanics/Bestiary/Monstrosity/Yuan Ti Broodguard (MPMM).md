@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Yuan-ti Broodguard"]
 ---
 # Yuan-ti Broodguard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*  
@@ -27,7 +26,7 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "name": "Yuan-ti Broodguard"
 "size": "Medium"
 "type": "monstrosity"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
@@ -38,40 +37,36 @@ Most broodguards are made from human captives forced to consume a magical brew t
 - !!int "6"
 - !!int "11"
 - !!int "4"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "2"
-  "Strength": !!int "4"
+  "Dexterity": "+4"
+  "Wisdom": "+2"
+  "Strength": "+4"
 "skillsaves":
-  "Perception": !!int "2"
+  "Perception": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, paralyzed, poisoned"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "At the start of its turn, the broodguard can gain advantage on all melee\
+- "desc": "At the start of its turn, the broodguard can gain advantage on all melee\
     \ weapon attack rolls it makes during that turn, but attack rolls against it have\
     \ advantage until the start of its next turn."
   "name": "Reckless"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The broodguard makes one Bite attack and two Claw attacks."
+- "desc": "The broodguard makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-broodguard.png"
+"image": "compendium/bestiary/monstrosity/token/yuan-ti-broodguard.png"
 ```
 ^statblock
 

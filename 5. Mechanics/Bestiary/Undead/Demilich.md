@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/undead
-statblock: inline
+aliases: ["Demilich"]
 ---
 # Demilich
-*Source: Monster Manual p. 48, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 48*  
 
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
 
@@ -38,7 +37,7 @@ Acererak or another demilich like him has a challenge rating of 21 (33,000 XP), 
 
 ### Trap Soul
 
-The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes `dice: 7d6` (`7d6`) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
+The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes 24 (`dice: 7d6` (`7d6`)) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
 
 If the demilich drops to 0 hit points, it is destroyed and turns to powder, leaving behind its gems. Crushing a gem releases any soul trapped within, at which point the target's body re-forms in an unoccupied space nearest to the gem and in the same state as when it was trapped.
 
@@ -46,8 +45,6 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 > 
 > I, Achererak the Eternal, beckon you to you rdoom. Come, foolish ones, plunger my treasures, if you dare! Others have tried. All have failed! From your skin, tapestries shall be woven, and your bones will carpet my tomb. Only I am beyond Death's reach. Only I know the secret to true immortality!
 
-
-## Stat Block
 
 ```statblock
 "name": "Demilich"
@@ -64,12 +61,12 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - !!int "20"
 - !!int "17"
 - !!int "20"
-"speed": "walk 0 ft., fly 30 ft. (hover)"
+"speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": !!int "11"
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "11"
-  "Constitution": !!int "6"
+  "Charisma": "+11"
+  "Wisdom": "+9"
+  "Intelligence": "+11"
+  "Constitution": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from magic weapons"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
@@ -79,51 +76,42 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 "languages": ""
 "cr": "18"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the demilich is subjected to an effect that allows it to make a saving\
+- "desc": "If the demilich is subjected to an effect that allows it to make a saving\
     \ throw to take only half damage, it instead takes no damage if it succeeds on\
     \ the saving throw, and only half damage if it fails."
   "name": "Avoidance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the demilich fails a saving throw, it can choose to succeed instead."
+- "desc": "If the demilich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demilich is immune to effects that turn undead."
+- "desc": "The demilich is immune to effects that turn undead."
   "name": "Turn Immunity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demilich emits a bloodcurdling howl. Each creature within 30 feet of\
+- "desc": "The demilich emits a bloodcurdling howl. Each creature within 30 feet of\
     \ the demilich that can hear the howl must succeed on a DC 15 Constitution saving\
-    \ throw or drop to 0 hit points. On a successful save, the creature is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ throw or drop to 0 hit points. On a successful save, the creature is [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ until the end of its next turn."
   "name": "Howl (Recharge 5-6)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demilich targets up to three creatures that it can see within 10 feet\
+- "desc": "The demilich targets up to three creatures that it can see within 10 feet\
     \ of it. Each target must succeed on a DC 19 Constitution saving throw or take\
-    \ dice: 6d6|avg (6d6) necrotic damage, and the demilich regains hit points\
+    \ 21 (dice: 6d6|avg (6d6)) necrotic damage, and the demilich regains hit points\
     \ equal to the total damage dealt to all targets."
   "name": "Life Drain"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demilich flies up to half its flying speed."
+- "desc": "The demilich flies up to half its flying speed."
   "name": "Flight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demilich magically swirls its dusty remains. Each creature within 10\
+- "desc": "The demilich magically swirls its dusty remains. Each creature within 10\
     \ feet of the demilich, including around a corner, must succeed on a DC 15 Constitution\
-    \ saving throw or be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the\
-    \ end of the demilich's next turn. A creature that succeeds on the saving throw\
-    \ is immune to this effect until the end of the demilich's next turn."
+    \ saving throw or be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] until\
+    \ the end of the demilich's next turn. A creature that succeeds on the saving\
+    \ throw is immune to this effect until the end of the demilich's next turn."
   "name": "Cloud of Dust"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
+- "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
     \ saving throw. On a failed save, the creature's hit point maximum is magically\
     \ reduced by 10 (dice: 3d6|avg (3d6)). If a creature's hit point maximum is\
     \ reduced to 0 by this effect, the creature dies. A creature's hit point maximum\
-    \ can be restored with the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ can be restored with the  [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
     \ spell or similar magic."
   "name": "Energy Drain (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The demilich targets one creature it can see within 30 feet of it. The\
+- "desc": "The demilich targets one creature it can see within 30 feet of it. The\
     \ target must succeed on a DC 15 Wisdom saving throw or be magically cursed. Until\
     \ the curse ends, the target has disadvantage on attack rolls and saving throws.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
@@ -137,6 +125,6 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - "EGW"
 - "IDRotF"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Undead/token/demilich.png"
+"image": "compendium/bestiary/undead/token/demilich.png"
 ```
 ^statblock

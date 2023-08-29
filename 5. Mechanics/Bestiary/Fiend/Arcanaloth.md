@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/yugoloth
-statblock: inline
+aliases: ["Arcanaloth"]
 ---
 # Arcanaloth
-*Source: Monster Manual p. 313, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault*  
+*Source: Monster Manual p. 313, Curse of Strahd*  
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
 
@@ -16,7 +15,7 @@ Arcanaloths speak and write all languages, making them cunning diplomats and neg
 
 ## Yugoloths
 
-Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: _What's in it for me?_
+Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: *What's in it for me?*
 
 ### Spawn of Gehenna
 
@@ -65,8 +64,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > Power. We all crave it, but only a select few of us deserve it.
 
 
-## Stat Block
-
 ```statblock
 "name": "Arcanaloth"
 "size": "Medium"
@@ -83,17 +80,17 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "20"
 - !!int "16"
 - !!int "17"
-"speed": "walk 30 ft., fly 30 ft."
+"speed": "30 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "9"
+  "Charisma": "+7"
+  "Dexterity": "+5"
+  "Wisdom": "+7"
+  "Intelligence": "+9"
 "skillsaves":
-  "Deception": !!int "11"
-  "Insight": !!int "11"
-  "Perception": !!int "7"
-  "Arcana": !!int "13"
+  "Deception": "+11"
+  "Insight": "+11"
+  "Perception": "+7"
+  "Arcana": "+13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -102,50 +99,44 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "languages": "all, telepathy 120 ft."
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save DC\
+- "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save DC\
     \ 15). The arcanaloth can innately cast the following spells, requiring no material\
-    \ components:\n\nAt will: [[/5. Mechanics/Spells/Alter Self.md|alter self]],\
-    \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
-    \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]"
+    \ components:\n\nAt will: [[5. Mechanics\Spells\Alter Self.md|alter self]], [[5. Mechanics\Spells\Darkness.md|darkness]],\
+    \ [[5. Mechanics\Spells\Heat Metal.md|heat metal]], [[5. Mechanics\Spells\Invisibility.md|invisibility]]\
+    \ (self only), [[5. Mechanics\Spells\Magic Missile.md|magic missile]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
+- "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks).\
     \ The arcanaloth has the following wizard spells prepared:\n\nCantrips (at will):\
-    \ [[/5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Identify.md|identify]], [[/5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[/5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\n2nd\
-    \ level (3 2nd-level slots): [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[/5. Mechanics/Spells/Mirror Image.md|mirror image]], [[/5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
-    \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 3rd-level slots):\
-    \ [[/5. Mechanics/Spells/Counterspell.md|counterspell]], [[/5. Mechanics/Spells/Fear.md|fear]],\
-    \ [[/5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
-    \ [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
-    \n5th level (2 5th-level slots): [[/5. Mechanics/Spells/Contact Other Plane.md|contact other plane]],\
-    \ [[/5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n6th level (1 6th-level\
-    \ slots): [[/5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\n7th\
-    \ level (1 7th-level slots): [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
-    \n8th level (1 8th-level slots): [[/5. Mechanics/Spells/Mind Blank.md|mind blank]]"
+    \ [[5. Mechanics\Spells\Fire Bolt.md|fire bolt]], [[5. Mechanics\Spells\Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Identify.md|identify]], [[5. Mechanics\Spells\Shield.md|shield]],\
+    \ [[5. Mechanics\Spells\Tensers Floating Disk.md|Tenser's floating disk]]\n\n2nd\
+    \ level (3 2nd-level slots): [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics\Spells\Mirror Image.md|mirror image]], [[5. Mechanics\Spells\Phantasmal Force.md|phantasmal force]],\
+    \ [[5. Mechanics\Spells\Suggestion.md|suggestion]]\n\n3rd level (3 3rd-level slots):\
+    \ [[5. Mechanics\Spells\Counterspell.md|counterspell]], [[5. Mechanics\Spells\Fear.md|fear]],\
+    \ [[5. Mechanics\Spells\Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
+    \ [[5. Mechanics\Spells\Banishment.md|banishment]], [[5. Mechanics\Spells\Dimension Door.md|dimension door]]\n\
+    \n5th level (2 5th-level slots): [[5. Mechanics\Spells\Contact Other Plane.md|contact other plane]],\
+    \ [[5. Mechanics\Spells\Hold Monster.md|hold monster]]\n\n6th level (1 6th-level\
+    \ slots): [[5. Mechanics\Spells\Chain Lightning.md|chain lightning]]\n\n7th level\
+    \ (1 7th-level slots): [[5. Mechanics\Spells\Finger Of Death.md|finger of death]]\n\
+    \n8th level (1 8th-level slots): [[5. Mechanics\Spells\Mind Blank.md|mind blank]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The arcanaloth has advantage on saving throws against spells and other\
+- "desc": "The arcanaloth has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The arcanaloth's weapon attacks are magical."
+- "desc": "The arcanaloth's weapon attacks are magical."
   "name": "Magic Weapons"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. The target must make a\
-    \ DC 14 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6)) poison\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) slashing damage. The target must\
+    \ make a DC 14 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Claws"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The arcanaloth magically teleports, along with any equipment it is wearing\
+- "desc": "The arcanaloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."
   "name": "Teleport"
 "source":
@@ -157,6 +148,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "IDRotF"
 - "TCE"
 - "KftGV"
-"image": "/compendium/bestiary/fiend/token/arcanaloth.png"
+- "PSI"
+"image": "compendium/bestiary/fiend/token/arcanaloth.png"
 ```
 ^statblock

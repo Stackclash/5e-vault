@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vgm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc Blade of Ilneval"]
 ---
 # Orc Blade of Ilneval
 *Source: Volo's Guide to Monsters p. 183*  
@@ -26,8 +25,6 @@ In addition, orcs have special relationships with two creatures that are sometim
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
 
 The wisest among these leaders gain Ilneval's favor and rise to become known as blades, tactical experts who advise their chief in matters of war. Blades lead from the front, wading into combat fearlessly while barking orders at lesser soldiers. A blade knows how to use orcish ferocity to best advantage, and helps the ordinary warriors to work together against their adversaries.
-
-## Stat Block
 
 ```statblock
 "name": "Orc Blade of Ilneval"
@@ -45,48 +42,42 @@ The wisest among these leaders gain Ilneval's favor and rise to become known as 
 - !!int "10"
 - !!int "12"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "3"
+  "Wisdom": "+3"
 "skillsaves":
-  "Intimidation": !!int "4"
-  "Insight": !!int "3"
-  "Perception": !!int "3"
+  "Intimidation": "+4"
+  "Insight": "+3"
+  "Perception": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc deals an extra die of damage when it hits with a longsword attack\
+- "desc": "The orc deals an extra die of damage when it hits with a longsword attack\
     \ (included in the attack)."
   "name": "Foe Smiter of Ilneval"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc makes two melee attacks with its longsword or two ranged attacks\
+- "desc": "The orc makes two melee attacks with its longsword or two ranged attacks\
     \ with its javelins. If Ilneval's Command is available to use, the orc can use\
     \ it after these attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage, or 14 (dice: 2d10 + 3|avg\
-    \ (2d10 + 3)) slashing damage when used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) slashing damage, or 14 (dice: 2d10\
+    \ + 3|avg (2d10 + 3)) slashing damage when used with two hands."
   "name": "Longsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
-    \ damage."
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
+    \ or range 30/120 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3))\
+    \ piercing damage."
   "name": "Javelin"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Up to three allied orcs within 120 feet of this orc that can hear it can\
+- "desc": "Up to three allied orcs within 120 feet of this orc that can hear it can\
     \ use their reactions to each make one weapon attack."
   "name": "Ilneval's Command (Recharge 4-6)"
 "source":
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-blade-of-ilneval.png"
+"image": "compendium/bestiary/humanoid/token/orc-blade-of-ilneval.png"
 ```
 ^statblock
 

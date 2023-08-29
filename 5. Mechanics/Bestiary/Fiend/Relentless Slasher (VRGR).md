@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
 - monster/size/medium
 - monster/type/fiend
-statblock: inline
+aliases: ["Relentless Slasher"]
 ---
 # Relentless Slasher
 *Source: Van Richten's Guide to Ravenloft p. 242*  
@@ -44,8 +43,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 | 8 | Trophy Taker. The killer reliably collects something from its victims, hoarding them as trophies. |
 ^relentless-methods
 
-## Stat Block
-
 ```statblock
 "name": "Relentless Slasher"
 "size": "Medium"
@@ -61,56 +58,50 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 - !!int "14"
 - !!int "15"
 - !!int "16"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "5"
-  "Strength": !!int "4"
-  "Constitution": !!int "5"
+  "Dexterity": "+7"
+  "Wisdom": "+5"
+  "Strength": "+4"
+  "Constitution": "+5"
 "skillsaves":
-  "Athletics": !!int "7"
-  "Perception": !!int "5"
-  "Survival": !!int "5"
+  "Athletics": "+7"
+  "Perception": "+5"
+  "Survival": "+5"
 "condition_immunities": "charmed, frightened"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "understands all languages but can't speak"
 "cr": "8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the slasher fails a saving throw, it can choose to succeed instead."
+- "desc": "If the slasher fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (1/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The slasher is immune to any effect that would sense its emotions or read\
+- "desc": "The slasher is immune to any effect that would sense its emotions or read\
     \ its thoughts, and it can't be detected by abilities that sense Fiends."
   "name": "Shrouded Presence"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The slasher makes two Slasher's Knife attacks."
+- "desc": "The slasher makes two Slasher's Knife attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing\
-    \ damage plus dice: 6d6|avg (6d6) necrotic damage. If the target is a creature,\
-    \ it suffers a lingering wound that causes it to take dice: 2d6|avg (2d6)\
-    \ necrotic damage at the start of each of its turns. Each time the slasher hits\
-    \ the wounded target with this attack, the damage dealt by the wound increases\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) slashing\
+    \ damage plus 21 (dice: 6d6|avg (6d6)) necrotic damage. If the target is a\
+    \ creature, it suffers a lingering wound that causes it to take 7 (dice: 2d6|avg\
+    \ (2d6)) necrotic damage at the start of each of its turns. Each time the slasher\
+    \ hits the wounded target with this attack, the damage dealt by the wound increases\
     \ by 3 (dice: 1d6|avg (1d6)). The wound ends if the target regains hit points\
     \ or if a creature uses an action to stanch the wound, which requires a successful\
     \ DC 15 Wisdom (Medicine) check."
   "name": "Slasher's Knife"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing\
+- "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
+    \ or range 30/60 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing\
     \ damage."
   "name": "Slice"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\
+- "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\
     \ misses, the slasher can teleport up to 30 feet to an unoccupied space it can\
     \ see."
   "name": "Vanishing Strike (Costs 3 Actions)"
 "source":
 - "VRGR"
-"image": "/compendium/bestiary/fiend/token/relentless-slasher.png"
+"image": "compendium/bestiary/fiend/token/relentless-slasher.png"
 ```
 ^statblock

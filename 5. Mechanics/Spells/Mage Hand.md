@@ -3,10 +3,8 @@ obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
-- spell/class/artificer
 - spell/class/bard
 - spell/class/fighter/eldritch-knight
-- spell/class/ranger/swarmkeeper
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer
 - spell/class/warlock
@@ -16,6 +14,7 @@ tags:
 aliases: ["Mage Hand"]
 ---
 # Mage Hand
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Conjuration*  
 
 - **Casting time:** 1 action
@@ -29,6 +28,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-**Classes**: [[/5. Mechanics/Classes/Artificer (TCE).md|Artificer]], [[/5. Mechanics/Classes/Bard.md|Bard]], [[/5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[/5. Mechanics/Classes/Ranger Swarmkeeper (TCE).md|Ranger (Swarmkeeper)]], [[/5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[/5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[/5. Mechanics/Classes/Warlock.md|Warlock]], [[/5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics\Classes\Bard.md|Bard]], [[5. Mechanics\Classes\Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics\Classes\Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics\Classes\Sorcerer.md|Sorcerer]], [[5. Mechanics\Classes\Warlock.md|Warlock]], [[5. Mechanics\Classes\Wizard.md|Wizard]]
 
-Source: Player's Handbook p. 256
+*Source: Player's Handbook p. 256. Available in the SRD and the Basic Rules.*

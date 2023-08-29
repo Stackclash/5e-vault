@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
+aliases: ["Star Spawn Larva Mage"]
 ---
 # Star Spawn Larva Mage
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
@@ -37,13 +36,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tharizdun, the Chained God  
 - Cult of Tyranthraxus, the Flamed One  
 
-## Stat Block
-
 ```statblock
 "name": "Star Spawn Larva Mage"
 "size": "Medium"
 "type": "aberration"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
 "hp": !!int "168"
 "hit_dice": "16d8 + 96"
@@ -54,13 +51,13 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "18"
 - !!int "12"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "6"
+  "Charisma": "+8"
+  "Dexterity": "+6"
+  "Wisdom": "+6"
 "skillsaves":
-  "Perception": !!int "6"
+  "Perception": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
 "condition_immunities": "charmed, frightened, paralyzed, petrified, poisoned, restrained"
@@ -68,62 +65,52 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "languages": "Deep Speech"
 "cr": "16"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mage casts one of the following spells, requiring no material components\
+- "desc": "The mage casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
-    \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day: [dominate\
-    \ monster](/compendium/spells/dominate-monster.md)"
+    \ [[5. Mechanics\Spells\Mage Hand.md|mage hand]], [[5. Mechanics\Spells\Message.md|message]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]]\n\n1/day: [dominate\
+    \ monster](compendium/spells/dominate-monster.md)"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-    \ of insects](/compendium/bestiary/beast/swarm-of-insects.md) in the same space.\
+- "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
+    \ of insects](compendium/bestiary/beast/swarm-of-insects.md) in the same space.\
     \ Unless the swarm is destroyed, the mage reforms from it 24 hours later."
   "name": "Return to Worms"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mage makes three Slam or Eldritch Bolt attacks."
+- "desc": "The mage makes three Slam or Eldritch Bolt attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage, and the target must\
-    \ succeed on a DC 19 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) bludgeoning damage, and the target\
+    \ must succeed on a DC 19 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
     \ until the end of its next turn."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+8 (+8 to hit), range 60 ft., one target.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) force damage."
+- "desc": "Ranged Spell Attack: dice: d20+8 (+8 to hit), range 60 ft., one target.\
+    \ Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3)) force damage."
   "name": "Eldritch Bolt"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature other than a star spawn within 10 feet of the mage must succeed\
-    \ on a DC 19 Dexterity saving throw or take dice: 5d8|avg (5d8) necrotic damage\
-    \ and be [[5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by masses of swarming worms. The affected creature takes dice: 5d8|avg (5d8)\
-    \ necrotic damage at the start of each of the mage's turns. The creature can repeat\
-    \ the saving throw at the end of each of its turns, ending the effect on itself\
-    \ on a success."
+- "desc": "Each creature other than a star spawn within 10 feet of the mage must succeed\
+    \ on a DC 19 Dexterity saving throw or take 22 (dice: 5d8|avg (5d8)) necrotic\
+    \ damage and be [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]] and [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by masses of swarming worms. The affected creature takes 22 (dice: 5d8|avg\
+    \ (5d8)) necrotic damage at the start of each of the mage's turns. The creature\
+    \ can repeat the saving throw at the end of each of its turns, ending the effect\
+    \ on itself on a success."
   "name": "Plague of Worms (Recharge 6)"
 "reactions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When a creature within 20 feet of the mage fails a saving throw, the mage\
+- "desc": "When a creature within 20 feet of the mage fails a saving throw, the mage\
     \ gains 10 temporary hit points."
   "name": "Feed on Weakness"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mage makes one Slam attack."
+- "desc": "The mage makes one Slam attack."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mage makes one Eldritch Bolt attack."
+- "desc": "The mage makes one Eldritch Bolt attack."
   "name": "Eldritch Bolt (Costs 2 Actions)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each creature [[5. Mechanics/Rules/Conditions.md#restrained|restrained]] by\
-    \ the mage's Plague of Worms takes dice: 3d8|avg (3d8) necrotic damage, and\
-    \ the mage gains 6 temporary hit points."
+- "desc": "Each creature [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]]\
+    \ by the mage's Plague of Worms takes 13 (dice: 3d8|avg (3d8)) necrotic damage,\
+    \ and the mage gains 6 temporary hit points."
   "name": "Feed (Costs 3 Actions)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-larva-mage.png"
+"image": "compendium/bestiary/aberration/token/star-spawn-larva-mage.png"
 ```
 ^statblock
 

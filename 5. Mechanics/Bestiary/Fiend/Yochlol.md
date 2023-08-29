@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/fiend/demon
 - monster/type/fiend/shapechanger
-statblock: inline
+aliases: ["Yochlol"]
 ---
 # Yochlol
-*Source: Monster Manual p. 65, Waterdeep: Dungeon of the Mad Mage, Explorer's Guide to Wildemount, Critical Role: Call of the Netherdeep*  
+*Source: Monster Manual p. 65*  
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
 
@@ -155,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[Conditions#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -164,15 +163,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50|50 percent% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
-> - A barlgura has a 30|30 percent% chance chance of summoning one barlgura.  
-> - A chasme has a 30|30 percent% chance chance of summoning one chasme.  
-> - A glabrezu has a 30|30 percent% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30|30 percent% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50|50 percent% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50|50 percent% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30|30 percent% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
-> - A yochlol has a 50|50 percent% chance chance of summoning one yochlol.  
+> - A balor has a 50% chance chance of summoning `dice: 1d8` (`1d8`) vrocks, `dice: 1d6` (`1d6`) hezrous, `dice: 1d4` (`1d4`) glabrezus, `dice: 1d3` (`1d3`) nalfeshnees, `dice: 1d2` (`1d2`) mariliths, or one goristro.  
+> - A barlgura has a 30% chance chance of summoning one barlgura.  
+> - A chasme has a 30% chance chance of summoning one chasme.  
+> - A glabrezu has a 30% chance chance of summoning `dice: 1d3` (`1d3`) vrocks, `dice: 1d2` (`1d2`) hezrous, or one glabrezu.  
+> - A hezrou has a 30% chance chance of summoning `dice: 2d6` (`2d6`) dretches or one hezrou.  
+> - A marilith has a 50% chance chance of summoning `dice: 1d6` (`1d6`) vrocks, `dice: 1d4` (`1d4`) hezrous, `dice: 1d3` (`1d3`) glabrezus, `dice: 1d2` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50% chance chance of summoning `dice: 1d4` (`1d4`) vrocks, `dice: 1d3` (`1d3`) hezrous, `dice: 1d2` (`1d2`) glabrezus, or one nalfeshnee.  
+> - A vrock has a 30% chance chance of summoning `dice: 2d4` (`2d4`) dretches or one vrock.  
+> - A yochlol has a 50% chance chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-demon-summoning
@@ -181,8 +180,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
 
-
-## Stat Block
 
 ```statblock
 "name": "Yochlol"
@@ -200,15 +197,15 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "13"
 - !!int "15"
 - !!int "15"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "5"
+  "Charisma": "+6"
+  "Dexterity": "+6"
+  "Wisdom": "+6"
+  "Intelligence": "+5"
 "skillsaves":
-  "Deception": !!int "10"
-  "Insight": !!int "6"
+  "Deception": "+10"
+  "Insight": "+6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -217,56 +214,48 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The\
+- "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The\
     \ yochlol can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Web.md|web]]\n\
-    \n1/day: [[/5. Mechanics/Spells/Dominate Person.md|dominate person]]"
+    \nAt will: [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], [[5. Mechanics\Spells\Web.md|web]]\n\
+    \n1/day: [[5. Mechanics\Spells\Dominate Person.md|dominate person]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol can use its action to polymorph into a form that resembles\
+- "desc": "The yochlol can use its action to polymorph into a form that resembles\
     \ a female drow or giant spider, or back into its true form. Its statistics are\
     \ the same in each form. Any equipment it is wearing or carrying isn't transformed.\
     \ It reverts to its true form if it dies."
   "name": "Shapechanger"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol has advantage on saving throws against spells and other magical\
+- "desc": "The yochlol has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The yochlol can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol ignores movement restrictions caused by webbing."
+- "desc": "The yochlol ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol makes two melee attacks."
+- "desc": "The yochlol makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. (10 feet\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. (10 feet\
     \ in demon form), one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning\
-    \ (piercing in spider form) damage plus dice: 6d6|avg (6d6) poison damage."
+    \ (piercing in spider form) damage plus 21 (dice: 6d6|avg (6d6)) poison damage."
   "name": "Slam (Bite in Spider Form)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
+- "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
     \ equipment it is wearing or carrying is also transformed. It reverts to its true\
-    \ form if it dies.\n\nWhile in mist form, the yochlol is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ form if it dies.\n\nWhile in mist form, the yochlol is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
     \ and can't speak. It has a flying speed of 30 feet, can hover, and can pass through\
     \ any space that isn't airtight. It has advantage on Strength, Dexterity, and\
     \ Constitution saving throws, and it is immune to nonmagical damage.\n\nWhile\
     \ in mist form, the yochlol can enter a creature's space and stop there. Each\
     \ time that creature starts its turn with the yochlol in its space, the creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until the start of its next turn. While [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ in this way, the target is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ must succeed on a DC 14 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ until the start of its next turn. While [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]\
+    \ in this way, the target is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Mist Form"
 "source":
 - "MM"
 - "WDMM"
 - "EGW"
 - "CRCotN"
-"image": "/compendium/bestiary/fiend/token/yochlol.png"
+"image": "compendium/bestiary/fiend/token/yochlol.png"
 ```
 ^statblock

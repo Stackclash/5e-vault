@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
+aliases: ["Spider"]
 ---
 # Spider
-*Source: Monster Manual p. 337, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Plane Shift: Ixalan, Keys from the Golden Vault*  
+*Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Spider"
@@ -25,29 +24,25 @@ statblock: inline
 - !!int "1"
 - !!int "10"
 - !!int "2"
-"speed": "walk 20 ft., climb 20 ft."
+"speed": "20 ft., climb 20 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  "Stealth": "+4"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spider can climb difficult surfaces, including upside down on ceilings,\
+- "desc": "The spider can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in contact with a web, the spider knows the exact location of any\
+- "desc": "While in contact with a web, the spider knows the exact location of any\
     \ other creature in contact with the same web."
   "name": "Web Sense"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spider ignores movement restrictions caused by webbing."
+- "desc": "The spider ignores movement restrictions caused by webbing."
   "name": "Web Walker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving\
-    \ throw or take dice: 1d4|avg (1d4) poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution\
+    \ saving throw or take 2 (dice: 1d4|avg (1d4)) poison damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -55,6 +50,6 @@ statblock: inline
 - "WDMM"
 - "PSX"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Beast/token/spider.png"
+"image": "compendium/bestiary/beast/token/spider.png"
 ```
 ^statblock

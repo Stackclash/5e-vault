@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Banshee"]
 ---
 # Banshee
-*Source: Monster Manual p. 23, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 23, Curse of Strahd. Available in the Basic Rules.*  
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 
@@ -30,8 +29,6 @@ The vanity that inspired the banshee's cursed creation persists in undeath. Thes
 
 A banshee doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Banshee"
 "size": "Medium"
@@ -47,10 +44,10 @@ A banshee doesn't require air, food, drink, or sleep.
 - !!int "12"
 - !!int "11"
 - !!int "17"
-"speed": "walk 0 ft., fly 40 ft. (hover)"
+"speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "2"
+  "Charisma": "+5"
+  "Wisdom": "+2"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
@@ -60,36 +57,31 @@ A banshee doesn't require air, food, drink, or sleep.
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The banshee can magically sense the presence of living creatures up to\
+- "desc": "The banshee can magically sense the presence of living creatures up to\
     \ 5 miles away that aren't undead or constructs. She knows the general direction\
     \ they're in but not their exact locations."
   "name": "Detect Life"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The banshee can move through other creatures and objects as if they were\
-    \ difficult terrain. She takes dice: 1d10|avg (1d10) force damage if she ends\
-    \ her turn inside an object."
+- "desc": "The banshee can move through other creatures and objects as if they were\
+    \ difficult terrain. She takes 5 (dice: 1d10|avg (1d10)) force damage if she\
+    \ ends her turn inside an object."
   "name": "Incorporeal Movement"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 2|avg (3d6 + 2) necrotic damage."
+- "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) necrotic damage."
   "name": "Corrupting Touch"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-    \ must succeed on a DC 13 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ for 1 minute. A [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] target\
+- "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
+    \ must succeed on a DC 13 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]] target\
     \ can repeat the saving throw at the end of each of its turns, with disadvantage\
     \ if the banshee is within line of sight, ending the effect on itself on a success.\
     \ If a target's saving throw is successful or the effect ends for it, the target\
     \ is immune to the banshee's Horrifying Visage for the next 24 hours."
   "name": "Horrifying Visage"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The banshee releases a mournful wail, provided that she isn't in sunlight.\
+- "desc": "The banshee releases a mournful wail, provided that she isn't in sunlight.\
     \ This wail has no effect on constructs and undead. All other creatures within\
     \ 30 feet of her that can hear her must make a DC 13 Constitution saving throw.\
     \ On a failure, a creature drops to 0 hit points. On a success, a creature takes\
-    \ dice: 3d6|avg (3d6) psychic damage."
+    \ 10 (dice: 3d6|avg (3d6)) psychic damage."
   "name": "Wail (1/Day)"
 "source":
 - "MM"
@@ -102,7 +94,7 @@ A banshee doesn't require air, food, drink, or sleep.
 - "TCE"
 - "WBtW"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Undead/token/banshee.png"
+"image": "compendium/bestiary/undead/token/banshee.png"
 ```
 ^statblock
 

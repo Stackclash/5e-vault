@@ -20,8 +20,8 @@ The creature is friendly to you and your companions. It understands your languag
 
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
 
-[[/5. Mechanics/Bestiary/Beast/Giant Owl.md|Serpentine Owl]].
+## Serpentine Owl
 
-This serpentine statuette of an owl can become a [[/5. Mechanics/Bestiary/Beast/Giant Owl.md|giant owl]] for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
+This serpentine statuette of an owl can become a [[5. Mechanics\Bestiary\Beast\Giant Owl.md|giant owl]] for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
 
-*Source: Dungeon Master's Guide p. 170*
+*Source: Dungeon Master's Guide p. 170. Available in the SRD.*

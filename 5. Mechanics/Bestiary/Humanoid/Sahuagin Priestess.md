@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/humanoid/sahuagin
-statblock: inline
+aliases: ["Sahuagin Priestess"]
 ---
 # Sahuagin Priestess
-*Source: Monster Manual p. 264, Tales from the Yawning Portal, Ghosts of Saltmarsh, Sleeping Dragon's Wake, Baldur's Gate: Descent Into Avernus*  
+*Source: Monster Manual p. 264*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
@@ -39,8 +38,6 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 > TThe village was empty, the seagulls were strangely quiet, and all we could hear was the surge of the sea.
 
 
-## Stat Block
-
 ```statblock
 "name": "Sahuagin Priestess"
 "size": "Medium"
@@ -57,49 +54,42 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - !!int "12"
 - !!int "14"
 - !!int "13"
-"speed": "walk 30 ft., swim 40 ft."
+"speed": "30 ft., swim 40 ft."
 "skillsaves":
-  "Religion": !!int "3"
-  "Perception": !!int "6"
+  "Religion": "+3"
+  "Perception": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom\
+- "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). She has the\
-    \ following cleric spells prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 2nd-level\
-    \ slots): [[/5. Mechanics/Spells/Hold Person.md|hold person]], [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
-    \ (trident)\n\n3rd level (3 3rd-level slots): [[/5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
-    \ [[/5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[5. Mechanics\Spells\Bless.md|bless]], [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics\Spells\Hold Person.md|hold person]], [[5. Mechanics\Spells\Spiritual Weapon.md|spiritual weapon]]\
+    \ (trident)\n\n3rd level (3 3rd-level slots): [[5. Mechanics\Spells\Mass Healing Word.md|mass healing word]],\
+    \ [[5. Mechanics\Spells\Tongues.md|tongues]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sahuagin has advantage on melee attack rolls against any creature that\
+- "desc": "The sahuagin has advantage on melee attack rolls against any creature that\
     \ doesn't have all its hit points."
   "name": "Blood Frenzy"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sahuagin can breathe air and water, but it needs to be submerged at\
+- "desc": "The sahuagin can breathe air and water, but it needs to be submerged at\
     \ least once every 4 hours to avoid suffocating."
   "name": "Limited Amphibiousness"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sahuagin can magically command any shark within 120 feet of it, using\
+- "desc": "The sahuagin can magically command any shark within 120 feet of it, using\
     \ a limited telepathy."
   "name": "Shark Telepathy"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The sahuagin makes two melee attacks: one with her bite and one with her\
+- "desc": "The sahuagin makes two melee attacks: one with her bite and one with her\
     \ claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -107,7 +97,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - "GoS"
 - "SDW"
 - "BGDIA"
-"image": "5. Mechanics/Bestiary/Humanoid/token/sahuagin-priestess.png"
+"image": "compendium/bestiary/humanoid/token/sahuagin-priestess.png"
 ```
 ^statblock
 

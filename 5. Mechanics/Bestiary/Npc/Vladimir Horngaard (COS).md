@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Vladimir Horngaard"]
 ---
 # Vladimir Horngaard
 *Source: Curse of Strahd p. 241*  
@@ -69,8 +68,6 @@ No magic can hide a creature pursued by a revenant, which always knows the direc
 
 A revenant doesn't require air, food, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Vladimir Horngaard"
 "size": "Medium"
@@ -86,12 +83,12 @@ A revenant doesn't require air, food, drink, or sleep.
 - !!int "13"
 - !!int "16"
 - !!int "18"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Strength": !!int "7"
-  "Constitution": !!int "7"
+  "Charisma": "+7"
+  "Wisdom": "+6"
+  "Strength": "+7"
+  "Constitution": "+7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
@@ -99,58 +96,50 @@ A revenant doesn't require air, food, drink, or sleep.
 "languages": "Common, Draconic"
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes fire\
+- "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes fire\
     \ or radiant damage, this trait doesn't function at the start of his next turn.\
     \ Vladimir's body is destroyed only if he starts his turn with 0 hit points and\
     \ doesn't regenerate."
   "name": "Regeneration"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
+- "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
     \ soul inhabits and animates another corpse on the same plane of existence and\
-    \ regains all its hit points. While the soul is bodiless, a [[/5. Mechanics/Spells/Wish.md|wish]]\
+    \ regains all its hit points. While the soul is bodiless, a [[5. Mechanics\Spells\Wish.md|wish]]\
     \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
+- "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
     \ dragon wings and a pommel shaped like a silver dragon's head clutching a black\
     \ opal between its teeth. "
   "name": "Special Equipment"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir is immune to effects that turn undead."
+- "desc": "Vladimir is immune to effects that turn undead."
   "name": "Turn Immunity"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd\
+- "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd\
     \ and Vladimir are on different planes of existence. If Strahd is destroyed, Vladimir\
     \ knows."
   "name": "Vengeful Tracker"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
+- "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. Strahd, the target\
-    \ of Vladimir's sworn vengeance, takes an extra 14 (dice: 4d6|avg (4d6)) bludgeoning\
-    \ damage. Instead of dealing damage, Vladimir can grapple the target (escape DC\
-    \ 14) provided the target is Large or smaller."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage. Strahd, the\
+    \ target of Vladimir's sworn vengeance, takes an extra 14 (dice: 4d6|avg (4d6))\
+    \ bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target\
+    \ (escape DC 14) provided the target is Large or smaller."
   "name": "Fist"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) slashing damage. Against Strahd, Vladimir\
-    \ deals an extra 14 (dice: 4d6|avg (4d6)) slashing damage with this weapon."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 20 (dice: 4d6 + 6|avg (4d6 + 6)) slashing damage. Against Strahd,\
+    \ Vladimir deals an extra 14 (dice: 4d6|avg (4d6)) slashing damage with this\
+    \ weapon."
   "name": "Greatsword +2"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
-    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+- "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
+    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[\5. Mechanics\Rules\Conditions.md#paralyzed|paralyzed]]\
     \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
-    \ When the paralysis ends, Strahd is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ When the paralysis ends, Strahd is [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
-    \ of his turns, with disadvantage if he can see Vladimir, ending the [[5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of his turns, with disadvantage if he can see Vladimir, ending the [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]]\
     \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/vladimir-horngaard.png"
+"image": "compendium/bestiary/npc/token/vladimir-horngaard.png"
 ```
 ^statblock

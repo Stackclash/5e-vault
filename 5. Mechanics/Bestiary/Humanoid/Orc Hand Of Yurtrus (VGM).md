@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vgm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc Hand of Yurtrus"]
 ---
 # Orc Hand of Yurtrus
 *Source: Volo's Guide to Monsters p. 184*  
@@ -31,8 +30,6 @@ Every orc knows that the hands of Yurtrus are the tribe's gateway to the ancesto
 
 As befits followers of a god who doesn't speak, hands of Yurtrus remove their tongues to emulate their deity, for a reason similar to why an eye of Gruumsh puts out one of its eyes.
 
-## Stat Block
-
 ```statblock
 "name": "Orc Hand of Yurtrus"
 "size": "Medium"
@@ -49,41 +46,38 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 - !!int "11"
 - !!int "14"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "4"
-  "Intimidation": !!int "1"
-  "Religion": !!int "2"
-  "Arcana": !!int "2"
+  "Medicine": "+4"
+  "Intimidation": "+1"
+  "Religion": "+2"
+  "Arcana": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Common and Orc but can't speak"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
+- "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). It requires\
     \ no verbal components to cast its spells. The orc has the following cleric spells\
-    \ prepared:\n\nCantrips (at will): [[/5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[/5. Mechanics/Spells/Mending.md|mending]], [[/5. Mechanics/Spells/Resistance.md|resistance]],\
-    \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[/5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [protection from evil\
-    \ and good](/compendium/spells/protection-from-evil-and-good.md)\n\n2nd level\
-    \ (3 2nd-level slots): [blindness/deafness](/compendium/spells/blindness-deafness.md),\
-    \ [[/5. Mechanics/Spells/Silence.md|silence]]"
+    \ prepared:\n\nCantrips (at will): [[5. Mechanics\Spells\Guidance.md|guidance]],\
+    \ [[5. Mechanics\Spells\Mending.md|mending]], [[5. Mechanics\Spells\Resistance.md|resistance]],\
+    \ [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[5. Mechanics\Spells\Bane.md|bane]], [[5. Mechanics\Spells\Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics\Spells\Inflict Wounds.md|inflict wounds]], [protection from evil\
+    \ and good](compendium/spells/protection-from-evil-and-good.md)\n\n2nd level\
+    \ (3 2nd-level slots): [blindness/deafness](compendium/spells/blindness-deafness.md),\
+    \ [[5. Mechanics\Spells\Silence.md|silence]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
+- "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8|avg (2d8) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 9 (dice: 2d8|avg (2d8)) necrotic damage."
   "name": "Touch of the White Hand"
 "source":
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-hand-of-yurtrus.png"
+"image": "compendium/bestiary/humanoid/token/orc-hand-of-yurtrus.png"
 ```
 ^statblock
 

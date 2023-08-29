@@ -10,7 +10,7 @@ aliases: ["Troglodyte (DMG)"]
 *Source: Dungeon Master's Guide p. 282*  
 
 - **Ability Scores**: Strength +2, Constitution +2, Intelligence -4, Charisma -4
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -18,15 +18,15 @@ aliases: ["Troglodyte (DMG)"]
 
 ### Chameleon Skin
 
-You have advantage on Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks made to hide.
+You have advantage on Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]]) checks made to hide.
 
 ### Stench
 
-Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]] until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that rely on sight.
 
 ### Natural Armor
 

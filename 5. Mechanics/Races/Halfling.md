@@ -7,10 +7,10 @@ tags:
 aliases: ["Halfling"]
 ---
 # Halfling
-*Source: Player's Handbook p. 26*  
+*Source: Player's Handbook p. 26. Available in the SRD and the Basic Rules.*  
 
 - **Ability Scores**: Dexterity +2
-- **Creature Type**: race
+- **Type**: race
 - **Size**: Small
 - **Speed**: 25 ft.
 
@@ -30,7 +30,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ### Brave
 
-You have advantage on saving throws against being [[5. Mechanics/Rules/Conditions.md#frightened|frightened]].
+You have advantage on saving throws against being [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]].
 
 ### Halfling Nimbleness
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Sword Wraith Warrior"]
 ---
 # Sword Wraith Warrior
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
@@ -18,13 +17,11 @@ Sword wraith warriors are most often found on ancient battlefields where soldier
 
 When glory-obsessed warriors die in battle without honor, they might haunt the site as sword wraiths.
 
-## Stat Block
-
 ```statblock
 "name": "Sword Wraith Warrior"
 "size": "Medium"
 "type": "undead"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
@@ -35,7 +32,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 - !!int "6"
 - !!int "9"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, frightened, poisoned, unconscious"
@@ -43,28 +40,24 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The warrior doesn't require air, food, drink, or sleep."
+- "desc": "The warrior doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or 9 (dice: 1d10 + 4|avg\
-    \ (1d10 + 4)) slashing damage if used with two hands."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
+    \ + 4|avg (1d10 + 4)) slashing damage if used with two hands."
   "name": "Battleaxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
+    \ target. Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
   "name": "Longbow"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The warrior makes one Battleaxe or Longbow attack, and attack rolls against\
+- "desc": "The warrior makes one Battleaxe or Longbow attack, and attack rolls against\
     \ it have advantage until the start of its next turn."
   "name": "Martial Fury"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/sword-wraith-warrior.png"
+"image": "compendium/bestiary/undead/token/sword-wraith-warrior.png"
 ```
 ^statblock
 

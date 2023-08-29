@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/yuan-ti
-statblock: inline
+aliases: ["Yuan-ti Pureblood"]
 ---
 # Yuan-ti Pureblood
-*Source: Monster Manual p. 310, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries*  
+*Source: Monster Manual p. 310*  
 
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
 
@@ -58,8 +57,6 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
 
 
-## Stat Block
-
 ```statblock
 "name": "Yuan-ti Pureblood"
 "size": "Medium"
@@ -76,40 +73,35 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - !!int "13"
 - !!int "12"
 - !!int "14"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "3"
-  "Perception": !!int "3"
+  "Deception": "+6"
+  "Stealth": "+3"
+  "Perception": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
+- "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
     \ yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
-    \ only)\n\n3/day each: [[/5. Mechanics/Spells/Poison Spray.md|poison spray]],\
-    \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \nAt will: [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n3/day each: [[5. Mechanics\Spells\Poison Spray.md|poison spray]],\
+    \ [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes two melee attacks."
+- "desc": "The yuan-ti makes two melee attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
-    \ (2d6) poison damage."
+- "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
+    \ target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage plus 7 (dice:\
+    \ 2d6|avg (2d6)) poison damage."
   "name": "Shortbow"
 "source":
 - "MM"
@@ -119,7 +111,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "ToA"
 - "WDMM"
 - "CM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/yuan-ti-pureblood.png"
+- "PSI"
+"image": "compendium/bestiary/humanoid/token/yuan-ti-pureblood.png"
 ```
 ^statblock
 

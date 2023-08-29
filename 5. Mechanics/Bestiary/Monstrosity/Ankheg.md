@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/grassland
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Ankheg"]
 ---
 # Ankheg
-*Source: Monster Manual p. 21, Princes of the Apocalypse, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 21. Available in the SRD.*  
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 
@@ -25,8 +24,6 @@ Although ankhegs receive a certain portion of their nutrients from the soil thro
 ## Earthen Tunnels
 
 As it burrows through earth, the ankheg leaves a narrow, partially collapsed tunnel in its wake. In these tunnels, one might find the remnants of molted ankheg chitin, hatched ankheg eggs, or the grisly remains of ankheg victims, including coins or other treasures scattered during the creature's attack.
-
-## Stat Block
 
 ```statblock
 "name": "Ankheg"
@@ -43,21 +40,19 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 - !!int "1"
 - !!int "13"
 - !!int "6"
-"speed": "walk 30 ft., burrow 10 ft."
+"speed": "30 ft., burrow 10 ft."
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage plus dice: 1d6|avg (1d6)\
-    \ acid damage. If the target is a Large or smaller creature, it is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the ankheg can bite only the [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage plus 3 (dice: 1d6|avg\
+    \ (1d6)) acid damage. If the target is a Large or smaller creature, it is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the ankheg can bite only the [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
     \ creature and has advantage on attack rolls to do so."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided\
-    \ that it has no creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]].\
+- "desc": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided\
+    \ that it has no creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]].\
     \ Each creature in that line must make a DC 13 Dexterity saving throw, taking\
     \ 10 (dice: 3d6|avg (3d6)) acid damage on a failed save, or half as much damage\
     \ on a successful one."
@@ -71,7 +66,7 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 - "BGDIA"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/ankheg.png"
+"image": "compendium/bestiary/monstrosity/token/ankheg.png"
 ```
 ^statblock
 

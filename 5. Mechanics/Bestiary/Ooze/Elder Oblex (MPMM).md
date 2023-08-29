@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/urban
 - monster/size/huge
 - monster/type/ooze
-statblock: inline
+aliases: ["Elder Oblex"]
 ---
 # Elder Oblex
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*  
@@ -29,13 +28,11 @@ By experimenting on the slimes, jellies, and puddings that infest the depths of 
 
 When oblexes feed on thoughts, they can form weird copies of their prey to use as lures, which helps them harvest even more victims for their mind flayer masters.
 
-## Stat Block
-
 ```statblock
 "name": "Elder Oblex"
 "size": "Huge"
 "type": "ooze"
-"alignment": "Lawful Evil"
+"alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
 "hp": !!int "115"
 "hit_dice": "10d12 + 50"
@@ -46,68 +43,60 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - !!int "22"
 - !!int "13"
 - !!int "18"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Intelligence": !!int "10"
+  "Charisma": "+8"
+  "Intelligence": "+10"
 "skillsaves":
-  "Nature": !!int "10"
-  "Deception": !!int "8"
-  "Religion": !!int "10"
-  "Perception": !!int "5"
-  "History": !!int "10"
-  "Arcana": !!int "10"
+  "Nature": "+10"
+  "Deception": "+8"
+  "Religion": "+10"
+  "Perception": "+5"
+  "History": "+10"
+  "Arcana": "+10"
 "condition_immunities": "blinded, charmed, deafened, exhaustion, prone"
 "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 15"
 "languages": "Common plus six more languages"
 "cr": "10"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex casts one of the following spells, requiring no spell components\
+- "desc": "The oblex casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\nAt\
-    \ will: [[/5. Mechanics/Spells/Charm Person.md|charm person]] (as 5th-level spell),\
-    \ [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\n3/day each:\
-    \ [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Dominate Person.md|dominate person]],\
-    \ [[/5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]], [[/5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
+    \ will: [[5. Mechanics\Spells\Charm Person.md|charm person]] (as 5th-level spell),\
+    \ [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]]\n\n3/day each: [dimension\
+    \ door](compendium/spells/dimension-door.md), [[5. Mechanics\Spells\Dominate Person.md|dominate person]],\
+    \ [[5. Mechanics\Spells\Hypnotic Pattern.md|hypnotic pattern]], [[5. Mechanics\Spells\Telekinesis.md|telekinesis]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
+- "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\
+- "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and\
     \ ability checks until the end of its next turn."
   "name": "Aversion to Fire"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex doesn't require sleep."
+- "desc": "The oblex doesn't require sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The elder oblex makes two Pseudopod attacks, and it uses Eat Memories."
+- "desc": "The elder oblex makes two Pseudopod attacks, and it uses Eat Memories."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) bludgeoning damage plus dice: 4d6|avg\
-    \ (4d6) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
+    \ Hit: 17 (dice: 4d6 + 3|avg (4d6 + 3)) bludgeoning damage plus 14 (dice:\
+    \ 4d6|avg (4d6)) psychic damage."
   "name": "Pseudopod"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
-    \ must succeed on a DC 18 Wisdom saving throw or take dice: 8d10|avg (8d10)\
+- "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
+    \ must succeed on a DC 18 Wisdom saving throw or take 44 (dice: 8d10|avg (8d10))\
     \ psychic damage and become memory drained until it finishes a short or long rest\
-    \ or until it benefits from the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ or [[/5. Mechanics/Spells/Heal.md|heal]] spell. Constructs, Oozes, Plants, and\
-    \ Undead succeed on the save automatically.\n\nWhile memory drained, the target\
-    \ must roll a dice: d4|avg (d4) and subtract the number rolled from any ability\
+    \ or until it benefits from the [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]]\
+    \ or [[5. Mechanics\Spells\Heal.md|heal]] spell. Constructs, Oozes, Plants, and Undead\
+    \ succeed on the save automatically.\n\nWhile memory drained, the target must\
+    \ roll a dice: d4|avg (d4) and subtract the number rolled from any ability\
     \ check or attack roll it makes. Each time the target is memory drained beyond\
     \ the first, the die size increases by one: the dice: d4|avg (d4) becomes\
     \ a dice: d6|avg (d6), the dice: d6|avg (d6) becomes a dice: d8|avg\
     \ (d8), and so on until the die becomes a dice: d20|avg (d20), at which\
-    \ point the target becomes [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ point the target becomes [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]\
     \ for 1 hour. The effect then ends.\n\nThe oblex learns all the languages a memory-drained\
     \ target knows and gains all its skill proficiencies."
   "name": "Eat Memories"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
+- "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
     \ Medium or smaller creature whose memories it has stolen. This simulacrum appears,\
     \ feels, and sounds exactly like the creature it impersonates, though it smells\
     \ faintly of sulfur. The oblex can impersonate dice: 2d6 + 1|avg (2d6 + 1)\
@@ -121,7 +110,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Ooze/token/elder-oblex.png"
+"image": "compendium/bestiary/ooze/token/elder-oblex.png"
 ```
 ^statblock
 

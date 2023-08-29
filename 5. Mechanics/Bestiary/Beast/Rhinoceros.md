@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
-statblock: inline
+aliases: ["Rhinoceros"]
 ---
 # Rhinoceros
-*Source: Monster Manual p. 336, Tomb of Annihilation, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Rhinoceros"
@@ -26,28 +25,26 @@ statblock: inline
 - !!int "2"
 - !!int "12"
 - !!int "6"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the rhinoceros moves at least 20 feet straight toward a target and then\
+- "desc": "If the rhinoceros moves at least 20 feet straight toward a target and then\
     \ hits it with a gore attack on the same turn, the target takes an extra 9 (dice:\
     \ 2d8|avg (2d8)) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 15 Strength saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 15 Strength saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]]."
   "name": "Charge"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) bludgeoning damage."
   "name": "Gore"
 "source":
 - "MM"
 - "ToA"
 - "WDH"
 - "IDRotF"
-"image": "5. Mechanics/Bestiary/Beast/token/rhinoceros.png"
+"image": "compendium/bestiary/beast/token/rhinoceros.png"
 ```
 ^statblock
 

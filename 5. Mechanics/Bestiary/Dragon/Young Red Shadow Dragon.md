@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/large
 - monster/type/dragon
-statblock: inline
+aliases: ["Young Red Shadow Dragon"]
 ---
 # Young Red Shadow Dragon
 *Source: Monster Manual p. 85*  
@@ -37,7 +36,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([[Skills#Stealth|Stealth]]) checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]]) checks.
 
 ### Living Shadow
 
@@ -45,11 +44,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the Hide action as a bonus action.
+While in dim light or darkness, the dragon can take the [[\5. Mechanics\Rules\Actions.md#Hide|Hide]] action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([[Skills#Perception|Perception]]) checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -58,8 +57,6 @@ If the dragon deals acid, cold, fire, lightning, or poison damage with its bite,
 ### New Action: Shadow Breath
 
 Any damage-dealing breath weapon possessed by the dragon deals necrotic damage instead of its original damage type. A humanoid reduced to 0 hit points by this damage dies, and an undead shadow rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
-
-## Stat Block
 
 ```statblock
 "name": "Young Red Shadow Dragon"
@@ -76,58 +73,51 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 - !!int "14"
 - !!int "11"
 - !!int "19"
-"speed": "walk 40 ft., climb 40 ft., fly 80 ft."
+"speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "5"
-  "Constitution": !!int "10"
+  "Charisma": "+9"
+  "Dexterity": "+5"
+  "Wisdom": "+5"
+  "Constitution": "+10"
 "skillsaves":
-  "Stealth": !!int "10"
-  "Perception": !!int "10"
+  "Stealth": "+10"
+  "Perception": "+10"
 "damage_resistances": "necrotic"
 "damage_immunities": "fire"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the dragon has resistance to damage that\
+- "desc": "While in dim light or darkness, the dragon has resistance to damage that\
     \ isn't force, psychic, or radiant."
   "name": "Living Shadow"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in dim light or darkness, the dragon can take the Hide action as\
+- "desc": "While in dim light or darkness, the dragon can take the Hide action as\
     \ a bonus action."
   "name": "Shadow Stealth"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
+- "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+- "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage plus dice: 1d6|avg\
-    \ (1d6) necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
+    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage plus 3 (dice:\
+    \ 1d6|avg (1d6)) necrotic damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that\
+- "desc": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that\
     \ area must make a DC 18 Dexterity saving throw, taking 56 (dice: 16d6|avg (16d6))\
     \ necrotic damage on a failed save, or half as much damage on a successful one.\
-    \ A humanoid reduced to 0 hit points by this damage dies, and an undead [[/5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]\
+    \ A humanoid reduced to 0 hit points by this damage dies, and an undead [[5. Mechanics\Bestiary\Undead\Shadow.md|shadow]]\
     \ rises from its corpse and acts immediately after the dragon in the initiative\
     \ count. The shadow is under the dragon's control."
   "name": "Shadow Breath (Recharge 5-6)"
 "source":
 - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-red-shadow-dragon.png"
+"image": "compendium/bestiary/dragon/token/young-red-shadow-dragon.png"
 ```
 ^statblock
 

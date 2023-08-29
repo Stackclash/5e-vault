@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/vrgr
 aliases: ["Domains of Ravenloft"]
 ---
 # Domains of Ravenloft
@@ -10,7 +12,7 @@ In a far-flung corner of the Plane of Shadow drifts a hidden expanse of roiling 
 
 This chapter provides information for the DM and explores the misty truths of the Domains of Dread, along with a sampling of the terrifying domains, dreaded Darklords, and daring wanderers trapped in the Dark Powers' clutches.
 
-![Dr. Viktra Mordenheim, Dar...](/compendium/books/van-richtens-guide-to-ravenloft/img/038-03-001-intro-splash.jpg#center "Dr. Viktra Mordenheim, Darklord of Lamordia, crafts the perfect body for her newest band of golem-hunting mercenaries")
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\038-03-001-intro-splash.jpg#center|"Dr. Viktra Mordenheim, Darklord of Lamordia, crafts the perfect body for her newest band of golem-hunting mercenaries"]]
 
 ## Nature of Ravenloft
 
@@ -22,39 +24,27 @@ The Mists can always be found at a domain's borders but can also appear in dense
 
 The Dark Powers also grant Darklords limited ability to manipulate the Mists surrounding their domains, allowing most to open or close their domains' borders to others on a whim. If a domain's borders are closed, supernatural agitation is obvious to any who approach the Mists. This takes the form of roiling disturbances within the haze, menacing silhouettes, threatening sounds, or other activity themed to the Darklord or domain. Creatures that enter the Mists at this time, including flying creatures, are subject to the following effects:
 
-- A creature that starts its turn in the Mists must succeed on a DC 20 Constitution saving throw or gain 1 level of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. This [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] can't be removed while the creature is in the Mists.  
+- A creature that starts its turn in the Mists must succeed on a DC 20 Constitution saving throw or gain 1 level of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]]. This [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] can't be removed while the creature is in the Mists.  
 - No matter how far a creature travels in the Mists, or which direction it goes, it gets turned around so that it eventually ends up back in the domain it left.  
 - The area within the Mists is heavily obscured (see the "Player's Handbook" for details).  
 
 Most Darklords can keep their domains' borders closed indefinitely and can reopen them at will. For some Darklords, slightly varied effects manifest when they close their domains. Others are limited in their ability to affect their borders. For each domain, specifics appear in the "Closing the Borders" portion of the section on that domain's Darklord.
 
-If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. Characters intent on passing through the Mists travel for `dice: 1d6` (`1d6`) hours, then roll on the Wandering the Mists table to determine what happens.
+If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]]. Characters intent on passing through the Mists travel for `dice: 1d6` (`1d6`) hours, then roll on the Wandering the Mists table to determine what happens.
 
-**Wandering the Mists**
-
-| dice: d100 | Effect |
-|------------|--------|
-| 01–20 | Characters emerge in a domain of your choosing. |
-| 21–40 | Characters wander the Mists for another `dice: 1d6` (`1d6`) hours, then roll on this table again. |
-| 41–65 | Characters emerge from the Mists on stable ground `dice: 1d100` (`1d100`) feet away from where they entered. |
-| 66–75 | Characters emerge on stable ground a mile from where they entered the Mists at midnight of the night after they entered the Mists. |
-| 76–85 | Characters emerge from the Mists inside a structure somewhere within the domain they tried to leave, perhaps a cave, crypt, shed, or closet. |
-| 86–95 | Other creatures appear within the Mists. Roll any die. If you roll an even number, a lost and terrified [[/5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] appears. If you roll an odd number, `dice: 2d6` (`2d6`) [[/5. Mechanics/Bestiary/Undead/Skeleton.md|skeletons]] or 1 [[/5. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md|unspeakable horror]] (see "chapter 5") appears. After the encounter, another `dice: 1d6` (`1d6`) hours pass, then roll on this table again. |
-| 96–99 | Characters emerge from the Mists where they entered to find the domain changed. Perhaps someone the characters knew is gone, and no one has any knowledge of them ever existing. |
-| 100 | Characters emerge from the Mists on a world on the Material Plane. After `dice: 1d6` (`1d6`) hours, the Mists rise around them once more. Roll again on this table. |
-^wandering-the-mists
+![[5. Mechanics\Tables\Wandering The Mists (VRGR).md|Wandering the Mists]]
 
 #### Mist Talismans
 
 A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, that resonates with the unique nature of the domain where it originates, allowing the creature holding it to find a path through the Mists to that domain. By holding the talisman and focusing on its domain of origin, a creature in the Mists can reach that domain after `dice: 2d6` (`2d6`) hours of travel. Any creatures that willingly follow the creature with the Mist talisman also reach the same destination. A Mist talisman is no help to a creature imprisoned within a domain's closed borders. If the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
 
-Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the [[/5. Mechanics/Items/Horror Trinket (VRGR).md|Horror Trinkets]] in "chapter 1" might serve as Mist talismans. Few who dwell in the Domains of Dread know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with adventurers or could know where such an item is located. You can use Mist talismans to guide characters from one domain to another as your adventures require.
+Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the [[5. Mechanics\Items\Horror Trinket (VRGR).md|Horror Trinkets]] in "chapter 1" might serve as Mist talismans. Few who dwell in the Domains of Dread know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with adventurers or could know where such an item is located. You can use Mist talismans to guide characters from one domain to another as your adventures require.
 
 The domains detailed in this chapter suggest Mist talismans that can be used to reach them, but these aren't exhaustive lists. Use them as inspiration for Mist talismans of your own design.
 
 ### Magic and Metaphysics
 
-![[039-03-002-eerie-vendors.png#center|"Eerie vendors such as those at the Carnival's Litwick Market deal in unique Mist talismans"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\039-03-002-eerie-vendors.png#center|"Eerie vendors such as those at the Carnival's Litwick Market deal in unique Mist talismans"]]
 
 The Dark Powers manipulate the domains and creatures within their grasp in the most fundamental ways, controlling magic, the nature of life and death, and the means of escaping from their nightmare realms.
 
@@ -68,7 +58,7 @@ In domains where inhabitants regard simple magic as remarkable, those inhabitant
 
 ##### Corrupted Magic
 
-The Dark Powers influence magical effects, imparting them with sinister qualities. How these changes manifest are for you to decide and can shift from domain to domain. Do summoned creatures appear undead in one domain or violently mutated in another? Do divination spells rasp in the voices of otherworldly ancients? Do the effects of drinking a [[/5. Mechanics/Items/Potion Of Healing.md|potion of healing]] feel like grubs weaving wounds shut from within? Magic looks menacing in the Domains of Dread, but descriptive embellishments shouldn't change the actual effects of spells or magic items.
+The Dark Powers influence magical effects, imparting them with sinister qualities. How these changes manifest are for you to decide and can shift from domain to domain. Do summoned creatures appear undead in one domain or violently mutated in another? Do divination spells rasp in the voices of otherworldly ancients? Do the effects of drinking a [[5. Mechanics\Items\Potion Of Healing.md|potion of healing]] feel like grubs weaving wounds shut from within? Magic looks menacing in the Domains of Dread, but descriptive embellishments shouldn't change the actual effects of spells or magic items.
 
 #### Prison of Souls
 
@@ -84,7 +74,7 @@ Individuals born in the Land of the Mists who have souls tend to be vibrant, ima
 
 ##### Death in Ravenloft
 
-When a creature with a soul dies among the Domains of Dread, its spirit becomes caught in the Mists and can't travel to the afterlife. If a creature who has been dead for at least 24 hours returns to life by way of a spell or other supernatural means, it realizes that its spirit is trapped within the Mists, likely forever. Using the rules for "Fear and Stress" from "chapter 4", the creature gains a new Seed of Fear.
+When a creature with a soul dies among the Domains of Dread, its spirit becomes caught in the Mists and can't travel to the afterlife. If a creature who has been dead for at least 24 hours returns to life by way of a spell or other supernatural means, it realizes that its spirit is trapped within the Mists, likely forever. Using the rules for "[[\5. Mechanics\Rules\Variant Rules\Fear And Stress (VRGR).md|Fear and Stress]]" from "chapter 4", the creature gains a new Seed of Fear.
 
 If a being with a soul dies and is not returned to life, that soul remains trapped within the Domains of Dread until it is reincarnated, a process that can take decades. Individuals who inherit the same soul over generations often look alike and might recall memories of their past lives.
 
@@ -94,9 +84,9 @@ The state of souls in the Domains of Dread provides a dose of existential terror
 
 #### Planar Connections
 
-Each domain is its own demiplane, isolated from all other planes including the Material Plane. No spell—not even [[/5. Mechanics/Spells/Wish.md|wish]]—allows escape from the Domains of Dread. Spells such as [[/5. Mechanics/Spells/Astral Projection.md|astral projection]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]], [[/5. Mechanics/Spells/Teleport.md|teleport]], and similar magic cast for the purpose of escaping a domain simply fail, as do effects that banish a creature to another plane. These restrictions apply to all other effects, including magic items and artifacts that transport or banish creatures to other planes. Magic that allows transit to the Border Ethereal, such as the [[/5. Mechanics/Spells/Etherealness.md|etherealness]] spell and the Etherealness feature of ghosts, is the exception to this rule. A creature that enters the Border Ethereal from a domain is pulled back into the domain it left upon leaving the Ethereal.
+Each domain is its own demiplane, isolated from all other planes including the Material Plane. No spell—not even [[5. Mechanics\Spells\Wish.md|wish]]—allows escape from the Domains of Dread. Spells such as [[5. Mechanics\Spells\Astral Projection.md|astral projection]], [[5. Mechanics\Spells\Plane Shift.md|plane shift]], [[5. Mechanics\Spells\Teleport.md|teleport]], and similar magic cast for the purpose of escaping a domain simply fail, as do effects that banish a creature to another plane. These restrictions apply to all other effects, including magic items and artifacts that transport or banish creatures to other planes. Magic that allows transit to the Border Ethereal, such as the [[5. Mechanics\Spells\Etherealness.md|etherealness]] spell and the Etherealness feature of ghosts, is the exception to this rule. A creature that enters the Border Ethereal from a domain is pulled back into the domain it left upon leaving the Ethereal.
 
-For the purpose of spells whose effects change across or are blocked by planar boundaries (such as [[/5. Mechanics/Spells/Sending.md|sending]]), each domain is considered its own plane. Magic that summons creatures or objects from other planes functions normally, as does magic that involves an extradimensional space. Spells cast within an extradimensional space (such as that created by [[/5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md|Mordenkainen's magnificent mansion]]) are subject to the same restrictions as magic cast within a domain.
+For the purpose of spells whose effects change across or are blocked by planar boundaries (such as [[5. Mechanics\Spells\Sending.md|sending]]), each domain is considered its own plane. Magic that summons creatures or objects from other planes functions normally, as does magic that involves an extradimensional space. Spells cast within an extradimensional space (such as that created by [[5. Mechanics\Spells\Mordenkainens Magnificent Mansion.md|Mordenkainen's magnificent mansion]]) are subject to the same restrictions as magic cast within a domain.
 
 While in the Domains of Dread, characters who receive spells from deities or otherworldly patrons continue to do so. In addition, spells that allow contact with beings from other planes function normally, with one proviso: the domain's Darklord senses when someone in their domain casts such a spell and can choose to make themself the spell's target, so that they become the one who is contacted.
 
@@ -164,7 +154,7 @@ This chapter includes sidebars designed to help create player characters who hai
 
 ## Barovia
 
-_Domain of the First Vampire_
+*Domain of the First Vampire*
 
 ### Darklord
 
@@ -212,8 +202,8 @@ Those familiar with Barovia know the following facts:
 Barovia's people are slow to trust strangers, but they eagerly share tales of the past tragedies and grim rumors that haunt every corner of their land. Ancient mysteries pervade the domain, and those who leave the relative safety of Barovia's settlements enter perilous lands where mortals aren't welcome.
 
 > [!gallery]
-> ![[040-map-3-1-barovia.jpg#gallery|Map 3.1: Barovia]]
-> ![[041-map-3-1-barovia-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\040-map-3-1-barovia.jpg#gallery|Map 3.1: Barovia]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\041-map-3-1-barovia-player.jpg#gallery|Player Version]]
 
 #### Castle Ravenloft
 
@@ -237,7 +227,7 @@ Once a haven of virtuous wizards, the Amber Temple was long ago corrupted by evi
 
 ### Strahd von Zarovich
 
-![[042-03-003-count-strahd.png#center|"In the halls of Castle Ravenloft, Count Strahd von Zarovich clings to ancient obsessions"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\042-03-003-count-strahd.png#center|"In the halls of Castle Ravenloft, Count Strahd von Zarovich clings to ancient obsessions"]]
 
 In life, Count Strahd von Zarovich was a ruthlessly effective conqueror. Over decades of brutal military campaigning, he defeated his rivals and forged a nation. Retiring from war, Strahd settled in the beautiful valley where he'd won his greatest victory. There, in the way of his ancestors, he spilled his blood into the earth, sealing a pact between himself and the land. In honor of his parents, King Barov and Queen Ravenovia, he named the valley Barovia and constructed his fortress-home, Castle Ravenloft.
 
@@ -247,11 +237,11 @@ Sergei was everything Strahd wasn't—youthful, empathic, and warm. Soon after h
 
 The day of Sergei and Tatyana's wedding, Strahd murdered Sergei and, to seal his pact with the Dark Powers, drank his brother's blood. He revealed his new might to Tatyana, expecting to enthrall her. Instead, horrified by Sergei's murder, Tatyana fled Strahd, ultimately leaping from the height of Castle Ravenloft to escape him and vanishing into the Mists. At the same time, traitors from among the castle's guards and wedding's guests rose up to assassinate Strahd. Despite suffering countless wounds, Strahd did not die. The nature of his bargain with the Dark Powers was revealed, and Strahd became the multiverse's first vampire. A night of bloody rage followed, and when dawn touched the parapets of Castle Ravenloft, no living soul survived within. But Strahd remained.
 
-Little is known of the origins of the Domains of Dread, but what's certain is that they began here. Strahd's villainy, his connection to his land, and his entanglement with the sinister [[/5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|priests of Osybus]] (detailed in "chapter 5") drew all of Barovia into the Shadowfell. This began a succession of torments that haunt the Count still and spill forth to drag others into the Land of the Mists.
+Little is known of the origins of the Domains of Dread, but what's certain is that they began here. Strahd's villainy, his connection to his land, and his entanglement with the sinister [[5. Mechanics\Bestiary\Humanoid\Priest Of Osybus (VRGR).md|priests of Osybus]] (detailed in "chapter 5") drew all of Barovia into the Shadowfell. This began a succession of torments that haunt the Count still and spill forth to drag others into the Land of the Mists.
 
 #### Strahd's Powers and Dominion
 
-Strahd is a patient and dramatic mastermind. His statistics are similar to those of a [[/5. Mechanics/Bestiary/Undead/Vampire.md|vampire]] and his spellcasting prowess is formidable, enabling him to face most threats directly. Strahd ever seeks to escape his boredom and draws challenges out for as long as it entertains him. However, if insulted, the Darklord can turn all of Barovia against his foes.
+Strahd is a patient and dramatic mastermind. His statistics are similar to those of a [[5. Mechanics\Bestiary\Undead\Vampire.md|vampire]] and his spellcasting prowess is formidable, enabling him to face most threats directly. Strahd ever seeks to escape his boredom and draws challenges out for as long as it entertains him. However, if insulted, the Darklord can turn all of Barovia against his foes.
 
 ##### The Ancient, the Land
 
@@ -305,19 +295,7 @@ Strahd's depravity takes physical form in the vampire's lair, Castle Ravenloft. 
 
 The adventure Curse of Strahd explores Barovia and Castle Ravenloft in detail, but you can also use the ideas on the Barovia Adventures table to create your own plots.
 
-**Barovia Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | The Mists draw the characters into Barovia, where the fortune-teller Madam Eva sets them on a dark course that leads them to Castle Ravenloft. |
-| 2 | [[/5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|Priests of Osybus]] (see "chapter 5") have gained a following in Vallaki. They consider Strahd a demigod of their faith and drain the blood of nonbelievers in his name. |
-| 3 | A merchant working for a mysterious patron hires the party to recover the bones of Tatsaul Eris, a noble buried in the catacombs of Castle Ravenloft. |
-| 4 | The Martikovs, owners of the Wizard of Wines winery, seek aid recovering a shipment of cursed wine that turns drinkers into [[/5. Mechanics/Bestiary/Plant/Vine Blight.md|vine blights]]. |
-| 5 | A dying [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereraven]] (see "chapter 5") gives the characters a scroll and an amulet bearing the Mark of the Raven. It begs the characters to deliver the message to the Keepers of the Feather. |
-| 6 | A megalith erected by Barovia's original inhabitants topples near Vallaki. Beneath lies the tomb of an ancient [[/5. Mechanics/Bestiary/Undead/Nosferatu (VRGR).md|nosferatu]] (see "chapter 5") who calls himself Duke Gundar; he immediately takes a disliking to Count Strahd von Zarovich. |
-| 7 | From the ruined mansion of Argynvostholt, the [[/5. Mechanics/Bestiary/Undead/Revenant.md|revenant]] knight Vladimir Horngaard dragoons innocents into the Order of the Silver Dragon and pits them against Strahd's servants. |
-| 8 | The characters are accused of a crime. Surprising everyone, word arrives that Count Strahd von Zarovich will serve as their judge. |
-^barovia-adventures
+![[5. Mechanics\Tables\Barovia Adventures (VRGR).md|Barovia Adventures]]
 
 ### Incarnations of Tatyana
 
@@ -335,7 +313,7 @@ When building your version of Tatyana, use the Tatyana's Incarnation table to de
 |----------|--------------------------------------|
 | 1 | Ireena Kolyana, the adopted daughter of burgomaster Kolyan Indirovich of the village of Barovia |
 | 2 | "Ez d'Avenir",* vampire slayer and protégé of Rudolph van Richten |
-| 3 | Vasilka, a [[/5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golem]] or reborn (see "chapter 1") who lives in the abbey near the village of Krezk |
+| 3 | Vasilka, a [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|flesh golem]] or reborn (see "chapter 1") who lives in the abbey near the village of Krezk |
 | 4 | The identical twins Yasmine and Nasseri, who are devout servants of the god Ezra |
 | 5 | Renoir Laurent, the teenage son of Chantal Laurent, a woman Strahd abducted years ago |
 | 6 | Petra Rilenovich, a young prodigy who has gained local renown for her remarkable paintings of what she calls her "dream lives" |
@@ -388,18 +366,18 @@ It's not necessary to have Tatyana's incarnation appear within Barovia. Rather, 
 | 1 | Tatyana's incorporeal spirit assembles and haunts heroes whom she believes have the best chance of defeating Strahd. |
 | 2 | A character's friend or loved one is the incarnation of Tatyana. When the Mists claim that individual, the character is drawn into Barovia as well. |
 | 3 | A character's own reincarnation allows Tatyana's soul to enter their body, bringing with it memories in the form of vivid dreams. |
-| 4 | Tatyana's soul was captured by an effect similar to the [[/5. Mechanics/Spells/Magic Jar.md|magic jar]] spell. Strahd or another entity hires the characters to seek out the container holding the soul, not revealing its true nature. |
-| 5 | Tatyana's soul reincarnated as someone another Darklord covets, such as the bearer of Ankhtepot's ka in "Har'Akir" or [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] in "Lamordia" (both detailed later in this chapter). |
-| 6 | Tatyana's soul found its way into a distant relative of Strahd, Lyssa von Zarovich. Lyssa seeks to grow more powerful and claim Castle Ravenloft for herself. Her first step to deposing Strahd was to become a [[/5. Mechanics/Bestiary/Undead/Vampire.md|vampire]]. Now she needs allies. |
+| 4 | Tatyana's soul was captured by an effect similar to the [[5. Mechanics\Spells\Magic Jar.md|magic jar]] spell. Strahd or another entity hires the characters to seek out the container holding the soul, not revealing its true nature. |
+| 5 | Tatyana's soul reincarnated as someone another Darklord covets, such as the bearer of Ankhtepot's ka in "Har'Akir" or [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] in "Lamordia" (both detailed later in this chapter). |
+| 6 | Tatyana's soul found its way into a distant relative of Strahd, Lyssa von Zarovich. Lyssa seeks to grow more powerful and claim Castle Ravenloft for herself. Her first step to deposing Strahd was to become a [[5. Mechanics\Bestiary\Undead\Vampire.md|vampire]]. Now she needs allies. |
 ^lost-tatyana
 
-![[043-03-004-tatyana.png#center|"Tatyana might be reborn in any number of guises, such as Ireena Kolyana or Lyssa von Zarovich"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\043-03-004-tatyana.png#center|"Tatyana might be reborn in any number of guises, such as Ireena Kolyana or Lyssa von Zarovich"]]
 
 ## Bluetspur
 
-![[044-03-005-bluetspur.png#center|"Memories of Bluetspur prove as impossible as they are inescapable"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\044-03-005-bluetspur.png#center|"Memories of Bluetspur prove as impossible as they are inescapable"]]
 
-_Domain of Alien Memories_
+*Domain of Alien Memories*
 
 ### Darklord
 
@@ -447,7 +425,7 @@ Below Mount Makab stretches the hive-like lair of the illithids. This mind flaye
 
 #### The Chamber of the God-Brain
 
-The Chamber of the God-Brain rests miles below Citadel Subterrene. The cathedral-like chamber is roughly ovoid in shape, with walls of gleaming, organic metal. The massive God-Brain trembles in a pool of medicinal brine and experimental chemicals capable of dissolving most other creatures. The massive, alien brain's affliction is clear from the leaking holes pocking its deep-wrinkled lobes. Illithid attendants in eerie protective garb endlessly attend to their dying overlord and indulge even its most blasphemous schemes, such as the creation of [[/5. Mechanics/Bestiary/Undead/Vampiric Mind Flayer (VRGR).md|vampiric mind flayers]] (see "chapter 5").
+The Chamber of the God-Brain rests miles below Citadel Subterrene. The cathedral-like chamber is roughly ovoid in shape, with walls of gleaming, organic metal. The massive God-Brain trembles in a pool of medicinal brine and experimental chemicals capable of dissolving most other creatures. The massive, alien brain's affliction is clear from the leaking holes pocking its deep-wrinkled lobes. Illithid attendants in eerie protective garb endlessly attend to their dying overlord and indulge even its most blasphemous schemes, such as the creation of [[5. Mechanics\Bestiary\Undead\Vampiric Mind Flayer (VRGR).md|vampiric mind flayers]] (see "chapter 5").
 
 #### Mount Grysl
 
@@ -469,7 +447,7 @@ The God-Brain is more akin to a physical location or massive object than a creat
 
 ##### Overmind
 
-The God-Brain commands untold numbers of [[/5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]], [[/5. Mechanics/Bestiary/Aberration/Intellect Devourer.md|intellect devourers]], and other creatures. Within Bluetspur, it is constantly telepathically linked with all its servants and knows anything that they know. The God-Brain delegates broad goals to its most effective servants, encouraging them to indulge all manner of radical experiments.
+The God-Brain commands untold numbers of [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|mind flayers]], [[5. Mechanics\Bestiary\Aberration\Intellect Devourer.md|intellect devourers]], and other creatures. Within Bluetspur, it is constantly telepathically linked with all its servants and knows anything that they know. The God-Brain delegates broad goals to its most effective servants, encouraging them to indulge all manner of radical experiments.
 
 ##### Mist Vibrations
 
@@ -477,11 +455,11 @@ Through the awesome psychic resonances of Mount Makab, the God-Brain can guide a
 
 ##### Life Support
 
-The illithids of Bluetspur toil to save their elder brain through all manner of outlandish scientific and medical means. Among the most bizarre of these schemes is the God-Brain's own: the creation of degenerate servants that hunt for balms for its affliction. These [[/5. Mechanics/Bestiary/Undead/Vampiric Mind Flayer (VRGR).md|vampiric mind flayers]] (see "chapter 5") slip from Bluetspur to prey upon Humanoids. They then return to the God-Brain, bloated with cerebrospinal fluid to momentarily dull its suffering.
+The illithids of Bluetspur toil to save their elder brain through all manner of outlandish scientific and medical means. Among the most bizarre of these schemes is the God-Brain's own: the creation of degenerate servants that hunt for balms for its affliction. These [[5. Mechanics\Bestiary\Undead\Vampiric Mind Flayer (VRGR).md|vampiric mind flayers]] (see "chapter 5") slip from Bluetspur to prey upon Humanoids. They then return to the God-Brain, bloated with cerebrospinal fluid to momentarily dull its suffering.
 
 ##### Closing the Borders
 
-When the God-Brain closes Bluetspur's borders, the surface of the domain is wracked by extreme electrical storms, and alien vapors rise at the domain's distant edges and within its hidden tunnels. Rather than barring creatures' escape, these Mists repress memories. Any non-Aberration who leaves Bluetspur is transported to a familiar place where they soon wake up, even if they weren't previously asleep. Their time in Bluetspur is repressed, altered as if by the [[/5. Mechanics/Spells/Modify Memory.md|modify memory]] spell. See ""Recovering Memories"" below for more details.
+When the God-Brain closes Bluetspur's borders, the surface of the domain is wracked by extreme electrical storms, and alien vapors rise at the domain's distant edges and within its hidden tunnels. Rather than barring creatures' escape, these Mists repress memories. Any non-Aberration who leaves Bluetspur is transported to a familiar place where they soon wake up, even if they weren't previously asleep. Their time in Bluetspur is repressed, altered as if by the [[5. Mechanics\Spells\Modify Memory.md|modify memory]] spell. See ""Recovering Memories"" below for more details.
 
 #### The God-Brain's Torment
 
@@ -495,19 +473,7 @@ The God-Brain's influence drives the mind flayers beyond their domain to purse a
 
 While Bluetspur's otherworldly hazards and the mind flayers' defenses can challenge even the highest-level heroes, the domain's menace proves most pernicious when it intrudes on other domains. Taking inspiration from sci-fi horror and tales of alien abduction, adventures involving Bluetspur's mind flayers might begin anywhere with bad dreams or a stranger's impossible rantings. Over time, disappearances, inexplicable scars, subdermal implants, and unlocked memories might reveal the mind flayers' tentacles enwrap more than anyone thought possible. See ""Return to Bluetspur"" for details on running adventures featuring lost memories, or consider developing other plots using the Bluetspur Adventures table.
 
-**Bluetspur Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | Characters awake within the shattered remains of a fluid-filled tube deep in Citadel Subterrene. They have no idea how they arrived there. |
-| 2 | A cavern the characters were exploring seamlessly abuts with Bluetspur, trapping them in caves overrun with [[/5. Mechanics/Bestiary/Undead/Vampiric Mind Flayer (VRGR).md|vampiric mind flayers]] (see "chapter 5"). |
-| 3 | A strange message leads characters to a silvery vessel full of alien mysteries wrecked on Bluetspur's surface. The only surviving creature in the wreck is a cunning [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beast]]. |
-| 4 | The characters find a strange but adorable creature trapped within an abandoned alien installation. The being is a lovable companion, until it reveals itself to be a **star spawn emissary** (see "chapter 5"). |
-| 5 | An acquaintance of the characters complains of reoccurring nightmares. The complaints stop when the dreamer is taken over by an [[/5. Mechanics/Bestiary/Aberration/Intellect Devourer.md|intellect devourer]]. |
-| 6 | An inventor requests the characters' insight into a pill-sized device she extracted from her own body. As the characters examine it, the device projects a map into their minds and emits a telepathic call for help. The map leads to a [[/5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayer]] who wants to put the God-Brain out of its misery. |
-| 7 | A farmer hires the characters to protect his family, whom he believes—without evidence—are being abducted and returned every night. |
-| 8 | The High Master mind flayer of Mount Grysl seeks to claim all the God-Brain knows. To do this, it creates a copy of the Apparatus (see ""Mordent"" later in this chapter). All it needs is a relic called the Rod of Rastinon, which it wants the characters to retrieve for it. |
-^bluetspur-adventures
+![[5. Mechanics\Tables\Bluetspur Adventures (VRGR).md|Bluetspur Adventures]]
 
 ### Return to Bluetspur
 
@@ -519,7 +485,7 @@ Knowing that secrets lurk within one's own mind holds unique terror. When runnin
 
 ##### Magical Recovery
 
-Both the mind flayers of Bluetspur and the Mists surrounding the domain employ methods similar to the [[/5. Mechanics/Spells/Modify Memory.md|modify memory]] spell to obscure victims' memories of their abduction, replacing them with hazy events or gaps of missing time. A character's true memories can be restored by a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] or [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell. A victim of the mind flayers might have endured dozens of memory modifications, each requiring its own magical removal, resulting in the recovery of a few traumatic memories at a time.
+Both the mind flayers of Bluetspur and the Mists surrounding the domain employ methods similar to the [[5. Mechanics\Spells\Modify Memory.md|modify memory]] spell to obscure victims' memories of their abduction, replacing them with hazy events or gaps of missing time. A character's true memories can be restored by a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] or [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]] spell. A victim of the mind flayers might have endured dozens of memory modifications, each requiring its own magical removal, resulting in the recovery of a few traumatic memories at a time.
 
 ##### Alienism
 
@@ -540,9 +506,9 @@ The mind flayers of Bluetspur might leave evidence of their bizarre plots behind
 | 1 | A needle-like device buried under someone's skin |
 | 2 | An inexplicable crater or circle of scorched crops |
 | 3 | A stable full of exploded livestock |
-| 4 | An [[/5. Mechanics/Items/Antimatter Rifle.md|antimatter rifle]] (detailed in the "Dungeon Master's Guide") |
-| 5 | A missing person or otherworldly being transformed into a [[/5. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md|brain in a jar]] (see "chapter 5") |
-| 6 | The damaged corpse of a [[/5. Mechanics/Bestiary/Undead/Vampiric Mind Flayer (VRGR).md|vampiric mind flayer]] (see "chapter 5") |
+| 4 | An [[5. Mechanics\Items\Antimatter Rifle.md|antimatter rifle]] (detailed in the "Dungeon Master's Guide") |
+| 5 | A missing person or otherworldly being transformed into a [[5. Mechanics\Bestiary\Undead\Brain In A Jar (VRGR).md|brain in a jar]] (see "chapter 5") |
+| 6 | The damaged corpse of a [[5. Mechanics\Bestiary\Undead\Vampiric Mind Flayer (VRGR).md|vampiric mind flayer]] (see "chapter 5") |
 ^aberrant-evidence
 
 #### Lost Memories
@@ -563,11 +529,11 @@ When revealing lost memories, cultivate the disquiet that comes with vivid recol
 
 #### Adventures Out of Time
 
-The most effective way to reveal characters' missing memories is to revisit them as an adventure. Players might run lower-level versions of their characters or use the survivors from Survivors to represent their past selves. Or characters might play forgotten versions of themselves—perhaps very different from who they are now—or individuals in the memories of another character. Run this adventure as an experience detached from your campaign's timeline, a flashback that relates the terrors of being a victim of the mind flayers' plots. Death likely doesn't mean much in these adventures, as characters somehow survived to remember their traumas—perhaps through miraculous mind flayer surgeries. However, developments in the past can provide all manner of revelations, potentially unveiling terrifying truths hidden within characters' own minds and bodies.
+The most effective way to reveal characters' missing memories is to revisit them as an adventure. Players might run lower-level versions of their characters or use the survivors from [[\5. Mechanics\Rules\Variant Rules\Survivors (VRGR).md|Survivors]] to represent their past selves. Or characters might play forgotten versions of themselves—perhaps very different from who they are now—or individuals in the memories of another character. Run this adventure as an experience detached from your campaign's timeline, a flashback that relates the terrors of being a victim of the mind flayers' plots. Death likely doesn't mean much in these adventures, as characters somehow survived to remember their traumas—perhaps through miraculous mind flayer surgeries. However, developments in the past can provide all manner of revelations, potentially unveiling terrifying truths hidden within characters' own minds and bodies.
 
 ## Borca
 
-_Domain of Desire and Deceit_
+*Domain of Desire and Deceit*
 
 - **Darklords.** Ivana Boritsi and Ivan Dilisnya  
 - **Genres.** "Gothic horror" and "psychological horror"  
@@ -604,8 +570,8 @@ Those familiar with Borca know the following facts:
 Most of Borca's people live in small agricultural communities under the rule of noble landlords, or in poverty in the larger settlements of Lechberg, Levkarest, or Sturben. Nobles keep country homes among the nation's forests or rolling hills, well apart from the common rabble. Mobility between country and town is a luxury of the wealthy, making horses and coaches symbols of prestige.
 
 > [!gallery]
-> ![[045-map-3-2-borca.png#gallery|Map 3.2: Borca]]
-> ![[046-map-3-2-borca-player.png#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\045-map-3-2-borca.png#gallery|Map 3.2: Borca]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\046-map-3-2-borca-player.png#gallery|Player Version]]
 
 #### Levkarest
 
@@ -656,7 +622,7 @@ Among the most decadent noble holdings is Misericordia, the Boritsi estate. Situ
 
 ### Ivana Boritsi
 
-![[047-03-007-ivana-boritsi.png#center|"Ivana Boritsi welcomes guests to the poisonous conservatories of Misericordia"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\047-03-007-ivana-boritsi.png#center|"Ivana Boritsi welcomes guests to the poisonous conservatories of Misericordia"]]
 
 The firstborn of the fantastically wealthy Boritsi aristocrats, Ivana was clever, poised, and—in her father Klaus's eyes—utterly unfit to lead their family. Unwilling to accept her father's view, Ivana spent her youth eschewing the dalliances of her kin, instead learning every aspect of her family's business in perfumes and medicinal herbs. Her mother, Camille, encouraged her daughter and tried to ensure that Ivana would one day lead the family.
 
@@ -670,7 +636,7 @@ Ivana only laughed as a toxic mist poured across the Boritsi estate. Having expe
 
 #### Ivana's Powers and Dominion
 
-Ivana appears to be a young human woman with statistics similar to a [[/5. Mechanics/Bestiary/Humanoid/Spy.md|spy]]. Since her arrival in the Land of the Mists, her blood has been tainted with poison, and angry red-and-black veins visibly show through her pale skin. While this discoloration is unignorable, the toxins grant her immunity to poison damage and being [[5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. Her genius and ambition define her manipulations.
+Ivana appears to be a young human woman with statistics similar to a [[5. Mechanics\Bestiary\Humanoid\Spy.md|spy]]. Since her arrival in the Land of the Mists, her blood has been tainted with poison, and angry red-and-black veins visibly show through her pale skin. While this discoloration is unignorable, the toxins grant her immunity to poison damage and being [[\5. Mechanics\Rules\Conditions.md#poisoned|poisoned]]. Her genius and ambition define her manipulations.
 
 ##### Alchemical Innovator
 
@@ -684,7 +650,7 @@ Ivana's genius and cynicism, in combination with the Dark Powers' aid, grant her
 
 Ivana delights in her gardens, both the exotic conservatories within the Boritsi Estate and the flower fields surrounding her manor. She has created innumerable unique plants, as well as plant creatures with strange abilities and unflagging loyalty to her.
 
-![[048-03-006.png#center]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\048-03-006.png#center]]
 
 ##### Tyrant Maker
 
@@ -733,11 +699,11 @@ Over time, Kristina proved precocious and eager to learn. Ivan, however, became 
 
 On the night Ivana Boritsi poisoned her family, Ivan learned of his parents' intention to send Kristina to a prestigious boarding school. Screams, cruel cackling, and clockwork screeching filled the Dilisnya estate that night. When it ended, Ivan was the last living member of the Dilisnya family, and the Mists closed in around Borca.
 
-![[049-03-008-ivan-dilisnya.png#center|Ivan Dilisnya in his favorite clockwork pram]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\049-03-008-ivan-dilisnya.png#center|Ivan Dilisnya in his favorite clockwork pram]]
 
 #### Ivan's Powers and Dominion
 
-Ivan isn't a physically or magically powerful Darklord. He's an extremely old man, but supernaturally he remains as physically fit as he was in the prime of life and has the statistics of a human [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]]. His menace manifests in the form of psychological manipulation, making others doubt reality, and causing victims to overestimate his control.
+Ivan isn't a physically or magically powerful Darklord. He's an extremely old man, but supernaturally he remains as physically fit as he was in the prime of life and has the statistics of a human [[5. Mechanics\Bestiary\Humanoid\Noble.md|noble]]. His menace manifests in the form of psychological manipulation, making others doubt reality, and causing victims to overestimate his control.
 
 ##### Cursed Correspondence
 
@@ -793,19 +759,7 @@ Borca provides opportunities for political intrigues, family power struggles, an
 
 The following sections detail the schemes of the domain's nobles and Darklords, while the Borca Adventures table suggests other adventures appropriate to the domain.
 
-**Borca Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | A noble asks the characters to protect their sibling from a mysterious assassin. The killer is Nostalia Romaine, whose blood was replaced with poison by Ivana Boritsi. |
-| 2 | A scholar requests aid in gaining access to Scholomance. This institution is Borca's elite school of magic and also home to the Rainmaker Society, which is said to control Borcan politics. |
-| 3 | A young noble befriends the characters and introduces them to the fabulously amoral Levkarest club scene. By the night's end, a character is accused of murder. |
-| 4 | Half the village of Leoni is arrested by the erinyes-masked Judge Ranziska and marched before Sturben's Faceless Court. The remaining villagers beseech the party to defend their families in court. |
-| 5 | The eligible noble Vladimir Nobriskov hosts a contest for his affections. Participants turn up murdered, victims of Nobriskov's lycanthropic hunger. |
-| 6 | A book-collecting noble seeks the party's help in finding a rare text called The Revelations of the Prince of Twilight, a tome said to teach the reader to tap into the hidden power of their shadow. |
-| 7 | The Ocrotire family offers a sizable bounty for anyone who can capture the Lake Balaur Beast, which has escaped from the estate's oceanarium. |
-| 8 | Members of the Ulmist Inquisition accuse the characters of crimes they haven't yet committed. They relent only if the characters undertake a mission against the [[/5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|priests of Osybus]] (see "chapter 5"). |
-^borca-adventures
+![[5. Mechanics\Tables\Borca Adventures (VRGR).md|Borca Adventures]]
 
 ### Nobles of Borca
 
@@ -852,17 +806,7 @@ Between adventures, a noble contact might share their problems with a character 
 
 Ever thinking of themself, the aforementioned noble contact seeks leverage over the characters. The Lethal Leverage table suggests things a noble contact might seek to use against adventurers. Once they have such leverage, the noble contact is no longer a friend, but rather the characters' debt holder or blackmailer. Most such treacherous individuals try to ensure that threats or magic can't easily compel them to relinquish their leverage, such as sending it to a third party or disseminating it within a group of allies.
 
-**Lethal Leverage**
-
-| dice: d6 | Leverage |
-|----------|----------|
-| 1 | The contact provides the characters with noteworthy gear to use during a request, then collects it afterward as evidence. |
-| 2 | The contact conveniently "goes out of town," requesting characters report to them in writing. |
-| 3 | The contact requests magical insurance, such as a [[/5. Mechanics/Spells/Geas.md|geas]] spell preventing mutual harm or committing the characters to a misrepresented act. |
-| 4 | The contact becomes the guardian of someone close to the characters. |
-| 5 | The contact holds a powerful magic item for the characters "so it doesn't fall into the wrong hands." |
-| 6 | The contact has the characters act against a mutual friend "for their own good." The contact then threatens to reveal this act to the friend. |
-^lethal-leverage
+![[5. Mechanics\Tables\Lethal Leverage (VRGR).md|Lethal Leverage]]
 
 #### Coup de Grace
 
@@ -872,7 +816,7 @@ Once the aforementioned noble has gained leverage over the party, they might mak
 
 Ivana Boritsi's interests lie in manipulating sweeping aspects of Borca's society, asserting her dominance amid an ever-shifting landscape of petty noble schemes. She isn't a spellcaster, but her insights into alchemy allow her to create chemically potent mind-altering effects. Ivana's chemical arsenal includes drinks that convey illusory sensations, perfumes that charm creatures, and dramatic poisons activated by innocuous secondary triggers. Through suggestion and by subtly exposing targets to her chemicals, Ivana convinces victims she's practically omnipotent.
 
-Use the poisons detailed in the "Dungeon Master's Guide" as a baseline for the effects Ivana creates and combine them with the effects of enchantment and illusion spells to design custom, nonmagical toxins for her. The [[/5. Mechanics/Items/Ivanas Whisper (VRGR).md|following example]] combines an inhaled poison and the [[/5. Mechanics/Spells/Dream.md|dream]] spell, creating a tool Ivana uses to manipulate her agents.
+Use the poisons detailed in the "Dungeon Master's Guide" as a baseline for the effects Ivana creates and combine them with the effects of enchantment and illusion spells to design custom, nonmagical toxins for her. The [[5. Mechanics\Items\Ivanas Whisper (VRGR).md|following example]] combines an inhaled poison and the [[5. Mechanics\Spells\Dream.md|dream]] spell, creating a tool Ivana uses to manipulate her agents.
 
 ### Ivan's Intrigues
 
@@ -892,7 +836,7 @@ Ivan persistently pesters people with his letters, often fixating on two or thre
 
 ## The Carnival
 
-_Wandering Domain of Wonders_
+*Wandering Domain of Wonders*
 
 - **Darklord.** Nepenthe  
 - **Genres.** "Body horror" and "dark fantasy"  
@@ -905,7 +849,7 @@ Garish fliers appear before the Carnival's arrival, promising marvels, terrors, 
 
 The Carnival doesn't exist to entertain its visitors. Rather, it's a traveling domain, capable of visiting other domains and lands beyond the Mists. Visibly marked as outsiders by birth, circumstance, intention, or talent, the Carnival's troupers trade their unique performances for coin and whatever else they need to survive. Although these entertainers are well intentioned, sinister forces travel in their wake. The longer the Carnival tarries in one place, the greater the threat to the performers and visitors. So the Carnival travels constantly, lest the troupers endanger the lands they visit.
 
-![[050-03-009-deceitful-fey.png#center|"Deceitful fey lure the unwary from the Carnival's midway"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\050-03-009-deceitful-fey.png#center|"Deceitful fey lure the unwary from the Carnival's midway"]]
 
 ### Noteworthy Features
 
@@ -925,14 +869,14 @@ Those familiar with the Carnival know the following facts:
 > 
 > **Do you perform**? Have you devised a way to profit from your circumstances? Are you proud of your performances? Do you have a show mentor or partner? Or do you earn your way in the Carnival as a laborer, as a vendor, or in another role?
 > 
-> **How did you join the Carnival?** Did you run away to join? Were you an outcast who found a home with the Carnival? Did [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] or a trouper save you from danger?
+> **How did you join the Carnival?** Did you run away to join? Were you an outcast who found a home with the Carnival? Did [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] or a trouper save you from danger?
 ^carnival-characters
 
 ### Settlements and Sites
 
 This small domain encompasses only a few hundred square yards. A handful of horses and exotic pack animals transport the Carnival's two dozen wagons from site to site.
 
-One of the Carnival's oldest performers, Hermos the Half-Giant, handles the Carnival's day-to-day operations. Hermos is a mountain of muscle half again as tall as most human adults. His deliberate manner and coolheaded demeanor earn him the respect of the Carnival's troupers. Other senior or charismatic figures hold influence over cliquish groups of performers, but few dare openly contradict Hermos since he's favored by the Carnival's leader, [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]].
+One of the Carnival's oldest performers, Hermos the Half-Giant, handles the Carnival's day-to-day operations. Hermos is a mountain of muscle half again as tall as most human adults. His deliberate manner and coolheaded demeanor earn him the respect of the Carnival's troupers. Other senior or charismatic figures hold influence over cliquish groups of performers, but few dare openly contradict Hermos since he's favored by the Carnival's leader, [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]].
 
 The Carnival's arrangement varies depending on where it sets up, but always includes a thoroughfare of games, food, and sideshow stalls leading from the ticketing gate to the Big Top.
 
@@ -944,16 +888,16 @@ Standing at the Carnival's center is the Big Top, its largest tent. The Big Top 
 
 Lurid banners with exaggerated art and the calls of barkers advertise the Carnival's unusual performers. For 2 copper pieces, visitors enter a tent and watch a performer's show. The Carnival's best-known attractions include the following troupers (along with the stat blocks they use):
 
-- **Tindal the Barker.** Tindal, the Carnival's cynical, fast-talking lead barker ([[/5. Mechanics/Bestiary/Humanoid/Mage.md|mage]]), tours the grounds with visitors. At their last stop, he reveals his own uniqueness as the Amazing Soul-less Man: he casts no reflection and claims to lack a soul.  
-- **Alti the Werehare.** A quick-tongued rapper and dancer, Alti ([[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererat]]) is a bombastic performer who turns into a rabbit on nights of the full moon.  
-- **Amelia the Vampire.** Amelia ([[/5. Mechanics/Bestiary/Humanoid/Scout.md|scout]] with a flying speed of 30 feet) is a cheery acrobat aided in her performances by a pair of leathery wings that allows her to fly. Before stepping on stage, she powders her face, affects a somber accent, and pretends to be undead.  
-- **Charlotte the Fire Eater.** This juggling daredevil ([[/5. Mechanics/Bestiary/Humanoid/Veteran.md|veteran]]) performs with a dizzying array of flaming knives and other deadly objects. She claims that her blood is flammable and that she's burned the hair off eighteen hecklers.  
-- **The Organ Grinder.** This somber clown grinds an ornate barrel organ ([[/5. Mechanics/Bestiary/Humanoid/Scout.md|scout]]). An attendant group of mischievous, half-trained, not-quite-identifiable animals caper to this music. The clown never speaks but allows visitors to guess at the animals' nature for a copper piece.  
-- **Silessa the Snake.** A dancer and animal tamer, Silessa ([[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]]) performs with a collection of rare serpents. She claims she was born a snake and magically transformed into an elf.  
+- **Tindal the Barker.** Tindal, the Carnival's cynical, fast-talking lead barker ([[5. Mechanics\Bestiary\Humanoid\Mage.md|mage]]), tours the grounds with visitors. At their last stop, he reveals his own uniqueness as the Amazing Soul-less Man: he casts no reflection and claims to lack a soul.  
+- **Alti the Werehare.** A quick-tongued rapper and dancer, Alti ([[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererat]]) is a bombastic performer who turns into a rabbit on nights of the full moon.  
+- **Amelia the Vampire.** Amelia ([[5. Mechanics\Bestiary\Humanoid\Scout.md|scout]] with a flying speed of 30 feet) is a cheery acrobat aided in her performances by a pair of leathery wings that allows her to fly. Before stepping on stage, she powders her face, affects a somber accent, and pretends to be undead.  
+- **Charlotte the Fire Eater.** This juggling daredevil ([[5. Mechanics\Bestiary\Humanoid\Veteran.md|veteran]]) performs with a dizzying array of flaming knives and other deadly objects. She claims that her blood is flammable and that she's burned the hair off eighteen hecklers.  
+- **The Organ Grinder.** This somber clown grinds an ornate barrel organ ([[5. Mechanics\Bestiary\Humanoid\Scout.md|scout]]). An attendant group of mischievous, half-trained, not-quite-identifiable animals caper to this music. The clown never speaks but allows visitors to guess at the animals' nature for a copper piece.  
+- **Silessa the Snake.** A dancer and animal tamer, Silessa ([[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]]) performs with a collection of rare serpents. She claims she was born a snake and magically transformed into an elf.  
 
 #### Hall of Horrors
 
-A severe, bespectacled academic, Professor Pacali runs the Carnival's Hall of Horrors. This sizable, sinister tent contains a maze of taxidermic creatures, cabinets of curiosity, peculiar specimens in jars, and the occasional true wonder. Pacali hides a personal unsettling secret. During his time as a researcher at the Brautslava Institute in Darkon, Pacali was cursed: his worst impulses now grow from his body as terrible creatures. He bottles these murderous homunculi and touts them as "Professor Pacali's Pickled Punks," but every now and then one "escapes." Pacali persistently criticizes Hermos and [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], but rarely acts against them directly.
+A severe, bespectacled academic, Professor Pacali runs the Carnival's Hall of Horrors. This sizable, sinister tent contains a maze of taxidermic creatures, cabinets of curiosity, peculiar specimens in jars, and the occasional true wonder. Pacali hides a personal unsettling secret. During his time as a researcher at the Brautslava Institute in Darkon, Pacali was cursed: his worst impulses now grow from his body as terrible creatures. He bottles these murderous homunculi and touts them as "Professor Pacali's Pickled Punks," but every now and then one "escapes." Pacali persistently criticizes Hermos and [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], but rarely acts against them directly.
 
 #### Litwick Market
 
@@ -961,53 +905,53 @@ The Carnival doesn't travel alone. Wherever it goes, fey creatures chase after i
 
 ### Isolde and Nepenthe
 
-[[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], the Carnival's leader, is an eladrin (an elf native to the Feywild). She is a Fey who otherwise uses the [[/5. Mechanics/Bestiary/Fiend/Cambion.md|cambion]] stat block. She is never seen without her holy avenger longsword, [[/5. Mechanics/Items/Nepenthe (VRGR).md|Nepenthe]], which glows red with hate. Nepenthe, not [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], is the Carnival's Darklord.
+[[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], the Carnival's leader, is an eladrin (an elf native to the Feywild). She is a Fey who otherwise uses the [[5. Mechanics\Bestiary\Fiend\Cambion.md|cambion]] stat block. She is never seen without her holy avenger longsword, [[5. Mechanics\Items\Nepenthe (VRGR).md|Nepenthe]], which glows red with hate. Nepenthe, not [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], is the Carnival's Darklord.
 
 #### Isolde
 
-![[051-03-010-isolde-with-the-sword-nepenthe.png#center|Isolde with the sword Nepenthe]]
+![[Isolde](compendium/bestia...](compendium/books/van-richtens-guide-to-ravenloft/img/051-03-010-isolde-with-the-sword-nepenthe.png#center "[[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] with the sword Nepenthe")
 
-[[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] and her companions had slain. Rather than be angry at [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]]'s companions, leaving [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] alone, bitter, and vulnerable. The insidious archfey then befriended [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] and offered to help her forget her terrible losses. [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] and quelled her thirst for vengeance.
+[[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] and her companions had slain. Rather than be angry at [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]]'s companions, leaving [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] alone, bitter, and vulnerable. The insidious archfey then befriended [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] and offered to help her forget her terrible losses. [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] and quelled her thirst for vengeance.
 
-Zybilna and [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] enjoyed a strong partnership for years, but as time wore on, they grew distant until their relationship finally soured. Eladrin crave change, yet [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] felt like she was frozen in time. She wished to leave the fey carnival and pursue other dreams, but Zybilna wouldn't hear of it and secretly used [[/5. Mechanics/Spells/Wish.md|wish]] spells to make [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] place her devotion to the carnival above her desire to leave it.
+Zybilna and [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] enjoyed a strong partnership for years, but as time wore on, they grew distant until their relationship finally soured. Eladrin crave change, yet [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] felt like she was frozen in time. She wished to leave the fey carnival and pursue other dreams, but Zybilna wouldn't hear of it and secretly used [[5. Mechanics\Spells\Wish.md|wish]] spells to make [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] place her devotion to the carnival above her desire to leave it.
 
-When [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]]'s fey carnival crossed paths with another carnival from the Shadowfell, the eladrin found the escape she longed for. [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] orchestrated a trade with the other carnival's owners, a pair of shadar-kai (elves native to the Shadowfell). [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] would become the master of their carnival, and they would become the masters of hers. To appease Zybilna, this arrangement would remain in place only until the two carnivals crossed paths again.
+When [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]]'s fey carnival crossed paths with another carnival from the Shadowfell, the eladrin found the escape she longed for. [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] orchestrated a trade with the other carnival's owners, a pair of shadar-kai (elves native to the Shadowfell). [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] would become the master of their carnival, and they would become the masters of hers. To appease Zybilna, this arrangement would remain in place only until the two carnivals crossed paths again.
 
-Zybilna was intrigued enough by the shadar-kai to let [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] go, but not without casting a spell that made [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] forget about Zybilna and her Feywild domain, thus preventing the eladrin from divulging the archfey's secrets. As a further punishment, Zybilna sent malevolent fey creatures to hound [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] and her Shadowfell carnival. [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] doesn't know who is behind this petty torment, nor does she care. Her hunt for the Caller and her thirst for vengeance have become all-consuming.
+Zybilna was intrigued enough by the shadar-kai to let [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] go, but not without casting a spell that made [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] forget about Zybilna and her Feywild domain, thus preventing the eladrin from divulging the archfey's secrets. As a further punishment, Zybilna sent malevolent fey creatures to hound [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] and her Shadowfell carnival. [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] doesn't know who is behind this petty torment, nor does she care. Her hunt for the Caller and her thirst for vengeance have become all-consuming.
 
 #### Nepenthe
 
-The holy avenger named [[/5. Mechanics/Items/Nepenthe (VRGR).md|Nepenthe]] was crafted by shadar-kai to mete out justice as an executioner's weapon. In its lifetime, the sword has beheaded thousands of criminals, not all of whom were guilty of the crimes for which they were convicted. The sword cannot distinguish the guilty from the innocent. With each beheading, it hungers for more justice and blood.
+The holy avenger named [[5. Mechanics\Items\Nepenthe (VRGR).md|Nepenthe]] was crafted by shadar-kai to mete out justice as an executioner's weapon. In its lifetime, the sword has beheaded thousands of criminals, not all of whom were guilty of the crimes for which they were convicted. The sword cannot distinguish the guilty from the innocent. With each beheading, it hungers for more justice and blood.
 
-Nepenthe came to the Carnival in the hands of a retired half-ogre who moonlighted as a sword-swallower. When the half-ogre died of old age, the sword was deemed the property of the Carnival. It was given to [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] by the Carnival's previous owners, who claimed that the sword would help her protect the Carnival against any threat.
+Nepenthe came to the Carnival in the hands of a retired half-ogre who moonlighted as a sword-swallower. When the half-ogre died of old age, the sword was deemed the property of the Carnival. It was given to [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] by the Carnival's previous owners, who claimed that the sword would help her protect the Carnival against any threat.
 
-In [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], the sword found a partner who shared its blind malice toward the guilty. [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] uses Nepenthe to behead anyone found guilty of stealing from the Carnival or inflicting harm upon it.
+In [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], the sword found a partner who shared its blind malice toward the guilty. [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] uses Nepenthe to behead anyone found guilty of stealing from the Carnival or inflicting harm upon it.
 
-As soon as [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] took up the blade, it rekindled the grief and fury she had suppressed for so long, awakening the desire to avenge her long-dead companions by slaying the fiend she knows as "the Caller" (see ""Mist Wanderers"" later in this chapter for details). [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] always chooses the Carnival's stops based on her predictions of the Caller's next steps, and if her pursuit forces the Carnival into danger, so be it. Only by ridding [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] of Nepenthe can she truly escape the Dark Powers' clutches. But [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] will never part with the blade willingly, and if it is taken from the Carnival, the sword will always find its way back.
+As soon as [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] took up the blade, it rekindled the grief and fury she had suppressed for so long, awakening the desire to avenge her long-dead companions by slaying the fiend she knows as "the Caller" (see ""Mist Wanderers"" later in this chapter for details). [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] always chooses the Carnival's stops based on her predictions of the Caller's next steps, and if her pursuit forces the Carnival into danger, so be it. Only by ridding [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] of Nepenthe can she truly escape the Dark Powers' clutches. But [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] will never part with the blade willingly, and if it is taken from the Carnival, the sword will always find its way back.
 
-In addition to having the properties of a holy avenger, Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically. When using its telepathy to speak to [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], the sword can mimic the voices of [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]]'s fallen companions as it drives her to catch their fiendish killer. Unlike [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]], whose motives are good, the sword is corrupt and irredeemable.
+In addition to having the properties of a holy avenger, Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically. When using its telepathy to speak to [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], the sword can mimic the voices of [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]]'s fallen companions as it drives her to catch their fiendish killer. Unlike [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]], whose motives are good, the sword is corrupt and irredeemable.
 
 #### Freedom of the Mists
 
-The Carnival travels through the Mists and between other Domains of Dread as [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] pleases—though the Dark Powers occasionally send it off course. The Carnival provides one of the few means of escaping from another Darklord's domain, since it ignores the closed borders of other domains. Other Darklords cannot travel with the Carnival to escape their own domains, however.
+The Carnival travels through the Mists and between other Domains of Dread as [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] pleases—though the Dark Powers occasionally send it off course. The Carnival provides one of the few means of escaping from another Darklord's domain, since it ignores the closed borders of other domains. Other Darklords cannot travel with the Carnival to escape their own domains, however.
 
 #### Closing the Borders
 
-Nepenthe can close the borders of its domain, as detailed in ""The Mists"" at the start of this chapter. With the sword's consent, [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] can do the same. When the Carnival's borders close, the Mists are filled with eerie, colorful lights and distant music, echoing memories of past carnivals.
+Nepenthe can close the borders of its domain, as detailed in ""The Mists"" at the start of this chapter. With the sword's consent, [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] can do the same. When the Carnival's borders close, the Mists are filled with eerie, colorful lights and distant music, echoing memories of past carnivals.
 
 #### Isolde's Torment
 
-[[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] is both protector and prisoner of the Carnival.
+[[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] is both protector and prisoner of the Carnival.
 
 The following truths endlessly weigh upon her:
 
-- The Carnival constantly grows, bringing additional souls dependent on [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]]'s guardianship. She's tortured by her obligation toward the Carnival's troupers and her vow to avenge her murdered companions.  
-- [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] obsessively plots the perfect confrontation with her immortal quarry, the Caller. But the small concerns of the Carnival nag at her ceaselessly, exacerbated by the fey interlopers drawn to her presence. Her burdens drive her to seek seclusion to keep her legendary temper in check.  
-- [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] dreads the day when the Carnival crosses paths with its fey counterpart for a second time. Were that to happen, [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] would be forced to relinquish the Carnival to its true shadar-kai masters, and Nepenthe along with it.  
+- The Carnival constantly grows, bringing additional souls dependent on [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]]'s guardianship. She's tortured by her obligation toward the Carnival's troupers and her vow to avenge her murdered companions.  
+- [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] obsessively plots the perfect confrontation with her immortal quarry, the Caller. But the small concerns of the Carnival nag at her ceaselessly, exacerbated by the fey interlopers drawn to her presence. Her burdens drive her to seek seclusion to keep her legendary temper in check.  
+- [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] dreads the day when the Carnival crosses paths with its fey counterpart for a second time. Were that to happen, [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] would be forced to relinquish the Carnival to its true shadar-kai masters, and Nepenthe along with it.  
 
 #### Roleplaying Isolde
 
-The Carnival is the closest thing [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] has to a family and a home, and she expects everyone who works for her to carry their weight. She endlessly overburdens herself, struggling to protect those around her as her hate for the Caller drives her forward at any cost.
+The Carnival is the closest thing [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] has to a family and a home, and she expects everyone who works for her to carry their weight. She endlessly overburdens herself, struggling to protect those around her as her hate for the Caller drives her forward at any cost.
 
 ##### Personality Trait
 
@@ -1027,7 +971,7 @@ The Carnival is the closest thing [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|
 
 ### Adventures in the Carnival
 
-The Carnival deals in fabricated spectacles and cheap surprises, but it disguises actual marvels of a far deadlier sort. Even as the Carnival's troupers astonish their visitors with amazing performances, a surreal world of outlandish beings, dangerous bargains, and deadly tricks encroaches on the festivities, threatening performers and audiences alike. The Carnival provides a safe place for a time, but the longer it lingers, the greater the danger grows—whether from intolerant common folk, jaded troupers, dangerous fey, or [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]]'s tireless quest.
+The Carnival deals in fabricated spectacles and cheap surprises, but it disguises actual marvels of a far deadlier sort. Even as the Carnival's troupers astonish their visitors with amazing performances, a surreal world of outlandish beings, dangerous bargains, and deadly tricks encroaches on the festivities, threatening performers and audiences alike. The Carnival provides a safe place for a time, but the longer it lingers, the greater the danger grows—whether from intolerant common folk, jaded troupers, dangerous fey, or [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]]'s tireless quest.
 
 Consider the plots on the Carnival Adventures table when planning adventures in this domain.
 
@@ -1038,12 +982,12 @@ Consider the plots on the Carnival Adventures table when planning adventures in 
 | 1 | One of the Carnival's performers has been arrested by a local sheriff. Hermos asks the party to return the trouper, either to save them or to make them face Carnival justice. |
 | 2 | A local hires the party to find a loved one who disappeared at the Carnival. The trail leads to a Litwick Market vendor whose trinkets turn people into their favorite animals. |
 | 3 | The Carnival adopts a new performer escaping their family. The performer asks the party to deter family members intent on bringing them home. |
-| 4 | The characters find a mirror holding the disembodied reflection of Tindafulus, a [[/5. Mechanics/Bestiary/Humanoid/Mage.md|mage]] trapped by his own reflection. He wants the party to find his duplicate, who escaped with a mysterious carnival. |
+| 4 | The characters find a mirror holding the disembodied reflection of Tindafulus, a [[5. Mechanics\Bestiary\Humanoid\Mage.md|mage]] trapped by his own reflection. He wants the party to find his duplicate, who escaped with a mysterious carnival. |
 ^carnival-adventures
 
 ## Darkon
 
-_Domain on the Brink of Destruction_
+*Domain on the Brink of Destruction*
 
 - **Darklord.** None  
 - **Genres.** "Dark fantasy" and "disaster horror"  
@@ -1083,8 +1027,8 @@ Those familiar with Darkon know the following facts:
 Darkon is a land of dark wonders and apathy. The ruins of forgotten magical empires and impossible architecture litter the land, but the jaded people ignore these marvels to focus on daily concerns.
 
 > [!gallery]
-> ![[052-map-3-3-darkon.jpg#gallery|Map 3.3: Darkon]]
-> ![[053-map-3-3-darkon-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\052-map-3-3-darkon.jpg#gallery|Map 3.3: Darkon]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\053-map-3-3-darkon-player.jpg#gallery|Player Version]]
 
 #### Castle Avernus
 
@@ -1120,7 +1064,7 @@ Since the disappearance of Azalin Rex, Darkon has been without a Darklord. Three
 
 Alcio was never close to her brother, Baron, even after a Kargat vampire turned them both into undead servants. When her creator was destroyed, Alcio and Baron went their separate ways.
 
-![Alcio "Baron" Metus](/compendium/books/van-richtens-guide-to-ravenloft/img/054-03-011-alcid.png#center)
+![Alcio "Baron" Metus](compendium/books/van-richtens-guide-to-ravenloft/img/054-03-011-alcid.png#center)
 
 It took Alcio years to learn of her brother's death at the hands of Rudolph van Richten, a doctor from Rivalis (see ""Mist Wanderers"" at the end of the chapter). Furious, she sought revenge, but van Richten had moved on, his trail hidden by the Mists. Alcio sought hints of the doctor's location at Richten House, his family's estate. There, she found the spirit of Rudolph's wife, Doctor Ingrid van Richten. Despite imaginative bargains and threats, Alcio couldn't convince Ingrid to reveal anything beyond psychological diagnoses and bemused mockery. Furious, the vampire sought other avenues in her search for her brother's slayer.
 
@@ -1132,7 +1076,7 @@ Now, Alcio spreads her agents across Darkon, targeting Il Aluk as the next addit
 
 ##### Using Alcio Metus
 
-Alcio is a flashy, passionate, and fantastically violent [[/5. Mechanics/Bestiary/Undead/Vampire.md|vampire]]. As the head of the Kargat and the region's criminal operations, she rules the Jagged Coast using information and intimidation. She's quick to punish incompetence and quicker to reward daring, but she reserves her greatest rewards for those who further her plots for revenge against Rudolph van Richten.
+Alcio is a flashy, passionate, and fantastically violent [[5. Mechanics\Bestiary\Undead\Vampire.md|vampire]]. As the head of the Kargat and the region's criminal operations, she rules the Jagged Coast using information and intimidation. She's quick to punish incompetence and quicker to reward daring, but she reserves her greatest rewards for those who further her plots for revenge against Rudolph van Richten.
 
 #### Darcalus Rex
 
@@ -1144,27 +1088,27 @@ Through magic and chemical manipulation, Cardinna summoned the spirit of Darcalu
 
 ##### Using Darcalus
 
-Darcalus Rex is a [[/5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md|necrichor]] (see "chapter 5") who cares little for the survival of Darkon—and might not even be the ancient ruler. The elf [[/5. Mechanics/Bestiary/Humanoid/Archmage.md|archmage]] Cardinna Artazas desperately believes she's doing what must be done—including corrupting her order—to save her homeland.
+Darcalus Rex is a [[5. Mechanics\Bestiary\Undead\Necrichor (VRGR).md|necrichor]] (see "chapter 5") who cares little for the survival of Darkon—and might not even be the ancient ruler. The elf [[5. Mechanics\Bestiary\Humanoid\Archmage.md|archmage]] Cardinna Artazas desperately believes she's doing what must be done—including corrupting her order—to save her homeland.
 
 #### Madame Talisveri Eris
 
 The members of the Eris family stand proudly as Il Aluk's foremost artisans of the grand craft of lying. Despite its ancient name, the family has long endured crushing debt. Through poise and predatory business dealings, members have clung to their rotted estate, Calasquel. As the fortunes of Il Aluk's elite withered, Talisveri Eris took advantage of her family's duplicitous expertise, peddling empty assurances from the center of a web of credit, gossip, and desperate debtors.
 
-![[055-03-012-castle-avernus.png#center|"Castle Avernus, frozen at the moment of its destruction"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\055-03-012-castle-avernus.png#center|"Castle Avernus, frozen at the moment of its destruction"]]
 
 Bubbly and fantastically vain, Madame Eris would appear to be a woman of nearly eighty if her attempts at magical age-defiance hadn't resulted in her permanent invisibility. The result of imbibing a flawed magic elixir meant to make her look younger, Eris's invisibility has persisted for decades. She uses avant-garde fashion and gallons of makeup to create the face she presents publicly, as well as presenting numerous alter egos: fictitious family members such as her miserly cousin, Halpernista; her foppish nephew, Oscanor; and her bewilderingly ancient and perpetually furious sister, Lady Tatsaul.
 
 Madame Eris hosts elaborate balls at Calasquel, outside Il Aluk, during which she privately meets with attendees, learns their woes, and tempts them into exploitative business ventures. She plays the nostalgic, elder aristocrat who themes her events around bygone decades, featuring period entertainments and fare that only she remembers—since they're largely lies of her creation.
 
-On the night of each new moon, Madame Eris hosts a private event, gathering her loyal and indebted associates. She refers to this group as the Family. As she deeply exploits these entitled young nobles, she leads them to believe they're key to restoring Il Aluk's grandeur. During this event, she encourages her guests to drink a cordial called the Spirit of Nobility. This magic elixir grants the drinker the effect of a [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]] spell until dawn. Madame Eris then encourages her guests to indulge their desire for violence—and commit crimes that further her plots. Residents of Il Aluk stay indoors during the new moon, believing hateful spirits walk the streets then.
+On the night of each new moon, Madame Eris hosts a private event, gathering her loyal and indebted associates. She refers to this group as the Family. As she deeply exploits these entitled young nobles, she leads them to believe they're key to restoring Il Aluk's grandeur. During this event, she encourages her guests to drink a cordial called the Spirit of Nobility. This magic elixir grants the drinker the effect of a [[5. Mechanics\Spells\Greater Invisibility.md|greater invisibility]] spell until dawn. Madame Eris then encourages her guests to indulge their desire for violence—and commit crimes that further her plots. Residents of Il Aluk stay indoors during the new moon, believing hateful spirits walk the streets then.
 
 ##### Using Madame Eris
 
-Madame Eris is a human [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]]. Her body is permanently [[5. Mechanics/Rules/Conditions.md#invisible|invisible]], but her cosmetics and clothing aren't. It takes her at least 10 minutes and copious cosmetics to create a visible form. She dresses in a fashion typical of her desired appearance or of a fictitious family member.
+Madame Eris is a human [[5. Mechanics\Bestiary\Humanoid\Noble.md|noble]]. Her body is permanently [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]], but her cosmetics and clothing aren't. It takes her at least 10 minutes and copious cosmetics to create a visible form. She dresses in a fashion typical of her desired appearance or of a fictitious family member.
 
 > [!quote] Who Is Azalin Rex?
 > 
-> In life, Azalin was an arrogant wizard-tyrant who murdered his brother, executed his son, and embroiled his nation in unending war. The Mists claimed him and he emerged in Barovia. When the locals asked him who he was, he responded "_azal'Lan_," meaning "wizard-king" in his native language.
+> In life, Azalin was an arrogant wizard-tyrant who murdered his brother, executed his son, and embroiled his nation in unending war. The Mists claimed him and he emerged in Barovia. When the locals asked him who he was, he responded "*azal'Lan*," meaning "wizard-king" in his native language.
 > 
 > In Barovia, Azalin formed a truce with Strahd von Zarovich. From the count and the land's ancient ruins, he learned much of the nature of the Domains of Dread. Azalin and Strahd attempted to escape Barovia multiple times, but failure and resentment eventually turned the villains into vicious rivals. When Azalin forsook Castle Ravenloft and reentered the Mists, his own domain, Darkon, took shape around him.
 > 
@@ -1175,17 +1119,7 @@ Madame Eris is a human [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]]. Her b
 
 Darkon presents a dystopian fantasy setting perfect for exploring the darker sides of familiar magic and monsters. Creatures such as dragons and beholders that might be ill-suited to other domains find natural homes among this realm's scattered settlements and ancient magical ruins. The Darkon Adventures table provides suggestions for various adventures in the domain.
 
-**Darkon Adventures**
-
-| dice: d6 | Adventure |
-|----------|-----------|
-| 1 | The party learns how to destroy the Heart of the Abyss, a relic held by the Order of the Guardians and hunted by a demon called the Whistling Fiend. |
-| 2 | The [[/5. Mechanics/Bestiary/Fiend/Night Hag.md|night hag]] Styrix has created a device called the Rift Spanner that she plans to use to escape the Domains of Dread. She just needs to transform a few hundred innocents into larvae to power it. |
-| 3 | A ship captain offers to take the characters away from Darkon, but only after they deliver a trunk full of alchemical supplies to Madame Eris at her family estate. |
-| 4 | Merchants hire the party as protection from the pirate ship Bountiful. Captain Damon Skragg raids not for loot, but for flesh to feed his [[/5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]] crew. |
-| 5 | Researchers from the Brautslava Institute require assistants to aid in investigations into fields such as necrolinguistics and temporal archaeozoology. |
-| 6 | Murders plague the wealthy families of Redleaf Lake. Locals seek aid from the characters, unaware the bitter dowager Damita Adler exacts a generations-old revenge from her dilapidated home. |
-^darkon-adventures
+![[5. Mechanics\Tables\Darkon Adventures (VRGR).md|Darkon Adventures]]
 
 ### The Doomed Domain
 
@@ -1195,15 +1129,7 @@ Unlike domains that feature claustrophobic, tightly themed horror, Darkon provid
 
 When Azalin Rex disappeared during the Hour of Ascension, Darkon lost its Darklord and the phenomenon called the Shroud began consuming the domain. When preparing your campaign, use the Darkon's Destruction and Azalin's Fate tables to establish an idea of why Darkon is being destroyed.
 
-**Darkon's Destruction**
-
-| dice: d4 | Destruction |
-|----------|-------------|
-| 1 | With Azalin gone, Darkon has no purpose. The Shadowfell is reabsorbing the demiplane. |
-| 2 | Darkon is being consumed to fuel magic funneling power from Castle Avernus into the King's Tear. |
-| 3 | The Hour of Ascension was an attack. Invaders are using the Shroud to disguise their assault. |
-| 4 | The [[/5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|priests of Osybus]] (see "chapter 5") are draining life from Darkon to empower the imprisoned vestige of a wicked deity. |
-^darkons-destruction
+![[5. Mechanics\Tables\Darkons Destruction (VRGR).md|Darkon's Destruction]]
 
 **Azalin's Fate**
 
@@ -1217,102 +1143,42 @@ When Azalin Rex disappeared during the Hour of Ascension, Darkon lost its Darklo
 
 > [!quote] The Shroud
 > 
-> During the day, the Mists surrounding Darkon can be traversed as normal, allowing creatures to travel between domains or regions of Darkon itself. At night, though, the Mists surrounding the domain turn deadly and encroach on the land—sometimes by infinitesimal degrees, other times in unstoppable floods. The fates of those claimed by these surges is a mystery. If a character experiments with the Shroud, a taste of this threat can take the form of damage, stress (see "Fear and Stress" in "chapter 4"), or a glimpse of the deadly forces lurking beyond. Don't outright slay characters who encounter the Shroud, but make sure the experience reinforces the threat to all of Darkon.
+> During the day, the Mists surrounding Darkon can be traversed as normal, allowing creatures to travel between domains or regions of Darkon itself. At night, though, the Mists surrounding the domain turn deadly and encroach on the land—sometimes by infinitesimal degrees, other times in unstoppable floods. The fates of those claimed by these surges is a mystery. If a character experiments with the Shroud, a taste of this threat can take the form of damage, stress (see "[[\5. Mechanics\Rules\Variant Rules\Fear And Stress (VRGR).md|Fear and Stress]]" in "chapter 4"), or a glimpse of the deadly forces lurking beyond. Don't outright slay characters who encounter the Shroud, but make sure the experience reinforces the threat to all of Darkon.
 ^the-shroud
 
 #### Darkon's Deliverance
 
 Darkon can be saved. Characters might discover a possibility on the Darkon's Salvation table, leading them to goals on the Means to Save Darkon table.
 
-**Darkon's Salvation**
+![[5. Mechanics\Tables\Darkons Salvation (VRGR).md|Darkon's Salvation]]
 
-| dice: d6 | Method |
-|----------|--------|
-| 1 | Find or restore Azalin and return him to Darkon. |
-| 2 | Present the Dark Powers a worthy new Darklord. |
-| 3 | Bestow a symbol of rule upon a new Darklord. |
-| 4 | Free Darkon from the Shadowfell. |
-| 5 | Merge Darkon with another domain. |
-| 6 | Trick another Darklord into entering Darkon. |
-^darkons-salvation
-
-**Means to Save Darkon**
-
-| dice: d6 | Implement |
-|----------|-----------|
-| 1 | Pieces of Azalin's shattered crown |
-| 2 | The Rift Spanner, a portal-making contraption |
-| 3 | A hidden amber sarcophagus that contains the last vestige of a powerful evil being |
-| 4 | The King's Tear, a floating anomaly or structure |
-| 5 | The Apparatus (see ""Mordent"" in this chapter) |
-| 6 | The blood of Strahd von Zarovich, fundamental to the nature of the Domains of Dread |
-^means-to-save-darkon
+![[5. Mechanics\Tables\Means To Save Darkon (VRGR).md|Means to Save Darkon]]
 
 #### Desperate Allies and Rivals
 
 The Darkon Allies table describes characters and groups who strive to save the domain, while the Darkon Rivals table notes those who scheme to ruin it.
 
-**Darkon Allies**
+![[5. Mechanics\Tables\Darkon Allies (VRGR).md|Darkon Allies]]
 
-| dice: d6 | Ally |
-|----------|------|
-| 1 | Irik Zal'honen, the mournful spirit of Azalin's son |
-| 2 | The Order of the Guardians, ascetics who isolate dangerous magic and prevent supernatural ruin |
-| 3 | Cardinna Artazas of the Eternal Order |
-| 4 | Doctor Ingrid van Richten, a scholarly spirit who haunts Richten House near Rivalis |
-| 5 | The Ray Agency, investigators based in Martira Bay |
-| 6 | Skeever, Azalin's [[/5. Mechanics/Bestiary/Fiend/Imp.md|imp]] familiar |
-^darkon-allies
-
-**Darkon Rivals**
-
-| dice: d6 | Rival |
-|----------|-------|
-| 1 | Alcio Metus and the Kargat |
-| 2 | Darcalus Rex and the Eternal Order |
-| 3 | Madame Talisveri Eris and the Family |
-| 4 | Ebbasheyth, Azalin's black shadow dragon advisor |
-| 5 | A cursed artifact held within an Order of the Guardians monastery |
-| 6 | Azalin's shadow, an echo of the Darklord |
-^darkon-rivals
+![[5. Mechanics\Tables\Darkon Rivals (VRGR).md|Darkon Rivals]]
 
 #### Dread in Darkon
 
 While the Shroud poses a domain-spanning threat, other dooms threaten adventurers in Darkon. Consider the grim omens and lurking terrors on the Dread in Darkon table as recurring threats in your adventures.
 
-**Dread in Darkon**
-
-| dice: d6 | Dread Possibility |
-|----------|-------------------|
-| 1 | A prophecy foretells the characters' involvement in Darkon's salvation or destruction, and comes with eight unavoidable omens. |
-| 2 | The characters were involved in the Hour of Ascension and share a Dark Gift (see "chapter 1"). |
-| 3 | One of the characters is the perfect vessel for a new Darklord or Azalin's rebirth. |
-| 4 | The party is forced to work with an evil being, one from the Darkon Rivals table or another Darklord. |
-| 5 | The dead of Darkon wish to aid the characters, flocking to them in a growing legion. |
-| 6 | The characters suffer desperate, fractured dreams sent from mysterious allies or their future selves, warning them of calamity. |
-^dread-in-darkon
+![[5. Mechanics\Tables\Dread In Darkon (VRGR).md|Dread in Darkon]]
 
 #### Darkon's Final Fate
 
 While planning your adventures in Darkon, keep the end of the campaign in mind. Your plans for this climax might change multiple times during the campaign, shifting with the characters' actions and goals. The suggestions on the Darkon Finale table offer conclusions that can guide your adventures.
 
-**Darkon Finale**
-
-| dice: d6 | Finale |
-|----------|--------|
-| 1 | None of Azalin's would-be inheritors are fit to become Darklord. Only by merging their spirits or making one inheritor the vessel for a hidden evil can a new Darklord arise. |
-| 2 | The King's Tear is a dungeon-sized amber chrysalis that Azalin is using to create a new Dark Power. The characters must find the black shadow dragon Ebbasheyth and convince her to help infiltrate the floating construction and shatter it from within. |
-| 3 | Azalin believes the only way to escape the Domains of Dread is by shattering their linchpin: the first domain, Barovia. He has escaped Darkon, but the next stage of his scheme must be stopped before he destroys all the domains. |
-| 4 | Each of Azalin's inheritors holds a piece of the Darklord's crown. Claiming the pieces and bringing them to Castle Avernus allows Azalin's restoration or a new Darklord's ascension. |
-| 5 | One of the characters is a clone of Azalin, created as a potential Darklord so the real Azalin could escape. The Hour of Ascension was a distraction to mislead the Dark Powers. |
-| 6 | Azalin changed time so he never became a Darklord. The characters must follow Azalin into his past and ensure his deeds attract the Dark Powers' notice. |
-^darkon-finale
+![[5. Mechanics\Tables\Darkon Finale (VRGR).md|Darkon Finale]]
 
 Ultimately, whatever course you choose, the characters in horror stories rarely escape unscarred. Perhaps a character or one of their allies must make a dramatic sacrifice to save Darkon—or become the new Azalin. Or perhaps Darkon is irrevocably, doomed and the characters must choose which piece of the fractured domain will survive. In any case, whether a new Darklord rises or Darkon is otherwise spared, one nightmare's end is likely another's beginning.
 
 ## Dementlieu
 
-_Domain of Decadent Delusion_
+*Domain of Decadent Delusion*
 
 - **Darklord.** Saidra d'Honaire  
 - **Genres.** "Dark fantasy" and "psychological horror"  
@@ -1320,10 +1186,10 @@ _Domain of Decadent Delusion_
 - **Mist Talismans.** Jeweled or feathered mask, article of well-worn fine clothing, shoe made of glass or gold  
 
 > [!gallery]
-> ![[056-map-3-4-dementlieu.jpg#gallery|Map 3.4: Dementlieu]]
-> ![[057-map-3-4-dementlieu-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\056-map-3-4-dementlieu.jpg#gallery|Map 3.4: Dementlieu]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\057-map-3-4-dementlieu-player.jpg#gallery|Player Version]]
 
-Every night brings another glittering affair in Dementlieu, whose citizens live glamorous and exciting lives. They enjoy the finest clothes, elegant jewels, grand ballrooms—and most extravagantly, the Grand Masquerade hosted by Duchess Saidra d'Honaire every seventh day at her island estate. Everyone who is _anyone_ attends the duchess's balls, and everyone who longs to be someone tries to wrangle an invitation or sneak in uninvited. But Duchess Saidra's wrath upon those who dare to set foot where they don't belong is truly horrible—and inevitably fatal.
+Every night brings another glittering affair in Dementlieu, whose citizens live glamorous and exciting lives. They enjoy the finest clothes, elegant jewels, grand ballrooms—and most extravagantly, the Grand Masquerade hosted by Duchess Saidra d'Honaire every seventh day at her island estate. Everyone who is *anyone* attends the duchess's balls, and everyone who longs to be someone tries to wrangle an invitation or sneak in uninvited. But Duchess Saidra's wrath upon those who dare to set foot where they don't belong is truly horrible—and inevitably fatal.
 
 The domain of Dementlieu consists of the city of Port-a-Lucine, which embraces the murky waters of Pernault Bay and Lucine Bay, as well as shifting scraps of fog-shrouded suburban areas around the city. Port-a-Lucine is a festering mire of rot and decay hidden beneath a glittering facade of decadent wealth. Everything appears more valuable, more solid, and more wholesome than the actuality, and everyone behaves as if the illusion of grandeur and prosperity were real.
 
@@ -1396,11 +1262,11 @@ Enraged to discover this "duke" was no more a real duke than her father—and wo
 
 Saidra awoke on the foggy grounds of her new estate in Port-a-Lucine, a true duchess, as she had always imagined, but also an undead wraith. When she's dressed in elegant gowns and an elaborate mask, those around her accept the obvious lie that she's a living woman. When she isn't hosting her masquerade balls, she sheds her garb and stalks the city as a murderous spirit known as the Red Death. In either form, her goal is the same: to unmask and destroy pompous fools who pretend to be what they are not, aspire to higher station than they deserve, and fail to maintain the appearance of normalcy.
 
-![[058-03-013-duchess.png#center|"Duchess d'Honaire punishes the unworthy who sneak into the Grand Masquerade"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\058-03-013-duchess.png#center|"Duchess d'Honaire punishes the unworthy who sneak into the Grand Masquerade"]]
 
 #### Saidra's Powers and Dominion
 
-Saidra's form is a vaporous as her claims to nobility. She's a crimson spirit with statistics similar to a [[/5. Mechanics/Bestiary/Undead/Wraith.md|wraith]]. She can cast the [[/5. Mechanics/Spells/Disintegrate.md|disintegrate]] spell (save DC 18) on any creature that reveals themself to be lying about who they are. In her guise as duchess, Saidra dons a bird-like mask and fashionable scarlet gowns. As the Red Death, she is nothing more than a crimson-tinged shadow.
+Saidra's form is a vaporous as her claims to nobility. She's a crimson spirit with statistics similar to a [[5. Mechanics\Bestiary\Undead\Wraith.md|wraith]]. She can cast the [[5. Mechanics\Spells\Disintegrate.md|disintegrate]] spell (save DC 18) on any creature that reveals themself to be lying about who they are. In her guise as duchess, Saidra dons a bird-like mask and fashionable scarlet gowns. As the Red Death, she is nothing more than a crimson-tinged shadow.
 
 ##### Closing the Borders
 
@@ -1442,17 +1308,7 @@ As adventurers interact with people in Port-a-Lucine, they find everyone obsesse
 
 For more adventure ideas, consider the plots on the Dementlieu Adventures table.
 
-**Dementlieu Adventures**
-
-| dice: d6 | Adventure |
-|----------|-----------|
-| 1 | A shrieky soprano is starring in the new production at the Port-a-Lucine Opera House. Jealous divas hire the party to figure out what magic she used to bewitch her way into a role. |
-| 2 | A Phlegethan Hospital patient contacts the party, claiming to be the rightful Duke d'Honaire. He has a preternatural ability to bend others to his will. |
-| 3 | The party runs afoul of the city watch and learns that their captain has been replaced by a devil who's transforming them into a brutal force. |
-| 4 | People are being replaced by lifelike constructs, while the originals are held captive in the cellar beneath Alexandre du Cire's House of Wax. A party member is the next target. |
-| 5 | A crusader hunting the Red Death is murdered. The culprit isn't the Red Death, but the family of a recent victim, who don't want the victim's poverty and lies to come to light. |
-| 6 | A woman claiming to be Duchess Saidra's stepsister arrives in town and makes discreet inquiries about how to best reveal the horrible truth about the duchess: that she is a lowborn fraud. |
-^dementlieu-adventures
+![[5. Mechanics\Tables\Dementlieu Adventures (VRGR).md|Dementlieu Adventures]]
 
 ### The Grand Masquerade
 
@@ -1488,7 +1344,7 @@ A basic costume with a simple mask costs 5 gp. But elaborate costumes are a stat
 
 ##### Arriving at the Masquerade
 
-When the characters arrive at the duchess's estate, the Darklord's ghoul servants check invitations and outfits at the doors. They refuse entry to anyone missing acceptable versions of either. Ask the characters to make Charisma ([[5. Mechanics/Rules/Skills.md#Deception|Deception]]) checks if they present false invitations or have expressed worry that their costumes are subpar, but unless they roll especially poorly, the check simply reinforces the fear of being caught.
+When the characters arrive at the duchess's estate, the Darklord's ghoul servants check invitations and outfits at the doors. They refuse entry to anyone missing acceptable versions of either. Ask the characters to make Charisma ([[\5. Mechanics\Rules\Skills.md#Deception|Deception]]) checks if they present false invitations or have expressed worry that their costumes are subpar, but unless they roll especially poorly, the check simply reinforces the fear of being caught.
 
 #### Social Niceties
 
@@ -1496,16 +1352,16 @@ Once inside the Grand Masquerade, the characters must observe a host of unwritte
 
 Allow the characters to employ the following tactics in their interactions at the Grand Masquerade:
 
-- Characters can keep a close eye on how other people behave and mimic that behavior. Use Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks to measure how keenly they observe the partygoers' deportment, and Intelligence ([[5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) checks to deduce the right behavior for a particular situation.  
-- Characters can apply magic or intuition to discern the response or behavior that a questioner expects. Use Wisdom ([[5. Mechanics/Rules/Skills.md#Insight|Insight]]) checks unless characters have access to mind-reading spells such as [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]] or similar magic.  
-- Characters can fake it 'til they make it. Use Charisma ([[5. Mechanics/Rules/Skills.md#Deception|Deception]]) checks extensively as characters work their way through the ball. Failed checks draw increased attention; on successful checks, the questioners lose interest.  
-- Characters can distract watchers to shift attention if things go badly. Use Charisma ([[5. Mechanics/Rules/Skills.md#Deception|Deception]]) or Dexterity ([[5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]]) checks (or any other reasonable skill checks the players suggest) to determine whether they turn the focus away from their errors.  
+- Characters can keep a close eye on how other people behave and mimic that behavior. Use Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) checks to measure how keenly they observe the partygoers' deportment, and Intelligence ([[\5. Mechanics\Rules\Skills.md#Investigation|Investigation]]) checks to deduce the right behavior for a particular situation.  
+- Characters can apply magic or intuition to discern the response or behavior that a questioner expects. Use Wisdom ([[\5. Mechanics\Rules\Skills.md#Insight|Insight]]) checks unless characters have access to mind-reading spells such as [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]] or similar magic.  
+- Characters can fake it 'til they make it. Use Charisma ([[\5. Mechanics\Rules\Skills.md#Deception|Deception]]) checks extensively as characters work their way through the ball. Failed checks draw increased attention; on successful checks, the questioners lose interest.  
+- Characters can distract watchers to shift attention if things go badly. Use Charisma ([[\5. Mechanics\Rules\Skills.md#Deception|Deception]]) or Dexterity ([[\5. Mechanics\Rules\Skills.md#Sleight%20of%20Hand|Sleight of Hand]]) checks (or any other reasonable skill checks the players suggest) to determine whether they turn the focus away from their errors.  
 
 #### Dancing
 
 Port-a-Lucine's high society has an established canon of dances that everyone knows and performs competently. These include paired dances and group dances, and involve dancing with a bewildering number of people over the course of the evening. Dancing is an opportunity to seize a fleeting connection with an important contact—and a chance to make a fatal error that results in being unmasked.
 
-Characters might try to learn the basic dances as they prepare for the Grand Masquerade, but no outsider can hope to learn every step in as little as a week. Like navigating the social niceties of the gathering, fumbling through a dance involves careful observation and skilled fakery, plus the added ingredients of natural grace and agility. Allow characters to make Dexterity ([[5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) or Charisma ([[5. Mechanics/Rules/Skills.md#Performance|Performance]]) checks to see if they pull off the steps—either through natural agility (Dexterity) or though their ability to make their moves look good anyway (Charisma).
+Characters might try to learn the basic dances as they prepare for the Grand Masquerade, but no outsider can hope to learn every step in as little as a week. Like navigating the social niceties of the gathering, fumbling through a dance involves careful observation and skilled fakery, plus the added ingredients of natural grace and agility. Allow characters to make Dexterity ([[\5. Mechanics\Rules\Skills.md#Acrobatics|Acrobatics]]) or Charisma ([[\5. Mechanics\Rules\Skills.md#Performance|Performance]]) checks to see if they pull off the steps—either through natural agility (Dexterity) or though their ability to make their moves look good anyway (Charisma).
 
 #### Random Complications
 
@@ -1517,7 +1373,7 @@ Use the Grand Masquerade Complications table to arbitrarily introduce a new elem
 |----------|--------------|
 | 1 | An angry guest with a costume identical to a character's accuses them of stealing the idea. |
 | 2 | A flirtatious guest decides these interesting characters deserve to be introduced to the city's elite. |
-| 3 | The character with the highest passive Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) score notices a nimble-fingered guest slipping a necklace off their dance partner. |
+| 3 | The character with the highest passive Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) score notices a nimble-fingered guest slipping a necklace off their dance partner. |
 | 4 | An intoxicated guest loudly confesses truths that other guests pretend not to hear. |
 | 5 | A scream from a different part of the estate pierces the air. Everyone hushes for a moment, then immediately carries on as if nothing had happened. |
 | 6 | Duchess Saidra enters the room, and sycophants immediately surround her. |
@@ -1540,7 +1396,7 @@ If the adventurers attract the duchess's wrath, they are unlikely to cower in fe
 
 ## Falkovnia
 
-_Domain Besieged by the Dead_
+*Domain Besieged by the Dead*
 
 - **Darklord.** Vladeska Drakov  
 - **Genre.** "Disaster horror"  
@@ -1581,8 +1437,8 @@ Those familiar with Falkovnia know the following facts:
 Falkovnia's settlements lie in ruin, its cities crumbling and unprotected, its villages abandoned and overgrown. Still, bastions of civilization hold out against the undead infesting the land, while dangers more terrifying than zombies lurk in hidden places.
 
 > [!gallery]
-> ![[059-map-3-5-falkovnia.png#gallery|Map 3.5: Falkovnia]]
-> ![[060-map-3-5-falkovnia-player.png#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\059-map-3-5-falkovnia.png#gallery|Map 3.5: Falkovnia]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\060-map-3-5-falkovnia-player.png#gallery|Player Version]]
 
 #### Lekar
 
@@ -1618,11 +1474,11 @@ Since then, Drakov has lost nearly her entire nation. Every month a new desperat
 
 #### Vladeska's Powers and Dominion
 
-Vladeska Drakov is an experienced military commander with statistics similar to those of a [[/5. Mechanics/Bestiary/Humanoid/Knight.md|knight]]. While her martial skill is considerable, her true might comes in the form of the obedient army that unquestioningly enacts her every whim.
+Vladeska Drakov is an experienced military commander with statistics similar to those of a [[5. Mechanics\Bestiary\Humanoid\Knight.md|knight]]. While her martial skill is considerable, her true might comes in the form of the obedient army that unquestioningly enacts her every whim.
 
 ##### The Falcon's Talons
 
-Vladeska's military forces are both completely overwhelming and entirely outnumbered. As an occupying force, the Talons are terrifying. Their numbers are relatively few, but they're organized enough to oppress Lekar's ragged survivors and enforce Drakov's totalitarian laws. In the face of zombie hordes, though, they're fighting a losing battle against foes whose numbers only grow. And every time a Talon falls, Lekar's final defeat grows closer. Talon soldiers use the [[/5. Mechanics/Bestiary/Humanoid/Guard.md|guard]] stat block, while commanders are [[/5. Mechanics/Bestiary/Humanoid/Veteran.md|veterans]].
+Vladeska's military forces are both completely overwhelming and entirely outnumbered. As an occupying force, the Talons are terrifying. Their numbers are relatively few, but they're organized enough to oppress Lekar's ragged survivors and enforce Drakov's totalitarian laws. In the face of zombie hordes, though, they're fighting a losing battle against foes whose numbers only grow. And every time a Talon falls, Lekar's final defeat grows closer. Talon soldiers use the [[5. Mechanics\Bestiary\Humanoid\Guard.md|guard]] stat block, while commanders are [[5. Mechanics\Bestiary\Humanoid\Veteran.md|veterans]].
 
 ##### Martial Law
 
@@ -1664,7 +1520,7 @@ Steely and fierce, Vladeska Drakov views softness as weakness and resents having
 
 "I and all I command will know death before we show weakness in defeat."
 
-![[061-03-014-vladeska.png#center|"Vladeska Drakov and her Talons struggle to defend Lekar from endless zombie hordes"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\061-03-014-vladeska.png#center|"Vladeska Drakov and her Talons struggle to defend Lekar from endless zombie hordes"]]
 
 ### Adventures in Falkovnia
 
@@ -1672,27 +1528,13 @@ Falkovnia provides the perfect setting for disaster horror, particularly of the 
 
 You determine the composition and behavior of the zombie hordes of Falkovnia. The zombies emerge from the Mists on the night of the new moon and trudge toward the last holdouts of civilization. Whether they move in a single wave or scatter into smaller bands, this surge brings a monthly threat to besiege the walls of Lekar.
 
-When creating zombie encounters, consider the average level of your group and what threats you want to represent. The ""Zombie"" entry in "chapter 5" presents a variety of zombie types to complement the shambling [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombie]] of the "Monster Manual", posing greater threats or terrifying surprises. The horde can also include other corporeal Undead such as [[/5. Mechanics/Bestiary/Undead/Skeleton.md|skeletons]], [[/5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]], or [[/5. Mechanics/Bestiary/Undead/Wight.md|wights]]. Alternatively, the "zombies" might not be Undead at all but another group attempting to lay claim to Falkovnia—perhaps a forgotten human culture or relentless giants.
+When creating zombie encounters, consider the average level of your group and what threats you want to represent. The ""Zombie"" entry in "chapter 5" presents a variety of zombie types to complement the shambling [[5. Mechanics\Bestiary\Undead\Zombie.md|zombie]] of the "Monster Manual", posing greater threats or terrifying surprises. The horde can also include other corporeal Undead such as [[5. Mechanics\Bestiary\Undead\Skeleton.md|skeletons]], [[5. Mechanics\Bestiary\Undead\Ghoul.md|ghouls]], or [[5. Mechanics\Bestiary\Undead\Wight.md|wights]]. Alternatively, the "zombies" might not be Undead at all but another group attempting to lay claim to Falkovnia—perhaps a forgotten human culture or relentless giants.
 
 Falkovnia is one of the few domains where the characters and the land's Darklord theoretically represent the same side, united against the zombies. The characters might defend Drakov's people and enact her defensive measures, but might also try to subvert her Pyrrhic strategies or attempt to smuggle survivors to safe locations outside Lekar. Consider exploring plots in which the characters rise in the Darklord's esteem as Trueborn of Falkovnia, but then must walk the line of both keeping Drakov's trust and upholding their principles.
 
 Consider the plots on the Falkovnia Adventures table when planning adventures in this domain.
 
-**Falkovnia Adventures**
-
-| dice: d10 | Adventure |
-|-----------|-----------|
-| 1 | The party discovers a town where [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombies]] have begun acting strangely: plowing fields, tarrying in shops, and congregating in the crumbling temple. What's causing this odd behavior? |
-| 2 | In Morfenzi, Vjorn Horstman envisions an army of bestial super soldiers. He works to perfect what he calls his "primal serum," an elixir that inflicts those injected with a random form of lycanthropy. He seeks to use the characters as test subjects. |
-| 3 | A plague strikes the slums of Lekar. Those killed by the disease rise as [[/5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] (see "chapter 5"). |
-| 4 | A pack of zombie animals—predominantly wolves, ravens, and cattle—attacks work bands from Lekar and survivors upon the roads. The characters are enlisted to serve as guards. |
-| 5 | The characters are sent to investigate a fallen star that crashed near the village of Delmunster. The village proves remarkably peaceful and free of zombies, in large part because it's populated by the [[/5. Mechanics/Bestiary/Plant/Podling (VRGR).md|podlings]] of a [[/5. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md|bodytaker plant]] (see "chapter 5"). |
-| 6 | A character learns that an influential Talon plans to overthrow General Drakov during the next zombie assault on Lekar by sabotaging the city's defenses and admitting the zombies to the Bastion Ward. |
-| 7 | The Jimsonweeds, a band of survivors in Silbervas, vanish after attempting to pillage Dekovan Palace. Soon after, the palace's strange lights appear among buildings formerly claimed by the lost survivors. |
-| 8 | A knight named Gondegal attacks Talon patrols and claims she can lead common folk to a safe holdfast. None who go with her are seen again. The Talons hire the party to hunt down the knight. |
-| 9 | The characters learn of downtrodden citizens in Lekar plotting to escape into the Mists following the next zombie siege. Are the citizens desperate noncombatants, or are they Talon agents seeking to draw out "traitors"? |
-| 10 | On the night of the new moon, no zombie horde appears at Lekar's walls. Instead, a undead messenger arrives with a missive for General Drakov. |
-^falkovnia-adventures
+![[5. Mechanics\Tables\Falkovnia Adventures (VRGR).md|Falkovnia Adventures]]
 
 ### Siege of Lekar
 
@@ -1701,21 +1543,21 @@ Falkovnia's terrors culminate monthly in the zombie assault on Lekar. If you pla
 - **Forced Conscripts.** The characters run into an overwhelming force of Talons and are absorbed into its ranks. When zombies appear at the city wall, the characters are offered their freedom in return for defending the city.  
 - **Last Bastion.** Far from Lekar, the characters fall in with local survivors who say the city is the country's last safe bastion. Upon arriving, they discover the sanctuary is not what they'd hoped.  
 - **Missed Connection.** The characters come to Falkovnia having heard tales of it before the land's zombie uprising. An individual or item they seek is now in Lekar, forcing the characters to search the city and then escape.  
-- **Mindtaker Mists.** The Mists deposit the characters' consciousnesses into soldiers, Talon officers, or unprepared peasants preparing for the siege. Consult the "Survivors" section of "chapter 4" for suggestions on how to represent soldiers bound to face the horde.  
+- **Mindtaker Mists.** The Mists deposit the characters' consciousnesses into soldiers, Talon officers, or unprepared peasants preparing for the siege. Consult the "[[\5. Mechanics\Rules\Variant Rules\Survivors (VRGR).md|Survivors]]" section of "chapter 4" for suggestions on how to represent soldiers bound to face the horde.  
 
 #### Before the Siege
 
-However the characters become enlisted in Lekar's defense, they face a hopeless battle. They join hundreds of unprepared defenders, including [[/5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] holding clubs or longbows for the first time.
+However the characters become enlisted in Lekar's defense, they face a hopeless battle. They join hundreds of unprepared defenders, including [[5. Mechanics\Bestiary\Humanoid\Commoner.md|commoners]] holding clubs or longbows for the first time.
 
 Prior to the start of the siege, determine where the characters will be positioned among the city's fortifications or on the streets. The specifics of these locations don't matter—no precision tactics will change the characters' fortunes against the zombie horde. Allow the characters to strategize however they please, though.
 
 ##### Fortifications
 
-Stairways within Lekar's 40-foot-high towers grant access to the 30-foot-high walls. Parapets guard both, providing defenders with three-quarters cover from those outside the walls. Fortifications around the gates hold controls for massive barred doors and portcullises. Both towers and gates contain {@object suspended cauldron||suspended cauldrons} (detailed in the "Dungeon Master's Guide").
+Stairways within Lekar's 40-foot-high towers grant access to the 30-foot-high walls. Parapets guard both, providing defenders with three-quarters cover from those outside the walls. Fortifications around the gates hold controls for massive barred doors and portcullises. Both towers and gates contain [[5. Mechanics\Objects\Suspended Cauldron.md|suspended cauldrons]] (detailed in the "Dungeon Master's Guide").
 
 ##### Streets
 
-The streets are packed with poorly armed commoners and cruel Talon soldiers. Any character who succeeds on a DC 16 Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) check finds useful materials among the carts and cargo cleared from the streets—weapons, a variety of adventuring gear, or the resources to approximate one [[/5. Mechanics/Items/Gunpowder Keg.md|gunpowder keg explosive]] (described in the "Dungeon Master's Guide").
+The streets are packed with poorly armed commoners and cruel Talon soldiers. Any character who succeeds on a DC 16 Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]]) check finds useful materials among the carts and cargo cleared from the streets—weapons, a variety of adventuring gear, or the resources to approximate one [[5. Mechanics\Items\Gunpowder Keg.md|gunpowder keg explosive]] (described in the "Dungeon Master's Guide").
 
 #### During the Siege
 
@@ -1723,7 +1565,7 @@ Run the siege as a series of encounters rather than one extended battle. As terr
 
 Begin the siege with zombies approaching Lekar's walls. The characters might pick off distant zombies or enact plans to destroy dozens at a time. The characters' strategies are likely successful, but the horde soon begins overwhelming defenses nearby. Once the characters defeat a few zombies, roll `dice: 1d6` (`1d6`) and consult the Zombie Siege Encounters table. The event rolled unfolds within sight of one of the characters. It's up to the characters to either take action or let the event transpire. When the characters complete an encounter, roll on the table again. If the characters ignore one of these events, the defenders' situation worsens. Add +2 to the next roll on the table.
 
-The siege lasts as long as you like. Use frantic rushes between emergencies to describe small horrors and victories while wearing down the characters' resources with brief zombie attacks. If the characters feel completely overwhelmed, Talon [[/5. Mechanics/Bestiary/Humanoid/Priest.md|priests]] with [[/5. Mechanics/Items/Potion Of Healing.md|potions of healing]] might appear, or an officer can enlist characters to deliver orders from General Drakov (likely related to the siege's climax).
+The siege lasts as long as you like. Use frantic rushes between emergencies to describe small horrors and victories while wearing down the characters' resources with brief zombie attacks. If the characters feel completely overwhelmed, Talon [[5. Mechanics\Bestiary\Humanoid\Priest.md|priests]] with [[5. Mechanics\Items\Potion Of Healing.md|potions of healing]] might appear, or an officer can enlist characters to deliver orders from General Drakov (likely related to the siege's climax).
 
 As the battle reaches what you determine to be the halfway point, start rolling `dice: 2d6` (`2d6`) on the Zombie Siege Encounters table and consult the ""Concluding the Siege"" section to guide the battle toward its climax.
 
@@ -1761,13 +1603,13 @@ After several encounters and hours of battle, guide the siege toward its conclus
 
 Drakov's scheme might be even more alarming, involving magical or monstrous secret weapons.
 
-Once you've determined how the siege will unfold, start foreshadowing Drakov's scheme, giving the characters the opportunity to aid it, enact a less destructive plan, or save innocents. Use missives intercepted from messengers or a [[/5. Mechanics/Items/Sending Stones.md|sending stone]] taken from a fallen Talon officer to clue the party in on Drakov's strategy.
+Once you've determined how the siege will unfold, start foreshadowing Drakov's scheme, giving the characters the opportunity to aid it, enact a less destructive plan, or save innocents. Use missives intercepted from messengers or a [[5. Mechanics\Items\Sending Stones.md|sending stone]] taken from a fallen Talon officer to clue the party in on Drakov's strategy.
 
 In the aftermath, the characters are recognized for their heroics, winning esteem among the citizens, with the Talons, or from Drakov herself. This can lead to new daring assignments or even being put in charge of preparing for next month's dire siege.
 
 ## Har'Akir
 
-_Domain of the Ancient Dead_
+*Domain of the Ancient Dead*
 
 - **Darklord.** Ankhtepot  
 - **Genre.** "Dark fantasy"  
@@ -1776,7 +1618,7 @@ _Domain of the Ancient Dead_
 
 The sands of time bury the desert realm of Har'Akir. Here, the wonders of fallen empires and pyramids of forgotten pharaohs crumble beneath a merciless sun. Untold generations of tombs and secrets lie beneath the sands, markers of a history the land's few residents know of only in story and song. Their interest in past splendor is smothered, as life is harsh in Har'Akir and the living exist only to serve a deathless god-king.
 
-This realm of fierce deserts and mysterious monuments is ruled by the mummy Ankhtepot, speaker for the gods and immortal pharaoh. From his golden pyramid in the City of the Dead, the Darklord watches over his domain, careless of the passage of mortal lives as he sends his servants in search of his only remaining desire: his _ka_, the missing piece of his fractured soul.
+This realm of fierce deserts and mysterious monuments is ruled by the mummy Ankhtepot, speaker for the gods and immortal pharaoh. From his golden pyramid in the City of the Dead, the Darklord watches over his domain, careless of the passage of mortal lives as he sends his servants in search of his only remaining desire: his *ka*, the missing piece of his fractured soul.
 
 As the pharaoh obsesses over his lost treasure and thoughts of escaping his impossibly long undead existence, his servants plague the domain in his name. In hidden tomb-courts, withered, animal-headed elder mummies known as the Children of Ankhtepot luxuriate as emissaries of false gods. And in the mud brick city of Muhar, the priests of morbid gods oversee all aspects of life, apportioning food and blessings to the worthy and punishing blasphemers. But all the pharaoh's servants also pursue his quest to find his mysterious lost treasure, and are ever desperate for some clue or news to placate Ankhtepot and spare them from the storms of his wrath and his buried legions of the ancient dead.
 
@@ -1807,8 +1649,8 @@ Those familiar with Har'Akir know the following facts:
 Har'Akir sprawls across a desert bordered in the east by crumbling, canyon-etched mountains. Most locals live around four oases, located in the bed of an immense river that dried up long ago.
 
 > [!gallery]
-> ![[062-map-3-6-har-akir.jpg#gallery|Map 3.6: Har'Akir]]
-> ![[063-map-3-6-har-akir-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\062-map-3-6-har-akir.jpg#gallery|Map 3.6: Har'Akir]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\063-map-3-6-har-akir-player.jpg#gallery|Player Version]]
 
 #### The Oases
 
@@ -1851,7 +1693,7 @@ In an ancient country the inhabitants called the Land of Reeds and Lotuses, Ankh
 
 On the day of the ritual that would consecrate the pharaoh's connection with the gods, Ankhtepot rallied his loyal priests and murdered their liege. He had misjudged the peoples' loyalty, though, and they rose up and executed the traitorous priests.
 
-![[064-03-015-pharaoh.png#center|Pharaoh Ankhtepot envisions his missing ka]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\064-03-015-pharaoh.png#center|Pharaoh Ankhtepot envisions his missing ka]]
 
 Moreover, Ankhtepot had misjudged the will of his gods. As he stood before them in death, the immortals forsook him, cursing him and denying him entry to the afterlife. Instead, they returned him to the world, but stripped away a piece of his soul, his ka—the vital essence that inspires all living beings.
 
@@ -1865,11 +1707,11 @@ The ages have marched ever on. Ankhtepot has known treachery and conquest. He ha
 
 #### Ankhtepot's Powers and Dominion
 
-A fantastically ancient Undead, Ankhtepot has statistics similar to a [[/5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord]]. Beyond this, he rules as pharaoh, national leader, and voice of the gods. None in Har'Akir, among the living or the dead, denies his will, but the Darklord's wishes are few. He cares only for order and to find his lost ka.
+A fantastically ancient Undead, Ankhtepot has statistics similar to a [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|mummy lord]]. Beyond this, he rules as pharaoh, national leader, and voice of the gods. None in Har'Akir, among the living or the dead, denies his will, but the Darklord's wishes are few. He cares only for order and to find his lost ka.
 
 ##### Children of Ankhtepot
 
-The Darklord is served by many of the same priests who died alongside him in ages past. He resurrected these [[/5. Mechanics/Bestiary/Undead/Mummy.md|mummies]] and [[/5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lords]] with the heads of animals, painting them as spirits and harbingers of his fictitious gods of Har'Akir. As Ankhtepot has grown bored with mortal concerns, the Children of Ankhtepot have pursued their own vices. Many dream and despair in their crypts. Others foment small cults of their own. And still others seek to undermine the pharaoh and claim his position—including the treacherous [[/5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord]] Senmet.
+The Darklord is served by many of the same priests who died alongside him in ages past. He resurrected these [[5. Mechanics\Bestiary\Undead\Mummy.md|mummies]] and [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|mummy lords]] with the heads of animals, painting them as spirits and harbingers of his fictitious gods of Har'Akir. As Ankhtepot has grown bored with mortal concerns, the Children of Ankhtepot have pursued their own vices. Many dream and despair in their crypts. Others foment small cults of their own. And still others seek to undermine the pharaoh and claim his position—including the treacherous [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|mummy lord]] Senmet.
 
 ##### The Gods' Law
 
@@ -1911,19 +1753,7 @@ Ankhtepot is seen only a few times a year, when his priests bring offerings to P
 
 If you find terror in trap-laden tombs and ancient curses (explored further in "chapter 4"), Har'Akir provides them in endless supply. The land's central plot—the search to find Pharaoh Ankhtepot's ka—can lead adventurers to explore mysterious sites as they seek hiding places undisturbed for centuries. Consider running a tour of the domain's most intriguing locales, punctuated with treks across the brutal deserts—landscapes fraught with hazards such as extreme heat, quicksand, and sandstorms whipped up by strong winds, all detailed in the "Dungeon Master's Guide". In the course of their adventures, characters can learn the truth of Ankhtepot's origins and Har'Akir's original gods. How they use these discoveries is up to them, but each discovery should bring the characters closer to sealing Ankhtepot's doom or their own. ""The Darklord's Soul"" below provides ideas for running adventures focused on Ankhtepot's obsession, while the Har'Akir Adventures table suggests other plots that might unfold in this domain.
 
-**Har'Akir Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | The priests of Ese seek adventurers to retrieve someone they condemned from the Labyrinth. |
-| 2 | The historian Kharafek has excavated a canyon riddled with sealed tombs. She's paying laborers well but is also using them to bear the brunt of the curses the crypts conceal. |
-| 3 | The hermits settled in River's Shelter accidentally revealed a crypt and released [[/5. Mechanics/Bestiary/Undead/Mummy.md|mummies]] that resent being disturbed. |
-| 4 | The pyramid of a former high priest has vanished. The priests of Neb seek help finding the monument before the pharaoh notices and is displeased. |
-| 5 | Snefru, a priest of Oru, discovers that the Bent Pyramid responds to song. She seeks aid to assemble a massive chorus to open a path inside. |
-| 6 | The revolutionary Aliz is secretly a jackal-headed [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] allied with the [[/5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord]] Senmet. She seeks to find Ankhtepot's ka to bring the pharaoh's rule to an end. |
-| 7 | Sute's Chosen seek help rescuing travelers missing in the Breath of the Forgotten. The party must endure the gods' tests to save them from the storm. |
-| 8 | Nephyr, a cat-headed Child of Ankhtepot, arrives in Muhar. To motivate the living to find the pharaoh's lost treasure, each dawn she curses a number of innocents equal to the days she's spent in the city. |
-^harakir-adventures
+![[5. Mechanics\Tables\Harakir Adventures (VRGR).md|Har'Akir Adventures]]
 
 ### Gods of Har'Akir
 
@@ -1957,7 +1787,7 @@ Before tasking characters with retrieving it, determine what form the pharaoh's 
 
 | dice: d8 | The Ka's Form |
 |----------|---------------|
-| 1 | A [[/5. Mechanics/Bestiary/Beast/Hawk.md|hawk]] or [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md|giant eagle]] that tirelessly circles the sun. |
+| 1 | A [[5. Mechanics\Bestiary\Beast\Hawk.md|hawk]] or [[5. Mechanics\Bestiary\Beast\Giant Eagle.md|giant eagle]] that tirelessly circles the sun. |
 | 2 | A canopic jar containing the pharaoh's heart hidden within a forgotten tomb |
 | 3 | Mummified and divided-up heart-meat, a piece of which is hidden within each of the remaining loyal Children of Ankhtepot |
 | 4 | A blessing granted to those who survive both the Breath of the Forgotten and the Breath of the False |
@@ -2012,7 +1842,7 @@ Roll or choose an option from the Ankhtepot Reborn table to determine what this 
 
 ## Hazlan
 
-_Domain Doomed by Magic_
+*Domain Doomed by Magic*
 
 - **Darklord.** Hazlik  
 - **Genres.** "Dark fantasy" and "disaster horror"  
@@ -2031,7 +1861,7 @@ Those familiar with Hazlan know the following facts:
 - Inhabitants claim the eyelike design called the Eye of Hazlik bears Hazlik's blessing and wards off dangerous magic.  
 - Magic is unreliable in Hazlan, resulting in dangerous side effects.  
 - The visible effects of magical disasters disfigure the domain, from rivers poisoned by alchemical runoff to craters caused by magical explosions.  
-- Creatures warped by magical experiments infest the domain, including magic-hungry [[/5. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md|gremishkas]] (see "chapter 5") and ravenous [[/5. Mechanics/Bestiary/Monstrosity/Purple Worm.md|purple worms]].  
+- Creatures warped by magical experiments infest the domain, including magic-hungry [[5. Mechanics\Bestiary\Monstrosity\Gremishka (VRGR).md|gremishkas]] (see "chapter 5") and ravenous [[5. Mechanics\Bestiary\Monstrosity\Purple Worm.md|purple worms]].  
 
 > [!quote] Hazlani Characters
 > 
@@ -2049,8 +1879,8 @@ Those familiar with Hazlan know the following facts:
 Hazlan's few remaining communities are populated by hunters, miners, and artisans. They struggle to learn a glimmer of magic to earn a measure of respect from the domain's spellcasters. Mages live wherever they please, in traveling caravan palaces, floating towers, or more fanciful dwellings. Most gather close to Hazlik's palace, Veneficus.
 
 > [!gallery]
-> ![[065-map-3-7-hazlan.jpg#gallery|Map 3.7: Hazlan]]
-> ![[066-map-3-7-hazlan-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\065-map-3-7-hazlan.jpg#gallery|Map 3.7: Hazlan]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\066-map-3-7-hazlan-player.jpg#gallery|Player Version]]
 
 #### Ramulai
 
@@ -2090,7 +1920,7 @@ The landscape of Hazlan bears the scars of reckless magical experiments and wiza
 
 ### Hazlik
 
-![[067-03-016-hazlik.png#center|Hazlik]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\067-03-016-hazlik.png#center|Hazlik]]
 
 The wizard Hazlik always stood one formula away from attaining his dreams. Raised among the merciless Red Wizards of Thay on the world of Toril, Hazlik steadily rose among the ranks of those obsessive, treacherous spellcasters. Eager and encouraged to push past the weakness of mortality, he sought to discover hidden truths of magic and its command of reality. He obsessed over radical pursuits, such as creating the perfect mortal form and visiting dream realms within an individual's psyche.
 
@@ -2104,7 +1934,7 @@ To his surprise, Hazlik emerged in a grim netherworld of fog and hateful visions
 
 #### Hazlik's Powers and Dominion
 
-Hazlik is a vain, egotistical overlord, convinced he is the supreme being in his domain. His statistics echo those of an [[/5. Mechanics/Bestiary/Humanoid/Archmage.md|archmage]], but he favors using an array of magic items rather than his own spells.
+Hazlik is a vain, egotistical overlord, convinced he is the supreme being in his domain. His statistics echo those of an [[5. Mechanics\Bestiary\Humanoid\Archmage.md|archmage]], but he favors using an array of magic items rather than his own spells.
 
 ##### Glory Taker
 
@@ -2124,7 +1954,7 @@ Hazlik spies on his domain's inhabitants using his personal sigil, the Eye of Ha
 
 ##### Closing the Borders
 
-Hazlik can open and close the borders of his domain at will, as detailed in ""The Mists"" at the start of this chapter. In addition to the normal effects, these Mists are filled with the results of horrific magical experiments, such as misshapen chimeras, incomplete golems, and droves of [[/5. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md|gremishkas]] (see "chapter 5").
+Hazlik can open and close the borders of his domain at will, as detailed in ""The Mists"" at the start of this chapter. In addition to the normal effects, these Mists are filled with the results of horrific magical experiments, such as misshapen chimeras, incomplete golems, and droves of [[5. Mechanics\Bestiary\Monstrosity\Gremishka (VRGR).md|gremishkas]] (see "chapter 5").
 
 #### Hazlik's Torment
 
@@ -2159,21 +1989,7 @@ To Hazlik, everything is a useful tool, an amusement, or a potential spell compo
 
 While Hazlan's magic-using elite test the boundaries of arcane possibility, the domain around them crumbles. The result is a realm where supernatural disasters wrack the land and magic turns against the characters, forcing them to doubt abilities they previously took for granted. Here, no adventure site is too fantastical. Anything explainable as "an evil wizard did it" fits perfectly, and impossibilities that challenge adventurers of any level can arise. The ""Magic in the Dying Domain"" section that follows explores the unpredictability of magic in Hazlan, while the Hazlan Adventures table suggests other adventures that might unfold here.
 
-**Hazlan Adventures**
-
-| dice: d10 | Adventure |
-|-----------|-----------|
-| 1 | Hazlik's apprentice Eleni charmed the ancient albino [[/5. Mechanics/Bestiary/Monstrosity/Purple Worm.md|purple worm]] Gravedrinker, using it as a weapon against any who oppose her master. When the worm breaks free of her control, Eleni seeks aid with recapturing it before Hazlik finds out. |
-| 2 | Castoff magical creations litter the dry lake bed called Obsession's End. A sapient war machine or an [[/5. Mechanics/Bestiary/Construct/Iron Golem.md|iron golem]] escapes the midden and asks the party to help it find a way to live an ordinary life. |
-| 3 | Innumerable [[/5. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md|gremishkas]] (see "chapter 5") collect in caves along what's known as the Gnawing Path. The creatures plot to overwhelm Sly-Var and will pass through Toyalis in the process. Members of both communities request exterminators. |
-| 4 | A cult forms around the Philosopher's Egg, an eight-story citrine egg perched atop a mesa in the region called Seething. The cultists hunt for someone who has never been touched by magic to release the unborn antimagic entity within. |
-| 5 | One of Hazlik's apprentices sends multiple groups to capture a **star spawn emissary** (see "chapter 5") that emerged from a meteor in Moonstone Valley. But the shape-shifter disappears, slipping in among its would-be captors. |
-| 6 | An apprentice of Hazlik yearns to explore the bottomless pit known as Gluttonkettle. He needs a test crew for a vehicle he's devised to traverse impossible distances. |
-| 7 | A magically talented commoner is kidnapped and forced to become a wizard's apprentice. Their family hires the characters to retrieve them, but the kidnappee has quickly adjusted to the decadent life of an amoral wizard. |
-| 8 | The moon over Hazlan shatters and plummets toward the ground. Whether caused by a mighty spell gone awry or a domain-spanning illusion, the sight throws Toyalis into chaos. Residents demand that the characters help them flee the disaster. |
-| 9 | One of Hazlik's apprentices needs agents to search for a suspected fountain of youth said to have formed among the innumerable magical toxins polluting the swamp known as the Brew. |
-| 10 | Hazlik knows his domain's days are numbered. He attempts to use the characters to recreate the living portal that first brought him to Hazlan, either as its creators or its raw materials. |
-^hazlan-adventures
+![[5. Mechanics\Tables\Hazlan Adventures (VRGR).md|Hazlan Adventures]]
 
 ### Magic in the Dying Domain
 
@@ -2183,25 +1999,11 @@ Magic is a source of both prestige and terror in Hazlan. Commoners fear it but k
 
 Excessive experimentation has caused the nature of magic in Hazlan to fray, making the entire domain a region of wild magic. Whenever a character in Hazlan expends a spell slot to cast a spell of 1st level or higher or actives a magic item, an additional effect might occur. The character's player rolls a `dice: d10` (`d10`). If they roll a 1, roll on the Hazlan Wild Magic table to determine the effect. Only Hazlik is unaffected by the domain's wild magic.
 
-**Hazlan Wild Magic**
-
-| dice: d20 | Wild Magic Effect |
-|-----------|-------------------|
-| 1–5 | The character causes a random effect from the Wild Magic Surge table in the "Player's Handbook". |
-| 6–7 | The character is [[5. Mechanics/Rules/Conditions.md#frightened|frightened]] of all creatures until the end of their next turn. |
-| 8–9 | A number (`dice: 2d4` (`2d4`)) of the Staring Cats of Uldun-dar appear within 30 feet of the character. These sapient, hyperdimensional [[/5. Mechanics/Bestiary/Beast/Cat.md|cats]] have uneven numbers of eyes and are not hostile, but they ominously share reports on how the character died in multiple parallel dimensions. The cats vanish after the character's next long rest. |
-| 10–11 | The character and the creature nearest them both teleport up to 60 feet to random unoccupied spaces of the DM's choice. When they reappear, they are covered in harmless ectoplasm. |
-| 12 | The character broadcasts their surface thoughts for 1 round, as if all creatures within 30 feet of them had cast [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]] targeting them. |
-| 13–14 | A spectral Eye of Hazlik appears, hovering over the character for 1 hour. The eye functions as detailed in the ""The Eye of Hazlik"" section. |
-| 15–16 | A portal similar to that created by [[/5. Mechanics/Spells/Arcane Gate.md|arcane gate]] opens within 10 feet of the character. It connects to another portal somewhere in Hazlan. The portal remains open for 1 hour, during which creatures from either side can pass through. |
-| 17–18 | A shrieking, skinless, many-limbed horror that has the statistics of (and vaguely resembles) a [[/5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] appears within 30 feet of the character. It is hostile to them, vanishing after 1 minute. |
-| 19 | The character casts [[/5. Mechanics/Spells/Fireball.md|fireball]] as a 5th-level spell centered on themself using Charisma as the spellcasting ability. Screams and laughter emanate from the flames. |
-| 20 | A fog cloud appears, centered on the character. The effect is similar to a [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]] spell and lasts for 10 minutes. The DM can choose to have the fog affect creatures as if they'd entered the Mists. |
-^hazlan-wild-magic
+![[5. Mechanics\Tables\Hazlan Wild Magic (VRGR).md|Hazlan Wild Magic]]
 
 ### The Eye of Hazlik
 
-![[068-03-017-wizard-eleni.png#center|"The wizard Eleni's most recent experiment: dominating the worm Gravedrinker"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\068-03-017-wizard-eleni.png#center|"The wizard Eleni's most recent experiment: dominating the worm Gravedrinker"]]
 
 A stylized eyelike design adorns buildings, art, clothing, and talismans across Hazlan: the Eye of Hazlik. Locals claim the symbol wards off dangerous magic and offers protection from magical creatures. It's also said that spellcasters who wear the symbol are less likely to suffer the domain's wild magic effects. Remarkably, it's not all superstition.
 
@@ -2210,13 +2012,13 @@ An Eye of Hazlik takes a shape reminiscent of the eyelike tattoos that cover Haz
 - An Eye of Hazlik is not magical.  
 - Anyone who openly wears an Eye of Hazlik on their person or clothing or as a talisman can, once per day, choose not to roll on the Hazlan Wild Magic table.  
 - Hazlik is aware of any spell cast or magic item used within his domain within 30 feet of an Eye of Hazlik. He is also aware of the spell's level and the rarity of such a magic item.  
-- At any time, Hazlik can use any Eye of Hazlik in his domain as a stationary eye created by the [[/5. Mechanics/Spells/Arcane Eye.md|arcane eye]] spell. He can spy through the eye whenever and for as long as he pleases. The eye radiates magic while Hazlik spies through it.  
+- At any time, Hazlik can use any Eye of Hazlik in his domain as a stationary eye created by the [[5. Mechanics\Spells\Arcane Eye.md|arcane eye]] spell. He can spy through the eye whenever and for as long as he pleases. The eye radiates magic while Hazlik spies through it.  
 
 An Eye of Hazlik taps into the Darklord's mastery of magic within his domain, helping to stabilize the wearer's magic—at a price. Hazlik uses the eyes to keep tabs on magic-users in his domain, spying on those who might be useful or threatening to him. This surveillance enables him to reinforce his reputation as an ever-present, brilliant overlord.
 
 ## I'Cath
 
-_Domain Trapped in a Dream_
+*Domain Trapped in a Dream*
 
 - **Darklord.** Tsien Chiang  
 - **Genres.** "Body horror" and "cosmic horror"  
@@ -2231,7 +2033,7 @@ Within the dreaming domain of I'Cath, Darklord Tsien Chiang rules a golden visio
 
 In the waking world, the truth of I'Cath is starkly apparent. Rows of decrepit, moldy homes merge to line endless, coiling avenues. The streets wind and double back, but eventually climb the rise at the city's center, where the infamous Palace of Bones and the gold-scaled Ping'On Tower loom. By day, the streets are largely empty, except for those few desperate residents of I'Cath who have yet to succumb to the domain's dream. They rush through their days, scavenging what they can in hopes of enduring the coming night.
 
-Every twilight, Tsien Chiang climbs the spirit-infested Ping'On Tower and tolls the Nightingale Bell. This renews the magic of her dream world and keeps her citizens asleep, but it also calls forth the legion of I'Cath's undead ancestors whom she has bent to her will. Nightly these [[/5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|jiangshi]] (see "chapter 5") emerge from their tombs and reshape the city's mazelike streets, striving to match Tsien Chiang's vision with merciless perfection. The Darklord's servants carefully move any sleepers they encounter out of the way of their work, but prey upon any waking souls who cross their paths.
+Every twilight, Tsien Chiang climbs the spirit-infested Ping'On Tower and tolls the Nightingale Bell. This renews the magic of her dream world and keeps her citizens asleep, but it also calls forth the legion of I'Cath's undead ancestors whom she has bent to her will. Nightly these [[5. Mechanics\Bestiary\Undead\Jiangshi (VRGR).md|jiangshi]] (see "chapter 5") emerge from their tombs and reshape the city's mazelike streets, striving to match Tsien Chiang's vision with merciless perfection. The Darklord's servants carefully move any sleepers they encounter out of the way of their work, but prey upon any waking souls who cross their paths.
 
 Any whom the Mists carry to I'Cath or who wake from Tsien Chiang's dream find themselves in a gray, haunted, ever-changing city where food is scarce and jiangshi hunt the living. With twilight comes a terrible choice: endure the uncertain terrors of the waking world or succumb to endless servitude in sleep.
 
@@ -2252,7 +2054,7 @@ Those familiar with I'Cath know the following facts:
 
 - The citizens of the vast city of I'Cath sleep endlessly within their homes.  
 - Those who wake feel the pangs of starvation. Food is more valuable in the city than gold.  
-- [[/5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|Jiangshi]] haunt the streets of I'Cath, tearing down whole districts and rebuilding them.  
+- [[5. Mechanics\Bestiary\Undead\Jiangshi (VRGR).md|Jiangshi]] haunt the streets of I'Cath, tearing down whole districts and rebuilding them.  
 - Tsien Chiang rules the city from the Palace of Bones. By day, she drafts plans to improve I'Cath. By night, she rules over her people's dreams.  
 - Tsien Chiang's four supernatural daughters wander the city by day and gather at the Palace of Bones at night.  
 - The streets and row homes of I'Cath change nightly, making navigation next to impossible. The city has a single exit, the Four Trees Gate, but few know how to reach it.  
@@ -2293,7 +2095,7 @@ Hidden behind the waking reality of I'Cath is a perfect city of precision, obedi
 
 ### Tsien Chiang
 
-![[069-03-018-tsien-chiang.png#center|Tsien Chiang]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\069-03-018-tsien-chiang.png#center|Tsien Chiang]]
 
 When Tsien Chiang was a child, her home was destroyed by a colonizing force, forcing her to flee into frozen mountains where she expected to die. Fortunately, a gold dragon took pity on her and gave her shelter. With nowhere else to go, Chiang promised to serve the dragon.
 
@@ -2309,7 +2111,7 @@ Distraught, Chiang climbed to the highest tower of her palace, looked out over h
 
 #### Chiang's Powers and Dominion
 
-Tsien Chiang's statistics are similar to those of a [[/5. Mechanics/Bestiary/Humanoid/Mage.md|mage]] with access to a variety of magic items—her favorite being an ornate robe that functions similarly to a [[/5. Mechanics/Items/Hewards Handy Haversack.md|Heward's handy haversack]] and [[/5. Mechanics/Items/Wings Of Flying.md|wings of flying]]. She uses this robe to store scrolls detailing her most recent plans for I'Cath's renovation. Additionally, Tsien Chiang enforces her will upon her domain in a variety of other ways.
+Tsien Chiang's statistics are similar to those of a [[5. Mechanics\Bestiary\Humanoid\Mage.md|mage]] with access to a variety of magic items—her favorite being an ornate robe that functions similarly to a [[5. Mechanics\Items\Hewards Handy Haversack.md|Heward's handy haversack]] and [[5. Mechanics\Items\Wings Of Flying.md|wings of flying]]. She uses this robe to store scrolls detailing her most recent plans for I'Cath's renovation. Additionally, Tsien Chiang enforces her will upon her domain in a variety of other ways.
 
 ##### Dream of Perfection
 
@@ -2317,7 +2119,7 @@ Tsien Chiang's magical creation, the Nightingale Bell, traveled with her to I'Ca
 
 ##### Renovating the City
 
-Each evening, {@b} Tsien Chiang relays her orders for I'Cath's reconstruction to her droves of jiangshi agents, led by Minister Suen. Suen then disseminates these orders to the jiangshi of the Gemstone Garden, who work through the night. Every morning, Tsien Chiang finds some aspect of the city's miraculous changes unacceptable and returns to her palace, where she spends the day assembling new orders for her [[/5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|jiangshi]] servants.
+Each evening,   Tsien Chiang relays her orders for I'Cath's reconstruction to her droves of jiangshi agents, led by Minister Suen. Suen then disseminates these orders to the jiangshi of the Gemstone Garden, who work through the night. Every morning, Tsien Chiang finds some aspect of the city's miraculous changes unacceptable and returns to her palace, where she spends the day assembling new orders for her [[5. Mechanics\Bestiary\Undead\Jiangshi (VRGR).md|jiangshi]] servants.
 
 ##### The Darklord's Daughters
 
@@ -2367,21 +2169,7 @@ Darklord Tsien Chiang and her daughters dwell at the heart of both these worlds.
 
 Consider the plots on the I'Cath Adventures table when planning adventures in this domain.
 
-**I'Cath Adventures**
-
-| dice: d10 | Adventure |
-|-----------|-----------|
-| 1 | A desperate local needs medicine for a sick spouse, but the only merchant in Gwai-Huit Center with the necessary herbs demands fresh fruit from the Gemstone Gardens. The local entreats the characters to infiltrate the [[/5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|jiangshi]]-haunted park (see "chapter 5"). |
-| 2 | A child has gone missing on the streets of I'Cath. The child's parents plead with the characters to find the youngster before dusk. |
-| 3 | A [[/5. Mechanics/Bestiary/Humanoid/Spy.md|spy]] known as a criminal in I'Cath's dream city is imprisoned and tormented every time he falls asleep. He begs for the characters' aid to help keep him awake. |
-| 4 | A group of [[/5. Mechanics/Bestiary/Humanoid/Bandit.md|bandits]] waylay anyone who passes through their territory, demanding fresh meat for passage. Trapped locals seek help in moving through the gang's territory. |
-| 5 | A melancholy elf is unable to enter Tsien Chiang's dream to join his family. He entreats the characters to help him find a way. |
-| 6 | A [[/5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|jiangshi]] approaches the characters and asks them to locate one or more of her lost family members within the dream city. She's worried about what's become of her family—their bodies should be in the city, but she's lost track of them. |
-| 7 | A family in the Mansions made offerings of food and remembrances to placate a hungry [[/5. Mechanics/Bestiary/Undead/Ghost.md|ghost]]. This has attracted dozens of other ghosts. The family seeks help placating the undead mouths they can't feed. |
-| 8 | Tsien Chiang's library in the Palace of Bones holds secrets about the border between dreams and reality. The characters must infiltrate the palace, find the information they need, and escape before Tsien Chiang returns at dawn. |
-| 9 | A desperate [[/5. Mechanics/Bestiary/Humanoid/Veteran.md|veteran]] wakes from the dream and attempts to set I'Cath on fire, believing it's better for everything to burn than to live a lie. The characters must choose how to contend with the murderous arsonist. |
-| 10 | All but one of Tsien Chiang's daughters have gone missing—and the remaining daughter is either Tsien Seu-Mei or Tsien Lei-An, neither of whom can speak. This daughter crosses the party's path and silently begs for help. |
-^icath-adventures
+![[5. Mechanics\Tables\Icath Adventures (VRGR).md|I'Cath Adventures]]
 
 ### The Dream of I'Cath
 
@@ -2401,7 +2189,7 @@ The Nightingale Bell fuels Tsien Chiang's dream. Chiang must ring the bell once 
 
 ##### Dreaming the Dream
 
-A character cannot remove levels of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] by finishing a long rest in I'Cath if they spend any part of that rest in Tsien Chiang's dream. Characters with no levels of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] wake from the dream after 6 hours. Characters with 1 or more levels of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] can try to wake up after every 6 hours they spend within the dream; to awaken, they must succeed on a DC 10 Wisdom saving throw. Those who fail remain within the dream for another 6 hours, after which they can try to escape again. Creatures that do not sleep can choose to enter the dream by meditating. If they enter the dream, they are affected by it as if they were sleeping. Many residents of I'Cath don't attempt to escape the dream, considering existence within it preferable to life in the real city.
+A character cannot remove levels of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] by finishing a long rest in I'Cath if they spend any part of that rest in Tsien Chiang's dream. Characters with no levels of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] wake from the dream after 6 hours. Characters with 1 or more levels of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] can try to wake up after every 6 hours they spend within the dream; to awaken, they must succeed on a DC 10 Wisdom saving throw. Those who fail remain within the dream for another 6 hours, after which they can try to escape again. Creatures that do not sleep can choose to enter the dream by meditating. If they enter the dream, they are affected by it as if they were sleeping. Many residents of I'Cath don't attempt to escape the dream, considering existence within it preferable to life in the real city.
 
 #### Tsien Chiang's Daughters
 
@@ -2411,12 +2199,12 @@ Tsien Chiang's daughters are generally good natured, but anxieties prevent the d
 
 Tsien Chiang's four daughters have the following names, forms, and simple dreams:
 
-- **Tsien Lei-An.** Voiceless Tsien Lei-An is made entirely of eyes and has the statistics of a [[/5. Mechanics/Bestiary/Construct/Scarecrow.md|scarecrow]]. She wishes for a robe of ghost hair silk or a jiangshi's slippers. She spends much of her time wandering the Mansions, rooting through the possessions of sleeping city-dwellers.  
-- **Tsien Man-Yi.** Made of pale wood, Tsien Man-Yi must remain near the willow tree in the courtyard of the Palace of Bones, and has the statistics of a [[/5. Mechanics/Bestiary/Fey/Dryad.md|dryad]]. She wishes for flowers from the Gemstone Garden or for a friend to fall asleep under her tree's boughs.  
-- **Tsien Seu-Mei.** Voiceless Tsien Seu-Mei is made entirely of teeth and has the statistics of a [[/5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]]. She wishes to eat a delicious dessert or care for one of the fish of the Gemstone Gardens. She often wanders the stalls of Gwai-Huit Center.  
-- **Tsien Wai-Ching.** Made of living fog, Tsien Wai-Ching is the youngest daughter and has the statistics of a [[/5. Mechanics/Bestiary/Undead/Specter.md|specter]]. She wishes to help a spirit from Ping'On Tower find its family or to play with an incorporeal toy. She regularly explores the memorials in the Gemstone Gardens.  
+- **Tsien Lei-An.** Voiceless Tsien Lei-An is made entirely of eyes and has the statistics of a [[5. Mechanics\Bestiary\Construct\Scarecrow.md|scarecrow]]. She wishes for a robe of ghost hair silk or a jiangshi's slippers. She spends much of her time wandering the Mansions, rooting through the possessions of sleeping city-dwellers.  
+- **Tsien Man-Yi.** Made of pale wood, Tsien Man-Yi must remain near the willow tree in the courtyard of the Palace of Bones, and has the statistics of a [[5. Mechanics\Bestiary\Fey\Dryad.md|dryad]]. She wishes for flowers from the Gemstone Garden or for a friend to fall asleep under her tree's boughs.  
+- **Tsien Seu-Mei.** Voiceless Tsien Seu-Mei is made entirely of teeth and has the statistics of a [[5. Mechanics\Bestiary\Undead\Ghoul.md|ghoul]]. She wishes to eat a delicious dessert or care for one of the fish of the Gemstone Gardens. She often wanders the stalls of Gwai-Huit Center.  
+- **Tsien Wai-Ching.** Made of living fog, Tsien Wai-Ching is the youngest daughter and has the statistics of a [[5. Mechanics\Bestiary\Undead\Specter.md|specter]]. She wishes to help a spirit from Ping'On Tower find its family or to play with an incorporeal toy. She regularly explores the memorials in the Gemstone Gardens.  
 
-![[070-03-019-resident.png#center|A resident of I'Cath attempts to flee a jiangshi]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\070-03-019-resident.png#center|A resident of I'Cath attempts to flee a jiangshi]]
 
 #### Disrupting the Dream
 
@@ -2430,7 +2218,7 @@ Those seeking to spoil Tsien Chiang's dream can do so in the following ways:
 
 ## Kalakeri
 
-_Domain of Betrayal and Revenge_
+*Domain of Betrayal and Revenge*
 
 - **Darklord.** Ramya Vasavadan  
 - **Genres.** "Gothic horror" and "dark fantasy"  
@@ -2469,8 +2257,8 @@ Those familiar with Kalakeri know the following facts:
 Kalakeri is dominated by tropical rain forests that surround hundreds of miles of inland waterways. Farming and fishing villages line these waterways and the coast.
 
 > [!gallery]
-> ![[071-map-3-8-kalakeri.jpg#gallery|Map 3.8: Kalakeri]]
-> ![[072-map-3-8-kalakeri-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\071-map-3-8-kalakeri.jpg#gallery|Map 3.8: Kalakeri]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\072-map-3-8-kalakeri-player.jpg#gallery|Player Version]]
 
 #### Jadurai
 
@@ -2486,7 +2274,7 @@ An extensive web of brackish rivers and lakes crisscrosses the Harvest Peninsula
 
 Refugees from the ongoing war and the rampant poverty of Jadurai seek haven in the Backwaters. Those brave enough to fight the tyranny of the Vasavadan scions organize into rebel bands that prepare desperate, dangerous attacks on the royal family.
 
-Kalakeri's most fearsome predators inhabit the Backwaters, including [[/5. Mechanics/Bestiary/Monstrosity/Basilisk.md|basilisks]], [[/5. Mechanics/Bestiary/Monstrosity/Hydra.md|hydras]], [[/5. Mechanics/Bestiary/Giant/Stone Giant.md|stone giants]], and [[/5. Mechanics/Bestiary/Giant/Cloud Giant.md|cloud giants]].
+Kalakeri's most fearsome predators inhabit the Backwaters, including [[5. Mechanics\Bestiary\Monstrosity\Basilisk.md|basilisks]], [[5. Mechanics\Bestiary\Monstrosity\Hydra.md|hydras]], [[5. Mechanics\Bestiary\Giant\Stone Giant.md|stone giants]], and [[5. Mechanics\Bestiary\Giant\Cloud Giant.md|cloud giants]].
 
 #### Cerulean Citadel
 
@@ -2506,7 +2294,7 @@ Another Domain of Dread hails from the same lands as Kalakeri. Those who sail in
 
 ### Ramya Vasavadan
 
-![[073-03-020-maharani-ramya-vasavadan.png#center|Maharani Ramya Vasavadan]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\073-03-020-maharani-ramya-vasavadan.png#center|Maharani Ramya Vasavadan]]
 
 The Vasavadan dynasty has ruled over Kalakeri since ancient times. Ramya Vasavadan was hand-picked by her father to succeed him, but on the bleak day of the maharana's death, Ramya's brother, Arijani, declared himself the new maharana. Allied with ranas hungry for unearned power, Arijani tried to force Ramya to relinquish the Sapphire Throne.
 
@@ -2526,11 +2314,11 @@ Arijani and Reeva's plots didn't end with their lives, however. They too were re
 
 #### Ramya's Powers and Dominion
 
-Reborn as a [[/5. Mechanics/Bestiary/Undead/Death Knight.md|death knight]], Ramya desperately tries to hold on to or retake the Sapphire Throne in a cycle of victory and loss with her equally uncompromising siblings. Although an illusion disguises her deathless state, Ramya constantly feels the chill in her bones and her own crumbling flesh. Her existence has becomes one of constant struggle, doubt, and defeat as her obsessions shape all of Kalakeri.
+Reborn as a [[5. Mechanics\Bestiary\Undead\Death Knight.md|death knight]], Ramya desperately tries to hold on to or retake the Sapphire Throne in a cycle of victory and loss with her equally uncompromising siblings. Although an illusion disguises her deathless state, Ramya constantly feels the chill in her bones and her own crumbling flesh. Her existence has becomes one of constant struggle, doubt, and defeat as her obsessions shape all of Kalakeri.
 
 ##### War Leader
 
-Ramya eagerly leads her troops in battle. She rides into combat upon a war [[/5. Mechanics/Bestiary/Beast/Elephant.md|elephant]] or [[/5. Mechanics/Bestiary/Dragon/Wyvern.md|wyvern]] and carries the legendary talwar (longsword) and longbow of the Vasavadan dynasty's founder. The Vasavadan coat of arms, a golden wyvern clutching a white lotus in its talons, emblazons her armor and that of her soldiers.
+Ramya eagerly leads her troops in battle. She rides into combat upon a war [[5. Mechanics\Bestiary\Beast\Elephant.md|elephant]] or [[5. Mechanics\Bestiary\Dragon\Wyvern.md|wyvern]] and carries the legendary talwar (longsword) and longbow of the Vasavadan dynasty's founder. The Vasavadan coat of arms, a golden wyvern clutching a white lotus in its talons, emblazons her armor and that of her soldiers.
 
 ##### Merciless
 
@@ -2538,7 +2326,7 @@ Ramya demands loyalty from her subjects. She and her soldiers kill anyone who sh
 
 ##### Deathless Loyalty
 
-Kalakeri's armies and the guards of the Cerulean Citadel obey Ramya without question, despite thousands of them having died in her service. These soldiers' loyalty follows them into death. Any living soldier who dies in Ramya's service returns to life as an Undead warrior—a [[/5. Mechanics/Bestiary/Undead/Skeleton.md|skeleton]] or [[/5. Mechanics/Bestiary/Undead/Wight.md|wight]]—on the night of the next new moon and rejoins the maharani's army. Ramya's living followers consider this deathless state an honor and the ultimate mark of loyalty.
+Kalakeri's armies and the guards of the Cerulean Citadel obey Ramya without question, despite thousands of them having died in her service. These soldiers' loyalty follows them into death. Any living soldier who dies in Ramya's service returns to life as an Undead warrior—a [[5. Mechanics\Bestiary\Undead\Skeleton.md|skeleton]] or [[5. Mechanics\Bestiary\Undead\Wight.md|wight]]—on the night of the next new moon and rejoins the maharani's army. Ramya's living followers consider this deathless state an honor and the ultimate mark of loyalty.
 
 ##### Blood Relatives
 
@@ -2586,21 +2374,7 @@ The wilds of Kalakeri might also fuel terrifying adventures. The land holds all 
 
 Consider the plots on the Kalakeri Adventures table when planning adventures in this domain.
 
-**Kalakeri Adventures**
-
-| dice: d10 | Adventure |
-|-----------|-----------|
-| 1 | [[/5. Mechanics/Bestiary/Humanoid/Bandit.md|Bandits]] takes over the village of Neelakurinji, claiming Ramya or Arijani as their leader. In truth they serve neither and are opportunistically robbing those who fear disobeying the factions. An escaped villager entreats the characters for help. |
-| 2 | The [[/5. Mechanics/Bestiary/Giant/Stone Giant.md|stone giant]] guru Jalendu claims to know a path to religious enlightenment. Those who fail to prove their devotion to his teachings turn up [[5. Mechanics/Rules/Conditions.md#petrified|petrified]]. |
-| 3 | The sea boils around an ancient, submerged ruin called the Drowned Altar. With constant upheaval, no one has performed the rites necessary to placate what dwells in the deep. |
-| 4 | Dozens of servants were hired to help host a grand gala thrown by Arijani. The event was a success, but none of the servants returned home. Their families entreat the characters to seek answers. |
-| 5 | The rare ralvanji spice has miraculous medicinal properties, but by royal edict it is grown only in the gardens of the Cerulean Citadel. Estavan, a mysterious [[/5. Mechanics/Bestiary/Giant/Oni.md|oni]] merchant, offers to pay good money for the spice and even more for the seeds. |
-| 6 | A parent asks the characters to bring their runaway teenager home, not knowing their child joined Ramya's army, died, and returned as a [[/5. Mechanics/Bestiary/Undead/Wight.md|wight]]. |
-| 7 | Reeva employs the party to find the forbidden ruins of Bahru, said to lie somewhere in the Ashwagangha Mountains. She believes her ancestors imprisoned a powerful force there, which she hopes to awaken and bend to her service. |
-| 8 | The shadows of people in Meenakara are disappearing, and the shadow-bereft soon sicken and die. A local leader claims that the strange plague's cure lies among the hidden isles known as the Ashram of "Niranjan" (detailed in ""Other Domains of Dread"" later in this chapter). |
-| 9 | A [[/5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] begs the characters to prove their sibling's loyalty to Ramya. Time is short, since the sibling was arrested and taken to the Tower of Traitors to face execution. |
-| 10 | Ramya desires a consort to cement her rulership and bring stability to the kingdom. A character who is a capable warrior catches her attention. |
-^kalakeri-adventures
+![[5. Mechanics\Tables\Kalakeri Adventures (VRGR).md|Kalakeri Adventures]]
 
 ### Vasavadan Traitors
 
@@ -2608,15 +2382,15 @@ Maharani Ramya's rule over Kalakeri is constantly jeopardized and undermined by 
 
 #### Arijani
 
-Arijani is the charming face of resistance for all who oppose Ramya's control of the Sapphire Throne. Like Ramya and Reeva, Arijani was given a second life by the Dark Powers. Now a [[/5. Mechanics/Bestiary/Fiend/Rakshasa.md|rakshasa]], Arijani uses his mastery of illusions and Reeva's insights to manipulate Ramya and his other foes. He's gregarious and enjoys the finer things in life, traits that ingratiate him with the wealthy and influential supporters he seeks to attract to his cause. These traits also allow him to cultivate a persona of vacant decadence, which he uses as a mask so his foes will underestimate him and reveal themselves. Arijani has faked his and Reeva's deaths on multiple occasions, after which they always return "resurrected," leading Ramya to believe they can never be truly defeated.
+Arijani is the charming face of resistance for all who oppose Ramya's control of the Sapphire Throne. Like Ramya and Reeva, Arijani was given a second life by the Dark Powers. Now a [[5. Mechanics\Bestiary\Fiend\Rakshasa.md|rakshasa]], Arijani uses his mastery of illusions and Reeva's insights to manipulate Ramya and his other foes. He's gregarious and enjoys the finer things in life, traits that ingratiate him with the wealthy and influential supporters he seeks to attract to his cause. These traits also allow him to cultivate a persona of vacant decadence, which he uses as a mask so his foes will underestimate him and reveal themselves. Arijani has faked his and Reeva's deaths on multiple occasions, after which they always return "resurrected," leading Ramya to believe they can never be truly defeated.
 
 #### Reeva
 
 Reeva remembers a time when she loved Ramya, before her sister eclipsed her in their family's esteem. Unable to overtake Ramya in leadership skills, she sought more subtle methods. Her interests in intrigue and magic intensified when she discovered a hidden library beneath the Cerulean Citadel—a repository of insidious magic hearkening back to the rule of certain tyrannical Vasavadan ancestors. Reeva uses what she discovered there to further Arijani's ambitions and yearns to gain control over the citadel so she can unearth its deepest, most insidious secrets.
 
-After her murder, Reeva was reborn as an [[/5. Mechanics/Bestiary/Fiend/Arcanaloth.md|arcanaloth]], a state that horrifies her. When frustrated, she vents her rage by instructing her servants to abduct someone she considers beautiful and then overseeing that beauty's destruction. Reeva is a cunning plotter, strategist, and manipulator. She applies these talents to her magic, entreating fiends for aid and using them to hasten the day when no one will underestimate her again. Many of Arijani's allies don't trust Reeva. Behind her back, they mockingly call her charismatic Arijani's opposite, or "Inajira."
+After her murder, Reeva was reborn as an [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|arcanaloth]], a state that horrifies her. When frustrated, she vents her rage by instructing her servants to abduct someone she considers beautiful and then overseeing that beauty's destruction. Reeva is a cunning plotter, strategist, and manipulator. She applies these talents to her magic, entreating fiends for aid and using them to hasten the day when no one will underestimate her again. Many of Arijani's allies don't trust Reeva. Behind her back, they mockingly call her charismatic Arijani's opposite, or "Inajira."
 
-![[074-03-021-arijani-and-reeva.png#center|"Arijani and Reeva Vasavadan conspire in a courtyard of the Cerulean Citadel"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\074-03-021-arijani-and-reeva.png#center|"Arijani and Reeva Vasavadan conspire in a courtyard of the Cerulean Citadel"]]
 
 ### Treachery in Kalakeri
 
@@ -2648,29 +2422,7 @@ It's possible for characters to gain renown with a faction, betray the faction, 
 
 Kalakeri's factions are locked in a stalemate, their victories and losses forgotten within days or weeks. Characters who interact with the factions might change this balance. But if either faction firmly controls Kalakeri, the leaders enact their monstrous agendas upon the land, leading only to continued suffering. The Dark Powers ensure that the defeated faction doesn't remain quelled for long, though. The characters might instead try to gain influence with Ramya or with Arijani and Reeva to curb the villains' atrocities and mitigate the wickedness in Kalakeri. Such actions put the characters at risk, but if they don't intercede, who will?
 
-**Renown in Kalakeri**
-
-| Adjusted Renown | Activity | Faction |
-|-----------------|----------|---------|
-| +1 | Advancing the faction's interests | Either |
-| +1 | Revealing a traitor | Either |
-| +1 | Attaining victory over a rival through martial skill | Loyalists |
-| +1 | Evicting rebels from a community | Loyalists |
-| +1 | Attaining victory over a rival through duplicity | Rebels |
-| +2 | Completing a mission assigned by the faction | Either |
-| +2 | Executing a traitor | Either |
-| +2 | Evicting loyalists from a community | Rebels |
-| +2 | Gaining a rich or powerful ally for the faction | Rebels |
-| +2 | Offering rare occult lore to Reeva | Rebels |
-| +3 | Recovering Arijani or Reeva's skull from the Tower of Traitors | Rebels |
-| +4 | Ousting foes from the Cerulean Citadel | Either |
-| –1 | Being accused of treachery | Either |
-| –2 | Being caught aiding a rival faction's agenda | Either |
-| –2 | Failing at an assignment | Either |
-| –2 | Offending Arijani's ego | Rebels |
-| –3 | Discovering a faction leader's true form | Either |
-| –5 | Openly betraying the faction | Either |
-^renown-in-kalakeri
+![[5. Mechanics\Tables\Renown In Kalakeri (VRGR).md|Renown in Kalakeri]]
 
 #### Loyalists of Kalakeri
 
@@ -2723,7 +2475,7 @@ Those who gain certain thresholds of renown with the rebels can make requests of
 
 ## Kartakass
 
-_Domain of Tarnished Dreams_
+*Domain of Tarnished Dreams*
 
 - **Darklord.** Harkon Lukas  
 - **Genres.** "Dark fantasy" and "gothic horror"  
@@ -2756,15 +2508,15 @@ Those familiar with Kartakass know the following facts:
 - Wolves roam the land freely. Few venture outside during the full moon, fearing werewolves.  
 - A sourceless song whispers through the mystical Wildersung Wood, always fading before it ends. Although no one knows its conclusion, all Kartakans know the beginning: "Sing of the trees, give voice to the breeze, and stave off the bloom of doom. While the wise sing their song, guilty necks stretch long, and..."  
 
-![[075-03-024-the-crowds.png#center|"The crowds at the Crystal Club in Harmonia have a vicious reputation. Some performers learn why firsthand"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\075-03-024-the-crowds.png#center|"The crowds at the Crystal Club in Harmonia have a vicious reputation. Some performers learn why firsthand"]]
 
 ### Settlements and Sites
 
 Kartakass is a gentle land of rolling hills, light forests, and clear lakes. The domain welcomes strangers. Small bands of merchants roam along the Lost Chord road or visit the quay at Point Hallucination in hopes of welcoming visitors and directing them to the domain's festively decorated communities.
 
 > [!gallery]
-> ![[076-map-3-9-kartakass.jpg#gallery|Map 3.9: Kartakass]]
-> ![[077-map-3-9-kartakass-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\076-map-3-9-kartakass.jpg#gallery|Map 3.9: Kartakass]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\077-map-3-9-kartakass-player.jpg#gallery|Player Version]]
 
 #### Emherst
 
@@ -2788,7 +2540,7 @@ The straight-limbed trees that make up this wood bear bark that causes sounds to
 
 ### Harkon Lukas
 
-![[078-03-022-harkon-lukas.png#center|Harkon Lukas]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\078-03-022-harkon-lukas.png#center|Harkon Lukas]]
 
 Harkon Lukas's life companions are ambition and blood. Born amid a community of lycanthropes, he dreamed of commanding not just a pack, but a whole army, a nation, even an empire of born predators. Early in life, he sought to unite his reckless werebeast family and turn them into tools of his ambition. When they failed him, though, Harkon lashed out, ultimately driving the lycanthropes to turn on him. The would-be leader murdered dozens but barely escaped alive, fleeing into a nation of humans.
 
@@ -2800,7 +2552,7 @@ At that moment, Harkon Lukas ended his ploy, bursting from his crimson coffin in
 
 #### Harkon's Powers and Dominion
 
-A born liar and shape-shifter, Harkon Lukas orchestrates elaborate manipulations. He has statistics similar to a [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md|loup garou]] (see "chapter 5") but is never forced to change shape, either by the moon or by other external factors. He prefers his human form, but explores different physical details as the mood strikes him. He's rarely seen without his signature wide-brimmed hat; wolf's tooth necklace; and violin, which he calls Bleeding Heart.
+A born liar and shape-shifter, Harkon Lukas orchestrates elaborate manipulations. He has statistics similar to a [[5. Mechanics\Bestiary\Monstrosity\Loup Garou (VRGR).md|loup garou]] (see "chapter 5") but is never forced to change shape, either by the moon or by other external factors. He prefers his human form, but explores different physical details as the mood strikes him. He's rarely seen without his signature wide-brimmed hat; wolf's tooth necklace; and violin, which he calls Bleeding Heart.
 
 ##### Hungry for Fame
 
@@ -2816,7 +2568,7 @@ Lukas owns this intimate, traditional tavern in Skald. Nightly, either Harkon Lu
 
 ##### Closing the Borders
 
-When Harkon chooses to close Kartakass's borders, a soothing song fills the Mists. The Mists function as detailed in ""The Mists"" at the start of this chapter, but in addition, any creature in the Mists that has its speed reduced to 0 by [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] falls [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] and is teleported out of the Mists. The creature awakes at the Mists' edge back in Kartakass `dice: 1d6` (`1d6`) hours later.
+When Harkon chooses to close Kartakass's borders, a soothing song fills the Mists. The Mists function as detailed in ""The Mists"" at the start of this chapter, but in addition, any creature in the Mists that has its speed reduced to 0 by [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] falls [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]] and is teleported out of the Mists. The creature awakes at the Mists' edge back in Kartakass `dice: 1d6` (`1d6`) hours later.
 
 #### Harkon Lukas's Torment
 
@@ -2855,19 +2607,7 @@ Kartakass also presents a fantastic domain in which to explore surreal twists on
 
 Consider the plots on the Kartakass Adventures table when planning adventures in this domain.
 
-**Kartakass Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | The characters arrive in Kartakass and immediately meet a friendly local: Harkon Lukas. |
-| 2 | A foe carries an invitation to Harmonia's Crystal Club. If the characters visit, they find themselves the only non-lycanthropes in the crowd. |
-| 3 | A set dresser in Medria used "tamed"[[/5. Mechanics/Bestiary/Monstrosity/Mimic.md|mimics]] during a stage production. Now the audience is trapped inside a theater overrun by the monsters. |
-| 4 | The party investigates a murder in Emherst. The victim is an actor who played a character murdered daily in the ongoing immersive play. |
-| 5 | Akriel Lukas hires the party to "borrow" her father's violin so she can accurately model her own violin, Sundered Heart, from it. |
-| 6 | A scholar named Radaga seeks the characters' aid in recovering a mysterious relic—an ancient crown—from a skeleton-haunted canyon in the Martello Hills. |
-| 7 | The party is invited to participate in a fighting tournament in the goblin-overrun hills known as the Catacombs. Upon arriving, they find that [[/5. Mechanics/Bestiary/Humanoid/Goblin.md|goblins]] organized the event under the oversight of the flamboyant [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md|gladiator]] Nym Pymplee. |
-| 8 | A brewer in Harmonia hires the party to deliver a cart of meekulbrau—a local berry wine that soothes the throat and improves vocal performances. A band of thieves hijacked the last two deliveries, and the brewer wants to make sure this latest delivery reaches its buyer, Harkon Lukas. |
-^kartakass-adventures
+![[5. Mechanics\Tables\Kartakass Adventures (VRGR).md|Kartakass Adventures]]
 
 ### Insatiable Hungers
 
@@ -2891,21 +2631,21 @@ Through sycophants and werewolf allies, the Darklord learns of noteworthy charac
 | 4 | In the wild, Harkon's entourage is slain by wolves or by bandits. If the party saves him, the Darklord feigns helplessness and asks to travel with them. |
 ^favors-for-harkon-lukas
 
-![[079-03-023-akriel-lukas.png#center|Akriel Lukas]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\079-03-023-akriel-lukas.png#center|Akriel Lukas]]
 
 ##### Bite of the Darklord
 
-After gaining a measure of the party's confidence or singling out a character as a useful favorite, Harkon Lukas asks his eccentric signature question: "May I bite you?" He does this while removing his wolf tooth necklace and offering to place it around a character's neck. By doing so, he marks the character as his protégé. If the character refuses, Harkon respects their decision but hopes they will reconsider. If the character accepts, the Darklord gives them [[/5. Mechanics/Items/Harkons Bite (VRGR).md|Harkon's Bite]] (see the description below). Harkon acknowledges that the necklace carries minor magic to bless the wearer's performances. However, he doesn't mention that it also curses the wearer with lycanthropy. The Darklord can create one new necklace every week.
+After gaining a measure of the party's confidence or singling out a character as a useful favorite, Harkon Lukas asks his eccentric signature question: "May I bite you?" He does this while removing his wolf tooth necklace and offering to place it around a character's neck. By doing so, he marks the character as his protégé. If the character refuses, Harkon respects their decision but hopes they will reconsider. If the character accepts, the Darklord gives them [[5. Mechanics\Items\Harkons Bite (VRGR).md|Harkon's Bite]] (see the description below). Harkon acknowledges that the necklace carries minor magic to bless the wearer's performances. However, he doesn't mention that it also curses the wearer with lycanthropy. The Darklord can create one new necklace every week.
 
 ##### The Darklord's Pack
 
-Harkon curses protégés with lycanthropy to force them into a circle of confidence. During the first full moon after a character receives [[/5. Mechanics/Items/Harkons Bite (VRGR).md|Harkon's Bite]], the Darklord lingers nearby to "discover" their transformation. He promises to keep this secret and reveals his own lycanthropy. The Darklord then uses this shared secret to gain leverage over the character and pushes them to embrace the curse. Harkon is initially patient with those who refuse his aid but manufactures perils that push the character to rely on him.
+Harkon curses protégés with lycanthropy to force them into a circle of confidence. During the first full moon after a character receives [[5. Mechanics\Items\Harkons Bite (VRGR).md|Harkon's Bite]], the Darklord lingers nearby to "discover" their transformation. He promises to keep this secret and reveals his own lycanthropy. The Darklord then uses this shared secret to gain leverage over the character and pushes them to embrace the curse. Harkon is initially patient with those who refuse his aid but manufactures perils that push the character to rely on him.
 
 - **The Darklord's Betrayal.** Inevitably, the Darklord grows tired of his protégés. Harkon begins treating them as minions or expendables to be used in his schemes. Those who resist find their reputations destroyed, their secrets revealed, and wolves dogging their steps. The only recourse is to flee Kartakass, upstage the Darklord, or somehow reveal Harkon Lukas as a monster.  
 
 ## Lamordia
 
-_Domain of Snow and Stitched Flesh_
+*Domain of Snow and Stitched Flesh*
 
 - **Darklord.** Viktra Mordenheim  
 - **Genres.** "Body horror" and "gothic horror"  
@@ -2941,8 +2681,8 @@ Those familiar with Lamordia know these facts:
 The bulk of Lamordia's population is divided between two smoke-belching communities, Ludendorf and Neufurchtenburg. Few dwell outside these settlements, since life is short in the frigid wilderness.
 
 > [!gallery]
-> ![[080-map-3-10-lamordia.png#gallery|Map 3.10: Lamordia]]
-> ![[081-map-3-10-lamordia-player.png#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\080-map-3-10-lamordia.png#gallery|Map 3.10: Lamordia]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\081-map-3-10-lamordia-player.png#gallery|Player Version]]
 
 #### Ludendorf
 
@@ -2956,7 +2696,7 @@ Neufurchtenburg is a hardy town of bent-backed miners and desperate fortune-seek
 
 #### Schloss Aubrecker
 
-The von Aubrecker clan has ruled Lamordia for as long as anyone remembers, from their ancestral home—a wind-whipped castle on a remote island. But Lamordia's ruler, Baron Rudolph von Aubrecker, has not made a public appearance in the two decades since he alone survived a tragic shipwreck with the help of Dr. Mordenheim. Those who have business with the baron are welcome for a brief stay, but they interact only with his perpetually smiling butler, Gerta. Visitors never enter the castle's west wing, where the baron—transformed into a [[/5. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md|brain in a jar]] (see "chapter 5") by Mordenheim's experiments—works to rebuild his lost body and exact revenge upon the doctor.
+The von Aubrecker clan has ruled Lamordia for as long as anyone remembers, from their ancestral home—a wind-whipped castle on a remote island. But Lamordia's ruler, Baron Rudolph von Aubrecker, has not made a public appearance in the two decades since he alone survived a tragic shipwreck with the help of Dr. Mordenheim. Those who have business with the baron are welcome for a brief stay, but they interact only with his perpetually smiling butler, Gerta. Visitors never enter the castle's west wing, where the baron—transformed into a [[5. Mechanics\Bestiary\Undead\Brain In A Jar (VRGR).md|brain in a jar]] (see "chapter 5") by Mordenheim's experiments—works to rebuild his lost body and exact revenge upon the doctor.
 
 #### Schloss Mordenheim
 
@@ -2970,28 +2710,28 @@ Overgrown with bizarrely warped forests, this jagged mountain range stretches fo
 
 A child prodigy from a minor noble family, the brilliant Viktra Mordenheim became obsessed with the complexities of Humanoid anatomy at an early age. She taught herself medicine as a child, and as a teen earned both a doctorate and an appointment as a preeminent researcher at a local university. Despite her genius, though, the young Dr. Mordenheim lacked empathy, compassion, and moral qualms. She pursued medicine solely to satiate her burning intellectual curiosity, never to aid her patients. She perceived magic as stealing the powers of otherworldly beings and cheating the laws of nature, and sought instead to use her mind to master the world.
 
-![[082-03-026-baron-rudolph.png#center|"The brain of Baron Rudolph von Aubrecker constructs a new body"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\082-03-026-baron-rudolph.png#center|"The brain of Baron Rudolph von Aubrecker constructs a new body"]]
 
-Eventually, Dr. Mordenheim became convinced that she could do more than create life—she could defeat death! She wished to breathe sentience into dead flesh and produce sturdier shells than the bodies of fragile, temporary mortals. She added corpse theft to her repertoire, employing thieves to procure specimens for her tests. This was how she met [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]], a beautiful but reckless body snatcher who was charmed by the doctor's aloofness and whose spontaneity entranced the methodical surgeon.
+Eventually, Dr. Mordenheim became convinced that she could do more than create life—she could defeat death! She wished to breathe sentience into dead flesh and produce sturdier shells than the bodies of fragile, temporary mortals. She added corpse theft to her repertoire, employing thieves to procure specimens for her tests. This was how she met [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]], a beautiful but reckless body snatcher who was charmed by the doctor's aloofness and whose spontaneity entranced the methodical surgeon.
 
-When [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] began showing signs of an incurable wasting disease, it was the first time either woman had felt the pangs of despair. In the months that followed, Dr. Mordenheim desperately hastened her experiments, employing anyone who would bring her bodies—both newly dead and still living. On her operating table, victims were killed, returned to life, and died again as Mordenheim sought to glimpse the secrets hidden in the instant of death.
+When [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] began showing signs of an incurable wasting disease, it was the first time either woman had felt the pangs of despair. In the months that followed, Dr. Mordenheim desperately hastened her experiments, employing anyone who would bring her bodies—both newly dead and still living. On her operating table, victims were killed, returned to life, and died again as Mordenheim sought to glimpse the secrets hidden in the instant of death.
 
-One moonless night, [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] fell into a sleep from which she wouldn't wake. Bringing [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] to her lab, Dr. Mordenheim worked feverishly for days to save her, pouring what she'd learned from a thousand deaths into saving one life. [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] became the recipient of the doctor's masterpiece, the end to disease and death: an artificial organ Mordenheim called the Unbreakable Heart. But as she stitched the miraculous device into place, constables burst into the lab and accused the doctor of facilitating numerous murders. As Dr. Mordenheim struggled against arrest, smoking chemicals and arcing electricity filled the laboratory. Before she lost consciousness, she saw [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] rise from the table, the Unbreakable Heart glowing within her behind golden stitches.
+One moonless night, [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] fell into a sleep from which she wouldn't wake. Bringing [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] to her lab, Dr. Mordenheim worked feverishly for days to save her, pouring what she'd learned from a thousand deaths into saving one life. [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] became the recipient of the doctor's masterpiece, the end to disease and death: an artificial organ Mordenheim called the Unbreakable Heart. But as she stitched the miraculous device into place, constables burst into the lab and accused the doctor of facilitating numerous murders. As Dr. Mordenheim struggled against arrest, smoking chemicals and arcing electricity filled the laboratory. Before she lost consciousness, she saw [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] rise from the table, the Unbreakable Heart glowing within her behind golden stitches.
 
-Dr. Mordenheim awoke in Lamordia, an unfamiliar land where her genius was celebrated. [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] and the Unbreakable Heart were nowhere to be found, but the doctor soon heard rumors of a glowing woman wandering in the icy wastes. Since then, Mordenheim has continued her experiments on the dead and living, striving to recreate her successes and failing every time. Between disappointments she searches the hinterlands, hoping to find [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]]—and with her, the miracle of the Unbreakable Heart.
+Dr. Mordenheim awoke in Lamordia, an unfamiliar land where her genius was celebrated. [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] and the Unbreakable Heart were nowhere to be found, but the doctor soon heard rumors of a glowing woman wandering in the icy wastes. Since then, Mordenheim has continued her experiments on the dead and living, striving to recreate her successes and failing every time. Between disappointments she searches the hinterlands, hoping to find [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]]—and with her, the miracle of the Unbreakable Heart.
 
 #### Mordenheim's Powers and Dominion
 
-Dr. Viktra Mordenheim dresses in functional, bloodstained lab wear. Her statistics are similar to those of a [[/5. Mechanics/Bestiary/Humanoid/Spy.md|spy]], but her focus is on science and her medical genius is unmatched. From her laboratory at Schloss Mordenheim, Dr. Mordenheim uses her scientific genius to pursue and pervert the secrets of life. Eschewing magic, the doctor uses unfathomable scientific secrets to achieve goals known only to her. While this might lead to plots involving all manner of amoral science, the doctor's work includes the following routine abominable operations.
+Dr. Viktra Mordenheim dresses in functional, bloodstained lab wear. Her statistics are similar to those of a [[5. Mechanics\Bestiary\Humanoid\Spy.md|spy]], but her focus is on science and her medical genius is unmatched. From her laboratory at Schloss Mordenheim, Dr. Mordenheim uses her scientific genius to pursue and pervert the secrets of life. Eschewing magic, the doctor uses unfathomable scientific secrets to achieve goals known only to her. While this might lead to plots involving all manner of amoral science, the doctor's work includes the following routine abominable operations.
 
 ##### Construct Creation
 
-Dr. Mordenheim can create any Construct or corporeal Undead by working in her laboratory for a number of uninterrupted days equal to the creature's challenge rating. At the end of the final day, the creature is complete and obeys her will. She uses this ability to create [[/5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golems]] and [[/5. Mechanics/Bestiary/Construct/Homunculus.md|homunculi]], as well as [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombies]], [[/5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|death's heads]], and [[/5. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md|brains in jars]] (see "chapter 5").
+Dr. Mordenheim can create any Construct or corporeal Undead by working in her laboratory for a number of uninterrupted days equal to the creature's challenge rating. At the end of the final day, the creature is complete and obeys her will. She uses this ability to create [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|flesh golems]] and [[5. Mechanics\Bestiary\Construct\Homunculus.md|homunculi]], as well as [[5. Mechanics\Bestiary\Undead\Zombie.md|zombies]], [[5. Mechanics\Bestiary\Undead\Deaths Head (VRGR).md|death's heads]], and [[5. Mechanics\Bestiary\Undead\Brain In A Jar (VRGR).md|brains in jars]] (see "chapter 5").
 
 - **Reborn Maker.** A side effect of Dr. Mordenheim's experiments is the creation of reborn (see "chapter 1"). It takes her `dice: 1d4` (`1d4`) days and the dead bodies of two Medium or Small Humanoids to create one reborn.  
-- **Brain Swap.** Dr. Mordenheim can place a creature's brain or head into another body, moving it from a donor to a recipient. The process requires the donor to have a brain and either be [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or to have been dead for less than 24 hours. In an operation that takes 1 hour, the doctor transfers the donor's brain or head from their body to the [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or dead corporeal body of a creature without a brain. The donor awakes 1 hour later with control of the recipient's body.  
+- **Brain Swap.** Dr. Mordenheim can place a creature's brain or head into another body, moving it from a donor to a recipient. The process requires the donor to have a brain and either be [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] or to have been dead for less than 24 hours. In an operation that takes 1 hour, the doctor transfers the donor's brain or head from their body to the [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]] or dead corporeal body of a creature without a brain. The donor awakes 1 hour later with control of the recipient's body.  
 
-While controlling the recipient's body, the donor retains their alignment, Intelligence, Wisdom, and Charisma scores. They otherwise use the recipient's body's statistics, but don't gain access to the recipient's knowledge, class features, or proficiencies. Dr. Mordenheim can swap a donor's brain or head back from the recipient's body to their original body through this same process, as long as the original body exists and no more than 1 week has passed. This period can be extended if steps are taken to preserve the original body, such as by keeping it in cold storage or under the effect of a [[/5. Mechanics/Spells/Gentle Repose.md|gentle repose]] spell.
+While controlling the recipient's body, the donor retains their alignment, Intelligence, Wisdom, and Charisma scores. They otherwise use the recipient's body's statistics, but don't gain access to the recipient's knowledge, class features, or proficiencies. Dr. Mordenheim can swap a donor's brain or head back from the recipient's body to their original body through this same process, as long as the original body exists and no more than 1 week has passed. This period can be extended if steps are taken to preserve the original body, such as by keeping it in cold storage or under the effect of a [[5. Mechanics\Spells\Gentle Repose.md|gentle repose]] spell.
 
 ##### Closing the Borders
 
@@ -3002,7 +2742,7 @@ When Dr. Mordenheim closes Lamordia's borders, temperatures across the domain dr
 Although Dr. Mordenheim doesn't show her emotions, she's vexed by the following circumstances:
 
 - Mordenheim cannot remake the miracle of scientific immortality embodied by the Unbreakable Heart. She relentlessly tries to understand and repeat the circumstances of its creation, but fails every time.  
-- [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] evades Mordenheim's attempts to find her.  
+- [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] evades Mordenheim's attempts to find her.  
 - The people of Lamordia view Mordenheim as a luminary and savior. She does not understand why and loathes the distractions they create.  
 
 #### Roleplaying Mordenheim
@@ -3035,44 +2775,30 @@ The monsters that roam Lamordia are lab-crafted horrors or mutated beasts, but u
 
 Beyond these possibilities, consider the plots on the Lamordia Adventures table when planning adventures in this domain.
 
-**Lamordia Adventures**
-
-| dice: d10 | Adventure |
-|-----------|-----------|
-| 1 | Sapient lab animals escape Ludendorf University and need help finding a new home. One, however, is eager to improve upon its form and the forms of its fellows. |
-| 2 | Medical student Emil Bollenbach strives to craft revolutionary [[/5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golems]], such as ones made entirely of doppelgangers or beholders. His patrons enlist the party to aid his research. |
-| 3 | A murderous, jaundiced whale is hunting Ludendorf's ships. The superstitious Captain Furschter of the city's navy asks the party to learn why by seeking Winter's Mouth, a crack in the ice where the sea supposedly whispers its secrets. |
-| 4 | Three brilliant Ludendorf University students compete to become Dr. Mordenheim's new assistant. Each seeks the party's assistance in ensuring they're chosen for the opportunity. |
-| 5 | A wave of warped monstrosities is preparing to assault Neufurchtenburg. The metallurgists at the Giesbrecht Automatic Armaments company have created a new weapon or vehicle that could save the town, but they need someone to test it. |
-| 6 | Ruprekt Schaller stood to inherit his dying father's factory in Ludendorf. Instead, Udo Schaller paid assassins to murder his son and had his brain transplanted into Ruprekt's young body, with the help of Dr. Mordenheim. Udo's daughter and sole surviving heir, Varissa Schaller, wants to avenge her brother's murder and begs the party to help destroy her father. |
-| 7 | Prospectors seeking rare gas pockets discover numerous well-preserved bog mummies dating back to Lamordia's ancient druidic peoples. They seek help when the mummies vanish and undead animals begin terrorizing their camp. |
-| 8 | Baron von Aubrecker writes to the party, asking them to recover the body of a "relative" from the Haifisch, a shipwreck impaled on a spire of ice. |
-| 9 | The Sleeping Beast is experiencing an increasing number of earthquakes. The overseers of the Pulstein Mine call for aid, believing that strange creatures are causing the quakes to steal the "marrowstone" they're mining. |
-| 10 | Scholars at Ludendorf University learn of the Unbreakable Heart and claim a monster stole it. The characters and dozens of other hunters are sent to the Isles of Agony to recover the device. |
-^lamordia-adventures
+![[5. Mechanics\Tables\Lamordia Adventures (VRGR).md|Lamordia Adventures]]
 
 ### Mordenheim's Monsters
 
-The horror at Lamordia's heart is Dr. Mordenheim's bizarre experiments and ceaseless search for [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]].
+The horror at Lamordia's heart is Dr. Mordenheim's bizarre experiments and ceaseless search for [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]].
 
 #### Elise and the Unbreakable Heart
 
-Above all else, Dr. Mordenheim's objectives are finding [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] and recovering or re-creating the Unbreakable Heart.
+Above all else, Dr. Mordenheim's objectives are finding [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] and recovering or re-creating the Unbreakable Heart.
 
 ##### Elise
 
-Dr. Mordenheim's supposed beloved and greatest achievement, [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] is a confused, frustrated soul who never wished for her current circumstances. She's now a [[/5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golem]] with the following adjustments:
+Dr. Mordenheim's supposed beloved and greatest achievement, [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] is a confused, frustrated soul who never wished for her current circumstances. She's now a [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|flesh golem]] with the following adjustments:
 
-- [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] does not have the Berserk or Aversion of Fire traits.  
+- [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] does not have the Berserk or Aversion of Fire traits.  
 - She has immunity to cold damage.  
 
-[[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]]'s heart has been replaced with the Unbreakable Heart. If this device is removed, [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] dies, even if it is replaced with another heart. [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] is horrified by what Dr. Mordenheim did to her and tries to avoid the doctor and all strangers, fearing they might kill her to learn the Unbreakable Heart's secrets. She roams without destination but keeps a hidden sanctuary at Hope's Heart on the Isles of Agony. Although she has tried to leave Lamordia, the Mists prevent her from doing so.
+[[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]]'s heart has been replaced with the Unbreakable Heart. If this device is removed, [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] dies, even if it is replaced with another heart. [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] is horrified by what Dr. Mordenheim did to her and tries to avoid the doctor and all strangers, fearing they might kill her to learn the Unbreakable Heart's secrets. She roams without destination but keeps a hidden sanctuary at Hope's Heart on the Isles of Agony. Although she has tried to leave Lamordia, the Mists prevent her from doing so.
 
 ##### The Unbreakable Heart
 
 The Unbreakable Heart is a nonmagical scientific wonder that replaces a creature's heart. The device installs itself, connecting to a creature's anatomy and stitching itself into place if positioned in a cavity where the creature's heart used to be. A creature with the device inside them is immune to disease, ceases to age, and does not die of old age, though they can still die in other ways. The glowing device sheds light in a 10-foot radius and dim light for an additional 10 feet. While inside a creature, the device causes the creature to shed dim light in a 10-foot radius.
 
-![[083-03-025-dr-mordenheim.png#center|"Within Elise's undying body beats Dr. Mordenheim's greatest creation: the Unbreakable Heart"]]
+![Within [Elise](compendium/...](compendium/books/van-richtens-guide-to-ravenloft/img/083-03-025-dr-mordenheim.png#center "Within [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]]'s undying body beats Dr. Mordenheim's greatest creation: the Unbreakable Heart")
 
 #### Re-created by the Doctor
 
@@ -3103,14 +2829,14 @@ Once the characters become subject to Dr. Mordenheim's schemes, consider what sh
 | dice: d4 | Mission |
 |----------|---------|
 | 1 | The doctor desires a cutting-edge discovery from a factory in Neufurchtenburg. To acquire it, she has kidnapped the factory owner's family and put the characters' consciousnesses into their bodies. Until the characters deliver the discovery, she holds their bodies and the family's brains in cold storage. |
-| 2 | Wishing to spy on Ludendorf University, Mordenheim mounts the characters' heads onto suits of [[/5. Mechanics/Bestiary/Construct/Animated Armor.md|animated armor]]. The characters will get their bodies back when they return with the information the doctor desires. |
-| 3 | Agents of Baron von Aubrecker attack Schloss Mordenheim and wreak considerable damage. Dr. Mordenheim places the characters' brains into [[/5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golems]] and sets them loose to punish the baron. |
-| 4 | Dr. Mordenheim wants [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]] found and returned. Using various monster parts, she creates unique hunter bodies with the statistics of [[/5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golems]] or {@b} other monsters. She places the characters' minds into these bodies, promising to restore them when they bring her [[/5. Mechanics/Bestiary/Npc/Elise (VRGR).md|Elise]]. |
+| 2 | Wishing to spy on Ludendorf University, Mordenheim mounts the characters' heads onto suits of [[5. Mechanics\Bestiary\Construct\Animated Armor.md|animated armor]]. The characters will get their bodies back when they return with the information the doctor desires. |
+| 3 | Agents of Baron von Aubrecker attack Schloss Mordenheim and wreak considerable damage. Dr. Mordenheim places the characters' brains into [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|flesh golems]] and sets them loose to punish the baron. |
+| 4 | Dr. Mordenheim wants [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]] found and returned. Using various monster parts, she creates unique hunter bodies with the statistics of [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|flesh golems]] or   other monsters. She places the characters' minds into these bodies, promising to restore them when they bring her [[5. Mechanics\Bestiary\Npc\Elise (VRGR).md|Elise]]. |
 ^serving-dr-mordenheim
 
 ## Mordent
 
-_Domain of the Haunted_
+*Domain of the Haunted*
 
 - **Darklord.** Wilfred Godefroy  
 - **Genre.** "Ghost stories"  
@@ -3151,8 +2877,8 @@ Those familiar with Mordent know the following facts:
 The lands of Mordent are carved into estates passed down through hereditary lines, accompanied by minor titles of nobility. These estates—including Gryphon Hill, Heather House, and Westcote Manor—number among the most notable landmarks in the domain. The tenant farmers who work the land pay a portion of their crops to the landowners as rent. A small but relatively well-off middle class populates the handful of towns and villages scattered across the domain, most notably the town of Mordentshire.
 
 > [!gallery]
-> ![[084-map-3-11-mordent.jpg#gallery|Map 3.11: Mordent]]
-> ![[085-map-3-11-mordent-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\084-map-3-11-mordent.jpg#gallery|Map 3.11: Mordent]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\085-map-3-11-mordent-player.jpg#gallery|Player Version]]
 
 #### Mordentshire
 
@@ -3162,7 +2888,7 @@ Mordentshire's businesses largely cater to local laborers, with a few remarkable
 
 #### Heather House
 
-In Mordentshire, the Weathermay family are respected local paragons of virtue and good sense—despite some family members' unfortunate proclivity for adventuring. The head of the family, Alice Weathermay, serves as mayor of Mordentshire and maintains her family's cliffside home, Heather House. The manor has known joy and tragedy, and reflects both in its ivy-shrouded stone and sharp gables. Within, the house is a museum of family trophies and heirlooms, including a grand rosewood harpsichord and the wheelchair of Lord Byron Weathermay, the house's architect, who ensured that clever lifts made his home fully accessible. At the edge of Heather House's grounds is the Weathermay Mausoleum, the resting place of generations of Weathermays—and the location of a secret magical laboratory guarded by the [[/5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]] Tintantilus.
+In Mordentshire, the Weathermay family are respected local paragons of virtue and good sense—despite some family members' unfortunate proclivity for adventuring. The head of the family, Alice Weathermay, serves as mayor of Mordentshire and maintains her family's cliffside home, Heather House. The manor has known joy and tragedy, and reflects both in its ivy-shrouded stone and sharp gables. Within, the house is a museum of family trophies and heirlooms, including a grand rosewood harpsichord and the wheelchair of Lord Byron Weathermay, the house's architect, who ensured that clever lifts made his home fully accessible. At the edge of Heather House's grounds is the Weathermay Mausoleum, the resting place of generations of Weathermays—and the location of a secret magical laboratory guarded by the [[5. Mechanics\Bestiary\Fiend\Quasit.md|quasit]] Tintantilus.
 
 #### Idlethorp
 
@@ -3174,21 +2900,21 @@ Viewed from above, three lakes in southwestern Mordent appear to form a mystical
 
 ### Wilfred Godefroy
 
-![[086-03-027-van-richten.png#center|Van Richten's Herbalist Shop in Mordentshire]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\086-03-027-van-richten.png#center|Van Richten's Herbalist Shop in Mordentshire]]
 
 Lord Wilfred Godefroy was an unremarkable minor aristocrat who inherited the estate of Gryphon Hill near Mordentshire centuries ago, after murdering his father. An angry and abusive man throughout his life, he also murdered his wife, Estelle, and young daughter, Penelope, in a fit of rage. The two rose that night as mournful phantoms and haunted him with their wailing and condemnation. Every night for the next year, the spirits appeared and tormented him, until in desperation he took his life on the anniversary of their murder.
 
-But Lord Godefroy's suicide didn't stop his torment. His spirit lingered in Gryphon Hill, and the ghosts of his wife and daughter haunted him day and night. Moreover, the spirit of his murdered father soon appeared to join the chorus of condemnation. Lord Godefroy possessed an adventurer and attempted to use the living body to put his family's spirits to rest—but the adventurer died, and then _his_ ghost began to haunt Godefroy as well.
+But Lord Godefroy's suicide didn't stop his torment. His spirit lingered in Gryphon Hill, and the ghosts of his wife and daughter haunted him day and night. Moreover, the spirit of his murdered father soon appeared to join the chorus of condemnation. Lord Godefroy possessed an adventurer and attempted to use the living body to put his family's spirits to rest—but the adventurer died, and then *his* ghost began to haunt Godefroy as well.
 
 In desperation, Lord Godefroy sought out a different kind of help in the world of the living. He began haunting an alchemist named Rastinon, urging him to pursue research into mortal souls. Rastinon crafted a terrible artifact he called the Apparatus, which could separate the soul from a living body, translocate souls from one body to another, and otherwise manipulate the substance and energy of spirits both living and undead. Lord Godefroy hoped the Apparatus would send all spirits (including him) to their deserved rests, but the artifact had the opposite effect: its necromantic energy washed through the region around Mordentshire, killing every living being in it. As the Mists rose, Lord Godefroy became lord over a land of ghosts, haunted by the spirits whose deaths he had caused. Now, all living souls that dwell in Mordent are doomed to haunt the domain's Darklord long after the demise of their mortal bodies.
 
 #### Godefroy's Powers and Dominion
 
-Lord Wilfred Godefroy rules his own personal afterlife. His statistics are similar to those of a [[/5. Mechanics/Bestiary/Undead/Ghost.md|ghost]], and he is one of the most powerful spectral Undead in the domain. From the House on Gryphon Hill, Godefroy forces throngs of the dead to serve his will and to seek out a path to their true, final deaths.
+Lord Wilfred Godefroy rules his own personal afterlife. His statistics are similar to those of a [[5. Mechanics\Bestiary\Undead\Ghost.md|ghost]], and he is one of the most powerful spectral Undead in the domain. From the House on Gryphon Hill, Godefroy forces throngs of the dead to serve his will and to seek out a path to their true, final deaths.
 
 ##### Lord of the Dead
 
-After 24 hours, the spirit of anyone who dies in Mordent reappears as a [[/5. Mechanics/Bestiary/Undead/Ghost.md|ghost]], a [[/5. Mechanics/Bestiary/Undead/Specter.md|specter]], or another incorporeal Undead near where they died. These spectral dead can be magically returned to life as normal, but those who aren't restored to life linger as Undead until they're destroyed or the Mists claim them. Spectral agents of Lord Godefroy remain alert for useful souls that might be enlisted into the Darklord's service.
+After 24 hours, the spirit of anyone who dies in Mordent reappears as a [[5. Mechanics\Bestiary\Undead\Ghost.md|ghost]], a [[5. Mechanics\Bestiary\Undead\Specter.md|specter]], or another incorporeal Undead near where they died. These spectral dead can be magically returned to life as normal, but those who aren't restored to life linger as Undead until they're destroyed or the Mists claim them. Spectral agents of Lord Godefroy remain alert for useful souls that might be enlisted into the Darklord's service.
 
 ##### Gryphon Hill
 
@@ -3217,7 +2943,7 @@ Lord Godefroy is an abyss of grief and rage, tormented by the following circumst
 
 > [!quote] Foundations of Horror
 > 
-> Three years after the 1983 release of the adventure _Ravenloft_, the sequel adventure, _Ravenloft II: The House on Gryphon Hill_, debuted. The adventure pulled back the Mists on the domain of Mordent, a realm of terrors beyond Barovia, and introduced such characters as Lord Byron Weathermay, the mesmerist Germain d'Honaire, the tragic Godefroy family, the lycanthropic Timothys, and Azalin the lich—names you'll find throughout this book. With the _House on Gryphon Hill_, Barovia and Mordent paved the way for Ravenloft to become a vast and varied setting encompassing dozens of Domains of Dread.
+> Three years after the 1983 release of the adventure *Ravenloft*, the sequel adventure, *Ravenloft II: The House on Gryphon Hill*, debuted. The adventure pulled back the Mists on the domain of Mordent, a realm of terrors beyond Barovia, and introduced such characters as Lord Byron Weathermay, the mesmerist Germain d'Honaire, the tragic Godefroy family, the lycanthropic Timothys, and Azalin the lich—names you'll find throughout this book. With the *House on Gryphon Hill*, Barovia and Mordent paved the way for Ravenloft to become a vast and varied setting encompassing dozens of Domains of Dread.
 ^foundations-of-horror
 
 #### Roleplaying Godefroy
@@ -3248,39 +2974,17 @@ Any kind of ghost story adventure (as described in "chapter 2") fits in Mordent.
 
 Consider the plots on the Mordent Adventures table when planning adventures in this domain.
 
-**Mordent Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | An alchemist discovers a way to "burn" spirits to provide fuel for magical fire. Several spirits seek the party's aid in preventing their second death. |
-| 2 | A [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]] seeks help as an undead ancestor tries to prevent the [[/5. Mechanics/Bestiary/Humanoid/Noble.md|noble]]'s marriage to an "unsuitable" partner. |
-| 3 | The spirits of two lovers whose families prevented their union begin exacting revenge on the living. |
-| 4 | A pair of rival fiends, Athos and Diche, break loose from idols in the collection at Heather House. Members of the Weathermay family call for aid. |
-| 5 | The citizens of the village of Crawford spread tales of a gigantic [[/5. Mechanics/Bestiary/Beast/Raven.md|raven]]. Sheriff Perkins hires the characters to hunt down the creature, which is actually a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereraven]] (see "chapter 5") protecting the community from a greater threat. |
-| 6 | A curse has afflicted Westcote Manor for a hundred years. The surrounding bog encroaches on the house, and howling bog hounds draw ever closer to the estate's beleaguered lord. |
-| 7 | The baronet of a small estate is forced to commit increasingly heinous crimes each day or face unspeakable torment at the hands of his ghostly ancestors, who suffered under the same curse. |
-| 8 | Someone has rebuilt the infamous Apparatus and is using it to transpose vicious souls into the bodies of mild-mannered citizens of Mordentshire. |
-^mordent-adventures
+![[5. Mechanics\Tables\Mordent Adventures (VRGR).md|Mordent Adventures]]
 
 ### Haunting Mordent
 
-Crafting an adventure around a haunting is similar to building any other adventure. The ""Ghost Stories"" section of "chapter 2" provides a good starting point for detailing elements of a ghost story. This section supplements that material with advice specific to building an adventure reminiscent of a classic ghost story, focusing on three key elements of such tales: history, tragedy, and romance. Throughout this section, consider the word _ghost_ synonymous with any sort of spirit or incorporeal Undead.
+Crafting an adventure around a haunting is similar to building any other adventure. The ""Ghost Stories"" section of "chapter 2" provides a good starting point for detailing elements of a ghost story. This section supplements that material with advice specific to building an adventure reminiscent of a classic ghost story, focusing on three key elements of such tales: history, tragedy, and romance. Throughout this section, consider the word *ghost* synonymous with any sort of spirit or incorporeal Undead.
 
 #### History
 
 Because elements of a ghost's mortal life define and foreshadow the course of their death and undeath, a common aspect of a ghost-story adventure involves piecing together the history of the ghost's life to figure out how to put the spirit to rest. This gives any ghost story characteristics similar to a mystery. Be generous in planting clues to the ghost's history throughout the adventure, assuming that the players will miss several of them. You can use the Ghost's History table to determine how long the ghost has been Undead.
 
-**Ghost's History**
-
-| dice: d6 | Ghost's History |
-|----------|-----------------|
-| 1 | The ghost died so recently that they might not yet fully realize they are dead. |
-| 2 | The ghost died recently enough that people who knew them in life are still around. |
-| 3 | The ghost died years ago, and few people who knew them in life are still alive. |
-| 4 | The ghost died a generation ago; folks remember rumors or stories told about the person's life. |
-| 5 | The ghost died multiple generations ago, and only local folklore or histories preserve their memory. |
-| 6 | The ghost died a very long time ago, and no one knows anything about their history. |
-^ghosts-history
+![[5. Mechanics\Tables\Ghosts History (VRGR).md|Ghost's History]]
 
 #### Tragedy
 
@@ -3320,7 +3024,7 @@ Issues of love and romance are intimately bound to the tragic elements of a ghos
 | 8 | The ghost seeks vengeance on someone who spurned them in life. |
 ^romantic-elements
 
-![[087-03-028-all-who-die.png#center|"All who die in Mordent become captives to the will of Lord Wilfred Godefroy"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\087-03-028-all-who-die.png#center|"All who die in Mordent become captives to the will of Lord Wilfred Godefroy"]]
 
 #### Putting the Pieces Together
 
@@ -3345,10 +3049,10 @@ In Mordent, the spirits of the dead don't naturally pass on to a final rest, but
 ## Richemulot
 
 > [!gallery]
-> ![[088-map-3-12-richemulot.jpg#gallery|Map 3.12: Richemulot]]
-> ![[089-map-3-12-richemulot-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\088-map-3-12-richemulot.jpg#gallery|Map 3.12: Richemulot]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\089-map-3-12-richemulot-player.jpg#gallery|Player Version]]
 
-_Domain of Disease, Isolation, and Wererats_
+*Domain of Disease, Isolation, and Wererats*
 
 - **Darklord.** Jacqueline Renier  
 - **Genres.** "Disaster horror" and "gothic horror"  
@@ -3413,13 +3117,13 @@ Mortigny is quickly quarantined during surges of plague, but anyone is allowed t
 
 ### Jacqueline Renier
 
-![[090-03-029-jacqueline-renier.png#center|Jacqueline Renier]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\090-03-029-jacqueline-renier.png#center|Jacqueline Renier]]
 
 A century ago, Richemulot was a lively place. In those days, not a building stood vacant as merchants from both ends of the Musarde set up shop along the broad boulevards of Pont-a-Museau. As wealth trickled into the merchants' coffers, those of low birth began to taste the benefits of nobility.
 
 Renier saw how the city was changing and tried to convince her family of the danger it posed. The burgeoning middle class sapped her family's authority, transforming them from lords over the commoners into mere landlords. But Renier's family surrendered to the times. Her grandfather grew infirm over the years and less able to look out for the family's interests, and the others—even her twin sister, Louise—seemed oblivious to the threat. It fell to Jacqueline to correct their failings.
 
-Finding like-minded souls took Renier years, but she finally became aware of the mysterious Trueblood Council, a secret society of Richemulot's eldest and most esteemed families. Expending a fortune, Renier aggressively pursued membership. Finally she was granted an invitation to join the society's members at their meeting place hidden among the sewers of Pont-a-Museau. But when Renier arrived, she found a throng of filthy commoners, not the dramatic masterminds she'd expected. As she cursed them and set off to fetch the guards, the council members revealed their true [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererat]] forms. That night, she was inducted into their ranks.
+Finding like-minded souls took Renier years, but she finally became aware of the mysterious Trueblood Council, a secret society of Richemulot's eldest and most esteemed families. Expending a fortune, Renier aggressively pursued membership. Finally she was granted an invitation to join the society's members at their meeting place hidden among the sewers of Pont-a-Museau. But when Renier arrived, she found a throng of filthy commoners, not the dramatic masterminds she'd expected. As she cursed them and set off to fetch the guards, the council members revealed their true [[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererat]] forms. That night, she was inducted into their ranks.
 
 Renier swiftly accepted her new life as a wererat and her status as a member of Richemulot's first inhabitants. Her spite toward the lowborn turned instead toward non-wererats. Her first major act consisted of conferring the gift of lycanthropy upon her family. Only her twin, Louise, resisted, for which Jacqueline disfigured her and cast her out.
 
@@ -3429,11 +3133,11 @@ The people begged Renier for help. Disgusted by the masses, she deemed them unwo
 
 #### Jacqueline's Powers and Dominion
 
-Although Jacqueline Renier has statistics similar to those of a [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererat]], she assumes her hybrid or rat form only when forced to defend herself or when pushed to the brink of rage. She is rarely without guards, be they members of the Casques Silencieux, wererat bodyguards, or hidden swarms of rats.
+Although Jacqueline Renier has statistics similar to those of a [[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererat]], she assumes her hybrid or rat form only when forced to defend herself or when pushed to the brink of rage. She is rarely without guards, be they members of the Casques Silencieux, wererat bodyguards, or hidden swarms of rats.
 
 ##### Casques Silencieux
 
-The Darklord's silent state police guard Chateau Delanuit and enforce her quarantines across Richemulot. Rather than the soldiers they appear to be, these troops are [[/5. Mechanics/Bestiary/Construct/Animated Armor.md|animated armor]] filled with rats that mindlessly and mercilessly enact Jacqueline Renier's will. If a guard is defeated, the armor collapses, releasing a [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarm of rats]].
+The Darklord's silent state police guard Chateau Delanuit and enforce her quarantines across Richemulot. Rather than the soldiers they appear to be, these troops are [[5. Mechanics\Bestiary\Construct\Animated Armor.md|animated armor]] filled with rats that mindlessly and mercilessly enact Jacqueline Renier's will. If a guard is defeated, the armor collapses, releasing a [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|swarm of rats]].
 
 ##### Plague Seasons
 
@@ -3445,7 +3149,7 @@ Jacqueline Renier can understand and magically command any rat within 120 feet o
 
 ##### Closing the Borders
 
-When Jacqueline Renier wishes to close her domain's borders, the Mists rise at the edge of the lands, as detailed in ""The Mists"" at the start of this chapter. Additionally, the Mists are filled with [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]]; endless waves of them attack any creatures that enter the Mists.
+When Jacqueline Renier wishes to close her domain's borders, the Mists rise at the edge of the lands, as detailed in ""The Mists"" at the start of this chapter. Additionally, the Mists are filled with [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|swarms of rats]]; endless waves of them attack any creatures that enter the Mists.
 
 #### Jacqueline's Torment
 
@@ -3479,17 +3183,7 @@ Jacqueline Renier believes she's infallible. Proper rule by the Reniers benefits
 
 Adventurers might be accustomed to defeating foes using sword and spell, but such weapons hold little power against a nation-spanning plague. The characters might even be able to handle maladies when they afflict one or two members of the party, but their magical resources are quickly expended in the face of relentless contagion that's intentionally spread. The ""Cycle of the Plague"" section later in this domain explores how to use an ongoing disease as a backdrop to your adventures, while the Richemulot Adventures table suggests other plots that might unfold in the domain.
 
-**Richemulot Adventures**
-
-| dice: d6 | Adventure |
-|----------|-----------|
-| 1 | At the command of Jacqueline Renier, [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]] nightly slip into homes and murder the resident cats. Distraught pet owners entreat the characters for aid. |
-| 2 | A desperate rogue seeks the characters' aid when the rest of her band is trapped within the abandoned Fiox Estate by a haywire security system. |
-| 3 | A band of students plot a revolution against Jacqueline Renier in the valley called Assassin's Echo. They're convinced one among them is a traitor but don't realize there's a [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererat]] in their midst. |
-| 4 | A constable requests the characters' aid in solving murders in which the victims have been drained of blood. The murderer is a [[/5. Mechanics/Bestiary/Monstrosity/Strigoi (VRGR).md|strigoi]] (see "chapter 5") that haunts a sunken chapel in the swamp known as the Gardens. |
-| 5 | Doctor Temator of Mortigny believes she can create a cure for the Gnawing Plague and enlists the characters to find subjects who have never had the disease. Rumors soon spread that the doctor and characters are actually spreading the plague. |
-| 6 | Louise Renier seeks the characters' aid in infiltrating a ball Jacqueline is holding at Chateau Delanuit. She aims to infuriate Jacqueline so that she reveals her [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererat]] nature before her guests. |
-^richemulot-adventures
+![[5. Mechanics\Tables\Richemulot Adventures (VRGR).md|Richemulot Adventures]]
 
 ### The Gnawing Plague
 
@@ -3497,7 +3191,7 @@ The Gnawing Plague, also known as "the Gnaws," is known in every corner of Riche
 
 #### Transmission
 
-The Gnaws is spread when a creature is bitten by a [[/5. Mechanics/Bestiary/Beast/Rat.md|rat]], [[/5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rat]], [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarm of rats]], or [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererat]] that carries the disease, or by coming into physical contact with an infected creature.
+The Gnaws is spread when a creature is bitten by a [[5. Mechanics\Bestiary\Beast\Rat.md|rat]], [[5. Mechanics\Bestiary\Beast\Giant Rat.md|giant rat]], [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|swarm of rats]], or [[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererat]] that carries the disease, or by coming into physical contact with an infected creature.
 
 #### Infection
 
@@ -3505,19 +3199,19 @@ Creatures exposed to the disease must succeed on a DC 10 Constitution saving thr
 
 #### Symptoms
 
-It takes `dice: 1d2` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
+It takes `dice: 1d2` (`1d2`) days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]], regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.
 
 The plague's symptoms include buboes, fatigue, splotchy rashes, sweats, and shaking, particularly facial tremors. Locals liken these twitches to the sniffing of rats. Sufferers often have scraps of leather placed in their mouths to prevent their teeth from clattering, though they inevitably gnaw through these scraps.
 
 #### Recovery
 
-At the end of each long rest, an infected creature must make a DC 10 Constitution saving throw. On a failed save, the creature gains 1 level of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. On a successful save, the creature's [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] level decreases by 1. If a successful saving throw reduces the infected creature's level of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] below 1, the creature recovers from the disease.
+At the end of each long rest, an infected creature must make a DC 10 Constitution saving throw. On a failed save, the creature gains 1 level of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]]. On a successful save, the creature's [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] level decreases by 1. If a successful saving throw reduces the infected creature's level of [[\5. Mechanics\Rules\Conditions.md#exhaustion|exhaustion]] below 1, the creature recovers from the disease.
 
 #### Immunity
 
 All forms of rats and wererats are immune to the Gnawing Plague.
 
-![[091-03-030-wearing-a-mask.png#center|"Wearing a mask curtails the plague but not wererats"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\091-03-030-wearing-a-mask.png#center|"Wearing a mask curtails the plague but not wererats"]]
 
 ### Cycle of the Plague
 
@@ -3546,7 +3240,7 @@ Coughing can be heard in the streets. Furtive looks pass between strangers, and 
 | 1 | The character avoids direct contact with anyone who might be infected. |
 | 2 | How many people brush up against the character as they push through the crowds? The character must succeed on a DC 12 Constitution saving throw or contract the Gnawing Plague. |
 | 3 | A nearby person turns and coughs directly on the character, who must succeed on a DC 14 Constitution saving throw or contract the Gnawing Plague. |
-| 4 | A [[/5. Mechanics/Bestiary/Beast/Rat.md|rat]] scurries across the character's foot. If the character isn't wearing metal armor, it scratches them and they must succeed on a DC 12 Constitution saving throw or contract the Gnawing Plague. |
+| 4 | A [[5. Mechanics\Bestiary\Beast\Rat.md|rat]] scurries across the character's foot. If the character isn't wearing metal armor, it scratches them and they must succeed on a DC 12 Constitution saving throw or contract the Gnawing Plague. |
 | 5 | A sobbing child is separated from their parents in a crowd. A character who physically interacts with the child must succeed on a DC 14 Constitution saving throw or contract the Gnawing Plague. |
 | 6 | A cutpurse tries to pick the character's pocket. If the character tries to physically stop the criminal, they must succeed on a DC 12 Constitution saving throw or contract the Gnawing Plague. |
 ^stage-two-encounters
@@ -3560,11 +3254,11 @@ All businesses close, and the gates to walled communities are sealed. The Casque
 | dice: d6 | Encounter |
 |----------|-----------|
 | 1 | A dead body lies in the character's path. A character who touches the body must succeed on a DC 12 Constitution saving throw or contract the Gnawing Plague. |
-| 2 | A retching [[/5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] tries to grapple the character, begging for any help. Anyone the commoner touches must succeed on a DC 16 Constitution saving throw or contract the Gnawing Plague. |
-| 3 | Three Casques Silencieux ([[/5. Mechanics/Bestiary/Construct/Animated Armor.md|animated armor]]) gesture for the character to get indoors immediately. They turn hostile if the character resists. |
-| 4 | Several mangy [[/5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]] attack. Anyone bitten by a giant rat must succeed on a DC 14 Constitution saving throw or contract the Gnawing Plague. |
-| 5 | A [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarm of rats]] shadows the character as they travel. If confronted, the swarm attacks. Anyone bitten by the rats must succeed on a DC 14 Constitution saving throw or contract the Gnawing Plague. |
-| 6 | A young, well-heeled couple cavorts openly, oblivious to the quarantine. These [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererats]] don't reveal their true nature unless they must, and then only to blend in with the swarms of rats. |
+| 2 | A retching [[5. Mechanics\Bestiary\Humanoid\Commoner.md|commoner]] tries to grapple the character, begging for any help. Anyone the commoner touches must succeed on a DC 16 Constitution saving throw or contract the Gnawing Plague. |
+| 3 | Three Casques Silencieux ([[5. Mechanics\Bestiary\Construct\Animated Armor.md|animated armor]]) gesture for the character to get indoors immediately. They turn hostile if the character resists. |
+| 4 | Several mangy [[5. Mechanics\Bestiary\Beast\Giant Rat.md|giant rats]] attack. Anyone bitten by a giant rat must succeed on a DC 14 Constitution saving throw or contract the Gnawing Plague. |
+| 5 | A [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|swarm of rats]] shadows the character as they travel. If confronted, the swarm attacks. Anyone bitten by the rats must succeed on a DC 14 Constitution saving throw or contract the Gnawing Plague. |
+| 6 | A young, well-heeled couple cavorts openly, oblivious to the quarantine. These [[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererats]] don't reveal their true nature unless they must, and then only to blend in with the swarms of rats. |
 ^stage-three-encounters
 
 #### Stage Four: Pestilence
@@ -3575,17 +3269,17 @@ The dead lie in the streets. Neighbors shun one another. Everyone hears the gnaw
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1 | A desperate group of [[/5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] tries to break through a sealed gate to escape quarantine. Anyone who tries to aid or deter them must succeed on a DC 16 Constitution saving throw or contract the Gnawing Plague. |
-| 2 | Three thieves attack someone who cries out for help. If a character intervenes, all four thieves reveal themselves to be [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererats]] and attack. |
-| 3 | A squad of Casques Silencieux ([[/5. Mechanics/Bestiary/Construct/Animated Armor.md|animated armor]]) marches through the street. If the Casques Silencieux spot a character, they try to force the character into a home where the residents are all dead. |
-| 4 | The character spots several rats in an alley using trash to enact a miniature courtroom drama. If a character interrupts or is critical of the rats' play, the rats become a [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarm of rats]] and attack. |
-| 5 | The character notices a [[/5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rat]] about to throw alchemist's fire at an inhabited home. If they intervene, the rat flees. Whether or not it escapes, the character's lodgings are soon the target of arson. |
-| 6 | A celebration takes place in a nearby house. Six [[/5. Mechanics/Bestiary/Humanoid/Wererat.md|wererats]] openly cavort in hybrid form, dancing and carousing with the corpses of the home's former owners. |
+| 1 | A desperate group of [[5. Mechanics\Bestiary\Humanoid\Commoner.md|commoners]] tries to break through a sealed gate to escape quarantine. Anyone who tries to aid or deter them must succeed on a DC 16 Constitution saving throw or contract the Gnawing Plague. |
+| 2 | Three thieves attack someone who cries out for help. If a character intervenes, all four thieves reveal themselves to be [[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererats]] and attack. |
+| 3 | A squad of Casques Silencieux ([[5. Mechanics\Bestiary\Construct\Animated Armor.md|animated armor]]) marches through the street. If the Casques Silencieux spot a character, they try to force the character into a home where the residents are all dead. |
+| 4 | The character spots several rats in an alley using trash to enact a miniature courtroom drama. If a character interrupts or is critical of the rats' play, the rats become a [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|swarm of rats]] and attack. |
+| 5 | The character notices a [[5. Mechanics\Bestiary\Beast\Giant Rat.md|giant rat]] about to throw alchemist's fire at an inhabited home. If they intervene, the rat flees. Whether or not it escapes, the character's lodgings are soon the target of arson. |
+| 6 | A celebration takes place in a nearby house. Six [[5. Mechanics\Bestiary\Humanoid\Wererat.md|wererats]] openly cavort in hybrid form, dancing and carousing with the corpses of the home's former owners. |
 ^stage-four-encounters
 
 ## Tepest
 
-_Domain of Nature's Cruel Secrets_
+*Domain of Nature's Cruel Secrets*
 
 - **Darklord.** Mother Lorinda  
 - **Genre.** "Folk horror"  
@@ -3624,8 +3318,8 @@ Those familiar with Tepest know the following facts:
 The forested valley of Tepest stretches between ranges of rugged mountains etched with dramatic cliffs and mysterious vales. Rocky soil and unpredictable weather make much of the region ill-suited to agriculture, and deadly predators, murderous goblins, and cunning fey haunt the wilds. Despite this, the land around the community of Viktal is a haven of peace and bounty. Most people in the domain live here, though scattered homesteaders and hermits take their chances in the wilds.
 
 > [!gallery]
-> ![[092-map-3-13-tepest.png#gallery|Map 3.13: Tepest]]
-> ![[093-map-3-13-tepest-player.png#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\092-map-3-13-tepest.png#gallery|Map 3.13: Tepest]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\093-map-3-13-tepest-player.png#gallery|Player Version]]
 
 #### Viktal
 
@@ -3651,7 +3345,7 @@ The inhabitants of Arak resent the people of the surface for ancient slights and
 
 ### Mother Lorinda
 
-![[094-03-031-mother-lorinda.png#center|Mother Lorinda]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\094-03-031-mother-lorinda.png#center|Mother Lorinda]]
 
 Lorinda, Laveeda, and Leticia, the Mindefisk sisters, were gifts from the faeries to their lonely mother, a kind, honest woman who wanted daughters to cherish. Their brutish father and brothers resented the girls, whose sufferings grew worse after their mother died. Desiring a better life, the sisters began preying upon travelers who passed by their secluded home. They murdered wealthy strangers, stole their valuables, and disposed of the bodies in their family's stewpot. The sisters' wickedness was revealed and when they squabbled over a stranger they all fancied and ultimately murdered the traveler. When the rest of the family discovered their terrible deeds, the sisters killed their father and brothers. As their murder spree unfolded, the Mists rose. When they cleared, unfamiliar mountains in a land called Tepest surrounded the sisters' simple valley home, and their true nature as vicious hags manifested.
 
@@ -3661,7 +3355,7 @@ In secret, Lorinda assembled a creature of animal parts, brambles, and foul magi
 
 #### Lorinda's Powers and Dominion
 
-Lorinda is a [[/5. Mechanics/Bestiary/Fey/Green Hag.md|green hag]] of extreme age. In her true form, she carries her darling family—three grim dolls she calls Laveeda, Leticia, and Laoirse. When dealing with the residents of Viktal, she takes on her benevolent illusory guise as Mother.
+Lorinda is a [[5. Mechanics\Bestiary\Fey\Green Hag.md|green hag]] of extreme age. In her true form, she carries her darling family—three grim dolls she calls Laveeda, Leticia, and Laoirse. When dealing with the residents of Viktal, she takes on her benevolent illusory guise as Mother.
 
 ##### Mother
 
@@ -3718,21 +3412,7 @@ Beyond Viktal, the inescapable hostility of the natural world holds sway. Harsh 
 
 When planning adventures in this domain, consider the plots on the Tepest Adventures table.
 
-**Tepest Adventures**
-
-| dice: d10 | Adventure |
-|-----------|-----------|
-| 1 | Toxic, vision-inducing fungi taint the ruined village of Briggdarrow. Recently, homesteaders outside Viktal discovered the fungus on their properties and claim it's being spread by strange fungus-covered bipeds (myconids). |
-| 2 | A hermit who once lived in the abandoned fortress on Cas Island hires the party to retrieve an heirloom she left behind. But she warns that the Avanc, a dangerous lake monster, swims nearby. |
-| 3 | A shepherd's youngest child went missing after a sinkhole opened in a nearby pasture, revealing a glowing cavern that leads into the tunnels of Arak. |
-| 4 | The Parrish family fled Viktal in fear of Mother. They seek help revealing her malice to their former neighbors before she finds them. |
-| 5 | Mother's Minders nail wicker dolls over the doors of a dozen houses in Viktal. Soon after, both the dolls and the inhabitants of those houses vanish. |
-| 6 | A druid seeks aid in reclaiming their people's holy site from an ancient, evil [[/5. Mechanics/Bestiary/Plant/Treant.md|treant]] called Blightroot. The druid doesn't mention that the surrounding forests are a clonal colony of the villainous plant. |
-| 7 | A grieving villager begs the characters to take their deceased loved one to the Cauldron, a pool said to restore life to a corpse bathed in its waters. The villager says nothing of the terrible price the pool's magic exacts. |
-| 8 | Two young lovers go missing from Viktal. One is found days later, unable to remember anything, aged fifty years, and desperate for help to find their partner. |
-| 9 | A character's reflection on the water warns of impending doom. The image insists they find the Seer's Glass, which can reveal the past and future. |
-| 10 | A strange old woman claims to have lost her child and begs the characters for help. Thus disguised, Lorinda hopes to have the party track down her runaway Laoirse. |
-^tepest-adventures
+![[5. Mechanics\Tables\Tepest Adventures (VRGR).md|Tepest Adventures]]
 
 ### Viktal and the Tithe
 
@@ -3746,7 +3426,7 @@ The villagers are curious about strangers, and eventually someone invites the ou
 
 When the characters visit Viktal, roll or choose options from the Sights in Viktal table to set the tone of the village's strangeness.
 
-![[095-03-032-a-visitor.png#center|"A visitor enjoys the hospitality of Viktal during the Tithe"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\095-03-032-a-visitor.png#center|"A visitor enjoys the hospitality of Viktal during the Tithe"]]
 
 **Sights in Viktal**
 
@@ -3774,17 +3454,7 @@ The Tithe's festivities start early in the morning, when the town's elders lead 
 
 Celebratory events on the day include traditional entertainment and competitions. Everyone is encouraged to participate and live life to its fullest. Events end with contest victors receiving small tokens as rewards, and whoever wins the most before dusk is named Mother's Favorite. These events involve simple challenges and ability checks, though elaborate events might run as "chases" (see the "Dungeon Master's Guide") or combat with weapons customized to deal low or no damage. Roll for or choose two or three activities from the Tithe Events table to determine what events the characters might participate in during the Tithe.
 
-**Tithe Events**
-
-| dice: d6 | Event | Token |
-|----------|-------|-------|
-| 1 | Crooked Joust. Participants use stilts strapped to their arms and legs to topple one another. | Five-legged sheep figurine |
-| 2 | Powrie Chase. Pursuers dress as wicked faeries, donning tattered red cloaks and using sharp darts in a game of tag. | Red wooden ring |
-| 3 | Lost Siblings. Blindfolded participants identify other players by touching their hair. | Sheaf of black wheat |
-| 4 | Gossamer Glutton. Whoever eats the most live moths wins. | Glass butterfly wing |
-| 5 | Hungry Sister. A dozen players with a rope tied around them try to stop someone from getting past them and stealing a pear from a bowl. | A dried length of pear skin |
-| 6 | Never Naughty. Participants take turns flattering three elderly villagers, who decide who wins and who gets paddled. | A reed switch |
-^tithe-events
+![[5. Mechanics\Tables\Tithe Events (VRGR).md|Tithe Events]]
 
 ##### Mother's Blessing
 
@@ -3798,17 +3468,17 @@ The particulars of how this ritual plays out are up to you, but it always culmin
 
 | dice: d6 | Laoirse's Form | Statistics | CR |
 |----------|----------------|------------|----|
-| 1 | Giant upright-walking ram | [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md|Minotaur]] | 3 |
-| 2 | Humanoid made of wicker | [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md|Shambling mound]] | 5 |
-| 3 | Dozens of stitched together corpses | [[/5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|Zombie clot]]* | 6 |
-| 4 | Shivering, hairless, rabbit-bear | [[/5. Mechanics/Bestiary/Monstrosity/Abominable Yeti.md|Abominable yeti]] | 9 |
-| 5 | Bipedal wolf-elk | [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md|Loup garou]]* | 13 |
-| 6 | Giant, shrieking, bipedal sheep | [[/5. Mechanics/Bestiary/Fiend/Goristro.md|Goristro]] | 17 |
+| 1 | Giant upright-walking ram | [[5. Mechanics\Bestiary\Monstrosity\Minotaur.md|Minotaur]] | 3 |
+| 2 | Humanoid made of wicker | [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling mound]] | 5 |
+| 3 | Dozens of stitched together corpses | [[5. Mechanics\Bestiary\Undead\Zombie Clot (VRGR).md|Zombie clot]]* | 6 |
+| 4 | Shivering, hairless, rabbit-bear | [[5. Mechanics\Bestiary\Monstrosity\Abominable Yeti.md|Abominable yeti]] | 9 |
+| 5 | Bipedal wolf-elk | [[5. Mechanics\Bestiary\Monstrosity\Loup Garou (VRGR).md|Loup garou]]* | 13 |
+| 6 | Giant, shrieking, bipedal sheep | [[5. Mechanics\Bestiary\Fiend\Goristro.md|Goristro]] | 17 |
 ^lorindas-daughter
 
 ## Valachan
 
-_Domain of the Hunter_
+*Domain of the Hunter*
 
 - **Darklord.** Chakuna  
 - **Genres.** "Gothic horror" and "slasher horror"  
@@ -3830,7 +3500,7 @@ Those familiar with Valachan know the following facts:
 - Valachan is a land of dense rain forests, sandy shores, and forest-covered mountains. This wilderness is fantastically dangerous, but the people who dwell here have long flourished.  
 - Valachan hosts the Trial of Hearts, a battle royale conducted during certain full moons by the land's greatest hunter, Chakuna.  
 - Any wild plant or creature in the jungles of Valachan might turn hostile toward explorers.  
-- Packs of displacer beasts roam the jungle, led by Yana, a preternaturally cunning [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beast]] that serves Chakuna.  
+- Packs of displacer beasts roam the jungle, led by Yana, a preternaturally cunning [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|displacer beast]] that serves Chakuna.  
 
 > [!quote] Valachani Characters
 > 
@@ -3852,12 +3522,12 @@ Valachan has no established roads, but well-traveled game trails snake through t
 Every living thing in Valachan generates wily camouflage, venom, spines, tricks, or traps. Nothing here is safe, defenseless, or as it seems.
 
 > [!gallery]
-> ![[096-map-3-14-valachan.jpg#gallery|Map 3.14: Valachan]]
-> ![[097-map-3-14-valachan-player.jpg#gallery|Player Version]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\096-map-3-14-valachan.jpg#gallery|Map 3.14: Valachan]]
+> ![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\097-map-3-14-valachan-player.jpg#gallery|Player Version]]
 
-#### Eirubamba River 
+#### Eirubamba River
 
-Wildflowers, enticing fruits, and medicinal herbs grow in the forests and upon the shorelines around the Eirubamba River. Most rain forest predators won't approach the river, though, fearing the territorial [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md|giant wasps]] that swarm among the rare plants.
+Wildflowers, enticing fruits, and medicinal herbs grow in the forests and upon the shorelines around the Eirubamba River. Most rain forest predators won't approach the river, though, fearing the territorial [[5. Mechanics\Bestiary\Beast\Giant Wasp.md|giant wasps]] that swarm among the rare plants.
 
 #### Oselo
 
@@ -3891,7 +3561,7 @@ Chakuna swore to save her people. She entered the tournament freely, determined 
 
 #### Chakuna's Powers and Dominion
 
-Chakuna gained her status as a Darklord when she defeated Urik von Kharkov. In so doing, though, she discovered a terrible truth about the nature of Valachan, and she now lives to maintain the domain and the cycle of predator and prey. Chakuna has statistics similar to a [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|weretiger]], but her animal and hybrid forms have the appearance of a panther.
+Chakuna gained her status as a Darklord when she defeated Urik von Kharkov. In so doing, though, she discovered a terrible truth about the nature of Valachan, and she now lives to maintain the domain and the cycle of predator and prey. Chakuna has statistics similar to a [[5. Mechanics\Bestiary\Humanoid\Weretiger.md|weretiger]], but her animal and hybrid forms have the appearance of a panther.
 
 ##### Heartless
 
@@ -3903,7 +3573,7 @@ Chakuna has formalized the slaughter she must commit to maintain her tie with th
 
 ##### Closing the Borders
 
-When Chakuna chooses to close the borders of her domain, the seas grow rough and the Mists rise. In addition to their normal effects (see ""Influence of the Mists"" at the start of this chapter), the Mists of Valachan are home to [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beasts]] and other deadly predators that attack all creatures they meet.
+When Chakuna chooses to close the borders of her domain, the seas grow rough and the Mists rise. In addition to their normal effects (see ""Influence of the Mists"" at the start of this chapter), the Mists of Valachan are home to [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|displacer beasts]] and other deadly predators that attack all creatures they meet.
 
 #### Chakuna's Torment
 
@@ -3933,25 +3603,13 @@ The whole web of life in Valachan bends to a singular malevolent consciousness t
 
 Valachan forces adventurers to survive in a wilderness that's not merely hostile, but is actively trying to destroy them. Other terrors in the Domains of Dread take the form of vicious villains or terrifying monsters. But in Valachan, the land is the greatest threat, and the domain's murderous Darklord hones that threat like a weapon.
 
-The Trial of Hearts anchors the terror in Valachan, but the domain's dangerous wilderness threatens anyone who explores the land. In addition to natural rain-forest predators, dinosaurs and [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beasts]] roam the domain. Its varied Plant creatures include wicked [[/5. Mechanics/Bestiary/Plant/Twig Blight.md|twig blights]], cruel [[/5. Mechanics/Bestiary/Plant/Treant.md|treants]], and manipulative [[/5. Mechanics/Bestiary/Fey/Dryad.md|dryads]] all expressing the land's underlying blood thirst. The people of the land—the werepanthers of Oselo, the Shuaran, and remote groups of lizardfolk—might provide assistance to outsiders, but they don't tolerate those who insult their ways or bring Chakuna's wrath upon them. Parties without experience exploring dangerous wilds can enlist a guide to aid them, a service that the Oselo are particularly willing to provide.
+The Trial of Hearts anchors the terror in Valachan, but the domain's dangerous wilderness threatens anyone who explores the land. In addition to natural rain-forest predators, dinosaurs and [[5. Mechanics\Bestiary\Monstrosity\Displacer Beast.md|displacer beasts]] roam the domain. Its varied Plant creatures include wicked [[5. Mechanics\Bestiary\Plant\Twig Blight.md|twig blights]], cruel [[5. Mechanics\Bestiary\Plant\Treant.md|treants]], and manipulative [[5. Mechanics\Bestiary\Fey\Dryad.md|dryads]] all expressing the land's underlying blood thirst. The people of the land—the werepanthers of Oselo, the Shuaran, and remote groups of lizardfolk—might provide assistance to outsiders, but they don't tolerate those who insult their ways or bring Chakuna's wrath upon them. Parties without experience exploring dangerous wilds can enlist a guide to aid them, a service that the Oselo are particularly willing to provide.
 
-Valachan provides the opportunity to exaggerate everything the players and characters know about the threats of nature. The [[5. Mechanics/Rules/Skills.md#Survival|Survival]] skill proves invaluable in navigating the rain forest, determining what kind of creature mauled a corpse, and understanding how different venoms afflict a jungle survivor. The primal power of the land manifests as environmental hazards such as sudden storms, cliff walls made of vertical quicksand, and naturally occurring pit and snare traps. Whispering hollows, carnivorous plants, and cursing winds can overtly reveal the wilderness's hunger.
+Valachan provides the opportunity to exaggerate everything the players and characters know about the threats of nature. The [[\5. Mechanics\Rules\Skills.md#Survival|Survival]] skill proves invaluable in navigating the rain forest, determining what kind of creature mauled a corpse, and understanding how different venoms afflict a jungle survivor. The primal power of the land manifests as environmental hazards such as sudden storms, cliff walls made of vertical quicksand, and naturally occurring pit and snare traps. Whispering hollows, carnivorous plants, and cursing winds can overtly reveal the wilderness's hunger.
 
 Consider the plots on the Valachan Adventures table when planning adventures in this domain.
 
-**Valachan Adventures**
-
-| dice: d8 | Adventure |
-|----------|-----------|
-| 1 | The Oselo joyously adopt a new member into their community, but the ceremony erupts in strife when Chakuna appears and demands that all newcomers participate in the Trial of Hearts. |
-| 2 | Shuaran warriors seek help in slaying a massive [saber-toothed tiger](/compendium/bestiary/beast/saber-toothed-tiger.md) killing their people. They don't mention that they recently lost the Cat of Felkovic, a sentient magic item similar to a figurine of wondrous power that conjures a feline killer. |
-| 3 | A sapient [[/5. Mechanics/Bestiary/Beast/Giant Spider.md|giant spider]] emerges from the caverns known as the Council of the Whip Spider. It demands that the Oselo provide it a sacrifice, or every arachnid in Valachan will attack the village. |
-| 4 | The [[/5. Mechanics/Bestiary/Beast/Tyrannosaurus Rex.md|tyrannosaurus rex]] called Mother Heartless rampages from the Forest of Fossils, incensed by something amiss in her hunting grounds. |
-| 5 | The [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md|lizardfolk]] of the lakes surrounding the Anquara Plateau discover a submerged ruin and unleash an [[/5. Mechanics/Bestiary/Aberration/Aboleth.md|aboleth]] that now holds them in thrall. |
-| 6 | Beast-shaped [[/5. Mechanics/Bestiary/Plant/Treant.md|treants]] animate and lay siege to Pantara Lodge, obeying Urik von Kharkov's will. |
-| 7 | The merchant ship Zodiac runs aground on Kiru Island. The sailors seek help salvaging other shipwrecks and escaping back to sea—preferably before Chakuna notices them. |
-| 8 | A pack of [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beasts]] washes up dead in Sangui Cove. An enraged Chakuna prowls the jungle, slaying anyone she suspects of being involved. |
-^valachan-adventures
+![[5. Mechanics\Tables\Valachan Adventures (VRGR).md|Valachan Adventures]]
 
 ### The Trial of Hearts
 
@@ -3959,9 +3617,9 @@ Those who venture into Valachan unprepared risk running afoul of Chakuna and bec
 
 - **Unwitting Criminals.** The characters come to Valachan seeking a miraculous plant, rare creature, or unique item—and are captured when they discover their prize is sacred to the domain's people. To redeem themselves, outsiders must participate in the Trial of Hearts.  
 - **Deadly Detour.** While traveling elsewhere, the party is shipwrecked or ambushed by a deadly predator. The characters awake in Valachan, where Chakuna treats them as trespassers.  
-- **Mindtaker Mists.** The Mists deposit the consciousnesses of each of the characters into guests at Pantara Lodge. Whether the guests are recreational hunters, unsuspecting foreign nobles, or skilled local warriors, they soon discover that Chakuna's hospitality has a deadly ulterior motive. Consult the "Survivors" section of "chapter 4" for options to represent those destined to become prey.  
+- **Mindtaker Mists.** The Mists deposit the consciousnesses of each of the characters into guests at Pantara Lodge. Whether the guests are recreational hunters, unsuspecting foreign nobles, or skilled local warriors, they soon discover that Chakuna's hospitality has a deadly ulterior motive. Consult the "[[\5. Mechanics\Rules\Variant Rules\Survivors (VRGR).md|Survivors]]" section of "chapter 4" for options to represent those destined to become prey.  
 
-![[098-03-033-chakuna.png#center|Chakuna corners her prey in the heart of Valachan]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\098-03-033-chakuna.png#center|Chakuna corners her prey in the heart of Valachan]]
 
 #### Rules of the Trial
 
@@ -3985,7 +3643,7 @@ Impenetrable rain forests, jagged cliffs, and deadly rapids fill the wilderness 
 
 The domain's jungles are difficult terrain, reducing a party's pace by half. This means characters can move through most of the domain at a normal pace of 11/2 miles per hour and 12 miles per day. Characters can move at a fast or slow pace, with effects as detailed in the "Player's Handbook".
 
-Characters able to fly find their flight slowed by strong winds (effectively difficult terrain), and might face deadly airborne creatures such as [[/5. Mechanics/Bestiary/Monstrosity/Chimera.md|chimeras]], [[/5. Mechanics/Bestiary/Monstrosity/Harpy.md|harpies]], and [[/5. Mechanics/Bestiary/Beast/Pteranodon.md|pteranodons]]. Chakuna might also add rules to the Trial of Hearts that deem flight and magical travel off limits. If she does, the Mists aid in enforcing these rules.
+Characters able to fly find their flight slowed by strong winds (effectively difficult terrain), and might face deadly airborne creatures such as [[5. Mechanics\Bestiary\Monstrosity\Chimera.md|chimeras]], [[5. Mechanics\Bestiary\Monstrosity\Harpy.md|harpies]], and [[5. Mechanics\Bestiary\Beast\Pteranodon.md|pteranodons]]. Chakuna might also add rules to the Trial of Hearts that deem flight and magical travel off limits. If she does, the Mists aid in enforcing these rules.
 
 As Darklord of Valachan, Chakuna isn't impeded by difficult terrain in the domain's wilderness. Instead of tracking how Chakuna follows characters participating in the hunt, have her appear to watch and toy with other participants, then confront the characters at the most dramatic moment.
 
@@ -3999,29 +3657,7 @@ At both Kiru Island and the Scars, a shrine on stilts offers the only safety dur
 
 Ultimately, escaping Chakuna requires finding her heart and destroying it. This prevents Chakuna from recovering if slain. If the characters learn the secret of how Chakuna consumed von Kharkov's heart and took his place as Darklord, any of them might seek to follow a similar path. Doing so requires replacing Chakuna's heart with a character's own heart, or the land utterly rebels and tries to kill all sapient beings in the domain. Those who take Chakuna's mantle can ensure their allies' safety, but Valachan becomes their eternal prison.
 
-**Valachan Hunt Complications**
-
-| dice: d20 | Complication |
-|-----------|--------------|
-| 1 | Chakuna appears and attacks. Roll a die. If you roll an even number, this occurs during another complication and you can roll again on this table. If you roll an odd number, Chakuna attacks suddenly without another complication. |
-| 2 | Dense foliage, swampy ground, clouds of insects, or thick fog slows the party's travel to a crawl. The party chooses one character, who must succeed on a DC 14 Wisdom ([[5. Mechanics/Rules/Skills.md#Survival|Survival]]) check or the party's travel speed is reduced by half for the next hour (this is in addition to any speed reduction from difficult terrain). |
-| 3 | The area is riddled with traps set by Chakuna. A random character must succeed on a DC 15 Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) check or fall into a {@trap pits||spiked pit} (see the "Dungeon Master's Guide"). |
-| 4 | [[/5. Mechanics/Bestiary/Aberration/Chuul.md|Chuuls]], [[/5. Mechanics/Bestiary/Plant/Vine Blight.md|vine blights]], or [[/5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] (see "chapter 5") ambush the party. |
-| 5 | The characters find a tree bound in rope. One or more withered, oversized hearts hang from cords attached to its branches. Roll a die. If you roll an even number, the hearts look grim but are harmless. If you roll an odd number, the `dice: 1d6` (`1d6`) hearts have the statistics of gnashing [[/5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|death's heads]] (see "chapter 5") and attack. |
-| 6 | Clouds of insects, persistent leeches, or other parasites torment the party. Each character must succeed on a DC 16 Wisdom ([[5. Mechanics/Rules/Skills.md#Survival|Survival]]) check or gain 1 level of [[5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. Creatures immune to disease suffer no ill effects from the parasites. |
-| 7 | The party encounters a [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]], [[/5. Mechanics/Bestiary/Fey/Green Hag.md|green hag]], or [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beast]] that is not part of the hunt. If a character succeeds on a DC 16 Charisma ([[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]) check, that creature shows them a route that allows them to move at double their speed for the next hour and avoid rolling on this table at the end of that time. |
-| 8 | An individual or a group of competitors—[[/5. Mechanics/Bestiary/Humanoid/Gladiator.md|gladiators]], [[/5. Mechanics/Bestiary/Humanoid/Scout.md|scouts]], or [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md|tribal warriors]]—attempts to ambush the party. |
-| 9 | Whispers in the Druidic language issue from the boughs of trees and cracks in the earth. They repeat one word: Blood. |
-| 10 | A desperate competitor appears. Roll a die. If you roll an even number, the competitor is gravely wounded, incoherent, and suffering from hallucinations. If you roll an odd number, the competitor offers to help the party break the trial's rules and is struck dead by an arrow from the forest seconds later. |
-| 11 | Dinosaurs, [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md|giant poisonous snakes]], or [[/5. Mechanics/Bestiary/Monstrosity/Hydra.md|hydras]] attack the party. |
-| 12 | A rope bridge provides the only method of crossing a river or ravine. Each character must succeed on a DC 10 Dexterity ([[5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check to cross the bridge or fall 60 feet into the jungle or water below. The bridge has AC 11, 16 hit points, and immunity to poison and psychic damage. |
-| 13 | The party discovers an overgrown ruin. A character who succeeds on a DC 18 Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) check spots a relief carving of a wicked-looking figure ripping out its own heart. |
-| 14 | A random character must succeed on a DC 14 Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]]) check or fall into "quicksand" (see the "Dungeon Master's Guide"). |
-| 15 | [[/5. Mechanics/Bestiary/Beast/Panther.md|Panthers]], [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md|displacer beasts]], or werepanthers ([[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|weretigers]]) attempt to ambush the party. |
-| 16 | The characters discover the corpse of a competitor. Roll a die. If you roll an even number, the corpse has a [[/5. Mechanics/Items/Potion Of Healing.md|potion of healing]]. If you roll an odd number, the corpse's heart has been removed. |
-| 17 | The party chooses one character who must succeed on a DC 16 Wisdom ([[5. Mechanics/Rules/Skills.md#Survival|Survival]]) check. On a failed check, the party becomes lost. It takes the characters 1 hour to realize they are `dice: 1d4` (`1d4`) miles away from their assumed location in a disadvantageous direction. |
-| 18–20 | No complication |
-^valachan-hunt-complications
+![[5. Mechanics\Tables\Valachan Hunt Complications (VRGR).md|Valachan Hunt Complications]]
 
 ## Other Domains of Dread
 
@@ -4029,51 +3665,7 @@ The Land of the Mists comprise more than the domains presented in this chapter t
 
 While exploring the Domains of Dread, should the Mists carry characters to a mysterious domain, roll on the Domains of Ravenloft table to randomly determine where the Dark Powers have guided the party. Domains marked with an asterisk are described earlier in this chapter.
 
-**Domains of Ravenloft**
-
-| dice: d100 | Domain |
-|------------|--------|
-| 01–04 | "Barovia"* |
-| 05–06 | "Bluetspur"* |
-| 07–09 | "Borca"* |
-| 10–12 | "Carnival"* |
-| 13–14 | "Cyre 1313" |
-| 15–18 | "Darkon"* |
-| 19–21 | "Dementlieu"* |
-| 22–24 | "Falkovnia"* |
-| 25–26 | "Forlorn" |
-| 27–28 | "Ghastria" |
-| 29–30 | "G'henna" |
-| 31–33 | "Har'Akir"* |
-| 34–36 | "Hazlan"* |
-| 37–39 | "I'Cath"* |
-| 40–41 | "Invidia" |
-| 42–44 | "Kalakeri"* |
-| 45–47 | "Kartakass"* |
-| 48–49 | "Keening" |
-| 50–51 | "Klorr" |
-| 52–54 | "Lamordia"* |
-| 55–56 | "Markovia" |
-| 57–59 | "Mordent"* |
-| 60–62 | "Nightmare Lands" |
-| 63–64 | "Niranjan" |
-| 65–66 | "Nova Vaasa" |
-| 67–69 | "Odaire" |
-| 70–71 | "Rider's Bridge" |
-| 72–74 | "Richemulot"* |
-| 75–76 | "Risibilos" |
-| 77–78 | "Scaena" |
-| 79–81 | "Sea of Sorrows" |
-| 82–83 | "Shadowlands" |
-| 84–85 | "Souragne" |
-| 86–87 | "Staunton Bluffs" |
-| 88–90 | "Tepest"* |
-| 91–92 | "Tovag" |
-| 93–95 | "Valachan"* |
-| 96–97 | "Vhage Agency" |
-| 98–99 | "Zherisia" |
-| 100 | DM's design |
-^domains-of-ravenloft
+![[5. Mechanics\Tables\Domains Of Ravenloft (VRGR).md|Domains of Ravenloft]]
 
 ### Cyre 1313, The Mourning Rail
 
@@ -4082,7 +3674,7 @@ While exploring the Domains of Dread, should the Mists carry characters to a mys
 
 The disaster known as the Mourning numbers among the greatest tragedies to befall the world of Eberron—a mysterious calamity that killed nearly everyone in the land of Cyre. In the nation's capital of Metrol, some citizens foresaw the coming devastation and sought to escape upon lightning rails, elemental-powered engines capable of pulling trains of passenger carriages. As scared innocents packed Metrol's last lightning rail, known as Cyre 1313, the evacuation was delayed at the demand of a late-arriving VIP. Hundreds were forced from passenger carriages to admit and maintain the secrecy of this last passenger and their retinue. When the lightning rail did finally depart, it was too late. The disaster of the Mourning overtook the train and its hundreds of escapees. But even as it did, the Mists claimed Cyre 1313 and all aboard it. Now, the last lightning rail from Metrol hurtles through the Mists as a traveling domain. Those on board fear the disaster pursuing them, the mysterious passenger seated in the train's foremost carriage, and the necrotic energy now infusing the engine's elemental spirit. Yet none of the passengers realize their endless escape is pointless, as Cyre 1313 carries only the dead.
 
-![[099-03-034-cyre-1313.png#center|"Cyre 1313, The Mourning Rail, thunders through domains, ever trying to escape the disaster that slew its passengers"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\099-03-034-cyre-1313.png#center|"Cyre 1313, The Mourning Rail, thunders through domains, ever trying to escape the disaster that slew its passengers"]]
 
 ### Forlorn
 
@@ -4146,14 +3738,14 @@ Any who sleep might close their eyes and become forever trapped in the Nightmare
 
 The Nightmare Court's members share one commonality: all are the living nightmares of Caroline Dinwiddy, a potent psychic who repressed memories of her own heartless deeds. These memories torment her sleeping mind, creating the Nightmare Court. Deep within the City of Nod, inside a warped reimagining of the clinic where she once worked, Dinwiddy sleeps without waking, refusing to face the terrors her dreams unleash upon innocents across the multiverse.
 
-![[100-03-035-ghost-dancer.png#center|"The Ghost Dancer visits nightmares upon a sleeping victim"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\100-03-035-ghost-dancer.png#center|"The Ghost Dancer visits nightmares upon a sleeping victim"]]
 
 ### Niranjan
 
 - **Darklord.** Sarthak  
 - **Hallmarks.** Asceticism, brainwashing, shadows  
 
-An island chain that once belonged to the domain of Kalakeri, the Ashram of Niranjan was a vibrant _vihara_, or monastery, for ascetic scholars who practiced Ramsana, a way of life whose central tenet advises nonattachment to the material world. Now only a small, reclusive group of these scholars remains, led by the elderly _sadhu_ (holy figure) Niranjan. In truth, Niranjan is Sarthak, a wicked bronze dragon who send agents into the Mists bearing his philosophical writings. These works promise escape and peace to any who adopt their teachings and search the Mists for their source. Anyone who comes to the ashram must divest themselves of worldly goods, which are added to Sarthak's hidden hoard. The false sadhu then helps his victim enter a blissful trance that causes their soul to slip away from their body over the course of days. Sarthak consumes this soul and replaces it with a [[/5. Mechanics/Bestiary/Undead/Shadow.md|shadow]], leaving the victim's body under his control.
+An island chain that once belonged to the domain of Kalakeri, the Ashram of Niranjan was a vibrant *vihara*, or monastery, for ascetic scholars who practiced Ramsana, a way of life whose central tenet advises nonattachment to the material world. Now only a small, reclusive group of these scholars remains, led by the elderly *sadhu* (holy figure) Niranjan. In truth, Niranjan is Sarthak, a wicked bronze dragon who send agents into the Mists bearing his philosophical writings. These works promise escape and peace to any who adopt their teachings and search the Mists for their source. Anyone who comes to the ashram must divest themselves of worldly goods, which are added to Sarthak's hidden hoard. The false sadhu then helps his victim enter a blissful trance that causes their soul to slip away from their body over the course of days. Sarthak consumes this soul and replaces it with a [[5. Mechanics\Bestiary\Undead\Shadow.md|shadow]], leaving the victim's body under his control.
 
 ### Nova Vaasa
 
@@ -4167,14 +3759,14 @@ An unparalleled warrior, Myar Hiregaard united the nomadic tribes of the vast pl
 - **Darklord.** Maligno  
 - **Hallmarks.** Evil toys, village of children  
 
-The toymaker Guiseppe had his wish for a family granted when his creation, the marionette Figlio, came to life. A proud father, the toymaker presented his son to all the other people of his village, Odaire. The local children loved Figlio, but their parents were skeptical, saying the marionette was nothing but a toy. Over time, this doubt enraged Figlio, and the marionette convinced Guiseppe to craft siblings for him. Then, when the time was right, Guiseppe's creations did away with all the adults in Odaire. Claimed by the Mists, Odaire is a village populated only by children and ruled by the carrionette Figlio, who now calls himself Maligno. (See "chapter 5" for details on [[/5. Mechanics/Bestiary/Construct/Carrionette (VRGR).md|carrionettes]].)
+The toymaker Guiseppe had his wish for a family granted when his creation, the marionette Figlio, came to life. A proud father, the toymaker presented his son to all the other people of his village, Odaire. The local children loved Figlio, but their parents were skeptical, saying the marionette was nothing but a toy. Over time, this doubt enraged Figlio, and the marionette convinced Guiseppe to craft siblings for him. Then, when the time was right, Guiseppe's creations did away with all the adults in Odaire. Claimed by the Mists, Odaire is a village populated only by children and ruled by the carrionette Figlio, who now calls himself Maligno. (See "chapter 5" for details on [[5. Mechanics\Bestiary\Construct\Carrionette (VRGR).md|carrionettes]].)
 
 ### The Rider's Bridge
 
 - **Darklord.** The Headless Rider  
 - **Hallmarks.** Haunted bridge, murderous legend  
 
-Nearly every domain knows some version of the apparition called the Headless Rider. It appears as a mercenary in dark armor in "Mordent", a ghostly cataphract in "Har'Akir", and a mutated centaur in "Lamordia", but in each incarnation certain details remain true: the rider is missing its head, it appears upon a prominent bridge, and it decapitates victims as it endlessly searches for its own head. Should someone escape an encounter with the Headless Rider, they might find a different domain on the opposite side of the spirit's bridge. (See the [[/5. Mechanics/Bestiary/Undead/Dullahan (VRGR).md|dullahan]] in "chapter 5" for more details on headless riders.)
+Nearly every domain knows some version of the apparition called the Headless Rider. It appears as a mercenary in dark armor in "Mordent", a ghostly cataphract in "Har'Akir", and a mutated centaur in "Lamordia", but in each incarnation certain details remain true: the rider is missing its head, it appears upon a prominent bridge, and it decapitates victims as it endlessly searches for its own head. Should someone escape an encounter with the Headless Rider, they might find a different domain on the opposite side of the spirit's bridge. (See the [[5. Mechanics\Bestiary\Undead\Dullahan (VRGR).md|dullahan]] in "chapter 5" for more details on headless riders.)
 
 ### Risibilos
 
@@ -4190,18 +3782,18 @@ Fortunately, the Mists delivered him a partner, a ventriloquist's dummy carved i
 - **Darklord.** Lemont Sediam Juste  
 - **Hallmarks.** Reality-manipulating theater  
 
-Lemont Sediam Juste fancied himself a serious playwright, and he achieved popular, if not critical, acclaim throughout "Dementlieu" for his works of grisly horror. But he craved respectability, and with his new play _Apparitions_, Lemont believed he would find it. The night of the premiere, when the audience signaled their boredom, the playwright was crestfallen. His supporters wanted blood, so he gave them what they craved. By the play's end, Lemont had joined the play and viscerally murdered every member of the cast while the crowd roared their approval. As the show ended, the playhouse broke from Dementlieu, and Scaena was formed. Comprising a single playhouse, the domain can create any reality Lemont desires upon its stage. The Darklord's immersive performances are somewhat predictable, though, as they always end in slaughter.
+Lemont Sediam Juste fancied himself a serious playwright, and he achieved popular, if not critical, acclaim throughout "Dementlieu" for his works of grisly horror. But he craved respectability, and with his new play *Apparitions*, Lemont believed he would find it. The night of the premiere, when the audience signaled their boredom, the playwright was crestfallen. His supporters wanted blood, so he gave them what they craved. By the play's end, Lemont had joined the play and viscerally murdered every member of the cast while the crowd roared their approval. As the show ended, the playhouse broke from Dementlieu, and Scaena was formed. Comprising a single playhouse, the domain can create any reality Lemont desires upon its stage. The Darklord's immersive performances are somewhat predictable, though, as they always end in slaughter.
 
 ### Sea of Sorrows
 
 - **Darklord.** Pietra van Riese  
 - **Hallmarks.** Island domains, nautical horror  
 
-The murderous pirate Pietra van Riese, captain of the _Relentless_, had an unsavory reputation for attaching her captives to ropes and dragging them through the water until they drowned. She never removed the detritus of her victims, even though some returned to life as zombies. The _Relentless_ was ultimately sunk by rival captains, but death couldn't keep Pietra. She awoke in the Sea of Sorrows, water in her lungs and sea creatures making their homes in her flesh. Her crew stirred with her, now fish-eaten corpses. When Pietra sought to speak with them, her voice emerged from their mouths.
+The murderous pirate Pietra van Riese, captain of the *Relentless*, had an unsavory reputation for attaching her captives to ropes and dragging them through the water until they drowned. She never removed the detritus of her victims, even though some returned to life as zombies. The *Relentless* was ultimately sunk by rival captains, but death couldn't keep Pietra. She awoke in the Sea of Sorrows, water in her lungs and sea creatures making their homes in her flesh. Her crew stirred with her, now fish-eaten corpses. When Pietra sought to speak with them, her voice emerged from their mouths.
 
-The _Relentless_ sails a domain that can overlap any body of water in any other domain. Some domains border the Sea of Sorrows, while others have their own names for these mysterious waters. Those who venture into the Mists by boat might find themselves amid an endless, debris- and sargassum-choked expanse of eerie beasts and shifting islands, including the following:
+The *Relentless* sails a domain that can overlap any body of water in any other domain. Some domains border the Sea of Sorrows, while others have their own names for these mysterious waters. Those who venture into the Mists by boat might find themselves amid an endless, debris- and sargassum-choked expanse of eerie beasts and shifting islands, including the following:
 
-![[101-03-036-pietra-van-riese.png#center|Pietra van Riese]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\101-03-036-pietra-van-riese.png#center|Pietra van Riese]]
 
 - **Blaustein.** This island-fortress domain was once ruled by the notorious Bluebeard, but his spectral wives overthrew him and now endlessly torment him.  
 - **Dominia.** The asylum of the vampire Dr. Daclaud Heinfroth rises upon this stormy island. The asylum's patients are all dramatically different versions of Heinfroth inspired by who he was at various points during his lengthy life.  
@@ -4237,7 +3829,7 @@ Eerily faceless mercenary regiments sweep the countryside of Staunton Bluffs. Bu
 - **Darklord.** Kas the Bloody Handed  
 - **Hallmarks.** Undead military dictatorship  
 
-Notorious across the planes, the vampire Kas was once the champion of the lich Vecna. Wielding the artifact that bears his name, he betrayed his master, and the resulting battle supposedly destroyed them both. In truth, Vecna escaped and grew in power over ages and across worlds. Kas, though, was claimed by the Mists, and in his wasteland domain of Tovag, he believes his war with Vecna rages on. Patrols of prisoner-soldiers under undead commanders scour the land, dragooning strangers to serve in Kas's armies and to manufacture bizarre war machines. When Kas deems the time right, he sends his forces into the Mists, believing that Vecna's realm lies just beyond. Invariably, those troops never return, leaving the vampire to rage, rebuild his forces, and continue his search for the [[/5. Mechanics/Items/Sword Of Kas.md|Sword of Kas]] (detailed in the "Dungeon Master's Guide"), which he considers his key to victory.
+Notorious across the planes, the vampire Kas was once the champion of the lich Vecna. Wielding the artifact that bears his name, he betrayed his master, and the resulting battle supposedly destroyed them both. In truth, Vecna escaped and grew in power over ages and across worlds. Kas, though, was claimed by the Mists, and in his wasteland domain of Tovag, he believes his war with Vecna rages on. Patrols of prisoner-soldiers under undead commanders scour the land, dragooning strangers to serve in Kas's armies and to manufacture bizarre war machines. When Kas deems the time right, he sends his forces into the Mists, believing that Vecna's realm lies just beyond. Invariably, those troops never return, leaving the vampire to rage, rebuild his forces, and continue his search for the [[5. Mechanics\Items\Sword Of Kas.md|Sword of Kas]] (detailed in the "Dungeon Master's Guide"), which he considers his key to victory.
 
 ### Vhage Agency
 
@@ -4251,7 +3843,7 @@ Everything inside the office of the Vhage Agency appears as a monotone gray. Any
 - **Darklord.** Sodo  
 - **Hallmarks.** Serial murderers, urban decay  
 
-Each day, the city of Paridon in Zherisia erupts in riots over food scarcity, taxation, and citizens who go missing by the dozens every night. At least one murderer stalks Paridon: the ancient [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|doppelganger]] Sodo, who has impersonated so many people that it now finds it impossible to hold a form for more than a few days at a time. As Sodo's flesh runs like hot wax, it staves off dissolution by consuming the organs of humanoids. Paridon's streets serve as the doppelganger's hunting ground, and those who enter the sewers risk attracting the notice of countless [[/5. Mechanics/Bestiary/Monstrosity/Carrion Stalker (VRGR).md|carrion stalkers]] (see "chapter 5") and their monstrous Hive Queen.
+Each day, the city of Paridon in Zherisia erupts in riots over food scarcity, taxation, and citizens who go missing by the dozens every night. At least one murderer stalks Paridon: the ancient [[5. Mechanics\Bestiary\Monstrosity\Doppelganger.md|doppelganger]] Sodo, who has impersonated so many people that it now finds it impossible to hold a form for more than a few days at a time. As Sodo's flesh runs like hot wax, it staves off dissolution by consuming the organs of humanoids. Paridon's streets serve as the doppelganger's hunting ground, and those who enter the sewers risk attracting the notice of countless [[5. Mechanics\Bestiary\Monstrosity\Carrion Stalker (VRGR).md|carrion stalkers]] (see "chapter 5") and their monstrous Hive Queen.
 
 ## Travelers in the Mists
 
@@ -4275,7 +3867,7 @@ The following sections present groups and individuals who routinely travel the M
 | 1 | Someone from another world who's just been drawn into a domain by the Mists |
 | 2 | Someone fleeing the Darklord of another domain |
 | 3 | A raven carrying a message from the Keepers of the Feather |
-| 4 | Curious members of the Keepers of the Feather led by a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereraven]] (see "chapter 5") in disguise |
+| 4 | Curious members of the Keepers of the Feather led by a [[5. Mechanics\Bestiary\Humanoid\Wereraven (VRGR).md|wereraven]] (see "chapter 5") in disguise |
 | 5 | A band of Vistani |
 | 6 | A spirit that cries out before being yanked back into the Mists, leaving behind a Mist talisman |
 ^strangers-in-the-mists
@@ -4284,7 +3876,7 @@ The following sections present groups and individuals who routinely travel the M
 
 When asked about the origins of their society, the members of the Keepers of the Feather speak of their traditions originating long ago and beyond the Mists. This is true, but most who repeat that story are only trying to layer a mystical facade over their dilettante spiritualism.
 
-Only the group's highest-ranking members know that the Keepers of the Feather began in Barovia as a small sect of [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereravens]] (see "chapter 5") dedicated to opposing the evils of Strahd von Zarovich. Though their numbers were not enough to oppose the Darklord directly, they sought useful lore and aided brave souls from the shadows, manipulating fortune to confound some of Strahd's more diabolical plots. Over generations, the wereravens' hidden resistance to Strahd continued in Barovia, but some among them learned of other lands suffering beyond the Mists. Unwilling to let the innocents of those lands fend for themselves, some of the Keepers of the Feather ventured forth, hoping to share their wisdom and their subtle resistance to evil with those who needed it most.
+Only the group's highest-ranking members know that the Keepers of the Feather began in Barovia as a small sect of [[5. Mechanics\Bestiary\Humanoid\Wereraven (VRGR).md|wereravens]] (see "chapter 5") dedicated to opposing the evils of Strahd von Zarovich. Though their numbers were not enough to oppose the Darklord directly, they sought useful lore and aided brave souls from the shadows, manipulating fortune to confound some of Strahd's more diabolical plots. Over generations, the wereravens' hidden resistance to Strahd continued in Barovia, but some among them learned of other lands suffering beyond the Mists. Unwilling to let the innocents of those lands fend for themselves, some of the Keepers of the Feather ventured forth, hoping to share their wisdom and their subtle resistance to evil with those who needed it most.
 
 However, the Mists find a way to twist even the best of intentions. In the cities of urbane domains like "Borca", "Darkon", and "Dementlieu", the mystical writings and talismans the wereravens carried from "Barovia" came to the attention of the bored elite. Fascinated, these socialites became obsessed with the occult, seeking out esoteric works, hiring doubtful fortune-tellers, and hosting parlor séances. In most cases, the results were passing fads. In some, they were catastrophic—the unprepared successfully summoned fiends and angry spirits into their salons. But a few earnest amateur spiritualists genuinely sought to learn more about the secrets beyond their homes, their lives, and the Mists. In these would-be occultists, the wereravens saw potential.
 
@@ -4303,13 +3895,13 @@ However, the Mists find a way to twist even the best of intentions. In the citie
 
 #### Keeper Societies
 
-![[102-03-036-holy-symbol-of-ravenkind.png#center|Holy Symbol of Ravenkind]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\102-03-036-holy-symbol-of-ravenkind.png#center|Holy Symbol of Ravenkind]]
 
 Beyond Barovia, where the eldest wereraven members of the Keepers of the Feather keep a low profile, Keepers organize into small social clubs with shared interests in occultism. Some members are actual invested scholars, while others are simply bored rich folk. But all have a strong interest in séances, fortune-telling, secrets of the afterlife, sightings of mysterious creatures, metaphysical theories, and tales of the macabre. Among their misinterpretations and outright flimflam—like round planet theory and dikesha dice—Keepers also possess hints of truth and the tools wereravens have long used to combat evil. Among these are "spirit boards" (detailed in "chapter 4"), tarokka decks, Mist talismans, and piecemeal occult writings from various domains. Some among the Keepers don't know the true power of these tools, but this doesn't dull their enthusiasm.
 
 Knowing the threats that Darklords and other evils pose, wereravens of the Keepers typically don't reveal themselves to those not of their kind. Rather, they infiltrate Keeper societies as reclusive members, traveling experts, or foreign scholars. Some Keepers also tell of sightings or visitations involving giant raven-like beings that appear, speak some prophecy or deliver some message, then vanish, often presaging either wonder or disaster. The wereravens take little issue with these exaggerated tales from those who've witnessed their hybrid forms, and they willingly play into the tales of the Keepers if it means spurring them to action.
 
-The Keepers of the Feather are a loose organization, incorporating members who operate alone or in small groups, as well as elite social clubs or secretive societies. In all cases, Keepers identify each other by the Mark of the Raven, a sunburst emblem worn as a pin or amulet. Drawn from esoteric writings, this mark is a recreation of the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]], a storied religious artifact from Barovia. Though these reproductions carry no magical properties and most non-wereraven Keepers don't know the symbol's origin, many foul forces instinctively recognize the symbol as an emblem of good.
+The Keepers of the Feather are a loose organization, incorporating members who operate alone or in small groups, as well as elite social clubs or secretive societies. In all cases, Keepers identify each other by the Mark of the Raven, a sunburst emblem worn as a pin or amulet. Drawn from esoteric writings, this mark is a recreation of the [[5. Mechanics\Items\Holy Symbol Of Ravenkind (COS).md|Holy Symbol of Ravenkind]], a storied religious artifact from Barovia. Though these reproductions carry no magical properties and most non-wereraven Keepers don't know the symbol's origin, many foul forces instinctively recognize the symbol as an emblem of good.
 
 #### Keeper Rookeries
 
@@ -4319,17 +3911,7 @@ Keeper cells strive to correspond and share discoveries between communities and 
 
 The Keeper Adventures table offers ideas for strange events that can touch off stories involving the Keepers of the Feather.
 
-**Keeper Adventures**
-
-| dice: d6 | Adventure Hook |
-|----------|----------------|
-| 1 | Keepers invite the characters to a social gathering where fortunes are told and attendees sample rare imported mumia—powdered mummy. |
-| 2 | A Keeper delivers a letter to the characters that arrived by raven. The message has no sender. |
-| 3 | Orphir Brindletop, a Kalakeri gnome occultist, is surprised to meet one of the characters, as he received a message for them in a séance long ago. |
-| 4 | The characters are invited to help a Keeper stake out a graveyard in hopes of spotting a legendary creature said to dwell there. |
-| 5 | The party is hired to collect a parcel from the Blue Water Inn in the Barovian town of Vallaki, which is secretly run by wereravens. They must not open the package and must get it out of Barovia swiftly. |
-| 6 | A character glimpses a raven-like figure. When they investigate, they find only the mysterious talisman that it left behind. |
-^keeper-adventures
+![[5. Mechanics\Tables\Keeper Adventures (VRGR).md|Keeper Adventures]]
 
 ### Vistani
 
@@ -4351,7 +3933,7 @@ Vistani pass their varied teachings through their families as stories and songs,
 
 With their experience navigating the Mists, many Vistani understand how to employ "Mist talismans" (detailed at the start of this "chapter") to reach specific domains, or possess the "Mist Walker" Dark Gift (see "chapter 1"), allowing them to make their way between domains. Vistani don't enter the Mists lightly, though, knowing that each such passage holds inherent danger. Caravan leaders ensure that every family member is accounted for before moving on, ensuring no one gets lost in the Mists.
 
-![[103-03-037-vistani-wayfarers.png#center|"Vistani Wayfarers emerge from the Mists into a new land."]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\103-03-037-vistani-wayfarers.png#center|"Vistani Wayfarers emerge from the Mists into a new land."]]
 
 #### Vistani Knowledge
 
@@ -4398,7 +3980,7 @@ Some Vistani are legends among their people, and their bands might be encountere
 
 - **Hyskosa.** A renowned poet and storyteller, Hyskosa leads a caravan that embraces the Mists and goes where they lead it. As a result, his clan is unmoored from time and reality, appearing in different ages, in strange versions and configurations of domains, and even on worlds beyond the Domains of Dread. His lyrical accounts of his travels are often viewed as prophecies.  
 - **Madame Eva.** A controversial figure among Vistani, Madame Eva made a bargain with the vampire Count Strahd von Zarovich. As a result, the evils that lurk in Barovia avoid Vistani. However, Madame Eva and her followers occasionally ally with the infamous count, giving them a sinister reputation. Madame Eva and her unique band of Vistani are detailed in the adventure Curse of Strahd.  
-- **Mother Luba.** The halfling Mother Luba is known for putting unquiet spirits to rest and transporting wayward souls through the Mists to their rightful homes. Those wicked spirits beyond her aid she trapped within her tarokka deck, which became known as [[/5. Mechanics/Items/Lubas Tarokka Of Souls (TCE).md|Luba's Tarokka of Souls]] (detailed in "Tasha's Cauldron of Everything").  
+- **Mother Luba.** The halfling Mother Luba is known for putting unquiet spirits to rest and transporting wayward souls through the Mists to their rightful homes. Those wicked spirits beyond her aid she trapped within her tarokka deck, which became known as Luba's Tarokka of Souls (detailed in "Tasha's Cauldron of Everything").  
 
 ### Other Groups
 
@@ -4438,7 +4020,7 @@ Known as the Great Detective, Alanik Ray possesses an unrivaled deductive mind. 
 
 As a young detective in Darkon, Alanik revealed his father's criminal empire and oversaw its destruction. His success launched his career as a private detective, embroiling him in the intrigues of Martira Bay's nobility. During this time, he met the young physician Arthur Sedgwick, who became his partner and saved Alanik's life countless times. The pair's adventures—including several deadly encounters with the Kargat—eventually led them to relocate to Port-a-Lucine in Dementlieu. A mystery involving a shape-shifting serial killer resulted in a fall from a roof that paralyzed Alanik's legs. Within the following month, the pair created a custom wheelchair for Alanik, and they married.
 
-Today, Alanik Ray and Arthur Sedgwick investigate mysteries wherever need and novelty take them. Arthur lends his practicality and martial skill to Alanik's dazzling intellect during the pair's exploits. Sedgwick also chronicles their adventures and has published two volumes to date: _The Life of Alanik Ray_ and _The Casebook of Alanik Ray_.
+Today, Alanik Ray and Arthur Sedgwick investigate mysteries wherever need and novelty take them. Arthur lends his practicality and martial skill to Alanik's dazzling intellect during the pair's exploits. Sedgwick also chronicles their adventures and has published two volumes to date: *The Life of Alanik Ray* and *The Casebook of Alanik Ray*.
 
 ##### Alanik Ray's Traits
 
@@ -4454,7 +4036,7 @@ Today, Alanik Ray and Arthur Sedgwick investigate mysteries wherever need and no
 
 ##### Adventures with Alanik and Arthur
 
-Alanik Ray is an exceptional investigator with an uncanny ability to notice detail and make deductive leaps. Despite his experience with the paranormal, he relies on his husband Arthur to keep him out of true supernatural peril. Still, the detectives manage to find trouble wherever they go. Use the statistics of [[/5. Mechanics/Bestiary/Humanoid/Spy.md|spies]] to approximate both Alanik Ray and Arthur Sedgwick. Consider the following plots when featuring the detectives in your adventures:
+Alanik Ray is an exceptional investigator with an uncanny ability to notice detail and make deductive leaps. Despite his experience with the paranormal, he relies on his husband Arthur to keep him out of true supernatural peril. Still, the detectives manage to find trouble wherever they go. Use the statistics of [[5. Mechanics\Bestiary\Humanoid\Spy.md|spies]] to approximate both Alanik Ray and Arthur Sedgwick. Consider the following plots when featuring the detectives in your adventures:
 
 - Alanik is confounded by a murderer preying on a family. Arthur discovers that these murders repeat in a centuries-long cycle and seeks detectives with greater supernatural experience.  
 - Alanik exposes a community's constabulary, whose members accuse individuals of crimes before the offenses occur. He seeks help in dismantling the dangerous system.  
@@ -4472,11 +4054,11 @@ The Caller's true agendas and disposition are unknowable to mortals. As the ulti
 
 ##### Adventures with the Caller
 
-The Caller uses statistics similar to a [[/5. Mechanics/Bestiary/Fiend/Succubus.md|succubus]]/ [[/5. Mechanics/Bestiary/Fiend/Incubus.md|incubus]], and no matter how many times it's defeated, it always returns. Use the Caller to create adventures involving secret histories, domain-spanning conspiracies, and truths hinting at the nature of the Dark Powers. Consider the following plots when featuring the Caller in an adventure:
+The Caller uses statistics similar to a [[5. Mechanics\Bestiary\Fiend\Succubus.md|succubus]]/ [[5. Mechanics\Bestiary\Fiend\Incubus.md|incubus]], and no matter how many times it's defeated, it always returns. Use the Caller to create adventures involving secret histories, domain-spanning conspiracies, and truths hinting at the nature of the Dark Powers. Consider the following plots when featuring the Caller in an adventure:
 
 - One of the characters' allies requests they check in on the ally's brother. This pious or artistic soul has been convinced by a charming peer (the Caller in disguise) to attend a retreat that is secretly a meeting of the priests of Osybus.  
 - An old friend reappears in a character's life. Likable and knowledgeable but shy, this friend assists the character without recompense. Eventually, the friend (actually the Caller) gets into trouble and needs the character to do them a number of increasingly unscrupulous favors.  
-- A powerful individual such as "Firan Zal'honan" (see below), [[/5. Mechanics/Bestiary/Npc/Isolde (VRGR).md|Isolde]] (see ""The Carnival"" earlier in this chapter), or a domain's Darklord summons the party and requests they hunt down the Caller. This figure provides their agents with a device that allows the bearers to travel to whatever domain the Caller is currently in.  
+- A powerful individual such as "Firan Zal'honan" (see below), [[5. Mechanics\Bestiary\Npc\Isolde (VRGR).md|Isolde]] (see ""The Carnival"" earlier in this chapter), or a domain's Darklord summons the party and requests they hunt down the Caller. This figure provides their agents with a device that allows the bearers to travel to whatever domain the Caller is currently in.  
 
 #### Erasmus van Richten
 
@@ -4496,7 +4078,7 @@ While traveling with his father, Erasmus bonds with Rudolph's allies. Aromantic 
 
 ##### Adventures with Erasmus van Richten
 
-Erasmus is a [[/5. Mechanics/Bestiary/Undead/Ghost.md|ghost]] and the heart of the van Richten family. Consider the following plots when featuring Erasmus in an adventure:
+Erasmus is a [[5. Mechanics\Bestiary\Undead\Ghost.md|ghost]] and the heart of the van Richten family. Consider the following plots when featuring Erasmus in an adventure:
 
 - Erasmus understands the unquiet dead. Through devices such as tarokka decks and spirit boards, he reveals the histories and intentions of spirits.  
 - An overzealous priest detects the undead presence hovering near Rudolph van Richten and threatens Rudolph, Erasmus, or both.  
@@ -4518,14 +4100,14 @@ Since then, Ez has changed much, learning the ways of the Mists and replacing he
 
 ##### Adventures with Ez d'Avenir
 
-Use the statistics of an [[/5. Mechanics/Bestiary/Humanoid/Assassin.md|assassin]] to represent Ez, or you can use her [[/5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|stat block]] from Curse of Strahd. Consider the following plots when featuring Ez in an adventure:
+Use the statistics of an [[5. Mechanics\Bestiary\Humanoid\Assassin.md|assassin]] to represent Ez, or you can use her [[5. Mechanics\Bestiary\Npc\Ezmerelda Davenir (COS).md|stat block]] from Curse of Strahd. Consider the following plots when featuring Ez in an adventure:
 
 - Ez discovers an incarnation of the tragic soul Tatyana (detailed in the ""Barovia"" domain). While investigating ways to keep her safe, she accidentally alerts Strahd's agents to her existence.  
 - From a cell in "Il Aluk", Ez's mother Irena Radanavich manipulates a web of lies to bring her daughter back into the family.  
 
 #### Firan Zal'honan
 
-![[104-03-038-mysterious-research.png#center|"Firan Zal'honan's mysterious research leads him to discover an accursed amber sarcophagus"]]
+![[6. Resources\Books\Van Richtens Guide To Ravenloft\img\104-03-038-mysterious-research.png#center|"Firan Zal'honan's mysterious research leads him to discover an accursed amber sarcophagus"]]
 
 A mask of charm and congeniality conceals one of the most ingenious and utterly ruthless intellects to stalk through the Mists. A wandering scholar, Firan Zal'honan is quick to claim his descent from a noble pedigree. In another life, he claims, he could have ruled as a wizard-king. But his brilliance led him along a stranger path: seeking to escape the Mists into the "true realities" beyond. Firan keeps the basis for his strange theories secret, but his ambitions drive him to travel the domains; visit accursed sites; and investigate inscrutable prophecy cycles, temporal conjunctions, and an unknown figure he calls "the escapee."
 
@@ -4541,7 +4123,7 @@ Firan is an enigmatic and abrasive expert, but his knowledge of the domains and 
 
 ##### Adventures with Firan Zal'honan
 
-Firan Zal'honan is an arrogant, pragmatic, amoral genius. Furthering his schemes or adopting him as a patron can draw a party into conflict with the most prominent villains in the Domains of Dread. Use the statistics of a human [[/5. Mechanics/Bestiary/Humanoid/Archmage.md|archmage]] to represent Firan. He is accompanied by an [[/5. Mechanics/Bestiary/Fiend/Imp.md|imp]] named Skeever, who appears as a piebald raven. Consider the following plots when featuring Firan in an adventure:
+Firan Zal'honan is an arrogant, pragmatic, amoral genius. Furthering his schemes or adopting him as a patron can draw a party into conflict with the most prominent villains in the Domains of Dread. Use the statistics of a human [[5. Mechanics\Bestiary\Humanoid\Archmage.md|archmage]] to represent Firan. He is accompanied by an [[5. Mechanics\Bestiary\Fiend\Imp.md|imp]] named Skeever, who appears as a piebald raven. Consider the following plots when featuring Firan in an adventure:
 
 - The characters happen upon Firan, who claims to be waiting for them. He offers insight into rare magic or their ongoing quests if they'll assist him in investigating an infamous ruin nearby.  
 - A thief stole Firan's prized amulet—a chain bearing a tiny gold dragon skull. Uncharacteristically agitated, he offers the characters any knowledge he possesses if they retrieve the amulet swiftly.  
@@ -4562,14 +4144,14 @@ This estrangement pushed Jander to seek more radical methods of expunging his va
 
 ##### Adventures with Jander Sunstar
 
-Jander Sunstar is a [[/5. Mechanics/Bestiary/Undead/Vampire.md|vampire]] and one of Ravenloft's foremost experts on vampirism. He aids characters hunting vampires and recruits allies to protect him from others of his kind. Consider the following plots when featuring Jander Sunstar in an adventure:
+Jander Sunstar is a [[5. Mechanics\Bestiary\Undead\Vampire.md|vampire]] and one of Ravenloft's foremost experts on vampirism. He aids characters hunting vampires and recruits allies to protect him from others of his kind. Consider the following plots when featuring Jander Sunstar in an adventure:
 
 - Jander needs assistance in destroying another vampire: one of his duplicates.  
 - Jander asks the characters to help him save a monster hunter who opposes an overly powerful foe. Within the villain's lair, the characters discover the hunter is Jander's daughter, Savra, who neither requests nor requires aid.  
 
 #### Larissa Snowmane
 
-Captain Larissa Snowmane pilots the paddleboat _River Dancer_ along the rivers and coasts of Ravenloft's domains, righting wrongs and ferrying those in need to new homes. Larissa is a legend, known for her icy-white hair, dancing skill, and mezzo-soprano signing voice. As she approaches her seventieth year, she remains one of the domains' most widely traveled explorers. When danger threatens her vessel and crew, Captain Snowmane reluctantly uses a magical performance known as the Dance of the Dead, a forbidden song and dance that keeps Undead creatures at bay but slays living beings who witness it, then reanimates them as zombies. Larissa avoids rival riverboat captain Nathan Timothy and his ship, _Virago_, as well as the swampy domain of Souragne, where she learned her deadly magic from grim forces that consider her debt unpaid.
+Captain Larissa Snowmane pilots the paddleboat *River Dancer* along the rivers and coasts of Ravenloft's domains, righting wrongs and ferrying those in need to new homes. Larissa is a legend, known for her icy-white hair, dancing skill, and mezzo-soprano signing voice. As she approaches her seventieth year, she remains one of the domains' most widely traveled explorers. When danger threatens her vessel and crew, Captain Snowmane reluctantly uses a magical performance known as the Dance of the Dead, a forbidden song and dance that keeps Undead creatures at bay but slays living beings who witness it, then reanimates them as zombies. Larissa avoids rival riverboat captain Nathan Timothy and his ship, *Virago*, as well as the swampy domain of Souragne, where she learned her deadly magic from grim forces that consider her debt unpaid.
 
 ##### Larissa Snowmane's Traits
 
@@ -4579,14 +4161,14 @@ Captain Larissa Snowmane pilots the paddleboat _River Dancer_ along the rivers a
 
 ##### Adventures with Larissa Snowmane
 
-Larissa Snowmane is a human [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] with exceptional insight into navigating the waterways of the Mists. Her handsome, multilevel paddleboat _River Dancer_ provides an exciting base of operations for wayfaring adventurers. Consider the following plots when featuring Larissa Snowmane in an adventure:
+Larissa Snowmane is a human [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] with exceptional insight into navigating the waterways of the Mists. Her handsome, multilevel paddleboat *River Dancer* provides an exciting base of operations for wayfaring adventurers. Consider the following plots when featuring Larissa Snowmane in an adventure:
 
-- _River Dancer_ appears when the characters desperately need to escape a domain, but the Mists make their next stop even more dangerous.  
-- _River Dancer_ pulls into port with only Captain Snowmane aboard. Larissa needs a crew, but she doesn't mention that her last crew died when she used the Dance of the Dead.  
+- *River Dancer* appears when the characters desperately need to escape a domain, but the Mists make their next stop even more dangerous.  
+- *River Dancer* pulls into port with only Captain Snowmane aboard. Larissa needs a crew, but she doesn't mention that her last crew died when she used the Dance of the Dead.  
 
 #### Rudolph van Richten
 
-A scholar and monster hunter, Rudolph van Richten has traveled to dozens of domains, investigating reports of monstrous beings and documenting them in a series of published guides, the best known of which is _Van Richten's Guide to Vampires_.
+A scholar and monster hunter, Rudolph van Richten has traveled to dozens of domains, investigating reports of monstrous beings and documenting them in a series of published guides, the best known of which is *Van Richten's Guide to Vampires*.
 
 In fairer days, Rudolph lived with his wife, Ingrid, and son, Erasmus, in their family home outside Rivalis in the domain of Darkon. Brash and recently established as a medical doctor, Rudolph ran afoul of the Radanaviches, a family using Vistani traditions as a cover for brigandage. When the doctor refused to treat one of the family's mortally ill members, the group's leader, Irena Radanavich, ordered her band to kidnap Rudolph's son and then sold the young man to the vampire Baron Metus. Rudolph pursued the Radanaviches, shattered their criminal operation, and brought Irena to justice, but not before suffering her curse: "Live you always among monsters, and see everyone you love die beneath their claws." In the weeks that followed, the curse took hold. Before Rudolph could track down and slay Baron Metus, the vampire murdered both Ingrid and Erasmus.
 
@@ -4600,7 +4182,7 @@ In the decades since, van Richten has hunted monsters and armed others with the 
 
 ##### Adventures with Rudolph van Richten
 
-Van Richten readily provides mentorship to characters devoted to fighting the creatures of the night. To represent him, use the stat block for a [[/5. Mechanics/Bestiary/Humanoid/Priest.md|priest]] from the "Monster Manual" or [[/5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] from Curse of Strahd. Consider the following plots when featuring van Richten in an adventure:
+Van Richten readily provides mentorship to characters devoted to fighting the creatures of the night. To represent him, use the stat block for a [[5. Mechanics\Bestiary\Humanoid\Priest.md|priest]] from the "Monster Manual" or [[5. Mechanics\Bestiary\Npc\Rictavio (COS).md|Rictavio]] from Curse of Strahd. Consider the following plots when featuring van Richten in an adventure:
 
 - Long ago, van Richten slew a supernatural villain who terrorized a community, but now that evil has returned. The party must seek out the doctor, since only he knows the secret of defeating the creature—hopefully for good this time.  
 - One of van Richten's foes captures the doctor and uses his name to correspond with adventurers, luring those who would learn his secrets into a deadly trap.  
@@ -4627,7 +4209,7 @@ Gennifer, working closely with van Richten, learned the medicine and traditions 
 
 ##### Adventures with the Twins
 
-Gennifer and Laurie are skilled and well-prepared adventurers who have the statistics of a [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] and a [[/5. Mechanics/Bestiary/Humanoid/Veteran.md|veteran]], respectively. Consider the following plots when featuring the twins in an adventure:
+Gennifer and Laurie are skilled and well-prepared adventurers who have the statistics of a [[5. Mechanics\Bestiary\Humanoid\Druid.md|druid]] and a [[5. Mechanics\Bestiary\Humanoid\Veteran.md|veteran]], respectively. Consider the following plots when featuring the twins in an adventure:
 
 - The characters have gotten in over their heads, and the Weathermay-Foxgrove twins—pursuing the same quest—come to the rescue. Afterward, the sisters encourage the party to participate in a training expedition to an infamous locale.  
 - Gennifer has vanished. Laurie seeks aid, fearing that Natalia Vhorishkova kidnapped her. In truth, Gennifer's fear of turning into a lycanthrope has led her to head off on her own—and into greater danger.

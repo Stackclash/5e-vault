@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/celestial
-statblock: inline
+aliases: ["Ki-rin"]
 ---
 # Ki-rin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
@@ -30,13 +29,11 @@ On the celestial planes, ki-rins reside in lofty, elegant aeries filled with lux
 
 When viewed from the outside, a ki-rin's lair is indistinguishable from a natural site, and the entrance is difficult for visitors to find and reach. Inside, the lair is a serene and comfortable place, its ambiance a mix between palace and temple. If the ki-rin has taken creatures into its service, its lair doubles as a sacred site wherein the ki-rin not only rests but also teaches of holy mysteries.
 
-## Stat Block
-
 ```statblock
 "name": "Ki-rin"
 "size": "Large"
 "type": "celestial"
-"alignment": "Lawful Good"
+"alignment": "Typically  Lawful Good"
 "ac": !!int "20"
 "hp": !!int "153"
 "hit_dice": "18d10 + 54"
@@ -47,66 +44,56 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 - !!int "19"
 - !!int "20"
 - !!int "20"
-"speed": "walk 60 ft., fly 120 ft. (hover)"
+"speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
-  "Religion": !!int "8"
-  "Perception": !!int "9"
-  "Insight": !!int "9"
+  "Religion": "+8"
+  "Perception": "+9"
+  "Insight": "+9"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ki-rin casts one of the following spells, requiring no material components\
+- "desc": "The ki-rin casts one of the following spells, requiring no material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Major Image.md|major image]]\
-    \ (6th-level version), [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day\
-    \ each: [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
-    \ [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]], [greater\
-    \ restoration](/compendium/spells/greater-restoration.md), [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
-    \ [[/5. Mechanics/Spells/Revivify.md|revivify]], [[/5. Mechanics/Spells/Wind Walk.md|wind walk]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/5. Mechanics/Spells/Sending.md|sending]]"
+    \ [[5. Mechanics\Spells\Light.md|light]], [[5. Mechanics\Spells\Major Image.md|major image]]\
+    \ (6th-level version), [[5. Mechanics\Spells\Thaumaturgy.md|thaumaturgy]]\n\n1/day\
+    \ each: [[5. Mechanics\Spells\Banishment.md|banishment]], [[5. Mechanics\Spells\Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics\Spells\Create Food And Water.md|create food and water]], [greater\
+    \ restoration](compendium/spells/greater-restoration.md), [[5. Mechanics\Spells\Plane Shift.md|plane shift]],\
+    \ [[5. Mechanics\Spells\Protection From Evil And Good.md|protection from evil and good]],\
+    \ [[5. Mechanics\Spells\Revivify.md|revivify]], [[5. Mechanics\Spells\Wind Walk.md|wind walk]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Cure Wounds.md|cure wounds]], [[5. Mechanics\Spells\Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics\Spells\Lesser Restoration.md|lesser restoration]], [[5. Mechanics\Spells\Sending.md|sending]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the ki-rin fails a saving throw, it can choose to succeed instead."
+- "desc": "If the ki-rin fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ki-rin has advantage on saving throws against spells and other magical\
+- "desc": "The ki-rin has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ki-rin makes two Hoof attacks and one Horn attack, or it makes two\
+- "desc": "The ki-rin makes two Hoof attacks and one Horn attack, or it makes two\
     \ Sacred Fire attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) force damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
+    \ Hit: 10 (dice: 2d4 + 5|avg (2d4 + 5)) force damage."
   "name": "Hoof"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) radiant damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
+    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) radiant damage."
   "name": "Horn"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+9 (+9 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) radiant damage."
+- "desc": "Ranged Spell Attack: dice: d20+9 (+9 to hit), range 120 ft., one target.\
+    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) radiant damage."
   "name": "Sacred Fire"
 "legendary_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ki-rin moves up to half its speed without provoking opportunity attack||opportunity\
-    \ attacks."
+- "desc": "The ki-rin moves up to half its speed without provoking opportunity attacks."
   "name": "Move"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."
+- "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."
   "name": "Smite"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Celestial/token/ki-rin.png"
+"image": "compendium/bestiary/celestial/token/ki-rin.png"
 ```
 ^statblock
 

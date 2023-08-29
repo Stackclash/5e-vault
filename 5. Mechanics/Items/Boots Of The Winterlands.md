@@ -12,7 +12,7 @@ aliases: ["Boots of the Winterlands"]
 # Boots of the Winterlands
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: [[5. Mechanics/Rules/Item Properties.md#Requires%20Attunement|Requires Attunement]]
+- **Properties**: Requires Attunement
 - **Cost**: ⏤
 - **Weight**: ⏤
 
@@ -22,4 +22,4 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 - You ignore difficult terrain created by ice or snow.  
 - You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.  
 
-*Source: Dungeon Master's Guide p. 156*
+*Source: Dungeon Master's Guide p. 156. Available in the SRD.*

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
 - monster/environment/coastal
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Frost Giant Everlasting One"]
 ---
 # Frost Giant Everlasting One
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
@@ -21,7 +20,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "name": "Frost Giant Everlasting One"
 "size": "Huge"
 "type": "giant"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
 "hp": !!int "189"
 "hit_dice": "14d12 + 98"
@@ -32,50 +31,44 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 - !!int "9"
 - !!int "10"
 - !!int "12"
-"speed": "walk 40 ft."
+"speed": "40 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Strength": !!int "11"
-  "Constitution": !!int "11"
+  "Wisdom": "+4"
+  "Strength": "+11"
+  "Constitution": "+11"
 "skillsaves":
-  "Athletics": !!int "11"
-  "Perception": !!int "4"
+  "Athletics": "+11"
+  "Perception": "+4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "12"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant has a 25% chance chance of having more than one head. If it has\
-    \ more than one, it has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-    \ checks and on saving throws against being [[5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ or knocked [[5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The giant has a 25% chance chance of having more than one head. If it has\
+    \ more than one, it has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
+    \ checks and on saving throws against being [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#charmed|charmed]], [[\5. Mechanics\Rules\Conditions.md#deafened|deafened]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#frightened|frightened]], [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]],\
+    \ or knocked [[\5. Mechanics\Rules\Conditions.md#unconscious|unconscious]]."
   "name": "Extra Heads"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant regains 10 hit points at the start of its turn. If the giant\
+- "desc": "The giant regains 10 hit points at the start of its turn. If the giant\
     \ takes acid or fire damage, this trait doesn't function at the start of its next\
     \ turn. The giant dies only if it starts its turn with 0 hit points and doesn't\
     \ regenerate."
   "name": "Regeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two Greataxe or Rock attacks."
+- "desc": "The giant makes two Greataxe or Rock attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d12 + 7|avg (3d12 + 7) slashing damage, or 30 (dice: 3d12 +\
-    \ 11|avg (3d12 + 11)) slashing damage while raging."
+- "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
+    \ Hit: 26 (dice: 3d12 + 7|avg (3d12 + 7)) slashing damage, or 30 (dice:\
+    \ 3d12 + 11|avg (3d12 + 11)) slashing damage while raging."
   "name": "Greataxe"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+11 (+11 to hit), range 60/240 ft.,\
+    \ one target. Hit: 29 (dice: 4d10 + 7|avg (4d10 + 7)) bludgeoning damage."
   "name": "Rock"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\
-    \ is [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. While raging,\
+- "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\
+    \ is [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]. While raging,\
     \ the giant gains the following benefits:\n\n- The giant has advantage on Strength\
     \ checks and Strength saving throws.  \n- When it makes a melee weapon attack,\
     \ the giant gains a +4 bonus to the damage roll.  \n- The giant has resistance\
@@ -84,7 +77,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Giant/token/frost-giant-everlasting-one.png"
+"image": "compendium/bestiary/giant/token/frost-giant-everlasting-one.png"
 ```
 ^statblock
 

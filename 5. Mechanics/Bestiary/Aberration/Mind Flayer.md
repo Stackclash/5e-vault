@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
+aliases: ["Mind Flayer"]
 ---
 # Mind Flayer
-*Source: Monster Manual p. 222, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Eberron: Rising from the Last War, Infernal Machine Rebuild, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Spelljammer Academy, Light of Xaryxis, Keys from the Golden Vault*  
+*Source: Monster Manual p. 222*  
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 
@@ -38,8 +37,6 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 > On the rare occasion that mind flayers need to write something down, they do so in Qualith. This system of tactile writing (similar to braille) is read by an illithid's tentacles. Qualith is written in four-line stanzas and is so alien in construction that non-illithids must resort to magic to discern its meaning. Though Qualith can be used to keep records, illithids most often use it to mark portals or other surfaces with warnings or instructions.
 ^qualith
 
-## Stat Block
-
 ```statblock
 "name": "Mind Flayer"
 "size": "Medium"
@@ -55,52 +52,47 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - !!int "19"
 - !!int "17"
 - !!int "17"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  "Charisma": "+6"
+  "Wisdom": "+6"
+  "Intelligence": "+7"
 "skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "4"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "7"
-  "Persuasion": !!int "6"
+  "Deception": "+6"
+  "Stealth": "+4"
+  "Insight": "+6"
+  "Perception": "+6"
+  "Arcana": "+7"
+  "Persuasion": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "7"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
+- "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
     \ DC 15). It can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Levitate.md|levitate]]\n\
-    \n1/day each: [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
-    \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+    \nAt will: [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], [[5. Mechanics\Spells\Levitate.md|levitate]]\n\
+    \n1/day each: [[5. Mechanics\Spells\Dominate Monster.md|dominate monster]], [plane\
+    \ shift](compendium/spells/plane-shift.md) (self only)"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mind flayer has advantage on saving throws against spells and other\
+- "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) psychic damage. If the target is Medium\
-    \ or smaller, it is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) psychic damage. If the target\
+    \ is Medium or smaller, it is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ humanoid [[5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
-    \ Hit: The target takes dice: 10d10|avg (10d10) piercing damage. If this damage\
-    \ reduces the target to 0 hit points, the mind flayer kills the target by extracting\
-    \ and devouring its brain."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]\
+    \ humanoid [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]] by the mind flayer.\
+    \ Hit: The target takes 55 (dice: 10d10|avg (10d10)) piercing damage. If\
+    \ this damage reduces the target to 0 hit points, the mind flayer kills the target\
+    \ by extracting and devouring its brain."
   "name": "Extract Brain"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
+- "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
     \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ dice: 4d8 + 4|avg (4d8 + 4) psychic damage and be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ 22 (dice: 4d8 + 4|avg (4d8 + 4)) psychic damage and be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"
@@ -116,7 +108,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "SjA"
 - "LoX"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer.png"
+"image": "compendium/bestiary/aberration/token/mind-flayer.png"
 ```
 ^statblock
 

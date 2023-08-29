@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Strahd Zombie"]
 ---
 # Strahd Zombie
 *Source: Curse of Strahd p. 241*  
@@ -19,8 +18,6 @@ A Strahd zombie's gray-green flesh looks soft, and its bones seem brittle. Any g
 ## Undead Nature
 
 A Strahd zombie doesn't require air or sleep.
-
-## Stat Block
 
 ```statblock
 "name": "Strahd Zombie"
@@ -37,17 +34,16 @@ A Strahd zombie doesn't require air or sleep.
 - !!int "3"
 - !!int "6"
 - !!int "5"
-"speed": "walk 20 ft."
+"speed": "20 ft."
 "saves":
-  "Wisdom": !!int "0"
+  "Wisdom": "+0"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the zombie takes at least 5 bludgeoning or slashing damage at\
+- "desc": "Whenever the zombie takes at least 5 bludgeoning or slashing damage at\
     \ one time, roll a dice: d20|avg (d20) to determine what else happens to it:\n\
     \n1–8: One leg is severed from the zombie if it has any legs left.\n\n9–16: One\
     \ arm is severed from the zombie if it has any arms left.\n\n17–20: The zombie\
@@ -58,28 +54,25 @@ A Strahd zombie doesn't require air or sleep.
     \ speed of 5 feet.\n\nA severed arm has a speed of 5 feet and can make one claw\
     \ attack on its turn, with disadvantage on the attack roll. Each time the zombie\
     \ loses an arm, it loses a claw attack.\n\nIf its head is severed, the zombie\
-    \ loses its bite attack and its body is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ loses its bite attack and its body is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]]\
     \ unless the head can see it. The severed head has a speed of 0 feet. It can make\
     \ a bite attack, but only against a target in its space.\n\nThe zombie's speed\
-    \ is halved if it's missing a leg. If it loses both legs, it falls [[5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ is halved if it's missing a leg. If it loses both legs, it falls [[\5. Mechanics\Rules\Conditions.md#prone|prone]].\
     \ If it has both arms, it can crawl. With only one arm, it can still crawl, but\
     \ its speed is halved. With no arms or legs, its speed is 0 feet, and it can't\
     \ benefit from bonuses to speed."
   "name": "Loathsome Limbs"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The zombie makes three attacks: one with its bite and two with its claws."
+- "desc": "The zombie makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
   "name": "Claw"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/strahd-zombie.png"
+"image": "compendium/bestiary/undead/token/strahd-zombie.png"
 ```
 ^statblock

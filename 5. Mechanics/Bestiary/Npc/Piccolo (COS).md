@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
@@ -7,7 +6,7 @@ tags:
 - monster/environment/hill
 - monster/size/small
 - monster/type/beast
-statblock: inline
+aliases: ["Piccolo"]
 ---
 # Piccolo
 *Source: Curse of Strahd p. 118, Derived from Baboon (MM)*  
@@ -27,24 +26,22 @@ statblock: inline
 - !!int "4"
 - !!int "12"
 - !!int "6"
-"speed": "walk 30 ft., climb 30 ft."
+"speed": "30 ft., climb 30 ft."
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Piccolo has advantage on an attack roll against a creature if at least\
+- "desc": "Piccolo has advantage on an attack roll against a creature if at least\
     \ one of Piccolo's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
+    \ Hit: 1 (dice: 1d4 - 1|avg (1d4 - 1)) piercing damage."
   "name": "Bite"
 "source":
 - "CoS"
-"image": "5. Mechanics/Bestiary/Npc/token/piccolo.png"
+"image": "compendium/bestiary/npc/token/piccolo.png"
 ```
 ^statblock
 

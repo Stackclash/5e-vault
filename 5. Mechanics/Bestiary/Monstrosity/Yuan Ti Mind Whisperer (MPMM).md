@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -8,7 +7,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/warlock
-statblock: inline
+aliases: ["Yuan-ti Mind Whisperer"]
 ---
 # Yuan-ti Mind Whisperer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*  
@@ -22,7 +21,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "warlock"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "14"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
@@ -33,67 +32,57 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 - !!int "14"
 - !!int "14"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "4"
+  "Charisma": "+5"
+  "Wisdom": "+4"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
+  "Deception": "+5"
+  "Stealth": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti casts one of the following spells, requiring no material components\
+- "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only),\
-    \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
-    \ [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]]\n\
-    \n3/day: [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ [[5. Mechanics\Spells\Animal Friendship.md|animal friendship]] (snakes only), [[5. Mechanics\Spells\Message.md|message]],\
+    \ [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]], [[5. Mechanics\Spells\Prestidigitation.md|prestidigitation]]\n\
+    \n2/day each: [[5. Mechanics\Spells\Detect Thoughts.md|detect thoughts]], [hypnotic\
+    \ pattern](compendium/spells/hypnotic-pattern.md)\n\n3/day: [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the yuan-ti's [[5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the yuan-ti's [[\5. Mechanics\Rules\Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
+- "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9\
+- "desc": "When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9\
     \ temporary hit points."
   "name": "Sseth's Blessing"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti makes two Bite attacks and one Scimitar attack, or it makes\
+- "desc": "The yuan-ti makes two Bite attacks and one Scimitar attack, or it makes\
     \ two Spectral Fangs attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg (2d6)\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) poison damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) psychic damage."
+- "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
+    \ Hit: 16 (dice: 3d8 + 3|avg (3d8 + 3)) psychic damage."
   "name": "Spectral Fangs"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
+- "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
     \ Its statistics are the same in each form. Any equipment it is wearing or carrying\
     \ isn't transformed. If it dies, it stays in its current form."
   "name": "Change Shape"
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-mind-whisperer.png"
+"image": "compendium/bestiary/monstrosity/token/yuan-ti-mind-whisperer.png"
 ```
 ^statblock
 

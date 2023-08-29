@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -8,10 +7,10 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/undead
-statblock: inline
+aliases: ["Will-o'-Wisp"]
 ---
 # Will-o'-Wisp
-*Source: Monster Manual p. 301, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Critical Role: Call of the Netherdeep, Journeys through the Radiant Citadel, Light of Xaryxis*  
+*Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*  
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
 
@@ -33,8 +32,6 @@ Will-o'-wisps rarely speak, but when they do, their voices sound like faint or d
 
 A will-o'-wisp doesn't require air, drink, or sleep.
 
-## Stat Block
-
 ```statblock
 "name": "Will-o'-Wisp"
 "size": "Tiny"
@@ -50,7 +47,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - !!int "13"
 - !!int "14"
 - !!int "11"
-"speed": "walk 0 ft., fly 50 ft. (hover)"
+"speed": "0 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
@@ -60,34 +57,28 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "languages": "the languages it knew in life"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "As a bonus action, the will-o'-wisp can target one creature it can see\
+- "desc": "As a bonus action, the will-o'-wisp can target one creature it can see\
     \ within 5 feet of it that has 0 hit points and is still alive. The target must\
     \ succeed on a DC 10 Constitution saving throw against this magic or die. If the\
     \ target dies, the will-o'-wisp regains 10 (dice: 3d6|avg (3d6)) hit points."
   "name": "Consume Life"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The will-o'-wisp can't wear or carry anything."
+- "desc": "The will-o'-wisp can't wear or carry anything."
   "name": "Ephemeral"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The will-o'-wisp can move through other creatures and objects as if they\
-    \ were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it\
-    \ ends its turn inside an object."
+- "desc": "The will-o'-wisp can move through other creatures and objects as if they\
+    \ were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
+    \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim light\
+- "desc": "The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim light\
     \ for an additional number of ft. equal to the chosen radius. The will-o'-wisp\
     \ can alter the radius as a bonus action."
   "name": "Variable Illumination"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 2d8|avg (2d8) lightning damage."
+- "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
+    \ Hit: 9 (dice: 2d8|avg (2d8)) lightning damage."
   "name": "Shock"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The will-o'-wisp and its light magically become [[5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until it attacks or uses its Consume Life, or until its [[5. Mechanics/Rules/Status.md#concentration|concentration]]\
-    \ ends (as if [[5. Mechanics/Rules/Status.md#concentration|concentration]] on a spell)."
+- "desc": "The will-o'-wisp and its light magically become [[\5. Mechanics\Rules\Conditions.md#invisible|invisible]]\
+    \ until it attacks or uses its Consume Life, or until its [[\5. Mechanics\Rules\Conditions.md#concentration|concentration]]\
+    \ ends (as if concentrating on a spell)."
   "name": "Invisibility"
 "source":
 - "MM"
@@ -106,7 +97,8 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "CRCotN"
 - "JttRC"
 - "LoX"
-"image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.png"
+- "PSI"
+"image": "compendium/bestiary/undead/token/will-o-wisp.png"
 ```
 ^statblock
 

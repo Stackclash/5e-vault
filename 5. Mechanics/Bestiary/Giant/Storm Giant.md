@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/underwater
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Storm Giant"]
 ---
 # Storm Giant
-*Source: Monster Manual p. 156, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 156. Available in the SRD.*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
 
@@ -72,8 +71,6 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
 
 
-## Stat Block
-
 ```statblock
 "name": "Storm Giant"
 "size": "Huge"
@@ -89,48 +86,42 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "16"
 - !!int "18"
 - !!int "18"
-"speed": "walk 50 ft., swim 50 ft."
+"speed": "50 ft., swim 50 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "9"
-  "Strength": !!int "14"
-  "Constitution": !!int "10"
+  "Charisma": "+9"
+  "Wisdom": "+9"
+  "Strength": "+14"
+  "Constitution": "+10"
 "skillsaves":
-  "Athletics": !!int "14"
-  "Perception": !!int "9"
-  "History": !!int "8"
-  "Arcana": !!int "8"
+  "Athletics": "+14"
+  "Perception": "+9"
+  "History": "+8"
+  "Arcana": "+8"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
+- "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
     \ It can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Feather Fall.md|feather fall]],\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]], [[/5. Mechanics/Spells/Light.md|light]]\n\
-    \n3/day each: [[/5. Mechanics/Spells/Control Weather.md|control weather]], [water\
-    \ breathing](/compendium/spells/water-breathing.md)"
+    \nAt will: [[5. Mechanics\Spells\Detect Magic.md|detect magic]], [[5. Mechanics\Spells\Feather Fall.md|feather fall]],\
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]], [[5. Mechanics\Spells\Light.md|light]]\n\
+    \n3/day each: [[5. Mechanics\Spells\Control Weather.md|control weather]], [water\
+    \ breathing](compendium/spells/water-breathing.md)"
   "name": "innate"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant can breathe air and water."
+- "desc": "The giant can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant makes two greatsword attacks."
+- "desc": "The giant makes two greatsword attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 6d6 + 9|avg (6d6 + 9) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
+    \ Hit: 30 (dice: 6d6 + 9|avg (6d6 + 9)) slashing damage."
   "name": "Greatsword"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+14 (+14 to hit), range 60/240 ft.,\
-    \ one target. Hit: dice: 4d12 + 9|avg (4d12 + 9) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+14 (+14 to hit), range 60/240 ft.,\
+    \ one target. Hit: 35 (dice: 4d12 + 9|avg (4d12 + 9)) bludgeoning damage."
   "name": "Rock"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
+- "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
     \ feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity\
     \ saving throw, taking 54 (dice: 12d8|avg (12d8)) lightning damage on a failed\
     \ save, or half as much damage on a successful one."
@@ -142,7 +133,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "GoS"
 - "MOT"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Giant/token/storm-giant.png"
+"image": "compendium/bestiary/giant/token/storm-giant.png"
 ```
 ^statblock
 

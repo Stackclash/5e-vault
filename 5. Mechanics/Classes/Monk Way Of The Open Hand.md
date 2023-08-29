@@ -7,8 +7,8 @@ tags:
 aliases: ["Way of the Open Hand"]
 ---
 # Way of the Open Hand
-*Monk: Monastic Tradition*  
-*Source: Player's Handbook p. 79*  
+*[[Monk.md|Monk]]: Monastic Tradition*  
+*Source: Player's Handbook p. 79. Available in the SRD.*  
 
 
 ## Class Features
@@ -21,7 +21,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
-- It must succeed on a Dexterity saving throw or be knocked [[5. Mechanics/Rules/Conditions.md#prone|prone]].  
+- It must succeed on a Dexterity saving throw or be knocked [[\5. Mechanics\Rules\Conditions.md#prone|prone]].  
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.  
 - It can't take reactions until the end of your next turn.  
 
@@ -31,7 +31,7 @@ You gain the ability to heal yourself. As an action, you can regain hit points e
 
 ### Tranquility (Level 11)
 
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]] spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a [[5. Mechanics\Spells\Sanctuary.md|sanctuary]] spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
 ### Quivering Palm (Level 17)
 

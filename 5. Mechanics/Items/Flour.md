@@ -12,4 +12,4 @@ aliases: ["Flour"]
 - **Cost**: 2 cp
 - **Weight**: 1.0 lbs.
 
-*Source: Player's Handbook p. 157*
+*Source: Player's Handbook p. 157. Available in the SRD and the Basic Rules.*

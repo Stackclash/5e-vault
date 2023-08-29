@@ -1,14 +1,13 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
 - monster/size/medium
 - monster/type/dragon
-statblock: inline
+aliases: ["Bronze Dragon Wyrmling"]
 ---
 # Bronze Dragon Wyrmling
-*Source: Monster Manual p. 109, Dragons of Stormwreck Isle*  
+*Source: Monster Manual p. 109. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
@@ -76,8 +75,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 | Ancient | Gargantuan | 801 years or more |
 ^dragon-age-categories
 
-## Stat Block
-
 ```statblock
 "name": "Bronze Dragon Wyrmling"
 "size": "Medium"
@@ -93,30 +90,27 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "12"
 - !!int "11"
 - !!int "15"
-"speed": "walk 30 ft., fly 60 ft., swim 30 ft."
+"speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  "Charisma": "+4"
+  "Dexterity": "+2"
+  "Wisdom": "+2"
+  "Constitution": "+4"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  "Stealth": "+2"
+  "Perception": "+4"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon can breathe air and water."
+- "desc": "The dragon can breathe air and water."
   "name": "Amphibious"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature\
     \ in that line must make a DC 12 Dexterity saving throw, taking 16 (dice: 3d10|avg\
     \ (3d10)) lightning damage on a failed save, or half as much damage on a successful\
@@ -127,6 +121,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
 - "MM"
 - "DoSI"
-"image": "5. Mechanics/Bestiary/Dragon/token/bronze-dragon-wyrmling.png"
+"image": "compendium/bestiary/dragon/token/bronze-dragon-wyrmling.png"
 ```
 ^statblock

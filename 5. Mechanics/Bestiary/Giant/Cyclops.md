@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -11,10 +10,10 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: inline
+aliases: ["Cyclops"]
 ---
 # Cyclops
-*Source: Monster Manual p. 45, The Rise of Tiamat, Tomb of Annihilation, Ghosts of Saltmarsh, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen*  
+*Source: Monster Manual p. 45. Available in the Basic Rules.*  
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
@@ -32,8 +31,6 @@ A cyclops lairs within a day's journey of other cyclopes, so that they can meet 
 
 Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their traditional ways, they find innovation difficult. Although they are a terrifying threat in combat due to their size and strength, they can often be tricked by clever foes. Cyclopes can be cowed and awed by obvious displays of magic. Rustics with little exposure to magic, they can be deceived into mistaking a warlock, cleric, or other caster for a powerful divine figure. However, their sense of pride causes them to react with vengeful, bloodthirsty violence once they learn that the individual they assumed was a "god" is a mere mortal.
 
-## Stat Block
-
 ```statblock
 "name": "Cyclops"
 "size": "Huge"
@@ -49,26 +46,22 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 - !!int "8"
 - !!int "6"
 - !!int "10"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "passive Perception 8"
 "languages": "Giant"
 "cr": "6"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cyclops has disadvantage on any attack roll against a target more than\
+- "desc": "The cyclops has disadvantage on any attack roll against a target more than\
     \ 30 feet away."
   "name": "Poor Depth Perception"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The cyclops makes two greatclub attacks."
+- "desc": "The cyclops makes two greatclub attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
+    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
   "name": "Greatclub"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
-    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
+- "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
+    \ target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"
@@ -80,7 +73,7 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 - "CM"
 - "WBtW"
 - "DSotDQ"
-"image": "5. Mechanics/Bestiary/Giant/token/cyclops.png"
+"image": "compendium/bestiary/giant/token/cyclops.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -10,10 +9,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
+aliases: ["Griffon"]
 ---
 # Griffon
-*Source: Monster Manual p. 174, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel*  
+*Source: Monster Manual p. 174. Available in the SRD and the Basic Rules.*  
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
 
@@ -35,8 +34,6 @@ A griffon raised from an egg can be trained to serve as a mount. However, such t
 
 Once trained, a griffon is a fierce and loyal steed. It bonds with one master for life, fighting to the death to protect that rider. A griffon mount retains its ravenous appetite for horseflesh, and a wise master ensures that a griffon remains satiated with other prey when passing through civilized lands.
 
-## Stat Block
-
 ```statblock
 "name": "Griffon"
 "size": "Large"
@@ -52,28 +49,24 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 - !!int "2"
 - !!int "13"
 - !!int "8"
-"speed": "walk 30 ft., fly 80 ft."
+"speed": "30 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  "Perception": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The griffon has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The griffon has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The griffon makes two attacks: one with its beak and one with its claws."
+- "desc": "The griffon makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Beak"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
   "name": "Claws"
 "source":
 - "MM"
@@ -87,7 +80,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 - "MOT"
 - "IDRotF"
 - "JttRC"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/griffon.png"
+"image": "compendium/bestiary/monstrosity/token/griffon.png"
 ```
 ^statblock
 

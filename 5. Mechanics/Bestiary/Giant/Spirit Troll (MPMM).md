@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -9,7 +8,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
-statblock: inline
+aliases: ["Spirit Troll"]
 ---
 # Spirit Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
@@ -26,13 +25,11 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
-## Stat Block
-
 ```statblock
 "name": "Spirit Troll"
 "size": "Large"
 "type": "giant"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "17"
 "hp": !!int "130"
 "hit_dice": "20d10 + 20"
@@ -43,9 +40,9 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "8"
 - !!int "9"
 - !!int "16"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": "+3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "exhaustion, grappled, paralyzed, petrified, prone, restrained,\
@@ -54,37 +51,32 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "languages": "Giant"
 "cr": "11"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll can move through other creatures and objects as if they were\
-    \ difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it ends\
-    \ its turn inside an object."
+- "desc": "The troll can move through other creatures and objects as if they were\
+    \ difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll regains 10 hit points at the start of each of its turns. If the\
+- "desc": "The troll regains 10 hit points at the start of each of its turns. If the\
     \ troll takes psychic or force damage, this trait doesn't function at the start\
     \ of the troll's next turn. The troll dies only if it starts its turn with 0 hit\
     \ points and doesn't regenerate."
   "name": "Regeneration"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The troll makes one Bite attack and two Claw attacks."
+- "desc": "The troll makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) psychic damage, and the target must succeed\
-    \ on a DC 15 Wisdom saving throw or be [[5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ for 1 minute. The [[5. Mechanics/Rules/Conditions.md#stunned|stunned]] target can\
-    \ repeat the saving throw at the end of each of its turns, ending the effect on\
-    \ itself on a success."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3)) psychic damage, and the target\
+    \ must succeed on a DC 15 Wisdom saving throw or be [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]]\
+    \ for 1 minute. The [[\5. Mechanics\Rules\Conditions.md#stunned|stunned]] target\
+    \ can repeat the saving throw at the end of each of its turns, ending the effect\
+    \ on itself on a success."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) psychic damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
+    \ Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3)) psychic damage."
   "name": "Claws"
 "source":
 - "MPMM"
 - "MTF"
-"image": "5. Mechanics/Bestiary/Giant/token/spirit-troll.png"
+"image": "compendium/bestiary/giant/token/spirit-troll.png"
 ```
 ^statblock
 

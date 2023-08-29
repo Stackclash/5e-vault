@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend
-statblock: inline
+aliases: ["Barghest"]
 ---
 # Barghest
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  
@@ -27,7 +26,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "name": "Barghest"
 "size": "Large"
 "type": "fiend"
-"alignment": "Neutral Evil"
+"alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
 "hp": !!int "60"
 "hit_dice": "8d10 + 16"
@@ -38,12 +37,12 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 - !!int "13"
 - !!int "12"
 - !!int "14"
-"speed": "walk 60 ft. (30 ft. in goblin form)"
+"speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
-  "Intimidation": !!int "4"
-  "Deception": !!int "4"
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  "Intimidation": "+4"
+  "Deception": "+4"
+  "Stealth": "+4"
+  "Perception": "+5"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
@@ -52,21 +51,18 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barghest casts one of the following spells, requiring no material components\
+- "desc": "The barghest casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[/5. Mechanics/Spells/Levitate.md|levitate]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[/5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n1/day each:\
-    \ [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-    \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ [[5. Mechanics\Spells\Levitate.md|levitate]], [[5. Mechanics\Spells\Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics\Spells\Pass Without Trace.md|pass without trace]]\n\n1/day each:\
+    \ [[5. Mechanics\Spells\Charm Person.md|charm person]], [[5. Mechanics\Spells\Dimension Door.md|dimension door]],\
+    \ [[5. Mechanics\Spells\Suggestion.md|suggestion]]"
   "name": "spells"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the barghest starts its turn engulfed in flames that are at least\
+- "desc": "When the barghest starts its turn engulfed in flames that are at least\
     \ 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be\
     \ instantly banished to Gehenna"
   "name": "Fire Banishment"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barghest can feed on the corpse of a Fey or Humanoid it killed within\
+- "desc": "The barghest can feed on the corpse of a Fey or Humanoid it killed within\
     \ the past 10 minutes. This feeding takes at least 1 minute, and it destroys the\
     \ corpse. The victim's soul is trapped in the barghest for 24 hours, after which\
     \ time it is digested and the person is incapable of being revived. If the barghest\
@@ -75,20 +71,16 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     \ chance chance of failing and being wasted."
   "name": "Soul Feeding"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barghest makes one Bite attack and one Claw attack."
+- "desc": "The barghest makes one Bite attack and one Claw attack."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage."
   "name": "Claw"
 "bonus_actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The barghest transforms into a Small goblin or back into its true form.\
+- "desc": "The barghest transforms into a Small goblin or back into its true form.\
     \ Other than its size and speed, its statistics are the same in each form. Any\
     \ equipment it is wearing or carrying isn't transformed. The barghest reverts\
     \ to its true form if it dies."
@@ -96,7 +88,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "source":
 - "MPMM"
 - "VGM"
-"image": "/compendium/bestiary/fiend/token/barghest.png"
+"image": "compendium/bestiary/fiend/token/barghest.png"
 ```
 ^statblock
 

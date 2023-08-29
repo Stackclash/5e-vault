@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mpmm
@@ -7,7 +6,7 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead
-statblock: inline
+aliases: ["Spawn of Kyuss"]
 ---
 # Spawn of Kyuss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
@@ -22,7 +21,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "name": "Spawn of Kyuss"
 "size": "Medium"
 "type": "undead"
-"alignment": "Chaotic Evil"
+"alignment": "Typically  Chaotic Evil"
 "ac": !!int "10"
 "hp": !!int "76"
 "hit_dice": "9d8 + 36"
@@ -33,41 +32,35 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 - !!int "5"
 - !!int "7"
 - !!int "3"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Wisdom": !!int "1"
+  "Wisdom": "+1"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, poisoned"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spawn of Kyuss regains 10 hit points at the start of its turn if it\
+- "desc": "The spawn of Kyuss regains 10 hit points at the start of its turn if it\
     \ has at least 1 hit point and isn't in sunlight or a body of running water. If\
     \ the spawn takes acid, fire, or radiant damage, this trait doesn't function at\
     \ the start of the spawn's next turn. The spawn is destroyed only if it starts\
     \ its turn with 0 hit points and doesn't regenerate."
   "name": "Regeneration"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "If the spawn of Kyuss is targeted by an effect that cures disease or removes\
+- "desc": "If the spawn of Kyuss is targeted by an effect that cures disease or removes\
     \ a curse, all the worms infesting it wither away, and it loses its Burrowing\
     \ Worm action."
   "name": "Worms"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spawn of Kyuss requires no air, food, drink, or sleep."
+- "desc": "The spawn of Kyuss requires no air, food, drink, or sleep."
   "name": "Unusual Nature"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The spawn of Kyuss makes two Claw attacks, and it uses Burrowing Worm."
+- "desc": "The spawn of Kyuss makes two Claw attacks, and it uses Burrowing Worm."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage plus dice: 2d6|avg (2d6)\
-    \ necrotic damage."
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage plus 7 (dice: 2d6|avg\
+    \ (2d6)) necrotic damage."
   "name": "Claw"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "A worm launches from the spawn of Kyuss at one Humanoid that the spawn\
+- "desc": "A worm launches from the spawn of Kyuss at one Humanoid that the spawn\
     \ can see within 10 feet of it. The worm latches onto the target's skin unless\
     \ the target succeeds on a DC 11 Dexterity saving throw. The worm is a Tiny Undead\
     \ with AC 6, 1 hit point, a 2 (-4) in every ability score, and a speed of 1 foot.\
@@ -76,7 +69,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
     \ worm at a Humanoid it can see within 10 feet of the worm). Otherwise, the worm\
     \ burrows under the target's skin at the end of the target's next turn, dealing\
     \ 1 piercing damage to it. At the end of each of its turns thereafter, the target\
-    \ takes dice: 2d6|avg (2d6) necrotic damage per worm infesting it (maximum\
+    \ takes 7 (dice: 2d6|avg (2d6)) necrotic damage per worm infesting it (maximum\
     \ of dice: 10d6|avg (10d6)), and if it drops to 0 hit points, it dies and\
     \ then rises 10 minutes later as a spawn of Kyuss. If a worm-infested target is\
     \ targeted by an effect that cures disease or removes a curse, all the worms infesting\
@@ -85,7 +78,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "source":
 - "MPMM"
 - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/spawn-of-kyuss.png"
+"image": "compendium/bestiary/undead/token/spawn-of-kyuss.png"
 ```
 ^statblock
 

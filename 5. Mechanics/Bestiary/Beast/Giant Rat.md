@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/urban
 - monster/size/small
 - monster/type/beast
-statblock: inline
+aliases: ["Giant Rat"]
 ---
 # Giant Rat
-*Source: Monster Manual p. 327, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Explorer's Guide to Wildemount, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight*  
+*Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Rat"
@@ -29,24 +28,21 @@ statblock: inline
 - !!int "2"
 - !!int "10"
 - !!int "4"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The rat has advantage on Wisdom ([[5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+- "desc": "The rat has advantage on Wisdom ([[\5. Mechanics\Rules\Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The rat has advantage on an attack roll against a creature if at least\
+- "desc": "The rat has advantage on an attack roll against a creature if at least\
     \ one of the rat's allies is within 5 feet of the creature and the ally isn't\
-    \ [[5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[\5. Mechanics\Rules\Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
+- "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
+    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
   "name": "Bite"
 "source":
 - "MM"
@@ -61,7 +57,7 @@ statblock: inline
 - "IDRotF"
 - "CM"
 - "WBtW"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-rat.png"
+"image": "compendium/bestiary/beast/token/giant-rat.png"
 ```
 ^statblock
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -9,10 +8,10 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fiend/gnoll
-statblock: inline
+aliases: ["Gnoll Fang of Yeenoghu"]
 ---
 # Gnoll Fang of Yeenoghu
-*Source: Monster Manual p. 163, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  
+*Source: Monster Manual p. 163*  
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
 
@@ -36,8 +35,6 @@ Gnolls are dangerous because they strike at random. They emerge from the wildern
 
 No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
-## Stat Block
-
 ```statblock
 "name": "Gnoll Fang of Yeenoghu"
 "size": "Medium"
@@ -54,39 +51,35 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - !!int "10"
 - !!int "11"
 - !!int "13"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  "Charisma": "+3"
+  "Wisdom": "+2"
+  "Constitution": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
+- "desc": "When the gnoll reduces a creature to 0 hit points with a melee attack on\
     \ its turn, the gnoll can take a bonus action to move up to half its speed and\
     \ make a bite attack."
   "name": "Rampage"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
+- "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must succeed\
-    \ on a DC 12 Constitution saving throw or take dice: 2d6|avg (2d6) poison\
-    \ damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
+    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage, and the target must\
+    \ succeed on a DC 12 Constitution saving throw or take 7 (dice: 2d6|avg (2d6))\
+    \ poison damage."
   "name": "Bite"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage."
   "name": "Claw"
 "source":
 - "MM"
 - "BGDIA"
 - "IDRotF"
-"image": "/compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.png"
+"image": "compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.png"
 ```
 ^statblock
 

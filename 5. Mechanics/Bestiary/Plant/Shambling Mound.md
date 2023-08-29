@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/mm
@@ -7,10 +6,10 @@ tags:
 - monster/environment/swamp
 - monster/size/large
 - monster/type/plant
-statblock: inline
+aliases: ["Shambling Mound"]
 ---
 # Shambling Mound
-*Source: Monster Manual p. 270, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault*  
+*Source: Monster Manual p. 270, Curse of Strahd. Available in the SRD.*  
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 
@@ -38,8 +37,6 @@ Despite its monstrous form, the shambling mound is a living plant that requires 
 
 If a shambling mound faces defeat before an overwhelming foe, the root-stem can feign death, collapsing the remains of its mound. If not subsequently killed, the root-stem beds down in the shambler's remains to slowly regrow its full body, then once again sets out to consume all it can. In this way, shambling mound infestations long thought destroyed can recur time and again.
 
-## Stat Block
-
 ```statblock
 "name": "Shambling Mound"
 "size": "Large"
@@ -55,9 +52,9 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 - !!int "5"
 - !!int "10"
 - !!int "5"
-"speed": "walk 20 ft., swim 20 ft."
+"speed": "20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  "Stealth": "+2"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
 "condition_immunities": "blinded, deafened, exhaustion"
@@ -65,28 +62,24 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 "languages": ""
 "cr": "5"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Whenever the shambling mound is subjected to lightning damage, it takes\
+- "desc": "Whenever the shambling mound is subjected to lightning damage, it takes\
     \ no damage and regains a number of hit points equal to the lightning damage dealt."
   "name": "Lightning Absorption"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
-    \ or smaller target, the target is [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+- "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
+    \ or smaller target, the target is [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
     \ (escape DC 14), and the shambling mound uses its Engulf on it."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
   "name": "Slam"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The shambling mound engulfs a Medium or smaller creature [[5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it. The engulfed target is [[5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[5. Mechanics/Rules/Conditions.md#restrained|restrained]], and unable to breathe,\
+- "desc": "The shambling mound engulfs a Medium or smaller creature [[\5. Mechanics\Rules\Conditions.md#grappled|grappled]]\
+    \ by it. The engulfed target is [[\5. Mechanics\Rules\Conditions.md#blinded|blinded]],\
+    \ [[\5. Mechanics\Rules\Conditions.md#restrained|restrained]], and unable to breathe,\
     \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
-    \ of the mound's turns or take dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage.\
-    \ If the mound moves, the engulfed target moves with it. The mound can have only\
-    \ one creature engulfed at a time."
+    \ of the mound's turns or take 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning\
+    \ damage. If the mound moves, the engulfed target moves with it. The mound can\
+    \ have only one creature engulfed at a time."
   "name": "Engulf"
 "source":
 - "MM"
@@ -102,7 +95,8 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 - "WBtW"
 - "JttRC"
 - "KftGV"
-"image": "5. Mechanics/Bestiary/Plant/token/shambling-mound.png"
+- "PSI"
+"image": "compendium/bestiary/plant/token/shambling-mound.png"
 ```
 ^statblock
 

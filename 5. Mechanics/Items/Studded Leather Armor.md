@@ -15,4 +15,4 @@ aliases: ["Studded Leather Armor"]
 
 Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-*Source: Player's Handbook p. 144*
+*Source: Player's Handbook p. 144. Available in the SRD and the Basic Rules.*

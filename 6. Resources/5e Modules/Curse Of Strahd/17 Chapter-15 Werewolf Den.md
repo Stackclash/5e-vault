@@ -1,28 +1,30 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
+tags:
+- compendium/src/5e/cos
 aliases: ["Chapter 15: Werewolf Den"]
 ---
 # Chapter 15: Werewolf Den
 *Source: Curse of Strahd, p. 201* 
 
-West of Lake Baratok is a cave complex that the werewolves of Barovia use as a den. Characters who interrogate captured werewolves can learn the den's location. Most of the werewolf pack is out hunting when the characters first arrive, including the pack's leader, [[/5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]].
+West of Lake Baratok is a cave complex that the werewolves of Barovia use as a den. Characters who interrogate captured werewolves can learn the den's location. Most of the werewolf pack is out hunting when the characters first arrive, including the pack's leader, [[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]].
 
-The werewolves call themselves the Children of Mother Night, because they all worship that deity. Recently, a schism formed within the pack as the result of a challenge to Kiril's leadership. The rift began when another werewolf, [[/5. Mechanics/Bestiary/Npc/Emil Toranescu (COS).md|Emil Toranescu]], questioned the treatment of children kidnapped by the pack.
+The werewolves call themselves the Children of Mother Night, because they all worship that deity. Recently, a schism formed within the pack as the result of a challenge to Kiril's leadership. The rift began when another werewolf, [[5. Mechanics\Bestiary\Npc\Emil Toranescu (COS).md|Emil Toranescu]], questioned the treatment of children kidnapped by the pack.
 
 Kiril would arm the children with weapons and force them to fight each other to the death until only one child was left standing. The winner would then be turned into a werewolf, ensuring what Kiril called "the strength and purity of the pack." Emil advocated keeping all the children alive and turning them into werewolves, thus increasing the pack's size. Emil believed that a larger pack would ensure the werewolves' survival, whereas Kiril saw a larger pack as too difficult to control and feed.
 
-![[126-cos15-01.png#center]]
+![[6. Resources\5e Modules\Curse Of Strahd\img\126-cos15-01.png#center]]
 
 This ideological divide couldn't be reconciled and led to many disagreements. The other werewolves were split between the two camps, and it seemed likely that either Kiril or Emil would die before the conflict could be resolved.
 
-> [!quote]- A quote from [[/5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
+> [!quote]- A quote from [[5. Mechanics\Bestiary\Npc\Strahd Von Zarovich (COS).md|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > The wolves began to howl. They knew me. All the wolves of Barovia did.
 
 Then Kiril disappeared for several days, causing the other werewolves to wonder whether he had fled or had been quietly disposed of by Emil and his allies. When Kiril returned, he was accompanied by a pack of several dozen dire wolves loyal to Strahd, and he brought word from Castle Ravenloft that Strahd was not pleased with Emil's attempt to fracture the pack. The dire wolves took Emil back to Castle Ravenloft to face punishment, and he was never seen again.
 
-Kiril reestablished his dominance, but his ideas and tactics didn't sit well with the pack's older members, and they certainly didn't please Emil's mate, [[/5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md|Zuleika Toranescu]]. She knows she can't slay Kiril on her own, and after what happened to Emil, the rest of the pack is unwilling to challenge Kiril's authority and face Strahd's wrath. Kiril won't let Zuleika hunt, so she's more or less confined to the den.
+Kiril reestablished his dominance, but his ideas and tactics didn't sit well with the pack's older members, and they certainly didn't please Emil's mate, [[5. Mechanics\Bestiary\Npc\Zuleika Toranescu (COS).md|Zuleika Toranescu]]. She knows she can't slay Kiril on her own, and after what happened to Emil, the rest of the pack is unwilling to challenge Kiril's authority and face Strahd's wrath. Kiril won't let Zuleika hunt, so she's more or less confined to the den.
 
 > [!quote] Travel Through the Mists
 > 
@@ -45,8 +47,8 @@ One hundred feet above the cave mouth (area Z1), farther up the sloping mountain
 The following areas correspond to labels on the map of the werewolf den below.
 
 > [!gallery]
-> ![[127-032.jpg#gallery|Map 15.1: Werewolf Den (Area Z)]]
-> ![[128-cos1501.jpg#gallery|Player Version]]
+> ![[6. Resources\5e Modules\Curse Of Strahd\img\127-032.jpg#gallery|Map 15.1: Werewolf Den (Area Z)]]
+> ![[6. Resources\5e Modules\Curse Of Strahd\img\128-cos1501.jpg#gallery|Player Version]]
 
 Mounted to the walls throughout the den are iron brackets containing lit torches. All areas are brightly lit, though shadows abound.
 
@@ -61,7 +63,7 @@ The guards in area Z2 spot characters in the cave mouth who aren't hidden. Chara
 
 #### Development
 
-If the characters arrive here with [[/5. Mechanics/Bestiary/Npc/Emil Toranescu (COS).md|Emil Toranescu]] (see chapter 4, area K75a) in their company or their custody, he can command the other werewolves in the den not to attack the characters as they make their way inside.
+If the characters arrive here with [[5. Mechanics\Bestiary\Npc\Emil Toranescu (COS).md|Emil Toranescu]] (see chapter 4, area K75a) in their company or their custody, he can command the other werewolves in the den not to attack the characters as they make their way inside.
 
 ### Z2. Guard Post
 
@@ -70,11 +72,11 @@ If the characters arrive here with [[/5. Mechanics/Bestiary/Npc/Emil Toranescu (
 > Here, the cave splits to the left and right. Standing on a five-foot-high ledge between the divide are two feral-looking women wearing shredded clothing and clutching spears.
 ^695
 
-Aziana and Davanka, two [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolves]] in human form, stand guard on the ledge. They sound the alarm when they spot intruders. Any loud noise here can be heard throughout the den, bringing quick reinforcements from areas Z3 and Z5. The werewolves fight to the death.
+Aziana and Davanka, two [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolves]] in human form, stand guard on the ledge. They sound the alarm when they spot intruders. Any loud noise here can be heard throughout the den, bringing quick reinforcements from areas Z3 and Z5. The werewolves fight to the death.
 
 ### Z3. Wolf Den
 
-Nine [[/5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] and a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his wolf allies.
+Nine [[5. Mechanics\Bestiary\Beast\Wolf.md|wolves]] and a [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolf]] in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his wolf allies.
 
 > [!quote] ...
 > 
@@ -110,19 +112,19 @@ The crates on the eastern ledge contain heaps of adult-sized clothing.
 > A maze of torchlit tunnels and caves expands in front of you. Bones lie strewn upon the floor.
 ^69d
 
-The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity ([[5. Mechanics/Rules/Skills.md#Stealth|Stealth]]) checks made to move silently through this area.
+The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity ([[\5. Mechanics\Rules\Skills.md#Stealth|Stealth]]) checks made to move silently through this area.
 
 #### Z5a. South Cave
 
-Bianca, a white-haired [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] in wolf form who is [[/5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]'s mate, sleeps here. She reacts quickly to sounds of alarm, attacking any intruders she sees.
+Bianca, a white-haired [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolf]] in wolf form who is [[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]'s mate, sleeps here. She reacts quickly to sounds of alarm, attacking any intruders she sees.
 
 #### Z5b. North Cave
 
-Wensencia, a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] in wolf form, sleeps here with Kellen, a ten-year-old werewolf in wolf form. Kellen is a noncombatant with AC 10, 2 hit points, and a werewolf's damage immunities. He hugs a wooden doll that eerily resembles one of the characters, but is painted and dressed to look like a zombie. A tiny slogan etched into the zombie doll reads, "Is No Fun, Is No Blinsky!"
+Wensencia, a [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolf]] in wolf form, sleeps here with Kellen, a ten-year-old werewolf in wolf form. Kellen is a noncombatant with AC 10, 2 hit points, and a werewolf's damage immunities. He hugs a wooden doll that eerily resembles one of the characters, but is painted and dressed to look like a zombie. A tiny slogan etched into the zombie doll reads, "Is No Fun, Is No Blinsky!"
 
 When an alarm sounds, Wencensia takes Kellen to area Z7, locks him in one of the empty cages, and tells him to take human form, which he does. She then joins her fellow werewolves in the den's defense.
 
-Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell on Kellen ends his lycanthropy.
+Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]] spell or a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell on Kellen ends his lycanthropy.
 
 ### Z6. Kiril's Cave
 
@@ -131,7 +133,7 @@ Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Fores
 > At the back of this cave hangs a curtain made of human skin.
 ^6a1
 
-When home, [[/5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]] sleeps here in wolf form.
+When home, [[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]] sleeps here in wolf form.
 
 Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tunnel with rough-hewn stairs leading up, interspersed with landings. The tunnel ends at a secret door, beyond which lies area Z8. The secret door is easy to spot from inside the tunnel (no ability check required).
 
@@ -144,11 +146,11 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 > A crude wooden statue stands between the cages. It bears the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Piled around the statue's base is an incredible amount of treasure. A woman in shredded clothes kneels before the statue. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall.
 ^6a3
 
-The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] in human form named [[/5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md|Zuleika Toranescu]], who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
+The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolf]] in human form named [[5. Mechanics\Bestiary\Npc\Zuleika Toranescu (COS).md|Zuleika Toranescu]], who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
-![[129-cos15-03.png#center|Zuleika Toranescu]]
+![[Zuleika Toranescu](compen...](compendium/adventures/curse-of-strahd/img/129-cos15-03.png#center "[[5. Mechanics\Bestiary\Npc\Zuleika Toranescu (COS).md|Zuleika Toranescu]]")
 
-Kiril has ordered Zuleika to guard the prisoners. If the characters rescue Emil and return him safely to Zuleika, she gladly releases the children. If the characters confirm that Emil is truly dead, either by their hand or Strahd's, she still might let the prisoners go if the characters help her deal with [[/5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]], whom she blames above all. Zuleika sees the characters as the answer to her prayers and asks them to kill Kiril when he returns from his latest hunt (see "Leader of the Pack" in the "Special Events" section below).
+Kiril has ordered Zuleika to guard the prisoners. If the characters rescue Emil and return him safely to Zuleika, she gladly releases the children. If the characters confirm that Emil is truly dead, either by their hand or Strahd's, she still might let the prisoners go if the characters help her deal with [[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]], whom she blames above all. Zuleika sees the characters as the answer to her prayers and asks them to kill Kiril when he returns from his latest hunt (see "Leader of the Pack" in the "Special Events" section below).
 
 Each of the eight children imprisoned here has AC 10, 1 hit point, and no effective attacks. To determine a child's age in years, roll `dice: 1d6 + 6` (`1d6 + 6`). The rocks piled atop each occupied cage can be knocked or lifted off, allowing the cages to be opened. The children are in shock. Those who are set free don't wander far from the characters for fear of being eaten by wolves and werewolves.
 
@@ -168,7 +170,7 @@ Anyone who steals from Mother Night is cursed. The werewolves know this, and thu
 
 Any creature that takes treasure from this pile is haunted by horrible dreams every night lasting from dusk until dawn. The curse affects only the creature that did the pilfering and isn't passed on to anyone else who might come into possession of the item. Returning a stolen item to the treasure pile doesn't end the curse.
 
-A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] or a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
+A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A [[5. Mechanics\Spells\Greater Restoration.md|greater restoration]] or a [[5. Mechanics\Spells\Remove Curse.md|remove curse]] spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
 
 #### Fortunes of Ravenloft
 
@@ -193,9 +195,9 @@ You can use one or both of the following special events while the characters are
 
 This event doesn't occur if the characters previously encountered and defeated Kiril's hunting pack (see "Pack Attack" in the "Special Events" section in chapter 11).
 
-![[130-cos15-04.png#center|Kiril Stoyanovich]]
+![[Kiril Stoyanovich](compen...](compendium/adventures/curse-of-strahd/img/130-cos15-04.png#center "[[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]")
 
-Every hour the characters spend inside the werewolf den, roll a `dice: d20` (`d20`). On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[/5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]] (a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] with 90 hit points), six normal [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolves]], and nine [[/5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]. All the werewolves arrive in wolf form.
+Every hour the characters spend inside the werewolf den, roll a `dice: d20` (`d20`). On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[5. Mechanics\Bestiary\Npc\Kiril Stoyanovich (COS).md|Kiril Stoyanovich]] (a [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolf]] with 90 hit points), six normal [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|werewolves]], and nine [[5. Mechanics\Bestiary\Beast\Wolf.md|wolves]]. All the werewolves arrive in wolf form.
 
 If the wolves can see evidence of an assault on the den (such as if the guards at area Z2 are absent or dead), the werewolves assume hybrid form. Kiril sends three werewolves up the mountainside to area Z8 to enter the den from above while he and the remainder of the hunting party make their way deeper into the den.
 
@@ -203,7 +205,7 @@ If the wolves can see evidence of an assault on the den (such as if the guards a
 
 As long as Kiril lives, the characters can't negotiate with the werewolves. If Kiril dies and the characters have the upper hand, the pack is willing to negotiate with them.
 
-If [[/5. Mechanics/Bestiary/Npc/Emil Toranescu (COS).md|Emil Toranescu]] is present when Kiril returns, Emil is determined to kill his rival and become the new pack leader. If he succeeds, he allows the characters to leave the den unmolested but refuses to release the kidnapped children unless Zuleika is present to convince him otherwise (because she fears that the characters might kill her husband if he doesn't let the children go).
+If [[5. Mechanics\Bestiary\Npc\Emil Toranescu (COS).md|Emil Toranescu]] is present when Kiril returns, Emil is determined to kill his rival and become the new pack leader. If he succeeds, he allows the characters to leave the den unmolested but refuses to release the kidnapped children unless Zuleika is present to convince him otherwise (because she fears that the characters might kill her husband if he doesn't let the children go).
 
 If both Kiril and Emil die, Zuleika becomes pack leader and cuts all ties to Strahd. The ordinary wolves leave the pack once Strahd becomes aware of this development. If the characters were drawn into Barovia by the "Werewolves in the Mist" adventure hook, the werewolf attacks on the Sword Coast come to an end under Zuleika's leadership. If she is also dead, a young but fierce werewolf named Franz Groza becomes pack leader. He is vicious and treacherous, showing the characters no mercy.
 
@@ -211,8 +213,8 @@ If both Kiril and Emil die, Zuleika becomes pack leader and cuts all ties to Str
 
 If the characters get the children away from the den while Kiril is alive, Kiril reassembles his hunting party and pursues the lost prisoners relentlessly. If Kiril is dead, the werewolf pack is too preoccupied with determining Kiril's successor to organize a hunting party.
 
-If the characters aren't sure where to take the children, a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereraven]] (see appendix D) that has been spying on the den in raven form assumes hybrid form and suggests that they take refuge in the nearby village of Krezk (chapter 8). If the characters head that way, the wereraven scouts from overhead until the characters reach the village, whereupon it flies south to the Wizard of Wines winery (chapter 12) and reports what has happened to [[/5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md|Davian Martikov]].
+If the characters aren't sure where to take the children, a [[5. Mechanics\Bestiary\Humanoid\Wereraven (VRGR).md|wereraven]] (see appendix D) that has been spying on the den in raven form assumes hybrid form and suggests that they take refuge in the nearby village of Krezk (chapter 8). If the characters head that way, the wereraven scouts from overhead until the characters reach the village, whereupon it flies south to the Wizard of Wines winery (chapter 12) and reports what has happened to [[5. Mechanics\Bestiary\Npc\Davian Martikov (COS).md|Davian Martikov]].
 
-The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A [[/5. Mechanics/Spells/Calm Emotions.md|calm emotions]] spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma ([[5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]], [[5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]], or [[5. Mechanics/Rules/Skills.md#Deception|Deception]]) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
+The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A [[5. Mechanics\Spells\Calm Emotions.md|calm emotions]] spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma ([[\5. Mechanics\Rules\Skills.md#Intimidation|Intimidation]], [[\5. Mechanics\Rules\Skills.md#Persuasion|Persuasion]], or [[\5. Mechanics\Rules\Skills.md#Deception|Deception]]) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
 
 If the characters take the children to Krezk, the villagers there look after the children and see that they are fed and properly clothed. If the characters take them to Vallaki instead, the Martikovs allow the children to stay at the Blue Water Inn until the characters return to collect them.

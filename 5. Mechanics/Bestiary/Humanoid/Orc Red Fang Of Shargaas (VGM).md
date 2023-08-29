@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vgm
@@ -10,7 +9,7 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/orc
-statblock: inline
+aliases: ["Orc Red Fang of Shargaas"]
 ---
 # Orc Red Fang of Shargaas
 *Source: Volo's Guide to Monsters p. 185*  
@@ -29,8 +28,6 @@ The elite among Shargaas's followers are the assassins and thieves that follow t
 
 Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to Shargaas. Red Fangs ride these bats into battle or on secret raids and assassination missions into enemy territory.
 
-## Stat Block
-
 ```statblock
 "name": "Orc Red Fang of Shargaas"
 "size": "Medium"
@@ -47,50 +44,42 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
 - !!int "9"
 - !!int "11"
 - !!int "9"
-"speed": "walk 30 ft."
+"speed": "30 ft."
 "skillsaves":
-  "Intimidation": !!int "1"
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
+  "Intimidation": "+1"
+  "Stealth": "+5"
+  "Perception": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Orc"
 "cr": "3"
 "traits":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "On each of its turns, the orc can use a bonus action to take the Dash,\
+- "desc": "On each of its turns, the orc can use a bonus action to take the Dash,\
     \ Disengage, or Hide action."
   "name": "Cunning Action"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc deals 2 extra dice of damage when it hits a target with a weapon\
+- "desc": "The orc deals 2 extra dice of damage when it hits a target with a weapon\
     \ attack (included in its attacks)."
   "name": "Hand of Shargaas"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Magical darkness doesn't impede the orc's darkvision."
+- "desc": "Magical darkness doesn't impede the orc's darkvision."
   "name": "Shargaas's Sight"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "In the first round of a combat, the orc has advantage on attack rolls against\
+- "desc": "In the first round of a combat, the orc has advantage on attack rolls against\
     \ any creature that hasn't taken a turn yet. If the orc hits a creature that round\
     \ who was surprised, the hit is automatically a critical hit."
   "name": "Slayer"
 "actions":
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc makes two scimitar or dart attacks."
+- "desc": "The orc makes two scimitar or dart attacks."
   "name": "Multiattack"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) slashing damage."
+- "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
+    \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3)) slashing damage."
   "name": "Scimitar"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: dice: 3d4 + 3|avg (3d4 + 3) piercing damage."
+- "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
+    \ target. Hit: 10 (dice: 3d4 + 3|avg (3d4 + 3)) piercing damage."
   "name": "Dart"
-- !!dev.ebullient.convert.tools.dnd5e.qute.Trait
-  "desc": "The orc casts [[/5. Mechanics/Spells/Darkness.md|darkness]] without any components.\
+- "desc": "The orc casts [[5. Mechanics\Spells\Darkness.md|darkness]] without any components.\
     \ Wisdom is its spellcasting ability."
   "name": "Veil of Shargaas (Recharges after a Short or Long Rest)"
 "source":
 - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-red-fang-of-shargaas.png"
+"image": "compendium/bestiary/humanoid/token/orc-red-fang-of-shargaas.png"
 ```
 ^statblock
 
