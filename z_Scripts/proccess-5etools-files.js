@@ -10,36 +10,53 @@ const config = {
         {
             enabled: true,
             target: 'path',
-            regex: 'compendium[\\\/]adventures',
-            process: function(file) {
-                return '6. Resources/5e Modules'
-            }
-        },
-        {
-            enabled: true,
-            target: 'path',
-            regex: 'compendium[\\\/]books',
+            regex: /compendium[\\\/]adventures/,
             process: function() {
-                return '6. Resources/Books'
+                return `6. Resources${path.sep}5e Modules`
             }
         },
         {
             enabled: true,
             target: 'path',
-            regex: 'compendium',
+            regex: /compendium[\\\/]books/,
+            process: function() {
+                return `6. Resources${path.sep}Books`
+            }
+        },
+        {
+            enabled: true,
+            target: 'path',
+            regex: /compendium/,
             process: function() {
                 return '5. Mechanics'
             }
         },
         {
             enabled: true,
+            target: 'relativePath',
+            regex: /([\/\-])([a-z])(?!mg)/,
+            process: function(file, separator, letter) {
+                return separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase()
+            }
+        },
+        {
+            enabled: true,
+            target: 'fileName',
+            regex: /(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/,
+            process: function(file, source) {
+                return '(' + source.toUpperCase() + ')'
+            }
+        },
+        {
+            enabled: true,
             target: 'content',
             regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.\(\)\-]*)"*\)/g,
-            process: function(file, oldLink, displayText, linkPath, section, title) {
+            process: function(file, displayText, linkPath, section, title) {
                 let newLink = ''
                 linkPath = linkPath.replaceAll('%20', '\ ')
                     .replace(/^(\w)/, (all, letter) => letter.toUpperCase())
                     .replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
+                    .replace(/(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => '(' + source.toUpperCase() + ')')
 
                 if(!displayText && !title) {
                     newLink = `[[${linkPath}${section}]]`
@@ -53,28 +70,32 @@ const config = {
             }
         },
         {
-            enabled: true,
-            target: 'path',
-            process: function(filePath, oldContent) {
-                const fileName = path.parse(filePath).name
-
+            enabled: false,
+            process: function(file) {
                 if (new RegExp(/(\w+)[\/\\]\1/).test(filePath)) {
-                    return `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``
-                } else {
-                    return oldContent
+                    file.content = `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``
                 }
+
+                return file
             }
         }
     ]
 }
 
 class CompendiumFile {
+    #oldContent
+    #oldPath
+    path
+    content
+
     constructor(filePath) {
-        this.path = filePath
-        this.content = fs.readFileSync(filePath, 'utf-8')
+        this.#oldPath = filePath
+        this.path = this.#oldPath
+        this.#oldContent = fs.readFileSync(filePath, 'utf-8')
+        this.content = this.#oldContent
         this.execute = () => {
-            fs.mkdirSync(path.parse(this._newPath).dir, {recursive: true})
-            fs.writeFileSync(this._newPath, this._newContent)
+            fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
+            fs.writeFileSync(this.path, this.content)
         }
     }
 
@@ -82,20 +103,20 @@ class CompendiumFile {
         return path.parse(this.path).name
     }
 
+    set fileName(fileName) {
+        this.path = path.join(path.parse(this.path).dir, `${fileName}${this.fileExtension}`)
+    }
+
     get relativePath() {
-        return path.relative(rootVaultPath, this.path)
+        return path.parse(path.relative(config.rootVaultPath, this.path)).dir
+    }
+
+    set relativePath(relativePath) {
+        this.path = path.join(config.rootVaultPath, relativePath, `${this.fileName}${this.fileExtension}`)
     }
 
     get fileExtension() {
         return path.extname(this.path)
-    }
-
-    set path(filePath) {
-        if (!path.isAbsolute(filePath)) {
-            filePath = path.resolve(filePath)
-        }
-
-        return path.join(filePath, `${this.fileName()}${this.fileExtension()}`)
     }
 }
 
@@ -105,17 +126,13 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
     const files = fs.readdirSync(folderPath)
 
     files.forEach(file => {
-        try {
-            const filePath = path.resolve(folderPath, file)
-            const fileInfo = fs.statSync(filePath)
-    
-            if (fileInfo.isDirectory()) {
-                filesList.concat(goThroughFilesAndFolders(filePath, filesList))
-            } else {
-                filesList.push(new CompendiumFile(filePath))
-            }
-        } catch(error) {
-            console.log(file, error.stack)
+        const filePath = path.resolve(folderPath, file)
+        const fileInfo = fs.statSync(filePath)
+
+        if (fileInfo.isDirectory()) {
+            filesList.concat(goThroughFilesAndFolders(filePath, filesList))
+        } else {
+            filesList.push(new CompendiumFile(filePath))
         }
     });
 
@@ -123,21 +140,20 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
 }
 
 function processAllRules(files) {
-    console.log(files.length)
-    files = files.slice(0, config.limit)
+    files = files.slice(99, config.limit)
     files.forEach(file => {
         console.log(`${count} Processing: ${file.fileName}`)
         config.rules.forEach(rule => {
-            console.log(rule.target, file[rule.target], file.path, file)
-            process.exit(0)
             if (rule.enabled) {
                 if (rule.regex) {
-                    file[rule.target] = file[rule.target].replaceAll(rule.regex, (...match) => rule.process(file, ...match))
+                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (old, ...match) => rule.process(file, ...match))
                 } else {
-                    file[rule.target] = rule.process(file, file[rule.target])
+                    file = rule.process(file)
                 }
             }
         })
+        console.log(file)
+        process.exit(0)
         if (!dryRun) file.process()
     })
 }
