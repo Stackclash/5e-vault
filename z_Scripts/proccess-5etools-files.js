@@ -10,26 +10,32 @@ const config = {
         {
             enabled: true,
             target: 'path',
-            regex: 'compendium/adventures',
-            replace: '6. Resources/5e Modules'
+            regex: 'compendium[\\\/]adventures',
+            process: function(file) {
+                return '6. Resources/5e Modules'
+            }
         },
         {
             enabled: true,
             target: 'path',
-            regex: 'compendium/books',
-            replace: '6. Resources/Books'
+            regex: 'compendium[\\\/]books',
+            process: function() {
+                return '6. Resources/Books'
+            }
         },
         {
             enabled: true,
             target: 'path',
             regex: 'compendium',
-            replace: '5. Mechanics'
+            process: function() {
+                return '5. Mechanics'
+            }
         },
         {
             enabled: true,
             target: 'content',
             regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.\(\)\-]*)"*\)/g,
-            replace: function(filePath, oldLink, displayText, linkPath, section, title) {
+            process: function(file, oldLink, displayText, linkPath, section, title) {
                 let newLink = ''
                 linkPath = linkPath.replaceAll('%20', '\ ')
                     .replace(/^(\w)/, (all, letter) => letter.toUpperCase())
@@ -48,11 +54,11 @@ const config = {
         },
         {
             enabled: true,
-            regex: /.*/g,
-            replace: function(filePath, oldContent) {
+            target: 'path',
+            process: function(filePath, oldContent) {
                 const fileName = path.parse(filePath).name
 
-                if (new RegExp(`${fileName}[\/\\]${fileName}`).test(filePath)) {
+                if (new RegExp(/(\w+)[\/\\]\1/).test(filePath)) {
                     return `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``
                 } else {
                     return oldContent
@@ -64,50 +70,24 @@ const config = {
 
 class CompendiumFile {
     constructor(filePath) {
-        this._oldPath = filePath
-        this._newPath = filePath
-        this._oldContent = fs.readFileSync(filePath, 'utf-8')
-        this._newContent = fs.readFileSync(filePath, 'utf-8')
+        this.path = filePath
+        this.content = fs.readFileSync(filePath, 'utf-8')
+        this.execute = () => {
+            fs.mkdirSync(path.parse(this._newPath).dir, {recursive: true})
+            fs.writeFileSync(this._newPath, this._newContent)
+        }
     }
 
-    get oldAbsolutePath() {
-        return this._oldPath
+    get fileName() {
+        return path.parse(this.path).name
     }
 
-    get newAbsolutePath() {
-        return this._newPath
-    }
-
-    get oldRelativePath() {
-        return path.relative(rootVaultPath, this._oldPath)
-    }
-
-    get newRelativePath() {
-        return path.relative(rootVaultPath, this._newPath)
-    }
-
-    get oldFileName() {
-        return path.parse(this._oldPath).name
-    }
-
-    get newFileName() {
-        return path.parse(this._newPath).name
+    get relativePath() {
+        return path.relative(rootVaultPath, this.path)
     }
 
     get fileExtension() {
-        return path.extname(this._oldPath)
-    }
-
-    get oldContent() {
-        return this._oldContent
-    }
-
-    get newContent() {
-        return this._newContent
-    }
-
-    set fileName(fileName) {
-        this._newPath = path.join(path.parse(this._newPath).dir, `${fileName}${this.fileExtension}`)
+        return path.extname(this.path)
     }
 
     set path(filePath) {
@@ -115,7 +95,7 @@ class CompendiumFile {
             filePath = path.resolve(filePath)
         }
 
-        this._newPath = path.join(filePath, `${this.newFileName}${this.fileExtension}`)
+        return path.join(filePath, `${this.fileName()}${this.fileExtension()}`)
     }
 }
 
@@ -125,13 +105,17 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
     const files = fs.readdirSync(folderPath)
 
     files.forEach(file => {
-        const filePath = path.resolve(folderPath, file)
-        const fileInfo = fs.statSync(filePath)
-
-        if (fileInfo.isDirectory()) {
-            filesList.concat(goThroughFilesAndFolders(filePath, filesList))
-        } else {
-            filesList.push(new CompendiumFile(filePath))
+        try {
+            const filePath = path.resolve(folderPath, file)
+            const fileInfo = fs.statSync(filePath)
+    
+            if (fileInfo.isDirectory()) {
+                filesList.concat(goThroughFilesAndFolders(filePath, filesList))
+            } else {
+                filesList.push(new CompendiumFile(filePath))
+            }
+        } catch(error) {
+            console.log(file, error.stack)
         }
     });
 
@@ -139,20 +123,22 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
 }
 
 function processAllRules(files) {
+    console.log(files.length)
+    files = files.slice(0, config.limit)
     files.forEach(file => {
-        if (count >= config.limit) return
-        console.log(`${count} Processing: ${file}`)
-        // config.rules.forEach(rule => {
-        //     if (rule.enabled) {
-
-        //     }
-        // })
-        console.log(file)
-        file.path = path.resolve('../compendium')
-        console.log(file)
-        process.exit(0)
+        console.log(`${count} Processing: ${file.fileName}`)
+        config.rules.forEach(rule => {
+            console.log(rule.target, file[rule.target], file.path, file)
+            process.exit(0)
+            if (rule.enabled) {
+                if (rule.regex) {
+                    file[rule.target] = file[rule.target].replaceAll(rule.regex, (...match) => rule.process(file, ...match))
+                } else {
+                    file[rule.target] = rule.process(file, file[rule.target])
+                }
+            }
+        })
         if (!dryRun) file.process()
-        count++
     })
 }
 
