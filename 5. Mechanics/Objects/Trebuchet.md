@@ -18,7 +18,7 @@ A trebuchet typically hurls a heavy stone. However, it can launch other kinds of
 
 ```ad-statblock
 title: Trebuchet
-![[5. Mechanics/Bestiary/Null/token/trebuchet.md#token]]
+![[5. Mechanics/Bestiary/Null/token/trebuchet.png#token]]
 *Huge Siege weapon*
 
 - **Armor Class** 15 

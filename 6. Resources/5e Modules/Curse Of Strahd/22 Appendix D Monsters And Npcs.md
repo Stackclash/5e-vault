@@ -633,7 +633,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - Vladimir wields a greatsword, +2 with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals 20 (`dice: 4d6 + 6|avg` (`4d6 + 6`)) slashing damage on a hit. Against Strahd, Vladimir deals an extra 14 (`dice: 4d6|avg` (`4d6`)) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.png#center]]
 
 #### Vladimir Horngaard's Traits
 

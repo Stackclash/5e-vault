@@ -14,7 +14,7 @@ A ballista is a massive crossbow that fires heavy bolts. Before it can be fired,
 
 ```ad-statblock
 title: Ballista
-![[5. Mechanics/Bestiary/Null/token/ballista.md#token]]
+![[5. Mechanics/Bestiary/Null/token/ballista.png#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 

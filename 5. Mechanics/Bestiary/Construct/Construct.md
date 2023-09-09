@@ -1,46 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
 ---
-# Index of Construct
-
-- [[nullAmber Golem (COS).md|Amber Golem]]
-- [[nullAnimated Armor.md|Animated Armor]]
-- [[nullAnimated Halberd (COS).md|Animated Halberd]]
-- [[nullAnimated Object Huge.md|Animated Object (Huge)]]
-- [[nullAnimated Object Large.md|Animated Object (Large)]]
-- [[nullAnimated Object Medium.md|Animated Object (Medium)]]
-- [[nullAnimated Object Small.md|Animated Object (Small)]]
-- [[nullAnimated Object Tiny.md|Animated Object (Tiny)]]
-- [[nullBroom Of Animated Attack (COS).md|Broom of Animated Attack]]
-- [[nullCadaver Collector (MPMM).md|Cadaver Collector]]
-- [[nullCarrionette (VRGR).md|Carrionette]]
-- [[nullClay Golem.md|Clay Golem]]
-- [[nullClockwork Bronze Scout (MPMM).md|Clockwork Bronze Scout]]
-- [[nullClockwork Iron Cobra (MPMM).md|Clockwork Iron Cobra]]
-- [[nullClockwork Oaken Bolter (MPMM).md|Clockwork Oaken Bolter]]
-- [[nullClockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
-- [[nullDuergar Hammerer (MPMM).md|Duergar Hammerer]]
-- [[nullDuergar Screamer (MPMM).md|Duergar Screamer]]
-- [[nullDuodrone.md|Duodrone]]
-- [[nullFlesh Golem.md|Flesh Golem]]
-- [[nullFlying Sword.md|Flying Sword]]
-- [[nullGuardian Portrait (COS).md|Guardian Portrait]]
-- [[nullHellfire Engine (MPMM).md|Hellfire Engine]]
-- [[nullHelmed Horror.md|Helmed Horror]]
-- [[nullHomunculus.md|Homunculus]]
-- [[nullIron Golem.md|Iron Golem]]
-- [[nullMarut (MPMM).md|Marut]]
-- [[nullMonodrone.md|Monodrone]]
-- [[nullPentadrone.md|Pentadrone]]
-- [[nullQuadrone.md|Quadrone]]
-- [[nullRetriever (MPMM).md|Retriever]]
-- [[nullRug Of Smothering.md|Rug of Smothering]]
-- [[nullSacred Statue (MPMM).md|Sacred Statue]]
-- [[nullScarecrow.md|Scarecrow]]
-- [[nullShield Guardian.md|Shield Guardian]]
-- [[nullSteel Predator (MPMM).md|Steel Predator]]
-- [[nullStone Cursed (MPMM).md|Stone Cursed]]
-- [[nullStone Golem.md|Stone Golem]]
-- [[nullTiny Servant (XGE).md|Tiny Servant]]
-- [[nullTridrone.md|Tridrone]]
+```dataview
+LIST FROM "5. Mechanics/Bestiary/Construct" WHERE file.name != this.file.name
+```

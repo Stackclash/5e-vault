@@ -16,7 +16,7 @@ A cannon is usually supported in a wooden frame with wheels. Before it can be fi
 
 ```ad-statblock
 title: Cannon
-![[5. Mechanics/Bestiary/Null/token/cannon.md#token]]
+![[5. Mechanics/Bestiary/Null/token/cannon.png#token]]
 *Large Siege weapon*
 
 - **Armor Class** 19 

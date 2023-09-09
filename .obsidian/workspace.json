@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6cc07be3a2a7de",
+        "id": "fc03280a7f6777ec",
         "type": "tabs",
         "children": [
           {
-            "id": "10a301c197e90c44",
+            "id": "0919ffa577a822a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md"
+              }
             }
           },
           {
@@ -165,8 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10a301c197e90c44",
+  "active": "0919ffa577a822a8",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+    "6. Resources/5e Modules/Curse Of Strahd/02 Introduction.md",
+    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
+    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
     "5. Mechanics/Deities/Elven Melira Taralen.md",
     "5. Mechanics/Deities/Elven Labelas Enoreth.md",
     "5. Mechanics/Deities/Elven Kirith Sotheril.md",
@@ -187,12 +201,6 @@
     "5. Mechanics/Deities/Egyptian Sobek.md",
     "5. Mechanics/Deities/Egyptian Set.md",
     "5. Mechanics/Deities/Egyptian Re Horakhty.md",
-    "5. Mechanics/Deities/Egyptian Ptah.md",
-    "5. Mechanics/Deities/Egyptian Osiris.md",
-    "5. Mechanics/Deities/Egyptian Nephthys.md",
-    "5. Mechanics/Deities/Egyptian Isis.md",
-    "5. Mechanics/Deities/Egyptian Imhotep.md",
-    "5. Mechanics/Deities/Egyptian Hathor.md",
     "5. Mechanics/Deities",
     "5. Mechanics/Classes",
     "6. Resources/Books/Van Richtens Guide To Ravenloft/img/149-06-001.png",

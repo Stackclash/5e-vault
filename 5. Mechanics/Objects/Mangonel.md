@@ -16,7 +16,7 @@ A mangonel typically hurls a heavy stone, although it can hurl other kinds of pr
 
 ```ad-statblock
 title: Mangonel
-![[5. Mechanics/Bestiary/Null/token/mangonel.md#token]]
+![[5. Mechanics/Bestiary/Null/token/mangonel.png#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 

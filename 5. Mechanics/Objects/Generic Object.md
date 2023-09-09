@@ -46,7 +46,7 @@ Big objects such as castle walls often have extra resilience represented by a da
 
 ```ad-statblock
 title: Generic Object
-![[5. Mechanics/Bestiary/Null/token/generic-object.md#token]]
+![[5. Mechanics/Bestiary/Null/token/generic-object.png#token]]
 *Varies Generic*
 
 

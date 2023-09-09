@@ -8,7 +8,7 @@ aliases: ["Chapter 3: The Village of Barovia"]
 # Chapter 3: The Village of Barovia
 *Source: Curse of Strahd, p. 41* 
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/012-cos03-01.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/012-cos03-01.png#center]]
 
 The village of Barovia is the saddest place in the land, its residents so terrified of Strahd that they rarely venture from their homes. The village lies in the shadow of Castle Ravenloft, buried under fog but still unable to hide from the vampire's sight.
 
@@ -62,8 +62,8 @@ When the characters open a door or a shuttered window of a house infested with S
 The following areas correspond to labels on the map of the village of Barovia below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/013-003.md#gallery|Map 3.1: Village of Barovia]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/014-cos301.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/013-003.jpg#gallery|Map 3.1: Village of Barovia]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/014-cos301.jpg#gallery|Player Version]]
 
 ### E1. Bildrath's Mercantile
 
@@ -89,7 +89,7 @@ The tavern building is about 60 feet square. Close inspection of the sign reveal
 
 #### Roleplaying Ismark
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/015-cos03-03.md#center|Ismark the Lesser]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/015-cos03-03.png#center|Ismark the Lesser]]
 
 Ismark (LG male human [[5. Mechanics/Bestiary/Humanoid/Veteran.md|")"]] is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father for most of his life.
 
@@ -179,8 +179,8 @@ The village priest, [[5. Mechanics/Bestiary/Npc/Donavich (COS).md|Donavich]], li
 The following areas correspond to labels on the map of the church below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/018-004.md#gallery|Map 3.2: Church]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/019-cos302.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/018-004.jpg#gallery|Map 3.2: Church]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/019-cos302.jpg#gallery|Player Version]]
 
 #### E5a. Hall
 
@@ -327,4 +327,4 @@ This event occurs as the characters make their way through the village.
 - Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants can be found in a ruined mansion west of Vallaki (see chapter 7, "Argynvostholt").  
 - Strahd's most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).  
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/022-cos03-09.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/022-cos03-09.png#center]]

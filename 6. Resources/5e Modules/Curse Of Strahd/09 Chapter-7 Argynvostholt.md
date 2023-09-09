@@ -12,7 +12,7 @@ When Strahd drove his enemies into the valley long ago, determined to annihilate
 
 The dragon, who called himself Argynvost, had come to the valley years earlier in the guise of a nobleman named Lord Argynvost. The dragon didn't lair in the valley solely because of its idyllic beauty. He knew of a place called the Amber Temple—a repository of evil power guarded by the forces of good. Argynvost wanted to make sure that whatever was trapped inside the Amber Temple wouldn't be allowed to escape, so he built his fortified mansion, Argynvostholt, close by.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/075-cos07-01.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/075-cos07-01.png#center]]
 
 Like many silver dragons, Argynvost was extraordinarily wealthy, and he was comfortable living among humans while disguised as one of them. He used his resources to attract other champions of good, and valorous knights flocked to the valley to join Lord Argynvost's prestigious Order of the Silver Dragon. Only those who were initiated into the order were told of Lord Argynvost's true nature.
 
@@ -35,7 +35,7 @@ The vengeful revenants killed many of Strahd's soldiers, and whenever the undead
 
 When Strahd died and became a vampire, Vladimir's knights should have gone to their everlasting rest, but their spirits couldn't leave Strahd's domain. They marched to Castle Ravenloft and were confronted by the Vistani seer [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]], who told them Strahd had died, only to become a prisoner in his own land, tormented by the death of his beloved Tatyana and the murder of his brother Sergei.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/076-cos07-02.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/076-cos07-02.png#center]]
 
 After receiving that news, Vladimir ceased his advance and led his knights back to Argynvostholt. He realized that Strahd had already died and been damned to a hell of his own creation. With nowhere else to go and nothing else to do, Vladimir set his knights to killing Strahd's agents and anyone else who might help to ease Strahd's torment. Consumed by hatred, the knights have lost their honor and nobility. Their redemption hinges on whether Vladimir can set aside that hatred. The undead knight can be found brooding in the ruins of Argynvostholt.
 
@@ -77,8 +77,8 @@ When the characters first come within sight of Argynvostholt, read:
 The following areas correspond to labels on the maps of Argynvostholt below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/077-020.md#gallery|Map 7.1: Argynvostholt (Area Q)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/078-cos701.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/077-020.jpg#gallery|Map 7.1: Argynvostholt (Area Q)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/078-cos701.jpg#gallery|Player Version]]
 
 ### Q1. Dragon Statue
 
@@ -437,8 +437,8 @@ When one or more characters approach within 10 feet of the fireplace, add:
 The smoky dragonet has the statistics of a [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|") but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase (area Q17"]], through the curtain at area Q30, over the rubble in area Q33, and into area Q36. Once there, it lands on the back of Vladimir's throne and disappears.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/079-021.md#gallery|"Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon"]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/080-cos702.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/079-021.jpg#gallery|"Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon"]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/080-cos702.jpg#gallery|Player Version]]
 
 ### Q27. Knights' Quarters
 

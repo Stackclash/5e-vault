@@ -14,7 +14,7 @@ The werewolves call themselves the Children of Mother Night, because they all wo
 
 Kiril would arm the children with weapons and force them to fight each other to the death until only one child was left standing. The winner would then be turned into a werewolf, ensuring what Kiril called "the strength and purity of the pack." Emil advocated keeping all the children alive and turning them into werewolves, thus increasing the pack's size. Emil believed that a larger pack would ensure the werewolves' survival, whereas Kiril saw a larger pack as too difficult to control and feed.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/126-cos15-01.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/126-cos15-01.png#center]]
 
 This ideological divide couldn't be reconciled and led to many disagreements. The other werewolves were split between the two camps, and it seemed likely that either Kiril or Emil would die before the conflict could be resolved.
 
@@ -47,8 +47,8 @@ One hundred feet above the cave mouth (area Z1), farther up the sloping mountain
 The following areas correspond to labels on the map of the werewolf den below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/127-032.md#gallery|Map 15.1: Werewolf Den (Area Z)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/128-cos1501.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/127-032.jpg#gallery|Map 15.1: Werewolf Den (Area Z)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/128-cos1501.jpg#gallery|Player Version]]
 
 Mounted to the walls throughout the den are iron brackets containing lit torches. All areas are brightly lit, though shadows abound.
 

@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
 ---
-# Index of Vehicles
-
-- [[nullApparatus Of Kwalish.md|Apparatus of Kwalish]]
+```dataview
+LIST FROM "5. Mechanics/Vehicles" WHERE file.name != this.file.name
+```

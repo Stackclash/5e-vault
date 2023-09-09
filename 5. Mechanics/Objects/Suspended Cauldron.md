@@ -16,7 +16,7 @@ Cauldrons can be filled with other liquids, such as acid or [[5. Mechanics/Traps
 
 ```ad-statblock
 title: Suspended Cauldron
-![[5. Mechanics/Bestiary/Null/token/suspended-cauldron.md#token]]
+![[5. Mechanics/Bestiary/Null/token/suspended-cauldron.png#token]]
 *Large Siege weapon*
 
 - **Armor Class** 19 

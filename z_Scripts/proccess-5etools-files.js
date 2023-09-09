@@ -1,7 +1,6 @@
 const fs = require('fs')
 const path = require('path')
 
-// Come up with a way to ignore files in rules
 // Create reliable logging
 
 const config = {
@@ -62,7 +61,7 @@ const config = {
                 filePath = filePathRule.process({relativePath: filePath})
                 fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName})
 
-                linkPath = `${filePath}${separator}${fileName}${file.fileExtension}`
+                linkPath = `${filePath}${separator}${fileName}${path.parse(linkPath).ext}`
 
                 if(!displayText && !title) {
                     newLink = `[[${linkPath}${section}]]`
@@ -76,13 +75,21 @@ const config = {
             }
         },
         {
-            enabled: false,
+            enabled: true,
+            name: 'Create Folder Index Page',
+            ignore: function(file) {
+                return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+            },
+            target: 'content',
             process: function(file) {
-                if (new RegExp(/(\w+)[\/\\]\1/).test(filePath)) {
-                    file.content = `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${newFolderPath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``
+                let fileContent = file.content
+                let separator = file.path.match(/[\/\\]/)
+
+                if (new RegExp(/([\w\s]+)[\/\\]\1/).test(`${file.relativePath}${separator}${file.fileName}`)) {
+                    fileContent = `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${file.relativePath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``
                 }
 
-                return file
+                return fileContent
             }
         }
     ]

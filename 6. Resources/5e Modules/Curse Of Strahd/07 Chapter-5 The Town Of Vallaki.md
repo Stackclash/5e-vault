@@ -10,7 +10,7 @@ aliases: ["Chapter 5: The Town of Vallaki"]
 
 Located close to the shores of Lake Zarovich, the town of Vallaki (pronounced vah-*lah*-key) seems like a safe haven against the evils of the Svalich Woods, if not Strahd himself. The town lies beyond the sight of Castle Ravenloft and doesn't, at first blush, seem as depressed (or oppressed) as the village of Barovia farther east. Characters who spend time in Vallaki, however, quickly realize that there is no happiness here, only false hope—which Strahd himself cultivates.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/046-cos05-01.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/046-cos05-01.png#center]]
 
 Vallaki was founded not long after Strahd's armies conquered the valley by an ancestor of the town's current burgomaster, [[5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]. The Vallakoviches have royal blood in their veins and have long believed themselves superior to the Zarovich line. Baron Vallakovich has deluded himself into believing that hope and happiness are the keys to Vallaki's salvation. If he can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.
 
@@ -34,8 +34,8 @@ When the characters first approach Vallaki, read:
 A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/047-013.md#gallery|Map 5.1: Vallaki (Area N)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/047-013.jpg#gallery|Map 5.1: Vallaki (Area N)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg#gallery|Player Version]]
 
 ### Town Gates
 
@@ -147,8 +147,8 @@ The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the 
 The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/050-014.md#gallery|Map 5.2: Blue Water Inn (Area N2)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/051-cos501.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/050-014.jpg#gallery|Map 5.2: Blue Water Inn (Area N2)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/051-cos501.jpg#gallery|Player Version]]
 
 #### Keepers of the Feather
 
@@ -369,7 +369,7 @@ Brom and Bray Martikova don't spend much time in this room. The toy box contains
 
 A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/054-cos05-07.md#center|The Martikov Family]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/054-cos05-07.png#center|The Martikov Family]]
 
 #### N2p. Master Bedroom
 
@@ -417,8 +417,8 @@ People come and go from the mansion at all hours during the day. Guards bring cr
 If the characters knock on the front doors, a maid (LG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")) lets them in, escorts them to the den (area N3e"]], and leaves to fetch the baron.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/055-015.md#gallery|Map 5.3: Burgomaster's Mansion (Area N3)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/056-cos502.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/055-015.jpg#gallery|Map 5.3: Burgomaster's Mansion (Area N3)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/056-cos502.jpg#gallery|Player Version]]
 
 #### Roleplaying the Vallakovich Family
 
@@ -434,7 +434,7 @@ If the characters get on his bad side, the baron accuses them of being "spies of
 
 If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/057-cos05-09.md#center|The Baroness and Baron]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/057-cos05-09.png#center|The Baroness and Baron]]
 
 Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn't Izek's forte. Searches have been organized, to no avail.
 
@@ -773,8 +773,8 @@ Victor's spellbook contains all the spells Victor has prepared (see the [[5. Mec
 The Wachter family, once an influential noble line in Barovia, owns and occupies a mansion in Vallaki. The house's reigning governess, Fiona Wachter, is a loyal servant of Strahd. She seeks to supplant Baron Vallakovich as the town burgomaster.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/058-016.md#gallery|Map 5.4: Wachterhaus (Area N4)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/059-cos503.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/058-016.jpg#gallery|Map 5.4: Wachterhaus (Area N4)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/059-cos503.jpg#gallery|Player Version]]
 
 #### Roleplaying
 
@@ -1073,7 +1073,7 @@ The wagon also contains the torn-up remains of a doll. A character who makes a s
 
 If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|") (area N2"]] or [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md|") (area N7"]]. The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/061-cos05-12.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/061-cos05-12.png#center]]
 
 #### Treasure
 
@@ -1112,8 +1112,8 @@ If the characters break into the store, Henrik offers no resistance. He tells th
 If the characters report the theft of the bones to the burgomaster, Baron Vallakovich dispatches four [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]] to arrest Henrik and retrieve the bones. If the guards show up during daylight hours, Henrik surrenders himself and the bones without a fight, claiming that vampires forced him to steal the bones. If the guards come at night, Henrik surrenders himself and tells the guards where the bones are hidden, but he won't retrieve the bones himself for fear of being killed by the vampires.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/063-cos05-13.md#gallery|Map 5.5: Coffin Maker's Shop (Area N6)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/064-cos504.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/063-cos05-13.png#gallery|Map 5.5: Coffin Maker's Shop (Area N6)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/064-cos504.jpg#gallery|Player Version]]
 
 #### N6a. Coffin Storage
 
@@ -1280,8 +1280,8 @@ Several footpaths and horse trails lead to this location in the woods southwest 
 This natural clearing serves as a permanent campsite for the Vistani and their dusk elf allies.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/066-018.md#gallery|Map 5.6: Vistani Camp (Area N9)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/067-cos505.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/066-018.jpg#gallery|Map 5.6: Vistani Camp (Area N9)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/067-cos505.jpg#gallery|Player Version]]
 
 #### Roleplaying the Vistani and the Elves
 

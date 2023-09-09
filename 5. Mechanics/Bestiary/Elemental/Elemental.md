@@ -1,42 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
 ---
-# Index of Elemental
-
-- [[nullAir Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
-- [[nullAir Elemental.md|Air Elemental]]
-- [[nullAzer.md|Azer]]
-- [[nullDao.md|Dao]]
-- [[nullDjinni.md|Djinni]]
-- [[nullDust Mephit.md|Dust Mephit]]
-- [[nullEarth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
-- [[nullEarth Elemental.md|Earth Elemental]]
-- [[nullEfreeti.md|Efreeti]]
-- [[nullElder Tempest (MPMM).md|Elder Tempest]]
-- [[nullFire Elemental Myrmidon (MPMM).md|Fire Elemental Myrmidon]]
-- [[nullFire Elemental.md|Fire Elemental]]
-- [[nullFire Snake.md|Fire Snake]]
-- [[nullFirenewt Warlock Of Imix (MPMM).md|Firenewt Warlock of Imix]]
-- [[nullFirenewt Warrior (MPMM).md|Firenewt Warrior]]
-- [[nullFlail Snail (MPMM).md|Flail Snail]]
-- [[nullFrost Salamander (MPMM).md|Frost Salamander]]
-- [[nullGaleb Duhr.md|Galeb Duhr]]
-- [[nullGargoyle.md|Gargoyle]]
-- [[nullGiant Strider (MPMM).md|Giant Strider]]
-- [[nullIce Mephit.md|Ice Mephit]]
-- [[nullInvisible Stalker.md|Invisible Stalker]]
-- [[nullLeviathan (MPMM).md|Leviathan]]
-- [[nullMagma Mephit.md|Magma Mephit]]
-- [[nullMagmin.md|Magmin]]
-- [[nullMarid.md|Marid]]
-- [[nullMud Mephit.md|Mud Mephit]]
-- [[nullPhoenix (MPMM).md|Phoenix]]
-- [[nullSalamander.md|Salamander]]
-- [[nullSmoke Mephit.md|Smoke Mephit]]
-- [[nullSteam Mephit.md|Steam Mephit]]
-- [[nullWater Elemental Myrmidon (MPMM).md|Water Elemental Myrmidon]]
-- [[nullWater Elemental.md|Water Elemental]]
-- [[nullWater Weird.md|Water Weird]]
-- [[nullXorn.md|Xorn]]
-- [[nullZaratan (MPMM).md|Zaratan]]
+```dataview
+LIST FROM "5. Mechanics/Bestiary/Elemental" WHERE file.name != this.file.name
+```

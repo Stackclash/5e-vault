@@ -10,7 +10,7 @@ aliases: ["Chapter 8: The Village of Krezk"]
 
 The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines (chapter 12), to keep the locals' bellies warm and their spirits up.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/082-cos08-01.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/082-cos08-01.png#center]]
 
 Looming high above Krezk is the Abbey of Saint Markovia, once a convent and hospital, now a madhouse overrun with wickedness. After Saint Markovia and her followers failed to overthrow Strahd, the abbey became a fortress closed off from the rest of the world. Strahd ruthlessly preyed on the fears of the clerics and nuns holed up inside, but ultimately it was their isolation and greed that doomed them. The clergy began fighting over food and wine. By the time their supplies ran out, they had either been killed by each other's hands or driven hopelessly insane by Strahd's acts of terror against them. For years afterward, the villagers of Krezk avoided the place, fearing that the abbey was cursed, haunted, or both.
 
@@ -25,8 +25,8 @@ Then, over a century ago, a pilgrim from a distant land came to Krezk and insist
 The following areas correspond to labels on the map of Krezk below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/083-022.md#gallery|Map 8.1: The Village of Krezk (Area S)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/084-cos801.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/083-022.jpg#gallery|Map 8.1: The Village of Krezk (Area S)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/084-cos801.jpg#gallery|Player Version]]
 
 ### S1. Road Junction
 
@@ -93,7 +93,7 @@ A typical cottage is only 200 square feet yet contains `dice: 1d4|avg` (`1d4`) a
 
 Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|")'s sneaky mongrelfolk gravediggers (see area S6"]].
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/085-cos08-03.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/085-cos08-03.png#center]]
 
 #### Krezk Lore
 
@@ -137,8 +137,8 @@ The following areas correspond to labels on the maps of the Abbey of Saint Marko
 The mongrelfolk that infest the abbey are all descendants of one family—the Belviews—and all suffer from some form of madness. Whenever the characters interact with a mongrelfolk who isn't detailed here, roll on the Indefinite Madness table (see ""Madness Effects"" in chapter 8 of the "Dungeon Master's Guide") or choose from the available options on the table to determine how that particular mongrelfolk's madness is expressed.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/086-023.md#gallery|Map 8.2: Abbey of Saint Markovia - Ground Floor]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/087-cos802.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/086-023.jpg#gallery|Map 8.2: Abbey of Saint Markovia - Ground Floor]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/087-cos802.jpg#gallery|Player Version]]
 
 Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]]'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
 
@@ -248,8 +248,8 @@ The "guards" on the wall are propped-up scarecrows that wear corroded chain shir
 The double doors are heavy but unlocked. They can be pushed open to reveal a foggy courtyard (area S12"]].
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/090-024.md#gallery|"Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar"]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/091-cos803.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/090-024.jpg#gallery|"Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar"]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/091-cos803.jpg#gallery|Player Version]]
 
 ### S11. Inner Gatehouses
 
@@ -663,7 +663,7 @@ Kretyana was raised to believe that newborns are soulless if they don't cry, and
 
 No one in Krezk can fashion such a gown, leaving the burgomaster with no choice but to look elsewhere. His wife, Anna, says she should personally lead a well-armed group of Krezkites to the east to Vallaki.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/093-cos08-08.md#center|Baron Krezkov]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/093-cos08-08.png#center|Baron Krezkov]]
 
 Anna Krezkova (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md|")"]] bids her husband farewell and leaves with two [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]], four [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]], and a [[5. Mechanics/Bestiary/Beast/Mule.md|") laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p"]]. The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
 

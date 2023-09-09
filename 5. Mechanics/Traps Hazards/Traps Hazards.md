@@ -1,44 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
 ---
-# Index of Traps-hazards
-
-- [[nullBear Trap (XGE).md|Bear Trap]]
-- [[nullBrown Mold.md|Brown Mold]]
-- [[nullCollapsing Roof.md|Collapsing Roof]]
-- [[nullCrossbow Trap (XGE).md|Crossbow Trap]]
-- [[nullDesecrated Ground.md|Desecrated Ground]]
-- [[nullExtreme Cold.md|Extreme Cold]]
-- [[nullExtreme Heat.md|Extreme Heat]]
-- [[nullFalling Net.md|Falling Net]]
-- [[nullFalling Portcullis (XGE).md|Falling Portcullis]]
-- [[nullFiery Blast Trap (XGE).md|Fiery Blast Trap]]
-- [[nullFire Breathing Statue.md|Fire-Breathing Statue]]
-- [[nullFrigid Water.md|Frigid Water]]
-- [[nullGreen Slime.md|Green Slime]]
-- [[nullHeavy Precipitation.md|Heavy Precipitation]]
-- [[nullHigh Altitude.md|High Altitude]]
-- [[nullImprovised Damage.md|Improvised Damage]]
-- [[nullNet Trap (XGE).md|Net Trap]]
-- [[nullPath Of Blades (XGE).md|Path of Blades]]
-- [[nullPit Trap (XGE).md|Pit Trap]]
-- [[nullPits.md|Pits]]
-- [[nullPoison Darts.md|Poison Darts]]
-- [[nullPoison Needle Trap (XGE).md|Poison Needle Trap]]
-- [[nullPoison Needle.md|Poison Needle]]
-- [[nullPoisoned Tempest (XGE).md|Poisoned Tempest]]
-- [[nullQuicksand.md|Quicksand]]
-- [[nullRazorvine.md|Razorvine]]
-- [[nullRolling Sphere.md|Rolling Sphere]]
-- [[nullRot Grub (VGM).md|Rot Grub]]
-- [[nullRusset Mold (VGM).md|Russet Mold]]
-- [[nullScything Blade Trap (XGE).md|Scything Blade Trap]]
-- [[nullSleep Of Ages Trap (XGE).md|Sleep of Ages Trap]]
-- [[nullSlippery Ice.md|Slippery Ice]]
-- [[nullSphere Of Annihilation.md|Sphere of Annihilation]]
-- [[nullSphere Of Crushing Doom (XGE).md|Sphere of Crushing Doom]]
-- [[nullStrong Wind.md|Strong Wind]]
-- [[nullThin Ice.md|Thin Ice]]
-- [[nullWebs.md|Webs]]
-- [[nullYellow Mold.md|Yellow Mold]]
+```dataview
+LIST FROM "5. Mechanics/Traps Hazards" WHERE file.name != this.file.name
+```

@@ -8,7 +8,7 @@ aliases: ["Chapter 4: Castle Ravenloft"]
 # Chapter 4: Castle Ravenloft
 *Source: Curse of Strahd, p. 49* 
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/023-cos04-01.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/023-cos04-01.png#center]]
 
 Castle Ravenloft was built atop the ruin of an older fortress by artisans, wizards, and workers loyal to Strahd's family. Strahd rewarded the castle's genius architect, Artimus, with a crypt in the castle's catacombs. The castle was named after Strahd's mother, Ravenovia, who also lies entombed below.
 
@@ -309,8 +309,8 @@ The wights carry longswords that have the crest of Barovia worked into their cro
 Refer to map 2 of the castle for areas K1 through K6.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/024-005.md#gallery|Map 2: Walls of Ravenloft]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/024-005-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/024-005.jpg#gallery|Map 2: Walls of Ravenloft]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/024-005-player.jpg#gallery|Player Version]]
 
 ### K1. Front Courtyard
 
@@ -403,8 +403,8 @@ If your card reading indicates an encounter with [[5. Mechanics/Bestiary/Npc/Str
 Refer to map 3 of the castle for areas K7 through K24.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/025-006.md#gallery|Map 3: Main Floor]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/025-006-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/025-006.jpg#gallery|Map 3: Main Floor]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/025-006-player.jpg#gallery|Player Version]]
 
 ### K7. Entry
 
@@ -490,7 +490,7 @@ The organ appears locked in place and immovable, but a character who makes a suc
 
 The food on the table is tasty, the wine delicious.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/026-cos04-04.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/026-cos04-04.png#center]]
 
 ### K11. South Archers' Post
 
@@ -635,7 +635,7 @@ The tower, including the spiral staircase, is alive. When the characters set foo
 > As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.
 ^1d5
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/027-cos04-05.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/027-cos04-05.jpg#center]]
 
 Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
@@ -704,8 +704,8 @@ The stairs lead to area K34.
 Refer to map 4 of the castle for areas K25 through K34.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/028-007.md#gallery|Map 4: Court of the Count]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/028-007-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/028-007.jpg#gallery|Map 4: Court of the Count]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/028-007-player.jpg#gallery|Player Version]]
 
 ### K25. Audience Hall
 
@@ -920,8 +920,8 @@ The staircase leads down to area K24.
 Refer to map 5 of the castle for areas K35 through K46.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/030-008.md#gallery|Map 5: Rooms of Weeping]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/030-008-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/030-008.jpg#gallery|Map 5: Rooms of Weeping]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/030-008-player.png#gallery|Player Version]]
 
 ### K35. Guardian Vermin
 
@@ -988,7 +988,7 @@ The real treasure here is Strahd's collection of books—over one thousand uniqu
 
 Roll a `dice: d12|avg` (`d12`) and consult the following table to determine the subject matter of a randomly chosen book.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/031-cos04-09.md#center|Tatyana]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/031-cos04-09.png#center|Tatyana]]
 
 | dice: d12 | Book |
 |-----------|------|
@@ -1177,8 +1177,8 @@ The armor can't be salvaged if it is reduced to 0 hit points.
 Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009.md#gallery|Map 6: Spires of Ravenloft]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009.jpg#gallery|Map 6: Spires of Ravenloft]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/033-009-player.png#gallery|Player Version]]
 
 ### K47. Portrait of Strahd
 
@@ -1189,7 +1189,7 @@ Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 > An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.
 ^226
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/034-cos04-11.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/034-cos04-11.png#center]]
 
 The ornate rug is actually a [[5. Mechanics/Bestiary/Construct/Rug Of Smothering.md|"). It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
 
@@ -1301,8 +1301,8 @@ There is a secret trapdoor in the northeast corner of the floor. Because of the 
 ### K56. Cauldron
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/036-010.md#gallery|Maps 7-10: Spires and Tower of Ravenloft]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/036-010-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/036-010.jpg#gallery|Maps 7-10: Spires and Tower of Ravenloft]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/036-010-player.jpg#gallery|Player Version]]
 
 Characters who stand outside the door to this room can smell a pungent odor coming from within.
 
@@ -1405,7 +1405,7 @@ If the characters climb the stairs to this area, read:
 
 The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop (area K60a).
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/037-cos19-10.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/037-cos19-10.png#center]]
 
 #### Treasure
 
@@ -1439,8 +1439,8 @@ The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
 Refer to map 11 of the castle for areas K61 through K72.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/038-011.md#gallery|"Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs"]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/038-011-player.md#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/038-011.jpg#gallery|"Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs"]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/038-011-player.jpg#gallery|Player Version]]
 
 ### K61. Elevator Trap
 
@@ -1452,8 +1452,8 @@ See area K31 and the accompanying Elevator Trap diagram before running this enco
 ^250
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/039-012.md#gallery|Map: Elevator Trap]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/040-cos401.md#gallery|")
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/039-012.jpg#gallery|Map: Elevator Trap]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/040-cos401.jpg#gallery|")
 
 This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot-square section of floor in the center of the hall (marked T on the map"]], or when the lever in area K31 is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
 
@@ -1655,7 +1655,7 @@ The following boxed text assumes that the characters arrive by way of the stairc
 > The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door.
 ^271
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/042-cos04-17.md#center|")
+![[6. Resources/5e Modules/Curse Of Strahd/img/042-cos04-17.png#center|")
 
 The water is 3 feet deep in the hallway and opaque. The steps on both sides of the hallway descend another 2 feet before ending at the iron doors to the north and south.
 
@@ -1839,7 +1839,7 @@ If the characters approach the "dark, low shapes" in the water, read:
 
 As soon as one or more characters move more than 10 feet into the room, six [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/044-cos04-19.md#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/044-cos04-19.jpg#center]]
 
 ### K77. Observation Balcony
 
@@ -2699,7 +2699,7 @@ A creature of lawful good alignment that moves west to east through the curtain 
 > This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
 ^323
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/045-cos04-21.md#center|")
+![[6. Resources/5e Modules/Curse Of Strahd/img/045-cos04-21.png#center|")
 
 The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
 
