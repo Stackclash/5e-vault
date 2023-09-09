@@ -3,7 +3,7 @@ const path = require('path')
 
 const config = {
     dryRun: false,
-    limit: 1000,
+    limit: 1500,
     rootVaultPath: path.resolve(__dirname, '../'),
     compendiumPath: 'compendium',
     rules: [
@@ -34,7 +34,7 @@ const config = {
         {
             enabled: true,
             target: 'relativePath',
-            regex: /([\/\\\-])([a-z])(?!mg)/,
+            regex: /([\/\\\-])([a-z])(?!mg|oken)/,
             process: function(file, oldText, separator, letter) {
                 return separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase()
             }
@@ -42,7 +42,7 @@ const config = {
         {
             enabled: true,
             target: 'fileName',
-            regex: /([\/\\\-])([a-z])(?!mg)/,
+            regex: /([\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/,
             process: function(file, oldText, separator, letter) {
                 let text = oldText
                 if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
@@ -54,7 +54,19 @@ const config = {
         {
             enabled: true,
             target: 'fileName',
-            regex: /(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/,
+            regex: /^([a-z])/,
+            process: function(file, oldText, letter) {
+                let text = oldText
+                if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
+                    text = letter.toUpperCase()
+                }
+                return text
+            }
+        },
+        {
+            enabled: true,
+            target: 'fileName',
+            regex: /(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)$/,
             process: function(file, oldText, source) {
                 if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
                     source = '(' + source.toUpperCase() + ')'
@@ -159,9 +171,11 @@ function goThroughFilesAndFolders(folderPath, filesList=[]) {
 }
 
 function processAllRules(files) {
+    let updateText = ''
     files = files.slice(0, config.limit)
     files.forEach((file, index) => {
-        console.log(`${index+1} Processing: ${file.fileName}`)
+        updateText += `${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}\n`
+        console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
             if (rule.enabled) {
                 if (rule.regex) {
@@ -171,9 +185,11 @@ function processAllRules(files) {
                 }
             }
         })
-        console.log(`\tMoved To: ${file.path}`)
+        updateText = `\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}\n`
+        console.log(`\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         if (!config.dryRun) file.execute()
     })
+    fs.writeFileSync('log.txt', updateText)
 }
 
 processAllRules(goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath)))
