@@ -1,0 +1,31 @@
+---
+obsidianUIMode: preview
+cssclass: json5e-item
+tags:
+- compendium/src/5e/cos
+- item/attunement/required
+- item/property/versatile
+- item/rarity/very-rare
+- item/tier/major
+- item/wondrous/staff
+aliases: ["Jakarion's Staff of Frost"]
+---
+# Jakarion's Staff of Frost
+*Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+
+- **Damage**:
+  - One-handed: 1d6 B
+  - Two-handed: 1d8 B
+- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Cost**: ⏤
+- **Weight**: 4.0 lbs.
+
+You have resistance to cold damage while you hold this staff.
+
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Cone Of Cold.md|") (5 charges"]], [[5. Mechanics/Spells/Fog Cloud.md|") (1 charge"]], [[5. Mechanics/Spells/Ice Storm.md|") (4 charges"]], or [[5. Mechanics/Spells/Wall Of Ice.md|") (4 charges"]].
+
+The staff regains `dice: 1d6 + 4|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg` (`d20`). On a 1. the staff turns to water and is destroyed.
+
+Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
+
+*Source: Curse of Strahd p. 187, Derived from Staff of Frost (DMG)*

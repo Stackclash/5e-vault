@@ -6,7 +6,7 @@ const path = require('path')
 
 const config = {
     dryRun: false,
-    limit: 2000,
+    limit: 3000,
     rootVaultPath: path.resolve(__dirname, '../'),
     compendiumPath: 'compendium',
     rules: [
@@ -89,7 +89,7 @@ const config = {
                         .replaceAll(/compendium\/books/g, () => '6. Resources/Books')
                         .replaceAll(/compendium/g, () => '5. Mechanics')
                         .replace(/^(\w)/, (all, letter) => letter.toUpperCase())
-                    if (!['.jpg', '.jpeg', '.png'].includes(path.parse(linkPath).ext) {
+                    if (!['.jpg', '.jpeg', '.png'].includes(path.parse(linkPath).ext)) {
                         linkPath = linkPath.replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
                             .replace(/(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => '(' + source.toUpperCase() + ')')
                     }
