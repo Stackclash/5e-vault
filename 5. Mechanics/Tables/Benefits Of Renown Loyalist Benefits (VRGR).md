@@ -8,7 +8,7 @@ aliases: ["Benefits of Renown; Loyalist Benefits"]
 # Benefits of Renown; Loyalist Benefits
 *Source: Van Richten's Guide to Ravenloft p. 131* 
 
-`dice: [[Benefits Of Renown Loyalist Benefits (VRGR).md#^loyalist-benefits]]`
+`dice: [[nullBenefits Of Renown Loyalist Benefits (VRGR).md#^loyalist-benefits]]`
 
 **Loyalist Benefits**
 

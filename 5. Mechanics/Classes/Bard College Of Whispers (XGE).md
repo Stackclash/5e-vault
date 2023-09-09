@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Whispers"]
 ---
 # College of Whispers
-*[[Bard.md|Bard]]: Bard College*  
+*[[nullBard.md|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
 

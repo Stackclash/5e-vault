@@ -8,7 +8,7 @@ aliases: ["Poisons"]
 # Poisons
 *Source: Dungeon Master's Guide p. 257. Available in the SRD.* 
 
-`dice: [[Poisons.md#^poisons]]`
+`dice: [[nullPoisons.md#^poisons]]`
 
 **Poisons**
 

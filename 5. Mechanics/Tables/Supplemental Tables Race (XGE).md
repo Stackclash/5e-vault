@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Race"]
 # Supplemental Tables; Race
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[Supplemental Tables Race (XGE).md#^race]]`
+`dice: [[nullSupplemental Tables Race (XGE).md#^race]]`
 
 **Race**
 

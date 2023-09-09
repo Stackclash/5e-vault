@@ -8,7 +8,7 @@ tags:
 aliases: ["Male Steeder"]
 ---
 # Male Steeder
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 231*  
 
 ## Steeders
 

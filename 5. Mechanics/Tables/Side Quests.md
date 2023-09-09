@@ -8,7 +8,7 @@ aliases: ["Side Quests"]
 # Side Quests
 *Source: Dungeon Master's Guide p. 81* 
 
-`dice: [[Side Quests.md#^side-quests]]`
+`dice: [[nullSide Quests.md#^side-quests]]`
 
 **Side Quests**
 

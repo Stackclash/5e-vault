@@ -8,7 +8,7 @@ aliases: ["Coastal Encounters (Levels 1—4)"]
 # Coastal Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 93* 
 
-`dice: [[Coastal Encounters Levels-14 (XGE).md#^coastal-encounters-levels-14]]`
+`dice: [[nullCoastal Encounters Levels-14 (XGE).md#^coastal-encounters-levels-14]]`
 
 **Coastal Encounters (Levels 1—4)**
 
@@ -16,7 +16,7 @@ aliases: ["Coastal Encounters (Levels 1—4)"]
 |-------------|--------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|pseudodragon]] |
 | 02-05 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Beast/Crab.md|crabs]] |
-| 06-10 | `dice: 2d6\|avg` (`2d6`) fishers ([[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] |
+| 06-10 | `dice: 2d6\|avg` (`2d6`) fishers ([[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] |
 | 11 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|poisonous snakes]] |
 | 12-13 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]] protecting a standard [[5. Mechanics/Bestiary/Humanoid/Noble.md|noble]] |
 | 14-15 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Scout.md|scouts]] |

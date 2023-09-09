@@ -8,7 +8,7 @@ aliases: ["Gothic Horror Villains"]
 # Gothic Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 56* 
 
-`dice: [[Gothic Horror Villains (VRGR).md#^gothic-horror-villains]]`
+`dice: [[nullGothic Horror Villains (VRGR).md#^gothic-horror-villains]]`
 
 **Gothic Horror Villains**
 

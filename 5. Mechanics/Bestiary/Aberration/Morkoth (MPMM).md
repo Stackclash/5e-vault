@@ -9,7 +9,7 @@ tags:
 aliases: ["Morkoth"]
 ---
 # Morkoth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 186*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 

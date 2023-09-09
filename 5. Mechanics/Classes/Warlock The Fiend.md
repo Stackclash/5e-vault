@@ -7,7 +7,7 @@ tags:
 aliases: ["The Fiend"]
 ---
 # The Fiend
-*[[Warlock.md|Warlock]]: Otherworldly Patron*  
+*[[nullWarlock.md|Warlock]]: Otherworldly Patron*  
 *Source: Player's Handbook p. 109. Available in the SRD.*  
 
 
@@ -25,7 +25,7 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Co(MM)and.md|command]] |
+| 1st | [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Command.md|command]] |
 | 2nd | [blindness/deafness](compendium/spells/blindness-deafness.md), [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]] |
 | 3rd | [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] |
 | 4th | [[5. Mechanics/Spells/Fire Shield.md|fire shield]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]] |

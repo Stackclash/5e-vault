@@ -8,7 +8,7 @@ aliases: ["Welcome to Viktal; Sights in Viktal"]
 # Welcome to Viktal; Sights in Viktal
 *Source: Van Richten's Guide to Ravenloft p. 160* 
 
-`dice: [[Welcome To Viktal Sights In Viktal (VRGR).md#^sights-in-viktal]]`
+`dice: [[nullWelcome To Viktal Sights In Viktal (VRGR).md#^sights-in-viktal]]`
 
 **Sights in Viktal**
 

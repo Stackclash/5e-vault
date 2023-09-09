@@ -12,7 +12,6 @@ tags:
 aliases: ["Color Spray"]
 ---
 # Color Spray
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Illusion*  
 
 - **Casting time:** 1 action

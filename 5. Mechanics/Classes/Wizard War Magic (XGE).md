@@ -7,7 +7,7 @@ tags:
 aliases: ["War Magic"]
 ---
 # War Magic
-*[[Wizard.md|Wizard]]: Arcane Tradition*  
+*[[nullWizard.md|Wizard]]: Arcane Tradition*  
 *Source: Xanathar's Guide to Everything p. 59*  
 
 

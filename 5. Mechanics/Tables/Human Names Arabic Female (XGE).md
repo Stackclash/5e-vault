@@ -8,7 +8,7 @@ aliases: ["Human Names – Arabic, Female"]
 # Human Names – Arabic, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Arabic Female (XGE).md#^human-names-arabic-female]]`
+`dice: [[nullHuman Names Arabic Female (XGE).md#^human-names-arabic-female]]`
 
 **Human Names – Arabic, Female**
 

@@ -26,7 +26,7 @@ Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. If you score a critical hit with it, the target takes extra necrotic damage equal to half its hit point maximum.
 
-The weapon also functions as a [[5. Mechanics/Items/Trident Of Fish Co(MM)and.md|trident of fish command]] and a weapon of warning. It can confer the benefit of a [[5. Mechanics/Items/Cap Of Water Breathing.md|cap of water breathing]] while you hold it, and you can use it as a [[5. Mechanics/Items/Cube Of Force.md|cube of force]] by choosing the effect, instead of pressing cube sides to select it.
+The weapon also functions as a [[5. Mechanics/Items/Trident Of Fish Command.md|trident of fish command]] and a weapon of warning. It can confer the benefit of a [[5. Mechanics/Items/Cap Of Water Breathing.md|cap of water breathing]] while you hold it, and you can use it as a [[5. Mechanics/Items/Cube Of Force.md|cube of force]] by choosing the effect, instead of pressing cube sides to select it.
 
 ## Sentience
 

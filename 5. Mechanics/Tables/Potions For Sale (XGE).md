@@ -8,7 +8,7 @@ aliases: ["Potions for Sale"]
 # Potions for Sale
 *Source: Xanathar's Guide to Everything* 
 
-`dice: [[Potions For Sale (XGE).md#^potions-for-sale]]`
+`dice: [[nullPotions For Sale (XGE).md#^potions-for-sale]]`
 
 **Potions for Sale**
 

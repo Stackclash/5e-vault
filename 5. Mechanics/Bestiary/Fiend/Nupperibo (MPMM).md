@@ -7,7 +7,7 @@ tags:
 aliases: ["Nupperibo"]
 ---
 # Nupperibo
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 196*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

@@ -8,7 +8,7 @@ aliases: ["Crafting Magic Items; Magic Item Ingredients"]
 # Crafting Magic Items; Magic Item Ingredients
 *Source: Xanathar's Guide to Everything p. 128* 
 
-`dice: [[Crafting Magic Items Magic Item Ingredients (XGE).md#^magic-item-ingredients]]`
+`dice: [[nullCrafting Magic Items Magic Item Ingredients (XGE).md#^magic-item-ingredients]]`
 
 **Magic Item Ingredients**
 

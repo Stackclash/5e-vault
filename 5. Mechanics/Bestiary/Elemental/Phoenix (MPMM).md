@@ -9,7 +9,7 @@ tags:
 aliases: ["Phoenix"]
 ---
 # Phoenix
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 206*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

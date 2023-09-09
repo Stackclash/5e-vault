@@ -9,7 +9,7 @@ tags:
 aliases: ["Alkilith"]
 ---
 # Alkilith
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 44*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
 

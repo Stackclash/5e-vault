@@ -8,7 +8,7 @@ tags:
 aliases: ["Knowledge Domain"]
 ---
 # Knowledge Domain
-*[[Cleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 59*  
 
 
@@ -24,7 +24,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Co(MM)and.md|command]], [[5. Mechanics/Spells/Identify.md|identify]] |
+| 1st | [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Identify.md|identify]] |
 | 3rd | [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Suggestion.md|suggestion]] |
 | 5th | [[5. Mechanics/Spells/Nondetection.md|nondetection]], [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]] |
 | 7th | [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Confusion.md|confusion]] |

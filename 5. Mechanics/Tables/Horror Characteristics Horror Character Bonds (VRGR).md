@@ -8,7 +8,7 @@ aliases: ["Horror Characteristics; Horror Character Bonds"]
 # Horror Characteristics; Horror Character Bonds
 *Source: Van Richten's Guide to Ravenloft p. 32* 
 
-`dice: [[Horror Characteristics Horror Character Bonds (VRGR).md#^horror-character-bonds]]`
+`dice: [[nullHorror Characteristics Horror Character Bonds (VRGR).md#^horror-character-bonds]]`
 
 **Horror Character Bonds**
 

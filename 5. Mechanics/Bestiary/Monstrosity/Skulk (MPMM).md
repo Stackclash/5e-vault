@@ -12,7 +12,7 @@ tags:
 aliases: ["Skulk"]
 ---
 # Skulk
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 219*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

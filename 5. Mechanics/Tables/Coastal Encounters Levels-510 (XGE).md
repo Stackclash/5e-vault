@@ -8,7 +8,7 @@ aliases: ["Coastal Encounters (Levels 5—10)"]
 # Coastal Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 93* 
 
-`dice: [[Coastal Encounters Levels-510 (XGE).md#^coastal-encounters-levels-510]]`
+`dice: [[nullCoastal Encounters Levels-510 (XGE).md#^coastal-encounters-levels-510]]`
 
 **Coastal Encounters (Levels 5—10)**
 
@@ -25,7 +25,7 @@ aliases: ["Coastal Encounters (Levels 5—10)"]
 | 21-25 | A [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|pseudodragon]] chasing gulls through the air |
 | 26-29 | `dice: 1d2\|avg` (`1d2`) [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]] |
 | 30-32 | `dice: 2d4 + 1\|avg` (`2d4 + 1`) [[5. Mechanics/Bestiary/Beast/Giant Toad.md|giant toads]] |
-| 33-35 | 1 [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|") singing a dirge (day only"]] or 1 [[5. Mechanics/Bestiary/Undead/Banshee.md|") (night only"]] |
+| 33-35 | 1 [[5. Mechanics/Bestiary/Humanoid/Commoner.md|") singing a dirge (day only"]] or 1 [[5. Mechanics/Bestiary/Undead/Banshee.md|") (night only"]] |
 | 36-40 | A stoppered bottle containing an illegible note and half buried in the sand |
 | 41-43 | 3 [[5. Mechanics/Bestiary/Fey/Sea Hag.md|sea hags]] |
 | 44-46 | `dice: 1d8 + 1\|avg` (`1d8 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Harpy.md|harpies]] |

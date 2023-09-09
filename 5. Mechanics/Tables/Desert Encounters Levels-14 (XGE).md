@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 1—4)"]
 # Desert Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[Desert Encounters Levels-14 (XGE).md#^desert-encounters-levels-14]]`
+`dice: [[nullDesert Encounters Levels-14 (XGE).md#^desert-encounters-levels-14]]`
 
 **Desert Encounters (Levels 1—4)**
 
@@ -17,7 +17,7 @@ aliases: ["Desert Encounters (Levels 1—4)"]
 | 01 | `dice: 3d8\|avg` (`3d8`) [[5. Mechanics/Bestiary/Beast/Scorpion.md|scorpions]] |
 | 02 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Vulture.md|vultures]] |
 | 03 | 1 abandoned [[5. Mechanics/Bestiary/Beast/Mule.md|mule]] |
-| 04 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]] with `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Camel.md|camels]] bound for a distant city |
+| 04 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] with `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Camel.md|camels]] bound for a distant city |
 | 05 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Flying Snake.md|flying snakes]] |
 | 06 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Beast/Hyena.md|hyenas]] or `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Beast/Jackal.md|jackals]] |
 | 07 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]] escorting a [[5. Mechanics/Bestiary/Humanoid/Noble.md|noble]] to the edge of the desert, all of them astride [[5. Mechanics/Bestiary/Beast/Camel.md|camels]] |
@@ -51,7 +51,7 @@ aliases: ["Desert Encounters (Levels 1—4)"]
 | 69 | 1 [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md|giant constrictor snake]] |
 | 70-71 | 1 [[5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md|gnoll pack lord]] with `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Beast/Giant Hyena.md|giant hyenas]] |
 | 72 | `dice: 1d6 + 2\|avg` (`1d6 + 2`) [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|gnolls]] |
-| 73-74 | 1 [[5. Mechanics/Bestiary/Undead/Mu(MM)y.md|mummy]] |
+| 73-74 | 1 [[5. Mechanics/Bestiary/Undead/Mummy.md|mummy]] |
 | 75 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|half-ogres]] |
 | 76-80 | A pile of humanoid bones wrapped in rotting cloth |
 | 81-82 | 1 [[5. Mechanics/Bestiary/Monstrosity/Lamia.md|lamia]] |

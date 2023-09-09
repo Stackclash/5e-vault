@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Occupation"]
 # Supplemental Tables; Occupation
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[Supplemental Tables Occupation (XGE).md#^occupation]]`
+`dice: [[nullSupplemental Tables Occupation (XGE).md#^occupation]]`
 
 **Occupation**
 

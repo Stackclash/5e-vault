@@ -8,7 +8,7 @@ aliases: ["Experience for Complex Traps; Complex Trap Experience Awards"]
 # Experience for Complex Traps; Complex Trap Experience Awards
 *Source: Xanathar's Guide to Everything p. 118* 
 
-`dice: [[Experience For Complex Traps Complex Trap Experience Awards (XGE).md#^complex-trap-experience-awards]]`
+`dice: [[nullExperience For Complex Traps Complex Trap Experience Awards (XGE).md#^complex-trap-experience-awards]]`
 
 **Complex Trap Experience Awards**
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Master Thief"]
 ---
 # Master Thief
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 174*  
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
 

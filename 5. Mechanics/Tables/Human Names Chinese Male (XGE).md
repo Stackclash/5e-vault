@@ -8,7 +8,7 @@ aliases: ["Human Names – Chinese, Male"]
 # Human Names – Chinese, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Chinese Male (XGE).md#^human-names-chinese-male]]`
+`dice: [[nullHuman Names Chinese Male (XGE).md#^human-names-chinese-male]]`
 
 **Human Names – Chinese, Male**
 

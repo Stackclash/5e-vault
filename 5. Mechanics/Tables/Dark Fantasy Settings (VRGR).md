@@ -8,7 +8,7 @@ aliases: ["Dark Fantasy Settings"]
 # Dark Fantasy Settings
 *Source: Van Richten's Guide to Ravenloft p. 51* 
 
-`dice: [[Dark Fantasy Settings (VRGR).md#^dark-fantasy-settings]]`
+`dice: [[nullDark Fantasy Settings (VRGR).md#^dark-fantasy-settings]]`
 
 **Dark Fantasy Settings**
 

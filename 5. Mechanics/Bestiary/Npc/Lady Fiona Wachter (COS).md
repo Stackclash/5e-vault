@@ -39,7 +39,7 @@ aliases: ["Lady Fiona Wachter"]
     \ save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following\
     \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
     \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Augury.md|augury]], [gentle\
     \ repose](compendium/spells/gentle-repose.md), [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\

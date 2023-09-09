@@ -7,7 +7,7 @@ tags:
 aliases: ["Cavalier"]
 ---
 # Cavalier
-*[[Fighter.md|Fighter]]: Martial Archetype*  
+*[[nullFighter.md|Fighter]]: Martial Archetype*  
 *Source: Xanathar's Guide to Everything p. 30*  
 
 

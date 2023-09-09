@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Ancestral Guardian"]
 ---
 # Path of the Ancestral Guardian
-*[[Barbarian.md|Barbarian]]: Primal Path*  
+*[[nullBarbarian.md|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 

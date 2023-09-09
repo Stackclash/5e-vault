@@ -10,7 +10,6 @@ tags:
 aliases: ["Infernal Calling"]
 ---
 # Infernal Calling
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
 
 - **Casting time:** 1 minute

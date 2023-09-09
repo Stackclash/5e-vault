@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Relationship"]
 # Supplemental Tables; Relationship
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[Supplemental Tables Relationship (XGE).md#^relationship]]`
+`dice: [[nullSupplemental Tables Relationship (XGE).md#^relationship]]`
 
 **Relationship**
 

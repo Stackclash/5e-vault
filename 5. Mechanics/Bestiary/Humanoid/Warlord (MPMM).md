@@ -8,7 +8,7 @@ tags:
 aliases: ["Warlord"]
 ---
 # Warlord
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 257*  
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
 

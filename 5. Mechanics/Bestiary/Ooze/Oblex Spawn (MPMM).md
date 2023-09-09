@@ -10,7 +10,7 @@ tags:
 aliases: ["Oblex Spawn"]
 ---
 # Oblex Spawn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 197*  
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
 

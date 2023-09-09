@@ -8,7 +8,7 @@ tags:
 aliases: ["Tortle"]
 ---
 # Tortle
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
 

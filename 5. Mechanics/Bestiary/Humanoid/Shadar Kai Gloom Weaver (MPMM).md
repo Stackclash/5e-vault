@@ -9,7 +9,7 @@ tags:
 aliases: ["Shadar-kai Gloom Weaver"]
 ---
 # Shadar-kai Gloom Weaver
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
 

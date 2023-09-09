@@ -8,7 +8,7 @@ aliases: ["Human Names – Norse, Male"]
 # Human Names – Norse, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Norse Male (XGE).md#^human-names-norse-male]]`
+`dice: [[nullHuman Names Norse Male (XGE).md#^human-names-norse-male]]`
 
 **Human Names – Norse, Male**
 

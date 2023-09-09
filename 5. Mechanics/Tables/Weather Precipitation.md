@@ -8,7 +8,7 @@ aliases: ["Weather; Precipitation"]
 # Weather; Precipitation
 *Source: Dungeon Master's Guide p. 109. Available in the SRD.* 
 
-`dice: [[Weather Precipitation.md#^precipitation]]`
+`dice: [[nullWeather Precipitation.md#^precipitation]]`
 
 **Precipitation**
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Nightwalker"]
 ---
 # Nightwalker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 194*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
 

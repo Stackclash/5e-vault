@@ -100,7 +100,7 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ Wisdom (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). The\
     \ mummy lord has the following cleric spells prepared:\n\nCantrips (at will):\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
     \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\

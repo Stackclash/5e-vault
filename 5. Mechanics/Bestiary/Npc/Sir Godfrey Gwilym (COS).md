@@ -45,7 +45,7 @@ aliases: ["Sir Godfrey Gwilym"]
 "traits":
 - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). He has the\
-    \ following paladin spells prepared:\n\n1st level (4 1st-level slots): [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \ following paladin spells prepared:\n\n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
     \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
     \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 3rd-level\

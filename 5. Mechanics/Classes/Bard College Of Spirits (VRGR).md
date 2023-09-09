@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Spirits"]
 ---
 # College of Spirits
-*[[Bard.md|Bard]]: Bard College*  
+*[[nullBard.md|Bard]]: Bard College*  
 *Source: Van Richten's Guide to Ravenloft p. 28*  
 
 

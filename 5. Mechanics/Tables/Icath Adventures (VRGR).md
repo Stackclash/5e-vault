@@ -8,7 +8,7 @@ aliases: ["I'Cath Adventures"]
 # I'Cath Adventures
 *Source: Van Richten's Guide to Ravenloft p. 121* 
 
-`dice: [[Icath Adventures (VRGR).md#^icath-adventures]]`
+`dice: [[nullIcath Adventures (VRGR).md#^icath-adventures]]`
 
 **I'Cath Adventures**
 

@@ -6,101 +6,70 @@ const path = require('path')
 
 const config = {
     dryRun: false,
-    limit: 3000,
+    limit: 4000,
     rootVaultPath: path.resolve(__dirname, '../'),
     compendiumPath: 'compendium',
     rules: [
         {
             enabled: true,
+            name: 'Update File Path',
             target: 'relativePath',
-            regex: /compendium[\\\/]adventures/,
-            process: function() {
-                return `6. Resources${path.sep}5e Modules`
+            process: function(file) {
+                let newRelativePath = file.relativePath
+
+                newRelativePath = newRelativePath
+                    .replace(/compendium([\\\/])adventures/, (oldText, separator) => `6. Resources${separator}5e Modules`)
+                    .replace(/compendium([\\\/])books/, (oldText, separator) => `6. Resources${separator}Books`)
+                    .replace(/compendium/, () => '5. Mechanics')
+                    .replaceAll(/([\/\\\-])([a-z])(?!mg|oken)/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
+                
+                return newRelativePath
             }
         },
         {
             enabled: true,
-            target: 'relativePath',
-            regex: /compendium[\\\/]books/,
-            process: function() {
-                return `6. Resources${path.sep}Books`
-            }
-        },
-        {
-            enabled: true,
-            target: 'relativePath',
-            regex: /compendium/,
-            process: function() {
-                return '5. Mechanics'
-            }
-        },
-        {
-            enabled: true,
-            target: 'relativePath',
-            regex: /([\/\\\-])([a-z])(?!mg|oken)/,
-            process: function(file, oldText, separator, letter) {
-                return separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase()
-            }
-        },
-        {
-            enabled: true,
+            name: 'Update File Name',
+            ignore: function(file) {
+                return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+            },
             target: 'fileName',
-            regex: /([\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/,
-            process: function(file, oldText, separator, letter) {
-                let text = oldText
-                if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
-                    text = separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase()
-                }
-                return text
+            process: function(file) {
+                let newFileName = file.fileName
+
+                newFileName = newFileName
+                    .replaceAll(/(^|[\/\\\-])([a-z])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : separator+letter.toUpperCase())
+                    .replace(/(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)$/i, (oldText, source) => '(' + source.toUpperCase() + ')')
+                
+                return newFileName
             }
         },
         {
             enabled: true,
-            target: 'fileName',
-            regex: /^([a-z])/,
-            process: function(file, oldText, letter) {
-                let text = oldText
-                if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
-                    text = letter.toUpperCase()
-                }
-                return text
-            }
-        },
-        {
-            enabled: true,
-            target: 'fileName',
-            regex: /(HB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)$/,
-            process: function(file, oldText, source) {
-                if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
-                    source = '(' + source.toUpperCase() + ')'
-                }
-                return source
-            }
-        },
-        {
-            enabled: true,
+            name: 'Update Content Links',
+            ignore: function(file) {
+                return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+            },
             target: 'content',
             regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.\(\)\-]*)"*\)/g,
             process: function(file, oldLink, displayText, linkPath, section, title) {
-                let newLink = oldLink
-                if (!['.jpg', '.jpeg', '.png'].includes(file.fileExtension)) {
-                    linkPath = linkPath.replaceAll('%20', '\ ')
-                        .replaceAll(/compendium\/adventures/g, () => '6. Resources/5e Modules')
-                        .replaceAll(/compendium\/books/g, () => '6. Resources/Books')
-                        .replaceAll(/compendium/g, () => '5. Mechanics')
-                        .replace(/^(\w)/, (all, letter) => letter.toUpperCase())
-                    if (!['.jpg', '.jpeg', '.png'].includes(path.parse(linkPath).ext)) {
-                        linkPath = linkPath.replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
-                            .replace(/(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => '(' + source.toUpperCase() + ')')
-                    }
-    
-                    if(!displayText && !title) {
-                        newLink = `[[${linkPath}${section}]]`
-                    } else if (title) {
-                        newLink = `[[${linkPath}${section}|"${title}"]]`
-                    } else {
-                        newLink = `[[${linkPath}${section}|${displayText}]]`
-                    }
+                let filePath = path.parse(linkPath).dir
+                let fileName = path.parse(linkPath).name
+                let separator = filePath.match(/[\/\\]/)
+
+                let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
+                let fileNameRule = config.rules.filter(rule => rule.name === 'Update File Name')[0]
+
+                filePath = filePathRule.process({relativePath: filePath})
+                fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName})
+
+                linkPath = `${filePath}${separator}${fileName}${file.fileExtension}`
+
+                if(!displayText && !title) {
+                    newLink = `[[${linkPath}${section}]]`
+                } else if (title) {
+                    newLink = `[[${linkPath}${section}|"${title}"]]`
+                } else {
+                    newLink = `[[${linkPath}${section}|${displayText}]]`
                 }
 
                 return newLink
@@ -181,13 +150,11 @@ function processAllRules(files) {
     files.forEach((file, index) => {
         console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
-            if (rule.enabled) {
-                if (!(rule.target === 'content' && ['.jpg', '.jpeg', '.png'].includes(file.fileExtension))) {
-                    if (rule.regex) {
-                        file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (...match) => rule.process(file, ...match))
-                    } else {
-                        file = rule.process(file)
-                    }
+            if (rule.enabled && !(rule.ignore && rule.ignore(file))) {
+                if (rule.regex) {
+                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (...match) => rule.process(file, ...match))
+                } else {
+                    file[rule.target] = rule.process(file)
                 }
             }
         })

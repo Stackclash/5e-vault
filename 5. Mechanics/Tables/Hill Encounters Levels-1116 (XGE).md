@@ -8,7 +8,7 @@ aliases: ["Hill Encounters (Levels 11—16)"]
 # Hill Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 101* 
 
-`dice: [[Hill Encounters Levels-1116 (XGE).md#^hill-encounters-levels-1116]]`
+`dice: [[nullHill Encounters Levels-1116 (XGE).md#^hill-encounters-levels-1116]]`
 
 **Hill Encounters (Levels 11—16)**
 
@@ -32,7 +32,7 @@ aliases: ["Hill Encounters (Levels 11—16)"]
 | 51-54 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Giant/Hill Giant.md|hill giants]] |
 | 55-58 | 1 [[5. Mechanics/Bestiary/Dragon/Young Red Dragon.md|young red dragon]] |
 | 59-62 | `dice: 1d3 + 1\|avg` (`1d3 + 1`) [[5. Mechanics/Bestiary/Elemental/Galeb Duhr.md|galeb duhr]] |
-| 63-65 | `dice: 2d10\|avg` (`2d10`) dwarf miners ([[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], whistling as they march toward their mine |
+| 63-65 | `dice: 2d10\|avg` (`2d10`) dwarf miners ([[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], whistling as they march toward their mine |
 | 66-69 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Dragon/Young Copper Dragon.md|young copper dragons]] |
 | 70-73 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Giant/Troll.md|trolls]] |
 | 74-77 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Giant/Cyclops.md|cyclopes]] |

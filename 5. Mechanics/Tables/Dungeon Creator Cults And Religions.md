@@ -8,7 +8,7 @@ aliases: ["Dungeon Creator; Cults and Religions"]
 # Dungeon Creator; Cults and Religions
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[Dungeon Creator Cults And Religions.md#^cults-and-religions]]`
+`dice: [[nullDungeon Creator Cults And Religions.md#^cults-and-religions]]`
 
 **Cults and Religions**
 

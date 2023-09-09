@@ -9,7 +9,7 @@ tags:
 aliases: ["Duergar Warlord"]
 ---
 # Duergar Warlord
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Duergar Stone Guard"]
 ---
 # Duergar Stone Guard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 110*  
 
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
 

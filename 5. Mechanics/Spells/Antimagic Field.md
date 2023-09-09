@@ -11,7 +11,6 @@ tags:
 aliases: ["Antimagic Field"]
 ---
 # Antimagic Field
-%%-- Embedded content starts on the next line. --%%
 *8th-level, Abjuration*  
 
 - **Casting time:** 1 action

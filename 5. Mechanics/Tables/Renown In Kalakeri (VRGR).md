@@ -8,7 +8,7 @@ aliases: ["Renown in Kalakeri"]
 # Renown in Kalakeri
 *Source: Van Richten's Guide to Ravenloft p. 130* 
 
-`dice: [[Renown In Kalakeri (VRGR).md#^renown-in-kalakeri]]`
+`dice: [[nullRenown In Kalakeri (VRGR).md#^renown-in-kalakeri]]`
 
 **Renown in Kalakeri**
 

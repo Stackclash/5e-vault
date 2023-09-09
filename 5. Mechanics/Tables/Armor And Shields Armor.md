@@ -8,7 +8,7 @@ aliases: ["Armor and Shields; Armor"]
 # Armor and Shields; Armor
 *Source: Player's Handbook p. 144. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Armor And Shields Armor.md#^armor]]`
+`dice: [[nullArmor And Shields Armor.md#^armor]]`
 
 **Armor**
 

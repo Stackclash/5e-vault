@@ -8,7 +8,7 @@ tags:
 aliases: ["Devourer"]
 ---
 # Devourer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  
 
 Of all the abominations unleashed by [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
 

@@ -74,7 +74,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \ slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [protection\
     \ from evil and good](compendium/spells/protection-from-evil-and-good.md)\n\n\
     2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\

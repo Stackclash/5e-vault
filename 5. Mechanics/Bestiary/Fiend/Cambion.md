@@ -64,7 +64,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - "desc": "The cambion's spellcasting ability is Charisma (spell save DC 14). The\
     \ cambion can innately cast the following spells, requiring no material components:\n\
     \n1/day: [[5. Mechanics/Spells/Plane Shift.md|") (self only"]]\n\n3/day\
-    \ each: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \ each: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]"
   "name": "innate"
 - "desc": "The AC of the cambion includes its Charisma bonus."

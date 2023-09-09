@@ -7,7 +7,7 @@ tags:
 aliases: ["Draconic Bloodline"]
 ---
 # Draconic Bloodline
-*[[Sorcerer.md|Sorcerer]]: Sorcerous Origin*  
+*[[nullSorcerer.md|Sorcerer]]: Sorcerous Origin*  
 *Source: Player's Handbook p. 102. Available in the SRD.*  
 
 

@@ -16,7 +16,7 @@ Includes:
 
 - a [[5. Mechanics/Items/Chest.md|chest]]  
 - a [[5. Mechanics/Items/Crowbar.md|crowbar]]  
-- a [[5. Mechanics/Items/Ha(MM)er.md|hammer]]  
+- a [[5. Mechanics/Items/Hammer.md|hammer]]  
 - three wooden stakes  
 - a holy symbol  
 - a [[5. Mechanics/Items/Holy Water Flask.md|flask of holy water]]  

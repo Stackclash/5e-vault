@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Absent Parent"]
 # Supplemental Tables; Absent Parent
 *Source: Xanathar's Guide to Everything p. 63* 
 
-`dice: [[Supplemental Tables Absent Parent (XGE).md#^absent-parent]]`
+`dice: [[nullSupplemental Tables Absent Parent (XGE).md#^absent-parent]]`
 
 **Absent Parent**
 

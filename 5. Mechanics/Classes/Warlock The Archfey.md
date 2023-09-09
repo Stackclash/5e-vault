@@ -7,7 +7,7 @@ tags:
 aliases: ["The Archfey"]
 ---
 # The Archfey
-*[[Warlock.md|Warlock]]: Otherworldly Patron*  
+*[[nullWarlock.md|Warlock]]: Otherworldly Patron*  
 *Source: Player's Handbook p. 108*  
 
 

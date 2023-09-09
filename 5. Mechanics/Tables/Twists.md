@@ -8,7 +8,7 @@ aliases: ["Twists"]
 # Twists
 *Source: Dungeon Master's Guide p. 80* 
 
-`dice: [[Twists.md#^twists]]`
+`dice: [[nullTwists.md#^twists]]`
 
 **Twists**
 

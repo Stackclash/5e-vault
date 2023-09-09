@@ -8,7 +8,7 @@ aliases: ["Adventuring Gear"]
 # Adventuring Gear
 *Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Adventuring Gear.md#^adventuring-gear]]`
+`dice: [[nullAdventuring Gear.md#^adventuring-gear]]`
 
 **Adventuring Gear**
 
@@ -47,8 +47,8 @@ aliases: ["Adventuring Gear"]
 | [[5. Mechanics/Items/Chain-10 Feet.md|Chain (10 feet)]] | 5 gp | 10 lb. |
 | [[5. Mechanics/Items/Chalk-1 Piece.md|Chalk (1 piece)]] | 1 cp | — |
 | [[5. Mechanics/Items/Chest.md|Chest]] | 5 gp | 25 lb. |
-| [[5. Mechanics/Items/Co(MM)on Clothes.md|Clothes, common]] | 5 sp | 3 lb. |
-| [[5. Mechanics/Items/(COS)tume Clothes.md|Clothes, costume]] | 5 gp | 4 lb. |
+| [[5. Mechanics/Items/Common Clothes.md|Clothes, common]] | 5 sp | 3 lb. |
+| [[5. Mechanics/Items/Costume Clothes.md|Clothes, costume]] | 5 gp | 4 lb. |
 | [[5. Mechanics/Items/Fine Clothes.md|Clothes, fine]] | 15 gp | 6 lb. |
 | [[5. Mechanics/Items/Travelers Clothes.md|Clothes, traveler's]] | 2 gp | 4 lb. |
 | [[5. Mechanics/Items/Component Pouch.md|Component pouch]] | 25 gp | 2 lb. |
@@ -61,8 +61,8 @@ aliases: ["Adventuring Gear"]
 | [[5. Mechanics/Items/Fishing Tackle.md|Fishing tackle]] | 1 gp | 4 lb. |
 | [[5. Mechanics/Items/Flask.md|Flask]] or [[5. Mechanics/Items/Tankard.md|tankard]] | 2 cp | 1 lb. |
 | [[5. Mechanics/Items/Grappling Hook.md|Grappling hook]] | 2 gp | 4 lb. |
-| [[5. Mechanics/Items/Ha(MM)er.md|Hammer]] | 1 gp | 3 lb. |
-| [[5. Mechanics/Items/Sledgeha(MM)er.md|Hammer, sledge]] | 2 gp | 10 lb. |
+| [[5. Mechanics/Items/Hammer.md|Hammer]] | 1 gp | 3 lb. |
+| [[5. Mechanics/Items/Sledgehammer.md|Hammer, sledge]] | 2 gp | 10 lb. |
 | [[5. Mechanics/Items/Healers Kit.md|Healer's Kit]] | 5 gp | 3 lb. |
 | *Holy symbol* |  |  |
 | [[5. Mechanics/Items/Amulet.md|Amulet]] | 5 gp | 1 lb. |

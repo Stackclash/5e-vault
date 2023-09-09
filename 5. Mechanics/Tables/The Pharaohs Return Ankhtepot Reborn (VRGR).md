@@ -8,7 +8,7 @@ aliases: ["The Pharaoh's Return; Ankhtepot Reborn"]
 # The Pharaoh's Return; Ankhtepot Reborn
 *Source: Van Richten's Guide to Ravenloft p. 110* 
 
-`dice: [[The Pharaohs Return Ankhtepot Reborn (VRGR).md#^ankhtepot-reborn]]`
+`dice: [[nullThe Pharaohs Return Ankhtepot Reborn (VRGR).md#^ankhtepot-reborn]]`
 
 **Ankhtepot Reborn**
 

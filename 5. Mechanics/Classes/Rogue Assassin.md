@@ -7,7 +7,7 @@ tags:
 aliases: ["Assassin"]
 ---
 # Assassin
-*[[Rogue.md|Rogue]]: Roguish Archetype*  
+*[[nullRogue.md|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97*  
 
 

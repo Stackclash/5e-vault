@@ -8,7 +8,7 @@ tags:
 aliases: ["Steel Predator"]
 ---
 # Steel Predator
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 232*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
 

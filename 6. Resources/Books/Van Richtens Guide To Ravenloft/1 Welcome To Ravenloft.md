@@ -45,7 +45,7 @@ This book explores the Domains of Dread, the mysterious expanses of the Shadowfe
 > Yours, Ez d'Avenir
 ^002
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/000-00-006-letter.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/000-00-006-letter.md#center]]
 
 ### Horror in Your Game
 
@@ -71,7 +71,7 @@ Like a roller-coaster, exploring frightening themes in a safe environment create
 
 Suspenseful stories don't need to be somber or shocking. Action, mystery, and comedy can feature in your adventures to any degree. Heroes can be bold monster-hunters or bumbling mystery-solvers. Choose what elements of this book are right for your game and promise the most fun for all players.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/001-00-007-letter-gennifer.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/001-00-007-letter-gennifer.md#center]]
 
 > [!quote] ...
 > 
@@ -88,7 +88,7 @@ Suspenseful stories don't need to be somber or shocking. Action, mystery, and co
 
 Countless mysteries pervade the Domains of Dread, but these strange truths underpin the setting:
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/002-00-005-ez-d-avenir.jpg#center|"Ez d'Avenir braves the Mists, her path haunted by past and future terrors"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/002-00-005-ez-d-avenir.md#center|"Ez d'Avenir braves the Mists, her path haunted by past and future terrors"]]
 
 - **1. Ravenloft Is Not a World.** The lands and characters of Ravenloft don't share a planet. Rather, the Domains of Dread consist of innumerable demiplanes hidden amid the Plane of Shadow. Mysterious Mists surround each of these island-realms. The bravest souls might creep from one domain to another, but doing so involves considerable danger, and many who enter the Mists are never seen again.  
 - **2. The Dark Powers Control All.** Sinister entities known as the Dark Powers manipulate the Domains of Dread and all who dwell within. Immortal, unknowable, and omnipotent, the Dark Powers revel in sowing terror and subtly manipulating their captives over the course of generations.  
@@ -110,7 +110,7 @@ This section provides an overview of the dreadful forces at work in Ravenloft, e
 
 By the standards of what other worlds' inhabitants consider true and sane, the Domains of Dread don't make sense. The setting's domains don't neatly flow into one another, histories don't record a collectively remembered past, fictions spawn terrible facts, and sheltered villagers remain stubbornly ignorant about the world beyond. Ravenloft is a setting designed to cultivate uncertainty, mystery, paranoia, and dread in defiance of logic or common sense.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/003-00-008-bagman.png#center|"In Ravenloft, tales like the treasure-haunting Bagman come to terrifying life"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/003-00-008-bagman.md#center|"In Ravenloft, tales like the treasure-haunting Bagman come to terrifying life"]]
 
 The characters in your Ravenloft adventures might be the first to inquire after obvious inconsistencies or to notice plain impossibilities. But why has no one before them sought answers to such unignorable questions? The Dark Powers, the Mists, and the nature of domains and Darklords all claim part of the answer, but ultimately they reflect aspects of the same cause: nightmare logic.
 
@@ -154,7 +154,7 @@ The true nature of the Dark Powers is for you to decide. How you perceive these 
 > Yours in reason, Alanik Ray & Dr. Arthur Sedgwick
 ^012
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/004-00-009-letter-alanik.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/004-00-009-letter-alanik.md#center]]
 
 ### The Mists
 
@@ -189,7 +189,7 @@ Central to each domain is a Darklord, the seed from which a thorny thicket bloom
 
 Though these individuals vary widely and exceptions occur, Darklords share a number of qualities:
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/005-00-010-raven-skull.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/005-00-010-raven-skull.md#center]]
 
 - **Darklords Are Evil.** Each Darklord is the ultimate villain of a domain and the root of the suffering and terror that unfold there.  
 - **Darklords Are Prisoners.** Darklords cannot leave their domains. If a Darklord enters the Mists or uses another method to attempt an escape, the Dark Powers return them to their domain. Even death rarely allows a Darklord to escape their prison for long.  
@@ -200,7 +200,7 @@ Though these individuals vary widely and exceptions occur, Darklords share a num
 - **Darklords Don't Realize They're Darklords.** With a few exceptions, Darklords don't realize they occupy a special place in the world. Their agendas, obsessions, and egotism distract them from focusing on the strangeness of the world and petty concerns such as eerie fog.  
 - **Darklords Are Immortal.** Darklords are casually immortal, many having no concept of how long they've lived, how many times they've died, or why they returned to life. Should a Darklord fall, the temporary defeat lasts until they're restored by the Dark Powers. In their absence, those who sought to escape or supplant them seize their chance.  
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/006-00-005-rudolph-van-richten.png#center|"Rudolph van Richten prepares for his next expedition, watched over by the spirit of his son, Erasmus."]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/006-00-005-rudolph-van-richten.md#center|"Rudolph van Richten prepares for his next expedition, watched over by the spirit of his son, Erasmus."]]
 
 ### Adventurers
 
@@ -211,7 +211,7 @@ The Domains of Dread don't typically breed heroes. For the inhabitants of most d
 
 Adventurers find few peers in the Land of the Mists. While there are exceptions—many of whom are illustrated throughout this book and detailed in "chapter 3"—such individuals are few and their lives are often short. Guilds of adventurers and shops catering to their needs generally don't exist. As a result, the challenge of confronting evil rests squarely with a few rare souls. Read on to "chapter 1" for details on creating your own haunted heroes.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/007-00-012-letter-van-richten.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/007-00-012-letter-van-richten.md#center]]
 
 > [!quote] ...
 > 

@@ -8,7 +8,7 @@ aliases: ["Dark Fantasy Adventure Sites"]
 # Dark Fantasy Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 51* 
 
-`dice: [[Dark Fantasy Adventure Sites (VRGR).md#^dark-fantasy-adventure-sites]]`
+`dice: [[nullDark Fantasy Adventure Sites (VRGR).md#^dark-fantasy-adventure-sites]]`
 
 **Dark Fantasy Adventure Sites**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Redemption"]
 ---
 # Oath of Redemption
-*[[Paladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 38*  
 
 

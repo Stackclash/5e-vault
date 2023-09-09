@@ -8,7 +8,7 @@ aliases: ["Ghost Story Torments"]
 # Ghost Story Torments
 *Source: Van Richten's Guide to Ravenloft p. 55* 
 
-`dice: [[Ghost Story Torments (VRGR).md#^ghost-story-torments]]`
+`dice: [[nullGhost Story Torments (VRGR).md#^ghost-story-torments]]`
 
 **Ghost Story Torments**
 

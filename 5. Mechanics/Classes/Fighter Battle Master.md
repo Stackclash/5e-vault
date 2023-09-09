@@ -7,7 +7,7 @@ tags:
 aliases: ["Battle Master"]
 ---
 # Battle Master
-*[[Fighter.md|Fighter]]: Martial Archetype*  
+*[[nullFighter.md|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 73*  
 
 
@@ -47,7 +47,7 @@ Some of your maneuvers require your target to make a saving throw to resist the 
 
 The maneuvers are presented in alphabetical order.
 
-- [[5. Mechanics/Optional Features/Co(MM)anders Strike.md|Commander's Strike]]  
+- [[5. Mechanics/Optional Features/Commanders Strike.md|Commander's Strike]]  
 - [[5. Mechanics/Optional Features/Disarming Attack.md|Disarming Attack]]  
 - [[5. Mechanics/Optional Features/Distracting Strike.md|Distracting Strike]]  
 - [[5. Mechanics/Optional Features/Evasive Footwork.md|Evasive Footwork]]  

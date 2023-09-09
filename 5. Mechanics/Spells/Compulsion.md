@@ -9,7 +9,6 @@ tags:
 aliases: ["Compulsion"]
 ---
 # Compulsion
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Enchantment*  
 
 - **Casting time:** 1 action

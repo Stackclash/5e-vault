@@ -10,7 +10,7 @@ aliases: ["Chapter 11: Van Richten's Tower"]
 
 One of the men employed by Strahd to raise Castle Ravenloft was an archwizard named Khazan. After his work on the castle was complete, Khazan retired to the Barovian valley and built a tower for himself on a small island on Lake Baratok. With the help of some engineers and laborers, he also built an earth-and-gravel causeway connecting the island with the nearby shore.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/104-cos11-01.png#center|")
+![[6. Resources/5e Modules/Curse Of Strahd/img/104-cos11-01.md#center|")
 
 In his waning years, Khazan visited the Amber Temple (chapter 13"]] and discovered the secret to becoming a lich. He returned to his tower and was able to complete the transformation. Some years later, after Strahd became a vampire, Khazan paid a visit to Castle Ravenloft with the notion of challenging Strahd for rulership of Barovia. Instead, much to Khazan's surprise, Strahd persuaded him to serve as an advisor in matters of magic. When not advising Strahd, the lich spent most of his time in the Amber Temple, trying to master the secret of demilichdom in the hope of finding a way to magically project his spirit beyond the confines of Strahd's realm. His efforts failed, and Khazan destroyed himself. His remains lie entombed in the catacombs of Ravenloft.
 
@@ -57,8 +57,8 @@ Ezmerelda's wagon is parked in front of the tower. If the characters investigate
 The wagon radiates an aura of conjuration magic if it is scrutinized with a [[5. Mechanics/Spells/Detect Magic.md|detect magic]] spell. A character who casts an [[5. Mechanics/Spells/Identify.md|identify]] spell on the wagon learns the command words needed to operate it.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/105-027.jpg#gallery|Map 11.1: Van Richten's Tower (Area V)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/106-cos1101.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/105-027.md#gallery|Map 11.1: Van Richten's Tower (Area V)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/106-cos1101.md#gallery|Player Version]]
 
 Anyone who sits in the driver's seat and speaks its command word ("Drovash") summons a pair of quasi-real draft horses, which are magically tethered to the wagon and can't be separated from it. The horses and wagon have a speed of 30 feet, and the horses heed the driver's simple commands. The driver can dismiss the horses with a second command word ("Arvesh"). The horses can be dispelled (DC 15) but not harmed.
 
@@ -88,7 +88,7 @@ The interior of the wagon contains the following items:
 - A map of Barovia (showing all the locations marked on this adventure's map of Barovia"]]  
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).  
 
-![[6. Resources/5e Modules/curse-of-strahd/img/107-cos11-02.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/107-cos11-02.md#center]]
 
 ### V2. Tower Door
 
@@ -99,7 +99,7 @@ The interior of the wagon contains the following items:
 
 Show the players the door symbol to the right. The door is magically locked and trapped, and the symbol on the door is the key to disabling the trap. Magic that would normally unlock the door is neutralized by the tower's spell drain effect (see "Khazan's Spell Drain" earlier in the chapter).
 
-![[6. Resources/5e Modules/curse-of-strahd/img/108-cos11-03.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/108-cos11-03.md#center]]
 
 A creature that touches the door without first disabling the trap causes lightning to envelop the tower. Any creature outside the tower and within 10 feet of it must succeed on a DC 15 Dexterity saving throw, with disadvantage if it is wearing armor made of metal, taking 22 (`dice: 4d10|avg` (`4d10`)) lightning damage on a failed save, or half damage on a successful one. As long as the effect persists, any creature that enters the lightning for the first time on a turn or starts its turn there takes 22 (`dice: 4d10|avg` (`4d10`)) lightning damage. The lightning lasts for 10 minutes.
 
@@ -210,4 +210,4 @@ Ezmerelda's altercation with Strahd has left her with only 30 hit points. She gr
 
 From this moment on, Strahd gains a new goal: kill [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]]. Knowing that his Vistani spies might be conflicted at the thought of slaying one of their own, Strahd relies on the druids and the werewolves of the Svalich Woods, as well as human spies and vampire spawn hidden in Barovia's settlements, to help him find and kill Ezmerelda. If Strahd learns that she and the characters are working together, he invites the characters to Ravenloft, expecting that Ezmerelda will accompany them. The characters receive their invitation in the form of a letter delivered by one of Strahd's spies. If the characters open and read the letter, show the players the "Strahd's Invitation" handout in appendix F. If the characters head toward the castle, they have no threatening random encounters on the way.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/109-cos11-05.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/109-cos11-05.md#center]]

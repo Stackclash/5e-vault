@@ -13,7 +13,6 @@ tags:
 aliases: ["Magic Mouth"]
 ---
 # Magic Mouth
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

@@ -8,7 +8,7 @@ aliases: ["Size Categories"]
 # Size Categories
 *Source: Monster Manual p. 6* 
 
-`dice: [[Size Categories.md#^size-categories]]`
+`dice: [[nullSize Categories.md#^size-categories]]`
 
 **Size Categories**
 

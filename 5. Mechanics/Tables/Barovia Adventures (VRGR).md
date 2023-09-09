@@ -8,7 +8,7 @@ aliases: ["Barovia Adventures"]
 # Barovia Adventures
 *Source: Van Richten's Guide to Ravenloft p. 69* 
 
-`dice: [[Barovia Adventures (VRGR).md#^barovia-adventures]]`
+`dice: [[nullBarovia Adventures (VRGR).md#^barovia-adventures]]`
 
 **Barovia Adventures**
 

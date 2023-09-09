@@ -11,7 +11,7 @@ tags:
 aliases: ["Boggle"]
 ---
 # Boggle
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 65*  
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
 

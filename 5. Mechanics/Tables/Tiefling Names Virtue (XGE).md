@@ -8,7 +8,7 @@ aliases: ["Tiefling Names – Virtue"]
 # Tiefling Names – Virtue
 *Source: Xanathar's Guide to Everything p. 180* 
 
-`dice: [[Tiefling Names Virtue (XGE).md#^tiefling-names-virtue]]`
+`dice: [[nullTiefling Names Virtue (XGE).md#^tiefling-names-virtue]]`
 
 **Tiefling Names – Virtue**
 

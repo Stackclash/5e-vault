@@ -11,7 +11,7 @@ tags:
 aliases: ["Howler"]
 ---
 # Howler
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 155*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

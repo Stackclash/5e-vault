@@ -7,7 +7,7 @@ tags:
 aliases: ["Demogorgon"]
 ---
 # Demogorgon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 90*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

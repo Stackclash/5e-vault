@@ -8,7 +8,7 @@ aliases: ["Half-Orc Names – Female"]
 # Half-Orc Names – Female
 *Source: Xanathar's Guide to Everything p. 179* 
 
-`dice: [[Half Orc Names Female (XGE).md#^half-orc-names-female]]`
+`dice: [[nullHalf Orc Names Female (XGE).md#^half-orc-names-female]]`
 
 **Half-Orc Names – Female**
 

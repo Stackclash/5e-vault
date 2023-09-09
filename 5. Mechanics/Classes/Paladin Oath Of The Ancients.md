@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of the Ancients"]
 ---
 # Oath of the Ancients
-*[[Paladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 86*  
 
 
@@ -49,7 +49,7 @@ You gain oath spells at the paladin levels listed.
 | 5th | [[5. Mechanics/Spells/Moonbeam.md|moonbeam]], [[5. Mechanics/Spells/Misty Step.md|misty step]] |
 | 9th | [[5. Mechanics/Spells/Plant Growth.md|plant growth]], [[5. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
 | 13th | [[5. Mechanics/Spells/Ice Storm.md|ice storm]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]] |
-| 17th | [[5. Mechanics/Spells/Co(MM)une With Nature.md|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md|tree stride]] |
+| 17th | [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md|tree stride]] |
 ^oath-of-the-ancients-spells
 
 ### Channel Divinity (Level 3)

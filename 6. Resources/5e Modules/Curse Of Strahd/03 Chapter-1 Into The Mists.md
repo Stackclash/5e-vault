@@ -24,7 +24,7 @@ Strahd scoured his conquered lands for wizards and artisans, brought them to the
 
 Strahd's attention soon turned to Tatyana, a young Barovian woman of fine lineage and remarkable beauty. Strahd believed her to be a worthy bride, and he lavished Tatyana with gifts and attention. Despite Strahd's efforts, she instead fell in love with the younger, warmer Sergei. Strahd's pride prevented him from standing in the way of the young couple's love until the day of Sergei and Tatyana's wedding, when Strahd gazed into a mirror and realized he had been a fool. Strahd murdered Sergei and drank his blood, sealing the evil pact between Strahd and the Dark Powers. He then chased Sergei's bride-to-be through the gardens, determined to make her accept and love him. Tatyana hurled herself off a castle balcony to escape Strahd's pursuit, plunging to her death. Treacherous castle guards, seizing the opportunity to rid the world of Strahd forever, shot their master with arrows.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/000-cos01-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/000-cos01-01.md#center]]
 
 But Strahd did not die. The Dark Powers honored the pact they had made. The sky went black as Strahd turned on the guards, his eyes blazing red. He had become a vampire.
 
@@ -133,7 +133,7 @@ When you perform a card reading before running the adventure, write down the res
 
 When you're ready to begin the card reading, remove the fourteen cards with the crown icon (the high deck) and shuffle them. Then shuffle the remaining cards (the common deck), keeping the two decks separate. Draw the top three cards from the common deck and lay them face down in the 1, 2, and 3 positions. Then draw the top two cards from the high deck and lay them face down in the 4 and 5 positions, as shown below:
 
-![[6. Resources/5e Modules/curse-of-strahd/img/001-cos01-01a.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/001-cos01-01a.md#center]]
 
 Once all five cards are drawn and placed face down, follow the instructions below for each card in order.
 
@@ -911,7 +911,7 @@ In "Werewolves in the Mist," the characters are drawn together by a series of we
 
 In "Creeping Fog," the characters are traveling a lonely road through the woods when the fog engulfs them, spiriting them away to the land of Barovia.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/002-cos01-02.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/002-cos01-02.md#center]]
 
 ### Plea for Help
 
@@ -934,7 +934,7 @@ The characters start their adventure in an old tavern, the details of which are 
 > The babble of tavern voices resumes, although somewhat subdued. The letter is lying before you. The seal is in the shape of a crest you don't recognize.
 ^082
 
-![[6. Resources/5e Modules/curse-of-strahd/img/003-cos19-10.png#center|Strahd's Crest]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/003-cos19-10.md#center|Strahd's Crest]]
 
 The characters can interrupt the messenger at any time. His name is [[5. Mechanics/Bestiary/Npc/Arrigal (COS).md|Arrigal]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Assassin.md|")"]], and he is a Vistani. The other tavern patrons regard his people as friendly folk who travel about in covered wagons and usually keep to themselves.
 

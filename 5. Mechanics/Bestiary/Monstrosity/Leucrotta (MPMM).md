@@ -9,7 +9,7 @@ tags:
 aliases: ["Leucrotta"]
 ---
 # Leucrotta
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 170*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
 

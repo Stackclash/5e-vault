@@ -8,7 +8,7 @@ aliases: ["Ether Cyclones"]
 # Ether Cyclones
 *Source: Dungeon Master's Guide p. 49* 
 
-`dice: [[Ether Cyclones.md#^ether-cyclones]]`
+`dice: [[nullEther Cyclones.md#^ether-cyclones]]`
 
 **Ether Cyclones**
 

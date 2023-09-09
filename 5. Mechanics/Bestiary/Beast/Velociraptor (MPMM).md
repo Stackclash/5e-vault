@@ -9,7 +9,7 @@ tags:
 aliases: ["Velociraptor"]
 ---
 # Velociraptor
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
 

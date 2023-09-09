@@ -8,7 +8,7 @@ aliases: ["Gothic Horror Adventure Sites"]
 # Gothic Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 57* 
 
-`dice: [[Gothic Horror Adventure Sites (VRGR).md#^gothic-horror-adventure-sites]]`
+`dice: [[nullGothic Horror Adventure Sites (VRGR).md#^gothic-horror-adventure-sites]]`
 
 **Gothic Horror Adventure Sites**
 

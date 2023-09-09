@@ -8,7 +8,7 @@ tags:
 aliases: ["Gauth"]
 ---
 # Gauth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 133*  
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
 

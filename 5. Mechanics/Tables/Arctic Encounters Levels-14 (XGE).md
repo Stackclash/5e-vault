@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 1—4)"]
 # Arctic Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[Arctic Encounters Levels-14 (XGE).md#^arctic-encounters-levels-14]]`
+`dice: [[nullArctic Encounters Levels-14 (XGE).md#^arctic-encounters-levels-14]]`
 
 **Arctic Encounters (Levels 1—4)**
 
@@ -16,7 +16,7 @@ aliases: ["Arctic Encounters (Levels 1—4)"]
 |-------------|--------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Beast/Giant Owl.md|giant owl]] |
 | 02-05 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Humanoid/Kobold.md|kobolds]] |
-| 06-08 | `dice: 1d4 + 3\|avg` (`1d4 + 3`) trappers ([[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] |
+| 06-08 | `dice: 1d4 + 3\|avg` (`1d4 + 3`) trappers ([[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] |
 | 09-10 | 1 [[5. Mechanics/Bestiary/Beast/Owl.md|owl]] |
 | 11-12 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Blood Hawk.md|blood hawks]] |
 | 13-17 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Bandit.md|bandits]] |
@@ -36,7 +36,7 @@ aliases: ["Arctic Encounters (Levels 1—4)"]
 | 69-70 | 1 [[5. Mechanics/Bestiary/Giant/Ogre.md|ogre]] |
 | 71-72 | 1 [[5. Mechanics/Bestiary/Monstrosity/Griffon.md|griffon]] |
 | 73-75 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md|druid]] |
-| 76-80 | `dice: 3d4\|avg` (`3d4`) refugees ([[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] fleeing from orcs |
+| 76-80 | `dice: 3d4\|avg` (`3d4`) refugees ([[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] fleeing from orcs |
 | 81 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Humanoid/Veteran.md|veterans]] |
 | 82 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Orog.md|orogs]] |
 | 83 | 2 [[5. Mechanics/Bestiary/Beast/Brown Bear.md|brown bears]] |
@@ -50,7 +50,7 @@ aliases: ["Arctic Encounters (Levels 1—4)"]
 | 92-93 | 1 [[5. Mechanics/Bestiary/Giant/Troll.md|troll]] |
 | 94-95 | 1 [[5. Mechanics/Bestiary/Humanoid/Werebear.md|werebear]] |
 | 96-97 | 1 [[5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md|young remorhaz]] |
-| 98 | 1 [[5. Mechanics/Bestiary/Beast/Ma(MM)oth.md|mammoth]] |
+| 98 | 1 [[5. Mechanics/Bestiary/Beast/Mammoth.md|mammoth]] |
 | 99 | 1 [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md|young white dragon]] |
 | 00 | 1 [[5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giant]] |
 ^arctic-encounters-levels-14

@@ -10,7 +10,7 @@ aliases: ["Monsters of Ravenloft"]
 
 Untold terrors haunt the Domains of Dread. Among them skulk nightmares known on countless worlds, but even familiar monsters can take on twisted forms or demonstrate unexpected abilities. This chapter explores ways to help you, the DM, make even the most commonplace monsters more frightening, as well as providing a host of horrors to add to your adventures in the Mists.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/121-05-001-intro-splash.jpg#center|"Darklord Maligno and his carrionette servants ambush the detectives Alanik Ray and Arthur Sedgwick"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/121-05-001-intro-splash.md#center|"Darklord Maligno and his carrionette servants ambush the detectives Alanik Ray and Arthur Sedgwick"]]
 
 ## Horror Monsters
 
@@ -39,7 +39,7 @@ The Whistling Fiend's notoriety has little to do with its stat block. It's famou
 
 ### Describing Monsters
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/122-05-002-the-whistling-fiend.png#center|"The Whistling Fiend is notorious for being heard long before it's seen"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/122-05-002-the-whistling-fiend.md#center|"The Whistling Fiend is notorious for being heard long before it's seen"]]
 
 When adventurers encounter a monster for the first time, especially if its reputation precedes it, dwell on its description. You could tell the players that they see a merrow or hold up the creature's picture from the "Monster Manual". But that first moment of revelation is the best time to paint a horrifying picture of the monster in the players' imaginations. In addition to the techniques described in the ""Running Horror Games"" section of "chapter 4", consider these concepts as you describe a monster:
 

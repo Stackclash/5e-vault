@@ -8,7 +8,7 @@ aliases: ["Misericordia and Other Noble Estates; Noble Families and Estates"]
 # Misericordia and Other Noble Estates; Noble Families and Estates
 *Source: Van Richten's Guide to Ravenloft p. 77* 
 
-`dice: [[Misericordia And Other Noble Estates Noble Families And Estates (VRGR).md#^noble-families-and-estates]]`
+`dice: [[nullMisericordia And Other Noble Estates Noble Families And Estates (VRGR).md#^noble-families-and-estates]]`
 
 **Noble Families and Estates**
 

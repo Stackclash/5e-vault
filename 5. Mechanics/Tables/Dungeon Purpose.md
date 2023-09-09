@@ -8,7 +8,7 @@ aliases: ["Dungeon Purpose"]
 # Dungeon Purpose
 *Source: Dungeon Master's Guide p. 101* 
 
-`dice: [[Dungeon Purpose.md#^dungeon-purpose]]`
+`dice: [[nullDungeon Purpose.md#^dungeon-purpose]]`
 
 **Dungeon Purpose**
 

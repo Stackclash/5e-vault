@@ -20,7 +20,6 @@ tags:
 aliases: ["Protection from Energy"]
 ---
 # Protection from Energy
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Abjuration*  
 
 - **Casting time:** 1 action

@@ -38,7 +38,7 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [[5. Mechanics/Items/Battleaxe.md|battleaxe]], [[5. Mechanics/Items/Handaxe.md|handaxe]], [[5. Mechanics/Items/Light Ha(MM)er.md|light hammer]], and [[5. Mechanics/Items/Warha(MM)er.md|warhammer]].
+You have proficiency with the [[5. Mechanics/Items/Battleaxe.md|battleaxe]], [[5. Mechanics/Items/Handaxe.md|handaxe]], [[5. Mechanics/Items/Light Hammer.md|light hammer]], and [[5. Mechanics/Items/Warhammer.md|warhammer]].
 
 ### Tool Proficiency
 

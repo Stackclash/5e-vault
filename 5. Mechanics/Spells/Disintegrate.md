@@ -10,7 +10,6 @@ tags:
 aliases: ["Disintegrate"]
 ---
 # Disintegrate
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Transmutation*  
 
 - **Casting time:** 1 action

@@ -8,7 +8,7 @@ aliases: ["Travelers in the Mists; Strangers in the Mists"]
 # Travelers in the Mists; Strangers in the Mists
 *Source: Van Richten's Guide to Ravenloft p. 174* 
 
-`dice: [[Travelers In The Mists Strangers In The Mists (VRGR).md#^strangers-in-the-mists]]`
+`dice: [[nullTravelers In The Mists Strangers In The Mists (VRGR).md#^strangers-in-the-mists]]`
 
 **Strangers in the Mists**
 

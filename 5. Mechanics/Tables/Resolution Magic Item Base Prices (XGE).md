@@ -8,7 +8,7 @@ aliases: ["Resolution; Magic Item Base Prices"]
 # Resolution; Magic Item Base Prices
 *Source: Xanathar's Guide to Everything p. 133* 
 
-`dice: [[Resolution Magic Item Base Prices (XGE).md#^table]]`
+`dice: [[nullResolution Magic Item Base Prices (XGE).md#^table]]`
 
 **Magic Item Base Prices**
 

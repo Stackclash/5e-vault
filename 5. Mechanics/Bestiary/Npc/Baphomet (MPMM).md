@@ -7,7 +7,7 @@ tags:
 aliases: ["Baphomet"]
 ---
 # Baphomet
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 58*  
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 

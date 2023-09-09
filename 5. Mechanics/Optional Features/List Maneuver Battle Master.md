@@ -8,7 +8,7 @@ aliases: ["Maneuver, Battle Master"]
 # Maneuver, Battle Master
 *Source: Player's Handbook* 
 
-- [[5. Mechanics/Optional Features/Co(MM)anders Strike.md|Commander's Strike]]
+- [[5. Mechanics/Optional Features/Commanders Strike.md|Commander's Strike]]
 - [[5. Mechanics/Optional Features/Disarming Attack.md|Disarming Attack]]
 - [[5. Mechanics/Optional Features/Distracting Strike.md|Distracting Strike]]
 - [[5. Mechanics/Optional Features/Evasive Footwork.md|Evasive Footwork]]

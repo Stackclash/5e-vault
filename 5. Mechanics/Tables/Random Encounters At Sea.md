@@ -8,7 +8,7 @@ aliases: ["Random Encounters at Sea"]
 # Random Encounters at Sea
 *Source: Dungeon Master's Guide p. 118* 
 
-`dice: [[Random Encounters At Sea.md#^random-encounters-at-sea]]`
+`dice: [[nullRandom Encounters At Sea.md#^random-encounters-at-sea]]`
 
 **Random Encounters at Sea**
 

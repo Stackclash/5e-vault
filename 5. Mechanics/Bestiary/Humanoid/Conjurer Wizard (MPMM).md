@@ -8,7 +8,7 @@ tags:
 aliases: ["Conjurer Wizard"]
 ---
 # Conjurer Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
 

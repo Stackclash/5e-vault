@@ -10,7 +10,6 @@ tags:
 aliases: ["Wish"]
 ---
 # Wish
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Conjuration*  
 
 - **Casting time:** 1 action

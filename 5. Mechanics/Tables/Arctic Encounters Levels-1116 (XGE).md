@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 11—16)"]
 # Arctic Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[Arctic Encounters Levels-1116 (XGE).md#^arctic-encounters-levels-1116]]`
+`dice: [[nullArctic Encounters Levels-1116 (XGE).md#^arctic-encounters-levels-1116]]`
 
 **Arctic Encounters (Levels 11—16)**
 
@@ -21,7 +21,7 @@ aliases: ["Arctic Encounters (Levels 11—16)"]
 | 21-25 | A blizzard that reduces visibility to 5 feet for `dice: 1d6\|avg` (`1d6`) hours |
 | 26-35 | 1 [[5. Mechanics/Bestiary/Monstrosity/Roc.md|roc]] |
 | 36-40 | A herd of `dice: 3d20 + 60\|avg` (`3d20 + 60`) caribou ([[5. Mechanics/Bestiary/Beast/Deer.md|")"]] moving through the snow |
-| 41-50 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Ma(MM)oth.md|mammoths]] |
+| 41-50 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Mammoth.md|mammoths]] |
 | 51-60 | `dice: 1d8 + 1\|avg` (`1d8 + 1`) [[5. Mechanics/Bestiary/Giant/Troll.md|trolls]] |
 | 61-65 | A mile-wide frozen lake in which preserved corpses of strange creatures can be seen |
 | 66-75 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md|young remorhazes]] |

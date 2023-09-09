@@ -8,7 +8,7 @@ aliases: ["Astral Color Pools"]
 # Astral Color Pools
 *Source: Dungeon Master's Guide p. 47* 
 
-`dice: [[Astral Color Pools.md#^astral-color-pools]]`
+`dice: [[nullAstral Color Pools.md#^astral-color-pools]]`
 
 **Astral Color Pools**
 

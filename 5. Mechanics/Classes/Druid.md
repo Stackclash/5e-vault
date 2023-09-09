@@ -237,7 +237,7 @@ The tables include all the individual beasts that are eligible for Wild Shape (u
 | 1 | [[5. Mechanics/Bestiary/Beast/Brown Bear.md|Brown bear]] | — |
 | 2 | [[5. Mechanics/Bestiary/Beast/Polar Bear.md|Polar bear]] | Swim |
 | 2 | [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md|Saber-toothed tiger]] | — |
-| 6 | [[5. Mechanics/Bestiary/Beast/Ma(MM)oth.md|Mammoth]] | — |
+| 6 | [[5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]] | — |
 ^arctic
 
 **Coast**

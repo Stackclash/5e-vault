@@ -8,7 +8,7 @@ aliases: ["Magic Item Table B"]
 # Magic Item Table B
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table B.md#^magic-item-table-b]]`
+`dice: [[nullMagic Item Table B.md#^magic-item-table-b]]`
 
 **Magic Item Table B**
 
@@ -38,12 +38,12 @@ aliases: ["Magic Item Table B"]
 | 87 | [[5. Mechanics/Items/Driftglobe.md|Driftglobe]] |
 | 88 | [[5. Mechanics/Items/Goggles Of Night.md|Goggles of night]] |
 | 89 | [[5. Mechanics/Items/Helm Of Comprehending Languages.md|Helm of comprehending languages]] |
-| 90 | [[5. Mechanics/Items/I(MM)ovable Rod.md|Immovable rod]] |
+| 90 | [[5. Mechanics/Items/Immovable Rod.md|Immovable rod]] |
 | 91 | [[5. Mechanics/Items/Lantern Of Revealing.md|Lantern of revealing]] |
 | 92 | Mariner's armor |
 | 93 | Mithral armor |
 | 94 | [[5. Mechanics/Items/Potion Of Poison.md|Potion of poison]] |
-| 95 | [[5. Mechanics/Items/Ring Of Swi(MM)ing.md|Ring of swimming]] |
+| 95 | [[5. Mechanics/Items/Ring Of Swimming.md|Ring of swimming]] |
 | 96 | [[5. Mechanics/Items/Robe Of Useful Items.md|Robe of useful items]] |
 | 97 | [[5. Mechanics/Items/Rope Of Climbing.md|Rope of climbing]] |
 | 98 | [[5. Mechanics/Items/Saddle Of The Cavalier.md|Saddle of the cavalier]] |

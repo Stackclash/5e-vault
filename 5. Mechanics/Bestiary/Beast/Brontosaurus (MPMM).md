@@ -9,7 +9,7 @@ tags:
 aliases: ["Brontosaurus"]
 ---
 # Brontosaurus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
 

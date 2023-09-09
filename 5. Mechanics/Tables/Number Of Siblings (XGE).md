@@ -8,7 +8,7 @@ aliases: ["Number of Siblings"]
 # Number of Siblings
 *Source: Xanathar's Guide to Everything p. 62* 
 
-`dice: [[Number Of Siblings (XGE).md#^number-of-siblings]]`
+`dice: [[nullNumber Of Siblings (XGE).md#^number-of-siblings]]`
 
 **Number of Siblings**
 

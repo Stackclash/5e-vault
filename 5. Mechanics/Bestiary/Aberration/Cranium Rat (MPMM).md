@@ -9,7 +9,7 @@ tags:
 aliases: ["Cranium Rat"]
 ---
 # Cranium Rat
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat
 

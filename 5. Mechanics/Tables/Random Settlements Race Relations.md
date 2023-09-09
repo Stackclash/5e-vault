@@ -8,7 +8,7 @@ aliases: ["Random Settlements; Race Relations"]
 # Random Settlements; Race Relations
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Race Relations.md#^race-relations]]`
+`dice: [[nullRandom Settlements Race Relations.md#^race-relations]]`
 
 **Race Relations**
 

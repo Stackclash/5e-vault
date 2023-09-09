@@ -10,7 +10,7 @@ tags:
 aliases: ["Nabassu"]
 ---
 # Nabassu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 188*  
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
 

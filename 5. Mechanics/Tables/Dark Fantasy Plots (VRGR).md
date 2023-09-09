@@ -8,7 +8,7 @@ aliases: ["Dark Fantasy Plots"]
 # Dark Fantasy Plots
 *Source: Van Richten's Guide to Ravenloft p. 51* 
 
-`dice: [[Dark Fantasy Plots (VRGR).md#^dark-fantasy-plots]]`
+`dice: [[nullDark Fantasy Plots (VRGR).md#^dark-fantasy-plots]]`
 
 **Dark Fantasy Plots**
 

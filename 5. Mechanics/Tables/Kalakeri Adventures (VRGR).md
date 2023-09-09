@@ -8,7 +8,7 @@ aliases: ["Kalakeri Adventures"]
 # Kalakeri Adventures
 *Source: Van Richten's Guide to Ravenloft p. 128* 
 
-`dice: [[Kalakeri Adventures (VRGR).md#^kalakeri-adventures]]`
+`dice: [[nullKalakeri Adventures (VRGR).md#^kalakeri-adventures]]`
 
 **Kalakeri Adventures**
 
@@ -22,6 +22,6 @@ aliases: ["Kalakeri Adventures"]
 | 6 | A parent asks the characters to bring their runaway teenager home, not knowing their child joined Ramya's army, died, and returned as a [[5. Mechanics/Bestiary/Undead/Wight.md|wight]]. |
 | 7 | Reeva employs the party to find the forbidden ruins of Bahru, said to lie somewhere in the Ashwagangha Mountains. She believes her ancestors imprisoned a powerful force there, which she hopes to awaken and bend to her service. |
 | 8 | The shadows of people in Meenakara are disappearing, and the shadow-bereft soon sicken and die. A local leader claims that the strange plague's cure lies among the hidden isles known as the Ashram of "Niranjan" (detailed in ""Other Domains of Dread"" later in this chapter). |
-| 9 | A [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoner]] begs the characters to prove their sibling's loyalty to Ramya. Time is short, since the sibling was arrested and taken to the Tower of Traitors to face execution. |
+| 9 | A [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] begs the characters to prove their sibling's loyalty to Ramya. Time is short, since the sibling was arrested and taken to the Tower of Traitors to face execution. |
 | 10 | Ramya desires a consort to cement her rulership and bring stability to the kingdom. A character who is a capable warrior catches her attention. |
 ^kalakeri-adventures

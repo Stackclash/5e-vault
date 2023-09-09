@@ -8,7 +8,7 @@ aliases: ["Other Details; Birth Order"]
 # Other Details; Birth Order
 *Source: Xanathar's Guide to Everything p. 62* 
 
-`dice: [[Other Details Birth Order (XGE).md#^birth-order]]`
+`dice: [[nullOther Details Birth Order (XGE).md#^birth-order]]`
 
 **Birth Order**
 

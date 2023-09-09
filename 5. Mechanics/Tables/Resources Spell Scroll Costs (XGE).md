@@ -8,7 +8,7 @@ aliases: ["Resources; Spell Scroll Costs"]
 # Resources; Spell Scroll Costs
 *Source: Xanathar's Guide to Everything p. 133* 
 
-`dice: [[Resources Spell Scroll (COS)ts Xge.md#^spell-scroll-costs]]`
+`dice: [[nullResources Spell Scroll Costs (XGE).md#^spell-scroll-costs]]`
 
 **Spell Scroll Costs**
 

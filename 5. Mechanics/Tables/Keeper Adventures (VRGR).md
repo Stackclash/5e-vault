@@ -8,7 +8,7 @@ aliases: ["Keeper Adventures"]
 # Keeper Adventures
 *Source: Van Richten's Guide to Ravenloft p. 175* 
 
-`dice: [[Keeper Adventures (VRGR).md#^keeper-adventures]]`
+`dice: [[nullKeeper Adventures (VRGR).md#^keeper-adventures]]`
 
 **Keeper Adventures**
 

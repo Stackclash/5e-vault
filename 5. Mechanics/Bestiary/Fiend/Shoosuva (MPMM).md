@@ -11,7 +11,7 @@ tags:
 aliases: ["Shoosuva"]
 ---
 # Shoosuva
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 216*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

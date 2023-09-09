@@ -8,7 +8,7 @@ aliases: ["NPC Appearance"]
 # NPC Appearance
 *Source: Dungeon Master's Guide p. 88* 
 
-`dice: [[Npc Appearance.md#^npc-appearance]]`
+`dice: [[nullNpc Appearance.md#^npc-appearance]]`
 
 **NPC Appearance**
 

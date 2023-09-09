@@ -8,7 +8,6 @@ tags:
 aliases: ["Trebuchet"]
 ---
 # Trebuchet
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 256*  
 
 A trebuchet is a powerful catapult that throws its payload in a high arc, so it can hit targets behind cover.
@@ -19,7 +18,7 @@ A trebuchet typically hurls a heavy stone. However, it can launch other kinds of
 
 ```ad-statblock
 title: Trebuchet
-![[5. Mechanics/bestiary/null/token/trebuchet.png#token]]
+![[5. Mechanics/Bestiary/Null/token/trebuchet.md#token]]
 *Huge Siege weapon*
 
 - **Armor Class** 15 

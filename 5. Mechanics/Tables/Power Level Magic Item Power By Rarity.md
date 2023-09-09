@@ -8,7 +8,7 @@ aliases: ["Power Level; Magic Item Power by Rarity"]
 # Power Level; Magic Item Power by Rarity
 *Source: Dungeon Master's Guide p. 285* 
 
-`dice: [[Power Level Magic Item Power By Rarity.md#^magic-item-power-by-rarity]]`
+`dice: [[nullPower Level Magic Item Power By Rarity.md#^magic-item-power-by-rarity]]`
 
 **Magic Item Power by Rarity**
 

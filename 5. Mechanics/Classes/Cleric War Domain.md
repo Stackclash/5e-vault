@@ -8,7 +8,7 @@ tags:
 aliases: ["War Domain"]
 ---
 # War Domain
-*[[Cleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 63*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Human Names – Slavic, Male"]
 # Human Names – Slavic, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Slavic Male (XGE).md#^human-names-slavic-male]]`
+`dice: [[nullHuman Names Slavic Male (XGE).md#^human-names-slavic-male]]`
 
 **Human Names – Slavic, Male**
 

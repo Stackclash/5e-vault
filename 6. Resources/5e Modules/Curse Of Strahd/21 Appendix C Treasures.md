@@ -12,7 +12,7 @@ Scattered throughout Barovia are ancient treasures that can be brought to bear a
 
 ## Tome of Strahd
 
-![[6. Resources/5e Modules/curse-of-strahd/img/136-cos18-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/136-cos18-01.md#center]]
 
 The [[5. Mechanics/Items/Tome Of Strahd (COS).md|Tome of Strahd]] is an ancient work penned by Strahd, a tragic tale of how he came to his fallen state. The book is bound in a thick leather cover with steel hinges and fastenings. The pages are of parchment and very brittle. Most of the book is written in the curious shorthand that only Strahd employs. Stains and age have made most of the work illegible, but several paragraphs remain intact and readable. If the characters acquire the [[5. Mechanics/Items/Tome Of Strahd (COS).md|Tome of Strahd]] and want to read these paragraphs, show the players the "From the Tome of Strahd" section in appendix F.
 

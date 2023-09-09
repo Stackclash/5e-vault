@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Valor"]
 ---
 # College of Valor
-*[[Bard.md|Bard]]: Bard College*  
+*[[nullBard.md|Bard]]: Bard College*  
 *Source: Player's Handbook p. 55*  
 
 

@@ -5,7 +5,7 @@ aliases: ["Bonds"]
 ---
 # Bonds
 
-`dice: [[Bonds.md#^bonds]]`
+`dice: [[nullBonds.md#^bonds]]`
 
 | Bonds |
 |-------|

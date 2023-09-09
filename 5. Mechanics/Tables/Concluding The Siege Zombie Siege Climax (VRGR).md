@@ -8,7 +8,7 @@ aliases: ["Concluding the Siege; Zombie Siege Climax"]
 # Concluding the Siege; Zombie Siege Climax
 *Source: Van Richten's Guide to Ravenloft p. 105* 
 
-`dice: [[Concluding The Siege Zombie Siege Climax (VRGR).md#^zombie-siege-climax]]`
+`dice: [[nullConcluding The Siege Zombie Siege Climax (VRGR).md#^zombie-siege-climax]]`
 
 **Zombie Siege Climax**
 

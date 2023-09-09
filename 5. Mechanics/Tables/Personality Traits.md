@@ -5,7 +5,7 @@ aliases: ["Personality Traits"]
 ---
 # Personality Traits
 
-`dice: [[Personality Traits.md#^personality-traits]]`
+`dice: [[nullPersonality Traits.md#^personality-traits]]`
 
 | Personality Traits |
 |--------------------|

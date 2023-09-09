@@ -12,7 +12,6 @@ tags:
 aliases: ["Snilloc's Snowball Swarm"]
 ---
 # Snilloc's Snowball Swarm
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action

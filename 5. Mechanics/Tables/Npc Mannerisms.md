@@ -8,7 +8,7 @@ aliases: ["NPC Mannerisms"]
 # NPC Mannerisms
 *Source: Dungeon Master's Guide p. 90* 
 
-`dice: [[Npc Mannerisms.md#^npc-mannerisms]]`
+`dice: [[nullNpc Mannerisms.md#^npc-mannerisms]]`
 
 **NPC Mannerisms**
 

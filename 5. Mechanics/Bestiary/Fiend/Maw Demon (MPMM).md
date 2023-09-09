@@ -8,7 +8,7 @@ tags:
 aliases: ["Maw Demon"]
 ---
 # Maw Demon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 176*  
 
 > [!quote]- A quote from Tasha  
 > 

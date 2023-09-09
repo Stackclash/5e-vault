@@ -8,7 +8,7 @@ aliases: ["Elf Names – Family"]
 # Elf Names – Family
 *Source: Xanathar's Guide to Everything p. 176* 
 
-`dice: [[Elf Names Family (XGE).md#^elf-names-family]]`
+`dice: [[nullElf Names Family (XGE).md#^elf-names-family]]`
 
 **Elf Names – Family**
 

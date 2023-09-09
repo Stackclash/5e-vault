@@ -9,7 +9,7 @@ tags:
 aliases: ["Sword Wraith Commander"]
 ---
 # Sword Wraith Commander
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
 

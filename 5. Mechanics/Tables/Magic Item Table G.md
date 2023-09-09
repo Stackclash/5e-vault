@@ -8,7 +8,7 @@ aliases: ["Magic Item Table G"]
 # Magic Item Table G
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table G.md#^magic-item-table-g]]`
+`dice: [[nullMagic Item Table G.md#^magic-item-table-g]]`
 
 **Magic Item Table G**
 
@@ -26,9 +26,9 @@ aliases: ["Magic Item Table G"]
 | 22 | Berserker axe |
 | 23 | [[5. Mechanics/Items/Boots Of Levitation.md|Boots of levitation]] |
 | 24 | [[5. Mechanics/Items/Boots Of Speed.md|Boots of speed]] |
-| 25 | [[5. Mechanics/Items/Bowl Of Co(MM)anding Water Elementals.md|Bowl of commanding water elementals]] |
+| 25 | [[5. Mechanics/Items/Bowl Of Commanding Water Elementals.md|Bowl of commanding water elementals]] |
 | 26 | [[5. Mechanics/Items/Bracers Of Defense.md|Bracers of defense]] |
-| 27 | [[5. Mechanics/Items/Brazier Of Co(MM)anding Fire Elementals.md|Brazier of commanding fire elementals]] |
+| 27 | [[5. Mechanics/Items/Brazier Of Commanding Fire Elementals.md|Brazier of commanding fire elementals]] |
 | 28 | [[5. Mechanics/Items/Cape Of The Mountebank.md|Cape of the mountebank]] |
 | 29 | [[5. Mechanics/Items/Censer Of Controlling Air Elementals.md|Censer of controlling air elementals]] |
 | 30 | +1 chain mail |

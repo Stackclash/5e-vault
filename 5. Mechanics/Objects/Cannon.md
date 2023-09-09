@@ -8,7 +8,6 @@ tags:
 aliases: ["Cannon"]
 ---
 # Cannon
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A cannon uses gunpowder to propel heavy balls of cast iron through the air at destructive speeds. In a campaign without gunpowder, a cannon might be an arcane device built by clever gnomes or wizardly engineers.
@@ -17,7 +16,7 @@ A cannon is usually supported in a wooden frame with wheels. Before it can be fi
 
 ```ad-statblock
 title: Cannon
-![[5. Mechanics/bestiary/null/token/cannon.png#token]]
+![[5. Mechanics/Bestiary/Null/token/cannon.md#token]]
 *Large Siege weapon*
 
 - **Armor Class** 19 

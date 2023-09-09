@@ -12,7 +12,6 @@ tags:
 aliases: ["Fabricate"]
 ---
 # Fabricate
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Transmutation*  
 
 - **Casting time:** 10 minute

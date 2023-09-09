@@ -8,7 +8,7 @@ aliases: ["Darkon Finale"]
 # Darkon Finale
 *Source: Van Richten's Guide to Ravenloft p. 93* 
 
-`dice: [[Darkon Finale (VRGR).md#^darkon-finale]]`
+`dice: [[nullDarkon Finale (VRGR).md#^darkon-finale]]`
 
 **Darkon Finale**
 

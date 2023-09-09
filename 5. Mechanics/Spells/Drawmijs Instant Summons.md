@@ -10,7 +10,6 @@ tags:
 aliases: ["Drawmij's Instant Summons"]
 ---
 # Drawmij's Instant Summons
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

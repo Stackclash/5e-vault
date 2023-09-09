@@ -8,7 +8,7 @@ tags:
 aliases: ["Green Abishai"]
 ---
 # Green Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
 

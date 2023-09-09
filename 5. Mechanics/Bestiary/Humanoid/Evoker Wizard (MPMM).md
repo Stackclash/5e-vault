@@ -8,7 +8,7 @@ tags:
 aliases: ["Evoker Wizard"]
 ---
 # Evoker Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 262*  
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
 

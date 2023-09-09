@@ -8,7 +8,7 @@ aliases: ["Framing Events"]
 # Framing Events
 *Source: Dungeon Master's Guide p. 79* 
 
-`dice: [[Framing Events.md#^framing-events]]`
+`dice: [[nullFraming Events.md#^framing-events]]`
 
 **Framing Events**
 

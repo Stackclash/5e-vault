@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of the Land"]
 ---
 # Circle of the Land
-*[[Druid.md|Druid]]: Druid Circle*  
+*[[nullDruid.md|Druid]]: Druid Circle*  
 *Source: Player's Handbook p. 68. Available in the SRD.*  
 
 
@@ -40,7 +40,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spike Growth.md|spike growth]] |
 | 5th | [[5. Mechanics/Spells/Sleet Storm.md|sleet storm]], [[5. Mechanics/Spells/Slow.md|slow]] |
 | 7th | [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[5. Mechanics/Spells/Ice Storm.md|ice storm]] |
-| 9th | [[5. Mechanics/Spells/Co(MM)une With Nature.md|commune with nature]], [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]] |
+| 9th | [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]] |
 ^arctic
 
 **Coast**
@@ -70,7 +70,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[5. Mechanics/Spells/Barkskin.md|barkskin]], [[5. Mechanics/Spells/Spider Climb.md|spider climb]] |
 | 5th | [[5. Mechanics/Spells/Call Lightning.md|call lightning]], [[5. Mechanics/Spells/Plant Growth.md|plant growth]] |
 | 7th | [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]] |
-| 9th | [[5. Mechanics/Spells/Co(MM)une With Nature.md|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md|tree stride]] |
+| 9th | [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md|tree stride]] |
 ^forest
 
 **Grassland**

@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Glamour"]
 ---
 # College of Glamour
-*[[Bard.md|Bard]]: Bard College*  
+*[[nullBard.md|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 14*  
 
 
@@ -39,9 +39,9 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ### Mantle of Majesty (Level 6)
 
-At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you cast [[5. Mechanics/Spells/Co(MM)and.md|command]], without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your [[/5. Mechanics/Rules/Conditions.md#concentration|") ends (as if you were concentrating on a spell"]]. During this time, you can cast [[5. Mechanics/Spells/Co(MM)and.md|command]] as a bonus action on each of your turns, without expending a spell slot.
+At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you cast [[5. Mechanics/Spells/Command.md|command]], without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your [[/5. Mechanics/Rules/Conditions.md#concentration|") ends (as if you were concentrating on a spell"]]. During this time, you can cast [[5. Mechanics/Spells/Command.md|command]] as a bonus action on each of your turns, without expending a spell slot.
 
-Any creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by you automatically fails its saving throw against the [[5. Mechanics/Spells/Co(MM)and.md|command]] you cast with this feature.
+Any creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by you automatically fails its saving throw against the [[5. Mechanics/Spells/Command.md|command]] you cast with this feature.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

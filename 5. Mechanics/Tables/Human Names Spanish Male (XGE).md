@@ -8,7 +8,7 @@ aliases: ["Human Names – Spanish, Male"]
 # Human Names – Spanish, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Spanish Male (XGE).md#^human-names-spanish-male]]`
+`dice: [[nullHuman Names Spanish Male (XGE).md#^human-names-spanish-male]]`
 
 **Human Names – Spanish, Male**
 

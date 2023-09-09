@@ -10,7 +10,7 @@ tags:
 aliases: ["Flail Snail"]
 ---
 # Flail Snail
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 126*  
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
 

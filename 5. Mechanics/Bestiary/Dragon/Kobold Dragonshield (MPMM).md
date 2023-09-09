@@ -11,7 +11,7 @@ tags:
 aliases: ["Kobold Dragonshield"]
 ---
 # Kobold Dragonshield
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

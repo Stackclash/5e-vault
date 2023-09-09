@@ -67,7 +67,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
 - "desc": "The solar's spellcasting ability is Charisma (spell save DC 25). It can\
     \ innately cast the following spells, requiring no material components:\n\nAt\
     \ will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Co(MM)une.md|commune]], [control\
+    \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [control\
     \ weather](compendium/spells/control-weather.md)\n\n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]],\
     \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Resurrection.md|resurrection]]"
   "name": "innate"

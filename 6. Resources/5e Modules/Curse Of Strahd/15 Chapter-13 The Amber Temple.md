@@ -8,7 +8,7 @@ aliases: ["Chapter 13: The Amber Temple"]
 # Chapter 13: The Amber Temple
 *Source: Curse of Strahd, p. 181* 
 
-![[6. Resources/5e Modules/curse-of-strahd/img/116-cos13-01.png#center|")
+![[6. Resources/5e Modules/Curse Of Strahd/img/116-cos13-01.md#center|")
 
 A secret society of good-aligned wizards built the Amber Temple in the Balinok Mountains more than two thousand years ago. They needed a vault in which to contain the evil vestiges (remnants of dead, malevolent entities"]] they had captured and the hoard of forbidden knowledge they had amassed. They dedicated the temple to a god of secrets, whom they trusted to keep it hidden from the rest of the world until the end of time. Unfortunately for the wizards, even the will of a god couldn't prevent other evil creatures from learning the temple's location. The wizards were forced to guard the temple themselves, to keep its secrets from falling into villainous hands. The evil forces that were imprisoned within the temple eventually corrupted the wizards, turning them against one another.
 
@@ -34,8 +34,8 @@ Characters who visit the temple can sense the presence of great evil. The dark v
 The following areas correspond to labels on the maps of the Amber Temple below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/117-029.jpg#gallery|Map 13.1: Amber Temple (Area X) - Upper Level]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/118-cos1301.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/117-029.md#gallery|Map 13.1: Amber Temple (Area X) - Upper Level]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/118-cos1301.md#gallery|Player Version]]
 
 All the doors in the temple are fashioned from blocks of translucent amber with iron hinges and fittings. Unless otherwise noted, arrow slits in the temple are 5 inches wide, 4 feet tall, and 1 foot thick.
 
@@ -396,7 +396,7 @@ When one of the doors to this room is opened, read:
 
 The ceiling here is 20 feet high. Amber doors lead south to a hallway (area X18) and east to a shattered balcony (area X23).
 
-The table is real, but the torches, the feast, and the chairs are illusions created by a [[5. Mechanics/Spells/Progra(MM)ed Illusion.md|") spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17"]].
+The table is real, but the torches, the feast, and the chairs are illusions created by a [[5. Mechanics/Spells/Programmed Illusion.md|") spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17"]].
 
 Hidden in plain sight amid the feast on the table is a green copper ewer embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A [[5. Mechanics/Spells/Detect Magic.md|") spell reveals an aura of transmutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light"]], and seven [[5. Mechanics/Bestiary/Undead/Specter.md|specters]] materialize and attack whoever has the ewer.
 
@@ -522,8 +522,8 @@ A book that is taken from the library disintegrates as the magic that preserves 
 The secret door in the center of the west wall can be pulled open to reveal an empty room (area X29). The one in the center of the south wall can be pulled open to reveal a staircase that descends 30 feet to another secret door leading to area X5.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/120-030.jpg#gallery|Map 13.2: Amber Temple (Area X) - Lower Level]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/121-cos1302.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/120-030.md#gallery|Map 13.2: Amber Temple (Area X) - Lower Level]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/121-cos1302.md#gallery|Player Version]]
 
 ### X31. Central Catacombs
 
@@ -903,7 +903,7 @@ Six piles of treasure are numbered on the map.
 - Thirty holy symbols (worth 5 gp each) of gods from various worlds  
 - A set of twelve copper chalices with silver filigree (worth 25 gp each)  
 - A gilded skull with red garnets in its eye sockets (worth 250 gp)  
-- Eight [[5. Mechanics/Items/Warha(MM)er.md|warhammers]] and six [[5. Mechanics/Items/War Pick.md|war picks]]  
+- Eight [[5. Mechanics/Items/Warhammer.md|warhammers]] and six [[5. Mechanics/Items/War Pick.md|war picks]]  
 
 **Pile 5**
 

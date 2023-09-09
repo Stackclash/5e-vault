@@ -9,7 +9,6 @@ tags:
 aliases: ["Eldritch Blast"]
 ---
 # Eldritch Blast
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Evocation*  
 
 - **Casting time:** 1 action

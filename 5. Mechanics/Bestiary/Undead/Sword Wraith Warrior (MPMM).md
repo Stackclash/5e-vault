@@ -9,7 +9,7 @@ tags:
 aliases: ["Sword Wraith Warrior"]
 ---
 # Sword Wraith Warrior
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
 

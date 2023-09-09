@@ -12,7 +12,6 @@ tags:
 aliases: ["Investiture of Flame"]
 ---
 # Investiture of Flame
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Transmutation*  
 
 - **Casting time:** 1 action

@@ -13,7 +13,6 @@ tags:
 aliases: ["Shadow Blade"]
 ---
 # Shadow Blade
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Illusion*  
 
 - **Casting time:** 1 bonus

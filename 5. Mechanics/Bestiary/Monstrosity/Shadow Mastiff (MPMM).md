@@ -10,7 +10,7 @@ tags:
 aliases: ["Shadow Mastiff"]
 ---
 # Shadow Mastiff
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215*  
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
 

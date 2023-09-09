@@ -11,7 +11,7 @@ tags:
 aliases: ["Archdruid"]
 ---
 # Archdruid
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 48*  
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]], and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
 
@@ -25,7 +25,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 | 2 | [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|Earth elemental]] |
 | 3 | [[5. Mechanics/Bestiary/Elemental/Fire Elemental.md|Fire elemental]] |
 | 4 | [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md|Giant crocodile]] |
-| 5 | [[5. Mechanics/Bestiary/Beast/Ma(MM)oth.md|Mammoth]] |
+| 5 | [[5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]] |
 | 6 | [[5. Mechanics/Bestiary/Elemental/Flail Snail (MPMM).md|Flail snail]] |
 | 7 | [[5. Mechanics/Bestiary/Beast/Triceratops.md|Triceratops]] |
 | 8 | [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|Water elemental]] |
@@ -62,7 +62,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 - "desc": "The archdruid casts one of the following spells, using Wisdom as the spellcasting\
     \ ability (spell save DC 17):\n\nAt will: [[5. Mechanics/Spells/Beast Sense.md|beast sense]],\
     \ [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Co(MM)une With Nature.md|commune with nature]]\
+    \n1/day each: [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]]\
     \ (as an action), [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]\n\n\
     3/day each: [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [dominate\
     \ beast](compendium/spells/dominate-beast.md), [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\

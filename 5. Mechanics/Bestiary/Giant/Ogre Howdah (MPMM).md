@@ -10,7 +10,7 @@ tags:
 aliases: ["Ogre Howdah"]
 ---
 # Ogre Howdah
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 201*  
 
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[5. Mechanics/Bestiary/Humanoid/Goblin.md|goblins]] into battle, or perhaps [[5. Mechanics/Bestiary/Humanoid/Kobold.md|kobolds]] or [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|deep gnomes]], but they might also transport other Small folk.
 

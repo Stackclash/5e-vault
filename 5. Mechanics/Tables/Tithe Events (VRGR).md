@@ -8,7 +8,7 @@ aliases: ["Tithe Events"]
 # Tithe Events
 *Source: Van Richten's Guide to Ravenloft p. 160* 
 
-`dice: [[Tithe Events (VRGR).md#^tithe-events]]`
+`dice: [[nullTithe Events (VRGR).md#^tithe-events]]`
 
 **Tithe Events**
 

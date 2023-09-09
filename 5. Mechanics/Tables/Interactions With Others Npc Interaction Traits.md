@@ -8,7 +8,7 @@ aliases: ["Interactions with Others; NPC Interaction Traits"]
 # Interactions with Others; NPC Interaction Traits
 *Source: Dungeon Master's Guide p. 90* 
 
-`dice: [[Interactions With Others Npc Interaction Traits.md#^npc-interaction-traits]]`
+`dice: [[nullInteractions With Others Npc Interaction Traits.md#^npc-interaction-traits]]`
 
 **NPC Interaction Traits**
 

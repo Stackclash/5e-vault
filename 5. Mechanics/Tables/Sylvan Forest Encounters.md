@@ -8,7 +8,7 @@ aliases: ["Sylvan Forest Encounters"]
 # Sylvan Forest Encounters
 *Source: Dungeon Master's Guide p. 86* 
 
-`dice: [[Sylvan Forest Encounters.md#^sylvan-forest-encounters]]`
+`dice: [[nullSylvan Forest Encounters.md#^sylvan-forest-encounters]]`
 
 **Sylvan Forest Encounters**
 

@@ -8,7 +8,7 @@ aliases: ["The Hunters' Role; Hunt for the Ka"]
 # The Hunters' Role; Hunt for the Ka
 *Source: Van Richten's Guide to Ravenloft p. 111* 
 
-`dice: [[The Hunters Role Hunt For The Ka (VRGR).md#^hunt-for-the-ka]]`
+`dice: [[nullThe Hunters Role Hunt For The Ka (VRGR).md#^hunt-for-the-ka]]`
 
 **Hunt for the Ka**
 

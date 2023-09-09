@@ -8,7 +8,7 @@ aliases: ["Level and Lethality; Damage Severity by Level"]
 # Level and Lethality; Damage Severity by Level
 *Source: Xanathar's Guide to Everything p. 116* 
 
-`dice: [[Level And Lethality Damage Severity By Level (XGE).md#^damage-severity-by-level]]`
+`dice: [[nullLevel And Lethality Damage Severity By Level (XGE).md#^damage-severity-by-level]]`
 
 **Damage Severity by Level**
 

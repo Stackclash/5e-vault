@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Family"]
 # Supplemental Tables; Family
 *Source: Xanathar's Guide to Everything p. 63* 
 
-`dice: [[Supplemental Tables Family (XGE).md#^family]]`
+`dice: [[nullSupplemental Tables Family (XGE).md#^family]]`
 
 **Family**
 

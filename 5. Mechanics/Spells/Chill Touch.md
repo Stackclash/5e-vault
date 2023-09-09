@@ -14,7 +14,6 @@ tags:
 aliases: ["Chill Touch"]
 ---
 # Chill Touch
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Necromancy*  
 
 - **Casting time:** 1 action

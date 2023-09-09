@@ -8,7 +8,7 @@ aliases: ["Who Is Tatyana?; Tatyana's Incarnation"]
 # Who Is Tatyana?; Tatyana's Incarnation
 *Source: Van Richten's Guide to Ravenloft p. 70* 
 
-`dice: [[Who Is Tatyana Tatyanas Incarnation (VRGR).md#^tatyanas-incarnation]]`
+`dice: [[nullWho Is Tatyana Tatyanas Incarnation (VRGR).md#^tatyanas-incarnation]]`
 
 **Tatyana's Incarnation**
 

@@ -8,7 +8,7 @@ aliases: ["2,500 gp Art Objects"]
 # 2,500 gp Art Objects
 *Source: Dungeon Master's Guide p. 134* 
 
-`dice: [[2500 Gp Art Objects.md#^2500-gp-art-objects]]`
+`dice: [[null2500 Gp Art Objects.md#^2500-gp-art-objects]]`
 
 **2,500 gp Art Objects**
 

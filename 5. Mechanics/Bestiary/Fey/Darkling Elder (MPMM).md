@@ -11,7 +11,7 @@ tags:
 aliases: ["Darkling Elder"]
 ---
 # Darkling Elder
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 84*  
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
 

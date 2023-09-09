@@ -8,7 +8,7 @@ aliases: ["Training Complications"]
 # Training Complications
 *Source: Xanathar's Guide to Everything p. 134* 
 
-`dice: [[Training Complications (XGE).md#^table]]`
+`dice: [[nullTraining Complications (XGE).md#^table]]`
 
 **Training Complications**
 

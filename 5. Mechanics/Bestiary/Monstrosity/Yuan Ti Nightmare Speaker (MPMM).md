@@ -10,7 +10,7 @@ tags:
 aliases: ["Yuan-ti Nightmare Speaker"]
 ---
 # Yuan-ti Nightmare Speaker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 275*  
 
 Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
 

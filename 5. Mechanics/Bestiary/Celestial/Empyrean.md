@@ -57,7 +57,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
     \ dice: d20+15 (+15 to hit) with spell attacks). It can innately cast the following\
     \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
     \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-    \ [[5. Mechanics/Spells/Water Walk.md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Co(MM)une.md|commune]],\
+    \ [[5. Mechanics/Spells/Water Walk.md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
     \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Earthquake.md|earthquake]],\
     \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only)"

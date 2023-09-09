@@ -208,7 +208,7 @@ A typical D&D session is longer than a typical horror movie, and it can be hard 
 
 Beyond impromptu checks, once during a session, after a scheduled break, check in with the group and consider asking the following questions:
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/106-04-002.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/106-04-002.md#center]]
 
 - What do your characters hope will happen?  
 - What do your characters worry might happen?  
@@ -265,7 +265,7 @@ The tarokka hails from the same world as the domain of Barovia, but it and its u
 
 ### Spirit Board
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/107-04-003.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.md#center]]
 
 Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the tarokka deck, which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
 
@@ -297,7 +297,7 @@ In cases where the curse arises from a creature, such as a dying villain's last 
 
 Most curses have three distinct components: pronouncement, burden, and resolution. Whatever form these take, at least one of them, especially the burden or resolution, should have an ironic connection to the action that triggered the curse.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/108-04-004-a-dying-priest-of-ezra.png#center|A dying priest of Ezra curses his murderer]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.md#center|A dying priest of Ezra curses his murderer]]
 
 #### Pronouncement
 
@@ -409,7 +409,7 @@ The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRG
 
 This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] whose loup garou progenitor has been killed.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/109-04-005-ancient-curse.png#center|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.md#center|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
 
 ## Fear and Stress
 

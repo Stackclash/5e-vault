@@ -16,7 +16,6 @@ tags:
 aliases: ["Bestow Curse"]
 ---
 # Bestow Curse
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Necromancy*  
 
 - **Casting time:** 1 action

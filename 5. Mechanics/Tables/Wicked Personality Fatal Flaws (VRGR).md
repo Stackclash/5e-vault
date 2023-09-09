@@ -8,7 +8,7 @@ aliases: ["Wicked Personality; Fatal Flaws"]
 # Wicked Personality; Fatal Flaws
 *Source: Van Richten's Guide to Ravenloft p. 40* 
 
-`dice: [[Wicked Personality Fatal Flaws (VRGR).md#^fatal-flaws]]`
+`dice: [[nullWicked Personality Fatal Flaws (VRGR).md#^fatal-flaws]]`
 
 **Fatal Flaws**
 

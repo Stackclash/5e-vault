@@ -17,7 +17,6 @@ tags:
 aliases: ["Greater Invisibility"]
 ---
 # Greater Invisibility
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Illusion*  
 
 - **Casting time:** 1 action

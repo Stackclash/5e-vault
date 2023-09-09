@@ -53,7 +53,7 @@ Zybilna was intrigued enough by the shadar-kai to let Isolde go, but not without
 - "desc": "Isolde's spellcasting ability is Charisma (spell save DC 14). Isolde can\
     \ innately cast the following spells, requiring no material components:\n\n1/day:\
     \ [[5. Mechanics/Spells/Plane Shift.md|") (self only"]]\n\n3/day each:\
-    \ [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \ [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]"
   "name": "innate"
 - "desc": "The AC of Isolde includes her Charisma bonus."

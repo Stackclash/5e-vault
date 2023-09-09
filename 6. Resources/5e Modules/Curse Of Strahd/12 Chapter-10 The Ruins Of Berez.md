@@ -12,7 +12,7 @@ Long before [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md|Ireena Kolyana]]
 
 The vampire Strahd first met Marina in this small village on the shore of the Luna River. Marina bore a striking resemblance to Strahd's beloved Tatyana, both in appearance and manner, and she became Strahd's obsession. He seduced her in the dead of night and feasted on her blood, but before she could be turned into a vampire, the burgomaster of Berez, Lazlo Ulrich, with the aid of a local priest named Brother Grigor, killed Marina to save her soul from damnation. Enraged, Strahd slew the priest and the burgomaster, then used his power over the land to swell the river, flooding the village and forcing the residents to flee. Later the marsh crept in, preventing the villagers from returning. Berez has remained mostly abandoned since.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/098-cos10-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/098-cos10-01.md#center]]
 
 The ruins of Berez are now home to [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|") (see appendix D"]], an almost mythic figure tied to Strahd's ancient past. A hermit, she spends most of her time crafting and animating scarecrows to hunt down and kill the ravens and the wereravens that infest Strahd's domain. When she isn't working evil magic, [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] sacrifices beasts to Mother Night and collects their blood, then bathes in the blood on nights of the new moon in a ritual to stave off the effects of extreme old age.
 
@@ -46,8 +46,8 @@ Seven [[5. Mechanics/Bestiary/Construct/Scarecrow.md|scarecrows]] stand guard in
 The following areas correspond to labels on the map of Berez below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/099-026.jpg#gallery|Map 10.1: The Ruins of Berez (Area U)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/100-cos1002.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/099-026.md#gallery|Map 10.1: The Ruins of Berez (Area U)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/100-cos1002.md#gallery|Player Version]]
 
 ### U1. Abandoned Cottages
 
@@ -114,7 +114,7 @@ There is no gate in the fence, and [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS)
 
 > [!gallery]
 > ![Map 10.2: [Baba Lysaga](co...](compendium/adventures/curse-of-strahd/img/101-cos10-02.jpg#gallery "Map 10.2: [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|")'s Creeping Hut"]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/102-cos1001.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/102-cos1001.md#gallery|Player Version]]
 
 [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|") (see appendix D"]] is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking.
 
@@ -131,7 +131,7 @@ The upside-down skull that floats next to the hut is a hill giant's skull that [
 > The hut is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it. All the furnishings except for the crib are bolted to the floor. Beneath the crib, green light seeps up through cracks between the rotting floorboards.
 ^560
 
-The child and the crib are illusions created by [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] using a [[5. Mechanics/Spells/Progra(MM)ed Illusion.md|programmed illusion]] spell. [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] refers to the child as "Strahd" and created the illusion out of madness, because she considers herself a protective mother.
+The child and the crib are illusions created by [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] using a [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]] spell. [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] refers to the child as "Strahd" and created the illusion out of madness, because she considers herself a protective mother.
 
 Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md|Baba Lysaga]] took from the Wizard of the Wines winery. This gem animates the hut (see "The Creeping Hut" in the "Special Events" section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see "Baba Lysaga's Creeping Hut" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
 
@@ -186,7 +186,7 @@ If the characters disturb the monument, read:
 > The croaking frogs and chirping crickets fall silent, and the stench of decay grows strong. You hear the trudge of heavy footsteps through mud and water as bloated gray shapes shamble out of the fog.
 ^568
 
-Seven distended human corpses have risen from the mire west of the monument. These [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md|walking corpses]] are 60 feet away when first seen. Use the [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoner]] statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarm of poisonous snakes]]. The snakes are hungry and fight until slain.
+Seven distended human corpses have risen from the mire west of the monument. These [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md|walking corpses]] are 60 feet away when first seen. Use the [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarm of poisonous snakes]]. The snakes are hungry and fight until slain.
 
 Characters can take the treasure and flee, easily outpacing the snake-swollen corpses.
 
@@ -254,4 +254,4 @@ If the characters have not yet explored Argynvostholt (chapter 7), add:
 
 The dragon, like the soldiers, is a harmless phantom. The mansion that the characters see is Argynvostholt.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/103-cos10-04.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/103-cos10-04.md#center]]

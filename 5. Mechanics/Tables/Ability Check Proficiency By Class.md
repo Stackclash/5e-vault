@@ -8,7 +8,7 @@ aliases: ["Ability Check Proficiency by Class"]
 # Ability Check Proficiency by Class
 *Source: Dungeon Master's Guide p. 263* 
 
-`dice: [[Ability Check Proficiency By Class.md#^ability-check-proficiency-by-class]]`
+`dice: [[nullAbility Check Proficiency By Class.md#^ability-check-proficiency-by-class]]`
 
 **Ability Check Proficiency by Class**
 

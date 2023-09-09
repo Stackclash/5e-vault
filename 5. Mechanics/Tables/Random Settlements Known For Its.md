@@ -8,7 +8,7 @@ aliases: ["Random Settlements; Known For Its..."]
 # Random Settlements; Known For Its...
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Known For Its.md#^known-for-its]]`
+`dice: [[nullRandom Settlements Known For Its.md#^known-for-its]]`
 
 **Known For Its...**
 

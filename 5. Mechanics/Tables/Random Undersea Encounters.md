@@ -8,7 +8,7 @@ aliases: ["Random Undersea Encounters"]
 # Random Undersea Encounters
 *Source: Dungeon Master's Guide p. 116* 
 
-`dice: [[Random Undersea Encounters.md#^random-undersea-encounters]]`
+`dice: [[nullRandom Undersea Encounters.md#^random-undersea-encounters]]`
 
 **Random Undersea Encounters**
 

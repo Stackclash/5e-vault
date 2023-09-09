@@ -8,7 +8,7 @@ tags:
 aliases: ["Grung Wildling"]
 ---
 # Grung Wildling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 150*  
 
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
 

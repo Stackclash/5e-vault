@@ -8,7 +8,7 @@ aliases: ["Horror Characteristics; Horror Character Ideals"]
 # Horror Characteristics; Horror Character Ideals
 *Source: Van Richten's Guide to Ravenloft p. 32* 
 
-`dice: [[Horror Characteristics Horror Character Ideals (VRGR).md#^horror-character-ideals]]`
+`dice: [[nullHorror Characteristics Horror Character Ideals (VRGR).md#^horror-character-ideals]]`
 
 **Horror Character Ideals**
 

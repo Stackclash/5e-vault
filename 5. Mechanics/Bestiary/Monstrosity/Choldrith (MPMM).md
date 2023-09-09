@@ -8,7 +8,7 @@ tags:
 aliases: ["Choldrith"]
 ---
 # Choldrith
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 77*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
 

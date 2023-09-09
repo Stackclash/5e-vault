@@ -10,7 +10,6 @@ tags:
 aliases: ["Transmute Rock"]
 ---
 # Transmute Rock
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 1 action

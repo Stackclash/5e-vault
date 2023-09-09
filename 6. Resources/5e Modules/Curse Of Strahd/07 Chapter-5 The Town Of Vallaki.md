@@ -10,7 +10,7 @@ aliases: ["Chapter 5: The Town of Vallaki"]
 
 Located close to the shores of Lake Zarovich, the town of Vallaki (pronounced vah-*lah*-key) seems like a safe haven against the evils of the Svalich Woods, if not Strahd himself. The town lies beyond the sight of Castle Ravenloft and doesn't, at first blush, seem as depressed (or oppressed) as the village of Barovia farther east. Characters who spend time in Vallaki, however, quickly realize that there is no happiness here, only false hope—which Strahd himself cultivates.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/046-cos05-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/046-cos05-01.md#center]]
 
 Vallaki was founded not long after Strahd's armies conquered the valley by an ancestor of the town's current burgomaster, [[5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]. The Vallakoviches have royal blood in their veins and have long believed themselves superior to the Zarovich line. Baron Vallakovich has deluded himself into believing that hope and happiness are the keys to Vallaki's salvation. If he can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.
 
@@ -34,8 +34,8 @@ When the characters first approach Vallaki, read:
 A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/047-013.jpg#gallery|Map 5.1: Vallaki (Area N)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/048-cos05-02-player.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/047-013.md#gallery|Map 5.1: Vallaki (Area N)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.md#gallery|Player Version]]
 
 ### Town Gates
 
@@ -49,7 +49,7 @@ Heavy iron chains with iron padlocks keep the gates shut at night. During the da
 
 Two town [[5. Mechanics/Bestiary/Humanoid/Guard.md|") (LG male and female humans"]] stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `dice: 1d10 + 1|avg` (`1d10 + 1`) piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|")"]] check to convince the guards to unlock the gate and let them enter.
 
-If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human [[5. Mechanics/Bestiary/Humanoid/Guard.md|"), half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls"]]. The town can also muster a militia of fifty able-bodied human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]] armed with clubs, daggers, and torches.
+If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human [[5. Mechanics/Bestiary/Humanoid/Guard.md|"), half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls"]]. The town can also muster a militia of fifty able-bodied human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] armed with clubs, daggers, and torches.
 
 ### House Occupants
 
@@ -69,7 +69,7 @@ A house infested with rats appears abandoned at first. The rats are servants of 
 
 #### Townsfolk
 
-A house of Vallakian townsfolk contains `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] and `dice: 1d8|avg` (`1d8`)−1 children (male and female human noncombatants). Anyone who listens at the door hears chatter from within. Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules.
+A house of Vallakian townsfolk contains `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] and `dice: 1d8|avg` (`1d8`)−1 children (male and female human noncombatants). Anyone who listens at the door hears chatter from within. Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules.
 
 #### Cultists
 
@@ -110,11 +110,11 @@ This church is dedicated to the Morninglord and named after St. Andral, whose bo
 
 Father Lucian Petrovich (LG male human [[5. Mechanics/Bestiary/Humanoid/Priest.md|")) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant"]]. A brawny lad with a perpetually furrowed brow named [[5. Mechanics/Bestiary/Npc/Milivoj (COS).md|") (see below"]] tends the grounds and digs graves.
 
-At night, the church is packed with `dice: 2d6 + 6|avg` (`2d6 + 6`) [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] and `dice: 2d6|avg` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with `dice: 2d6 + 6|avg` (`2d6 + 6`) [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] Vallakian adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] and `dice: 2d6|avg` (`2d6`) equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 
 ![[[5. Mechanics/Bestiary/Npc/Milivoj (COS).md|Milivoj]]](compendium/adventures/curse-of-strahd/img/049-cos05-03.png#center)
 
-[[5. Mechanics/Bestiary/Npc/Milivoj (COS).md|Milivoj]] (N male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
+[[5. Mechanics/Bestiary/Npc/Milivoj (COS).md|Milivoj]] (N male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
 
 - His Strength is 15 (+2).  
 - His melee weapon attack bonus is +4, and he deals 4 (`dice: 1d4 + 2|avg` (`1d4 + 2`)) bludgeoning damage when he hits with the blunt head of his shovel.  
@@ -147,8 +147,8 @@ The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the 
 The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/050-014.jpg#gallery|Map 5.2: Blue Water Inn (Area N2)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/051-cos501.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/050-014.md#gallery|Map 5.2: Blue Water Inn (Area N2)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/051-cos501.md#gallery|Player Version]]
 
 #### Keepers of the Feather
 
@@ -194,7 +194,7 @@ Danika Martikov usually tends bar while her husband busies himself in the kitche
 
 Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
 
-From noon to dusk, the taproom holds `dice: 2d4|avg` (`2d4`) local patrons (male and female [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]]. Between dusk and midnight, `dice: 2d8|avg` (`2d8`) Vallakians are here. In addition, one or more of the following people might be present during this time.
+From noon to dusk, the taproom holds `dice: 2d4|avg` (`2d4`) local patrons (male and female [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]]. Between dusk and midnight, `dice: 2d8|avg` (`2d8`) Vallakians are here. In addition, one or more of the following people might be present during this time.
 
 ##### Wolf Hunters
 
@@ -369,7 +369,7 @@ Brom and Bray Martikova don't spend much time in this room. The toy box contains
 
 A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q).
 
-![[6. Resources/5e Modules/curse-of-strahd/img/054-cos05-07.png#center|The Martikov Family]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/054-cos05-07.md#center|The Martikov Family]]
 
 #### N2p. Master Bedroom
 
@@ -414,11 +414,11 @@ If your card reading reveals that a treasure is here, it is in the iron strongbo
 
 People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer (area N3a) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
 
-If the characters knock on the front doors, a maid (LG female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")) lets them in, escorts them to the den (area N3e"]], and leaves to fetch the baron.
+If the characters knock on the front doors, a maid (LG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")) lets them in, escorts them to the den (area N3e"]], and leaves to fetch the baron.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/055-015.jpg#gallery|Map 5.3: Burgomaster's Mansion (Area N3)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/056-cos502.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/055-015.md#gallery|Map 5.3: Burgomaster's Mansion (Area N3)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/056-cos502.md#gallery|Player Version]]
 
 #### Roleplaying the Vallakovich Family
 
@@ -430,17 +430,17 @@ The burgomaster, [[5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md|B
 
 The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md|") (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8"]].
 
-If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]] to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]] to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
+If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]] to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
 
 If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/057-cos05-09.png#center|The Baroness and Baron]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/057-cos05-09.md#center|The Baroness and Baron]]
 
 Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn't Izek's forte. Searches have been organized, to no avail.
 
 ##### The Baroness
 
-At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], has embraced her husband's philosophy of happiness. She laughs at the baron's every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (chapter 4, area K84, crypt 11).
+At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], has embraced her husband's philosophy of happiness. She laughs at the baron's every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (chapter 4, area K84, crypt 11).
 
 ##### The Baronet
 
@@ -479,7 +479,7 @@ Characters can hear the chatter of female voices as they approach this room. The
 > A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
 ^369
 
-The women seated at the table are eight Vallakian peasants (female [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children's costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
+The women seated at the table are eight Vallakian peasants (female [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children's costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
 
 Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den (area N3e) and then to inform Baron Vallakovich (see area N2l"]] that his guests have arrived.
 
@@ -516,7 +516,7 @@ The mounted bear's head is meant to unnerve visitors. It serves as a subtle warn
 > This room contains four simple beds and an equal number of plain wooden trunks.
 ^370
 
-The household staff consists of a maid (LG female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] and a cook (LG male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")). The other two beds belonged to the butler and the baroness's lady-in-waiting, both of whom have gone missing (see area N3t"]]. The trunks contain the staff's clothing and uniforms.
+The household staff consists of a maid (LG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] and a cook (LG male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")). The other two beds belonged to the butler and the baroness's lady-in-waiting, both of whom have gone missing (see area N3t"]]. The trunks contain the staff's clothing and uniforms.
 
 #### N3g. Kitchen
 
@@ -615,7 +615,7 @@ The door to this room is locked. The baron carries the key.
 > Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
 ^382
 
-The man is a Vallakian shoemaker named Udo Lukovich (LN male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")). He was arrested during the Wolf's Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
+The man is a Vallakian shoemaker named Udo Lukovich (LN male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")). He was arrested during the Wolf's Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
 
 Baron Vallakovich has the key to Udo's manacles. The manacles break if they take 10 damage or more from a single weapon attack.
 
@@ -773,8 +773,8 @@ Victor's spellbook contains all the spells Victor has prepared (see the [[5. Mec
 The Wachter family, once an influential noble line in Barovia, owns and occupies a mansion in Vallaki. The house's reigning governess, Fiona Wachter, is a loyal servant of Strahd. She seeks to supplant Baron Vallakovich as the town burgomaster.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/058-016.jpg#gallery|Map 5.4: Wachterhaus (Area N4)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/059-cos503.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/058-016.md#gallery|Map 5.4: Wachterhaus (Area N4)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/059-cos503.md#gallery|Player Version]]
 
 #### Roleplaying
 
@@ -799,7 +799,7 @@ Lady Wachter has a different list of prepared spells from that of the [[5. Mecha
 > [!quote] ...
 > 
 > - Cantrips (at will): [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]  
-> - 1st level (4 slots): [[5. Mechanics/Spells/Co(MM)and.md|command]], [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]  
+> - 1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]  
 > - 2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Gentle Repose.md|gentle repose]], [[5. Mechanics/Spells/Hold Person.md|hold person]]  
 > - 3rd level (2 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]  
 ^39e
@@ -873,7 +873,7 @@ The stairs connect the servants' closet (area N4f) with the cellar (area N4s). L
 > The furnishing in this room are bereft of imagination: four simple beds with equally austere wooden chests.
 ^3ad
 
-Lady Wachter's four servants (N male and female [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] sleep here at night. They include a cook named Dhavit, two maids named Madalena and Amalthia, and a valet named Haliq. The servants know Lady Wachter's secrets, but they would sooner die than betray her.
+Lady Wachter's four servants (N male and female [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] sleep here at night. They include a cook named Dhavit, two maids named Madalena and Amalthia, and a valet named Haliq. The servants know Lady Wachter's secrets, but they would sooner die than betray her.
 
 #### N4i. Parlor
 
@@ -939,7 +939,7 @@ The door to this room is locked from both sides, and only Lady Wachter has a key
 > Scurrying away from you on all fours is a young woman in a soiled nightgown. She leaps onto the bed and hisses like a cat. "Little kitty doesn't know you!" she shouts. "Little kitty doesn't like the smell of you!"
 ^3ba
 
-The young woman is [[5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md|Stella Wachter]] (CG female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], Lady Wachter's insane daughter. A [[5. Mechanics/Spells/Greater Restoration.md|") spell rids her of the madness that makes her think she's a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother's secrets, apart from her mother's desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral's church (area N1"]], Father Lucian offers to look after her, and she agrees to stay with him.
+The young woman is [[5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md|Stella Wachter]] (CG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], Lady Wachter's insane daughter. A [[5. Mechanics/Spells/Greater Restoration.md|") spell rids her of the madness that makes her think she's a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother's secrets, apart from her mother's desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral's church (area N1"]], Father Lucian offers to look after her, and she agrees to stay with him.
 
 #### N4o. Master Bedroom
 
@@ -1052,7 +1052,7 @@ The pentagram is a nonmagical decoration, though Lady Wachter would have her cul
 > Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "[[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]]'s Carnival of Wonders." A heavy padlock secures the back door.
 ^3ca
 
-The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]]. They sell items from the "Adventuring Gear" table in the "Player's Handbook" that have a price of 25 gp or less, but at five times the price.
+The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]]. They sell items from the "Adventuring Gear" table in the "Player's Handbook" that have a price of 25 gp or less, but at five times the price.
 
 #### Rictavio's Carnival Wagon
 
@@ -1073,7 +1073,7 @@ The wagon also contains the torn-up remains of a doll. A character who makes a s
 
 If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|") (area N2"]] or [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md|") (area N7"]]. The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/061-cos05-12.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/061-cos05-12.md#center]]
 
 #### Treasure
 
@@ -1099,7 +1099,7 @@ If your card reading reveals that a treasure is here, it is hidden with the othe
 > This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.
 ^3d0
 
-[[5. Mechanics/Bestiary/Npc/Henrik Van Der Voort (COS).md|Henrik van der Voort]] (LE male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker "good business" in exchange for his help. Since then, Henrik's workshop has become the lair of a pack of vampire spawn—former adventurers who were turned by Strahd. These vampires are lying low for the time being.
+[[5. Mechanics/Bestiary/Npc/Henrik Van Der Voort (COS).md|Henrik van der Voort]] (LE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker "good business" in exchange for his help. Since then, Henrik's workshop has become the lair of a pack of vampire spawn—former adventurers who were turned by Strahd. These vampires are lying low for the time being.
 
 ![[Henrik Van Der Voort](com...](compendium/adventures/curse-of-strahd/img/062-cos05-14.png#center "[[5. Mechanics/Bestiary/Npc/Henrik Van Der Voort (COS).md|")"]]
 
@@ -1112,8 +1112,8 @@ If the characters break into the store, Henrik offers no resistance. He tells th
 If the characters report the theft of the bones to the burgomaster, Baron Vallakovich dispatches four [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]] to arrest Henrik and retrieve the bones. If the guards show up during daylight hours, Henrik surrenders himself and the bones without a fight, claiming that vampires forced him to steal the bones. If the guards come at night, Henrik surrenders himself and tells the guards where the bones are hidden, but he won't retrieve the bones himself for fear of being killed by the vampires.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/063-cos05-13.png#gallery|Map 5.5: Coffin Maker's Shop (Area N6)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/064-cos504.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/063-cos05-13.md#gallery|Map 5.5: Coffin Maker's Shop (Area N6)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/064-cos504.md#gallery|Player Version]]
 
 #### N6a. Coffin Storage
 
@@ -1184,7 +1184,7 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 > This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 ^3e0
 
-Vallaki's toymaker, [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md|Gadof Blinsky]] (CG male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
+Vallaki's toymaker, [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md|Gadof Blinsky]] (CG male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
 
 ![[Gadof Blinsky](compendium...](compendium/adventures/curse-of-strahd/img/065-cos05-15.png#center "[[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md|Gadof Blinsky]] and [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md|")"]]
 
@@ -1260,7 +1260,7 @@ Most Vallakians have no idea whom the statue in the square represents. The burgo
 
 The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and [[5. Mechanics/Bestiary/Npc/Izek Strazni (COS).md|Izek Strazni]] carries the keys on an iron ring.
 
-Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished. The five adults have the statistics of human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]], and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
+Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished. The five adults have the statistics of human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]], and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
 
 Freeing one or more prisoners without the baron's consent is a crime. If the characters are witnessed doing so, Izek rallies the town [[5. Mechanics/Bestiary/Humanoid/Guard.md|") (twenty-four in all"]] and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, Izek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
 
@@ -1280,8 +1280,8 @@ Several footpaths and horse trails lead to this location in the woods southwest 
 This natural clearing serves as a permanent campsite for the Vistani and their dusk elf allies.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/066-018.jpg#gallery|Map 5.6: Vistani Camp (Area N9)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/067-cos505.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/066-018.md#gallery|Map 5.6: Vistani Camp (Area N9)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/067-cos505.md#gallery|Player Version]]
 
 #### Roleplaying the Vistani and the Elves
 
@@ -1427,7 +1427,7 @@ There are three of these wagons at the camp.
 > This barrel-topped wagon is filled with the raucous screams and laughter of children.
 ^401
 
-Each of these wagons contains one Vistani adult (male or female human [[5. Mechanics/Bestiary/Humanoid/Vistana Co(MM)oner Cos.md|")"]] and `dice: 1d4 + 1|avg` (`1d4 + 1`) Vistani children (male and female human noncombatants). The adult is watching the children playing games, teaching the children about their heritage, or telling a scary story to frighten the children.
+Each of these wagons contains one Vistani adult (male or female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md|")"]] and `dice: 1d4 + 1|avg` (`1d4 + 1`) Vistani children (male and female human noncombatants). The adult is watching the children playing games, teaching the children about their heritage, or telling a scary story to frighten the children.
 
 #### N9i. Vistani Treasure Wagon
 

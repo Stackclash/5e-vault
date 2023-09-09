@@ -8,7 +8,7 @@ aliases: ["Urban Encounters (Levels 11—16)"]
 # Urban Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 110* 
 
-`dice: [[Urban Encounters Levels-1116 (XGE).md#^urban-encounters-levels-1116]]`
+`dice: [[nullUrban Encounters Levels-1116 (XGE).md#^urban-encounters-levels-1116]]`
 
 **Urban Encounters (Levels 11—16)**
 
@@ -34,7 +34,7 @@ aliases: ["Urban Encounters (Levels 11—16)"]
 | 56-58 | 2d4 [[5. Mechanics/Bestiary/Fiend/Cambion.md|cambions]] |
 | 59-61 | 1d10 [[5. Mechanics/Bestiary/Undead/Revenant.md|revenants]] |
 | 62-65 | 2d4 [[5. Mechanics/Bestiary/Monstrosity/Phase Spider.md|phase spiders]] |
-| 66-69 | A scruffy [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoner]] that ducks into an alley to make a purchase from a suspicious looking figure |
+| 66-69 | A scruffy [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] that ducks into an alley to make a purchase from a suspicious looking figure |
 | 70-72 | 1d8 [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md|invisible stalkers]] |
 | 73-75 | 1d8 + 1 [[5. Mechanics/Bestiary/Humanoid/Gladiator.md|gladiators]] |
 | 76-80 | Two farmers trading blows over the price of potatoes (50% chance for one farmer to be a retired [[5. Mechanics/Bestiary/Humanoid/Assassin.md|")"]] |

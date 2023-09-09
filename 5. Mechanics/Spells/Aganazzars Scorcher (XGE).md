@@ -12,7 +12,6 @@ tags:
 aliases: ["Aganazzar's Scorcher"]
 ---
 # Aganazzar's Scorcher
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action

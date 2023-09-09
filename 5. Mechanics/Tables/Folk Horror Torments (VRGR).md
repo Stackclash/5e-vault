@@ -8,7 +8,7 @@ aliases: ["Folk Horror Torments"]
 # Folk Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
-`dice: [[Folk Horror Torments (VRGR).md#^folk-horror-torments]]`
+`dice: [[nullFolk Horror Torments (VRGR).md#^folk-horror-torments]]`
 
 **Folk Horror Torments**
 

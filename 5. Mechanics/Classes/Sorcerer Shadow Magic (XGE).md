@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Magic"]
 ---
 # Shadow Magic
-*[[Sorcerer.md|Sorcerer]]: Sorcerous Origin*  
+*[[nullSorcerer.md|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 

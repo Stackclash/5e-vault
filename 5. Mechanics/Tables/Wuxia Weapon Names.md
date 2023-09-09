@@ -8,7 +8,7 @@ aliases: ["Wuxia Weapon Names"]
 # Wuxia Weapon Names
 *Source: Dungeon Master's Guide p. 41* 
 
-`dice: [[Wuxia Weapon Names.md#^wuxia-weapon-names]]`
+`dice: [[nullWuxia Weapon Names.md#^wuxia-weapon-names]]`
 
 **Wuxia Weapon Names**
 

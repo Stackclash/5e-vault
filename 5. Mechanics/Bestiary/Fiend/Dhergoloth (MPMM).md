@@ -8,7 +8,7 @@ tags:
 aliases: ["Dhergoloth"]
 ---
 # Dhergoloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

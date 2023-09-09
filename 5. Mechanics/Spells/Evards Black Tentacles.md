@@ -12,7 +12,6 @@ tags:
 aliases: ["Evard's Black Tentacles"]
 ---
 # Evard's Black Tentacles
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action

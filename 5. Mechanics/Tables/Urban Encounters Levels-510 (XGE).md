@@ -8,7 +8,7 @@ aliases: ["Urban Encounters (Levels 5—10)"]
 # Urban Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 110* 
 
-`dice: [[Urban Encounters Levels-510 (XGE).md#^urban-encounters-levels-510]]`
+`dice: [[nullUrban Encounters Levels-510 (XGE).md#^urban-encounters-levels-510]]`
 
 **Urban Encounters (Levels 5—10)**
 

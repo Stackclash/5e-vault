@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Boons"]
 # Secondary Tables; Boons
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[Secondary Tables Boons (XGE).md#^boons]]`
+`dice: [[nullSecondary Tables Boons (XGE).md#^boons]]`
 
 **Boons**
 

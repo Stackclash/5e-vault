@@ -8,7 +8,7 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 # Creating a Monster Stat Block; Monster Features
 *Source: Dungeon Master's Guide p. 275* 
 
-`dice: [[Creating A Monster Stat Block Monster Features.md#^monster-features]]`
+`dice: [[nullCreating A Monster Stat Block Monster Features.md#^monster-features]]`
 
 **Monster Features**
 

@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; General Features"]
 # Dungeon Dressing; General Features
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing General Features.md#^general-features]]`
+`dice: [[nullDungeon Dressing General Features.md#^general-features]]`
 
 **General Features**
 

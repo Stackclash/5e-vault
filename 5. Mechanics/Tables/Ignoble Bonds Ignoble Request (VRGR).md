@@ -8,7 +8,7 @@ aliases: ["Ignoble Bonds; Ignoble Request"]
 # Ignoble Bonds; Ignoble Request
 *Source: Van Richten's Guide to Ravenloft p. 82* 
 
-`dice: [[Ignoble Bonds Ignoble Request (VRGR).md#^ignoble-request]]`
+`dice: [[nullIgnoble Bonds Ignoble Request (VRGR).md#^ignoble-request]]`
 
 **Ignoble Request**
 

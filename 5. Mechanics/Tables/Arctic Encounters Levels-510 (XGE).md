@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 5—10)"]
 # Arctic Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[Arctic Encounters Levels-510 (XGE).md#^arctic-encounters-levels-510]]`
+`dice: [[nullArctic Encounters Levels-510 (XGE).md#^arctic-encounters-levels-510]]`
 
 **Arctic Encounters (Levels 5—10)**
 
@@ -34,7 +34,7 @@ aliases: ["Arctic Encounters (Levels 5—10)"]
 | 69-72 | 1 [[5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md|orc Eye of Gruumsh]] with `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Orog.md|orogs]] and `dice: 2d8 + 6\|avg` (`2d8 + 6`) [[5. Mechanics/Bestiary/Humanoid/Orc.md|orcs]] |
 | 73-75 | 1 [[5. Mechanics/Bestiary/Undead/Revenant.md|revenant]] |
 | 76-80 | A howl that echoes over the land for `dice: 1d3\|avg` (`1d3`) minutes |
-| 81-82 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Beast/Ma(MM)oth.md|mammoths]] |
+| 81-82 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Beast/Mammoth.md|mammoths]] |
 | 83-84 | 1 [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md|young white dragon]] |
 | 85-86 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md|winter wolves]] |
 | 87-88 | `dice: 1d6 + 2\|avg` (`1d6 + 2`) [[5. Mechanics/Bestiary/Monstrosity/Yeti.md|yetis]] |

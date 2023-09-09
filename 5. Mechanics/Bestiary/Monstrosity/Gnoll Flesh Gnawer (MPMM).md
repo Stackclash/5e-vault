@@ -11,7 +11,7 @@ tags:
 aliases: ["Gnoll Flesh Gnawer"]
 ---
 # Gnoll Flesh Gnawer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 144*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
 

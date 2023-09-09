@@ -8,7 +8,7 @@ aliases: ["Determine the Party's Goals; Event-Based Goals"]
 # Determine the Party's Goals; Event-Based Goals
 *Source: Dungeon Master's Guide p. 76* 
 
-`dice: [[Determine The Partys Goals Event Based Goals.md#^event-based-goals]]`
+`dice: [[nullDetermine The Partys Goals Event Based Goals.md#^event-based-goals]]`
 
 **Event-Based Goals**
 

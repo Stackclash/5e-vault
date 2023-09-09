@@ -8,7 +8,7 @@ aliases: ["Human Names – Spanish, Female"]
 # Human Names – Spanish, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Spanish Female (XGE).md#^human-names-spanish-female]]`
+`dice: [[nullHuman Names Spanish Female (XGE).md#^human-names-spanish-female]]`
 
 **Human Names – Spanish, Female**
 

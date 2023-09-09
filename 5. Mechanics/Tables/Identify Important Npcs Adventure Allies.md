@@ -8,7 +8,7 @@ aliases: ["Identify Important NPCs; Adventure Allies"]
 # Identify Important NPCs; Adventure Allies
 *Source: Dungeon Master's Guide p. 74* 
 
-`dice: [[Identify Important Npcs Adventure Allies.md#^adventure-allies]]`
+`dice: [[nullIdentify Important Npcs Adventure Allies.md#^adventure-allies]]`
 
 **Adventure Allies**
 

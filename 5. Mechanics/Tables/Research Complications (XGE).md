@@ -8,7 +8,7 @@ aliases: ["Research Complications"]
 # Research Complications
 *Source: Xanathar's Guide to Everything p. 132* 
 
-`dice: [[Research Complications (XGE).md#^table]]`
+`dice: [[nullResearch Complications (XGE).md#^table]]`
 
 **Research Complications**
 

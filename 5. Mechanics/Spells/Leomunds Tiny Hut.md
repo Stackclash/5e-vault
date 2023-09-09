@@ -13,7 +13,6 @@ tags:
 aliases: ["Leomund's Tiny Hut"]
 ---
 # Leomund's Tiny Hut
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Evocation (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

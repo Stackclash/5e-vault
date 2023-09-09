@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Four Elements"]
 ---
 # Way of the Four Elements
-*[[Monk.md|Monk]]: Monastic Tradition*  
+*[[nullMonk.md|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
 
@@ -57,7 +57,7 @@ The elemental disciplines are presented in alphabetical order. If a discipline r
 - [[5. Mechanics/Optional Features/Fist Of Four Thunders.md|Fist of Four Thunders]]  
 - [[5. Mechanics/Optional Features/Unbroken Air.md|Unbroken Air]]  
 - [[5. Mechanics/Optional Features/Flames Of The Phoenix.md|Flames of the Phoenix]]  
-- [[5. Mechanics/Optional Features/Gong Of The Su(MM)it.md|Gong of the Summit]]  
+- [[5. Mechanics/Optional Features/Gong Of The Summit.md|Gong of the Summit]]  
 - [[5. Mechanics/Optional Features/Mist Stance.md|Mist Stance]]  
 - [[5. Mechanics/Optional Features/Ride The Wind.md|Ride the Wind]]  
 - [[5. Mechanics/Optional Features/River Of Hungry Flame.md|River of Hungry Flame]]  

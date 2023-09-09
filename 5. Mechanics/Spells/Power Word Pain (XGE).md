@@ -11,7 +11,6 @@ tags:
 aliases: ["Power Word Pain"]
 ---
 # Power Word Pain
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Enchantment*  
 
 - **Casting time:** 1 action

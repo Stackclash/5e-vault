@@ -9,7 +9,7 @@ tags:
 aliases: ["Sea Spawn"]
 ---
 # Sea Spawn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 211*  
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
 

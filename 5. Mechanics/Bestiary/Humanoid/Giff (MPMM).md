@@ -8,7 +8,7 @@ tags:
 aliases: ["Giff"]
 ---
 # Giff
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 138*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

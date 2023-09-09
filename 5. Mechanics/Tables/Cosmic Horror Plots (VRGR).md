@@ -8,7 +8,7 @@ aliases: ["Cosmic Horror Plots"]
 # Cosmic Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
-`dice: [[(COS)mic Horror Plots Vrgr.md#^cosmic-horror-plots]]`
+`dice: [[nullCosmic Horror Plots (VRGR).md#^cosmic-horror-plots]]`
 
 **Cosmic Horror Plots**
 

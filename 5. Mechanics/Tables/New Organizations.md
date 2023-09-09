@@ -8,7 +8,7 @@ aliases: ["New Organizations"]
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 
 
-`dice: [[New Organizations.md#^new-organizations]]`
+`dice: [[nullNew Organizations.md#^new-organizations]]`
 
 **New Organizations**
 

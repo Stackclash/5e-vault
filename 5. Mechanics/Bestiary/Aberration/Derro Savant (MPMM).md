@@ -8,7 +8,7 @@ tags:
 aliases: ["Derro Savant"]
 ---
 # Derro Savant
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

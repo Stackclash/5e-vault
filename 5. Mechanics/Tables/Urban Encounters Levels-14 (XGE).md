@@ -8,19 +8,19 @@ aliases: ["Urban Encounters (Levels 1—4)"]
 # Urban Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 110* 
 
-`dice: [[Urban Encounters Levels-14 (XGE).md#^urban-encounters-levels-14]]`
+`dice: [[nullUrban Encounters Levels-14 (XGE).md#^urban-encounters-levels-14]]`
 
 **Urban Encounters (Levels 1—4)**
 
 | `dice: d100\|avg` (`d100`) | Encounter |
 |-------------|--------------|-----------|
 | 01 | 1d6 [[5. Mechanics/Bestiary/Beast/Cat.md|cats]] |
-| 02-03 | 1 [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoner]] with 1d6 [[5. Mechanics/Bestiary/Beast/Goat.md|goats]] |
+| 02-03 | 1 [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] with 1d6 [[5. Mechanics/Bestiary/Beast/Goat.md|goats]] |
 | 04-05 | 2d10 [[5. Mechanics/Bestiary/Beast/Rat.md|rats]] |
 | 06 | 1 [[5. Mechanics/Bestiary/Beast/Raven.md|raven]] perched on a signpost |
-| 07 | 1 [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoner]] on a [[5. Mechanics/Bestiary/Beast/Draft Horse.md|draft horse]] |
+| 07 | 1 [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoner]] on a [[5. Mechanics/Bestiary/Beast/Draft Horse.md|draft horse]] |
 | 08 | 2d4 [[5. Mechanics/Bestiary/Beast/Mastiff.md|mastiffs]] |
-| 09 | 1d2 [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]] leading 1d4 [[5. Mechanics/Bestiary/Beast/Mule.md|mules]] or 1d4 [[5. Mechanics/Bestiary/Beast/Pony.md|ponies]] |
+| 09 | 1d2 [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] leading 1d4 [[5. Mechanics/Bestiary/Beast/Mule.md|mules]] or 1d4 [[5. Mechanics/Bestiary/Beast/Pony.md|ponies]] |
 | 10 | 1 [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|pseudodragon]] |
 | 11 | 1 [[5. Mechanics/Bestiary/Humanoid/Spy.md|spy]] |
 | 12-13 | 1d8 + 1 [[5. Mechanics/Bestiary/Humanoid/Acolyte.md|acolytes]] |

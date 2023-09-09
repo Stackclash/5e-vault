@@ -7,7 +7,7 @@ tags:
 aliases: ["Zariel"]
 ---
 # Zariel
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 280*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

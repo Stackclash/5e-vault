@@ -8,7 +8,7 @@ aliases: ["Current Chamber State"]
 # Current Chamber State
 *Source: Dungeon Master's Guide p. 295* 
 
-`dice: [[Current Chamber State.md#^current-chamber-state]]`
+`dice: [[nullCurrent Chamber State.md#^current-chamber-state]]`
 
 **Current Chamber State**
 

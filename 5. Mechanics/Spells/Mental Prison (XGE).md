@@ -11,7 +11,6 @@ tags:
 aliases: ["Mental Prison"]
 ---
 # Mental Prison
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Illusion*  
 
 - **Casting time:** 1 action

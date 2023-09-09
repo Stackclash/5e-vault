@@ -8,7 +8,7 @@ aliases: ["Dwarf Names – Female"]
 # Dwarf Names – Female
 *Source: Xanathar's Guide to Everything p. 176* 
 
-`dice: [[Dwarf Names Female (XGE).md#^dwarf-names-female]]`
+`dice: [[nullDwarf Names Female (XGE).md#^dwarf-names-female]]`
 
 **Dwarf Names – Female**
 

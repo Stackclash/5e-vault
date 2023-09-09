@@ -9,7 +9,7 @@ tags:
 aliases: ["Alhoon"]
 ---
 # Alhoon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

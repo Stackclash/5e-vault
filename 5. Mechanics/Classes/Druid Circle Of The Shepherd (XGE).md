@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of the Shepherd"]
 ---
 # Circle of the Shepherd
-*[[Druid.md|Druid]]: Druid Circle*  
+*[[nullDruid.md|Druid]]: Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 23*  
 
 

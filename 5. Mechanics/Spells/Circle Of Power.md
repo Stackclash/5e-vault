@@ -9,7 +9,6 @@ tags:
 aliases: ["Circle of Power"]
 ---
 # Circle of Power
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Abjuration*  
 
 - **Casting time:** 1 action

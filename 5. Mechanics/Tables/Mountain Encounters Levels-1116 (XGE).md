@@ -8,7 +8,7 @@ aliases: ["Mountain Encounters (Levels 11—16)"]
 # Mountain Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 104* 
 
-`dice: [[Mountain Encounters Levels-1116 (XGE).md#^mountain-encounters-levels-1116]]`
+`dice: [[nullMountain Encounters Levels-1116 (XGE).md#^mountain-encounters-levels-1116]]`
 
 **Mountain Encounters (Levels 11—16)**
 

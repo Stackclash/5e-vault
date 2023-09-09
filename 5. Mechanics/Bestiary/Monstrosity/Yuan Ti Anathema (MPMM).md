@@ -10,7 +10,7 @@ tags:
 aliases: ["Yuan-ti Anathema"]
 ---
 # Yuan-ti Anathema
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 272*  
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
 

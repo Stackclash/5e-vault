@@ -9,7 +9,7 @@ tags:
 aliases: ["Dolphin"]
 ---
 # Dolphin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
 

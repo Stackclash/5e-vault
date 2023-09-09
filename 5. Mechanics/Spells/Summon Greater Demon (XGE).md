@@ -12,7 +12,6 @@ tags:
 aliases: ["Summon Greater Demon"]
 ---
 # Summon Greater Demon
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action

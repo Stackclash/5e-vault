@@ -8,7 +8,7 @@ aliases: ["Richemulot Adventures"]
 # Richemulot Adventures
 *Source: Van Richten's Guide to Ravenloft p. 153* 
 
-`dice: [[Richemulot Adventures (VRGR).md#^richemulot-adventures]]`
+`dice: [[nullRichemulot Adventures (VRGR).md#^richemulot-adventures]]`
 
 **Richemulot Adventures**
 

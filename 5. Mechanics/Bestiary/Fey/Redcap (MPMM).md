@@ -10,7 +10,7 @@ tags:
 aliases: ["Redcap"]
 ---
 # Redcap
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 208*  
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
 

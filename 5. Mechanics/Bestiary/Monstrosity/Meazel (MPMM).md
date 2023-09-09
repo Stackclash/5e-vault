@@ -15,7 +15,7 @@ tags:
 aliases: ["Meazel"]
 ---
 # Meazel
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 177*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Hadrosaurus"]
 ---
 # Hadrosaurus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
 

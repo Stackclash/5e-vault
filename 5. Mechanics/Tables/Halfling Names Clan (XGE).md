@@ -8,7 +8,7 @@ aliases: ["Halfling Names – Clan"]
 # Halfling Names – Clan
 *Source: Xanathar's Guide to Everything p. 179* 
 
-`dice: [[Halfling Names Clan (XGE).md#^halfling-names-clan]]`
+`dice: [[nullHalfling Names Clan (XGE).md#^halfling-names-clan]]`
 
 **Halfling Names – Clan**
 

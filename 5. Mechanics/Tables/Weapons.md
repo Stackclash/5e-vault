@@ -8,7 +8,7 @@ aliases: ["Weapons"]
 # Weapons
 *Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Weapons.md#^weapons]]`
+`dice: [[nullWeapons.md#^weapons]]`
 
 **Weapons**
 
@@ -20,7 +20,7 @@ aliases: ["Weapons"]
 | [[5. Mechanics/Items/Greatclub.md|Greatclub]] | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed |
 | [[5. Mechanics/Items/Handaxe.md|Handaxe]] | 5 gp | 1d6 slashing | 2 lb. | Light, thrown (range 20/60) |
 | [[5. Mechanics/Items/Javelin.md|Javelin]] | 5 sp | 1d6 piercing | 2 lb. | Thrown (range 30/120) |
-| [[5. Mechanics/Items/Light Ha(MM)er.md|Light hammer]] | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) |
+| [[5. Mechanics/Items/Light Hammer.md|Light hammer]] | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) |
 | [[5. Mechanics/Items/Mace.md|Mace]] | 5 gp | 1d6 bludgeoning | 4 lb. | — |
 | [[5. Mechanics/Items/Quarterstaff.md|Quarterstaff]] | 2 sp | 1d6 bludgeoning | 4 lb. | Versatile (1d8) |
 | [[5. Mechanics/Items/Sickle.md|Sickle]] | 1 gp | 1d4 slashing | 2 lb. | Light |
@@ -47,7 +47,7 @@ aliases: ["Weapons"]
 | [[5. Mechanics/Items/Shortsword.md|Shortsword]] | 10 gp | 1d6 piercing | 2 lb. | Finesse, light |
 | [[5. Mechanics/Items/Trident.md|Trident]] | 5 gp | 1d6 piercing | 4 lb. | Thrown (range 20/60), versatile (1d8) |
 | [[5. Mechanics/Items/War Pick.md|War pick]] | 5 gp | 1d8 piercing | 2 lb. | — |
-| [[5. Mechanics/Items/Warha(MM)er.md|Warhammer]] | 15 gp | 1d8 bludgeoning | 2 lb. | Versatile (1d10) |
+| [[5. Mechanics/Items/Warhammer.md|Warhammer]] | 15 gp | 1d8 bludgeoning | 2 lb. | Versatile (1d10) |
 | [[5. Mechanics/Items/Whip.md|Whip]] | 2 gp | 1d4 slashing | 3 lb. | Finesse, reach |
 | *Martial Ranged Weapons* |  |  |  |  |
 | [[5. Mechanics/Items/Blowgun.md|Blowgun]] | 10 gp | 1 piercing | 1 lb. | Ammunition (range 25/100), loading |

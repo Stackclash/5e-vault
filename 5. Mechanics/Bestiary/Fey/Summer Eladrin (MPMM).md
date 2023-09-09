@@ -9,7 +9,7 @@ tags:
 aliases: ["Summer Eladrin"]
 ---
 # Summer Eladrin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
 

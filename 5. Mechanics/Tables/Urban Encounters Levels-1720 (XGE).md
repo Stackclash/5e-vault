@@ -8,7 +8,7 @@ aliases: ["Urban Encounters (Levels 17—20)"]
 # Urban Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 110* 
 
-`dice: [[Urban Encounters Levels-1720 (XGE).md#^urban-encounters-levels-1720]]`
+`dice: [[nullUrban Encounters Levels-1720 (XGE).md#^urban-encounters-levels-1720]]`
 
 **Urban Encounters (Levels 17—20)**
 

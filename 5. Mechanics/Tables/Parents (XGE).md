@@ -8,7 +8,7 @@ aliases: ["Parents"]
 # Parents
 *Source: Xanathar's Guide to Everything p. 62* 
 
-`dice: [[Parents (XGE).md#^parents]]`
+`dice: [[nullParents (XGE).md#^parents]]`
 
 **Parents**
 

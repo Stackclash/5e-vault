@@ -8,7 +8,7 @@ aliases: ["Hill Encounters (Levels 1—4)"]
 # Hill Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 101* 
 
-`dice: [[Hill Encounters Levels-14 (XGE).md#^hill-encounters-levels-14]]`
+`dice: [[nullHill Encounters Levels-14 (XGE).md#^hill-encounters-levels-14]]`
 
 **Hill Encounters (Levels 1—4)**
 
@@ -18,7 +18,7 @@ aliases: ["Hill Encounters (Levels 1—4)"]
 | 02-03 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Baboon.md|baboons]] |
 | 04-06 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Bandit.md|bandits]] |
 | 07 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Vulture.md|vultures]] |
-| 08 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]] |
+| 08 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]] |
 | 09 | 1 [[5. Mechanics/Bestiary/Beast/Raven.md|raven]] |
 | 10 | 1 [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|poisonous snake]] |
 | 11-13 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Bandit.md|bandits]] `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md|tribal warriors]] |

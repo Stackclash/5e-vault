@@ -7,7 +7,7 @@ tags:
 aliases: ["Thief"]
 ---
 # Thief
-*[[Rogue.md|Rogue]]: Roguish Archetype*  
+*[[nullRogue.md|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97. Available in the SRD and the Basic Rules.*  
 
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Apprentice Wizard"]
 ---
 # Apprentice Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 259*  
 
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
 

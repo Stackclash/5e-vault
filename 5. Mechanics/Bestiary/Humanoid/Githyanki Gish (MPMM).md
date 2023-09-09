@@ -11,7 +11,7 @@ tags:
 aliases: ["Githyanki Gish"]
 ---
 # Githyanki Gish
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
 

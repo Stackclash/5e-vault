@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; Utensils and Personal Items"]
 # Dungeon Dressing; Utensils and Personal Items
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Utensils And Personal Items.md#^utensils-and-personal-items]]`
+`dice: [[nullDungeon Dressing Utensils And Personal Items.md#^utensils-and-personal-items]]`
 
 **Utensils and Personal Items**
 

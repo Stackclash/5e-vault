@@ -11,7 +11,7 @@ tags:
 aliases: ["Clockwork Iron Cobra"]
 ---
 # Clockwork Iron Cobra
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
 

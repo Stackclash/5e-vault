@@ -8,7 +8,7 @@ aliases: ["Random Settlements; Notable Traits"]
 # Random Settlements; Notable Traits
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[Random Settlements Notable Traits.md#^notable-traits]]`
+`dice: [[nullRandom Settlements Notable Traits.md#^notable-traits]]`
 
 **Notable Traits**
 

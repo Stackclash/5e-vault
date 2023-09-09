@@ -7,7 +7,7 @@ tags:
 aliases: ["Geryon"]
 ---
 # Geryon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
 

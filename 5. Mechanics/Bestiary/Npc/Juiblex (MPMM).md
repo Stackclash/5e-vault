@@ -7,7 +7,7 @@ tags:
 aliases: ["Juiblex"]
 ---
 # Juiblex
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
 

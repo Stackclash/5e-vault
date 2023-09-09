@@ -8,7 +8,7 @@ aliases: ["Alien Artifacts; Aberrant Evidence"]
 # Alien Artifacts; Aberrant Evidence
 *Source: Van Richten's Guide to Ravenloft p. 75* 
 
-`dice: [[Alien Artifacts Aberrant Evidence (VRGR).md#^aberrant-evidence]]`
+`dice: [[nullAlien Artifacts Aberrant Evidence (VRGR).md#^aberrant-evidence]]`
 
 **Aberrant Evidence**
 

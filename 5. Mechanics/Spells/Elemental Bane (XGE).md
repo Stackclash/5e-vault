@@ -13,7 +13,6 @@ tags:
 aliases: ["Elemental Bane"]
 ---
 # Elemental Bane
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Transmutation*  
 
 - **Casting time:** 1 action

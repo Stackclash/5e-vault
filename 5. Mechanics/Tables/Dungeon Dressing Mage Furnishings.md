@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; Mage Furnishings"]
 # Dungeon Dressing; Mage Furnishings
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[Dungeon Dressing Mage Furnishings.md#^mage-furnishings]]`
+`dice: [[nullDungeon Dressing Mage Furnishings.md#^mage-furnishings]]`
 
 **Mage Furnishings**
 

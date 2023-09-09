@@ -16,7 +16,7 @@ Includes:
 
 - a [[5. Mechanics/Items/Backpack.md|backpack]]  
 - a [[5. Mechanics/Items/Bedroll.md|bedroll]]  
-- 2 [[5. Mechanics/Items/(COS)tume Clothes.md|costumes]]  
+- 2 [[5. Mechanics/Items/Costume Clothes.md|costumes]]  
 - 5 [[5. Mechanics/Items/Candle.md|candles]]  
 - 5 days of [[5. Mechanics/Items/Rations-1 Day.md|rations]]  
 - a [[5. Mechanics/Items/Waterskin.md|waterskin]]  

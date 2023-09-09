@@ -8,7 +8,7 @@ aliases: ["At Sea Encounters"]
 # At Sea Encounters
 *Source: Dungeon Master's Guide p. 118* 
 
-`dice: [[At Sea Encounters.md#^at-sea-encounters]]`
+`dice: [[nullAt Sea Encounters.md#^at-sea-encounters]]`
 
 **At Sea Encounters**
 

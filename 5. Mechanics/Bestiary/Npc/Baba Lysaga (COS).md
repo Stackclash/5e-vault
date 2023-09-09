@@ -90,7 +90,7 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
     \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (2 5th-level slots):\
     \ [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Geas.md|geas]],\
     \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
-    \ [[5. Mechanics/Spells/Progra(MM)ed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
+    \ [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
     \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
     \ [[5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\n8th level (1 8th-level\
     \ slots): [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"

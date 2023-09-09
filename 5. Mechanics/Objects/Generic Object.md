@@ -8,7 +8,6 @@ tags:
 aliases: ["Generic Object"]
 ---
 # Generic Object
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 246. Available in the SRD.*  
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
@@ -47,7 +46,7 @@ Big objects such as castle walls often have extra resilience represented by a da
 
 ```ad-statblock
 title: Generic Object
-![[5. Mechanics/bestiary/null/token/generic-object.png#token]]
+![[5. Mechanics/Bestiary/Null/token/generic-object.md#token]]
 *Varies Generic*
 
 

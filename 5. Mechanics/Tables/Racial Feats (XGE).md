@@ -8,7 +8,7 @@ aliases: ["Racial Feats"]
 # Racial Feats
 *Source: Xanathar's Guide to Everything p. 73* 
 
-`dice: [[Racial Feats (XGE).md#^racial-feats]]`
+`dice: [[nullRacial Feats (XGE).md#^racial-feats]]`
 
 **Racial Feats**
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Drow Matron Mother"]
 ---
 # Drow Matron Mother
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 104*  
 
 Among drow followers of Lolth, each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
 
@@ -58,7 +58,7 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
 "traits":
 - "desc": "The drow casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 20):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Co(MM)and.md|command]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
     \n1/day each: [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\

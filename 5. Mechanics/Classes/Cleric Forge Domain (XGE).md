@@ -8,7 +8,7 @@ tags:
 aliases: ["Forge Domain"]
 ---
 # Forge Domain
-*[[Cleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 18*  
 
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Blue Abishai"]
 ---
 # Blue Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 39*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
 

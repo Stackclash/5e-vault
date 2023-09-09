@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 5—10)"]
 # Desert Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[Desert Encounters Levels-510 (XGE).md#^desert-encounters-levels-510]]`
+`dice: [[nullDesert Encounters Levels-510 (XGE).md#^desert-encounters-levels-510]]`
 
 **Desert Encounters (Levels 5—10)**
 
@@ -23,7 +23,7 @@ aliases: ["Desert Encounters (Levels 5—10)"]
 | 07-08 | 1 [[5. Mechanics/Bestiary/Beast/Lion.md|lion]] |
 | 09-10 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|gnolls]] |
 | 11-12 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Beast/Giant Toad.md|giant toads]] |
-| 13-17 | 1 [[5. Mechanics/Bestiary/Undead/Mu(MM)y.md|mummy]] |
+| 13-17 | 1 [[5. Mechanics/Bestiary/Undead/Mummy.md|mummy]] |
 | 18-20 | `dice: 1d8 + 1\|avg` (`1d8 + 1`) [[5. Mechanics/Bestiary/Beast/Giant Vulture.md|giant vultures]] |
 | 21-25 | A stone obelisk partly buried in the sand |
 | 26-28 | 1 [[5. Mechanics/Bestiary/Giant/Ogre.md|ogre]] with `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md|half-ogres]] |

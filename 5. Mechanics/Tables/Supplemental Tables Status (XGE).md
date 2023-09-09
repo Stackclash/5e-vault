@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Status"]
 # Supplemental Tables; Status
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[Supplemental Tables Status (XGE).md#^status]]`
+`dice: [[nullSupplemental Tables Status (XGE).md#^status]]`
 
 **Status**
 

@@ -8,7 +8,7 @@ aliases: ["Mountain Encounters (Levels 5—10)"]
 # Mountain Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 104* 
 
-`dice: [[Mountain Encounters Levels-510 (XGE).md#^mountain-encounters-levels-510]]`
+`dice: [[nullMountain Encounters Levels-510 (XGE).md#^mountain-encounters-levels-510]]`
 
 **Mountain Encounters (Levels 5—10)**
 

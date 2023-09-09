@@ -7,7 +7,7 @@ tags:
 aliases: ["Yeenoghu"]
 ---
 # Yeenoghu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 270*  
 
 The Beast of Butchery appears as a great scarred gnoll, towering 14 feet tall. Yeenoghu is the Gnoll Lord, and his creations are made in his twisted image. When the demon lord hunted across the Material Plane, packs of hyenas followed in his wake, and those that ate of great Yeenoghu's kills became gnolls. Few others worship the Beast of Butchery, but those who do tend to take on a gnoll-like aspect, hunching over and filing their teeth down to points.
 

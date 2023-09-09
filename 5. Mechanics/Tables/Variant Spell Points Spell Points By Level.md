@@ -8,7 +8,7 @@ aliases: ["Variant: Spell Points; Spell Points by Level"]
 # Variant: Spell Points; Spell Points by Level
 *Source: Dungeon Master's Guide p. 288* 
 
-`dice: [[Variant Spell Points Spell Points By Level.md#^spell-points-by-level]]`
+`dice: [[nullVariant Spell Points Spell Points By Level.md#^spell-points-by-level]]`
 
 **Spell Points by Level**
 

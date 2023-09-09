@@ -7,7 +7,7 @@ tags:
 aliases: ["School of Necromancy"]
 ---
 # School of Necromancy
-*[[Wizard.md|Wizard]]: Arcane Tradition*  
+*[[nullWizard.md|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 118*  
 
 

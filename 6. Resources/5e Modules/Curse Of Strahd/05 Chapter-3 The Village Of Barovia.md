@@ -8,7 +8,7 @@ aliases: ["Chapter 3: The Village of Barovia"]
 # Chapter 3: The Village of Barovia
 *Source: Curse of Strahd, p. 41* 
 
-![[6. Resources/5e Modules/curse-of-strahd/img/012-cos03-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/012-cos03-01.md#center]]
 
 The village of Barovia is the saddest place in the land, its residents so terrified of Strahd that they rarely venture from their homes. The village lies in the shadow of Castle Ravenloft, buried under fog but still unable to hide from the vampire's sight.
 
@@ -51,7 +51,7 @@ A house infested with rats looks abandoned. The rats are servants of Strahd and 
 
 #### Barovian Villagers
 
-A house of Barovian villagers is home to `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] and `dice: 1d8|avg` (`1d8`)−1 children (male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
+A house of Barovian villagers is home to `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] and `dice: 1d8|avg` (`1d8`)−1 children (male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
 
 #### Strahd Zombies
 
@@ -62,8 +62,8 @@ When the characters open a door or a shuttered window of a house infested with S
 The following areas correspond to labels on the map of the village of Barovia below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/013-003.jpg#gallery|Map 3.1: Village of Barovia]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/014-cos301.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/013-003.md#gallery|Map 3.1: Village of Barovia]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/014-cos301.md#gallery|Player Version]]
 
 ### E1. Bildrath's Mercantile
 
@@ -72,7 +72,7 @@ The following areas correspond to labels on the map of the village of Barovia be
 > The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
 ^145
 
-The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir (LN male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], sells items from the "Adventuring Gear" table in the "Player's Handbook", but only items with a price lower than 25 gp in the table, and he sells them for ten times the price.
+The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir (LN male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], sells items from the "Adventuring Gear" table in the "Player's Handbook", but only items with a price lower than 25 gp in the table, and he sells them for ten times the price.
 
 Bildrath trades with the Vistani when they pass through. He is also happy to make a profit from any strangers unlucky enough to find themselves here. He serves his own interests and offers no sanctuary. He never bargains since, as he says, "If you want it badly enough, you'll pay for it." He has no competition in the village.
 
@@ -89,7 +89,7 @@ The tavern building is about 60 feet square. Close inspection of the sign reveal
 
 #### Roleplaying Ismark
 
-![[6. Resources/5e Modules/curse-of-strahd/img/015-cos03-03.png#center|Ismark the Lesser]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/015-cos03-03.md#center|Ismark the Lesser]]
 
 Ismark (LG male human [[5. Mechanics/Bestiary/Humanoid/Veteran.md|")"]] is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father for most of his life.
 
@@ -107,7 +107,7 @@ Use the following information to roleplay the other NPCs in the tavern.
 
 ##### Arik the Barkeep
 
-A pudgy little man named Arik Lorensk (CN male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] tends bar. Mindlessly, he cleans glasses, one after another. When they're all clean, he starts over. If he is spoken to, he takes orders for drinks in a dull, hollow voice. A small glass of wine costs 1 cp. A pitcher of wine costs 1 sp. After serving drinks, Arik returns to cleaning glasses. He ignores all attempts to question him.
+A pudgy little man named Arik Lorensk (CN male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] tends bar. Mindlessly, he cleans glasses, one after another. When they're all clean, he starts over. If he is spoken to, he takes orders for drinks in a dull, hollow voice. A small glass of wine costs 1 cp. A pitcher of wine costs 1 sp. After serving drinks, Arik returns to cleaning glasses. He ignores all attempts to question him.
 
 ##### Vistani Owners
 
@@ -124,7 +124,7 @@ If the characters arrive in the company of other Vistani, the owners are much mo
 
 ![[Mad Mary](compendium/best...](compendium/adventures/curse-of-strahd/img/016-cos03-04.png#center "[[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md|")"]]
 
-The house, which is about 40 feet square, is boarded up and barricaded from the inside. [[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md|Mad Mary]] (CN female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
+The house, which is about 40 feet square, is boarded up and barricaded from the inside. [[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md|Mad Mary]] (CN female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
 
 Mary hid her beloved daughter, [[5. Mechanics/Bestiary/Npc/Gertruda (COS).md|Gertruda]], in this house for the girl's entire life. [[5. Mechanics/Bestiary/Npc/Gertruda (COS).md|Gertruda]], now a teenager, broke out of the house a week ago and has not been seen since. Her mother fears the worst—and is justified in doing so. See area K42 in chapter 4 for more information on [[5. Mechanics/Bestiary/Npc/Gertruda (COS).md|Gertruda]]'s fate.
 
@@ -179,8 +179,8 @@ The village priest, [[5. Mechanics/Bestiary/Npc/Donavich (COS).md|Donavich]], li
 The following areas correspond to labels on the map of the church below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/018-004.jpg#gallery|Map 3.2: Church]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/019-cos302.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/018-004.md#gallery|Map 3.2: Church]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/019-cos302.md#gallery|Player Version]]
 
 #### E5a. Hall
 
@@ -327,4 +327,4 @@ This event occurs as the characters make their way through the village.
 - Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants can be found in a ruined mansion west of Vallaki (see chapter 7, "Argynvostholt").  
 - Strahd's most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).  
 
-![[6. Resources/5e Modules/curse-of-strahd/img/022-cos03-09.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/022-cos03-09.md#center]]

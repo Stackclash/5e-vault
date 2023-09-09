@@ -8,7 +8,7 @@ aliases: ["Tiefling Names – Male"]
 # Tiefling Names – Male
 *Source: Xanathar's Guide to Everything p. 180* 
 
-`dice: [[Tiefling Names Male (XGE).md#^tiefling-names-male]]`
+`dice: [[nullTiefling Names Male (XGE).md#^tiefling-names-male]]`
 
 **Tiefling Names – Male**
 

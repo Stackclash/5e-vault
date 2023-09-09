@@ -8,7 +8,7 @@ aliases: ["Middle-Class Carousing Complications"]
 # Middle-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 
 
-`dice: [[Middle Class Carousing Complications (XGE).md#^table]]`
+`dice: [[nullMiddle Class Carousing Complications (XGE).md#^table]]`
 
 **Middle-Class Carousing Complications**
 

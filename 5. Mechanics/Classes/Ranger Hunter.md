@@ -7,7 +7,7 @@ tags:
 aliases: ["Hunter"]
 ---
 # Hunter
-*[[Ranger.md|Ranger]]: Ranger Archetype*  
+*[[nullRanger.md|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93. Available in the SRD.*  
 
 

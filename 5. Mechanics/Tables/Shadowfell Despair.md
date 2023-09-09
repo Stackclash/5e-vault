@@ -8,7 +8,7 @@ aliases: ["Shadowfell Despair"]
 # Shadowfell Despair
 *Source: Dungeon Master's Guide p. 52* 
 
-`dice: [[Shadowfell Despair.md#^shadowfell-despair]]`
+`dice: [[nullShadowfell Despair.md#^shadowfell-despair]]`
 
 **Shadowfell Despair**
 

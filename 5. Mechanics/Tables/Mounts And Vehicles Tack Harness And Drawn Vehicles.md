@@ -8,7 +8,7 @@ aliases: ["Mounts and Vehicles; Tack, Harness, and Drawn Vehicles"]
 # Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 *Source: Player's Handbook p. 155. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Mounts And Vehicles Tack Harness And Drawn Vehicles.md#^tack-harness-and-drawn-vehicles]]`
+`dice: [[nullMounts And Vehicles Tack Harness And Drawn Vehicles.md#^tack-harness-and-drawn-vehicles]]`
 
 **Tack, Harness, and Drawn Vehicles**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Open Hand"]
 ---
 # Way of the Open Hand
-*[[Monk.md|Monk]]: Monastic Tradition*  
+*[[nullMonk.md|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 79. Available in the SRD.*  
 
 

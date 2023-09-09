@@ -8,7 +8,7 @@ aliases: ["500 gp Gemstones"]
 # 500 gp Gemstones
 *Source: Dungeon Master's Guide p. 134* 
 
-`dice: [[500 Gp Gemstones.md#^500-gp-gemstones]]`
+`dice: [[null500 Gp Gemstones.md#^500-gp-gemstones]]`
 
 **500 gp Gemstones**
 

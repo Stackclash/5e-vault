@@ -7,7 +7,7 @@ tags:
 aliases: ["Oathbreaker"]
 ---
 # Oathbreaker
-*[[Paladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md|Paladin]]: Sacred Oath*  
 *Source: Dungeon Master's Guide p. 97*  
 
 

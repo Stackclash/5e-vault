@@ -8,7 +8,7 @@ aliases: ["NPC Abilities"]
 # NPC Abilities
 *Source: Dungeon Master's Guide p. 88* 
 
-`dice: [[Npc Abilities.md#^npc-abilities]]`
+`dice: [[nullNpc Abilities.md#^npc-abilities]]`
 
 **NPC Abilities**
 

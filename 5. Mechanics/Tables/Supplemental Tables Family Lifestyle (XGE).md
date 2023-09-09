@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Family Lifestyle"]
 # Supplemental Tables; Family Lifestyle
 *Source: Xanathar's Guide to Everything p. 63* 
 
-`dice: [[Supplemental Tables Family Lifestyle (XGE).md#^table]]`
+`dice: [[nullSupplemental Tables Family Lifestyle (XGE).md#^table]]`
 
 **Family Lifestyle**
 

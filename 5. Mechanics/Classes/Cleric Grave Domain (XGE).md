@@ -8,7 +8,7 @@ tags:
 aliases: ["Grave Domain"]
 ---
 # Grave Domain
-*[[Cleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 19*  
 
 

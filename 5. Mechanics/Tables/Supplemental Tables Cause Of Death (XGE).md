@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Cause of Death"]
 # Supplemental Tables; Cause of Death
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[Supplemental Tables Cause Of Death (XGE).md#^cause-of-death]]`
+`dice: [[nullSupplemental Tables Cause Of Death (XGE).md#^cause-of-death]]`
 
 **Cause of Death**
 

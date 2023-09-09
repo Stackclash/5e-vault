@@ -15,7 +15,7 @@ tags:
 aliases: ["Vampiric Mist"]
 ---
 # Vampiric Mist
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [[5. Mechanics/Bestiary/Undead/Vampire.md|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 

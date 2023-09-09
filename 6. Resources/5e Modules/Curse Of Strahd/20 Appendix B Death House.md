@@ -90,8 +90,8 @@ Characters who remain outside the house can see the mists close in around them, 
 The following areas correspond to labels on the map of the house below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/134-deathhousedm.jpg#gallery|Map B.1: Death House]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/135-deathhouseplayer.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.md#gallery|Map B.1: Death House]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.md#gallery|Player Version]]
 
 ### 1. Entrance
 

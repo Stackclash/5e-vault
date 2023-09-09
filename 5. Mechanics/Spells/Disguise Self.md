@@ -15,7 +15,6 @@ tags:
 aliases: ["Disguise Self"]
 ---
 # Disguise Self
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Illusion*  
 
 - **Casting time:** 1 action

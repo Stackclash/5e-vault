@@ -8,7 +8,7 @@ aliases: ["Variant: Customizing Ability Scores; Ability Scores and Modifiers"]
 # Variant: Customizing Ability Scores; Ability Scores and Modifiers
 *Source: Player's Handbook p. 13. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Variant Customizing Ability Scores Ability Scores And Modifiers.md#^ability-scores-and-modifiers]]`
+`dice: [[nullVariant Customizing Ability Scores Ability Scores And Modifiers.md#^ability-scores-and-modifiers]]`
 
 **Ability Scores and Modifiers**
 

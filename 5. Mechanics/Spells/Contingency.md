@@ -9,7 +9,6 @@ tags:
 aliases: ["Contingency"]
 ---
 # Contingency
-%%-- Embedded content starts on the next line. --%%
 *6th-level, Evocation*  
 
 - **Casting time:** 10 minute

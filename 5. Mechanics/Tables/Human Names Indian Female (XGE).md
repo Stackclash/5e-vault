@@ -8,7 +8,7 @@ aliases: ["Human Names – Indian, Female"]
 # Human Names – Indian, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Indian Female (XGE).md#^human-names-indian-female]]`
+`dice: [[nullHuman Names Indian Female (XGE).md#^human-names-indian-female]]`
 
 **Human Names – Indian, Female**
 

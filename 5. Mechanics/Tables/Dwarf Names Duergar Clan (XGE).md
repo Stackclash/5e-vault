@@ -8,7 +8,7 @@ aliases: ["Dwarf Names – Duergar Clan"]
 # Dwarf Names – Duergar Clan
 *Source: Xanathar's Guide to Everything p. 176* 
 
-`dice: [[Dwarf Names Duergar Clan (XGE).md#^dwarf-names-duergar-clan]]`
+`dice: [[nullDwarf Names Duergar Clan (XGE).md#^dwarf-names-duergar-clan]]`
 
 **Dwarf Names – Duergar Clan**
 

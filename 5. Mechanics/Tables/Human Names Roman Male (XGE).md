@@ -8,7 +8,7 @@ aliases: ["Human Names – Roman, Male"]
 # Human Names – Roman, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Roman Male (XGE).md#^human-names-roman-male]]`
+`dice: [[nullHuman Names Roman Male (XGE).md#^human-names-roman-male]]`
 
 **Human Names – Roman, Male**
 

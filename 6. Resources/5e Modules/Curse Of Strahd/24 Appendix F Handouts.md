@@ -25,7 +25,7 @@ aliases: ["Appendix F: Handouts"]
 > Kolyan Indirovich Burgomaster
 ^7f0
 
-![[6. Resources/5e Modules/curse-of-strahd/img/210-f1.jpg#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/210-f1.md#center]]
 
 ## Strahd's Invitation
 
@@ -38,7 +38,7 @@ aliases: ["Appendix F: Handouts"]
 > Your host, [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]
 ^7f2
 
-![[6. Resources/5e Modules/curse-of-strahd/img/211-f2.jpg#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/211-f2.md#center]]
 
 ## From the Tome of Strahd
 
@@ -66,8 +66,8 @@ aliases: ["Appendix F: Handouts"]
 ^7f4
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/212-f3.jpg#gallery]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/213-f4.jpg#gallery]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/212-f3.md#gallery]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/213-f4.md#gallery]]
 
 ## Journal of Rudolph van Richten
 
@@ -91,8 +91,8 @@ aliases: ["Appendix F: Handouts"]
 ^7f6
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/214-f5.jpg#gallery]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/215-f6.jpg#gallery]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/214-f5.md#gallery]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/215-f6.md#gallery]]
 
 ## Kolyan Indirovich's Letter (version 2)
 
@@ -111,7 +111,7 @@ aliases: ["Appendix F: Handouts"]
 > Kolyan Indirovich Burgomaster
 ^7f8
 
-![[6. Resources/5e Modules/curse-of-strahd/img/216-f7.jpg#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/216-f7.md#center]]
 
 ## Journal of Argynvost
 
@@ -128,4 +128,4 @@ aliases: ["Appendix F: Handouts"]
 > A
 ^7fa
 
-![[6. Resources/5e Modules/curse-of-strahd/img/217-f8.jpg#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/217-f8.md#center]]

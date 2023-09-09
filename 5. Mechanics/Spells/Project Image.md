@@ -10,7 +10,6 @@ tags:
 aliases: ["Project Image"]
 ---
 # Project Image
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Illusion*  
 
 - **Casting time:** 1 action

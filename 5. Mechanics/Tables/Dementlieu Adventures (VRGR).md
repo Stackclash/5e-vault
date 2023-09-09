@@ -8,7 +8,7 @@ aliases: ["Dementlieu Adventures"]
 # Dementlieu Adventures
 *Source: Van Richten's Guide to Ravenloft p. 97* 
 
-`dice: [[Dementlieu Adventures (VRGR).md#^dementlieu-adventures]]`
+`dice: [[nullDementlieu Adventures (VRGR).md#^dementlieu-adventures]]`
 
 **Dementlieu Adventures**
 

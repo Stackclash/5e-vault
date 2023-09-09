@@ -8,7 +8,7 @@ aliases: ["Dark Fantasy Monsters"]
 # Dark Fantasy Monsters
 *Source: Van Richten's Guide to Ravenloft p. 50* 
 
-`dice: [[Dark Fantasy Monsters (VRGR).md#^dark-fantasy-monsters]]`
+`dice: [[nullDark Fantasy Monsters (VRGR).md#^dark-fantasy-monsters]]`
 
 **Dark Fantasy Monsters**
 

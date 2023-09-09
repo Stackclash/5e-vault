@@ -20,7 +20,7 @@ Includes:
 - a [[5. Mechanics/Items/Bell.md|bell]]  
 - 5 [[5. Mechanics/Items/Candle.md|candles]]  
 - a [[5. Mechanics/Items/Crowbar.md|crowbar]]  
-- a [[5. Mechanics/Items/Ha(MM)er.md|hammer]]  
+- a [[5. Mechanics/Items/Hammer.md|hammer]]  
 - 10 [[5. Mechanics/Items/Piton.md|pitons]]  
 - a [[5. Mechanics/Items/Hooded Lantern.md|hooded lantern]]  
 - 2 [[5. Mechanics/Items/Oil Flask.md|flasks of oil]]  

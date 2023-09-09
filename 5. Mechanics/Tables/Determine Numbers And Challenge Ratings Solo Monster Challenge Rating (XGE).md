@@ -8,7 +8,7 @@ aliases: ["Determine Numbers and Challenge Ratings; Solo Monster Challenge Ratin
 # Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
 *Source: Xanathar's Guide to Everything p. 88* 
 
-`dice: [[Determine Numbers And Challenge Ratings Solo Monster Challenge Rating (XGE).md#^solo-monster-challenge-rating]]`
+`dice: [[nullDetermine Numbers And Challenge Ratings Solo Monster Challenge Rating (XGE).md#^solo-monster-challenge-rating]]`
 
 **Solo Monster Challenge Rating**
 

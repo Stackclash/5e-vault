@@ -8,7 +8,7 @@ aliases: ["Exotic Languages"]
 # Exotic Languages
 *Source: Player's Handbook p. 123. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Exotic Languages.md#^exotic-languages]]`
+`dice: [[nullExotic Languages.md#^exotic-languages]]`
 
 **Exotic Languages**
 

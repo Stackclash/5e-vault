@@ -8,7 +8,7 @@ aliases: ["Lamordia Adventures"]
 # Lamordia Adventures
 *Source: Van Richten's Guide to Ravenloft p. 141* 
 
-`dice: [[Lamordia Adventures (VRGR).md#^lamordia-adventures]]`
+`dice: [[nullLamordia Adventures (VRGR).md#^lamordia-adventures]]`
 
 **Lamordia Adventures**
 

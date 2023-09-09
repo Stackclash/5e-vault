@@ -7,7 +7,7 @@ tags:
 aliases: ["Zuggtmoy"]
 ---
 # Zuggtmoy
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 281*  
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
 

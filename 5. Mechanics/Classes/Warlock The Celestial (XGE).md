@@ -7,7 +7,7 @@ tags:
 aliases: ["The Celestial"]
 ---
 # The Celestial
-*[[Warlock.md|Warlock]]: Otherworldly Patron*  
+*[[nullWarlock.md|Warlock]]: Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 54*  
 
 

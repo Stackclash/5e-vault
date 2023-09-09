@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Devotion"]
 ---
 # Oath of Devotion
-*[[Paladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 85. Available in the SRD.*  
 
 
@@ -53,7 +53,7 @@ You gain oath spells at the paladin levels listed.
 | 5th | [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]] |
 | 9th | [[5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]] |
 | 13th | [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]] |
-| 17th | [[5. Mechanics/Spells/Co(MM)une.md|commune]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]] |
+| 17th | [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]] |
 ^oath-of-devotion-spells
 
 ### Channel Divinity (Level 3)

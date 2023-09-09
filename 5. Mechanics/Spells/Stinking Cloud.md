@@ -15,7 +15,6 @@ tags:
 aliases: ["Stinking Cloud"]
 ---
 # Stinking Cloud
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 action

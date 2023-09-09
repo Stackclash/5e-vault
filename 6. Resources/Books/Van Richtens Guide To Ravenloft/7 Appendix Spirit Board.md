@@ -12,4 +12,4 @@ Employed by the spiritualists known as the "Keepers of the Feather" (see "chapte
 
 This spirit board's matching planchette and details on how to employ it appear in "chapter 4". Photocopy both the spirit board and planchette then apply them to wood or cardboard to create a mysterious prop for use in your horror adventures.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/149-06-001.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/149-06-001.md#center]]

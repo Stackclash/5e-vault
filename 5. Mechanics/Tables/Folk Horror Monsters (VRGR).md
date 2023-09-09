@@ -8,7 +8,7 @@ aliases: ["Folk Horror Monsters"]
 # Folk Horror Monsters
 *Source: Van Richten's Guide to Ravenloft p. 52* 
 
-`dice: [[Folk Horror Monsters (VRGR).md#^folk-horror-monsters]]`
+`dice: [[nullFolk Horror Monsters (VRGR).md#^folk-horror-monsters]]`
 
 **Folk Horror Monsters**
 

@@ -8,7 +8,7 @@ aliases: ["Weather"]
 # Weather
 *Source: Dungeon Master's Guide p. 109* 
 
-`dice: [[Weather.md#^weather]]`
+`dice: [[nullWeather.md#^weather]]`
 
 **Weather**
 

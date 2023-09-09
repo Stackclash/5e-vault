@@ -14,7 +14,6 @@ tags:
 aliases: ["Detect Poison and Disease"]
 ---
 # Detect Poison and Disease
-%%-- Embedded content starts on the next line. --%%
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

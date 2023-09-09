@@ -8,7 +8,7 @@ tags:
 aliases: ["Bheur Hag"]
 ---
 # Bheur Hag
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 62*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
 

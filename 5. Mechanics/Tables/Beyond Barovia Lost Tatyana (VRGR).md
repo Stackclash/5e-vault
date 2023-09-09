@@ -8,7 +8,7 @@ aliases: ["Beyond Barovia; Lost Tatyana"]
 # Beyond Barovia; Lost Tatyana
 *Source: Van Richten's Guide to Ravenloft p. 71* 
 
-`dice: [[Beyond Barovia Lost Tatyana (VRGR).md#^lost-tatyana]]`
+`dice: [[nullBeyond Barovia Lost Tatyana (VRGR).md#^lost-tatyana]]`
 
 **Lost Tatyana**
 

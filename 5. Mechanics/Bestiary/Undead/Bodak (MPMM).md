@@ -10,7 +10,7 @@ tags:
 aliases: ["Bodak"]
 ---
 # Bodak
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 64*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
 

@@ -8,7 +8,7 @@ aliases: ["Weird Locales"]
 # Weird Locales
 *Source: Dungeon Master's Guide p. 109* 
 
-`dice: [[Weird Locales.md#^weird-locales]]`
+`dice: [[nullWeird Locales.md#^weird-locales]]`
 
 **Weird Locales**
 

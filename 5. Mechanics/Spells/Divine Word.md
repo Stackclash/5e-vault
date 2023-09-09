@@ -10,7 +10,6 @@ tags:
 aliases: ["Divine Word"]
 ---
 # Divine Word
-%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
 
 - **Casting time:** 1 bonus

@@ -15,7 +15,6 @@ tags:
 aliases: ["Mold Earth"]
 ---
 # Mold Earth
-%%-- Embedded content starts on the next line. --%%
 *cantrip, Transmutation*  
 
 - **Casting time:** 1 action

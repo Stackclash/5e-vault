@@ -8,7 +8,7 @@ aliases: ["Ghost Story Adventure Sites"]
 # Ghost Story Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 55* 
 
-`dice: [[Ghost Story Adventure Sites (VRGR).md#^ghost-story-adventure-sites]]`
+`dice: [[nullGhost Story Adventure Sites (VRGR).md#^ghost-story-adventure-sites]]`
 
 **Ghost Story Adventure Sites**
 

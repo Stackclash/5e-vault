@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Sun Soul"]
 ---
 # Way of the Sun Soul
-*[[Monk.md|Monk]]: Monastic Tradition*  
+*[[nullMonk.md|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 35*  
 
 

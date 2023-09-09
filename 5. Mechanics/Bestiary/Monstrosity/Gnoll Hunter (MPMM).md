@@ -11,7 +11,7 @@ tags:
 aliases: ["Gnoll Hunter"]
 ---
 # Gnoll Hunter
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 144*  
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
 

@@ -8,7 +8,7 @@ aliases: ["Gnome Names – Clan"]
 # Gnome Names – Clan
 *Source: Xanathar's Guide to Everything p. 178* 
 
-`dice: [[Gnome Names Clan (XGE).md#^gnome-names-clan]]`
+`dice: [[nullGnome Names Clan (XGE).md#^gnome-names-clan]]`
 
 **Gnome Names – Clan**
 

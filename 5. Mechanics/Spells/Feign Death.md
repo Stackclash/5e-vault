@@ -16,7 +16,6 @@ tags:
 aliases: ["Feign Death"]
 ---
 # Feign Death
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Necromancy (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

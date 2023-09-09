@@ -9,7 +9,7 @@ tags:
 aliases: ["Spawn of Kyuss"]
 ---
 # Spawn of Kyuss
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 225*  
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
 

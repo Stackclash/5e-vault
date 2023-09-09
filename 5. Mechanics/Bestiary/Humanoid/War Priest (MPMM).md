@@ -9,7 +9,7 @@ tags:
 aliases: ["War Priest"]
 ---
 # War Priest
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 254*  
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [[5. Mechanics/Bestiary/Humanoid/Warlord (MPMM).md|warlord]] (appears in "this book") on the battlefield.
 
@@ -59,7 +59,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 - "desc": "The war priest casts one of the following spells, using Wisdom as the spellcasting\
     \ ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Co(MM)and.md|command]],\
+    \n1/day each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Flame Strike.md|flame strike]],\
     \ [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
     \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Revivify.md|revivify]]"

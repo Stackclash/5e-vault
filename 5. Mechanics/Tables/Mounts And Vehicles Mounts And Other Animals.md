@@ -8,7 +8,7 @@ aliases: ["Mounts and Vehicles; Mounts and Other Animals"]
 # Mounts and Vehicles; Mounts and Other Animals
 *Source: Player's Handbook p. 155. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Mounts And Vehicles Mounts And Other Animals.md#^mounts-and-other-animals]]`
+`dice: [[nullMounts And Vehicles Mounts And Other Animals.md#^mounts-and-other-animals]]`
 
 **Mounts and Other Animals**
 

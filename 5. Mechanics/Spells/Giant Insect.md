@@ -9,7 +9,6 @@ tags:
 aliases: ["Giant Insect"]
 ---
 # Giant Insect
-%%-- Embedded content starts on the next line. --%%
 *4th-level, Transmutation*  
 
 - **Casting time:** 1 action

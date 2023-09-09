@@ -8,7 +8,7 @@ aliases: ["Valachan Hunt Complications"]
 # Valachan Hunt Complications
 *Source: Van Richten's Guide to Ravenloft p. 167* 
 
-`dice: [[Valachan Hunt Complications (VRGR).md#^valachan-hunt-complications]]`
+`dice: [[nullValachan Hunt Complications (VRGR).md#^valachan-hunt-complications]]`
 
 **Valachan Hunt Complications**
 

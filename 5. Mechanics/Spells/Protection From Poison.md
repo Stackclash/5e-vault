@@ -13,7 +13,6 @@ tags:
 aliases: ["Protection from Poison"]
 ---
 # Protection from Poison
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Abjuration*  
 
 - **Casting time:** 1 action

@@ -10,7 +10,7 @@ tags:
 aliases: ["Githyanki Supreme Commander"]
 ---
 # Githyanki Supreme Commander
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 141*  
 
 Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|red dragons]] into battle.
 

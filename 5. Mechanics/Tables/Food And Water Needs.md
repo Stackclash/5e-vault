@@ -8,7 +8,7 @@ aliases: ["Food and Water Needs"]
 # Food and Water Needs
 *Source: Dungeon Master's Guide p. 111* 
 
-`dice: [[Food And Water Needs.md#^food-and-water-needs]]`
+`dice: [[nullFood And Water Needs.md#^food-and-water-needs]]`
 
 **Food and Water Needs**
 

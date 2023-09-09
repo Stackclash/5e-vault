@@ -10,7 +10,7 @@ aliases: ["Chapter 8: The Village of Krezk"]
 
 The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines (chapter 12), to keep the locals' bellies warm and their spirits up.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/082-cos08-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/082-cos08-01.md#center]]
 
 Looming high above Krezk is the Abbey of Saint Markovia, once a convent and hospital, now a madhouse overrun with wickedness. After Saint Markovia and her followers failed to overthrow Strahd, the abbey became a fortress closed off from the rest of the world. Strahd ruthlessly preyed on the fears of the clerics and nuns holed up inside, but ultimately it was their isolation and greed that doomed them. The clergy began fighting over food and wine. By the time their supplies ran out, they had either been killed by each other's hands or driven hopelessly insane by Strahd's acts of terror against them. For years afterward, the villagers of Krezk avoided the place, fearing that the abbey was cursed, haunted, or both.
 
@@ -25,8 +25,8 @@ Then, over a century ago, a pilgrim from a distant land came to Krezk and insist
 The following areas correspond to labels on the map of Krezk below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/083-022.jpg#gallery|Map 8.1: The Village of Krezk (Area S)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/084-cos801.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/083-022.md#gallery|Map 8.1: The Village of Krezk (Area S)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/084-cos801.md#gallery|Player Version]]
 
 ### S1. Road Junction
 
@@ -50,7 +50,7 @@ The map of Krezk includes a diagram of the gatehouse.
 
 Cut into the upper floor of each tower is an arrow slit 6 inches wide, 4 feet tall, and 1 foot deep. An open doorway leads from the archer's post in each tower to the adjacent parapet. Behind the walls, wooden ladders lead from the parapets to the ground 20 feet below.
 
-Two archers (male and female human [[5. Mechanics/Bestiary/Humanoid/Scout.md|")"]] are stationed inside the gatehouse, one in each tower. Four [[5. Mechanics/Bestiary/Humanoid/Guard.md|") (male and female humans"]] man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk's militia consists of four more guards plus forty [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|") (male and female humans"]] armed with handaxes.
+Two archers (male and female human [[5. Mechanics/Bestiary/Humanoid/Scout.md|")"]] are stationed inside the gatehouse, one in each tower. Four [[5. Mechanics/Bestiary/Humanoid/Guard.md|") (male and female humans"]] man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk's militia consists of four more guards plus forty [[5. Mechanics/Bestiary/Humanoid/Commoner.md|") (male and female humans"]] armed with handaxes.
 
 The double doors are made of thick wood planks bound with iron bands and sealed shut with a heavy wooden bar held in iron brackets. The bar can be lifted with a successful DC 15 Strength check. The doors require a siege engine to break them open.
 
@@ -89,11 +89,11 @@ The burgomaster's cottage has a wine cellar (currently empty) and lots of space 
 
 ##### Commoner Cottages
 
-A typical cottage is only 200 square feet yet contains `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], `dice: 1d4|avg` (`1d4`)−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
+A typical cottage is only 200 square feet yet contains `dice: 1d4|avg` (`1d4`) adults (male and female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], `dice: 1d4|avg` (`1d4`)−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
 
 Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|")'s sneaky mongrelfolk gravediggers (see area S6"]].
 
-![[6. Resources/5e Modules/curse-of-strahd/img/085-cos08-03.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/085-cos08-03.md#center]]
 
 #### Krezk Lore
 
@@ -137,8 +137,8 @@ The following areas correspond to labels on the maps of the Abbey of Saint Marko
 The mongrelfolk that infest the abbey are all descendants of one family—the Belviews—and all suffer from some form of madness. Whenever the characters interact with a mongrelfolk who isn't detailed here, roll on the Indefinite Madness table (see ""Madness Effects"" in chapter 8 of the "Dungeon Master's Guide") or choose from the available options on the table to determine how that particular mongrelfolk's madness is expressed.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/086-023.jpg#gallery|Map 8.2: Abbey of Saint Markovia - Ground Floor]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/087-cos802.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/086-023.md#gallery|Map 8.2: Abbey of Saint Markovia - Ground Floor]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/087-cos802.md#gallery|Player Version]]
 
 Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]]'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
 
@@ -248,8 +248,8 @@ The "guards" on the wall are propped-up scarecrows that wear corroded chain shir
 The double doors are heavy but unlocked. They can be pushed open to reveal a foggy courtyard (area S12"]].
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/090-024.jpg#gallery|"Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar"]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/091-cos803.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/090-024.md#gallery|"Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar"]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/091-cos803.md#gallery|Player Version]]
 
 ### S11. Inner Gatehouses
 
@@ -651,7 +651,7 @@ Ilya Krezkov returns to life with a random form of indefinite madness (see ""Mad
 
 ### Something New
 
-The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and offer prayers for the health of the mother and the child.
+The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and offer prayers for the health of the mother and the child.
 
 Dimira gives birth to a healthy baby boy, but the baby doesn't cry. While the mother coddles the infant, characters who succeed on a DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]] check can see that Kretyana is deeply troubled. If the characters question the midwife, she tells them in confidence, "That child has no soul. Very sad."
 
@@ -663,9 +663,9 @@ Kretyana was raised to believe that newborns are soulless if they don't cry, and
 
 No one in Krezk can fashion such a gown, leaving the burgomaster with no choice but to look elsewhere. His wife, Anna, says she should personally lead a well-armed group of Krezkites to the east to Vallaki.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/093-cos08-08.png#center|Baron Krezkov]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/093-cos08-08.md#center|Baron Krezkov]]
 
-Anna Krezkova (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md|")"]] bids her husband farewell and leaves with two [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]], four [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|commoners]], and a [[5. Mechanics/Bestiary/Beast/Mule.md|") laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p"]]. The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
+Anna Krezkova (LG female human [[5. Mechanics/Bestiary/Humanoid/Noble.md|")"]] bids her husband farewell and leaves with two [[5. Mechanics/Bestiary/Humanoid/Guard.md|guards]], four [[5. Mechanics/Bestiary/Humanoid/Commoner.md|commoners]], and a [[5. Mechanics/Bestiary/Beast/Mule.md|") laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p"]]. The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
 
 If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]], who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]]. If they do, they hear [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md|the Abbot]] promise "divine retribution" as punishment.
 

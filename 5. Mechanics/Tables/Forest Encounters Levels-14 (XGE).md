@@ -8,7 +8,7 @@ aliases: ["Forest Encounters (Levels 1—4)"]
 # Forest Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 97* 
 
-`dice: [[Forest Encounters Levels-14 (XGE).md#^forest-encounters-levels-14]]`
+`dice: [[nullForest Encounters Levels-14 (XGE).md#^forest-encounters-levels-14]]`
 
 **Forest Encounters (Levels 1—4)**
 
@@ -16,7 +16,7 @@ aliases: ["Forest Encounters (Levels 1—4)"]
 |-------------|--------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Beast/Giant Owl.md|giant owl]] |
 | 02 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Cat.md|cats]] |
-| 03 | `dice: 2d4\|avg` (`2d4`) woodcutters ([[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] |
+| 03 | `dice: 2d4\|avg` (`2d4`) woodcutters ([[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] |
 | 04 | 1 [[5. Mechanics/Bestiary/Beast/Badger.md|badger]] or `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md|poisonous snakes]] |
 | 05 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Beast/Baboon.md|baboons]] |
 | 06 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Beast/Hyena.md|hyenas]] |

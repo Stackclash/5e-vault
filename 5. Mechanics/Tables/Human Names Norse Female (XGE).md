@@ -8,7 +8,7 @@ aliases: ["Human Names – Norse, Female"]
 # Human Names – Norse, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names Norse Female (XGE).md#^human-names-norse-female]]`
+`dice: [[nullHuman Names Norse Female (XGE).md#^human-names-norse-female]]`
 
 **Human Names – Norse, Female**
 

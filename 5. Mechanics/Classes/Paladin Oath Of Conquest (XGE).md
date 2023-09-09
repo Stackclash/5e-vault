@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Conquest"]
 ---
 # Oath of Conquest
-*[[Paladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 37*  
 
 
@@ -46,7 +46,7 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Armor Of Agathys.md|armor of Agathys]], [[5. Mechanics/Spells/Co(MM)and.md|command]] |
+| 3rd | [[5. Mechanics/Spells/Armor Of Agathys.md|armor of Agathys]], [[5. Mechanics/Spells/Command.md|command]] |
 | 5th | [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] |
 | 9th | [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Fear.md|fear]] |
 | 13th | [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]] |

@@ -8,7 +8,7 @@ aliases: ["Starting Equipment; Starting Wealth by Class"]
 # Starting Equipment; Starting Wealth by Class
 *Source: Player's Handbook p. 143. Available in the Basic Rules.* 
 
-`dice: [[Starting Equipment Starting Wealth By Class.md#^starting-wealth-by-class]]`
+`dice: [[nullStarting Equipment Starting Wealth By Class.md#^starting-wealth-by-class]]`
 
 **Starting Wealth by Class**
 

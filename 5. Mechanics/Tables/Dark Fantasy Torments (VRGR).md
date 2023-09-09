@@ -8,7 +8,7 @@ aliases: ["Dark Fantasy Torments"]
 # Dark Fantasy Torments
 *Source: Van Richten's Guide to Ravenloft p. 51* 
 
-`dice: [[Dark Fantasy Torments (VRGR).md#^dark-fantasy-torments]]`
+`dice: [[nullDark Fantasy Torments (VRGR).md#^dark-fantasy-torments]]`
 
 **Dark Fantasy Torments**
 

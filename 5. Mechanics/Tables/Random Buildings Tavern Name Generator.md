@@ -8,7 +8,7 @@ aliases: ["Random Buildings; Tavern Name Generator"]
 # Random Buildings; Tavern Name Generator
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[Random Buildings Tavern Name Generator.md#^tavern-name-generator]]`
+`dice: [[nullRandom Buildings Tavern Name Generator.md#^tavern-name-generator]]`
 
 **Tavern Name Generator**
 

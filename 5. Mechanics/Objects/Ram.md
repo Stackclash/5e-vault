@@ -8,7 +8,6 @@ tags:
 aliases: ["Ram"]
 ---
 # Ram
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains.
@@ -19,7 +18,7 @@ It takes a minimum of four Medium creatures to operate a ram. Because of the gal
 
 ```ad-statblock
 title: Ram
-![[5. Mechanics/bestiary/null/token/ram.png#token]]
+![[5. Mechanics/Bestiary/Null/token/ram.md#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 

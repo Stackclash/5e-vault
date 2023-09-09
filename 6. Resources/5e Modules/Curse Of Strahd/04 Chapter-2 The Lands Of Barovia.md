@@ -12,7 +12,7 @@ The idyllic valley nestled in the Balinok Mountains was a slice of heaven to tho
 
 The land now called Barovia is no longer part of the world that Strahd once tried to conquer. It now exists within a demiplane formed by Strahd's consciousness and surrounded by a deadly fog. No creature can leave without Strahd's permission, and those that try become lost in the mist.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/004-cos02-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/004-cos02-01.md#center]]
 
 Strahd allows the Vistani to come and go as they please because he admires their lust for life and their willingness to serve him when he needs them. He also owes an ancient debt to the Vistani people. As a soldier centuries ago, he suffered a grievous injury in battle, and the Vistani tended his wounds and returned him safely to his family without making any demand for payment. The Vistani claim to possess potions that allow them to leave Strahd's domain, but the potions are false concoctions with no magical power. Nevertheless, the Vistani are willing to sell them for a hefty price.
 
@@ -99,7 +99,7 @@ Barovians are deeply invested in their homes and their traditions. They are wary
 
 Barovians were a happy people once, but their history and current conditions aren't pleasant. If one manages to win the trust of a Barovian, one has a friend for life and a stalwart ally.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/005-cos02-02.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/005-cos02-02.md#center]]
 
 Barovian children aren't happy children. They are raised in a culture of fear and told time and again not to wander too far from their homes or enter the woods. They experience little hope or joy, and they are taught to fear the devil Strahd above all.
 
@@ -187,7 +187,7 @@ Barovians have deep-rooted religious beliefs and superstitions that they pass do
 
 The Vistani (singular: Vistana) are wanderers, traveling about in horse-drawn, barrel-topped wagons, which they build themselves. Compared to Barovians, they are flamboyant, dressing in bright clothes and laughing often. As much as they feel at home in Strahd's dreary land, they know they can leave it whenever they please and aren't damned to spend eternity there.
 
-![[6. Resources/5e Modules/curse-of-strahd/img/006-cos02-03.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/006-cos02-03.md#center]]
 
 Vistani are silversmiths, coppersmiths, haberdashers, cooks, weavers, musicians, entertainers, storytellers, toolmakers, and horse traders. They also earn money by telling fortunes and selling information. They spend whatever they earn to support a lavish lifestyle, display their wealth openly as a sign of prosperity, and share their good fortune with family and friends.
 
@@ -274,7 +274,7 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 | `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
 |-----------------|------------------|-----------|
-| 2 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Co(MM)oner Cos.md|commoners]] |
+| 2 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md|commoners]] |
 | 3 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md|scouts]] |
 | 4 | Hunting trap |
 | 5 | Grave |
@@ -331,7 +331,7 @@ Use the descriptions that follow to help run each random encounter. The table en
 
 If the characters are moving quietly and not carrying light sources, they can try to hide from these Barovians, who carry pitchforks (+2 to hit) instead of clubs, dealing 3 (`dice: 1d6|avg` (`1d6`)) piercing damage on a hit.
 
-[[5. Mechanics/Bestiary/Humanoid/Barovian Co(MM)oner Cos.md|Barovian commoners]] rarely leave their settlements. This group might be a family looking for a safer place to live, or an angry mob searching for the characters or heading toward Castle Ravenloft to confront Strahd.
+[[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md|Barovian commoners]] rarely leave their settlements. This group might be a family looking for a safer place to live, or an angry mob searching for the characters or heading toward Castle Ravenloft to confront Strahd.
 
 ### Barovian Scouts
 
@@ -446,7 +446,7 @@ The characters find a leather-wrapped bundle hidden in the underbrush, stuffed i
 > The bundle contains one set of common clothes sized for a human adult.
 ^0d3
 
-The [[5. Mechanics/Items/Co(MM)on Clothes.md|clothes]] have a drab Barovian style to them. They belong to a wereraven or werewolf.
+The [[5. Mechanics/Items/Common Clothes.md|clothes]] have a drab Barovian style to them. They belong to a wereraven or werewolf.
 
 ### Hunting Trap
 
@@ -655,8 +655,8 @@ These unfortunate Barovians fell prey to the evils of the land and now shamble f
 The following areas correspond to labels on the map of Barovia below and on the poster map.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/007-001.jpg#gallery|Map 2.1: Barovia]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/008-cos201.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/007-001.md#gallery|Map 2.1: Barovia]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/008-cos201.md#gallery|Player Version]]
 
 ### A. Old Svalich Road
 
@@ -676,7 +676,7 @@ Two sets of these gates exist: one west of the village of Barovia and one east o
 > The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
 ^0fc
 
-![[6. Resources/5e Modules/curse-of-strahd/img/009-cos02-04.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/009-cos02-04.md#center]]
 
 If the characters are traveling on foot, the gates swing open as they approach, screeching as the hinges move. The gates close behind the characters after they pass through. If the characters are riding in Vistani wagons, the gates open in front of the lead wagon and close when the rear one has entered.
 
@@ -795,8 +795,8 @@ Although the Vistani in this camp are in league with Strahd, they attack only if
 If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the Vistani tells them, "It was fated that you would visit our humble camp. [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]] foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "[[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md|Madam Eva]]'s Tent."
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/010-cos02-06.jpg#gallery|Map 2.2: Tser Pool Encampment]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/011-cos202.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/010-cos02-06.md#gallery|Map 2.2: Tser Pool Encampment]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/011-cos202.md#gallery|Player Version]]
 
 #### A Vistana's Tale
 
@@ -916,7 +916,7 @@ If the characters arrive along the shore north of Vallaki in the daytime, add:
 > Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
 ^123
 
-Each rowboat can safely hold five people. The person fishing on the lake is [[5. Mechanics/Bestiary/Npc/Bluto Krogarov (COS).md|Bluto Krogarov]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]], a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md|Arabelle]] (LN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Co(MM)oner Cos.md|") with 2 hit points and no effective attacks"]]. She is bound with hempen rope, wrapped in a burlap sack, and lying [[/5. Mechanics/Rules/Conditions.md#prone|prone]] so that she can't be seen or heard from the shore.
+Each rowboat can safely hold five people. The person fishing on the lake is [[5. Mechanics/Bestiary/Npc/Bluto Krogarov (COS).md|Bluto Krogarov]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]], a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md|Arabelle]] (LN female human [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md|") with 2 hit points and no effective attacks"]]. She is bound with hempen rope, wrapped in a burlap sack, and lying [[/5. Mechanics/Rules/Conditions.md#prone|prone]] so that she can't be seen or heard from the shore.
 
 #### Roleplaying Bluto
 

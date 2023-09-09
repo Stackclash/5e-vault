@@ -8,7 +8,7 @@ aliases: ["Chamber Purpose; General Dungeon Chambers"]
 # Chamber Purpose; General Dungeon Chambers
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[Chamber Purpose General Dungeon Chambers.md#^general-dungeon-chambers]]`
+`dice: [[nullChamber Purpose General Dungeon Chambers.md#^general-dungeon-chambers]]`
 
 **General Dungeon Chambers**
 

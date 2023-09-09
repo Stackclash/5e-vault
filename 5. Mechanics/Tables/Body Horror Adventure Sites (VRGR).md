@@ -8,7 +8,7 @@ aliases: ["Body Horror Adventure Sites"]
 # Body Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 47* 
 
-`dice: [[Body Horror Adventure Sites (VRGR).md#^body-horror-adventure-sites]]`
+`dice: [[nullBody Horror Adventure Sites (VRGR).md#^body-horror-adventure-sites]]`
 
 **Body Horror Adventure Sites**
 

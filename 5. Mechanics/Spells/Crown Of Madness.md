@@ -15,7 +15,6 @@ tags:
 aliases: ["Crown of Madness"]
 ---
 # Crown of Madness
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Enchantment*  
 
 - **Casting time:** 1 action

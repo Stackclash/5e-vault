@@ -8,7 +8,7 @@ aliases: ["Upper-Class Carousing Complications"]
 # Upper-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 
 
-`dice: [[Upper Class Carousing Complications (XGE).md#^table]]`
+`dice: [[nullUpper Class Carousing Complications (XGE).md#^table]]`
 
 **Upper-Class Carousing Complications**
 

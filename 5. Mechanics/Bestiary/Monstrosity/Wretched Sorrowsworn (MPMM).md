@@ -10,7 +10,7 @@ tags:
 aliases: ["Wretched Sorrowsworn"]
 ---
 # Wretched Sorrowsworn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 224*  
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
 

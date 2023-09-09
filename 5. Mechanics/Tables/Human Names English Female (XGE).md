@@ -8,7 +8,7 @@ aliases: ["Human Names – English, Female"]
 # Human Names – English, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names English Female (XGE).md#^human-names-english-female]]`
+`dice: [[nullHuman Names English Female (XGE).md#^human-names-english-female]]`
 
 **Human Names – English, Female**
 

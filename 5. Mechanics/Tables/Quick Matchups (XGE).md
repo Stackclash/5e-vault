@@ -8,7 +8,7 @@ aliases: ["Quick Matchups"]
 # Quick Matchups
 *Source: Xanathar's Guide to Everything p. 91* 
 
-`dice: [[Quick Matchups (XGE).md#^quick-matchups]]`
+`dice: [[nullQuick Matchups (XGE).md#^quick-matchups]]`
 
 **Quick Matchups**
 

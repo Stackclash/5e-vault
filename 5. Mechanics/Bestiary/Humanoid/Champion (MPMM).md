@@ -9,7 +9,7 @@ tags:
 aliases: ["Champion"]
 ---
 # Champion
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 74*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Water Elemental Myrmidon"]
 ---
 # Water Elemental Myrmidon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 
 ## Elemental Myrmidons
 

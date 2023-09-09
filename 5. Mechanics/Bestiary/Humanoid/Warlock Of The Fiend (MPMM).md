@@ -11,7 +11,7 @@ tags:
 aliases: ["Warlock of the Fiend"]
 ---
 # Warlock of the Fiend
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  
 
 Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[5. Mechanics/Bestiary/Fiend/Imp.md|imps]] or [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 

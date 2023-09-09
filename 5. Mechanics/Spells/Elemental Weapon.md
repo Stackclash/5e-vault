@@ -11,7 +11,6 @@ tags:
 aliases: ["Elemental Weapon"]
 ---
 # Elemental Weapon
-%%-- Embedded content starts on the next line. --%%
 *3rd-level, Transmutation*  
 
 - **Casting time:** 1 action

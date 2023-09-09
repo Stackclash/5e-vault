@@ -8,7 +8,7 @@ tags:
 aliases: ["Korred"]
 ---
 # Korred
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 166*  
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 
@@ -47,7 +47,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "traits":
 - "desc": "The korred casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Co(MM)une With Nature.md|") (as an action"]],\
+    \ [[5. Mechanics/Spells/Commune With Nature.md|") (as an action"]],\
     \ [[5. Mechanics/Spells/Meld Into Stone.md|meld into stone]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
     \n1/day: [[5. Mechanics/Spells/Ottos Irresistible Dance.md|Otto's irresistible dance]]"
   "name": "spells"

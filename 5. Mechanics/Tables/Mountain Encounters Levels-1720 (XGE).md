@@ -8,7 +8,7 @@ aliases: ["Mountain Encounters (Levels 17—20)"]
 # Mountain Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 104* 
 
-`dice: [[Mountain Encounters Levels-1720 (XGE).md#^mountain-encounters-levels-1720]]`
+`dice: [[nullMountain Encounters Levels-1720 (XGE).md#^mountain-encounters-levels-1720]]`
 
 **Mountain Encounters (Levels 17—20)**
 

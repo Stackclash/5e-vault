@@ -10,7 +10,7 @@ tags:
 aliases: ["Giant Strider"]
 ---
 # Giant Strider
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 137*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

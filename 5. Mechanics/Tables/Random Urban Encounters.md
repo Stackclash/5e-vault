@@ -8,7 +8,7 @@ aliases: ["Random Urban Encounters"]
 # Random Urban Encounters
 *Source: Dungeon Master's Guide p. 114* 
 
-`dice: [[Random Urban Encounters.md#^random-urban-encounters]]`
+`dice: [[nullRandom Urban Encounters.md#^random-urban-encounters]]`
 
 **Random Urban Encounters**
 

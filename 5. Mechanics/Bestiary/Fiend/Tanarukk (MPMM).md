@@ -10,7 +10,7 @@ tags:
 aliases: ["Tanarukk"]
 ---
 # Tanarukk
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*  
 
 > [!quote]- A quote from Tasha  
 > 

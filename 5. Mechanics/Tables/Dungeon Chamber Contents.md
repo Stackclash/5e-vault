@@ -8,7 +8,7 @@ aliases: ["Dungeon Chamber Contents"]
 # Dungeon Chamber Contents
 *Source: Dungeon Master's Guide p. 296* 
 
-`dice: [[Dungeon Chamber Contents.md#^dungeon-chamber-contents]]`
+`dice: [[nullDungeon Chamber Contents.md#^dungeon-chamber-contents]]`
 
 **Dungeon Chamber Contents**
 

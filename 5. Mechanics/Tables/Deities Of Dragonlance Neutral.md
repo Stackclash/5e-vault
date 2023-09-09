@@ -8,7 +8,7 @@ aliases: ["Deities of Dragonlance: Neutral"]
 # Deities of Dragonlance: Neutral
 *Source: Player's Handbook p. 293* 
 
-`dice: [[Deities Of Dragonlance Neutral.md#^deities-of-dragonlance-neutral]]`
+`dice: [[nullDeities Of Dragonlance Neutral.md#^deities-of-dragonlance-neutral]]`
 
 **Deities of Dragonlance: Neutral**
 

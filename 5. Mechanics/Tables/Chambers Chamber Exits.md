@@ -8,7 +8,7 @@ aliases: ["Chambers; Chamber Exits"]
 # Chambers; Chamber Exits
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[Chambers Chamber Exits.md#^chamber-exits]]`
+`dice: [[nullChambers Chamber Exits.md#^chamber-exits]]`
 
 **Chamber Exits**
 

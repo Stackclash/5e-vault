@@ -9,7 +9,7 @@ tags:
 aliases: ["Babau"]
 ---
 # Babau
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

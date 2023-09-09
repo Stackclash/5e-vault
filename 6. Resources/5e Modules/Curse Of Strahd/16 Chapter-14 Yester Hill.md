@@ -8,7 +8,7 @@ aliases: ["Chapter 14: Yester Hill"]
 # Chapter 14: Yester Hill
 *Source: Curse of Strahd, p. 197* 
 
-![[6. Resources/5e Modules/curse-of-strahd/img/123-cos14-01.png#center]]
+![[6. Resources/5e Modules/Curse Of Strahd/img/123-cos14-01.md#center]]
 
 The druids who worship Strahd as lord of the land and master of the weather convene here, atop Yester Hill, on the very edge of Strahd's domain. This hill is also where the evil blights that walk the Svalich Woods are born, and where Strahd comes on occasion to glimpse his ancestral home.
 
@@ -21,8 +21,8 @@ The druids who worship Strahd as lord of the land and master of the weather conv
 The following locations correspond to labels on the map of Yester Hill below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/124-031.jpg#gallery|Map 14.1: Yester Hill (Area Y)]]
-> ![[6. Resources/5e Modules/curse-of-strahd/img/125-cos1401.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/124-031.md#gallery|Map 14.1: Yester Hill (Area Y)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/125-cos1401.md#gallery|Player Version]]
 
 ### Y1. Trail
 

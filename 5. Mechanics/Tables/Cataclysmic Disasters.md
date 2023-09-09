@@ -8,7 +8,7 @@ aliases: ["Cataclysmic Disasters"]
 # Cataclysmic Disasters
 *Source: Dungeon Master's Guide p. 28* 
 
-`dice: [[Cataclysmic Disasters.md#^cataclysmic-disasters]]`
+`dice: [[nullCataclysmic Disasters.md#^cataclysmic-disasters]]`
 
 **Cataclysmic Disasters**
 

@@ -83,7 +83,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Mace.md|") or (b"]] a [[5. Mechanics/Items/Warha(MM)er.md|") (if proficient)  
+- (a) a [[5. Mechanics/Items/Mace.md|") or (b"]] a [[5. Mechanics/Items/Warhammer.md|") (if proficient)  
 - (a"]] [[5. Mechanics/Items/Scale Mail.md|"), (b"]] [[5. Mechanics/Items/Leather Armor.md|"), or (c"]] [[5. Mechanics/Items/Chain Mail.md|") (if proficient)  
 - (a"]] a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md|") or (b) any simple weapon  
 - (a"]] a [[5. Mechanics/Items/Priests Pack.md|") or (b"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  

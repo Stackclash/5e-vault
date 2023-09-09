@@ -8,7 +8,7 @@ tags:
 aliases: ["Drow House Captain"]
 ---
 # Drow House Captain
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 101*  
 
 > [!quote]- A quote from Tasha  
 > 

@@ -11,7 +11,6 @@ tags:
 aliases: ["Wall of Light"]
 ---
 # Wall of Light
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 1 action

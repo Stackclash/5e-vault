@@ -8,7 +8,7 @@ aliases: ["Gothic Horror Torments"]
 # Gothic Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 56* 
 
-`dice: [[Gothic Horror Torments (VRGR).md#^gothic-horror-torments]]`
+`dice: [[nullGothic Horror Torments (VRGR).md#^gothic-horror-torments]]`
 
 **Gothic Horror Torments**
 

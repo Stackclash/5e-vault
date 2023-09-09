@@ -10,7 +10,7 @@ tags:
 aliases: ["Choker"]
 ---
 # Choker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
 

@@ -10,7 +10,7 @@ aliases: ["Sailor"]
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]], [[/5. Mechanics/Rules/Skills.md#Perception|Perception]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Navigators Tools.md|"), vehicles (water"]]  
-- **Equipment.** A belaying pin ([[5. Mechanics/Items/Club.md|")"]], [[5. Mechanics/Items/Silk Rope-50 Feet.md|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[5. Mechanics/Items/Trinket.md|") on the Trinkets table in chapter 5"]], a set of [[5. Mechanics/Items/Co(MM)on Clothes.md|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md|pouch]] containing 10 gp  
+- **Equipment.** A belaying pin ([[5. Mechanics/Items/Club.md|")"]], [[5. Mechanics/Items/Silk Rope-50 Feet.md|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[5. Mechanics/Items/Trinket.md|") on the Trinkets table in chapter 5"]], a set of [[5. Mechanics/Items/Common Clothes.md|common clothes]], and a belt [[5. Mechanics/Items/Pouch.md|pouch]] containing 10 gp  
 
 You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
 

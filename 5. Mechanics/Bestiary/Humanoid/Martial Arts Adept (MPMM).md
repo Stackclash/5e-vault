@@ -8,7 +8,7 @@ tags:
 aliases: ["Martial Arts Adept"]
 ---
 # Martial Arts Adept
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 172*  
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
 

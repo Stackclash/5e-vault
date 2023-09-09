@@ -8,7 +8,7 @@ aliases: ["Body Horror Monsters"]
 # Body Horror Monsters
 *Source: Van Richten's Guide to Ravenloft p. 45* 
 
-`dice: [[Body Horror Monsters (VRGR).md#^body-horror-monsters]]`
+`dice: [[nullBody Horror Monsters (VRGR).md#^body-horror-monsters]]`
 
 **Body Horror Monsters**
 

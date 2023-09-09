@@ -8,7 +8,7 @@ aliases: ["Forest Encounters (Levels 11—16)"]
 # Forest Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 97* 
 
-`dice: [[Forest Encounters Levels-1116 (XGE).md#^forest-encounters-levels-1116]]`
+`dice: [[nullForest Encounters Levels-1116 (XGE).md#^forest-encounters-levels-1116]]`
 
 **Forest Encounters (Levels 11—16)**
 
@@ -31,7 +31,7 @@ aliases: ["Forest Encounters (Levels 11—16)"]
 | 55-56 | 1 [[5. Mechanics/Bestiary/Dragon/Young Green Dragon.md|young green dragon]] |
 | 57-58 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Giant/Troll.md|trolls]] |
 | 59-60 | `dice: 1d6 + 2\|avg` (`1d6 + 2`) [[5. Mechanics/Bestiary/Humanoid/Wereboar.md|wereboars]] |
-| 61-65 | A group of seven people ([[5. Mechanics/Bestiary/Humanoid/Co(MM)oner.md|")"]] wearing animal masks and ambling through the woods |
+| 61-65 | A group of seven people ([[5. Mechanics/Bestiary/Humanoid/Commoner.md|")"]] wearing animal masks and ambling through the woods |
 | 66-67 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Monstrosity/Gorgon.md|gorgons]] |
 | 68-69 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md|shambling mounds]] |
 | 70-71 | 1 [[5. Mechanics/Bestiary/Plant/Treant.md|treant]] |

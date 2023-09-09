@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 11—16)"]
 # Desert Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[Desert Encounters Levels-1116 (XGE).md#^desert-encounters-levels-1116]]`
+`dice: [[nullDesert Encounters Levels-1116 (XGE).md#^desert-encounters-levels-1116]]`
 
 **Desert Encounters (Levels 11—16)**
 
@@ -40,7 +40,7 @@ aliases: ["Desert Encounters (Levels 11—16)"]
 | 79-82 | 1 [[5. Mechanics/Bestiary/Dragon/Adult Brass Dragon.md|adult brass dragon]] |
 | 83-85 | 1 [[5. Mechanics/Bestiary/Monstrosity/Purple Worm.md|purple worm]] |
 | 86 | `dice: 1d2\|avg` (`1d2`) [[5. Mechanics/Bestiary/Dragon/Young Blue Dragon.md|young blue dragons]] |
-| 87-88 | 1 [[5. Mechanics/Bestiary/Undead/Mu(MM)y Lord.md|mummy lord]] |
+| 87-88 | 1 [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord]] |
 | 89 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md|guardian nagas]] |
 | 90 | 1 [[5. Mechanics/Bestiary/Dragon/Adult Blue Dragon.md|adult blue dragon]] |
 | 91 | `dice: 1d2\|avg` (`1d2`) [[5. Mechanics/Bestiary/Monstrosity/Gynosphinx.md|gynosphinxes]] |

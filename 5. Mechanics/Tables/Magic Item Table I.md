@@ -8,18 +8,18 @@ aliases: ["Magic Item Table I"]
 # Magic Item Table I
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table I.md#^magic-item-table-i]]`
+`dice: [[nullMagic Item Table I.md#^magic-item-table-i]]`
 
 **Magic Item Table I**
 
 | dice: d100 | Magic Item |
 |------------|------------|
 | 01-05 | Defender |
-| 06-10 | [[5. Mechanics/Items/Ha(MM)er Of Thunderbolts.md|Hammer of thunderbolts]] |
+| 06-10 | [[5. Mechanics/Items/Hammer Of Thunderbolts.md|Hammer of thunderbolts]] |
 | 11-15 | Luck blade |
 | 16-20 | Sword of answering |
 | 21-23 | Holy avenger |
-| 24-26 | [[5. Mechanics/Items/Ring Of Djinni Su(MM)oning.md|Ring of djinni summoning]] |
+| 24-26 | [[5. Mechanics/Items/Ring Of Djinni Summoning.md|Ring of djinni summoning]] |
 | 27-29 | [[5. Mechanics/Items/Ring Of Invisibility.md|Ring of invisibility]] |
 | 30-32 | [[5. Mechanics/Items/Ring Of Spell Turning.md|Ring of spell turning]] |
 | 33-35 | [[5. Mechanics/Items/Rod Of Lordly Might.md|Rod of lordly might]] |
@@ -57,11 +57,11 @@ aliases: ["Magic Item Table I"]
 | 88 | [[5. Mechanics/Items/Ioun Stone Regeneration.md|Ioun stone, regeneration]] |
 | 89 | [[5. Mechanics/Items/Plate Armor Of Etherealness.md|Plate armor of etherealness]] |
 | 90 | Plate armor of resistance |
-| 91 | [[5. Mechanics/Items/Ring Of Air Elemental Co(MM)and.md|Ring of air elemental command]] |
-| 92 | [[5. Mechanics/Items/Ring Of Earth Elemental Co(MM)and.md|Ring of earth elemental command]] |
-| 93 | [[5. Mechanics/Items/Ring Of Fire Elemental Co(MM)and.md|Ring of fire elemental command]] |
+| 91 | [[5. Mechanics/Items/Ring Of Air Elemental Command.md|Ring of air elemental command]] |
+| 92 | [[5. Mechanics/Items/Ring Of Earth Elemental Command.md|Ring of earth elemental command]] |
+| 93 | [[5. Mechanics/Items/Ring Of Fire Elemental Command.md|Ring of fire elemental command]] |
 | 94 | [[5. Mechanics/Items/Ring Of Three Wishes.md|Ring of three wishes]] |
-| 95 | [[5. Mechanics/Items/Ring Of Water Elemental Co(MM)and.md|Ring of water elemental command]] |
+| 95 | [[5. Mechanics/Items/Ring Of Water Elemental Command.md|Ring of water elemental command]] |
 | 96 | [[5. Mechanics/Items/Sphere Of Annihilation.md|Sphere of annihilation]] |
 | 97 | [[5. Mechanics/Items/Talisman Of Pure Good.md|Talisman of pure good]] |
 | 98 | [[5. Mechanics/Items/Talisman Of The Sphere.md|Talisman of the sphere]] |

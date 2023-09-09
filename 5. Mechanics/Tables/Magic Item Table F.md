@@ -8,7 +8,7 @@ aliases: ["Magic Item Table F"]
 # Magic Item Table F
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[Magic Item Table F.md#^magic-item-table-f]]`
+`dice: [[nullMagic Item Table F.md#^magic-item-table-f]]`
 
 **Magic Item Table F**
 
@@ -34,7 +34,7 @@ aliases: ["Magic Item Table F"]
 | 50-51 | [[5. Mechanics/Items/Staff Of The Adder.md|Staff of the adder]] |
 | 52-53 | [[5. Mechanics/Items/Staff Of The Python.md|Staff of the python]] |
 | 54-55 | Sword of vengeance |
-| 56-57 | [[5. Mechanics/Items/Trident Of Fish Co(MM)and.md|Trident of fish command]] |
+| 56-57 | [[5. Mechanics/Items/Trident Of Fish Command.md|Trident of fish command]] |
 | 58-59 | [[5. Mechanics/Items/Wand Of Magic Missiles.md|Wand of magic missiles]] |
 | 60-61 | [+1 wand of the war mage](compendium/items/1-wand-of-the-war-mage.md) |
 | 62-63 | [[5. Mechanics/Items/Wand Of Web.md|Wand of web]] |
@@ -54,7 +54,7 @@ aliases: ["Magic Item Table F"]
 | 78 | [[5. Mechanics/Items/Figurine Of Wondrous Power Silver Raven.md|Figurine of wondrous power, silver raven]] |
 | 79 | [[5. Mechanics/Items/Gem Of Brightness.md|Gem of brightness]] |
 | 80 | [[5. Mechanics/Items/Gloves Of Missile Snaring.md|Gloves of missile snaring]] |
-| 81 | [[5. Mechanics/Items/Gloves Of Swi(MM)ing And Climbing.md|Gloves of swimming and climbing]] |
+| 81 | [[5. Mechanics/Items/Gloves Of Swimming And Climbing.md|Gloves of swimming and climbing]] |
 | 82 | [[5. Mechanics/Items/Gloves Of Thievery.md|Gloves of thievery]] |
 | 83 | [[5. Mechanics/Items/Headband Of Intellect.md|Headband of intellect]] |
 | 84 | [[5. Mechanics/Items/Helm Of Telepathy.md|Helm of telepathy]] |

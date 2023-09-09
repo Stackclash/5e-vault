@@ -8,7 +8,7 @@ aliases: ["Ghost Story Plots"]
 # Ghost Story Plots
 *Source: Van Richten's Guide to Ravenloft p. 55* 
 
-`dice: [[Ghost Story Plots (VRGR).md#^ghost-story-plots]]`
+`dice: [[nullGhost Story Plots (VRGR).md#^ghost-story-plots]]`
 
 **Ghost Story Plots**
 

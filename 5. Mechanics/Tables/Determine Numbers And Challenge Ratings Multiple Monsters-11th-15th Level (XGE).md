@@ -8,7 +8,7 @@ aliases: ["Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level
 *Source: Xanathar's Guide to Everything p. 88* 
 
-`dice: [[Determine Numbers And Challenge Ratings Multiple Monsters-11th-15th Level (XGE).md#^multiple-monsters-11th-15th-level]]`
+`dice: [[nullDetermine Numbers And Challenge Ratings Multiple Monsters-11th-15th Level (XGE).md#^multiple-monsters-11th-15th-level]]`
 
 **Multiple Monsters: 11th-15th Level**
 

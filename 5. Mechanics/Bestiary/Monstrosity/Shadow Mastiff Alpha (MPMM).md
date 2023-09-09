@@ -10,7 +10,7 @@ tags:
 aliases: ["Shadow Mastiff Alpha"]
 ---
 # Shadow Mastiff Alpha
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215*  
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
 

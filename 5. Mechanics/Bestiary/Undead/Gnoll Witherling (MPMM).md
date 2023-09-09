@@ -11,7 +11,7 @@ tags:
 aliases: ["Gnoll Witherling"]
 ---
 # Gnoll Witherling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

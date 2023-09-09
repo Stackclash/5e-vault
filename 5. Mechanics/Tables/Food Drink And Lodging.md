@@ -8,7 +8,7 @@ aliases: ["Food, Drink, and Lodging"]
 # Food, Drink, and Lodging
 *Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.* 
 
-`dice: [[Food Drink And Lodging.md#^food-drink-and-lodging]]`
+`dice: [[nullFood Drink And Lodging.md#^food-drink-and-lodging]]`
 
 **Food, Drink, and Lodging**
 
@@ -36,6 +36,6 @@ aliases: ["Food, Drink, and Lodging"]
 | Aristocratic | 2 gp |
 | [[5. Mechanics/Items/Chunk Of Meat.md|Meat, chunk]] | 3 sp |
 | *Wine* |  |
-| [[5. Mechanics/Items/Co(MM)on Wine Pitcher.md|Common (pitcher)]] | 2 sp |
+| [[5. Mechanics/Items/Common Wine Pitcher.md|Common (pitcher)]] | 2 sp |
 | [[5. Mechanics/Items/Fine Wine Bottle.md|Fine (bottle)]] | 10 gp |
 ^food-drink-and-lodging

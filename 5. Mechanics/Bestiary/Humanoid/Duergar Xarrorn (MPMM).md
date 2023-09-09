@@ -9,7 +9,7 @@ tags:
 aliases: ["Duergar Xarrorn"]
 ---
 # Duergar Xarrorn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
 

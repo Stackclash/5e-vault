@@ -8,7 +8,7 @@ aliases: ["Human Names – French, Female"]
 # Human Names – French, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[Human Names French Female (XGE).md#^human-names-french-female]]`
+`dice: [[nullHuman Names French Female (XGE).md#^human-names-french-female]]`
 
 **Human Names – French, Female**
 

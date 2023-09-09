@@ -112,7 +112,7 @@ Portals and gates that open onto the plane become one-way only. Secret ways out 
 
 At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] afflicting the creature are removed.
 
-A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva-(DMG).md|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
+A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
 
 ### Gehenna: Cruel Hindrance
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Duergar Despot"]
 ---
 # Duergar Despot
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
 

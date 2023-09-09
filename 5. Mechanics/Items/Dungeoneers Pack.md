@@ -16,7 +16,7 @@ Includes:
 
 - a [[5. Mechanics/Items/Backpack.md|backpack]]  
 - a [[5. Mechanics/Items/Crowbar.md|crowbar]]  
-- a [[5. Mechanics/Items/Ha(MM)er.md|hammer]]  
+- a [[5. Mechanics/Items/Hammer.md|hammer]]  
 - 10 [[5. Mechanics/Items/Piton.md|pitons]]  
 - 10 [[5. Mechanics/Items/Torch.md|torches]]  
 - a [[5. Mechanics/Items/Tinderbox.md|tinderbox]]  

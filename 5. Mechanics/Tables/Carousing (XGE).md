@@ -8,7 +8,7 @@ aliases: ["Carousing"]
 # Carousing
 *Source: Xanathar's Guide to Everything p. 127* 
 
-`dice: [[Carousing (XGE).md#^carousing]]`
+`dice: [[nullCarousing (XGE).md#^carousing]]`
 
 **Carousing**
 

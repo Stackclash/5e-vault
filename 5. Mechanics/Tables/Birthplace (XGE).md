@@ -8,7 +8,7 @@ aliases: ["Birthplace"]
 # Birthplace
 *Source: Xanathar's Guide to Everything p. 62* 
 
-`dice: [[Birthplace (XGE).md#^birthplace]]`
+`dice: [[nullBirthplace (XGE).md#^birthplace]]`
 
 **Birthplace**
 

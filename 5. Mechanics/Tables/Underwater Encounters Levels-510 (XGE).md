@@ -8,7 +8,7 @@ aliases: ["Underwater Encounters (Levels 5—10)"]
 # Underwater Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 109* 
 
-`dice: [[Underwater Encounters Levels-510 (XGE).md#^underwater-encounters-levels-510]]`
+`dice: [[nullUnderwater Encounters Levels-510 (XGE).md#^underwater-encounters-levels-510]]`
 
 **Underwater Encounters (Levels 5—10)**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["School of Enchantment"]
 ---
 # School of Enchantment
-*[[Wizard.md|Wizard]]: Arcane Tradition*  
+*[[nullWizard.md|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 117*  
 
 

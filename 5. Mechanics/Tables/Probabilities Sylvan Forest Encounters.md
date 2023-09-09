@@ -8,7 +8,7 @@ aliases: ["Probabilities; Sylvan Forest Encounters"]
 # Probabilities; Sylvan Forest Encounters
 *Source: Dungeon Master's Guide p. 86* 
 
-`dice: [[Probabilities Sylvan Forest Encounters.md#^sylvan-forest-encounters]]`
+`dice: [[nullProbabilities Sylvan Forest Encounters.md#^sylvan-forest-encounters]]`
 
 **Sylvan Forest Encounters**
 

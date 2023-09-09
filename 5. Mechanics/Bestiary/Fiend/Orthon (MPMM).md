@@ -10,7 +10,7 @@ tags:
 aliases: ["Orthon"]
 ---
 # Orthon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 205*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
 

@@ -18,7 +18,6 @@ tags:
 aliases: ["Scrying"]
 ---
 # Scrying
-%%-- Embedded content starts on the next line. --%%
 *5th-level, Divination*  
 
 - **Casting time:** 10 minute

@@ -8,7 +8,7 @@ aliases: ["Crafting Complications"]
 # Crafting Complications
 *Source: Xanathar's Guide to Everything p. 129* 
 
-`dice: [[Crafting Complications (XGE).md#^table]]`
+`dice: [[nullCrafting Complications (XGE).md#^table]]`
 
 **Crafting Complications**
 

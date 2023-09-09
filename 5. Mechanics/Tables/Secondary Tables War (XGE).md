@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; War"]
 # Secondary Tables; War
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[Secondary Tables War (XGE).md#^war]]`
+`dice: [[nullSecondary Tables War (XGE).md#^war]]`
 
 **War**
 

@@ -12,7 +12,7 @@ Ravenloft is a place where your nightmares can run wild, where anything you can 
 
 This chapter explores how to create such domains, a process that starts by defining a Darklord—the villain at the heart of each sinister realm. Descriptions of various genres of horror also provide details to guide and inspire your creations.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/024-02-001-intro-splash.jpg#center|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.md#center|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
 
 ## Creating a Darklord
 
@@ -75,7 +75,7 @@ Detailing the Darklord's personality gives them a unique identity that will help
 
 ### Corrupt Beyond Redemption
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/025-02-002-misc.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/025-02-002-misc.md#center]]
 
 Darklords aren't misunderstood souls condemned through no fault of their own. If a person's potential for evil is particularly great, the Dark Powers might indirectly nurture further transgression, but they don't force individuals to undertake actions against their will. When an evildoer's wickedness ripens, the Dark Powers engulf them forever.
 
@@ -150,7 +150,7 @@ In every domain, instruments of suffering from the Darklord's past ensure their 
 - **Shocking Reminders.** The domain is drowning in symbolic reminders of the Darklord's inadequacies. When symbolism is too subtle, the literal specters from the Darklord's past return to haunt them.  
 - **Unpleasant Hope.** The Darklord's desire—commonly their bond—is present and obvious, but still unattainable. This instills hope in the Darklord that they are unable to deny, resist, or ignore. Furthermore, they are overcome by their desire's presence, spurring them to act irrationally.  
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/026-02-003-river-dancer.png#center|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.md#center|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
 
 ### Domain Overview
 
@@ -238,7 +238,7 @@ Once you know what your domain and Darklord are, think ahead to the climax of yo
 
 A Darklord likely can't be defeated by combat alone, so what is their weakness? In one or two sentences, describe this weakness, where it is in the domain, how the Darklord attempts to conceal this Achilles' heel, and how adventures might exploit it to bring the Darklord down.
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/027-02-004.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/027-02-004.md#center]]
 
 Then, assuming the Darklord is defeated, consider what happens next and how that's relevant to the player characters, addressing the following questions:
 
@@ -264,7 +264,7 @@ The monster lists presented throughout this section reference creatures found in
 
 ### Body Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/028-02-005-body-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/028-02-005-body-horror.md#center]]
 
 Body horror as a genre examines a universal fear: our own failing anatomies. We rarely think about what goes on beneath our skin. We understand that the organs operate in harmony: the heart beats, the lungs pump air, and the gastrointestinal system labors to supply us with nutrients. But we don't ponder the minutiae. Like whether embryonic parasites encyst in our brains, or what stage of cirrhosis we might be facing, or if tumors bloom deep in parts of ourselves we hope never to see.
 
@@ -318,7 +318,7 @@ Adventures in body horror realms are often tests of endurance, whether players a
 
 ### Cosmic Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/029-02-006-cosmic-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/029-02-006-cosmic-horror.md#center]]
 
 Cosmic horror revolves around the fear of personal insignificance. The genre is predicated on the idea of entities so vast and so genuinely beyond our comprehension that we cannot fathom their simplest motivations. To see them is to become lost in their magnitude and the evidence that we have never, will never, and could never matter to the cosmos at large.
 
@@ -339,41 +339,41 @@ In addition, consider the following genre tropes when creating your cosmic horro
 
 Monsters that work well in cosmic horror adventures enact change on their unwilling victims. Cosmic horror focuses on unknowable entities and creatures that see into the minds of their enemies and use what they find against them. Any monster can easily be modified to suit adventures in this genre, perhaps being controlled by a hidden intelligence or vast cosmic force.
 
-![[5. Mechanics/Tables/(COS)mic Horror Monsters Vrgr.md|Cosmic Horror Monsters]]
+![[5. Mechanics/Tables/Cosmic Horror Monsters (VRGR).md|Cosmic Horror Monsters]]
 
 #### Cosmic Horror Villains
 
 When the cosmic horror villains are mortal, they're wretched creatures, perpetrating unimaginable horrors in the hope of an outcome they can't properly articulate. Beyond them are monstrous beings, the spawn of horrors or those who've come to think of themselves as such. Past these harbingers are true cosmic horrors, inscrutable beings, godlike terrors, and the embodiments of forces unlikely to be interacted with and whose very beings are likely anathema to characters.
 
-![[5. Mechanics/Tables/(COS)mic Horror Villains Vrgr.md|Cosmic Horror Villains]]
+![[5. Mechanics/Tables/Cosmic Horror Villains (VRGR).md|Cosmic Horror Villains]]
 
 #### Cosmic Horror Torments
 
 Darklords in this genre are endowed with powers stemming from their studies or ancestry, or granted by ancient numinosities. Darklords in cosmic horror realms commonly suffer psychological torments.
 
-![[5. Mechanics/Tables/(COS)mic Horror Torments Vrgr.md|Cosmic Horror Torments]]
+![[5. Mechanics/Tables/Cosmic Horror Torments (VRGR).md|Cosmic Horror Torments]]
 
 #### Cosmic Horror Settings
 
 Cosmic horror frequently takes place in academic or maritime settings, both of which imply access to hidden knowledge, whether literal or metaphorical. When not in mortal realms, cosmic horror dimensions trend toward being unnatural, logic-defying places.
 
-![[5. Mechanics/Tables/(COS)mic Horror Settings Vrgr.md|Cosmic Horror Settings]]
+![[5. Mechanics/Tables/Cosmic Horror Settings (VRGR).md|Cosmic Horror Settings]]
 
 #### Cosmic Horror Adventure Sites
 
 Cosmic horror is rarely overt save at critical moments, relying on creating subtle but growing unease and leaving details to the imagination.
 
-![[5. Mechanics/Tables/(COS)mic Horror Adventure Sites Vrgr.md|Cosmic Horror Adventure Sites]]
+![[5. Mechanics/Tables/Cosmic Horror Adventure Sites (VRGR).md|Cosmic Horror Adventure Sites]]
 
 #### Cosmic Horror Plots
 
 Adventures in cosmic horror realms are bleak, desperate affairs where the best one can hope for is to survive relatively intact. There is no stopping the ultimate evil, but players may aspire to temporarily seal it away.
 
-![[5. Mechanics/Tables/(COS)mic Horror Plots Vrgr.md|Cosmic Horror Plots]]
+![[5. Mechanics/Tables/Cosmic Horror Plots (VRGR).md|Cosmic Horror Plots]]
 
 ### Dark Fantasy
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/030-02-007-dark-fantasy.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/030-02-007-dark-fantasy.md#center]]
 
 Dark fantasy is as much a genre of fantasy as it is a genre of horror. Generally, any tale featuring both supernatural elements and horror themes might be considered dark fantasy, whether it's a fantasy story steeped in horror elements or an otherwise realistic world that features a supernatural terror. Dark fantasy refers to fantasy worlds where grim themes, nihilistic plots, or horrifying elements inform a fantasy tale. Evil dominates a dark fantasy setting, with depravity being commonplace and life holding little value.
 
@@ -425,7 +425,7 @@ Adventures in dark fantasy domains involve unlikely or reluctant heroes (or riva
 
 ### Folk Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/031-02-008-folk-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/031-02-008-folk-horror.md#center]]
 
 Folk horror adventures involve traditions, beliefs, and perceptions that are passed down through generations and take terrifying twists. For those who ascribe to hidden traditions, sacrifices to strange gods or placations to lurking monsters are everyday events. For outsiders, though, these practices reveal the subjectivity of normalcy, societal truth, and taboos.
 
@@ -485,7 +485,7 @@ Folk horror stories often involve outsiders or an unwitting new member of the co
 
 ### Ghost Stories
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/032-02-009-ghost-stories.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/032-02-009-ghost-stories.md#center]]
 
 Ghost stories number among the more psychologically elaborate genres of horror. Only through revealing tales of tragedy and past wrongs can heroes truly bring peace to forces that share their suffering with the living.
 
@@ -537,7 +537,7 @@ Ghost story adventures deal with learning the story behind a haunting and ultima
 
 ### Gothic Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/033-02-010-gothic-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/033-02-010-gothic-horror.md#center]]
 
 Gothic horror is about the terror within, not without. It shatters the illusion of humanity in a poignant way by holding a mirror up to us and saying: look at what we truly are, and look at what we pretend to be. Under that mask of civility, there is depravity. Under that thin veneer of society, there is wickedness. Under all the trappings of sophistication, are we not all predators or prey? Gothic horror shatters the lies we trick ourselves into believing and shows that we, not some distant entity, are and ever shall be the architects of our doom. The quest for perfection leads us to discover our own imperfection. Our quest for the divine leads us to believe we, ourselves, are gods. These are the themes that haunt stories of Gothic horror.
 
@@ -591,7 +591,7 @@ In addition to the aforementioned terrors, consider exploring any of the followi
 
 #### Disaster Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/034-02-011-disaster-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/034-02-011-disaster-horror.md#center]]
 
 In disaster horror adventures, the world has fallen to ruin—or it's getting there fast. The unthinkable has happened and, as a result, society is collapsing. In these tales, a monster or villain might be replaced by cascading catastrophes like those brought about by a meteor strike or volcanic eruption. Regardless of a hero's power, the best-timed critical hit or the most powerful spell might not fix a city ruined by an earthquake or a world ravaged by plagues.
 
@@ -612,7 +612,7 @@ When creating adventures inspired by disaster horror, ask yourself the following
 
 #### Occult Detective Stories
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/035-02-012-occult-detective-stories.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/035-02-012-occult-detective-stories.md#center]]
 
 Adventures rooted in the occult detective genre straddle the line between fantasy, mystery, and horror. For the occult detective, solving paranormal mysteries is all part of the job. In these adventures, villains employ supernatural powers toward nefarious ends while characters act as detectives, interpreting events, learning patterns, deducing goals, and ultimately putting an end to the threat. investigation and cleverness take center stage in these adventures, though as in the noir stories that inspire the genre, there's plenty of room for action.
 
@@ -631,7 +631,7 @@ When creating adventures inspired by occult detective stories, ask yourself the 
 
 #### Psychological Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/036-02-013-psychological-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/036-02-013-psychological-horror.md#center]]
 
 Psychological horror stories create suspense by heightening or calling into question characters' states of mind, emotions, and perceptions. They often highlight the difference between what characters think and how they behave.
 
@@ -648,7 +648,7 @@ Be aware that some classic psychological horror tales stigmatize mental illness.
 
 #### Slasher Horror
 
-![[6. Resources/Books/van-richtens-guide-to-ravenloft/img/037-02-014-slasher-horror.png#center]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/037-02-014-slasher-horror.md#center]]
 
 Every monster is a story, and many of those stories are horror stories. This brand of horror contends with relentless killers, which might be people or monsters. These adventures revel in grisly details, the suspense of an impending showdown with a powerful foe, and the fear that death waits right around the corner.
 

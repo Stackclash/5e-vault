@@ -7,7 +7,7 @@ tags:
 aliases: ["Fraz-Urb'luu"]
 ---
 # Fraz-Urb'luu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  
 
 Fraz-Urb'luu is the Prince of [[/5. Mechanics/Rules/Skills.md#Deception|Deception]] and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 
@@ -68,7 +68,7 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
     \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\n\
     \n1/day each: [[5. Mechanics/Spells/Modify Memory.md|modify memory]], [project\
     \ image](compendium/spells/project-image.md)\n\n3/day each: [[5. Mechanics/Spells/Mislead.md|mislead]],\
-    \ [[5. Mechanics/Spells/Progra(MM)ed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/Seeming.md|seeming]]"
+    \ [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/Seeming.md|seeming]]"
   "name": "spells"
 - "desc": "If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"

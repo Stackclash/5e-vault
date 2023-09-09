@@ -8,7 +8,7 @@ aliases: ["Monstrous Transformations"]
 # Monstrous Transformations
 *Source: Van Richten's Guide to Ravenloft p. 41* 
 
-`dice: [[Monstrous Transformations (VRGR).md#^monstrous-transformations]]`
+`dice: [[nullMonstrous Transformations (VRGR).md#^monstrous-transformations]]`
 
 **Monstrous Transformations**
 

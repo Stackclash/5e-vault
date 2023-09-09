@@ -32,7 +32,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 61-70 | A hungry [[5. Mechanics/Bestiary/Monstrosity/Bulette.md|bulette]] burrows up and attacks. |
 | 71-80 | A fruit tree grows. It has `dice: 1d10 + 20\|avg` (`1d10 + 20`) fruit, `dice: 1d8\|avg` (`1d8`) of which act as randomly determined magic potions, while one acts as an ingested poison of the DM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days. |
 | 81-90 | A nest of `dice: 1d4 + 3\|avg` (`1d4 + 3`) eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes `dice: 10d6\|avg` (`10d6`) force damage from an internal magical explosion. |
-| 91-99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a [[5. Mechanics/Bestiary/Undead/Mu(MM)y Lord.md|mummy lord]]. The pyramid is treated as the [[5. Mechanics/Bestiary/Undead/Mu(MM)y Lord.md|mummy lord's]] lair, and its sarcophagus contains treasure of the DM's choice. |
+| 91-99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord]]. The pyramid is treated as the [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord's]] lair, and its sarcophagus contains treasure of the DM's choice. |
 | 00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a [[5. Mechanics/Bestiary/Giant/Cloud Giant.md|cloud giant's]] castle, or a different plane of existence. |
 ^dice-avg-effect
 

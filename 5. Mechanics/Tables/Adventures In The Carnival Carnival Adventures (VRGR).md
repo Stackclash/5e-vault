@@ -8,7 +8,7 @@ aliases: ["Adventures in the Carnival; Carnival Adventures"]
 # Adventures in the Carnival; Carnival Adventures
 *Source: Van Richten's Guide to Ravenloft p. 87* 
 
-`dice: [[Adventures In The Carnival Carnival Adventures (VRGR).md#^carnival-adventures]]`
+`dice: [[nullAdventures In The Carnival Carnival Adventures (VRGR).md#^carnival-adventures]]`
 
 **Carnival Adventures**
 

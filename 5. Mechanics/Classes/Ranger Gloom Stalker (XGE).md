@@ -7,7 +7,7 @@ tags:
 aliases: ["Gloom Stalker"]
 ---
 # Gloom Stalker
-*[[Ranger.md|Ranger]]: Ranger Archetype*  
+*[[nullRanger.md|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 41*  
 
 

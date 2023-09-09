@@ -7,7 +7,7 @@ tags:
 aliases: ["Wild Magic"]
 ---
 # Wild Magic
-*[[Sorcerer.md|Sorcerer]]: Sorcerous Origin*  
+*[[nullSorcerer.md|Sorcerer]]: Sorcerous Origin*  
 *Source: Player's Handbook p. 103*  
 
 

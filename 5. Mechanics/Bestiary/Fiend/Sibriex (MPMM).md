@@ -8,7 +8,7 @@ tags:
 aliases: ["Sibriex"]
 ---
 # Sibriex
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 217*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
 
@@ -50,7 +50,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "traits":
 - "desc": "The sibriex casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Co(MM)and.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
   "name": "spells"
 - "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\

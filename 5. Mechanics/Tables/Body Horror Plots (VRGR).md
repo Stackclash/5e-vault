@@ -8,7 +8,7 @@ aliases: ["Body Horror Plots"]
 # Body Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 47* 
 
-`dice: [[Body Horror Plots (VRGR).md#^body-horror-plots]]`
+`dice: [[nullBody Horror Plots (VRGR).md#^body-horror-plots]]`
 
 **Body Horror Plots**
 

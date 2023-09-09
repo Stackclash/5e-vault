@@ -12,7 +12,6 @@ tags:
 aliases: ["Power Word Kill"]
 ---
 # Power Word Kill
-%%-- Embedded content starts on the next line. --%%
 *9th-level, Enchantment*  
 
 - **Casting time:** 1 action

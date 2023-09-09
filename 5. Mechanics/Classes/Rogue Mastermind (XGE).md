@@ -7,7 +7,7 @@ tags:
 aliases: ["Mastermind"]
 ---
 # Mastermind
-*[[Rogue.md|Rogue]]: Roguish Archetype*  
+*[[nullRogue.md|Rogue]]: Roguish Archetype*  
 *Source: Xanathar's Guide to Everything p. 46*  
 
 

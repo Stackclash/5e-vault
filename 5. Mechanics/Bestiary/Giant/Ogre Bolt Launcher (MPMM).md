@@ -10,7 +10,7 @@ tags:
 aliases: ["Ogre Bolt Launcher"]
 ---
 # Ogre Bolt Launcher
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 200*  
 
 A bolt launcher carries a gigantic crossbow—a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
 

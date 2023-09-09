@@ -14,7 +14,6 @@ tags:
 aliases: ["Cloud of Daggers"]
 ---
 # Cloud of Daggers
-%%-- Embedded content starts on the next line. --%%
 *2nd-level, Conjuration*  
 
 - **Casting time:** 1 action

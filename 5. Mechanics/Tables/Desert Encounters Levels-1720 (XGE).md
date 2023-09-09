@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 17—20)"]
 # Desert Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[Desert Encounters Levels-1720 (XGE).md#^desert-encounters-levels-1720]]`
+`dice: [[nullDesert Encounters Levels-1720 (XGE).md#^desert-encounters-levels-1720]]`
 
 **Desert Encounters (Levels 17—20)**
 
@@ -21,7 +21,7 @@ aliases: ["Desert Encounters (Levels 17—20)"]
 | 19-22 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Giant/Cyclops.md|cyclopes]] |
 | 23-25 | An abandoned city made from white marble, empty during the day. At night, harmless apparitions roam the streets, replaying the final moments of their lives. |
 | 26-30 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Dragon/Young Blue Dragon.md|young blue dragons]] |
-| 31-35 | 1 [[5. Mechanics/Bestiary/Undead/Mu(MM)y Lord.md|mummy lord]] |
+| 31-35 | 1 [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|mummy lord]] |
 | 36-40 | `dice: 1d4\|avg` (`1d4`) hours of extreme heat (see chapter 5 of the *Dungeon Master's Guide*) |
 | 41-50 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md|guardian nagas]] |
 | 51-60 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Elemental/Efreeti.md|efreet]] |

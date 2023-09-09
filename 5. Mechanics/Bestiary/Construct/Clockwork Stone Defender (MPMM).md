@@ -11,7 +11,7 @@ tags:
 aliases: ["Clockwork Stone Defender"]
 ---
 # Clockwork Stone Defender
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 80*  
 
 The thick plates of stone riveted onto a stone defender give it substantial protection. Its chief role is as a bodyguard.
 

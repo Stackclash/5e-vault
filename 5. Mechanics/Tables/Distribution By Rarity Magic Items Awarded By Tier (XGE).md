@@ -8,7 +8,7 @@ aliases: ["Distribution by Rarity; Magic Items Awarded by Tier"]
 # Distribution by Rarity; Magic Items Awarded by Tier
 *Source: Xanathar's Guide to Everything p. 135* 
 
-`dice: [[Distribution By Rarity Magic Items Awarded By Tier (XGE).md#^magic-items-awarded-by-tier]]`
+`dice: [[nullDistribution By Rarity Magic Items Awarded By Tier (XGE).md#^magic-items-awarded-by-tier]]`
 
 **Magic Items Awarded by Tier**
 

@@ -8,7 +8,7 @@ aliases: ["Forest Encounters (Levels 5—10)"]
 # Forest Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 97* 
 
-`dice: [[Forest Encounters Levels-510 (XGE).md#^forest-encounters-levels-510]]`
+`dice: [[nullForest Encounters Levels-510 (XGE).md#^forest-encounters-levels-510]]`
 
 **Forest Encounters (Levels 5—10)**
 

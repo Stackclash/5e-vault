@@ -8,7 +8,7 @@ aliases: ["Gothic Horror Plots"]
 # Gothic Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 57* 
 
-`dice: [[Gothic Horror Plots (VRGR).md#^gothic-horror-plots]]`
+`dice: [[nullGothic Horror Plots (VRGR).md#^gothic-horror-plots]]`
 
 **Gothic Horror Plots**
 

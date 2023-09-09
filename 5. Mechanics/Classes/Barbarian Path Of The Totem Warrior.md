@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Totem Warrior"]
 ---
 # Path of the Totem Warrior
-*[[Barbarian.md|Barbarian]]: Primal Path*  
+*[[nullBarbarian.md|Barbarian]]: Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 
@@ -59,7 +59,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 ### Spirit Walker (Level 10)
 
-At 10th level, you can cast the [[5. Mechanics/Spells/Co(MM)une With Nature.md|commune with nature]] spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+At 10th level, you can cast the [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]] spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement (Level 14)
 

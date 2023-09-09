@@ -8,7 +8,7 @@ aliases: ["Darkon's Salvation"]
 # Darkon's Salvation
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
-`dice: [[Darkons Salvation (VRGR).md#^darkons-salvation]]`
+`dice: [[nullDarkons Salvation (VRGR).md#^darkons-salvation]]`
 
 **Darkon's Salvation**
 

@@ -8,7 +8,7 @@ aliases: ["Hazlan Adventures"]
 # Hazlan Adventures
 *Source: Van Richten's Guide to Ravenloft p. 115* 
 
-`dice: [[Hazlan Adventures (VRGR).md#^hazlan-adventures]]`
+`dice: [[nullHazlan Adventures (VRGR).md#^hazlan-adventures]]`
 
 **Hazlan Adventures**
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Tempest Domain"]
 ---
 # Tempest Domain
-*[[Cleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 

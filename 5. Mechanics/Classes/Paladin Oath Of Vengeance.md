@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Vengeance"]
 ---
 # Oath of Vengeance
-*[[Paladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 87*  
 
 

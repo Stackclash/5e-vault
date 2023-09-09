@@ -7,7 +7,7 @@ tags:
 aliases: ["Moloch"]
 ---
 # Moloch
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 183*  
 
 > [!quote]- A quote from Mordenkainen  
 > 

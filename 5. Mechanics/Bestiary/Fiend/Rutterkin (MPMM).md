@@ -7,7 +7,7 @@ tags:
 aliases: ["Rutterkin"]
 ---
 # Rutterkin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 210*  
 
 > [!quote]- A quote from Tasha  
 > 

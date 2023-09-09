@@ -59,7 +59,7 @@ A naga doesn't require air, food, drink, or sleep.
     \ Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:\n\
     \nCantrips (at will): [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Co(MM)and.md|command]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
+    \ slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
     \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
     \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 3rd-level\
     \ slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]]"

@@ -8,7 +8,7 @@ aliases: ["Handling Mobs; Mob Attacks"]
 # Handling Mobs; Mob Attacks
 *Source: Dungeon Master's Guide p. 250* 
 
-`dice: [[Handling Mobs Mob Attacks.md#^mob-attacks]]`
+`dice: [[nullHandling Mobs Mob Attacks.md#^mob-attacks]]`
 
 **Mob Attacks**
 
