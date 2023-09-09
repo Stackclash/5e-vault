@@ -11,12 +11,8 @@
             "id": "10a301c197e90c44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,14 +167,14 @@
   },
   "active": "10a301c197e90c44",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
+    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000-cos01-01.png.md",
-    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000-cos01-01.png",
     "6. Resources/5e Modules/Curse Of Strahd/02 Introduction.md",
     "0-500.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
     "Importing 5eTools Data.md",
     "Importing 5eTools Data.md",
     "3000-3500.md",

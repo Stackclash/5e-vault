@@ -1,9 +1,12 @@
 const fs = require('fs')
 const path = require('path')
 
+// Come up with a way to ignore files in rules
+// Create reliable logging
+
 const config = {
     dryRun: false,
-    limit: 1500,
+    limit: 2000,
     rootVaultPath: path.resolve(__dirname, '../'),
     compendiumPath: 'compendium',
     rules: [
@@ -86,8 +89,10 @@ const config = {
                         .replaceAll(/compendium\/books/g, () => '6. Resources/Books')
                         .replaceAll(/compendium/g, () => '5. Mechanics')
                         .replace(/^(\w)/, (all, letter) => letter.toUpperCase())
-                        .replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
-                        .replace(/(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => '(' + source.toUpperCase() + ')')
+                    if (!['.jpg', '.jpeg', '.png'].includes(path.parse(linkPath).ext) {
+                        linkPath = linkPath.replaceAll(/([\/\-])([a-z])(?!mg)/gi, (all, separator, letter) => separator === '-' ? ' '+letter.toUpperCase() : '/'+letter.toUpperCase())
+                            .replace(/(PHB|DMG|MM|VRGR|XGE|VGM|TCE|MPMM|MTF|CoS)/i, (all, source) => '(' + source.toUpperCase() + ')')
+                    }
     
                     if(!displayText && !title) {
                         newLink = `[[${linkPath}${section}]]`
@@ -123,7 +128,7 @@ class CompendiumFile {
     constructor(filePath) {
         this.#oldPath = filePath
         this.path = this.#oldPath
-        this.#oldContent = fs.readFileSync(filePath, 'utf-8')
+        this.#oldContent = !['.jpg', '.jpeg', '.png'].includes(path.parse(filePath).ext) ? fs.readFileSync(filePath, 'utf-8') : fs.readFileSync(filePath)
         this.content = this.#oldContent
         this.execute = () => {
             fs.mkdirSync(path.parse(this.path).dir, {recursive: true})
@@ -174,22 +179,21 @@ function processAllRules(files) {
     let updateText = ''
     files = files.slice(0, config.limit)
     files.forEach((file, index) => {
-        updateText += `${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}\n`
         console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
             if (rule.enabled) {
-                if (rule.regex) {
-                    file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (...match) => rule.process(file, ...match))
-                } else {
-                    file = rule.process(file)
+                if (!(rule.target === 'content' && ['.jpg', '.jpeg', '.png'].includes(file.fileExtension))) {
+                    if (rule.regex) {
+                        file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (...match) => rule.process(file, ...match))
+                    } else {
+                        file = rule.process(file)
+                    }
                 }
             }
         })
-        updateText = `\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}\n`
         console.log(`\tMoved To: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         if (!config.dryRun) file.execute()
     })
-    fs.writeFileSync('log.txt', updateText)
 }
 
 processAllRules(goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath)))
