@@ -14,6 +14,6 @@ aliases: ["Potion of Clairvoyance"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-When you drink this potion, you gain the effect of the [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]] spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
+When you drink this potion, you gain the effect of the [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
 
 *Source: Dungeon Master's Guide p. 187. Available in the SRD.*

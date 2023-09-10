@@ -8,7 +8,7 @@ aliases: ["Skill Variants"]
 # Skill Variants
 *Source: Dungeon Master's Guide p. 263* 
 
-A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]] and [[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]] are two different aspects of Dexterity, and a character can specialize in either or both.
+A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]] and [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]] are two different aspects of Dexterity, and a character can specialize in either or both.
 
 You can dispense with skills and use one of the following variants. Choose whichever one best suits your campaign.
 
@@ -16,7 +16,7 @@ You can dispense with skills and use one of the following variants. Choose which
 
 With this variant rule, characters don't have skill proficiencies. Instead, each character has proficiency in two abilities: one tied to the character's class and one tied to the character's background. The Ability Proficiencies by Class table suggests a proficiency for each class, and you choose which ability is tied to a given background. Starting at 1st level, a character adds his or her proficiency bonus to any ability check tied to one or the other of these two abilities.
 
-![[5. Mechanics/Tables/Ability Check Proficiency By Class.md|Ability Check Proficiency by Class]]
+![[5. Mechanics/Tables/Ability Check Proficiency By Class.md\|Ability Check Proficiency by Class]]
 
 The Expertise feature works differently than normal under this rule. At 1st level, instead of choosing two skill proficiencies, a character with the Expertise class feature chooses one of the abilities in which he or she has proficiency. Selecting an ability counts as two of the character's Expertise choices. If the character would gain an additional skill proficiency, that character instead selects another ability check in which to gain proficiency.
 

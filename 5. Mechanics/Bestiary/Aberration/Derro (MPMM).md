@@ -51,13 +51,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
     \ effects."
   "name": "Magic Resistance"
 - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
     \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage. If the target is Medium\
-    \ or smaller, the derro can choose to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ or smaller, the derro can choose to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Hooked Spear"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
     \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."

@@ -31,9 +31,9 @@ aliases: ["Giant Bat"]
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]."
   "name": "Echolocation"
-- "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":

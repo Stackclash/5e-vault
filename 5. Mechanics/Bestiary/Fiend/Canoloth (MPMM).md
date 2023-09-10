@@ -18,7 +18,7 @@ aliases: ["Canoloth"]
 
 A type of yugoloth, canoloths are fiendish trackers and guardians employed by evil powers. They prefer to enter into contracts to guard valuable treasures and important locations. They always do exactly as asked—never any more, never any less.
 
-With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
+With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
 
 ```statblock
 "name": "Canoloth"
@@ -54,7 +54,7 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 - "desc": "The canoloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "The canoloth can't be surprised unless it's [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+- "desc": "The canoloth can't be surprised unless it's [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Uncanny Senses"
 "actions":
 - "desc": "The canoloth makes one Bite or Tongue attack and one Claw attack."
@@ -69,8 +69,8 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 30 ft., one target.\
     \ Hit: 10 (dice: 1d12 + 4|avg (1d12 + 4)) piercing damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) acid damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15), pulled up to 30 feet toward the canoloth, and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ 2d6|avg (2d6)) acid damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ (escape DC 15), pulled up to 30 feet toward the canoloth, and [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ until the grapple ends. The canoloth can grapple one target at a time with its\
     \ tongue."
   "name": "Tongue"

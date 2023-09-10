@@ -52,14 +52,14 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
     \ 3d10|avg (3d10)) necrotic damage."
   "name": "Slam"
 - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
-    \ in that area must make a successful DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] creature\
+    \ in that area must make a successful DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] creature\
     \ repeats the saving throw at the end of each of its turns, ending the effect\
     \ on itself with a success."
   "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
 - "desc": "The collector calls up the enslaved spirits of those it has slain; dice:\
-    \ 1d4|avg (1d4) [[5. Mechanics/Bestiary/Undead/Specter.md|specters]] (without\
+    \ 1d4|avg (1d4) [[5. Mechanics/Bestiary/Undead/Specter.md\|specters]] (without\
     \ Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
     \ act right after the collector on the same initiative count and fight until they're\
     \ destroyed. They disappear when the collector is destroyed."

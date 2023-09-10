@@ -32,7 +32,7 @@ aliases: ["Weasel"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The weasel has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The weasel has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":

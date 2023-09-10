@@ -13,7 +13,7 @@ aliases: ["Greataxe"]
 *Melee Weapon*  
 
 - **Damage**: 1d12 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
 

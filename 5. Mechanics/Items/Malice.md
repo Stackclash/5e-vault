@@ -14,6 +14,6 @@ aliases: ["Malice"]
 - **Cost**: 250 gp
 - **Weight**: ⏤
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]].
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]].
 
 *Source: Dungeon Master's Guide p. 258. Available in the SRD.*

@@ -21,7 +21,7 @@ A phantom warrior retains the alignment and personality it had before it died, a
 
 ## Forceful Presence
 
-Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
+Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
 
 ## Undead Nature
 

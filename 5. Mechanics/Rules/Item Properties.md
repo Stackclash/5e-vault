@@ -89,7 +89,7 @@ A weapon that can be used to make a ranged attack has a range in parentheses aft
 
 ### Reach
 
-This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for [[/5. Mechanics/Rules/Actions.md#opportunity%20attack|opportunity attacks]] with a reach weapon.
+This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for [[/5. Mechanics/Rules/Actions.md#opportunity%20attack\|opportunity attacks]] with a reach weapon.
 
 ### Reload
 
@@ -133,7 +133,7 @@ You have disadvantage when you use a lance to attack a target within 5 feet of y
 
 ### Net
 
-A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#restrained|") until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10"]] also frees the creature without harming it, ending the effect and destroying the net.
+A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 

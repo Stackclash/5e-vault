@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -220,20 +220,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage, and the target must\
     \ succeed on a DC 10 Constitution saving throw or take 5 (dice: 2d4|avg (2d4))\
-    \ poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Claw (Bite in Beast Form)"
 - "desc": "One creature of the quasit's choice within 20 feet of it must succeed on\
-    \ a DC 10 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ a DC 10 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, with disadvantage if the quasit is within line of sight, ending the effect\
     \ on itself on a success."
   "name": "Scare (1/Day)"
-- "desc": "The quasit magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until it attacks or uses Scare, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+- "desc": "The quasit magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+    \ until it attacks or uses Scare, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
     \ ends (as if concentrating on a spell). Any equipment the quasit wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "MM"

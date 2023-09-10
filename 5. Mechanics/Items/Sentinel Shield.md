@@ -15,6 +15,6 @@ aliases: ["Sentinel Shield"]
 - **Cost**: ⏤
 - **Weight**: 6.0 lbs.
 
-While holding this shield, you have advantage on initiative rolls and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks. The shield is emblazoned with a symbol of an eye.
+While holding this shield, you have advantage on initiative rolls and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks. The shield is emblazoned with a symbol of an eye.
 
 *Source: Dungeon Master's Guide p. 199*

@@ -20,9 +20,9 @@ A true horror, Juiblex is a mass of bubbling slime, swirling black and green, wi
 
 ## Juiblex's Lair
 
-Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with [[5. Mechanics/Bestiary/Npc/Zuggtmoy (MPMM).md|") (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.
+Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with [[5. Mechanics/Bestiary/Npc/Zuggtmoy (MPMM).md\|Zuggtmoy]] (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.
 
-Juiblex's challenge rating is 24 (62,000 XP"]] when encountered in its lair.
+Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 
 ```statblock
 "name": "Juiblex"
@@ -57,11 +57,11 @@ Juiblex's challenge rating is 24 (62,000 XP"]] when encountered in its lair.
 "traits":
 - "desc": "Juiblex casts one of the following spells, requiring no material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\n3/day each: [[5. Mechanics/Spells/Contagion.md|contagion]],\
-    \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]]\n\n3/day each: [[5. Mechanics/Spells/Contagion.md\|contagion]],\
+    \ [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]]"
   "name": "spells"
 - "desc": "Any creature other than an Ooze that starts its turn within 10 feet of\
-    \ Juiblex must succeed on a DC 21 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ Juiblex must succeed on a DC 21 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ until the start of the creature's next turn."
   "name": "Foul"
 - "desc": "If Juiblex fails a saving throw, it can choose to succeed instead."
@@ -92,15 +92,15 @@ Juiblex's challenge rating is 24 (62,000 XP"]] when encountered in its lair.
     \ carrying or wearing takes a permanent −1 penalty to damage rolls. The penalty\
     \ worsens each time a target is subjected to this effect. If the penalty on an\
     \ object drops to −5, the object is destroyed. The penalty on an object can be\
-    \ removed by the [[5. Mechanics/Spells/Mending.md|mending]] spell."
+    \ removed by the [[5. Mechanics/Spells/Mending.md\|mending]] spell."
   "name": "Eject Slime (Recharge 5-6)"
 "legendary_actions":
 - "desc": "Juiblex makes one Acid Lash attack."
   "name": "Attack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one creature.\
     \ Hit: 21 (dice: 4d6 + 7|avg (4d6 + 7)) poison damage, and the target is\
-    \ slimed. Until the slime is scraped off with an action, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
-    \ and any creature, other than an Ooze, is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ slimed. Until the slime is scraped off with an action, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]],\
+    \ and any creature, other than an Ooze, is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ while within 10 feet of the target."
   "name": "Corrupting Touch (Costs 2 Actions)"
 "source":

@@ -31,6 +31,6 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 164*

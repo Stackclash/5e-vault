@@ -8,7 +8,7 @@ tags:
 aliases: ["Trickery Domain"]
 ---
 # Trickery Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 
@@ -24,22 +24,22 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]] |
-| 3rd | [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]] |
-| 5th | [[5. Mechanics/Spells/Blink.md|blink]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]] |
-| 7th | [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Polymorph.md|polymorph]] |
-| 9th | [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Modify Memory.md|modify memory]] |
+| 1st | [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] |
+| 3rd | [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
+| 5th | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
+| 7th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]] |
+| 9th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 1)
 
-Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] checks. This blessing lasts for 1 hour or until you use this feature again.
+Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. This blessing lasts for 1 hour or until you use this feature again.
 
 ### Channel Divinity: Invoke Duplicity (Level 2)
 
 Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.
 
-As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration|") (as if you were concentrating on a spell"]]. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
 
 For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
@@ -47,7 +47,7 @@ For the duration, you can cast spells as though you were in the illusion's space
 
 Starting at 6th level, you can use your Channel Divinity to vanish.
 
-As an action, you become [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] until the end of your next turn. You become visible if you attack or cast a spell.
+As an action, you become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] until the end of your next turn. You become visible if you attack or cast a spell.
 
 ### Divine Strike (Level 8)
 

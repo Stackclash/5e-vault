@@ -9,4 +9,4 @@ aliases: ["Otherworldly Leap"]
 # Otherworldly Leap
 *Source: Player's Handbook p. 111. Available in the SRD.* 
 
-You can cast [[5. Mechanics/Spells/Jump.md|jump]] on yourself at will, without expending a spell slot or material components.
+You can cast [[5. Mechanics/Spells/Jump.md\|jump]] on yourself at will, without expending a spell slot or material components.

@@ -62,9 +62,9 @@ An allip might attempt to share its lore to escape its curse and enter the after
   "name": "Maddening Touch"
 - "desc": "Each creature within 30 feet of the allip that can hear it must make a\
     \ DC 14 Wisdom saving throw. On a failed save, a target takes 12 (dice: 2d8 +\
-    \ 3|avg (2d8 + 3)) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ 3|avg (2d8 + 3)) psychic damage, and it is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
     \ until the end of its next turn. On a successful save, it takes half as much\
-    \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]. Constructs\
+    \ damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]. Constructs\
     \ and Undead are immune to this effect."
   "name": "Howling Babble (Recharge 6)"
 - "desc": "The allip chooses up to three creatures it can see within 60 feet of it.\

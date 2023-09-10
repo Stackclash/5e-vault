@@ -7,7 +7,7 @@ tags:
 aliases: ["The Great Old One"]
 ---
 # The Great Old One
-*[[nullWarlock.md|Warlock]]: Otherworldly Patron*  
+*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Player's Handbook p. 109*  
 
 
@@ -25,11 +25,11 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Dissonant Whispers.md|dissonant whispers]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]] |
-| 2nd | [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]] |
-| 3rd | [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Sending.md|sending]] |
-| 4th | [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]] |
-| 5th | [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]] |
+| 1st | [[5. Mechanics/Spells/Dissonant Whispers.md\|dissonant whispers]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]] |
+| 2nd | [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] |
+| 3rd | [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]], [[5. Mechanics/Spells/Sending.md\|sending]] |
+| 4th | [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[5. Mechanics/Spells/Evards Black Tentacles.md\|Evard's black tentacles]] |
+| 5th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] |
 ^great-old-one-expanded-spells
 
 ### Awakened Mind (Level 1)
@@ -48,6 +48,6 @@ Starting at 10th level, your thoughts can't be read by telepathy or other means 
 
 ### Create Thrall (Level 14)
 
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] humanoid. That creature is then [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by you until a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on it, the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] humanoid. That creature is then [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you until a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell is cast on it, the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] condition is removed from it, or you use this feature again.
 
-You can communicate telepathically with the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] creature as long as the two of you are on the same plane of existence.
+You can communicate telepathically with the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] creature as long as the two of you are on the same plane of existence.

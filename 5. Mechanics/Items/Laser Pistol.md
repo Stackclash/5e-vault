@@ -14,7 +14,7 @@ aliases: ["Laser Pistol"]
 
 - **Damage**: 3d6 R
 - **Range**: 30/120
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition%20|"(Firearm)"]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Reload|Reload]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition%20\|"(Firearm"]]), Martial, [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 

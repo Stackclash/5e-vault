@@ -40,7 +40,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-- "desc": "The gladiator has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The gladiator has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]."
   "name": "Brave"
 - "desc": "A melee weapon deals one extra die of its damage when the gladiator hits\
     \ with it (included in the attack)."
@@ -56,7 +56,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) bludgeoning damage. If the target\
     \ is a Medium or smaller creature, it must succeed on a DC 15 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Shield Bash"
 "reactions":
 - "desc": "The gladiator adds 3 to its AC against one melee attack that would hit\

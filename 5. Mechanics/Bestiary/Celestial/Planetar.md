@@ -63,12 +63,12 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 "traits":
 - "desc": "The planetar's spellcasting ability is Charisma (spell save DC 20). The\
     \ planetar can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|") (self only"]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Control Weather.md|control weather]],\
-    \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\n3/day each: [blade\
-    \ barrier](compendium/spells/blade-barrier.md), [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
-    \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+    \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (self only)\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Commune.md\|commune]], [[5. Mechanics/Spells/Control Weather.md\|control weather]],\
+    \ [[5. Mechanics/Spells/Insect Plague.md\|insect plague]]\n\n3/day each: [blade\
+    \ barrier](compendium/spells/blade-barrier.md), [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]],\
+    \ [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]]"
   "name": "innate"
 - "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
     \ any weapon, the weapon deals an extra dice: 5d8|avg (5d8) radiant damage\

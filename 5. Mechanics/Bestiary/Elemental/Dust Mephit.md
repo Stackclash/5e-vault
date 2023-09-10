@@ -50,13 +50,13 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 "languages": "Auran, Terran"
 "cr": "1/2"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Sleep.md|sleep]], requiring\
+- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Sleep.md\|sleep]], requiring\
     \ no material components. Its innate spellcasting ability is Charisma.\n\nAt\
-    \ will: [[5. Mechanics/Spells/Sleep.md|sleep]]"
+    \ will: [[5. Mechanics/Spells/Sleep.md\|sleep]]"
   "name": "innate"
 - "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
-    \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] creature\
+    \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
+    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] creature\
     \ can repeat the saving throw on each of its turns, ending the effect on itself\
     \ on a success."
   "name": "Death Burst"
@@ -65,7 +65,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
     \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Blinding Breath (Recharge 6)"

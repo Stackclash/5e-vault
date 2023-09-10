@@ -44,16 +44,16 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "languages": "Elvish, Sylvan"
 "cr": "2"
 "traits":
-- "desc": "The darkling elder casts [[5. Mechanics/Spells/Darkness.md|darkness]], requiring\
+- "desc": "The darkling elder casts [[5. Mechanics/Spells/Darkness.md\|darkness]], requiring\
     \ no spell components and using Wisdom as the spellcasting ability."
   "name": "spells"
 - "desc": "When the darkling elder dies, magical light flashes out from it in a 10-foot\
     \ radius as its body and possessions, other than metal or magic objects, burn\
     \ to ash. Any creature in that area must make a DC 11 Constitution saving throw.\
     \ On a failed save, the creature takes 7 (dice: 2d6|avg (2d6)) radiant damage\
-    \ and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its\
+    \ and is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end of its\
     \ next turn. On a successful save, the creature takes half as much damage and\
-    \ isn't [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]."
+    \ isn't [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]."
   "name": "Death Burn"
 "actions":
 - "desc": "The darkling elder makes two Scimitar attacks."

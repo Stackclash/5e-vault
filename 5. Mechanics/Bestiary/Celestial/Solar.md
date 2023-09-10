@@ -66,10 +66,10 @@ It is said that only twenty-four solars exist. The few solars that are known are
 "traits":
 - "desc": "The solar's spellcasting ability is Charisma (spell save DC 25). It can\
     \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [control\
-    \ weather](compendium/spells/control-weather.md)\n\n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]],\
-    \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Resurrection.md|resurrection]]"
+    \ will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
+    \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Commune.md\|commune]], [control\
+    \ weather](compendium/spells/control-weather.md)\n\n3/day each: [[5. Mechanics/Spells/Blade Barrier.md\|blade barrier]],\
+    \ [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]], [[5. Mechanics/Spells/Resurrection.md\|resurrection]]"
   "name": "innate"
 - "desc": "The solar's weapon attacks are magical. When the solar hits with any weapon,\
     \ the weapon deals an extra dice: 6d8|avg (6d8) radiant damage (included in\
@@ -115,8 +115,8 @@ It is said that only twenty-four solars exist. The few solars that are known are
   "name": "Searing Burst (Costs 2 Actions)"
 - "desc": "The solar targets one creature it can see within 30 feet of it. If the\
     \ target can see it, the target must succeed on a DC 15 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until magic such as\
-    \ the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] spell removes\
+    \ or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until magic such as\
+    \ the [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell removes\
     \ the blindness."
   "name": "Blinding Gaze (Costs 3 Actions)"
 "source":

@@ -22,8 +22,8 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Obsidian Steed
 
-This polished obsidian horse can become a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] for up to 24 hours. The [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
+This polished obsidian horse can become a [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] for up to 24 hours. The [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
 
-If you have a good alignment, the figurine has a 10% chance chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] while it is ignoring your orders, you and the [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] are instantly transported to a random location on the plane of Hades, where the [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] reverts to figurine form.
+If you have a good alignment, the figurine has a 10% chance chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] while it is ignoring your orders, you and the [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] are instantly transported to a random location on the plane of Hades, where the [[5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] reverts to figurine form.
 
 *Source: Dungeon Master's Guide p. 170. Available in the SRD.*

@@ -22,8 +22,8 @@ aliases: ["Darkvision"]
 - **Components:** V, S, either a pinch of dried carrot or an agate
 - **Duration:** 8 hour
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet.
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of Shadow.md|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Ranger.md|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 230. Available in the SRD.*

@@ -26,6 +26,6 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Tempest Domain.md|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md|Druid]]
+**Classes**: [[5. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 220. Available in the SRD.*

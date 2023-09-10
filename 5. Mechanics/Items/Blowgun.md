@@ -14,7 +14,7 @@ aliases: ["Blowgun"]
 
 - **Damage**: 1 P
 - **Range**: 25/100
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading|Loading]], Martial
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], Martial
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
 

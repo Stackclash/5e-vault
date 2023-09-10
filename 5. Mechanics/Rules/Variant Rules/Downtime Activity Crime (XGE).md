@@ -22,7 +22,7 @@ The character must make a series of checks, with the DC for all the checks chose
 
 The chosen DC can be 10, 15, 20, or 25. Successful completion of the crime yields a number of gold pieces, as shown on the Loot Value table.
 
-To attempt a crime, the character makes three checks: Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]], Dexterity using [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]], and the player's choice of Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|")"]], Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]], or Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|")"]].
+To attempt a crime, the character makes three checks: Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]), Dexterity using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], and the player's choice of Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]), Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]), or Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]).
 
 If none of the checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
 
@@ -46,4 +46,4 @@ If all three checks are successful, the character earns the full value of the lo
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![[5. Mechanics/Tables/Crime Complications (XGE).md|Crime Complications]]
+![[5. Mechanics/Tables/Crime Complications (XGE).md\|Crime Complications]]

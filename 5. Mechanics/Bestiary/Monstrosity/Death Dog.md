@@ -35,11 +35,11 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The dog has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The dog has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
   "name": "Two-Headed"
 "actions":
 - "desc": "The dog makes two bite attacks."
@@ -47,7 +47,7 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage. If the target is\
     \ a creature, it must succeed on a DC 12 Constitution saving throw against disease\
-    \ or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the disease\
+    \ or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] until the disease\
     \ is cured. Every 24 hours that elapse, the creature must repeat the saving throw,\
     \ reducing its hit point maximum by 5 (dice: 1d10|avg (1d10)) on a failure.\
     \ This reduction lasts until the disease is cured. The creature dies if the disease\

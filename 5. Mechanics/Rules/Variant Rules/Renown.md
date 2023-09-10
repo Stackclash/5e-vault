@@ -34,7 +34,7 @@ You can add rank prerequisites. For example, a character affiliated with the Lor
 
 You can set these thresholds of renown to any numbers that work for your game, creating appropriate ranks and titles for the organizations in your campaign.
 
-![[5. Mechanics/Tables/Examples Of Faction Ranks.md|Examples of Faction Ranks]]
+![[5. Mechanics/Tables/Examples Of Faction Ranks.md\|Examples of Faction Ranks]]
 
 ### Attitudes of Organization Members
 

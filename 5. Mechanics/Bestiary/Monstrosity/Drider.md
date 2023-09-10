@@ -48,17 +48,17 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 "traits":
 - "desc": "The drider's innate spellcasting ability is Wisdom (spell save DC 13).\
     \ The drider can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
+    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]]\n\n1/day\
+    \ each: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]]"
   "name": "innate"
-- "desc": "The drider has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drider has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
     \ and magic can't put the drider to sleep."
   "name": "Fey Ancestry"
 - "desc": "The drider can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 - "desc": "While in sunlight, the drider has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 - "desc": "The drider ignores movement restrictions caused by webbing."

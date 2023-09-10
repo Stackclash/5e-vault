@@ -21,5 +21,5 @@ aliases: ["Borca Adventures"]
 | 5 | The eligible noble Vladimir Nobriskov hosts a contest for his affections. Participants turn up murdered, victims of Nobriskov's lycanthropic hunger. |
 | 6 | A book-collecting noble seeks the party's help in finding a rare text called The Revelations of the Prince of Twilight, a tome said to teach the reader to tap into the hidden power of their shadow. |
 | 7 | The Ocrotire family offers a sizable bounty for anyone who can capture the Lake Balaur Beast, which has escaped from the estate's oceanarium. |
-| 8 | Members of the Ulmist Inquisition accuse the characters of crimes they haven't yet committed. They relent only if the characters undertake a mission against the [[5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|priests of Osybus]] (see "chapter 5"). |
+| 8 | Members of the Ulmist Inquisition accuse the characters of crimes they haven't yet committed. They relent only if the characters undertake a mission against the [[5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md\|priests of Osybus]] (see "chapter 5"). |
 ^borca-adventures

@@ -36,7 +36,7 @@ aliases: ["Cat"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":

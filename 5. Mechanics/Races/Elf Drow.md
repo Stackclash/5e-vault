@@ -31,11 +31,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception|Perception]] skill.
+You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and magic can't put you to sleep.
+You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and magic can't put you to sleep.
 
 ### Trance
 
@@ -54,12 +54,12 @@ Accustomed to the depths of the Underdark, you have superior vision in dark and 
 
 ### Sunlight Sensitivity
 
-You have disadvantage on attack rolls and on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have disadvantage on attack rolls and on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ### Drow Magic
 
-You know the [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]] cantrip. When you reach 3rd level, you can cast the [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]] spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [[5. Mechanics/Spells/Darkness.md|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrip. When you reach 3rd level, you can cast the [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [[5. Mechanics/Spells/Darkness.md\|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Drow Weapon Training
 
-You have proficiency with [[5. Mechanics/Items/Rapier.md|rapiers]], [[5. Mechanics/Items/Shortsword.md|shortswords]], and [[5. Mechanics/Items/Hand Crossbow.md|hand crossbows]].
+You have proficiency with [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]], and [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]].

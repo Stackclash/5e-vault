@@ -57,13 +57,13 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
     \ from evil and good](compendium/spells/protection-from-evil-and-good.md) spell,\
     \ it must succeed on a DC 12 Charisma saving throw or have its consciousness swapped\
     \ with the carrionette. The carrionette gains control of the target's body, and\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for\
+    \ the target is [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for\
     \ 1 hour, after which it gains control of the carrionette's body. While controlling\
     \ the target's body, the carrionette retains its Intelligence, Wisdom, and Charisma\
     \ scores. It otherwise uses the controlled body's statistics, but doesn't gain\
     \ access to the target's knowledge, class features, or proficiencies.\n\nIf the\
     \ carrionette's body is destroyed, both the carrionette and the target die. A\
-    \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]\
+    \ [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]]\
     \ spell cast on the controlled body drives the carrionette out and returns the\
     \ consciousness of both creatures to their original bodies. The swap is also undone\
     \ if the controlled body takes damage from the carrionette's Silver Needle."

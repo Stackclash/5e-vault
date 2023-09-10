@@ -291,13 +291,13 @@ Curses aren't something to throw around lightly. They should be dramatically app
 - Murdering or grievously harming an innocent  
 - Stealing a treasure that is meaningful to an entire culture  
 
-In cases where the curse arises from a creature, such as a dying villain's last breath, the pronouncement of the curse is clear. When there is no wronged party present to lay the curse directly, the curse should be obvious in some way, such as a warning of dire consequences carved into the wall of an ancient crypt or relayed by a spell such as [[5. Mechanics/Spells/Magic Mouth.md|magic mouth]].
+In cases where the curse arises from a creature, such as a dying villain's last breath, the pronouncement of the curse is clear. When there is no wronged party present to lay the curse directly, the curse should be obvious in some way, such as a warning of dire consequences carved into the wall of an ancient crypt or relayed by a spell such as [[5. Mechanics/Spells/Magic Mouth.md\|magic mouth]].
 
 ### Components of a Curse
 
 Most curses have three distinct components: pronouncement, burden, and resolution. Whatever form these take, at least one of them, especially the burden or resolution, should have an ironic connection to the action that triggered the curse.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.png#center|A dying priest of Ezra curses his murderer]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.png#center\|A dying priest of Ezra curses his murderer]]
 
 #### Pronouncement
 
@@ -316,7 +316,7 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 
 - The victim has disadvantage on attack rolls, ability checks, saving throws, or some combination of the three. This can be tied to a single ability score or applied generally.  
 - The victim can't communicate using language, whether through speaking, sign language, writing, telepathy, or any other means.  
-- The victim gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] that can't be removed while the curse endures.  
+- The victim gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] that can't be removed while the curse endures.  
 - When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice: 1d10|avg` (`1d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
 - When the victim takes damage, they take an extra `dice: 1d10|avg` (`1d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
 - The victim gains a Dark Gift (see "chapter 1") appropriate to the circumstances surrounding the curse.  
@@ -328,11 +328,11 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 
 Sometimes a curse can be ended by making restitution to a wronged party (or their closest kin in the case of a death) or reparation if something was stolen or destroyed. The resolution might be declared as part of the pronouncement, or it may be left to those who suffer the curse to make amends on their own. Research and divination can offer clues or even reveal the exact steps needed to resolve the curse.
 
-While more general curses can lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, more specific or dramatic curses can't be permanently lifted through spells. Magic can offer temporary respite, though. A [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast on the victim of such a curse suppresses the burden for 1 hour. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell suppresses the burden until the victim finishes a long rest. Death usually ends a curse, but the curse returns in full force if the cursed character returns to life without resolving the curse.
+While more general curses can lifted by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, more specific or dramatic curses can't be permanently lifted through spells. Magic can offer temporary respite, though. A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the victim of such a curse suppresses the burden for 1 hour. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell suppresses the burden until the victim finishes a long rest. Death usually ends a curse, but the curse returns in full force if the cursed character returns to life without resolving the curse.
 
 ##### Persistent Curses
 
-When a curse is resolved, its effects usually end immediately. Some more insidious curses might linger beyond the resolution but can then be removed by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell or similar magic if the victim succeeds on a DC 15 Charisma saving throw when the spell is cast. If the save fails, it can be repeated after a specific interval passes, usually 1 month, with the curse ending on a successful save. Adjust the DC of a particularly weak curse to 10 or that of a stronger one to 20.
+When a curse is resolved, its effects usually end immediately. Some more insidious curses might linger beyond the resolution but can then be removed by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic if the victim succeeds on a DC 15 Charisma saving throw when the spell is cast. If the save fails, it can be repeated after a specific interval passes, usually 1 month, with the curse ending on a successful save. Adjust the DC of a particularly weak curse to 10 or that of a stronger one to 20.
 
 Here are some examples of curse resolutions:
 
@@ -355,7 +355,7 @@ Carved into the stone of the crypt door are the words "Relentless death follows 
 
 #### Burden
 
-Each character that gains the curse is hunted by a [[5. Mechanics/Bestiary/Undead/Wraith.md|wraith]] that appears at sunset and vanishes at dawn, pursuing the single-minded goal of slaying the cursed individual. The wraith manifests in an unoccupied space within 30 feet of its victim. Destroying the wraith grants a temporary reprieve; it doesn't reform for 10 days. You can scale this curse for lower- and higher-level characters by choosing another kind of creature.
+Each character that gains the curse is hunted by a [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] that appears at sunset and vanishes at dawn, pursuing the single-minded goal of slaying the cursed individual. The wraith manifests in an unoccupied space within 30 feet of its victim. Destroying the wraith grants a temporary reprieve; it doesn't reform for 10 days. You can scale this curse for lower- and higher-level characters by choosing another kind of creature.
 
 #### Resolution
 
@@ -371,7 +371,7 @@ Whatever vow the character made, it came with an implied warning that guilt and 
 
 #### Burden
 
-The character is plagued by restless sleep and recurring nightmares featuring those the character swore to protect. The character gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] that can't be removed until the curse ends.
+The character is plagued by restless sleep and recurring nightmares featuring those the character swore to protect. The character gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] that can't be removed until the curse ends.
 
 #### Resolution
 
@@ -403,25 +403,25 @@ The dying victim spits final words: "You shall spill innocent blood until laid l
 
 #### Burden
 
-The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md|loup garou]] lycanthropy (see "chapter 5").
+The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|loup garou]] lycanthropy (see "chapter 5").
 
 #### Resolution
 
-This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] whose loup garou progenitor has been killed.
+This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] whose loup garou progenitor has been killed.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.png#center|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.png#center\|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
 
 ## Fear and Stress
 
-See the [[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md|Fear and Stress]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]] entry.
 
 ## Haunted Traps
 
-See the [[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md|Haunted Traps]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md\|Haunted Traps]] entry.
 
 ## Survivors
 
-See the [[/5. Mechanics/Rules/Variant Rules/Survivors (VRGR).md|Survivors]] entry.
+See the [[/5. Mechanics/Rules/Variant Rules/Survivors (VRGR).md\|Survivors]] entry.
 
 ## The House of Lament
 

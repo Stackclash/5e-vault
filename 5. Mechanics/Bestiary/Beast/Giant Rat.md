@@ -33,12 +33,12 @@ aliases: ["Giant Rat"]
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The rat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The rat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "The rat has advantage on an attack roll against a creature if at least\
     \ one of the rat's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\

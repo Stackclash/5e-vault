@@ -19,10 +19,10 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 
 | dice: d4 | Zombie Plot |
 |----------|-------------|
-| 1 | A twisted wish causes those affected by healing magic and [[5. Mechanics/Items/Potion Of Healing.md|potions of healing]] to rise as zombies. |
-| 2 | Overwhelming magic reanimates zombies again and again as [[5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md|swarms of zombie limbs]]. |
-| 3 | The githyanki unleash [[5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] to scour mind flayers from a world. |
-| 4 | The seals containing an underground zombie horde fail, releasing ancient [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|zombie clots]]. |
+| 1 | A twisted wish causes those affected by healing magic and [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]] to rise as zombies. |
+| 2 | Overwhelming magic reanimates zombies again and again as [[5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md\|swarms of zombie limbs]]. |
+| 3 | The githyanki unleash [[5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md\|zombie plague spreaders]] to scour mind flayers from a world. |
+| 4 | The seals containing an underground zombie horde fail, releasing ancient [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md\|zombie clots]]. |
 ^zombie-apocalypses
 
 ```statblock
@@ -65,7 +65,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   "name": "Undead Mass"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one creature\
     \ in the swarm's space. Hit: 7 (dice: 2d6|avg (2d6)) necrotic damage, and\
-    \ the creature must succeed on a DC 12 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ the creature must succeed on a DC 12 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
     \ The creature can repeat the saving throw at the end of each of its turns, taking\
     \ 7 (dice: 2d6|avg (2d6)) necrotic damage on a failed save. The creature is\
     \ freed if it succeeds on this saving throw, the swarm moves out of the creature's\

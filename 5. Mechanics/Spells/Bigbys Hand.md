@@ -28,7 +28,7 @@ The hand strikes one creature or object within 5 feet of it. Make a melee spell 
 
 ## Forceful Hand
 
-The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")"]] check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
+The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
 
 ## Grasping Hand
 
@@ -44,6 +44,6 @@ When you cast this spell using a spell slot of 6th level or higher, the damage f
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 218. Available in the SRD (as 'Arcane Hand').*

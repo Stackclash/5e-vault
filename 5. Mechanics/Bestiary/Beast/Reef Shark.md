@@ -36,7 +36,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 "traits":
 - "desc": "The shark has advantage on an attack roll against a creature if at least\
     \ one of the shark's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"

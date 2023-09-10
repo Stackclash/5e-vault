@@ -44,18 +44,18 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "cr": "3"
 "traits":
 - "desc": "The choldrith casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day each: [[5. Mechanics/Spells/Bane.md|bane]],\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md\|guidance]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\n1/day each: [[5. Mechanics/Spells/Bane.md\|bane]],\
+    \ [[5. Mechanics/Spells/Hold Person.md\|hold person]]"
   "name": "spells"
-- "desc": "The choldrith has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The choldrith has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
     \ and magic can't put the choldrith to sleep."
   "name": "Fey Ancestry"
 - "desc": "The choldrith can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 - "desc": "While in sunlight, the choldrith has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 - "desc": "While in contact with a web, the choldrith knows the exact location of\
@@ -69,8 +69,8 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
     \ damage plus 10 (dice: 3d6|avg (3d6)) poison damage."
   "name": "Dagger"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 30/60 ft., one\
-    \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ target can make a DC 11 Strength check, bursting the webbing on a success. The\
     \ webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability\
     \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."

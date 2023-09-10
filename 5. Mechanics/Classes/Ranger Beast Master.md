@@ -7,7 +7,7 @@ tags:
 aliases: ["Beast Master"]
 ---
 # Beast Master
-*[[nullRanger.md|Ranger]]: Ranger Archetype*  
+*[[nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93*  
 
 
@@ -21,9 +21,9 @@ The Beast Master archetype embodies a friendship between the civilized races and
 
 You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.
 
-The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]], [[/5. Mechanics/Rules/Actions.md#Dash|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Help|Help]] action. If you don't issue a command, the beast takes the [[/5. Mechanics/Rules/Actions.md#Dodge|Dodge]] action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action.
+The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]], [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action. If you don't issue a command, the beast takes the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action.
 
-If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
+If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
 
 While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
 
@@ -31,11 +31,11 @@ If the beast dies, you can obtain another one by spending 8 hours magically bond
 
 ### Exceptional Training (Level 7)
 
-Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Help|Help]] action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ### Bestial Fury (Level 11)
 
-Starting at 11th level, when you command your beast companion to take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action, the beast can make two attacks, or it can take the Multiattack action if it has that action.
+Starting at 11th level, when you command your beast companion to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, the beast can make two attacks, or it can take the Multiattack action if it has that action.
 
 ### Share Spells (Level 15)
 

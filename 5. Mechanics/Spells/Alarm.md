@@ -26,6 +26,6 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger.md|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 211. Available in the SRD.*

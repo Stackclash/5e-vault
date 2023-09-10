@@ -115,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -170,14 +170,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "traits":
 - "desc": "The pit fiend's spellcasting ability is Charisma (spell save DC 21). The\
     \ pit fiend can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [wall of\
+    \nAt will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Fireball.md\|fireball]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Hold Monster.md\|hold monster]], [wall of\
     \ fire](compendium/spells/wall-of-fire.md)"
   "name": "innate"
 - "desc": "Any creature hostile to the pit fiend that starts its turn within 20 feet\
     \ of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. On a failed\
-    \ save, the creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. On a failed\
+    \ save, the creature is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ until the start of its next turn. If a creature's saving throw is successful,\
     \ the creature is immune to the pit fiend's Fear Aura for the next 24 hours."
   "name": "Fear Aura"
@@ -192,10 +192,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 5 ft., one target.\
     \ Hit: 22 (dice: 4d6 + 8|avg (4d6 + 8)) piercing damage. The target must\
-    \ succeed on a DC 21 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
+    \ succeed on a DC 21 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].\
+    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, the\
     \ target can't regain hit points, and it takes 21 (dice: 6d6|avg (6d6)) poison\
-    \ damage at the start of each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ damage at the start of each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Bite"

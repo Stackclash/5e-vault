@@ -65,7 +65,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
     \ chooses not to be pushed suffers the consequences of a failed saving throw.\n\
     \nOn a failed save, the cube enters the creature's space, and the creature takes\
     \ 10 (dice: 3d6|avg (3d6)) acid damage and is engulfed. The engulfed creature\
-    \ can't breathe, is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ can't breathe, is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ and takes 21 (dice: 6d6|avg (6d6)) acid damage at the start of each of the\
     \ cube's turns. When the cube moves, the engulfed creature moves with it.\n\n\
     An engulfed creature can try to escape by taking an action to make a DC 12 Strength\

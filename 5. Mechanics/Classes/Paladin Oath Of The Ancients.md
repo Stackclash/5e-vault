@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of the Ancients"]
 ---
 # Oath of the Ancients
-*[[nullPaladin.md|Paladin]]: Sacred Oath*  
+*[[nullPaladin.md\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 86*  
 
 
@@ -45,11 +45,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Ensnaring Strike.md|ensnaring strike]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]] |
-| 5th | [[5. Mechanics/Spells/Moonbeam.md|moonbeam]], [[5. Mechanics/Spells/Misty Step.md|misty step]] |
-| 9th | [[5. Mechanics/Spells/Plant Growth.md|plant growth]], [[5. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
-| 13th | [[5. Mechanics/Spells/Ice Storm.md|ice storm]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]] |
-| 17th | [[5. Mechanics/Spells/Commune With Nature.md|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md|tree stride]] |
+| 3rd | [[5. Mechanics/Spells/Ensnaring Strike.md\|ensnaring strike]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 5th | [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 13th | [[5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 17th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
 ^oath-of-the-ancients-spells
 
 ### Channel Divinity (Level 3)
@@ -58,13 +58,13 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Nature's Wrath (Level 3)
 
-You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. While [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
+You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. While [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
 ### Turn the Faithless (Level 3)
 
 You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge|Dodge]] action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action.
 
 If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 

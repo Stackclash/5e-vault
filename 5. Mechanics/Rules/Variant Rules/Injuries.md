@@ -18,6 +18,6 @@ It's up to you to decide when to check for a lingering injury. A creature might 
 
 To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types.
 
-![[5. Mechanics/Tables/Lingering Injuries.md|Lingering Injuries]]
+![[5. Mechanics/Tables/Lingering Injuries.md\|Lingering Injuries]]
 
 Instead of using the effect described in the table, you can put the responsibility of representing a character's lingering injury in the hands of the player. Roll on the Lingering Injuries table as usual, but instead of suffering the effect described for that result, that character gains a new flaw with the same name. It's up to the player to express the lingering injury during play, just like any other flaw, with the potential to gain inspiration when the injury affects the character in a meaningful way.

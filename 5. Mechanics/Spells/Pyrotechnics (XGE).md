@@ -24,7 +24,7 @@ Choose an area of nonmagical flame that you can see and that fits within a 5-foo
 
 ## Fireworks
 
-The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of your next turn.
+The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end of your next turn.
 
 ## Smoke
 
@@ -32,6 +32,6 @@ Thick black smoke spreads out from the target in a 20-foot radius, moving around
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 163*

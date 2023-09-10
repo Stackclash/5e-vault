@@ -53,16 +53,16 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "cr": "4"
 "traits":
 - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]]"
+    \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Guidance.md\|guidance]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Hold Person.md\|hold person]],\
+    \ [[5. Mechanics/Spells/Hunger Of Hadar.md\|hunger of Hadar]]"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the neogi's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the neogi's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
   "name": "Devil's Sight"
-- "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and magic can't\
+- "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and magic can't\
     \ put the neogi to sleep."
   "name": "Mental Fortitude"
 - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -75,7 +75,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 14 (dice: 4d6|avg\
     \ (4d6)) poison damage, and the target must succeed on a DC 12 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Bite"
@@ -89,12 +89,12 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   "name": "Tentacle of Hadar"
 "bonus_actions":
 - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-    \ the target. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target obeys\
+    \ the target. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target obeys\
     \ the neogi's commands and can't take reactions, and the neogi and the target\
     \ can communicate telepathically with each other at a distance of up to 1 mile.\
-    \ Whenever the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target takes\
+    \ Whenever the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target takes\
     \ damage, it can repeat the saving throw, ending the effect on itself on a success."
   "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":

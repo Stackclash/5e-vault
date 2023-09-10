@@ -27,6 +27,6 @@ A creature you touch regains a number of hit points equal to `dice: 1d8|avg` (`1
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Cleric Life Domain.md|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Paladin.md|Paladin]], [[5. Mechanics/Classes/Ranger.md|Ranger]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
 
 *Source: Player's Handbook p. 230. Available in the SRD and the Basic Rules.*

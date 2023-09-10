@@ -28,6 +28,6 @@ This spell can't manipulate natural stone or stone construction. Rocks and struc
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 263. Available in the SRD.*

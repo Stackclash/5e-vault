@@ -44,7 +44,7 @@ The dracolich has immunity to poison. It also retains any immunities it had prio
 
 ### Condition Immunities
 
-The dracolich can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. It also doesn't suffer from [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].
+The dracolich can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. It also doesn't suffer from [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].
 
 ### Magic Resistance
 
@@ -102,7 +102,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "name": "Tail"
 - "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
     \ dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A creature\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for 1 minute. A creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success. If a creature's saving throw is successful or the effect\
     \ ends for it, the creature is immune to the dracolich's Frightful Presence for\
@@ -114,14 +114,14 @@ The dracolich has advantage on saving throws against spells and other magical ef
     \ as much damage on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The dracolich makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The dracolich makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ check."
   "name": "Detect"
 - "desc": "The dracolich makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dracolich beats its tattered wings. Each creature within 10 feet of\
     \ the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (dice:\
-    \ 2d6 + 7|avg (2d6 + 7)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ 2d6 + 7|avg (2d6 + 7)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
     \ After beating its wings this way, the dracolich can fly up to half its flying\
     \ speed."
   "name": "Wing Attack (Costs 2 Actions)"

@@ -30,7 +30,7 @@ aliases: ["Badger"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The badger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The badger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":

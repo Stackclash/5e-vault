@@ -80,7 +80,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
   "name": "Weapon Attack"
 - "desc": "The warlord targets one creature it can see within 30 feet of it. If the\
     \ target can see and hear it, the target must succeed on a DC 16 Wisdom saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] until the\
     \ end of warlord's next turn."
   "name": "Frighten Foe (Costs 2 Actions)"
 "source":

@@ -64,13 +64,13 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "traits":
 - "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). She has the\
-    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
-    \ (trident)\n\n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
-    \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md\|guidance]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\n1st level (4 1st-level\
+    \ slots): [[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]\
+    \ (trident)\n\n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]],\
+    \ [[5. Mechanics/Spells/Tongues.md\|tongues]]"
   "name": "spells"
 - "desc": "The sahuagin has advantage on melee attack rolls against any creature that\
     \ doesn't have all its hit points."

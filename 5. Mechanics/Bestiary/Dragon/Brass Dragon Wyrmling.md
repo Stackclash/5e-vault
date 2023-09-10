@@ -113,7 +113,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (4d6)) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Sleep Breath. The dragon exhales sleep gas in a 15-foot cone.\
     \ Each creature in that area must succeed on a DC 11 Constitution saving throw\
-    \ or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute.\
+    \ or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1 minute.\
     \ This effect ends for a creature if the creature takes damage or someone uses\
     \ an action to wake it.  "
   "name": "Breath Weapons (Recharge 5-6)"

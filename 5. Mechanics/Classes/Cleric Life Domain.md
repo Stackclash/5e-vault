@@ -8,7 +8,7 @@ tags:
 aliases: ["Life Domain"]
 ---
 # Life Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 60. Available in the SRD and the Basic Rules.*  
 
 
@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]] |
-| 3rd | [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] |
-| 5th | [[5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[5. Mechanics/Spells/Revivify.md|revivify]] |
-| 7th | [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]] |
-| 9th | [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]] |
+| 1st | [[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
+| 3rd | [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] |
+| 5th | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Revivify.md\|revivify]] |
+| 7th | [[5. Mechanics/Spells/Death Ward.md\|death ward]], [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
+| 9th | [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)

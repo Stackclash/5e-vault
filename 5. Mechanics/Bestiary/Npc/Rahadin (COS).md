@@ -80,9 +80,9 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 "cr": "10"
 "traits":
 - "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-    \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
-    \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
-    \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
+    \ cast the following spells, requiring no components:\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]],\
+    \ [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\n\n3/day: [[5. Mechanics/Spells/Misty Step.md\|misty step]],\
+    \ [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]]"
   "name": "innate"
 - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
     \ blank](compendium/spells/mind-blank.md) spell hears in its mind the screams\
@@ -91,14 +91,14 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
     \ throw. Each creature takes 16 (dice: 3d10|avg (3d10)) psychic damage on\
     \ a failed save, or half as much damage on a successful one."
   "name": "Deathly Choir"
-- "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
     \ and magic can't put him to sleep."
   "name": "Fey Ancestry"
 - "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage,\
     \ heavy rain, falling snow, mist, and other natural phenomena."
   "name": "Mask of the Wild"
 "actions":
-- "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ darts."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\

@@ -67,8 +67,8 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "traits":
 - "desc": "The mage casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day: [dominate\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]]\n\n1/day: [dominate\
     \ monster](compendium/spells/dominate-monster.md)"
   "name": "spells"
 - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
@@ -80,7 +80,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
     \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) bludgeoning damage, and the target\
-    \ must succeed on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ must succeed on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ until the end of its next turn."
   "name": "Slam"
 - "desc": "Ranged Spell Attack: dice: d20+8 (+8 to hit), range 60 ft., one target.\
@@ -88,7 +88,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Eldritch Bolt"
 - "desc": "Each creature other than a star spawn within 10 feet of the mage must succeed\
     \ on a DC 19 Dexterity saving throw or take 22 (dice: 5d8|avg (5d8)) necrotic\
-    \ damage and be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ damage and be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ by masses of swarming worms. The affected creature takes 22 (dice: 5d8|avg\
     \ (5d8)) necrotic damage at the start of each of the mage's turns. The creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
@@ -103,7 +103,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Slam"
 - "desc": "The mage makes one Eldritch Bolt attack."
   "name": "Eldritch Bolt (Costs 2 Actions)"
-- "desc": "Each creature [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+- "desc": "Each creature [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ by the mage's Plague of Worms takes 13 (dice: 3d8|avg (3d8)) necrotic damage,\
     \ and the mage gains 6 temporary hit points."
   "name": "Feed (Costs 3 Actions)"

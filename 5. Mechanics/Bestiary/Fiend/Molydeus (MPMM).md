@@ -47,9 +47,9 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
 "traits":
 - "desc": "The molydeus casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
-    \n3/day: [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
+    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]],\
+    \ [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]], [[5. Mechanics/Spells/Teleport.md\|teleport]]\n\
+    \n3/day: [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]"
   "name": "spells"
 - "desc": "If the molydeus fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -72,9 +72,9 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
     \ Hit: 16 (dice: 2d6 + 9|avg (2d6 + 9)) poison damage. The target must succeed\
     \ on a DC 22 Constitution saving throw, or its hit point maximum is reduced by\
     \ an amount equal to the damage taken. This reduction lasts until the target finishes\
-    \ a long rest. The target transforms into a [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
+    \ a long rest. The target transforms into a [[5. Mechanics/Bestiary/Fiend/Manes.md\|manes]]\
     \ if this reduces its hit point maximum to 0. This transformation can be ended\
-    \ only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
+    \ only by a [[5. Mechanics/Spells/Wish.md\|wish]] spell."
   "name": "Snakebite"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
     \ Hit: 25 (dice: 3d10 + 9|avg (3d10 + 9)) necrotic damage."

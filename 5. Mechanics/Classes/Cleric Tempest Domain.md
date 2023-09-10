@@ -8,7 +8,7 @@ tags:
 aliases: ["Tempest Domain"]
 ---
 # Tempest Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 
@@ -24,11 +24,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]] |
-| 3rd | [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Shatter.md|shatter]] |
-| 5th | [[5. Mechanics/Spells/Call Lightning.md|call lightning]], [[5. Mechanics/Spells/Sleet Storm.md|sleet storm]] |
-| 7th | [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Ice Storm.md|ice storm]] |
-| 9th | [[5. Mechanics/Spells/Destructive Wave.md|destructive wave]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]] |
+| 1st | [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
+| 3rd | [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[5. Mechanics/Spells/Shatter.md\|shatter]] |
+| 5th | [[5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
+| 7th | [[5. Mechanics/Spells/Control Water.md\|control water]], [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
+| 9th | [[5. Mechanics/Spells/Destructive Wave.md\|destructive wave]], [[5. Mechanics/Spells/Insect Plague.md\|insect plague]] |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)

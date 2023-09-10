@@ -48,7 +48,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
   "name": "Spider Climb"
 - "desc": "Each creature that starts its turn within 10 feet of the corpse flower\
     \ or one of its zombies must make a DC 14 Constitution saving throw, unless the\
-    \ creature is a Construct or an Undead. On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ creature is a Construct or an Undead. On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ until the start of its next turn. On a successful save, the creature is immune\
     \ to the Stench of Death of all corpse flowers for 24 hours."
   "name": "Stench of Death"
@@ -67,7 +67,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
     \ 11 (dice: 2d10|avg (2d10)) hit points. Nothing of the digested corpse remains.\
     \ Any equipment on the corpse is expelled from the corpse flower in its space."
   "name": "Digest"
-- "desc": "The corpse flower animates one corpse in its body, turning it into a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]].\
+- "desc": "The corpse flower animates one corpse in its body, turning it into a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]].\
     \ The zombie appears in an unoccupied space within 5 feet of the corpse flower\
     \ and acts immediately after it in the initiative order. The zombie acts as an\
     \ ally of the corpse flower but isn't under its control, and the flower's stench\

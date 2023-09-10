@@ -22,7 +22,7 @@ In the first round of a combat, you have advantage on attack rolls against any c
 
 ### Mimicry
 
-You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]] check.
+You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check.
 
 ### Languages
 

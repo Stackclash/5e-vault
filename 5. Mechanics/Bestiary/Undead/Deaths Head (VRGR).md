@@ -55,10 +55,10 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|av
   "name": "Mind-Bending Bite (Aberrant Head Only)"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
     \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage, and the target must\
-    \ succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ as it begins to turn to stone. The target must repeat the saving throw at the\
     \ end of its next turn. On a success, the effect ends. On a failure, the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] for 10 minutes."
+    \ is [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] for 10 minutes."
   "name": "Petrifying Bite (Petrifying Head Only)"
 "source":
 - "VRGR"

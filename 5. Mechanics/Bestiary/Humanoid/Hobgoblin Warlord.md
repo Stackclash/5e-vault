@@ -98,7 +98,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "traits":
 - "desc": "Once per turn, the hobgoblin can deal an extra 14 (dice: 4d6|avg (4d6))\
     \ damage to a creature it hits with a weapon attack if that creature is within\
-    \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
 - "desc": "The hobgoblin makes three melee attacks. Alternatively, it can make two\
@@ -111,7 +111,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature.\
     \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage. If the target\
     \ is Large or smaller, it must succeed on a DC 14 Strength saving throw or be\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Shield Bash"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
     \ or range 30/120 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3))\
@@ -121,7 +121,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
     \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
     \ provided it can hear and understand the hobgoblin. A creature can benefit from\
-    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
 - "desc": "The hobgoblin adds 3 to its AC against one melee attack that would hit\

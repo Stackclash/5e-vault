@@ -25,6 +25,6 @@ You fill the air with spinning daggers in a cube 5 feet on each side, centered o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 222*

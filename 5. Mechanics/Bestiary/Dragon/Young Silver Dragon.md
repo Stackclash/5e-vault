@@ -128,7 +128,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ cold damage on a failed save, or half as much damage on a successful one.  \n\
     - Paralyzing Breath. The dragon exhales paralyzing gas in a 30-foot cone.\
     \ Each creature in that area must succeed on a DC 17 Constitution saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A\
+    \ or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 1 minute. A\
     \ creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success.  "
   "name": "Breath Weapons (Recharge 5-6)"

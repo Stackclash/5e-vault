@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Magic"]
 ---
 # Shadow Magic
-*[[nullSorcerer.md|Sorcerer]]: Sorcerous Origin*  
+*[[nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 
@@ -33,9 +33,9 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 
 ### Eyes of the Dark (Level 1)
 
-Starting at 1st level, you have [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a range of 120 feet.
+Starting at 1st level, you have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] with a range of 120 feet.
 
-When you reach 3rd level in this class, you learn the [[5. Mechanics/Spells/Darkness.md|darkness]] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [[5. Mechanics/Spells/Darkness.md|darkness]] created by the spell.
+When you reach 3rd level in this class, you learn the [[5. Mechanics/Spells/Darkness.md\|darkness]] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [[5. Mechanics/Spells/Darkness.md\|darkness]] created by the spell.
 
 ### Strength of the Grave (Level 1)
 
@@ -45,7 +45,7 @@ After the saving throw succeeds, you can't use this feature again until you fini
 
 ### Hound of Ill Omen (Level 6)
 
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a hound of ill omen to target one creature you can see within 120 feet of you. The hound uses the [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|")'s statistics (see the Monster Manual or appendix C in the Player's Handbook"]], with the following changes:
+At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a hound of ill omen to target one creature you can see within 120 feet of you. The hound uses the [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
 
 - The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
 - It appears with a number of temporary hit points equal to half your sorcerer level.  
@@ -62,4 +62,4 @@ At 14th level, you gain the ability to step from one shadow into another. When y
 
 Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
 
-You remain in this form for 1 minute. It ends early if you are [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], if you die, or if you dismiss it as a bonus action.
+You remain in this form for 1 minute. It ends early if you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], if you die, or if you dismiss it as a bonus action.

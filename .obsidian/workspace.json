@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc03280a7f6777ec",
+        "id": "72008564875ec639",
         "type": "tabs",
         "children": [
           {
-            "id": "0919ffa577a822a8",
+            "id": "64b21b29d4bbcf77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
-                "mode": "preview",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/11 Chapter-9 Tsolenka Pass.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md"
               }
             }
           },
@@ -173,53 +173,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0919ffa577a822a8",
+  "active": "64b21b29d4bbcf77",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/03 Chapter-1 Into The Mists.md",
-    "6. Resources/5e Modules/Curse Of Strahd/02 Introduction.md",
-    "6. Resources/5e Modules/Curse Of Strahd/01 Foreword Ravenloft Revisited.md",
-    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
-    "5. Mechanics/Deities/Elven Melira Taralen.md",
-    "5. Mechanics/Deities/Elven Labelas Enoreth.md",
-    "5. Mechanics/Deities/Elven Kirith Sotheril.md",
-    "5. Mechanics/Deities/Elven Hanali Celanil.md",
-    "5. Mechanics/Deities/Elven Gadhelyn.md",
-    "5. Mechanics/Deities/Elven Fenmarel Mestarine.md",
-    "5. Mechanics/Deities/Elven Erevan Ilesere.md",
-    "5. Mechanics/Deities/Elven Elebrin Liothiel.md",
-    "5. Mechanics/Deities/Elven Deep Sashelas.md",
-    "5. Mechanics/Deities/Elven Darahl Tilvenar.md",
-    "5. Mechanics/Deities/Elven Corellon Larethian.md",
-    "5. Mechanics/Deities/Elven Araleth Letheranil.md",
-    "5. Mechanics/Deities/Elven Angharradh.md",
-    "5. Mechanics/Deities/Elven Alobal Lorfiril.md",
-    "5. Mechanics/Deities/Elven Alathrien Druanna.md",
-    "5. Mechanics/Deities/Elven Aerdrie Faenya.md",
-    "5. Mechanics/Deities/Egyptian Thoth.md",
-    "5. Mechanics/Deities/Egyptian Sobek.md",
-    "5. Mechanics/Deities/Egyptian Set.md",
-    "5. Mechanics/Deities/Egyptian Re Horakhty.md",
-    "5. Mechanics/Deities",
-    "5. Mechanics/Classes",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/149-06-001.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/123-05-003-the-bagman.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/122-05-002-the-whistling-fiend.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/121-05-001-intro-splash.jpg",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/106-04-002.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/105-04-001-intro-splash.jpg",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img/104-03-038-mysterious-research.png",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/img",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft",
-    "5. Mechanics/Bestiary/Aberration/token",
-    "5. Mechanics/Bestiary/Aberration/img",
-    "5. Mechanics/Bestiary/Undead/token",
-    "5. Mechanics/Bestiary/Undead/img",
-    "5. Mechanics/Bestiary/Plant/token",
-    "5. Mechanics/Bestiary/Plant/img"
+    "compendium/bestiary/celestial/img/couatl.jpg",
+    "compendium/bestiary/celestial/img/planetar.jpg",
+    "compendium/bestiary/celestial/img/unicorn.jpg",
+    "compendium/bestiary/celestial/img/solar.jpg",
+    "compendium/deities/img/scag-symbol-of-kelemvor.jpg",
+    "compendium/deities/img/scag-symbol-of-gond.jpg",
+    "compendium/deities/img",
+    "compendium/backgrounds/img/investigator.png",
+    "compendium/backgrounds/img/haunted-one.png",
+    "compendium/backgrounds/img",
+    "compendium/bestiary/celestial/img/empyrean.jpg",
+    "compendium/bestiary/celestial/img/deva.jpg",
+    "compendium/bestiary/celestial/token/unicorn.png",
+    "compendium/bestiary/celestial/token",
+    "compendium/bestiary/fey/img",
+    "compendium/bestiary/ooze/img",
+    "compendium/bestiary/null/token",
+    "compendium/bestiary/null",
+    "compendium/bestiary/giant/img",
+    "compendium/bestiary/giant/token",
+    "compendium/bestiary/undead/img",
+    "compendium/rules/variant-rules/wands-that-dont-recharge.md",
+    "compendium/rules/variant-rules/tying-knots-xge.md",
+    "compendium/rules/variant-rules/tool-proficiencies-xge.md",
+    "compendium/rules/variant-rules/survivors-vrgr.md",
+    "compendium/rules/variant-rules/spellcasting-xge.md",
+    "compendium/rules/variant-rules/spell-points.md",
+    "compendium/rules/variant-rules/sleep-xge.md",
+    "compendium/rules/variant-rules/skills-with-different-abilities.md",
+    "compendium/rules/variant-rules/skill-variants.md",
+    "compendium/rules/variant-rules/simultaneous-effects-xge.md",
+    "compendium/rules/variant-rules/shared-campaign-variant-rules-xge.md",
+    "compendium/rules/variant-rules/scroll-mishaps.md",
+    "compendium/rules/variant-rules/rest-variants.md",
+    "compendium/rules/variant-rules/renown.md",
+    "compendium/rules/variant-rules/proficiency-dice.md",
+    "compendium/rules/variant-rules/plot-points.md",
+    "compendium/rules/variant-rules/playing-on-a-grid.md",
+    "compendium/rules/variant-rules/player-characters-as-vampires.md",
+    "compendium/rules/variant-rules/player-characters-as-lycanthropes.md",
+    "compendium/rules/variant-rules/planar-effects.md",
+    "compendium/rules/variant-rules/new-ability-scores-honor-and-sanity.md",
+    "compendium/rules/variant-rules/multiclassing.md",
+    "compendium/rules/variant-rules/more-difficult-identification.md",
+    "compendium/rules/variant-rules/morale.md",
+    "compendium/rules/variant-rules/mixing-potions.md"
   ]
 }

@@ -59,8 +59,8 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
     \ (2d8)) poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one Medium\
-    \ or smaller creature. Hit: The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 12). The steeder can have only one creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ or smaller creature. Hit: The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ (escape DC 12). The steeder can have only one creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
     \ at a time."
   "name": "Sticky Leg"
 "source":

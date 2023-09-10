@@ -25,6 +25,6 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md|Warlock (The Undead)]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]]
 
 *Source: Player's Handbook p. 216. Available in the SRD.*

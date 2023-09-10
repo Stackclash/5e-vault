@@ -63,7 +63,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
   "name": "Bite"
 - "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
     \ on a DC 11 Dexterity saving throw or take 11 (dice: 2d10|avg (2d10)) acid\
-    \ damage and fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in the spew."
+    \ damage and fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] in the spew."
   "name": "Disgorge (Recharge 6)"
 "source":
 - "MPMM"

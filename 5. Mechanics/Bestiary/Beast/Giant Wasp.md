@@ -37,9 +37,9 @@ aliases: ["Giant Wasp"]
     \ make a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
     \ poison damage on a failed save, or half as much damage on a successful one.\
     \ If the poison damage reduces the target to 0 hit points, the target is stable\
-    \ but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 hour, even after\
-    \ regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ but [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour, even after\
+    \ regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way."
   "name": "Sting"
 "source":
 - "MM"

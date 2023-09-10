@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Valor"]
 ---
 # College of Valor
-*[[nullBard.md|Bard]]: Bard College*  
+*[[nullBard.md\|Bard]]: Bard College*  
 *Source: Player's Handbook p. 55*  
 
 
@@ -27,7 +27,7 @@ Also at 3rd level, you learn to inspire others in battle. A creature that has a 
 
 ### Extra Attack (Level 6)
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 ### Battle Magic (Level 14)
 

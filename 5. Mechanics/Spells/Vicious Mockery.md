@@ -20,6 +20,6 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 
 This spell's damage increases by `dice: 1d4|avg` (`1d4`) when you reach 5th level (`dice: 2d4|avg` (`2d4`)), 11th level (`dice: 3d4|avg` (`3d4`)), and 17th level (`dice: 4d4|avg` (`4d4`)).
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]]
 
 *Source: Player's Handbook p. 285. Available in the SRD.*

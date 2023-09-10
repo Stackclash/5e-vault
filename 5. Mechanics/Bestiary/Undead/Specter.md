@@ -61,7 +61,7 @@ A specter doesn't require air, food, drink, or sleep.
     \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

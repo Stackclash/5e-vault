@@ -38,10 +38,10 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
 "traits":
 - "desc": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The acolyte\
-    \ has following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Bless.md|bless]], [cure\
-    \ wounds](compendium/spells/cure-wounds.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
+    \ has following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md\|light]],\
+    \ [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Bless.md\|bless]], [cure\
+    \ wounds](compendium/spells/cure-wounds.md), [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\

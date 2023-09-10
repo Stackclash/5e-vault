@@ -27,6 +27,6 @@ Make a ranged spell attack for each ray. On a hit, the target takes `dice: 2d6|a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Light Domain.md|Cleric (Light Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fiend.md|Warlock (The Fiend)]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 273. Available in the SRD.*

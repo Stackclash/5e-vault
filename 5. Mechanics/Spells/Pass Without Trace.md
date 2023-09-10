@@ -20,8 +20,8 @@ aliases: ["Pass without Trace"]
 - **Components:** V, S, ashes from a burned leaf of mistletoe and a sprig of spruce
 - **Duration:** Concentration, up to 1 hour
 
-A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
+A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Trickery Domain.md|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Monk Way Of Shadow.md|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Monk Way Of Shadow.md\|Monk (Way of Shadow)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 264. Available in the SRD.*

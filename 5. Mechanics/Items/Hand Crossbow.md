@@ -15,7 +15,7 @@ aliases: ["Hand Crossbow"]
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading|Loading]], Martial
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], Martial
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

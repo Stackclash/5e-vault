@@ -26,6 +26,6 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Light Domain.md|Cleric (Light Domain)]], [[5. Mechanics/Classes/Cleric War Domain.md|Cleric (War Domain)]], [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]], [[5. Mechanics/Classes/Warlock The Fiend.md|Warlock (The Fiend)]]
+**Classes**: [[5. Mechanics/Classes/Cleric Light Domain.md\|Cleric (Light Domain)]], [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Devotion.md\|Paladin (Oath of Devotion)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 242. Available in the SRD and the Basic Rules.*

@@ -36,12 +36,12 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 "languages": "Common, Giant, Winter Wolf"
 "cr": "3"
 "traits":
-- "desc": "The wolf has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The wolf has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "The wolf has advantage on an attack roll against a creature if at least\
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy\
     \ terrain."
@@ -49,7 +49,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
     \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Bite"
 - "desc": "The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature\
     \ in that area must make a DC 12 Dexterity saving throw, taking 18 (dice: 4d8|avg\

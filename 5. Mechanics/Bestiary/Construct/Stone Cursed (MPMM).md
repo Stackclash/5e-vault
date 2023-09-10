@@ -12,7 +12,7 @@ aliases: ["Stone Cursed"]
 # Stone Cursed
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233*  
 
-Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] victim's spirit, animating the statue and turning it into a useful guardian.
+Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] victim's spirit, animating the statue and turning it into a useful guardian.
 
 Stone cursed possess a malevolent drive to slay the living, yet they are utterly loyal to whoever performed the ritual to animate them, and they obey that being's orders to the best of their ability. In combat, stony claws that drip with thick, gray sludge emerge from a stone cursed's fingers. This alchemical sludge transforms those slashed by the claws into statues.
 
@@ -20,7 +20,7 @@ As part of the ritual used to create a stone cursed, a fist-sized obsidian skull
 
 ## Cryptic Whispers
 
-Even though a creature transformed into a stone cursed is long dead, a vague whisper of their memories lives on in the obsidian skull embedded within the stone cursed's body. At the end of a short rest, a character can make a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana|")"]] check to attempt to extract a memory from the skull that is a response to a verbal question posed to the skull by the character. Once this check is made, whether it succeeds or fails, the skull can't be used in this manner again.
+Even though a creature transformed into a stone cursed is long dead, a vague whisper of their memories lives on in the obsidian skull embedded within the stone cursed's body. At the end of a short rest, a character can make a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check to attempt to extract a memory from the skull that is a response to a verbal question posed to the skull by the character. Once this check is made, whether it succeeds or fails, the skull can't be used in this manner again.
 
 ```statblock
 "name": "Stone Cursed"
@@ -49,7 +49,7 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
   "name": "Cunning Opportunist"
 - "desc": "If the stone cursed is motionless at the start of combat, it has advantage\
     \ on its initiative roll. Moreover, if a creature hasn't observed the stone cursed\
-    \ move or act, that creature must succeed on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|")"]]\
+    \ move or act, that creature must succeed on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]])\
     \ check to discern that the stone cursed isn't a statue."
   "name": "False Appearance"
 - "desc": "The stone cursed doesn't require air, food, drink, or sleep."
@@ -58,9 +58,9 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) slashing damage. If the target is\
     \ a creature, it must succeed on a DC 12 Constitution saving throw, or it begins\
-    \ to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ until the end of its next turn, when it must repeat the saving throw. The effect\
-    \ ends if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ ends if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]]\
     \ for 24 hours."
   "name": "Petrifying Claws"
 "source":

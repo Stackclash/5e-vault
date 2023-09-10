@@ -34,14 +34,14 @@ aliases: ["Octopus"]
 "traits":
 - "desc": "While out of water, the octopus can hold its breath for 30 minutes."
   "name": "Hold Breath"
-- "desc": "The octopus has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]]\
+- "desc": "The octopus has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]])\
     \ checks made while underwater."
   "name": "Underwater Camouflage"
 - "desc": "The octopus can breathe only underwater."
   "name": "Water Breathing"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 1 bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ Hit: 1 bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
     \ (escape DC 10). Until this grapple ends, the octopus can't use its tentacles\
     \ on another target."
   "name": "Tentacles"

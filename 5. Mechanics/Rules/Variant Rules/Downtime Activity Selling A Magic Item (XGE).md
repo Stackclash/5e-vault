@@ -18,7 +18,7 @@ A character can find a buyer for one magic item by spending one workweek and 25 
 
 ### Resolution
 
-A character who wants to sell an item must make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|")"]] check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
+A character who wants to sell an item must make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
 
 **Magic Item Base Prices**
 
@@ -46,4 +46,4 @@ A character who wants to sell an item must make a Charisma ([[/5. Mechanics/Rule
 
 The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10% chance chance of a complication, examples of which are on the Magic Item Sale Complications table.
 
-![[5. Mechanics/Tables/Magic Item Sale Complications (XGE).md|Magic Item Sale Complications]]
+![[5. Mechanics/Tables/Magic Item Sale Complications (XGE).md\|Magic Item Sale Complications]]

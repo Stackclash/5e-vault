@@ -43,11 +43,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "9"
 "traits":
 - "desc": "The evoker casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Light.md|light]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]\n\n2/day each: [[5. Mechanics/Spells/Ice Storm.md|ice storm]],\
-    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+    \ spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Light.md\|light]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]]\n\n2/day each: [[5. Mechanics/Spells/Ice Storm.md\|ice storm]],\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]]"
   "name": "spells"
 "actions":
 - "desc": "The evoker makes three Arcane Burst attacks."
@@ -62,9 +62,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ a DC 15 Dexterity saving throw. The evoker can select up to three creatures\
     \ it can see in the area to ignore the spell, as the evoker sculpts the spell's\
     \ energy around them. On a failed save, a creature takes 40 (dice: 9d8|avg (9d8))\
-    \ damage of the chosen type and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ damage of the chosen type and is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Sculpted Explosion (Recharge 4-6)"
 "source":
 - "MPMM"

@@ -13,7 +13,7 @@ aliases: ["Light Hammer"]
 
 - **Damage**: 1d4 B
 - **Range**: 20/60
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 2 gp
 - **Weight**: 2.0 lbs.
 

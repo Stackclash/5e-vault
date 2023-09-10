@@ -16,6 +16,6 @@ aliases: ["Necklace of Adaptation"]
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as [[5. Mechanics/Spells/Cloudkill.md|cloudkill]] and [[5. Mechanics/Spells/Stinking Cloud.md|") effects, inhaled poisons, and the breath weapons of some dragons"]].
+While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]] and [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] effects, inhaled poisons, and the breath weapons of some dragons).
 
 *Source: Dungeon Master's Guide p. 182. Available in the SRD.*

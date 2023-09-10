@@ -43,7 +43,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
     \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) piercing damage. If the aurochs\
     \ moved at least 20 feet straight toward the target immediately before the hit,\
     \ the target takes an extra 9 (dice: 2d8|avg (2d8)) piercing damage, and the\
-    \ target must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ target must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
     \ if it is a creature."
   "name": "Gore"
 "source":

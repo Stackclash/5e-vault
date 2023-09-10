@@ -39,8 +39,8 @@ aliases: ["The Abbot"]
 "traits":
 - "desc": "The Abbot's spellcasting ability is Charisma (spell save DC 17). The Abbot\
     \ can innately cast the following spells, requiring only verbal components:\n\n\
-    At will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+    At will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Commune.md\|commune]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]]"
   "name": "innate"
 - "desc": "The Abbot's weapon attacks are magical. When The Abbot hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg (4d8) radiant damage (included in\

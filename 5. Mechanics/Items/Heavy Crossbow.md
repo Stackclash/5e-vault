@@ -16,7 +16,7 @@ aliases: ["Heavy Crossbow"]
 
 - **Damage**: 1d10 P
 - **Range**: 100/400
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading|Loading]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Cost**: 50 gp
 - **Weight**: 18.0 lbs.
 

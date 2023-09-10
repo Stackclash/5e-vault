@@ -57,16 +57,16 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
     \ Hit: 22 (dice: 3d8 + 9|avg (3d8 + 9)) piercing damage. If the target is\
     \ a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw\
-    \ or be swallowed by the worm. A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
+    \ or be swallowed by the worm. A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], it has total cover\
     \ against attacks and other effects outside the worm, and it takes 21 (dice:\
     \ 6d6|avg (6d6)) acid damage at the start of each of the worm's turns.\n\n\
     If the worm takes 30 damage or more on a single turn from a creature inside it,\
     \ the worm must succeed on a DC 21 Constitution saving throw at the end of that\
-    \ turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
     \ in a space within 10 feet of the worm. If the worm dies, a swallowed creature\
-    \ is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it\
-    \ and can escape from the corpse by using 20 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ is no longer [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by it\
+    \ and can escape from the corpse by using 20 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one creature.\
     \ Hit: 19 (dice: 3d6 + 9|avg (3d6 + 9)) piercing damage, and the target\

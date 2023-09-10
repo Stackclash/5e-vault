@@ -16,7 +16,7 @@ aliases: ["Scimitar of Speed"]
 *Melee Weapon, major, very rare (requires attunement)*  
 
 - **Damage**: 1d6 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light|Light]], Martial, Requires Attunement
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial, Requires Attunement
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 

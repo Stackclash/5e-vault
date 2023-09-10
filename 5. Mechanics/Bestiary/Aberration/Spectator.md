@@ -59,10 +59,10 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
     \ its turn, the target can't move, and it uses its action to make a melee or ranged\
     \ attack against a randomly determined creature within range. If the target can't\
     \ attack, it does nothing on its turn.  \n- 2. Paralyzing Ray. The target\
-    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 3. Fear Ray. The target\
-    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, with disadvantage if the spectator is visible to the target, ending the\
     \ effect on itself on a success.  \n- 4. Wounding Ray. The target must make\

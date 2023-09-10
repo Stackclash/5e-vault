@@ -42,19 +42,19 @@ aliases: ["Giant Frog"]
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
     \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 11"]]. Until this\
-    \ grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 11). Until this\
+    \ grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ and the frog can't bite another target."
   "name": "Bite"
 - "desc": "The frog makes one bite attack against a Small or smaller target it is\
     \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
-    \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
+    \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], it has total cover\
     \ against attacks and other effects outside the frog, and it takes 5 (dice: 2d4|avg\
     \ (2d4)) acid damage at the start of each of the frog's turns. The frog can\
     \ have only one target swallowed at a time. If the frog dies, a swallowed creature\
-    \ is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it\
-    \ and can escape from the corpse using 5 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ is no longer [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by it\
+    \ and can escape from the corpse using 5 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Swallow"
 "source":
 - "MM"

@@ -27,8 +27,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in [[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]] if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] increases by 60 feet, and it gains proficiency in [[/5. Mechanics/Rules/Skills.md#Perception|Perception]] if it lacks that proficiency. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]] if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] increases by 60 feet, and it gains proficiency in [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]] if it lacks that proficiency. |
 | 3 | **Fortified.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -43,13 +43,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end of its turn. |
 | 2 | **Flawed Targeting.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
 | 4 | **Imprinting Loop.** Roll a `dice: d6\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
 | 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice: d6\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `dice: d6\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the end of its turn. |
+| 7 | **Overheats.** Roll a `dice: d6\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 

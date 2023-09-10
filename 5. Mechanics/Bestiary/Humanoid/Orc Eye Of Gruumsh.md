@@ -78,10 +78,10 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 "traits":
 - "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The orc has\
-    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Resistance.md|resistance]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
-    \n2nd level (2 2nd-level slots): [[5. Mechanics/Spells/Augury.md|augury]], [spiritual\
+    \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md\|guidance]],\
+    \ [[5. Mechanics/Spells/Resistance.md\|resistance]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Command.md\|command]]\n\
+    \n2nd level (2 2nd-level slots): [[5. Mechanics/Spells/Augury.md\|augury]], [spiritual\
     \ weapon](compendium/spells/spiritual-weapon.md) (spear)"
   "name": "spells"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\

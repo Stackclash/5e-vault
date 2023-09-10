@@ -64,7 +64,7 @@ A revenant doesn't require air, food, drink, or sleep.
   "name": "Regeneration"
 - "desc": "When the revenant's body is destroyed, its soul lingers. After 24 hours,\
     \ the soul inhabits and animates another humanoid corpse on the same plane of\
-    \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
+    \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md\|wish]]\
     \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "The revenant is immune to effects that turn undead."
@@ -86,12 +86,12 @@ A revenant doesn't require air, food, drink, or sleep.
   "name": "Fist"
 - "desc": "The revenant targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ until the revenant deals damage to it, or until the end of the revenant's next\
-    \ turn. When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the revenant for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ turn. When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ of the revenant for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-    \ if it can see the revenant, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ if it can see the revenant, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":

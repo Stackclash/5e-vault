@@ -40,7 +40,7 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
 "cr": "4"
 "traits":
-- "desc": "Magical darkness doesn't impede the merregon's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the merregon's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The merregon has advantage on saving throws against spells and other magical\
     \ effects."

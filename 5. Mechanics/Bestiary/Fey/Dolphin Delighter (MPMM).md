@@ -52,7 +52,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) psychic damage, and the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ 2d6|avg (2d6)) psychic damage, and the target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
     \ until the start of the dolphin's next turn."
   "name": "Dazzling Slam"
 "bonus_actions":

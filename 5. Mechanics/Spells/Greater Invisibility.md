@@ -24,8 +24,8 @@ aliases: ["Greater Invisibility"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You or a creature you touch becomes [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] until the spell ends. Anything the target is wearing or carrying is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] as long as it is on the target's person.
+You or a creature you touch becomes [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] until the spell ends. Anything the target is wearing or carrying is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] as long as it is on the target's person.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md\|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 246. Available in the SRD and the Basic Rules.*

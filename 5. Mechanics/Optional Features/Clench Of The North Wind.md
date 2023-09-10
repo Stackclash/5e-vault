@@ -9,4 +9,4 @@ aliases: ["Clench of the North Wind"]
 # Clench of the North Wind
 *Source: Player's Handbook p. 81* 
 
-You can spend 3 ki points to cast [[5. Mechanics/Spells/Hold Person.md|hold person]].
+You can spend 3 ki points to cast [[5. Mechanics/Spells/Hold Person.md\|hold person]].

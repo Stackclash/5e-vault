@@ -71,18 +71,18 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> 1st level (4 slots): [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]  
-> 2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Locate Object.md|locate object]]  
-> 3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]  
-> 4th level (3 slots): [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Polymorph.md|polymorph]]  
-> 5th level (2 slots): [[5. Mechanics/Spells/Contact Other Plane.md|contact other plane]], [[5. Mechanics/Spells/Scrying.md|scrying]]  
-> 6th level (1 slot): [[5. Mechanics/Spells/Eyebite.md|eyebite]]  
+> 1st level (4 slots): [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Ray Of Sickness.md\|ray of sickness]]  
+> 2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Locate Object.md\|locate object]]  
+> 3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]  
+> 4th level (3 slots): [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]]  
+> 5th level (2 slots): [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[5. Mechanics/Spells/Scrying.md\|scrying]]  
+> 6th level (1 slot): [[5. Mechanics/Spells/Eyebite.md\|eyebite]]  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ```statblock
@@ -109,7 +109,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": "Amphibious"
 - "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
     \ the hag's true form must make a DC 11 Wisdom saving throw. On a failed save,\
-    \ the creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
+    \ the creature is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for\
     \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
     \ with disadvantage if the hag is within line of sight, ending the effect on itself\
     \ on a success. If a creature's saving throw is successful or the effect ends\
@@ -123,7 +123,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
   "name": "Claws"
-- "desc": "The hag targets one [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+- "desc": "The hag targets one [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ creature she can see within 30 feet of her. If the target can see the hag, it\
     \ must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0\
     \ hit points."

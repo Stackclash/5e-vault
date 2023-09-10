@@ -45,13 +45,13 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "traits":
 - "desc": "The giant casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Silent Image.md|silent image]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]],\
+    \ [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Major Image.md\|major image]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Silent Image.md\|silent image]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]], [[5. Mechanics/Spells/Tongues.md\|tongues]]"
   "name": "spells"
-- "desc": "The giant can cast the [[5. Mechanics/Spells/Control Weather.md|control weather]]\
+- "desc": "The giant can cast the [[5. Mechanics/Spells/Control Weather.md\|control weather]]\
     \ spell, requiring no material components and using Charisma as the spellcasting\
     \ ability."
   "name": "Control Weather (8th-level Spell)"

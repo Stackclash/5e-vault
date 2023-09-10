@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Dexterity, Charisma
 - **Armor**: light
-- **Weapons**: simple, [[5. Mechanics/Items/Hand Crossbow.md|hand crossbows]], [[5. Mechanics/Items/Longsword.md|longswords]], [[5. Mechanics/Items/Rapier.md|rapiers]], [[5. Mechanics/Items/Shortsword.md|shortswords]]
+- **Weapons**: simple, [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[5. Mechanics/Items/Longsword.md\|longswords]], [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]]
 - **Tools**: three musical instruments of your choice
 - **Skills**: Choose 3 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*, *Spellcasting*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Rapier.md|"), (b"]] a [[5. Mechanics/Items/Longsword.md|"), or (c) any simple weapon  
-- (a"]] a [[5. Mechanics/Items/Diplomats Pack.md|") or (b"]] an [[5. Mechanics/Items/Entertainers Pack.md|")  
-- (a"]] a [[5. Mechanics/Items/Lute.md|") or (b"]] any other musical instrument  
-- [[5. Mechanics/Items/Leather Armor.md|Leather armor]], and a [[5. Mechanics/Items/Dagger.md|dagger]]  
+- (a) a [[5. Mechanics/Items/Rapier.md\|rapier]], (b) a [[5. Mechanics/Items/Longsword.md\|longsword]], or (c) any simple weapon  
+- (a) a [[5. Mechanics/Items/Diplomats Pack.md\|diplomat's pack]] or (b) an [[5. Mechanics/Items/Entertainers Pack.md\|entertainer's pack]]  
+- (a) a [[5. Mechanics/Items/Lute.md\|lute]] or (b) any other musical instrument  
+- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], and a [[5. Mechanics/Items/Dagger.md\|dagger]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -133,7 +133,7 @@ Did you serve an apprenticeship, studying under a master, following the more exp
 
 #### Quick Build
 
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [[5. Mechanics/Backgrounds/Entertainer.md|entertainer]] background. Third, choose the [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]] and [[5. Mechanics/Spells/Vicious Mockery.md|vicious mockery]] cantrips, along with the following 1st-level spells: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Healing Word.md|healing word]], and [[5. Mechanics/Spells/Thunderwave.md|thunderwave]].
+You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [[5. Mechanics/Backgrounds/Entertainer.md\|entertainer]] background. Third, choose the [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] cantrips, along with the following 1st-level spells: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Healing Word.md\|healing word]], and [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]].
 
 > [!quote]- A quote from Fletcher Danairia, master bard  
 > 
@@ -180,9 +180,9 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 | `dice: d6\|avg` (`d6`) | Instrument |
 |-----------|------------|------------|
 | 1 | A masterfully crafted halfling fiddle |
-| 2 | A mithral [[5. Mechanics/Items/Horn.md|horn]] made by elves |
+| 2 | A mithral [[5. Mechanics/Items/Horn.md\|horn]] made by elves |
 | 3 | A zither made with drow spider silk |
-| 4 | An orcish [[5. Mechanics/Items/Drum.md|drum]] |
+| 4 | An orcish [[5. Mechanics/Items/Drum.md\|drum]] |
 | 5 | A wooden bullywug croak box |
 | 6 | A tinker's harp of gnomish design |
 ^instrument
@@ -203,7 +203,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 3 | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth" |
 | 4 | The first and last public performance of "Mirt, Man about Town" |
 | 5 | The time on stage when your wig caught fire and you threw it down—which set fire to the stage |
-| 6 | When you sat on your [[5. Mechanics/Items/Lute.md|lute]] by mistake during the final stanza of "Starlight Serenade" |
+| 6 | When you sat on your [[5. Mechanics/Items/Lute.md\|lute]] by mistake during the final stanza of "Starlight Serenade" |
 ^embarrassment
 
 ## A Bard's Muse
@@ -254,7 +254,7 @@ You know two cantrips of your choice from the bard spell list. You learn additio
 
 The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]] using either slot.
+For example, if you know the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -316,7 +316,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm (Level 6)
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] or [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[/5. Mechanics/Rules/Conditions.md#incapacitated|") or silenced or if you voluntarily end it (no action required"]].
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] or [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or silenced or if you voluntarily end it (no action required).
 
 ### Bard College feature (Level 6)
 

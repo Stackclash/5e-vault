@@ -25,6 +25,6 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 157*

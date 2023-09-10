@@ -18,10 +18,10 @@ aliases: ["Arcane Lock"]
 - **Components:** V, S, gold dust worth at least 25 gp, which the spell consumes
 - **Duration:** Until dispelled
 
-You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting [[5. Mechanics/Spells/Knock.md|knock]] on the object suppresses [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]] for 10 minutes.
+You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting [[5. Mechanics/Spells/Knock.md\|knock]] on the object suppresses [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] for 10 minutes.
 
 While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 215. Available in the SRD and the Basic Rules.*

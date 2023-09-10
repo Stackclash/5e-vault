@@ -47,11 +47,11 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "cr": "4"
 "traits":
 - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]],\
-    \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]],\
-    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
+    \ the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n2/day each:\
+    \ [[5. Mechanics/Spells/Fireball.md\|fireball]], [[5. Mechanics/Spells/Fly.md\|fly]],\
+    \ [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]],\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]"
   "name": "spells"
 - "desc": "When the hobgoblin casts a spell that causes damage or that forces other\
     \ creatures to make a saving throw, it can choose itself and any number of allies\
@@ -68,7 +68,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
   "name": "Quarterstaff"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
     \ Hit: 21 (dice: 4d8 + 3|avg (4d8 + 3)) force damage, and the target is\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Devastating Bolt"
 "source":
 - "MPMM"

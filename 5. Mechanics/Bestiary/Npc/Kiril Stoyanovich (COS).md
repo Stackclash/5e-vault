@@ -43,7 +43,7 @@ aliases: ["Kiril Stoyanovich"]
     \ than its AC, are the same in each form. Any equipment it is wearing or carrying\
     \ isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
-- "desc": "Kiril has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "Kiril has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":

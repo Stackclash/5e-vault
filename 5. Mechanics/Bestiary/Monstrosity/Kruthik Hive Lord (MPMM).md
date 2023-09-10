@@ -58,7 +58,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "traits":
 - "desc": "The kruthik has advantage on an attack roll against a creature if at least\
     \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
     \ leaves a 10-foot-diameter tunnel in its wake."

@@ -30,7 +30,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ### Brave
 
-You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]].
+You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].
 
 ### Halfling Nimbleness
 

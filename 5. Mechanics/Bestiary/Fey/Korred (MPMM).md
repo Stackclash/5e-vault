@@ -12,7 +12,7 @@ aliases: ["Korred"]
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 
-Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [[5. Mechanics/Bestiary/Elemental/Galeb Duhr.md|galeb duhr]]. They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
+Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [[5. Mechanics/Bestiary/Elemental/Galeb Duhr.md\|galeb duhr]]. They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
 
 Korreds can hurl boulders far larger than it seems they should be able to, shape stone as though it were clay, and swim through rock. They also gain supernatural strength just from standing on the ground.
 
@@ -47,11 +47,11 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "traits":
 - "desc": "The korred casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Commune With Nature.md|") (as an action"]],\
-    \ [[5. Mechanics/Spells/Meld Into Stone.md|meld into stone]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
-    \n1/day: [[5. Mechanics/Spells/Ottos Irresistible Dance.md|Otto's irresistible dance]]"
+    \ [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]] (as an action),\
+    \ [[5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[5. Mechanics/Spells/Stone Shape.md\|stone shape]]\n\
+    \n1/day: [[5. Mechanics/Spells/Ottos Irresistible Dance.md\|Otto's irresistible dance]]"
   "name": "spells"
-- "desc": "The korred has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]]\
+- "desc": "The korred has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]])\
     \ checks made to hide in rocky terrain."
   "name": "Stone Camouflage"
 "actions":
@@ -70,10 +70,10 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 - "desc": "The korred has at least one 50-foot-long rope woven out of its hair. The\
     \ korred commands one such rope within 30 feet of it to move up to 20 feet and\
     \ entangle a Large or smaller creature that the korred can see. The target must\
-    \ succeed on a DC 13 Dexterity saving throw or become [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by the rope (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ succeed on a DC 13 Dexterity saving throw or become [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ by the rope (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
     \ The korred can use a bonus action to release the target, which is also freed\
-    \ if the korred dies or becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\n\
+    \ if the korred dies or becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].\n\
     \nA rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at\
     \ the start of each of the korred's turns while the rope has at least 1 hit point\
     \ and the korred is alive. If the rope drops to 0 hit points, it is destroyed."

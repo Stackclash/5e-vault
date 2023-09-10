@@ -63,7 +63,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
   "name": "Claw (Hybrid Form Only)"
 - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
     \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-    \ or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the end of the\
+    \ or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the end of the\
     \ deep scion's next turn. In water, the psychic screech also telepathically transmits\
     \ the deep scion's memories of the last 24 hours to its master, regardless of\
     \ distance, so long as it and its master are in the same body of water."

@@ -20,7 +20,7 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] condition. If the creature is susceptible and remains [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`dice: 3d6|avg` (`3d6`)) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[5. Mechanics/Spells/Wish.md|wish]] spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] condition. If the creature is susceptible and remains [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`dice: 3d6|avg` (`3d6`)) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
 "name": "Meenlock"
@@ -48,17 +48,17 @@ Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Condit
 "cr": "2"
 "traits":
 - "desc": "Any Beast or Humanoid that starts its turn within 10 feet of the meenlock\
-    \ must succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ must succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ until the start of the creature's next turn."
   "name": "Fear Aura"
 - "desc": "While in bright light, the meenlock has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks\
+    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks\
     \ that rely on sight."
   "name": "Light Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage, and the target must\
-    \ succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Claw"

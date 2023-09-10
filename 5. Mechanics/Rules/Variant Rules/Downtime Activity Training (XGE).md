@@ -20,4 +20,4 @@ Receiving training in a language or tool typically takes at least ten workweeks,
 
 Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10% chance chance of a complication, examples of which are on the Training Complications table.
 
-![[5. Mechanics/Tables/Training Complications (XGE).md|Training Complications]]
+![[5. Mechanics/Tables/Training Complications (XGE).md\|Training Complications]]

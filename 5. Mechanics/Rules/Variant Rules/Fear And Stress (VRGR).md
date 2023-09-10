@@ -44,9 +44,9 @@ For example, imagine that a character has the Seed of Fear "I hate being stuck i
 
 ### Fear
 
-An overwhelming foe or horrid monster doesn't need magic or some supernatural ability to strike fear into the most stalwart adventurers. During any frightful encounter, you can call on a character to make a saving throw to resist being scared. The character must succeed on a DC 15 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the end of their next turn.
+An overwhelming foe or horrid monster doesn't need magic or some supernatural ability to strike fear into the most stalwart adventurers. During any frightful encounter, you can call on a character to make a saving throw to resist being scared. The character must succeed on a DC 15 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] until the end of their next turn.
 
-Any of the following circumstances might be reasons to have one or more characters make saving throws to resist being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]:
+Any of the following circumstances might be reasons to have one or more characters make saving throws to resist being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]:
 
 - The character experiences one of their Seeds of Fear.  
 - An enemy is immune to the character's attacks or spells.  
@@ -73,6 +73,6 @@ When a character makes an attack roll, an ability check, or a saving throw, they
 
 A character who spends an entire day relaxing or in otherwise calm circumstances reduces their Stress Score by 1 when they finish their next long rest.
 
-The [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]] spell effect used to suppress the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] conditions also suppresses the effects of one's Stress Score for the spell's duration.
+The [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell effect used to suppress the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] conditions also suppresses the effects of one's Stress Score for the spell's duration.
 
-A [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] spell reduces the target's Stress Score by 1, and a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell reduces a character's Stress Score to 0.
+A [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell reduces the target's Stress Score by 1, and a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell reduces a character's Stress Score to 0.

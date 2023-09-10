@@ -15,7 +15,7 @@ aliases: ["Musket"]
 
 - **Damage**: 1d12 P
 - **Range**: 40/120
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition%20|"(Firearm)"]], [[/5. Mechanics/Rules/Item Properties.md#Loading|Loading]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition%20\|"(Firearm"]]), [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Cost**: 500 gp
 - **Weight**: 10.0 lbs.
 

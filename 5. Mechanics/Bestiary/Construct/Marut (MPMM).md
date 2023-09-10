@@ -47,13 +47,13 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 "languages": "all but rarely speaks"
 "cr": "25"
 "traits":
-- "desc": "The marut casts [[5. Mechanics/Spells/Plane Shift.md|plane shift]], requiring\
+- "desc": "The marut casts [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], requiring\
     \ no material components and using Intelligence as the spellcasting ability. The\
     \ marut can cast the spell normally, or it can cast the spell on an unwilling\
     \ creature it can see within 60 feet of it. If it uses the latter option, the\
     \ targeted creature must succeed on a DC 20 Charisma saving throw or be banished\
     \ to a teleportation circle in the Hall of Concordance in Sigil.\n\n3/day:\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    \ [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]"
   "name": "spells"
 - "desc": "The marut is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
@@ -73,7 +73,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
   "name": "Unerring Slam"
 - "desc": "Arcane energy emanates from the marut's chest in a 60-foot cube. Every\
     \ creature in that area takes 45 radiant damage. Each creature that takes any\
-    \ of this damage must succeed on a DC 20 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ of this damage must succeed on a DC 20 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
     \ until the end of the marut's next turn."
   "name": "Blazing Edict (Recharge 5-6)"
 "source":

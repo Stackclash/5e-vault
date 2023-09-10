@@ -21,6 +21,6 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 259. Available in the SRD and the Basic Rules.*

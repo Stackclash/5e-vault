@@ -76,8 +76,8 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 - "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: 9 (dice: 2d8|avg (2d8)) lightning damage."
   "name": "Shock"
-- "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+- "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+    \ until it attacks or uses its Consume Life, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
     \ ends (as if concentrating on a spell)."
   "name": "Invisibility"
 "source":

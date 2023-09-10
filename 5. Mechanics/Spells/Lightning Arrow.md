@@ -24,6 +24,6 @@ The piece of ammunition or weapon then returns to its normal form.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics/Classes/Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 255*

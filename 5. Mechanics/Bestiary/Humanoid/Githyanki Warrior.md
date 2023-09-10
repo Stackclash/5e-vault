@@ -25,7 +25,7 @@ Of all their enemies, the githyanki most hate their former masters, the mind fla
 
 In ancient times, gith knights created special weapons to combat their mind flayer masters.
 
-These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [[5. Mechanics/Items/Greatsword.md|greatsword]], and takes on the properties of a +3 greatsword in the hands of its creator.
+These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a [[5. Mechanics/Items/Greatsword.md\|greatsword]], and takes on the properties of a +3 greatsword in the hands of its creator.
 
 In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
 
@@ -39,13 +39,13 @@ Since creatures that dwell on the Astral Plane don't age, the githyanki establis
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote]- A quote from Aristul the Yellow, master of planar lore  
 > 
@@ -78,9 +78,9 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "cr": "3"
 "traits":
 - "desc": "The githyanki's innate spellcasting ability is Intelligence. It can innately\
-    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n3/day each: [[5. Mechanics/Spells/Jump.md|jump]],\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
+    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\
+    \ (the hand is invisible)\n\n3/day each: [[5. Mechanics/Spells/Jump.md\|jump]],\
+    \ [[5. Mechanics/Spells/Misty Step.md\|misty step]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\
     \ (self only)"
   "name": "innate"
 "actions":

@@ -48,11 +48,11 @@ The armor understands Common but obeys only the commands of its master.
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the armor\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1\
     \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the armor remains motionless, it is indistinguishable from a normal\

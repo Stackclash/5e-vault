@@ -52,7 +52,7 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 "traits":
 - "desc": "The intellect devourer can sense the presence and location of any creature\
     \ within 300 feet of it that has an Intelligence of 3 or higher, regardless of\
-    \ interposing barriers, unless the creature is protected by a [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\
+    \ interposing barriers, unless the creature is protected by a [[5. Mechanics/Spells/Mind Blank.md\|mind blank]]\
     \ spell."
   "name": "Detect Sentience"
 "actions":
@@ -66,10 +66,10 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
     \ it that has a brain. The target must succeed on a DC 12 Intelligence saving\
     \ throw against this magic or take 11 (dice: 2d10|avg (2d10)) psychic damage.\
     \ Also on a failure, roll dice: 3d6|avg (3d6): If the total equals or exceeds\
-    \ the target's Intelligence score, that score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ the target's Intelligence score, that score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
     \ until it regains at least one point of Intelligence."
   "name": "Devour Intellect"
-- "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
     \ humanoid within 5 feet of it that isn't protected by [protection from evil and\
     \ good](compendium/spells/protection-from-evil-and-good.md). If it wins the contest,\
     \ the intellect devourer magically consumes the target's brain, teleports into\
@@ -79,9 +79,9 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
     \ Charisma scores, as well as its understanding of Deep Speech, its telepathy,\
     \ and its traits. It otherwise adopts the target's statistics. It knows everything\
     \ the creature knew, including spells and languages.\n\nIf the host body dies,\
-    \ the intellect devourer must leave it. A [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]\
+    \ the intellect devourer must leave it. A [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]]\
     \ spell cast on the body drives the intellect devourer out. The intellect devourer\
-    \ is also forced out if the target regains its devoured brain by means of a [[5. Mechanics/Spells/Wish.md|wish]].\
+    \ is also forced out if the target regains its devoured brain by means of a [[5. Mechanics/Spells/Wish.md\|wish]].\
     \ By spending 5 feet of its movement, the intellect devourer can voluntarily leave\
     \ the body, teleporting to the nearest unoccupied space within 5 feet of it. The\
     \ body then dies, unless its brain is restored within 1 round."

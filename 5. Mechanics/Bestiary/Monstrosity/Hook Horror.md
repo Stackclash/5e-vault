@@ -46,9 +46,9 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 "languages": "Hook Horror"
 "cr": "3"
 "traits":
-- "desc": "The hook horror can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
+- "desc": "The hook horror can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]."
   "name": "Echolocation"
-- "desc": "The hook horror has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The hook horror has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":

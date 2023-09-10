@@ -16,7 +16,7 @@ aliases: ["Artifact Properties; Minor Beneficial Properties"]
 |------------|----------|
 | 01-20 | While attuned to the artifact, you gain proficiency in one skill of the DM's choice. |
 | 21-30 | While attuned to the artifact, you are immune to disease. |
-| 31-40 | While attuned to the artifact, you can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]. |
+| 31-40 | While attuned to the artifact, you can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]. |
 | 41-50 | While attuned to the artifact, you have resistance against one damage type of the DM's choice. |
 | 51-60 | While attuned to the artifact, you can use an action to cast one cantrip (chosen by the DM) from it. |
 | 61-70 | While attuned to the artifact, you can use an action to cast one 1st-level spell (chosen by the DM) from it. After you cast the spell, roll a `dice: d6\|avg` (`d6`). On a roll of 1-5, you can't cast it again until the next dawn. |

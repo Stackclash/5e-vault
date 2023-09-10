@@ -7,7 +7,7 @@ tags:
 aliases: ["The Hexblade"]
 ---
 # The Hexblade
-*[[nullWarlock.md|Warlock]]: Otherworldly Patron*  
+*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 55*  
 
 
@@ -28,16 +28,16 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Wrathful Smite.md|wrathful smite]] |
-| 2nd | [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Branding Smite.md|branding smite]] |
-| 3rd | [[5. Mechanics/Spells/Blink.md|blink]], [[5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]] |
-| 4th | [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]] |
-| 5th | [[5. Mechanics/Spells/Banishing Smite.md|banishing smite]], [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]] |
+| 1st | [[5. Mechanics/Spells/Shield.md\|shield]], [[5. Mechanics/Spells/Wrathful Smite.md\|wrathful smite]] |
+| 2nd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Branding Smite.md\|branding smite]] |
+| 3rd | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]] |
+| 4th | [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[5. Mechanics/Spells/Staggering Smite.md\|staggering smite]] |
+| 5th | [[5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
 ^hexblade-expanded-spells
 
 ### Hexblade's Curse (Level 1)
 
-Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. Until the curse ends, you gain the following benefits:
+Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.  
 - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `dice: d20|avg` (`d20`).  
@@ -53,7 +53,7 @@ The influence of your patron also allows you to mystically channel your will thr
 
 ### Accursed Specter (Level 6)
 
-Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[5. Mechanics/Bestiary/Undead/Specter.md|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
+Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
@@ -65,4 +65,4 @@ At 10th level, your hex grows more powerful. If the target cursed by your Hexbla
 
 ### Master of Hexes (Level 14)
 
-Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Horizon Walker"]
 ---
 # Horizon Walker
-*[[nullRanger.md|Ranger]]: Ranger Archetype*  
+*[[nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 42*  
 
 
@@ -25,11 +25,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]] |
-| 5th | [[5. Mechanics/Spells/Misty Step.md|misty step]] |
-| 9th | [[5. Mechanics/Spells/Haste.md|haste]] |
-| 13th | [[5. Mechanics/Spells/Banishment.md|banishment]] |
-| 17th | [[5. Mechanics/Spells/Teleportation Circle.md|teleportation circle]] |
+| 3rd | [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| 5th | [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[5. Mechanics/Spells/Haste.md\|haste]] |
+| 13th | [[5. Mechanics/Spells/Banishment.md\|banishment]] |
+| 17th | [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
 ^horizon-walker-spells
 
 ### Detect Portal (Level 3)
@@ -48,13 +48,13 @@ As a bonus action, choose one creature you can see within 30 feet of you. The ne
 
 ### Ethereal Step (Level 7)
 
-At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [[5. Mechanics/Spells/Etherealness.md|etherealness]] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [[5. Mechanics/Spells/Etherealness.md\|etherealness]] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Distant Strike (Level 11)
 
-At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
 
 If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
 

@@ -68,9 +68,9 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
     \ it can see within 120 feet of itself. The wave is up to 250 feet long, up to\
     \ 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a\
     \ DC 24 Strength saving throw. On a failed save, a creature takes 45 (dice: 7d12|avg\
-    \ (7d12)) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ (7d12)) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The water spreads out across\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. The water spreads out across\
     \ the ground in all directions, extinguishing unprotected flames in its area and\
     \ within 250 feet of it, and then it vanishes."
   "name": "Tidal Wave (Recharge 6)"

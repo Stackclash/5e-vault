@@ -118,7 +118,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -198,10 +198,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.\n\nWhen\
     \ the wall appears, each creature in its space is pushed out of it by the shortest\
     \ route. The creature chooses which side of the wall to end up on, unless the\
-    \ creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+    \ creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].\
     \ The creature then makes a DC 17 Dexterity saving throw, taking 35 (dice: 10d6|avg\
     \ (10d6)) cold damage on a failed save, or half as much damage on a successful\
-    \ one.\n\nThe wall lasts for 1 minute or until the devil is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ one.\n\nThe wall lasts for 1 minute or until the devil is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
     \ or dies. The wall can be damaged and breached; each 10-foot section has AC 5,\
     \ 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic,\
     \ poison, and psychic damage. If a section is destroyed, it leaves behind a sheet\

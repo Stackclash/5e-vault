@@ -22,7 +22,7 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]] and [[5. Mechanics/Bestiary/Plant/Treant.md|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druids]] and [[5. Mechanics/Bestiary/Plant/Treant.md\|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
 "name": "Wood Woad"
@@ -51,7 +51,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "languages": "Sylvan"
 "cr": "5"
 "traits":
-- "desc": "The wood woad has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]]\
+- "desc": "The wood woad has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]])\
     \ checks it makes in any terrain with ample obscuring vegetation."
   "name": "Plant Camouflage"
 - "desc": "The wood woad regains 10 hit points at the start of its turn if it is in\

@@ -19,7 +19,7 @@ aliases: ["Dwarven Thrower"]
   - One-handed: 1d8 B
   - Two-handed: 1d10 B
 - **Range**: 20/60
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 

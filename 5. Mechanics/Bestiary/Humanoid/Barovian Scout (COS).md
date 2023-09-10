@@ -44,7 +44,7 @@ aliases: ["Barovian Scout"]
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-- "desc": "The scout has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The scout has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":

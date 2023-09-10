@@ -40,10 +40,10 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "languages": "Common"
 "cr": "13"
 "traits":
-- "desc": "The sorrowsworn has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The sorrowsworn has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
   "name": "Two Heads"
 - "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's\
     \ attack rolls have advantage until the end of its next turn, and the first time\

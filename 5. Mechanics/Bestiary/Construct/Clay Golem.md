@@ -39,7 +39,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -93,7 +93,7 @@ A golem doesn't require air, food, drink, or sleep.
     \ is a creature, it must succeed on a DC 15 Constitution saving throw or have\
     \ its hit point maximum reduced by an amount equal to the damage taken. The target\
     \ dies if this attack reduces its hit point maximum to 0. The reduction lasts\
-    \ until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ until removed by the  [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
     \ spell or other magic."
   "name": "Slam"
 - "desc": "Until the end of its next turn, the golem magically gains a +2 bonus to\

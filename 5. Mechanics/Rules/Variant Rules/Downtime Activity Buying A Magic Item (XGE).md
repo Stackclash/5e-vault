@@ -18,7 +18,7 @@ Finding magic items to purchase requires at least one workweek of effort and 100
 
 ### Resolution
 
-A character seeking to buy a magic item makes a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|")"]] check to determine the quality of the seller found. The character gains a +1 bonus on the check for every workweek beyond the first that is spent seeking a seller and a +1 bonus for every additional 100 gp spent on the search, up to a maximum bonus of +10. The monetary cost includes a wealthy lifestyle, for a buyer must impress potential business partners.
+A character seeking to buy a magic item makes a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to determine the quality of the seller found. The character gains a +1 bonus on the check for every workweek beyond the first that is spent seeking a seller and a +1 bonus for every additional 100 gp spent on the search, up to a maximum bonus of +10. The monetary cost includes a wealthy lifestyle, for a buyer must impress potential business partners.
 
 As shown on the Buying Magic Items table, the total of the check dictates which table in the Dungeon Master's Guide to roll on to determine which items are on the market. Or you can roll for items from any table associated with a lower total on the Buying Magic Items table. As a further option to reflect the availability of items in your campaign, you can apply a -10 penalty for low magic campaigns or a +10 bonus for high magic campaigns. Furthermore, you can double magic item costs in low magic campaigns.
 
@@ -32,15 +32,15 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 | Check Total | Items Acquired |
 |-------------|----------------|
-| 1–5 | Roll `dice: 1d6\|avg` (`1d6`) times on [[5. Mechanics/Tables/Magic Item Table A.md|Magic Item Table A]]. |
-| 6–10 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table B.md|Magic Item Table B]]. |
-| 11–15 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table C.md|Magic Item Table C]]. |
-| 16–20 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table D.md|Magic Item Table D]]. |
-| 21–25 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table E.md|Magic Item Table E]]. |
-| 26–30 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table F.md|Magic Item Table F]]. |
-| 31–35 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table G.md|Magic Item Table G]]. |
-| 36–40 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table H.md|Magic Item Table H]]. |
-| 41+ | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table I.md|Magic Item Table I]]. |
+| 1–5 | Roll `dice: 1d6\|avg` (`1d6`) times on [[5. Mechanics/Tables/Magic Item Table A.md\|Magic Item Table A]]. |
+| 6–10 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]]. |
+| 11–15 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table C.md\|Magic Item Table C]]. |
+| 16–20 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table D.md\|Magic Item Table D]]. |
+| 21–25 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table E.md\|Magic Item Table E]]. |
+| 26–30 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table F.md\|Magic Item Table F]]. |
+| 31–35 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table G.md\|Magic Item Table G]]. |
+| 36–40 | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table H.md\|Magic Item Table H]]. |
+| 41+ | Roll `dice: 1d4\|avg` (`1d4`) times on [[5. Mechanics/Tables/Magic Item Table I.md\|Magic Item Table I]]. |
 ^buying-magic-items
 
 **Magic Item Price**
@@ -60,4 +60,4 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 
-![[5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md|Magic Item Purchase Complications]]
+![[5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md\|Magic Item Purchase Complications]]

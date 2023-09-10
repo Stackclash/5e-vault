@@ -36,7 +36,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
 ### Living Shadow
 
@@ -44,11 +44,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action.
+While in dim light or darkness, the dragon can take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -95,7 +95,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
     \ a bonus action."
   "name": "Shadow Stealth"
 - "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -111,7 +111,7 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 - "desc": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that\
     \ area must make a DC 18 Dexterity saving throw, taking 56 (dice: 16d6|avg (16d6))\
     \ necrotic damage on a failed save, or half as much damage on a successful one.\
-    \ A humanoid reduced to 0 hit points by this damage dies, and an undead [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]\
+    \ A humanoid reduced to 0 hit points by this damage dies, and an undead [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]]\
     \ rises from its corpse and acts immediately after the dragon in the initiative\
     \ count. The shadow is under the dragon's control."
   "name": "Shadow Breath (Recharge 5-6)"

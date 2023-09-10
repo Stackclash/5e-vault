@@ -37,7 +37,7 @@ aliases: ["Owl"]
 - "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
     \ reach."
   "name": "Flyby"
-- "desc": "The owl has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The owl has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":

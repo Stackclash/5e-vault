@@ -47,7 +47,7 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 "languages": "Giant"
 "cr": "5"
 "traits":
-- "desc": "The troll has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The troll has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\

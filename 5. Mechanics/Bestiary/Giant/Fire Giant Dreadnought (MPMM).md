@@ -69,7 +69,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
     \ space during this move, that creature must succeed on a DC 21 Strength saving\
     \ throw or take 36 (dice: 8d6 + 8|avg (8d6 + 8)) bludgeoning damage plus 14\
     \ (dice: 4d6|avg (4d6)) fire damage and be pushed up to 30 feet and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Shield Charge (Recharge 5-6)"
 "source":
 - "MPMM"

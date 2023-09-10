@@ -23,11 +23,11 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]] check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [[5. Mechanics/Items/Vial.md|vial]] of water and cause it to become [[5. Mechanics/Items/Holy Water Flask.md|holy water]].
+You touch one [[5. Mechanics/Items/Vial.md\|vial]] of water and cause it to become [[5. Mechanics/Items/Holy Water Flask.md\|holy water]].
 
 ## Coming of Age
 
@@ -39,7 +39,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[5. Mechanics/Spells/Wish.md|wish]] spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 ## Wedding
 
@@ -47,6 +47,6 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Paladin.md|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
 
 *Source: Xanathar's Guide to Everything p. 151*

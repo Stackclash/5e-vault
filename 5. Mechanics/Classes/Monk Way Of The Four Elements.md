@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Four Elements"]
 ---
 # Way of the Four Elements
-*[[nullMonk.md|Monk]]: Monastic Tradition*  
+*[[nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
 
@@ -31,9 +31,9 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 Some elemental disciplines allow you to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
 
-Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [[5. Mechanics/Spells/Burning Hands.md|burning hands]] does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [[5. Mechanics/Spells/Burning Hands.md|"), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
+Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
 
-The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level"]] is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.
+The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.
 
 **Spells and Ki Points**
 
@@ -49,23 +49,23 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 
 The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.
 
-- [[5. Mechanics/Optional Features/Breath Of Winter.md|Breath of Winter]]  
-- [[5. Mechanics/Optional Features/Clench Of The North Wind.md|Clench of the North Wind]]  
-- [[5. Mechanics/Optional Features/Elemental Attunement.md|Elemental Attunement]]  
-- [[5. Mechanics/Optional Features/Eternal Mountain Defense.md|Eternal Mountain Defense]]  
-- [[5. Mechanics/Optional Features/Fangs Of The Fire Snake.md|Fangs of the Fire Snake]]  
-- [[5. Mechanics/Optional Features/Fist Of Four Thunders.md|Fist of Four Thunders]]  
-- [[5. Mechanics/Optional Features/Unbroken Air.md|Unbroken Air]]  
-- [[5. Mechanics/Optional Features/Flames Of The Phoenix.md|Flames of the Phoenix]]  
-- [[5. Mechanics/Optional Features/Gong Of The Summit.md|Gong of the Summit]]  
-- [[5. Mechanics/Optional Features/Mist Stance.md|Mist Stance]]  
-- [[5. Mechanics/Optional Features/Ride The Wind.md|Ride the Wind]]  
-- [[5. Mechanics/Optional Features/River Of Hungry Flame.md|River of Hungry Flame]]  
-- [[5. Mechanics/Optional Features/Rush Of The Gale Spirits.md|Rush of the Gale Spirits]]  
-- [[5. Mechanics/Optional Features/Shape The Flowing River.md|Shape the Flowing River]]  
-- [[5. Mechanics/Optional Features/Sweeping Cinder Strike.md|Sweeping Cinder Strike]]  
-- [[5. Mechanics/Optional Features/Water Whip.md|Water Whip]]  
-- [[5. Mechanics/Optional Features/Wave Of Rolling Earth.md|Wave of Rolling Earth]]  
+- [[5. Mechanics/Optional Features/Breath Of Winter.md\|Breath of Winter]]  
+- [[5. Mechanics/Optional Features/Clench Of The North Wind.md\|Clench of the North Wind]]  
+- [[5. Mechanics/Optional Features/Elemental Attunement.md\|Elemental Attunement]]  
+- [[5. Mechanics/Optional Features/Eternal Mountain Defense.md\|Eternal Mountain Defense]]  
+- [[5. Mechanics/Optional Features/Fangs Of The Fire Snake.md\|Fangs of the Fire Snake]]  
+- [[5. Mechanics/Optional Features/Fist Of Four Thunders.md\|Fist of Four Thunders]]  
+- [[5. Mechanics/Optional Features/Unbroken Air.md\|Unbroken Air]]  
+- [[5. Mechanics/Optional Features/Flames Of The Phoenix.md\|Flames of the Phoenix]]  
+- [[5. Mechanics/Optional Features/Gong Of The Summit.md\|Gong of the Summit]]  
+- [[5. Mechanics/Optional Features/Mist Stance.md\|Mist Stance]]  
+- [[5. Mechanics/Optional Features/Ride The Wind.md\|Ride the Wind]]  
+- [[5. Mechanics/Optional Features/River Of Hungry Flame.md\|River of Hungry Flame]]  
+- [[5. Mechanics/Optional Features/Rush Of The Gale Spirits.md\|Rush of the Gale Spirits]]  
+- [[5. Mechanics/Optional Features/Shape The Flowing River.md\|Shape the Flowing River]]  
+- [[5. Mechanics/Optional Features/Sweeping Cinder Strike.md\|Sweeping Cinder Strike]]  
+- [[5. Mechanics/Optional Features/Water Whip.md\|Water Whip]]  
+- [[5. Mechanics/Optional Features/Wave Of Rolling Earth.md\|Wave of Rolling Earth]]  
 
 ### Extra Elemental Discipline (Level 6)
 
@@ -88,5 +88,5 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 ## Optional Features
 
 > [!example]- Elemental Discipline
-> ![[5. Mechanics/Optional Features/List Elemental Discipline.md#Elemental%20Discipline|Elemental Discipline]]
+> ![[5. Mechanics/Optional Features/List Elemental Discipline.md#Elemental%20Discipline\|Elemental Discipline]]
 ^list-elemental-discipline

@@ -59,8 +59,8 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
     \ Hit: 11 (dice: 2d4 + 6|avg (2d4 + 6)) force damage, and the target must\
     \ make a DC 17 Constitution saving throw, taking 22 (dice: 4d10|avg (4d10))\
     \ poison damage on a failed save, or half as much damage on a successful one.\
-    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
+    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success."
   "name": "Infernal Dagger"
@@ -72,17 +72,17 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
     \ (5d6)) acid damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Blindness. The target takes 5 (dice: 1d10|avg (1d10)) radiant\
     \ damage. In addition, the target and all other creatures within 20 feet of it\
-    \ must each make a successful DC 17 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ must each make a successful DC 17 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
     \ until the end of the orthon's next turn.  \n- Concussion. The target and\
     \ each creature within 20 feet of it must make a DC 17 Constitution saving throw,\
     \ taking 13 (dice: 2d12|avg (2d12)) thunder damage on a failed save, or half\
     \ as much damage on a successful one.  \n- Entanglement. The target must make\
-    \ a successful DC 17 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ a successful DC 17 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ for 1 hour by strands of sticky webbing. The target can escape by taking an\
     \ action to make a DC 17 Strength or Dexterity check and succeeding.  \n- Paralysis.\
     \ The target takes 22 (dice: 4d10|avg (4d10)) lightning damage and must make\
-    \ a successful DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] target\
+    \ a successful DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  \n- Tracking. For the next 24 hours, the orthon\
     \ knows the direction and distance to the target, as long as it's on the same\
@@ -90,8 +90,8 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
     \ which one, but not the exact location there.  "
   "name": "Brass Crossbow"
 "bonus_actions":
-- "desc": "The orthon becomes [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]].\
-    \ Any equipment it wears or carries is also [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The orthon becomes [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]].\
+    \ Any equipment it wears or carries is also [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
     \ as long as the equipment is on its person. This invisibility ends immediately\
     \ after it makes an attack roll or is hit by an attack roll."
   "name": "Invisibility Field (Recharge 4-6)"

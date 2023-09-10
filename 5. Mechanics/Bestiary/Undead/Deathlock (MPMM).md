@@ -52,11 +52,11 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "cr": "4"
 "traits":
 - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\n1/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Spider Climb.md|spider climb]]"
+    \ spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\n\n1/day each: [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
+    \ [[5. Mechanics/Spells/Hunger Of Hadar.md\|hunger of Hadar]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
+    \ [[5. Mechanics/Spells/Spider Climb.md\|spider climb]]"
   "name": "spells"
 - "desc": "The deathlock has advantage on saving throws against any effect that turns\
     \ Undead."

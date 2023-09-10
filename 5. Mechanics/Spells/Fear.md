@@ -23,10 +23,10 @@ aliases: ["Fear"]
 - **Components:** V, S, a white feather or the heart of a hen
 - **Duration:** Concentration, up to 1 minute
 
-You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for the duration.
+You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for the duration.
 
-While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] by this spell, a creature must take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
+While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] by this spell, a creature must take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Ranger Gloom Stalker (XGE).md\|Ranger (Gloom Stalker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 239. Available in the SRD.*

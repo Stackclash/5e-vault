@@ -19,7 +19,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]] spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]] spell.
 
 ## Elemental Nature
 
@@ -54,7 +54,7 @@ A water weird doesn't require air, food, drink, or sleep.
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"
 "traits":
-- "desc": "The water weird is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The water weird is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
     \ while fully immersed in water."
   "name": "Invisible in Water"
 - "desc": "The water weird dies if it leaves the water to which it is bound or if\
@@ -63,9 +63,9 @@ A water weird doesn't require air, food, drink, or sleep.
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
     \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3)) bludgeoning damage. If the target\
-    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
     \ (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple\
-    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ the water weird tries to drown it, and the water weird can't constrict another\
     \ target."
   "name": "Constrict"

@@ -29,6 +29,6 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 265. Available in the SRD.*

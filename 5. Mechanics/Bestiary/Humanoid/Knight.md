@@ -36,7 +36,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-- "desc": "The knight has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The knight has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]."
   "name": "Brave"
 "actions":
 - "desc": "The knight makes two melee attacks."
@@ -51,7 +51,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
     \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
     \ provided it can hear and understand the knight. A creature can benefit from\
-    \ only one Leadership die at a time. This effect ends if the knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ only one Leadership die at a time. This effect ends if the knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
 - "desc": "The knight adds 2 to its AC against one melee attack that would hit it.\

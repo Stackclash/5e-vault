@@ -14,7 +14,7 @@ aliases: ["Warhammer"]
 - **Damage**:
   - One-handed: 1d8 B
   - Two-handed: 1d10 B
-- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 2.0 lbs.
 

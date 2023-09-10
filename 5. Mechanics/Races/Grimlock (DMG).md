@@ -18,15 +18,15 @@ aliases: ["Grimlock (DMG)"]
 
 ### Blindsight
 
-You have no eyes, and cannot be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]. You can perceive your surroundings within 30 ft., or 10 ft. while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]. You are considered blind beyond this radius.
+You have no eyes, and cannot be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]. You can perceive your surroundings within 30 ft., or 10 ft. while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]. You are considered blind beyond this radius.
 
 ### Keen Hearing and Smell
 
-You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that rely on hearing or smell.
+You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing or smell.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] checks made to hide in rocky terrain.
+You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain.
 
 ### Languages
 

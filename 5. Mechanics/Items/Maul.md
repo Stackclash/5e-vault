@@ -13,7 +13,7 @@ aliases: ["Maul"]
 *Melee Weapon*  
 
 - **Damage**: 2d6 B
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.
 

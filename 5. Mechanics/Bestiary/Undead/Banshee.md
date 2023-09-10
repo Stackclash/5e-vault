@@ -70,8 +70,8 @@ A banshee doesn't require air, food, drink, or sleep.
     \ Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) necrotic damage."
   "name": "Corrupting Touch"
 - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target\
+    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] target\
     \ can repeat the saving throw at the end of each of its turns, with disadvantage\
     \ if the banshee is within line of sight, ending the effect on itself on a success.\
     \ If a target's saving throw is successful or the effect ends for it, the target\

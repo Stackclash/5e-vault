@@ -49,7 +49,7 @@ const config = {
                 return ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
             },
             target: 'content',
-            regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#*\^*[\-\w%]*)\s*"*([\w\d\s:&,'\.\(\)\-]*)"*\)/g,
+            regex: /\[([\w\s\d,:'\.\(\)\-]*?)\]\(([\w\s\d\/\.\-%\d]+)(#{0,1}\^{0,1}[\-\w%]*)\s{0,1}"{0,1}([\w\d\s:&,'\.\(\)\-]*?)"{0,1}\)/g,
             process: function(file, oldLink, displayText, linkPath, section, title) {
                 let filePath = path.parse(linkPath).dir
                 let fileName = path.parse(linkPath).name
@@ -66,9 +66,9 @@ const config = {
                 if(!displayText && !title) {
                     newLink = `[[${linkPath}${section}]]`
                 } else if (title) {
-                    newLink = `[[${linkPath}${section}|"${title}"]]`
+                    newLink = `[[${linkPath}${section}\\|"${title}"]]`
                 } else {
-                    newLink = `[[${linkPath}${section}|${displayText}]]`
+                    newLink = `[[${linkPath}${section}\\|${displayText}]]`
                 }
 
                 return newLink

@@ -14,6 +14,6 @@ aliases: ["Circlet of Blasting"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing this circlet, you can use an action to cast the [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]] spell with it. When you make the spell's attacks, you do so with an attack bonus of `dice: d20+5` (+5). The circlet can't be used this way again until the next dawn.
+While wearing this circlet, you can use an action to cast the [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] spell with it. When you make the spell's attacks, you do so with an attack bonus of `dice: d20+5` (+5). The circlet can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 158. Available in the SRD.*

@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Archer"]
 ---
 # Arcane Archer
-*[[nullFighter.md|Fighter]]: Martial Archetype*  
+*[[nullFighter.md\|Fighter]]: Martial Archetype*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 
@@ -19,13 +19,13 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 
 ### Arcane Archer Lore (Level 3)
 
-At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]] or the [[/5. Mechanics/Rules/Skills.md#Nature|Nature]] skill, and you choose to learn either the [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]] or the [[5. Mechanics/Spells/Druidcraft.md|druidcraft]] cantrip.
+At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or the [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]] skill, and you choose to learn either the [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] or the [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]] cantrip.
 
 ### Arcane Shot (Level 3)
 
 At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).
 
-Once per turn when you fire an arrow from a shortbow or longbow as part of the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
+Once per turn when you fire an arrow from a shortbow or longbow as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
 
 You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
 
@@ -68,5 +68,5 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 ## Optional Features
 
 > [!example]- Arcane Shot
-> ![[5. Mechanics/Optional Features/List Arcane Shot (XGE).md#Arcane%20Shot|Arcane Shot]]
+> ![[5. Mechanics/Optional Features/List Arcane Shot (XGE).md#Arcane%20Shot\|Arcane Shot]]
 ^list-arcane-shot

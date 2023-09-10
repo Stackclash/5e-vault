@@ -34,11 +34,11 @@ aliases: ["Clovin Belview"]
 "languages": "Common"
 "cr": "1/4"
 "traits":
-- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The mongrelfolk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
   "name": "Two-Headed"
 - "desc": "Clovin can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 12 Wisdom\

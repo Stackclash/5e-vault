@@ -20,10 +20,10 @@ This wand has 7 charges for the following properties. It regains `dice: 1d6 + 1|
 
 ## Spells
 
-While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): [[5. Mechanics/Spells/Hold Monster.md|") (5 charges"]] or [[5. Mechanics/Spells/Hold Person.md|") (2 charges"]].
+While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] (5 charges) or [[5. Mechanics/Spells/Hold Person.md\|hold person]] (2 charges).
 
 ## Assisted Escape
 
-While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
+While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] or [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
 
 *Source: Dungeon Master's Guide p. 209. Available in the SRD.*

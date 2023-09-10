@@ -53,10 +53,10 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "traits":
 - "desc": "The barghest casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-    \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ [[5. Mechanics/Spells/Levitate.md\|levitate]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]],\
+    \ [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
   "name": "spells"
 - "desc": "When the barghest starts its turn engulfed in flames that are at least\
     \ 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be\

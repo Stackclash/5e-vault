@@ -43,10 +43,10 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "cr": "2"
 "traits":
 - "desc": "The tortle casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-    \ [[5. Mechanics/Spells/Guidance.md|guidance]]\n\n2/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
-    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]],\
+    \ [[5. Mechanics/Spells/Guidance.md\|guidance]]\n\n2/day each: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]],\
+    \ [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]],\
+    \ [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]]"
   "name": "spells"
 - "desc": "The tortle can hold its breath for 1 hour."
   "name": "Hold Breath"
@@ -62,7 +62,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   "name": "Nature's Wrath"
 - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\
     \ to AC and has advantage on Strength and Constitution saving throws. While in\
-    \ its shell, the tortle is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], its\
+    \ its shell, the tortle is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], its\
     \ speed is 0 and can't increase, it has disadvantage on Dexterity saving throws,\
     \ it can't take reactions, and the only action it can take is a bonus action to\
     \ emerge."

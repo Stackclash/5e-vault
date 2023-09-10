@@ -38,8 +38,8 @@ aliases: ["Constrictor Snake"]
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 14"]]. Until\
-    \ this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 14). Until\
+    \ this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ and the snake can't constrict another target."
   "name": "Constrict"
 "source":

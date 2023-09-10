@@ -18,7 +18,7 @@ aliases: ["Goblin (DMG)"]
 
 ### Nimble Escape
 
-You can take the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]] or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action on each of your turns.
+You can take the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] or [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action on each of your turns.
 
 ### Darkvision
 

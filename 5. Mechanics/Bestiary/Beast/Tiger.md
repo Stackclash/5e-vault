@@ -34,13 +34,13 @@ aliases: ["Tiger"]
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The tiger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The tiger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the tiger can\
+    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the tiger can\
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":

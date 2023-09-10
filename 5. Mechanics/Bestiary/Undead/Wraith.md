@@ -62,7 +62,7 @@ A wraith doesn't require air, food, drink, or sleep.
     \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the wraith has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -74,8 +74,8 @@ A wraith doesn't require air, food, drink, or sleep.
     \ to 0."
   "name": "Life Drain"
 - "desc": "The wraith targets a humanoid within 10 feet of it that has been dead for\
-    \ no longer than 1 minute and died violently. The target's spirit rises as a [[5. Mechanics/Bestiary/Undead/Specter.md|specter]]\
-    \ in the space of its corpse or in the nearest unoccupied space. The [[5. Mechanics/Bestiary/Undead/Specter.md|specter]]\
+    \ no longer than 1 minute and died violently. The target's spirit rises as a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]]\
+    \ in the space of its corpse or in the nearest unoccupied space. The [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]]\
     \ is under the wraith's control. The wraith can have no more than seven specters\
     \ under its control at one time."
   "name": "Create Specter"

@@ -28,7 +28,7 @@ The wealthy family that built the house practiced the dark arts. Through seducti
 
 The cult tried to summon malevolent extraplanar entities with no success. The cultists also preyed on visitors, sacrificed them in bizarre rituals, and hosted morbid banquets to feast on their corpses. When nothing came of these ritualized murders, the cultists' activities became thinly disguised excuses to indulge their lurid fantasies. The ranks of the cult thinned as members began to lose interest in the debacle.
 
-Then [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]] arrived.
+Then [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] arrived.
 
 The cultists regarded Strahd as a messiah sent to them by the Dark Powers. Drawn to Strahd like moths to a flame, they pledged their devotion for a promise of immortality, but Strahd turned them away, deeming the cult and its leaders unworthy of his attention. The cultists withdrew to Death House in despair.
 
@@ -90,8 +90,8 @@ Characters who remain outside the house can see the mists close in around them, 
 The following areas correspond to labels on the map of the house below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.jpg#gallery|Map B.1: Death House]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.jpg#gallery\|Map B.1: Death House]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.jpg#gallery\|Player Version]]
 
 ### 1. Entrance
 
@@ -101,9 +101,9 @@ Hanging on the south wall of the foyer is a shield emblazoned with a coat-of-arm
 
 ### 2. Main Hall
 
-A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a [[5. Mechanics/Items/Longsword.md|") (nonmagical"]] with a windmill cameo worked into the hilt. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor.
+A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a [[5. Mechanics/Items/Longsword.md\|longsword]] (nonmagical) with a windmill cameo worked into the hilt. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor.
 
-A cloakroom (area 2B"]] has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.
+A cloakroom (area 2B) has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.
 
 ### 3. Den of Wolves
 
@@ -111,7 +111,7 @@ This oak-paneled room looks like a hunter's den. Mounted above the fireplace is 
 
 Two padded chairs draped in animal furs face the hearth, with an oak table between them supporting a cask of wine, two carved wooden goblets, a pipe rack, and a candelabrum. A chandelier hangs above a cloth-covered table surrounded by four chairs.
 
-Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a [[5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]], a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]], a [[5. Mechanics/Items/Hand Crossbow.md|hand crossbow]], and 20 [[5. Mechanics/Items/Crossbow Bolts-20.md|bolts]] for each weapon. The north cabinet is unlocked and holds a small box containing a [[5. Mechanics/Items/Playing Card Set.md|deck of playing cards]] and an assortment of wine glasses.
+Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a [[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]], a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]], a [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]], and 20 [[5. Mechanics/Items/Crossbow Bolts-20.md\|bolts]] for each weapon. The north cabinet is unlocked and holds a small box containing a [[5. Mechanics/Items/Playing Card Set.md\|deck of playing cards]] and an assortment of wine glasses.
 
 #### Trapdoor
 
@@ -125,13 +125,13 @@ The kitchen (area 4A) is tidy, with dishware, cookware, and utensils neatly plac
 
 Behind a small door in the southwest corner of the kitchen is a dumbwaiter—a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to areas 7A (the servants' quarters) and 12A (the master bedroom). Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas.
 
-A Small character can squeeze into the elevator box with a successful DC 10 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|")"]] check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
+A Small character can squeeze into the elevator box with a successful DC 10 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 
 ### 5. Dining Room
 
 The centerpiece of this wood-paneled dining room is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is covered with resplendent silverware and crystalware polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.
 
-The wall paneling is carved with elegant images of deer among the trees. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check, see twisted faces carved into the tree trunks and wolves lurking amid the carved foliage.
+The wall paneling is carved with elegant images of deer among the trees. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, see twisted faces carved into the tree trunks and wolves lurking amid the carved foliage.
 
 Red silk drapes cover the windows, and a tapestry depicting hunting dogs and horse-mounted aristocrats chasing after a wolf hangs from an iron rod bolted to the south wall.
 
@@ -141,7 +141,7 @@ The silverware tarnishes, the crystal cracks, the portrait fades, and the tapest
 
 Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a wood-framed portrait of the Durst family: Gustav and Elisabeth Durst with their two smiling children, Rose and Thorn. Cradled in the father's arms is a swaddled baby, which the mother regards with a hint of scorn.
 
-Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors are carved with dancing youths, although close inspection and a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check reveals that the youths aren't really dancing but fighting off swarms of bats.
+Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors are carved with dancing youths, although close inspection and a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals that the youths aren't really dancing but fighting off swarms of bats.
 
 The red marble staircase that started on the first floor continues its upward spiral to area 11. A cold draft can be felt coming down the steps.
 
@@ -168,15 +168,15 @@ The bookshelves hold hundreds of tomes covering a range of topics including hist
 
 #### Secret Door
 
-A secret door behind one bookshelf can be unlocked and swung open by pulling on a switch disguised to look like a red-covered book with a blank spine. A character inspecting the bookshelf spots the fake book with a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check. Unless the secret door is propped open, springs in the hinges cause it to close on its own. Beyond the secret door lies area 9.
+A secret door behind one bookshelf can be unlocked and swung open by pulling on a switch disguised to look like a red-covered book with a blank spine. A character inspecting the bookshelf spots the fake book with a successful DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. Unless the secret door is propped open, springs in the hinges cause it to close on its own. Beyond the secret door lies area 9.
 
 ### 9. Secret Room
 
-This secret room contains bookshelves packed with tomes describing fiend-summoning rituals and the necromantic rituals of a cult called the Priests of Osybus. The rituals are bogus, which any character can ascertain after studying the books for 1 hour and succeeding on a DC 12 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana|")"]] check.
+This secret room contains bookshelves packed with tomes describing fiend-summoning rituals and the necromantic rituals of a cult called the Priests of Osybus. The rituals are bogus, which any character can ascertain after studying the books for 1 hour and succeeding on a DC 12 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check.
 
 A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest is a skeleton in leather armor. Close inspection reveals that the skeleton belongs to a human who triggered a poisoned dart trap. Three darts are stuck in the dead adventurer's armor and ribcage. The dart-firing mechanism inside the chest no longer functions.
 
-Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
+Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
 
 > [!quote] ...
 > 
@@ -188,12 +188,12 @@ Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechan
 > 
 > Your dread lord and master,
 > 
-> [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]
+> [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
 ^6e5
 
 #### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each), three spell scrolls ([[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Protection From Poison.md|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md|")"]], the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
+The chest contains three blank books with black leather covers (worth 25 gp each), three spell scrolls ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 
 ### 10. Conservatory
 
@@ -203,13 +203,13 @@ A harpsichord with a bench rests in the northwest corner. Near the fireplace is 
 
 ### 11. Balcony
 
-Characters who climb the red marble staircase to its full height come to a dusty balcony with a suit of black plate armor standing against one wall, draped in cobwebs. This suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md|animated armor]] attacks as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed.
+Characters who climb the red marble staircase to its full height come to a dusty balcony with a suit of black plate armor standing against one wall, draped in cobwebs. This suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] attacks as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed.
 
-Oil lamps are mounted on the oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny critters. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check, notice tiny corpses hanging from the trees and worms bursting up from the ground.
+Oil lamps are mounted on the oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny critters. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, notice tiny corpses hanging from the trees and worms bursting up from the ground.
 
 #### Secret Door
 
-A secret door in the west wall can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
+A secret door in the west wall can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
 
 ### 12. Master Suite
 
@@ -233,21 +233,21 @@ This dark room contains a wooden tub with clawed feet, a small iron stove with a
 
 ### 14. Storage Room
 
-Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md|") (see appendix D"]] leans against the far wall; it attacks any creature approaching within 5 feet of it.
+Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
 
 ### 15. Nursemaid's Suite
 
 Dust and cobwebs shroud an elegantly appointed bedroom (area 15A) and an adjoining nursery (area 15B). Double doors set with panes of stained glass pull open to reveal a balcony (area 15C) overlooking the front of the house.
 
-The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair, which led to the birth of a stillborn baby named Walter. The cult slew the nursemaid shortly thereafter. Unless the characters already defeated it in area 18, the nursemaid's spirit haunts the bedroom as a [[5. Mechanics/Bestiary/Undead/Specter.md|specter]]. The specter manifests and attacks when a character opens the door to the nursery. The specter resembles a terrified, skeletally thin young woman; it can't speak or be reasoned with.
+The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair, which led to the birth of a stillborn baby named Walter. The cult slew the nursemaid shortly thereafter. Unless the characters already defeated it in area 18, the nursemaid's spirit haunts the bedroom as a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]]. The specter manifests and attacks when a character opens the door to the nursery. The specter resembles a terrified, skeletally thin young woman; it can't speak or be reasoned with.
 
-The bedroom contains a large bed, two end tables, and an empty wardrobe. Mounted on the wall next to the wardrobe is a full-length mirror with an ornate wooden frame carved to look like ivy and berries. Characters who search the wall for secret doors or otherwise inspect the mirror can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check, notice eyeballs among the berries. The wall behind the mirror has a secret door in it (see "Secret Door" below).
+The bedroom contains a large bed, two end tables, and an empty wardrobe. Mounted on the wall next to the wardrobe is a full-length mirror with an ornate wooden frame carved to look like ivy and berries. Characters who search the wall for secret doors or otherwise inspect the mirror can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, notice eyeballs among the berries. The wall behind the mirror has a secret door in it (see "Secret Door" below).
 
 The nursery contains a crib covered with a hanging black shroud. When characters part the shroud, they see a tightly wrapped, baby-sized bundle lying in the crib. Characters who unwrap the blanket find nothing inside it.
 
 #### Secret Door
 
-A secret door behind the mirror can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
+A secret door behind the mirror can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
 
 ### 16. Attic Hall
 
@@ -263,9 +263,9 @@ This dust-choked room contains a slender bed, a nightstand, a small iron stove, 
 
 ### 18. Storage Room
 
-This dusty chamber is packed with old furniture (chairs, coat racks, standing mirrors, dress mannequins, and the like), all draped in dusty white sheets. Near an iron stove, underneath one of the sheets, is an unlocked wooden trunk containing the skeletal remains of the family's nursemaid, wrapped in a tattered bedsheet stained with dry blood. A character inspecting the remains and succeeding on a DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|")"]] check can verify that the woman was stabbed to death by multiple knife wounds.
+This dusty chamber is packed with old furniture (chairs, coat racks, standing mirrors, dress mannequins, and the like), all draped in dusty white sheets. Near an iron stove, underneath one of the sheets, is an unlocked wooden trunk containing the skeletal remains of the family's nursemaid, wrapped in a tattered bedsheet stained with dry blood. A character inspecting the remains and succeeding on a DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check can verify that the woman was stabbed to death by multiple knife wounds.
 
-If the characters disturb the remains, the nursemaid's [[5. Mechanics/Bestiary/Undead/Specter.md|specter]] appears and attacks unless it was previously defeated in area 15.
+If the characters disturb the remains, the nursemaid's [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]] appears and attacks unless it was previously defeated in area 15.
 
 #### Secret Door
 
@@ -284,29 +284,29 @@ The door to this room is locked from the outside (see area 16 for details).
 > This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.
 ^6f9
 
-The Durst children, [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
+The Durst children, [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
 
-The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21"]].
+The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21).
 
 #### Rose and Thorn
 
-If either the dollhouse or the chest is disturbed, the ghosts of [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md|ghost]] statistics in the "Monster Manual", with the following modifications:
+If either the dollhouse or the chest is disturbed, the ghosts of [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
 - They have 35 (`dice: 10d6|avg` (`10d6`)) hit points each.  
 - They lack the Horrifying Visage action.  
 - They speak Common and have a challenge rating of 3 (700 XP).  
 
-The children don't like it when the characters disturb their toys, but they fight only in self-defense. Unlike the illusions outside the house, these children know that they're dead. If asked how they died, Rose and Thorn explain that their parents locked them in the attic to protect them from "the monster in the basement," and that they died from hunger. If asked how one gets to the basement, Rose points to the dollhouse and says, "There's a secret door in the attic." Characters who then search the dollhouse for secret doors gain advantage on their Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks to find them.
+The children don't like it when the characters disturb their toys, but they fight only in self-defense. Unlike the illusions outside the house, these children know that they're dead. If asked how they died, Rose and Thorn explain that their parents locked them in the attic to protect them from "the monster in the basement," and that they died from hunger. If asked how one gets to the basement, Rose points to the dollhouse and says, "There's a secret door in the attic." Characters who then search the dollhouse for secret doors gain advantage on their Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks to find them.
 
 The children fear abandonment. If one or more characters try to leave, the ghost-children attempt to possess them. If one of the ghosts possesses a character, allow the player to retain control of the character, but assign the character one of the following flaws:
 
 - A character possessed by Rose gains the following flaw: "I like being in charge and get angry when other people tell me what to do."  
 - A character possessed by Thorn gains the following flaw: "I'm scared of everything, including my own shadow, and weep with despair when things don't go my way."  
 
-A character possessed by the ghost of Rose or Thorn won't willingly leave Death House or the dungeon below it. Both ghosts can be intimidated into leaving their hosts with a successful DC 11 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation|")) check made as an action.
+A character possessed by the ghost of Rose or Thorn won't willingly leave Death House or the dungeon below it. Both ghosts can be intimidated into leaving their hosts with a successful DC 11 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check made as an action.
 
-A ghost reduced to 0 hit points can reform at dawn the next day. The only way to put the children's spirits to rest is to put their skeletal remains in their tombs (areas 23E and 23F"]]. The children don't know this, however.
+A ghost reduced to 0 hit points can reform at dawn the next day. The only way to put the children's spirits to rest is to put their skeletal remains in their tombs (areas 23E and 23F). The children don't know this, however.
 
 #### Development
 
@@ -325,7 +325,7 @@ Once the house wills the secret door into existence, characters find it automati
 
 > [!quote] Dungeon Features
 > 
-> The dungeon level underneath Death House is carved out of earth, clay, and rock. The tunnels are 4 feet wide by 7 feet high with timber braces at 5-foot intervals. Rooms are 8 feet tall and supported by thick wooden posts with crossbeams. The only exception is area 38, which has a 16-foot-high ceiling supported by stone pillars. Characters without [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] must provide their own light sources, as the dungeon is unlit.
+> The dungeon level underneath Death House is carved out of earth, clay, and rock. The tunnels are 4 feet wide by 7 feet high with timber braces at 5-foot intervals. Rooms are 8 feet tall and supported by thick wooden posts with crossbeams. The only exception is area 38, which has a 16-foot-high ceiling supported by stone pillars. Characters without [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] must provide their own light sources, as the dungeon is unlit.
 > 
 > As the characters explore the dungeon, they see centuries-old human footprints in the earthen floor leading every which way.
 ^dungeon-features
@@ -340,7 +340,7 @@ From the moment they arrive in the dungeon, the characters can hear an eerie, in
 
 ### 23. Family Crypts
 
-Several crypts have been hewn from the earth. Each crypt is sealed with a stone slab unless noted otherwise. Removing a slab from its fitting requires a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")"]] check; using a crowbar or the like grants advantage on the check.
+Several crypts have been hewn from the earth. Each crypt is sealed with a stone slab unless noted otherwise. Removing a slab from its fitting requires a successful DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check; using a crowbar or the like grants advantage on the check.
 
 #### 23A. Empty Crypt
 
@@ -356,19 +356,19 @@ The stone slab is etched with the name Gustav Durst. The chamber beyond contains
 
 #### 23D. Elisabeth's Crypt
 
-The stone slab is etched with the name Elisabeth Durst. The crypt contains a stone bier with an empty coffin atop it. A [[5. Mechanics/Bestiary/Beast/Swarm Of Centipedes.md|swarm of insects (centipedes)]] boils out of the back wall and attacks if the coffin is disturbed.
+The stone slab is etched with the name Elisabeth Durst. The crypt contains a stone bier with an empty coffin atop it. A [[5. Mechanics/Bestiary/Beast/Swarm Of Centipedes.md\|swarm of insects (centipedes)]] boils out of the back wall and attacks if the coffin is disturbed.
 
 #### 23E. Rose's Crypt
 
 The stone slab is etched with the name Rosavalda Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 #### 23F. Thorn's Crypt
 
 The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 ### 24. Cult Initiates' Quarters
 
@@ -390,11 +390,11 @@ This room's chest contains 11 gp and 60 sp in a pouch made of human skin.
 
 ##### 25B
 
-This room's chest contains three [[5. Mechanics/Items/Moss Agate.md|") (worth 10 gp each"]] in a folded piece of black cloth.
+This room's chest contains three [[5. Mechanics/Items/Moss Agate.md\|moss agates]] (worth 10 gp each) in a folded piece of black cloth.
 
 ##### 25C
 
-This room's chest contains a black leather eyepatch with a [[5. Mechanics/Items/Carnelian.md|") (worth 50 gp"]] sewn into it.
+This room's chest contains a black leather eyepatch with a [[5. Mechanics/Items/Carnelian.md\|carnelian]] (worth 50 gp) sewn into it.
 
 ##### 25D
 
@@ -402,11 +402,11 @@ This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp)
 
 ##### 25E
 
-This room's chest contains a silvered [[5. Mechanics/Items/Shortsword.md|") (worth 110 gp"]].
+This room's chest contains a silvered [[5. Mechanics/Items/Shortsword.md\|shortsword]] (worth 110 gp).
 
 ### 26. Hidden Spiked Pit
 
-The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#prone|prone]] and taking 3 (`dice: 1d6|avg` (`1d6`)) bludgeoning damage from the fall plus 11 (`dice: 2d10|avg` (`2d10`)) piercing damage from the spikes.
+The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and taking 3 (`dice: 1d6|avg` (`1d6`)) bludgeoning damage from the fall plus 11 (`dice: 2d10|avg` (`2d10`)) piercing damage from the spikes.
 
 ### 27. Dining Hall
 
@@ -416,11 +416,11 @@ In the middle of the south wall is a darkened alcove (area 28). Characters who a
 
 ### 28. Larder
 
-This alcove contains a [[5. Mechanics/Bestiary/Monstrosity/Grick.md|grick]] that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] score under 12 is surprised by it. The alcove is otherwise empty.
+This alcove contains a [[5. Mechanics/Bestiary/Monstrosity/Grick.md\|grick]] that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score under 12 is surprised by it. The alcove is otherwise empty.
 
 ### 29. Ghoulish Encounter
 
-The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four [[5. Mechanics/Bestiary/Undead/Ghoul.md|") (former cultists"]] rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
+The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] (former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
 
 ### 30. Stairs Down
 
@@ -435,17 +435,17 @@ It's obvious to any character standing at the top of this 20-foot-long staircase
 > The room has exits in the west and north walls. Chanting can be heard coming from the west.
 ^717
 
-The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five [[5. Mechanics/Bestiary/Undead/Shadow.md|") form around the statue and attack them. The shadows (the spirits of former cultists"]] pursue those who flee beyond the room's confines.
+The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
 
 The skeletons on the wall are harmless decor.
 
 #### Concealed Door
 
-Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")) check. It's basically an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area 32"]].
+Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. It's basically an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area 32).
 
 #### Treasure
 
-The [[5. Mechanics/Items/Orb.md|crystal orb]] is worth 25 gp. It can be used as an arcane focus but is not magical.
+The [[5. Mechanics/Items/Orb.md\|crystal orb]] is worth 25 gp. It can be used as an arcane focus but is not magical.
 
 ### 32. Hidden Trapdoor
 
@@ -457,7 +457,7 @@ Once the trapdoor has been found and opened, it remains available to characters 
 
 ### 33. Cult Leaders' Den
 
-The door in the southwest corner is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md|mimic]] in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
+The door in the southwest corner is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
 
 A chandelier is suspended above a table in the middle of the room. Two high-backed chairs flank the table, which has an empty clay jug and two clay flagons atop it. Iron candlesticks stand in two corners, their candles long since melted away.
 
@@ -465,15 +465,15 @@ A chandelier is suspended above a table in the middle of the room. Two high-back
 
 This room contains a large wood-framed bed with a rotted feather mattress, a wardrobe containing several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. At the foot of the bed is an unlocked wooden footlocker containing some gear and magic items (see "Treasure" below).
 
-Two [[5. Mechanics/Bestiary/Undead/Ghast.md|") (Gustav and Elisabeth Durst"]] are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
+Two [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] (Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
 
 #### Treasure
 
-Characters searching the footlocker find a folded [[5. Mechanics/Items/Cloak Of Protection.md|"), a small wooden coffer (unlocked"]] containing four [[5. Mechanics/Items/Potion Of Healing.md|potions of healing]], a [[5. Mechanics/Items/Chain Shirt.md|chain shirt]], a [[5. Mechanics/Items/Mess Kit.md|mess kit]], a [[5. Mechanics/Items/Alchemists Fire Flask.md|flask of alchemist's fire]], a [[5. Mechanics/Items/Bullseye Lantern.md|bullseye lantern]], a [[5. Mechanics/Items/Thieves Tools.md|set of thieves' tools]], and a [[5. Mechanics/Items/Spellbook.md|spellbook]] with a yellow leather cover containing the following wizard spells:
+Characters searching the footlocker find a folded [[5. Mechanics/Items/Cloak Of Protection.md\|cloak of protection]], a small wooden coffer (unlocked) containing four [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]], a [[5. Mechanics/Items/Chain Shirt.md\|chain shirt]], a [[5. Mechanics/Items/Mess Kit.md\|mess kit]], a [[5. Mechanics/Items/Alchemists Fire Flask.md\|flask of alchemist's fire]], a [[5. Mechanics/Items/Bullseye Lantern.md\|bullseye lantern]], a [[5. Mechanics/Items/Thieves Tools.md\|set of thieves' tools]], and a [[5. Mechanics/Items/Spellbook.md\|spellbook]] with a yellow leather cover containing the following wizard spells:
 
-1st level: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]
+1st level: [[5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]]
 
-2nd level: [[5. Mechanics/Spells/Darkvision.md|darkvision]], [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]
+2nd level: [[5. Mechanics/Spells/Darkvision.md\|darkvision]], [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]
 
 These items were taken from adventurers who were drawn into Barovia, captured, and killed by the cult.
 
@@ -489,7 +489,7 @@ The cult amassed several "relics" that it used in its rituals. These worthless i
 - An 8-inch-diameter varnished orb made from a nothic's eye  
 - An aspergillum carved from bone  
 - A folded cloak made from stitched ghoul skin  
-- A desiccated frog lashed to a stick (could be mistaken for a [[5. Mechanics/Items/Wand Of Polymorph.md|"))  
+- A desiccated frog lashed to a stick (could be mistaken for a [[5. Mechanics/Items/Wand Of Polymorph.md\|wand of polymorph]])  
 - A bag full of bat guano  
 - A hag's severed finger  
 - A 6-inch-tall wooden figurine of a mummy, its arms crossed over its chest  
@@ -497,7 +497,7 @@ The cult amassed several "relics" that it used in its rituals. These worthless i
 - The shrunken, shriveled head of a halfling  
 - A small wooden coffer containing a dire wolf's withered tongue  
 
-The southernmost tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis (area 37"]].
+The southernmost tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis (area 37).
 
 ### 36. Prison
 
@@ -505,7 +505,7 @@ The cultists shackled prisoners to the back walls of alcoves here. The prisoners
 
 #### Secret Door
 
-A secret door in the south wall can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check and pulls open to reveal area 38 beyond.
+A secret door in the south wall can be found with a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check and pulls open to reveal area 38 beyond.
 
 #### Treasure
 
@@ -513,7 +513,7 @@ Hanging on the back wall of the cell marked X on the map is a human skeleton cla
 
 ### 37. Portcullis
 
-This tunnel is blocked by a rusty iron portcullis that can be forcibly lifted with a successful DC 20 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")) check. Otherwise, the portcullis can be raised or lowered by turning a wooden wheel half-embedded in the east wall of area 38. (The wheel is beyond the reach of someone east of the portcullis."]] The floor around the portcullis is submerged under 2 feet of murky water.
+This tunnel is blocked by a rusty iron portcullis that can be forcibly lifted with a successful DC 20 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Otherwise, the portcullis can be raised or lowered by turning a wooden wheel half-embedded in the east wall of area 38. (The wheel is beyond the reach of someone east of the portcullis.) The floor around the portcullis is submerged under 2 feet of murky water.
 
 ### 38. Ritual Chamber
 
@@ -528,7 +528,7 @@ The water is 2 feet deep. The ledges and central dais are 5 feet high (3 feet hi
 
 Half embedded in the east wall is a wooden wheel connected to hidden chains and mechanisms. A character can use an action to turn the wheel, raising or lowering the nearby portcullis (see area 37).
 
-The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a [[5. Mechanics/Bestiary/Plant/Shambling Mound.md|shambling mound]], which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature|")"]] check.
+The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]], which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check.
 
 #### "One Must Die!"
 
@@ -543,7 +543,7 @@ If any character climbs to the top of the dais, read:
 
 The apparitions are harmless figments that can't be damaged, turned, or dispelled.
 
-Characters on the dais when the cultists appear must sacrifice a creature on the altar or face the cult's wrath; characters can ascertain what must be done with a successful DC 11 Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion|")"]] or Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]] check. To count as a sacrifice, a creature must die on the altar. The apparitions don't care what kind of creature is sacrificed, and they aren't fooled by illusions.
+Characters on the dais when the cultists appear must sacrifice a creature on the altar or face the cult's wrath; characters can ascertain what must be done with a successful DC 11 Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check. To count as a sacrifice, a creature must die on the altar. The apparitions don't care what kind of creature is sacrificed, and they aren't fooled by illusions.
 
 If the characters make the sacrifice, the cultists fade away, but their tireless chant of "He is the Ancient. He is the Land," echoes again in the dungeon. Strahd is aware of the sacrifice, and Death House now does nothing to hinder the characters (see "Endings" below).
 
@@ -562,8 +562,8 @@ Death House harbors no ill will toward a party willing to sacrifice a life to ap
 If the characters deny the cult its sacrifice and either destroy the shambling mound or escape from it, Death House attacks them as they try to leave. When they return upstairs, they must roll initiative as they discover several architectural changes:
 
 - All the windows are bricked up; the bricked-up windows and the outer walls are impervious to the party's weapon attacks and damage-dealing spells.  
-- All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|")"]] check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice: 2d10|avg` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
+- All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice: 2d10|avg` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
 - Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice: 1d10|avg` (`1d10`) poison damage.  
-- The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")"]] check. Each 5-foot section of wall that's destroyed causes a [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarm of rats]] to pour out and attack. The swarm won't leave the house.  
+- The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Each 5-foot section of wall that's destroyed causes a [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarm of rats]] to pour out and attack. The swarm won't leave the house.  
 
 Keep track of initiative as the characters make their way through the house. Once they escape, they advance to 3rd level, and the house does no more to harm them.

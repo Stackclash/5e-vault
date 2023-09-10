@@ -33,10 +33,10 @@ The Book of Vile Darkness remains with you only as long as you strive to work ev
 
 The Book of Vile Darkness has the following random properties:
 
-- 3 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md|minor beneficial properties]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md|major beneficial property]]  
-- 3 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md|minor detrimental properties]]  
-- 2 [[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md|major detrimental properties]]  
+- 3 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial properties]]  
+- 1 [[5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|major beneficial property]]  
+- 3 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental properties]]  
+- 2 [[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental properties]]  
 
 ## Adjusted Ability Scores
 
@@ -44,11 +44,11 @@ After you spend the requisite amount of time reading and studying the book, one 
 
 ## Mark of Darkness
 
-After you spend the requisite amount of time reading and studying the book, you acquire a physical disfigurement as a hideous sign of your devotion to vile darkness. An evil rune might appear on your face, your eyes might become glossy black, or horns might sprout from your forehead. Or you might become wizened and hideous, lose all facial features, gain a forked tongue, or some other feature the DM chooses. The mark of darkness grants you advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|")"]] checks made to interact with evil creatures and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation|")"]] checks made to interact with non-evil creatures.
+After you spend the requisite amount of time reading and studying the book, you acquire a physical disfigurement as a hideous sign of your devotion to vile darkness. An evil rune might appear on your face, your eyes might become glossy black, or horns might sprout from your forehead. Or you might become wizened and hideous, lose all facial features, gain a forked tongue, or some other feature the DM chooses. The mark of darkness grants you advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to interact with evil creatures and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks made to interact with non-evil creatures.
 
 ## Command Evil
 
-While you are attuned to the book and holding it, you can use an action to cast the [[5. Mechanics/Spells/Dominate Monster.md|") spell on an evil target (save DC 18"]]. You can't use this property again until the next dawn.
+While you are attuned to the book and holding it, you can use an action to cast the [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] spell on an evil target (save DC 18). You can't use this property again until the next dawn.
 
 ## Dark Lore
 
@@ -62,7 +62,7 @@ While you carry the Book of Vile Darkness and are attuned to it, you can use an 
 
 The Book of Vile Darkness allows pages to be torn from it, but any evil lore contained on those pages finds its way back into the book eventually, usually when a new author adds pages to the tome.
 
-If a [[5. Mechanics/Bestiary/Celestial/Solar.md|solar]] tears the book in two, the book is destroyed for `dice: 1d100|avg` (`1d100`) years, after which it reforms in some dark corner of the multiverse.
+If a [[5. Mechanics/Bestiary/Celestial/Solar.md\|solar]] tears the book in two, the book is destroyed for `dice: 1d100|avg` (`1d100`) years, after which it reforms in some dark corner of the multiverse.
 
 A creature attuned to the book for one hundred years can unearth a phrase hidden in the original text that, when translated to Celestial and spoken aloud, destroys both the speaker and the book in a blinding flash of radiance. However, as long as evil exists in the multiverse, the book reforms `1d10 × 100` years later.
 

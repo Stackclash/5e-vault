@@ -59,7 +59,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
   "name": "Longbow"
 - "desc": "If the commander has taken damage during this combat, it gives itself advantage\
     \ on attack rolls until the end of its next turn, and dice: 1d4 + 1|avg (1d4\
-    \ + 1) [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior (MPMM).md|sword wraith warriors]]\
+    \ + 1) [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior (MPMM).md\|sword wraith warriors]]\
     \ appear in unoccupied spaces within 30 feet of it. The warriors last until they\
     \ drop to 0 hit points, and they take their turns immediately after the commander's\
     \ turn on the same initiative count."

@@ -28,7 +28,7 @@ The fire wreathing a flameskull burns continually, giving off bright light that 
 
 ## Eldritch Rejuvenation
 
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]] or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
 
 ## Undead Nature
 
@@ -63,11 +63,11 @@ A flameskull doesn't require air, food, drink, or sleep
 - "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks).\
     \ It requires no somatic or material components to cast its spells. The flameskull\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
-    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 2nd-level slots):\
-    \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\
-    \n3rd level (1 3rd-level slots): [[5. Mechanics/Spells/Fireball.md|fireball]]"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\n\
+    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Magic Missile.md\|magic missile]],\
+    \ [[5. Mechanics/Spells/Shield.md\|shield]]\n\n2nd level (2 2nd-level slots):\
+    \ [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]]\n\
+    \n3rd level (1 3rd-level slots): [[5. Mechanics/Spells/Fireball.md\|fireball]]"
   "name": "spells"
 - "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright light\
     \ in a 15-foot radius and dim light for an additional 15 feet. It can switch between\
@@ -77,8 +77,8 @@ A flameskull doesn't require air, food, drink, or sleep
     \ magical effects."
   "name": "Magic Resistance"
 - "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
-    \ unless holy water is sprinkled on its remains or a [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\
-    \ or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on them."
+    \ unless holy water is sprinkled on its remains or a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]\
+    \ or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell is cast on them."
   "name": "Rejuvenation"
 "actions":
 - "desc": "The flameskull uses Fire Ray twice."

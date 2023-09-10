@@ -42,9 +42,9 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "traits":
 - "desc": "As long as it has more than half of its hit points remaining, the swarm\
     \ casts one of the following spells, requiring no spell components and using Intelligence\
-    \ as the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]]"
+    \ as the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Command.md\|command]],\
+    \ [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]]"
   "name": "spells"
 - "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
     \ can move through any opening large enough for a Tiny rat. The swarm can't regain\

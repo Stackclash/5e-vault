@@ -83,7 +83,7 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
     \ diseased. The disease has no effect for 1 minute and can be removed by any magic\
     \ that cures disease. After 1 minute, the diseased creature's skin becomes translucent\
     \ and slimy, the creature can't regain hit points unless it is underwater, and\
-    \ the disease can be removed only by [[5. Mechanics/Spells/Heal.md|heal]] or another\
+    \ the disease can be removed only by [[5. Mechanics/Spells/Heal.md\|heal]] or another\
     \ disease-curing spell of 6th level or higher. When the creature is outside a\
     \ body of water, it takes 6 (dice: 1d12|avg (1d12)) acid damage every 10 minutes\
     \ unless moisture is applied to the skin before 10 minutes have passed."
@@ -92,23 +92,23 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
     \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) bludgeoning damage."
   "name": "Tail"
 - "desc": "The aboleth targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ by the aboleth until the aboleth dies or until it is on a different plane of\
-    \ existence from the target. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ existence from the target. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ target is under the aboleth's control and can't take reactions, and the aboleth\
     \ and the target can communicate telepathically with each other over any distance.\n\
-    \nWhenever the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target takes\
+    \nWhenever the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target takes\
     \ damage, the target can repeat the saving throw. On a success, the effect ends.\
     \ No more than once every 24 hours, the target can also repeat the saving throw\
     \ when it is at least 1 mile away from the aboleth."
   "name": "Enslave (3/Day)"
 "legendary_actions":
-- "desc": "The aboleth makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The aboleth makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ check."
   "name": "Detect"
 - "desc": "The aboleth makes one tail attack."
   "name": "Tail Swipe"
-- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the\
+- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by the\
     \ aboleth takes 10 (dice: 3d6|avg (3d6)) psychic damage, and the aboleth regains\
     \ hit points equal to the damage the creature takes."
   "name": "Psychic Drain (Costs 2 Actions)"

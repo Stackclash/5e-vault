@@ -47,12 +47,12 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
-- "desc": "Attack rolls against the quickling have disadvantage unless it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "Attack rolls against the quickling have disadvantage unless it is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
     \ or its speed is 0."
   "name": "Blurred Movement"
 - "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-    \ on the saving throw and only half damage if it fails, provided it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ on the saving throw and only half damage if it fails, provided it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Evasion"
 "actions":
 - "desc": "The quickling makes three Dagger attacks."

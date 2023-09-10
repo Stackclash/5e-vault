@@ -14,7 +14,7 @@ aliases: ["Javelin of Lightning"]
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 

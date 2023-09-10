@@ -76,17 +76,17 @@ aliases: ["Ranger"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Strength, Dexterity
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 3 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[5. Mechanics/Items/Scale Mail.md|") or (b"]] [[5. Mechanics/Items/Leather Armor.md|")  
-- (a"]] two [[5. Mechanics/Items/Shortsword.md|") or (b) two simple melee weapons  
-- (a"]] a [[5. Mechanics/Items/Dungeoneers Pack.md|") or (b"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- A [[5. Mechanics/Items/Longbow.md|longbow]] and a [[5. Mechanics/Items/Quiver.md|quiver]] of [[5. Mechanics/Items/Arrows-20.md|20 arrows]]  
+- (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]]  
+- (a) two [[5. Mechanics/Items/Shortsword.md\|shortswords]] or (b) two simple melee weapons  
+- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
+- A [[5. Mechanics/Items/Longbow.md\|longbow]] and a [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows-20.md\|20 arrows]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Ranger, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 1 from *Animal Handling*, *Athletics*, *Insight*, *Investigation*, *Nature*, *Perception*, *Stealth*, *Survival*
@@ -134,7 +134,7 @@ What's the source of your particular hatred of a certain kind of enemy? Did a mo
 
 #### Quick Build
 
-You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the [[5. Mechanics/Backgrounds/Outlander.md|outlander]] background.
+You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the [[5. Mechanics/Backgrounds/Outlander.md\|outlander]] background.
 
 > [!quote]- A quote from Soveliss  
 > 
@@ -209,9 +209,9 @@ What spurred your character to select a particular enemy? Was the choice made be
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|gnolls]] and [[5. Mechanics/Bestiary/Humanoid/Orc.md|")"]] as favored enemies.
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] and [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]) as favored enemies.
 
-You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival|")"]] checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
@@ -236,10 +236,10 @@ You choose additional favored terrain types at 6th and 10th level.
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-- [[5. Mechanics/Optional Features/Archery.md|Archery]]  
-- [[5. Mechanics/Optional Features/Defense.md|Defense]]  
-- [[5. Mechanics/Optional Features/Dueling.md|Dueling]]  
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md|Two-Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Archery.md\|Archery]]  
+- [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
+- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
 
 ### Spellcasting (Level 2)
 
@@ -249,7 +249,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] using either slot.
+For example, if you know the 1st-level spell [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -283,7 +283,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 ### Favored Enemy and Natural Explorer improvements (Level 6)
 
@@ -305,13 +305,13 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[5. Mechanics/Spells/Entangle.md|entangle]] spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell.
 
 ### Hide in Plain Sight (Level 10)
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
 ### Natural Explorer improvement (Level 10)
 
@@ -329,7 +329,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Vanish (Level 14)
 
-Starting at 14th level, you can use the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+Starting at 14th level, you can use the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
 ### Favored Enemy improvement (Level 14)
 
@@ -347,7 +347,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Feral Senses (Level 18)
 
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] or [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]].
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] or [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]].
 
 ### Ability Score Improvement (Level 19)
 

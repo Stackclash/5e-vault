@@ -48,15 +48,15 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "cr": "15"
 "traits":
 - "desc": "The skull, lord casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 18):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Message.md|message]]\n\n1/day each: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]]\n\n2/day each: [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Fear.md|fear]]"
+    \ spellcasting ability (spell save DC 18):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Message.md\|message]]\n\n1/day each: [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]],\
+    \ [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]]\n\n2/day each: [dimension\
+    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Fear.md\|fear]]"
   "name": "spells"
 - "desc": "If the skull lord is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half the damage, the skull lord instead takes no damage\
     \ if it succeeds on the saving throw and only half damage if it fails, provided\
-    \ it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ it isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Evasion"
 - "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -81,8 +81,8 @@ Infighting and treachery brought skull lords into existence. The first of them a
   "name": "Attack"
 - "desc": "The skull lord moves up to its speed without provoking opportunity attacks."
   "name": "Move"
-- "desc": "The skull lord summons up to five [[5. Mechanics/Bestiary/Undead/Skeleton.md|skeletons]]\
-    \ or [[5. Mechanics/Bestiary/Undead/Zombie.md|zombies]] in unoccupied spaces within\
+- "desc": "The skull lord summons up to five [[5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]]\
+    \ or [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] in unoccupied spaces within\
     \ 30 feet of it. They remain until destroyed. Undead summoned in this way roll\
     \ initiative, act in the next available turn, and obey the skull lord. The skull\
     \ lord can have no more than five Undead summoned by this ability at a time."

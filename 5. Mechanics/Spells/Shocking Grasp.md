@@ -23,6 +23,6 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 The spell's damage increases by `dice: 1d8|avg` (`1d8`) when you reach 5th level (`dice: 2d8|avg` (`2d8`)), 11th level (`dice: 3d8|avg` (`3d8`)), and 17th level (`dice: 4d8|avg` (`4d8`)).
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 275. Available in the SRD and the Basic Rules.*

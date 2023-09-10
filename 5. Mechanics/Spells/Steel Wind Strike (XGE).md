@@ -21,6 +21,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
-**Classes**: [[5. Mechanics/Classes/Ranger.md|Ranger]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 166*

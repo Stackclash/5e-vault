@@ -17,7 +17,7 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[5. Mechanics/Bestiary/Giant/Ogre.md|ogres]] and [[5. Mechanics/Bestiary/Giant/Troll.md|")"]], ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] and [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]]), ruling them through brute strength, insults, and superstition.
 
 ## Iron Token
 
@@ -54,8 +54,8 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 "cr": "6"
 "traits":
 - "desc": "The hag casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 13):\n\n3/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\
-    \ (including the form of a Medium Humanoid), [[5. Mechanics/Spells/Fog Cloud.md|Fog cloud]]"
+    \ ability (spell save DC 13):\n\n3/day each: [[5. Mechanics/Spells/Disguise Self.md\|disguise self]]\
+    \ (including the form of a Medium Humanoid), [[5. Mechanics/Spells/Fog Cloud.md\|Fog cloud]]"
   "name": "spells"
 "actions":
 - "desc": "The annis makes one Bite attack and two Claw attacks."
@@ -68,7 +68,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
     \ Hit: 36 (dice: 9d6 + 5|avg (9d6 + 5)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 15"]] if it\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 15) if it\
     \ is a Large or smaller creature. Until the grapple ends, the target takes 36\
     \ (dice: 9d6 + 5|avg (9d6 + 5)) bludgeoning damage at the start of each of\
     \ the hag's turns. The hag can't make attacks while grappling a creature in this\

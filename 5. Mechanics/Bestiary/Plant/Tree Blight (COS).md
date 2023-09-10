@@ -52,8 +52,8 @@ A tree blight will often fight alongside other kinds of blights, but it hates ot
     \ Hit: 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning damage."
   "name": "Branch"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one creature\
-    \ not [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the blight. Hit:\
-    \ The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC\
+    \ not [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by the blight. Hit:\
+    \ The target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC\
     \ 15). Until the grapple ends, the target takes 9 (dice: 1d6 + 6|avg (1d6 +\
     \ 6)) bludgeoning damage at the start of each of its turns. The root has AC 15\
     \ and can be severed by dealing 6 slashing damage or more to it at once. Cutting\
@@ -61,7 +61,7 @@ A tree blight will often fight alongside other kinds of blights, but it hates ot
   "name": "Grasping Root"
 "bonus_actions":
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the blight. Hit: 19\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by the blight. Hit: 19\
     \ (dice: 3d8 + 6|avg (3d8 + 6)) piercing damage."
   "name": "Bite"
 "source":

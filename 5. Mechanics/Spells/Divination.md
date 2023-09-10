@@ -27,6 +27,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25% chance chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 234. Available in the SRD and the Basic Rules.*

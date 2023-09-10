@@ -27,7 +27,7 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [[/5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a radius of 10 feet and [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] with a radius of 60 feet.
+The half-dragon gains [[/5. Mechanics/Rules/Senses.md#blindsight\|blindsight]] with a radius of 10 feet and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] with a radius of 60 feet.
 
 ### Resistances
 
@@ -59,7 +59,7 @@ The half-dragon has the breath weapon of its dragon half. The half-dragon's size
 
 ### Sample Half-Dragon
 
-Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiary/Humanoid/Veteran.md|veteran]] to create a half-red dragon veteran. [[5. Mechanics/Items/Splint Armor.md|Splint armor]] has been replaced with [[5. Mechanics/Items/Plate Armor.md|plate]].
+Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]] to create a half-red dragon veteran. [[5. Mechanics/Items/Splint Armor.md\|Splint armor]] has been replaced with [[5. Mechanics/Items/Plate Armor.md\|plate]].
 
 ```statblock
 "name": "Half-Red Dragon Veteran"

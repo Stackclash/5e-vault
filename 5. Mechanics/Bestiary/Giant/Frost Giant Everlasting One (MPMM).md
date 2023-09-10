@@ -45,11 +45,11 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "cr": "12"
 "traits":
 - "desc": "The giant has a 25% chance chance of having more than one head. If it has\
-    \ more than one, it has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+    \ more than one, it has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
   "name": "Extra Heads"
 - "desc": "The giant regains 10 hit points at the start of its turn. If the giant\
     \ takes acid or fire damage, this trait doesn't function at the start of its next\
@@ -68,7 +68,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
   "name": "Rock"
 "bonus_actions":
 - "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. While raging,\
+    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. While raging,\
     \ the giant gains the following benefits:\n\n- The giant has advantage on Strength\
     \ checks and Strength saving throws.  \n- When it makes a melee weapon attack,\
     \ the giant gains a +4 bonus to the damage roll.  \n- The giant has resistance\

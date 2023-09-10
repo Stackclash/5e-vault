@@ -38,11 +38,11 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Artificer's Lore
 
-Whenever you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#History|")"]] check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+Whenever you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
 ### Tinker
 
-You have proficiency with artisan's tools ([[5. Mechanics/Items/Tinkers Tools.md|")). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning"]], or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+You have proficiency with artisan's tools ([[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]]). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
 
 When you create a device, choose one of the following options:
 

@@ -30,11 +30,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception|Perception]] skill.
+You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and magic can't put you to sleep.
+You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and magic can't put you to sleep.
 
 ### Trance
 
@@ -49,7 +49,7 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [[5. Mechanics/Items/Longsword.md|longsword]], [[5. Mechanics/Items/Shortsword.md|shortsword]], [[5. Mechanics/Items/Shortbow.md|shortbow]], and [[5. Mechanics/Items/Longbow.md|longbow]].
+You have proficiency with the [[5. Mechanics/Items/Longsword.md\|longsword]], [[5. Mechanics/Items/Shortsword.md\|shortsword]], [[5. Mechanics/Items/Shortbow.md\|shortbow]], and [[5. Mechanics/Items/Longbow.md\|longbow]].
 
 ### Fleet of Foot
 

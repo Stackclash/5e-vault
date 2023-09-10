@@ -10,15 +10,15 @@ aliases: ["Chapter 11: Van Richten's Tower"]
 
 One of the men employed by Strahd to raise Castle Ravenloft was an archwizard named Khazan. After his work on the castle was complete, Khazan retired to the Barovian valley and built a tower for himself on a small island on Lake Baratok. With the help of some engineers and laborers, he also built an earth-and-gravel causeway connecting the island with the nearby shore.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/104-cos11-01.png#center|")
+![[6. Resources/5e Modules/Curse Of Strahd/img/104-cos11-01.png#center]]
 
-In his waning years, Khazan visited the Amber Temple (chapter 13"]] and discovered the secret to becoming a lich. He returned to his tower and was able to complete the transformation. Some years later, after Strahd became a vampire, Khazan paid a visit to Castle Ravenloft with the notion of challenging Strahd for rulership of Barovia. Instead, much to Khazan's surprise, Strahd persuaded him to serve as an advisor in matters of magic. When not advising Strahd, the lich spent most of his time in the Amber Temple, trying to master the secret of demilichdom in the hope of finding a way to magically project his spirit beyond the confines of Strahd's realm. His efforts failed, and Khazan destroyed himself. His remains lie entombed in the catacombs of Ravenloft.
+In his waning years, Khazan visited the Amber Temple (chapter 13) and discovered the secret to becoming a lich. He returned to his tower and was able to complete the transformation. Some years later, after Strahd became a vampire, Khazan paid a visit to Castle Ravenloft with the notion of challenging Strahd for rulership of Barovia. Instead, much to Khazan's surprise, Strahd persuaded him to serve as an advisor in matters of magic. When not advising Strahd, the lich spent most of his time in the Amber Temple, trying to master the secret of demilichdom in the hope of finding a way to magically project his spirit beyond the confines of Strahd's realm. His efforts failed, and Khazan destroyed himself. His remains lie entombed in the catacombs of Ravenloft.
 
 Khazan's tower stood empty for ages, it seemed, and would have collapsed under the weight of neglect were it not for the magic wards placed on it long ago. Recently, the tower was taken over by the legendary vampire hunter Rudolph van Richten, who used it as a base from which to explore Barovia. He has since relocated to the nearby town of Vallaki, where he hides in plain sight.
 
-Following in the vampire hunter's footsteps is his protégé, [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]], who has taken to living in the tower while she searches for her mentor. She isn't present when the characters arrive, however.
+Following in the vampire hunter's footsteps is his protégé, [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]], who has taken to living in the tower while she searches for her mentor. She isn't present when the characters arrive, however.
 
-> [!quote]- A quote from [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]  
+> [!quote]- A quote from [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]  
 > 
 > Van Richten has returned, the old fool. He tries to hide from me, but I shall find him. He and I have much to discuss.
 
@@ -39,7 +39,7 @@ The mossy griffons atop the buttresses are nothing more than decorative statues.
 
 ### Khazan's Spell Drain
 
-Khazan warded his tower so that he alone could cast spells near or within it. The effect is identical to an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]] centered on the tower and extending 5 feet from it in all directions. The effect doesn't apply to magic traps and constructs created by Khazan, including the trap on the tower door in area V2, the golems in areas V4, and the animated suit of armor in area V7.
+Khazan warded his tower so that he alone could cast spells near or within it. The effect is identical to an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] centered on the tower and extending 5 feet from it in all directions. The effect doesn't apply to magic traps and constructs created by Khazan, including the trap on the tower door in area V2, the golems in areas V4, and the animated suit of armor in area V7.
 
 ## Areas of the Tower
 
@@ -54,15 +54,15 @@ Ezmerelda's wagon is parked in front of the tower. If the characters investigate
 > Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which is a cheap wooden sign that reads, "Keep out!"
 ^579
 
-The wagon radiates an aura of conjuration magic if it is scrutinized with a [[5. Mechanics/Spells/Detect Magic.md|detect magic]] spell. A character who casts an [[5. Mechanics/Spells/Identify.md|identify]] spell on the wagon learns the command words needed to operate it.
+The wagon radiates an aura of conjuration magic if it is scrutinized with a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell. A character who casts an [[5. Mechanics/Spells/Identify.md\|identify]] spell on the wagon learns the command words needed to operate it.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/105-027.jpg#gallery|Map 11.1: Van Richten's Tower (Area V)]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/106-cos1101.jpg#gallery|Player Version]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/105-027.jpg#gallery\|Map 11.1: Van Richten's Tower (Area V)]]
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/106-cos1101.jpg#gallery\|Player Version]]
 
 Anyone who sits in the driver's seat and speaks its command word ("Drovash") summons a pair of quasi-real draft horses, which are magically tethered to the wagon and can't be separated from it. The horses and wagon have a speed of 30 feet, and the horses heed the driver's simple commands. The driver can dismiss the horses with a second command word ("Arvesh"). The horses can be dispelled (DC 15) but not harmed.
 
-The wagon has a hidden trapdoor in its underbelly that can be detected by a character who scuttles under the wagon and succeeds on a DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check. The trapdoor opens into the wagon and is the only safe way inside.
+The wagon has a hidden trapdoor in its underbelly that can be detected by a character who scuttles under the wagon and succeeds on a DC 13 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. The trapdoor opens into the wagon and is the only safe way inside.
 
 #### Booby Trap
 
@@ -74,18 +74,18 @@ A character inside the wagon spots the trap automatically (no ability check requ
 
 The interior of the wagon contains the following items:
 
-- A wooden trunk covered with claw marks that holds a [[5. Mechanics/Items/Battleaxe.md|battleaxe]], a [[5. Mechanics/Items/Flail.md|flail]], a [[5. Mechanics/Items/Morningstar.md|morningstar]], a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]], and 10 silvered crossbow bolts  
-- A narrow wardrobe containing three sets of [[5. Mechanics/Items/Fine Clothes.md|fine clothes]], two sets of [[5. Mechanics/Items/Travelers Clothes.md|traveler's clothes]], several pairs of shoes, a harlequin mask, and three wigs  
-- A [[5. Mechanics/Items/Climbers Kit.md|climber's kit]], a [[5. Mechanics/Items/Disguise Kit.md|disguise kit]], a [[5. Mechanics/Items/Healers Kit.md|healer's kit]], and a [[5. Mechanics/Items/Poisoners Kit.md|")  
+- A wooden trunk covered with claw marks that holds a [[5. Mechanics/Items/Battleaxe.md\|battleaxe]], a [[5. Mechanics/Items/Flail.md\|flail]], a [[5. Mechanics/Items/Morningstar.md\|morningstar]], a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]], and 10 silvered crossbow bolts  
+- A narrow wardrobe containing three sets of [[5. Mechanics/Items/Fine Clothes.md\|fine clothes]], two sets of [[5. Mechanics/Items/Travelers Clothes.md\|traveler's clothes]], several pairs of shoes, a harlequin mask, and three wigs  
+- A [[5. Mechanics/Items/Climbers Kit.md\|climber's kit]], a [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]], a [[5. Mechanics/Items/Healers Kit.md\|healer's kit]], and a [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]  
 - A lyre with golden strings (worth 50 gp)  
 - A sculpted wooden cage holding a chicken and a silver ewer (worth 100 gp) with five chicken eggs in it  
 - A tiny wooden box containing a deck of tarokka cards (see appendix E) wrapped in silk  
-- A set of copper pots and pans (worth 50 gp"]]  
-- Three sets of [[5. Mechanics/Items/Manacles.md|manacles]]  
-- A [[5. Mechanics/Items/Shovel.md|")  
-- A wooden chest containing a gold holy symbol of the Morninglord (worth 100 gp"]], three [[5. Mechanics/Items/Holy Water Flask.md|vials of holy water]], three vials of perfume, two vials of [[5. Mechanics/Items/Antitoxin Vial.md|antitoxin]], a [[5. Mechanics/Items/Hempen Rope-50 Feet.md|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Tinderbox.md|tinderbox]], a [[5. Mechanics/Items/Steel Mirror.md|steel mirror]], a sharpened wooden stake, and a [[5. Mechanics/Items/Spyglass.md|spyglass]]  
-- Two spell scrolls ([[5. Mechanics/Spells/Major Image.md|major image]] and [[5. Mechanics/Spells/Remove Curse.md|"))  
-- A map of Barovia (showing all the locations marked on this adventure's map of Barovia"]]  
+- A set of copper pots and pans (worth 50 gp)  
+- Three sets of [[5. Mechanics/Items/Manacles.md\|manacles]]  
+- A [[5. Mechanics/Items/Shovel.md\|shovel]]  
+- A wooden chest containing a gold holy symbol of the Morninglord (worth 100 gp), three [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[5. Mechanics/Items/Spyglass.md\|spyglass]]  
+- Two spell scrolls ([[5. Mechanics/Spells/Major Image.md\|major image]] and [[5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
+- A map of Barovia (showing all the locations marked on this adventure's map of Barovia)  
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/107-cos11-02.png#center]]
@@ -109,7 +109,7 @@ The third time this trap is triggered, the magic fails and causes the tower to c
 
 Each stick figure embossed on the door has differently positioned arms—either bent up or down at the elbow, or sticking straight out to the side. When a creature standing within 5 feet of the door uses an action to imitate the arm positions of all eight stick figures in the proper sequence, the trap is disabled and the door swings open on rusty hinges for 10 minutes. The lines of the symbol on the door reveal the proper sequence. The dance can be performed in one of two ways; a creature must trace the path of the lines, starting at either endpoint. All eight sets of arm positions must be performed, with no repeats, for the sequence to be complete.
 
-If the arm positions are done out of order, a [[5. Mechanics/Bestiary/Dragon/Young Blue Dragon.md|young blue dragon]] magically appears within 30 feet of the door and attacks all creatures it can see. The characters can keep trying to open the door while the dragon is attacking them. The dragon disappears if it is reduced to 0 hit points or if the characters open the door.
+If the arm positions are done out of order, a [[5. Mechanics/Bestiary/Dragon/Young Blue Dragon.md\|young blue dragon]] magically appears within 30 feet of the door and attacks all creatures it can see. The characters can keep trying to open the door while the dragon is attacking them. The dragon disappears if it is reduced to 0 hit points or if the characters open the door.
 
 #### Vestibule
 
@@ -133,7 +133,7 @@ The scaffolding can't support more than 200 pounds of weight. If it collapses, a
 > A five-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized hole in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.
 ^583
 
-The four statues are [[5. Mechanics/Bestiary/Construct/Clay Golem.md|clay golems]] that defend themselves if attacked. Otherwise, their sole purpose is to operate the elevator, which they do by pulling on the chains. The chains attach to a 5-foot-square wooden platform that normally rests on the fourth floor.
+The four statues are [[5. Mechanics/Bestiary/Construct/Clay Golem.md\|clay golems]] that defend themselves if attacked. Otherwise, their sole purpose is to operate the elevator, which they do by pulling on the chains. The chains attach to a 5-foot-square wooden platform that normally rests on the fourth floor.
 
 If it appears that a creature wants to use the elevator, the golems lower the platform, then raise it to whichever level the creature specifies. They also heed commands issued from above. They obey only commands having to do with raising and lowering the elevator.
 
@@ -166,19 +166,19 @@ In the middle of the room is a 5-foot-square hole in the floor and ceiling, with
 > Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower's elevator platform.
 ^589
 
-Van Richten spent several months in this room, reviewing a lifetime's worth of research on [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]—notes that, once he committed them to memory, he burned in the stove. He also burned his journals. Ezmerelda searched the room, hoping to find a clue to her mentor's plan or whereabouts. Among the things she found here was a rolled-up map of Barovia and a burned page from van Richten's journal, which she took and hid in her wagon (area V1).
+Van Richten spent several months in this room, reviewing a lifetime's worth of research on [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]—notes that, once he committed them to memory, he burned in the stove. He also burned his journals. Ezmerelda searched the room, hoping to find a clue to her mentor's plan or whereabouts. Among the things she found here was a rolled-up map of Barovia and a burned page from van Richten's journal, which she took and hid in her wagon (area V1).
 
-The standing armor is a suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md|animated armor]]. It is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until someone speaks the command word ("Khazan") within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed.
+The standing armor is a suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]]. It is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] until someone speaks the command word ("Khazan") within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed.
 
-A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]] spell is cast on his head (which would need to be taken somewhere away from the tower's *spell drain effect*), Yan reveals that he was banished from his clan for stealing. A half-elf bard named [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] offered Yan a ride in his carnival wagon. The two traveled together for several days, but their time together was tense. When it was clear that [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] was looking for a road to Barovia, Yan tried to steal the wagon as well as [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]]'s pet monkey, but [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] got the better of him and drove a sword through his gullet.
+A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell is cast on his head (which would need to be taken somewhere away from the tower's *spell drain effect*), Yan reveals that he was banished from his clan for stealing. A half-elf bard named [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] offered Yan a ride in his carnival wagon. The two traveled together for several days, but their time together was tense. When it was clear that [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] was looking for a road to Barovia, Yan tried to steal the wagon as well as [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]]'s pet monkey, but [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] got the better of him and drove a sword through his gullet.
 
-The magic oils preserving Yan's head allow it to remember conversations it has while under the effect of [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]. [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md|Rictavio]] has cast [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]] on the head twice to ask questions about the Vistani of Barovia. Yan believes that the half-elf plans to cause great harm to the Vistani and begs the characters to warn his people. He doesn't know where his body is.
+The magic oils preserving Yan's head allow it to remember conversations it has while under the effect of [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]]. [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] has cast [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] on the head twice to ask questions about the Vistani of Barovia. Yan believes that the half-elf plans to cause great harm to the Vistani and begs the characters to warn his people. He doesn't know where his body is.
 
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's in a narrow compartment hidden in the wall behind the suit of armor. If the armor is activated and commanded to retrieve the treasure, it pulls the stones out of the wall, revealing the treasure beyond.
 
-If the characters have collapsed the tower (see area V2), they find the treasure after `dice: 1d8 + 2|avg` (`1d8 + 2`) hours of searching through the rubble. For each hour they spend searching, they have a 10% chance chance of accidentally unearthing a [[5. Mechanics/Bestiary/Construct/Clay Golem.md|") (see area V4"]] that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
+If the characters have collapsed the tower (see area V2), they find the treasure after `dice: 1d8 + 2|avg` (`1d8 + 2`) hours of searching through the rubble. For each hour they spend searching, they have a 10% chance chance of accidentally unearthing a [[5. Mechanics/Bestiary/Construct/Clay Golem.md\|clay golem]] (see area V4) that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
 
 ## Special Events
 
@@ -190,7 +190,7 @@ If the characters blew up Ezmerelda's wagon, activated the lightning sheath arou
 
 The werewolves haunt the Svalich Woods west of Van Richten's Tower. They come running in wolf form, hoping to trap prey on the island by cutting off access to the causeway.
 
-Leading the hunt is [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]], a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolf]] with 90 hit points. Accompanying him are six normal [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|werewolves]] and nine [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]. While in wolf form, the werewolves are indistinguishable from ordinary wolves. They either remain in wolf form or assume hybrid form.
+Leading the hunt is [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]], a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 90 hit points. Accompanying him are six normal [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] and nine [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]. While in wolf form, the werewolves are indistinguishable from ordinary wolves. They either remain in wolf form or assume hybrid form.
 
 If the characters were drawn into Barovia by the "Werewolves in the Mist" adventure hook, this encounter represents a climactic confrontation between the characters and the werewolf pack that has been terrorizing settlements in the Forgotten Realms. The werewolves know that the tower has magical defenses, so they are cautious. Kiril tries to lure the characters outside for a final showdown, but pulls his pack into the woods if the characters start lobbing spells or making ranged attacks from the tower.
 
@@ -200,14 +200,14 @@ A captured werewolf can be forced to divulge the whereabouts of the children kid
 
 ### Ezmerelda's Retreat
 
-[[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|") (see appendix D"]] returns to Van Richten's Tower after confronting Strahd in Castle Ravenloft and barely escaping with her life. She arrives on the back of a [[5. Mechanics/Bestiary/Beast/Riding Horse.md|") stolen from the Vistani camp outside Vallaki (chapter 5, area N9).
+[[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (see appendix D) returns to Van Richten's Tower after confronting Strahd in Castle Ravenloft and barely escaping with her life. She arrives on the back of a [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]] stolen from the Vistani camp outside Vallaki (chapter 5, area N9).
 
-Ezmerelda hopes that the arsenal of weapons in her wagon will be enough to protect her from the vampire's wrath. If the characters blew up the wagon, she is understandably annoyed and retreats to the tower. (She knows the trick to bypassing the trap on the tower door."]] If the tower has also been destroyed, she doesn't stick around unless the characters are clearly her best hope of survival.
+Ezmerelda hopes that the arsenal of weapons in her wagon will be enough to protect her from the vampire's wrath. If the characters blew up the wagon, she is understandably annoyed and retreats to the tower. (She knows the trick to bypassing the trap on the tower door.) If the tower has also been destroyed, she doesn't stick around unless the characters are clearly her best hope of survival.
 
 Ezmerelda's altercation with Strahd has left her with only 30 hit points. She graciously accepts any healing the characters have to offer.
 
 #### Development
 
-From this moment on, Strahd gains a new goal: kill [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md|Ezmerelda d'Avenir]]. Knowing that his Vistani spies might be conflicted at the thought of slaying one of their own, Strahd relies on the druids and the werewolves of the Svalich Woods, as well as human spies and vampire spawn hidden in Barovia's settlements, to help him find and kill Ezmerelda. If Strahd learns that she and the characters are working together, he invites the characters to Ravenloft, expecting that Ezmerelda will accompany them. The characters receive their invitation in the form of a letter delivered by one of Strahd's spies. If the characters open and read the letter, show the players the "Strahd's Invitation" handout in appendix F. If the characters head toward the castle, they have no threatening random encounters on the way.
+From this moment on, Strahd gains a new goal: kill [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]]. Knowing that his Vistani spies might be conflicted at the thought of slaying one of their own, Strahd relies on the druids and the werewolves of the Svalich Woods, as well as human spies and vampire spawn hidden in Barovia's settlements, to help him find and kill Ezmerelda. If Strahd learns that she and the characters are working together, he invites the characters to Ravenloft, expecting that Ezmerelda will accompany them. The characters receive their invitation in the form of a letter delivered by one of Strahd's spies. If the characters open and read the letter, show the players the "Strahd's Invitation" handout in appendix F. If the characters head toward the castle, they have no threatening random encounters on the way.
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/109-cos11-05.png#center]]

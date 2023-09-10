@@ -36,8 +36,8 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "traits":
-- "desc": "The cultist has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The cultist has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]."
   "name": "Dark Devotion"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\

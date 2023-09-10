@@ -16,6 +16,6 @@ aliases: ["Boots of Levitation"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While you wear these boots, you can use an action to cast the [[5. Mechanics/Spells/Levitate.md|levitate]] spell on yourself at will.
+While you wear these boots, you can use an action to cast the [[5. Mechanics/Spells/Levitate.md\|levitate]] spell on yourself at will.
 
 *Source: Dungeon Master's Guide p. 155. Available in the SRD.*

@@ -67,7 +67,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
     \ elemental](compendium/bestiary/elemental/air-elemental.md). Each of the five\
     \ must use its action and movement on three consecutive turns to perform an aerial\
-    \ dance and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+    \ dance and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
     \ while doing so (as if concentrating on a spell). When all five have finished\
     \ their third turn of the dance, the elemental appears in an unoccupied space\
     \ within 60 feet of them. It is friendly toward them and obeys their spoken commands.\

@@ -49,7 +49,7 @@ These machines are deployed to assist with construction projects and war. Some d
   "name": "Drill"
 - "desc": "The screamer emits destructive energy in a 15-foot cube. Each creature\
     \ in that area must succeed on a DC 11 Strength saving throw or take 7 (dice:\
-    \ 2d6|avg (2d6)) thunder damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ 2d6|avg (2d6)) thunder damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Sonic Scream"
 "reactions":
 - "desc": "Immediately after a creature within 5 feet of the screamer hits it with\

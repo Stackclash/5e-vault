@@ -24,7 +24,7 @@ You can end the spell early by using either of the following special functions.
 
 ## Break Enchantment
 
-As your action, you touch a creature you can reach that is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], or possessed by such creatures.
+As your action, you touch a creature you can reach that is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], or possessed by such creatures.
 
 ## Dismissal
 
@@ -32,6 +32,6 @@ As your action, make a melee spell attack against a celestial, an elemental, a f
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Paladin.md|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 233. Available in the SRD.*

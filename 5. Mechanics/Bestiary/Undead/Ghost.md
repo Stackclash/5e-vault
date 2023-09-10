@@ -68,27 +68,27 @@ A ghost doesn't require air, food, drink, or sleep.
     \ vice versa, yet it can't affect or be affected by anything on the other plane."
   "name": "Etherealness"
 - "desc": "Each non-undead creature within 60 feet of the ghost that can see it must\
-    \ succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10\
-    \ years. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can\
-    \ repeat the saving throw at the end of each of its turns, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ years. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] target can\
+    \ repeat the saving throw at the end of each of its turns, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ condition on itself on a success. If a target's saving throw is successful or\
     \ the effect ends for it, the target is immune to this ghost's Horrifying Visage\
-    \ for the next 24 hours. The aging effect can be reversed with a  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ for the next 24 hours. The aging effect can be reversed with a  [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
     \ spell, but only within 24 hours of it occurring."
   "name": "Horrifying Visage"
 - "desc": "One humanoid that the ghost can see within 5 feet of it must succeed on\
     \ a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears,\
-    \ and the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ and the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
     \ and loses control of its body. The ghost now controls the body but doesn't deprive\
     \ the target of awareness. The ghost can't be targeted by any attack, spell, or\
     \ other effect, except ones that turn undead, and it retains its alignment, Intelligence,\
-    \ Wisdom, Charisma, and immunity to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]. It otherwise uses\
+    \ Wisdom, Charisma, and immunity to being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]. It otherwise uses\
     \ the possessed target's statistics, but doesn't gain access to the target's knowledge,\
     \ class features, or proficiencies.\n\nThe possession lasts until the body drops\
     \ to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned\
-    \ or forced out by an effect like the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
+    \ or forced out by an effect like the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]]\
     \ spell. When the possession ends, the ghost reappears in an unoccupied space\
     \ within 5 feet of the body. The target is immune to this ghost's Possession for\
     \ 24 hours after succeeding on the saving throw or after the possession ends."

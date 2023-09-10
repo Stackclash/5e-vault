@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Constitution, Charisma
 - **Armor**: none
-- **Weapons**: [[5. Mechanics/Items/Dagger.md|daggers]], [[5. Mechanics/Items/Dart.md|darts]], [[5. Mechanics/Items/Sling.md|slings]], [[5. Mechanics/Items/Quarterstaff.md|quarterstaffs]], [[5. Mechanics/Items/Light Crossbow.md|light crossbows]]
+- **Weapons**: [[5. Mechanics/Items/Dagger.md\|daggers]], [[5. Mechanics/Items/Dart.md\|darts]], [[5. Mechanics/Items/Sling.md\|slings]], [[5. Mechanics/Items/Quarterstaff.md\|quarterstaffs]], [[5. Mechanics/Items/Light Crossbow.md\|light crossbows]]
 - **Tools**: none
 - **Skills**: Choose 2 from *Arcana*, *Deception*, *Insight*, *Intimidation*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md|") or (b) any simple weapon  
-- (a"]] a [[5. Mechanics/Items/Component Pouch.md|") or (b) an arcane focus  
-- (a"]] a [[5. Mechanics/Items/Dungeoneers Pack.md|") or (b"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- Two [[5. Mechanics/Items/Dagger.md|daggers]]  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an arcane focus  
+- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
+- Two [[5. Mechanics/Items/Dagger.md\|daggers]]  
 
 Alternatively, you may start with 3d4 × 10 gp and choose your own equipment.
 
@@ -128,7 +128,7 @@ How do you feel about the magical power coursing through you? Do you embrace it,
 
 #### Quick Build
 
-You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]], and [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Shield.md|shield]] and [[5. Mechanics/Spells/Magic Missile.md|magic missile]].
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]], and [[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Shield.md\|shield]] and [[5. Mechanics/Spells/Magic Missile.md\|magic missile]].
 
 > [!quote]- A quote from Hennet, scion of Tiamat  
 > 
@@ -232,7 +232,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer spell list
 
 The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Burning Hands.md|burning hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Burning Hands.md|burning hands]] using either slot.
+For example, if you know the 1st-level spell [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -297,14 +297,14 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-- [[5. Mechanics/Optional Features/Careful Spell.md|Careful Spell]]  
-- [[5. Mechanics/Optional Features/Distant Spell.md|Distant Spell]]  
-- [[5. Mechanics/Optional Features/Empowered Spell.md|Empowered Spell]]  
-- [[5. Mechanics/Optional Features/Extended Spell.md|Extended Spell]]  
-- [[5. Mechanics/Optional Features/Heightened Spell.md|Heightened Spell]]  
-- [[5. Mechanics/Optional Features/Quickened Spell.md|Quickened Spell]]  
-- [[5. Mechanics/Optional Features/Subtle Spell.md|Subtle Spell]]  
-- [[5. Mechanics/Optional Features/Twinned Spell.md|Twinned Spell]]  
+- [[5. Mechanics/Optional Features/Careful Spell.md\|Careful Spell]]  
+- [[5. Mechanics/Optional Features/Distant Spell.md\|Distant Spell]]  
+- [[5. Mechanics/Optional Features/Empowered Spell.md\|Empowered Spell]]  
+- [[5. Mechanics/Optional Features/Extended Spell.md\|Extended Spell]]  
+- [[5. Mechanics/Optional Features/Heightened Spell.md\|Heightened Spell]]  
+- [[5. Mechanics/Optional Features/Quickened Spell.md\|Quickened Spell]]  
+- [[5. Mechanics/Optional Features/Subtle Spell.md\|Subtle Spell]]  
+- [[5. Mechanics/Optional Features/Twinned Spell.md\|Twinned Spell]]  
 
 ### Ability Score Improvement (Level 4)
 
@@ -363,5 +363,5 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 ## Optional Features
 
 > [!example]- Metamagic
-> ![[5. Mechanics/Optional Features/List Metamagic.md#Metamagic|Metamagic]]
+> ![[5. Mechanics/Optional Features/List Metamagic.md#Metamagic\|Metamagic]]
 ^list-metamagic

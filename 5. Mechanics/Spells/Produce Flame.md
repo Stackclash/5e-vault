@@ -24,6 +24,6 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 This spell's damage increases by `dice: 1d8|avg` (`1d8`) when you reach 5th level (`dice: 2d8|avg` (`2d8`)), 11th level (`dice: 3d8|avg` (`3d8`)), and 17th level (`dice: 4d8|avg` (`4d8`)).
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md|Druid]]
+**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 269. Available in the SRD.*

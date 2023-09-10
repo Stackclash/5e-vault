@@ -28,6 +28,6 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Cleric Tempest Domain.md|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]]
+**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 254. Available in the SRD.*

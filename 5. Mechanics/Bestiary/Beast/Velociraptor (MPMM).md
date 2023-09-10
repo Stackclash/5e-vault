@@ -38,7 +38,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "traits":
 - "desc": "The velociraptor has advantage on an attack roll against a creature if\
     \ at least one of the velociraptor's allies is within 5 feet of the creature and\
-    \ the ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ the ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The velociraptor makes one Bite attack and one Claw attack."

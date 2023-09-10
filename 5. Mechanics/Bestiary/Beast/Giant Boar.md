@@ -35,7 +35,7 @@ aliases: ["Giant Boar"]
 - "desc": "If the boar moves at least 20 feet straight toward a target and then hits\
     \ it with a tusk attack on the same turn, the target takes an extra 7 (dice:\
     \ 2d6|avg (2d6)) slashing damage. If the target is a creature, it must succeed\
-    \ on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Charge"
 - "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."

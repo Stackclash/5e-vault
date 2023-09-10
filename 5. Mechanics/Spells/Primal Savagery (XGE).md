@@ -22,6 +22,6 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 The spell's damage increases by `dice: 1d10|avg` (`1d10`) when you reach 5th level (`dice: 2d10|avg` (`2d10`)), 11th level (`dice: 3d10|avg` (`3d10`)), and 17th level (`dice: 4d10|avg` (`4d10`)).
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md|Druid]]
+**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 163*

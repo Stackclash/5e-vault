@@ -48,8 +48,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "3"
 "traits":
-- "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and magic can't\
+- "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and magic can't\
     \ put the neogi to sleep."
   "name": "Mental Fortitude"
 - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -61,7 +61,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 14 (dice: 4d6|avg\
     \ (4d6)) poison damage, and the target must succeed on a DC 12 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Bite"
@@ -70,12 +70,12 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   "name": "Claw"
 "bonus_actions":
 - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-    \ the target. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target obeys\
+    \ the target. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target obeys\
     \ the neogi's commands and can't take reactions, and the neogi and the target\
     \ can communicate telepathically with each other at a distance of up to 1 mile.\
-    \ Whenever the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target takes\
+    \ Whenever the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target takes\
     \ damage, it can repeat the saving throw, ending the effect on itself on a success."
   "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":

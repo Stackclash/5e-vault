@@ -39,7 +39,7 @@ aliases: ["Warlock"]
 
 > [!tldr]- Class progression
 > 
-> | Level | Cantrips Known | Spells Known | Spell Slots | Slot Level | [[5. Mechanics/Optional Features/List Eldritch Invocation.md|Invocations Known]] |
+> | Level | Cantrips Known | Spells Known | Spell Slots | Slot Level | [[5. Mechanics/Optional Features/List Eldritch Invocation.md\|Invocations Known]] |
 > |-------|----------------|--------------|-------------|------------|-------------------------------------------------------------------------------|
 > | 1st | 2 | 2 | 1 | 1st | ⏤ |
 > | 2nd | 2 | 3 | 2 | 1st | 2 |
@@ -83,10 +83,10 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md|") or (b) any simple weapon  
-- (a"]] a [[5. Mechanics/Items/Component Pouch.md|") or (b) an arcane focus  
-- (a"]] a [[5. Mechanics/Items/Scholars Pack.md|") or (b"]] a [[5. Mechanics/Items/Dungeoneers Pack.md|dungeoneer's pack]]  
-- [[5. Mechanics/Items/Leather Armor.md|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md|daggers]]  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an arcane focus  
+- (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]  
+- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md\|daggers]]  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -138,7 +138,7 @@ How does your patron communicate with you? If you have a familiar, it might occa
 
 #### Quick Build
 
-You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md|charlatan]] background. Third, choose the [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]] and [[5. Mechanics/Spells/Chill Touch.md|chill touch]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Charm Person.md|charm person]] and [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]].
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background. Third, choose the [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] and [[5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Charm Person.md\|charm person]] and [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]].
 
 > [!quote]- A quote from Xarren, herald of Acamar  
 > 
@@ -221,7 +221,7 @@ You know two cantrips of your choice from the warlock spell list. You learn addi
 
 The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 #### Spells Known of 1st Level and Higher
 
@@ -251,7 +251,7 @@ At 1st level, you have struck a bargain with an otherworldly being chosen from t
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[5. Mechanics/Optional Features/List Eldritch Invocation.md|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[5. Mechanics/Optional Features/List Eldritch Invocation.md\|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -261,9 +261,9 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-- [[5. Mechanics/Optional Features/Pact Of The Chain.md|Pact of the Chain]]  
-- [[5. Mechanics/Optional Features/Pact Of The Blade.md|Pact of the Blade]]  
-- [[5. Mechanics/Optional Features/Pact Of The Tome.md|Pact of the Tome]]  
+- [[5. Mechanics/Optional Features/Pact Of The Chain.md\|Pact of the Chain]]  
+- [[5. Mechanics/Optional Features/Pact Of The Blade.md\|Pact of the Blade]]  
+- [[5. Mechanics/Optional Features/Pact Of The Tome.md\|Pact of the Tome]]  
 
 ### Ability Score Improvement (Level 4)
 
@@ -340,9 +340,9 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 ## Optional Features
 
 > [!example]- Eldritch Invocation
-> ![[5. Mechanics/Optional Features/List Eldritch Invocation.md#Eldritch%20Invocation|Eldritch Invocation]]
+> ![[5. Mechanics/Optional Features/List Eldritch Invocation.md#Eldritch%20Invocation\|Eldritch Invocation]]
 ^list-eldritch-invocation
 
 > [!example]- Pact Boon
-> ![[5. Mechanics/Optional Features/List Pact Boon.md#Pact%20Boon|Pact Boon]]
+> ![[5. Mechanics/Optional Features/List Pact Boon.md#Pact%20Boon\|Pact Boon]]
 ^list-pact-boon

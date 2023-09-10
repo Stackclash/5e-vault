@@ -59,6 +59,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 228. Available in the SRD.*

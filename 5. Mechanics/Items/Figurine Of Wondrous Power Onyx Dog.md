@@ -22,6 +22,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Onyx Dog
 
-This onyx statuette of a dog can become a [[5. Mechanics/Bestiary/Beast/Mastiff.md|mastiff]] for up to 6 hours. The [[5. Mechanics/Bestiary/Beast/Mastiff.md|mastiff]] has an Intelligence of 8 and can speak Common. It also has [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet and can see [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
+This onyx statuette of a dog can become a [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiff]] for up to 6 hours. The [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiff]] has an Intelligence of 8 and can speak Common. It also has [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet and can see [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170. Available in the SRD.*

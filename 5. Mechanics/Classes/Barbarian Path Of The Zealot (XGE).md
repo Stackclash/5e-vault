@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Zealot"]
 ---
 # Path of the Zealot
-*[[nullBarbarian.md|Barbarian]]: Primal Path*  
+*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 11*  
 
 
@@ -25,7 +25,7 @@ Starting when you choose this path at 3rd level, you can channel divine fury int
 
 ### Warrior of the Gods (Level 3)
 
-At 3rd level, your soul is marked for endless battle. If a spell, such as [[5. Mechanics/Spells/Raise Dead.md|"), has the sole effect of restoring you to life (but not undeath"]], the caster doesn't need material components to cast the spell on you.
+At 3rd level, your soul is marked for endless battle. If a spell, such as [[5. Mechanics/Spells/Raise Dead.md\|raise dead]], has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.
 
 ### Fanatical Focus (Level 6)
 
@@ -41,4 +41,4 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.
 
-While you're raging, having 0 hit points doesn't knock you [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points.
+While you're raging, having 0 hit points doesn't knock you [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points.

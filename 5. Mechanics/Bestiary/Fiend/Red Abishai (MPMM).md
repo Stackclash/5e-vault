@@ -53,7 +53,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "19"
 "traits":
-- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."
@@ -71,7 +71,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     \ (2d10)) fire damage."
   "name": "Claw"
 - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
-    \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ of it for 1 minute. A creature can repeat the saving throw at the end of each\
     \ of its turns, ending the effect on itself on a success. If a creature's saving\
     \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -79,13 +79,13 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   "name": "Frightful Presence"
 - "desc": "The abishai chooses up to four other creatures within 60 feet of it that\
     \ can see it. Until the start of the abishai's next turn, each of those creatures\
-    \ makes attack rolls with advantage and can't be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+    \ makes attack rolls with advantage and can't be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]."
   "name": "Incite Fanaticism"
 - "desc": "The abishai targets one Dragon it can see within 120 feet of it. The Dragon\
     \ must make a DC 18 Charisma saving throw. A chromatic dragon makes this save\
     \ with disadvantage. On a successful save, the target is immune to the abishai's\
-    \ Power of the Dragon Queen for 1 hour. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ by the abishai for 1 hour. While [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ Power of the Dragon Queen for 1 hour. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ by the abishai for 1 hour. While [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ in this way, the target regards the abishai as a trusted friend to be heeded\
     \ and protected. This effect ends if the abishai or its companions deal damage\
     \ to the target."

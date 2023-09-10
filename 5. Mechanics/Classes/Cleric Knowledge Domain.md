@@ -8,7 +8,7 @@ tags:
 aliases: ["Knowledge Domain"]
 ---
 # Knowledge Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 59*  
 
 
@@ -24,16 +24,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Identify.md|identify]] |
-| 3rd | [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Suggestion.md|suggestion]] |
-| 5th | [[5. Mechanics/Spells/Nondetection.md|nondetection]], [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]] |
-| 7th | [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Confusion.md|confusion]] |
-| 9th | [[5. Mechanics/Spells/Legend Lore.md|legend lore]], [[5. Mechanics/Spells/Scrying.md|scrying]] |
+| 1st | [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Identify.md\|identify]] |
+| 3rd | [[5. Mechanics/Spells/Augury.md\|augury]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]] |
+| 5th | [[5. Mechanics/Spells/Nondetection.md\|nondetection]], [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] |
+| 7th | [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Confusion.md\|confusion]] |
+| 9th | [[5. Mechanics/Spells/Legend Lore.md\|legend lore]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
 
-At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]], [[/5. Mechanics/Rules/Skills.md#History|History]], [[/5. Mechanics/Rules/Skills.md#Nature|Nature]], or [[/5. Mechanics/Rules/Skills.md#Religion|Religion]].
+At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], or [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]].
 
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
@@ -49,7 +49,7 @@ As an action, choose one creature that you can see within 60 feet of you. That c
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
-During that time, you can use your action to end this effect and cast the [[5. Mechanics/Spells/Suggestion.md|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ### Potent Spellcasting (Level 8)
 
@@ -57,7 +57,7 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 
 ### Visions of the Past (Level 17)
 
-Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] during that time, as if you were casting a spell.
+Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] during that time, as if you were casting a spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

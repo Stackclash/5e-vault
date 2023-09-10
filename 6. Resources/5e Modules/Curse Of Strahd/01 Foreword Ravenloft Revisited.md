@@ -20,7 +20,7 @@ aliases: ["Foreword: Ravenloft Revisited"]
 > 
 > I remember thinking at the time, What are *you* doing here? This creature seemed completely out of place with the kobolds, orcs, and gelatinous cubes we had seen thus far. This was a creature who deserved his own setting and to be so much more than just a wandering monster. When I came home from that game, I told all these thoughts to Laura.
 > 
-> That was when [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]] was born.
+> That was when [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] was born.
 > 
 > Strahd would be no afterthought—he demanded his own setting, his own tragic history. Laura and I launched into researching the mythology and folklore surrounding the vampire. We started with the vague, black-and-white image of Bela Lugosi in 1931, but found so much more.
 > 
@@ -28,7 +28,7 @@ aliases: ["Foreword: Ravenloft Revisited"]
 > 
 > Byron—like the fictional vampires that he inspired, from Polidori's Lord Ruthven down through the penultimate work of Bram Stoker—was a decadent predator, an abuser hidden behind a romantic veil. He was a comely and alluring monster—but a monster nevertheless. The romantic vampire of the earliest years of the genre was not just a spouse abuser but a spouse killer, the archetype of abuse in the worst kind of destructive codependency.
 > 
-> For Laura and me, those were the elements that truly defined [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]—a selfish beast forever lurking behind a mask of tragic romance, the illusion of redemption that was ever only camouflage for his prey.
+> For Laura and me, those were the elements that truly defined [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]—a selfish beast forever lurking behind a mask of tragic romance, the illusion of redemption that was ever only camouflage for his prey.
 > 
 > Initially we were going to title the adventure *Vampyr*—one of a series of games we called Nightventure that Laura and I were self-publishing back in 1978. The castle was called Ravenloft, and when Halloween came around each year, our friends asked us if we could play "that Ravenloft game" again... and so the better title won out. It was, in part, because of this design that I was hired by TSR, Inc., to write **Dungeons & Dragons** adventures in 1982. Soon thereafter, I6 *Ravenloft* was published.
 > 

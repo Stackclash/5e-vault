@@ -22,6 +22,6 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
 
 *Source: Player's Handbook p. 248. Available in the SRD and the Basic Rules.*

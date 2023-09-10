@@ -47,14 +47,14 @@ Whether through accident or depraved genius, some villains use one corpse to cre
   "name": "Unusual Nature"
 "actions":
 - "desc": "The boneless makes two Slam attacks. If both attacks hit a Large or smaller\
-    \ creature, the creature is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ creature, the creature is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
     \ (escape DC 13), and the boneless can use Crushing Embrace."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
   "name": "Slam"
-- "desc": "The boneless wraps its body around a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ by it. While the boneless is attached, the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+- "desc": "The boneless wraps its body around a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ by it. While the boneless is attached, the target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
     \ and is unable to breathe. The target must succeed on a DC 13 Strength saving\
     \ throw at the start of each of the boneless' turns or take 5 (dice: 1d4 + 3|avg\
     \ (1d4 + 3)) bludgeoning damage. If something moves the target, the boneless\

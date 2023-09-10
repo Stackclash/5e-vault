@@ -16,11 +16,11 @@ aliases: ["Staff of Healing"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
-This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: [[5. Mechanics/Spells/Cure Wounds.md|") (1 charge per spell level, up to 4th"]], [[5. Mechanics/Spells/Lesser Restoration.md|") (2 charges"]]. or [[5. Mechanics/Spells/Mass Cure Wounds.md|") (5 charges"]].
+This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] (1 charge per spell level, up to 4th), [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] (2 charges). or [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] (5 charges).
 
 The staff regains `dice: 1d6 + 4|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg` (`d20`). On a 1. the staff vanishes in a flash of light, lost forever.
 

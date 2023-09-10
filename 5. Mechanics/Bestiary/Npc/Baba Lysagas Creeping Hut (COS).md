@@ -19,7 +19,7 @@ The hut is a 15-foot-square, ramshackle wooden building with a gently sloping th
 
 The gemstone that has given life to Baba Lysaga's hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. Baba Lysaga stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
 
-Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 (`dice: 3d6|avg` (`3d6`)) piercing damage and fails to obtain the gem.
+Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 (`dice: 3d6|avg` (`3d6`)) piercing damage and fails to obtain the gem.
 
 ```statblock
 "name": "Baba Lysaga's Creeping Hut"
@@ -53,11 +53,11 @@ Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.m
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- "desc": "The hut is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while the magic gem that animates it is in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the hut must\
+- "desc": "The hut is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ while the magic gem that animates it is in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the hut must\
     \ succeed on a Constitution saving throw against the caster's spell save DC or\
-    \ fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
+    \ fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1 minute."
   "name": "Antimagic Susceptibility"
 - "desc": "The hut deals double damage to objects and structures."
   "name": "Siege Monster"

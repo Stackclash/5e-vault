@@ -8,7 +8,7 @@ aliases: ["Dragon Hide"]
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** [[5. Mechanics/Races/Dragonborn.md|Dragonborn]]
+***Prerequisites*** [[5. Mechanics/Races/Dragonborn.md\|Dragonborn]]
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 

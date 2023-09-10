@@ -64,14 +64,14 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ way."
   "name": "Animating Spores (3/Day)"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] while it hallucinates.\
+    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] while it hallucinates.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Hallucination Spores"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ The target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Pacifying Spores"

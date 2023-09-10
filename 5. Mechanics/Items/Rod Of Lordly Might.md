@@ -40,10 +40,10 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 ## Paralyze
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
 
 ## Terrify
 
-While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of you for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
+While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of you for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 196. Available in the SRD.*

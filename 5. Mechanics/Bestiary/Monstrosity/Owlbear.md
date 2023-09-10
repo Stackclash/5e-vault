@@ -61,7 +61,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The owlbear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The owlbear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 "actions":

@@ -26,7 +26,7 @@ A wind picks up within the cube, continually blowing in a horizontal direction y
 
 ## Downdraft
 
-You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].
+You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
 ## Updraft
 
@@ -34,6 +34,6 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 152*

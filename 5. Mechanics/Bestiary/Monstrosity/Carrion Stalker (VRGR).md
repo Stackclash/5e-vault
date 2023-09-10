@@ -53,17 +53,17 @@ Carrion stalkers also enjoy symbiotic relationships with carrion crawlers. Carri
   "name": "Tentacle"
 - "desc": "The carrion stalker releases a burst of larvae in a 10-foot-radius sphere\
     \ centered on itself. Each creature in that area must succeed on a DC 13 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. A creature\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way takes 7 (dice:\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. A creature\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way takes 7 (dice:\
     \ 2d6|avg (2d6)) poison damage at the start of each of its turns as larvae\
     \ infest its body. The creature can repeat the saving throw at the end of each\
     \ of its turns, ending the effect on itself on a success. Any effect that cures\
-    \ disease or removes the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ disease or removes the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ condition instantly kills the larvae in the creature, ending the effect on it.\n\
     \nIf a creature is reduced to 0 hit points by the infestation, it dies. The larvae\
     \ remain in the corpse, and one survives to become a fully grown carrion stalker\
     \ in dice: 1d4|avg (1d4) weeks. Any effect that cures diseases or removes\
-    \ the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition that targets\
+    \ the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition that targets\
     \ the corpse instantly kills the larvae."
   "name": "Larval Burst (1/Day)"
 "source":

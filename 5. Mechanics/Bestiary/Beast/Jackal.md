@@ -33,12 +33,12 @@ aliases: ["Jackal"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The jackal has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The jackal has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "The jackal has advantage on an attack roll against a creature if at least\
     \ one of the jackal's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\

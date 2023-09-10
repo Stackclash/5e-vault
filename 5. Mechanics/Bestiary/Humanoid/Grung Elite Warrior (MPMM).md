@@ -51,7 +51,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
   "name": "Amphibious"
 - "desc": "Any creature that grapples the grung or otherwise comes into direct contact\
     \ with the grung's skin must succeed on a DC 12 Constitution saving throw or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ creature no longer in direct contact with the grung can repeat the saving throw\
     \ at the end of each of its turns, ending the effect on itself on a success."
   "name": "Poisonous Skin"
@@ -59,8 +59,8 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
     \ with or without a running start."
   "name": "Standing Leap"
 - "desc": "If the grung isn't immersed in water for at least 1 hour during a day,\
-    \ it suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]\
-    \ at the end of that day. The grung can recover from this [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]\
+    \ it suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]\
+    \ at the end of that day. The grung can recover from this [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]\
     \ only through magic or by immersing itself in water for at least 1 hour."
   "name": "Water Dependency"
 "actions":
@@ -74,7 +74,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
   "name": "Shortbow"
 - "desc": "The grung makes a chirring noise to which grungs are immune. Each Humanoid\
     \ or Beast that is within 15 feet of the grung and able to hear it must succeed\
-    \ on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
     \ until the end of the grung's next turn."
   "name": "Mesmerizing Chirr (Recharge 6)"
 "source":

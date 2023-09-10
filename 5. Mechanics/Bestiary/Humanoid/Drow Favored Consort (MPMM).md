@@ -11,7 +11,7 @@ aliases: ["Drow Favored Consort"]
 # Drow Favored Consort
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100*  
 
-Nearly every priestess of Lolth, including the powerful [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|drow matron mother]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
+Nearly every priestess of Lolth, including the powerful [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md\|drow matron mother]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
 
 Those favored consorts who prove their cunning gain the ear, and perhaps even the heart, of their priestess and are relied on to provide useful advice. No position of consort is assured for long, though; Lolth's priestesses are notoriously fickle, and a consort must often contend with rivals.
 
@@ -49,18 +49,18 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 "traits":
 - "desc": "The drow casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
-    \ [[5. Mechanics/Spells/Levitate.md|") (self only"]]\n\n3/day each: [dimension\
-    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Fireball.md|fireball]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
+    \ will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]],\
+    \ [[5. Mechanics/Spells/Levitate.md\|levitate]] (self only)\n\n3/day each: [dimension\
+    \ door](compendium/spells/dimension-door.md), [[5. Mechanics/Spells/Fireball.md\|fireball]],\
+    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]]"
   "name": "spells"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

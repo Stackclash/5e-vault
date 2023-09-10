@@ -17,7 +17,7 @@ aliases: ["Sword of Answering (Back Talker)"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 

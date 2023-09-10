@@ -24,14 +24,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | `dice: d8\|avg` (`d8`) | Creature |
 |-----------|------------|----------|
-| 1 | [[5. Mechanics/Bestiary/Beast/Rat.md|Rat]] |
-| 2 | [[5. Mechanics/Bestiary/Beast/Owl.md|Owl]] |
-| 3 | [[5. Mechanics/Bestiary/Beast/Mastiff.md|Mastiff]] |
-| 4 | [[5. Mechanics/Bestiary/Beast/Goat.md|Goat]] |
-| 5 | [[5. Mechanics/Bestiary/Beast/Giant Goat.md|Giant goat]] |
-| 6 | [[5. Mechanics/Bestiary/Beast/Giant Boar.md|Giant boar]] |
-| 7 | [[5. Mechanics/Bestiary/Beast/Lion.md|Lion]] |
-| 8 | [[5. Mechanics/Bestiary/Beast/Brown Bear.md|Brown bear]] |
+| 1 | [[5. Mechanics/Bestiary/Beast/Rat.md\|Rat]] |
+| 2 | [[5. Mechanics/Bestiary/Beast/Owl.md\|Owl]] |
+| 3 | [[5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] |
+| 4 | [[5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] |
+| 5 | [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] |
+| 6 | [[5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] |
+| 7 | [[5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] |
+| 8 | [[5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] |
 ^dice-avg-creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the SRD.*

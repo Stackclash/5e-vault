@@ -57,7 +57,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 "languages": ""
 "cr": "11"
 "traits":
-- "desc": "The roc has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The roc has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
@@ -68,8 +68,8 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
     \ Hit: 23 (dice: 4d6 + 9|avg (4d6 + 9)) slashing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 19"]]. Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 19). Until\
+    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ and the roc can't use its talons on another target."
   "name": "Talons"
 "source":

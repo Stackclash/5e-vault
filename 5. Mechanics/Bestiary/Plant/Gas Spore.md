@@ -57,11 +57,11 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "desc": "The gas spore explodes when it drops to 0 hit points. Each creature within\
     \ 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (dice:\
     \ 3d6|avg (3d6)) poison damage and become infected with a disease on a failed\
-    \ save. Creatures immune to the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ save. Creatures immune to the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ condition are immune to this disease.\n\nSpores invade an infected creature's\
     \ system, killing the creature in a number of hours equal to dice: 1d12|avg\
     \ (1d12) + the creature's Constitution score, unless the disease is removed.\
-    \ In half that time, the creature becomes [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ In half that time, the creature becomes [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ for the rest of the duration. After the creature dies, it sprouts dice: 2d4|avg\
     \ (2d4) Tiny gas spores that grow to full size in 7 days."
   "name": "Death Burst"

@@ -85,8 +85,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "traits":
 - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
-    \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes\
+    \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
   "name": "innate"
 - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\
@@ -110,8 +110,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   "name": "Bite (Snake Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 13"]]. Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 13). Until\
+    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\

@@ -46,12 +46,12 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 "languages": "understands Infernal but can't speak it"
 "cr": "3"
 "traits":
-- "desc": "The hound has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The hound has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "The hound has advantage on an attack roll against a creature if at least\
     \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\

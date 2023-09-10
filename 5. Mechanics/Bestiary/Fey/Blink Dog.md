@@ -35,7 +35,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 "languages": "Blink Dog, understands Sylvan but can't speak it"
 "cr": "1/4"
 "traits":
-- "desc": "The dog has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The dog has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":

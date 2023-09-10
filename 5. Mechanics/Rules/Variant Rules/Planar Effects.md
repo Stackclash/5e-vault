@@ -24,9 +24,9 @@ A creature that leaves the Feywild must make a DC 10 Wisdom saving throw. Fey cr
 
 While time seems to pass normally in the Feywild, characters might spend a day there and realize, upon leaving the plane, that less or more time has elapsed everywhere else in the multiverse.
 
-Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[5. Mechanics/Spells/Wish.md|wish]] spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[5. Mechanics/Spells/Geas.md|geas]] spell and complete a quest after the [[5. Mechanics/Spells/Wish.md|wish]] spell is cast.
+Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[5. Mechanics/Spells/Wish.md\|wish]] spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[5. Mechanics/Spells/Geas.md\|geas]] spell and complete a quest after the [[5. Mechanics/Spells/Wish.md\|wish]] spell is cast.
 
-![[5. Mechanics/Tables/Feywild Time Warp.md|Feywild Time Warp]]
+![[5. Mechanics/Tables/Feywild Time Warp.md\|Feywild Time Warp]]
 
 ### Shadowfell: Shadowfell Despair
 
@@ -34,39 +34,39 @@ A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane 
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `dice: d6|avg` (`d6`) to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
-![[5. Mechanics/Tables/Shadowfell Despair.md|")
+![[5. Mechanics/Tables/Shadowfell Despair.md\|Shadowfell Despair]]
 
-If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a long rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold."]] On a successful save, the despair effect ends for that character.
+If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a long rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character.
 
-A [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]] spell removes despair, as does any spell or other magical effect that removes a curse.
+A [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell removes despair, as does any spell or other magical effect that removes a curse.
 
 ### Outer Planes: Psychic Dissonance
 
-Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment—good creatures on the Lower Planes, evil ones on the Upper Planes—if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
+Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment—good creatures on the Lower Planes, evil ones on the Upper Planes—if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
 
 ### Mount Celestia: Blessed Beneficence
 
-In contrast to the dissonance experienced by evil creatures here, good creatures are literally blessed by the pervasive beneficence of the plane. Creatures of good alignment gain the benefit of the [[5. Mechanics/Spells/Bless.md|bless]] spell as long as they remain on the plane. In addition, finishing a long rest on the plane grants a good creature the benefit of a [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] spell.
+In contrast to the dissonance experienced by evil creatures here, good creatures are literally blessed by the pervasive beneficence of the plane. Creatures of good alignment gain the benefit of the [[5. Mechanics/Spells/Bless.md\|bless]] spell as long as they remain on the plane. In addition, finishing a long rest on the plane grants a good creature the benefit of a [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell.
 
 ### Bytopia: Pervasive Goodwill
 
-At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that is neither lawful good nor neutral good must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful good or neutral good (whichever is closer to the creature's current alignment). The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than Bytopia. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ### Elysium: Overwhelming Joy
 
-Visitors spending any time on this plane risk becoming trapped by overwhelming sensations of contentment and happiness. At the end of each long rest taken on this plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature is unwilling to leave the plane before taking another long rest. After three failed saving throws, the creature never willingly leaves the plane and, if forcibly removed, does everything in its power to return to the plane. A [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell removes this effect from the creature.
+Visitors spending any time on this plane risk becoming trapped by overwhelming sensations of contentment and happiness. At the end of each long rest taken on this plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature is unwilling to leave the plane before taking another long rest. After three failed saving throws, the creature never willingly leaves the plane and, if forcibly removed, does everything in its power to return to the plane. A [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell removes this effect from the creature.
 
 ### The Beastlands: Hunter's Paradise
 
-Visitors to the Beastlands find their hunting and stalking capabilities improved, and characters have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling|")"]], Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]], and Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival|")"]] checks while there.
+Visitors to the Beastlands find their hunting and stalking capabilities improved, and characters have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]), Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]), and Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks while there.
 
 ### The Beastlands: Beast Transformation
 
-Whenever a visitor slays a beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or become transformed (as the [[5. Mechanics/Spells/Polymorph.md|") spell"]] into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws. the transformation can be undone only by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell or similar magic. 
+Whenever a visitor slays a beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or become transformed (as the [[5. Mechanics/Spells/Polymorph.md\|polymorph]] spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws. the transformation can be undone only by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. 
 
 ### Arborea: Intense Yearning
 
-Keep track of how many days a visitor spends on Arborea. When the visitor leaves, it must make a Charisma saving throw against a DC of 5, plus 1 for each day spent on the plane. On a failed save, the creature becomes afflicted with a yearning to return to Arborea. As long as the effect persists the creature has disadvantage on ability checks. At the end of each long rest, the creature can repeat the saving throw, ending the effect on a success. A [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell removes this effect from the creature.
+Keep track of how many days a visitor spends on Arborea. When the visitor leaves, it must make a Charisma saving throw against a DC of 5, plus 1 for each day spent on the plane. On a failed save, the creature becomes afflicted with a yearning to return to Arborea. As long as the effect persists the creature has disadvantage on ability checks. At the end of each long rest, the creature can repeat the saving throw, ending the effect on a success. A [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell removes this effect from the creature.
 
 ### Ysgard: Immortal Wrath
 
@@ -82,15 +82,15 @@ Finally, a creature can use an action to make an Intelligence check to stabilize
 
 ### Pandemonium: Mad Winds
 
-A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]. A creature that reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] level unless the creature can somehow escape the maddening winds.
+A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]. A creature that reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] level unless the creature can somehow escape the maddening winds.
 
 ### The Abyss: Abyssal Corruption
 
 A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Charisma saving throw. On a failure, the creature becomes corrupted. Refer to the Abyssal Corruption table to determine the effects of this corruption. You can substitute different corruption effects of your own creation.
 
-After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell or any magic that removes a curse also ends the effect.
+After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg` (`1d4 + 2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg` (`1d4 + 2`) days, its alignment changes to chaotic evil. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature restores its original alignment.
 
 **Abyssal Corruption**
 
@@ -99,7 +99,7 @@ If a corrupted creature doesn't leave the plane within `dice: 1d4 + 2|avg` (`1d4
 | 1-4 | **Treachery.** The character gains the following flaw: "I can only achieve my goals by making sure that my companions don't achieve theirs." |
 | 5-7 | **Bloodlust.** The character gains the following flaw: "I enjoy killing for its own sake, and once I start, it's hard to stop." |
 | 8-9 | **Mad Ambition.** The character gains the following flaw: "I am destined to rule the Abyss, and my companions are tools to that end." |
-| 10 | **Demonic Possession.** The character is possessed by a demonic entity until freed by [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] or similar magic. Whenever the possessed character rolls a 1 on an attack roll, ability check, or saving throw, the demon takes control of the character and determines the character's behavior. At the end of each of the possessed character's turns, he or she can make a DC 15 Charisma saving throw. On a success, the character regains control until he or she rolls another 1. |
+| 10 | **Demonic Possession.** The character is possessed by a demonic entity until freed by [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] or similar magic. Whenever the possessed character rolls a 1 on an attack roll, ability check, or saving throw, the demon takes control of the character and determines the character's behavior. At the end of each of the possessed character's turns, he or she can make a DC 15 Charisma saving throw. On a success, the character regains control until he or she rolls another 1. |
 ^abyssal-corruption
 
 ### Carceri: Prison Plane
@@ -110,9 +110,9 @@ Portals and gates that open onto the plane become one-way only. Secret ways out 
 
 ### Hades: Vile Transformation
 
-At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] afflicting the creature are removed.
+At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] afflicting the creature are removed.
 
-A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
+A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md\|larva]] stat block. Hades is crawling with larvae. Night hags, liches, and rakshasas harvest them for use in vile rituals. Other fiends like to feed on them.
 
 ### Gehenna: Cruel Hindrance
 
@@ -120,7 +120,7 @@ The plane's cruel nature makes it difficult for visitors to help one another. Wh
 
 ### The Nine Hells: Pervasive Evil
 
-Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell on the creature also restores its original alignment.
+Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice: 1d4|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ### Acheron: Bloodlust
 
@@ -132,8 +132,8 @@ While on Mechanus, creatures always use the average damage result for attacks an
 
 ### Mechanus: Imposing Order
 
-At the end of each long rest taken on this plane, a visitor that isn't lawful neutral must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful neutral. The creature's alignment reverts to normal after one day spent on a plane other than Mechanus. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] spell on the creature also restores its original alignment.
+At the end of each long rest taken on this plane, a visitor that isn't lawful neutral must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful neutral. The creature's alignment reverts to normal after one day spent on a plane other than Mechanus. Casting the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell on the creature also restores its original alignment.
 
 ### Arcadia: Planar Vitality
 
-While on this plane, creatures can't be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] or [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], and they are immune to disease and poisons.
+While on this plane, creatures can't be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] or [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], and they are immune to disease and poisons.

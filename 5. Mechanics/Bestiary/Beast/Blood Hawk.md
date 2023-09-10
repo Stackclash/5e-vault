@@ -39,12 +39,12 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The hawk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The hawk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 - "desc": "The hawk has advantage on an attack roll against a creature if at least\
     \ one of the hawk's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\

@@ -14,7 +14,7 @@ aliases: ["Pike"]
 *Melee Weapon*  
 
 - **Damage**: 1d10 P
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-handed|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Cost**: 5 gp
 - **Weight**: 18.0 lbs.
 

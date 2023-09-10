@@ -46,7 +46,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "languages": "Gnoll, Abyssal"
 "cr": "9"
 "traits":
-- "desc": "If the flind isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+- "desc": "If the flind isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
     \ any creature with the Rampage trait can make a Bite attack as a bonus action\
     \ while within 10 feet of the flind."
   "name": "Aura of Blood Thirst"
@@ -67,7 +67,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   "name": "Flail of Pain"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
     \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) bludgeoning damage, and the target\
-    \ must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ until the end of its next turn."
   "name": "Flail of Paralysis"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\

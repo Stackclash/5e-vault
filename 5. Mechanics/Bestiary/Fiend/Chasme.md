@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -211,7 +211,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "traits":
 - "desc": "The chasme produces a horrid droning sound to which demons are immune.\
     \ Any other creature that starts its turn with in 30 feet of the chasme must succeed\
-    \ on a DC 12 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ on a DC 12 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]\
     \ for 10 minutes. A creature that can't hear the drone automatically succeeds\
     \ on the save. The effect on the creature ends if it takes damage or if another\
     \ creature takes an action to splash it with holy water. If a creature's saving\
@@ -231,7 +231,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ by an amount equal to the necrotic damage taken. If this effect reduces a creature's\
     \ hit point maximum to 0, the creature dies. This reduction to a creature's hit\
     \ point maximum lasts until the creature finishes a long rest or until it is affected\
-    \ by a spell like  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
+    \ by a spell like  [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]."
   "name": "Proboscis"
 "source":
 - "MM"

@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Kensei"]
 ---
 # Way of the Kensei
-*[[nullMonk.md|Monk]]: Monastic Tradition*  
+*[[nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 
@@ -30,7 +30,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Agile Parry**  
 
-    If you make an unarmed strike as part of the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].  
+    If you make an unarmed strike as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].  
 
 - **Kensei's Shot**  
 
@@ -39,7 +39,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 #### Way of the Brush
 _Source: Xanathar's Guide to Everything_
 
-You gain proficiency with your choice of [[5. Mechanics/Items/Calligraphers Supplies.md|calligrapher's supplies]] or [[5. Mechanics/Items/Painters Supplies.md|painter's supplies]].
+You gain proficiency with your choice of [[5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] or [[5. Mechanics/Items/Painters Supplies.md\|painter's supplies]].
 
 ### One with the Blade (Level 6)
 

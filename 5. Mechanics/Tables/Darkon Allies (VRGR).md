@@ -19,5 +19,5 @@ aliases: ["Darkon Allies"]
 | 3 | Cardinna Artazas of the Eternal Order |
 | 4 | Doctor Ingrid van Richten, a scholarly spirit who haunts Richten House near Rivalis |
 | 5 | The Ray Agency, investigators based in Martira Bay |
-| 6 | Skeever, Azalin's [[5. Mechanics/Bestiary/Fiend/Imp.md|imp]] familiar |
+| 6 | Skeever, Azalin's [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] familiar |
 ^darkon-allies

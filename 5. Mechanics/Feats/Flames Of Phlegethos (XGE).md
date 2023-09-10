@@ -8,7 +8,7 @@ aliases: ["Flames of Phlegethos"]
 # Flames of Phlegethos
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** [[5. Mechanics/Races/Tiefling.md|Tiefling]]
+***Prerequisites*** [[5. Mechanics/Races/Tiefling.md\|Tiefling]]
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
 

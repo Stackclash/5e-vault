@@ -22,7 +22,7 @@ You can breathe air and water.
 
 ### Otherworldly Perception
 
-You can sense the presence of any creature within 30 feet of you that is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal Plane. You can pinpoint such a creature that is moving.
+You can sense the presence of any creature within 30 feet of you that is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] or on the Ethereal Plane. You can pinpoint such a creature that is moving.
 
 ### Slippery
 
@@ -30,7 +30,7 @@ You have advantage on ability checks and saving throws made to escape a grapple.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight.
 
 ### Superior Darkvision
 

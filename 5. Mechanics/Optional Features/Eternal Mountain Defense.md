@@ -9,4 +9,4 @@ aliases: ["Eternal Mountain Defense"]
 # Eternal Mountain Defense
 *Source: Player's Handbook p. 81* 
 
-You can spend 5 ki points to cast [[5. Mechanics/Spells/Stoneskin.md|stoneskin]], targeting yourself.
+You can spend 5 ki points to cast [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]], targeting yourself.

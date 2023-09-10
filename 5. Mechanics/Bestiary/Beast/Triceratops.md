@@ -40,15 +40,15 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "traits":
 - "desc": "If the triceratops moves at least 20 feet straight toward a creature and\
     \ then hits it with a gore attack on the same turn, that target must succeed on\
-    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the triceratops\
+    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the triceratops\
     \ can make one stomp attack against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
     \ Hit: 24 (dice: 4d8 + 6|avg (4d8 + 6)) piercing damage."
   "name": "Gore"
-- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+- "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
     \ creature. Hit: 22 (dice: 3d10 + 6|avg (3d10 + 6)) bludgeoning damage"
   "name": "Stomp"
 "source":

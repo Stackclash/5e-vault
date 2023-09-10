@@ -48,11 +48,11 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the sword\
+- "desc": "The sword is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the sword\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1\
     \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\

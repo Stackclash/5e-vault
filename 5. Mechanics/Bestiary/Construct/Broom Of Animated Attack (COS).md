@@ -43,11 +43,11 @@ Some brooms of animated attack allow their creators to ride them, in which case 
     \ An animated object reduced to 0 hit points becomes inanimate and is too damaged\
     \ to be of much use or value to anyone."
   "name": "Constructed Nature"
-- "desc": "The broom is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
+- "desc": "The broom is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the broom\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1\
     \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the broom remains motionless and isn't flying, it is indistinguishable\

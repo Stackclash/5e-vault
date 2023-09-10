@@ -39,13 +39,13 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 "traits":
 - "desc": "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks). The priest\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
-    \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (2\
-    \ 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [spirit\
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md\|light]],\
+    \ [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]],\
+    \ [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]],\
+    \ [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]\n\n3rd level (2\
+    \ 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [spirit\
     \ guardians](compendium/spells/spirit-guardians.md)"
   "name": "spells"
 - "desc": "As a bonus action, the priest can expend a spell slot to cause its melee\

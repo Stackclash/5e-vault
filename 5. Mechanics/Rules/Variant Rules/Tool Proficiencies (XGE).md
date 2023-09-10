@@ -14,7 +14,7 @@ Tool proficiencies are a useful way to highlight a character's background and ta
 
 ### Tools and Skills Together
 
-Tools have more specific applications than skills. The [[/5. Mechanics/Rules/Skills.md#History|History]] skill applies to any event in the past. A tool such as a [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
+Tools have more specific applications than skills. The [[/5. Mechanics/Rules/Skills.md#History\|History]] skill applies to any event in the past. A tool such as a [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
 
 To make tool proficiencies more attractive choices for the characters, you can use the methods outlined below.
 
@@ -24,7 +24,7 @@ If the use of a tool and the use of a skill both apply to a check, and a charact
 
 #### Added Benefit
 
-In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with [[5. Mechanics/Items/Masons Tools.md|mason's tools]] makes a successful Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check to find a secret door in a stone wall. Not only does the character notice the door's presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|")"]] check to determine how to open the door.
+In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with [[5. Mechanics/Items/Masons Tools.md\|mason's tools]] makes a successful Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to find a secret door in a stone wall. Not only does the character notice the door's presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to determine how to open the door.
 
 ### Tool Descriptions
 
@@ -52,23 +52,23 @@ A table at the end of each section lists activities that a tool can be used to p
 
 #### Alchemist's Supplies
 
-[[5. Mechanics/Items/Alchemists Supplies.md|Alchemist's supplies]] enable a character to produce useful concoctions, such as acid or alchemist's fire.
+[[5. Mechanics/Items/Alchemists Supplies.md\|Alchemist's supplies]] enable a character to produce useful concoctions, such as acid or alchemist's fire.
 
 ##### Components
 
-[[5. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]] include two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients, including salt, powdered iron, and purified water.
+[[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] include two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients, including salt, powdered iron, and purified water.
 
 ##### Arcana
 
-Proficiency with [[5. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]] allows you to unlock more information on [[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]] checks involving potions and similar materials.
+Proficiency with [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] allows you to unlock more information on [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] checks involving potions and similar materials.
 
 ##### Investigation
 
-When you inspect an area for clues, proficiency with [[5. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]] grants additional insight into any chemicals or other substances that might have been used in the area.
+When you inspect an area for clues, proficiency with [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] grants additional insight into any chemicals or other substances that might have been used in the area.
 
 ##### Alchemical Crafting
 
-You can use this tool proficiency to create alchemical items. A character can spend money to collect raw materials, which weigh 1 pound for every 50 gp spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use [[5. Mechanics/Items/Alchemists Supplies.md|alchemist's supplies]] to make one dose of [[5. Mechanics/Items/Acid Vial.md|acid]], [[5. Mechanics/Items/Alchemists Fire Flask.md|alchemist's fire]], [[5. Mechanics/Items/Antitoxin Vial.md|antitoxin]], [[5. Mechanics/Items/Oil Flask.md|oil]], [[5. Mechanics/Items/Perfume Vial.md|perfume]], or [[5. Mechanics/Items/Soap.md|soap]]. Subtract half the value of the created item from the total gp worth of raw materials you are carrying.
+You can use this tool proficiency to create alchemical items. A character can spend money to collect raw materials, which weigh 1 pound for every 50 gp spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] to make one dose of [[5. Mechanics/Items/Acid Vial.md\|acid]], [[5. Mechanics/Items/Alchemists Fire Flask.md\|alchemist's fire]], [[5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], [[5. Mechanics/Items/Oil Flask.md\|oil]], [[5. Mechanics/Items/Perfume Vial.md\|perfume]], or [[5. Mechanics/Items/Soap.md\|soap]]. Subtract half the value of the created item from the total gp worth of raw materials you are carrying.
 
 **Alchemist's Supplies**
 
@@ -87,11 +87,11 @@ Brewing is the art of producing beer. Not only does beer serve as an alcoholic b
 
 ##### Components
 
-[[5. Mechanics/Items/Brewers Supplies.md|Brewer's supplies]] include a large glass jug, a quantity of hops, a siphon, and several feet of tubing.
+[[5. Mechanics/Items/Brewers Supplies.md\|Brewer's supplies]] include a large glass jug, a quantity of hops, a siphon, and several feet of tubing.
 
 ##### History
 
-Proficiency with [[5. Mechanics/Items/Brewers Supplies.md|brewer's supplies]] gives you additional insight on Intelligence ([[/5. Mechanics/Rules/Skills.md#History|")"]] checks concerning events that involve alcohol as a significant element.
+Proficiency with [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]] gives you additional insight on Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) checks concerning events that involve alcohol as a significant element.
 
 ##### Medicine
 
@@ -99,7 +99,7 @@ This tool proficiency grants additional insight when you treat anyone suffering 
 
 ##### Persuasion
 
-A stiff drink can help soften the hardest heart. Your proficiency with [[5. Mechanics/Items/Brewers Supplies.md|brewer's supplies]] can help you ply someone with drink, giving them just enough alcohol to mellow their mood.
+A stiff drink can help soften the hardest heart. Your proficiency with [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]] can help you ply someone with drink, giving them just enough alcohol to mellow their mood.
 
 ##### Potable Water
 
@@ -120,7 +120,7 @@ Calligraphy treats writing as a delicate, beautiful art. Calligraphers produce t
 
 ##### Components
 
-[[5. Mechanics/Items/Calligraphers Supplies.md|Calligrapher's supplies]] include ink, a dozen sheets of parchment, and three quills.
+[[5. Mechanics/Items/Calligraphers Supplies.md\|Calligrapher's supplies]] include ink, a dozen sheets of parchment, and three quills.
 
 ##### Arcana
 
@@ -150,7 +150,7 @@ Skill at carpentry enables a character to construct wooden structures. A carpent
 
 ##### Components
 
-[[5. Mechanics/Items/Carpenters Tools.md|Carpenter's tools]] include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze, a plane, and a chisel.
+[[5. Mechanics/Items/Carpenters Tools.md\|Carpenter's tools]] include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze, a plane, and a chisel.
 
 ##### History
 
@@ -188,11 +188,11 @@ As part of a long rest, you can construct a lean-to or a similar shelter to keep
 
 #### Cartographer's Tools
 
-Using [[5. Mechanics/Items/Cartographers Tools.md|cartographer's tools]], you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.
+Using [[5. Mechanics/Items/Cartographers Tools.md\|cartographer's tools]], you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.
 
 ##### Components
 
-[[5. Mechanics/Items/Cartographers Tools.md|Cartographer's tools]] consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.
+[[5. Mechanics/Items/Cartographers Tools.md\|Cartographer's tools]] consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.
 
 ##### Arcana, History, Religion
 
@@ -226,7 +226,7 @@ Although the cobbler's trade might seem too humble for an adventurer, a good pai
 
 ##### Components
 
-[[5. Mechanics/Items/Cobblers Tools.md|Cobbler's tools]] consist of a hammer, an awl, a knife, a shoe stand, a cutter, spare leather, and thread.
+[[5. Mechanics/Items/Cobblers Tools.md\|Cobbler's tools]] consist of a hammer, an awl, a knife, a shoe stand, a cutter, spare leather, and thread.
 
 ##### Arcana, History
 
@@ -238,11 +238,11 @@ Footwear holds a surprising number of secrets. You can learn where someone has r
 
 ##### Maintain Shoes
 
-As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making saving throws to avoid [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].
+As part of a long rest, you can repair your companions' shoes. For the next 24 hours, up to six creatures of your choice who wear shoes you worked on can travel up to 10 hours a day without making saving throws to avoid [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].
 
 ##### Craft Hidden Compartment
 
-With 8 hours of work, you can add a hidden compartment to a pair of shoes. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. You make an Intelligence check using your tool proficiency to determine the Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|")"]] check DC needed to find the compartment.
+With 8 hours of work, you can add a hidden compartment to a pair of shoes. The compartment can hold an object up to 3 inches long and 1 inch wide and deep. You make an Intelligence check using your tool proficiency to determine the Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check DC needed to find the compartment.
 
 **Cobbler's Tools**
 
@@ -258,7 +258,7 @@ Adventuring is a hard life. With a cook along on the journey, your meals will be
 
 ##### Components
 
-[[5. Mechanics/Items/Cooks Utensils.md|Cook's utensils]] include a metal pot, knives, forks, a stirring spoon, and a ladle.
+[[5. Mechanics/Items/Cooks Utensils.md\|Cook's utensils]] include a metal pot, knives, forks, a stirring spoon, and a ladle.
 
 ##### History
 
@@ -274,7 +274,7 @@ When foraging for food, you can make do with ingredients you scavenge that other
 
 ##### Prepare Meals
 
-As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra hit point per Hit Die spent during a short rest, provided you have access to your [[5. Mechanics/Items/Cooks Utensils.md|cook's utensils]] and sufficient food.
+As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra hit point per Hit Die spent during a short rest, provided you have access to your [[5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]] and sufficient food.
 
 **Cook's Utensils**
 
@@ -288,11 +288,11 @@ As part of a short rest, you can prepare a tasty meal that helps your companions
 
 #### Disguise Kit
 
-The perfect tool for anyone who wants to engage in trickery, a [[5. Mechanics/Items/Disguise Kit.md|disguise kit]] enables its owner to adopt a false identity.
+The perfect tool for anyone who wants to engage in trickery, a [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]] enables its owner to adopt a false identity.
 
 ##### Components
 
-A [[5. Mechanics/Items/Disguise Kit.md|disguise kit]] includes cosmetics, hair dye, small props, and a few pieces of clothing.
+A [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]] includes cosmetics, hair dye, small props, and a few pieces of clothing.
 
 ##### Deception
 
@@ -312,7 +312,7 @@ Folk tend to trust a person in uniform. If you disguise yourself as an authority
 
 ##### Create Disguise
 
-As part of a long rest, you can create a disguise. It takes you 1 minute to don such a disguise once you have created it. You can carry only one such disguise on you at a time without drawing undue attention, unless you have a [[5. Mechanics/Items/Bag Of Holding.md|bag of holding]] or a similar method to keep them hidden. Each disguise weighs 1 pound.
+As part of a long rest, you can create a disguise. It takes you 1 minute to don such a disguise once you have created it. You can carry only one such disguise on you at a time without drawing undue attention, unless you have a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] or a similar method to keep them hidden. Each disguise weighs 1 pound.
 
 At other times, it takes 10 minutes to craft a disguise that involves moderate changes to your appearance, and 30 minutes for one that requires more extensive changes.
 
@@ -327,15 +327,15 @@ At other times, it takes 10 minutes to craft a disguise that involves moderate c
 
 #### Forgery Kit
 
-A [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] is designed to duplicate documents and to make it easier to copy a person's seal or signature.
+A [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] is designed to duplicate documents and to make it easier to copy a person's seal or signature.
 
 ##### Components
 
-A [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] includes several different types of ink, a variety of parchments and papers, several quills, seals and sealing wax, gold and silver leaf, and small tools to sculpt melted wax to mimic a seal.
+A [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] includes several different types of ink, a variety of parchments and papers, several quills, seals and sealing wax, gold and silver leaf, and small tools to sculpt melted wax to mimic a seal.
 
 ##### Arcana
 
-A [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] can be used in conjunction with the [[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]] skill to determine if a magic item is real or fake.
+A [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] can be used in conjunction with the [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] skill to determine if a magic item is real or fake.
 
 ##### Deception
 
@@ -343,19 +343,19 @@ A well-crafted forgery, such as papers proclaiming you to be a noble or a writ t
 
 ##### History
 
-A [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] combined with your knowledge of history improves your ability to create fake historical documents or to tell if an old document is authentic.
+A [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] combined with your knowledge of history improves your ability to create fake historical documents or to tell if an old document is authentic.
 
 ##### Investigation
 
-When you examine objects, proficiency with a [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] is useful for determining how an object was made and whether it is genuine.
+When you examine objects, proficiency with a [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] is useful for determining how an object was made and whether it is genuine.
 
 ##### Other Tools
 
-Knowledge of other tools makes your forgeries that much more believable. For example, you could combine proficiency with a [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] and proficiency with [[5. Mechanics/Items/Cartographers Tools.md|cartographer's tools]] to make a fake map.
+Knowledge of other tools makes your forgeries that much more believable. For example, you could combine proficiency with a [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] and proficiency with [[5. Mechanics/Items/Cartographers Tools.md\|cartographer's tools]] to make a fake map.
 
 ##### Quick Fake
 
-As part of a short rest, you can produce a forged document no more than one page in length. As part of a long rest, you can produce a document that is up to four pages long. Your Intelligence check using a [[5. Mechanics/Items/Forgery Kit.md|forgery kit]] determines the DC for someone else's Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|")"]] check to spot the fake.
+As part of a short rest, you can produce a forged document no more than one page in length. As part of a long rest, you can produce a document that is up to four pages long. Your Intelligence check using a [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]] determines the DC for someone else's Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to spot the fake.
 
 **Forgery Kit**
 
@@ -383,7 +383,7 @@ Playing games with someone is a good way to gain understanding of their personal
 
 ##### Sleight of Hand
 
-[[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]] is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt.
+[[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]] is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt.
 
 **Gaming Set**
 
@@ -395,7 +395,7 @@ Playing games with someone is a good way to gain understanding of their personal
 
 #### Glassblower's Tools
 
-Someone who is proficient with [[5. Mechanics/Items/Glassblowers Tools.md|glassblower's tools]] has not only the ability to shape glass, but also specialized knowledge of the methods used to produce glass objects.
+Someone who is proficient with [[5. Mechanics/Items/Glassblowers Tools.md\|glassblower's tools]] has not only the ability to shape glass, but also specialized knowledge of the methods used to produce glass objects.
 
 ##### Components
 
@@ -423,11 +423,11 @@ With 1 minute of study, you can identify the weak points in a glass object. Any 
 
 #### Herbalism Kit
 
-Proficiency with an [[5. Mechanics/Items/Herbalism Kit.md|herbalism kit]] allows you to identify plants and safely collect their useful elements.
+Proficiency with an [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] allows you to identify plants and safely collect their useful elements.
 
 ##### Components
 
-An [[5. Mechanics/Items/Herbalism Kit.md|herbalism kit]] includes pouches to store herbs, clippers and leather gloves for collecting plants, a mortar and pestle, and several glass jars.
+An [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] includes pouches to store herbs, clippers and leather gloves for collecting plants, a mortar and pestle, and several glass jars.
 
 ##### Arcana
 
@@ -459,19 +459,19 @@ You can identify most plants with a quick inspection of their appearance and sme
 
 #### Jeweler's Tools
 
-Training with [[5. Mechanics/Items/Jewelers Tools.md|jeweler's tools]] includes the basic techniques needed to beautify gems. It also gives you expertise in identifying precious stones.
+Training with [[5. Mechanics/Items/Jewelers Tools.md\|jeweler's tools]] includes the basic techniques needed to beautify gems. It also gives you expertise in identifying precious stones.
 
 ##### Components
 
-[[5. Mechanics/Items/Jewelers Tools.md|Jeweler's tools]] consist of a small saw and hammer, files, pliers, and tweezers.
+[[5. Mechanics/Items/Jewelers Tools.md\|Jeweler's tools]] consist of a small saw and hammer, files, pliers, and tweezers.
 
 ##### Arcana
 
-Proficiency with [[5. Mechanics/Items/Jewelers Tools.md|jeweler's tools]] grants you knowledge about the reputed mystical uses of gems. This insight proves handy when you make [[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]] checks related to gems or gem-encrusted items.
+Proficiency with [[5. Mechanics/Items/Jewelers Tools.md\|jeweler's tools]] grants you knowledge about the reputed mystical uses of gems. This insight proves handy when you make [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] checks related to gems or gem-encrusted items.
 
 ##### Investigation
 
-When you inspect jeweled objects, your proficiency with [[5. Mechanics/Items/Jewelers Tools.md|jeweler's tools]] aids you in picking out clues they might hold.
+When you inspect jeweled objects, your proficiency with [[5. Mechanics/Items/Jewelers Tools.md\|jeweler's tools]] aids you in picking out clues they might hold.
 
 ##### Identify Gems
 
@@ -518,7 +518,7 @@ Knowledge of leatherworking extends to lore concerning animal hides and their pr
 
 ##### Components
 
-[[5. Mechanics/Items/Leatherworkers Tools.md|Leatherworker's tools]] include a knife, a small mallet, an edger, a hole punch, thread, and leather scraps.
+[[5. Mechanics/Items/Leatherworkers Tools.md\|Leatherworker's tools]] include a knife, a small mallet, an edger, a hole punch, thread, and leather scraps.
 
 ##### Arcana
 
@@ -542,11 +542,11 @@ When looking at a hide or a leather item, you can determine the source of the le
 
 #### Mason's Tools
 
-[[5. Mechanics/Items/Masons Tools.md|Mason's tools]] allow you to craft stone structures, including walls and buildings crafted from brick.
+[[5. Mechanics/Items/Masons Tools.md\|Mason's tools]] allow you to craft stone structures, including walls and buildings crafted from brick.
 
 ##### Components
 
-[[5. Mechanics/Items/Masons Tools.md|Mason's tools]] consist of a trowel, a hammer, a chisel, brushes, and a square.
+[[5. Mechanics/Items/Masons Tools.md\|Mason's tools]] consist of a trowel, a hammer, a chisel, brushes, and a square.
 
 ##### History
 
@@ -598,15 +598,15 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 
 #### Navigator's Tools
 
-Proficiency with [[5. Mechanics/Items/Navigators Tools.md|navigator's tools]] helps you determine a true course based on observing the stars. It also grants you insight into charts and maps while developing your sense of direction.
+Proficiency with [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]] helps you determine a true course based on observing the stars. It also grants you insight into charts and maps while developing your sense of direction.
 
 ##### Components
 
-[[5. Mechanics/Items/Navigators Tools.md|Navigator's tools]] include a sextant, a compass, calipers, a ruler, parchment, ink, and a quill.
+[[5. Mechanics/Items/Navigators Tools.md\|Navigator's tools]] include a sextant, a compass, calipers, a ruler, parchment, ink, and a quill.
 
 ##### Survival
 
-Knowledge of [[5. Mechanics/Items/Navigators Tools.md|navigator's tools]] helps you avoid becoming lost and also grants you insight into the most likely location for roads and settlements.
+Knowledge of [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]] helps you avoid becoming lost and also grants you insight into the most likely location for roads and settlements.
 
 ##### Sighting
 
@@ -622,11 +622,11 @@ By taking careful measurements, you can determine your position on a nautical ch
 
 #### Painter's Supplies
 
-Proficiency with [[5. Mechanics/Items/Painters Supplies.md|painter's supplies]] represents your ability to paint and draw. You also acquire an understanding of art history, which can aid you in examining works of art.
+Proficiency with [[5. Mechanics/Items/Painters Supplies.md\|painter's supplies]] represents your ability to paint and draw. You also acquire an understanding of art history, which can aid you in examining works of art.
 
 ##### Components
 
-[[5. Mechanics/Items/Painters Supplies.md|Painter's supplies]] include an easel, canvas, paints, brushes, charcoal sticks, and a palette.
+[[5. Mechanics/Items/Painters Supplies.md\|Painter's supplies]] include an easel, canvas, paints, brushes, charcoal sticks, and a palette.
 
 ##### Arcana, History, Religion
 
@@ -650,11 +650,11 @@ As part of a short or long rest, you can produce a simple work of art. Although 
 
 #### Poisoner's Kit
 
-A [[5. Mechanics/Items/Poisoners Kit.md|poisoner's kit]] is a favored resource for thieves, assassins, and others who engage in skulduggery. It allows you to apply poisons and create them from various materials. Your knowledge of poisons also helps you treat them.
+A [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] is a favored resource for thieves, assassins, and others who engage in skulduggery. It allows you to apply poisons and create them from various materials. Your knowledge of poisons also helps you treat them.
 
 ##### Components
 
-A [[5. Mechanics/Items/Poisoners Kit.md|poisoner's kit]] includes glass vials, a mortar and pestle, chemicals, and a glass stirring rod.
+A [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] includes glass vials, a mortar and pestle, chemicals, and a glass stirring rod.
 
 ##### History
 
@@ -662,7 +662,7 @@ Your training with poisons can help you when you try to recall facts about infam
 
 ##### Investigation, Perception
 
-Your knowledge of poisons has taught you to handle those substances carefully, giving you an edge when you inspect [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] objects or try to extract clues from events that involve poison.
+Your knowledge of poisons has taught you to handle those substances carefully, giving you an edge when you inspect [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] objects or try to extract clues from events that involve poison.
 
 ##### Medicine
 
@@ -680,17 +680,17 @@ Your proficiency allows you to handle and apply a poison without risk of exposin
 
 | Activity | DC |
 |----------|----|
-| Spot a [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] object | 10 |
+| Spot a [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] object | 10 |
 | Determine the effects of a poison | 20 |
 ^poisoners-tools
 
 #### Potter's Tools
 
-[[5. Mechanics/Items/Potters Tools.md|Potter's tools]] are used to create a variety of ceramic objects, most typically pots and similar vessels.
+[[5. Mechanics/Items/Potters Tools.md\|Potter's tools]] are used to create a variety of ceramic objects, most typically pots and similar vessels.
 
 ##### Components
 
-[[5. Mechanics/Items/Potters Tools.md|Potter's tools]] include potter's needles, ribs, scrapers, a knife, and calipers.
+[[5. Mechanics/Items/Potters Tools.md\|Potter's tools]] include potter's needles, ribs, scrapers, a knife, and calipers.
 
 ##### History
 
@@ -715,11 +715,11 @@ By examining pottery shards, you can determine an object's original, intact form
 
 #### Smith's Tools
 
-[[5. Mechanics/Items/Smiths Tools.md|Smith's tools]] allow you to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
+[[5. Mechanics/Items/Smiths Tools.md\|Smith's tools]] allow you to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
 
 ##### Components
 
-[[5. Mechanics/Items/Smiths Tools.md|Smith's tools]] include hammers, tongs, charcoal, rags, and a whetstone.
+[[5. Mechanics/Items/Smiths Tools.md\|Smith's tools]] include hammers, tongs, charcoal, rags, and a whetstone.
 
 ##### Arcana and History
 
@@ -744,11 +744,11 @@ With access to your tools and an open flame hot enough to make metal pliable, yo
 
 #### Thieves' Tools
 
-Perhaps the most common tools used by adventurers, [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]] are designed for picking locks and foiling traps. Proficiency with the tools also grants you a general knowledge of traps and locks.
+Perhaps the most common tools used by adventurers, [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] are designed for picking locks and foiling traps. Proficiency with the tools also grants you a general knowledge of traps and locks.
 
 ##### Components
 
-[[5. Mechanics/Items/Thieves Tools.md|Thieves' tools]] include a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers.
+[[5. Mechanics/Items/Thieves Tools.md\|Thieves' tools]] include a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers.
 
 ##### History
 
@@ -772,11 +772,11 @@ Just as you can disable traps, you can also set them. As part of a short rest, y
 
 #### Tinker's Tools
 
-A set of [[5. Mechanics/Items/Tinkers Tools.md|tinker's tools]] is designed to enable you to repair many mundane objects. Though you can't manufacture much with [[5. Mechanics/Items/Tinkers Tools.md|tinker's tools]], you can mend torn clothes, sharpen a worn sword, and patch a tattered suit of chain mail.
+A set of [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] is designed to enable you to repair many mundane objects. Though you can't manufacture much with [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], you can mend torn clothes, sharpen a worn sword, and patch a tattered suit of chain mail.
 
 ##### Components
 
-[[5. Mechanics/Items/Tinkers Tools.md|Tinker's tools]] include a variety of hand tools, thread, needles, a whetstone, scraps of cloth and leather, and a small pot of glue.
+[[5. Mechanics/Items/Tinkers Tools.md\|Tinker's tools]] include a variety of hand tools, thread, needles, a whetstone, scraps of cloth and leather, and a small pot of glue.
 
 ##### History
 
@@ -801,11 +801,11 @@ You can restore 10 hit points to a damaged object for each hour of work. For any
 
 #### Weaver's Tools
 
-[[5. Mechanics/Items/Weavers Tools.md|Weaver's tools]] allow you to create cloth and tailor it into articles of clothing.
+[[5. Mechanics/Items/Weavers Tools.md\|Weaver's tools]] allow you to create cloth and tailor it into articles of clothing.
 
 ##### Components
 
-[[5. Mechanics/Items/Weavers Tools.md|Weaver's tools]] include thread, needles, and scraps of cloth. You know how to work a loom, but such equipment is too large to transport.
+[[5. Mechanics/Items/Weavers Tools.md\|Weaver's tools]] include thread, needles, and scraps of cloth. You know how to work a loom, but such equipment is too large to transport.
 
 ##### Arcana, History
 
@@ -834,11 +834,11 @@ Assuming you have access to sufficient cloth and thread, you can create an outfi
 
 #### Woodcarver's Tools
 
-[[5. Mechanics/Items/Woodcarvers Tools.md|Woodcarver's tools]] allow you to craft intricate objects from wood, such as wooden tokens or arrows.
+[[5. Mechanics/Items/Woodcarvers Tools.md\|Woodcarver's tools]] allow you to craft intricate objects from wood, such as wooden tokens or arrows.
 
 ##### Components
 
-[[5. Mechanics/Items/Woodcarvers Tools.md|Woodcarver's tools]] consist of a knife, a gouge, and a small saw.
+[[5. Mechanics/Items/Woodcarvers Tools.md\|Woodcarver's tools]] consist of a knife, a gouge, and a small saw.
 
 ##### Arcana, History
 

@@ -13,7 +13,7 @@ aliases: ["Morkoth"]
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -60,10 +60,10 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "traits":
 - "desc": "The morkoth casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-    \ [[5. Mechanics/Spells/Sending.md|sending]]"
+    \ will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Sending.md\|sending]]"
   "name": "spells"
 - "desc": "The morkoth can breathe air and water."
   "name": "Amphibious"
@@ -77,17 +77,17 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 15 ft., one target.\
     \ Hit: 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 14"]] if it\
-    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 14) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ and takes 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning damage at the start\
     \ of each of its turns, and the morkoth can't use its tentacles on another target."
   "name": "Tentacles"
 - "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature in\
     \ that area must make a DC 17 Wisdom saving throw. On a failed save, the creature\
-    \ is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the morkoth for 1 minute.\
-    \ While [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] in this way, the target\
-    \ tries to get as close to the morkoth as possible, using its actions to [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
-    \ until it is within 5 feet of the morkoth. A [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by the morkoth for 1 minute.\
+    \ While [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] in this way, the target\
+    \ tries to get as close to the morkoth as possible, using its actions to [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]]\
+    \ until it is within 5 feet of the morkoth. A [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ target can repeat the saving throw at the end of each of its turns and whenever\
     \ it takes damage, ending the effect on itself on a success. If a creature's saving\
     \ throw is successful or the effect ends for it, the creature has advantage on\

@@ -8,7 +8,7 @@ tags:
 aliases: ["Nature Domain"]
 ---
 # Nature Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 61*  
 
 
@@ -24,16 +24,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]] |
-| 3rd | [[5. Mechanics/Spells/Barkskin.md|barkskin]], [[5. Mechanics/Spells/Spike Growth.md|spike growth]] |
-| 5th | [[5. Mechanics/Spells/Plant Growth.md|plant growth]], [[5. Mechanics/Spells/Wind Wall.md|wind wall]] |
-| 7th | [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[5. Mechanics/Spells/Grasping Vine.md|grasping vine]] |
-| 9th | [[5. Mechanics/Spells/Insect Plague.md|insect plague]], [[5. Mechanics/Spells/Tree Stride.md|tree stride]] |
+| 1st | [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 3rd | [[5. Mechanics/Spells/Barkskin.md\|barkskin]], [[5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
+| 5th | [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Wind Wall.md\|wind wall]] |
+| 7th | [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[5. Mechanics/Spells/Grasping Vine.md\|grasping vine]] |
+| 9th | [[5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)
 
-At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [[/5. Mechanics/Rules/Skills.md#Animal%20Handling|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Nature|Nature]], or [[/5. Mechanics/Rules/Skills.md#Survival|Survival]].
+At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], or [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]].
 
 ### Bonus Proficiency (Level 1)
 
@@ -43,7 +43,7 @@ Also at 1st level, you gain proficiency with heavy armor.
 
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
-As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by you for 1 minute or until it takes damage. While it is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by you, it is friendly to you and other creatures you designate.
+As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you for 1 minute or until it takes damage. While it is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by you, it is friendly to you and other creatures you designate.
 
 ### Dampen Elements (Level 6)
 
@@ -55,4 +55,4 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ### Master of Nature (Level 17)
 
-At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.

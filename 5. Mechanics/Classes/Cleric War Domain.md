@@ -8,7 +8,7 @@ tags:
 aliases: ["War Domain"]
 ---
 # War Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 63*  
 
 
@@ -24,11 +24,11 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]] |
-| 3rd | [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]] |
-| 5th | [[5. Mechanics/Spells/Crusaders Mantle.md|crusader's mantle]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]] |
-| 7th | [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]] |
-| 9th | [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]] |
+| 1st | [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]] |
+| 3rd | [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] |
+| 5th | [[5. Mechanics/Spells/Crusaders Mantle.md\|crusader's mantle]], [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] |
+| 7th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 9th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^war-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -37,7 +37,7 @@ At 1st level, you gain proficiency with martial weapons and heavy armor.
 
 ### War Priest (Level 1)
 
-From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the [[/5. Mechanics/Rules/Actions.md#Attack|") action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once"]]. You regain all expended uses when you finish a long rest.
+From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Channel Divinity: Guided Strike (Level 2)
 

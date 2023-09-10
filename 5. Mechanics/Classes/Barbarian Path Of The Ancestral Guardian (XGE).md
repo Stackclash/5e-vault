@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Ancestral Guardian"]
 ---
 # Path of the Ancestral Guardian
-*[[nullBarbarian.md|Barbarian]]: Primal Path*  
+*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 
@@ -31,7 +31,7 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[5. Mechanics/Spells/Augury.md|augury]] or [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[5. Mechanics/Spells/Augury.md\|augury]] or [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 

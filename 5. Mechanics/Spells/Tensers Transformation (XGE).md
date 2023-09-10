@@ -23,10 +23,10 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 - When you hit a target with a weapon attack, that target takes an extra `dice: 2d12|avg` (`2d12`) force damage.  
 - You have proficiency with all armor, shields, simple weapons, and martial weapons.  
 - You have proficiency in Strength and Constitution saving throws.  
-- You can attack twice, instead of once, when you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.  
+- You can attack twice, instead of once, when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.  
 
-Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 168*

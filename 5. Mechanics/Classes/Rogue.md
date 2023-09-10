@@ -77,16 +77,16 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 - **Saving Throws**: Dexterity, Intelligence
 - **Armor**: light
-- **Weapons**: simple, [[5. Mechanics/Items/Hand Crossbow.md|hand crossbows]], [[5. Mechanics/Items/Longsword.md|longswords]], [[5. Mechanics/Items/Rapier.md|rapiers]], [[5. Mechanics/Items/Shortsword.md|shortswords]]
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]]
+- **Weapons**: simple, [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[5. Mechanics/Items/Longsword.md\|longswords]], [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]]
+- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
 - **Skills**: Choose 4 from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Investigation*, *Perception*, *Performance*, *Persuasion*, *Sleight of Hand*, *Stealth*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Rapier.md|") or (b"]] a [[5. Mechanics/Items/Shortsword.md|")  
-- (a"]] a [[5. Mechanics/Items/Shortbow.md|shortbow]] and [[5. Mechanics/Items/Quiver.md|quiver]] of [[5. Mechanics/Items/Arrows-20.md|") or (b"]] a [[5. Mechanics/Items/Shortsword.md|")  
-- (a"]] a [[5. Mechanics/Items/Burglars Pack.md|"), (b"]] a [[5. Mechanics/Items/Dungeoneers Pack.md|"), or (c"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- [[5. Mechanics/Items/Leather Armor.md|Leather armor]], two [[5. Mechanics/Items/Dagger.md|daggers]], and [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]]  
+- (a) a [[5. Mechanics/Items/Rapier.md\|rapier]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
+- (a) a [[5. Mechanics/Items/Shortbow.md\|shortbow]] and [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows-20.md\|20 arrows]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
+- (a) a [[5. Mechanics/Items/Burglars Pack.md\|burglar's pack]], (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]], or (c) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
+- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], two [[5. Mechanics/Items/Dagger.md\|daggers]], and [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]  
 
 Alternatively, you may start with 4d4 × 10 gp and choose your own equipment.
 
@@ -100,7 +100,7 @@ You gain the following proficiencies:
 
 - **Armor**: light
 - **Weapons**: none
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]]
+- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
 - **Skills**: Choose 1 from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Investigation*, *Perception*, *Performance*, *Persuasion*, *Sleight of Hand*, *Stealth*
 
 ## Rogue
@@ -133,7 +133,7 @@ What was the trigger that led you away from your previous life? Did a great con 
 
 #### Quick Build
 
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md|charlatan]] background.
+You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background.
 
 > [!quote]- A quote from Barnabas Bladecutter  
 > 
@@ -212,15 +212,15 @@ If your character's backstory doesn't already include a personage of this sort, 
 
 ### Expertise (Level 1)
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]]. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [[5. Mechanics/Items/Thieves Tools.md|")"]] to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]) to gain this benefit.
 
 ### Sneak Attack (Level 1)
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice: 1d6|avg` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], and you don't have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
@@ -232,7 +232,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ### Cunning Action (Level 2)
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action.
 
 ### Roguish Archetype (Level 3)
 
@@ -250,11 +250,11 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 ### Expertise (Level 6)
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [[5. Mechanics/Items/Thieves Tools.md|")"]] to gain the benefit of Expertise.
+At 6th level, you can choose two more of your proficiencies (in skills or with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]) to gain the benefit of Expertise.
 
 ### Evasion (Level 7)
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[5. Mechanics/Spells/Ice Storm.md|ice storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Ability Score Improvement (Level 8)
 
@@ -288,7 +288,7 @@ At 13th level, you gain a feature granted by your Roguish Archetype.
 
 ### Blindsense (Level 14)
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] creature within 10 feet of you.
 
 ### Slippery Mind (Level 15)
 
@@ -306,7 +306,7 @@ At 17th level, you gain a feature granted by your Roguish Archetype.
 
 ### Elusive (Level 18)
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
 ### Ability Score Improvement (Level 19)
 

@@ -20,6 +20,6 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Warlock.md|Warlock]]
+**Classes**: [[5. Mechanics/Classes/Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 215*

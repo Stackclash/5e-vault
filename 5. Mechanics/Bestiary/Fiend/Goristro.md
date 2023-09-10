@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -216,7 +216,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ hits it with a gore attack on the same turn, the target takes an extra 38 (dice:\
     \ 7d10|avg (7d10)) piercing damage. If the target is a creature, it must succeed\
     \ on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Charge"
 - "desc": "The goristro can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
@@ -234,7 +234,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
     \ Hit: 23 (dice: 3d10 + 7|avg (3d10 + 7)) bludgeoning damage. If the target\
     \ is a creature, it must succeed on a DC 21 Strength saving throw or be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Hoof"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
     \ Hit: 45 (dice: 7d10 + 7|avg (7d10 + 7)) piercing damage."

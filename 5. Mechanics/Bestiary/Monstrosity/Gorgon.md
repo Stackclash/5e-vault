@@ -20,7 +20,7 @@ A gorgon's iron plates range from steely black to gleaming silver, but this natu
 
 ## Monstrous Predator
 
-When a gorgon spots potential prey, it charges with a hideous clamor of metal on metal. When the gorgon hits, it pulverizes the foe and sends its sprawling, then tramples it to death with its cruel hooves. Faced with multiple foes, the gorgon exhales its deadly vapor to overcome the creatures it touches by turning them to stone. When it grows hungry, it smashes its [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] prey to rubble and uses its strong teeth to grind the stone into a powder that provides nourishment. The crisscrossing network of trampled trails and splintered trees that surrounds a gorgon lair is strewn with the uneaten fragments of its shattered foes.
+When a gorgon spots potential prey, it charges with a hideous clamor of metal on metal. When the gorgon hits, it pulverizes the foe and sends its sprawling, then tramples it to death with its cruel hooves. Faced with multiple foes, the gorgon exhales its deadly vapor to overcome the creatures it touches by turning them to stone. When it grows hungry, it smashes its [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] prey to rubble and uses its strong teeth to grind the stone into a powder that provides nourishment. The crisscrossing network of trampled trails and splintered trees that surrounds a gorgon lair is strewn with the uneaten fragments of its shattered foes.
 
 ```statblock
 "name": "Gorgon"
@@ -47,8 +47,8 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
 "traits":
 - "desc": "If the gorgon moves at least 20 feet straight toward a creature and then\
     \ hits it with a gore attack on the same turn, that target must succeed on a DC\
-    \ 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the gorgon\
+    \ 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the gorgon\
     \ can make one attack with its hooves against it as a bonus action."
   "name": "Trampling Charge"
 "actions":
@@ -60,11 +60,11 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
   "name": "Hooves"
 - "desc": "The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that\
     \ area must succeed on a DC 13 Constitution saving throw. On a failed save, a\
-    \ target begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
-    \ The [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] target must repeat\
+    \ target begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
+    \ The [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] target must repeat\
     \ the saving throw at the end of its next turn. On a success, the effect ends\
-    \ on the target. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
-    \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ on the target. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]]\
+    \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
     \ spell or other magic."
   "name": "Petrifying Breath (Recharge 5-6)"
 "source":

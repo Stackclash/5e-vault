@@ -14,7 +14,7 @@ aliases: ["Longsword"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 3.0 lbs.
 

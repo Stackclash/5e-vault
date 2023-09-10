@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of Dreams"]
 ---
 # Circle of Dreams
-*[[nullDruid.md|Druid]]: Druid Circle*  
+*[[nullDruid.md\|Druid]]: Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 22*  
 
 
@@ -29,7 +29,7 @@ You regain all expended dice when you finish a long rest.
 
 At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
 
-While within the sphere, you and your allies gain a +5 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")) checks, and any light from open flames in the sphere (a campfire, torches, or the like"]] isn't visible outside it.
+While within the sphere, you and your allies gain a +5 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
 
 The sphere vanishes at the end of the rest or when you leave the sphere.
 
@@ -43,8 +43,8 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.
 
-When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [[5. Mechanics/Spells/Dream.md|") (with you as the messenger"]], [[5. Mechanics/Spells/Scrying.md|scrying]], or [[5. Mechanics/Spells/Teleportation Circle.md|teleportation circle]].
+When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [[5. Mechanics/Spells/Dream.md\|dream]] (with you as the messenger), [[5. Mechanics/Spells/Scrying.md\|scrying]], or [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]].
 
-This use of [[5. Mechanics/Spells/Teleportation Circle.md|teleportation circle]] is special. Rather than opening a portal to a permanent [[5. Mechanics/Spells/Teleportation Circle.md|teleportation circle]], it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+This use of [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] is special. Rather than opening a portal to a permanent [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
 Once you use this feature, you can't use it again until you finish a long rest.

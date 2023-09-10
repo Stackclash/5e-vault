@@ -57,12 +57,12 @@ A naga doesn't require air, food, drink, or sleep.
 - "desc": "The naga is a 5th-level spellcaster (spell save DC 12, dice: d20+4 (+4\
     \ to hit) with spell attacks) that needs only verbal components to cast its spells.\
     \ Its spellcasting ability is Intelligence, and it has the following wizard spells\
-    \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Charm Person.md|charm person]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 2nd-level slots): [detect\
-    \ thoughts](compendium/spells/detect-thoughts.md), [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
-    \n3rd level (2 3rd-level slots): [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
+    \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Charm Person.md\|charm person]],\
+    \ [[5. Mechanics/Spells/Sleep.md\|sleep]]\n\n2nd level (3 2nd-level slots): [detect\
+    \ thoughts](compendium/spells/detect-thoughts.md), [[5. Mechanics/Spells/Hold Person.md\|hold person]]\n\
+    \n3rd level (2 3rd-level slots): [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\

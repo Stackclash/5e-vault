@@ -7,7 +7,7 @@ tags:
 aliases: ["School of Conjuration"]
 ---
 # School of Conjuration
-*[[nullWizard.md|Wizard]]: Arcane Tradition*  
+*[[nullWizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 116*  
 
 
@@ -35,7 +35,7 @@ Once you use this feature, you can't use it again until you finish a long rest o
 
 ### Focused Conjuration (Level 10)
 
-Beginning at 10th level, while you are concentrating on a conjuration spell, your [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] can't be broken as a result of taking damage.
+Beginning at 10th level, while you are concentrating on a conjuration spell, your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] can't be broken as a result of taking damage.
 
 ### Durable Summons (Level 14)
 

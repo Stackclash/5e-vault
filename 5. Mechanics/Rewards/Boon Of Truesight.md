@@ -8,6 +8,6 @@ aliases: ["Boon of Truesight"]
 ---
 # Boon of Truesight
 
-You have [[/5. Mechanics/Rules/Senses.md#truesight|truesight]] out to a range of 60 feet.
+You have [[/5. Mechanics/Rules/Senses.md#truesight\|truesight]] out to a range of 60 feet.
 
 *Source: Dungeon Master's Guide p. 232*

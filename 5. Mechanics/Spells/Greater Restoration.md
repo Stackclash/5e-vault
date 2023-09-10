@@ -20,13 +20,13 @@ aliases: ["Greater Restoration"]
 - **Components:** V, S, diamond dust worth at least 100 gp, which the spell consumes
 - **Duration:** Instantaneous
 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] level by one, or end one of the following effects on the target:
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] level by one, or end one of the following effects on the target:
 
-- One effect that [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] the target  
+- One effect that [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] the target  
 - One curse, including the target's attunement to a cursed magic item  
 - Any reduction to one of the target's ability scores  
 - One effect reducing the target's hit point maximum  
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
 
 *Source: Player's Handbook p. 246. Available in the SRD and the Basic Rules.*

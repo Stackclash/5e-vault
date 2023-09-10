@@ -63,8 +63,8 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "traits":
 - "desc": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva\
     \ can innately cast the following spells, requiring only verbal components:\n\n\
-    At will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+    At will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Commune.md\|commune]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]]"
   "name": "innate"
 - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
     \ the weapon deals an extra dice: 4d8|avg (4d8) radiant damage (included in\

@@ -39,15 +39,15 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "traits":
 - "desc": "The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The fanatic\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]"
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md\|light]],\
+    \ [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md\|command]],\
+    \ [[5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md\|hold person]],\
+    \ [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]"
   "name": "spells"
-- "desc": "The fanatic has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+- "desc": "The fanatic has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]."
   "name": "Dark Devotion"
 "actions":
 - "desc": "The fanatic makes two melee attacks."

@@ -13,7 +13,7 @@ aliases: ["Dart"]
 
 - **Damage**: 1d4 P
 - **Range**: 20/60
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 5 cp
 - **Weight**: 0.25 lbs.
 

@@ -27,17 +27,17 @@ You can see in dim light within 120 feet of you as if it were bright light and i
 
 ### Duergar Magic
 
-Starting at 3rd level, you can cast the [enlarge/reduce](compendium/spells/enlarge-reduce.md) spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the [[5. Mechanics/Spells/Invisibility.md|") spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [enlarge/reduce](compendium/spells/enlarge-reduce.md) spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the [[5. Mechanics/Spells/Invisibility.md\|invisibility]] spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race"]].
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 ### Dwarven Resilience
 
-You have advantage on saving throws you make to avoid or end the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition on yourself. You also have resistance to poison damage.
+You have advantage on saving throws you make to avoid or end the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition on yourself. You also have resistance to poison damage.
 
 ### Psionic Fortitude
 
-You have advantage on saving throws you make to avoid or end the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] or [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] condition on yourself.
+You have advantage on saving throws you make to avoid or end the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] condition on yourself.
 
 ## Description
 

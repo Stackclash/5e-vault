@@ -18,7 +18,7 @@ Although solitary by nature, grells sometimes gather in small groups called cove
 
 ## Floating Ambushers
 
-A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] creature in its clutches.
+A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] creature in its clutches.
 
 ## Alien Devourers
 
@@ -60,12 +60,12 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one creature.\
     \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage, and the target\
-    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and it can repeat\
+    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] target\
+    \ is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], and it can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on a success.\n\
-    \nThe target is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \nThe target is also [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape\
+    \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ until this grapple ends. While grappling the target, the grell has advantage\
     \ on attack rolls against it and can 't use this attack against other targets.\
     \ When the grell moves, any Medium or smaller target it is grappling moves with\

@@ -38,7 +38,7 @@ Make sure your players know how long you plan to use survivors and that they'll 
 
 #### What's Old Is New
 
-![[/5. Mechanics/Rules/Variant Rules/img/vrgr-111-04-007-for-survivors.png#center|"For survivors, any foe might become the focus of its own horror adventure"]]
+![[/5. Mechanics/Rules/Variant Rules/img/vrgr-111-04-007-for-survivors.png#center\|"For survivors, any foe might become the focus of its own horror adventure"]]
 
 Dwindling resources contribute to terrifying situations. When a group runs out of hit points, spells, food, or other vital reserves, tension and dread increase. High-level characters, though, have such resources in spades. By running an adventure using survivors, you can recapture some of the same tension adventurers experience early in their careers, encouraging players to use their wits and make desperate choices powerful characters can avoid.
 
@@ -77,7 +77,7 @@ Survivors don't possess classes as detailed in the "Player's Handbook". Despite 
 
 Whenever a survivor gains a level, it gains one Hit Die and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type that appears in the survivor's stat block), and add the survivor's Constitution modifier. It gains a minimum of 1 hit point per level.
 
-If a survivor drops to 0 hit points, it falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] and subsequently makes death saving throws just like a normal player character.
+If a survivor drops to 0 hit points, it falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] and subsequently makes death saving throws just like a normal player character.
 
 ### Survivor Talents
 
@@ -85,13 +85,13 @@ At 2nd level and again at 3rd level, a survivor gains their choice of one of the
 
 #### Adrenaline Surge
 
-At the start of your turn, you can choose one creature you can see within 30 feet of you. Until the start of your next turn, you are [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of that creature and your walking speed is doubled.
+At the start of your turn, you can choose one creature you can see within 30 feet of you. Until the start of your next turn, you are [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of that creature and your walking speed is doubled.
 
 #### Desperate Scream
 
 Whenever you make a saving throw, you can summon your desire to live into a desperate scream. You gain advantage on the saving throw, and the scream is audible up to 100 feet away. You can scream in this way twice, and you regain all expended uses when you finish a long rest.
 
-![[/5. Mechanics/Rules/Variant Rules/img/vrgr-112-04-008-survivors.png#center|"Survivors are everyday people thrown into terrifying situations"]]
+![[/5. Mechanics/Rules/Variant Rules/img/vrgr-112-04-008-survivors.png#center\|"Survivors are everyday people thrown into terrifying situations"]]
 
 #### Divine Guidance
 

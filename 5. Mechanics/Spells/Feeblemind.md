@@ -25,8 +25,8 @@ On a failed save, the creature's Intelligence and Charisma scores become 1. The 
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
-The spell can also be ended by [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]], [[5. Mechanics/Spells/Heal.md|heal]], or [[5. Mechanics/Spells/Wish.md|wish]].
+The spell can also be ended by [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[5. Mechanics/Spells/Heal.md\|heal]], or [[5. Mechanics/Spells/Wish.md\|wish]].
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 239. Available in the SRD.*

@@ -35,7 +35,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 - "desc": "If the sea horse moves at least 20 feet straight toward a target and then\
     \ hits it with a ram attack on the same turn, the target takes an extra 7 (dice:\
     \ 2d6|avg (2d6)) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Charge"
 - "desc": "The sea horse can breathe only underwater."
   "name": "Water Breathing"

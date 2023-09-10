@@ -92,7 +92,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
     \ Hit: 11 (dice: 1d10 + 6|avg (1d10 + 6)) bludgeoning damage, and if the\
     \ target is a Large or smaller creature, it must succeed on a DC 18 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Fist"
 - "desc": "The juggernaut magically shapes a feature of its surroundings into a deadly\
     \ implement. A creature the juggernaut can see within 60 feet of it must make\
@@ -100,7 +100,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
     \ is struck by one of the following (juggernaut's choice):"
   "name": "Deadly Shaping (Recharge 5-6)"
 - "desc": "The target takes 22 (dice: 5d8|avg (5d8)) bludgeoning damage and is\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the start\
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] until the start\
     \ of the juggernaut's next turn, and the implement vanishes."
   "name": "Flying Stone"
 - "desc": "The target takes 14 (dice: 4d6|avg (4d6)) slashing damage, and the\

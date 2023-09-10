@@ -20,6 +20,6 @@ You move like the wind. Until the spell ends, your movement doesn't provoke oppo
 
 Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra `dice: 1d8|avg` (`1d8`) force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
-**Classes**: [[5. Mechanics/Classes/Ranger.md|Ranger]]
+**Classes**: [[5. Mechanics/Classes/Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 171*

@@ -58,10 +58,10 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 "traits":
 - "desc": "Zuggtmoy casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Locate Animals Or Plants.md|locate animals or plants]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Etherealness.md|etherealness]], [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Etherealness.md\|etherealness]], [[5. Mechanics/Spells/Teleport.md\|teleport]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Entangle.md\|entangle]],\
+    \ [[5. Mechanics/Spells/Plant Growth.md\|plant growth]]"
   "name": "spells"
 - "desc": "If Zuggtmoy fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -86,7 +86,7 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
     \ must repeat the saving throw at the end of every 24 hours, ending the infection\
     \ on a success. On a failure, the infected creature's body is slowly taken over\
     \ by fungal growth, and after three such failed saves, the creature dies and is\
-    \ reanimated as a [[5. Mechanics/Bestiary/Plant/Quaggoth Spore Servant.md|spore servant]]\
+    \ reanimated as a [[5. Mechanics/Bestiary/Plant/Quaggoth Spore Servant.md\|spore servant]]\
     \ if it's a type of creature that can be."
   "name": "Infestation Spores (3/Day)"
 - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
@@ -95,18 +95,18 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
     \ saving throw. On a successful save, a creature can't be infected by these spores\
     \ for 24 hours. On a failed save, the creature is infected with a disease called\
     \ the influence of Zuggtmoy for 24 hours. While infected in this way, the creature\
-    \ is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by her and can't be reinfected\
+    \ is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by her and can't be reinfected\
     \ by these spores."
   "name": "Mind Control Spores (Recharge 5-6)"
 "reactions":
 - "desc": "When Zuggtmoy is hit by an attack roll, one creature within 10 feet of\
-    \ her that is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by her is hit\
+    \ her that is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by her is hit\
     \ by the attack instead."
   "name": "Protective Thrall"
 "legendary_actions":
 - "desc": "Zuggtmoy makes one Pseudopod attack."
   "name": "Attack"
-- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by Zuggtmoy\
+- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by Zuggtmoy\
     \ that she can see must use its reaction, if a available, to move up to its speed\
     \ as she directs or to make one weapon attack against a target that she designates."
   "name": "Exert Will"

@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Trickster"]
 ---
 # Arcane Trickster
-*[[nullRogue.md|Rogue]]: Roguish Archetype*  
+*[[nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97*  
 
 > [!tldr]- Class progression
@@ -51,13 +51,13 @@ When you reach 3rd level, you gain the ability to cast spells. See "chapter 10" 
 
 #### Cantrips
 
-You learn three cantrips: [[5. Mechanics/Spells/Mage Hand.md|mage hand]] and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
+You learn three cantrips: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
 
 #### Spell Slots
 
 The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Charm Person.md|charm person]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Charm Person.md|charm person]] using either slot.
+For example, if you know the 1st-level spell [[5. Mechanics/Spells/Charm Person.md\|charm person]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Charm Person.md\|charm person]] using either slot.
 
 #### Spells Known of 1st-Level and Higher
 
@@ -79,13 +79,13 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 ### Mage Hand Legerdemain (Level 3)
 
-Starting at 3rd level, when you cast [[5. Mechanics/Spells/Mage Hand.md|mage hand]], you can make the spectral hand [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]], and you can perform the following additional tasks with it:
+Starting at 3rd level, when you cast [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], you can make the spectral hand [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], and you can perform the following additional tasks with it:
 
 - You can stow one object the hand is holding in a container worn or carried by another creature.  
 - You can retrieve an object in a container worn or carried by another creature.  
-- You can use [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]] to pick locks and disarm traps at range.  
+- You can use [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to pick locks and disarm traps at range.  
 
-You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|")"]] check contested by the creature's Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] check.
+You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check contested by the creature's Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
 In addition, you can use the bonus action granted by your Cunning Action to control the hand.
 
@@ -95,7 +95,7 @@ Starting at 9th level, if you are hidden from a creature when you cast a spell o
 
 ### Versatile Trickster (Level 13)
 
-At 13th level, you gain the ability to distract targets with your [[5. Mechanics/Spells/Mage Hand.md|mage hand]]. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+At 13th level, you gain the ability to distract targets with your [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
 
 ### Spell Thief (Level 17)
 

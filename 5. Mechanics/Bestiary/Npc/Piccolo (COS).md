@@ -33,7 +33,7 @@ aliases: ["Piccolo"]
 "traits":
 - "desc": "Piccolo has advantage on an attack roll against a creature if at least\
     \ one of Piccolo's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\

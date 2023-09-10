@@ -56,7 +56,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The griffon has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The griffon has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":

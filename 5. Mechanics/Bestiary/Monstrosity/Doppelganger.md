@@ -72,11 +72,11 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
     \ 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt,\
     \ 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While\
     \ the target is in range, the doppelganger can continue reading its thoughts,\
-    \ as long as the doppelganger's [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+    \ as long as the doppelganger's [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
     \ isn't broken (as if concentrating on a spell). While reading the target's mind,\
-    \ the doppelganger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]]\
-    \ and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|Deception]], [[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]],\
-    \ and [[/5. Mechanics/Rules/Skills.md#Persuasion|")"]] checks against the\
+    \ the doppelganger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]])\
+    \ and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]],\
+    \ and [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks against the\
     \ target."
   "name": "Read Thoughts"
 "source":

@@ -15,7 +15,7 @@ aliases: ["Spear"]
   - One-handed: 1d6 P
   - Two-handed: 1d8 P
 - **Range**: 20/60
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: 1 gp
 - **Weight**: 3.0 lbs.
 

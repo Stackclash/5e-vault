@@ -20,7 +20,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 ## Reclusive Fey
 
-Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]].
+Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]].
 
 Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
 
@@ -53,10 +53,10 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 "traits":
 - "desc": "The dryad's innate spellcasting ability is Charisma (spell save DC 14).\
     \ The dryad can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Barkskin.md|barkskin]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]],\
-    \ [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\n3/day each: [[5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[5. Mechanics/Spells/Goodberry.md|goodberry]]"
+    \nAt will: [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Barkskin.md\|barkskin]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]],\
+    \ [[5. Mechanics/Spells/Shillelagh.md\|shillelagh]]\n\n3/day each: [[5. Mechanics/Spells/Entangle.md\|entangle]],\
+    \ [[5. Mechanics/Spells/Goodberry.md\|goodberry]]"
   "name": "innate"
 - "desc": "The dryad has advantage on saving throws against spells and other magical\
     \ effects."
@@ -76,8 +76,8 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
   "name": "Club"
 - "desc": "The dryad targets one humanoid or beast that she can see within 30 feet\
     \ of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving\
-    \ throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]. The\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] creature regards the dryad\
+    \ throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]. The\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] creature regards the dryad\
     \ as a trusted friend to be heeded and protected. Although the target isn't under\
     \ the dryad's control, it takes the dryad's requests or actions in the most favorable\
     \ way it can.\n\nEach time the dryad or its allies do anything harmful to the\
@@ -86,7 +86,7 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
     \ plane of existence from the target, or ends the effect as a bonus action. If\
     \ a target's saving throw is successful, the target is immune to the dryad's Fey\
     \ Charm for the next 24 hours.\n\nThe dryad can have no more than one humanoid\
-    \ and up to three beasts [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] at\
+    \ and up to three beasts [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] at\
     \ a time."
   "name": "Fey Charm"
 "source":

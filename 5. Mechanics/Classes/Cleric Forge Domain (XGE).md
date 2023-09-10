@@ -8,7 +8,7 @@ tags:
 aliases: ["Forge Domain"]
 ---
 # Forge Domain
-*[[nullCleric.md|Cleric]]: Divine Domain*  
+*[[nullCleric.md\|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 18*  
 
 
@@ -24,16 +24,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Searing Smite.md|searing smite]] |
-| 3rd | [[5. Mechanics/Spells/Heat Metal.md|heat metal]], [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]] |
-| 5th | [[5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]], [[5. Mechanics/Spells/Protection From Energy.md|protection from energy]] |
-| 7th | [[5. Mechanics/Spells/Fabricate.md|fabricate]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]] |
-| 9th | [[5. Mechanics/Spells/Animate Objects.md|animate objects]], [[5. Mechanics/Spells/Creation.md|creation]] |
+| 1st | [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Searing Smite.md\|searing smite]] |
+| 3rd | [[5. Mechanics/Spells/Heat Metal.md\|heat metal]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
+| 5th | [[5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 7th | [[5. Mechanics/Spells/Fabricate.md\|fabricate]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
+| 9th | [[5. Mechanics/Spells/Animate Objects.md\|animate objects]], [[5. Mechanics/Spells/Creation.md\|creation]] |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [[5. Mechanics/Items/Smiths Tools.md|smith's tools]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]].
 
 ### Blessing of the Forge (Level 1)
 

@@ -22,6 +22,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Marble Elephant
 
-This marble statuette is about 4 inches high and long. It can become an [[5. Mechanics/Bestiary/Beast/Elephant.md|elephant]] for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
+This marble statuette is about 4 inches high and long. It can become an [[5. Mechanics/Bestiary/Beast/Elephant.md\|elephant]] for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170. Available in the SRD.*

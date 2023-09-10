@@ -61,8 +61,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "traits":
 - "desc": "The oblex casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n3/day\
-    \ each: [[5. Mechanics/Spells/Charm Person.md|") (as 5th-level spell"]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]]"
+    \ each: [[5. Mechanics/Spells/Charm Person.md\|charm person]] (as 5th-level spell),\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]]"
   "name": "spells"
 - "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
@@ -81,15 +81,15 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
     \ must succeed on a DC 15 Wisdom saving throw or take 18 (dice: 4d8|avg (4d8))\
     \ psychic damage and become memory drained until it finishes a short or long rest\
-    \ or until it benefits from the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ or [[5. Mechanics/Spells/Heal.md|heal]] spell. Constructs, Oozes, Plants, and Undead\
+    \ or until it benefits from the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
+    \ or [[5. Mechanics/Spells/Heal.md\|heal]] spell. Constructs, Oozes, Plants, and Undead\
     \ succeed on the save automatically.\n\nWhile memory drained, the target must\
     \ roll a dice: d4|avg (d4) and subtract the number rolled from its ability\
     \ checks and attack rolls. Each time the target is memory drained beyond the first,\
     \ the die size increases by one: the dice: d4|avg (d4) becomes a dice: d6|avg\
     \ (d6), the dice: d6|avg (d6) becomes a dice: d8|avg (d8), and so on\
     \ until the die becomes a dice: d20|avg (d20), at which point the target becomes\
-    \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 hour. The effect\
+    \ [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1 hour. The effect\
     \ then ends.\n\nThe oblex learns all the languages a memory-drained target knows\
     \ and gains all its skill proficiencies."
   "name": "Eat Memories"

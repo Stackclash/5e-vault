@@ -49,7 +49,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-- "desc": "The nothic has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The nothic has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
@@ -65,7 +65,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 - "desc": "The nothic targets one creature it can see within 30 feet of it. The target\
     \ must contest its Charisma (Deception) check against the nothic's Wisdom (Insight)\
     \ check. If the nothic wins, it magically learns one fact or secret about the\
-    \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]."
+    \ target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]."
   "name": "Weird Insight"
 "source":
 - "MM"

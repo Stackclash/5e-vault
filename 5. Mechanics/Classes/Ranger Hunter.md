@@ -7,7 +7,7 @@ tags:
 aliases: ["Hunter"]
 ---
 # Hunter
-*[[nullRanger.md|Ranger]]: Ranger Archetype*  
+*[[nullRanger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93. Available in the SRD.*  
 
 
@@ -47,7 +47,7 @@ At 7th level, you gain one of the following features of your choice.
 
 - **Steel Will**  
 
-    You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]].  
+    You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].  
 
 ### Multiattack (Level 11)
 
@@ -67,7 +67,7 @@ At 15th level, you gain one of the following features of your choice.
 
 - **Evasion**  
 
-    You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
+    You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
 
 - **Stand Against the Tide**  
 

@@ -43,14 +43,14 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "9"
 "traits":
 - "desc": "The abjurer casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 16):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n2/day each: [dispel\
-    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+    \ spellcasting ability (spell save DC 16):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Banishment.md\|banishment]],\
+    \ [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
+    \ [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]]\n\n2/day each: [dispel\
+    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]]"
   "name": "spells"
 "actions":
 - "desc": "The abjurer makes three Arcane Burst attacks."

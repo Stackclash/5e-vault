@@ -15,7 +15,7 @@ aliases: ["Longbow"]
 
 - **Damage**: 1d8 P
 - **Range**: 150/600
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed|Two-handed]]
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Cost**: 50 gp
 - **Weight**: 2.0 lbs.
 

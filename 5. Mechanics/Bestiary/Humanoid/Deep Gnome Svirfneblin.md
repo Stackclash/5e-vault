@@ -53,9 +53,9 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 "traits":
 - "desc": "The gnome's innate spellcasting ability is Intelligence (spell save DC\
     \ 11). It can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Nondetection.md|") (self only"]]\n\
+    \nAt will: [[5. Mechanics/Spells/Nondetection.md\|nondetection]] (self only)\n\
     \n1/day each: [blindness/deafness](compendium/spells/blindness-deafness.md),\
-    \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]]"
+    \ [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]]"
   "name": "innate"
 - "desc": "The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky\
     \ terrain."
@@ -69,7 +69,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
   "name": "War Pick"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
     \ creature. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage, and the\
-    \ target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success"
   "name": "Poisoned Dart"

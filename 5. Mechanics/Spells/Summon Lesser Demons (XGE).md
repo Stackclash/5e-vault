@@ -28,7 +28,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 | 5-6 | Eight demons of challenge rating 1/4 or lower |
 ^dice-avg-demons-summoned
 
-The DM chooses the demons, such as [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]] or [[5. Mechanics/Bestiary/Fiend/Dretch.md|dretches]], and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
+The DM chooses the demons, such as [[5. Mechanics/Bestiary/Fiend/Manes.md\|manes]] or [[5. Mechanics/Bestiary/Fiend/Dretch.md\|dretches]], and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
 
 The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 
@@ -36,6 +36,6 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 167*

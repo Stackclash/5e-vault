@@ -45,15 +45,15 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 - "desc": "The dreadnought's eye creates an area of antimagic, as in the [antimagic\
     \ field](compendium/spells/antimagic-field.md) spell, in a 150-foot cone. At the\
     \ start of each of its turns, it decides which way the cone faces. The cone doesn't\
-    \ function while the eye is closed or while the dreadnought is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]."
+    \ function while the eye is closed or while the dreadnought is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]."
   "name": "Antimagic Cone"
 - "desc": "The dreadnought can't leave the Astral Plane, nor can it be banished or\
     \ otherwise transported out of that plane."
   "name": "Astral Entity"
 - "desc": "Anything the dreadnought swallows is transported to a demiplane that can\
-    \ be entered by no other means except a [[5. Mechanics/Spells/Wish.md|wish]] spell\
+    \ be entered by no other means except a [[5. Mechanics/Spells/Wish.md\|wish]] spell\
     \ or the dreadnought's Bite and Donjon Visit. A creature can leave the demiplane\
-    \ only by using magic that enables planar travel, such as the [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
+    \ only by using magic that enables planar travel, such as the [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]\
     \ spell. The demiplane resembles a stone cave roughly 1,000 feet in diameter with\
     \ a ceiling 100 feet high. Like a stomach, it contains the remains of past meals.\
     \ The dreadnought can't be harmed from within the demiplane. If the dreadnought\
@@ -63,7 +63,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 - "desc": "If the dreadnought fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "If the dreadnought scores a critical hit against a creature traveling by\
-    \ means of the [[5. Mechanics/Spells/Astral Projection.md|astral projection]] spell,\
+    \ means of the [[5. Mechanics/Spells/Astral Projection.md\|astral projection]] spell,\
     \ the dreadnought can cut the target's silver cord instead of dealing damage."
   "name": "Sever Silver Cord"
 - "desc": "The dreadnought doesn't require air, food, drink, or sleep."
@@ -74,7 +74,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
     \ Hit: 36 (dice: 5d10 + 9|avg (5d10 + 9)) force damage. If the target is\
     \ a Huge or smaller creature and this damage reduces it to 0 hit points or it\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], the dreadnought\
+    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the dreadnought\
     \ swallows it. The swallowed target, along with everything it is wearing and carrying,\
     \ appears in an unoccupied space on the floor of the Demiplanar Donjon."
   "name": "Bite"

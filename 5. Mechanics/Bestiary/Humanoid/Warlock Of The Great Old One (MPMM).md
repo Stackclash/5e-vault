@@ -48,16 +48,16 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "cr": "6"
 "traits":
 - "desc": "The warlock casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 15): \n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Levitate.md|levitate]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md|") (self only"]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
+    \ ability (spell save DC 15): \n\nAt will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Guidance.md\|guidance]], [[5. Mechanics/Spells/Levitate.md\|levitate]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]] (self only), [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Arcane Gate.md\|arcane gate]], [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
+    \ [[5. Mechanics/Spells/True Seeing.md\|true seeing]]"
   "name": "spells"
 - "desc": "At the start of each of the warlock's turns, each creature of its choice\
     \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (dice:\
-    \ 3d6|avg (3d6)) psychic damage, provided that the warlock isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ 3d6|avg (3d6)) psychic damage, provided that the warlock isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Whispering Aura"
 "actions":
 - "desc": "The warlock makes two Dagger attacks."
@@ -69,9 +69,9 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - "desc": "The warlock opens a momentary extraplanar rift within 60 feet of it. The\
     \ rift is a scream-filled, 20-foot cube. Each creature in that area must make\
     \ a DC 15 Wisdom saving throw. On a failed save, a creature takes 9 (dice: 2d8|avg\
-    \ (2d8)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ (2d8)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ of the warlock until the start of the warlock's next turn. On a successful save,\
-    \ a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."
+    \ a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]."
   "name": "Howling Void"
 "source":
 - "MPMM"

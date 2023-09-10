@@ -20,6 +20,6 @@ aliases: ["Dark Fantasy Adventure Sites"]
 | 4 | A criminal consortium's lavish sewer-academy, where recruits are transformed to be perfectly suited to enacting one near-impossible heist |
 | 5 | The fractured mind-scape of a powerful but dormant sentient weapon |
 | 6 | A massive construct-cathedral built to exact the ultimate expression of faith and sacrifice |
-| 7 | A palace where the nonhumanoid inhabitants purposefully [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] themselves |
+| 7 | A palace where the nonhumanoid inhabitants purposefully [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] themselves |
 | 8 | A fortress with seven locked gates that seal off the underworld |
 ^dark-fantasy-adventure-sites

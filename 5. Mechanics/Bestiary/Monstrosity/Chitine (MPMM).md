@@ -43,11 +43,11 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "languages": "Undercommon"
 "cr": "1/2"
 "traits":
-- "desc": "The chitine has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+- "desc": "The chitine has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
     \ and magic can't put the chitine to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 - "desc": "While in contact with a web, the chitine knows the exact location of any\

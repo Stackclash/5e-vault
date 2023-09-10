@@ -16,7 +16,7 @@ aliases: ["Staff of the Magi"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
@@ -30,9 +30,9 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[5. Mechanics/Spells/Conjure Elemental.md|") (7 charges"]], [[5. Mechanics/Spells/Dispel Magic.md|") (3 charges"]], [[5. Mechanics/Spells/Fireball.md|") (7th-level version, 7 charges"]], [[5. Mechanics/Spells/Flaming Sphere.md|") (2 charges"]], [[5. Mechanics/Spells/Ice Storm.md|") (4 charges"]], [[5. Mechanics/Spells/Invisibility.md|") (2 charges"]], [[5. Mechanics/Spells/Knock.md|") (2 charges"]], [[5. Mechanics/Spells/Lightning Bolt.md|") (7th-level version, 7 charges"]], [[5. Mechanics/Spells/Passwall.md|") (5 charges"]], [[5. Mechanics/Spells/Plane Shift.md|") (7 charges"]], [[5. Mechanics/Spells/Telekinesis.md|") (5 charges"]], [[5. Mechanics/Spells/Wall Of Fire.md|") (4 charges"]], or [[5. Mechanics/Spells/Web.md|") (2 charges"]].
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] (7 charges), [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (3 charges), [[5. Mechanics/Spells/Fireball.md\|fireball]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] (2 charges), [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] (4 charges), [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (2 charges), [[5. Mechanics/Spells/Knock.md\|knock]] (2 charges), [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] (7th-level version, 7 charges), [[5. Mechanics/Spells/Passwall.md\|passwall]] (5 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (7 charges), [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] (5 charges), [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges), or [[5. Mechanics/Spells/Web.md\|web]] (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]], or [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]].
+You can also use an action to cast one of the following spells from the staff without using any charges: [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], or [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
 
 ## Retributive Strike
 

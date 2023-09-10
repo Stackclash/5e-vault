@@ -16,6 +16,6 @@ aliases: ["Gloves of Swimming and Climbing"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")"]] checks made to climb or swim.
+While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb or swim.
 
 *Source: Dungeon Master's Guide p. 172. Available in the SRD and the Basic Rules.*

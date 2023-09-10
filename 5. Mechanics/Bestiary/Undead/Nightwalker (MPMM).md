@@ -51,7 +51,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
     \ necrotic damage. Undead are immune to this aura."
   "name": "Annihilating Aura"
 - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-    \ be revived except by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
+    \ be revived except by a [[5. Mechanics/Spells/Wish.md\|wish]] spell."
   "name": "Life Eater"
 - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
   "name": "Unusual Nature"
@@ -68,9 +68,9 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
   "name": "Enervating Focus"
 - "desc": "The nightwalker points at one creature it can see within 300 feet of it.\
     \ The target must succeed on a DC 21 Wisdom saving throw or take 39 (dice: 6d12|avg\
-    \ (6d12)) necrotic damage and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ until the end of the nightwalker's next turn. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ in this way, the creature is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
+    \ (6d12)) necrotic damage and become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ until the end of the nightwalker's next turn. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ in this way, the creature is also [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]].\
     \ If a target's saving throw is successful, the target is immune to the nightwalker's\
     \ Finger of Doom for the next 24 hours."
   "name": "Finger of Doom (Recharge 6)"

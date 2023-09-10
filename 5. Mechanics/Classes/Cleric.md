@@ -76,18 +76,18 @@ aliases: ["Cleric"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Wisdom, Charisma
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple
 - **Tools**: none
 - **Skills**: Choose 2 from *History*, *Insight*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a [[5. Mechanics/Items/Mace.md|") or (b"]] a [[5. Mechanics/Items/Warhammer.md|") (if proficient)  
-- (a"]] [[5. Mechanics/Items/Scale Mail.md|"), (b"]] [[5. Mechanics/Items/Leather Armor.md|"), or (c"]] [[5. Mechanics/Items/Chain Mail.md|") (if proficient)  
-- (a"]] a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md|") or (b) any simple weapon  
-- (a"]] a [[5. Mechanics/Items/Priests Pack.md|") or (b"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- A [[5. Mechanics/Items/Shield.md|shield]] and a holy symbol  
+- (a) a [[5. Mechanics/Items/Mace.md\|mace]] or (b) a [[5. Mechanics/Items/Warhammer.md\|warhammer]] (if proficient)  
+- (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
+- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
+- A [[5. Mechanics/Items/Shield.md\|shield]] and a holy symbol  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Cleric, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: none
 - **Tools**: none
 
@@ -137,7 +137,7 @@ Once you've chosen a deity, consider your cleric's relationship to that god. Did
 
 #### Quick Build
 
-You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [[5. Mechanics/Backgrounds/Acolyte.md|acolyte]] background.
+You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [[5. Mechanics/Backgrounds/Acolyte.md\|acolyte]] background.
 
 > [!quote]- A quote from Riggby the patriarch  
 > 
@@ -231,7 +231,7 @@ The Cleric table shows how many spell slots you have to cast your cleric spells 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -275,7 +275,7 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge|Dodge]] action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action.
 
 ### Divine Domain feature (Level 2)
 

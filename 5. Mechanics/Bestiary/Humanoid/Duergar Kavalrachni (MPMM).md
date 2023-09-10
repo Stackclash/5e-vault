@@ -11,7 +11,7 @@ aliases: ["Duergar Kavalrachni"]
 # Duergar Kavalrachni
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
-Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md|") (in this book"]] or other Underdark creatures as mounts.
+Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md\|female steeders]] (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
@@ -58,12 +58,12 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "When the duergar hits a target with a melee attack while mounted, the mount\
     \ can use its reaction to make one melee attack against the same target."
   "name": "Cavalry Training"
-- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ conditions."
   "name": "Duergar Resilience"
 - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -76,13 +76,13 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
     \ target. Hit: 5 (dice: 1d10|avg (1d10)) piercing damage."
   "name": "Heavy Crossbow"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
+    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
     \ is broken (as if concentrating on a spell). Any equipment the duergar wears\
-    \ or carries is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it.\
-    \ While the [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] duergar is\
-    \ mounted, the mount is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ or carries is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it.\
+    \ While the [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] duergar is\
+    \ mounted, the mount is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
     \ as well. The invisibility ends early on the mount immediately after it attacks."
   "name": "Shared Invisibility (Recharges after a Short or Long Rest)"
 "source":

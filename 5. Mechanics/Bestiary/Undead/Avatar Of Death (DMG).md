@@ -9,7 +9,7 @@ aliases: ["Avatar of Death (DMG)"]
 # Avatar of Death (DMG)
 *Source: Dungeon Master's Guide p. 164. Available in the SRD.*  
 
-Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.md|Deck of Many Things]].
+Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.md\|Deck of Many Things]].
 
 ```statblock
 "name": "Avatar of Death (DMG)"

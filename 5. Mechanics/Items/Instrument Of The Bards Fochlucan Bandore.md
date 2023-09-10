@@ -20,10 +20,10 @@ An instrument of the bards is an exquisite example of its kind, superior to an o
 
 You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
-You can play the instrument while casting a spell that causes any of its targets to be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
+You can play the instrument while casting a spell that causes any of its targets to be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
 
-All instruments of the bards can be used to cast the following spells: [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Levitate.md|levitate]], and [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]].
+All instruments of the bards can be used to cast the following spells: [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Levitate.md\|levitate]], and [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
 
-In addition, the Fochlucan bandore can be used to cast [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Shillelagh.md|shillelagh]], and [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]].
+In addition, the Fochlucan bandore can be used to cast [[5. Mechanics/Spells/Entangle.md\|entangle]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Shillelagh.md\|shillelagh]], and [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]].
 
 *Source: Dungeon Master's Guide p. 176*

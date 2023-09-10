@@ -29,6 +29,6 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `dice: 4d6|avg` (`4d6`) force damage, and the spell fails to teleport you.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md|Bard]], [[5. Mechanics/Classes/Cleric Trickery Domain.md|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Trickery Domain.md\|Cleric (Trickery Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 233. Available in the SRD and the Basic Rules.*

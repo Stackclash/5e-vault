@@ -58,9 +58,9 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     \ first round of combat, the target takes an extra 7 (dice: 2d6|avg (2d6))\
     \ damage from the attack."
   "name": "Surprise Attack"
-- "desc": "The bugbear has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+- "desc": "The bugbear has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
     \ or put to sleep."
   "name": "Heart of Hruggek"
 "actions":

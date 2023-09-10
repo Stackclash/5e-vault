@@ -53,7 +53,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-- "desc": "While the swashbuckler is wearing light or no armor and wielding no [[5. Mechanics/Items/Shield.md|shield]],\
+- "desc": "While the swashbuckler is wearing light or no armor and wielding no [[5. Mechanics/Items/Shield.md\|shield]],\
     \ its AC includes its Charisma modifier."
   "name": "Suave Defense"
 "actions":
@@ -67,8 +67,8 @@ Many swashbucklers have a signature flourish with which they embellish their act
     \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
   "name": "Rapier"
 "bonus_actions":
-- "desc": "The swashbuckler takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] or\
-    \ [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]] action."
+- "desc": "The swashbuckler takes the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or\
+    \ [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action."
   "name": "Lightfooted"
 "source":
 - "MPMM"

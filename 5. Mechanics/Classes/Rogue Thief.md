@@ -7,7 +7,7 @@ tags:
 aliases: ["Thief"]
 ---
 # Thief
-*[[nullRogue.md|Rogue]]: Roguish Archetype*  
+*[[nullRogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97. Available in the SRD and the Basic Rules.*  
 
 
@@ -19,7 +19,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and ot
 
 ### Fast Hands (Level 3)
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|")"]] check, use your [[5. Mechanics/Items/Thieves Tools.md|thieves' tools]] to disarm a trap or open a lock, or take the [[/5. Mechanics/Rules/Actions.md#Use%20an%20Object|Use an Object]] action.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check, use your [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to disarm a trap or open a lock, or take the [[/5. Mechanics/Rules/Actions.md#Use%20an%20Object\|Use an Object]] action.
 
 ### Second-Story Work (Level 3)
 
@@ -29,7 +29,7 @@ In addition, when you make a running jump, the distance you cover increases by a
 
 ### Supreme Sneak (Level 9)
 
-Starting at 9th level, you have advantage on a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|")"]] check if you move no more than half your speed on the same turn.
+Starting at 9th level, you have advantage on a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check if you move no more than half your speed on the same turn.
 
 ### Use Magic Device (Level 13)
 

@@ -47,12 +47,12 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Animal Friendship.md|") (snakes only"]], [[5. Mechanics/Spells/Message.md|message]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [hypnotic\
-    \ pattern](compendium/spells/hypnotic-pattern.md)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes only), [[5. Mechanics/Spells/Message.md\|message]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [hypnotic\
+    \ pattern](compendium/spells/hypnotic-pattern.md)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
+- "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."

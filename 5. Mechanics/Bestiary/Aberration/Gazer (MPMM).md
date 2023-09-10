@@ -45,7 +45,7 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 "traits":
 - "desc": "The gazer can mimic simple sounds of speech it has heard, in any language.\
     \ A creature that hears the sounds can tell they are imitations with a successful\
-    \ DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]] check."
+    \ DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check."
   "name": "Mimicry"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -54,11 +54,11 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 - "desc": "The gazer shoots two of the following magical eye rays at random (roll\
     \ two dice: d4|avg (d4)s, and reroll duplicates), choosing one or two targets\
     \ it can see within 60 feet of it:\n\n- 1 Dazing Ray. The targeted creature\
-    \ must succeed on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ until the start of the gazer's next turn. While the target is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ must succeed on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ until the start of the gazer's next turn. While the target is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ in this way, its speed is halved, and it has disadvantage on attack rolls. \
     \ \n- 2 Fear Ray. The targeted creature must succeed on a DC 12 Wisdom saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] until the\
     \ start of the gazer's next turn.  \n- 3 Frost Ray. The target must succeed\
     \ on a DC 12 Dexterity saving throw or take 10 (dice: 3d6|avg (3d6)) cold\
     \ damage.  \n- 4 Telekinetic Ray. If the target is a creature that is Medium\

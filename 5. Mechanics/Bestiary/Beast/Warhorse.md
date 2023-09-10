@@ -32,8 +32,8 @@ aliases: ["Warhorse"]
 "traits":
 - "desc": "If the horse moves at least 20 feet straight toward a creature and then\
     \ hits it with a hooves attack on the same turn, that target must succeed on a\
-    \ DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the horse can\
+    \ DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the horse can\
     \ make another attack with its hooves against it as a bonus action."
   "name": "Trampling Charge"
 "actions":

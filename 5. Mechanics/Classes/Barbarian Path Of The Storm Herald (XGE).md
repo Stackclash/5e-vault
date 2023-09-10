@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Storm Herald"]
 ---
 # Path of the Storm Herald
-*[[nullBarbarian.md|Barbarian]]: Primal Path*  
+*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 
@@ -69,7 +69,7 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 
 - **Sea**  
 
-    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]], as if struck by a wave.  
+    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], as if struck by a wave.  
 
 - **Tundra**  
 

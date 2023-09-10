@@ -47,11 +47,11 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 - "desc": "When the darkling dies, nonmagical light flashes out from it in a 10-foot\
     \ radius as its body and possessions, other than metal or magic objects, burn\
     \ to ash. Any creature in that area must succeed on a DC 10 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until the end\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until the end\
     \ of its next turn."
   "name": "Death Flash"
 - "desc": "While in bright light, the darkling has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks\
+    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks\
     \ that rely on sight."
   "name": "Light Sensitivity"
 "actions":

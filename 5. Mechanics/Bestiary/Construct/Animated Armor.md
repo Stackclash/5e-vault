@@ -44,11 +44,11 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+- "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the armor\
     \ must succeed on a Constitution saving throw against the caster's spell save\
-    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1\
+    \ DC or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1\
     \ minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While the armor remains motionless, it is indistinguishable from a normal\

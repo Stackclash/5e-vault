@@ -39,7 +39,7 @@ aliases: ["Walking Corpse"]
 "cr": "0"
 "traits":
 - "desc": "When a corpse is reduced to 0 hit points, it splits open, disgorging a\
-    \ [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarm of poisonous snakes]].\
+    \ [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]].\
     \ The snakes are hungry and fight until slain."
   "name": "Violent Death"
 "actions":

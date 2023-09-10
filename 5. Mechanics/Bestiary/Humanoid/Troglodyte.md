@@ -55,12 +55,12 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - "desc": "The troglodyte has advantage on Dexterity (Stealth) checks made to hide."
   "name": "Chameleon Skin"
 - "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
-    \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ until the start of the creature's next turn. On a successful saving throw, the\
     \ creature is immune to the stench of all troglodytes for 1 hour."
   "name": "Stench"
 - "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks\
+    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks\
     \ that rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

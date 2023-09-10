@@ -23,6 +23,6 @@ A target must make a Dexterity saving throw. The target takes `dice: 10d8|avg` (
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 221. Available in the SRD and the Basic Rules.*

@@ -9,7 +9,7 @@ aliases: ["Nycaloth"]
 # Nycaloth
 *Source: Monster Manual p. 314*  
 
-The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
+The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] or create illusory doubles of itself, further confounding its enemies.
 
 Nycaloths are the most loyal of the yugoloths. When they find an evil master that treats them well, they are unlikely to break their agreement unless the reward for doing so is extreme.
 
@@ -95,9 +95,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "traits":
 - "desc": "The nycaloth's innate spellcasting ability is Charisma. The nycaloth can\
     \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only), [[5. Mechanics/Spells/Mirror Image.md|mirror image]]"
+    \ will: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
+    \ (self only), [[5. Mechanics/Spells/Mirror Image.md\|mirror image]]"
   "name": "innate"
 - "desc": "The nycaloth has advantage on saving throws against spells and other magical\
     \ effects."

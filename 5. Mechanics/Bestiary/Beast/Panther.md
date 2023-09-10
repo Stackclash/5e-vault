@@ -35,13 +35,13 @@ aliases: ["Panther"]
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The panther has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The panther has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "If the panther moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the panther\
+    \ 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the panther\
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":

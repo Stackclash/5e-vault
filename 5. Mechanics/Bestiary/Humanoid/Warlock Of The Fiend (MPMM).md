@@ -13,7 +13,7 @@ aliases: ["Warlock of the Fiend"]
 # Warlock of the Fiend
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  
 
-Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[5. Mechanics/Bestiary/Fiend/Imp.md|imps]] or [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
+Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[5. Mechanics/Bestiary/Fiend/Imp.md\|imps]] or [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
 ## Warlocks
 
@@ -48,11 +48,11 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "cr": "7"
 "traits":
 - "desc": "The warlock casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 15): \n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md|") (self only"]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+    \ ability (spell save DC 15): \n\nAt will: [[5. Mechanics/Spells/Alter Self.md\|alter self]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]] (self only), [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
   "name": "spells"
 - "desc": "When the warlock makes an ability check or saving throw, it can add a dice:\
     \ d10|avg (d10) to the roll. It can do this after the roll is made but before\

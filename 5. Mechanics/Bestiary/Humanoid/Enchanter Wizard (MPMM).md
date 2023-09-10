@@ -43,11 +43,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "5"
 "traits":
 - "desc": "The enchanter casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Friends.md|friends]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ the spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Friends.md\|friends]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
+    \ [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]], [[5. Mechanics/Spells/Tongues.md\|tongues]]"
   "name": "spells"
 "actions":
 - "desc": "The enchanter makes three Arcane Burst attacks."

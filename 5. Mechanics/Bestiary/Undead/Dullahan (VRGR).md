@@ -53,8 +53,8 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "10"
 "traits":
-- "desc": "If the dullahan is reduced to 0 hit points, it doesn't die or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\
-    \ Instead, it regains 97 hit points. In addition, it summons three [[5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|death's heads]],\
+- "desc": "If the dullahan is reduced to 0 hit points, it doesn't die or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]].\
+    \ Instead, it regains 97 hit points. In addition, it summons three [[5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md\|death's heads]],\
     \ one of each type, in unoccupied spaces within 5 feet of it. The death's heads\
     \ are under the dullahan's control and act immediately after the dullahan in the\
     \ initiative order. Additionally, the dullahan can now use the options in the\
@@ -84,7 +84,7 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 - "desc": "The dullahan makes one attack."
   "name": "Attack"
 - "desc": "Each creature of the dullahan's choice within 30 feet of it must succeed\
-    \ on a DC 15 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ on a DC 15 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ of the dullahan until the end of its next turn."
   "name": "Frightful Presence (Costs 2 Actions)"
 - "desc": "The dullahan moves up to its speed without provoking opportunity attacks\

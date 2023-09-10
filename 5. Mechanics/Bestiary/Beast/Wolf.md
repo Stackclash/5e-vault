@@ -35,17 +35,17 @@ aliases: ["Wolf"]
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The wolf has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The wolf has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "The wolf has advantage on an attack roll against a creature if at least\
     \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Bite"
 "source":
 - "MM"

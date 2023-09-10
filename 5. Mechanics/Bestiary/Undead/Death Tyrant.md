@@ -68,11 +68,11 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 "languages": "Deep Speech, Undercommon"
 "cr": "14"
 "traits":
-- "desc": "The death tyrant's central eye emits an [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]],\
+- "desc": "The death tyrant's central eye emits an [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]],\
     \ magical 150-foot cone of negative energy. At the start of each of its turns,\
     \ the tyrant decides which way the cone faces and whether the cone is active.\n\
     \nAny creature in that area can't regain hit points. Any humanoid that dies there\
-    \ becomes a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]] under the tyrant's\
+    \ becomes a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] under the tyrant's\
     \ command. The dead humanoid retains its place in the initiative order and animates\
     \ at the start of its next turn, provided that its body hasn't been completely\
     \ destroyed."
@@ -84,13 +84,13 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 - "desc": "The death tyrant shoots three of the following magical eye rays at random\
     \ (reroll duplicates), choosing one to three targets it can see within 120 feet\
     \ of it:\n\n- 1. Charm Ray. The targeted creature must succeed on a DC 17\
-    \ Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ by the death tyrant for 1 hour, or until the death tyrant harms the creature.\
     \  \n- 2. Paralyzing Ray. The targeted creature must succeed on a DC 17 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for\
     \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
     \ ending the effect on itself on a success.  \n- 3. Fear Ray. The targeted\
-    \ creature must succeed on a DC 17 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ creature must succeed on a DC 17 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 4. Slowing Ray. The\
     \ targeted creature must succeed on a DC 17 Dexterity saving throw. On a failed\
@@ -102,22 +102,22 @@ The death tyrant can't repeat an effect until all three have been used, and it c
     \ (dice: 8d8|avg (8d8)) necrotic damage on a failed save, or half as much\
     \ damage on a successful one.  \n- 6. Telekinetic Ray. If the target is a\
     \ creature, it must succeed on a DC 17 Strength saving throw or the death tyrant\
-    \ moves it up to 30 feet in any direction. It is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ moves it up to 30 feet in any direction. It is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
     \ by the ray's telekinetic grip until the start of the death tyrant's next turn\
-    \ or until the death tyrant is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
+    \ or until the death tyrant is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].\
     \  \n\n    If the target is an object weighing 300 pounds or less that isn't being\
     \ worn or carried, it is moved up to 30 feet in any direction. The death tyrant\
     \ can also exert fine control on objects with this ray, such as manipulating a\
     \ simple tool or opening a door or a container.  \n- 7. Sleep Ray. The targeted\
     \ creature must succeed on a DC 17 Wisdom saving throw or fall asleep and remain\
-    \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute. The\
+    \ [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1 minute. The\
     \ target awakens if it takes damage or another creature takes an action to wake\
     \ it. This ray has no effect on constructs and undead.  \n- 8. Petrification\
     \ Ray. The targeted creature must make a DC 17 Dexterity saving throw. On a\
-    \ failed save, the creature begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ failed save, the creature begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
     \ It must repeat the saving throw at the end of its next turn. On a success, the\
-    \ effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
-    \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]]\
+    \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
     \ spell or other magic.  \n- 9. Disintegration Ray. If the target is a creature,\
     \ it must succeed on a DC 17 Dexterity saving throw or take 45 (dice: 10d8|avg\
     \ (10d8)) force damage. If this damage reduces the creature to 0 hit points,\

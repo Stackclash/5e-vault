@@ -22,12 +22,12 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 
 | `dice: d20\|avg` (`d20`) | Bead of... | Spell |
 |------------|-------------|------------|-------|
-| 1-6 | Blessing | [[5. Mechanics/Spells/Bless.md|Bless]] |
-| 7-12 | Curing | [[5. Mechanics/Spells/Cure Wounds.md|") (2nd level"]] or [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]] |
-| 13-16 | Favor | [[5. Mechanics/Spells/Greater Restoration.md|Greater restoration]] |
-| 17-18 | Smiting | [[5. Mechanics/Spells/Branding Smite.md|Branding smite]] |
-| 19 | Summons | [[5. Mechanics/Spells/Planar Ally.md|Planar ally]] |
-| 20 | Wind walking | [[5. Mechanics/Spells/Wind Walk.md|Wind walk]] |
+| 1-6 | Blessing | [[5. Mechanics/Spells/Bless.md\|Bless]] |
+| 7-12 | Curing | [[5. Mechanics/Spells/Cure Wounds.md\|Cure wounds]] (2nd level) or [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
+| 13-16 | Favor | [[5. Mechanics/Spells/Greater Restoration.md\|Greater restoration]] |
+| 17-18 | Smiting | [[5. Mechanics/Spells/Branding Smite.md\|Branding smite]] |
+| 19 | Summons | [[5. Mechanics/Spells/Planar Ally.md\|Planar ally]] |
+| 20 | Wind walking | [[5. Mechanics/Spells/Wind Walk.md\|Wind walk]] |
 ^dice-avg-bead-of-spell
 
 *Source: Dungeon Master's Guide p. 182. Available in the SRD.*

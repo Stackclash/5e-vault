@@ -49,9 +49,9 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 "languages": "Auran, Ignan"
 "cr": "1/4"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
     \ requiring no material components. Its innate spellcasting ability is Charisma.\n\
-    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]"
+    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]]"
   "name": "innate"
 - "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius\
     \ sphere centered on its space. The sphere is heavily obscured. Wind disperses\
@@ -62,7 +62,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
     \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in that\
-    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
     \ until the end of the mephit's next turn."
   "name": "Cinder Breath (Recharge 6)"
 "source":

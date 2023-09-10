@@ -49,17 +49,17 @@ aliases: ["Fighter"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Strength, Constitution
-- **Armor**: light, medium, heavy, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, heavy, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 2 from *Acrobatics*, *Animal Handling*, *Athletics*, *History*, *Insight*, *Intimidation*, *Perception*, *Survival*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) [[5. Mechanics/Items/Chain Mail.md|") or (b"]] [[5. Mechanics/Items/Leather Armor.md|leather armor]], [[5. Mechanics/Items/Longbow.md|longbow]], and [[5. Mechanics/Items/Arrows-20.md|")  
-- (a"]] a martial weapon and a [[5. Mechanics/Items/Shield.md|") or (b) two martial weapons  
-- (a"]] a [[5. Mechanics/Items/Light Crossbow.md|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md|") or (b"]] two [[5. Mechanics/Items/Handaxe.md|")  
-- (a"]] a [[5. Mechanics/Items/Dungeoneers Pack.md|") or (b"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
+- (a) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], [[5. Mechanics/Items/Longbow.md\|longbow]], and [[5. Mechanics/Items/Arrows-20.md\|20 arrows]]  
+- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons  
+- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) two [[5. Mechanics/Items/Handaxe.md\|handaxes]]  
+- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -71,7 +71,7 @@ To multiclass as a Fighter, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple, martial
 - **Tools**: none
 
@@ -103,7 +103,7 @@ You might have enjoyed formal training in a noble's army or in a local militia. 
 
 #### Quick Build
 
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [[5. Mechanics/Backgrounds/Soldier.md|soldier]] background.
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [[5. Mechanics/Backgrounds/Soldier.md\|soldier]] background.
 
 > [!quote]- A quote from Tordek  
 > 
@@ -180,12 +180,12 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [[5. Mechanics/Optional Features/Archery.md|Archery]]  
-- [[5. Mechanics/Optional Features/Defense.md|Defense]]  
-- [[5. Mechanics/Optional Features/Dueling.md|Dueling]]  
-- [[5. Mechanics/Optional Features/Great Weapon Fighting.md|Great Weapon Fighting]]  
-- [[5. Mechanics/Optional Features/Protection.md|Protection]]  
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md|Two-Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Archery.md\|Archery]]  
+- [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
+- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Protection.md\|Protection]]  
+- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
 
 ### Second Wind (Level 1)
 
@@ -211,7 +211,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
@@ -243,7 +243,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 
 ### Extra Attack (2) (Level 11)
 
-At 11th level, you can attack three times whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+At 11th level, you can attack three times whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -291,7 +291,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) (Level 20)
 
-At 20th level, you can attack four times whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+At 20th level, you can attack four times whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 ## Optional Features
 

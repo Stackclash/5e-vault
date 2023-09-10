@@ -12,7 +12,7 @@ Ravenloft is a place where your nightmares can run wild, where anything you can 
 
 This chapter explores how to create such domains, a process that starts by defining a Darklord—the villain at the heart of each sinister realm. Descriptions of various genres of horror also provide details to guide and inspire your creations.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.jpg#center|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.jpg#center\|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
 
 ## Creating a Darklord
 
@@ -105,7 +105,7 @@ Some Darklords have features that make them similar to familiar monsters. The Da
 
 Consider whether or not your Darklord has a monstrous form. If so, in a few sentences, describe how the Darklord gained this form. You might also roll or choose an option from the Monstrous Transformations table to provide a twist on a Darklord's monstrousness. The Dark Gifts in "chapter 1" serve as examples of the sorts of forms and powers a Darklord might possess. In any case, consider how this transformation embodies the Darklord's evil.
 
-![[5. Mechanics/Tables/Monstrous Transformations (VRGR).md|Monstrous Transformations]]
+![[5. Mechanics/Tables/Monstrous Transformations (VRGR).md\|Monstrous Transformations]]
 
 ### Birth of a Darklord
 
@@ -150,7 +150,7 @@ In every domain, instruments of suffering from the Darklord's past ensure their 
 - **Shocking Reminders.** The domain is drowning in symbolic reminders of the Darklord's inadequacies. When symbolism is too subtle, the literal specters from the Darklord's past return to haunt them.  
 - **Unpleasant Hope.** The Darklord's desire—commonly their bond—is present and obvious, but still unattainable. This instills hope in the Darklord that they are unable to deny, resist, or ignore. Furthermore, they are overcome by their desire's presence, spurring them to act irrationally.  
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.png#center|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.png#center\|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
 
 ### Domain Overview
 
@@ -284,37 +284,37 @@ Any monster might be the focus of body horror plots. Know what your players are 
 
 A variety of monsters can be used without modification. This includes all manner of parasitic Beasts, Aberrations, Undead, and other creatures with unusual digestive systems or weird reproductive cycles.
 
-![[5. Mechanics/Tables/Body Horror Monsters (VRGR).md|Body Horror Monsters]]
+![[5. Mechanics/Tables/Body Horror Monsters (VRGR).md\|Body Horror Monsters]]
 
 #### Body Horror Villains
 
 Villains of this genre present as tragic figures, whether they're hereditary cannibals, captives enduring some forced metamorphosis, scientists looking to reverse death, or academics who went too far in the pursuit of knowledge.
 
-![[5. Mechanics/Tables/Body Horror Villains (VRGR).md|Body Horror Villains]]
+![[5. Mechanics/Tables/Body Horror Villains (VRGR).md\|Body Horror Villains]]
 
 #### Body Horror Torments
 
 Darklords in this genre draw their power from their biological changes or gain abilities that assist them in fulfilling their appetites. Their torment is rooted in the physiological and, frequently, in fecund and uncontrollable growth.
 
-![[5. Mechanics/Tables/Body Horror Torments (VRGR).md|Body Horror Torments]]
+![[5. Mechanics/Tables/Body Horror Torments (VRGR).md\|Body Horror Torments]]
 
 #### Body Horror Settings
 
 Body horror can occur anywhere, from mundane backdrops to garishly unsettling locations.
 
-![[5. Mechanics/Tables/Body Horror Settings (VRGR).md|Body Horror Settings]]
+![[5. Mechanics/Tables/Body Horror Settings (VRGR).md\|Body Horror Settings]]
 
 #### Body Horror Adventure Sites
 
 Body horror is exceptionally unnerving in juxtaposition with mundane settings, particularly in places where the characters are isolated from help, treatment, or confirmation that their torment is real.
 
-![[5. Mechanics/Tables/Body Horror Adventure Sites (VRGR).md|Body Horror Adventure Sites]]
+![[5. Mechanics/Tables/Body Horror Adventure Sites (VRGR).md\|Body Horror Adventure Sites]]
 
 #### Body Horror Plots
 
 Adventures in body horror realms are often tests of endurance, whether players are attempting to hold out until rescue arrives, endeavoring to mount a rescue themselves, or trying to escape somewhere on their own. Alternatively, they may be investigative in nature, requiring the heroes to uncover what dark secret lies behind the mundane.
 
-![[5. Mechanics/Tables/Body Horror Plots (VRGR).md|Body Horror Plots]]
+![[5. Mechanics/Tables/Body Horror Plots (VRGR).md\|Body Horror Plots]]
 
 ### Cosmic Horror
 
@@ -339,37 +339,37 @@ In addition, consider the following genre tropes when creating your cosmic horro
 
 Monsters that work well in cosmic horror adventures enact change on their unwilling victims. Cosmic horror focuses on unknowable entities and creatures that see into the minds of their enemies and use what they find against them. Any monster can easily be modified to suit adventures in this genre, perhaps being controlled by a hidden intelligence or vast cosmic force.
 
-![[5. Mechanics/Tables/Cosmic Horror Monsters (VRGR).md|Cosmic Horror Monsters]]
+![[5. Mechanics/Tables/Cosmic Horror Monsters (VRGR).md\|Cosmic Horror Monsters]]
 
 #### Cosmic Horror Villains
 
 When the cosmic horror villains are mortal, they're wretched creatures, perpetrating unimaginable horrors in the hope of an outcome they can't properly articulate. Beyond them are monstrous beings, the spawn of horrors or those who've come to think of themselves as such. Past these harbingers are true cosmic horrors, inscrutable beings, godlike terrors, and the embodiments of forces unlikely to be interacted with and whose very beings are likely anathema to characters.
 
-![[5. Mechanics/Tables/Cosmic Horror Villains (VRGR).md|Cosmic Horror Villains]]
+![[5. Mechanics/Tables/Cosmic Horror Villains (VRGR).md\|Cosmic Horror Villains]]
 
 #### Cosmic Horror Torments
 
 Darklords in this genre are endowed with powers stemming from their studies or ancestry, or granted by ancient numinosities. Darklords in cosmic horror realms commonly suffer psychological torments.
 
-![[5. Mechanics/Tables/Cosmic Horror Torments (VRGR).md|Cosmic Horror Torments]]
+![[5. Mechanics/Tables/Cosmic Horror Torments (VRGR).md\|Cosmic Horror Torments]]
 
 #### Cosmic Horror Settings
 
 Cosmic horror frequently takes place in academic or maritime settings, both of which imply access to hidden knowledge, whether literal or metaphorical. When not in mortal realms, cosmic horror dimensions trend toward being unnatural, logic-defying places.
 
-![[5. Mechanics/Tables/Cosmic Horror Settings (VRGR).md|Cosmic Horror Settings]]
+![[5. Mechanics/Tables/Cosmic Horror Settings (VRGR).md\|Cosmic Horror Settings]]
 
 #### Cosmic Horror Adventure Sites
 
 Cosmic horror is rarely overt save at critical moments, relying on creating subtle but growing unease and leaving details to the imagination.
 
-![[5. Mechanics/Tables/Cosmic Horror Adventure Sites (VRGR).md|Cosmic Horror Adventure Sites]]
+![[5. Mechanics/Tables/Cosmic Horror Adventure Sites (VRGR).md\|Cosmic Horror Adventure Sites]]
 
 #### Cosmic Horror Plots
 
 Adventures in cosmic horror realms are bleak, desperate affairs where the best one can hope for is to survive relatively intact. There is no stopping the ultimate evil, but players may aspire to temporarily seal it away.
 
-![[5. Mechanics/Tables/Cosmic Horror Plots (VRGR).md|Cosmic Horror Plots]]
+![[5. Mechanics/Tables/Cosmic Horror Plots (VRGR).md\|Cosmic Horror Plots]]
 
 ### Dark Fantasy
 
@@ -391,37 +391,37 @@ In addition, consider the following genre tropes when creating your dark fantasy
 
 Any monster can find a place in a dark fantasy plot. D&D's most iconic threats—such as dragons and beholders—are well suited to horror-tinged tales, as are any other supernatural foes. "Chapter 5" details how to make even the most familiar monsters into fear-worthy threats.
 
-![[5. Mechanics/Tables/Dark Fantasy Monsters (VRGR).md|Dark Fantasy Monsters]]
+![[5. Mechanics/Tables/Dark Fantasy Monsters (VRGR).md\|Dark Fantasy Monsters]]
 
 #### Dark Fantasy Villains
 
 Villains occupy places of prominence or control in dark fantasy domains. This manifests as political control, military authority, or physical or magical might that allows them to directly dominate others.
 
-![[5. Mechanics/Tables/Dark Fantasy Villains (VRGR).md|Dark Fantasy Villains]]
+![[5. Mechanics/Tables/Dark Fantasy Villains (VRGR).md\|Dark Fantasy Villains]]
 
 #### Dark Fantasy Torments
 
 For Darklords in dark fantasy settings, power is at the root of their suffering. Perhaps their rise to dominance led them to sacrifice what mattered to them most, or they secretly seek to be rid of their might but fear being without it.
 
-![[5. Mechanics/Tables/Dark Fantasy Torments (VRGR).md|Dark Fantasy Torments]]
+![[5. Mechanics/Tables/Dark Fantasy Torments (VRGR).md\|Dark Fantasy Torments]]
 
 #### Dark Fantasy Settings
 
 Sinister individuals leave their marks upon dark fantasy domains, whether as oppressive architecture, unavoidable propaganda, or scars upon an exploited environment. Alternatively, the setting might exhibit the effects of a disaster—perhaps an event that gave rise to brutal powers. Such scars appear both upon the setting and upon its inhabitants.
 
-![[5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md|Dark Fantasy Settings]]
+![[5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md\|Dark Fantasy Settings]]
 
 #### Dark Fantasy Adventure Sites
 
 Evil is entrenched and effective in dark fantasy domains, truths reflected by grandiose adventure locations. Their size and grandeur seem out of proportion with the common structures of the domain and the magic that helped create them is clearly beyond the reach of mere mortals to create or destroy.
 
-![[5. Mechanics/Tables/Dark Fantasy Adventure Sites (VRGR).md|Dark Fantasy Adventure Sites]]
+![[5. Mechanics/Tables/Dark Fantasy Adventure Sites (VRGR).md\|Dark Fantasy Adventure Sites]]
 
 #### Dark Fantasy Plots
 
 Adventures in dark fantasy domains involve unlikely or reluctant heroes (or rival villains) striking back against the evil at work in the land. This might involve taking on a world-ruining conspiracy or the street-level depravity affecting a single slum.
 
-![[5. Mechanics/Tables/Dark Fantasy Plots (VRGR).md|Dark Fantasy Plots]]
+![[5. Mechanics/Tables/Dark Fantasy Plots (VRGR).md\|Dark Fantasy Plots]]
 
 ### Folk Horror
 
@@ -451,37 +451,37 @@ Eerie traditions and unnatural alliances with monsters fill folk horror tales. W
 
 Any monster might feature in your folk horror domains. It's acceptance of such creatures and the trappings of willing servitude that provide sources of dread. The Folk Horror Monsters table suggests just a few creatures suited to this genre.
 
-![[5. Mechanics/Tables/Folk Horror Monsters (VRGR).md|Folk Horror Monsters]]
+![[5. Mechanics/Tables/Folk Horror Monsters (VRGR).md\|Folk Horror Monsters]]
 
 #### Folk Horror Villains
 
 Folk horror villains are manipulative, leading others to follow traditions they might not even entirely understand. They zealously defend their faith and community, and might eagerly seek new initiates or dangerous blasphemers.
 
-![[5. Mechanics/Tables/Folk Horror Villains (VRGR).md|Folk Horror Villains]]
+![[5. Mechanics/Tables/Folk Horror Villains (VRGR).md\|Folk Horror Villains]]
 
 #### Folk Horror Torments
 
 A folk horror domain's Darklord has been consumed by the traditions, land, or rituals they embody. They might not fully understand their own beliefs, though, causing them to fail in their duties or cause rites to spin out of control. Such Darklords remain devoted, though, desperately trying to prove themselves or satisfy the object of their belief.
 
-![[5. Mechanics/Tables/Folk Horror Torments (VRGR).md|Folk Horror Torments]]
+![[5. Mechanics/Tables/Folk Horror Torments (VRGR).md\|Folk Horror Torments]]
 
 #### Folk Horror Settings
 
 Folk horror stories often take place in isolated or rural areas, but they could be set anywhere insular communities thrive or traditions stagnate.
 
-![[5. Mechanics/Tables/Folk Horror Settings (VRGR).md|Folk Horror Settings]]
+![[5. Mechanics/Tables/Folk Horror Settings (VRGR).md\|Folk Horror Settings]]
 
 #### Folk Horror Adventure Sites
 
 The sites of folk horror adventures embody a community's traditions or what shelters it from society at large.
 
-![[5. Mechanics/Tables/Folk Horror Adventure Sites (VRGR).md|Folk Horror Adventure Sites]]
+![[5. Mechanics/Tables/Folk Horror Adventure Sites (VRGR).md\|Folk Horror Adventure Sites]]
 
 #### Folk Horror Plots
 
 Folk horror stories often involve outsiders or an unwitting new member of the community discovering a unsettling practices.
 
-![[5. Mechanics/Tables/Folk Horror Plots (VRGR).md|Folk Horror Plots]]
+![[5. Mechanics/Tables/Folk Horror Plots (VRGR).md\|Folk Horror Plots]]
 
 ### Ghost Stories
 
@@ -501,39 +501,39 @@ In addition, consider the following genre tropes when creating your haunted doma
 
 #### Ghost Story Monsters
 
-Any creature that embodies or serves as a response to past injustices or tragedies makes a strong addition to a ghost story. Don't limit yourself to incorporeal undead when creating your own hauntings. The "[[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md|Haunted Traps]]" section of "chapter 4" also explores options for creating threatening hauntings.
+Any creature that embodies or serves as a response to past injustices or tragedies makes a strong addition to a ghost story. Don't limit yourself to incorporeal undead when creating your own hauntings. The "[[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md\|Haunted Traps]]" section of "chapter 4" also explores options for creating threatening hauntings.
 
-![[5. Mechanics/Tables/Ghost Story Monsters (VRGR).md|Ghost Story Monsters]]
+![[5. Mechanics/Tables/Ghost Story Monsters (VRGR).md\|Ghost Story Monsters]]
 
 #### Ghost Story Villains
 
 While the villains in ghost stories are often spirits or haunted places, they might also be the individuals who provoked a haunting to begin with.
 
-![[5. Mechanics/Tables/Ghost Story Villains (VRGR).md|Ghost Story Villains]]
+![[5. Mechanics/Tables/Ghost Story Villains (VRGR).md\|Ghost Story Villains]]
 
 #### Ghost Story Torments
 
 Whether they're living monsters or ghosts, Darklords in ghost story settings are the architects of their own tragedies.
 
-![[5. Mechanics/Tables/Ghost Story Torments (VRGR).md|Ghost Story Torments]]
+![[5. Mechanics/Tables/Ghost Story Torments (VRGR).md\|Ghost Story Torments]]
 
 #### Ghost Story Settings
 
 Suffering, tragic death, or a villain's monstrous evil manifest subtly in the places ghost stories are set. Typically, a setting's hauntings are revealed slowly, until the full nature of the horror is on display.
 
-![[5. Mechanics/Tables/Ghost Story Settings (VRGR).md|Ghost Story Settings]]
+![[5. Mechanics/Tables/Ghost Story Settings (VRGR).md\|Ghost Story Settings]]
 
 #### Ghost Story Adventure Sites
 
 Ghost stories are intensely personal, and adventures within the genre take place in a setting dripping with tragic history.
 
-![[5. Mechanics/Tables/Ghost Story Adventure Sites (VRGR).md|Ghost Story Adventure Sites]]
+![[5. Mechanics/Tables/Ghost Story Adventure Sites (VRGR).md\|Ghost Story Adventure Sites]]
 
 #### Ghost Story Plots
 
 Ghost story adventures deal with learning the story behind a haunting and ultimately resolving it. They benefit from preserving the mystery behind a spirit's motivations until the heroes discover a hidden truth.
 
-![[5. Mechanics/Tables/Ghost Story Plots (VRGR).md|Ghost Story Plots]]
+![[5. Mechanics/Tables/Ghost Story Plots (VRGR).md\|Ghost Story Plots]]
 
 ### Gothic Horror
 
@@ -553,37 +553,37 @@ Consider the following genre tropes when creating your gothic horror domain:
 
 Creatures imbued with tragedy or abominable origins work well in gothic horror adventures. Often, lower-level monsters embody aspects of a more powerful villain's evil, powers, or background. For example, swarms of bats suggest a vampire's connection to the creatures of the night, while werewolves speak toward a vampire's bloodthirsty nature.
 
-![[5. Mechanics/Tables/Gothic Horror Monsters (VRGR).md|Gothic Horror Monsters]]
+![[5. Mechanics/Tables/Gothic Horror Monsters (VRGR).md\|Gothic Horror Monsters]]
 
 #### Gothic Horror Villains
 
 Villains in gothic horror tales are subtle or unassuming until they reveal their true nature. Any intriguing figure with a dark secret can serve as a gothic horror villain, and gothic villains are most effective when they are slowly revealed as shockingly cruel, immoral, or the antithesis of goodness.
 
-![[5. Mechanics/Tables/Gothic Horror Villains (VRGR).md|Gothic Horror Villains]]
+![[5. Mechanics/Tables/Gothic Horror Villains (VRGR).md\|Gothic Horror Villains]]
 
 #### Gothic Horror Torments
 
 Self-debasement and self-loathing lurk at the heart of gothic villains' evil, whether they indulge in vices or are consumed with misanthropy. This results in villains who torment themselves viciously.
 
-![[5. Mechanics/Tables/Gothic Horror Torments (VRGR).md|Gothic Horror Torments]]
+![[5. Mechanics/Tables/Gothic Horror Torments (VRGR).md\|Gothic Horror Torments]]
 
 #### Gothic Horror Settings
 
 Ominous history, supernatural forces, and an underlying sinister air are staples of gothic horror settings.
 
-![[5. Mechanics/Tables/Gothic Horror Settings (VRGR).md|Gothic Horror Settings]]
+![[5. Mechanics/Tables/Gothic Horror Settings (VRGR).md\|Gothic Horror Settings]]
 
 #### Gothic Horror Adventure Sites
 
 Gothic horror stories often center on a forlorn structure in which depravity finds a welcome home.
 
-![[5. Mechanics/Tables/Gothic Horror Adventure Sites (VRGR).md|Gothic Horror Adventure Sites]]
+![[5. Mechanics/Tables/Gothic Horror Adventure Sites (VRGR).md\|Gothic Horror Adventure Sites]]
 
 #### Gothic Horror Plots
 
 Poetic tragedy, the dichotomy between goodness and wickedness, and reckonings for wicked deeds are strong fodder for gothic horror plots.
 
-![[5. Mechanics/Tables/Gothic Horror Plots (VRGR).md|Gothic Horror Plots]]
+![[5. Mechanics/Tables/Gothic Horror Plots (VRGR).md\|Gothic Horror Plots]]
 
 ### Other Horror Genres
 
@@ -637,7 +637,7 @@ Psychological horror stories create suspense by heightening or calling into ques
 
 When creating adventures rooted in psychological horror, consider common fears and anxieties. These readily become metaphors for villains and monsters. Fear of being judged by one's peers might manifest as a jury of nothics, while fear of change could be represented by a medusa that petrifies those who threaten her community's status quo.
 
-Uncertainty, paranoia, and blurred lines between reality and fiction also shape psychological horror stories. In your adventures, this might take the form of unreliable information. Characters might experience a deadly encounter only to wake up at the end, not having previously realized they were asleep. Before undermining characters' senses, though, make sure you know what's driving these skewed perceptions and how characters might overcome them. The "[[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md|Fear and Stress]]" section of "chapter 4" provides options for dealing with the stress of adventuring. If some force is actively trying to cause stress for characters, this might lead to its own psychological horror adventure.
+Uncertainty, paranoia, and blurred lines between reality and fiction also shape psychological horror stories. In your adventures, this might take the form of unreliable information. Characters might experience a deadly encounter only to wake up at the end, not having previously realized they were asleep. Before undermining characters' senses, though, make sure you know what's driving these skewed perceptions and how characters might overcome them. The "[[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]]" section of "chapter 4" provides options for dealing with the stress of adventuring. If some force is actively trying to cause stress for characters, this might lead to its own psychological horror adventure.
 
 Be aware that some classic psychological horror tales stigmatize mental illness. Work to avoid such tropes in your adventures as you consider the following questions:
 

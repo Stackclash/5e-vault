@@ -17,11 +17,11 @@ aliases: ["Blood Spear"]
   - One-handed: 1d6 P
   - Two-handed: 1d8 P
 - **Range**: 20/60
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile|Versatile]]
+- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
-Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md|Strahd von Zarovich]]. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
+Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
 
 When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain `dice: 2d6|avg` (`2d6`) temporary hit points.
 

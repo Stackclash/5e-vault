@@ -44,7 +44,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The hippogriff has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The hippogriff has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":

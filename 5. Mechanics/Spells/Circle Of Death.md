@@ -22,6 +22,6 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 221. Available in the SRD.*

@@ -26,6 +26,6 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 
 **At Higher Levels.** When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to `dice: 3d8|avg` (`3d8`). When you cast it using a 5th- or 6th-level spell slot, the damage increases to `dice: 4d8|avg` (`4d8`). When you cast it using a spell slot of 7th level or higher, the damage increases to `dice: 5d8|avg` (`5d8`).
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock.md|Warlock]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 164*

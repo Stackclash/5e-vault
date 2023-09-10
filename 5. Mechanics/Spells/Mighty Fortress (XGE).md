@@ -30,6 +30,6 @@ After 7 days or when you cast this spell somewhere else, the fortress harmlessly
 
 Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.
 
-**Classes**: [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 161*

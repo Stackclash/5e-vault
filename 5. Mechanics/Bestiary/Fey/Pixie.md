@@ -64,21 +64,21 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 "traits":
 - "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
     \ It can innately cast the following spells, requiring only its pixie dust as\
-    \ a component:\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
-    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Sleep.md|sleep]]"
+    \ a component:\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
+    \ [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Entangle.md\|entangle]],\
+    \ [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]],\
+    \ [[5. Mechanics/Spells/Polymorph.md\|polymorph]], [[5. Mechanics/Spells/Sleep.md\|sleep]]"
   "name": "innate"
 - "desc": "The pixie has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "The pixie magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
-    \ until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] ends\
+- "desc": "The pixie magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+    \ until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] ends\
     \ (as if concentrating on a spell). Any equipment the pixie wears or carries is\
-    \ [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
+    \ [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
   "name": "Superior Invisibility"
 "source":
 - "MM"

@@ -69,7 +69,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
 - "desc": "The hulk makes two Slam attacks. If both attacks hit the same target, the\
     \ target also takes 9 (dice: 2d8|avg (2d8)) psychic damage and must succeed\
-    \ on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
     \ until the end of the target's next turn."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
@@ -77,7 +77,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Slam"
 - "desc": "The hulk makes a separate Slam attack against each creature within 10 feet\
     \ of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Reaping Arms (Recharge 5-6)"
 "source":
 - "MPMM"

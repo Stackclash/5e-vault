@@ -83,14 +83,14 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "traits":
 - "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14, dice:\
     \ d20+6 (+6 to hit) with spell attacks). It can innately cast the following spells,\
-    \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Stone Shape.md|stone shape]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
-    \ ([[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|") only"]],\
-    \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]\n\n3/day each: [[5. Mechanics/Spells/Passwall.md|passwall]],\
-    \ [[5. Mechanics/Spells/Move Earth.md|move earth]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
+    \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Stone Shape.md\|stone shape]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]]\
+    \ ([[5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]] only),\
+    \ [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
+    \ [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]],\
+    \ [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]]\n\n3/day each: [[5. Mechanics/Spells/Passwall.md\|passwall]],\
+    \ [[5. Mechanics/Spells/Move Earth.md\|move earth]], [[5. Mechanics/Spells/Tongues.md\|tongues]]"
   "name": "innate"
 - "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
     \ doing so, the dao doesn't disturb the material it moves through."
@@ -99,7 +99,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     \ behind only equipment the dao was wearing or carrying."
   "name": "Elemental Demise"
 - "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
-    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Sure-Footed"
 "actions":
 - "desc": "The Dao makes two fist attacks or two maul attacks."
@@ -110,7 +110,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
     \ Hit: 20 (dice: 4d6 + 6|avg (4d6 + 6)) bludgeoning damage. If the target\
     \ is a Huge or smaller creature, it must succeed on a DC 18 Strength check or\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Maul"
 "source":
 - "MM"

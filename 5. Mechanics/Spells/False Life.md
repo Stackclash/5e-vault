@@ -26,6 +26,6 @@ Bolstering yourself with a necromantic facsimile of life, you gain `dice: 1d4 + 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Death Domain.md|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain (XGE).md|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 239. Available in the SRD.*

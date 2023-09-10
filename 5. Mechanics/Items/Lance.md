@@ -13,7 +13,7 @@ aliases: ["Lance"]
 *Melee Weapon*  
 
 - **Damage**: 1d12 P
-- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special|Special]]
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special\|Special]]
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

@@ -16,7 +16,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 
 Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [[5. Mechanics/Spells/Resurrection.md|resurrection]] spell.
+Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [[5. Mechanics/Spells/Resurrection.md\|resurrection]] spell.
 
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
@@ -36,7 +36,7 @@ A zombie doesn't require air, food, drink, or sleep.
 
 > [!quote]- A quote from Fonkin Hoodypeak  
 > 
-> After Beek died, we cast an [[5. Mechanics/Spells/Animate Dead.md|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+> After Beek died, we cast an [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
 
 ```statblock
@@ -73,10 +73,10 @@ A zombie doesn't require air, food, drink, or sleep.
   "name": "Bite"
 - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
     \ see within 60 feet of it.\n\n- 1. Paralyzing Ray. The targeted creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 2. Fear Ray. The targeted\
-    \ creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ creature must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success.  \n- 3. Enervation Ray.\
     \ The targeted creature must make a DC 14 Constitution saving throw, taking 36\

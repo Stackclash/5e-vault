@@ -48,15 +48,15 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "cr": "1"
 "traits":
 - "desc": "The grung casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
-    \n2/day: [[5. Mechanics/Spells/Plant Growth.md|plant growth]]\n\n3/day each:\
-    \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Spike Growth.md|spike growth]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]]\n\
+    \n2/day: [[5. Mechanics/Spells/Plant Growth.md\|plant growth]]\n\n3/day each:\
+    \ [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[5. Mechanics/Spells/Spike Growth.md\|spike growth]]"
   "name": "spells"
 - "desc": "The grung can breathe air and water."
   "name": "Amphibious"
 - "desc": "Any creature that grapples the grung or otherwise comes into direct contact\
     \ with the grung's skin must succeed on a DC 12 Constitution saving throw or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ creature no longer in direct contact with the grung can repeat the saving throw\
     \ at the end of each of its turns, ending the effect on itself on a success."
   "name": "Poisonous Skin"
@@ -64,8 +64,8 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
     \ with or without a running start."
   "name": "Standing Leap"
 - "desc": "If the grung isn't immersed in water for at least 1 hour during a day,\
-    \ it suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]\
-    \ at the end of that day. The grung can recover from this [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]\
+    \ it suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]\
+    \ at the end of that day. The grung can recover from this [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]\
     \ only through magic or by immersing itself in water for at least 1 hour."
   "name": "Water Dependency"
 "actions":

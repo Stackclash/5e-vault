@@ -38,8 +38,8 @@ aliases: ["Crocodile"]
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|") (escape DC 12"]]. Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 12). Until\
+    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
     \ and the crocodile can't bite another target"
   "name": "Bite"
 "source":

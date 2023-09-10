@@ -58,8 +58,8 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "cr": "8"
 "traits":
 - "desc": "The blackguard casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 13):\n\n2/day each: [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Find Steed.md|find steed]]"
+    \ spellcasting ability (spell save DC 13):\n\n2/day each: [[5. Mechanics/Spells/Command.md\|command]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Find Steed.md\|find steed]]"
   "name": "spells"
 "actions":
 - "desc": "The blackguard makes three attacks, using Glaive, Shortbow, or both."
@@ -72,8 +72,8 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
     \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
   "name": "Shortbow"
 - "desc": "Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of the blackguard for 1 minute. If a [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ of the blackguard for 1 minute. If a [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ target ends its turn more than 30 feet away from the blackguard, the target\
     \ can repeat the saving throw, ending the effect on itself on a success."
   "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"
@@ -83,11 +83,11 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
     \ On a failed save, the target suffers one of the following effects of the blackguard's\
     \ choice:"
   "name": "Smite"
-- "desc": "The target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] for 1\
-    \ minute. The [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] target can repeat\
+- "desc": "The target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 1\
+    \ minute. The [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] target can repeat\
     \ the save at the end of each of its turns, ending the effect on itself on a success."
   "name": "Blind"
-- "desc": "The target is pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+- "desc": "The target is pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Shove"
 "source":
 - "MPMM"

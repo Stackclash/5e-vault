@@ -23,6 +23,6 @@ You hurl a bubble of acid. Choose one creature you can see within range, or choo
 
 This spell's damage increases by `dice: 1d6|avg` (`1d6`) when you reach 5th level (`dice: 2d6|avg` (`2d6`)), 11th level (`dice: 3d6|avg` (`3d6`)), and 17th level (`dice: 4d6|avg` (`4d6`)).
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 211. Available in the SRD and the Basic Rules.*

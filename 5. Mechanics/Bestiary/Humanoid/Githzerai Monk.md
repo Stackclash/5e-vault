@@ -27,7 +27,7 @@ The social hierarchy of the githzerai is based on merit, and those githzerai who
 
 ## Disciples of Zerthimon
 
-Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]].
+Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayers]].
 
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths.
 
@@ -43,13 +43,13 @@ As a special devotion, they organize a rrakkma—an illithid hunting party—to 
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayers]]. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayers]] enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote]- A quote from Aristul the Yellow, master of planar lore  
 > 
@@ -86,10 +86,10 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "cr": "2"
 "traits":
 - "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
-    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible)\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md|feather fall]],\
-    \ [[5. Mechanics/Spells/Jump.md|jump]], [[5. Mechanics/Spells/See Invisibility.md|see invisibility]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]]"
+    \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\
+    \ (the hand is invisible)\n\n3/day each: [[5. Mechanics/Spells/Feather Fall.md\|feather fall]],\
+    \ [[5. Mechanics/Spells/Jump.md\|jump]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]],\
+    \ [[5. Mechanics/Spells/Shield.md\|shield]]"
   "name": "innate"
 - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."

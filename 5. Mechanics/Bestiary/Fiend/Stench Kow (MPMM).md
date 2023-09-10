@@ -40,7 +40,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "cr": "1/2"
 "traits":
 - "desc": "Any creature other than a stench kow that starts its turn within 5 feet\
-    \ of the stench kow must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ of the stench kow must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ until the start of the creature's next turn. On a successful saving throw, the\
     \ creature is immune to the Stench of all stench kows for 1 hour."
   "name": "Stench"

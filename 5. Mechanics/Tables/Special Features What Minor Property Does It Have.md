@@ -30,7 +30,7 @@ aliases: ["Special Features; What Minor Property Does It Have"]
 | 14 | Temperate. The bearer suffers no harm in temperatures as cold as -20 degrees Fahrenheit or as warm as 120 degrees Fahrenheit. |
 | 15 | Unbreakable. The item can't be broken. Special means must be used to destroy it. |
 | 16 | War Leader. The bearer can use an action to cause his or her voice to carry clearly for up to 300 feet until the end of the bearer's next turn. |
-| 17 | Waterborne. This item floats on water and other liquids. Its bearer has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")"]] checks to swim. |
+| 17 | Waterborne. This item floats on water and other liquids. Its bearer has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks to swim. |
 | 18 | Wicked. When the bearer is presented with an opportunity to act in a selfish or malevolent way, the item heightens the bearer's urge to do so. |
 | 19 | Illusion. The item is imbued with illusion magic, allowing its bearer to alter the item's appearance in minor ways. Such alterations don't change how the item is worn, carried, or wielded, and they have no effect on its other magical properties. For example, the wearer could make a red robe appear blue, or make a gold ring look like it's made of ivory. The item reverts to its true appearance when no one is carrying or wearing it. |
 | 20 | Roll twice, rerolling any additional 20s. |

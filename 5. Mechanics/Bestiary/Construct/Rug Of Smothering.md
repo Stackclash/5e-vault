@@ -46,14 +46,14 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The rug is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the rug must\
+- "desc": "The rug is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].\
+    \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], the rug must\
     \ succeed on a Constitution saving throw against the caster's spell save DC or\
-    \ fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute."
+    \ fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 1 minute."
   "name": "Antimagic Susceptibility"
 - "desc": "While it is grappling a creature, the rug takes only half the damage dealt\
-    \ to it, and the creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ to it, and the creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
     \ by the rug takes the other half."
   "name": "Damage Transfer"
 - "desc": "While the rug remains motionless, it is indistinguishable from a normal\
@@ -61,9 +61,9 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one Medium\
-    \ or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], and at risk of suffocating,\
+    \ or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], and at risk of suffocating,\
     \ and the rug can't smother another target. In addition, at the start of each\
     \ of the target's turns, the target takes 10 (dice: 2d6 + 3|avg (2d6 + 3))\
     \ bludgeoning damage."

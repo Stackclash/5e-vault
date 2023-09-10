@@ -23,6 +23,6 @@ When the cloud appears, each creature in it must make a Dexterity saving throw. 
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]], [[5. Mechanics/Classes/Wizard.md|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 253. Available in the SRD.*

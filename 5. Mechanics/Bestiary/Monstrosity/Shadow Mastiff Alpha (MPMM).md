@@ -51,21 +51,21 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Bite"
 - "desc": "The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must\
-    \ succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of it for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ succeed on a DC 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ of it for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success. If a target's save is successful or the effect\
     \ ends for it, the target is immune to any shadow mastiff's Terrifying Howl for\
     \ the next 24 hours."
   "name": "Terrifying Howl (Recharge 6)"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the shadow mastiff becomes [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]],\
+- "desc": "While in dim light or darkness, the shadow mastiff becomes [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]],\
     \ along with anything it is wearing or carrying. The invisibility lasts until\
     \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-    \ attacks, is in bright light, or is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ attacks, is in bright light, or is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Shadow Blend"
 "source":
 - "MPMM"

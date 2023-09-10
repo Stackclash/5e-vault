@@ -61,7 +61,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
     \ is indistinguishable from a dark leather cloak."
   "name": "False Appearance"
 - "desc": "While in bright light, the cloaker has disadvantage on attack rolls and\
-    \ Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that rely\
+    \ Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely\
     \ on sight."
   "name": "Light Sensitivity"
 "actions":
@@ -71,7 +71,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage, and if the target\
     \ is Large or smaller, the cloaker attaches to it. If the cloaker has advantage\
     \ against the target, the cloaker attaches to the target's head, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and unable to breathe\
+    \ is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and unable to breathe\
     \ while the cloaker is attached. While attached, the cloaker can make this attack\
     \ only against the target and has advantage on the attack roll. The cloaker can\
     \ detach itself by spending 5 feet of its movement. A creature, including the\
@@ -83,7 +83,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
   "name": "Tail"
 - "desc": "Each creature within 60 feet of the cloaker that can hear its moan and\
     \ that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] until the end of the\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] until the end of the\
     \ cloaker's next turn. If a creature's saving throw is successful, the creature\
     \ is immune to the cloaker's moan for the next 24 hours."
   "name": "Moan"

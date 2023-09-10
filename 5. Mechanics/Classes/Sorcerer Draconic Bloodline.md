@@ -7,7 +7,7 @@ tags:
 aliases: ["Draconic Bloodline"]
 ---
 # Draconic Bloodline
-*[[nullSorcerer.md|Sorcerer]]: Sorcerous Origin*  
+*[[nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Player's Handbook p. 102. Available in the SRD.*  
 
 
@@ -57,4 +57,4 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 ### Draconic Presence (Level 18)
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or [[/5. Mechanics/Rules/Conditions.md#frightened|"). As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice"]] to a distance of 60 feet. For 1 minute or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] (as if you were casting a [[/5. Mechanics/Rules/Conditions.md#concentration|") spell"]], each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|") (if you chose awe"]] or [[/5. Mechanics/Rules/Conditions.md#frightened|") (if you chose fear"]] until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] (as if you were casting a [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] (if you chose awe) or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.

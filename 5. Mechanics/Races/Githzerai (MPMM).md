@@ -19,15 +19,15 @@ aliases: ["Githzerai"]
 
 ### Githzerai Psionics
 
-You know the [[5. Mechanics/Spells/Mage Hand.md|mage hand]] cantrip, and the hand is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] when you cast the cantrip with this trait.
+You know the [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] cantrip, and the hand is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [[5. Mechanics/Spells/Shield.md|shield]] spell with this trait. Starting at 5th level, you can also cast the [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]] spell with it. Once you cast [[5. Mechanics/Spells/Shield.md|shield]] or [[5. Mechanics/Spells/Detect Thoughts.md|") spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [[5. Mechanics/Spells/Shield.md\|shield]] spell with this trait. Starting at 5th level, you can also cast the [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell with it. Once you cast [[5. Mechanics/Spells/Shield.md\|shield]] or [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race"]]. None of these spells require spell components when you cast them with this trait.
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 
 ### Mental Discipline
 
-Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] conditions on yourself.
+Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] conditions on yourself.
 
 ### Psychic Resilience
 

@@ -18,7 +18,7 @@ aliases: ["Goliath"]
 
 ### Little Giant
 
-You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]] skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.
+You have proficiency in the [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]] skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.
 
 ### Mountain Born
 

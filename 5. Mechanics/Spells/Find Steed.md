@@ -16,7 +16,7 @@ aliases: ["Find Steed"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a [[5. Mechanics/Bestiary/Beast/Warhorse.md|warhorse]], a [[5. Mechanics/Bestiary/Beast/Pony.md|pony]], a [[5. Mechanics/Bestiary/Beast/Camel.md|camel]], an [[5. Mechanics/Bestiary/Beast/Elk.md|elk]], or a [[5. Mechanics/Bestiary/Beast/Mastiff.md|"). (Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice"]] instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a [[5. Mechanics/Bestiary/Beast/Warhorse.md\|warhorse]], a [[5. Mechanics/Bestiary/Beast/Pony.md\|pony]], a [[5. Mechanics/Bestiary/Beast/Camel.md\|camel]], an [[5. Mechanics/Bestiary/Beast/Elk.md\|elk]], or a [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiff]]. (Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
 Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
 
@@ -26,6 +26,6 @@ While your steed is within 1 mile of you, you can communicate with each other te
 
 You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
-**Classes**: [[5. Mechanics/Classes/Paladin.md|Paladin]]
+**Classes**: [[5. Mechanics/Classes/Paladin.md\|Paladin]]
 
 *Source: Player's Handbook p. 240. Available in the SRD.*

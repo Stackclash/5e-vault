@@ -20,7 +20,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
-![[5. Mechanics/Tables/Multiclassing Prerequisites.md|Multiclassing Prerequisites]]
+![[5. Mechanics/Tables/Multiclassing Prerequisites.md\|Multiclassing Prerequisites]]
 
 ### Experience Points
 
@@ -40,7 +40,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-![[5. Mechanics/Tables/Multiclassing Proficiencies.md|Multiclassing Proficiencies]]
+![[5. Mechanics/Tables/Multiclassing Proficiencies.md\|Multiclassing Proficiencies]]
 
 ### Class Features
 
@@ -72,7 +72,7 @@ Each spell you know and prepare is associated with one of your classes, and you 
 
 You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[5. Mechanics/Spells/Burning Hands.md|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3. you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 

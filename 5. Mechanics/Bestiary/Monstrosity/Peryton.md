@@ -57,7 +57,7 @@ Established settlements are attractive to perytons as a renewable food source. A
 - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
     \ an enemy's reach."
   "name": "Flyby"
-- "desc": "The peryton has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The peryton has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 "actions":

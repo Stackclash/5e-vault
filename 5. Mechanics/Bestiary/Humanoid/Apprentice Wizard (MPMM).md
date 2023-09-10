@@ -40,10 +40,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "1/4"
 "traits":
 - "desc": "The apprentice casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 12)\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+    \ the spellcasting ability (spell save DC 12)\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]]"
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft.\

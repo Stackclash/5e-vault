@@ -23,7 +23,7 @@ With its phylactery prepared, the future lich drinks a potion of transformation-
 
 ## Soul Sacrifices
 
-A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [[5. Mechanics/Spells/Imprisonment.md|imprisonment]] spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]] cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
+A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [[5. Mechanics/Spells/Imprisonment.md\|imprisonment]] spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
 
 A lich that fails or forgets to maintain its body with sacrificed souls begins to physically fall apart, and might eventually become a demilich.
 
@@ -87,25 +87,25 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "traits":
 - "desc": "The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks). The lich\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-    \ [[5. Mechanics/Spells/Melfs Acid Arrow.md|Melf's acid arrow]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-    \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
-    \ [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
-    \n5th level (3 5th-level slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
-    \ [[5. Mechanics/Spells/Disintegrate.md|disintegrate]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\
-    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 8th-level\
-    \ slots): [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [power\
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[5. Mechanics/Spells/Shield.md\|shield]],\
+    \ [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
+    \ [[5. Mechanics/Spells/Melfs Acid Arrow.md\|Melf's acid arrow]], [[5. Mechanics/Spells/Mirror Image.md\|mirror image]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md\|animate dead]],\
+    \ [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
+    \ [[5. Mechanics/Spells/Fireball.md\|fireball]]\n\n4th level (3 4th-level slots):\
+    \ [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]]\n\
+    \n5th level (3 5th-level slots): [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]],\
+    \ [[5. Mechanics/Spells/Scrying.md\|scrying]]\n\n6th level (1 6th-level slots):\
+    \ [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]], [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]]\n\
+    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]\n\n8th level (1 8th-level\
+    \ slots): [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]], [power\
     \ word stun](compendium/spells/power-word-stun.md)\n\n9th level (1 9th-level\
-    \ slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]]"
+    \ slots): [[5. Mechanics/Spells/Power Word Kill.md\|power word kill]]"
   "name": "spells"
 - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -118,7 +118,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "actions":
 - "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
     \ Hit: 10 (dice: 3d6|avg (3d6)) cold damage. The target must succeed on\
-    \ a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Touch"
@@ -129,8 +129,8 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
   "name": "Paralyzing Touch (Costs 2 Actions)"
 - "desc": "The lich fixes its gaze on one creature it can see within 10 feet of it.\
     \ The target must succeed on a DC 18 Wisdom saving throw against this magic or\
-    \ become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute.\
-    \ The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat\
+    \ become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for 1 minute.\
+    \ The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success. If a target's saving throw is successful or the effect ends for\
     \ it, the target is immune to the lich's gaze for the next 24 hours."

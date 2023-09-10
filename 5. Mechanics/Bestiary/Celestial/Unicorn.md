@@ -72,15 +72,15 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 "traits":
 - "desc": "The unicorn's innate spellcasting ability is Charisma (spell save DC 14).\
     \ The unicorn can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [dispel\
-    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Entangle.md|entangle]]"
+    \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [dispel\
+    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Entangle.md\|entangle]]"
   "name": "innate"
 - "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
     \ hits it with a horn attack on the same turn, the target takes an extra 9 (dice:\
     \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
-    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Charge"
 - "desc": "The unicorn has advantage on saving throws against spells and other magical\
     \ effects."

@@ -16,7 +16,7 @@ aliases: ["Random Obstacles; Obstacles"]
 |-----------|----------|
 | 1 | Antilife aura with a radius of `1d10 × 10` ft.; while in the aura, living creatures can't regain hit points |
 | 2 | Battering winds reduce speed by half, impose disadvantage on ranged attack rolls |
-| 3 | [[5. Mechanics/Spells/Blade Barrier.md|Blade barrier]] blocks passage |
+| 3 | [[5. Mechanics/Spells/Blade Barrier.md\|Blade barrier]] blocks passage |
 | 4-8 | Cave-in |
 | 9-12 | Chasm `1d4 × 10` ft. wide and `2d6 × 10` ft. deep, possibly connected to other levels of the dungeon |
 | 13-14 | Flooding leaves `dice: 2d10\|avg` (`2d10`) ft. of water in the area; create nearby upward-sloping passages, raised floors, or rising sta irs to contain the water |
@@ -24,6 +24,6 @@ aliases: ["Random Obstacles; Obstacles"]
 | 16 | Overgrown mushrooms block progress and must be hacked down (25% chance chance of a mold or fungus dungeon hazard hidden among them) |
 | 17 | Poisonous gas (deals `dice: 1d6\|avg` (`1d6`) poison damage per minute of exposure) |
 | 18 | Reverse gravity effect causes creatures to fall toward the ceiling |
-| 19 | [[5. Mechanics/Spells/Wall Of Fire.md|Wall of fire]] blocks passage |
-| 20 | [[5. Mechanics/Spells/Wall Of Force.md|Wall of force]] blocks passage |
+| 19 | [[5. Mechanics/Spells/Wall Of Fire.md\|Wall of fire]] blocks passage |
+| 20 | [[5. Mechanics/Spells/Wall Of Force.md\|Wall of force]] blocks passage |
 ^obstacles

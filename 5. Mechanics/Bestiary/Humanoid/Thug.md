@@ -37,7 +37,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 "traits":
 - "desc": "The thug has advantage on an attack roll against a creature if at least\
     \ one of the thug's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The thug makes two melee attacks."

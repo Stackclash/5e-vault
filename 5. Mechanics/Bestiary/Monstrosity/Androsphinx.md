@@ -86,18 +86,18 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). It requires\
     \ no material components to cast its spells. The sphinx has the following cleric\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-    \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
-    \ [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (2 5th-level slots): [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [greater\
+    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]],\
+    \ [[5. Mechanics/Spells/Spare The Dying.md\|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md\|command]],\
+    \ [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]],\
+    \ [[5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]]\n\n3rd level (3 3rd-level\
+    \ slots): [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Tongues.md\|tongues]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md\|banishment]],\
+    \ [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]]\n\n5th level\
+    \ (2 5th-level slots): [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [greater\
     \ restoration](compendium/spells/greater-restoration.md)\n\n6th level (1 6th-level\
-    \ slots): [[5. Mechanics/Spells/Heroes Feast.md|heroes' feast]]"
+    \ slots): [[5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]]"
   "name": "spells"
 - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\
@@ -115,19 +115,19 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ long rest, the roar is louder and the effect is different, as detailed below.\
     \ Each creature within 500 feet of the sphinx and able to hear the roar must make\
     \ a saving throw.\n\n- First Roar. Each creature that fails a DC 18 Wisdom\
-    \ saving throw is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for\
-    \ 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature\
+    \ saving throw is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for\
+    \ 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success.  \n- Second Roar. Each creature that fails a DC\
-    \ 18 Wisdom saving throw is [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute. A\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ 18 Wisdom saving throw is [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for 1 minute. A\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] creature is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
     \ and can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
     \ 18 Constitution saving throw. On a failed save, a creature takes 44 (dice:\
-    \ 8d10|avg (8d10)) thunder damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ 8d10|avg (8d10)) thunder damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
     \ On a successful save, the creature takes half as much damage and isn't knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
+    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].  "
   "name": "Roar (3/Day)"
 "legendary_actions":
 - "desc": "The sphinx makes one claw attack."

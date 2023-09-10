@@ -78,29 +78,29 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "traits":
 - "desc": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The kuo-toa\
-    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (3\
-    \ 3rd-level slots): [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]],\
-    \ [[5. Mechanics/Spells/Tongues.md|tongues]]\n\n4th level (3 4th-level slots):\
-    \ [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Divination.md|divination]]\n\
-    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
-    \ [[5. Mechanics/Spells/Scrying.md|scrying]]"
+    \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md\|guidance]],\
+    \ [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md\|hold person]],\
+    \ [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]\n\n3rd level (3\
+    \ 3rd-level slots): [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]],\
+    \ [[5. Mechanics/Spells/Tongues.md\|tongues]]\n\n4th level (3 4th-level slots):\
+    \ [[5. Mechanics/Spells/Control Water.md\|control water]], [[5. Mechanics/Spells/Divination.md\|divination]]\n\
+    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]],\
+    \ [[5. Mechanics/Spells/Scrying.md\|scrying]]"
   "name": "spells"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
 - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
+    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
 - "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
     \ a grapple."
   "name": "Slippery"
 - "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

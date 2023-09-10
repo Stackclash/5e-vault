@@ -47,19 +47,19 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 "traits":
 - "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). It has the\
-    \ following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-    \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[5. Mechanics/Spells/Longstrider.md|longstrider]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
-    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
+    \ following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]],\
+    \ [[5. Mechanics/Spells/Produce Flame.md\|produce flame]], [[5. Mechanics/Spells/Shillelagh.md\|shillelagh]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Entangle.md\|entangle]],\
+    \ [[5. Mechanics/Spells/Longstrider.md\|longstrider]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]],\
+    \ [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[5. Mechanics/Spells/Barkskin.md\|barkskin]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit) (dice: d20+4 (+4 to\
     \ hit) with shillelagh), reach 5 ft., one target. Hit: 3 (dice: 1d6|avg (1d6))\
     \ bludgeoning damage, 4 (dice: 1d8|avg (1d8)) bludgeoning damage if wielded\
     \ with two hands, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage with\
-    \ [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]."
+    \ [[5. Mechanics/Spells/Shillelagh.md\|shillelagh]]."
   "name": "Quarterstaff"
 "source":
 - "MM"

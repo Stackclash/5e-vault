@@ -101,29 +101,29 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "traits":
 - "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save DC\
     \ 15). The arcanaloth can innately cast the following spells, requiring no material\
-    \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[5. Mechanics/Spells/Heat Metal.md|heat metal]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-    \ (self only), [[5. Mechanics/Spells/Magic Missile.md|magic missile]]"
+    \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Darkness.md\|darkness]],\
+    \ [[5. Mechanics/Spells/Heat Metal.md\|heat metal]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
+    \ (self only), [[5. Mechanics/Spells/Magic Missile.md\|magic missile]]"
   "name": "innate"
 - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is\
     \ Intelligence (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks).\
     \ The arcanaloth has the following wizard spells prepared:\n\nCantrips (at will):\
-    \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\n2nd\
-    \ level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 3rd-level slots):\
-    \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Fear.md|fear]],\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
-    \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
-    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Contact Other Plane.md|contact other plane]],\
-    \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n6th level (1 6th-level\
-    \ slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\n7th level\
-    \ (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
-    \n8th level (1 8th-level slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]"
+    \ [[5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Shield.md\|shield]],\
+    \ [[5. Mechanics/Spells/Tensers Floating Disk.md\|Tenser's floating disk]]\n\n2nd\
+    \ level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\n3rd level (3 3rd-level slots):\
+    \ [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Fear.md\|fear]],\
+    \ [[5. Mechanics/Spells/Fireball.md\|fireball]]\n\n4th level (3 4th-level slots):\
+    \ [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]]\n\
+    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]],\
+    \ [[5. Mechanics/Spells/Hold Monster.md\|hold monster]]\n\n6th level (1 6th-level\
+    \ slots): [[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]]\n\n7th level\
+    \ (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]]\n\
+    \n8th level (1 8th-level slots): [[5. Mechanics/Spells/Mind Blank.md\|mind blank]]"
   "name": "spells"
 - "desc": "The arcanaloth has advantage on saving throws against spells and other\
     \ magical effects."

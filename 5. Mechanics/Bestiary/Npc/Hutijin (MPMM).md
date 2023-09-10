@@ -11,7 +11,7 @@ aliases: ["Hutijin"]
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 
-Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md|pit fiends]]. With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md\|pit fiends]]. With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
 
 Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
 
@@ -51,11 +51,11 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 "traits":
 - "desc": "Hutijin casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Alter Self.md|alter self]] (can become Medium when changing\
-    \ his appearance), [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|") (self only"]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\
-    \n3/day: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
+    \ [[5. Mechanics/Spells/Alter Self.md\|alter self]] (can become Medium when changing\
+    \ his appearance), [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]],\
+    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (self only), [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]\n\
+    \n3/day: [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]"
   "name": "spells"
 - "desc": "Each creature within 30 feet of Hutijin that isn't a devil makes saving\
     \ throws with disadvantage."
@@ -75,10 +75,10 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+15 (+15 to hit), reach 5 ft., one target.\
     \ Hit: 15 (dice: 2d6 + 8|avg (2d6 + 8)) fire damage. The target must succeed\
-    \ on a DC 22 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
+    \ on a DC 22 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].\
+    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, the\
     \ target can't regain hit points, and it takes 10 (dice: 3d6|avg (3d6)) poison\
-    \ damage at the start of each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ damage at the start of each of its turns. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Bite"
@@ -97,7 +97,7 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 "reactions":
 - "desc": "In response to taking damage, Hutijin utters a dreadful word of power.\
     \ Each creature within 30 feet of him that isn't a devil must succeed on a DC\
-    \ 22 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ 22 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
     \ of him for 1 minute. A creature can repeat the saving throw at the end of each\
     \ of its turns, ending the effect on itself on a success. A creature that saves\
     \ against this effect is immune to his Fearful Voice for 24 hours."

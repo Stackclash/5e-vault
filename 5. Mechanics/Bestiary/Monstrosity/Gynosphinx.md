@@ -85,17 +85,17 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). It requires\
     \ no material components to cast its spells. The sphinx has the following wizard\
-    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[5. Mechanics/Spells/Locate Object.md|locate object]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level\
-    \ (1 5th-level slots): [[5. Mechanics/Spells/Legend Lore.md|legend lore]]"
+    \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Shield.md\|shield]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Darkness.md\|darkness]],\
+    \ [[5. Mechanics/Spells/Locate Object.md\|locate object]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
+    \ [[5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[5. Mechanics/Spells/Tongues.md\|tongues]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md\|banishment]],\
+    \ [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]]\n\n5th level\
+    \ (1 5th-level slots): [[5. Mechanics/Spells/Legend Lore.md\|legend lore]]"
   "name": "spells"
 - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\

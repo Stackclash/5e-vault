@@ -76,17 +76,17 @@ aliases: ["Paladin"]
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
 - **Saving Throws**: Wisdom, Charisma
-- **Armor**: light, medium, heavy, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, heavy, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple, martial
 - **Tools**: none
 - **Skills**: Choose 2 from *Athletics*, *Insight*, *Intimidation*, *Medicine*, *Persuasion*, *Religion*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
-- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md|") or (b) two martial weapons  
-- (a"]] five [[5. Mechanics/Items/Javelin.md|") or (b) any simple melee weapon  
-- (a"]] a [[5. Mechanics/Items/Priests Pack.md|") or (b"]] an [[5. Mechanics/Items/Explorers Pack.md|explorer's pack]]  
-- [[5. Mechanics/Items/Chain Mail.md|Chain mail]] and a holy symbol  
+- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons  
+- (a) five [[5. Mechanics/Items/Javelin.md\|javelins]] or (b) any simple melee weapon  
+- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
+- [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a holy symbol  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -99,7 +99,7 @@ To multiclass as a Paladin, you must meet the following prerequisites:
 
 You gain the following proficiencies:
 
-- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md|shields]]
+- **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple, martial
 - **Tools**: none
 
@@ -135,7 +135,7 @@ As guardians against the forces of wickedness, paladins are rarely of any evil a
 
 #### Quick Build
 
-You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [[5. Mechanics/Backgrounds/Noble.md|noble]] background.
+You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [[5. Mechanics/Backgrounds/Noble.md\|noble]] background.
 
 > [!quote]- A quote from Isteval  
 > 
@@ -227,7 +227,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 ### Divine Sense (Level 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[5. Mechanics/Spells/Hallow.md|hallow]] spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[5. Mechanics/Spells/Hallow.md\|hallow]] spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -249,10 +249,10 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [[5. Mechanics/Optional Features/Defense.md|Defense]]  
-- [[5. Mechanics/Optional Features/Dueling.md|Dueling]]  
-- [[5. Mechanics/Optional Features/Great Weapon Fighting.md|Great Weapon Fighting]]  
-- [[5. Mechanics/Optional Features/Protection.md|Protection]]  
+- [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
+- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Protection.md\|Protection]]  
 
 ### Spellcasting (Level 2)
 
@@ -264,7 +264,7 @@ The Paladin table shows how many spell slots you have to cast your paladin spell
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -321,7 +321,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 ### Aura of Protection (Level 6)
 
@@ -341,7 +341,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 

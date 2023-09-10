@@ -61,20 +61,20 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage, and if the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape\
     \ DC 15)."
   "name": "Tentacles"
 - "desc": "The mind flayer targets one creature it is grappling. The target must succeed\
     \ on a DC 15 Wisdom saving throw or take 14 (dice: 4d6|avg (4d6)) psychic\
-    \ damage and gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
+    \ damage and gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].\
     \ The mind flayer regains a number of hit points equal to the psychic damage dealt.\
     \ A creature reduced to 0 hit points by the psychic damage dies."
   "name": "Drink Sapience"
 "bonus_actions":
 - "desc": "The mind flayer magically emits psionic energy in a 30-foot-radius sphere\
     \ centered on itself. Each creature in that area must succeed on a DC 15 Intelligence\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
     \ creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Disrupt Psyche (Recharge 5-6)"

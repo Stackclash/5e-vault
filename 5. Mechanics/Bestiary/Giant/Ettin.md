@@ -60,11 +60,11 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 "languages": "Giant, Orc"
 "cr": "4"
 "traits":
-- "desc": "The ettin has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
-    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ and knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
+- "desc": "The ettin has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ checks and on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
+    \ and knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
   "name": "Two Heads"
 - "desc": "When one of the ettin's heads is asleep, its other head is awake."
   "name": "Wakeful"

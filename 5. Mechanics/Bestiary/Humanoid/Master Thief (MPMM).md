@@ -62,7 +62,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 - "desc": "If the thief is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the thief instead takes no damage if\
     \ it succeeds on the saving throw and only half damage if it fails, provided the\
-    \ thief isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ thief isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Evasion"
 "actions":
 - "desc": "The thief makes three Shortsword or Shortbow attacks."
@@ -76,8 +76,8 @@ When a master thief completes a challenging heist, they often leave behind a cal
     \ 1d6|avg (1d6)) poison damage."
   "name": "Shortbow"
 "bonus_actions":
-- "desc": "The thief takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]],\
-    \ or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action."
+- "desc": "The thief takes the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]],\
+    \ or [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action."
   "name": "Cunning Action"
 "reactions":
 - "desc": "The thief halves the damage that it takes from an attack that hits it.\

@@ -31,7 +31,7 @@ aliases: ["Hawk"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The hawk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The hawk has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":

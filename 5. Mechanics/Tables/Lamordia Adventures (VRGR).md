@@ -15,7 +15,7 @@ aliases: ["Lamordia Adventures"]
 | dice: d10 | Adventure |
 |-----------|-----------|
 | 1 | Sapient lab animals escape Ludendorf University and need help finding a new home. One, however, is eager to improve upon its form and the forms of its fellows. |
-| 2 | Medical student Emil Bollenbach strives to craft revolutionary [[5. Mechanics/Bestiary/Construct/Flesh Golem.md|flesh golems]], such as ones made entirely of doppelgangers or beholders. His patrons enlist the party to aid his research. |
+| 2 | Medical student Emil Bollenbach strives to craft revolutionary [[5. Mechanics/Bestiary/Construct/Flesh Golem.md\|flesh golems]], such as ones made entirely of doppelgangers or beholders. His patrons enlist the party to aid his research. |
 | 3 | A murderous, jaundiced whale is hunting Ludendorf's ships. The superstitious Captain Furschter of the city's navy asks the party to learn why by seeking Winter's Mouth, a crack in the ice where the sea supposedly whispers its secrets. |
 | 4 | Three brilliant Ludendorf University students compete to become Dr. Mordenheim's new assistant. Each seeks the party's assistance in ensuring they're chosen for the opportunity. |
 | 5 | A wave of warped monstrosities is preparing to assault Neufurchtenburg. The metallurgists at the Giesbrecht Automatic Armaments company have created a new weapon or vehicle that could save the town, but they need someone to test it. |

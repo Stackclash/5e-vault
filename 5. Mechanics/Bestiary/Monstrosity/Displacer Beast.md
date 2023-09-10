@@ -54,7 +54,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
     \ be standing near its actual location, causing attack rolls against it to have\
     \ disadvantage. If it is hit by an attack, this trait is disrupted until the end\
     \ of its next turn. This trait is also disrupted while the displacer beast is\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or has a speed\
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or has a speed\
     \ of 0."
   "name": "Displacement"
 "actions":

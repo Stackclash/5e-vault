@@ -18,9 +18,9 @@ Performing religious service requires access to, and often attendance at, a temp
 
 ### Resolution
 
-At the end of the required time, the character chooses to make either an Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion|")"]] check or a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion|")"]] check. The total of the check determines the benefits of service, as shown on the Religious Service table.
+At the end of the required time, the character chooses to make either an Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) check or a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
 
-![[5. Mechanics/Tables/Religious Service (XGE).md|Religious Service]]
+![[5. Mechanics/Tables/Religious Service (XGE).md\|Religious Service]]
 
 A favor, in broad terms, is a promise of future assistance from a representative of the temple. It can be expended to ask the temple for help in dealing with a specific problem, for general political or social support, or to reduce the cost of cleric spellcasting by 50 percent. A favor could also take the form of a deity's intervention, such as an omen, a vision, or a minor miracle provided at a key moment. This latter sort of favor is expended by the DM, who also determines its nature.
 
@@ -30,4 +30,4 @@ Favors earned need not be expended immediately, but only a certain number can be
 
 Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10% chance chance of a complication, examples of which are on the Religious Service Complications table.
 
-![[5. Mechanics/Tables/Religious Service Complications (XGE).md|Religious Service Complications]]
+![[5. Mechanics/Tables/Religious Service Complications (XGE).md\|Religious Service Complications]]

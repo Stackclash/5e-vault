@@ -22,7 +22,7 @@ Muskets and grenades are the specialties of many giff regiments. The bigger the 
 
 ## Gunpowder by the Keg
 
-In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`dice: 7d6|avg` (`7d6`)) fire damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. On a successful save, a creature takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].
+In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`dice: 7d6|avg` (`7d6`)) fire damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. On a successful save, a creature takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
 Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
 
@@ -52,7 +52,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance
 - "desc": "The giff can try to knock a creature over; if the giff moves at least 20\
     \ feet in a straight line and ends within 5 feet of a Large or smaller creature,\
     \ that creature must succeed on a DC 14 Strength saving throw or take 7 (dice:\
-    \ 2d6|avg (2d6)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ 2d6|avg (2d6)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Headfirst Charge"
 "actions":
 - "desc": "The giff makes two Longsword, Musket, or Pistol attacks."

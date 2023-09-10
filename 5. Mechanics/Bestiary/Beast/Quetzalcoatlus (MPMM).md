@@ -37,7 +37,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The quetzalcoatlus doesn't provoke an [[/5. Mechanics/Rules/Actions.md#opportunity%20attack|opportunity attack]]\
+- "desc": "The quetzalcoatlus doesn't provoke an [[/5. Mechanics/Rules/Actions.md#opportunity%20attack\|opportunity attack]]\
     \ when it flies out of an enemy's reach."
   "name": "Flyby"
 "actions":

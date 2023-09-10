@@ -43,7 +43,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
   "name": "Maul"
 - "desc": "The myrmidon makes one Maul attack. On a hit, the target takes an extra\
     \ 22 (dice: 4d10|avg (4d10)) thunder damage, and the target must succeed on\
-    \ a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Thunderous Strike (Recharge 6)"
 "source":
 - "MPMM"

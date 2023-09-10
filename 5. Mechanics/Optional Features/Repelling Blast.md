@@ -9,4 +9,4 @@ aliases: ["Repelling Blast"]
 # Repelling Blast
 *Source: Player's Handbook p. 111. Available in the SRD.* 
 
-When you hit a creature with [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]], you can push the creature up to 10 feet away from you in a straight line.
+When you hit a creature with [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]], you can push the creature up to 10 feet away from you in a straight line.

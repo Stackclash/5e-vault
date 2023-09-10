@@ -34,14 +34,14 @@ In addition, the robe has `dice: 4d4|avg` (`4d4`) other patches. The DM chooses 
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 gp each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | A [[5. Mechanics/Bestiary/Beast/Riding Horse.md|riding horse]] with saddle bags |
+| 45-51 | A [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]] with saddle bags |
 | 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you |
-| 60-68 | 4 [[5. Mechanics/Items/Potion Of Healing.md|potions of healing]] |
-| 69-75 | [[5. Mechanics/Items/Rowboat.md|") (12 feet long"]] |
+| 60-68 | 4 [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]] |
+| 69-75 | [[5. Mechanics/Items/Rowboat.md\|Rowboat]] (12 feet long) |
 | 76-83 | Spell scroll containing one spell of 1st to 3rd level |
-| 84-90 | 2 [[5. Mechanics/Bestiary/Beast/Mastiff.md|mastiffs]] |
+| 84-90 | 2 [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiffs]] |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00 | [[5. Mechanics/Items/Portable Ram.md|Portable ram]] |
+| 97-00 | [[5. Mechanics/Items/Portable Ram.md\|Portable ram]] |
 ^dice-avg-patch
 
 *Source: Dungeon Master's Guide p. 195. Available in the SRD.*

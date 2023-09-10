@@ -12,12 +12,12 @@ aliases: ["Net"]
 # Net
 *Ranged Weapon*  
 
-- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Special|Special]], [[/5. Mechanics/Rules/Item Properties.md#Thrown|Thrown]]
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Special\|Special]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 1 gp
 - **Weight**: 3.0 lbs.
 
 ## Special
 
-A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#restrained|") until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10"]] also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 *Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*

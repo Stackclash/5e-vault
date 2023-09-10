@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Drunken Master"]
 ---
 # Way of the Drunken Master
-*[[nullMonk.md|Monk]]: Monastic Tradition*  
+*[[nullMonk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 33*  
 
 
@@ -21,11 +21,11 @@ A drunken master often enjoys playing the fool to bring gladness to the desponde
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this tradition at 3rd level, you gain proficiency in the [[/5. Mechanics/Rules/Skills.md#Performance|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[5. Mechanics/Items/Brewers Supplies.md|brewer's supplies]] if you don't already have it.
+When you choose this tradition at 3rd level, you gain proficiency in the [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]] if you don't already have it.
 
 ### Drunken Technique (Level 3)
 
-At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]] action, and your walking speed increases by 10 feet until the end of the current turn.
+At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action, and your walking speed increases by 10 feet until the end of the current turn.
 
 ### Tipsy Sway (Level 6)
 
@@ -33,7 +33,7 @@ Starting at 6th level, you can move in sudden, swaying ways. You gain the follow
 
 - **Leap to Your Feet**  
 
-    When you're [[/5. Mechanics/Rules/Conditions.md#prone|prone]], you can stand up by spending 5 feet of movement, rather than half your speed.  
+    When you're [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], you can stand up by spending 5 feet of movement, rather than half your speed.  
 
 - **Redirect Attack**  
 

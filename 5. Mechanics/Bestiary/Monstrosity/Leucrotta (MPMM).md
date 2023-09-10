@@ -46,11 +46,11 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "traits":
 - "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature that\
     \ hears the sounds can tell they are imitations only with a successful DC 14 Wisdom\
-    \ ([[/5. Mechanics/Rules/Skills.md#Insight|")"]] check."
+    \ ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check."
   "name": "Mimicry"
 - "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
     \ 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw or\
-    \ be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the start of the\
+    \ be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] until the start of the\
     \ creature's next turn. On a successful saving throw, the creature is immune to\
     \ the Stench of all leucrottas for 1 hour."
   "name": "Stench"
@@ -65,7 +65,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
     \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Hooves"
 "bonus_actions":
-- "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+- "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]]\
     \ action."
   "name": "Kicking Retreat"
 "source":

@@ -50,11 +50,11 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "traits":
 - "desc": "The githyanki casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
-    \ (the hand is invisible), [[5. Mechanics/Spells/Message.md|message]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n3/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
+    \ will: [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\
+    \ (the hand is invisible), [[5. Mechanics/Spells/Message.md\|message]]\n\n1/day\
+    \ each: [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]],\
+    \ [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]\n\n3/day each: [[5. Mechanics/Spells/Fireball.md\|fireball]],\
+    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\
     \ (self only)"
   "name": "spells"
 "actions":

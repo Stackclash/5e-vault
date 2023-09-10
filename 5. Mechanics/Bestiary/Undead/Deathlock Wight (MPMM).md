@@ -47,12 +47,12 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "cr": "3"
 "traits":
 - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-    \ spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Hold Person.md|hold person]]"
+    \ spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Fear.md\|fear]], [[5. Mechanics/Spells/Hold Person.md\|hold person]]"
   "name": "spells"
 - "desc": "While in sunlight, the deathlock has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]] checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 - "desc": "The deathlock doesn't require air, food, drink, or sleep."
@@ -65,7 +65,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     \ succeed on a DC 13 Constitution saving throw, or its hit point maximum is reduced\
     \ by an amount equal to the damage taken. This reduction lasts until the target\
     \ finishes a long rest. The target dies if its hit point maximum is reduced to\
-    \ 0.\n\nA Humanoid slain by this attack rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]\
+    \ 0.\n\nA Humanoid slain by this attack rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]]\
     \ under the deathlock's control, unless the Humanoid is restored to life or its\
     \ body is destroyed. The deathlock can have no more than twelve zombies under\
     \ its control at one time."

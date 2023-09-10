@@ -51,7 +51,7 @@ You can empower yourself with this bite a number of times equal to your proficie
 
 ## Description
 
-Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]], and a life-draining bite.
+Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], and a life-draining bite.
 
 With unique insights into the nature of the undead, many dhampirs become adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who'd tempt their hunger.
 

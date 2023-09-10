@@ -57,10 +57,10 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
-- "desc": "The grimlock can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]\
+- "desc": "The grimlock can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]\
     \ and unable to smell."
   "name": "Blind Senses"
-- "desc": "The grimlock has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The grimlock has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 - "desc": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in\

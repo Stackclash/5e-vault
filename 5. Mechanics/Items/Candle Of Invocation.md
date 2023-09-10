@@ -16,7 +16,7 @@ aliases: ["Candle of Invocation"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]] spell. The DM chooses the god and associated alignment or determines the alignment randomly.
+This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell. The DM chooses the god and associated alignment or determines the alignment randomly.
 
 | `dice: d20\|avg` (`d20`) | Alignment |
 |------------|-------------|-----------|
@@ -35,6 +35,6 @@ The candle's magic is activated when the candle is lit, which requires an action
 
 While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose alignment matches that of the candle makes attack rolls, saving throws, and ability checks with advantage. In addition, a cleric or druid in the light whose alignment matches the candle's can cast 1st-level spells he or she has prepared without expending spell slots, though the spell's effect is as if cast with a 1st-level slot.
 
-Alternatively, when you light the candle for the first time, you can cast the [[5. Mechanics/Spells/Gate.md|gate]] spell with it. Doing so destroys the candle.
+Alternatively, when you light the candle for the first time, you can cast the [[5. Mechanics/Spells/Gate.md\|gate]] spell with it. Doing so destroys the candle.
 
 *Source: Dungeon Master's Guide p. 157. Available in the SRD.*

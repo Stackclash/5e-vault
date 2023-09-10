@@ -68,15 +68,15 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
     \ dice: d20+8 (+8 to hit) with spell attacks). It can innately cast the following\
     \ spells, requiring no material components:\n\nAt will: [create or destroy\
-    \ water](compendium/spells/create-or-destroy-water.md), [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-    \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]] ([water\
+    \ water](compendium/spells/create-or-destroy-water.md), [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]],\
+    \ [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]]\n\n1/day\
+    \ each: [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] ([water\
     \ elemental](compendium/bestiary/elemental/water-elemental.md) only), [control\
-    \ water](compendium/spells/control-water.md), [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-    \ [[5. Mechanics/Spells/Water Walk.md|water walk]]"
+    \ water](compendium/spells/control-water.md), [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]],\
+    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Tongues.md\|tongues]], [[5. Mechanics/Spells/Water Breathing.md\|water breathing]],\
+    \ [[5. Mechanics/Spells/Water Walk.md\|water walk]]"
   "name": "innate"
 - "desc": "The marid can breathe air and water."
   "name": "Amphibious"
@@ -94,9 +94,9 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
     \ Each creature in that line must make a DC 16 Dexterity saving throw. On a failure,\
     \ a target takes 21 (dice: 6d6|avg (6d6)) bludgeoning damage and, if it is\
-    \ Huge or smaller, is pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ Huge or smaller, is pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
     \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
-    \ nor knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ nor knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Water Jet"
 "source":
 - "MM"

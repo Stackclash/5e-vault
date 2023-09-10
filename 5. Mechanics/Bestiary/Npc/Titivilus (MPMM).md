@@ -56,10 +56,10 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 "traits":
 - "desc": "Titivilus casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Major Image.md|major image]],\
-    \ [[5. Mechanics/Spells/Nondetection.md|nondetection]], [[5. Mechanics/Spells/Sending.md|sending]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day each: [[5. Mechanics/Spells/Mislead.md|mislead]],\
-    \ [[5. Mechanics/Spells/Modify Memory.md|modify memory]]"
+    \ [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Major Image.md\|major image]],\
+    \ [[5. Mechanics/Spells/Nondetection.md\|nondetection]], [[5. Mechanics/Spells/Sending.md\|sending]],\
+    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\n3/day each: [[5. Mechanics/Spells/Mislead.md\|mislead]],\
+    \ [[5. Mechanics/Spells/Modify Memory.md\|modify memory]]"
   "name": "spells"
 - "desc": "If Titivilus fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -83,12 +83,12 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
     \ is reduced by an amount equal to half the necrotic damage taken."
   "name": "Silver Sword"
 - "desc": "Titivilus targets one creature he can see within 10 feet of him. The target\
-    \ must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ of him for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ in this way, the target must take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
+    \ must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ of him for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ in this way, the target must take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]]\
     \ action and move away from Titivilus by the safest available route on each of\
     \ its turns, unless there is nowhere to move, in which case it needn't take the\
-    \ [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action. The target can repeat the\
+    \ [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action. The target can repeat the\
     \ saving throw at the end of each of its turns, ending the effect on itself on\
     \ a success."
   "name": "Frightful Word"
@@ -96,15 +96,15 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
     \ up to 120 feet to an unoccupied space he can see."
   "name": "Teleport"
 - "desc": "Titivilus targets one creature he can see within 60 feet of him. The target\
-    \ must succeed on a DC 21 Charisma saving throw or become [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ by Titivilus for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ must succeed on a DC 21 Charisma saving throw or become [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ by Titivilus for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ target can repeat the saving throw if Titivilus deals any damage to it. A creature\
     \ that succeeds on the saving throw is immune to Titivilus's Twisting Words for\
     \ 24 hours."
   "name": "Twisting Words"
 "legendary_actions":
-- "desc": "Titivilus uses Twisting Words. Alternatively, he targets one creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
-    \ by him that is within 60 feet of him; that [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+- "desc": "Titivilus uses Twisting Words. Alternatively, he targets one creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ by him that is within 60 feet of him; that [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
     \ target must succeed on a DC 21 Charisma saving throw, or Titivilus decides how\
     \ the target acts during its next turn."
   "name": "Corrupting Guidance"

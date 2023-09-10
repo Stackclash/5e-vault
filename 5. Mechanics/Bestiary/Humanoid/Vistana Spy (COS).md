@@ -44,7 +44,7 @@ aliases: ["Vistana Spy"]
   "name": "Cunning Action"
 - "desc": "The spy deals an extra 7 (dice: 2d6|avg (2d6)) damage when it hits\
     \ a target with a weapon attack and has advantage on the attack roll, or when\
-    \ the target is within 5 feet of an ally of the spy that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ the target is within 5 feet of an ally of the spy that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
     \ and the spy doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
 "actions":
@@ -78,19 +78,19 @@ aliases: ["Vistana Spy"]
     \ damage.  \n- The target's attunement to one magic item (chosen by the DM) ends,\
     \ and the target can't attune to the chosen item until the curse ends. When this\
     \ curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic damage.  \n- The\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
     \ or both. When this curse ends, the Vistana takes dice: 5d6|avg (5d6) psychic\
-    \ damage.  \n\nThe curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-    \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+    \ damage.  \n\nThe curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
+    \ spell, a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, or similar\
     \ magic. It doesn't end when the target dies. If a cursed target is returned to\
     \ life, the curse remains in effect."
   "name": "Curse (Recharges After a Long Rest)"
 - "desc": "As an action, a Vistana can target a creature within 10 feet that the Vistana\
     \ can see. This magical ability, which the Vistani call the Evil Eye, duplicates\
-    \ the duration and effect of the [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
-    \ [[5. Mechanics/Spells/Charm Person.md|charm person]], or [[5. Mechanics/Spells/Hold Person.md|hold person]]\
+    \ the duration and effect of the [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]],\
+    \ [[5. Mechanics/Spells/Charm Person.md\|charm person]], or [[5. Mechanics/Spells/Hold Person.md\|hold person]]\
     \ spell (Vistana's choice; spell DC 13), but requires neither somatic nor material\
-    \ components. If the target succeeds on the save, the Vistana is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ components. If the target succeeds on the save, the Vistana is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
     \ until the end of the Vistana's next turn.\n\nA Vistana who uses Evil Eye can't\
     \ use it again before finishing a short or long rest. Once a target succeeds on\
     \ a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of\

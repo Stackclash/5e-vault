@@ -33,7 +33,7 @@ aliases: ["Polar Bear"]
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The bear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The bear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":

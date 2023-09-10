@@ -49,10 +49,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "traits":
 - "desc": "The oinoloth casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|") (self only"]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]"
+    \ [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]],\
+    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (self only)\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]], [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]]"
   "name": "spells"
 - "desc": "The oinoloth has advantage on saving throws against spells and other magical\
     \ effects."
@@ -66,13 +66,13 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   "name": "Claw"
 - "desc": "The oinoloth touches one willing creature within 5 feet of it. The target\
     \ regains all its hit points. In addition, the oinoloth can end one disease on\
-    \ the target or remove one of the following conditions from it: [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The target then gains\
-    \ 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], and its\
+    \ the target or remove one of the following conditions from it: [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]],\
+    \ or [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. The target then gains\
+    \ 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]], and its\
     \ hit point maximum is reduced by 7 (dice: 2d6|avg (2d6)). This reduction\
-    \ can be removed only by a [[5. Mechanics/Spells/Wish.md|wish]] spell or by casting\
-    \ [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] on the target\
+    \ can be removed only by a [[5. Mechanics/Spells/Wish.md\|wish]] spell or by casting\
+    \ [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] on the target\
     \ three times within the same hour. The target dies if its hit point maximum is\
     \ reduced to 0."
   "name": "Corrupted Healing (Recharge 6)"
@@ -85,10 +85,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     \ there wither and die.\n\nFurthermore, when a creature moves into the blighted\
     \ area or starts its turn there, that creature must make a DC 16 Constitution\
     \ saving throw. On a failed save, the creature takes 14 (dice: 4d6|avg (4d6))\
-    \ poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. On\
+    \ poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. On\
     \ a successful save, the creature is immune to the oinoloth's Bringer of Plagues\
-    \ for the next 24 hours.\n\nThe [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ creature can't regain hit points. After every 24 hours that elapse, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for the next 24 hours.\n\nThe [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ creature can't regain hit points. After every 24 hours that elapse, the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
     \ creature can repeat the saving throw. On a failed save, the creature's hit point\
     \ maximum is reduced by 5 (dice: 1d10|avg (1d10)). This reduction lasts until\
     \ the poison ends, and the target dies if its hit point maximum is reduced to\

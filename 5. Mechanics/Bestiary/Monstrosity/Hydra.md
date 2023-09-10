@@ -45,10 +45,10 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 - "desc": "The hydra can hold its breath for 1 hour."
   "name": "Hold Breath"
 - "desc": "The hydra has five heads. While it has more than one head, the hydra has\
-    \ advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
-    \ and knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\n\n\
+    \ advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
+    \ and knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]].\n\n\
     Whenever the hydra takes 25 or more damage in a single turn, one of its heads\
     \ dies. If all its heads die, the hydra dies.\n\nAt the end of its turn, it grows\
     \ two heads for each of its heads that died since its last turn, unless it has\

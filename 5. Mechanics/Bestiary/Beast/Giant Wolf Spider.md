@@ -52,9 +52,9 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
     \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage, and the target must\
     \ make a DC 11 Constitution saving throw, taking 7 (dice: 2d6|avg (2d6)) poison\
     \ damage on a failed save, or half as much damage on a successful one. If the\
-    \ poison damage reduces the target to 0 hit points, the target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
+    \ poison damage reduces the target to 0 hit points, the target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way."
   "name": "Bite"
 "source":
 - "MM"

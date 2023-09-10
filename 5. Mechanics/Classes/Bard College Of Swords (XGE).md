@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Swords"]
 ---
 # College of Swords
-*[[nullBard.md|Bard]]: Bard College*  
+*[[nullBard.md\|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 15*  
 
 
@@ -23,7 +23,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[5. Mechanics/Items/Scimitar.md|scimitar]].
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[5. Mechanics/Items/Scimitar.md\|scimitar]].
 
 If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
@@ -31,14 +31,14 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
-- [[5. Mechanics/Optional Features/Dueling.md|Dueling]]  
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md|Two-Weapon Fighting]]  
+- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
 
 ### Blade Flourish (Level 3)
 
 At 3rd level, you learn to perform impressive displays of martial prowess and speed.
 
-Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
 
 - **Defensive Flourish**  
 
@@ -54,7 +54,7 @@ Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on
 
 ### Extra Attack (Level 6)
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack|Attack]] action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
 
 ### Master's Flourish (Level 14)
 

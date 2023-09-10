@@ -36,17 +36,17 @@ aliases: ["Lion"]
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The lion has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|")"]]\
+- "desc": "The lion has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "The lion has advantage on an attack roll against a creature if at least\
     \ one of the lion's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "If the lion moves at least 20 feet straight toward a creature and then\
     \ hits it with a claw attack on the same turn, that target must succeed on a DC\
-    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the lion can\
+    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the lion can\
     \ make one bite attack against it as a bonus action."
   "name": "Pounce"
 - "desc": "With a 10-foot running start, the lion can long jump up to 25 feet."

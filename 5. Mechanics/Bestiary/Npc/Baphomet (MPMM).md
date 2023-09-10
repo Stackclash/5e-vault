@@ -26,7 +26,7 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 
 ## Baphomet's Lair
 
-Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the planewide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|minotaurs]], [[5. Mechanics/Bestiary/Fiend/Goristro.md|goristros]], and [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasits]].
+Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the planewide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]], [[5. Mechanics/Bestiary/Fiend/Goristro.md\|goristros]], and [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasits]].
 
 ```statblock
 "name": "Baphomet"
@@ -61,12 +61,12 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "traits":
 - "desc": "Baphomet casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n1/day:\
-    \ [[5. Mechanics/Spells/Teleport.md|teleport]]\n\n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Dominate Beast.md|dominate beast]], [[5. Mechanics/Spells/Maze.md|maze]],\
-    \ [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]"
+    \ [[5. Mechanics/Spells/Teleport.md\|teleport]]\n\n3/day each: [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
+    \ [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[5. Mechanics/Spells/Maze.md\|maze]],\
+    \ [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]]"
   "name": "spells"
 - "desc": "Baphomet can perfectly recall any path he has traveled, and he is immune\
-    \ to the [[5. Mechanics/Spells/Maze.md|maze]] spell."
+    \ to the [[5. Mechanics/Spells/Maze.md\|maze]] spell."
   "name": "Labyrinthine Recall"
 - "desc": "If Baphomet fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -85,14 +85,14 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
     \ at least 10 feet straight toward the target immediately before the hit, the\
     \ target takes an extra 16 (dice: 3d10|avg (3d10)) piercing damage. If the\
     \ target is a creature, it must succeed on a DC 25 Strength saving throw or be\
-    \ pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
   "name": "Gore"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
     \ Hit: 21 (dice: 2d10 + 10|avg (2d10 + 10)) force damage."
   "name": "Heartcleaver"
 - "desc": "Each creature of Baphomet's choice within 120 feet of him and aware of\
-    \ him must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature\
+    \ him must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] creature\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success. These later saves have disadvantage if Baphomet is within\
     \ line of sight of the creature.\n\nIf a creature succeeds on any of these saves\

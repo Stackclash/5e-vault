@@ -20,12 +20,12 @@ This activity requires one workweek of effort plus a stake of at least 10 gp, to
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
-The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight|")"]], Charisma ([[/5. Mechanics/Rules/Skills.md#Deception|")"]], and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation|")"]]. If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice: 5 + 2d10|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]), Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]), and Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice: 5 + 2d10|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
-![[5. Mechanics/Tables/Gambling Results (XGE).md|Gambling Results]]
+![[5. Mechanics/Tables/Gambling Results (XGE).md\|Gambling Results]]
 
 ### Complications
 
 Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10% chance chance of a complication, examples of which are on the Gambling Complications table.
 
-![[5. Mechanics/Tables/Gambling Complications (XGE).md|Gambling Complications]]
+![[5. Mechanics/Tables/Gambling Complications (XGE).md\|Gambling Complications]]

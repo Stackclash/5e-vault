@@ -37,7 +37,7 @@ aliases: ["Hyena"]
 "traits":
 - "desc": "The hyena has advantage on an attack roll against a creature if at least\
     \ one of the hyena's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\

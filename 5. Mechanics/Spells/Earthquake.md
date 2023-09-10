@@ -21,9 +21,9 @@ aliases: ["Earthquake"]
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
-The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] is broken.
+The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] is broken.
 
-When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].
+When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].
 
 This spell can have additional effects depending on the terrain in the area, as determined by the DM.
 
@@ -35,10 +35,10 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 ## Structures
 
-The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes `dice: 5d6|avg` (`5d6`) bludgeoning damage, is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]], and is buried in the rubble, requiring a DC 20 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|")"]] check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] or become buried.
+The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes `dice: 5d6|avg` (`5d6`) bludgeoning damage, is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], and is buried in the rubble, requiring a DC 20 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] or become buried.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md|Cleric]], [[5. Mechanics/Classes/Druid.md|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md|Sorcerer]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 236. Available in the SRD and the Basic Rules.*

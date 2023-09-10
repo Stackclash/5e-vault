@@ -24,14 +24,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | `dice: d8\|avg` (`d8`) | Creature |
 |-----------|------------|----------|
-| 1 | [[5. Mechanics/Bestiary/Beast/Jackal.md|Jackal]] |
-| 2 | [[5. Mechanics/Bestiary/Beast/Ape.md|Ape]] |
-| 3 | [[5. Mechanics/Bestiary/Beast/Baboon.md|Baboon]] |
-| 4 | [[5. Mechanics/Bestiary/Beast/Axe Beak.md|Axe beak]] |
-| 5 | [[5. Mechanics/Bestiary/Beast/Black Bear.md|Black bear]] |
-| 6 | [[5. Mechanics/Bestiary/Beast/Giant Weasel.md|Giant weasel]] |
-| 7 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md|Giant hyena]] |
-| 8 | [[5. Mechanics/Bestiary/Beast/Tiger.md|Tiger]] |
+| 1 | [[5. Mechanics/Bestiary/Beast/Jackal.md\|Jackal]] |
+| 2 | [[5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] |
+| 3 | [[5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] |
+| 4 | [[5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] |
+| 5 | [[5. Mechanics/Bestiary/Beast/Black Bear.md\|Black bear]] |
+| 6 | [[5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] |
+| 7 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] |
+| 8 | [[5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] |
 ^dice-avg-creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the SRD.*

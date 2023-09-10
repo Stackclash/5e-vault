@@ -14,6 +14,6 @@ aliases: ["Wind Fan"]
 - **Cost**: ⏤
 - **Weight**: ⏤
 
-While holding this fan, you can use an action to cast the [[5. Mechanics/Spells/Gust Of Wind.md|") spell (save DC 13"]] from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20% chance chance of not working and tearing into useless, nonmagical tatters.
+While holding this fan, you can use an action to cast the [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20% chance chance of not working and tearing into useless, nonmagical tatters.
 
 *Source: Dungeon Master's Guide p. 213. Available in the SRD.*
