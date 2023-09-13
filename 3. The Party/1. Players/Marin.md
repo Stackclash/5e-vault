@@ -18,6 +18,7 @@ Race: Half-Elf
 Class: Warlock
 Condition: Healthy
 Location: Town of Barovia
+Party: Curse of Strahd
 ---
 ```custom-frames
 frame: DnDBBriana

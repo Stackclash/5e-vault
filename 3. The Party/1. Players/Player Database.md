@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -36,7 +36,7 @@ columns:
     key: Art
     id: Art
     label: Art
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -56,7 +56,7 @@ columns:
     key: Race
     id: Race
     label: Race
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -80,7 +80,7 @@ columns:
     key: Condition
     id: Condition
     label: Condition
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -103,7 +103,7 @@ columns:
     key: Location
     id: Location
     label: Location
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -122,7 +122,7 @@ columns:
     key: Class
     id: Class
     label: Class
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -148,7 +148,7 @@ columns:
     key: hp
     id: hp
     label: hp
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -167,7 +167,7 @@ columns:
     key: ac
     id: ac
     label: ac
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -186,7 +186,7 @@ columns:
     key: modifier
     id: modifier
     label: modifier
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -205,10 +205,32 @@ columns:
     key: level
     id: level
     label: level
-    position: 100
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Party:
+    input: select
+    accessorKey: Party
+    key: Party
+    id: Party
+    label: Party
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 188
+    options:
+      - { label: "Curse of Strahd", value: "Curse of Strahd", color: "hsl(46, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -233,7 +255,7 @@ config:
   show_metadata_outlinks: false
   show_metadata_tags: false
   source_data: query
-  source_form_result: "FROM \"3. The Party\" WHERE contains(file.folder, \"Characters\")"
+  source_form_result: "FROM \"3. The Party/1. Players\""
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 

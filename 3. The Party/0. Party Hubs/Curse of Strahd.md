@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 ---
 # **Characters**
-**[[Player Database|Edit Players]]**
+#### **[[Player Database|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID
@@ -11,7 +11,8 @@ TABLE WITHOUT ID
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
->	WHERE contains(file.folder, this.file.folder) AND contains(file.folder, "Characters")
+>	FROM "3. The Party/1. Players"
+>	WHERE Party = this.file.name
 >SORT file.name asc
 >```
 
@@ -22,8 +23,9 @@ TABLE WITHOUT ID
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	QuickNotes AS "QuickNotes"
-WHERE contains(file.folder, this.file.folder) AND contains(file.folder, "Session Log")
->SORT file.name desc LIMIT 9
+> FROM '3. The Party/2. Session Logs'
+> WHERE Party 
+> SORT file.name desc LIMIT 9
 >```
 
 # **Quests**

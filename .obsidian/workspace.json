@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
-                "mode": "preview",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md"
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
               }
             }
           },
@@ -184,15 +184,20 @@
   },
   "active": "113a1fb81e75891e",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Yevelda Ovak.md",
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Redgrave.md",
+    "3. The Party/1. Players/Player Database.md",
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/2. Session Logs/23-06-24 Session 0.md",
     "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
     "3. The Party/0. Party Hubs",
     "3. The Party/1. Players",
-    "3. The Party/Session Notes Database.md",
-    "3. The Party/Player Database.md",
+    "3. The Party/2. Session Logs/Session Notes Database.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
@@ -205,15 +210,12 @@
     "z_Templates/Databases/Location Database.md",
     "z_Templates/Databases",
     "3. The Party/2. Session Logs/23-08-25 Session 4.md",
-    "3. The Party/Quest Database.md",
+    "3. The Party/3. Quests/Quest Database.md",
     "z_Templates/Databases/NPC Database.md",
     "z_Templates/NPC.md",
     "z_Templates/Leaflet Map.md",
     "z_Templates/Leaflet Bounds Calculator.md",
     "z_Templates/Lazy DM Prep Notes.md",
-    "z_Templates/Party Dashboard.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/bestiary/fiend/img/dybbuk.webp",
@@ -227,8 +229,6 @@
     "compendium/bestiary/ooze/token",
     "compendium/bestiary/giant/img",
     "compendium/backgrounds/img",
-    "compendium/vehicles/vehicles.md",
-    "compendium/vehicles/planar-raider-mtf.md",
     "compendium/vehicles",
     "compendium/bestiary/null/token"
   ]

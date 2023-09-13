@@ -18,6 +18,7 @@ Race: Human
 Class: Barbarian
 Condition: Healthy
 Location: Town of Barovia
+Party: Curse of Strahd
 ---
 ```custom-frames
 frame: DnDBShi

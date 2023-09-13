@@ -18,6 +18,7 @@ Race: Warforged
 Class: Cleric
 Condition: Healthy
 Location: Town of Barovia
+Party: Curse of Strahd
 ---
 ```custom-frames
 frame: DnDBGeorge

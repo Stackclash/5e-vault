@@ -18,6 +18,7 @@ Race: Elf
 Class: Artificer
 Condition: Healthy
 Location: Town of Barovia
+Party: Curse of Strahd
 ---
 ```custom-frames
 frame: DnDBTim
