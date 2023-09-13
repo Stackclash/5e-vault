@@ -11,11 +11,9 @@
             "id": "113a1fb81e75891e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/1. Players/Player Database.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/1. Players/Player Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/1. Players/Player Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
+                "file": "3. The Party/1. Players/Player Database.md"
               }
             }
           },
@@ -184,9 +182,9 @@
   },
   "active": "113a1fb81e75891e",
   "lastOpenFiles": [
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/2. Session Logs/Session Notes Database.md",
     "3. The Party/2. Session Logs/23-06-24 Session 0.md",
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Redgrave.md",
