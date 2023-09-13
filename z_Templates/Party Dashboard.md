@@ -16,7 +16,7 @@ TABLE WITHOUT ID
 >```
 
 # **Session Log**
-#### **[[Session Notes Database|New Session Log]]**
+#### **[[2. Session Logs|New Session Log]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
@@ -27,7 +27,7 @@ WHERE contains(file.folder, this.file.folder) AND contains(file.folder, "Session
 >```
 
 # **Quests**
-#### **[[Quest Database| New Quest]]**
+#### **[[3. Quests| New Quest]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
@@ -37,7 +37,7 @@ WHERE contains(NoteIcon, "Quest") AND contains(WhichParty, "Party 1") AND contai
 >SORT file.name asc
 >```
 
-#### **[[Quest Database| New Side Quest]]**
+#### **[[3. Quests| New Side Quest]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID

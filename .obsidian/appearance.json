@@ -2,14 +2,9 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "custom_callouts",
-    "Folder Icons",
-    "initiative-tracker-fix",
-    "ITS - Encoded Icons",
-    "ITS - Encoded Fonts",
-    "Custom Styles",
-    "dnd5e-compendium"
+    "initiative-tracker-fix"
   ],
-  "theme": "obsidian",
-  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "cssTheme": "",
   "baseFontSize": 14
 }

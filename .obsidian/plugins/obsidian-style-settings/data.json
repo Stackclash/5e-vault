@@ -10,5 +10,7 @@
   "ITS@@navbar-bottom": false,
   "ITS@@ITS-Sidebar-Styling": "none",
   "ITS@@ITS-Sidebar-Ribbon-Float": "none",
-  "ITS@@td@@light": "#A351584F"
+  "ITS@@td@@light": "#A351584F",
+  "ITS@@ITS-Sizes": "sizing-readable",
+  "ITS@@default-statblock": true
 }
