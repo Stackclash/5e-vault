@@ -23,8 +23,8 @@ TABLE WITHOUT ID
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	QuickNotes AS "QuickNotes"
-> FROM '3. The Party/2. Session Logs'
-> WHERE Party 
+> FROM "3. The Party/2. Session Logs"
+> WHERE Party = this.file.name
 > SORT file.name desc LIMIT 9
 >```
 

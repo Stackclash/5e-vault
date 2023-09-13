@@ -30,6 +30,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Party:
+    input: select
+    accessorKey: Party
+    key: Party
+    id: Party
+    label: Party
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 190
+    options:
+      - { label: "Curse of Strahd", value: "Curse of Strahd", color: "hsl(222, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -45,7 +67,7 @@ config:
   show_metadata_outlinks: false
   show_metadata_tags: false
   source_data: query
-  source_form_result: "FROM \"3. The Party\" WHERE contains(file.folder, \"Session Log\")"
+  source_form_result: "FROM \"3. The Party/2. Session Logs\""
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 
