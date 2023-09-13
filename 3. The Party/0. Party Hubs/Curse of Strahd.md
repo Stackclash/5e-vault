@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 ---
 # **Characters**
-#### **[[Player Database|Edit Players]]**
+#### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID
