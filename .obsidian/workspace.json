@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "3. The Party/1. Players/Player Database.md"
+                "file": "z_Templates/Databases/Locations 1.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Player Database.md",
+                "file": "z_Templates/Databases/Locations 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Player Database.md",
+                "file": "z_Templates/Databases/Locations 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Player Database.md"
+                "file": "z_Templates/Databases/Locations 1.md"
               }
             }
           },
@@ -180,15 +180,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "113a1fb81e75891e",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "3. The Party/2. Session Logs/Session Notes Database.md",
+    "3. The Party/2. Session Logs/23-08-25 Session 4.md",
+    "z_Templates/Databases/Locations 1.md",
+    "z_Assets/PlaceholderImage.png",
+    "3. The Party/2. Session Logs/23-08-05 Session 3.md",
+    "3. The Party/2. Session Logs/23-07-22 Session 2.md",
+    "3. The Party/2. Session Logs/23-07-08 Session 1.md",
     "3. The Party/2. Session Logs/23-06-24 Session 0.md",
+    "3. The Party/2. Session Logs/Session Notes Database.md",
+    "3. The Party/3. Quests/Quest Database.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/1. Players/Player Database.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Player Database.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
@@ -207,13 +214,7 @@
     "4. World Almanac/Eldoria/Groups/Groups.md",
     "z_Templates/Databases/Location Database.md",
     "z_Templates/Databases",
-    "3. The Party/2. Session Logs/23-08-25 Session 4.md",
-    "3. The Party/3. Quests/Quest Database.md",
     "z_Templates/Databases/NPC Database.md",
-    "z_Templates/NPC.md",
-    "z_Templates/Leaflet Map.md",
-    "z_Templates/Leaflet Bounds Calculator.md",
-    "z_Templates/Lazy DM Prep Notes.md",
     "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/bestiary/undead/token/poltergeist.png",
     "compendium/bestiary/fiend/img/dybbuk.webp",
@@ -223,7 +224,6 @@
     "compendium/bestiary/humanoid/token/commoner.png",
     "compendium/bestiary/fiend/token/nycaloth.png",
     "compendium/bestiary/fiend/token/oinoloth.png",
-    "compendium/bestiary/humanoid/token/apprentice-wizard.png",
     "compendium/bestiary/ooze/token",
     "compendium/bestiary/giant/img",
     "compendium/backgrounds/img",
