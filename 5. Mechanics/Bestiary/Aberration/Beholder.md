@@ -72,7 +72,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
   "name": "Antimagic Cone"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 14 dice: 4d6 piercing damage."
+    \ Hit: 14 (dice: 4d6|avg (4d6))**** piercing damage."
   "name": "Bite"
 - "desc": "The beholder shoots three of the following magical eye rays at random (reroll\
     \ duplicates), choosing one to three targets it can see within 120 feet of it:\n\
