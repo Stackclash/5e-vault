@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abab0358a91beb2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5cc1ab32306ad59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "961fe7b3131eb300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
+                "file": "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md"
               }
             }
           },
@@ -207,10 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5cc1ab32306ad59",
+  "active": "961fe7b3131eb300",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
+    "z_Templates/World Building/Leaflet Bounds Calculator.md",
+    "z_Templates/DM Prep",
+    "z_Templates/Party/Party Dashboard.md",
+    "z_Templates/World Building",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "z_Templates/Party",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "3. The Party/1. Players/1. Players.md",
@@ -236,8 +216,6 @@
     "5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
-    "5. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md",
     "z_Assets/PlaceholderImage.png",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
@@ -252,9 +230,6 @@
     "compendium/bestiary/humanoid/img/kobold-scale-sorcerer.webp",
     "compendium/books/van-richtens-guide-to-ravenloft/img/091-03-030-wearing-a-mask.png",
     "compendium/bestiary/humanoid/token/commoner.png",
-    "compendium/bestiary/fiend/token/nycaloth.png",
-    "compendium/bestiary/ooze/token",
-    "compendium/bestiary/giant/img",
-    "compendium/backgrounds/img"
+    "compendium/bestiary/fiend/token/nycaloth.png"
   ]
 }
