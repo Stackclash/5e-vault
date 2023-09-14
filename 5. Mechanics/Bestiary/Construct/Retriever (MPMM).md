@@ -48,9 +48,9 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 "traits":
 - "desc": "The retriever casts one of the following spells, requiring no material\
     \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-    \n3/day each: [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (only self and\
+    \n3/day each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (only self and\
     \ up to one incapacitated creature, which is considered willing for the spell),\
-    \ [[5. Mechanics/Spells/Web.md\|web]]"
+    \ [[5. Mechanics/Spells/Web.md|web]]"
   "name": "spells"
 - "desc": "The retriever is given a quarry by its master. The quarry can be a specific\
     \ creature or object the master is personally acquainted with, or it can be a\
@@ -72,17 +72,17 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     \ one."
   "name": "Force Beam"
 - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
-    \ target must succeed on a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] target\
+    \ target must succeed on a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success.\n\nIf the [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ on itself on a success.\n\nIf the [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ creature is Medium or smaller, the retriever can pick it up as part of the retriever's\
     \ move and walk or climb with it at full speed."
   "name": "Paralyzing Beam (Recharge 5-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/construct/token/retriever.png"
+"image": "5. Mechanics/Bestiary/Construct/token/retriever.png"
 ```
 ^statblock
 

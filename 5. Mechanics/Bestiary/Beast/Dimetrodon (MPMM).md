@@ -42,7 +42,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/dimetrodon.png"
+"image": "5. Mechanics/Bestiary/Beast/token/dimetrodon.png"
 ```
 ^statblock
 

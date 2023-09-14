@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
 - spell/class/paladin/oath-of-redemption
+- spell/class/paladin/oath-of-the-watchers
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer
 - spell/class/warlock
@@ -25,6 +26,6 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Paladin (Oath of the Watchers)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 228. Available in the SRD and the Basic Rules.*

@@ -86,9 +86,9 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "traits":
 - "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
     \ yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes\
-    \ only)\n\n3/day each: [[5. Mechanics/Spells/Poison Spray.md\|poison spray]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n3/day each: [[5. Mechanics/Spells/Poison Spray.md|poison spray]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "innate"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."

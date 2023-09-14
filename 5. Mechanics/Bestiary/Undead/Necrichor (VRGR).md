@@ -45,7 +45,7 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 - "desc": "If the necrichor fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (2/Day)"
 - "desc": "Unless its lifeless remains are splashed with holy water or placed in a\
-    \ vessel under the effects of the [[5. Mechanics/Spells/Hallow.md\|hallow]] spell,\
+    \ vessel under the effects of the [[5. Mechanics/Spells/Hallow.md|hallow]] spell,\
     \ the destroyed necrichor re-forms in dice: 1d10|avg (1d10) days, regaining\
     \ all its hits points and appearing in the place it died or in the nearest unoccupied\
     \ space."
@@ -60,7 +60,7 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
     \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) necrotic damage, and the target must\
-    \ succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of the necrichor's next turn."
   "name": "Pseudopod"
 - "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one creature.\
@@ -82,6 +82,6 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   "name": "Blood Puppeteering (Recharge 6)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/necrichor.png"
+"image": "5. Mechanics/Bestiary/Undead/token/necrichor.png"
 ```
 ^statblock

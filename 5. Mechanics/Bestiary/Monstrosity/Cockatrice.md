@@ -34,10 +34,10 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
     \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage, and the target must\
-    \ succeed on a DC 11 Constitution saving throw against being magically [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]].\
-    \ On a failed save, the creature begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
+    \ succeed on a DC 11 Constitution saving throw against being magically [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]].\
+    \ On a failed save, the creature begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ It must repeat the saving throw at the end of its next turn. On a success, the\
-    \ effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]]\
+    \ effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
     \ for 24 hours."
   "name": "Bite"
 "source":
@@ -47,7 +47,7 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 - "ERLW"
 - "MOT"
 - "WBtW"
-"image": "compendium/bestiary/monstrosity/token/cockatrice.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/cockatrice.png"
 ```
 ^statblock
 

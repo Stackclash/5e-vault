@@ -50,6 +50,6 @@ aliases: ["Spider"]
 - "WDMM"
 - "PSX"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/spider.png"
+"image": "5. Mechanics/Bestiary/Beast/token/spider.png"
 ```
 ^statblock

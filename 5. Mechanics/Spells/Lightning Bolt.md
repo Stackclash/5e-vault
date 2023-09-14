@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer/armorer
 - spell/class/druid/circle-of-the-land
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer
+- spell/class/warlock/the-fathomless
 - spell/class/wizard
 - spell/level/3
 - spell/school/evocation
@@ -26,6 +28,6 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer Armorer (TCE).md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 255. Available in the SRD and the Basic Rules.*

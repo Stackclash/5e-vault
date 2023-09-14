@@ -61,7 +61,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
     \ Hit: 20 (dice: 3d10 + 4|avg (3d10 + 4)) piercing damage plus 11 (dice:\
     \ 2d10|avg (2d10)) necrotic damage. If the target is a creature, the boneclaw\
-    \ can pull the target up to 10 feet toward itself, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ can pull the target up to 10 feet toward itself, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14). The boneclaw has two claws. While a claw grapples a target,\
     \ the claw can attack only that target."
   "name": "Piercing Claw"
@@ -74,7 +74,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
     \ teleportation must be in dim light or darkness."
   "name": "Shadow Jump (Recharge 5-6)"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the boneclaw takes the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]]\
+- "desc": "While in dim light or darkness, the boneclaw takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
     \ action."
   "name": "Shadow Stealth"
 "reactions":
@@ -84,7 +84,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/undead/token/boneclaw.png"
+"image": "5. Mechanics/Bestiary/Undead/token/boneclaw.png"
 ```
 ^statblock
 

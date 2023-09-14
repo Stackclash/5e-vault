@@ -9,7 +9,7 @@ tags:
 aliases: ["Lizard King"]
 ---
 # Lizard King
-*Source: Monster Manual p. 205*  
+*Source: Monster Manual p. 205, Tasha's Cauldron of Everything*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 

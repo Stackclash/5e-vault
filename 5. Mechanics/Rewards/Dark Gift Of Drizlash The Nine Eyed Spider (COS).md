@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-reward
+cssclasses: json5e-reward
 tags:
 - compendium/src/5e/cos
 - reward/charm

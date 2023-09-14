@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/druid/dreams
 - compendium/src/5e/xge

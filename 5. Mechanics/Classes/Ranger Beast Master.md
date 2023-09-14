@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/ranger/beast-master
 - compendium/src/5e/phb
@@ -28,6 +28,19 @@ If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or
 While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
 
 If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn't hostile to you, either the same type of beast as before or a different one.
+
+### Primal Companion (Level 3)
+_Source: Tasha's Cauldron of Everything p. 61_
+
+*3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature*
+
+You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—[[5. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md\|Beast of the Land]], [[5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md\|Beast of the Sea]], or [[5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md\|Beast of the Sky]]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
+
+In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action to command the beast to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action. If you are [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the beast can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
+
+If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.
+
+When you finish a long rest, you can summon a different primal beast. The new beast appears in an unoccupied space within 5 feet of you, and you choose its stat block and appearance. If you already have a beast from this feature, it vanishes when the new beast appears. The beast also vanishes if you die.
 
 ### Exceptional Training (Level 7)
 

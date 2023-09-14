@@ -52,8 +52,8 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
     \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 16) if it\
-    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the banderhobb can't use its Bite attack or Tongue attack on another target."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one creature.\
@@ -65,27 +65,27 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
     \ or darkness that it can see."
   "name": "Shadow Step"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one Medium\
-    \ or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by\
+    \ or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by\
     \ the banderhobb. Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage.\
     \ The creature is also swallowed, and the grapple ends. The swallowed creature\
-    \ is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ it has total cover against attacks and other effects outside the banderhobb,\
     \ and it takes 10 (dice: 3d6|avg (3d6)) necrotic damage at the start of each\
     \ of the banderhobb's turns. A creature reduced to 0 hit points in this way stops\
     \ taking the necrotic damage and becomes stable.\n\nThe banderhobb can have only\
-    \ one creature swallowed at a time. While the banderhobb isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
+    \ one creature swallowed at a time. While the banderhobb isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
     \ it can regurgitate the creature at any time (no action required) in a space\
-    \ within 5 feet of it. The creature exits [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ within 5 feet of it. The creature exits [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ If the banderhobb dies, it likewise regurgitates a swallowed creature."
   "name": "Swallow"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the banderhobb takes the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]]\
+- "desc": "While in dim light or darkness, the banderhobb takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
     \ action."
   "name": "Shadow Stealth"
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/banderhobb.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/banderhobb.png"
 ```
 ^statblock
 

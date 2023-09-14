@@ -37,6 +37,6 @@ aliases: ["Lizard"]
 - "ToA"
 - "JttRC"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/lizard.png"
+"image": "5. Mechanics/Bestiary/Beast/token/lizard.png"
 ```
 ^statblock

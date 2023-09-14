@@ -12,7 +12,7 @@ tags:
 aliases: ["Giant Toad"]
 ---
 # Giant Toad
-*Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Toad"
@@ -42,19 +42,19 @@ aliases: ["Giant Toad"]
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage plus 5 (dice:\
-    \ 1d10|avg (1d10)) poison damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ 1d10|avg (1d10)) poison damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the toad can't bite another target."
   "name": "Bite"
 - "desc": "The toad makes one bite attack against a Medium or smaller target it is\
     \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
-    \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], it has total cover\
+    \ The swallowed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
     \ against attacks and other effects outside the toad, and it takes 10 (dice:\
     \ 3d6|avg (3d6)) acid damage at the start of each of the toad's turns. The\
     \ toad can have only one target swallowed at a time.\n\nIf the toad dies, a swallowed\
-    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
-    \ by it and can escape from the corpse using 5 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by it and can escape from the corpse using 5 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Swallow"
 "source":
 - "MM"

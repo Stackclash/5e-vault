@@ -40,13 +40,13 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 - "desc": "If the elk moves at least 20 feet straight toward a target and then hits\
     \ it with a ram attack on the same turn, the target takes an extra 7 (dice: 2d6|avg\
     \ (2d6)) damage. If the target is a creature, it must succeed on a DC 14 Strength\
-    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
     \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
   "name": "Ram"
-- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ creature. Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) bludgeoning damage."
   "name": "Hooves"
 "source":

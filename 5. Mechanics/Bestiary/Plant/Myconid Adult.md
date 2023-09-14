@@ -55,7 +55,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ (2d4)) poison damage."
   "name": "Fist"
 - "desc": "The myconid ejects spores at one creature it can see within 5 feet of it.\
-    \ The target must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ The target must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Pacifying Spores (3/Day)"

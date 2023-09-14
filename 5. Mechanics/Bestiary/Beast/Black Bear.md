@@ -32,7 +32,7 @@ aliases: ["Black Bear"]
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The bear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The bear has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":

@@ -58,11 +58,11 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 "traits":
 - "desc": "Geryon casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Alter Self.md\|alter self]] (can become Medium when changing\
-    \ his appearance), [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Ice Storm.md\|ice storm]],\
-    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (self only), [[5. Mechanics/Spells/Locate Object.md\|locate object]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]], [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]]\n\
-    \n1/day: [[5. Mechanics/Spells/Banishment.md\|banishment]]"
+    \ [[5. Mechanics/Spells/Alter Self.md|alter self]] (can become Medium when changing\
+    \ his appearance), [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Ice Storm.md|ice storm]],\
+    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Locate Object.md|locate object]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]\n\
+    \n1/day: [[5. Mechanics/Spells/Banishment.md|banishment]]"
   "name": "spells"
 - "desc": "If Geryon fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -78,19 +78,19 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
     \ Hit: 23 (dice: 4d6 + 9|avg (4d6 + 9)) cold damage. If the target is Large\
-    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (DC 24),\
-    \ and it is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] until the\
+    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (DC 24),\
+    \ and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the\
     \ grapple ends. Geryon can grapple one creature at a time. If the target is already\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by Geryon, the target takes\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by Geryon, the target takes\
     \ an extra 27 (dice: 6d8|avg (6d8)) cold damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one creature.\
     \ Hit: 14 (dice: 2d4 + 9|avg (2d4 + 9)) force damage, and the target must\
     \ succeed on a DC 21 Constitution saving throw or take 13 (dice: 2d12|avg (2d12))\
-    \ poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ until it finishes a short or long rest. The target's hit point maximum is reduced\
     \ by an amount equal to half the poison damage taken. This reduction lasts until\
-    \ the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition is removed.\
+    \ the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition is removed.\
     \ The target dies if its hit point maximum is reduced to 0."
   "name": "Stinger"
 - "desc": "Geryon teleports, along with any equipment he is wearing and carrying,\
@@ -98,7 +98,7 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
   "name": "Teleport"
 "legendary_actions":
 - "desc": "Geryon targets one creature he can see within 60 feet of him. The target\
-    \ must succeed on a DC 23 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ must succeed on a DC 23 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of Geryon until the end of its next turn."
   "name": "Infernal Glare"
 - "desc": "Geryon uses Teleport."
@@ -108,6 +108,6 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/npc/token/geryon.png"
+"image": "5. Mechanics/Bestiary/Npc/token/geryon.png"
 ```
 ^statblock

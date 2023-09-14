@@ -8,7 +8,7 @@ tags:
 aliases: ["Giant Octopus"]
 ---
 # Giant Octopus
-*Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Octopus"
@@ -35,7 +35,7 @@ aliases: ["Giant Octopus"]
 "traits":
 - "desc": "While out of water, the octopus can hold its breath for 1 hour."
   "name": "Hold Breath"
-- "desc": "The octopus has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]])\
+- "desc": "The octopus has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ checks made while underwater."
   "name": "Underwater Camouflage"
 - "desc": "The octopus can breathe only underwater."
@@ -43,8 +43,8 @@ aliases: ["Giant Octopus"]
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 15 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage. If the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape\
-    \ DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the octopus can't use its tentacles on another target."
   "name": "Tentacles"
 - "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is underwater.\

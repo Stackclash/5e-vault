@@ -55,13 +55,13 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "traits":
 - "desc": "The abishai casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Major Image.md\|major image]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Dominate Person.md\|dominate person]],\
-    \ [[5. Mechanics/Spells/Mass Suggestion.md\|mass suggestion]]\n\n3/day each: [charm\
-    \ person](compendium/spells/charm-person.md), [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Fear.md\|fear]]"
+    \ [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
+    \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\n3/day each: [charm\
+    \ person](compendium/spells/charm-person.md), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Fear.md|fear]]"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."
@@ -73,8 +73,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
     \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) force damage. If the target is a\
     \ creature, it must succeed on a DC 16 Constitution saving throw or take 16 (dice:\
-    \ 3d10|avg (3d10)) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] target\
+    \ 3d10|avg (3d10)) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success."
   "name": "Fiendish Claw"

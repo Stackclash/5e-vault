@@ -47,9 +47,9 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "traits":
 - "desc": "The merrenoloth casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 13):\n\nAt will: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Darkness.md\|darkness]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]]\n\n3/day: [[5. Mechanics/Spells/Control Water.md\|control water]]"
+    \ 13):\n\nAt will: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]]\n\n3/day: [[5. Mechanics/Spells/Control Water.md|control water]]"
   "name": "spells"
 - "desc": "The merrenoloth has advantage on saving throws against spells and other\
     \ magical effects."
@@ -61,8 +61,8 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) fire damage."
   "name": "Oar"
 - "desc": "The merrenoloth targets one creature it can see within 60 feet of it. The\
-    \ target must succeed on a DC 13 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the merrenoloth for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ target must succeed on a DC 13 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the merrenoloth for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Fear Gaze"
@@ -73,7 +73,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/merrenoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/merrenoloth.png"
 ```
 ^statblock
 

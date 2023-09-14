@@ -43,7 +43,7 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 "traits":
 - "desc": "The warrior has advantage on an attack roll against a creature if at least\
     \ one of the warrior's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\

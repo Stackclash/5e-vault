@@ -54,7 +54,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "GoS"
 - "IDRotF"
 - "DSotDQ"
-"image": "compendium/bestiary/beast/token/plesiosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/plesiosaurus.png"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases: ["Bard"]
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
 
-Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]] Types table to determine it.
+Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [[/5. Mechanics/Rules/Skills.md#Performance|Performance]] Types table to determine it.
 
 **Bard Performance Types**
 
@@ -58,10 +58,10 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "cr": "2"
 "traits":
 - "desc": "The bard casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
-    \ [[5. Mechanics/Spells/Sleep.md\|sleep]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "spells"
 "actions":
 - "desc": "The bard makes two Shortsword or Shortbow attacks. It can replace one attack\
@@ -87,7 +87,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/bard.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bard.png"
 ```
 ^statblock
 

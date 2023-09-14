@@ -49,7 +49,7 @@ aliases: ["Raven"]
 - "CM"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/raven.png"
+"image": "5. Mechanics/Bestiary/Beast/token/raven.png"
 ```
 ^statblock
 

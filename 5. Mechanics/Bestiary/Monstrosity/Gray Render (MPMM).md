@@ -67,11 +67,11 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
     \ Hit: 17 (dice: 2d12 + 4|avg (2d12 + 4)) piercing damage. If the target\
     \ is Medium or smaller, the target must succeed on a DC 16 Strength saving throw\
-    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
     \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, plus 10 (dice:\
-    \ 3d6|avg (3d6)) bludgeoning damage if the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ 3d6|avg (3d6)) bludgeoning damage if the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Claw"
 "reactions":
 - "desc": "When the gray render takes damage, it makes one Claw attack against a random\

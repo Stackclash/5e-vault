@@ -30,7 +30,7 @@ aliases: ["Badger"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The badger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The badger has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
@@ -40,7 +40,7 @@ aliases: ["Badger"]
 "source":
 - "MM"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/badger.png"
+"image": "5. Mechanics/Bestiary/Beast/token/badger.png"
 ```
 ^statblock
 

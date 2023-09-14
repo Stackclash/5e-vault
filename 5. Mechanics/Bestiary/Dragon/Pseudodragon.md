@@ -65,7 +65,7 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "The pseudodragon has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The pseudodragon has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight, hearing, or smell."
   "name": "Keen Senses"
 - "desc": "The pseudodragon has advantage on saving throws against spells and other\
@@ -81,8 +81,8 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage, and the target must\
-    \ succeed on a DC 11 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]\
+    \ succeed on a DC 11 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for the same duration, or until it takes damage or another creature uses an\
     \ action to shake it awake."
   "name": "Sting"
@@ -96,7 +96,7 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 - "IMR"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/dragon/token/pseudodragon.png"
+"image": "5. Mechanics/Bestiary/Dragon/token/pseudodragon.png"
 ```
 ^statblock
 

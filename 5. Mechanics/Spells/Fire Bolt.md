@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer
@@ -23,6 +24,6 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 
 This spell's damage increases by `dice: 1d10|avg` (`1d10`) when you reach 5th level (`dice: 2d10|avg` (`2d10`)), 11th level (`dice: 3d10|avg` (`3d10`)), and 17th level (`dice: 4d10|avg` (`4d10`)).
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 242. Available in the SRD and the Basic Rules.*

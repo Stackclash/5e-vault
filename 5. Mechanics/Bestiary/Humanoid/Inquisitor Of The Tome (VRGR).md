@@ -49,11 +49,11 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "traits":
 - "desc": "The inquisitor casts one of the following spells, requiring no components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Levitate.md\|levitate]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Sending.md\|sending]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]"
+    \ will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Otilukes Resilient Sphere.md|Otiluke's resilient sphere]],\
+    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
   "name": "innate"
 "actions":
 - "desc": "The inquisitor attacks twice."
@@ -69,7 +69,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   "name": "Silver Longsword"
 - "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
     \ can see within 120 feet of it must succeed on a DC 15 Constitution saving throw\
-    \ or take 31 (dice: 6d8 + 4|avg (6d8 + 4)) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
+    \ or take 31 (dice: 6d8 + 4|avg (6d8 + 4)) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ and moved to the unoccupied space closest to the sphere's center. Large and\
     \ smaller objects that aren't being worn or carried in the sphere automatically\
     \ take the damage and are similarly moved."

@@ -107,13 +107,13 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "traits":
 - "desc": "The giant's innate spellcasting ability is Charisma. It can innately cast\
     \ the following spells, requiring no material components:\n\nAt will: [detect\
-    \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]],\
-    \ [[5. Mechanics/Spells/Light.md\|light]]\n\n1/day each: [[5. Mechanics/Spells/Control Weather.md\|control weather]],\
-    \ [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]]\n\n3/day each: [feather\
-    \ fall](compendium/spells/feather-fall.md), [[5. Mechanics/Spells/Fly.md\|fly]], [misty\
-    \ step](compendium/spells/misty-step.md), [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]"
+    \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+    \ [[5. Mechanics/Spells/Light.md|light]]\n\n1/day each: [[5. Mechanics/Spells/Control Weather.md|control weather]],\
+    \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]\n\n3/day each: [feather\
+    \ fall](compendium/spells/feather-fall.md), [[5. Mechanics/Spells/Fly.md|fly]], [misty\
+    \ step](compendium/spells/misty-step.md), [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
   "name": "innate"
-- "desc": "The giant has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The giant has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":

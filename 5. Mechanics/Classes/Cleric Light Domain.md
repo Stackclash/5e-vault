@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/cleric/light
 - compendium/src/5e/phb
@@ -54,6 +54,13 @@ Starting at 6th level, you can also use your Warding Flare feature when a creatu
 ### Potent Spellcasting (Level 8)
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+### Blessed Strikes (Level 8)
+_Source: Tasha's Cauldron of Everything p. 30_
+
+*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Potent Spellcasting feature*
+
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Corona of Light (Level 17)
 

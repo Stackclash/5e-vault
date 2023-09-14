@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/warlock
 - compendium/src/5e/phb
@@ -16,7 +16,7 @@ aliases: ["Warlock"]
 > | 1st | +2 | [Pact Magic](#Pact%20Magic%20(Level%201)), [Otherworldly Patron](#Otherworldly%20Patron%20(Level%201)) |
 > | 2nd | +2 | [Eldritch Invocations](#Eldritch%20Invocations%20(Level%202)) |
 > | 3rd | +2 | [Pact Boon](#Pact%20Boon%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Eldritch Versatility](#Eldritch%20Versatility%20(Level%204)) |
 > | 5th | +3 | ⏤ |
 > | 6th | +3 | [Otherworldly Patron feature](#Otherworldly%20Patron%20feature%20(Level%206)) |
 > | 7th | +3 | ⏤ |
@@ -270,6 +270,19 @@ At 3rd level, your otherworldly patron bestows a gift upon you for your loyal se
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
+
+### Eldritch Versatility (Level 4)
+_Source: Tasha's Cauldron of Everything p. 70_
+
+*4th-level warlock [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
+
+- Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the warlock spell list.  
+- Replace the option you chose for the Pact Boon feature with one of that feature's other options.  
+- If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.  
+
+If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.
 
 ### Otherworldly Patron feature (Level 6)
 

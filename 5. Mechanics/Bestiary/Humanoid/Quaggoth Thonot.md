@@ -59,10 +59,10 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 "traits":
 - "desc": "The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11).\
     \ The quaggoth can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]]\
-    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]],\
-    \ [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Heat Metal.md\|heat metal]],\
-    \ [[5. Mechanics/Spells/Mirror Image.md\|mirror image]]"
+    \nAt will: [[5. Mechanics/Spells/Feather Fall.md|feather fall]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
+    \ (the hand is invisible)\n\n1/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+    \ [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]"
   "name": "innate"
 - "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
     \ rolls. In addition, it deals an extra 7 (dice: 2d6|avg (2d6)) damage to\

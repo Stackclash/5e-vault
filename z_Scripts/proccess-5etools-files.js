@@ -5,7 +5,7 @@ const path = require('path')
 
 const config = {
     dryRun: false,
-    limit: 4000,
+    limit: 7000,
     rootVaultPath: path.resolve(__dirname, '../'),
     compendiumPath: 'compendium',
     rules: [
@@ -54,6 +54,7 @@ const config = {
                 let filePath = path.parse(linkPath).dir
                 let fileName = path.parse(linkPath).name
                 let separator = filePath.match(/[\/\\]/)
+                let linkPipe = /bestiary/i.test(file.path) ? '|' : '\\|'
 
                 let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
                 let fileNameRule = config.rules.filter(rule => rule.name === 'Update File Name')[0]
@@ -66,9 +67,9 @@ const config = {
                 if(!displayText && !title) {
                     newLink = `[[${linkPath}${section}]]`
                 } else if (title) {
-                    newLink = `[[${linkPath}${section}\\|"${title}"]]`
+                    newLink = `[[${linkPath}${section}${linkPipe}"${title}"]]`
                 } else {
-                    newLink = `[[${linkPath}${section}\\|${displayText}]]`
+                    newLink = `[[${linkPath}${section}${linkPipe}${displayText}]]`
                 }
 
                 return newLink
@@ -90,6 +91,22 @@ const config = {
                 }
 
                 return fileContent
+            }
+        },
+        {
+            enabled: true,
+            name: 'Update Token Path for Bestiary',
+            ignore: function(file) {
+                return !/bestiary/i.test(file.path) || ['.jpg', '.jpeg', '.png'].includes(file.fileExtension)
+            },
+            target: 'content',
+            regex: /"image": "([\w\/]+)(\/[img|token]+\/[\w]+\.[\w]+)"/g,
+            process: function(file, oldText, imagePath, restOfPath) {
+                let filePathRule = config.rules.filter(rule => rule.name === 'Update File Path')[0]
+
+                imagePath = filePathRule.process({relativePath: imagePath})
+
+                return `"image": "${imagePath}${restOfPath}"`
             }
         }
     ]
@@ -158,6 +175,7 @@ function processAllRules(files) {
         console.log(`${index+1} Processing: ${file.relativePath}${path.sep}${file.fileName}${file.fileExtension}`)
         config.rules.forEach(rule => {
             if (rule.enabled && !(rule.ignore && rule.ignore(file))) {
+                console.log(`\tRunning: ${rule.name}`)
                 if (rule.regex) {
                     file[rule.target] = file[rule.target].replaceAll(new RegExp(rule.regex, 'gi'), (...match) => rule.process(file, ...match))
                 } else {

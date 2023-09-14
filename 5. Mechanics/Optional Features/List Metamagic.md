@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
+cssclasses: json5e-note
 tags:
 - compendium/src/5e/phb
 aliases: ["Metamagic"]
@@ -14,5 +14,7 @@ aliases: ["Metamagic"]
 - [[5. Mechanics/Optional Features/Extended Spell.md\|Extended Spell]]
 - [[5. Mechanics/Optional Features/Heightened Spell.md\|Heightened Spell]]
 - [[5. Mechanics/Optional Features/Quickened Spell.md\|Quickened Spell]]
+- [[5. Mechanics/Optional Features/Seeking Spell (TCE).md\|Seeking Spell]]
 - [[5. Mechanics/Optional Features/Subtle Spell.md\|Subtle Spell]]
+- [[5. Mechanics/Optional Features/Transmuted Spell (TCE).md\|Transmuted Spell]]
 - [[5. Mechanics/Optional Features/Twinned Spell.md\|Twinned Spell]]

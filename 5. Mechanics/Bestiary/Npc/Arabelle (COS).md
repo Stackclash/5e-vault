@@ -38,7 +38,7 @@ aliases: ["Arabelle"]
 "cr": "0"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/arabelle.png"
+"image": "5. Mechanics/Bestiary/Npc/token/arabelle.png"
 ```
 ^statblock
 

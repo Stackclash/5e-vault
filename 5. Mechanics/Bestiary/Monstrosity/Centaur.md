@@ -83,7 +83,7 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 - "DIP"
 - "MOT"
 - "WBtW"
-"image": "compendium/bestiary/monstrosity/token/centaur.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.png"
 ```
 ^statblock
 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-race
+cssclasses: json5e-race
 tags:
 - compendium/src/5e/mpmm
 - race/githyanki

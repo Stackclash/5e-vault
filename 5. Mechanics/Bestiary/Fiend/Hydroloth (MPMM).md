@@ -44,11 +44,11 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 "traits":
 - "desc": "The hydroloth casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 16):\n\nAt will: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
-    \ (self only)\n\n3/day each: [[5. Mechanics/Spells/Control Water.md\|control water]],\
-    \ [[5. Mechanics/Spells/Crown Of Madness.md\|crown of madness]], [[5. Mechanics/Spells/Fear.md\|fear]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \ 16):\n\nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ (self only)\n\n3/day each: [[5. Mechanics/Spells/Control Water.md|control water]],\
+    \ [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [[5. Mechanics/Spells/Fear.md|fear]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "spells"
 - "desc": "The hydroloth can breathe air and water."
   "name": "Amphibious"
@@ -79,8 +79,8 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
     \ loses all proficiencies; it can't cast spells; it can't understand language;\
     \ and if its Intelligence and Charisma scores are higher than 5, they become 5.\
     \ Each time the target finishes a long rest, it can repeat the saving throw, ending\
-    \ the effect on itself on a success. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
-    \ or [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the target\
+    \ the effect on itself on a success. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast on the target\
     \ ends this effect early."
   "name": "Steal Memory (1/Day)"
 - "desc": "The hydroloth teleports, along with any equipment it is wearing or carrying,\
@@ -89,6 +89,6 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/hydroloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/hydroloth.png"
 ```
 ^statblock

@@ -53,8 +53,8 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
     \ Hit: 18 (dice: 4d6 + 4|avg (4d6 + 4)) slashing damage. If the target is\
-    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 16), and it is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 16), and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until the grapple ends. While grappling a creature, the sorrowsworn can't make\
     \ a Claw attack."
   "name": "Claw"

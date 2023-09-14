@@ -9,7 +9,7 @@ tags:
 aliases: ["Banshee"]
 ---
 # Banshee
-*Source: Monster Manual p. 23, Curse of Strahd. Available in the Basic Rules.*  
+*Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 
@@ -70,8 +70,8 @@ A banshee doesn't require air, food, drink, or sleep.
     \ Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) necrotic damage."
   "name": "Corrupting Touch"
 - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] target\
+    \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target\
     \ can repeat the saving throw at the end of each of its turns, with disadvantage\
     \ if the banshee is within line of sight, ending the effect on itself on a success.\
     \ If a target's saving throw is successful or the effect ends for it, the target\
@@ -94,7 +94,7 @@ A banshee doesn't require air, food, drink, or sleep.
 - "TCE"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/undead/token/banshee.png"
+"image": "5. Mechanics/Bestiary/Undead/token/banshee.png"
 ```
 ^statblock
 

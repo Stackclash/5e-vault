@@ -67,12 +67,12 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
     \ Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 50 ft., one creature.\
-    \ Hit: The target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape\
-    \ DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ Hit: The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and has disadvantage on Strength checks and Strength saving throws, and the\
     \ roper can't use the same tendril on another target."
   "name": "Tendril"
-- "desc": "The roper pulls each creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+- "desc": "The roper pulls each creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by it up to 25 feet straight toward it."
   "name": "Reel"
 "source":
@@ -84,7 +84,7 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 - "WDMM"
 - "CRCotN"
 - "JttRC"
-"image": "compendium/bestiary/monstrosity/token/roper.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/roper.png"
 ```
 ^statblock
 

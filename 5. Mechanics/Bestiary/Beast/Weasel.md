@@ -32,7 +32,7 @@ aliases: ["Weasel"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The weasel has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The weasel has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
@@ -43,6 +43,6 @@ aliases: ["Weasel"]
 - "MM"
 - "IDRotF"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/weasel.png"
+"image": "5. Mechanics/Bestiary/Beast/token/weasel.png"
 ```
 ^statblock

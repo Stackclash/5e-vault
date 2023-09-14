@@ -62,7 +62,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/girallon.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/girallon.png"
 ```
 ^statblock
 

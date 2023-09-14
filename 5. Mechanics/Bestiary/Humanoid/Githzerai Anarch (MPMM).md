@@ -53,10 +53,10 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "traits":
 - "desc": "The githzerai casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] (the hand is invisible)\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]]\n\
-    \n3/day each: [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]"
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand is invisible)\n\n1/day\
+    \ each: [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\
+    \n3/day each: [[5. Mechanics/Spells/See Invisibility.md|see invisibility]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
   "name": "spells"
 - "desc": "If the githzerai fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -76,7 +76,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 - "desc": "The githzerai teleports, along with any equipment it is wearing or carrying,\
     \ to an unoccupied space it can see within 30 feet of it."
   "name": "Teleport"
-- "desc": "The githzerai casts the [[5. Mechanics/Spells/Reverse Gravity.md\|reverse gravity]]\
+- "desc": "The githzerai casts the [[5. Mechanics/Spells/Reverse Gravity.md|reverse gravity]]\
     \ spell, using Wisdom as the spellcasting ability. The spell has the normal effect,\
     \ except that the githzerai can orient the area in any direction and creatures\
     \ and objects fall toward the end of the area."

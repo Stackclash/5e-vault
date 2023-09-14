@@ -9,7 +9,7 @@ tags:
 aliases: ["Giant Bat"]
 ---
 # Giant Bat
-*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Bat"
@@ -31,9 +31,9 @@ aliases: ["Giant Bat"]
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]."
+- "desc": "The bat can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
   "name": "Echolocation"
-- "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The bat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":

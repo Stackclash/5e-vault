@@ -11,7 +11,7 @@ tags:
 aliases: ["Cat"]
 ---
 # Cat
-*Source: Monster Manual p. 320, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 320, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Cat"
@@ -36,7 +36,7 @@ aliases: ["Cat"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The cat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
@@ -56,7 +56,7 @@ aliases: ["Cat"]
 - "CM"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/beast/token/cat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/cat.png"
 ```
 ^statblock
 

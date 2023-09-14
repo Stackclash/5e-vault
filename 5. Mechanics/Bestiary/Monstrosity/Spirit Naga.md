@@ -66,19 +66,19 @@ A naga doesn't require air, food, drink, or sleep.
 - "desc": "The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks), and it needs\
     \ only verbal components to cast its spells. It has the following wizard spells\
-    \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Charm Person.md\|charm person]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Sleep.md\|sleep]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Hold Person.md\|hold person]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], [[5. Mechanics/Spells/Water Breathing.md\|water breathing]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Blight.md\|blight]], [dimension\
+    \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Charm Person.md|charm person]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
+    \ slots): [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Blight.md|blight]], [dimension\
     \ door](compendium/spells/dimension-door.md)\n\n5th level (2 5th-level slots):\
-    \ [[5. Mechanics/Spells/Dominate Person.md\|dominate person]]"
+    \ [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
   "name": "spells"
 - "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
-    \ regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md\|wish]] spell can\
+    \ regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can\
     \ prevent this trait from functioning."
   "name": "Rejuvenation"
 "actions":

@@ -50,7 +50,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 "traits":
 - "desc": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium\
     \ or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] until the\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the\
     \ end of the creature's next turn."
   "name": "Death Burst"
 - "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
@@ -62,7 +62,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
   "name": "Fists"
 - "desc": "The mephit belches viscid mud onto one creature within 5 feet of it. If\
     \ the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] for 1 minute.\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] for 1 minute.\
     \ A creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Mud Breath (Recharge 6)"

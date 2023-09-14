@@ -53,7 +53,7 @@ An invisible stalker requires no air, food, drink, or sleep.
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"
 "traits":
-- "desc": "The stalker is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]."
+- "desc": "The stalker is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
   "name": "Invisibility"
 - "desc": "The stalker is given a quarry by its summoner. The stalker knows the direction\
     \ and distance to its quarry as long as the two of them are on the same plane\

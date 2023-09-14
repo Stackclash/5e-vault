@@ -8,7 +8,7 @@ tags:
 aliases: ["Treant"]
 ---
 # Treant
-*Source: Monster Manual p. 289. Available in the SRD.*  
+*Source: Monster Manual p. 289, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
 
@@ -63,7 +63,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
     \ one target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage."
   "name": "Rock"
 - "desc": "The treant magically animates one or two trees it can see within 60 feet\
-    \ of it. These trees have the same statistics as a [[5. Mechanics/Bestiary/Plant/Treant.md\|treant]],\
+    \ of it. These trees have the same statistics as a [[5. Mechanics/Bestiary/Plant/Treant.md|treant]],\
     \ except they have Intelligence and Charisma scores of 1, they can't speak, and\
     \ they have only the Slam action option. An animated tree acts as an ally of the\
     \ treant. The tree remains animate for 1 day or until it dies; until the treant\
@@ -89,7 +89,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 - "LoX"
 - "DSotDQ"
 - "PSI"
-"image": "compendium/bestiary/plant/token/treant.png"
+"image": "5. Mechanics/Bestiary/Plant/token/treant.png"
 ```
 ^statblock
 

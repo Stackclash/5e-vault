@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/artificer
 - spell/class/cleric/nature-domain
 - spell/class/druid
 - spell/class/druid/circle-of-the-land
@@ -23,6 +24,6 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
+**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Cleric Nature Domain.md\|Cleric (Nature Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Warlock.md\|Warlock]]
 
 *Source: Xanathar's Guide to Everything p. 160*

@@ -50,7 +50,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "cr": "2"
 "traits":
 - "desc": "Any creature that starts its turn within 5 feet of the ghast must succeed\
-    \ on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ until the start of its next turn. On a successful saving throw, the creature\
     \ is immune to the ghast's Stench for 24 hours."
   "name": "Stench"
@@ -64,7 +64,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage. If the target is\
     \ a creature other than an undead, it must succeed on a DC 10 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 1 minute.\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Claws"
@@ -82,7 +82,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "BGDIA"
 - "DSotDQ"
 - "PSI"
-"image": "compendium/bestiary/undead/token/ghast.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ghast.png"
 ```
 ^statblock
 

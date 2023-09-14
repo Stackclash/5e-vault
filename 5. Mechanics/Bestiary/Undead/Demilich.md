@@ -87,7 +87,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 "actions":
 - "desc": "The demilich emits a bloodcurdling howl. Each creature within 30 feet of\
     \ the demilich that can hear the howl must succeed on a DC 15 Constitution saving\
-    \ throw or drop to 0 hit points. On a successful save, the creature is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ throw or drop to 0 hit points. On a successful save, the creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of its next turn."
   "name": "Howl (Recharge 5-6)"
 - "desc": "The demilich targets up to three creatures that it can see within 10 feet\
@@ -100,7 +100,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Flight"
 - "desc": "The demilich magically swirls its dusty remains. Each creature within 10\
     \ feet of the demilich, including around a corner, must succeed on a DC 15 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] until\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] until\
     \ the end of the demilich's next turn. A creature that succeeds on the saving\
     \ throw is immune to this effect until the end of the demilich's next turn."
   "name": "Cloud of Dust"
@@ -108,7 +108,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
     \ saving throw. On a failed save, the creature's hit point maximum is magically\
     \ reduced by 10 (dice: 3d6|avg (3d6)). If a creature's hit point maximum is\
     \ reduced to 0 by this effect, the creature dies. A creature's hit point maximum\
-    \ can be restored with the  [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]]\
+    \ can be restored with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell or similar magic."
   "name": "Energy Drain (Costs 2 Actions)"
 - "desc": "The demilich targets one creature it can see within 30 feet of it. The\
@@ -125,6 +125,6 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - "EGW"
 - "IDRotF"
 - "JttRC"
-"image": "compendium/bestiary/undead/token/demilich.png"
+"image": "5. Mechanics/Bestiary/Undead/token/demilich.png"
 ```
 ^statblock

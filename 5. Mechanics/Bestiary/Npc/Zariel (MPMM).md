@@ -62,14 +62,14 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 "traits":
 - "desc": "Zariel casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 26):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Alter Self.md\|alter self]] (can become Medium when changing\
-    \ her appearance), [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Fireball.md\|fireball]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
-    \ (self only), [[5. Mechanics/Spells/Major Image.md\|major image]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Blade Barrier.md\|blade barrier]], [dispel\
-    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]]"
+    \ [[5. Mechanics/Spells/Alter Self.md|alter self]] (can become Medium when changing\
+    \ her appearance), [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ (self only), [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [dispel\
+    \ evil and good](compendium/spells/dispel-evil-and-good.md), [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede Zariel's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede Zariel's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "If Zariel fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -95,10 +95,10 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
   "name": "Longsword"
 - "desc": "Zariel touches one creature within 10 feet of her. The target must succeed\
     \ on a DC 26 Constitution saving throw or take 44 (dice: 8d10|avg (8d10))\
-    \ necrotic damage and be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in\
-    \ this way, the target is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and\
-    \ [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]. The target can repeat\
+    \ necrotic damage and be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in\
+    \ this way, the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
+    \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]. The target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success."
   "name": "Horrid Touch (Recharge 5-6)"
@@ -115,6 +115,6 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/npc/token/zariel.png"
+"image": "5. Mechanics/Bestiary/Npc/token/zariel.png"
 ```
 ^statblock

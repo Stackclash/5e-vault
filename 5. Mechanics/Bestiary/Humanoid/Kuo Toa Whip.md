@@ -79,21 +79,21 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "desc": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The kuo-toa\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [sacred\
-    \ flame](compendium/spells/sacred-flame.md), [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
-    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Bane.md\|bane]], [shield\
+    \ flame](compendium/spells/sacred-flame.md), [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Bane.md|bane]], [shield\
     \ of faith](compendium/spells/shield-of-faith.md)"
   "name": "spells"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
 - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] or on the Ethereal\
+    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
 - "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
     \ a grapple."
   "name": "Slippery"
 - "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -105,7 +105,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one target.\
     \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage. If the target is\
-    \ a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff\
     \ on another target."
   "name": "Pincer Staff"

@@ -12,7 +12,7 @@ aliases: ["Githyanki Kith'rak"]
 # Githyanki Kith'rak
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
 
-Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md\|githyanki warriors]]), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
+Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|githyanki warriors]]), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
 
 ## Githyanki
 
@@ -48,9 +48,9 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "traits":
 - "desc": "The githyanki casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] (the hand is invisible)\n\
-    \n1/day each: [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\
+    \ will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand is invisible)\n\
+    \n1/day each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
     \ (self only)"
   "name": "spells"
 "actions":
@@ -64,8 +64,8 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 - "desc": "The githyanki teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see."
   "name": "Astral Step (Recharge 4-6)"
-- "desc": "The githyanki magically ends the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] conditions on itself\
+- "desc": "The githyanki magically ends the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] conditions on itself\
     \ and each creature of its choice that it can see within 30 feet of it."
   "name": "Rally the Troops"
 "reactions":

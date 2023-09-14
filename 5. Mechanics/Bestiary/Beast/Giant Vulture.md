@@ -35,12 +35,12 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The vulture has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The vulture has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 - "desc": "The vulture has advantage on an attack roll against a creature if at least\
     \ one of the vulture's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The vulture makes two attacks: one with its beak and one with its talons."

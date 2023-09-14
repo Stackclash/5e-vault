@@ -49,9 +49,9 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 "languages": "Ignan, Terran"
 "cr": "1/2"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Heat Metal.md\|heat metal]]\
+- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Heat Metal.md|heat metal]]\
     \ (spell save DC 10), requiring no material components. Its innate spellcasting\
-    \ ability is Charisma.\n\nAt will: [[5. Mechanics/Spells/Heat Metal.md\|heat metal]]"
+    \ ability is Charisma.\n\nAt will: [[5. Mechanics/Spells/Heat Metal.md|heat metal]]"
   "name": "innate"
 - "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
     \ 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (dice: 2d6|avg\

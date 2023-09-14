@@ -37,9 +37,9 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The rothé casts [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
+- "desc": "The rothé casts [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ requiring no spell components and using Wisdom as the spellcasting ability.\n\
-    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]]"
+    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]"
   "name": "spells"
 - "desc": "The rothé is considered to be one size larger for the purpose of determining\
     \ its carrying capacity."

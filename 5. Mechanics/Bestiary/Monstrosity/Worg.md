@@ -36,13 +36,13 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 "languages": "Goblin, Worg"
 "cr": "1/2"
 "traits":
-- "desc": "The worg has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The worg has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"
@@ -52,7 +52,7 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 - "ERLW"
 - "IDRotF"
 - "CM"
-"image": "compendium/bestiary/monstrosity/token/worg.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/worg.png"
 ```
 ^statblock
 

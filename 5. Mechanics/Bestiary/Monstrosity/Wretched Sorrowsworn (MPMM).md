@@ -41,7 +41,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "traits":
 - "desc": "The sorrowsworn has advantage on an attack roll against a creature if at\
     \ least one of the sorrowsworn's allies is within 5 feet of the creature and the\
-    \ ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. The\
+    \ ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. The\
     \ sorrowsworn otherwise has disadvantage on attack rolls."
   "name": "Wretched Pack Tactics"
 "actions":

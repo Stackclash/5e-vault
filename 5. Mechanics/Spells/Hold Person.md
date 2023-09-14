@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
 - spell/class/cleric
+- spell/class/cleric/order-domain
 - spell/class/druid
 - spell/class/druid/circle-of-the-land
 - spell/class/fighter/eldritch-knight
@@ -32,6 +33,6 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 251. Available in the SRD and the Basic Rules.*

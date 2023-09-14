@@ -45,8 +45,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
     \ Hit: 33 (dice: 4d12 + 7|avg (4d12 + 7)) piercing damage. If the target\
-    \ is a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 17). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ is a Medium or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 17). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the tyrannosaurus can't bite another target."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\

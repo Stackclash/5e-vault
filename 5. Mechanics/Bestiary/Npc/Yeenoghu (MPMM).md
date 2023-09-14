@@ -22,7 +22,7 @@ The Gnoll Lord is covered in matted fur and leathery hide, and his face resemble
 
 ## Yeenoghu's Lair
 
-Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [[5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]], [[5. Mechanics/Bestiary/Beast/Hyena.md\|hyenas]], and [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]], and there are few structures or signs of civilization on his layer of the Abyss.
+Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [[5. Mechanics/Bestiary/Humanoid/Gnoll.md|gnolls]], [[5. Mechanics/Bestiary/Beast/Hyena.md|hyenas]], and [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]], and there are few structures or signs of civilization on his layer of the Abyss.
 
 The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his lair.
 
@@ -59,9 +59,9 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 "traits":
 - "desc": "Yeenoghu casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]]\n\n1/day: [[5. Mechanics/Spells/Teleport.md\|teleport]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Fear.md\|fear]],\
-    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\n1/day: [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fear.md|fear]],\
+    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
   "name": "spells"
 - "desc": "If Yeenoghu fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -78,7 +78,7 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
     \ must succeed on a DC 17 Wisdom saving throw or be affected by the confusion\
     \ spell until the start of Yeenoghu's next turn.  \n- Force. The target takes\
     \ an extra 13 (dice: 2d12|avg (2d12)) force damage.  \n- Paralysis. The\
-    \ target must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ target must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of Yeenoghu's next turn.  "
   "name": "Flail"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
@@ -94,7 +94,7 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 - "desc": "Yeenoghu makes one Flail attack. If the attack hits, the target must succeed\
     \ on a DC 24 Strength saving throw or be pushed up to 15 feet in a straight line\
     \ away from Yeenoghu. If the saving throw fails by 5 or more, the target is also\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Swat Away"
 - "desc": "Yeenoghu makes a separate Bite attack against each creature within 10 feet\
     \ of him."
@@ -102,6 +102,6 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/npc/token/yeenoghu.png"
+"image": "5. Mechanics/Bestiary/Npc/token/yeenoghu.png"
 ```
 ^statblock

@@ -64,7 +64,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
     \ ability checks until the end of its next turn."
   "name": "Fear of Fire"
-- "desc": "The yeti has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The yeti has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy\
@@ -80,7 +80,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
     \ can see the yeti, the target must succeed on a DC 13 Constitution saving throw\
     \ against this magic or take 10 (dice: 3d6|avg (3d6)) cold damage and then\
-    \ be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 1 minute, unless\
+    \ be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute, unless\
     \ it is immune to cold damage. The target can repeat the saving throw at the end\
     \ of each of its turns, ending the effect on itself on a success. If the target's\
     \ saving throw is successful, or if the effect ends on it, the target is immune\
@@ -93,7 +93,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "EGW"
 - "IDRotF"
 - "LoX"
-"image": "compendium/bestiary/monstrosity/token/yeti.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/yeti.png"
 ```
 ^statblock
 

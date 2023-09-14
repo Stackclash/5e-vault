@@ -51,13 +51,13 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the shadow mastiff becomes [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]],\
+- "desc": "While in dim light or darkness, the shadow mastiff becomes [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]],\
     \ along with anything it is wearing or carrying. The invisibility lasts until\
     \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-    \ attacks, is in bright light, or is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ attacks, is in bright light, or is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Shadow Blend"
 "source":
 - "MPMM"

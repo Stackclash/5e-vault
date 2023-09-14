@@ -43,10 +43,10 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks\
+    \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
     \ that rely on sight."
   "name": "Sunlight Sensitivity"
-- "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]."
+- "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]."
   "name": "Invisibility"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
@@ -72,7 +72,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 - "CM"
 - "KftGV"
 - "PSI"
-"image": "compendium/bestiary/undead/token/poltergeist.png"
+"image": "5. Mechanics/Bestiary/Undead/token/poltergeist.png"
 ```
 ^statblock
 

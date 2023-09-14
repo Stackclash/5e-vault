@@ -10,9 +10,9 @@ aliases: ["Devourer"]
 # Devourer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  
 
-Of all the abominations unleashed by [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md\|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
+Of all the abominations unleashed by [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
 
-A lesser demon that proves itself to Orcus might be granted the privilege of becoming a devourer. The Prince of Undeath transforms such a demon into an 8-foot-tall, desiccated biped with a hollowed-out ribcage, then fills the new creature with a hunger for souls. Orcus grants each new devourer the essence of a less fortunate demon to power the devourer's first foray into the planes. Most devourers remain in the Abyss or on the Astral or Ethereal Plane, pursuing Orcus's schemes and interests in those realms. When Orcus sends devourers to the Material Plane, he often sets them on a mission to create, control, and lead a plague of Undead. [[5. Mechanics/Bestiary/Undead/Skeleton.md\|Skeletons]], [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]], [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]], [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]], and [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] are particularly attracted to the presence of a devourer.
+A lesser demon that proves itself to Orcus might be granted the privilege of becoming a devourer. The Prince of Undeath transforms such a demon into an 8-foot-tall, desiccated biped with a hollowed-out ribcage, then fills the new creature with a hunger for souls. Orcus grants each new devourer the essence of a less fortunate demon to power the devourer's first foray into the planes. Most devourers remain in the Abyss or on the Astral or Ethereal Plane, pursuing Orcus's schemes and interests in those realms. When Orcus sends devourers to the Material Plane, he often sets them on a mission to create, control, and lead a plague of Undead. [[5. Mechanics/Bestiary/Undead/Skeleton.md|Skeletons]], [[5. Mechanics/Bestiary/Undead/Zombie.md|zombies]], [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]], [[5. Mechanics/Bestiary/Undead/Ghast.md|ghasts]], and [[5. Mechanics/Bestiary/Undead/Shadow.md|shadows]] are particularly attracted to the presence of a devourer.
 
 Devourers hunt Humanoids with the intent of consuming them body and soul. After a devourer brings a target to the brink of death, it pulls the victim's body in and traps the creature within its own ribcage. As the victim tries to stave off death (usually without success), the devourer tortures its soul with telepathic noise. When the victim expires, it undergoes a horrible transformation, springing forth from the devourer's body to begin its new existence as an Undead servitor of the monster that spawned it.
 
@@ -51,14 +51,14 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
   "name": "Claw"
 - "desc": "The devourer chooses a living Humanoid with 0 hit points that it can see\
     \ within 30 feet of it. That creature is teleported inside the devourer's ribcage\
-    \ and imprisoned there. While imprisoned in this way, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ and imprisoned there. While imprisoned in this way, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and has disadvantage on death saving throws. If the creature dies while imprisoned,\
     \ the devourer regains 25 hit points and immediately recharges Soul Rend. Additionally,\
     \ at the start of its next turn, the devourer regurgitates the slain creature\
     \ as a bonus action, and the creature becomes an undead. If the victim had 2 or\
-    \ fewer Hit Dice, it becomes a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]].\
-    \ If it had 3 to 5 Hit Dice, it becomes a [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghoul]].\
-    \ Otherwise, it becomes a [[5. Mechanics/Bestiary/Undead/Wight.md\|wight]]. A devourer\
+    \ fewer Hit Dice, it becomes a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]].\
+    \ If it had 3 to 5 Hit Dice, it becomes a [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]].\
+    \ Otherwise, it becomes a [[5. Mechanics/Bestiary/Undead/Wight.md|wight]]. A devourer\
     \ can imprison only one creature at a time."
   "name": "Imprison Soul"
 - "desc": "The devourer creates a vortex of life-draining energy in a 20-foot radius\
@@ -69,7 +69,7 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/undead/token/devourer.png"
+"image": "5. Mechanics/Bestiary/Undead/token/devourer.png"
 ```
 ^statblock
 

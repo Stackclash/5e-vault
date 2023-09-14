@@ -9,7 +9,7 @@ tags:
 aliases: ["Vampire Spawn"]
 ---
 # Vampire Spawn
-*Source: Monster Manual p. 298, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 298, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 
@@ -35,9 +35,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!quote] Player Characters as Vampires
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics/Spells/Wish.md\|wish]] spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics/Spells/Wish.md|wish]] spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!quote] Strahd von Zarovich
@@ -95,7 +95,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ enter a residence without an invitation from one of the occupants.\n\nHarmed\
     \ by Running Water. The vampire takes 20 acid damage when it ends its turn in\
     \ running water.\n\nStake to the Heart. The vampire is destroyed if a piercing\
-    \ weapon made of wood is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ weapon made of wood is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ in its resting place.\n\nSunlight Hypersensitivity. The vampire takes 20 radiant\
     \ damage when it starts its turn in sunlight. While in sunlight, it has disadvantage\
     \ on attack rolls and ability checks."
@@ -104,9 +104,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. Hit: 6 (dice:\
+    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: 6 (dice:\
     \ 1d6 + 3|avg (1d6 + 3)) piercing damage plus 7 (dice: 2d6|avg (2d6)) necrotic\
     \ damage. The target's hit point maximum is reduced by an amount equal to the\
     \ necrotic damage taken, and the vampire regains hit points equal to that amount.\

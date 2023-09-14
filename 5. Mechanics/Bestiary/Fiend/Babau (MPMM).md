@@ -49,9 +49,9 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "traits":
 - "desc": "The babau casts one of the following spells, requiring no material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Fear.md\|fear]], [[5. Mechanics/Spells/Heat Metal.md\|heat metal]],\
-    \ [[5. Mechanics/Spells/Levitate.md\|levitate]]"
+    \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
+    \ [[5. Mechanics/Spells/Levitate.md|levitate]]"
   "name": "spells"
 "actions":
 - "desc": "The babau makes two Claw attacks. It can replace one attack with a use\
@@ -70,7 +70,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/babau.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/babau.png"
 ```
 ^statblock
 

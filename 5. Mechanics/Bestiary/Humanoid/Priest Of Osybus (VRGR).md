@@ -36,7 +36,7 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
 | 3 | **Vampiric.** When the priest deals necrotic damage to any creature, the priest gains a number of temporary hit points equal to half that necrotic damage. The priest's speed also increases by 10 feet. |
 | 4 | **Blazing.** The priest sloughs off its flesh, and its skeleton crumbles away, leaving only its skull. Its stat block is replaced by that of a flameskull, but it retains its Tattoo of Osybus trait, and all fire damage it deals becomes necrotic damage. The Tattoo of Osybus now appears carved into the skull's forehead. |
 | 5 | **Spectral.** The priest now appears wraithlike, and its challenge rating increases by 1. It gains resistance to all damage but force, radiant, and psychic, and it is vulnerable to radiant damage. It can also move through creatures and objects as if they were difficult terrain, but it takes 5 (`dice: 1d10\|avg` (`1d10`)) force damage if it ends its turn inside a creature or an object. |
-| 6 | **Deathly.** The priest's visage becomes bone white, and its challenge rating increases by 1. It can cast [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] and create undead once per day each, using Intelligence as the spellcasting ability, and it gains the following action: Circle of Death (Spell. Each creature in a 60-foot-radius sphere centered on a point the priest can see within 150 feet of it must make a DC 15 Constitution saving throw, taking 28 (`dice: 8d6\|avg` (`8d6`)) necrotic damage on a failed save, or half as much damage on a successful one. |
+| 6 | **Deathly.** The priest's visage becomes bone white, and its challenge rating increases by 1. It can cast [[5. Mechanics/Spells/Animate Dead.md|animate dead]] and create undead once per day each, using Intelligence as the spellcasting ability, and it gains the following action: Circle of Death (Spell. Each creature in a 60-foot-radius sphere centered on a point the priest can see within 150 feet of it must make a DC 15 Constitution saving throw, taking 28 (`dice: 8d6\|avg` (`8d6`)) necrotic damage on a failed save, or half as much damage on a successful one. |
 ^boons-of-undeath
 
 ```statblock
@@ -79,7 +79,7 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage, and if the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of the priest's next turn. If this damage reduces a Medium or\
     \ smaller creature to 0 hit points, the creature dies, and its soul is trapped\
     \ in the priest's body, manifesting as a shadowy Soul Tattoo on the priest. The\

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/druid
 - compendium/src/5e/phb
@@ -14,9 +14,9 @@ aliases: ["Druid"]
 > | Level | PB | Features |
 > |-------|----|----------|
 > | 1st | +2 | [Druidic](#Druidic%20(Level%201)), [Spellcasting](#Spellcasting%20(Level%201)) |
-> | 2nd | +2 | [Wild Shape](#Wild%20Shape%20(Level%202)), [Druid Circle](#Druid%20Circle%20(Level%202)) |
+> | 2nd | +2 | [Wild Shape](#Wild%20Shape%20(Level%202)), [Wild Companion](#Wild%20Companion%20(Level%202)), [Druid Circle](#Druid%20Circle%20(Level%202)) |
 > | 3rd | +2 | ⏤ |
-> | 4th | +2 | [Wild Shape Improvement](#Wild%20Shape%20Improvement%20(Level%204)), [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
+> | 4th | +2 | [Wild Shape Improvement](#Wild%20Shape%20Improvement%20(Level%204)), [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Cantrip Versatility](#Cantrip%20Versatility%20(Level%204)) |
 > | 5th | +3 | ⏤ |
 > | 6th | +3 | [Druid Circle feature](#Druid%20Circle%20feature%20(Level%206)) |
 > | 7th | +3 | ⏤ |
@@ -536,6 +536,15 @@ While you are transformed, the following rules apply:
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], unless your new form also has that sense.  
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
 
+### Wild Companion (Level 2)
+_Source: Tasha's Cauldron of Everything p. 35_
+
+*2nd-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, without material components.
+
+When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
+
 ### Druid Circle (Level 2)
 
 At 2nd level, you choose to identify with a circle of druids from the list of available circles. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
@@ -549,6 +558,13 @@ At 4th level, your Wild Shape improves as shown on the Beast Shapes table.
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
+
+### Cantrip Versatility (Level 4)
+_Source: Tasha's Cauldron of Everything p. 35_
+
+*4th-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.
 
 ### Druid Circle feature (Level 6)
 

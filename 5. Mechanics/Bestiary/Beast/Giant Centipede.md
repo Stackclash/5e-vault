@@ -9,7 +9,7 @@ tags:
 aliases: ["Giant Centipede"]
 ---
 # Giant Centipede
-*Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Centipede"
@@ -35,9 +35,9 @@ aliases: ["Giant Centipede"]
     \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage, and the target must\
     \ succeed on a DC 11 Constitution saving throw or take 10 (dice: 3d6|avg (3d6))\
     \ poison damage. If the poison damage reduces the target to 0 hit points, the\
-    \ target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for\
-    \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way."
+    \ target is stable but [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way."
   "name": "Bite"
 "source":
 - "MM"

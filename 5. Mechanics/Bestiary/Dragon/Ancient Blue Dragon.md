@@ -9,7 +9,7 @@ tags:
 aliases: ["Ancient Blue Dragon"]
 ---
 # Ancient Blue Dragon
-*Source: Monster Manual p. 90. Available in the SRD.*  
+*Source: Monster Manual p. 90, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
@@ -141,7 +141,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Hit: 18 (dice: 2d8 + 9|avg (2d8 + 9)) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -153,14 +153,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 24 Dexterity saving throw or take 16 (dice: 2d6 + 9|avg\
-    \ (2d6 + 9)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ (2d6 + 9)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":

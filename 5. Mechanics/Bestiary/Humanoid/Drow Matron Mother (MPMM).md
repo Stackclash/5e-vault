@@ -13,7 +13,7 @@ aliases: ["Drow Matron Mother"]
 
 Among drow followers of Lolth, each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
 
-A matron mother is almost never encountered alone. She is typically accompanied by a [[5. Mechanics/Bestiary/Humanoid/Drow Favored Consort (MPMM).md\|drow favored consort]] and a [[5. Mechanics/Bestiary/Humanoid/Drow House Captain (MPMM).md\|drow house captain]], each of whom appears in this book. Other Underdark creatures might also be in the priestess's presence, providing protection or advice.
+A matron mother is almost never encountered alone. She is typically accompanied by a [[5. Mechanics/Bestiary/Humanoid/Drow Favored Consort (MPMM).md|drow favored consort]] and a [[5. Mechanics/Bestiary/Humanoid/Drow House Captain (MPMM).md|drow house captain]], each of whom appears in this book. Other Underdark creatures might also be in the priestess's presence, providing protection or advice.
 
 ## Mothers of Rebellion
 
@@ -58,23 +58,23 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
 "traits":
 - "desc": "The drow casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 20):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]], [[5. Mechanics/Spells/Darkness.md\|darkness]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Gate.md\|gate]],\
-    \ [[5. Mechanics/Spells/Levitate.md\|levitate]] (self only), [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Blade Barrier.md\|blade barrier]],\
-    \ [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[5. Mechanics/Spells/Hold Person.md\|hold person]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/Silence.md\|silence]]"
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Gate.md|gate]],\
+    \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]],\
+    \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Silence.md|silence]]"
   "name": "spells"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
-- "desc": "The drow wields a [[5. Mechanics/Items/Tentacle Rod.md\|tentacle rod]]."
+- "desc": "The drow wields a [[5. Mechanics/Items/Tentacle Rod.md|tentacle rod]]."
   "name": "Special Equipment"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -85,14 +85,14 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
     \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage, or 8 (dice:\
     \ 1d8 + 4|avg (1d8 + 4)) bludgeoning damage if used with two hands, plus 14\
     \ (dice: 4d6|avg (4d6)) psychic damage. The target must succeed on a DC 19\
-    \ Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the drow for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the drow for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Demon Staff"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one creature.\
     \ Hit: 3 (dice: 1d6|avg (1d6)) bludgeoning damage. If the target is hit\
-    \ three times by the [[5. Mechanics/Items/Tentacle Rod.md\|rod]] on one turn, the\
+    \ three times by the [[5. Mechanics/Items/Tentacle Rod.md|rod]] on one turn, the\
     \ target must succeed on a DC 15 Constitution saving throw or suffer the following\
     \ effects for 1 minute: the target's speed is halved, it has disadvantage on Dexterity\
     \ saving throws, and it can't use reactions. Moreover, on each of its turns, it\
@@ -111,8 +111,8 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
     \ 30 feet of her. The ally takes 7 (dice: 2d6|avg (2d6)) psychic damage but\
     \ has advantage on the next attack roll it makes before the end of its next turn."
   "name": "Lolth's Fickle Favor"
-- "desc": "The drow magically summons a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md\|glabrezu]]\
-    \ or a [[5. Mechanics/Bestiary/Fiend/Yochlol.md\|yochlol]]. The summoned creature\
+- "desc": "The drow magically summons a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]\
+    \ or a [[5. Mechanics/Bestiary/Fiend/Yochlol.md|yochlol]]. The summoned creature\
     \ appears in an unoccupied space within 60 feet of its summoner, acts as an ally\
     \ of its summoner, and can't summon other demons. It remains for 10 minutes, until\
     \ it or its summoner dies, or until its summoner dismisses it as an action."

@@ -43,16 +43,16 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 "traits":
 - "desc": "The kobold casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]],\
-    \ [[5. Mechanics/Spells/Levitate.md\|levitate]]"
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+    \ [[5. Mechanics/Spells/Levitate.md|levitate]]"
   "name": "spells"
 - "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

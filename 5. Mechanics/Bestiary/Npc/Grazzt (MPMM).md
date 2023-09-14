@@ -62,11 +62,11 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
 "traits":
 - "desc": "Graz'zt casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]\n\n1/day each: [dominate\
-    \ monster](compendium/spells/dominate-monster.md), [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Dominate Person.md\|dominate person]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]], [[5. Mechanics/Spells/Teleport.md\|teleport]]"
+    \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n1/day each: [dominate\
+    \ monster](compendium/spells/dominate-monster.md), [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
+    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Teleport.md|teleport]]"
   "name": "spells"
 - "desc": "If Graz'zt fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -101,13 +101,13 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
   "name": "Abyssal Magic"
 - "desc": "Graz'zt makes one Wave of Sorrow attack."
   "name": "Attack"
-- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by Graz'zt\
+- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by Graz'zt\
     \ that Graz'zt can see must use its reaction to move up to its speed as Graz'zt\
     \ directs."
   "name": "Dance, My Puppet!"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/npc/token/grazzt.png"
+"image": "5. Mechanics/Bestiary/Npc/token/grazzt.png"
 ```
 ^statblock

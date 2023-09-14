@@ -85,6 +85,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "ToA"
 - "WDMM"
 - "KftGV"
-"image": "compendium/bestiary/construct/token/quadrone.png"
+"image": "5. Mechanics/Bestiary/Construct/token/quadrone.png"
 ```
 ^statblock

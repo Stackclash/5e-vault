@@ -47,11 +47,11 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "traits":
 - "desc": "The inquisitor casts one of the following spells, requiring no components\
     \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Sending.md\|sending]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\n1/day each: [[5. Mechanics/Spells/Mass Suggestion.md\|mass suggestion]],\
-    \ [[5. Mechanics/Spells/Modify Memory.md\|modify memory]]"
+    \ [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Sending.md|sending]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n1/day each: [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
+    \ [[5. Mechanics/Spells/Modify Memory.md|modify memory]]"
   "name": "innate"
 "actions":
 - "desc": "The inquisitor attacks twice with its Silver Longsword or uses Mind Fire\
@@ -64,12 +64,12 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   "name": "Silver Longsword"
 - "desc": "The inquisitor targets one creature it can see within 120 feet of it. The\
     \ target must succeed on a DC 15 Intelligence saving throw or take 17 (dice:\
-    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of the inquisitor's next turn."
   "name": "Mind Fire"
 - "desc": "Each creature of the inquisitor's choice that it can see within 60 feet\
-    \ of it must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ until the start of the inquisitor's next turn. On the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ of it must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ until the start of the inquisitor's next turn. On the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ target's turn, the inquisitor can telepathically control the target's move,\
     \ action, or both. When controlled in this way, the target can take only the Attack\
     \ (inquisitor chooses the target) or Dash action."

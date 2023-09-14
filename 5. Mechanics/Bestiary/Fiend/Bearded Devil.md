@@ -109,7 +109,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -167,7 +167,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "The devil can't be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+- "desc": "The devil can't be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ while it can see an allied creature within 30 feet of it."
   "name": "Steadfast"
 "actions":
@@ -175,8 +175,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
     \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage, and the target must\
-    \ succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in\
+    \ succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in\
     \ this way, the target can't regain hit points. The target can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Beard"

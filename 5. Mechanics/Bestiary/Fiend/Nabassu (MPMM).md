@@ -59,7 +59,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
     \ the numbers rolled. For every 4 Hit Dice the nabassu gains in this way, its\
     \ attacks deal an extra 3 (dice: 1d6|avg (1d6)) damage on a hit. The nabassu\
     \ retains these benefits for 6 days. A creature devoured by a nabassu can be restored\
-    \ to life only by a [[5. Mechanics/Spells/Wish.md\|wish]] spell."
+    \ to life only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
   "name": "Devour Soul"
 - "desc": "The nabassu has advantage on saving throws against spells and other magical\
     \ effects."
@@ -81,12 +81,12 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
     \ the nabassu regains hit points equal to half that amount. This reduction lasts\
     \ until the target finishes a short or long rest. The target dies if its hit point\
     \ maximum is reduced to 0, and if the target is a Humanoid, it immediately rises\
-    \ as a [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghoul]] under the nabassu's control."
+    \ as a [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]] under the nabassu's control."
   "name": "Soul-Stealing Gaze"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/nabassu.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nabassu.png"
 ```
 ^statblock
 

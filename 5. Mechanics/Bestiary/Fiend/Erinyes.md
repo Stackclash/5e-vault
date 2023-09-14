@@ -19,7 +19,7 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 
 > [!quote] Variant: Rope of Entanglement
 > 
-> Some erinyes carry a [[5. Mechanics/Items/Rope Of Entanglement.md\|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
+> Some erinyes carry a [[5. Mechanics/Items/Rope Of Entanglement.md|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 ^variant-rope-of-entanglement
 
 ## Devils
@@ -118,7 +118,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -189,8 +189,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
     \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 13 (dice:\
     \ 3d8|avg (3d8)) poison damage, and the target must succeed on a DC 14 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. The\
-    \ poison lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]]\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The\
+    \ poison lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
     \ spell or similar magic."
   "name": "Longbow"
 "reactions":
@@ -203,6 +203,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BGDIA"
 - "EGW"
 - "KftGV"
-"image": "compendium/bestiary/fiend/token/erinyes.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/erinyes.png"
 ```
 ^statblock

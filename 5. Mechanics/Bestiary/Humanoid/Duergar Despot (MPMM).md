@@ -61,8 +61,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "traits":
 - "desc": "The duergar casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]]\n\
-    \n1/day: [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]]"
+    \ will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
+    \n1/day: [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
   "name": "spells"
 - "desc": "The duergar has advantage on saving throws against spells and other magical\
     \ effects."
@@ -72,7 +72,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ damage to each creature within 5 feet of it."
   "name": "Psychic Engine"
 - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -83,11 +83,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
     \ Hit: 23 (dice: 4d8 + 5|avg (4d8 + 5)) bludgeoning damage. If the target\
     \ is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw\
-    \ or be pushed up to 30 feet away in a straight line and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ or be pushed up to 30 feet away in a straight line and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Iron Fist"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) bludgeoning damage, or 21 (dice:\
-    \ 3d10 + 5|avg (3d10 + 5)) to a [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
+    \ 3d10 + 5|avg (3d10 + 5)) to a [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ target."
   "name": "Stomping Foot"
 - "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\

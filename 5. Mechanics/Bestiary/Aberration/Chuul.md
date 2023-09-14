@@ -55,7 +55,7 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "desc": "The chuul can breathe air and water."
   "name": "Amphibious"
 - "desc": "The chuul senses magic within 120 feet of it at will. This trait otherwise\
-    \ works like the [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell but isn't\
+    \ works like the [[5. Mechanics/Spells/Detect Magic.md|detect magic]] spell but isn't\
     \ itself magical."
   "name": "Sense Magic"
 "actions":
@@ -64,12 +64,12 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
     \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage. The target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 14) if it is\
-    \ a Large or smaller creature and the chuul doesn't have two other creatures [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
+    \ a Large or smaller creature and the chuul doesn't have two other creatures [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
   "name": "Pincer"
-- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by the\
-    \ chuul must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]].\
+- "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
+    \ chuul must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Tentacles"
@@ -80,7 +80,7 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 - "WDMM"
 - "GoS"
 - "CRCotN"
-"image": "compendium/bestiary/aberration/token/chuul.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/chuul.png"
 ```
 ^statblock
 

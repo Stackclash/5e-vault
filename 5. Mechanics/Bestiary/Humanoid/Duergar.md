@@ -26,7 +26,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] to slip away into the darkness. Eons spent in the Underdark also sharpened their [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] to slip away into the darkness. Eons spent in the Underdark also sharpened their [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]], allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -55,11 +55,11 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "cr": "1"
 "traits":
 - "desc": "The duergar has advantage on saving throws against poison, spells, and\
-    \ illusions, as well as to resist being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]."
+    \ illusions, as well as to resist being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]."
   "name": "Duergar Resilience"
 - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -79,10 +79,10 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
     \ piercing damage, or 9 (dice: 2d6 + 2|avg (2d6 + 2)) piercing damage while\
     \ enlarged."
   "name": "Javelin"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
-    \ until it attacks, casts a spell, or uses its Enlarge, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks, casts a spell, or uses its Enlarge, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ is broken, up to 1 hour (as if concentrating on a spell). Any equipment the\
-    \ duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+    \ duergar wears or carries is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ with it."
   "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
@@ -95,7 +95,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 - "EGW"
 - "IDRotF"
 - "KftGV"
-"image": "compendium/bestiary/humanoid/token/duergar.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/duergar.png"
 ```
 ^statblock
 

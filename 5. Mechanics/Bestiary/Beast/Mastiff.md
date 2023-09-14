@@ -36,13 +36,13 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The mastiff has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The mastiff has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
     \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"
@@ -55,7 +55,7 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 - "EGW"
 - "DSotDQ"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/mastiff.png"
+"image": "5. Mechanics/Bestiary/Beast/token/mastiff.png"
 ```
 ^statblock
 

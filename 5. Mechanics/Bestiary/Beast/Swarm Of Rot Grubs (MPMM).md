@@ -19,7 +19,7 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 Rot grubs pose a threat both singly and as a swarm. See the stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], as the rot grub burrows into the creature. The [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature takes 3 (`dice: 1d6|avg` (`1d6`)) poison damage at the end of each of its turns. Whenever the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], as the rot grub burrows into the creature. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature takes 3 (`dice: 1d6|avg` (`1d6`)) poison damage at the end of each of its turns. Whenever the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 ```statblock
 "name": "Swarm of Rot Grubs"
@@ -52,12 +52,12 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+0 (+0 to hit), reach 0 ft., one creature\
     \ in the swarm's space. Hit: 7 (dice: 2d6|avg (2d6)) piercing damage, and\
-    \ the target must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].\
-    \ At the end of each of the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ the target must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ At the end of each of the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ target's turns, the target takes 3 (dice: 1d6|avg (1d6)) poison damage.\
-    \ Whenever the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] target takes\
+    \ Whenever the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target takes\
     \ fire damage, the target can repeat the saving throw, ending the effect on itself\
-    \ on a success. If the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] target\
+    \ on a success. If the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] target\
     \ ends its turn with 0 hit points, it dies."
   "name": "Bites"
 "source":

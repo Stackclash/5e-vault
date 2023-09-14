@@ -51,12 +51,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "7"
 "traits":
-- "desc": "The abishai casts [[5. Mechanics/Spells/Darkness.md\|darkness]] at a point\
-    \ within 120 feet of it, requiring no spell components or [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]].\
+- "desc": "The abishai casts [[5. Mechanics/Spells/Darkness.md|darkness]] at a point\
+    \ within 120 feet of it, requiring no spell components or [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]].\
     \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
     \ the abishai can move the area of darkness up to 60 feet as a bonus action."
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."
@@ -72,7 +72,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) force damage."
   "name": "Scimitar"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the abishai takes the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]]\
+- "desc": "While in dim light or darkness, the abishai takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
     \ action."
   "name": "Shadow Stealth"
 "source":

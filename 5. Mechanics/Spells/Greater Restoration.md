@@ -1,11 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer
 - spell/class/bard
 - spell/class/cleric
+- spell/class/cleric/peace-domain
 - spell/class/druid
+- spell/class/sorcerer/clockwork-soul
 - spell/class/sorcerer/divine-soul
 - spell/class/warlock/the-celestial
 - spell/level/5
@@ -27,6 +30,6 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 - Any reduction to one of the target's ability scores  
 - One effect reducing the target's hit point maximum  
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
+**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Cleric (Peace Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Sorcerer (Clockwork Soul)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Celestial (XGE).md\|Warlock (The Celestial)]]
 
 *Source: Player's Handbook p. 246. Available in the SRD and the Basic Rules.*

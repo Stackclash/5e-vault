@@ -10,7 +10,7 @@ tags:
 aliases: ["Ghoul"]
 ---
 # Ghoul
-*Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
@@ -54,7 +54,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage. If the target is\
     \ a creature other than an elf or undead, it must succeed on a DC 10 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for\
     \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
     \ ending the effect on itself on a success."
   "name": "Claws"
@@ -80,7 +80,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "DoSI"
 - "KftGV"
 - "PSI"
-"image": "compendium/bestiary/undead/token/ghoul.png"
+"image": "5. Mechanics/Bestiary/Undead/token/ghoul.png"
 ```
 ^statblock
 

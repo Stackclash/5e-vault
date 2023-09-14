@@ -47,13 +47,13 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes only), [mage\
-    \ hand](compendium/spells/mage-hand.md), [[5. Mechanics/Spells/Message.md\|message]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n2/day each:\
-    \ [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Fear.md\|fear]]\n\
-    \n3/day: [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \ [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only), [mage\
+    \ hand](compendium/spells/mage-hand.md), [[5. Mechanics/Spells/Message.md|message]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
+    \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Fear.md|fear]]\n\
+    \n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
@@ -64,8 +64,8 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 14) if it\
-    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it\
+    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ The yuan-ti can constrict only one creature at a time."
   "name": "Constrict"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
@@ -78,7 +78,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
     \ 60 feet of it and creates an illusory, immobile manifestation of the creature's\
     \ deepest fears, visible only to that creature.\n\nThe target must make a DC 13\
     \ Intelligence saving throw. On a failed save, the target takes 22 (dice: 4d10|avg\
-    \ (4d10)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ (4d10)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of the manifestation, believing it to be real. The yuan-ti must concentrate\
     \ to maintain the illusion (as if concentrating on a spell), which lasts for up\
     \ to 1 minute and can't be harmed. The target can repeat the saving throw at the\

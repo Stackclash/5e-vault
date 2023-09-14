@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
 - spell/class/fighter/eldritch-knight
 - spell/class/paladin
+- spell/class/paladin/oath-of-the-watchers
 - spell/class/paladin/oath-of-vengeance
 - spell/class/ranger/horizon-walker
 - spell/class/ranger/monster-slayer
@@ -34,6 +35,6 @@ If the target is native to a different plane of existence than the one you're on
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger Horizon Walker (XGE).md\|Ranger (Horizon Walker)]], [[5. Mechanics/Classes/Ranger Monster Slayer (XGE).md\|Ranger (Monster Slayer)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Paladin (Oath of the Watchers)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Ranger Horizon Walker (XGE).md\|Ranger (Horizon Walker)]], [[5. Mechanics/Classes/Ranger Monster Slayer (XGE).md\|Ranger (Monster Slayer)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock.md\|Warlock]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 217. Available in the SRD.*

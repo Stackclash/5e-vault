@@ -47,16 +47,16 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
 "traits":
 - "desc": "The brain's innate spellcasting ability is Intelligence (spell save DC\
     \ 14, dice: d20+6 (+6 to hit) with spell attacks). It can innately cast the\
-    \ following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Chill Touch.md\|chill touch]]\
-    \ (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Compulsion.md\|compulsion]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]],\
-    \ [[5. Mechanics/Spells/Sleep.md\|sleep]] (3rd-level version), [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Hold Person.md\|hold person]]"
+    \ following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
+    \ (see \"Actions\" below), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Compulsion.md|compulsion]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]] (3rd-level version), [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Hold Person.md|hold person]]"
   "name": "innate"
 - "desc": "The brain can sense the presence and location of any creature within 300\
     \ feet of it that has an Intelligence of 3 or higher, regardless of interposing\
-    \ barriers, unless the creature is protected by a [[5. Mechanics/Spells/Mind Blank.md\|mind blank]]\
+    \ barriers, unless the creature is protected by a [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\
     \ spell."
   "name": "Detect Sentience"
 - "desc": "The brain has advantage on saving throws against spells and other magic\
@@ -73,7 +73,7 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
   "name": "Chill Touch (Cantrip)"
 - "desc": "The brain magically emits psychic energy in a 60-foot cone. Each creature\
     \ in that area must succeed on a DC 14 Intelligence saving throw or take 17 (dice:\
-    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

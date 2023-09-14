@@ -42,7 +42,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/hadrosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/hadrosaurus.png"
 ```
 ^statblock
 

@@ -18,7 +18,7 @@ Swarms of vargouilles flap through the caverns and skies of the Abyss. They are 
 
 Because of their hunger for living prey, vargouilles are eager to escape the Lower Planes. On rare occasions, summoning a demon to another plane can bring a vargouille along for the ride, attached like a tick. The precautions a mortal takes to control a summoned demon rarely account for a stowaway, enabling the vargouille to escape into the world.
 
-Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can paralyze other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [[5. Mechanics/Spells/Daylight.md\|daylight]] spell can delay this transformation; otherwise, only magic can overcome the curse. 
+Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can paralyze other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [[5. Mechanics/Spells/Daylight.md|daylight]] spell can delay this transformation; otherwise, only magic can overcome the curse. 
 
 ```statblock
 "name": "Vargouille"
@@ -48,28 +48,28 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
     \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage plus 10 (dice: 3d6|avg\
     \ (3d6)) poison damage."
   "name": "Bite"
-- "desc": "The vargouille targets one [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+- "desc": "The vargouille targets one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ Humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma saving\
     \ throw or become cursed. The cursed target loses 1 point of Charisma after each\
     \ hour, as its head takes on fiendish aspects. The curse doesn't advance while\
-    \ the target is in sunlight or the area of a [[5. Mechanics/Spells/Daylight.md\|daylight]]\
+    \ the target is in sunlight or the area of a [[5. Mechanics/Spells/Daylight.md|daylight]]\
     \ spell; don't count that time. When the cursed target's Charisma becomes 2, it\
     \ dies, and its head tears from its body and becomes a new vargouille. Casting\
-    \ [[5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]],\
+    \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
     \ or a similar spell on the target before the transformation is complete can end\
     \ the curse. Doing so undoes the changes made to the target by the curse."
   "name": "Abyssal Curse"
 - "desc": "The vargouille shrieks. Each Humanoid and Beast within 30 feet of the vargouille\
-    \ and able to hear it must succeed on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the vargouille until the end of the vargouille's next turn. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ in this way, a target is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]].\
+    \ and able to hear it must succeed on a DC 12 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the vargouille until the end of the vargouille's next turn. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ in this way, a target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]].\
     \ If a target's saving throw is successful or the effect ends for it, the target\
     \ is immune to the Stunning Shriek of all vargouilles for 1 hour."
   "name": "Stunning Shriek (Recharge 5-6)"
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/vargouille.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/vargouille.png"
 ```
 ^statblock
 

@@ -85,7 +85,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/humanoid/token/champion.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/champion.png"
 ```
 ^statblock
 

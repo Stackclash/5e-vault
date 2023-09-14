@@ -56,7 +56,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
     \ hits it with a gore attack on the same turn, the target takes an extra 9 (dice:\
     \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
     \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The minotaur can perfectly recall any path it has traveled."
   "name": "Labyrinthine Recall"
@@ -83,7 +83,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 - "MOT"
 - "CRCotN"
 - "PSZ"
-"image": "compendium/bestiary/monstrosity/token/minotaur.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/minotaur.png"
 ```
 ^statblock
 

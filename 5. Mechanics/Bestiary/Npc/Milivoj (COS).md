@@ -42,7 +42,7 @@ aliases: ["Milivoj"]
   "name": "Shovel"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/milivoj.png"
+"image": "5. Mechanics/Bestiary/Npc/token/milivoj.png"
 ```
 ^statblock
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Lizardfolk"]
 ---
 # Lizardfolk
-*Source: Monster Manual p. 204. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 204, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -105,7 +105,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "EGW"
 - "TCE"
 - "JttRC"
-"image": "compendium/bestiary/humanoid/token/lizardfolk.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk.png"
 ```
 ^statblock
 

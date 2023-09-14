@@ -82,6 +82,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "source":
 - "MM"
 - "KftGV"
-"image": "compendium/bestiary/construct/token/duodrone.png"
+"image": "5. Mechanics/Bestiary/Construct/token/duodrone.png"
 ```
 ^statblock

@@ -9,7 +9,7 @@ tags:
 aliases: ["Ancient Red Dragon"]
 ---
 # Ancient Red Dragon
-*Source: Monster Manual p. 97. Available in the SRD.*  
+*Source: Monster Manual p. 97, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
@@ -135,7 +135,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Hit: 19 (dice: 2d8 + 10|avg (2d8 + 10)) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -146,14 +146,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 25 Dexterity saving throw or take 17 (dice: 2d6 + 10|avg\
-    \ (2d6 + 10)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ (2d6 + 10)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":

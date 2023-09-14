@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
+cssclasses: json5e-note
 tags:
 - compendium/src/5e/vrgr
 aliases: ["Domains of Ravenloft"]
@@ -3980,7 +3980,7 @@ Some Vistani are legends among their people, and their bands might be encountere
 
 - **Hyskosa.** A renowned poet and storyteller, Hyskosa leads a caravan that embraces the Mists and goes where they lead it. As a result, his clan is unmoored from time and reality, appearing in different ages, in strange versions and configurations of domains, and even on worlds beyond the Domains of Dread. His lyrical accounts of his travels are often viewed as prophecies.  
 - **Madame Eva.** A controversial figure among Vistani, Madame Eva made a bargain with the vampire Count Strahd von Zarovich. As a result, the evils that lurk in Barovia avoid Vistani. However, Madame Eva and her followers occasionally ally with the infamous count, giving them a sinister reputation. Madame Eva and her unique band of Vistani are detailed in the adventure Curse of Strahd.  
-- **Mother Luba.** The halfling Mother Luba is known for putting unquiet spirits to rest and transporting wayward souls through the Mists to their rightful homes. Those wicked spirits beyond her aid she trapped within her tarokka deck, which became known as Luba's Tarokka of Souls (detailed in "Tasha's Cauldron of Everything").  
+- **Mother Luba.** The halfling Mother Luba is known for putting unquiet spirits to rest and transporting wayward souls through the Mists to their rightful homes. Those wicked spirits beyond her aid she trapped within her tarokka deck, which became known as [[5. Mechanics/Items/Lubas Tarokka Of Souls (TCE).md\|Luba's Tarokka of Souls]] (detailed in "Tasha's Cauldron of Everything").  
 
 ### Other Groups
 

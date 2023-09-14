@@ -1,9 +1,10 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/sorcerer
+- spell/class/sorcerer/aberrant-mind
 - spell/class/warlock/the-great-old-one
 - spell/class/wizard
 - spell/level/5
@@ -36,6 +37,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 280. Available in the SRD.*

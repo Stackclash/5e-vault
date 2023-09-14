@@ -31,7 +31,7 @@ aliases: ["Rat"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The rat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The rat has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 "actions":
@@ -47,7 +47,7 @@ aliases: ["Rat"]
 - "BGDIA"
 - "EGW"
 - "IDRotF"
-"image": "compendium/bestiary/beast/token/rat.png"
+"image": "5. Mechanics/Bestiary/Beast/token/rat.png"
 ```
 ^statblock
 

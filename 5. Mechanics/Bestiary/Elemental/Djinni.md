@@ -8,7 +8,7 @@ tags:
 aliases: ["Djinni"]
 ---
 # Djinni
-*Source: Monster Manual p. 144. Available in the SRD.*  
+*Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
 
@@ -87,15 +87,15 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "traits":
 - "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
     \ dice: d20+9 (+9 to hit) with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]]\
-    \ ([[5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] only), [[5. Mechanics/Spells/Creation.md\|creation]],\
-    \ [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
-    \ [[5. Mechanics/Spells/Major Image.md\|major image]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]]\
-    \ (can create wine instead of water), [[5. Mechanics/Spells/Tongues.md\|tongues]],\
-    \ [[5. Mechanics/Spells/Wind Walk.md\|wind walk]]"
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+    \ ([[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]] only), [[5. Mechanics/Spells/Creation.md|creation]],\
+    \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]\
+    \ (can create wine instead of water), [[5. Mechanics/Spells/Tongues.md|tongues]],\
+    \ [[5. Mechanics/Spells/Wind Walk.md|wind walk]]"
   "name": "innate"
 - "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
     \ behind only equipment the djinni was wearing or carrying."
@@ -109,15 +109,15 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   "name": "Scimitar"
 - "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
     \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\
-    \ long as the djinni maintains [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+    \ long as the djinni maintains [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ (as if concentrating on a spell). Any creature but the djinni that enters the\
-    \ whirlwind must succeed on a DC 18 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ whirlwind must succeed on a DC 18 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] by the whirlwind move\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by the whirlwind move\
     \ with it. The whirlwind ends if the djinni loses sight of it.\n\nA creature can\
-    \ use its action to free a creature [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ use its action to free a creature [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ by the whirlwind, including itself, by succeeding on a DC 18 Strength check.\
-    \ If the check succeeds, the creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ If the check succeeds, the creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and moves to the nearest space outside the whirlwind."
   "name": "Create Whirlwind"
 "source":
@@ -127,7 +127,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "TCE"
 - "CM"
 - "JttRC"
-"image": "compendium/bestiary/elemental/token/djinni.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/djinni.png"
 ```
 ^statblock
 

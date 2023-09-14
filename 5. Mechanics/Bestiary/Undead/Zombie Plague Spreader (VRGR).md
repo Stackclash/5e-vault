@@ -19,10 +19,10 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 
 | dice: d4 | Zombie Plot |
 |----------|-------------|
-| 1 | A twisted wish causes those affected by healing magic and [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]] to rise as zombies. |
-| 2 | Overwhelming magic reanimates zombies again and again as [[5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md\|swarms of zombie limbs]]. |
-| 3 | The githyanki unleash [[5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md\|zombie plague spreaders]] to scour mind flayers from a world. |
-| 4 | The seals containing an underground zombie horde fail, releasing ancient [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md\|zombie clots]]. |
+| 1 | A twisted wish causes those affected by healing magic and [[5. Mechanics/Items/Potion Of Healing.md|potions of healing]] to rise as zombies. |
+| 2 | Overwhelming magic reanimates zombies again and again as [[5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md|swarms of zombie limbs]]. |
+| 3 | The githyanki unleash [[5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] to scour mind flayers from a world. |
+| 4 | The seals containing an underground zombie horde fail, releasing ancient [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|zombie clots]]. |
 ^zombie-apocalypses
 
 ```statblock
@@ -56,7 +56,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   "name": "Unusual Nature"
 - "desc": "Any creature that starts its turn within 10 feet of the plague spreader\
     \ must make a DC 12 Constitution saving throw. On a failed save, the creature\
-    \ is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] and can't regain hit\
+    \ is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] and can't regain hit\
     \ points until the end of its next turn. On a successful save, the creature is\
     \ immune to this plague spreader's Viral Aura for 24 hours."
   "name": "Viral Aura"

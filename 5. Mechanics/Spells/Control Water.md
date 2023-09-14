@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -10,6 +10,8 @@ tags:
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer/divine-soul
+- spell/class/warlock/the-fathomless
+- spell/class/warlock/the-genie
 - spell/class/wizard
 - spell/level/4
 - spell/school/transmutation
@@ -51,6 +53,6 @@ The first time each turn that an object enters the vortex, the object takes `dic
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric Tempest Domain.md\|Cleric (Tempest Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fathomless (TCE).md\|Warlock (The Fathomless)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 227. Available in the SRD.*

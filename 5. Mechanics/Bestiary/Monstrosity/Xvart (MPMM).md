@@ -41,9 +41,9 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-- "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md\|bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Rat.md\|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md\|giant bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md\|giant rats]]."
+- "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
+    \ and [[5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
+    \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
   "name": "Raxivort's Tongue"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
@@ -55,13 +55,13 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     \ target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) bludgeoning damage."
   "name": "Sling"
 "bonus_actions":
-- "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]]\
+- "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
     \ action."
   "name": "Low Cunning"
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/xvart.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/xvart.png"
 ```
 ^statblock
 

@@ -113,7 +113,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
     \ target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage. If\
     \ the target is a creature, it must succeed on a DC 17 Strength saving throw or\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rock"
 "reactions":
 - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\

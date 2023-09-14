@@ -50,7 +50,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/ox.png"
+"image": "5. Mechanics/Bestiary/Beast/token/ox.png"
 ```
 ^statblock
 

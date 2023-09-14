@@ -12,7 +12,7 @@ aliases: ["Adult Kruthik"]
 # Adult Kruthik
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
 
-It takes six months of steady eating for a [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md\|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -60,7 +60,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "traits":
 - "desc": "The kruthik has advantage on an attack roll against a creature if at least\
     \ one of the kruthik's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "The kruthik can burrow through solid rock at half its burrowing speed and\
     \ leaves a 5-foot-diameter tunnel in its wake."

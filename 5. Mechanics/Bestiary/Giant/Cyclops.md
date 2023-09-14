@@ -73,7 +73,7 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 - "CM"
 - "WBtW"
 - "DSotDQ"
-"image": "compendium/bestiary/giant/token/cyclops.png"
+"image": "5. Mechanics/Bestiary/Giant/token/cyclops.png"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases: ["Draegloth"]
 # Draegloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md\|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -47,10 +47,10 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "traits":
 - "desc": "The draegloth casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]], [[5. Mechanics/Spells/Darkness.md\|darkness]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]]"
+    \nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Darkness.md|darkness]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
   "name": "spells"
-- "desc": "The draegloth has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+- "desc": "The draegloth has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put it to sleep."
   "name": "Fey Ancestry"
 "actions":
@@ -65,7 +65,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fiend/token/draegloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/draegloth.png"
 ```
 ^statblock
 

@@ -14,7 +14,7 @@ tags:
 aliases: ["Commoner"]
 ---
 # Commoner
-*Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -73,7 +73,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 - "DSotDQ"
 - "KftGV"
 - "GotSF"
-"image": "compendium/bestiary/humanoid/token/commoner.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/commoner.png"
 ```
 ^statblock
 

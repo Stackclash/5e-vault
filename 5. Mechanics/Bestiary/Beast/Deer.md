@@ -38,7 +38,7 @@ aliases: ["Deer"]
 - "MM"
 - "HotDQ"
 - "DIP"
-"image": "compendium/bestiary/beast/token/deer.png"
+"image": "5. Mechanics/Bestiary/Beast/token/deer.png"
 ```
 ^statblock
 

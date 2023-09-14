@@ -9,7 +9,7 @@ tags:
 aliases: ["Galeb Duhr"]
 ---
 # Galeb Duhr
-*Source: Monster Manual p. 139*  
+*Source: Monster Manual p. 139, Tasha's Cauldron of Everything*  
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
 
@@ -54,7 +54,7 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 - "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and then\
     \ hits it with a slam attack on the same turn, the target takes an extra 7 (dice:\
     \ 2d6|avg (2d6)) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rolling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
@@ -62,10 +62,10 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
   "name": "Slam"
 - "desc": "The galeb duhr magically animates up to two boulders it can see within\
     \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except it\
-    \ has Intelligence 1 and Charisma 1, it can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and it lacks this\
+    \ has Intelligence 1 and Charisma 1, it can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and it lacks this\
     \ action option. A boulder remains animated as long as the galeb duhr maintains\
-    \ [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up to 1 minute\
+    \ [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]], up to 1 minute\
     \ (as if concentrating on a spell)."
   "name": "Animate Boulders (1/Day)"
 "source":

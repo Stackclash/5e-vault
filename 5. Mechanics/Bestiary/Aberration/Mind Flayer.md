@@ -8,7 +8,7 @@ tags:
 aliases: ["Mind Flayer"]
 ---
 # Mind Flayer
-*Source: Monster Manual p. 222*  
+*Source: Monster Manual p. 222, Tasha's Cauldron of Everything*  
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 
@@ -70,8 +70,8 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 "traits":
 - "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save\
     \ DC 15). It can innately cast the following spells, requiring no components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Levitate.md\|levitate]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]], [plane\
+    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [plane\
     \ shift](compendium/spells/plane-shift.md) (self only)"
   "name": "innate"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
@@ -80,19 +80,19 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) psychic damage. If the target\
-    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
-- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
-    \ humanoid [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by the mind flayer.\
+- "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
     \ Hit: The target takes 55 (dice: 10d10|avg (10d10)) piercing damage. If\
     \ this damage reduces the target to 0 hit points, the mind flayer kills the target\
     \ by extracting and devouring its brain."
   "name": "Extract Brain"
 - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
     \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ 22 (dice: 4d8 + 4|avg (4d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ 22 (dice: 4d8 + 4|avg (4d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

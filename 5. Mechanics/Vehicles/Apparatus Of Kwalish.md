@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-vehicle
+cssclasses: json5e-vehicle
 tags:
 - compendium/src/5e/dmg
 - vehicle/size/large

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard/college-of-glamour
 - spell/class/cleric
 - spell/class/cleric/knowledge-domain
+- spell/class/cleric/order-domain
 - spell/class/paladin
 - spell/class/paladin/oath-of-conquest
 - spell/class/sorcerer/divine-soul
@@ -52,6 +53,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Bard College Of Glamour (XGE).md\|Bard (College of Glamour)]], [[5. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [[5. Mechanics/Classes/Bard College Of Glamour (XGE).md\|Bard (College of Glamour)]], [[5. Mechanics/Classes/Cleric Knowledge Domain.md\|Cleric (Knowledge Domain)]], [[5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Cleric (Order Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 223. Available in the SRD and the Basic Rules.*

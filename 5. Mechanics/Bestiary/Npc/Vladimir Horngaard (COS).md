@@ -103,7 +103,7 @@ A revenant doesn't require air, food, drink, or sleep.
   "name": "Regeneration"
 - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the\
     \ soul inhabits and animates another corpse on the same plane of existence and\
-    \ regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md\|wish]]\
+    \ regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver\
@@ -131,11 +131,11 @@ A revenant doesn't require air, food, drink, or sleep.
     \ weapon."
   "name": "Greatsword +2"
 - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd. Strahd\
-    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ must make a DC 15 Wisdom saving throw. One a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
-    \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of each\
-    \ of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":

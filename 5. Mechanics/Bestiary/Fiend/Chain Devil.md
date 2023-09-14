@@ -109,7 +109,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -171,9 +171,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes two attacks with its chains."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
-    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and takes 7 (dice: 2d6|avg (2d6)) piercing damage at the start of each of\
     \ its turns."
   "name": "Chain"
@@ -185,13 +185,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ chain to make one additional chain attack. An animated chain can grapple one\
     \ creature of its own but can't make attacks while grappling. An animated chain\
     \ reverts to its inanimate state if reduced to 0 hit points or if the devil is\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]] or dies."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] or dies."
   "name": "Animate Chains (Recharges after a Short or Long Rest)"
 "reactions":
 - "desc": "When a creature the devil can see starts its turn within 30 feet of the\
     \ devil, the devil can create the illusion that it looks like one of the creature's\
     \ departed loved ones or bitter enemies. If the creature can see the devil, it\
-    \ must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of its turn."
   "name": "Unnerving Mask"
 "source":

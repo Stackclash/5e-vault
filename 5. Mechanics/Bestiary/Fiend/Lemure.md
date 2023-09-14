@@ -109,7 +109,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -161,7 +161,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Devil's Sight"
 - "desc": "A lemure that dies in the Nine Hells comes back to life with all its hit\
     \ points in dice: 1d10|avg (1d10) days unless it is killed by a good-aligned\
-    \ creature with a [[5. Mechanics/Spells/Bless.md\|bless]] spell cast on that creature\
+    \ creature with a [[5. Mechanics/Spells/Bless.md|bless]] spell cast on that creature\
     \ or its remains are sprinkled with holy water."
   "name": "Hellish Rejuvenation"
 "actions":
@@ -173,6 +173,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "WDH"
 - "BGDIA"
 - "PSI"
-"image": "compendium/bestiary/fiend/token/lemure.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/lemure.png"
 ```
 ^statblock

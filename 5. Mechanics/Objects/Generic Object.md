@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-object
+cssclasses: json5e-object
 tags:
 - compendium/src/5e/dmg
 - object/size/varies

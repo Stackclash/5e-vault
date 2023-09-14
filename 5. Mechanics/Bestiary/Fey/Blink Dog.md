@@ -8,7 +8,7 @@ tags:
 aliases: ["Blink Dog"]
 ---
 # Blink Dog
-*Source: Monster Manual p. 318. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 318, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 
@@ -35,7 +35,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 "languages": "Blink Dog, understands Sylvan but can't speak it"
 "cr": "1/4"
 "traits":
-- "desc": "The dog has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The dog has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or smell."
   "name": "Keen Hearing and Smell"
 "actions":

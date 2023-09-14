@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/monk
 - compendium/src/5e/phb
@@ -14,10 +14,10 @@ aliases: ["Monk"]
 > | Level | PB | Features |
 > |-------|----|----------|
 > | 1st | +2 | [Unarmored Defense](#Unarmored%20Defense%20(Level%201)), [Martial Arts](#Martial%20Arts%20(Level%201)) |
-> | 2nd | +2 | [Ki](#Ki%20(Level%202)), [Unarmored Movement](#Unarmored%20Movement%20(Level%202)) |
-> | 3rd | +2 | [Deflect Missiles](#Deflect%20Missiles%20(Level%203)), [Monastic Tradition](#Monastic%20Tradition%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Slow Fall](#Slow%20Fall%20(Level%204)) |
-> | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)), [Stunning Strike](#Stunning%20Strike%20(Level%205)) |
+> | 2nd | +2 | [Ki](#Ki%20(Level%202)), [Dedicated Weapon](#Dedicated%20Weapon%20(Level%202)), [Unarmored Movement](#Unarmored%20Movement%20(Level%202)) |
+> | 3rd | +2 | [Deflect Missiles](#Deflect%20Missiles%20(Level%203)), [Monastic Tradition](#Monastic%20Tradition%20(Level%203)), [Ki-Fueled Attack](#Ki-Fueled%20Attack%20(Level%203)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Slow Fall](#Slow%20Fall%20(Level%204)), [Quickened Healing](#Quickened%20Healing%20(Level%204)) |
+> | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)), [Stunning Strike](#Stunning%20Strike%20(Level%205)), [Focused Aim](#Focused%20Aim%20(Level%205)) |
 > | 6th | +3 | [Ki-Empowered Strikes](#Ki-Empowered%20Strikes%20(Level%206)), [Monastic Tradition feature](#Monastic%20Tradition%20feature%20(Level%206)) |
 > | 7th | +3 | [Evasion](#Evasion%20(Level%207)), [Stillness of Mind](#Stillness%20of%20Mind%20(Level%207)) |
 > | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
@@ -245,6 +245,19 @@ You can spend 1 ki point to take the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dod
 
 You can spend 1 ki point to take the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] or [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
+### Dedicated Weapon (Level 2)
+_Source: Tasha's Cauldron of Everything p. 48_
+
+*2nd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
+
+The chosen weapon must meet these criteria:
+
+- The weapon must be a simple or martial weapon.  
+- You must be proficient with it.  
+- It must lack the heavy and special properties.  
+
 ### Unarmored Movement (Level 2)
 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
@@ -261,6 +274,13 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 
 When you reach 3rd level, you commit yourself to a monastic tradition, chosen from the list of available traditions. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
+### Ki-Fueled Attack (Level 3)
+_Source: Tasha's Cauldron of Everything p. 48_
+
+*3rd-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
+
 ### Ability Score Improvement (Level 4)
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -271,6 +291,13 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
+### Quickened Healing (Level 4)
+_Source: Tasha's Cauldron of Everything p. 48_
+
+*4th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
+
 ### Extra Attack (Level 5)
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn.
@@ -278,6 +305,13 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ### Stunning Strike (Level 5)
 
 Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the end of your next turn.
+
+### Focused Aim (Level 5)
+_Source: Tasha's Cauldron of Everything p. 48_
+
+*5th-level monk [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 
 ### Ki-Empowered Strikes (Level 6)
 

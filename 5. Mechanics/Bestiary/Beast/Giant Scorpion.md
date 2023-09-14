@@ -34,7 +34,7 @@ aliases: ["Giant Scorpion"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
     \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 12). The\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 12). The\
     \ scorpion has two claws, each of which can grapple only one target."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\

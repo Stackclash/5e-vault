@@ -45,12 +45,12 @@ aliases: ["Sir Godfrey Gwilym"]
 "traits":
 - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). He has the\
-    \ following paladin spells prepared:\n\n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md\|command]],\
-    \ [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md\|thunderous smite]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Branding Smite.md\|branding smite]],\
-    \ [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Blinding Smite.md\|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]\n\
-    \n4th level (2 4th-level slots): [[5. Mechanics/Spells/Staggering Smite.md\|staggering smite]]"
+    \ following paladin spells prepared:\n\n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
+    \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 3rd-level\
+    \ slots): [[5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
+    \n4th level (2 4th-level slots): [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
   "name": "spells"
 - "desc": "The knight regains 10 hit points at the start of its turn. If the knight\
     \ takes fire or radiant damage, this trait doesn't function at the start of the\
@@ -59,7 +59,7 @@ aliases: ["Sir Godfrey Gwilym"]
   "name": "Regeneration"
 - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
     \ the soul inhabits and animates another humanoid corpse on the same plane of\
-    \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md\|wish]]\
+    \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
     \ spell can be used to force the soul to go to the afterlife and not return."
   "name": "Rejuvenation"
 - "desc": "The knight is immune to effects that turn undead."
@@ -86,12 +86,12 @@ aliases: ["Sir Godfrey Gwilym"]
   "name": "Fist"
 - "desc": "The knight targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the knight deals damage to it, or until the end of the knight's next turn.\
-    \ When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the knight for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ When the paralysis ends, the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the knight for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-    \ if it can see the knight, ending the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ if it can see the knight, ending the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ condition on itself on a success."
   "name": "Vengeful Glare"
 "source":

@@ -1,7 +1,5 @@
 {
-  "targetAttributes": [
-    "NoteIcon"
-  ],
+  "targetAttributes": [],
   "targetTags": true,
   "getFromInlineField": true,
   "enableTabHeader": true,
@@ -11,18 +9,5 @@
   "enableBacklinks": true,
   "enableQuickSwitcher": true,
   "enableSuggestor": true,
-  "selectors": [
-    {
-      "type": "attribute",
-      "name": "NoteIcon",
-      "value": "NPC",
-      "matchCaseSensitive": false,
-      "match": "exact",
-      "uid": "596f-b2de",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    }
-  ]
+  "selectors": []
 }

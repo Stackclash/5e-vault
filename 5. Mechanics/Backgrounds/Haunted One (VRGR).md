@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-background
+cssclasses: json5e-background
 tags:
 - compendium/src/5e/vrgr
 aliases: ["Haunted One"]

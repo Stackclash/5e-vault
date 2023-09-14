@@ -42,8 +42,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "traits":
 - "desc": "If the allosaurus moves at least 30 feet straight toward a creature and\
     \ then hits it with a claw attack on the same turn, that target must succeed on\
-    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the allosaurus\
+    \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the allosaurus\
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -59,7 +59,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "WDH"
 - "JttRC"
 - "KftGV"
-"image": "compendium/bestiary/beast/token/allosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/allosaurus.png"
 ```
 ^statblock
 

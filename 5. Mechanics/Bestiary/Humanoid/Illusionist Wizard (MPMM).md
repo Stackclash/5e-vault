@@ -43,11 +43,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "3"
 "traits":
 - "desc": "The illusionist casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Major Image.md\|major image]],\
-    \ [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]], [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]]"
+    \ the spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Major Image.md|major image]],\
+    \ [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]], [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]"
   "name": "spells"
 "actions":
 - "desc": "The illusionist makes two Arcane Burst attacks."
@@ -61,7 +61,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ to be standing in a place a few inches from its actual location, causing any\
     \ creature to have disadvantage on attack rolls against the illusionist. The effect\
     \ lasts for 1 minute, and it ends early if the illusionist takes damage, if it\
-    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], or if its\
+    \ is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or if its\
     \ speed becomes 0."
   "name": "Displacement (Recharge 5-6)"
 "source":

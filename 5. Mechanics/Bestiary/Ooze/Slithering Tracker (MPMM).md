@@ -49,7 +49,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 - "desc": "If the slithering tracker is motionless at the start of combat, it has\
     \ advantage on its initiative roll. Moreover, if a creature hasn't observed the\
     \ slithering tracker move or act, that creature must succeed on a DC 18 Intelligence\
-    \ ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to discern\
+    \ ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check to discern\
     \ that the slithering tracker isn't a puddle."
   "name": "False Appearance"
 - "desc": "The slithering tracker can enter an enemy's space and stop there. It can\
@@ -63,17 +63,17 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
     \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) bludgeoning damage."
   "name": "Slam"
 - "desc": "One Large or smaller creature that the slithering tracker can see within\
-    \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
-    \ and unable to breathe unless it can breathe water. In addition, the [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ and unable to breathe unless it can breathe water. In addition, the [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ target takes 16 (dice: 3d10|avg (3d10)) necrotic damage at the start of\
     \ each of its turns. The slithering tracker can grapple only one target at a time.\n\
     \nWhile grappling the target, the slithering tracker takes only half any damage\
     \ dealt to it (rounded down), and the target takes the other half."
   "name": "Life Leech"
 "bonus_actions":
-- "desc": "If underwater, the slithering tracker takes the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]]\
-    \ action, and it makes the Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]])\
+- "desc": "If underwater, the slithering tracker takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+    \ action, and it makes the Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ check with advantage."
   "name": "Watery Stealth"
 "source":

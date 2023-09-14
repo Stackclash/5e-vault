@@ -57,10 +57,10 @@ Flumphs live in complex and organized groups called cloisters, within which each
     \ within 60 feet of it, and it can't be surprised by creatures with any form of\
     \ telepathy."
   "name": "Advanced Telepathy"
-- "desc": "If the flumph is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]],\
-    \ roll a die. On an odd result, the flumph lands upside-down and is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].\
+- "desc": "If the flumph is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+    \ roll a die. On an odd result, the flumph lands upside-down and is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
     \ At the end of each of its turns, the flumph can make a DC 10 Dexterity saving\
-    \ throw, righting itself and ending the [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ throw, righting itself and ending the [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ condition if it succeeds."
   "name": "Prone Deficiency"
 - "desc": "The flumph is immune to any effect that would sense its emotions or read\
@@ -71,14 +71,14 @@ Flumphs live in complex and organized groups called cloisters, within which each
     \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage plus 2 (dice: 1d4|avg\
     \ (1d4)) acid damage. At the end of each of its turns, the target must make\
     \ a DC 10 Constitution saving throw, taking 2 (dice: 1d4|avg (1d4)) acid damage\
-    \ on a failure or ending the recurring acid damage on a success. A [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]]\
+    \ on a failure or ending the recurring acid damage on a success. A [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
     \ spell cast on the target also ends the recurring acid damage."
   "name": "Tendrils"
 - "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
     \ on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A\
     \ coated creature exudes a horrible stench for dice: 1d4|avg (1d4) hours.\
-    \ The coated creature is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ as long as the stench lasts, and other creatures are [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ The coated creature is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ as long as the stench lasts, and other creatures are [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ while with in 5 feet of the coated creature. A creature can remove the stench\
     \ on itself by using a short rest to bathe in water, alcohol, or vinegar."
   "name": "Stench Spray (1/Day)"
@@ -86,7 +86,7 @@ Flumphs live in complex and organized groups called cloisters, within which each
 - "MM"
 - "WDMM"
 - "LoX"
-"image": "compendium/bestiary/aberration/token/flumph.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/flumph.png"
 ```
 ^statblock
 

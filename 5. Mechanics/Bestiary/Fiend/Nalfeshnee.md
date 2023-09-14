@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -225,7 +225,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   "name": "Claw"
 - "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
     \ creature within 15 feet of the nalfeshnee that can see the light must succeed\
-    \ on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the nalfeshnee's\
@@ -241,6 +241,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "WDMM"
 - "BGDIA"
 - "CM"
-"image": "compendium/bestiary/fiend/token/nalfeshnee.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/nalfeshnee.png"
 ```
 ^statblock

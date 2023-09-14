@@ -8,7 +8,7 @@ tags:
 aliases: ["Skeleton"]
 ---
 # Skeleton
-*Source: Monster Manual p. 272, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 272, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -88,7 +88,7 @@ A skeleton doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "DSotDQ"
 - "KftGV"
-"image": "compendium/bestiary/undead/token/skeleton.png"
+"image": "5. Mechanics/Bestiary/Undead/token/skeleton.png"
 ```
 ^statblock
 

@@ -53,16 +53,16 @@ aliases: ["Thornboldt "Thorn" Durst"]
   "name": "Etherealness"
 - "desc": "One humanoid that Thorn can see within 5 feet of it must succeed on a DC\
     \ 13 Charisma saving throw or be possessed by Thorn; Thorn then disappears, and\
-    \ the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ and loses control of its body. Thorn now controls the body but doesn't deprive\
     \ the target of awareness. Thorn can't be targeted by any attack, spell, or other\
     \ effect, except ones that turn undead, and it retains its alignment, Intelligence,\
-    \ Wisdom, Charisma, and immunity to being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]. It otherwise uses\
+    \ Wisdom, Charisma, and immunity to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]. It otherwise uses\
     \ the possessed target's statistics, but doesn't gain access to the target's knowledge,\
     \ class features, or proficiencies.\n\nThe possession lasts until the body drops\
     \ to 0 hit points, Thorn ends it as a bonus action, or Thorn is turned or forced\
-    \ out by an effect like the [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]]\
+    \ out by an effect like the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
     \ spell. When the possession ends, Thorn reappears in an unoccupied space within\
     \ 5 feet of the body. The target is immune to this ghost's Possession for 24 hours\
     \ after succeeding on the saving throw or after the possession ends."

@@ -55,12 +55,12 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "languages": "Dwarvish, Undercommon"
 "cr": "6"
 "traits":
-- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+- "desc": "The duergar has advantage on saving throws against spells and the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ conditions."
   "name": "Duergar Resilience"
 - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -80,11 +80,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
     \ each use their reaction to make one weapon attack."
   "name": "Call to Attack"
-- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+- "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+    \ throw, or its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ is broken (as if concentrating on a spell). Any equipment the duergar wears\
-    \ or carries is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
+    \ or carries is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility (Recharge 4-6)"
 "bonus_actions":
 - "desc": "For 1 minute, the duergar magically increases in size, along with anything\

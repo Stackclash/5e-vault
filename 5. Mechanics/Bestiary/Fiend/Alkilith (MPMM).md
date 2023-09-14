@@ -56,15 +56,15 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
   "name": "Amorphous"
 - "desc": "If the alkilith is motionless at the start of combat, it has advantage\
     \ on its initiative roll. Moreover, if a creature hasn't observed the alkilith\
-    \ move or act, that creature must succeed on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]])\
+    \ move or act, that creature must succeed on a DC 18 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]])\
     \ check to discern that the alkilith isn't ordinary slime or fungus."
   "name": "False Appearance"
 - "desc": "Any creature that isn't a demon that starts its turn within 30 feet of\
     \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
     \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
     \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-    \ fails by 5 or more, the creature is instead subjected to the [[5. Mechanics/Spells/Confusion.md\|confusion]]\
-    \ spell for 1 minute (no [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+    \ fails by 5 or more, the creature is instead subjected to the [[5. Mechanics/Spells/Confusion.md|confusion]]\
+    \ spell for 1 minute (no [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ required by the alkilith). While under the effect of that confusion, the creature\
     \ is immune to Foment Confusion."
   "name": "Foment Confusion"
@@ -85,7 +85,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/alkilith.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/alkilith.png"
 ```
 ^statblock
 

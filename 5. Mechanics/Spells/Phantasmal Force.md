@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -8,6 +8,7 @@ tags:
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer
 - spell/class/warlock/the-archfey
+- spell/class/warlock/the-genie
 - spell/class/warlock/the-great-old-one
 - spell/class/warlock/the-undead
 - spell/class/wizard
@@ -33,6 +34,6 @@ While a target is affected by the spell, the target treats the phantasm as if it
 
 An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal `dice: 1d6|avg` (`1d6`) psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Warlock The Great Old One.md\|Warlock (The Great Old One)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 264*

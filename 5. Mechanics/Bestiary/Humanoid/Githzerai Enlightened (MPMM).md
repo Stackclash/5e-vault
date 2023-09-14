@@ -50,9 +50,9 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "traits":
 - "desc": "The githzerai casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] (the hand is invisible)\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/Teleport.md\|teleport]]\n\
-    \n3/day: [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]]"
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand is invisible)\n\n1/day\
+    \ each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
+    \n3/day: [[5. Mechanics/Spells/See Invisibility.md|see invisibility]]"
   "name": "spells"
 - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."

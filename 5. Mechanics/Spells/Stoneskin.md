@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer
 - spell/class/cleric/war-domain
 - spell/class/druid
 - spell/class/druid/circle-of-the-land
@@ -28,6 +29,6 @@ aliases: ["Stoneskin"]
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-**Classes**: [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Cleric War Domain.md\|Cleric (War Domain)]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oath Of Conquest (XGE).md\|Paladin (Oath of Conquest)]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Ranger.md\|Ranger]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 278. Available in the SRD and the Basic Rules.*

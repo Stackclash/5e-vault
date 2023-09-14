@@ -9,7 +9,7 @@ tags:
 aliases: ["Oni"]
 ---
 # Oni
-*Source: Monster Manual p. 239. Available in the SRD.*  
+*Source: Monster Manual p. 239, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 
@@ -71,10 +71,10 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "traits":
 - "desc": "The oni's innate spellcasting ability is Charisma (spell save DC 13). The\
     \ oni can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [cone of\
-    \ cold](compendium/spells/cone-of-cold.md), [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]],\
-    \ [[5. Mechanics/Spells/Sleep.md\|sleep]]"
+    \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [cone of\
+    \ cold](compendium/spells/cone-of-cold.md), [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
   "name": "innate"
 - "desc": "The oni's weapon attacks are magical."
   "name": "Magic Weapons"
@@ -111,7 +111,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 - "JttRC"
 - "KftGV"
 - "PSZ"
-"image": "compendium/bestiary/giant/token/oni.png"
+"image": "5. Mechanics/Bestiary/Giant/token/oni.png"
 ```
 ^statblock
 

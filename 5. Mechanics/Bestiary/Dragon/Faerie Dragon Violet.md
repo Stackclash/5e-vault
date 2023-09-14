@@ -63,11 +63,11 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 "traits":
 - "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
     \ It can innately cast a number of spells, requiring no material components:\n\
-    \n1/day each: [[5. Mechanics/Spells/Color Spray.md\|color spray]], [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
-    \ [[5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Major Image.md\|major image]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]],\
-    \ [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \n1/day each: [[5. Mechanics/Spells/Color Spray.md|color spray]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "innate"
 - "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
     \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
@@ -76,10 +76,10 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
     \ years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
     \ to 2."
   "name": "The Colors of Age"
-- "desc": "As a bonus action, the dragon can magically turn [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
-    \ until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] ends\
+- "desc": "As a bonus action, the dragon can magically turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]] ends\
     \ (as if concentrating on a spell). Any equipment the dragon wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
   "name": "Superior Invisibility"
 - "desc": "Using telepathy, the dragon can magically communicate with any other faerie\
     \ dragon within 60 feet of it."

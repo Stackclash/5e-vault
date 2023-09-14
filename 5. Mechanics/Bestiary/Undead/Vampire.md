@@ -8,7 +8,7 @@ tags:
 aliases: ["Vampire"]
 ---
 # Vampire
-*Source: Monster Manual p. 297, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 297, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 
@@ -34,9 +34,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!quote] Player Characters as Vampires
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics/Spells/Wish.md\|wish]] spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics/Spells/Wish.md|wish]] spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!quote] Strahd von Zarovich
@@ -100,12 +100,12 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "desc": "If the vampire fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "When it drops to 0 hit points outside its resting place, the vampire transforms\
-    \ into a cloud of mist (as in the Shapechanger trait) instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]],\
+    \ into a cloud of mist (as in the Shapechanger trait) instead of falling [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]],\
     \ provided that it isn't in sunlight or running water. If it can't transform,\
     \ it is destroyed.\n\nWhile it has 0 hit points in mist form, it can't revert\
     \ to its vampire form, and it must reach its resting place within 2 hours or be\
     \ destroyed. Once in its resting place, it reverts to its vampire form. It is\
-    \ then [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] until it regains\
+    \ then [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until it regains\
     \ at least 1 hit point. After spending 1 hour in its resting place with 0 hit\
     \ points, it regains 1 hit point."
   "name": "Misty Escape"
@@ -121,8 +121,8 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ enter a residence without an invitation from one of the occupants.\n\nHarmed\
     \ by Running Water. The vampire takes 20 acid damage if it ends its turn in running\
     \ water.\n\nStake to the Heart. If a piercing weapon made of wood is driven\
-    \ into the vampire's heart while the vampire is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
-    \ in its resting place, the vampire is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ into the vampire's heart while the vampire is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ in its resting place, the vampire is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the stake is removed.\n\nSunlight Hypersensitivity. The vampire takes\
     \ 20 radiant damage when it starts its turn in sunlight. While in sunlight, it\
     \ has disadvantage on attack rolls and ability checks."
@@ -135,9 +135,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ damage, the vampire can grapple the target (escape DC 18)."
   "name": "Unarmed Strike (Vampire Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. Hit: 7 (dice:\
+    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: 7 (dice:\
     \ 1d6 + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg (3d6))\
     \ necrotic damage. The target's hit point maximum is reduced by an amount equal\
     \ to the necrotic damage taken, and the vampire regains hit points equal to that\
@@ -148,8 +148,8 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   "name": "Bite (Bat or Vampire Form Only)"
 - "desc": "The vampire targets one humanoid it can see within 30 feet of it. If the\
     \ target can see the vampire, the target must succeed on a DC 17 Wisdom saving\
-    \ throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ by the vampire. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target\
+    \ throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ by the vampire. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target\
     \ regards the vampire as a trusted friend to be heeded and protected. Although\
     \ the target isn't under the vampire's control, it takes the vampire's requests\
     \ or actions in the most favorable way it can, and it is a willing target for\
@@ -159,9 +159,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ the vampire is destroyed, is on a different plane of existence than the target,\
     \ or takes a bonus action to end the effect."
   "name": "Charm"
-- "desc": "The vampire magically calls dice: 2d4|avg (2d4) swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|bats]]\
-    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|rats]], provided that the sun\
-    \ isn't up. While outdoors, the vampire can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]\
+- "desc": "The vampire magically calls dice: 2d4|avg (2d4) swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]]\
+    \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|rats]], provided that the sun\
+    \ isn't up. While outdoors, the vampire can call dice: 3d6|avg (3d6) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
     \ instead. The called creatures arrive in dice: 1d4|avg (1d4) rounds, acting\
     \ as allies of the vampire and obeying its spoken commands. The beasts remain\
     \ for 1 hour, until the vampire dies, or until the vampire dismisses them as a\
@@ -188,7 +188,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "TCE"
 - "CM"
 - "DSotDQ"
-"image": "compendium/bestiary/undead/token/vampire.png"
+"image": "5. Mechanics/Bestiary/Undead/token/vampire.png"
 ```
 ^statblock
 

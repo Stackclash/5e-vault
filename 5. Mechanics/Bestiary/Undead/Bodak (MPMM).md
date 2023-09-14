@@ -49,9 +49,9 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "traits":
 - "desc": "When a creature that can see the bodak's eyes starts its turn within 30\
     \ feet of the bodak, the bodak can force it to make a DC 13 Constitution saving\
-    \ throw if the bodak isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ throw if the bodak isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-    \ is reduced to 0 hit points unless it is immune to the [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ is reduced to 0 hit points unless it is immune to the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ condition. Otherwise, a creature takes 16 (dice: 3d10|avg (3d10)) psychic\
     \ damage on a failed save.\n\nUnless surprised, a creature can avert its eyes\
     \ to avoid the saving throw at the start of its turn. If the creature does so,\
@@ -81,7 +81,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/undead/token/bodak.png"
+"image": "5. Mechanics/Bestiary/Undead/token/bodak.png"
 ```
 ^statblock
 

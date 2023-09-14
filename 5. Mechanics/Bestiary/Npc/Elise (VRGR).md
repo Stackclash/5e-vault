@@ -53,6 +53,6 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
   "name": "Slam"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/npc/token/elise.png"
+"image": "5. Mechanics/Bestiary/Npc/token/elise.png"
 ```
 ^statblock

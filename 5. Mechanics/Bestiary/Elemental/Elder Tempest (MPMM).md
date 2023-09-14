@@ -54,7 +54,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 - "desc": "The tempest is always at the center of a storm dice: 1d6 + 4|avg (1d6\
     \ + 4) miles in diameter. Heavy precipitation in the form of either rain or snow\
     \ falls there, causing the area to be lightly obscured. Heavy rain also extinguishes\
-    \ open flames and imposes disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+    \ open flames and imposes disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing. In addition, strong winds swirl in the area covered\
     \ by the storm. The winds impose disadvantage on ranged attack rolls. They also\
     \ extinguish open flames and disperse fog."
@@ -70,7 +70,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 - "desc": "Each creature within 120 feet of the tempest must make a DC 21 Dexterity\
     \ saving throw, taking 27 (dice: 6d8|avg (6d8)) lightning damage on a failed\
     \ save, or half as much damage on a successful one. If a target's saving throw\
-    \ fails by 5 or more, the creature is also [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ fails by 5 or more, the creature is also [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of its next turn."
   "name": "Lightning Storm (Recharge 6)"
 "legendary_actions":
@@ -90,7 +90,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
     \ takes 3 (dice: 1d6|avg (1d6)) bludgeoning damage for every 10 feet it was\
     \ thrown before impact. If the target collides with another creature, that other\
     \ creature must succeed on a DC 19 Dexterity saving throw or take the same impact\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Screaming Gale (Costs 3 Actions)"
 "source":
 - "MPMM"

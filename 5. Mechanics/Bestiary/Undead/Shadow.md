@@ -9,7 +9,7 @@ tags:
 aliases: ["Shadow"]
 ---
 # Shadow
-*Source: Monster Manual p. 269, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 
@@ -84,7 +84,7 @@ A shadow doesn't require air, food, drink, or sleep
 - "WBtW"
 - "SjA"
 - "PSI"
-"image": "compendium/bestiary/undead/token/shadow.png"
+"image": "5. Mechanics/Bestiary/Undead/token/shadow.png"
 ```
 ^statblock
 

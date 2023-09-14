@@ -47,7 +47,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-- "desc": "The redcap has disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]])\
+- "desc": "The redcap has disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
     \ checks."
   "name": "Iron Boots"
 - "desc": "While grappling, the redcap is considered to be Medium. Also, wielding\
@@ -62,12 +62,12 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
     \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw or\
     \ take 20 (dice: 3d10 + 4|avg (3d10 + 4)) bludgeoning damage and be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Ironbound Pursuit"
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/redcap.png"
+"image": "5. Mechanics/Bestiary/Fey/token/redcap.png"
 ```
 ^statblock
 

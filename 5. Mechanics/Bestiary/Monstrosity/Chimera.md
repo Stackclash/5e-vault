@@ -73,7 +73,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 - "WDMM"
 - "SDW"
 - "BGDIA"
-"image": "compendium/bestiary/monstrosity/token/chimera.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/chimera.png"
 ```
 ^statblock
 

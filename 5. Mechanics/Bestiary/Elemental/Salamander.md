@@ -78,8 +78,8 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
   "name": "Spear"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
     \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ 2d6|avg (2d6)) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ the salamander can automatically hit the target with its tail, and the salamander\
     \ can't make tail attacks against other targets."
   "name": "Tail"
@@ -94,7 +94,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 - "DoSI"
 - "KftGV"
 - "GotSF"
-"image": "compendium/bestiary/elemental/token/salamander.png"
+"image": "5. Mechanics/Bestiary/Elemental/token/salamander.png"
 ```
 ^statblock
 

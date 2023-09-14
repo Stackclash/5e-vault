@@ -63,9 +63,9 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 "traits":
 - "desc": "The cambion's spellcasting ability is Charisma (spell save DC 14). The\
     \ cambion can innately cast the following spells, requiring no material components:\n\
-    \n1/day: [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (self only)\n\n3/day\
-    \ each: [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Command.md\|command]],\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]]"
+    \n1/day: [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)\n\n3/day\
+    \ each: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Command.md|command]],\
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]]"
   "name": "innate"
 - "desc": "The AC of the cambion includes its Charisma bonus."
   "name": "Fiendish Blessing"
@@ -81,8 +81,8 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
     \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage."
   "name": "Fire Ray"
 - "desc": "One humanoid the cambion can see within 30 feet of it must succeed on a\
-    \ DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ for 1 day. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] target obeys\
+    \ DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ for 1 day. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] target obeys\
     \ the cambion's spoken commands. If the target suffers any harm from the cambion\
     \ or another creature or receives a suicidal command from the cambion, the target\
     \ can repeat the saving throw, ending the effect on itself on a success. If a\
@@ -95,7 +95,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - "BGDIA"
 - "CM"
 - "KftGV"
-"image": "compendium/bestiary/fiend/token/cambion.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/cambion.png"
 ```
 ^statblock
 

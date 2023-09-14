@@ -78,14 +78,14 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
 - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of it\
-    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] or on the Ethereal\
+    \ that is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or on the Ethereal\
     \ Plane. It can pinpoint such a creature that is moving."
   "name": "Otherworldly Perception"
 - "desc": "The kuo-toa has advantage on ability checks and saving throws made to escape\
     \ a grapple."
   "name": "Slippery"
 - "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -98,7 +98,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ two hands to make a melee attack."
   "name": "Spear"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 5/15 ft., one\
-    \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
+    \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ A creature can use its action to make a DC 10 Strength check to free itself\
     \ or another creature in a net, ending the effect on a success. Dealing 5 slashing\
     \ damage to the net (AC 10) frees the target without harming it and destroys the\
@@ -109,7 +109,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ uses its sticky shield to catch the weapon. The attacker must succeed on a DC\
     \ 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's shield.\
     \ If the weapon's wielder can't or won't let go of the weapon, the wielder is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] while the weapon is stuck.\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] while the weapon is stuck.\
     \ While stuck, the weapon can't be used. A creature can pull the weapon free by\
     \ taking an action to make a DC 11 Strength check and succeeding."
   "name": "Sticky Shield"

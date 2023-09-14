@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
-cssclasses:
-  - json5e-note
+cssclasses: json5e-note
 tags:
-  - compendium/src/5e/cos
-aliases:
-  - "Chapter 4: Castle Ravenloft"
+- compendium/src/5e/cos
+aliases: ["Chapter 4: Castle Ravenloft"]
 ---
 # Chapter 4: Castle Ravenloft
 *Source: Curse of Strahd, p. 49* 

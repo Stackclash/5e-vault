@@ -7,7 +7,7 @@ tags:
 aliases: ["Balor"]
 ---
 # Balor
-*Source: Monster Manual p. 55. Available in the SRD.*  
+*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -250,6 +250,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "EGW"
 - "TCE"
 - "CRCotN"
-"image": "compendium/bestiary/fiend/token/balor.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/balor.png"
 ```
 ^statblock

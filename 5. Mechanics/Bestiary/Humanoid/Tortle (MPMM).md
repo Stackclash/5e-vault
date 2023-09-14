@@ -57,7 +57,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   "name": "Light Crossbow"
 - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\
     \ to AC and has advantage on Strength and Constitution saving throws. While in\
-    \ its shell, the tortle is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], its\
+    \ its shell, the tortle is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], its\
     \ speed is 0 and can't increase, it has disadvantage on Dexterity saving throws,\
     \ it can't take reactions, and the only action it can take is a bonus action to\
     \ emerge."
@@ -65,7 +65,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/humanoid/token/tortle.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/tortle.png"
 ```
 ^statblock
 

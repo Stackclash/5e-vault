@@ -95,7 +95,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 - "EGW"
 - "IDRotF"
 - "CRCotN"
-"image": "compendium/bestiary/humanoid/token/orc.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orc.png"
 ```
 ^statblock
 

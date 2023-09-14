@@ -57,18 +57,18 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "traits":
 - "desc": "The shadar-kai casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-    \nAt will: [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]],\
-    \ [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]]\n\n1/day each: [arcane\
-    \ gate](compendium/spells/arcane-gate.md), [[5. Mechanics/Spells/Bane.md\|bane]],\
-    \ [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Darkness.md\|darkness]],\
-    \ [[5. Mechanics/Spells/Fear.md\|fear]], [[5. Mechanics/Spells/Major Image.md\|major image]],\
-    \ [[5. Mechanics/Spells/True Seeing.md\|true seeing]]"
+    \nAt will: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day each: [arcane\
+    \ gate](compendium/spells/arcane-gate.md), [[5. Mechanics/Spells/Bane.md|bane]],\
+    \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
+    \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Major Image.md|major image]],\
+    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "spells"
 - "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
     \ while within 10 feet of the shadar-kai."
   "name": "Burden of Time"
-- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put it to sleep."
   "name": "Fey Ancestry"
 "actions":
@@ -82,9 +82,9 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     \ attack."
   "name": "Shadow Spear"
 "reactions":
-- "desc": "When the shadar-kai takes damage, it turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+- "desc": "When the shadar-kai takes damage, it turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ and teleports, along with any equipment it is wearing or carrying, up to 60\
-    \ feet to an unoccupied space it can see. It remains [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+    \ feet to an unoccupied space it can see. It remains [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ until the start of its next turn or until it attacks or casts a spell."
   "name": "Misty Escape (Recharge 6-6)"
 "source":

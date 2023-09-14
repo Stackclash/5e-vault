@@ -40,13 +40,13 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "cr": "1"
 "traits":
 - "desc": "The firenewt casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md\|guidance]],\
-    \ [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]"
   "name": "spells"
 - "desc": "The firenewt can breathe air and water."
   "name": "Amphibious"
-- "desc": "Magical darkness doesn't impede the firenewt's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the firenewt's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains\
     \ 5 temporary hit points."

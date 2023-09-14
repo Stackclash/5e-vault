@@ -78,7 +78,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
   "name": "Arm"
 - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
-    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ must succeed on a DC 11 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralysis Gas (Recharge 5-6)"
@@ -86,6 +86,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "MM"
 - "ToA"
 - "KftGV"
-"image": "compendium/bestiary/construct/token/pentadrone.png"
+"image": "5. Mechanics/Bestiary/Construct/token/pentadrone.png"
 ```
 ^statblock

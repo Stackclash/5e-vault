@@ -39,8 +39,8 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "traits":
 - "desc": "If the deinonychus moves at least 20 feet straight toward a creature and\
     \ then hits it with a Claw attack on the same turn, that target must succeed on\
-    \ a DC 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
-    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], the deinonychus\
+    \ a DC 12 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ If the target is [[/5. Mechanics/Rules/Conditions.md#prone|prone]], the deinonychus\
     \ can make one Bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":
@@ -55,7 +55,7 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/deinonychus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/deinonychus.png"
 ```
 ^statblock
 

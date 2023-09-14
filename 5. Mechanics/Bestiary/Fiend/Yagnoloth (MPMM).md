@@ -53,9 +53,9 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 "traits":
 - "desc": "The yagnoloth casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-    \nAt will: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
-    \ (self only), [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\n3/day: [lightning\
+    \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
+    \ (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day: [lightning\
     \ bolt](compendium/spells/lightning-bolt.md)"
   "name": "spells"
 - "desc": "The yagnoloth has advantage on saving throws against spells and other magical\
@@ -71,13 +71,13 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   "name": "Electrified Touch"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
     \ Hit: 23 (dice: 3d12 + 4|avg (3d12 + 4)) force damage. If the target is\
-    \ a creature, it must succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ a creature, it must succeed on a DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the yagnoloth's next turn."
   "name": "Massive Arm"
 - "desc": "Up to two allied yugoloths within 60 feet of the yagnoloth that can hear\
     \ it can use their reactions to make one melee attack each."
   "name": "Battlefield Cunning (Recharge 4-6)"
-- "desc": "The yagnoloth touches one [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+- "desc": "The yagnoloth touches one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ creature within 15 feet of it. The target takes 36 (dice: 7d8 + 4|avg (7d8\
     \ + 4)) necrotic damage, and the yagnoloth gains temporary hit points equal to\
     \ half the damage dealt. The target must succeed on a DC 16 Constitution saving\
@@ -91,7 +91,7 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/yagnoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/yagnoloth.png"
 ```
 ^statblock
 

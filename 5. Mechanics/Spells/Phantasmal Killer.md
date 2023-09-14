@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
+- spell/class/warlock/the-genie
 - spell/class/warlock/the-hexblade
 - spell/class/wizard
 - spell/level/4
@@ -23,6 +24,6 @@ You tap into the nightmares of a creature you can see within range and create an
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Hexblade (XGE).md\|Warlock (The Hexblade)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Warlock The Hexblade (XGE).md\|Warlock (The Hexblade)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 265. Available in the SRD.*

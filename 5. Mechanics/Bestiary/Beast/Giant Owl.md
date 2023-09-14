@@ -40,7 +40,7 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 - "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
     \ reach."
   "name": "Flyby"
-- "desc": "The owl has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The owl has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
 "actions":

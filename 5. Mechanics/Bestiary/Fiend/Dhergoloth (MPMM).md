@@ -49,7 +49,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "traits":
 - "desc": "The dhergoloth casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-    \nAt will: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Fear.md\|fear]]"
+    \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Fear.md|fear]]"
   "name": "spells"
 - "desc": "The dhergoloth has advantage on saving throws against spells and other\
     \ magical effects."
@@ -71,7 +71,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/dhergoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/dhergoloth.png"
 ```
 ^statblock
 

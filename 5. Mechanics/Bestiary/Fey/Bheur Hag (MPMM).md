@@ -48,11 +48,11 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "traits":
 - "desc": "While holding or riding the graystaff, the hag casts one of the following\
     \ spells, requiring no material components and using Charisma as the spellcasting\
-    \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Hold Person.md\|hold person]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Ice Storm.md\|ice storm]],\
-    \ [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]]"
+    \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Ice Storm.md|ice storm]],\
+    \ [[5. Mechanics/Spells/Wall Of Ice.md|wall of ice]]"
   "name": "spells"
-- "desc": "The hag can cast the [[5. Mechanics/Spells/Control Weather.md\|control weather]]\
+- "desc": "The hag can cast the [[5. Mechanics/Spells/Control Weather.md|control weather]]\
     \ spell, requiring no material components and using Charisma as the spellcasting\
     \ ability."
   "name": "Control Weather (1/Day)"
@@ -78,9 +78,9 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
   "name": "Frost Shard"
 - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
     \ the past minute. Each creature of the hag's choice that is within 60 feet and\
-    \ able to see the feeding must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the hag for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ in this way, a creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
+    \ able to see the feeding must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the hag for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ in this way, a creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
     \ can't understand what others say, can't read, and speaks only in gibberish.\
     \ A creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success. If a creature's saving throw is successful\

@@ -48,7 +48,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "6"
 "traits":
-- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The abishai has advantage on saving throws against spells and other magical\
     \ effects."

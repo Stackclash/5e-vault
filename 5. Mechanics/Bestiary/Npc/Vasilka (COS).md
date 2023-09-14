@@ -65,6 +65,6 @@ aliases: ["Vasilka"]
   "name": "Slam"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/vasilka.png"
+"image": "5. Mechanics/Bestiary/Npc/token/vasilka.png"
 ```
 ^statblock

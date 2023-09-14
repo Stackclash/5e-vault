@@ -154,7 +154,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -216,8 +216,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "traits":
 - "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The\
     \ yochlol can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Web.md\|web]]\n\
-    \n1/day: [[5. Mechanics/Spells/Dominate Person.md\|dominate person]]"
+    \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Web.md|web]]\n\
+    \n1/day: [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
   "name": "innate"
 - "desc": "The yochlol can use its action to polymorph into a form that resembles\
     \ a female drow or giant spider, or back into its true form. Its statistics are\
@@ -241,21 +241,21 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   "name": "Slam (Bite in Spider Form)"
 - "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
     \ equipment it is wearing or carrying is also transformed. It reverts to its true\
-    \ form if it dies.\n\nWhile in mist form, the yochlol is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ form if it dies.\n\nWhile in mist form, the yochlol is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ and can't speak. It has a flying speed of 30 feet, can hover, and can pass through\
     \ any space that isn't airtight. It has advantage on Strength, Dexterity, and\
     \ Constitution saving throws, and it is immune to nonmagical damage.\n\nWhile\
     \ in mist form, the yochlol can enter a creature's space and stop there. Each\
     \ time that creature starts its turn with the yochlol in its space, the creature\
-    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ until the start of its next turn. While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ in this way, the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ until the start of its next turn. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ in this way, the target is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Mist Form"
 "source":
 - "MM"
 - "WDMM"
 - "EGW"
 - "CRCotN"
-"image": "compendium/bestiary/fiend/token/yochlol.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/yochlol.png"
 ```
 ^statblock

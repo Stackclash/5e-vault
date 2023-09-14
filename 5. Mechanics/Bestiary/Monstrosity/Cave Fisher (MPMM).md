@@ -57,7 +57,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
   "name": "Claw"
-- "desc": "One Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+- "desc": "One Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw.\
     \ On a failed save, the target is pulled into an unoccupied space within 5 feet\
     \ of the cave fisher, and the cave fisher makes one Claw attack against it. Anyone\
@@ -66,7 +66,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   "name": "Retract Filament"
 "bonus_actions":
 - "desc": "The cave fisher extends a sticky filament up to 60 feet, and the filament\
-    \ adheres to anything that touches it. A creature the filament adheres to is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ adheres to anything that touches it. A creature the filament adheres to is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the cave fisher (escape DC 13), and ability checks made to escape this grapple\
     \ have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity\
     \ to poison and psychic damage). A weapon that fails to sever it becomes stuck\

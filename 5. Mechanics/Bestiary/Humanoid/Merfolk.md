@@ -60,7 +60,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
 - "GoS"
 - "WBtW"
 - "JttRC"
-"image": "compendium/bestiary/humanoid/token/merfolk.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/merfolk.png"
 ```
 ^statblock
 

@@ -48,16 +48,16 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "cr": "3"
 "traits":
 - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Message.md\|message]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Sleep.md\|sleep]],\
-    \ [[5. Mechanics/Spells/Spider Climb.md\|spider climb]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Sleep.md|sleep]],\
+    \ [[5. Mechanics/Spells/Spider Climb.md|spider climb]]"
   "name": "spells"
 - "desc": "The derro has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

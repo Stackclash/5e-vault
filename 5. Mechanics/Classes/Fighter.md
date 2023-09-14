@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/fighter
 - compendium/src/5e/phb
@@ -16,7 +16,7 @@ aliases: ["Fighter"]
 > | 1st | +2 | [Fighting Style](#Fighting%20Style%20(Level%201)), [Second Wind](#Second%20Wind%20(Level%201)) |
 > | 2nd | +2 | [Action Surge](#Action%20Surge%20(Level%202)) |
 > | 3rd | +2 | [Martial Archetype](#Martial%20Archetype%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
 > | 6th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%206)) |
 > | 7th | +3 | [Martial Archetype feature](#Martial%20Archetype%20feature%20(Level%207)) |
@@ -208,6 +208,16 @@ At 3rd level, you choose an archetype from the list available that you strive to
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
+
+### Martial Versatility (Level 4)
+_Source: Tasha's Cauldron of Everything p. 41_
+
+*4th-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+
+- Replace a [[5. Mechanics/Optional Features/List Fighting Style Fighter.md\|fighting style]] you know with another fighting style available to fighters.  
+- If you know any [[5. Mechanics/Optional Features/List Maneuver Battle Master.md\|maneuvers]] from the [[5. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 

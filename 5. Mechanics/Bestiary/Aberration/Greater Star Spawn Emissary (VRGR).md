@@ -69,7 +69,7 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
     \ sphere centered on a point within 120 feet of the emissary. Each creature in\
     \ that area must make a DC 23 Dexterity saving throw, taking 55 (dice: 10d10|avg\
     \ (10d10)) acid damage on a failed save, or half as much damage on a successful\
-    \ one. For each creature that fails the saving throw, a [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md\|gibbering mouther]]\
+    \ one. For each creature that fails the saving throw, a [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md|gibbering mouther]]\
     \ (see its entry in the Monster Manual) appears in an unoccupied space on a surface\
     \ that can support it within 30 feet of that creature. The gibbering mouthers\
     \ act right after the emissary on the same initiative count, gaining a +7 bonus\

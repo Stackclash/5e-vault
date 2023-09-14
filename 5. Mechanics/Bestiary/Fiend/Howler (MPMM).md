@@ -49,28 +49,28 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 "cr": "8"
 "traits":
 - "desc": "A howler has advantage on attack rolls against a creature if at least one\
-    \ of the howler's allies is within 5 feet of the creature and the ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ of the howler's allies is within 5 feet of the creature and the ally isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The howler makes two Rending Bite attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage, plus 22 (dice:\
-    \ 4d10|avg (4d10)) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]].\
+    \ 4d10|avg (4d10)) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]].\
     \ This attack ignores damage resistance."
   "name": "Rending Bite"
 - "desc": "The howler emits a keening howl in a 60-foot cone. Each creature in that\
     \ area must succeed on a DC 13 Wisdom saving throw or take 16 (dice: 3d10|avg\
-    \ (3d10)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ until the end of the howler's next turn. While a creature is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ in this way, its speed is halved, and it is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].\
+    \ (3d10)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ until the end of the howler's next turn. While a creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ in this way, its speed is halved, and it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
     \ A target that successfully saves is immune to the Mind-Breaking Howl of all\
     \ howlers for the next 24 hours."
   "name": "Mind-Breaking Howl (Recharge 4-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/howler.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/howler.png"
 ```
 ^statblock
 

@@ -1,8 +1,10 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/artificer/alchemist
 - spell/class/cleric
 - spell/class/cleric/death-domain
 - spell/class/cleric/grave-domain
@@ -28,6 +30,6 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]]
+**Classes**: [[5. Mechanics/Classes/Artificer Alchemist (TCE).md\|Artificer (Alchemist)]], [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric Grave Domain (XGE).md\|Cleric (Grave Domain)]], [[5. Mechanics/Classes/Cleric Life Domain.md\|Cleric (Life Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin.md\|Paladin]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Undead (VRGR).md\|Warlock (The Undead)]]
 
 *Source: Player's Handbook p. 230. Available in the SRD and the Basic Rules.*

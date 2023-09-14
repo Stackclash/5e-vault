@@ -84,7 +84,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
     \ Hit: 10 (dice: 1d8 + 6|avg (1d8 + 6)) bludgeoning damage plus 18 (dice:\
     \ 4d8|avg (4d8)) psychic damage, and if the target is a creature, it must succeed\
-    \ on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ until the end of its next turn."
   "name": "Comet Staff"
 - "desc": "Ranged Spell Attack: dice: d20+11 (+11 to hit), range 120 feet, one\

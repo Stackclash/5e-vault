@@ -49,27 +49,27 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 20 ft., one target.\
     \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. If the target is\
-    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape\
-    \ DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].\
+    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ The plant has four vines, each of which can grapple one target."
   "name": "Vine Lash"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one Medium\
-    \ or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by\
+    \ or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by\
     \ the plant. Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) acid damage, and the\
     \ target is pulled into the plant's space and enveloped by the pod, and the grapple\
-    \ ends. While enveloped, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ ends. While enveloped, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and it has total cover against attacks and effects originating outside the pod.\
     \ The enveloped target must also immediately succeed on a DC 16 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] by the plant's\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] by the plant's\
     \ sapping enzymes until it is removed from the pod or the plant dies. The enveloped\
-    \ target doesn't require air and gains 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]\
+    \ target doesn't require air and gains 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]\
     \ for each hour it spends in the pod. If the target dies while enveloped, it immediately\
     \ emerges from the pod as a living podling, wearing or carrying all of the original\
     \ creature's equipment.\n\nAs an action, a creature within 5 feet of the bodytaker\
     \ plant that is outside the pod can open the pod and pull the target free with\
     \ a successful DC 15 Strength check. If the plant dies, the target is no longer\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] and can escape from\
-    \ the pod by spending 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] and can escape from\
+    \ the pod by spending 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The plant has one pod, which can envelop one creature at a time."
   "name": "Entrapping Pod"
 "source":

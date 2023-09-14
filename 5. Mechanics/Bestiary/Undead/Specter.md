@@ -9,7 +9,7 @@ tags:
 aliases: ["Specter"]
 ---
 # Specter
-*Source: Monster Manual p. 279, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
 
@@ -61,7 +61,7 @@ A specter doesn't require air, food, drink, or sleep.
     \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -96,7 +96,7 @@ A specter doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "KftGV"
 - "PSI"
-"image": "compendium/bestiary/undead/token/specter.png"
+"image": "5. Mechanics/Bestiary/Undead/token/specter.png"
 ```
 ^statblock
 

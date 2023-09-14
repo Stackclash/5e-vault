@@ -111,7 +111,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 - "WDMM"
 - "GoS"
 - "EGW"
-"image": "compendium/bestiary/humanoid/token/orog.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/orog.png"
 ```
 ^statblock
 

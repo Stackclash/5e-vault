@@ -39,7 +39,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 |----------|-----|
 | 1 | **Beguiling Hex (Recharge 5-6).** The horror expels a wave of mind-altering magic. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw, taking 33 (`dice: 6d10\|avg` (`6d10`)) psychic damage and being incapacitated until the end of the creature's next turn on a failed save, or taking half as much damage on a successful one. |
 | 2 | **Bile Hex (Recharge 5-6).** The horror expels acidic bile in a 60-foot line that is 5 feet wide. Each creature in that line must succeed on a DC 15 Dexterity saving throw or be covered in bile. A creature covered in bile takes 31 (`dice: 7d8\|avg` (`7d8`)) acid damage at the start of each of its turns until it or another creature uses its action to scrape or wash off the bile that covers it. |
-| 3 | **Petrifying Hex (Recharge 5-6).** The horror expels petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or take 14 (`dice: 4d6\|avg` (`4d6`)) necrotic damage and be restrained as it begins to turn to stone. A restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or other magic. |
+| 3 | **Petrifying Hex (Recharge 5-6).** The horror expels petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or take 14 (`dice: 4d6\|avg` (`4d6`)) necrotic damage and be restrained as it begins to turn to stone. A restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or other magic. |
 | 4 | **Reality-Stealing Hex (Recharge 5-6).** The horror expels a wave of perception-distorting energy. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw. On a failed save, the target takes 22 (`dice: 5d8\|avg` (`5d8`)) psychic damage and is deafened until the end of its next turn. If the saving throw fails by 5 or more, the target is also blinded until the end of its next turn. |
 ^hex-blast
 
@@ -89,7 +89,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
   "name": "Bile Body (Oozing Organs Only)"
 - "desc": "The horror can move through the space of another creature. The first time\
     \ on a turn that the horror enters a creature's space during this move, the creature\
-    \ must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Relentless Stride (Loathsome Limbs Only)"
 "actions":
 - "desc": "The horror makes two Limbs attacks."

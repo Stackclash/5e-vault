@@ -47,14 +47,14 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "cr": "5"
 "traits":
 - "desc": "Any creature other than a catoblepas that starts its turn within 10 feet\
-    \ of the catoblepas must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ of the catoblepas must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ until the start of the creature's next turn. On a successful saving throw, the\
     \ creature is immune to the Stench of any catoblepas for 1 hour."
   "name": "Stench"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
     \ Hit: 21 (dice: 5d6 + 4|avg (5d6 + 4)) bludgeoning damage, and the target\
-    \ must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ must succeed on a DC 16 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of the catoblepas's next turn."
   "name": "Tail"
 - "desc": "The catoblepas targets one creature it can see within 30 feet of it. The\
@@ -66,7 +66,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/catoblepas.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/catoblepas.png"
 ```
 ^statblock
 

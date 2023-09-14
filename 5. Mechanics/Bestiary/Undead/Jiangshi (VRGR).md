@@ -73,6 +73,6 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
   "name": "Change Shape"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/undead/token/jiangshi.png"
+"image": "5. Mechanics/Bestiary/Undead/token/jiangshi.png"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases: ["Maurezhi"]
 # Maurezhi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175*  
 
-When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] and [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] on the Material Plane.
+When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] and [[5. Mechanics/Bestiary/Undead/Ghast.md|ghasts]] on the Material Plane.
 
 When a maurezhi consumes the corpse of a Humanoid it has slain—a process that takes about 10 minutes—it instantly assumes the creature's appearance as it was in life. The new appearance begins to rot away over the next few days, eventually revealing the demon's original form.
 
@@ -59,23 +59,23 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
     \ Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3)) piercing damage. If the target\
     \ is a Humanoid, its Charisma score is reduced by dice: 1d4|avg (1d4). This\
     \ reduction lasts until the target finishes a short or long rest. The target dies\
-    \ if this reduces its Charisma to 0. It rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghoul]]\
+    \ if this reduces its Charisma to 0. It rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]]\
     \  unless it has been revived or its corpse has been destroyed."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
     \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) slashing damage. If the target is\
     \ a creature other than an Undead, it must succeed on a DC 12 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 1 minute.\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Claw"
-- "desc": "The maurezhi targets one dead ghoul or [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghast]]\
+- "desc": "The maurezhi targets one dead ghoul or [[5. Mechanics/Bestiary/Undead/Ghast.md|ghast]]\
     \ it can see within 30 feet of it. The target is revived with all its hit points."
   "name": "Raise Ghoul (Recharge 5-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/maurezhi.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/maurezhi.png"
 ```
 ^statblock
 

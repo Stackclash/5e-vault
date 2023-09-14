@@ -62,19 +62,19 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 "traits":
 - "desc": "Demogorgon casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Major Image.md\|major image]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]], [[5. Mechanics/Spells/Project Image.md\|project image]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Fear.md\|fear]],\
-    \ [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Project Image.md|project image]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fear.md|fear]],\
+    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
   "name": "spells"
 - "desc": "If Demogorgon fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 - "desc": "Demogorgon has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "Demogorgon has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
+- "desc": "Demogorgon has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
   "name": "Two Heads"
 "actions":
 - "desc": "Demogorgon makes two Tentacle attacks. He can replace one attack with a\
@@ -90,14 +90,14 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 - "desc": "Demogorgon turns his magical gaze toward one creature he can see within\
     \ 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer\
     \ one of the following effects (choose one or roll a dice: d6|avg (d6)):\n\
-    \n- 1–2 Beguiling Gaze. The target is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \n- 1–2 Beguiling Gaze. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of Demogorgon's next turn or until Demogorgon is no longer within\
     \ line of sight.  \n- 3–4 Confusing Gaze. The target suffers the effect of\
-    \ the [[5. Mechanics/Spells/Confusion.md\|confusion]] spell without making a saving\
+    \ the [[5. Mechanics/Spells/Confusion.md|confusion]] spell without making a saving\
     \ throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon\
     \ doesn't need to concentrate on the spell.  \n- 5–6 Hypnotic Gaze. The target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]] by Demogorgon until the\
-    \ start of Demogorgon's next turn. Demogorgon chooses how the [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by Demogorgon until the\
+    \ start of Demogorgon's next turn. Demogorgon chooses how the [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ target uses its action, reaction, and movement.  "
   "name": "Gaze"
 "legendary_actions":
@@ -112,6 +112,6 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/npc/token/demogorgon.png"
+"image": "5. Mechanics/Bestiary/Npc/token/demogorgon.png"
 ```
 ^statblock

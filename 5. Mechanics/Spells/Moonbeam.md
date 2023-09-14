@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/cleric/twilight-domain
 - spell/class/druid
 - spell/class/paladin/oath-of-the-ancients
+- spell/class/paladin/oath-of-the-watchers
 - spell/level/2
 - spell/school/evocation
 aliases: ["Moonbeam"]
@@ -27,6 +29,6 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]
+**Classes**: [[5. Mechanics/Classes/Cleric Twilight Domain (TCE).md\|Cleric (Twilight Domain)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]], [[5. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Paladin (Oath of the Watchers)]]
 
 *Source: Player's Handbook p. 261. Available in the SRD.*

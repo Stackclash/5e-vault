@@ -97,13 +97,13 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "traits":
 - "desc": "The ultroloth's innate spellcasting ability is Charisma (spell save DC\
     \ 17). The ultroloth can innately cast the following spells, requiring no material\
-    \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]],\
-    \ [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]] (self only), [[5. Mechanics/Spells/Suggestion.md\|suggestion]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Fire Storm.md\|fire storm]], [[5. Mechanics/Spells/Mass Suggestion.md\|mass suggestion]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Fear.md\|fear]],\
-    \ [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]"
+    \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
+    \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Fear.md|fear]],\
+    \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
   "name": "innate"
 - "desc": "The ultroloth has advantage on saving throws against spells and other magical\
     \ effects."
@@ -119,9 +119,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   "name": "Longsword"
 - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one creature\
     \ it can see within 30 feet of it. If the target can see the ultroloth, the target\
-    \ must succeed on a DC 17 Wisdom saving throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ until the end of the ultroloth's next turn. The [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ target is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]. If the target's\
+    \ must succeed on a DC 17 Wisdom saving throw against this magic or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ until the end of the ultroloth's next turn. The [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]. If the target's\
     \ saving throw is successful, the target is immune to the ultroloth's gaze for\
     \ the next 24 hours."
   "name": "Hypnotic Gaze"
@@ -134,6 +134,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "BGDIA"
 - "EGW"
 - "JttRC"
-"image": "compendium/bestiary/fiend/token/ultroloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/ultroloth.png"
 ```
 ^statblock

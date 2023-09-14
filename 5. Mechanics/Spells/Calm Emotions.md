@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/paladin/oath-of-redemption
+- spell/class/sorcerer/aberrant-mind
 - spell/class/sorcerer/divine-soul
 - spell/class/warlock/the-archfey
 - spell/level/2
@@ -26,6 +27,6 @@ You can suppress any effect causing a target to be [[/5. Mechanics/Rules/Conditi
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
-**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]]
+**Classes**: [[5. Mechanics/Classes/Bard.md\|Bard]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Paladin Oath Of Redemption (XGE).md\|Paladin (Oath of Redemption)]], [[5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Sorcerer (Aberrant Mind)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Warlock The Archfey.md\|Warlock (The Archfey)]]
 
 *Source: Player's Handbook p. 221. Available in the SRD.*

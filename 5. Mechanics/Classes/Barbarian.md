@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/barbarian
 - compendium/src/5e/phb
@@ -15,11 +15,11 @@ aliases: ["Barbarian"]
 > |-------|----|----------|
 > | 1st | +2 | [Rage](#Rage%20(Level%201)), [Unarmored Defense](#Unarmored%20Defense%20(Level%201)) |
 > | 2nd | +2 | [Danger Sense](#Danger%20Sense%20(Level%202)), [Reckless Attack](#Reckless%20Attack%20(Level%202)) |
-> | 3rd | +2 | [Primal Path](#Primal%20Path%20(Level%203)) |
+> | 3rd | +2 | [Primal Path](#Primal%20Path%20(Level%203)), [Primal Knowledge](#Primal%20Knowledge%20(Level%203)) |
 > | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)), [Fast Movement](#Fast%20Movement%20(Level%205)) |
 > | 6th | +3 | [Path Feature](#Path%20Feature%20(Level%206)) |
-> | 7th | +3 | [Feral Instinct](#Feral%20Instinct%20(Level%207)) |
+> | 7th | +3 | [Feral Instinct](#Feral%20Instinct%20(Level%207)), [Instinctive Pounce](#Instinctive%20Pounce%20(Level%207)) |
 > | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
 > | 9th | +4 | [Brutal Critical (1 die)](#Brutal%20Critical%20(1%20die)%20(Level%209)) |
 > | 10th | +4 | [Path feature](#Path%20feature%20(Level%2010)) |
@@ -240,6 +240,13 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 
 At 3rd level, you choose a path that shapes the nature of your rage from the list of available paths. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
+### Primal Knowledge (Level 3)
+_Source: Tasha's Cauldron of Everything p. 24_
+
+*3rd-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.
+
 ### Ability Score Improvement (Level 4)
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -263,6 +270,13 @@ At 6th level, you gain a feature from your Primal Path.
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+
+### Instinctive Pounce (Level 7)
+_Source: Tasha's Cauldron of Everything p. 24_
+
+*7th-level barbarian [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+As part of the bonus action you take to enter your rage, you can move up to half your speed.
 
 ### Ability Score Improvement (Level 8)
 

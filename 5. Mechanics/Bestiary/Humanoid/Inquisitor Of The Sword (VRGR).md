@@ -49,10 +49,10 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "traits":
 - "desc": "The inquisitor casts one of the following spells, requiring no components\
     \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Sending.md\|sending]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Fly.md\|fly]],\
-    \ [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Fly.md|fly]],\
+    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
   "name": "innate"
 - "desc": "At the start of each of its turns, the inquisitor regains 10 hit points\
     \ and can end one condition on itself, provided the inquisitor has at least 1\

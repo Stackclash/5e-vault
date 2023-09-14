@@ -47,12 +47,12 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes only), [[5. Mechanics/Spells/Guidance.md\|guidance]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\n\
-    \n3/day: [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \ [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only), [[5. Mechanics/Spells/Guidance.md|guidance]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
+    \n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the yuan-ti's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
 - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
     \ effects."
@@ -69,10 +69,10 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
   "name": "Spectral Fangs"
 - "desc": "The yuan-ti targets up to five creatures that it can see within 60 feet\
     \ of it. Each target must succeed on a DC 13 Constitution saving throw or fall\
-    \ into a magical sleep and be [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]\
+    \ into a magical sleep and be [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for 10 minutes. A sleeping target awakens if it takes damage or if someone uses\
     \ an action to shake or slap it awake. This magical sleep has no effect on a creature\
-    \ immune to being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]."
+    \ immune to being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]."
   "name": "Merrshaulk's Slumber (1/Day)"
 "bonus_actions":
 - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\

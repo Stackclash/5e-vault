@@ -50,8 +50,8 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "traits":
 - "desc": "The sibriex casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Hold Monster.md\|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]]"
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
   "name": "spells"
 - "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\
     \ withers in the aura, and the ground in the aura is difficult terrain for other\
@@ -78,17 +78,17 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 - "desc": "The sibriex targets up to three creatures it can see within 120 feet of\
     \ it. Each target must make a DC 20 Constitution saving throw. On a successful\
     \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
-    \ save, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], which\
-    \ causes it to also gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].\
-    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way, the\
+    \ save, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], which\
+    \ causes it to also gain 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
+    \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
     \ target must repeat the saving throw at the start of each of its turns. Three\
     \ successful saves against the poison end it, and ending the poison removes any\
-    \ levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]] caused by\
-    \ it. Each failed save causes the target to gain another level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].\
-    \ Once the target reaches 6 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]],\
-    \ it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md\|manes]]\
+    \ levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]] caused by\
+    \ it. Each failed save causes the target to gain another level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
+    \ Once the target reaches 6 levels of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+    \ it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
     \ under the sibriex's control. The transformation of the body can be undone only\
-    \ by a [[5. Mechanics/Spells/Wish.md\|wish]] spell."
+    \ by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
   "name": "Warp Creature"
 "legendary_actions":
 - "desc": "The sibriex uses Spellcasting."
@@ -100,7 +100,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/sibriex.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/sibriex.png"
 ```
 ^statblock
 

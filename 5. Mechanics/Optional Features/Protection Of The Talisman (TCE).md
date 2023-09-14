@@ -1,0 +1,12 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- compendium/src/5e/tce
+- optional-feature/ei
+aliases: ["Protection of the Talisman"]
+---
+# Protection of the Talisman
+*Source: Tasha's Cauldron of Everything p. 71* 
+
+When the wearer of your talisman fails a saving throw, they can add a `dice: d4|avg` (`d4`) to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.

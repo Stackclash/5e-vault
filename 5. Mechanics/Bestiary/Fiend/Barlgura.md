@@ -153,7 +153,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!quote] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -212,8 +212,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "traits":
 - "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura\
     \ can innately cast the following spells, requiring no material components:\n\n\
-    1/day each: [[5. Mechanics/Spells/Entangle.md\|entangle]], [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]]\n\
-    \n2/day each: [[5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
+    1/day each: [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\n\
+    \n2/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ (self only)"
   "name": "innate"
 - "desc": "At the start of its turn, the barlgura can gain advantage on all melee\
@@ -241,6 +241,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "IMR"
 - "CRCotN"
 - "KftGV"
-"image": "compendium/bestiary/fiend/token/barlgura.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/barlgura.png"
 ```
 ^statblock

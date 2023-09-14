@@ -45,6 +45,6 @@ aliases: ["Beucephalus"]
   "name": "Ethereal Stride"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/beucephalus.png"
+"image": "5. Mechanics/Bestiary/Npc/token/beucephalus.png"
 ```
 ^statblock

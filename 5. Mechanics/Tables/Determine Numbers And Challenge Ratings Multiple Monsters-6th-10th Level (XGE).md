@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
+cssclasses: json5e-note
 tags:
 - compendium/src/5e/xge
 aliases: ["Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level"]

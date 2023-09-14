@@ -60,11 +60,11 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "traits":
 - "desc": "The shadar-kai casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 16):\n\n1/day each: [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [finger\
-    \ of death](compendium/spells/finger-of-death.md), [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]],\
-    \ [[5. Mechanics/Spells/Seeming.md\|seeming]]"
+    \ 16):\n\n1/day each: [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [finger\
+    \ of death](compendium/spells/finger-of-death.md), [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+    \ [[5. Mechanics/Spells/Seeming.md|seeming]]"
   "name": "spells"
-- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+- "desc": "The shadar-kai has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put it to sleep."
   "name": "Fey Ancestry"
 - "desc": "The shadar-kai has advantage on saving throws against spells and other\
@@ -90,9 +90,9 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   "name": "Shadow Dagger"
 - "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
     \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
-    \ takes 45 (dice: 10d8|avg (10d8)) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]].\
+    \ takes 45 (dice: 10d8|avg (10d8)) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
     \ On a successful save, it takes half as much damage and doesn't gain a level\
-    \ of [[/5. Mechanics/Rules/Conditions.md#exhaustion\|exhaustion]]."
+    \ of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]."
   "name": "Wave of Weariness (Recharge 4-6)"
 "source":
 - "MPMM"

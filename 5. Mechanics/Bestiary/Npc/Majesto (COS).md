@@ -56,13 +56,13 @@ aliases: ["Majesto"]
     \ make a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
     \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
-- "desc": "Majesto magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
-    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+- "desc": "Majesto magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ ends (as if concentrating on a spell). Any equipment Majesto wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/majesto.png"
+"image": "5. Mechanics/Bestiary/Npc/token/majesto.png"
 ```
 ^statblock

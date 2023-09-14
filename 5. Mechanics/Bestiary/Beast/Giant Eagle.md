@@ -37,7 +37,7 @@ A giant eagle is a noble creature that speaks its own language and understands s
 "languages": "Giant Eagle, understands Common and Auran but can't speak them"
 "cr": "1"
 "traits":
-- "desc": "The eagle has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The eagle has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":

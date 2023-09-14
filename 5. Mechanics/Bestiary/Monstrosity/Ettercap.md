@@ -64,7 +64,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage plus 4 (dice: 1d8|avg\
     \ (1d8)) poison damage. The target must succeed on a DC 11 Constitution saving\
-    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 minute.\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
     \ The creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Bite"
@@ -72,8 +72,8 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
     \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage."
   "name": "Claws"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/60 ft., one\
-    \ Large or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
-    \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ Large or smaller creature. Hit: The creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ creature can make a DC 11 Strength check, escaping from the webbing on a success.\
     \ The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points,\
     \ is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage."
@@ -90,7 +90,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 - "EGW"
 - "CM"
 - "WBtW"
-"image": "compendium/bestiary/monstrosity/token/ettercap.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/ettercap.png"
 ```
 ^statblock
 

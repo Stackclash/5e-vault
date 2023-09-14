@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
 - spell/class/cleric/death-domain
+- spell/class/druid/circle-of-spores
 - spell/class/fighter/eldritch-knight
 - spell/class/paladin/oathbreaker
 - spell/class/rogue/arcane-trickster
@@ -30,6 +31,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
-**Classes**: [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Cleric Death Domain.md\|Cleric (Death Domain)]], [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of Spores (TCE).md\|Druid (Circle of Spores)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 212. Available in the SRD.*

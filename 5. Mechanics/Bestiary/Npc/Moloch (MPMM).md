@@ -19,7 +19,7 @@ For eons, Moloch ruled his domain, vying against the other archdevils as he soug
 
 Moloch wasted no time in preparing for his return. He amassed an army of devils and monsters and left them to make final preparations for invading the Nine Hells, while he ventured to the Material Plane in search of an artifact that would ensure his success. But while there, he became trapped, leaving his armies at the mercy of his enemies. They were destroyed in short order.
 
-Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
+Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [[5. Mechanics/Bestiary/Fiend/Imp.md|imp]] and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
 
 Rumors suggest that he can often be found in Sigil, where he bargains with yugoloths to build yet another army with which he might invade Malbolge and wrest the throne from Glasya. Bereft as he is, he has little to offer in exchange, so he might bargain with mortals to gain their aid in acquiring coin, jewels, and other riches in return for knowledge about the Nine Hells and the other planes.
 
@@ -61,11 +61,11 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
 "traits":
 - "desc": "Moloch casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Alter Self.md\|alter self]] (can become Medium when changing\
-    \ his appearance), [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Major Image.md\|major image]],\
-    \ [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]],\
-    \ [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]"
+    \ [[5. Mechanics/Spells/Alter Self.md|alter self]] (can become Medium when changing\
+    \ his appearance), [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Major Image.md|major image]],\
+    \ [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
+    \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
   "name": "spells"
 - "desc": "If Moloch fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -94,11 +94,11 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
   "name": "Many-Tailed Whip"
 - "desc": "Moloch exhales in a 30-foot cube. Each creature in that area must succeed\
     \ on a DC 21 Wisdom saving throw or take 27 (dice: 5d10|avg (5d10)) psychic\
-    \ damage, drop whatever it is holding, and become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of Moloch for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ in this way, a creature must take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]]\
+    \ damage, drop whatever it is holding, and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of Moloch for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ in this way, a creature must take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
     \ action and move away from Moloch by the safest available route on each of its\
-    \ turns, unless there is nowhere to move, in which case it needn't take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]]\
+    \ turns, unless there is nowhere to move, in which case it needn't take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
     \ action. If the creature ends its turn in a location where it doesn't have line\
     \ of sight to Moloch, the creature can repeat the saving throw, ending the effect\
     \ on itself on a success."
@@ -116,6 +116,6 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/npc/token/moloch.png"
+"image": "5. Mechanics/Bestiary/Npc/token/moloch.png"
 ```
 ^statblock

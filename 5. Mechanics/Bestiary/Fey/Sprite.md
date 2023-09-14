@@ -63,9 +63,9 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 40/160 ft., one\
     \ target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 minute. If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ target falls [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for\
+    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for\
     \ the same duration, or until it takes damage or another creature takes an action\
     \ to shake it awake."
   "name": "Shortbow"
@@ -74,10 +74,10 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
     \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
     \ fail the saving throw."
   "name": "Heart Sight"
-- "desc": "The sprite magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
-    \ until it attacks or casts a spell, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+- "desc": "The sprite magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks or casts a spell, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ ends (as if concentrating on a spell). Any equipment the sprite wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "MM"
@@ -90,7 +90,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - "CM"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/fey/token/sprite.png"
+"image": "5. Mechanics/Bestiary/Fey/token/sprite.png"
 ```
 ^statblock
 

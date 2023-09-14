@@ -55,11 +55,11 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 "traits":
 - "desc": "The empyrean's innate spellcasting ability is Charisma (spell save DC 23,\
     \ dice: d20+15 (+15 to hit) with spell attacks). It can innately cast the following\
-    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]],\
-    \ [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], [[5. Mechanics/Spells/Water Breathing.md\|water breathing]],\
-    \ [[5. Mechanics/Spells/Water Walk.md\|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md\|commune]],\
-    \ [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]], [[5. Mechanics/Spells/Earthquake.md\|earthquake]],\
-    \ [[5. Mechanics/Spells/Fire Storm.md\|fire storm]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]\
+    \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+    \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
+    \ [[5. Mechanics/Spells/Water Walk.md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
+    \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Earthquake.md|earthquake]],\
+    \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only)"
   "name": "innate"
 - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
@@ -72,7 +72,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
     \ Hit: 31 (dice: 6d6 + 10|avg (6d6 + 10)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ is a creature, it must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the empyrean's next turn."
   "name": "Maul"
 - "desc": "Ranged Spell Attack: dice: d20+15 (+15 to hit), range 600 ft., one\
@@ -83,13 +83,13 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - "desc": "The empyrean makes one attack."
   "name": "Attack"
 - "desc": "The empyrean bolsters all nonhostile creatures within 120 feet of it until\
-    \ the end of its next turn. Bolstered creatures can't be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and they gain advantage\
+    \ the end of its next turn. Bolstered creatures can't be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and they gain advantage\
     \ on ability checks and saving throws until the end of the empyrean's next turn."
   "name": "Bolster"
 - "desc": "The empyrean strikes the ground with its maul, triggering an earth tremor.\
     \ All other creatures on the ground within 60 feet of the empyrean must succeed\
-    \ on a DC 25 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ on a DC 25 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Trembling Strike (Costs 2 Actions)"
 "source":
 - "MM"
@@ -97,6 +97,6 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - "WDMM"
 - "BGDIA"
 - "MOT"
-"image": "compendium/bestiary/celestial/token/empyrean.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/empyrean.png"
 ```
 ^statblock

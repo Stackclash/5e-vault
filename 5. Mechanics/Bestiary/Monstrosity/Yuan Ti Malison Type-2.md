@@ -85,8 +85,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "traits":
 - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13).\
     \ The yuan-ti can innately cast the following spells, requiring no material components:\n\
-    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes\
-    \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \nAt will: [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes\
+    \ only)\n\n3/day: [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "innate"
 - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
     \ into its true form. Its statistics are the same in each form. Any equipment\

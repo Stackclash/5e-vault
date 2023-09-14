@@ -57,15 +57,15 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 "traits":
 - "desc": "The ki-rin casts one of the following spells, requiring no material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Major Image.md\|major image]]\
-    \ (6th-level version), [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\n1/day\
-    \ each: [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]],\
-    \ [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [greater\
-    \ restoration](compendium/spells/greater-restoration.md), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]],\
-    \ [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]],\
-    \ [[5. Mechanics/Spells/Revivify.md\|revivify]], [[5. Mechanics/Spells/Wind Walk.md\|wind walk]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [[5. Mechanics/Spells/Sending.md\|sending]]"
+    \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Major Image.md|major image]]\
+    \ (6th-level version), [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day\
+    \ each: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]], [greater\
+    \ restoration](compendium/spells/greater-restoration.md), [[5. Mechanics/Spells/Plane Shift.md|plane shift]],\
+    \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+    \ [[5. Mechanics/Spells/Revivify.md|revivify]], [[5. Mechanics/Spells/Wind Walk.md|wind walk]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Sending.md|sending]]"
   "name": "spells"
 - "desc": "If the ki-rin fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"

@@ -42,7 +42,7 @@ aliases: ["Gertruda"]
   "name": "Club"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/gertruda.png"
+"image": "5. Mechanics/Bestiary/Npc/token/gertruda.png"
 ```
 ^statblock
 

@@ -46,9 +46,9 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 "languages": "Aquan, Ignan"
 "cr": "1/4"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Blur.md\|blur]], requiring\
+- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Blur.md|blur]], requiring\
     \ no material components. Its innate spellcasting ability is Charisma.\n\nAt\
-    \ will: [[5. Mechanics/Spells/Blur.md\|blur]]"
+    \ will: [[5. Mechanics/Spells/Blur.md|blur]]"
   "name": "innate"
 - "desc": "When the mephit dies, it explodes in a cloud of steam. Each creature within\
     \ 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take\

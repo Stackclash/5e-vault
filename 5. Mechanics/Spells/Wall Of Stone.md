@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer
 - spell/class/druid
 - spell/class/druid/circle-of-the-land
 - spell/class/sorcerer
+- spell/class/warlock/the-genie
 - spell/class/wizard
 - spell/level/5
 - spell/school/evocation
@@ -31,6 +33,6 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]] on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer (TCE).md\|Artificer]], [[5. Mechanics/Classes/Druid Circle Of The Land.md\|Druid (Circle of the Land)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Sorcerer.md\|Sorcerer]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 287. Available in the SRD and the Basic Rules.*

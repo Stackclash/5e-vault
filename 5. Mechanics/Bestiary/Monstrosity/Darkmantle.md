@@ -41,7 +41,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The darkmantle can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]."
+- "desc": "The darkmantle can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "While the darkmantle remains motionless, it is indistinguishable from a\
     \ cave formation such as a stalactite or stalagmite."
@@ -51,7 +51,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
     \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage, and the darkmantle\
     \ attaches to the target. If the target is Medium or smaller and the darkmantle\
     \ has advantage on the attack roll, it attaches by engulfing the target's head,\
-    \ and the target is also [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] and\
+    \ and the target is also [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\
     \ unable to breathe while the darkmantle is attached in this way.\n\nWhile attached\
     \ to the target, the darkmantle can attack no other creature except the target\
     \ but has advantage on its attack rolls. The darkmantle's speed also becomes 0,\
@@ -62,7 +62,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
   "name": "Crush"
 - "desc": "A 15-foot radius of magical darkness extends out from the darkmantle, moves\
     \ with it, and spreads around corners. The darkness lasts as long as the darkmantle\
-    \ maintains [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]], up\
+    \ maintains [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]], up\
     \ to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this\
     \ darkness, and no natural light can illuminate it. If any of the darkness overlaps\
     \ with an area of light created by a spell of 2nd level or lower, the spell creating\
@@ -74,7 +74,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 - "WDMM"
 - "WBtW"
 - "KftGV"
-"image": "compendium/bestiary/monstrosity/token/darkmantle.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/darkmantle.png"
 ```
 ^statblock
 

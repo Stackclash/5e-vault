@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-item
+cssclasses: json5e-item
 tags:
 - compendium/src/5e/vrgr
 - item/gear

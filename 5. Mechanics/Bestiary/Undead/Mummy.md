@@ -8,7 +8,7 @@ tags:
 aliases: ["Mummy"]
 ---
 # Mummy
-*Source: Monster Manual p. 228. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -83,14 +83,14 @@ A mummy doesn't require air, food, drink, or sleep.
     \ target can't regain hit points, and its hit point maximum decreases by 10 (dice:\
     \ 3d6|avg (3d6)) for every 24 hours that elapse. If the curse reduces the target's\
     \ hit point maximum to 0, the target dies, and its body turns to dust. The curse\
-    \ lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]\
+    \ lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
     \ spell or other magic."
   "name": "Rotting Fist"
 - "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
     \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
-    \ this magic or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ this magic or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of the mummy's next turn. If the target fails the saving throw\
-    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ by 5 or more, it is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ for the same duration. A target that succeeds on the saving throw is immune\
     \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours."
   "name": "Dreadful Glare"
@@ -107,7 +107,7 @@ A mummy doesn't require air, food, drink, or sleep.
 - "CM"
 - "DSotDQ"
 - "PSI"
-"image": "compendium/bestiary/undead/token/mummy.png"
+"image": "5. Mechanics/Bestiary/Undead/token/mummy.png"
 ```
 ^statblock
 

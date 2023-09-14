@@ -44,7 +44,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
   "name": "Flail"
 - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
     \ 18 (dice: 4d8|avg (4d8)) lightning damage, and the target must succeed on\
-    \ a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the myrmidon's next turn."
   "name": "Lightning Strike (Recharge 6)"
 "source":

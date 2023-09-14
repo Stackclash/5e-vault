@@ -57,14 +57,14 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 "traits":
 - "desc": "The couatl's spellcasting ability is Charisma (spell save DC 14). It can\
     \ innately cast the following spells, requiring only verbal components:\n\nAt\
-    \ will: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [detect\
-    \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dream.md\|dream]], [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]],\
-    \ [[5. Mechanics/Spells/Scrying.md\|scrying]]\n\n3/day each: [[5. Mechanics/Spells/Bless.md\|bless]],\
-    \ [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]],\
-    \ [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [protection from\
-    \ poison](compendium/spells/protection-from-poison.md), [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]],\
-    \ [[5. Mechanics/Spells/Shield.md\|shield]]"
+    \ will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [detect\
+    \ magic](compendium/spells/detect-magic.md), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+    \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n3/day each: [[5. Mechanics/Spells/Bless.md|bless]],\
+    \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
+    \ poison](compendium/spells/protection-from-poison.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]],\
+    \ [[5. Mechanics/Spells/Shield.md|shield]]"
   "name": "innate"
 - "desc": "The couatl's weapon attacks are magical."
   "name": "Magic Weapons"
@@ -74,14 +74,14 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
     \ Hit: 8 (dice: 1d6 + 5|avg (1d6 + 5)) piercing damage, and the target must\
-    \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 24 hours. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]].\
+    \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 24 hours. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]].\
     \ Another creature can use an action to shake the target awake."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one Medium\
     \ or smaller creature. Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning\
-    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the couatl can't constrict another target."
   "name": "Constrict"
 - "desc": "The couatl magically polymorphs into a humanoid or beast that has a challenge\
@@ -103,7 +103,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 - "EGW"
 - "IDRotF"
 - "PSX"
-"image": "compendium/bestiary/celestial/token/couatl.png"
+"image": "5. Mechanics/Bestiary/Celestial/token/couatl.png"
 ```
 ^statblock
 

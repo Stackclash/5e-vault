@@ -43,17 +43,17 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "5"
 "traits":
 - "desc": "The transmuter casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Light.md\|light]],\
-    \ [[5. Mechanics/Spells/Message.md\|message]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]\n\n2/day each:\
-    \ [[5. Mechanics/Spells/Fireball.md\|fireball]], [[5. Mechanics/Spells/Hold Person.md\|hold person]],\
-    \ [[5. Mechanics/Spells/Knock.md\|knock]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]],\
-    \ [[5. Mechanics/Spells/Polymorph.md\|polymorph]], [[5. Mechanics/Spells/Slow.md\|slow]]"
+    \ the spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Light.md|light]],\
+    \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\n2/day each:\
+    \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
+    \ [[5. Mechanics/Spells/Knock.md|knock]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]], [[5. Mechanics/Spells/Slow.md|slow]]"
   "name": "spells"
 - "desc": "The transmuter carries a magic stone it crafted. The stone grants it one\
     \ of the following benefits while bearing the stone; the transmuter chooses the\
     \ benefit at the end of each long rest:\n\n- Darkvision. The transmuter has\
-    \ [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet.\
+    \ [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]] out to a range of 60 feet.\
     \  \n- Resilience. The transmuter has proficiency in Constitution saving throws.\
     \   \n- Resistance. Resistance. The transmuter has resistance to acid, cold,\
     \ fire, lightning, or thunder damage (transmuter's choice whenever choosing this\
@@ -68,7 +68,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ acid damage."
   "name": "Arcane Burst"
 "bonus_actions":
-- "desc": "The transmuter casts [[5. Mechanics/Spells/Alter Self.md\|alter self]] or changes\
+- "desc": "The transmuter casts [[5. Mechanics/Spells/Alter Self.md|alter self]] or changes\
     \ the benefit of Transmuter's Stone if bearing the stone."
   "name": "Transmute (Recharge 4-6)"
 "source":

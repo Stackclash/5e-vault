@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/sorcerer
 - compendium/src/5e/phb
@@ -15,9 +15,9 @@ aliases: ["Sorcerer"]
 > |-------|----|----------|
 > | 1st | +2 | [Spellcasting](#Spellcasting%20(Level%201)), [Sorcerous Origin](#Sorcerous%20Origin%20(Level%201)) |
 > | 2nd | +2 | [Font of Magic](#Font%20of%20Magic%20(Level%202)) |
-> | 3rd | +2 | [Metamagic](#Metamagic%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
-> | 5th | +3 | ⏤ |
+> | 3rd | +2 | [Metamagic](#Metamagic%20(Level%203)), [Metamagic Options](#Metamagic%20Options%20(Level%203)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Sorcerous Versatility](#Sorcerous%20Versatility%20(Level%204)) |
+> | 5th | +3 | [Magical Guidance](#Magical%20Guidance%20(Level%205)) |
 > | 6th | +3 | [Sorcerous Origin feature](#Sorcerous%20Origin%20feature%20(Level%206)) |
 > | 7th | +3 | ⏤ |
 > | 8th | +3 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%208)) |
@@ -306,11 +306,35 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 - [[5. Mechanics/Optional Features/Subtle Spell.md\|Subtle Spell]]  
 - [[5. Mechanics/Optional Features/Twinned Spell.md\|Twinned Spell]]  
 
+### Metamagic Options (Level 3)
+_Source: Tasha's Cauldron of Everything p. 65_
+
+*3rd-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+When you choose Metamagic options, you have access to the following additional options.
+
 ### Ability Score Improvement (Level 4)
 
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
+
+### Sorcerous Versatility (Level 4)
+_Source: Tasha's Cauldron of Everything p. 65_
+
+*4th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
+
+- Replace one of the options you chose for the Metamagic feature with a different [[5. Mechanics/Optional Features/List Metamagic.md\|Metamagic option]] available to you.  
+- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.  
+
+### Magical Guidance (Level 5)
+_Source: Tasha's Cauldron of Everything p. 65_
+
+*5th-level sorcerer [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `dice: d20|avg` (`d20`), and you must use the new roll, potentially turning the failure into a success.
 
 ### Sorcerous Origin feature (Level 6)
 

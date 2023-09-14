@@ -53,13 +53,13 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "cr": "17"
 "traits":
 - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Message.md\|message]],\
-    \ [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]]\n\n1/day each: [dominate\
-    \ person](compendium/spells/dominate-person.md), [[5. Mechanics/Spells/Etherealness.md\|etherealness]],\
-    \ [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md\|fireball]],\
-    \ [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Hold Person.md\|hold person]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]"
+    \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
+    \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [dominate\
+    \ person](compendium/spells/dominate-person.md), [[5. Mechanics/Spells/Etherealness.md|etherealness]],\
+    \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
   "name": "spells"
 "actions":
 - "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
@@ -75,20 +75,20 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "bonus_actions":
 - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
     \ must make a DC 20 Charisma saving throw. An evil creature makes the save with\
-    \ disadvantage. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ disadvantage. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ by the nagpa until the start of the nagpa's next turn. On a successful save,\
     \ the target becomes immune to the nagpa's Corruption for the next 24 hours."
   "name": "Corruption"
 - "desc": "The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom\
     \ saving throw, excluding Undead and Constructs. On a failed save, a target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success."
   "name": "Paralysis (Recharge 6-6)"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/monstrosity/token/nagpa.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/nagpa.png"
 ```
 ^statblock
 

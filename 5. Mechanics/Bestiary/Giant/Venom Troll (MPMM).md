@@ -61,7 +61,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
     \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 4 (dice: 1d8|avg\
-    \ (1d8)) poison damage, and the creature is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ (1d8)) poison damage, and the creature is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ until the start of the troll's next turn."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
@@ -72,9 +72,9 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
     \ cube. The troll takes 7 (dice: 2d6|avg (2d6)) slashing damage (this damage\
     \ can't be reduced in any way). Each creature in the area must make a DC 16 Constitution\
     \ saving throw. On a failed save, a creature takes 18 (dice: 4d8|avg (4d8))\
-    \ poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for\
+    \ poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
     \ 1 minute. On a successful save, the creature takes half as much damage and isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. A [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. A [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success."
   "name": "Venom Spray (Recharge 6)"

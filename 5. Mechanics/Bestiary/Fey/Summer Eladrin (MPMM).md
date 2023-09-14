@@ -29,7 +29,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Summer Eladrin"
@@ -58,7 +58,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
 - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
     \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] of the eladrin for\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] of the eladrin for\
     \ 1 minute. A creature can repeat the saving throw at the end of each of its turns,\
     \ ending the effect on itself on a success. If a creature's saving throw is successful\
     \ or the effect ends for it, the creature is immune to any eladrin's Fearsome\

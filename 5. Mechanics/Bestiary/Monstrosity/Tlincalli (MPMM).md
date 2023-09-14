@@ -55,23 +55,23 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
     \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage, and the target is\
-    \ [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 11) if it is\
-    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 11) if it is\
+    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the tlincalli can't use the spiked chain against another target."
   "name": "Spiked Chain"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
     \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 14 (dice: 4d6|avg\
     \ (4d6)) poison damage, and the target must succeed on a DC 14 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for\
-    \ 1 minute. If it fails the saving throw by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]. The target can repeat\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for\
+    \ 1 minute. If it fails the saving throw by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success."
   "name": "Sting"
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/monstrosity/token/tlincalli.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/tlincalli.png"
 ```
 ^statblock
 

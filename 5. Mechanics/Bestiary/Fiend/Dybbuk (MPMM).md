@@ -47,7 +47,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 "traits":
 - "desc": "The dybbuk casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Dimension Door.md\|dimension door]]\n\n3/day: [phantasmal\
+    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n3/day: [phantasmal\
     \ force](compendium/spells/phantasmal-force.md)"
   "name": "spells"
 - "desc": "The dybbuk can move through other creatures and objects as if they were\
@@ -76,8 +76,8 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\
     \ unnatural, such as vomit blood, twist its head all the way around, or cause\
     \ a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior\
-    \ must succeed on a DC 12 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of the dybbuk for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ must succeed on a DC 12 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of the dybbuk for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ creature can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success. A creature that succeeds on a saving throw\
     \ against this ability is immune to Control Corpse for 24 hours."
@@ -85,7 +85,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/dybbuk.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/dybbuk.png"
 ```
 ^statblock
 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/rogue
 - compendium/src/5e/phb
@@ -15,7 +15,7 @@ aliases: ["Rogue"]
 > |-------|----|----------|
 > | 1st | +2 | [Expertise](#Expertise%20(Level%201)), [Sneak Attack](#Sneak%20Attack%20(Level%201)), [Thieves' Cant](#Thieves'%20Cant%20(Level%201)) |
 > | 2nd | +2 | [Cunning Action](#Cunning%20Action%20(Level%202)) |
-> | 3rd | +2 | [Roguish Archetype](#Roguish%20Archetype%20(Level%203)) |
+> | 3rd | +2 | [Roguish Archetype](#Roguish%20Archetype%20(Level%203)), [Steady Aim](#Steady%20Aim%20(Level%203)) |
 > | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | [Uncanny Dodge](#Uncanny%20Dodge%20(Level%205)) |
 > | 6th | +3 | [Expertise](#Expertise%20(Level%206)) |
@@ -237,6 +237,13 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 ### Roguish Archetype (Level 3)
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+
+### Steady Aim (Level 3)
+_Source: Tasha's Cauldron of Everything p. 62_
+
+*3rd-level rogue [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
 ### Ability Score Improvement (Level 4)
 

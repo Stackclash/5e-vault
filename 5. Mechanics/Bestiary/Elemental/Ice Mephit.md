@@ -50,9 +50,9 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 "languages": "Aquan, Auran"
 "cr": "1/2"
 "traits":
-- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]],\
+- "desc": "The mephit can innately cast [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
     \ requiring no material components. Its innate spellcasting ability is Charisma.\n\
-    \nAt will: [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]]"
+    \nAt will: [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]"
   "name": "innate"
 - "desc": "When the mephit dies, it explodes in a burst of jagged ice. Each creature\
     \ within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (dice:\

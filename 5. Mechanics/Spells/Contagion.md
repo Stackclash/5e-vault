@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
 - spell/class/druid
+- spell/class/druid/circle-of-spores
 - spell/class/paladin/oathbreaker
 - spell/class/sorcerer/divine-soul
 - spell/level/5
@@ -51,6 +52,6 @@ The creature begins to bleed uncontrollably. The creature has disadvantage on Co
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
+**Classes**: [[5. Mechanics/Classes/Cleric.md\|Cleric]], [[5. Mechanics/Classes/Druid Circle Of Spores (TCE).md\|Druid (Circle of Spores)]], [[5. Mechanics/Classes/Druid.md\|Druid]], [[5. Mechanics/Classes/Paladin Oathbreaker.md\|Paladin (Oathbreaker)]], [[5. Mechanics/Classes/Sorcerer Divine Soul (XGE).md\|Sorcerer (Divine Soul)]]
 
 *Source: Player's Handbook p. 227. Available in the SRD.*

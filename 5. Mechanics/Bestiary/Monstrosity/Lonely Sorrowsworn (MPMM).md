@@ -53,11 +53,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 60 ft., one target.\
     \ Hit: 21 (dice: 4d8 + 3|avg (4d8 + 3)) piercing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 15) if it\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) if it\
     \ is a Large or smaller creature. The sorrowsworn has two harpoon arms and can\
     \ grapple up to two creatures at once."
   "name": "Harpoon Arm"
-- "desc": "Each creature [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] by the\
+- "desc": "Each creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the\
     \ sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (dice: 4d8|avg\
     \ (4d8)) psychic damage on a failed save, or half as much damage on a successful\
     \ one. In either case, the sorrowsworn pulls each of those creatures up to 30\

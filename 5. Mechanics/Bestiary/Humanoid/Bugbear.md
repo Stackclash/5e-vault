@@ -10,7 +10,7 @@ tags:
 aliases: ["Bugbear"]
 ---
 # Bugbear
-*Source: Monster Manual p. 33. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 33, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
@@ -83,7 +83,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "WBtW"
 - "CRCotN"
 - "KftGV"
-"image": "compendium/bestiary/humanoid/token/bugbear.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear.png"
 ```
 ^statblock
 

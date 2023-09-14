@@ -54,10 +54,10 @@ A Strahd zombie doesn't require air or sleep.
     \ speed of 5 feet.\n\nA severed arm has a speed of 5 feet and can make one claw\
     \ attack on its turn, with disadvantage on the attack roll. Each time the zombie\
     \ loses an arm, it loses a claw attack.\n\nIf its head is severed, the zombie\
-    \ loses its bite attack and its body is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
+    \ loses its bite attack and its body is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ unless the head can see it. The severed head has a speed of 0 feet. It can make\
     \ a bite attack, but only against a target in its space.\n\nThe zombie's speed\
-    \ is halved if it's missing a leg. If it loses both legs, it falls [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ is halved if it's missing a leg. If it loses both legs, it falls [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ If it has both arms, it can crawl. With only one arm, it can still crawl, but\
     \ its speed is halved. With no arms or legs, its speed is 0 feet, and it can't\
     \ benefit from bonuses to speed."

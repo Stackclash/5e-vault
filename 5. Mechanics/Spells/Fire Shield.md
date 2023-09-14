@@ -1,11 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-spell
+cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/artificer/armorer
+- spell/class/artificer/battle-smith
+- spell/class/druid/circle-of-wildfire
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/warlock/the-fiend
+- spell/class/warlock/the-genie
 - spell/class/wizard
 - spell/level/4
 - spell/school/evocation
@@ -25,6 +29,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice: 2d8|avg` (`2d8`) fire damage from a warm shield, or `dice: 2d8|avg` (`2d8`) cold damage from a cold shield.
 
-**Classes**: [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
+**Classes**: [[5. Mechanics/Classes/Artificer Armorer (TCE).md\|Artificer (Armorer)]], [[5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Artificer (Battle Smith)]], [[5. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md\|Druid (Circle of Wildfire)]], [[5. Mechanics/Classes/Fighter Eldritch Knight.md\|Fighter (Eldritch Knight)]], [[5. Mechanics/Classes/Rogue Arcane Trickster.md\|Rogue (Arcane Trickster)]], [[5. Mechanics/Classes/Warlock The Fiend.md\|Warlock (The Fiend)]], [[5. Mechanics/Classes/Warlock The Genie (TCE).md\|Warlock (The Genie)]], [[5. Mechanics/Classes/Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 242. Available in the SRD.*

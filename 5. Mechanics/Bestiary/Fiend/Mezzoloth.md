@@ -93,8 +93,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "traits":
 - "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
     \ 11). The mezzoloth can innately cast the following spells, requiring no material\
-    \ components:\n\n1/day: [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]]\n\n2/day\
-    \ each: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]"
+    \ components:\n\n1/day: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]\n\n2/day\
+    \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]"
   "name": "innate"
 - "desc": "The mezzoloth has advantage on saving throws against spells and other magical\
     \ effects."
@@ -122,6 +122,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "ToA"
 - "WDMM"
 - "BGDIA"
-"image": "compendium/bestiary/fiend/token/mezzoloth.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/mezzoloth.png"
 ```
 ^statblock

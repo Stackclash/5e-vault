@@ -34,12 +34,12 @@ aliases: ["Vulture"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The vulture has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The vulture has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 - "desc": "The vulture has advantage on an attack roll against a creature if at least\
     \ one of the vulture's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
@@ -52,7 +52,7 @@ aliases: ["Vulture"]
 - "BGDIA"
 - "CM"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/vulture.png"
+"image": "5. Mechanics/Bestiary/Beast/token/vulture.png"
 ```
 ^statblock
 

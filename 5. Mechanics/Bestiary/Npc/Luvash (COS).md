@@ -59,7 +59,7 @@ aliases: ["Luvash"]
   "name": "Parry"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/luvash.png"
+"image": "5. Mechanics/Bestiary/Npc/token/luvash.png"
 ```
 ^statblock
 

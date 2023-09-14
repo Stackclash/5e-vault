@@ -35,7 +35,7 @@ aliases: ["Boar"]
 - "desc": "If the boar moves at least 20 feet straight toward a target and then hits\
     \ it with a tusk attack on the same turn, the target takes an extra 3 (dice:\
     \ 1d6|avg (1d6)) slashing damage. If the target is a creature, it must succeed\
-    \ on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "If the boar takes 7 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
@@ -53,7 +53,7 @@ aliases: ["Boar"]
 - "MOT"
 - "CM"
 - "WBtW"
-"image": "compendium/bestiary/beast/token/boar.png"
+"image": "5. Mechanics/Bestiary/Beast/token/boar.png"
 ```
 ^statblock
 

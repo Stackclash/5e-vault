@@ -7,11 +7,11 @@ tags:
 aliases: ["Imp"]
 ---
 # Imp
-*Source: Monster Manual p. 76, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
 
-An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], attacking with its poison stinger.
+An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]], attacking with its poison stinger.
 
 > [!quote] Variant: Imp Familiar
 > 
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!quote] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -187,10 +187,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ make a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
     \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
-- "desc": "The imp magically turns [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
-    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration\|concentration]]\
+- "desc": "The imp magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
+    \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
     \ ends (as if concentrating on a spell). Any equipment the imp wears or carries\
-    \ is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with it."
+    \ is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] with it."
   "name": "Invisibility"
 "source":
 - "MM"
@@ -205,6 +205,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "CM"
 - "KftGV"
 - "PSI"
-"image": "compendium/bestiary/fiend/token/imp.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/imp.png"
 ```
 ^statblock

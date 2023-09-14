@@ -42,7 +42,7 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The carrion crawler has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The carrion crawler has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on smell."
   "name": "Keen Smell"
 - "desc": "The carrion crawler can climb difficult surfaces, including upside down\
@@ -54,8 +54,8 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
     \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) poison damage, and the target must\
-    \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]].\
+    \ succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the poison on itself on a success."
   "name": "Tentacles"

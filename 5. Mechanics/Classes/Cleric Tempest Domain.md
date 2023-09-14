@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/cleric/tempest
 - compendium/src/5e/phb
@@ -54,6 +54,13 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 ### Divine Strike (Level 8)
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice: 1d8|avg` (`1d8`) thunder damage to the target. When you reach 14th level, the extra damage increases to `dice: 2d8|avg` (`2d8`).
+
+### Blessed Strikes (Level 8)
+_Source: Tasha's Cauldron of Everything p. 30_
+
+*8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]], which replaces the Divine Strike feature*
+
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice: 1d8|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Stormborn (Level 17)
 

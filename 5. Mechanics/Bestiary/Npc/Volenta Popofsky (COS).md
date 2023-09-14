@@ -50,7 +50,7 @@ aliases: ["Volenta Popofsky"]
     \ a residence without an invitation from one of the occupants.\n\nHarmed by Running\
     \ Water. Volenta takes 20 acid damage when it ends its turn in running water.\n\
     \nStake to the Heart. Volenta is destroyed if a piercing weapon made of wood\
-    \ is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ in its resting place.\n\nSunlight Hypersensitivity. Volenta takes 20 radiant\
     \ damage when it starts its turn in sunlight. While in sunlight, it has disadvantage\
     \ on attack rolls and ability checks."
@@ -59,9 +59,9 @@ aliases: ["Volenta Popofsky"]
 - "desc": "Volenta makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
-    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ by Volenta, [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]. Hit: 6 (dice:\
+    \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ by Volenta, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: 6 (dice:\
     \ 1d6 + 3|avg (1d6 + 3)) piercing damage plus 7 (dice: 2d6|avg (2d6)) necrotic\
     \ damage. The target's hit point maximum is reduced by an amount equal to the\
     \ necrotic damage taken, and Volenta regains hit points equal to that amount.\

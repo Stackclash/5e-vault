@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/fighter/battle-master
 - compendium/src/5e/phb
@@ -63,6 +63,13 @@ The maneuvers are presented in alphabetical order.
 - [[5. Mechanics/Optional Features/Riposte.md\|Riposte]]  
 - [[5. Mechanics/Optional Features/Sweeping Attack.md\|Sweeping Attack]]  
 - [[5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
+
+### Maneuver Options (Level 3)
+_Source: Tasha's Cauldron of Everything p. 41_
+
+*3rd-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]] fighting style or the [[5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
 
 ### Additional Maneuvers (Level 7)
 

@@ -43,8 +43,8 @@ aliases: ["Exethanter"]
 "traits":
 - "desc": "Exethanter is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks). Exethanter\
-    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]"
+    \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]"
   "name": "spells"
 - "desc": "If Exethanter fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -58,7 +58,7 @@ aliases: ["Exethanter"]
 "actions":
 - "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
     \ Hit: 10 (dice: 3d6|avg (3d6)) cold damage. The target must succeed on\
-    \ a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]]\
+    \ a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Touch"
@@ -69,8 +69,8 @@ aliases: ["Exethanter"]
   "name": "Paralyzing Touch (Costs 2 Actions)"
 - "desc": "Exethanter fixes its gaze on one creature it can see within 10 feet of\
     \ it. The target must succeed on a DC 18 Wisdom saving throw against this magic\
-    \ or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] for 1 minute.\
-    \ The [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]] target can repeat\
+    \ or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute.\
+    \ The [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] target can repeat\
     \ the saving throw at the end of each of its turns, ending the effect on itself\
     \ on a success. If a target's saving throw is successful or the effect ends for\
     \ it, the target is immune to Exethanter's gaze for the next 24 hours."
@@ -81,6 +81,6 @@ aliases: ["Exethanter"]
   "name": "Disrupt Life (Costs 3 Actions)"
 "source":
 - "CoS"
-"image": "compendium/bestiary/npc/token/exethanter.png"
+"image": "5. Mechanics/Bestiary/Npc/token/exethanter.png"
 ```
 ^statblock

@@ -10,7 +10,7 @@ tags:
 aliases: ["Water Elemental"]
 ---
 # Water Elemental
-*Source: Monster Manual p. 125. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 
@@ -72,12 +72,12 @@ An elemental doesn't require air, food, drink, or sleep.
   "name": "Slam"
 - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
     \ throw. On a failure, a target takes 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning\
-    \ damage. If it is Large or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
+    \ damage. If it is Large or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ and unable to breathe unless it can breathe water. If the saving throw is successful,\
     \ the target is pushed out of the elemental's space.\n\nThe elemental can grapple\
     \ one Large creature or up to two Medium or smaller creatures at one time. At\
-    \ the start of each of the elemental's turns, each target [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
+    \ the start of each of the elemental's turns, each target [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by it takes 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage. A creature\
     \ within 5 feet of the elemental can pull a creature or object out of it by taking\
     \ an action to make a DC 14 Strength check and succeeding."

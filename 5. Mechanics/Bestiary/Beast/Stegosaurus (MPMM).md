@@ -40,7 +40,7 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/beast/token/stegosaurus.png"
+"image": "5. Mechanics/Bestiary/Beast/token/stegosaurus.png"
 ```
 ^statblock
 

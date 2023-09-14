@@ -44,7 +44,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The hippogriff has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The hippogriff has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
@@ -63,7 +63,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 - "WDH"
 - "ERLW"
 - "EGW"
-"image": "compendium/bestiary/monstrosity/token/hippogriff.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/hippogriff.png"
 ```
 ^statblock
 

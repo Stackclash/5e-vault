@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/paladin
 - compendium/src/5e/phb
@@ -16,7 +16,7 @@ aliases: ["Paladin"]
 > | 1st | +2 | [Divine Sense](#Divine%20Sense%20(Level%201)), [Lay on Hands](#Lay%20on%20Hands%20(Level%201)) |
 > | 2nd | +2 | [Divine Smite](#Divine%20Smite%20(Level%202)), [Fighting Style](#Fighting%20Style%20(Level%202)), [Spellcasting](#Spellcasting%20(Level%202)) |
 > | 3rd | +2 | [Divine Health](#Divine%20Health%20(Level%203)), [Sacred Oath](#Sacred%20Oath%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Martial Versatility](#Martial%20Versatility%20(Level%204)) |
 > | 5th | +3 | [Extra Attack](#Extra%20Attack%20(Level%205)) |
 > | 6th | +3 | [Aura of Protection](#Aura%20of%20Protection%20(Level%206)) |
 > | 7th | +3 | [Sacred Oath feature](#Sacred%20Oath%20feature%20(Level%207)) |
@@ -304,6 +304,13 @@ When you use your Channel Divinity, you choose which option to use. You must the
 
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
+### Channel Divinity: Harness Divine Power (Level 3)
+_Source: Tasha's Cauldron of Everything p. 52_
+
+*3rd-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
+
 > [!quote] Breaking Your Oath
 > 
 > A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
@@ -318,6 +325,13 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
+
+### Martial Versatility (Level 4)
+_Source: Tasha's Cauldron of Everything p. 52_
+
+*4th-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [[5. Mechanics/Optional Features/List Fighting Style Paladin.md\|fighting style]] you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 
 ### Extra Attack (Level 5)
 

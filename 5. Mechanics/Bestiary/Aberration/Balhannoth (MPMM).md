@@ -55,25 +55,25 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
     \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]] (escape DC 15) and is\
+    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) and is\
     \ moved up to 5 feet toward the balhannoth. Until this grapple ends, the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], and the balhannoth\
+    \ is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the balhannoth\
     \ can't use this tentacle against other targets. The balhannoth has four tentacles."
   "name": "Tentacle"
 "legendary_actions":
-- "desc": "The balhannoth makes one Bite attack against one creature it has [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]."
+- "desc": "The balhannoth makes one Bite attack against one creature it has [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."
   "name": "Bite"
 - "desc": "The balhannoth teleports, along with any equipment it is wearing or carrying\
-    \ and any creatures it has [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]],\
+    \ and any creatures it has [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
     \ up to 60 feet to an unoccupied space it can see."
   "name": "Teleport"
-- "desc": "The balhannoth magically becomes [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]]\
+- "desc": "The balhannoth magically becomes [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 10 minutes or until immediately after it makes an attack roll."
   "name": "Vanish"
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/aberration/token/balhannoth.png"
+"image": "5. Mechanics/Bestiary/Aberration/token/balhannoth.png"
 ```
 ^statblock
 

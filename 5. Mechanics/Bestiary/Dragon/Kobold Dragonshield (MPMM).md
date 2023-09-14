@@ -48,8 +48,8 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
     \ acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass, gold,\
     \ or red); 7–8, lightning (blue or bronze); 9–10, poison (green)."
   "name": "Dragon's Resistance"
-- "desc": "If the kobold is [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] by an effect that\
+- "desc": "If the kobold is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] by an effect that\
     \ allows a saving throw, it can repeat the save at the start of its turn to end\
     \ the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits\
     \ from this trait (including the dragonshield) has advantage on its next attack\
@@ -57,10 +57,10 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
   "name": "Heart of the Dragon"
 - "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

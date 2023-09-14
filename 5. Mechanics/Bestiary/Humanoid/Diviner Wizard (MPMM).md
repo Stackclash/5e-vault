@@ -43,13 +43,13 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "8"
 "traits":
 - "desc": "The diviner casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Message.md\|message]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/True Seeing.md\|true seeing]]\n\n2/day each:\
-    \ [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Fly.md\|fly]],\
-    \ [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], [[5. Mechanics/Spells/Locate Object.md\|locate object]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]]"
+    \ spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n2/day each:\
+    \ [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Fly.md|fly]],\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Locate Object.md|locate object]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md|Rary's telepathic bond]]"
   "name": "spells"
 "actions":
 - "desc": "The diviner makes three Arcane Burst attacks."
@@ -61,9 +61,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - "desc": "The diviner magically creates a burst of illumination in a 10-foot-radius\
     \ sphere centered on a point within 120 feet of it. Each creature in that area\
     \ must make a DC 15 Wisdom saving throw. On a failed save, a creature takes 45\
-    \ (dice: 10d8|avg (10d8)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
+    \ (dice: 10d8|avg (10d8)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the diviner's next turn. On a successful save, the creature\
-    \ takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]."
+    \ takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]."
   "name": "Overwhelming Revelation (Recharge 5-6)"
 "reactions":
 - "desc": "When the diviner or a creature it can see makes an attack roll, a saving\

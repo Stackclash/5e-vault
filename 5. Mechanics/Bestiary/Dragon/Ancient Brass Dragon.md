@@ -123,7 +123,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ Hit: 17 (dice: 2d8 + 8|avg (2d8 + 8)) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ and aware of it must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -135,7 +135,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ (16d6)) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Sleep Breath. The dragon exhales sleep gas in a 90-foot cone.\
     \ Each creature in that area must succeed on a DC 21 Constitution saving throw\
-    \ or fall [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]] for 10 minutes.\
+    \ or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 10 minutes.\
     \ This effect ends for a creature if the creature takes damage or someone uses\
     \ an action to wake it.  "
   "name": "Breath Weapons (Recharge 5-6)"
@@ -150,14 +150,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ that form."
   "name": "Change Shape"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ check."
   "name": "Detect"
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 22 Dexterity saving throw or take 15 (dice: 2d6 + 8|avg\
-    \ (2d6 + 8)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\
+    \ (2d6 + 8)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":

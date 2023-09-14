@@ -44,17 +44,17 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "traits":
 - "desc": "The drow casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]], [[5. Mechanics/Spells/Darkness.md\|darkness]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Levitate.md\|levitate]]\
+    \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Darkness.md|darkness]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Levitate.md|levitate]]\
     \ (self only)"
   "name": "spells"
-- "desc": "Magical darkness doesn't impede the drow's [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]]."
+- "desc": "Magical darkness doesn't impede the drow's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -67,9 +67,9 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
   "name": "Shadow Sword"
 - "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
     \ target. Hit: 8 (dice: 1d6 + 5|avg (1d6 + 5)) piercing damage, and the\
-    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
-    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]\
-    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] in this way. The\
+    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
+    \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target regains consciousness if it takes damage or if another creature takes\
     \ an action to shake it."
   "name": "Hand Crossbow"

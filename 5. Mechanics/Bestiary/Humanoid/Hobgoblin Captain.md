@@ -94,7 +94,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "traits":
 - "desc": "Once per turn, the hobgoblin can deal an extra 10 (dice: 3d6|avg (3d6))\
     \ damage to a creature it hits with a weapon attack if that creature is within\
-    \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
 - "desc": "The hobgoblin makes two greatsword attacks."
@@ -110,7 +110,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\
     \ or a saving throw. The creature can add a dice: d4|avg (d4) to its roll\
     \ provided it can hear and understand the hobgoblin. A creature can benefit from\
-    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ only one Leadership die at a time. This effect ends if the hobgoblin is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Leadership (Recharges after a Short or Long Rest)"
 "source":
 - "MM"

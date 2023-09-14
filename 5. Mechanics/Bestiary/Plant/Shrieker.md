@@ -54,7 +54,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "MM"
 - "WDMM"
 - "GoS"
-"image": "compendium/bestiary/plant/token/shrieker.png"
+"image": "5. Mechanics/Bestiary/Plant/token/shrieker.png"
 ```
 ^statblock
 

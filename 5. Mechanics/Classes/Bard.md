@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/bard
 - compendium/src/5e/phb
@@ -14,9 +14,9 @@ aliases: ["Bard"]
 > | Level | PB | Features |
 > |-------|----|----------|
 > | 1st | +2 | [Bardic Inspiration](#Bardic%20Inspiration%20(Level%201)), [Spellcasting](#Spellcasting%20(Level%201)) |
-> | 2nd | +2 | [Jack of All Trades](#Jack%20of%20All%20Trades%20(Level%202)), [Song of Rest (d6)](#Song%20of%20Rest%20(d6)%20(Level%202)) |
+> | 2nd | +2 | [Jack of All Trades](#Jack%20of%20All%20Trades%20(Level%202)), [Song of Rest (d6)](#Song%20of%20Rest%20(d6)%20(Level%202)), [Magical Inspiration](#Magical%20Inspiration%20(Level%202)) |
 > | 3rd | +2 | [Bard College](#Bard%20College%20(Level%203)), [Expertise](#Expertise%20(Level%203)) |
-> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
+> | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)), [Bardic Versatility](#Bardic%20Versatility%20(Level%204)) |
 > | 5th | +3 | [Bardic Inspiration (d8)](#Bardic%20Inspiration%20(d8)%20(Level%205)), [Font of Inspiration](#Font%20of%20Inspiration%20(Level%205)) |
 > | 6th | +3 | [Countercharm](#Countercharm%20(Level%206)), [Bard College feature](#Bard%20College%20feature%20(Level%206)) |
 > | 7th | +3 | ⏤ |
@@ -290,6 +290,13 @@ Beginning at 2nd level, you can use soothing music or oration to help revitalize
 
 The extra hit points increase when you reach certain levels in this class: to `dice: 1d8|avg` (`1d8`) at 9th level, to `dice: 1d10|avg` (`1d10`) at 13th level, and to `dice: 1d12|avg` (`1d12`) at 17th level.
 
+### Magical Inspiration (Level 2)
+_Source: Tasha's Cauldron of Everything p. 27_
+
+*2nd-level bard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
+
 ### Bard College (Level 3)
 
 At 3rd level, you delve into the advanced techniques of a bard college of your choice from the list of available colleges. Your choice grants you features at 3rd level and again at 6th and 14th level.
@@ -305,6 +312,16 @@ At 10th level, you can choose another two skill proficiencies to gain this benef
 When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 If your DM allows the use of feats, you may instead take a feat.
+
+### Bardic Versatility (Level 4)
+_Source: Tasha's Cauldron of Everything p. 27_
+
+*4th-level bard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
+
+- Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.  
+- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the bard spell list.  
 
 ### Bardic Inspiration (d8) (Level 5)
 

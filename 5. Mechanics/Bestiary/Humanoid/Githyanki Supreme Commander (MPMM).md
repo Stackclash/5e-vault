@@ -12,7 +12,7 @@ aliases: ["Githyanki Supreme Commander"]
 # Githyanki Supreme Commander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141*  
 
-Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md\|red dragons]] into battle.
+Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|red dragons]] into battle.
 
 ## Githyanki
 
@@ -48,10 +48,10 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "traits":
 - "desc": "The githyanki casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
-    \ will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] (the hand is invisible)\n\
-    \n1/day each: [[5. Mechanics/Spells/Bigbys Hand.md\|Bigby's hand]], [[5. Mechanics/Spells/Mass Suggestion.md\|mass suggestion]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Levitate.md\|levitate]] (self only), [[5. Mechanics/Spells/Nondetection.md\|nondetection]]\
+    \ will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand is invisible)\n\
+    \n1/day each: [[5. Mechanics/Spells/Bigbys Hand.md|Bigby's hand]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Levitate.md|levitate]] (self only), [[5. Mechanics/Spells/Nondetection.md|nondetection]]\
     \ (self only)"
   "name": "spells"
 - "desc": "If the githyanki fails a saving throw, it can choose to succeed instead."
@@ -62,7 +62,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 - "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
     \ Hit: 14 (dice: 2d6 + 7|avg (2d6 + 7)) slashing damage plus 17 (dice:\
     \ 5d6|avg (5d6)) psychic damage. On a critical hit against a target in an astral\
-    \ body (as with the [[5. Mechanics/Spells/Astral Projection.md\|astral projection]]\
+    \ body (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
     \ spell), the githyanki can cut the silvery cord that tethers the target to its\
     \ material body, instead of dealing damage."
   "name": "Silver Greatsword"

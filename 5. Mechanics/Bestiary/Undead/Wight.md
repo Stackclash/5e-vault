@@ -61,7 +61,7 @@ A wight doesn't require air, food, drink, or sleep.
 "cr": "3"
 "traits":
 - "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -73,7 +73,7 @@ A wight doesn't require air, food, drink, or sleep.
     \ succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced\
     \ by an amount equal to the damage taken. This reduction lasts until the target\
     \ finishes a long rest. The target dies if this effect reduces its hit point maximum\
-    \ to 0.\n\nA humanoid slain by this attack rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]]\
+    \ to 0.\n\nA humanoid slain by this attack rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]\
     \ under the wight's control, unless the humanoid is restored to life or its body\
     \ is destroyed. The wight can have no more than twelve zombies under its control\
     \ at one time."
@@ -103,7 +103,7 @@ A wight doesn't require air, food, drink, or sleep.
 - "CM"
 - "DSotDQ"
 - "PSI"
-"image": "compendium/bestiary/undead/token/wight.png"
+"image": "5. Mechanics/Bestiary/Undead/token/wight.png"
 ```
 ^statblock
 

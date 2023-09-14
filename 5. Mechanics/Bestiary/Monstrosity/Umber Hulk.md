@@ -49,7 +49,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 "traits":
 - "desc": "When a creature starts its turn within 30 feet of the umber hulk and is\
     \ able to see the umber hulk's eyes, the umber hulk can magically force it to\
-    \ make a DC 15 Charisma saving throw, unless the umber hulk is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].\n\
+    \ make a DC 15 Charisma saving throw, unless the umber hulk is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\n\
     \nOn a failed saving throw, the creature can't take reactions until the start\
     \ of its next turn and rolls a dice: d8|avg (d8) to determine what it does\
     \ during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature\

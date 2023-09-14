@@ -51,7 +51,7 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "traits":
 - "desc": "The steel predator casts one of the following spells, requiring no spell\
     \ components and using Wisdom as the spellcasting ability:\n\n3/day each:\
-    \ [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] (self only), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]]\
+    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]] (self only), [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
     \ (self only)"
   "name": "spells"
 - "desc": "The steel predator has advantage on saving throws against spells and other\
@@ -71,10 +71,10 @@ If all goes according to plan, a steel predator slays its target and then volunt
 - "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
     \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
     \ takes 33 (dice: 6d10|avg (6d10)) thunder damage, drops everything it's holding,\
-    \ and is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] for 1 minute. The\
-    \ [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] creature can repeat the saving\
+    \ and is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] for 1 minute. The\
+    \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] creature can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success.\
-    \ On a successful save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]."
+    \ On a successful save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]."
   "name": "Stunning Roar (Recharge 5-6)"
 "source":
 - "MPMM"

@@ -38,10 +38,10 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
 "traits":
 - "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -54,10 +54,10 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
   "name": "Sling"
 - "desc": "The kobold uses one of the following options (choose one or roll a dice:\
     \ d8|avg (d8)); the kobold can use each one no more than once per day:\n\n\
-    - 1 Acid. The kobold hurls a [[5. Mechanics/Items/Acid Vial.md\|flask of acid]].\
+    - 1 Acid. The kobold hurls a [[5. Mechanics/Items/Acid Vial.md|flask of acid]].\
     \ Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 5/20 ft., one target.\
     \ Hit: 7 (dice: 2d6|avg (2d6)) acid damage.  \n- 2 Alchemist's Fire.\
-    \ The kobold throws a [[5. Mechanics/Items/Alchemists Fire Flask.md\|flask of alchemist's fire]].\
+    \ The kobold throws a [[5. Mechanics/Items/Alchemists Fire Flask.md|flask of alchemist's fire]].\
     \ Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 5/20 ft., one target.\
     \ Hit: 2 (dice: 1d4|avg (1d4)) fire damage at the start of each of the target's\
     \ turns. The target can end this damage by using its action to make a DC 10 Dexterity\
@@ -73,9 +73,9 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
     \ to scrape or wash the slime off. A target covered in the slime takes 5 (dice:\
     \ 1d10|avg (1d10)) acid damage at the start of each of its turns.  \n- 5\
     \ Rot Grub Pot. The kobold throws a clay pot into a 5-foot-square space within\
-    \ 20 feet of it, and it breaks open on impact. A [[5. Mechanics/Bestiary/Beast/Swarm Of Rot Grubs (MPMM).md\|swarm of rot grubs]]\
+    \ 20 feet of it, and it breaks open on impact. A [[5. Mechanics/Bestiary/Beast/Swarm Of Rot Grubs (MPMM).md|swarm of rot grubs]]\
     \ (in this book) emerges from the shattered pot and remains a hazard in that square.\
-    \  \n- 6 Scorpion on a Stick. The kobold makes a melee attack with a [[5. Mechanics/Bestiary/Beast/Scorpion.md\|scorpion]]\
+    \  \n- 6 Scorpion on a Stick. The kobold makes a melee attack with a [[5. Mechanics/Bestiary/Beast/Scorpion.md|scorpion]]\
     \ tied to the end of a 5-foot-long pole. Melee Weapon Attack: dice: d20+4\
     \ (+4 to hit), reach 5 ft., one target. Hit: 1 piercing damage, and the target\
     \ must make a DC 9 Constitution saving throw, taking 4 (dice: 1d8|avg (1d8))\
@@ -84,13 +84,13 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
     \ within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit\
     \ point, and no effective attacks. It rolls initiative and, on its turn, uses\
     \ its action to spray musk at a random creature within 5 feet of it. The target\
-    \ must succeed on a DC 9 Constitution saving throw, or it retches and is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]\
+    \ must succeed on a DC 9 Constitution saving throw, or it retches and is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. A creature that doesn't need\
     \ to breathe or is immune to poison automatically succeeds on the saving throw.\
     \ Once the skunk has sprayed its musk, it can't do so again until it finishes\
     \ a short or long rest.  \n- 8 Wasp Nest in a Bag. The kobold throws a small\
-    \ bag into a 5-foot-square space within 20 feet of it. A [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md\|swarm of insects (wasps)]]\
+    \ bag into a 5-foot-square space within 20 feet of it. A [[5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md|swarm of insects (wasps)]]\
     \ with 11 hit points emerges from the bag and rolls initiative. At the end of\
     \ each of the swarm's turns, there's a 50% chance chance that the swarm disperses.\
     \  "

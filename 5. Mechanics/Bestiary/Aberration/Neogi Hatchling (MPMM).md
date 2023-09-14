@@ -43,8 +43,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ or [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], and magic can't\
+- "desc": "The neogi has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], and magic can't\
     \ put the neogi to sleep."
   "name": "Mental Fortitude"
 - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -54,7 +54,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
     \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage plus 3 (dice: 1d6|avg\
     \ (1d6)) poison damage, and the target must succeed on a DC 10 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]]\
+    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. A target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Bite"

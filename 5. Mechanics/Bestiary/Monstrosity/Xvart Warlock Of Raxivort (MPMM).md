@@ -43,17 +43,17 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "traits":
 - "desc": "The xvart casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 11):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]]\
-    \ (self only), [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]]"
+    \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
+    \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Burning Hands.md|burning hands]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
   "name": "spells"
 - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
     \ hit points."
   "name": "Raxivort's Blessing"
-- "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md\|bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Rat.md\|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md\|giant bats]]\
-    \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md\|giant rats]]."
+- "desc": "The xvart can communicate with ordinary [[5. Mechanics/Bestiary/Beast/Bat.md|bats]]\
+    \ and [[5. Mechanics/Bestiary/Beast/Rat.md|rats]], as well as [[5. Mechanics/Bestiary/Beast/Giant Bat.md|giant bats]]\
+    \ and [[5. Mechanics/Bestiary/Beast/Giant Rat.md|giant rats]]."
   "name": "Raxivort's Tongue"
 "actions":
 - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
@@ -65,7 +65,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) poison damage."
   "name": "Raxivort's Bite"
 "bonus_actions":
-- "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]]\
+- "desc": "The xvart takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
     \ action."
   "name": "Low Cunning"
 "source":

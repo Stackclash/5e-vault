@@ -47,22 +47,22 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
     \ Hit: 40 (dice: 6d10 + 7|avg (6d10 + 7)) piercing damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) fire damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 17). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ 3d6|avg (3d6)) fire damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 17). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the remorhaz can't bite another target."
   "name": "Bite"
 - "desc": "The remorhaz makes one bite attack against a Medium or smaller creature\
     \ it is grappling. If the attack hits, that creature takes the bite's damage and\
-    \ is swallowed, and the grapple ends. While swallowed, the creature is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
-    \ and [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]], it has total cover\
+    \ is swallowed, and the grapple ends. While swallowed, the creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], it has total cover\
     \ against attacks and other effects outside the remorhaz, and it takes 21 (dice:\
     \ 6d6|avg (6d6)) acid damage at the start of each of the remorhaz's turns.\n\
     \nIf the remorhaz takes 30 damage or more on a single turn from a creature inside\
     \ it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end\
-    \ of that turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]\
+    \ of that turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed\
-    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]]\
-    \ by it and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ by it and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Swallow"
 "source":
 - "MM"
@@ -74,7 +74,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 - "EGW"
 - "IDRotF"
 - "LoX"
-"image": "compendium/bestiary/monstrosity/token/remorhaz.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/remorhaz.png"
 ```
 ^statblock
 

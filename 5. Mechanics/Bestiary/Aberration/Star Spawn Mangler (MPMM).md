@@ -82,7 +82,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     \ it can move up to its speed without provoking opportunity attacks."
   "name": "Flurry of Claws (Recharge 5-6)"
 "bonus_actions":
-- "desc": "While in dim light or darkness, the mangler takes the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]]\
+- "desc": "While in dim light or darkness, the mangler takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
     \ action."
   "name": "Shadow Stealth"
 "source":

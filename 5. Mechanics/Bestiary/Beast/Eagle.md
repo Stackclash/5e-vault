@@ -35,7 +35,7 @@ aliases: ["Eagle"]
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The eagle has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The eagle has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on sight."
   "name": "Keen Sight"
 "actions":
@@ -45,7 +45,7 @@ aliases: ["Eagle"]
 "source":
 - "MM"
 - "CM"
-"image": "compendium/bestiary/beast/token/eagle.png"
+"image": "5. Mechanics/Bestiary/Beast/token/eagle.png"
 ```
 ^statblock
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Death Knight"]
 ---
 # Death Knight
-*Source: Monster Manual p. 47*  
+*Source: Monster Manual p. 47, Tasha's Cauldron of Everything*  
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
 
@@ -57,19 +57,19 @@ A death knight doesn't require air, food, drink, or sleep.
 - "desc": "The death knight is a 19th-level spellcaster. Its spellcasting ability\
     \ is Charisma (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks).\
     \ It has the following paladin spells prepared:\n\n1st level (4 1st-level slots):\
-    \ [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Compelled Duel.md\|compelled duel]],\
-    \ [[5. Mechanics/Spells/Searing Smite.md\|searing smite]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]]\n\n4th level (3\
-    \ 4th-level slots): [[5. Mechanics/Spells/Banishment.md\|banishment]], [staggering\
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Compelled Duel.md|compelled duel]],\
+    \ [[5. Mechanics/Spells/Searing Smite.md|searing smite]]\n\n2nd level (3 2nd-level\
+    \ slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]]\n\n4th level (3\
+    \ 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [staggering\
     \ smite](compendium/spells/staggering-smite.md)\n\n5th level (2 5th-level slots):\
-    \ [[5. Mechanics/Spells/Destructive Wave.md\|destructive wave]] (necrotic)"
+    \ [[5. Mechanics/Spells/Destructive Wave.md|destructive wave]] (necrotic)"
   "name": "spells"
 - "desc": "The death knight has advantage on saving throws against spells and other\
     \ magical effects."
   "name": "Magic Resistance"
-- "desc": "Unless the death knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]],\
+- "desc": "Unless the death knight is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
     \ it and undead creatures of its choice within 60 feet of it have advantage on\
     \ saving throws against features that turn undead."
   "name": "Marshal Undead"

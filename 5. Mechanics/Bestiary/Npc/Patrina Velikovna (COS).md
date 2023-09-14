@@ -40,26 +40,26 @@ aliases: ["Patrina Velikovna"]
 "traits":
 - "desc": "Patrina is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Patrina can\
-    \ cast [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] and [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\
+    \ cast [[5. Mechanics/Spells/Disguise Self.md|disguise self]] and [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
     \ at will and has the following wizard spells prepared:\n\nAt will: [disguise\
-    \ self](compendium/spells/disguise-self.md), [[5. Mechanics/Spells/Invisibility.md\|invisibility]]\n\
-    \nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[5. Mechanics/Spells/Light.md\|light]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]],\
-    \ [[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Identify.md\|identify]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/Misty Step.md\|misty step]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Counterspell.md\|counterspell]],\
-    \ [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md\|banishment]],\
-    \ [[5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]]\n\
-    \n5th level (3 5th-level slots): [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]],\
-    \ [[5. Mechanics/Spells/Scrying.md\|scrying]], [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]]\n\
-    \n6th level (1 6th-level slots): [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]]\n\
-    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Teleport.md\|teleport]]\n\
-    \n8th level (1 8th-level slots): [[5. Mechanics/Spells/Mind Blank.md\|mind blank]]\n\
-    \n9th level (1 9th-level slots): [[5. Mechanics/Spells/Time Stop.md\|time stop]]\n\
+    \ self](compendium/spells/disguise-self.md), [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
+    \nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+    \ [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\n1st level (4 1st-level\
+    \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\
+    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\
+    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
+    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
+    \ [[5. Mechanics/Spells/Fire Shield.md|fire shield]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
+    \n5th level (3 5th-level slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]],\
+    \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\
+    \n6th level (1 6th-level slots): [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\
+    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Teleport.md|teleport]]\n\
+    \n8th level (1 8th-level slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\n\
+    \n9th level (1 9th-level slots): [[5. Mechanics/Spells/Time Stop.md|time stop]]\n\
     Patrina casts these spells on itself before combat."
   "name": "spells"
 - "desc": "Patrina has advantage on saving throws against spells and other magical\

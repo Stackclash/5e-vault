@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-feat
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
 aliases: ["Skilled"]

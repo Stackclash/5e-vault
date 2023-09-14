@@ -11,7 +11,7 @@ tags:
 aliases: ["Goblin Boss"]
 ---
 # Goblin Boss
-*Source: Monster Manual p. 166*  
+*Source: Monster Manual p. 166, Tasha's Cauldron of Everything*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 

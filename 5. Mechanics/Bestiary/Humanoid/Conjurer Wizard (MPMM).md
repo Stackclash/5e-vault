@@ -43,11 +43,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "cr": "6"
 "traits":
 - "desc": "The conjurer casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]],\
-    \ [[5. Mechanics/Spells/Web.md\|web]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md\|fireball]],\
-    \ [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]]"
+    \ spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]],\
+    \ [[5. Mechanics/Spells/Web.md|web]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Unseen Servant.md|unseen servant]]"
   "name": "spells"
 "actions":
 - "desc": "The conjurer makes three Arcane Burst attacks."
@@ -62,9 +62,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
     \ a space within range that is occupied by a willing Small or Medium creature,\
     \ they both teleport, swapping places."
   "name": "Benign Transportation (Recharge 4-6)"
-- "desc": "The conjurer magically summons an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]],\
-    \ an [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]], a [fire\
-    \ elemental](compendium/bestiary/elemental/fire-elemental.md), or a [[5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]].\
+- "desc": "The conjurer magically summons an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]],\
+    \ an [[5. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]], a [fire\
+    \ elemental](compendium/bestiary/elemental/fire-elemental.md), or a [[5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]].\
     \ The elemental appears in an unoccupied space within 60 feet of the conjurer,\
     \ whom it obeys. It takes its turn immediately after the conjurer. It lasts for\
     \ 1 hour, until it or the conjurer dies, or until the conjurer dismisses it as\

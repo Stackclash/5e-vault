@@ -65,8 +65,8 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
     \ Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3)) psychic damage, and the target\
-    \ must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]]\
-    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] target\
+    \ must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\
     \ on itself on a success."
   "name": "Bite"

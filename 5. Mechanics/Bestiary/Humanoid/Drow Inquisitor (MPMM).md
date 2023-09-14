@@ -11,7 +11,7 @@ aliases: ["Drow Inquisitor"]
 # Drow Inquisitor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102*  
 
-Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md\|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
+Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
 
 ```statblock
 "name": "Drow Inquisitor"
@@ -46,22 +46,22 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "traits":
 - "desc": "The drow's casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 18):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Message.md\|message]], [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]], [[5. Mechanics/Spells/Darkness.md\|darkness]],\
-    \ [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]],\
-    \ [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Levitate.md\|levitate]]\
-    \ (self only), [[5. Mechanics/Spells/Silence.md\|silence]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]],\
-    \ [[5. Mechanics/Spells/True Seeing.md\|true seeing]]"
+    \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]], [[5. Mechanics/Spells/Levitate.md|levitate]]\
+    \ (self only), [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
+    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
   "name": "spells"
 - "desc": "The drow discerns when a creature in earshot speaks a lie in a language\
     \ the drow knows."
   "name": "Discern Lie"
-- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]],\
+- "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."
   "name": "Fey Ancestry"
 - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well as\
-    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-note
+cssclasses: json5e-note
 tags:
 - compendium/src/5e/dmg
 aliases: ["Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities"]

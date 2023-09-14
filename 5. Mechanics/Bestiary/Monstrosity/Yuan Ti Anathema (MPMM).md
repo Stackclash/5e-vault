@@ -46,27 +46,27 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 "traits":
 - "desc": "The anathema casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] (snakes only)\n\n\
-    3/day each: [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Entangle.md\|entangle]],\
-    \ [[5. Mechanics/Spells/Fear.md\|fear]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \ [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]] (snakes only)\n\n\
+    3/day each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
+    \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "spells"
 - "desc": "The anathema has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 - "desc": "Any creature of the anathema's choice, other than a snake or a yuan-ti,\
     \ that starts its turn within 30 feet of the anathema must succeed on a DC 17\
-    \ Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
-    \ of snakes and yuan-ti. A [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]]\
+    \ Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ of snakes and yuan-ti. A [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ target can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success. If a target's saving throw is successful or the\
     \ effect ends for it, the target is immune to this anathama's aura for the next\
     \ 24 hours."
   "name": "Ophidiophobia Aura"
-- "desc": "The anathema has advantage on saves against being [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]],\
-    \ [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]],\
-    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious\|unconscious]]."
+- "desc": "The anathema has advantage on saves against being [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+    \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+    \ or knocked [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]."
   "name": "Six Heads"
 "actions":
 - "desc": "The anathema makes two Claw attacks and one Flurry of Bites attack."
@@ -80,8 +80,8 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
   "name": "Flurry of Bites (Anathema Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one Large\
     \ or smaller creature. Hit: 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning\
-    \ damage plus 7 (dice: 2d6|avg (2d6)) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled\|grappled]]\
-    \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]],\
+    \ damage plus 7 (dice: 2d6|avg (2d6)) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and it takes 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning damage plus 7\
     \ (dice: 2d6|avg (2d6)) acid damage at the start of each of its turns. The\
     \ anathema can constrict only one creature at a time."

@@ -54,7 +54,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
     \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage. If the target\
     \ is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw\
-    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hooves"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
     \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) slashing damage."
@@ -67,7 +67,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "source":
 - "MPMM"
 - "MTF"
-"image": "compendium/bestiary/fiend/token/armanite.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/armanite.png"
 ```
 ^statblock
 

@@ -55,7 +55,7 @@ Base creatures are among the first to respond to sinister forces at work in a la
     \ points or fewer. A creature damaged by the swarm must succeed on a DC 12 Constitution\
     \ saving throw or contract a disease.\n\nEach time the diseased creature finishes\
     \ a long rest, roll a dice: d6|avg (d6) to determine the disease's effect:\n\
-    \n- 1-2. The creature is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]]\
+    \n- 1-2. The creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ until it finishes a long rest.  \n- 3-4. The creature's hit point maximum\
     \ decreases by 5 (dice: 2d4|avg (2d4)), and the reduction can't be removed\
     \ until the disease ends. The creature dies if its hit point maximum drops to\

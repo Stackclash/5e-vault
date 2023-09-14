@@ -50,12 +50,12 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "cr": "1"
 "traits":
 - "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md\|mage hand]],\
-    \ [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]]"
+    \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+    \ [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]"
   "name": "spells"
 - "desc": "Any creature that attempts to damage the nilbog must first succeed on a\
-    \ DC 12 Charisma saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
-    \ until the end of the creature's next turn. A creature [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]]\
+    \ DC 12 Charisma saving throw or be [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
+    \ until the end of the creature's next turn. A creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ in this way must use its action praising the nilbog.\n\nThe nilbog can't regain\
     \ hit points, including through magical healing, except through its Reversal of\
     \ Fortune reaction."
@@ -70,8 +70,8 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
     \ of its next turn."
   "name": "Mocking Word"
 "bonus_actions":
-- "desc": "The nilbog takes the [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]]\
-    \ or [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action."
+- "desc": "The nilbog takes the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+    \ or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action."
   "name": "Nimble Escape"
 "reactions":
 - "desc": "In response to another creature dealing damage to the nilbog, the nilbog\
@@ -80,7 +80,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "source":
 - "MPMM"
 - "VGM"
-"image": "compendium/bestiary/fey/token/nilbog.png"
+"image": "5. Mechanics/Bestiary/Fey/token/nilbog.png"
 ```
 ^statblock
 

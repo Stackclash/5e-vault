@@ -42,10 +42,10 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 "cr": "2"
 "traits":
 - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-    \ the spellcasting ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]],\
-    \ [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]\n\n1/day each:\
-    \ [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]],\
-    \ [[5. Mechanics/Spells/Silent Image.md\|silent image]]"
+    \ the spellcasting ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+    \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
+    \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics/Spells/Silent Image.md|silent image]]"
   "name": "spells"
 - "desc": "While the hobgoblin is wearing no armor and wielding no shield, its AC\
     \ includes its Wisdom modifier."

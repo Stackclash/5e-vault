@@ -32,11 +32,11 @@ aliases: ["Killer Whale"]
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The whale can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]."
+- "desc": "The whale can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]."
   "name": "Echolocation"
 - "desc": "The whale can hold its breath for 30 minutes."
   "name": "Hold Breath"
-- "desc": "The whale has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]])\
+- "desc": "The whale has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
     \ checks that rely on hearing."
   "name": "Keen Hearing"
 "actions":

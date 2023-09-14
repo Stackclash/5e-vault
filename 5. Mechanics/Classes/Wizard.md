@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-class
+cssclasses: json5e-class
 tags:
 - class/wizard
 - compendium/src/5e/phb
@@ -15,7 +15,7 @@ aliases: ["Wizard"]
 > |-------|----|----------|
 > | 1st | +2 | [Arcane Recovery](#Arcane%20Recovery%20(Level%201)), [Spellcasting](#Spellcasting%20(Level%201)) |
 > | 2nd | +2 | [Arcane Tradition](#Arcane%20Tradition%20(Level%202)) |
-> | 3rd | +2 | ⏤ |
+> | 3rd | +2 | [Cantrip Formulas](#Cantrip%20Formulas%20(Level%203)) |
 > | 4th | +2 | [Ability Score Improvement](#Ability%20Score%20Improvement%20(Level%204)) |
 > | 5th | +3 | ⏤ |
 > | 6th | +3 | [Arcane Tradition feature](#Arcane%20Tradition%20feature%20(Level%206)) |
@@ -269,6 +269,13 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 ### Arcane Tradition (Level 2)
 
 When you reach 2nd level, you choose an arcane tradition from the list of available traditions, shaping your practice of magic. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+### Cantrip Formulas (Level 3)
+_Source: Tasha's Cauldron of Everything p. 75_
+
+*3rd-level wizard [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
+
+You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 
 ### Ability Score Improvement (Level 4)
 

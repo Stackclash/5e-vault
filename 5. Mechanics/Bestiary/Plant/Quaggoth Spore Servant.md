@@ -38,11 +38,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [[/5. Mechanics/Rules/Senses.md#blindsight\|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [[/5. Mechanics/Rules/Senses.md#blindsight|blindsight]] with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened\|frightened]], or [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]].
+The servant can't be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], or [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].
 
 ## Languages
 

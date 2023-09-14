@@ -8,7 +8,7 @@ tags:
 aliases: ["Rakshasa"]
 ---
 # Rakshasa
-*Source: Monster Manual p. 257. Available in the SRD.*  
+*Source: Monster Manual p. 257, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
 
@@ -59,13 +59,13 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC 18,\
     \ dice: d20+10 (+10 to hit) with spell attacks). The rakshasa can innately cast\
     \ the following spells, requiring no material components:\n\nAt will: [detect\
-    \ thoughts](compendium/spells/detect-thoughts.md), [[5. Mechanics/Spells/Disguise Self.md\|disguise self]],\
-    \ [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]]\n\
-    \n1/day each: [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Fly.md\|fly]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/True Seeing.md\|true seeing]]\n\
-    \n3/day each: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]],\
-    \ [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Major Image.md\|major image]],\
-    \ [[5. Mechanics/Spells/Suggestion.md\|suggestion]]"
+    \ thoughts](compendium/spells/detect-thoughts.md), [[5. Mechanics/Spells/Disguise Self.md|disguise self]],\
+    \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
+    \n1/day each: [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Fly.md|fly]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
+    \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Major Image.md|major image]],\
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
   "name": "innate"
 - "desc": "The rakshasa can't be affected or detected by spells of 6th level or lower\
     \ unless it wishes to be. It has advantage on saving throws against all other\
@@ -79,7 +79,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
     \ cursed if it is a creature. The magical curse takes effect whenever the target\
     \ takes a short or long rest, filling the target's thoughts with horrible images\
     \ and dreams. The cursed target gains no benefit from finishing a short or long\
-    \ rest. The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]\
+    \ rest. The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
     \ spell or similar magic."
   "name": "Claw"
 "source":
@@ -90,7 +90,7 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 - "ERLW"
 - "TCE"
 - "CM"
-"image": "compendium/bestiary/fiend/token/rakshasa.png"
+"image": "5. Mechanics/Bestiary/Fiend/token/rakshasa.png"
 ```
 ^statblock
 

@@ -41,7 +41,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "languages": "Giant"
 "cr": "6"
 "traits":
-- "desc": "The giant is immune to the [[5. Mechanics/Spells/Confusion.md\|confusion]]\
+- "desc": "The giant is immune to the [[5. Mechanics/Spells/Confusion.md|confusion]]\
     \ spell.\n\nOn each of its turns, the giant uses all its movement to move toward\
     \ the nearest creature or whatever else it might perceive as food. Roll a dice:\
     \ d10|avg (d10) at the start of each of the giant's turns to determine its\
@@ -52,7 +52,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
     \ within reach. If no creatures are within reach, the giant makes one Fist attack\
     \ against itself.  \n- 6–7. The giant makes one Bite attack against one random\
     \ creature within reach. If no other creatures are within reach, its eyes glaze\
-    \ over and it is [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the\
+    \ over and it is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] until the\
     \ start of its next turn.  \n- 8–10. The giant makes one Bite attack and two\
     \ Fist attacks against one random creature within reach. If no creatures are within\
     \ reach, the giant flies into a rage and gains advantage on all attack rolls until\

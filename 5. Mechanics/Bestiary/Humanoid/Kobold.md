@@ -54,12 +54,12 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 "cr": "1/8"
 "traits":
 - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that\
+    \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks that\
     \ rely on sight."
   "name": "Sunlight Sensitivity"
 - "desc": "The kobold has advantage on an attack roll against a creature if at least\
     \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]]."
+    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
@@ -81,7 +81,7 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 - "ERLW"
 - "EGW"
 - "DoSI"
-"image": "compendium/bestiary/humanoid/token/kobold.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/kobold.png"
 ```
 ^statblock
 

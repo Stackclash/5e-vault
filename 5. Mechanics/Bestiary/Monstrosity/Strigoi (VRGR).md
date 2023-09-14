@@ -44,7 +44,7 @@ Many strigoi seek ways to return to their former existence while being compelled
 "languages": "Common"
 "cr": "4"
 "traits":
-- "desc": "The strigoi can magically command any [[5. Mechanics/Bestiary/Beast/Stirge.md\|stirge]]\
+- "desc": "The strigoi can magically command any [[5. Mechanics/Bestiary/Beast/Stirge.md|stirge]]\
     \ within 120 feet of it, using a limited form of telepathy."
   "name": "Stirge Telepathy"
 "actions":
@@ -60,7 +60,7 @@ Many strigoi seek ways to return to their former existence while being compelled
     \ to the amount of necrotic damage dealt. A creature reduced to 0 hit points from\
     \ this attack dies and leaves nothing behind except its skin and its equipment."
   "name": "Proboscis"
-- "desc": "The strigoi magically summons dice: 1d4 + 2|avg (1d4 + 2) [[5. Mechanics/Bestiary/Beast/Stirge.md\|stirges]]\
+- "desc": "The strigoi magically summons dice: 1d4 + 2|avg (1d4 + 2) [[5. Mechanics/Bestiary/Beast/Stirge.md|stirges]]\
     \ (see their entry in the Monster Manual) in unoccupied spaces it can see within\
     \ 30 feet of it. The stirges are under the strigoi's control and act immediately\
     \ after the strigoi in the initiative order. The stirges disappear after 1 hour,\
@@ -68,6 +68,6 @@ Many strigoi seek ways to return to their former existence while being compelled
   "name": "Ravenous Children (1/Day)"
 "source":
 - "VRGR"
-"image": "compendium/bestiary/monstrosity/token/strigoi.png"
+"image": "5. Mechanics/Bestiary/Monstrosity/token/strigoi.png"
 ```
 ^statblock

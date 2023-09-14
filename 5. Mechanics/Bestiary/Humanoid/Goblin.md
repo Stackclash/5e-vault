@@ -11,7 +11,7 @@ tags:
 aliases: ["Goblin"]
 ---
 # Goblin
-*Source: Monster Manual p. 166. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 166, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
@@ -96,7 +96,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 - "WBtW"
 - "CRCotN"
 - "DSotDQ"
-"image": "compendium/bestiary/humanoid/token/goblin.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/goblin.png"
 ```
 ^statblock
 

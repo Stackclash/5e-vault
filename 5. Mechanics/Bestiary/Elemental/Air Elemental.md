@@ -9,7 +9,7 @@ tags:
 aliases: ["Air Elemental"]
 ---
 # Air Elemental
-*Source: Monster Manual p. 124. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 
@@ -72,13 +72,13 @@ An elemental doesn't require air, food, drink, or sleep.
 - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
     \ throw. On a failure, a target takes 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning\
     \ damage and is flung up 20 feet away from the elemental in a random direction\
-    \ and knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. If a thrown target\
+    \ and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. If a thrown target\
     \ strikes an object, such as a wall or floor, the target takes 3 (dice: 1d6|avg\
     \ (1d6)) bludgeoning damage for every 10 feet it was thrown. If the target is\
     \ thrown at another creature, that creature must succeed on a DC 13 Dexterity\
-    \ saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]].\n\
+    \ saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\n\
     \nIf the saving throw is successful, the target takes half the bludgeoning damage\
-    \ and isn't flung away or knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]."
+    \ and isn't flung away or knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Whirlwind (Recharge 4-6)"
 "source":
 - "MM"

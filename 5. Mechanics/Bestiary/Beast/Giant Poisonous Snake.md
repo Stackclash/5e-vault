@@ -13,7 +13,7 @@ tags:
 aliases: ["Giant Poisonous Snake"]
 ---
 # Giant Poisonous Snake
-*Source: Monster Manual p. 327, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Poisonous Snake"

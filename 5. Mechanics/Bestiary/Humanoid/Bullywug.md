@@ -85,7 +85,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 - "GoS"
 - "EGW"
 - "WBtW"
-"image": "compendium/bestiary/humanoid/token/bullywug.png"
+"image": "5. Mechanics/Bestiary/Humanoid/token/bullywug.png"
 ```
 ^statblock
 
