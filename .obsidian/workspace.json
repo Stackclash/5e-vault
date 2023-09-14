@@ -23,11 +23,9 @@
             "id": "77e2ef3407db8899",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           },
@@ -151,7 +149,15 @@
             }
           },
           {
-            "id": "7194cf4fcfc02e55",
+            "id": "023d7a7d526b0d1d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "30af7e2c689a80c8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,17 +165,9 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "023d7a7d526b0d1d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -197,8 +195,8 @@
   },
   "active": "77e2ef3407db8899",
   "lastOpenFiles": [
-    "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/3. Quests/3. Quests.md",
     "z_Assets/Barovia_Banner.webp",
     "z_Assets/Barovia_Banner.webp.crdownload",
     "3. The Party/2. Session Logs/2. Session Logs.md",

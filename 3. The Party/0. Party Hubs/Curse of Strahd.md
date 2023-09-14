@@ -3,6 +3,7 @@ obsidianUIMode: preview
 banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
 ---
+# `=this.file.name`
 ## **Characters**
 ### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
