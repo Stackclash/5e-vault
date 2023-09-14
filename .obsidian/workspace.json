@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecb5c69bb153cd8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Beholder.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Beholder.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Beholder.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
               }
             }
           },
@@ -182,13 +195,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "113a1fb81e75891e",
+  "active": "ecb5c69bb153cd8d",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Beholder.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
+    "5. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Green Slaad.md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/1. Players/1. Players.md",
@@ -213,8 +228,6 @@
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
-    "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "Untitled.canvas",
     "z_Templates/Databases",
     "compendium/bestiary/npc/img/005-cos02-02.png",
