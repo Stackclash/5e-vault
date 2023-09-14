@@ -23,6 +23,30 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Items",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "bf11-4f75",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Races",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "8cd7-82fe",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }

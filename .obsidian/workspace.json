@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecb5c69bb153cd8d",
+  "active": "77e2ef3407db8899",
   "lastOpenFiles": [
     "Untitled.md",
     "5. Mechanics/Bestiary/Aberration/Aberration.md",
