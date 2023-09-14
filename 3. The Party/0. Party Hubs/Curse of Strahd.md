@@ -1,5 +1,7 @@
 ---
 obsidianUIMode: preview
+banner: "![[Barovia_Banner.webp]]"
+banner_y: 0
 ---
 # **Characters**
 #### **[[1. Players|Edit Players]]**
