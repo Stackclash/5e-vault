@@ -11,9 +11,9 @@
             "id": "abab0358a91beb2e",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "pdf",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md"
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md",
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md",
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md"
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "abab0358a91beb2e",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/1. Players/1. Players.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/3. Quests/3. Quests.md",
