@@ -1,5 +1,7 @@
 {
-  "targetAttributes": [],
+  "targetAttributes": [
+    "NoteIcon"
+  ],
   "targetTags": true,
   "getFromInlineField": true,
   "enableTabHeader": true,
@@ -11,9 +13,9 @@
   "enableSuggestor": true,
   "selectors": [
     {
-      "type": "path",
-      "name": "",
-      "value": "5. Mechanics/Bestiary",
+      "type": "attribute",
+      "name": "NoteIcon",
+      "value": "beast",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "5b00-5324",
