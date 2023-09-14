@@ -13,16 +13,16 @@
   "enableSuggestor": true,
   "selectors": [
     {
-      "type": "attribute",
+      "type": "path",
       "name": "NoteIcon",
-      "value": "beast",
+      "value": "5. Mechanics/Bestiary",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "startswith",
       "uid": "5b00-5324",
-      "selectText": true,
-      "selectAppend": true,
+      "selectText": false,
+      "selectAppend": false,
       "selectPrepend": true,
-      "selectBackground": true
+      "selectBackground": false
     }
   ]
 }

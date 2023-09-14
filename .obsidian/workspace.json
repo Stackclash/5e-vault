@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77e2ef3407db8899",
+  "active": "ecb5c69bb153cd8d",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "Untitled.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "5. Mechanics/Bestiary/Aberration/Beholder.md",
     "5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
