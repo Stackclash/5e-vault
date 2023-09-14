@@ -13,12 +13,12 @@ stats:
   - 16
   - 14
   - 13
-Art: Marin.jpeg
-Race: Half-Elf
-Class: Warlock
-Condition: Healthy
-Location: Town of Barovia
 Party: Curse of Strahd
+art: Marin.jpeg
+race: Half-Elf
+condition: Healthy
+location: Town of Barovia
+class: Warlock
 ---
 ```custom-frames
 frame: DnDBBriana

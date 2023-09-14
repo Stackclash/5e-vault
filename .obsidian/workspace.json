@@ -11,9 +11,11 @@
             "id": "abab0358a91beb2e",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md"
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md",
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md",
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md"
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md"
               }
             }
           },
@@ -182,16 +184,18 @@
   },
   "active": "abab0358a91beb2e",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/1. Players/1. Players.md",
+    "3. The Party/1. Players/Marin.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "3. The Party/2. Session Logs/The Look of Desperation.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
-    "3. The Party/1. Players/1. Players.md",
     "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "5. Mechanics/Bestiary/Aberration/Beholder.md",
     "z_Assets/Barovia_Banner.webp",
@@ -209,8 +213,6 @@
     "z_Templates/Databases/Locations 1.md",
     "z_Assets/PlaceholderImage.png",
     "3. The Party/1. Players/Yevelda Ovak.md",
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
-    "3. The Party/1. Players/Redgrave.md",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
     "3. The Party/0. Party Hubs",

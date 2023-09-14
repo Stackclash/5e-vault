@@ -13,12 +13,12 @@ stats:
   - 16
   - 12
   - 10
-Art: Seluvis Felo'melorn.jpeg
-Race: Elf
-Class: Artificer
-Condition: Healthy
-Location: Town of Barovia
 Party: Curse of Strahd
+art: Seluvis Felo'melorn.jpeg
+race: Elf
+condition: Healthy
+location: Town of Barovia
+class: Artificer
 ---
 ```custom-frames
 frame: DnDBTim

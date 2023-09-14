@@ -13,12 +13,12 @@ stats:
   - 10
   - 12
   - 14
-Art: Faerah Duskrane.jpeg
-Race: Elf
-Class: Rogue
-Condition: Healthy
-Location: Town of Barovia
 Party: Curse of Strahd
+art: Faerah Duskrane.jpeg
+race: Elf
+condition: Healthy
+location: Town of Barovia
+class: Rogue
 ---
 ```custom-frames
 frame: DnDBHolly
