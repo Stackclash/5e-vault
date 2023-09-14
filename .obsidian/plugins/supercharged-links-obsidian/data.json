@@ -1,7 +1,5 @@
 {
-  "targetAttributes": [
-    "NoteIcon"
-  ],
+  "targetAttributes": [],
   "targetTags": true,
   "getFromInlineField": true,
   "enableTabHeader": true,

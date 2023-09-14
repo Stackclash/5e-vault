@@ -8,7 +8,6 @@ tags:
   - monster/type/aberration
 aliases:
   - Beholder
-NoteIcon: beast
 ---
 # Beholder
 *Source: Monster Manual p. 28, Tasha's Cauldron of Everything*  
