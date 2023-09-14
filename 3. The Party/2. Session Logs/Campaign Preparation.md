@@ -1,6 +1,7 @@
 ---
 Party: Curse of Strahd
-QuickNotes: Went over theme of campaign and characters.
+date: 2023-06-24T00:00:00.000-05:00
+summary: Went over theme of campaign and characters.
 ---
 
 # Dungeon Master Statements/Questions
