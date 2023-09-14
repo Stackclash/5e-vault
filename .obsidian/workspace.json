@@ -11,9 +11,23 @@
             "id": "abab0358a91beb2e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5cc1ab32306ad59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -29,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
               }
             }
           },
@@ -192,8 +207,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abab0358a91beb2e",
+  "active": "f5cc1ab32306ad59",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Locations.md",
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "3. The Party/1. Players/1. Players.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
@@ -216,12 +235,9 @@
     "Untitled.md",
     "5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "6. Resources/5e Modules/Curse Of Strahd/06 Chapter-4 Castle Ravenloft.md",
     "5. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md",
-    "5. Mechanics/Bestiary/Aberration/Green Slaad.md",
-    "z_Templates/Databases/Locations 1.md",
     "z_Assets/PlaceholderImage.png",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
@@ -239,7 +255,6 @@
     "compendium/bestiary/fiend/token/nycaloth.png",
     "compendium/bestiary/ooze/token",
     "compendium/bestiary/giant/img",
-    "compendium/backgrounds/img",
-    "compendium/vehicles"
+    "compendium/backgrounds/img"
   ]
 }
