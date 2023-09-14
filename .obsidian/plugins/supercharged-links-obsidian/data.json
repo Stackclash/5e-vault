@@ -9,5 +9,18 @@
   "enableBacklinks": true,
   "enableQuickSwitcher": true,
   "enableSuggestor": true,
-  "selectors": []
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "5. Mechanics/Bestiary",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5b00-5324",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
 }
