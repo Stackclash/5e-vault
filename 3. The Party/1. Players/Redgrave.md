@@ -17,7 +17,7 @@ Party: Curse of Strahd
 art: Redgrave.jpeg
 race: Warforged
 condition: Healthy
-location: Town of Barovia
+location: Tser Pool
 class: Cleric
 ---
 ```custom-frames

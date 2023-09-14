@@ -17,7 +17,7 @@ Party: Curse of Strahd
 art: Yevelda Ovak.jpeg
 race: Human
 condition: Healthy
-location: Town of Barovia
+location: Tser Pool
 class: Barbarian
 ---
 ```custom-frames

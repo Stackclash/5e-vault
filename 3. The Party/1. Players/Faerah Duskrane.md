@@ -17,7 +17,7 @@ Party: Curse of Strahd
 art: Faerah Duskrane.jpeg
 race: Elf
 condition: Healthy
-location: Town of Barovia
+location: Tser Pool
 class: Rogue
 ---
 ```custom-frames

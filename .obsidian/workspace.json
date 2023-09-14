@@ -11,10 +11,20 @@
             "id": "abab0358a91beb2e",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "3. The Party/1. Players/1. Players.md"
+              }
+            }
+          },
+          {
+            "id": "961fe7b3131eb300",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
-                "mode": "source",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md"
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           },
@@ -184,11 +194,12 @@
   },
   "active": "abab0358a91beb2e",
   "lastOpenFiles": [
-    "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
-    "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/1. Players/1. Players.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
@@ -212,7 +223,6 @@
     "5. Mechanics/Bestiary/Aberration/Green Slaad.md",
     "z_Templates/Databases/Locations 1.md",
     "z_Assets/PlaceholderImage.png",
-    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
     "3. The Party/0. Party Hubs",

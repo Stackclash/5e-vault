@@ -17,7 +17,7 @@ Party: Curse of Strahd
 art: Marin.jpeg
 race: Half-Elf
 condition: Healthy
-location: Town of Barovia
+location: Tser Pool
 class: Warlock
 ---
 ```custom-frames

@@ -17,7 +17,7 @@ Party: Curse of Strahd
 art: Seluvis Felo'melorn.jpeg
 race: Elf
 condition: Healthy
-location: Town of Barovia
+location: Tser Pool
 class: Artificer
 ---
 ```custom-frames

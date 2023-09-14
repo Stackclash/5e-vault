@@ -39,7 +39,7 @@ TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
 > FROM "3. The Party/3. Quests"
-> WHERE party = this.file.name and active
+> WHERE party = this.file.name AND active AND !side-quest
 >SORT file.name asc
 >```
 
@@ -50,7 +50,7 @@ TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
 > FROM "3. The Party/3. Quests"
-> WHERE party = this.file.name and active
+> WHERE party = this.file.name AND active AND side-quest
 >SORT file.name asc
 >```
 
