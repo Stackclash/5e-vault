@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "mode": "preview",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Aberration/Aberration.md"
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "77e2ef3407db8899",
   "lastOpenFiles": [
-    "Untitled.md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Races/Races.md",
     "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "Untitled.md",
     "5. Mechanics/Bestiary/Aberration/Beholder.md",
     "5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "5. Mechanics/Bestiary/Aberration/Aberrant Spirit-4th Level Spell (TCE).md",
@@ -222,8 +224,6 @@
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Redgrave.md",
     "3. The Party/1. Players/Marin.md",
-    "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/Curse of Strahd Campaign/Curse of Strahd Campaign.md",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
     "3. The Party/0. Party Hubs",

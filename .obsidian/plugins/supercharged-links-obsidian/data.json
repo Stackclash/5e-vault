@@ -47,6 +47,30 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Tables",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "68e0-6bd3",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "5. Mechanics/Spells",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "7753-2134",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }
