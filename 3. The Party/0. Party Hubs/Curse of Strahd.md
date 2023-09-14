@@ -37,8 +37,9 @@ TABLE WITHOUT ID
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	QuickNotes AS "QuickNotes"
-WHERE contains(NoteIcon, "Quest") AND contains(WhichParty, "Party 1") AND contains(status, "Active")
+>	summary
+> FROM "3. The Party/3. Quests"
+> WHERE party = this.file.name and active
 >SORT file.name asc
 >```
 
