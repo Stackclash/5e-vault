@@ -69,6 +69,54 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/1. Players",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "65a7-afcb",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/2. Session Logs",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "4a6f-4872",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/3. Quests",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "9934-88e3",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "3. The Party/0. Party Hubs",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "a3ec-73d2",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }
