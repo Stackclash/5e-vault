@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
+                "file": "z_Templates/World Building/Settlement.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "961fe7b3131eb300",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
@@ -193,7 +194,6 @@
     "z_Templates/DM Prep",
     "z_Templates/Party/Party Dashboard.md",
     "z_Templates/World Building",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "z_Templates/Party",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
