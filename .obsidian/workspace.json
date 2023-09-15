@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b87bbca73516383b",
+        "id": "0613395894346844",
         "type": "tabs",
         "children": [
           {
-            "id": "961fe7b3131eb300",
+            "id": "32e8e61dcbc55f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
-                "mode": "preview",
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md"
+                "file": "3. The Party/3. Quests/Take Ireena to Vallaki.md"
               }
             }
           },
@@ -182,8 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "961fe7b3131eb300",
+  "active": "32e8e61dcbc55f41",
   "lastOpenFiles": [
+    "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "3. The Party/1. Players/1. Players.md",
+    "z_Templates/World Building/Settlement.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
@@ -197,14 +201,11 @@
     "z_Templates/Party",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
-    "3. The Party/1. Players/1. Players.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/3. Quests/Take Ireena to Vallaki.md",
     "3. The Party/1. Players/Marin.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
