@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
+                "file": "6. Resources/Resources/Curse of Strahd NPC Map.pdf"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+                "file": "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
+                "file": "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/The Interactive Tome of Strahd.pdf"
+                "file": "6. Resources/Resources/Curse of Strahd NPC Map.pdf"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "961fe7b3131eb300",
   "lastOpenFiles": [
+    "6. Resources/Resources/The Interactive Tome of Strahd.pdf",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
@@ -213,7 +214,6 @@
     "5. Mechanics/Items/Items.md",
     "5. Mechanics/Races/Races.md",
     "Untitled.md",
-    "5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md",
     "z_Assets/PlaceholderImage.png",
     "3. The Party/3. Quests",
     "3. The Party/2. Session Logs",
