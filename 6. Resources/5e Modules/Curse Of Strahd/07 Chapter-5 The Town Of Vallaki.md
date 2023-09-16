@@ -1186,7 +1186,7 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 
 Vallaki's toymaker, [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md\|Gadof Blinsky]] (CG male human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]), calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/065-cos05-15.png#center "[[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md\|Gadof Blinsky]] and [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md\|Piccolo]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/065-cos05-15.png#center "|Gadof Blinsky]]
 
 Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] gave Blinsky his pet monkey, [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md\|Piccolo]] (use the [[5. Mechanics/Bestiary/Beast/Baboon.md\|baboon]] stat block in the "Monster Manual"). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[5. Mechanics/Bestiary/Npc/Piccolo (COS).md\|Piccolo]] with a custom-tailored ballerina tutu.
 

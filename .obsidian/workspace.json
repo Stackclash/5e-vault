@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blinksy Toys.md",
-                "mode": "source",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,15 +193,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da4d3d7d16d51878",
+  "active": "a140800f2eb032c3",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blue Water Inn.md",
+    "5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blinksy Toys.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Coffin Maker's Shop.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Burgomaster's Mansion.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Wachterhaus.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Old BoneGrinder.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blue Water Inn.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
@@ -222,7 +222,6 @@
     "z_Templates/Databases/NPC Database.md",
     "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
     "4. World Almanac/Eldoria/NPCs/Rictavio.md",
-    "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
