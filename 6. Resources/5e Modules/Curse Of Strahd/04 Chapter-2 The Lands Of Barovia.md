@@ -207,6 +207,8 @@ When it comes to sharing information about their dark master, Strahd's Vistani p
 
 ### Vistani Lore
 
+^ce5cb0
+
 Vistani know or believe certain facts about their people and their surroundings. This common lore is summarized here. Characters can learn this information after earning a Vistana's trust.
 
 #### Strahd von Zarovich
