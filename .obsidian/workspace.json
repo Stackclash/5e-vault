@@ -11,10 +11,32 @@
             "id": "32e8e61dcbc55f41",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+              }
+            }
+          },
+          {
+            "id": "97a5fda5db2228a2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/2. Session Logs/Knowing the Road.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blue Water Inn.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a067264642352906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/2. Session Logs/Knowing the Road.md",
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/2. Session Logs/Knowing the Road.md",
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/2. Session Logs/Knowing the Road.md"
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
               }
             }
           },
@@ -184,21 +206,26 @@
   },
   "active": "32e8e61dcbc55f41",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blue Water Inn.md",
+    "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Campaign Preparation.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
     "3. The Party/3. Quests/3. Quests.md",
-    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "3. The Party/1. Players/Faerah Duskrane.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki",
     "3. The Party/1. Players/1. Players.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/2. Session Logs/Campaign Preparation.md",
+    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
     "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "2. Scratch Notes/1693025245103 - Test.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
     "3. The Party/2. Session Logs/The Look of Desperation.md",
     "z_Templates/World Building/Settlement.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",
@@ -209,19 +236,14 @@
     "z_Templates/Party/Party Dashboard.md",
     "z_Templates/World Building",
     "z_Templates/Party",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
-    "5. Mechanics/Bestiary/Aberration/Beholder.md",
     "z_Assets/Barovia_Banner.webp",
     "z_Assets/Barovia_Banner.webp.crdownload",
     "z_Assets/PlaceholderImage.png",
     "3. The Party/3. Quests",
-    "3. The Party/2. Session Logs",
-    "3. The Party/0. Party Hubs",
     "Untitled.canvas",
     "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/bestiary/undead/token/poltergeist.png",
