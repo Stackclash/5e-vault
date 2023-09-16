@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97a5fda5db2228a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a067264642352906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
+                "file": "3. The Party/2. Session Logs/Session 5.md"
               }
             }
           },
@@ -207,13 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97a5fda5db2228a2",
+  "active": "a140800f2eb032c3",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
     "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Vistani Lore.md",
+    "1. DM Screen/Tools/Encounter Generator.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. Mechanics/Bestiary/Humanoid/Werewolf.md",
     "1. DM Screen/Tools/Barovian Lore.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "Untitled Kanban 1.md",
@@ -235,7 +211,6 @@
     "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
     "4. World Almanac/Eldoria/NPCs/Milivoj.md",
     "4. World Almanac/Eldoria/NPCs/Lucian Petrovich.md",
-    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki",
     "6. Resources/Resources/Curse of Strahd NPC Map.pdf",

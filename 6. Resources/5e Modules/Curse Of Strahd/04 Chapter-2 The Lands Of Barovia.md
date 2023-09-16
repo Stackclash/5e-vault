@@ -6,6 +6,9 @@ tags:
 aliases: ["Chapter 2: The Lands of Barovia"]
 ---
 # Chapter 2: The Lands of Barovia
+
+^91c16f
+
 *Source: Curse of Strahd, p. 23* 
 
 The idyllic valley nestled in the Balinok Mountains was a slice of heaven to those who knew of its existence before Strahd's arrival. The serenity of the place was forever shattered when Strahd led a bloody crusade against the enemies of his family that ended here with the slaughter of hundreds. Struck by the scenic beauty of his most recent conquest and eager to escape the shadow of his father's legacy, Strahd made the valley his home and named it Barovia after the late King Barov, his father.
@@ -274,21 +277,21 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 **Daytime Random Encounters in Barovia**
 
-| `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
+| `dice: d12 + d8` (`d12 + d8`) | Encounter |
 |-----------------|------------------|-----------|
-| 2 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md|commoners]] |
-| 3 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md|scouts]] |
+| 2 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|commoners]] |
+| 3 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md\|scouts]] |
 | 4 | Hunting trap |
 | 5 | Grave |
 | 6 | False trail |
-| 7 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md|Vistani bandits]] |
+| 7 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistani bandits]] |
 | 8 | Skeletal rider |
 | 9 | Trinket |
 | 10 | Hidden bundle |
-| 11 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md|swarm of ravens]] (50%) or 1 [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|wereraven]] (see appendix D) in raven form (50%) |
-| 12 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 13 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
-| 14 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md|berserkers]] |
+| 11 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarm of ravens]] (50%) or 1 [[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) in raven form (50%) |
+| 12 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
+| 13 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
+| 14 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] |
 | 15 | Corpse |
 | 16 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] in human form |
 | 17 | 1 [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
@@ -299,7 +302,7 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 **Nighttime Random Encounters in Barovia**
 
-| `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
+| `dice: d12 + d8` (`d12 + d8`) | Encounter |
 |-----------------|------------------|-----------|
 | 2 | 1 [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] |
 | 3 | Hunting trap |
