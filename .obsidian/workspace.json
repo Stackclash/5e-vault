@@ -11,11 +11,9 @@
             "id": "32e8e61dcbc55f41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
               }
             }
           },
@@ -184,18 +182,18 @@
   },
   "active": "32e8e61dcbc55f41",
   "lastOpenFiles": [
+    "3. The Party/2. Session Logs/Campaign Preparation.md",
+    "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/1. Players/1. Players.md",
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "2. Scratch Notes/1693025245103 - Test.md",
-    "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
     "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
-    "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "z_Templates/World Building/Settlement.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
