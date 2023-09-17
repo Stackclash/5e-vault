@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e2eda03aba2f526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
               }
             }
           },
@@ -254,10 +266,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74c59cf8c7bd70ab",
+  "active": "2e2eda03aba2f526",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "3. The Party/1. Players/Redgrave.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "3. The Party/2. Session Logs/Session 5.md",
