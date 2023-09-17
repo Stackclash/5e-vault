@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -223,7 +223,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -283,9 +283,11 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_c89a39bb18b9",
-        "currentHP": 17,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -335,7 +337,7 @@
     ],
     "state": true,
     "name": "Werewolves",
-    "round": 2,
+    "round": 3,
     "logFile": "2. Scratch Notes/1693025245103 - Test.md",
     "rollHP": false
   },
