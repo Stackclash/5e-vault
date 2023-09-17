@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
               }
             }
           },
@@ -240,11 +240,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb4bd1be7dccafe0",
+  "active": "74c59cf8c7bd70ab",
   "lastOpenFiles": [
+    "1. DM Screen/Tools/Encounter Generator.md",
     "5. Mechanics/Items/Items.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
     "5. Mechanics/Items/Potion Of Healing.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "1. DM Screen/1. DM Screen.md",
