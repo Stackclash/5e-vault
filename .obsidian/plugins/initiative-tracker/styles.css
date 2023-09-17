@@ -189,7 +189,7 @@ body {
   height: 200px;
   margin-bottom: 1rem;
 }
-.initiative-tracker.suggestion-item,
+.initiative-tracker.suggestion-item .name,
 .initiative-tracker.suggestion-item > svg {
   display: flex;
   align-items: center;

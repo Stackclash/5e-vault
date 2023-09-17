@@ -13,13 +13,14 @@ stats:
   - 10
   - 13
   - 12
-Art: Yevelda Ovak.jpeg
-Race: Human
-Class: Barbarian
-Condition: Healthy
-Location: Town of Barovia
 Party: Curse of Strahd
+art: Yevelda Ovak.jpeg
+race: Human
+condition: Healthy
+location: Tser Pool
+class: Barbarian
 ---
+## D&D Beyond
 ```custom-frames
 frame: DnDBShi
 ```

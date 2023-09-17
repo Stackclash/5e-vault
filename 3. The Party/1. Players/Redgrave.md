@@ -13,12 +13,12 @@ stats:
   - 12
   - 16
   - 10
-Art: Redgrave.jpeg
-Race: Warforged
-Class: Cleric
-Condition: Healthy
-Location: Town of Barovia
 Party: Curse of Strahd
+art: Redgrave.jpeg
+race: Warforged
+condition: Healthy
+location: Tser Pool
+class: Cleric
 ---
 ```custom-frames
 frame: DnDBGeorge

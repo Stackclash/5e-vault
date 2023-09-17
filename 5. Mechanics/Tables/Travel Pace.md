@@ -8,7 +8,7 @@ aliases: ["Travel Pace"]
 # Travel Pace
 *Source: Player's Handbook p. 181. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullTravel Pace.md#^travel-pace]]`
+`dice: [[Travel Pace.md#^travel-pace]]`
 
 **Travel Pace**
 

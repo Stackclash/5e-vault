@@ -6,6 +6,9 @@ tags:
 aliases: ["Chapter 2: The Lands of Barovia"]
 ---
 # Chapter 2: The Lands of Barovia
+
+^91c16f
+
 *Source: Curse of Strahd, p. 23* 
 
 The idyllic valley nestled in the Balinok Mountains was a slice of heaven to those who knew of its existence before Strahd's arrival. The serenity of the place was forever shattered when Strahd led a bloody crusade against the enemies of his family that ended here with the slaughter of hundreds. Struck by the scenic beauty of his most recent conquest and eager to escape the shadow of his father's legacy, Strahd made the valley his home and named it Barovia after the late King Barov, his father.
@@ -207,6 +210,8 @@ When it comes to sharing information about their dark master, Strahd's Vistani p
 
 ### Vistani Lore
 
+^ce5cb0
+
 Vistani know or believe certain facts about their people and their surroundings. This common lore is summarized here. Characters can learn this information after earning a Vistana's trust.
 
 #### Strahd von Zarovich
@@ -272,7 +277,7 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 **Daytime Random Encounters in Barovia**
 
-| `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
+| `dice: d12 + d8` (`d12 + d8`) | Encounter |
 |-----------------|------------------|-----------|
 | 2 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|commoners]] |
 | 3 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md\|scouts]] |
@@ -297,7 +302,7 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 **Nighttime Random Encounters in Barovia**
 
-| `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
+| `dice: d12 + d8` (`d12 + d8`) | Encounter |
 |-----------------|------------------|-----------|
 | 2 | 1 [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] |
 | 3 | Hunting trap |

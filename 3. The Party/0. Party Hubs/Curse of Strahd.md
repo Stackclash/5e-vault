@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
+banner: "![[Barovia_Banner.webp]]"
+banner_y: 0
 ---
-# **Characters**
-#### **[[1. Players|Edit Players]]**
+# `=this.file.name`
+## **Characters**
+### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	embed(link(Art)) AS "Art",
+>	embed(link(art)) AS "Art",
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
@@ -16,58 +19,38 @@ TABLE WITHOUT ID
 >SORT file.name asc
 >```
 
-# **Session Log**
-#### **[[2. Session Logs|New Session Log]]**
+## **Session Log**
+### **[[2. Session Logs|New Session Log]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	QuickNotes AS "QuickNotes"
+>	summary
 > FROM "3. The Party/2. Session Logs"
 > WHERE Party = this.file.name
-> SORT file.name desc LIMIT 9
+> SORT file.date ASC
 >```
 
-# **Quests**
-#### **[[3. Quests| New Quest]]**
+## **Quests**
+### **[[3. Quests| New Quest]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	QuickNotes AS "QuickNotes"
-WHERE contains(NoteIcon, "Quest") AND contains(WhichParty, "Party 1") AND contains(status, "Active")
+>	summary
+> FROM "3. The Party/3. Quests"
+> WHERE party = this.file.name AND active AND !side-quest
 >SORT file.name asc
 >```
 
-#### **[[3. Quests| New Side Quest]]**
+### **[[3. Quests| New Side Quest]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
->	QuickNotes AS "QuickNotes"
-WHERE contains(NoteIcon, "Side") AND contains(WhichParty, "Party 1") AND contains(status, "Active")
->SORT file.name asc
->```
-
-# **Service Requests**
-#### **[[Service Request Database| New Service Request]]**
-> [!cards|dataview 3]
->```dataview
-TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	QuickNotes AS "QuickNotes"
-WHERE contains(NoteIcon, "ServiceRequest") AND contains(WhichParty, "Party 1") AND contains(status, "Requested") OR contains(status, "In-Progress") OR contains(status, "Pending Pick-Up")
->SORT file.name asc
->```
-
-# **Letters**
-#### **[[Letter Database|Add New Letter]]**
-> [!cards|dataview 3]
->```dataview
-TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	QuickNotes AS "QuickNotes"
-WHERE contains(NoteIcon, "Letter") AND contains(WhichParty, "Party 1") AND !contains(status, "PlayerRecieved")
+>	summary
+> FROM "3. The Party/3. Quests"
+> WHERE party = this.file.name AND active AND side-quest
 >SORT file.name asc
 >```
 

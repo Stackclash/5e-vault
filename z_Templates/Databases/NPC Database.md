@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
+name: NPCs
 description: new description
 columns:
   __file__:
@@ -775,8 +775,8 @@ config:
   sticky_first_column: true
   show_metadata_created: true
   show_metadata_modified: true
-  source_data: current_folder
-  source_form_result: root
+  source_data: query
+  source_form_result: "FROM \"4. World Almanac/Eldoria/NPCs\""
   show_metadata_tasks: false
   frontmatter_quote_wrap: false
   row_templates_folder: /

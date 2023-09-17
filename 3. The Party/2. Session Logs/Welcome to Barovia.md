@@ -1,18 +1,10 @@
 ---
 Party: Curse of Strahd
+date: 2023-07-08T00:00:00.000-05:00
+summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
 ---
 # Preparation
-
-## Death House
-```encounter
-creatures:
-- 3: [[swarm-of-rats, Swarm of Rat]]
-- 2: [[ghast, Ghast]]
-players: true
-```
-
-## Names
-[[04 Chapter-2 The Lands Of Barovia#^barovian-names]]
+- How to get the players to the town of Barovia?
 
 ## Maps
 - Barovia
@@ -49,35 +41,29 @@ players: true
 	- Wants players to take Kolyan Indrovich to church for burial
 #### [Church](https://5etools.mysmarthome.space/adventure.html#cos,4,e5.%20church,0)
 - Donavich: acolyte. Prays night and day to the Morning Lord to save his son
-	- Donavich will try to lock the players in the basement for Doru to eat him.
-- Doru: Vampire Spawn. Brave enough to attack lone character. "I smell your blood!" Will try to avoid the party and attack
-```encounter
-players: true
-creatures:
-- [[Doru (COS),Doru]]
-```
+- Doru: Vampire Spawn. Brave enough to attack lone character. "I smell your blood!" Will try to avoid the party and attack 
 
 ### Events
 #### [Dream Pastries](https://5etools.mysmarthome.space/adventure.html#cos,4,dream%20pastries,0)
 - [Addiction Homebrew](https://homebrewery.naturalcrit.com/share/r1-q3tL4LH)
 
-# What happened
-- The party fought Carl and Elisabeth in the first level of Death House. While the room is filled with poisonous smoke.
-- [[Yevelda Ovak]] gets possessed by Elisabeth but [[Redgrave]]  casts her out with Turn Undead. Elisabeth flees the room.
-- [[Yevelda Ovak]] searches the walls for the door, but decides to break down the now bricked up window.
-- [[Marin]] is knocked unconscious by Carl.
-- [[Seluvis Felo'melorn]] and [[Yevelda Ovak]] carry [[Marin]] out the window.
-- Once everyone is out the window Carl screeches at them as the damaged window heals and closes up.
-- The party makes its way to the store and [[Marin]] buys a [[Dagger|dagger]].
-- They go to the tavern and purchase a room where they lay down [[Marin]].
-- [[Ismark Kolyanovich]] approaches [[Redgrave]] and [[Faerah Duskrane]]  who remained downstairs.
-	- He asks them for help bringing his sister, [[Ireena Kolyana]] to [[Vallaki]].
-	- The rest of the party comes down to join the conversation
-- They go to the Burgomaster mansion and meet [[Ireena Kolyana]].
-- [[Ireena Kolyana]] reveals that [[Strahd Von Zarovich (COS)]] wants her and has bitten her twice 
-- She says she doesn't want to go unless they bury her adoptive father first 
-- The party brings the coffin to the church and meet Father Donovich
-- They hear a scream from the basement and the party presses Donovich about what it was
-- Donovich alludes that it was his son. He was very nervous and distraught
-- Donovich says that the burial happens at sundown.
-	- The party however doesn't want to stay till then and convinces [[Ireena Kolyana]] to leave early
+# What Happened
+- The party finds themselves forced together by a creepy mystical fog
+- They come to the [[Village of Barovia]] and her a small boy crying
+- Thorn and Rose bring the party to the Death House.
+- The children beg them to save their small brother, Walter
+- The party goes in when the doors shut behind them.
+- They try to force the door open and eventually blast it open with fire.
+- When outside they decide to go back in for Walter
+- While exploring the house, [[Yevelda Ovak]] continuously looks for secrets under rugs.
+- The party has a short encounter with a enchanted armor
+- They explore the library and find a secret door, they find:
+	- A deed to the death house
+	- A deed to a windmill
+	- A letter from [[Strahd Von Zarovich (COS)]] 
+	- 3 blank black books (25gp each) - [[Marin]] 
+	- three spell scrolls ([bless](app://obsidian.md/5.%20Mechanics/Spells/Bless.md), [protection from poison](app://obsidian.md/5.%20Mechanics/Spells/Protection%20From%20Poison.md), and [spiritual weapon](app://obsidian.md/5.%20Mechanics/Spells/Spiritual%20Weapon.md)) - [[Marin]] 
+- They make their way to the attic where they find the room that the children were kept.
+	- The party takes the bones of the children to put to rest
+- Guided by the ghost of Rose they find the secret door to the basement
+- In the basement they find the crypts of the family that owned the house.

@@ -1,11 +1,13 @@
 ---
-cssclass: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/underdark
-- monster/size/large
-- monster/type/aberration
-aliases: ["Beholder"]
+  - compendium/src/5e/mm
+  - monster/environment/underdark
+  - monster/size/large
+  - monster/type/aberration
+aliases:
+  - Beholder
 ---
 # Beholder
 *Source: Monster Manual p. 28, Tasha's Cauldron of Everything*  

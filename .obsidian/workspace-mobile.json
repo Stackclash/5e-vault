@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "4f0d695d5817d895",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7d87f9ea68478c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2297bee4e1d2679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Tables/Travel Pace.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc66163a2fa1a862",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a3ba51afed60fc3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5f32fe7c355a1bdd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Travel time",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "16f4a98ff78b3ec3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9cd139880f4cd85b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca1af65bfe0040c8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "5. Mechanics/Tables/Travel Pace.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eb058201f85e539e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "5. Mechanics/Tables/Travel Pace.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "11b1469dc741da8f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "5. Mechanics/Tables/Travel Pace.md"
+          }
+        }
+      },
+      {
+        "id": "ffd94a93813a05d6",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "580b571f3f6abcb6",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "b2297bee4e1d2679",
+  "lastOpenFiles": [
+    "1. DM Screen/Tools/Travel Time.md",
+    "1. DM Screen/Tools/Encounter Generator.md",
+    "1. DM Screen/1. DM Screen.md",
+    "2. Scratch Notes/1693025245103 - Test.md"
+  ]
+}
