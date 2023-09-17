@@ -92,11 +92,15 @@
             }
           },
           {
-            "id": "b84dd0b36b4534d7",
+            "id": "7b2e544b2eb4e397",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/1. Players/Marin.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -129,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Ireena",
+                "query": "file:Faerie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +142,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. The Party/1. Players/Marin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. The Party/1. Players/Marin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. The Party/1. Players/Marin.md"
+              }
             }
           },
           {
@@ -252,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,9 +280,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b84dd0b36b4534d7",
+  "active": "7b2e544b2eb4e397",
   "lastOpenFiles": [
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/1. Players/1. Players.md",
+    "5. Mechanics/Spells/Faerie Fire.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "5. Mechanics/Items/Potion Of Healing.md",
@@ -299,10 +309,7 @@
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
     "z_Templates/World Building",
     "z_Templates/Party/Quest.md",
-    "z_Templates/Party/Party Dashboard.md",
     "z_Templates/Party",
-    "z_Templates/DM Prep/Session Note.md",
-    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "z_Templates/DM Prep",
     "z_Assets/Barovia_Banner.webp",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
