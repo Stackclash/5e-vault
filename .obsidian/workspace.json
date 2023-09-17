@@ -97,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,14 +266,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e2eda03aba2f526",
+  "active": "63ec42556e4400ee",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Redgrave.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
-    "3. The Party/1. Players/Redgrave.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "1. DM Screen/Tools/Encounter Generator.md",
     "5. Mechanics/Spells/Magic Weapon.md",
@@ -292,8 +294,6 @@
     "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
     "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
     "6. Resources/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
-    "5. Mechanics/Tables/Magic Item Table A.md",
-    "conflict-files-obsidian-git.md",
     "z_Templates/World Building",
     "z_Templates/Party",
     "z_Templates/DM Prep",
