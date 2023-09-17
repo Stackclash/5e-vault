@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
               }
             }
           },
@@ -241,26 +241,11 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "d664152aa9c52526",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6cb6a85f35b660d1",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,15 +266,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a52b16791c8780a",
+  "active": "63ec42556e4400ee",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "3. The Party/1. Players/Redgrave.md",
     "1. DM Screen/Tools/Barovian Names.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "1. DM Screen/Tools/Encounter Generator.md",
-    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "5. Mechanics/Spells/Magic Weapon.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "5. Mechanics/Spells/Faerie Fire.md",
