@@ -217,12 +217,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "d664152aa9c52526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb6a85f35b660d1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +256,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d387292909ef649a",
+  "active": "ef34cacf567e1afa",
   "lastOpenFiles": [
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "5. Mechanics/Items/Potion Of Healing.md",
