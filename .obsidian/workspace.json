@@ -30,24 +30,12 @@
             }
           },
           {
-            "id": "5ed14a736823d861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d387292909ef649a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/Potion Of Healing.md",
+                "file": "5. Mechanics/Items/Items.md",
                 "mode": "preview",
                 "source": false
               }
@@ -64,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63ec42556e4400ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greater healing",
+                "query": "file:potion of healing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer Alchemist (TCE).md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
               }
             }
           },
@@ -207,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,17 +228,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3629b92bcb84e179",
+  "active": "63ec42556e4400ee",
   "lastOpenFiles": [
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Items/Potion Of Healing.md",
+    "3. The Party/2. Session Logs/Session 5.md",
+    "1. DM Screen/1. DM Screen.md",
+    "1. DM Screen/Tools/Encounter Generator.md",
+    "5. Mechanics/Items/Potion Of Greater Healing.md",
+    "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
+    "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
+    "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "6. Resources/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
-    "5. Mechanics/Items/Potion Of Healing.md",
     "5. Mechanics/Tables/Magic Item Table A.md",
-    "5. Mechanics/Items/Items.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
-    "1. DM Screen/1. DM Screen.md",
-    "3. The Party/2. Session Logs/Session 5.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "conflict-files-obsidian-git.md",
@@ -256,10 +260,6 @@
     "z_Assets/Barovia_Banner.webp",
     "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
     "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
-    "4. World Almanac/Eldoria/NPCs/Vargas Vallakovich.md",
-    "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
-    "4. World Almanac/Eldoria/NPCs/Szoldar Szoldarovich.md",
-    "4. World Almanac/Eldoria/NPCs/Rictavio.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki",
     "1. DM Screen/Tools",
