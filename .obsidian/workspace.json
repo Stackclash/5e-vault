@@ -11,9 +11,11 @@
             "id": "ecb5c69bb153cd8d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md"
+                "file": "1. DM Screen/Tools/Barovian Names.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -77,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "1. DM Screen/Tools/Barovian Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "1. DM Screen/Tools/Barovian Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
+                "file": "1. DM Screen/Tools/Barovian Names.md"
               }
             }
           },
@@ -240,14 +241,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74c59cf8c7bd70ab",
+  "active": "ecb5c69bb153cd8d",
   "lastOpenFiles": [
+    "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Encounter Generator.md",
-    "5. Mechanics/Items/Items.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+    "5. Mechanics/Items/Items.md",
     "5. Mechanics/Items/Potion Of Healing.md",
     "3. The Party/2. Session Logs/Session 5.md",
-    "1. DM Screen/1. DM Screen.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
     "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
