@@ -335,7 +335,7 @@
         "hit_dice": "9d8 + 17"
       }
     ],
-    "state": true,
+    "state": false,
     "name": "Werewolves",
     "round": 3,
     "logFile": "2. Scratch Notes/1693025245103 - Test.md",
