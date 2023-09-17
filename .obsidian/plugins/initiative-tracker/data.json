@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -261,7 +261,7 @@
         "note": "Yevelda Ovak",
         "path": "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
         "id": "ID_8b59aa283b28",
-        "currentHP": 21,
+        "currentHP": 10,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -287,7 +287,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d8 + 17"

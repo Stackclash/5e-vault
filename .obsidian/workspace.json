@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "6ca6381ff07108a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Spells/Faerie Fire.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b2e544b2eb4e397",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "file": "5. Mechanics/Spells/Faerie Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "file": "5. Mechanics/Spells/Faerie Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md"
+                "file": "5. Mechanics/Spells/Faerie Fire.md"
               }
             }
           },
@@ -280,12 +293,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef34cacf567e1afa",
+  "active": "6ca6381ff07108a2",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/Redgrave.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
-    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "3. The Party/1. Players/1. Players.md",
     "5. Mechanics/Spells/Faerie Fire.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
