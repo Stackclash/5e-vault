@@ -90,45 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ca6381ff07108a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Spells/Faerie Fire.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b2e544b2eb4e397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/1. Players/Marin.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7410bc9576888cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Spells/Divine Word.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Spells/Divine Word.md",
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Spells/Divine Word.md",
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Spells/Divine Word.md"
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md"
               }
             }
           },
@@ -284,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,11 +268,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7410bc9576888cde",
+  "active": "4a52b16791c8780a",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Yevelda Ovak.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "5. Mechanics/Spells/Faerie Fire.md",
     "3. The Party/1. Players/Marin.md",
+    "5. Mechanics/Spells/Divine Word.md",
     "3. The Party/1. Players/Redgrave.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/1. Players/1. Players.md",
@@ -320,7 +286,6 @@
     "1. DM Screen/Tools/Barovian Names.md",
     "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Encounter Generator.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
@@ -331,8 +296,6 @@
     "5. Mechanics/Tables/Magic Item Table A.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Settlement.md",
-    "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Leaflet Map.md",
     "z_Templates/World Building",
     "z_Templates/Party",
     "z_Templates/DM Prep",
