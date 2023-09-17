@@ -76,6 +76,10 @@ name: Hags
 creatures:
 - 1: Morgantha
 - 2: Night Hag
+---
+name: Werewolves
+creatures:
+- 3: Werewolf
 ```
 
 ### Secrets

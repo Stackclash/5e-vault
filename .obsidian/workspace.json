@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a99016b4cbea0042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/2. Session Logs/Session 5.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md",
+                "file": "3. The Party/2. Session Logs/Knowing the Road.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md",
+                "file": "3. The Party/2. Session Logs/Knowing the Road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md"
+                "file": "3. The Party/2. Session Logs/Knowing the Road.md"
               }
             }
           },
@@ -205,10 +217,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb4bd1be7dccafe0",
+  "active": "5ed14a736823d861",
   "lastOpenFiles": [
+    "1. DM Screen/Tools/Encounter Generator.md",
     "1. DM Screen/1. DM Screen.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
+    "3. The Party/2. Session Logs/Session 5.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "conflict-files-obsidian-git.md",
@@ -235,8 +249,6 @@
     "4. World Almanac/Eldoria/NPCs/Lucian Petrovich.md",
     "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
     "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
-    "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
-    "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki",
     "1. DM Screen/Tools",
