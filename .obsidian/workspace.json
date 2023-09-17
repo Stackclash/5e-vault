@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,13 +240,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74c59cf8c7bd70ab",
+  "active": "63ec42556e4400ee",
   "lastOpenFiles": [
+    "1. DM Screen/Tools/Encounter Generator.md",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "5. Mechanics/Items/Items.md",
     "5. Mechanics/Items/Potion Of Healing.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "1. DM Screen/1. DM Screen.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
     "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
@@ -255,7 +256,6 @@
     "6. Resources/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "5. Mechanics/Tables/Magic Item Table A.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Settlement.md",
