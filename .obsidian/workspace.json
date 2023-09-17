@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer (TCE).md",
+                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md",
                 "mode": "preview",
                 "source": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer (TCE).md",
+                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer (TCE).md",
+                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer (TCE).md"
+                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md"
               }
             }
           },
@@ -270,6 +270,8 @@
   },
   "active": "63ec42556e4400ee",
   "lastOpenFiles": [
+    "5. Mechanics/Classes/Artificer (TCE).md",
+    "5. Mechanics/Optional Features/List Artificer Infusion (TCE).md",
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
@@ -294,8 +296,6 @@
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
     "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
-    "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
     "z_Templates/World Building",
     "z_Templates/Party",
     "z_Templates/DM Prep",
