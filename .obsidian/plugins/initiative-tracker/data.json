@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -207,7 +207,7 @@
       },
       {
         "name": "Redgrave",
-        "initiative": 16,
+        "initiative": 3,
         "static": false,
         "modifier": -1,
         "hp": 24,
@@ -267,7 +267,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -282,7 +282,7 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_c89a39bb18b9",
-        "currentHP": 78,
+        "currentHP": 69,
         "tempHP": 0,
         "status": [],
         "enabled": true,

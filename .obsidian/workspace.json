@@ -90,9 +90,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b84dd0b36b4534d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -151,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -269,8 +273,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a52b16791c8780a",
+  "active": "b84dd0b36b4534d7",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "5. Mechanics/Items/Potion Of Healing.md",
@@ -300,7 +305,6 @@
     "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "z_Templates/DM Prep",
     "z_Assets/Barovia_Banner.webp",
-    "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki",
     "1. DM Screen/Tools",
