@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "1. DM Screen/Tools/Barovian Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "file": "1. DM Screen/Tools/Barovian Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
+                "file": "1. DM Screen/Tools/Barovian Names.md"
               }
             }
           },
@@ -269,8 +268,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef34cacf567e1afa",
+  "active": "ecb5c69bb153cd8d",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "1. DM Screen/Tools/Barovian Names.md",
@@ -278,7 +278,6 @@
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
     "5. Mechanics/Spells/Magic Weapon.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "5. Mechanics/Spells/Faerie Fire.md",
     "3. The Party/1. Players/Marin.md",
     "5. Mechanics/Spells/Divine Word.md",
