@@ -267,7 +267,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -332,7 +332,7 @@
         "hit_dice": "9d8 + 17"
       }
     ],
-    "state": false,
+    "state": true,
     "name": "Werewolves",
     "round": 1,
     "logFile": "2. Scratch Notes/1693025245103 - Test.md",
