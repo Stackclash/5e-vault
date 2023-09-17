@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md",
+                "file": "5. Mechanics/Classes/Artificer (TCE).md",
                 "mode": "preview",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Ireena",
+                "query": "Artificer Specialist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md",
+                "file": "5. Mechanics/Classes/Artificer (TCE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md",
+                "file": "5. Mechanics/Classes/Artificer (TCE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md"
+                "file": "5. Mechanics/Classes/Artificer (TCE).md"
               }
             }
           },
@@ -245,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,11 +270,11 @@
   },
   "active": "63ec42556e4400ee",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Marin.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
