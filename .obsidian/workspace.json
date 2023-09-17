@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:divine",
+                "query": "file:magic weapon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,8 +271,9 @@
   },
   "active": "4a52b16791c8780a",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Yevelda Ovak.md",
+    "5. Mechanics/Spells/Magic Weapon.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+    "3. The Party/1. Players/Yevelda Ovak.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "5. Mechanics/Spells/Faerie Fire.md",
     "3. The Party/1. Players/Marin.md",
@@ -295,7 +297,6 @@
     "6. Resources/Books/Van Richtens Guide To Ravenloft/4 Domains Of Ravenloft.md",
     "5. Mechanics/Tables/Magic Item Table A.md",
     "conflict-files-obsidian-git.md",
-    "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building",
     "z_Templates/Party",
     "z_Templates/DM Prep",

@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -287,7 +287,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d8 + 17"
@@ -303,7 +303,7 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_79aa8a7bdb08",
-        "currentHP": 50,
+        "currentHP": 40,
         "tempHP": 0,
         "status": [],
         "enabled": true,
