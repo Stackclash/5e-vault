@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:magic weapon",
+                "query": "file:eldrit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
               }
             }
           },
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,10 +269,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a52b16791c8780a",
+  "active": "ef34cacf567e1afa",
   "lastOpenFiles": [
-    "5. Mechanics/Spells/Magic Weapon.md",
+    "3. The Party/2. Session Logs/Session 5.md",
+    "3. The Party/2. Session Logs/Knowing the Road.md",
+    "1. DM Screen/Tools/Barovian Names.md",
+    "1. DM Screen/Tools/Encounter Generator.md",
     "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+    "5. Mechanics/Spells/Magic Weapon.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "5. Mechanics/Spells/Faerie Fire.md",
@@ -281,14 +285,10 @@
     "3. The Party/1. Players/Redgrave.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/1. Players/1. Players.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "5. Mechanics/Items/Potion Of Healing.md",
     "5. Mechanics/Items/Items.md",
-    "1. DM Screen/Tools/Barovian Names.md",
     "1. DM Screen/1. DM Screen.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
-    "3. The Party/2. Session Logs/Session 5.md",
     "5. Mechanics/Items/Potion Of Greater Healing.md",
     "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
     "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
