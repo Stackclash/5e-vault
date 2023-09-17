@@ -259,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,7 +280,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b2e544b2eb4e397",
+  "active": "ef34cacf567e1afa",
   "lastOpenFiles": [
     "3. The Party/1. Players/Redgrave.md",
     "3. The Party/1. Players/Marin.md",
