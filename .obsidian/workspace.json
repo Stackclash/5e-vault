@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "812753d117a5ccc6",
+        "id": "bdcb64ad739edb7c",
         "type": "tabs",
         "children": [
           {
-            "id": "1da6294caac95a98",
+            "id": "418471cf72d1a7e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Items/Items.md",
+                "file": "5. Mechanics/Backgrounds/Backgrounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Items/Items.md",
+                "file": "5. Mechanics/Backgrounds/Backgrounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Items/Items.md"
+                "file": "5. Mechanics/Backgrounds/Backgrounds.md"
               }
             }
           },
@@ -181,11 +181,15 @@
   },
   "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "5. Mechanics/Backgrounds/Investigator (VRGR).md",
+    "5. Mechanics/Backgrounds/Haunted One (VRGR).md",
+    "5. Mechanics/Backgrounds/Backgrounds.md",
+    "1. DM Screen/1. DM Screen.md",
+    "5. Mechanics/Items/Items.md",
     "5. Mechanics/Items/Alchemy Jug.md",
     "5. Mechanics/Items/Amethyst.md",
     "5. Mechanics/Items/Amulet.md",
     "5. Mechanics/Items/1 All Purpose Tool (TCE).md",
-    "5. Mechanics/Items/Items.md",
     "5. Mechanics/Objects/Objects.md",
     "5. Mechanics/Objects/Trebuchet.md",
     "5. Mechanics/Objects/Suspended Cauldron.md",
@@ -203,10 +207,6 @@
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/1. Players/Redgrave.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "z_Templates/World Building",
     "z_Templates/Party",
     "z_Templates/DM Prep",
