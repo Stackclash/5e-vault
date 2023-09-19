@@ -8,7 +8,7 @@ aliases: ["Identify Important NPCs; Adventure Villains"]
 # Identify Important NPCs; Adventure Villains
 *Source: Dungeon Master's Guide p. 74* 
 
-`dice: [[nullIdentify Important Npcs Adventure Villains.md#^adventure-villains]]`
+`dice: [[Identify Important Npcs Adventure Villains.md#^adventure-villains]]`
 
 **Adventure Villains**
 

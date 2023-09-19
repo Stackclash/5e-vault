@@ -8,7 +8,7 @@ aliases: ["Individual Treasure: Challenge 17+"]
 # Individual Treasure: Challenge 17+
 *Source: Dungeon Master's Guide p. 133* 
 
-`dice: [[nullIndividual Treasure Challenge-17.md#^individual-treasure-challenge-17]]`
+`dice: [[Individual Treasure Challenge-17.md#^individual-treasure-challenge-17]]`
 
 **Individual Treasure: Challenge 17+**
 

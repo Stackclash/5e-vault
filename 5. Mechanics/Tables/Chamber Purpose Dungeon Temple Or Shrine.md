@@ -8,7 +8,7 @@ aliases: ["Chamber Purpose; Dungeon: Temple or Shrine"]
 # Chamber Purpose; Dungeon: Temple or Shrine
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[nullChamber Purpose Dungeon Temple Or Shrine.md#^dungeon-temple-or-shrine]]`
+`dice: [[Chamber Purpose Dungeon Temple Or Shrine.md#^dungeon-temple-or-shrine]]`
 
 **Dungeon: Temple or Shrine**
 

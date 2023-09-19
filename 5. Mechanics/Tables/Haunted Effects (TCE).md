@@ -8,7 +8,7 @@ aliases: ["Haunted Effects"]
 # Haunted Effects
 *Source: Tasha's Cauldron of Everything p. 154* 
 
-`dice: [[nullHaunted Effects (TCE).md#^haunted-effects]]`
+`dice: [[Haunted Effects (TCE).md#^haunted-effects]]`
 
 **Haunted Effects**
 

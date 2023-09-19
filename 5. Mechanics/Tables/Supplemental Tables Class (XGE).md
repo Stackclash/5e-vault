@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Class"]
 # Supplemental Tables; Class
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[nullSupplemental Tables Class (XGE).md#^class]]`
+`dice: [[Supplemental Tables Class (XGE).md#^class]]`
 
 **Class**
 

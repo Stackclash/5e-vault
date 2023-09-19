@@ -8,7 +8,7 @@ aliases: ["Lower-Class Carousing Complications"]
 # Lower-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 
 
-`dice: [[nullLower Class Carousing Complications (XGE).md#^table]]`
+`dice: [[Lower Class Carousing Complications (XGE).md#^table]]`
 
 **Lower-Class Carousing Complications**
 

@@ -8,7 +8,7 @@ aliases: ["Dungeon Location"]
 # Dungeon Location
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[nullDungeon Location.md#^dungeon-location]]`
+`dice: [[Dungeon Location.md#^dungeon-location]]`
 
 **Dungeon Location**
 

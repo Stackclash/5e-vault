@@ -8,7 +8,7 @@ aliases: ["Ghost's History"]
 # Ghost's History
 *Source: Van Richten's Guide to Ravenloft p. 148* 
 
-`dice: [[nullGhosts History (VRGR).md#^ghosts-history]]`
+`dice: [[Ghosts History (VRGR).md#^ghosts-history]]`
 
 **Ghost's History**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Battle Master"]
 ---
 # Battle Master
-*[[nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 73*  
 
 

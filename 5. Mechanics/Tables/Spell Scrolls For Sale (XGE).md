@@ -8,7 +8,7 @@ aliases: ["Spell Scrolls for Sale"]
 # Spell Scrolls for Sale
 *Source: Xanathar's Guide to Everything* 
 
-`dice: [[nullSpell Scrolls For Sale (XGE).md#^spell-scrolls-for-sale]]`
+`dice: [[Spell Scrolls For Sale (XGE).md#^spell-scrolls-for-sale]]`
 
 **Spell Scrolls for Sale**
 

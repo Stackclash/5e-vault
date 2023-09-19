@@ -8,7 +8,7 @@ aliases: ["Blessed Radiance Effects"]
 # Blessed Radiance Effects
 *Source: Tasha's Cauldron of Everything p. 150* 
 
-`dice: [[nullBlessed Radiance Effects (TCE).md#^blessed-radiance-effects]]`
+`dice: [[Blessed Radiance Effects (TCE).md#^blessed-radiance-effects]]`
 
 **Blessed Radiance Effects**
 

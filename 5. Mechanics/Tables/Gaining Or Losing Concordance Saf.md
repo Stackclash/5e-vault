@@ -8,7 +8,7 @@ aliases: ["Gaining or Losing Concordance"]
 # Gaining or Losing Concordance
 *Source: Strongholds and Followers p. 30* 
 
-`dice: [[nullGaining Or Losing Concordance Saf.md#^circumstance-bonus]]`
+`dice: [[Gaining Or Losing Concordance Saf.md#^circumstance-bonus]]`
 
 | Circumstance | Bonus |
 |--------------|-------|

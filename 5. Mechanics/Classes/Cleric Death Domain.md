@@ -8,7 +8,7 @@ tags:
 aliases: ["Death Domain"]
 ---
 # Death Domain
-*[[nullCleric.md\|Cleric]]: Divine Domain*  
+*[[Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Dungeon Master's Guide p. 96*  
 
 

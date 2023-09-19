@@ -8,7 +8,7 @@ aliases: ["Alchemy Test"]
 # Alchemy Test
 *Source: Strongholds and Followers* 
 
-`dice: [[nullAlchemy Test Saf.md#^alchemy-test]]`
+`dice: [[Alchemy Test Saf.md#^alchemy-test]]`
 
 **Alchemy Test**
 

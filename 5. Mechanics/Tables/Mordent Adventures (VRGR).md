@@ -8,7 +8,7 @@ aliases: ["Mordent Adventures"]
 # Mordent Adventures
 *Source: Van Richten's Guide to Ravenloft p. 147* 
 
-`dice: [[nullMordent Adventures (VRGR).md#^mordent-adventures]]`
+`dice: [[Mordent Adventures (VRGR).md#^mordent-adventures]]`
 
 **Mordent Adventures**
 

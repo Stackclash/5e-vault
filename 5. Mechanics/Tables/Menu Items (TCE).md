@@ -8,7 +8,7 @@ aliases: ["Menu Items"]
 # Menu Items
 *Source: Tasha's Cauldron of Everything p. 187* 
 
-`dice: [[nullMenu Items (TCE).md#^menu-items]]`
+`dice: [[Menu Items (TCE).md#^menu-items]]`
 
 **Menu Items**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["The Fiend"]
 ---
 # The Fiend
-*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Player's Handbook p. 109. Available in the SRD.*  
 
 

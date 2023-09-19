@@ -8,7 +8,7 @@ aliases: ["Inventing a New Spell; The Spell Targets You or One Ally"]
 # Inventing a New Spell; The Spell Targets You or One Ally
 *Source: Strongholds and Followers* 
 
-`dice: [[nullInventing A New Spell The Spell Targets You Or One Ally Saf.md#^the-spell-targets-you-or-one-ally]]`
+`dice: [[Inventing A New Spell The Spell Targets You Or One Ally Saf.md#^the-spell-targets-you-or-one-ally]]`
 
 **The Spell Targets You or One Ally**
 

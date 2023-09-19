@@ -8,7 +8,7 @@ aliases: ["Har'Akir Adventures"]
 # Har'Akir Adventures
 *Source: Van Richten's Guide to Ravenloft p. 110* 
 
-`dice: [[nullHarakir Adventures (VRGR).md#^harakir-adventures]]`
+`dice: [[Harakir Adventures (VRGR).md#^harakir-adventures]]`
 
 **Har'Akir Adventures**
 

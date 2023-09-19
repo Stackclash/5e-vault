@@ -8,7 +8,7 @@ aliases: ["Darkon Rivals"]
 # Darkon Rivals
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
-`dice: [[nullDarkon Rivals (VRGR).md#^darkon-rivals]]`
+`dice: [[Darkon Rivals (VRGR).md#^darkon-rivals]]`
 
 **Darkon Rivals**
 

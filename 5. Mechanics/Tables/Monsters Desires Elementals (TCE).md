@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Elementals"]
 # Monsters' Desires; Elementals
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Elementals (TCE).md#^elementals]]`
+`dice: [[Monsters Desires Elementals (TCE).md#^elementals]]`
 
 **Elementals**
 

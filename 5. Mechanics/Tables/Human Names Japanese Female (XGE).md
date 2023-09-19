@@ -8,7 +8,7 @@ aliases: ["Human Names – Japanese, Female"]
 # Human Names – Japanese, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Japanese Female (XGE).md#^human-names-japanese-female]]`
+`dice: [[Human Names Japanese Female (XGE).md#^human-names-japanese-female]]`
 
 **Human Names – Japanese, Female**
 

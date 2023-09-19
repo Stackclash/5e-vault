@@ -8,7 +8,7 @@ aliases: ["Modify Total XP for Multiple Monsters; Encounter Multipliers"]
 # Modify Total XP for Multiple Monsters; Encounter Multipliers
 *Source: Dungeon Master's Guide p. 82. Available in the Basic Rules.* 
 
-`dice: [[nullModify Total Xp For Multiple Monsters Encounter Multipliers.md#^encounter-multipliers]]`
+`dice: [[Modify Total Xp For Multiple Monsters Encounter Multipliers.md#^encounter-multipliers]]`
 
 **Encounter Multipliers**
 

@@ -8,7 +8,7 @@ aliases: ["Types of Criminal Syndicates; Syndicate Types"]
 # Types of Criminal Syndicates; Syndicate Types
 *Source: Tasha's Cauldron of Everything p. 91* 
 
-`dice: [[nullTypes Of Criminal Syndicates Syndicate Types (TCE).md#^syndicate-types]]`
+`dice: [[Types Of Criminal Syndicates Syndicate Types (TCE).md#^syndicate-types]]`
 
 **Syndicate Types**
 

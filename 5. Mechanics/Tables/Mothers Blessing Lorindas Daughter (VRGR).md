@@ -8,7 +8,7 @@ aliases: ["Mother's Blessing; Lorinda's Daughter"]
 # Mother's Blessing; Lorinda's Daughter
 *Source: Van Richten's Guide to Ravenloft p. 161* 
 
-`dice: [[nullMothers Blessing Lorindas Daughter (VRGR).md#^lorindas-daughter]]`
+`dice: [[Mothers Blessing Lorindas Daughter (VRGR).md#^lorindas-daughter]]`
 
 **Lorinda's Daughter**
 

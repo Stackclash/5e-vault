@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Trickster"]
 ---
 # Arcane Trickster
-*[[nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97*  
 
 > [!tldr]- Class progression

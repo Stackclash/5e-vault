@@ -7,7 +7,7 @@ tags:
 aliases: ["Bladesinging"]
 ---
 # Bladesinging
-*[[nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Tasha's Cauldron of Everything p. 76*  
 
 

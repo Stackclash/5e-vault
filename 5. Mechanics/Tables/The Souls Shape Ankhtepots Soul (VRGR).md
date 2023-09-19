@@ -8,7 +8,7 @@ aliases: ["The Soul's Shape; Ankhtepot's Soul"]
 # The Soul's Shape; Ankhtepot's Soul
 *Source: Van Richten's Guide to Ravenloft p. 110* 
 
-`dice: [[nullThe Souls Shape Ankhtepots Soul (VRGR).md#^ankhtepots-soul]]`
+`dice: [[The Souls Shape Ankhtepots Soul (VRGR).md#^ankhtepots-soul]]`
 
 **Ankhtepot's Soul**
 

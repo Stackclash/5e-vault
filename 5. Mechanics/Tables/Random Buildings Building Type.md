@@ -8,7 +8,7 @@ aliases: ["Random Buildings; Building Type"]
 # Random Buildings; Building Type
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[nullRandom Buildings Building Type.md#^building-type]]`
+`dice: [[Random Buildings Building Type.md#^building-type]]`
 
 **Building Type**
 

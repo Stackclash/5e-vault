@@ -8,7 +8,7 @@ aliases: ["Forest Encounters (Levels 11—16)"]
 # Forest Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 97* 
 
-`dice: [[nullForest Encounters Levels-1116 (XGE).md#^forest-encounters-levels-1116]]`
+`dice: [[Forest Encounters Levels-1116 (XGE).md#^forest-encounters-levels-1116]]`
 
 **Forest Encounters (Levels 11—16)**
 

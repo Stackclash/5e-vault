@@ -8,7 +8,7 @@ aliases: ["Spells as Natural Hazards"]
 # Spells as Natural Hazards
 *Source: Tasha's Cauldron of Everything p. 170* 
 
-`dice: [[nullSpells As Natural Hazards (TCE).md#^spells-as-natural-hazards]]`
+`dice: [[Spells As Natural Hazards (TCE).md#^spells-as-natural-hazards]]`
 
 **Spells as Natural Hazards**
 

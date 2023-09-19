@@ -8,7 +8,7 @@ aliases: ["Guild Types"]
 # Guild Types
 *Source: Tasha's Cauldron of Everything p. 93* 
 
-`dice: [[nullGuild Types (TCE).md#^guild-types]]`
+`dice: [[Guild Types (TCE).md#^guild-types]]`
 
 **Guild Types**
 

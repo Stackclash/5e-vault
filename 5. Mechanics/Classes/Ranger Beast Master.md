@@ -7,7 +7,7 @@ tags:
 aliases: ["Beast Master"]
 ---
 # Beast Master
-*[[nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93*  
 
 

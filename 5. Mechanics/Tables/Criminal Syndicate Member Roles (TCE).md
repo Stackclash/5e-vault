@@ -8,7 +8,7 @@ aliases: ["Criminal Syndicate Member Roles"]
 # Criminal Syndicate Member Roles
 *Source: Tasha's Cauldron of Everything p. 92* 
 
-`dice: [[nullCriminal Syndicate Member Roles (TCE).md#^criminal-syndicate-member-roles]]`
+`dice: [[Criminal Syndicate Member Roles (TCE).md#^criminal-syndicate-member-roles]]`
 
 **Criminal Syndicate Member Roles**
 

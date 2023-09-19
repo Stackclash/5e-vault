@@ -8,7 +8,7 @@ aliases: ["Criminal Syndicate Contact; Syndicate Contact"]
 # Criminal Syndicate Contact; Syndicate Contact
 *Source: Tasha's Cauldron of Everything p. 92* 
 
-`dice: [[nullCriminal Syndicate Contact Syndicate Contact (TCE).md#^syndicate-contact]]`
+`dice: [[Criminal Syndicate Contact Syndicate Contact (TCE).md#^syndicate-contact]]`
 
 **Syndicate Contact**
 

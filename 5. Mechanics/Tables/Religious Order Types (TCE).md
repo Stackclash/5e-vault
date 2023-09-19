@@ -8,7 +8,7 @@ aliases: ["Religious Order Types"]
 # Religious Order Types
 *Source: Tasha's Cauldron of Everything p. 98* 
 
-`dice: [[nullReligious Order Types (TCE).md#^religious-order-types]]`
+`dice: [[Religious Order Types (TCE).md#^religious-order-types]]`
 
 **Religious Order Types**
 

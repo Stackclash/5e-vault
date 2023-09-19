@@ -8,7 +8,7 @@ tags:
 aliases: ["Twilight Domain"]
 ---
 # Twilight Domain
-*[[nullCleric.md\|Cleric]]: Divine Domain*  
+*[[Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
 

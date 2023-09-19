@@ -8,7 +8,7 @@ aliases: ["Academy Contact"]
 # Academy Contact
 *Source: Tasha's Cauldron of Everything p. 85* 
 
-`dice: [[nullAcademy Contact (TCE).md#^academy-contact]]`
+`dice: [[Academy Contact (TCE).md#^academy-contact]]`
 
 **Academy Contact**
 

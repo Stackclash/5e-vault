@@ -8,7 +8,7 @@ aliases: ["Horror Characteristics; Horror Character Flaws"]
 # Horror Characteristics; Horror Character Flaws
 *Source: Van Richten's Guide to Ravenloft p. 32* 
 
-`dice: [[nullHorror Characteristics Horror Character Flaws (VRGR).md#^horror-character-flaws]]`
+`dice: [[Horror Characteristics Horror Character Flaws (VRGR).md#^horror-character-flaws]]`
 
 **Horror Character Flaws**
 

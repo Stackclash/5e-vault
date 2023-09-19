@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 11—16)"]
 # Desert Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[nullDesert Encounters Levels-1116 (XGE).md#^desert-encounters-levels-1116]]`
+`dice: [[Desert Encounters Levels-1116 (XGE).md#^desert-encounters-levels-1116]]`
 
 **Desert Encounters (Levels 11—16)**
 

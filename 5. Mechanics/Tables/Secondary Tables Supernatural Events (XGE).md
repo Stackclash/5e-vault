@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Supernatural Events"]
 # Secondary Tables; Supernatural Events
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Supernatural Events (XGE).md#^supernatural-events]]`
+`dice: [[Secondary Tables Supernatural Events (XGE).md#^supernatural-events]]`
 
 **Supernatural Events**
 

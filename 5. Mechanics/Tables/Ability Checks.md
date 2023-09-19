@@ -8,7 +8,7 @@ aliases: ["Ability Checks"]
 # Ability Checks
 *Source: Dungeon Master's Guide p. 237* 
 
-`dice: [[nullAbility Checks.md#^ability-checks]]`
+`dice: [[Ability Checks.md#^ability-checks]]`
 
 **Ability Checks**
 

@@ -8,7 +8,7 @@ aliases: ["Long-Term Madness"]
 # Long-Term Madness
 *Source: Dungeon Master's Guide p. 259. Available in the SRD.* 
 
-`dice: [[nullLong Term Madness.md#^long-term-madness]]`
+`dice: [[Long Term Madness.md#^long-term-madness]]`
 
 **Long-Term Madness**
 

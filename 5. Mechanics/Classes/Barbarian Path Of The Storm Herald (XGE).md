@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Storm Herald"]
 ---
 # Path of the Storm Herald
-*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Creating Your Own Units; Unit Equipment"]
 # Creating Your Own Units; Unit Equipment
 *Source: Strongholds and Followers* 
 
-`dice: [[nullCreating Your Own Units Unit Equipment Saf.md#^unit-equipment]]`
+`dice: [[Creating Your Own Units Unit Equipment Saf.md#^unit-equipment]]`
 
 **Unit Equipment**
 

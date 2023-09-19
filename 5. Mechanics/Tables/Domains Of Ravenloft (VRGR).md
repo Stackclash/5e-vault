@@ -8,7 +8,7 @@ aliases: ["Domains of Ravenloft"]
 # Domains of Ravenloft
 *Source: Van Richten's Guide to Ravenloft p. 168* 
 
-`dice: [[nullDomains Of Ravenloft (VRGR).md#^domains-of-ravenloft]]`
+`dice: [[Domains Of Ravenloft (VRGR).md#^domains-of-ravenloft]]`
 
 **Domains of Ravenloft**
 

@@ -8,7 +8,7 @@ aliases: ["Criminal Syndicate Quests"]
 # Criminal Syndicate Quests
 *Source: Tasha's Cauldron of Everything p. 93* 
 
-`dice: [[nullCriminal Syndicate Quests (TCE).md#^criminal-syndicate-quests]]`
+`dice: [[Criminal Syndicate Quests (TCE).md#^criminal-syndicate-quests]]`
 
 **Criminal Syndicate Quests**
 

@@ -8,7 +8,7 @@ aliases: ["Sorcerer Followers"]
 # Sorcerer Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullSorcerer Followers Saf.md#^sorcerer-followers]]`
+`dice: [[Sorcerer Followers Saf.md#^sorcerer-followers]]`
 
 **Sorcerer Followers**
 

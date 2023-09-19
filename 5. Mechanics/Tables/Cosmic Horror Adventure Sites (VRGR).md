@@ -8,7 +8,7 @@ aliases: ["Cosmic Horror Adventure Sites"]
 # Cosmic Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
-`dice: [[nullCosmic Horror Adventure Sites (VRGR).md#^cosmic-horror-adventure-sites]]`
+`dice: [[Cosmic Horror Adventure Sites (VRGR).md#^cosmic-horror-adventure-sites]]`
 
 **Cosmic Horror Adventure Sites**
 

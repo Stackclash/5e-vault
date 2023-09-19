@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Undead"]
 # Monsters' Desires; Undead
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Undead (TCE).md#^undead]]`
+`dice: [[Monsters Desires Undead (TCE).md#^undead]]`
 
 **Undead**
 

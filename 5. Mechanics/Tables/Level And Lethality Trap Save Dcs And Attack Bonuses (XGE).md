@@ -8,7 +8,7 @@ aliases: ["Level and Lethality; Trap Save DCs and Attack Bonuses"]
 # Level and Lethality; Trap Save DCs and Attack Bonuses
 *Source: Xanathar's Guide to Everything p. 116* 
 
-`dice: [[nullLevel And Lethality Trap Save Dcs And Attack Bonuses (XGE).md#^trap-save-dcs-and-attack-bonuses]]`
+`dice: [[Level And Lethality Trap Save Dcs And Attack Bonuses (XGE).md#^trap-save-dcs-and-attack-bonuses]]`
 
 **Trap Save DCs and Attack Bonuses**
 

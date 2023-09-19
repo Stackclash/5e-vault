@@ -8,7 +8,7 @@ aliases: ["Magic Item Rarity"]
 # Magic Item Rarity
 *Source: Dungeon Master's Guide p. 135* 
 
-`dice: [[nullMagic Item Rarity.md#^magic-item-rarity]]`
+`dice: [[Magic Item Rarity.md#^magic-item-rarity]]`
 
 **Magic Item Rarity**
 

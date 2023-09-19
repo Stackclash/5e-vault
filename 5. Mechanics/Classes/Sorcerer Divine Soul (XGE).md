@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Soul"]
 ---
 # Divine Soul
-*[[nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 

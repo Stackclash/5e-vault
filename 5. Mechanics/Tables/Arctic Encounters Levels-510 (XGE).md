@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 5—10)"]
 # Arctic Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[nullArctic Encounters Levels-510 (XGE).md#^arctic-encounters-levels-510]]`
+`dice: [[Arctic Encounters Levels-510 (XGE).md#^arctic-encounters-levels-510]]`
 
 **Arctic Encounters (Levels 5—10)**
 

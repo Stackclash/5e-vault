@@ -8,7 +8,7 @@ aliases: ["Borca Adventures"]
 # Borca Adventures
 *Source: Van Richten's Guide to Ravenloft p. 81* 
 
-`dice: [[nullBorca Adventures (VRGR).md#^borca-adventures]]`
+`dice: [[Borca Adventures (VRGR).md#^borca-adventures]]`
 
 **Borca Adventures**
 

@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Crime"]
 # Secondary Tables; Crime
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Crime (XGE).md#^crime]]`
+`dice: [[Secondary Tables Crime (XGE).md#^crime]]`
 
 **Crime**
 

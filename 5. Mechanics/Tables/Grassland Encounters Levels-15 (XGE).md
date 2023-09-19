@@ -8,7 +8,7 @@ aliases: ["Grassland Encounters (Levels 1—5)"]
 # Grassland Encounters (Levels 1—5)
 *Source: Xanathar's Guide to Everything p. 100* 
 
-`dice: [[nullGrassland Encounters Levels-15 (XGE).md#^grassland-encounters-levels-15]]`
+`dice: [[Grassland Encounters Levels-15 (XGE).md#^grassland-encounters-levels-15]]`
 
 **Grassland Encounters (Levels 1—5)**
 

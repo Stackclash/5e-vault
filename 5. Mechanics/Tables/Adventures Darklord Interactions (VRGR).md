@@ -8,7 +8,7 @@ aliases: ["Adventures; Darklord Interactions"]
 # Adventures; Darklord Interactions
 *Source: Van Richten's Guide to Ravenloft p. 44* 
 
-`dice: [[nullAdventures Darklord Interactions (VRGR).md#^darklord-interactions]]`
+`dice: [[Adventures Darklord Interactions (VRGR).md#^darklord-interactions]]`
 
 **Darklord Interactions**
 

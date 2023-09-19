@@ -8,7 +8,7 @@ aliases: ["Creating Your Own Units; Unit Traits"]
 # Creating Your Own Units; Unit Traits
 *Source: Strongholds and Followers* 
 
-`dice: [[nullCreating Your Own Units Unit Traits Saf.md#^unit-traits]]`
+`dice: [[Creating Your Own Units Unit Traits Saf.md#^unit-traits]]`
 
 **Unit Traits**
 

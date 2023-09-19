@@ -8,7 +8,7 @@ aliases: ["Human Names – Niger-Congo, Male"]
 # Human Names – Niger-Congo, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Niger Congo Male (XGE).md#^human-names-niger-congo-male]]`
+`dice: [[Human Names Niger Congo Male (XGE).md#^human-names-niger-congo-male]]`
 
 **Human Names – Niger-Congo, Male**
 

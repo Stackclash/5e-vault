@@ -8,7 +8,7 @@ aliases: ["A Sample Pantheon; Dawn War Deities"]
 # A Sample Pantheon; Dawn War Deities
 *Source: Dungeon Master's Guide p. 11* 
 
-`dice: [[nullA Sample Pantheon Dawn War Deities.md#^dawn-war-deities]]`
+`dice: [[A Sample Pantheon Dawn War Deities.md#^dawn-war-deities]]`
 
 **Dawn War Deities**
 

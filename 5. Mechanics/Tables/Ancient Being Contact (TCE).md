@@ -8,7 +8,7 @@ aliases: ["Ancient Being Contact"]
 # Ancient Being Contact
 *Source: Tasha's Cauldron of Everything p. 87* 
 
-`dice: [[nullAncient Being Contact (TCE).md#^ancient-being-contact]]`
+`dice: [[Ancient Being Contact (TCE).md#^ancient-being-contact]]`
 
 **Ancient Being Contact**
 

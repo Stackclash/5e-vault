@@ -8,7 +8,7 @@ aliases: ["Urban Encounters"]
 # Urban Encounters
 *Source: Dungeon Master's Guide p. 114* 
 
-`dice: [[nullUrban Encounters.md#^urban-encounters]]`
+`dice: [[Urban Encounters.md#^urban-encounters]]`
 
 **Urban Encounters**
 

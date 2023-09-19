@@ -8,7 +8,7 @@ aliases: ["Adventuring Gear"]
 # Adventuring Gear
 *Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullAdventuring Gear.md#^adventuring-gear]]`
+`dice: [[Adventuring Gear.md#^adventuring-gear]]`
 
 **Adventuring Gear**
 

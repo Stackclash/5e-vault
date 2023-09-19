@@ -8,7 +8,7 @@ aliases: ["Variant: Customizing Ability Scores; Ability Score Point Cost"]
 # Variant: Customizing Ability Scores; Ability Score Point Cost
 *Source: Player's Handbook p. 13. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullVariant Customizing Ability Scores Ability Score Point Cost.md#^ability-score-point-cost]]`
+`dice: [[Variant Customizing Ability Scores Ability Score Point Cost.md#^ability-score-point-cost]]`
 
 **Ability Score Point Cost**
 

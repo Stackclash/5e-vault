@@ -8,7 +8,7 @@ aliases: ["Military Force Contact; Commanding Officer"]
 # Military Force Contact; Commanding Officer
 *Source: Tasha's Cauldron of Everything p. 97* 
 
-`dice: [[nullMilitary Force Contact Commanding Officer (TCE).md#^commanding-officer]]`
+`dice: [[Military Force Contact Commanding Officer (TCE).md#^commanding-officer]]`
 
 **Commanding Officer**
 

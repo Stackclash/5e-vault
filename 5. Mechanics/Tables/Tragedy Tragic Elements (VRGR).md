@@ -8,7 +8,7 @@ aliases: ["Tragedy; Tragic Elements"]
 # Tragedy; Tragic Elements
 *Source: Van Richten's Guide to Ravenloft p. 148* 
 
-`dice: [[nullTragedy Tragic Elements (VRGR).md#^tragic-elements]]`
+`dice: [[Tragedy Tragic Elements (VRGR).md#^tragic-elements]]`
 
 **Tragic Elements**
 

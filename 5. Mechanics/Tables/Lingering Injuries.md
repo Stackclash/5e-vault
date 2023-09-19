@@ -8,7 +8,7 @@ aliases: ["Lingering Injuries"]
 # Lingering Injuries
 *Source: Dungeon Master's Guide p. 272* 
 
-`dice: [[nullLingering Injuries.md#^lingering-injuries]]`
+`dice: [[Lingering Injuries.md#^lingering-injuries]]`
 
 **Lingering Injuries**
 

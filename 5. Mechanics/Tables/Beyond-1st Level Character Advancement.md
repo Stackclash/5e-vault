@@ -8,7 +8,7 @@ aliases: ["Beyond 1st Level; Character Advancement"]
 # Beyond 1st Level; Character Advancement
 *Source: Player's Handbook p. 15. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullBeyond-1st Level Character Advancement.md#^character-advancement]]`
+`dice: [[Beyond-1st Level Character Advancement.md#^character-advancement]]`
 
 **Character Advancement**
 

@@ -8,7 +8,7 @@ aliases: ["Discovery, Expansion, Invention; Discoveries"]
 # Discovery, Expansion, Invention; Discoveries
 *Source: Dungeon Master's Guide p. 31* 
 
-`dice: [[nullDiscovery Expansion Invention Discoveries.md#^discoveries]]`
+`dice: [[Discovery Expansion Invention Discoveries.md#^discoveries]]`
 
 **Discoveries**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Lore"]
 ---
 # College of Lore
-*[[nullBard.md\|Bard]]: Bard College*  
+*[[Bard.md\|Bard]]: Bard College*  
 *Source: Player's Handbook p. 54. Available in the SRD.*  
 
 

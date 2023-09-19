@@ -8,7 +8,7 @@ aliases: ["Dread in Darkon"]
 # Dread in Darkon
 *Source: Van Richten's Guide to Ravenloft p. 93* 
 
-`dice: [[nullDread In Darkon (VRGR).md#^dread-in-darkon]]`
+`dice: [[Dread In Darkon (VRGR).md#^dread-in-darkon]]`
 
 **Dread in Darkon**
 

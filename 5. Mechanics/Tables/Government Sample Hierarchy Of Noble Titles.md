@@ -8,7 +8,7 @@ aliases: ["Government; Sample Hierarchy of Noble Titles"]
 # Government; Sample Hierarchy of Noble Titles
 *Source: Dungeon Master's Guide p. 17* 
 
-`dice: [[nullGovernment Sample Hierarchy Of Noble Titles.md#^sample-hierarchy-of-noble-titles]]`
+`dice: [[Government Sample Hierarchy Of Noble Titles.md#^sample-hierarchy-of-noble-titles]]`
 
 **Sample Hierarchy of Noble Titles**
 

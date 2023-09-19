@@ -8,7 +8,7 @@ aliases: ["Human Names – German, Male"]
 # Human Names – German, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names German Male (XGE).md#^human-names-german-male]]`
+`dice: [[Human Names German Male (XGE).md#^human-names-german-male]]`
 
 **Human Names – German, Male**
 

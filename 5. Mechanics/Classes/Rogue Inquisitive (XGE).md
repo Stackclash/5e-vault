@@ -7,7 +7,7 @@ tags:
 aliases: ["Inquisitive"]
 ---
 # Inquisitive
-*[[nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Xanathar's Guide to Everything p. 45*  
 
 

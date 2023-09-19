@@ -7,7 +7,7 @@ tags:
 aliases: ["School of Abjuration"]
 ---
 # School of Abjuration
-*[[nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 115*  
 
 

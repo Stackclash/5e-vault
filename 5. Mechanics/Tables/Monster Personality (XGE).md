@@ -8,7 +8,7 @@ aliases: ["Monster Personality"]
 # Monster Personality
 *Source: Xanathar's Guide to Everything p. 91* 
 
-`dice: [[nullMonster Personality (XGE).md#^monster-personality]]`
+`dice: [[Monster Personality (XGE).md#^monster-personality]]`
 
 **Monster Personality**
 

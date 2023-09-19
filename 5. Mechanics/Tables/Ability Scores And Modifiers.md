@@ -8,7 +8,7 @@ aliases: ["Ability Scores and Modifiers"]
 # Ability Scores and Modifiers
 *Source: Player's Handbook p. 173. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullAbility Scores And Modifiers.md#^ability-scores-and-modifiers]]`
+`dice: [[Ability Scores And Modifiers.md#^ability-scores-and-modifiers]]`
 
 **Ability Scores and Modifiers**
 

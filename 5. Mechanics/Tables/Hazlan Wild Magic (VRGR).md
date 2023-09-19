@@ -8,7 +8,7 @@ aliases: ["Hazlan Wild Magic"]
 # Hazlan Wild Magic
 *Source: Van Richten's Guide to Ravenloft p. 116* 
 
-`dice: [[nullHazlan Wild Magic (VRGR).md#^hazlan-wild-magic]]`
+`dice: [[Hazlan Wild Magic (VRGR).md#^hazlan-wild-magic]]`
 
 **Hazlan Wild Magic**
 

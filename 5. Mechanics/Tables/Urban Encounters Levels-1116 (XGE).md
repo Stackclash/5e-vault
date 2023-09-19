@@ -8,7 +8,7 @@ aliases: ["Urban Encounters (Levels 11—16)"]
 # Urban Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 110* 
 
-`dice: [[nullUrban Encounters Levels-1116 (XGE).md#^urban-encounters-levels-1116]]`
+`dice: [[Urban Encounters Levels-1116 (XGE).md#^urban-encounters-levels-1116]]`
 
 **Urban Encounters (Levels 11—16)**
 

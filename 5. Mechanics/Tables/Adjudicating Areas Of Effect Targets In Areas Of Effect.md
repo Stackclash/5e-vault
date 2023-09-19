@@ -8,7 +8,7 @@ aliases: ["Adjudicating Areas of Effect; Targets in Areas of Effect"]
 # Adjudicating Areas of Effect; Targets in Areas of Effect
 *Source: Dungeon Master's Guide p. 249* 
 
-`dice: [[nullAdjudicating Areas Of Effect Targets In Areas Of Effect.md#^targets-in-areas-of-effect]]`
+`dice: [[Adjudicating Areas Of Effect Targets In Areas Of Effect.md#^targets-in-areas-of-effect]]`
 
 **Targets in Areas of Effect**
 

@@ -8,7 +8,7 @@ aliases: ["The Grand Masquerade; Grand Masquerade Objectives"]
 # The Grand Masquerade; Grand Masquerade Objectives
 *Source: Van Richten's Guide to Ravenloft p. 97* 
 
-`dice: [[nullThe Grand Masquerade Grand Masquerade Objectives (VRGR).md#^grand-masquerade-objectives]]`
+`dice: [[The Grand Masquerade Grand Masquerade Objectives (VRGR).md#^grand-masquerade-objectives]]`
 
 **Grand Masquerade Objectives**
 

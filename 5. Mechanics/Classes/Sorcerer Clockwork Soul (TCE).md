@@ -7,7 +7,7 @@ tags:
 aliases: ["Clockwork Soul"]
 ---
 # Clockwork Soul
-*[[nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Tasha's Cauldron of Everything p. 68*  
 
 

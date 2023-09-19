@@ -8,7 +8,7 @@ aliases: ["Sample Attitude Chart"]
 # Sample Attitude Chart
 *Source: Strongholds and Followers* 
 
-`dice: [[nullSample Attitude Chart Saf.md#^sample-attitude-chart]]`
+`dice: [[Sample Attitude Chart Saf.md#^sample-attitude-chart]]`
 
 **Sample Attitude Chart**
 

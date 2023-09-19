@@ -8,7 +8,7 @@ aliases: ["Primal Fruit Effects"]
 # Primal Fruit Effects
 *Source: Tasha's Cauldron of Everything p. 168* 
 
-`dice: [[nullPrimal Fruit Effects (TCE).md#^primal-fruit-effects]]`
+`dice: [[Primal Fruit Effects (TCE).md#^primal-fruit-effects]]`
 
 **Primal Fruit Effects**
 

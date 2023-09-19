@@ -8,7 +8,7 @@ aliases: ["Stage Two: Outbreak; Stage Two Encounters"]
 # Stage Two: Outbreak; Stage Two Encounters
 *Source: Van Richten's Guide to Ravenloft p. 154* 
 
-`dice: [[nullStage Two Outbreak Stage Two Encounters (VRGR).md#^stage-two-encounters]]`
+`dice: [[Stage Two Outbreak Stage Two Encounters (VRGR).md#^stage-two-encounters]]`
 
 **Stage Two Encounters**
 

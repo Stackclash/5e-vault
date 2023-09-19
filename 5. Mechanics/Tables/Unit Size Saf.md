@@ -8,7 +8,7 @@ aliases: ["Unit Size"]
 # Unit Size
 *Source: Strongholds and Followers* 
 
-`dice: [[nullUnit Size Saf.md#^unit-size]]`
+`dice: [[Unit Size Saf.md#^unit-size]]`
 
 **Unit Size**
 

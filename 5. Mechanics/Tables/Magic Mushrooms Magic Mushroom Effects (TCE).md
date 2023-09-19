@@ -8,7 +8,7 @@ aliases: ["Magic Mushrooms; Magic Mushroom Effects"]
 # Magic Mushrooms; Magic Mushroom Effects
 *Source: Tasha's Cauldron of Everything p. 166* 
 
-`dice: [[nullMagic Mushrooms Magic Mushroom Effects (TCE).md#^magic-mushroom-effects]]`
+`dice: [[Magic Mushrooms Magic Mushroom Effects (TCE).md#^magic-mushroom-effects]]`
 
 **Magic Mushroom Effects**
 

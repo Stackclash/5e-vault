@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Weird Stuff"]
 # Secondary Tables; Weird Stuff
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Weird Stuff (XGE).md#^weird-stuff]]`
+`dice: [[Secondary Tables Weird Stuff (XGE).md#^weird-stuff]]`
 
 **Weird Stuff**
 

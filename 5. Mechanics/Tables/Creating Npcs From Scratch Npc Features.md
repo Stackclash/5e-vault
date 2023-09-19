@@ -8,7 +8,7 @@ aliases: ["Creating NPCs from Scratch; NPC Features"]
 # Creating NPCs from Scratch; NPC Features
 *Source: Dungeon Master's Guide p. 282* 
 
-`dice: [[nullCreating Npcs From Scratch Npc Features.md#^table]]`
+`dice: [[Creating Npcs From Scratch Npc Features.md#^table]]`
 
 **NPC Features**
 

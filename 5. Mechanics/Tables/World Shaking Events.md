@@ -8,7 +8,7 @@ aliases: ["World-Shaking Events"]
 # World-Shaking Events
 *Source: Dungeon Master's Guide p. 27* 
 
-`dice: [[nullWorld Shaking Events.md#^world-shaking-events]]`
+`dice: [[World Shaking Events.md#^world-shaking-events]]`
 
 **World-Shaking Events**
 

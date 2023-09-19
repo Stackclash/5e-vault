@@ -8,7 +8,7 @@ aliases: ["Spell Damage"]
 # Spell Damage
 *Source: Dungeon Master's Guide p. 283* 
 
-`dice: [[nullSpell Damage.md#^spell-damage]]`
+`dice: [[Spell Damage.md#^spell-damage]]`
 
 **Spell Damage**
 

@@ -8,7 +8,7 @@ aliases: ["Becoming Lost; Wilderness Navigation"]
 # Becoming Lost; Wilderness Navigation
 *Source: Dungeon Master's Guide p. 111* 
 
-`dice: [[nullBecoming Lost Wilderness Navigation.md#^wilderness-navigation]]`
+`dice: [[Becoming Lost Wilderness Navigation.md#^wilderness-navigation]]`
 
 **Wilderness Navigation**
 

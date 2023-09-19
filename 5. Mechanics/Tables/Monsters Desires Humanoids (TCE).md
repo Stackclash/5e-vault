@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Humanoids"]
 # Monsters' Desires; Humanoids
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Humanoids (TCE).md#^humanoids]]`
+`dice: [[Monsters Desires Humanoids (TCE).md#^humanoids]]`
 
 **Humanoids**
 

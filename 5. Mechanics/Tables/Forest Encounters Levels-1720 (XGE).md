@@ -8,7 +8,7 @@ aliases: ["Forest Encounters (Levels 17—20)"]
 # Forest Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 97* 
 
-`dice: [[nullForest Encounters Levels-1720 (XGE).md#^forest-encounters-levels-1720]]`
+`dice: [[Forest Encounters Levels-1720 (XGE).md#^forest-encounters-levels-1720]]`
 
 **Forest Encounters (Levels 17—20)**
 

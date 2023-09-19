@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Beast"]
 ---
 # Path of the Beast
-*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
 

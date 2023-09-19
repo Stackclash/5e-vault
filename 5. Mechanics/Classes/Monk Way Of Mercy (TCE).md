@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of Mercy"]
 ---
 # Way of Mercy
-*[[nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Tasha's Cauldron of Everything p. 49*  
 
 

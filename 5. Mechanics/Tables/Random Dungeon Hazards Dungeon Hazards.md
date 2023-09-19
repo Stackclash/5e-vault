@@ -8,7 +8,7 @@ aliases: ["Random Dungeon Hazards; Dungeon Hazards"]
 # Random Dungeon Hazards; Dungeon Hazards
 *Source: Dungeon Master's Guide p. 296* 
 
-`dice: [[nullRandom Dungeon Hazards Dungeon Hazards.md#^dungeon-hazards]]`
+`dice: [[Random Dungeon Hazards Dungeon Hazards.md#^dungeon-hazards]]`
 
 **Dungeon Hazards**
 

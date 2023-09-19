@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of Dreams"]
 ---
 # Circle of Dreams
-*[[nullDruid.md\|Druid]]: Druid Circle*  
+*[[Druid.md\|Druid]]: Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 22*  
 
 

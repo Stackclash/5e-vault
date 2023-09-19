@@ -8,7 +8,7 @@ aliases: ["Random Height and Weight"]
 # Random Height and Weight
 *Source: Player's Handbook p. 121. Available in the Basic Rules.* 
 
-`dice: [[nullRandom Height And Weight.md#^random-height-and-weight]]`
+`dice: [[Random Height And Weight.md#^random-height-and-weight]]`
 
 **Random Height and Weight**
 

@@ -8,7 +8,7 @@ aliases: ["Kartakass Adventures"]
 # Kartakass Adventures
 *Source: Van Richten's Guide to Ravenloft p. 135* 
 
-`dice: [[nullKartakass Adventures (VRGR).md#^kartakass-adventures]]`
+`dice: [[Kartakass Adventures (VRGR).md#^kartakass-adventures]]`
 
 **Kartakass Adventures**
 

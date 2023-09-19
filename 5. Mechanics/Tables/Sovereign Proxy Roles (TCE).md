@@ -8,7 +8,7 @@ aliases: ["Sovereign Proxy Roles"]
 # Sovereign Proxy Roles
 *Source: Tasha's Cauldron of Everything p. 102* 
 
-`dice: [[nullSovereign Proxy Roles (TCE).md#^sovereign-proxy-roles]]`
+`dice: [[Sovereign Proxy Roles (TCE).md#^sovereign-proxy-roles]]`
 
 **Sovereign Proxy Roles**
 

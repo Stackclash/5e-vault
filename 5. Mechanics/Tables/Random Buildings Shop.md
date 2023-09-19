@@ -8,7 +8,7 @@ aliases: ["Random Buildings; Shop"]
 # Random Buildings; Shop
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[nullRandom Buildings Shop.md#^shop]]`
+`dice: [[Random Buildings Shop.md#^shop]]`
 
 **Shop**
 

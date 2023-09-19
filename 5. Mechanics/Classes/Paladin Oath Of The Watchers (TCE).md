@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of the Watchers"]
 ---
 # Oath of the Watchers
-*[[nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 54*  
 
 

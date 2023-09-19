@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Childhood Home"]
 # Supplemental Tables; Childhood Home
 *Source: Xanathar's Guide to Everything p. 63* 
 
-`dice: [[nullSupplemental Tables Childhood Home (XGE).md#^childhood-home]]`
+`dice: [[Supplemental Tables Childhood Home (XGE).md#^childhood-home]]`
 
 **Childhood Home**
 

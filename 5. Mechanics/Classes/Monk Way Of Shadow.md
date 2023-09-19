@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of Shadow"]
 ---
 # Way of Shadow
-*[[nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Random Complications; Grand Masquerade Complications"]
 # Random Complications; Grand Masquerade Complications
 *Source: Van Richten's Guide to Ravenloft p. 99* 
 
-`dice: [[nullRandom Complications Grand Masquerade Complications (VRGR).md#^grand-masquerade-complications]]`
+`dice: [[Random Complications Grand Masquerade Complications (VRGR).md#^grand-masquerade-complications]]`
 
 **Grand Masquerade Complications**
 

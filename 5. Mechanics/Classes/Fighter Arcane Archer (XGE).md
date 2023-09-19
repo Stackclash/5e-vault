@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Archer"]
 ---
 # Arcane Archer
-*[[nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 

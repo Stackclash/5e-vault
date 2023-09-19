@@ -8,7 +8,7 @@ aliases: ["Gothic Horror Monsters"]
 # Gothic Horror Monsters
 *Source: Van Richten's Guide to Ravenloft p. 56* 
 
-`dice: [[nullGothic Horror Monsters (VRGR).md#^gothic-horror-monsters]]`
+`dice: [[Gothic Horror Monsters (VRGR).md#^gothic-horror-monsters]]`
 
 **Gothic Horror Monsters**
 

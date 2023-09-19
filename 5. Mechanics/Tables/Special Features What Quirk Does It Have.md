@@ -8,7 +8,7 @@ aliases: ["Special Features; What Quirk Does It Have"]
 # Special Features; What Quirk Does It Have
 *Source: Dungeon Master's Guide p. 141* 
 
-`dice: [[nullSpecial Features What Quirk Does It Have.md#^what-quirk-does-it-have]]`
+`dice: [[Special Features What Quirk Does It Have.md#^what-quirk-does-it-have]]`
 
 **What Quirk Does It Have**
 

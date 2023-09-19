@@ -8,7 +8,7 @@ aliases: ["Services"]
 # Services
 *Source: Player's Handbook p. 159. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullServices.md#^services]]`
+`dice: [[Services.md#^services]]`
 
 **Services**
 

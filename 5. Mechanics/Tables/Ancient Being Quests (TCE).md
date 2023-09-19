@@ -8,7 +8,7 @@ aliases: ["Ancient Being Quests"]
 # Ancient Being Quests
 *Source: Tasha's Cauldron of Everything p. 88* 
 
-`dice: [[nullAncient Being Quests (TCE).md#^ancient-being-quests]]`
+`dice: [[Ancient Being Quests (TCE).md#^ancient-being-quests]]`
 
 **Ancient Being Quests**
 

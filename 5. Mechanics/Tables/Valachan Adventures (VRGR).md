@@ -8,7 +8,7 @@ aliases: ["Valachan Adventures"]
 # Valachan Adventures
 *Source: Van Richten's Guide to Ravenloft p. 164* 
 
-`dice: [[nullValachan Adventures (VRGR).md#^valachan-adventures]]`
+`dice: [[Valachan Adventures (VRGR).md#^valachan-adventures]]`
 
 **Valachan Adventures**
 

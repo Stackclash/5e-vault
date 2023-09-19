@@ -8,7 +8,7 @@ aliases: ["Creating Your Own Units; Unit Experience"]
 # Creating Your Own Units; Unit Experience
 *Source: Strongholds and Followers* 
 
-`dice: [[nullCreating Your Own Units Unit Experience Saf.md#^unit-experience]]`
+`dice: [[Creating Your Own Units Unit Experience Saf.md#^unit-experience]]`
 
 **Unit Experience**
 

@@ -8,7 +8,7 @@ aliases: ["Simple Warfare; Strategic Advantages"]
 # Simple Warfare; Strategic Advantages
 *Source: Strongholds and Followers* 
 
-`dice: [[nullSimple Warfare Strategic Advantages Saf.md#^table]]`
+`dice: [[Simple Warfare Strategic Advantages Saf.md#^table]]`
 
 **Strategic Advantages**
 

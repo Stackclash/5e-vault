@@ -8,7 +8,7 @@ aliases: ["Creature Paintings"]
 # Creature Paintings
 *Source: Tasha's Cauldron of Everything p. 172* 
 
-`dice: [[nullCreature Paintings (TCE).md#^creature-paintings]]`
+`dice: [[Creature Paintings (TCE).md#^creature-paintings]]`
 
 **Creature Paintings**
 

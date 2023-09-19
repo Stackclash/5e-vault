@@ -8,7 +8,7 @@ aliases: ["Life Events"]
 # Life Events
 *Source: Xanathar's Guide to Everything p. 69* 
 
-`dice: [[nullLife Events (XGE).md#^life-events]]`
+`dice: [[Life Events (XGE).md#^life-events]]`
 
 **Life Events**
 

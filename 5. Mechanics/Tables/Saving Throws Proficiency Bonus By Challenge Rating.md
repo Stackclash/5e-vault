@@ -8,7 +8,7 @@ aliases: ["Saving Throws; Proficiency Bonus by Challenge Rating"]
 # Saving Throws; Proficiency Bonus by Challenge Rating
 *Source: Monster Manual p. 8* 
 
-`dice: [[nullSaving Throws Proficiency Bonus By Challenge Rating.md#^proficiency-bonus-by-challenge-rating]]`
+`dice: [[Saving Throws Proficiency Bonus By Challenge Rating.md#^proficiency-bonus-by-challenge-rating]]`
 
 **Proficiency Bonus by Challenge Rating**
 

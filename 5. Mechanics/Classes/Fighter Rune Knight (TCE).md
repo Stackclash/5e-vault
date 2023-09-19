@@ -7,7 +7,7 @@ tags:
 aliases: ["Rune Knight"]
 ---
 # Rune Knight
-*[[nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 44*  
 
 

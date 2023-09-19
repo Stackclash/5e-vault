@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Arcane Matters"]
 # Secondary Tables; Arcane Matters
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Arcane Matters (XGE).md#^arcane-matters]]`
+`dice: [[Secondary Tables Arcane Matters (XGE).md#^arcane-matters]]`
 
 **Arcane Matters**
 

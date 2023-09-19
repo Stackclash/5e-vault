@@ -8,7 +8,7 @@ aliases: ["Final Challenge Rating; Experience Points by Challenge Rating"]
 # Final Challenge Rating; Experience Points by Challenge Rating
 *Source: Dungeon Master's Guide p. 274. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullFinal Challenge Rating Experience Points By Challenge Rating.md#^experience-points-by-challenge-rating]]`
+`dice: [[Final Challenge Rating Experience Points By Challenge Rating.md#^experience-points-by-challenge-rating]]`
 
 **Experience Points by Challenge Rating**
 

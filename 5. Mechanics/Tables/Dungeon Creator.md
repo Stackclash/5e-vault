@@ -8,7 +8,7 @@ aliases: ["Dungeon Creator"]
 # Dungeon Creator
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[nullDungeon Creator.md#^dungeon-creator]]`
+`dice: [[Dungeon Creator.md#^dungeon-creator]]`
 
 **Dungeon Creator**
 

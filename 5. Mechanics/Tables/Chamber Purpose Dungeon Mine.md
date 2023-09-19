@@ -8,7 +8,7 @@ aliases: ["Chamber Purpose; Dungeon: Mine"]
 # Chamber Purpose; Dungeon: Mine
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[nullChamber Purpose Dungeon Mine.md#^dungeon-mine]]`
+`dice: [[Chamber Purpose Dungeon Mine.md#^dungeon-mine]]`
 
 **Dungeon: Mine**
 

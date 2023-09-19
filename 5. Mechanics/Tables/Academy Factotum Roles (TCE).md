@@ -8,7 +8,7 @@ aliases: ["Academy Factotum Roles"]
 # Academy Factotum Roles
 *Source: Tasha's Cauldron of Everything p. 85* 
 
-`dice: [[nullAcademy Factotum Roles (TCE).md#^academy-factotum-roles]]`
+`dice: [[Academy Factotum Roles (TCE).md#^academy-factotum-roles]]`
 
 **Academy Factotum Roles**
 

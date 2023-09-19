@@ -62,7 +62,7 @@ const config = {
                 filePath = filePathRule.process({relativePath: filePath})
                 fileName = fileNameRule.ignore({fileExtension: path.parse(linkPath).ext}) ? fileName : fileNameRule.process({fileName: fileName})
 
-                linkPath = `${filePath}${separator}${fileName}${path.parse(linkPath).ext}`
+                linkPath = `${filePath ? filePath+separator : ''}${fileName}${path.parse(linkPath).ext}`
 
                 if(!displayText && !title) {
                     newLink = `[[${linkPath}${section}]]`

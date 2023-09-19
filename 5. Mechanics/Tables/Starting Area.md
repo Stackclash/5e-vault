@@ -8,7 +8,7 @@ aliases: ["Starting Area"]
 # Starting Area
 *Source: Dungeon Master's Guide p. 290* 
 
-`dice: [[nullStarting Area.md#^starting-area]]`
+`dice: [[Starting Area.md#^starting-area]]`
 
 **Starting Area**
 

@@ -8,7 +8,7 @@ aliases: ["Aristocrat Contact"]
 # Aristocrat Contact
 *Source: Tasha's Cauldron of Everything p. 90* 
 
-`dice: [[nullAristocrat Contact (TCE).md#^aristocrat-contact]]`
+`dice: [[Aristocrat Contact (TCE).md#^aristocrat-contact]]`
 
 **Aristocrat Contact**
 

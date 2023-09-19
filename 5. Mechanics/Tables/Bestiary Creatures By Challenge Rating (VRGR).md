@@ -8,7 +8,7 @@ aliases: ["Bestiary; Creatures by Challenge Rating"]
 # Bestiary; Creatures by Challenge Rating
 *Source: Van Richten's Guide to Ravenloft p. 226* 
 
-`dice: [[nullBestiary Creatures By Challenge Rating (VRGR).md#^creatures-by-challenge-rating]]`
+`dice: [[Bestiary Creatures By Challenge Rating (VRGR).md#^creatures-by-challenge-rating]]`
 
 **Creatures by Challenge Rating**
 

@@ -8,7 +8,7 @@ aliases: ["Mirror Zone Effects"]
 # Mirror Zone Effects
 *Source: Tasha's Cauldron of Everything p. 157* 
 
-`dice: [[nullMirror Zone Effects (TCE).md#^mirror-zone-effects]]`
+`dice: [[Mirror Zone Effects (TCE).md#^mirror-zone-effects]]`
 
 **Mirror Zone Effects**
 

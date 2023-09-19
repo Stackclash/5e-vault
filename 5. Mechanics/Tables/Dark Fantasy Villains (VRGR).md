@@ -8,7 +8,7 @@ aliases: ["Dark Fantasy Villains"]
 # Dark Fantasy Villains
 *Source: Van Richten's Guide to Ravenloft p. 50* 
 
-`dice: [[nullDark Fantasy Villains (VRGR).md#^dark-fantasy-villains]]`
+`dice: [[Dark Fantasy Villains (VRGR).md#^dark-fantasy-villains]]`
 
 **Dark Fantasy Villains**
 

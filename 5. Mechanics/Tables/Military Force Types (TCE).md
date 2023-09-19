@@ -8,7 +8,7 @@ aliases: ["Military Force Types"]
 # Military Force Types
 *Source: Tasha's Cauldron of Everything p. 96* 
 
-`dice: [[nullMilitary Force Types (TCE).md#^military-force-types]]`
+`dice: [[Military Force Types (TCE).md#^military-force-types]]`
 
 **Military Force Types**
 

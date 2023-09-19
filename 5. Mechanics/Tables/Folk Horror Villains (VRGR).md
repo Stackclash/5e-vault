@@ -8,7 +8,7 @@ aliases: ["Folk Horror Villains"]
 # Folk Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 52* 
 
-`dice: [[nullFolk Horror Villains (VRGR).md#^folk-horror-villains]]`
+`dice: [[Folk Horror Villains (VRGR).md#^folk-horror-villains]]`
 
 **Folk Horror Villains**
 

@@ -8,7 +8,7 @@ aliases: ["Forest Rend Encounters"]
 # Forest Rend Encounters
 *Source: Strongholds and Followers p. 114* 
 
-`dice: [[nullForest Rend Encounters Saf.md#^forest-rend-encounters]]`
+`dice: [[Forest Rend Encounters Saf.md#^forest-rend-encounters]]`
 
 **Forest Rend Encounters**
 

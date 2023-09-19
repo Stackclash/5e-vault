@@ -8,7 +8,7 @@ aliases: ["Religious Service"]
 # Religious Service
 *Source: Xanathar's Guide to Everything p. 131* 
 
-`dice: [[nullReligious Service (XGE).md#^religious-service]]`
+`dice: [[Religious Service (XGE).md#^religious-service]]`
 
 **Religious Service**
 

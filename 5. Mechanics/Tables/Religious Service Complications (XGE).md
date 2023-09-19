@@ -8,7 +8,7 @@ aliases: ["Religious Service Complications"]
 # Religious Service Complications
 *Source: Xanathar's Guide to Everything p. 132* 
 
-`dice: [[nullReligious Service Complications (XGE).md#^table]]`
+`dice: [[Religious Service Complications (XGE).md#^table]]`
 
 **Religious Service Complications**
 

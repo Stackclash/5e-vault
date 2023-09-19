@@ -8,7 +8,7 @@ aliases: ["Hill Encounters (Levels 17—20)"]
 # Hill Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 101* 
 
-`dice: [[nullHill Encounters Levels-1720 (XGE).md#^hill-encounters-levels-1720]]`
+`dice: [[Hill Encounters Levels-1720 (XGE).md#^hill-encounters-levels-1720]]`
 
 **Hill Encounters (Levels 17—20)**
 

@@ -8,7 +8,7 @@ aliases: ["Difficulty Class; Typical DCs"]
 # Difficulty Class; Typical DCs
 *Source: Dungeon Master's Guide p. 238* 
 
-`dice: [[nullDifficulty Class Typical Dcs.md#^typical-dcs]]`
+`dice: [[Difficulty Class Typical Dcs.md#^typical-dcs]]`
 
 **Typical DCs**
 

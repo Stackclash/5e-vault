@@ -7,7 +7,7 @@ tags:
 aliases: ["Eldritch Knight"]
 ---
 # Eldritch Knight
-*[[nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 74*  
 
 > [!tldr]- Class progression

@@ -7,7 +7,7 @@ tags:
 aliases: ["The Hexblade"]
 ---
 # The Hexblade
-*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 55*  
 
 

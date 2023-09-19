@@ -8,7 +8,7 @@ aliases: ["Improvising Damage; Damage Severity and Level"]
 # Improvising Damage; Damage Severity and Level
 *Source: Dungeon Master's Guide p. 249* 
 
-`dice: [[nullImprovising Damage Damage Severity And Level.md#^damage-severity-and-level]]`
+`dice: [[Improvising Damage Damage Severity And Level.md#^damage-severity-and-level]]`
 
 **Damage Severity and Level**
 

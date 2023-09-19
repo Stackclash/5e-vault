@@ -8,7 +8,7 @@ aliases: ["Personalizing Spells; Magic Themes"]
 # Personalizing Spells; Magic Themes
 *Source: Tasha's Cauldron of Everything p. 116* 
 
-`dice: [[nullPersonalizing Spells Magic Themes (TCE).md#^magic-themes]]`
+`dice: [[Personalizing Spells Magic Themes (TCE).md#^magic-themes]]`
 
 **Magic Themes**
 

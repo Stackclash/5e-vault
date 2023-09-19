@@ -8,7 +8,7 @@ aliases: ["Aristocrat Retainer Roles"]
 # Aristocrat Retainer Roles
 *Source: Tasha's Cauldron of Everything p. 90* 
 
-`dice: [[nullAristocrat Retainer Roles (TCE).md#^aristocrat-retainer-roles]]`
+`dice: [[Aristocrat Retainer Roles (TCE).md#^aristocrat-retainer-roles]]`
 
 **Aristocrat Retainer Roles**
 

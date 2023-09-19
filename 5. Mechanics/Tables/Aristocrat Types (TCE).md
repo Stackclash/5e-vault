@@ -8,7 +8,7 @@ aliases: ["Aristocrat Types"]
 # Aristocrat Types
 *Source: Tasha's Cauldron of Everything p. 89* 
 
-`dice: [[nullAristocrat Types (TCE).md#^aristocrat-types]]`
+`dice: [[Aristocrat Types (TCE).md#^aristocrat-types]]`
 
 **Aristocrat Types**
 

@@ -8,7 +8,7 @@ aliases: ["Warlock Followers"]
 # Warlock Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullWarlock Followers Saf.md#^warlock-followers]]`
+`dice: [[Warlock Followers Saf.md#^warlock-followers]]`
 
 **Warlock Followers**
 

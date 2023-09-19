@@ -8,7 +8,7 @@ aliases: ["Skills"]
 # Skills
 *Source: Player's Handbook p. 174* 
 
-`dice: [[nullSkills.md#^ability-skills]]`
+`dice: [[Skills.md#^ability-skills]]`
 
 | Ability | Skills |
 |---------|--------|

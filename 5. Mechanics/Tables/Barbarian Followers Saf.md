@@ -8,7 +8,7 @@ aliases: ["Barbarian Followers"]
 # Barbarian Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullBarbarian Followers Saf.md#^barbarian-followers]]`
+`dice: [[Barbarian Followers Saf.md#^barbarian-followers]]`
 
 **Barbarian Followers**
 

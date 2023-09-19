@@ -8,7 +8,7 @@ aliases: ["Human Names – English, Male"]
 # Human Names – English, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names English Male (XGE).md#^human-names-english-male]]`
+`dice: [[Human Names English Male (XGE).md#^human-names-english-male]]`
 
 **Human Names – English, Male**
 

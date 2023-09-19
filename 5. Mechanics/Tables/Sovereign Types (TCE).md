@@ -8,7 +8,7 @@ aliases: ["Sovereign Types"]
 # Sovereign Types
 *Source: Tasha's Cauldron of Everything p. 100* 
 
-`dice: [[nullSovereign Types (TCE).md#^sovereign-types]]`
+`dice: [[Sovereign Types (TCE).md#^sovereign-types]]`
 
 **Sovereign Types**
 

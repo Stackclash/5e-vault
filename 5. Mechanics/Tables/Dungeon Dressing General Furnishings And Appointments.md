@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; General Furnishings and Appointments"]
 # Dungeon Dressing; General Furnishings and Appointments
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[nullDungeon Dressing General Furnishings And Appointments.md#^general-furnishings-and-appointments]]`
+`dice: [[Dungeon Dressing General Furnishings And Appointments.md#^general-furnishings-and-appointments]]`
 
 **General Furnishings and Appointments**
 

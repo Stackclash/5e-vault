@@ -8,7 +8,7 @@ aliases: ["Individual Treasure: Challenge 0—4"]
 # Individual Treasure: Challenge 0—4
 *Source: Dungeon Master's Guide p. 133* 
 
-`dice: [[nullIndividual Treasure Challenge-04.md#^individual-treasure-challenge-04]]`
+`dice: [[Individual Treasure Challenge-04.md#^individual-treasure-challenge-04]]`
 
 **Individual Treasure: Challenge 0—4**
 

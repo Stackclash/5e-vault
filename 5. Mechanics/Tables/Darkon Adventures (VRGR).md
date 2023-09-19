@@ -8,7 +8,7 @@ aliases: ["Darkon Adventures"]
 # Darkon Adventures
 *Source: Van Richten's Guide to Ravenloft p. 91* 
 
-`dice: [[nullDarkon Adventures (VRGR).md#^darkon-adventures]]`
+`dice: [[Darkon Adventures (VRGR).md#^darkon-adventures]]`
 
 **Darkon Adventures**
 

@@ -8,7 +8,7 @@ aliases: ["Solution; Remembered Names"]
 # Solution; Remembered Names
 *Source: Tasha's Cauldron of Everything p. 187* 
 
-`dice: [[nullSolution Remembered Names (TCE).md#^remembered-names]]`
+`dice: [[Solution Remembered Names (TCE).md#^remembered-names]]`
 
 **Remembered Names**
 

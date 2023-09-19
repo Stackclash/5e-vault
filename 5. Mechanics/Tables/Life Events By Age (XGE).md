@@ -8,7 +8,7 @@ aliases: ["Life Events by Age"]
 # Life Events by Age
 *Source: Xanathar's Guide to Everything p. 69* 
 
-`dice: [[nullLife Events By Age (XGE).md#^life-events-by-age]]`
+`dice: [[Life Events By Age (XGE).md#^life-events-by-age]]`
 
 **Life Events by Age**
 

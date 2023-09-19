@@ -8,7 +8,7 @@ aliases: ["Experience Points by Challenge Rating"]
 # Experience Points by Challenge Rating
 *Source: Monster Manual p. 9* 
 
-`dice: [[nullExperience Points By Challenge Rating.md#^experience-points-by-challenge-rating]]`
+`dice: [[Experience Points By Challenge Rating.md#^experience-points-by-challenge-rating]]`
 
 **Experience Points by Challenge Rating**
 

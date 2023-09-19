@@ -8,7 +8,7 @@ aliases: ["Tiefling Parents"]
 # Tiefling Parents
 *Source: Xanathar's Guide to Everything p. 62* 
 
-`dice: [[nullTiefling Parents (XGE).md#^tiefling-parents]]`
+`dice: [[Tiefling Parents (XGE).md#^tiefling-parents]]`
 
 **Tiefling Parents**
 

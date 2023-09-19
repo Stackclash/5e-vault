@@ -7,7 +7,7 @@ tags:
 aliases: ["Horizon Walker"]
 ---
 # Horizon Walker
-*[[nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 42*  
 
 

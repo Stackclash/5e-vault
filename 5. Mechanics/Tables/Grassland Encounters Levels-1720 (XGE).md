@@ -8,7 +8,7 @@ aliases: ["Grassland Encounters (Levels 17—20)"]
 # Grassland Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 100* 
 
-`dice: [[nullGrassland Encounters Levels-1720 (XGE).md#^grassland-encounters-levels-1720]]`
+`dice: [[Grassland Encounters Levels-1720 (XGE).md#^grassland-encounters-levels-1720]]`
 
 **Grassland Encounters (Levels 17—20)**
 

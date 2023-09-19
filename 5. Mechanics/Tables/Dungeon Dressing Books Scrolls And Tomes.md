@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; Books, Scrolls, and Tomes"]
 # Dungeon Dressing; Books, Scrolls, and Tomes
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[nullDungeon Dressing Books Scrolls And Tomes.md#^books-scrolls-and-tomes]]`
+`dice: [[Dungeon Dressing Books Scrolls And Tomes.md#^books-scrolls-and-tomes]]`
 
 **Books, Scrolls, and Tomes**
 

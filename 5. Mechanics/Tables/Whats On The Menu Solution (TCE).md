@@ -8,7 +8,7 @@ aliases: ["What's on the Menu Solution"]
 # What's on the Menu Solution
 *Source: Tasha's Cauldron of Everything p. 188* 
 
-`dice: [[nullWhats On The Menu Solution (TCE).md#^whats-on-the-menu-solution]]`
+`dice: [[Whats On The Menu Solution (TCE).md#^whats-on-the-menu-solution]]`
 
 **What's on the Menu Solution**
 

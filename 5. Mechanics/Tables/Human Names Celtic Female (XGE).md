@@ -8,7 +8,7 @@ aliases: ["Human Names – Celtic, Female"]
 # Human Names – Celtic, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Celtic Female (XGE).md#^human-names-celtic-female]]`
+`dice: [[Human Names Celtic Female (XGE).md#^human-names-celtic-female]]`
 
 **Human Names – Celtic, Female**
 

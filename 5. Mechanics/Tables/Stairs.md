@@ -8,7 +8,7 @@ aliases: ["Stairs"]
 # Stairs
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[nullStairs.md#^stairs]]`
+`dice: [[Stairs.md#^stairs]]`
 
 **Stairs**
 

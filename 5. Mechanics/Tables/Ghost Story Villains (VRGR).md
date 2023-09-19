@@ -8,7 +8,7 @@ aliases: ["Ghost Story Villains"]
 # Ghost Story Villains
 *Source: Van Richten's Guide to Ravenloft p. 54* 
 
-`dice: [[nullGhost Story Villains (VRGR).md#^ghost-story-villains]]`
+`dice: [[Ghost Story Villains (VRGR).md#^ghost-story-villains]]`
 
 **Ghost Story Villains**
 

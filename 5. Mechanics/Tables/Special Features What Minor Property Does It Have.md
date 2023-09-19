@@ -8,7 +8,7 @@ aliases: ["Special Features; What Minor Property Does It Have"]
 # Special Features; What Minor Property Does It Have
 *Source: Dungeon Master's Guide p. 141* 
 
-`dice: [[nullSpecial Features What Minor Property Does It Have.md#^what-minor-property-does-it-have]]`
+`dice: [[Special Features What Minor Property Does It Have.md#^what-minor-property-does-it-have]]`
 
 **What Minor Property Does It Have**
 

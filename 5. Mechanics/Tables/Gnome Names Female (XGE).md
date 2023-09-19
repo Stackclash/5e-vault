@@ -8,7 +8,7 @@ aliases: ["Gnome Names – Female"]
 # Gnome Names – Female
 *Source: Xanathar's Guide to Everything p. 178* 
 
-`dice: [[nullGnome Names Female (XGE).md#^gnome-names-female]]`
+`dice: [[Gnome Names Female (XGE).md#^gnome-names-female]]`
 
 **Gnome Names – Female**
 

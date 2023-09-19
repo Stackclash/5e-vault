@@ -5,7 +5,7 @@ aliases: ["Flaws"]
 ---
 # Flaws
 
-`dice: [[nullFlaws.md#^flaws]]`
+`dice: [[Flaws.md#^flaws]]`
 
 | Flaws |
 |-------|

@@ -8,7 +8,7 @@ aliases: ["Underdark Encounters (Levels 1—4)"]
 # Underdark Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 106* 
 
-`dice: [[nullUnderdark Encounters Levels-14 (XGE).md#^underdark-encounters-levels-14]]`
+`dice: [[Underdark Encounters Levels-14 (XGE).md#^underdark-encounters-levels-14]]`
 
 **Underdark Encounters (Levels 1—4)**
 

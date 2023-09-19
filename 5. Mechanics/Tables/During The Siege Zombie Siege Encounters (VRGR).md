@@ -8,7 +8,7 @@ aliases: ["During the Siege; Zombie Siege Encounters"]
 # During the Siege; Zombie Siege Encounters
 *Source: Van Richten's Guide to Ravenloft p. 105* 
 
-`dice: [[nullDuring The Siege Zombie Siege Encounters (VRGR).md#^zombie-siege-encounters]]`
+`dice: [[During The Siege Zombie Siege Encounters (VRGR).md#^zombie-siege-encounters]]`
 
 **Zombie Siege Encounters**
 

@@ -8,7 +8,7 @@ aliases: ["Half-Orc Parents"]
 # Half-Orc Parents
 *Source: Xanathar's Guide to Everything p. 62* 
 
-`dice: [[nullHalf Orc Parents (XGE).md#^half-orc-parents]]`
+`dice: [[Half Orc Parents (XGE).md#^half-orc-parents]]`
 
 **Half-Orc Parents**
 

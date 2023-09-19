@@ -8,7 +8,7 @@ aliases: ["Passages; Passage Width"]
 # Passages; Passage Width
 *Source: Dungeon Master's Guide p. 290* 
 
-`dice: [[nullPassages Passage Width.md#^passage-width]]`
+`dice: [[Passages Passage Width.md#^passage-width]]`
 
 **Passage Width**
 

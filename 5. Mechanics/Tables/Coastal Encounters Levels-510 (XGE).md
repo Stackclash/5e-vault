@@ -8,7 +8,7 @@ aliases: ["Coastal Encounters (Levels 5—10)"]
 # Coastal Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 93* 
 
-`dice: [[nullCoastal Encounters Levels-510 (XGE).md#^coastal-encounters-levels-510]]`
+`dice: [[Coastal Encounters Levels-510 (XGE).md#^coastal-encounters-levels-510]]`
 
 **Coastal Encounters (Levels 5—10)**
 

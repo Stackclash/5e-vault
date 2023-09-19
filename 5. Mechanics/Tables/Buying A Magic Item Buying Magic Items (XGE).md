@@ -8,7 +8,7 @@ aliases: ["Buying a Magic Item; Buying Magic Items"]
 # Buying a Magic Item; Buying Magic Items
 *Source: Xanathar's Guide to Everything p. 126* 
 
-`dice: [[nullBuying A Magic Item Buying Magic Items (XGE).md#^buying-magic-items]]`
+`dice: [[Buying A Magic Item Buying Magic Items (XGE).md#^buying-magic-items]]`
 
 **Buying Magic Items**
 

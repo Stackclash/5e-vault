@@ -8,7 +8,7 @@ aliases: ["Gambling Complications"]
 # Gambling Complications
 *Source: Xanathar's Guide to Everything p. 130* 
 
-`dice: [[nullGambling Complications (XGE).md#^table]]`
+`dice: [[Gambling Complications (XGE).md#^table]]`
 
 **Gambling Complications**
 

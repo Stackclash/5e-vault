@@ -8,7 +8,7 @@ aliases: ["Random Settlements; Current Calamity"]
 # Random Settlements; Current Calamity
 *Source: Dungeon Master's Guide p. 112* 
 
-`dice: [[nullRandom Settlements Current Calamity.md#^current-calamity]]`
+`dice: [[Random Settlements Current Calamity.md#^current-calamity]]`
 
 **Current Calamity**
 

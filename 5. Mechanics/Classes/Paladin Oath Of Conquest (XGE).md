@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Conquest"]
 ---
 # Oath of Conquest
-*[[nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 37*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Ancient Being"]
 # Ancient Being
 *Source: Tasha's Cauldron of Everything p. 86* 
 
-`dice: [[nullAncient Being (TCE).md#^ancient-being]]`
+`dice: [[Ancient Being (TCE).md#^ancient-being]]`
 
 **Ancient Being**
 

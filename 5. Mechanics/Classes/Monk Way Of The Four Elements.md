@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Four Elements"]
 ---
 # Way of the Four Elements
-*[[nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
 

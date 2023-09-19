@@ -8,7 +8,7 @@ aliases: ["Individual Treasure: Challenge 11—16"]
 # Individual Treasure: Challenge 11—16
 *Source: Dungeon Master's Guide p. 133* 
 
-`dice: [[nullIndividual Treasure Challenge-1116.md#^individual-treasure-challenge-1116]]`
+`dice: [[Individual Treasure Challenge-1116.md#^individual-treasure-challenge-1116]]`
 
 **Individual Treasure: Challenge 11—16**
 

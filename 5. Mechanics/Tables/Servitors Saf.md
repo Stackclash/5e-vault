@@ -8,7 +8,7 @@ aliases: ["Servitors"]
 # Servitors
 *Source: Strongholds and Followers p. 31* 
 
-`dice: [[nullServitors Saf.md#^servitors]]`
+`dice: [[Servitors Saf.md#^servitors]]`
 
 **Servitors**
 

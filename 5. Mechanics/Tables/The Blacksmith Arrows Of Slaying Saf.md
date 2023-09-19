@@ -8,7 +8,7 @@ aliases: ["The Blacksmith; Arrows of Slaying"]
 # The Blacksmith; Arrows of Slaying
 *Source: Strongholds and Followers* 
 
-`dice: [[nullThe Blacksmith Arrows Of Slaying Saf.md#^arrows-of-slaying]]`
+`dice: [[The Blacksmith Arrows Of Slaying Saf.md#^arrows-of-slaying]]`
 
 **Arrows of Slaying**
 

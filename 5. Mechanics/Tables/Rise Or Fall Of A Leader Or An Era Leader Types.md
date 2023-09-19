@@ -8,7 +8,7 @@ aliases: ["Rise or Fall of a Leader or an Era; Leader Types"]
 # Rise or Fall of a Leader or an Era; Leader Types
 *Source: Dungeon Master's Guide p. 27* 
 
-`dice: [[nullRise Or Fall Of A Leader Or An Era Leader Types.md#^leader-types]]`
+`dice: [[Rise Or Fall Of A Leader Or An Era Leader Types.md#^leader-types]]`
 
 **Leader Types**
 

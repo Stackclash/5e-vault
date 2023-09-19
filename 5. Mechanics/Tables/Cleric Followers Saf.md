@@ -8,7 +8,7 @@ aliases: ["Cleric Followers"]
 # Cleric Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullCleric Followers Saf.md#^cleric-followers]]`
+`dice: [[Cleric Followers Saf.md#^cleric-followers]]`
 
 **Cleric Followers**
 

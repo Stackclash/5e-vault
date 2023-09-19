@@ -8,7 +8,7 @@ aliases: ["Identify the Party's Goals; Wilderness Goals"]
 # Identify the Party's Goals; Wilderness Goals
 *Source: Dungeon Master's Guide p. 72* 
 
-`dice: [[nullIdentify The Partys Goals Wilderness Goals.md#^wilderness-goals]]`
+`dice: [[Identify The Partys Goals Wilderness Goals.md#^wilderness-goals]]`
 
 **Wilderness Goals**
 

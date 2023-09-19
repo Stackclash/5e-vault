@@ -8,7 +8,7 @@ aliases: ["Magic Item Table D"]
 # Magic Item Table D
 *Source: Dungeon Master's Guide p. 144* 
 
-`dice: [[nullMagic Item Table D.md#^magic-item-table-d]]`
+`dice: [[Magic Item Table D.md#^magic-item-table-d]]`
 
 **Magic Item Table D**
 

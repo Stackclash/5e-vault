@@ -8,7 +8,7 @@ aliases: ["Artifact Properties; Minor Detrimental Properties"]
 # Artifact Properties; Minor Detrimental Properties
 *Source: Dungeon Master's Guide p. 219* 
 
-`dice: [[nullArtifact Properties Minor Detrimental Properties.md#^minor-detrimental-properties]]`
+`dice: [[Artifact Properties Minor Detrimental Properties.md#^minor-detrimental-properties]]`
 
 **Minor Detrimental Properties**
 

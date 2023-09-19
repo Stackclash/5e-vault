@@ -8,7 +8,7 @@ aliases: ["Elf Names – Female Adult"]
 # Elf Names – Female Adult
 *Source: Xanathar's Guide to Everything p. 176* 
 
-`dice: [[nullElf Names Female Adult (XGE).md#^elf-names-female-adult]]`
+`dice: [[Elf Names Female Adult (XGE).md#^elf-names-female-adult]]`
 
 **Elf Names – Female Adult**
 

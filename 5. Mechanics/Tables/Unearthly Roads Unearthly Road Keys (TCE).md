@@ -8,7 +8,7 @@ aliases: ["Unearthly Roads; Unearthly Road Keys"]
 # Unearthly Roads; Unearthly Road Keys
 *Source: Tasha's Cauldron of Everything p. 169* 
 
-`dice: [[nullUnearthly Roads Unearthly Road Keys (TCE).md#^unearthly-road-keys]]`
+`dice: [[Unearthly Roads Unearthly Road Keys (TCE).md#^unearthly-road-keys]]`
 
 **Unearthly Road Keys**
 

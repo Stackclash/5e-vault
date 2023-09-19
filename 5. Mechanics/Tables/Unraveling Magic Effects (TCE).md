@@ -8,7 +8,7 @@ aliases: ["Unraveling Magic Effects"]
 # Unraveling Magic Effects
 *Source: Tasha's Cauldron of Everything p. 161* 
 
-`dice: [[nullUnraveling Magic Effects (TCE).md#^unraveling-magic-effects]]`
+`dice: [[Unraveling Magic Effects (TCE).md#^unraveling-magic-effects]]`
 
 **Unraveling Magic Effects**
 

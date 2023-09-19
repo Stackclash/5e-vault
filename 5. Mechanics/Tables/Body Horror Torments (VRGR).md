@@ -8,7 +8,7 @@ aliases: ["Body Horror Torments"]
 # Body Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 47* 
 
-`dice: [[nullBody Horror Torments (VRGR).md#^body-horror-torments]]`
+`dice: [[Body Horror Torments (VRGR).md#^body-horror-torments]]`
 
 **Body Horror Torments**
 

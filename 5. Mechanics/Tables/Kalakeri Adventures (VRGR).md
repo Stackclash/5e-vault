@@ -8,7 +8,7 @@ aliases: ["Kalakeri Adventures"]
 # Kalakeri Adventures
 *Source: Van Richten's Guide to Ravenloft p. 128* 
 
-`dice: [[nullKalakeri Adventures (VRGR).md#^kalakeri-adventures]]`
+`dice: [[Kalakeri Adventures (VRGR).md#^kalakeri-adventures]]`
 
 **Kalakeri Adventures**
 

@@ -8,7 +8,7 @@ aliases: ["Gothic Horror Settings"]
 # Gothic Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 57* 
 
-`dice: [[nullGothic Horror Settings (VRGR).md#^gothic-horror-settings]]`
+`dice: [[Gothic Horror Settings (VRGR).md#^gothic-horror-settings]]`
 
 **Gothic Horror Settings**
 

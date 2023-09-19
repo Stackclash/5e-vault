@@ -8,7 +8,7 @@ aliases: ["Military Quests"]
 # Military Quests
 *Source: Tasha's Cauldron of Everything p. 98* 
 
-`dice: [[nullMilitary Quests (TCE).md#^military-quests]]`
+`dice: [[Military Quests (TCE).md#^military-quests]]`
 
 **Military Quests**
 

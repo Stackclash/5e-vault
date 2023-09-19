@@ -8,7 +8,7 @@ aliases: ["Creating Your Own Units; Unit Ancestry"]
 # Creating Your Own Units; Unit Ancestry
 *Source: Strongholds and Followers* 
 
-`dice: [[nullCreating Your Own Units Unit Ancestry Saf.md#^unit-ancestry]]`
+`dice: [[Creating Your Own Units Unit Ancestry Saf.md#^unit-ancestry]]`
 
 **Unit Ancestry**
 

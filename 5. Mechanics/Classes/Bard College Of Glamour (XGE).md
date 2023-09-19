@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Glamour"]
 ---
 # College of Glamour
-*[[nullBard.md\|Bard]]: Bard College*  
+*[[Bard.md\|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 14*  
 
 

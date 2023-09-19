@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Berserker"]
 ---
 # Path of the Berserker
-*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Player's Handbook p. 49. Available in the SRD.*  
 
 

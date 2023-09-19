@@ -8,7 +8,7 @@ aliases: ["Brewing Potions of Healing; Potion of Healing Creation"]
 # Brewing Potions of Healing; Potion of Healing Creation
 *Source: Xanathar's Guide to Everything p. 130* 
 
-`dice: [[nullBrewing Potions Of Healing Potion Of Healing Creation (XGE).md#^potion-of-healing-creation]]`
+`dice: [[Brewing Potions Of Healing Potion Of Healing Creation (XGE).md#^potion-of-healing-creation]]`
 
 **Potion of Healing Creation**
 

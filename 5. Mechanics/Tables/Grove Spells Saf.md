@@ -8,7 +8,7 @@ aliases: ["Grove Spells"]
 # Grove Spells
 *Source: Strongholds and Followers p. 32* 
 
-`dice: [[nullGrove Spells Saf.md#^grove-spells]]`
+`dice: [[Grove Spells Saf.md#^grove-spells]]`
 
 **Grove Spells**
 

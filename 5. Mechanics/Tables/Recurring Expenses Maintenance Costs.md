@@ -8,7 +8,7 @@ aliases: ["Recurring Expenses; Maintenance Costs"]
 # Recurring Expenses; Maintenance Costs
 *Source: Dungeon Master's Guide p. 126* 
 
-`dice: [[nullRecurring Expenses Maintenance Costs.md#^maintenance-costs]]`
+`dice: [[Recurring Expenses Maintenance Costs.md#^maintenance-costs]]`
 
 **Maintenance Costs**
 

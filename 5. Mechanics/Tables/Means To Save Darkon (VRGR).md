@@ -8,7 +8,7 @@ aliases: ["Means to Save Darkon"]
 # Means to Save Darkon
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
-`dice: [[nullMeans To Save Darkon (VRGR).md#^means-to-save-darkon]]`
+`dice: [[Means To Save Darkon (VRGR).md#^means-to-save-darkon]]`
 
 **Means to Save Darkon**
 

@@ -8,7 +8,7 @@ aliases: ["The Concordance Chart"]
 # The Concordance Chart
 *Source: Strongholds and Followers p. 31* 
 
-`dice: [[nullThe Concordance Chart Saf.md#^table]]`
+`dice: [[The Concordance Chart Saf.md#^table]]`
 
 **The Concordance Chart**
 

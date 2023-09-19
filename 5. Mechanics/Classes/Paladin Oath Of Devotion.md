@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Devotion"]
 ---
 # Oath of Devotion
-*[[nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 85. Available in the SRD.*  
 
 

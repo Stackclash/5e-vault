@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of Glory"]
 ---
 # Oath of Glory
-*[[nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 53*  
 
 

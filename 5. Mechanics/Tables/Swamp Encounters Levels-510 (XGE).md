@@ -8,7 +8,7 @@ aliases: ["Swamp Encounters (Levels 5—10)"]
 # Swamp Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 105* 
 
-`dice: [[nullSwamp Encounters Levels-510 (XGE).md#^swamp-encounters-levels-510]]`
+`dice: [[Swamp Encounters Levels-510 (XGE).md#^swamp-encounters-levels-510]]`
 
 **Swamp Encounters (Levels 5—10)**
 

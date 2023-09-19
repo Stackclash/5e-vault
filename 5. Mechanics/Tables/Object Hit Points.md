@@ -8,7 +8,7 @@ aliases: ["Object Hit Points"]
 # Object Hit Points
 *Source: Dungeon Master's Guide p. 247. Available in the SRD.* 
 
-`dice: [[nullObject Hit Points.md#^object-hit-points]]`
+`dice: [[Object Hit Points.md#^object-hit-points]]`
 
 **Object Hit Points**
 

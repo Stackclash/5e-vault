@@ -8,7 +8,7 @@ aliases: ["Connection to Strahd; Hunting Strahd"]
 # Connection to Strahd; Hunting Strahd
 *Source: Van Richten's Guide to Ravenloft p. 70* 
 
-`dice: [[nullConnection To Strahd Hunting Strahd (VRGR).md#^hunting-strahd]]`
+`dice: [[Connection To Strahd Hunting Strahd (VRGR).md#^hunting-strahd]]`
 
 **Hunting Strahd**
 

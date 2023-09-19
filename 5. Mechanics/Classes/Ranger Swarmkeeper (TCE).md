@@ -7,7 +7,7 @@ tags:
 aliases: ["Swarmkeeper"]
 ---
 # Swarmkeeper
-*[[nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 59*  
 
 

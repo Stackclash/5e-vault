@@ -8,7 +8,7 @@ aliases: ["Wilderness Chase Complications"]
 # Wilderness Chase Complications
 *Source: Dungeon Master's Guide p. 253* 
 
-`dice: [[nullWilderness Chase Complications.md#^wilderness-chase-complications]]`
+`dice: [[Wilderness Chase Complications.md#^wilderness-chase-complications]]`
 
 **Wilderness Chase Complications**
 

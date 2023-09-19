@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Fey"]
 # Monsters' Desires; Fey
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Fey (TCE).md#^fey]]`
+`dice: [[Monsters Desires Fey (TCE).md#^fey]]`
 
 **Fey**
 

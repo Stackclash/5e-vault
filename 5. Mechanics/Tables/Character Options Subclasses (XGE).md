@@ -8,7 +8,7 @@ aliases: ["Character Options; Subclasses"]
 # Character Options; Subclasses
 *Source: Xanathar's Guide to Everything p. 7* 
 
-`dice: [[nullCharacter Options Subclasses (XGE).md#^subclasses]]`
+`dice: [[Character Options Subclasses (XGE).md#^subclasses]]`
 
 **Subclasses**
 

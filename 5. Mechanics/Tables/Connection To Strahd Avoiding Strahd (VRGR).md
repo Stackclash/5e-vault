@@ -8,7 +8,7 @@ aliases: ["Connection to Strahd; Avoiding Strahd"]
 # Connection to Strahd; Avoiding Strahd
 *Source: Van Richten's Guide to Ravenloft p. 70* 
 
-`dice: [[nullConnection To Strahd Avoiding Strahd (VRGR).md#^avoiding-strahd]]`
+`dice: [[Connection To Strahd Avoiding Strahd (VRGR).md#^avoiding-strahd]]`
 
 **Avoiding Strahd**
 

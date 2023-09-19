@@ -8,7 +8,7 @@ aliases: ["Crime; Loot Value"]
 # Crime; Loot Value
 *Source: Xanathar's Guide to Everything p. 130* 
 
-`dice: [[nullCrime Loot Value (XGE).md#^loot-value]]`
+`dice: [[Crime Loot Value (XGE).md#^loot-value]]`
 
 **Loot Value**
 

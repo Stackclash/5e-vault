@@ -8,7 +8,7 @@ aliases: ["Creating a Rival; Rival"]
 # Creating a Rival; Rival
 *Source: Xanathar's Guide to Everything p. 124* 
 
-`dice: [[nullCreating A Rival Rival (XGE).md#^rival]]`
+`dice: [[Creating A Rival Rival (XGE).md#^rival]]`
 
 **Rival**
 

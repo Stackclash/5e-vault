@@ -8,7 +8,7 @@ aliases: ["Religious Order Contact"]
 # Religious Order Contact
 *Source: Tasha's Cauldron of Everything p. 99* 
 
-`dice: [[nullReligious Order Contact (TCE).md#^religious-order-contact]]`
+`dice: [[Religious Order Contact (TCE).md#^religious-order-contact]]`
 
 **Religious Order Contact**
 

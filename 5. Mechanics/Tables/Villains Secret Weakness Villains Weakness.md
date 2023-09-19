@@ -8,7 +8,7 @@ aliases: ["Villain's Secret Weakness; Villain's Weakness"]
 # Villain's Secret Weakness; Villain's Weakness
 *Source: Dungeon Master's Guide p. 96* 
 
-`dice: [[nullVillains Secret Weakness Villains Weakness.md#^villains-weakness]]`
+`dice: [[Villains Secret Weakness Villains Weakness.md#^villains-weakness]]`
 
 **Villain's Weakness**
 

@@ -8,7 +8,7 @@ aliases: ["Creating Quick Monster Stats; Monster Statistics by Challenge Rating"
 # Creating Quick Monster Stats; Monster Statistics by Challenge Rating
 *Source: Dungeon Master's Guide p. 274* 
 
-`dice: [[nullCreating Quick Monster Stats Monster Statistics By Challenge Rating.md#^monster-statistics-by-challenge-rating]]`
+`dice: [[Creating Quick Monster Stats Monster Statistics By Challenge Rating.md#^monster-statistics-by-challenge-rating]]`
 
 **Monster Statistics by Challenge Rating**
 

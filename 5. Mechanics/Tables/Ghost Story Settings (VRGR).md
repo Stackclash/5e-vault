@@ -8,7 +8,7 @@ aliases: ["Ghost Story Settings"]
 # Ghost Story Settings
 *Source: Van Richten's Guide to Ravenloft p. 55* 
 
-`dice: [[nullGhost Story Settings (VRGR).md#^ghost-story-settings]]`
+`dice: [[Ghost Story Settings (VRGR).md#^ghost-story-settings]]`
 
 **Ghost Story Settings**
 

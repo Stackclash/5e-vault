@@ -8,7 +8,7 @@ aliases: ["Human Names – Mesoamerican, Male"]
 # Human Names – Mesoamerican, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Mesoamerican Male (XGE).md#^human-names-mesoamerican-male]]`
+`dice: [[Human Names Mesoamerican Male (XGE).md#^human-names-mesoamerican-male]]`
 
 **Human Names – Mesoamerican, Male**
 

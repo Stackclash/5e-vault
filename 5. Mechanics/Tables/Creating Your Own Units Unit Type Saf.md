@@ -8,7 +8,7 @@ aliases: ["Creating Your Own Units; Unit Type"]
 # Creating Your Own Units; Unit Type
 *Source: Strongholds and Followers* 
 
-`dice: [[nullCreating Your Own Units Unit Type Saf.md#^unit-type]]`
+`dice: [[Creating Your Own Units Unit Type Saf.md#^unit-type]]`
 
 **Unit Type**
 

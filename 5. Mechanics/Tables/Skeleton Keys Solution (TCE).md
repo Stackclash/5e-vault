@@ -8,7 +8,7 @@ aliases: ["Skeleton Keys Solution"]
 # Skeleton Keys Solution
 *Source: Tasha's Cauldron of Everything p. 175* 
 
-`dice: [[nullSkeleton Keys Solution (TCE).md#^skeleton-keys-solution]]`
+`dice: [[Skeleton Keys Solution (TCE).md#^skeleton-keys-solution]]`
 
 **Skeleton Keys Solution**
 

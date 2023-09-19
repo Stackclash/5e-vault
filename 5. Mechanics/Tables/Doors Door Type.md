@@ -8,7 +8,7 @@ aliases: ["Doors; Door Type"]
 # Doors; Door Type
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[nullDoors Door Type.md#^door-type]]`
+`dice: [[Doors Door Type.md#^door-type]]`
 
 **Door Type**
 

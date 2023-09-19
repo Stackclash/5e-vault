@@ -7,7 +7,7 @@ tags:
 aliases: ["Alchemist"]
 ---
 # Alchemist
-*[[nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 14*  
 
 

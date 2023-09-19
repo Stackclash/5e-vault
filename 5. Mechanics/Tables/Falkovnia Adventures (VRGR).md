@@ -8,7 +8,7 @@ aliases: ["Falkovnia Adventures"]
 # Falkovnia Adventures
 *Source: Van Richten's Guide to Ravenloft p. 103* 
 
-`dice: [[nullFalkovnia Adventures (VRGR).md#^falkovnia-adventures]]`
+`dice: [[Falkovnia Adventures (VRGR).md#^falkovnia-adventures]]`
 
 **Falkovnia Adventures**
 

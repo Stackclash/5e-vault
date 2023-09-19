@@ -8,7 +8,7 @@ aliases: ["Pit Fighting Results"]
 # Pit Fighting Results
 *Source: Xanathar's Guide to Everything p. 131* 
 
-`dice: [[nullPit Fighting Results (XGE).md#^pit-fighting-results]]`
+`dice: [[Pit Fighting Results (XGE).md#^pit-fighting-results]]`
 
 **Pit Fighting Results**
 

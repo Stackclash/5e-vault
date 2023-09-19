@@ -8,7 +8,7 @@ aliases: ["Folk Horror Settings"]
 # Folk Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
-`dice: [[nullFolk Horror Settings (VRGR).md#^folk-horror-settings]]`
+`dice: [[Folk Horror Settings (VRGR).md#^folk-horror-settings]]`
 
 **Folk Horror Settings**
 

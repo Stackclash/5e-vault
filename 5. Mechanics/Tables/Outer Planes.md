@@ -8,7 +8,7 @@ aliases: ["Outer Planes"]
 # Outer Planes
 *Source: Player's Handbook p. 301* 
 
-`dice: [[nullOuter Planes.md#^outer-planes]]`
+`dice: [[Outer Planes.md#^outer-planes]]`
 
 **Outer Planes**
 

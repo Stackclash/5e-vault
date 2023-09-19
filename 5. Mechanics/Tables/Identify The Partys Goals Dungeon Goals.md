@@ -8,7 +8,7 @@ aliases: ["Identify the Party's Goals; Dungeon Goals"]
 # Identify the Party's Goals; Dungeon Goals
 *Source: Dungeon Master's Guide p. 72* 
 
-`dice: [[nullIdentify The Partys Goals Dungeon Goals.md#^dungeon-goals]]`
+`dice: [[Identify The Partys Goals Dungeon Goals.md#^dungeon-goals]]`
 
 **Dungeon Goals**
 

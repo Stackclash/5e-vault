@@ -8,7 +8,7 @@ aliases: ["Identify Important NPCs; Adventure Patrons"]
 # Identify Important NPCs; Adventure Patrons
 *Source: Dungeon Master's Guide p. 74* 
 
-`dice: [[nullIdentify Important Npcs Adventure Patrons.md#^adventure-patrons]]`
+`dice: [[Identify Important Npcs Adventure Patrons.md#^adventure-patrons]]`
 
 **Adventure Patrons**
 

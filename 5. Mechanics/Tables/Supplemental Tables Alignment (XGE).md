@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Alignment"]
 # Supplemental Tables; Alignment
 *Source: Xanathar's Guide to Everything p. 72* 
 
-`dice: [[nullSupplemental Tables Alignment (XGE).md#^alignment]]`
+`dice: [[Supplemental Tables Alignment (XGE).md#^alignment]]`
 
 **Alignment**
 

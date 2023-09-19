@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Totem Warrior"]
 ---
 # Path of the Totem Warrior
-*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 

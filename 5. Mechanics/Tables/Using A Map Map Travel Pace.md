@@ -8,7 +8,7 @@ aliases: ["Using a Map; Map Travel Pace"]
 # Using a Map; Map Travel Pace
 *Source: Dungeon Master's Guide p. 242* 
 
-`dice: [[nullUsing A Map Map Travel Pace.md#^map-travel-pace]]`
+`dice: [[Using A Map Map Travel Pace.md#^map-travel-pace]]`
 
 **Map Travel Pace**
 

@@ -8,7 +8,7 @@ aliases: ["Benefits of Renown; Rebel Benefits"]
 # Benefits of Renown; Rebel Benefits
 *Source: Van Richten's Guide to Ravenloft p. 131* 
 
-`dice: [[nullBenefits Of Renown Rebel Benefits (VRGR).md#^rebel-benefits]]`
+`dice: [[Benefits Of Renown Rebel Benefits (VRGR).md#^rebel-benefits]]`
 
 **Rebel Benefits**
 

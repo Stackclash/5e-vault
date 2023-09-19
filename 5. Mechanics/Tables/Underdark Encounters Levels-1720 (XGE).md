@@ -8,7 +8,7 @@ aliases: ["Underdark Encounters (Levels 17—20)"]
 # Underdark Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 106* 
 
-`dice: [[nullUnderdark Encounters Levels-1720 (XGE).md#^underdark-encounters-levels-1720]]`
+`dice: [[Underdark Encounters Levels-1720 (XGE).md#^underdark-encounters-levels-1720]]`
 
 **Underdark Encounters (Levels 17—20)**
 

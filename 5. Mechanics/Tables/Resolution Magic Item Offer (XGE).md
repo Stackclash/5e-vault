@@ -8,7 +8,7 @@ aliases: ["Resolution; Magic Item Offer"]
 # Resolution; Magic Item Offer
 *Source: Xanathar's Guide to Everything p. 133* 
 
-`dice: [[nullResolution Magic Item Offer (XGE).md#^magic-item-offer]]`
+`dice: [[Resolution Magic Item Offer (XGE).md#^magic-item-offer]]`
 
 **Magic Item Offer**
 

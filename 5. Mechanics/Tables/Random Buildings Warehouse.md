@@ -8,7 +8,7 @@ aliases: ["Random Buildings; Warehouse"]
 # Random Buildings; Warehouse
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[nullRandom Buildings Warehouse.md#^warehouse]]`
+`dice: [[Random Buildings Warehouse.md#^warehouse]]`
 
 **Warehouse**
 

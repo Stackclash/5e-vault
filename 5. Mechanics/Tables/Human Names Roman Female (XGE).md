@@ -8,7 +8,7 @@ aliases: ["Human Names – Roman, Female"]
 # Human Names – Roman, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Roman Female (XGE).md#^human-names-roman-female]]`
+`dice: [[Human Names Roman Female (XGE).md#^human-names-roman-female]]`
 
 **Human Names – Roman, Female**
 

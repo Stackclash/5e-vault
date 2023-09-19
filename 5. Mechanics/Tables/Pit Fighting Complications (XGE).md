@@ -8,7 +8,7 @@ aliases: ["Pit Fighting Complications"]
 # Pit Fighting Complications
 *Source: Xanathar's Guide to Everything p. 131* 
 
-`dice: [[nullPit Fighting Complications (XGE).md#^table]]`
+`dice: [[Pit Fighting Complications (XGE).md#^table]]`
 
 **Pit Fighting Complications**
 

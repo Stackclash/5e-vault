@@ -8,7 +8,7 @@ aliases: ["Bluetspur Adventures"]
 # Bluetspur Adventures
 *Source: Van Richten's Guide to Ravenloft p. 74* 
 
-`dice: [[nullBluetspur Adventures (VRGR).md#^bluetspur-adventures]]`
+`dice: [[Bluetspur Adventures (VRGR).md#^bluetspur-adventures]]`
 
 **Bluetspur Adventures**
 

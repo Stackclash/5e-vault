@@ -8,7 +8,7 @@ aliases: ["Human Names – Indian, Male"]
 # Human Names – Indian, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Indian Male (XGE).md#^human-names-indian-male]]`
+`dice: [[Human Names Indian Male (XGE).md#^human-names-indian-male]]`
 
 **Human Names – Indian, Male**
 

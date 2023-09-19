@@ -8,7 +8,7 @@ aliases: ["Hill Encounters (Levels 5—10)"]
 # Hill Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 101* 
 
-`dice: [[nullHill Encounters Levels-510 (XGE).md#^hill-encounters-levels-510]]`
+`dice: [[Hill Encounters Levels-510 (XGE).md#^hill-encounters-levels-510]]`
 
 **Hill Encounters (Levels 5—10)**
 

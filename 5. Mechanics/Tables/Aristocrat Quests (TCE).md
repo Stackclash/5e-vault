@@ -8,7 +8,7 @@ aliases: ["Aristocrat Quests"]
 # Aristocrat Quests
 *Source: Tasha's Cauldron of Everything p. 90* 
 
-`dice: [[nullAristocrat Quests (TCE).md#^aristocrat-quests]]`
+`dice: [[Aristocrat Quests (TCE).md#^aristocrat-quests]]`
 
 **Aristocrat Quests**
 

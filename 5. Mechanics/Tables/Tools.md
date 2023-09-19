@@ -8,7 +8,7 @@ aliases: ["Tools"]
 # Tools
 *Source: Player's Handbook p. 154* 
 
-`dice: [[nullTools.md#^table]]`
+`dice: [[Tools.md#^table]]`
 
 | Item | Cost | Weight |
 |------|------|--------|

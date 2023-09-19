@@ -7,7 +7,7 @@ tags:
 aliases: ["Psi Warrior"]
 ---
 # Psi Warrior
-*[[nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 42*  
 
 

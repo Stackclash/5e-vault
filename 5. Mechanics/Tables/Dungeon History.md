@@ -8,7 +8,7 @@ aliases: ["Dungeon History"]
 # Dungeon History
 *Source: Dungeon Master's Guide p. 101* 
 
-`dice: [[nullDungeon History.md#^dungeon-history]]`
+`dice: [[Dungeon History.md#^dungeon-history]]`
 
 **Dungeon History**
 

@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 11—16)"]
 # Arctic Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[nullArctic Encounters Levels-1116 (XGE).md#^arctic-encounters-levels-1116]]`
+`dice: [[Arctic Encounters Levels-1116 (XGE).md#^arctic-encounters-levels-1116]]`
 
 **Arctic Encounters (Levels 11—16)**
 

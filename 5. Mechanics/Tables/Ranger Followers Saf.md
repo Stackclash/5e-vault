@@ -8,7 +8,7 @@ aliases: ["Ranger Followers"]
 # Ranger Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullRanger Followers Saf.md#^ranger-followers]]`
+`dice: [[Ranger Followers Saf.md#^ranger-followers]]`
 
 **Ranger Followers**
 

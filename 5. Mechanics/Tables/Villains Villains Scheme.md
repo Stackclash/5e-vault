@@ -8,7 +8,7 @@ aliases: ["Villains; Villain's Scheme"]
 # Villains; Villain's Scheme
 *Source: Dungeon Master's Guide p. 94* 
 
-`dice: [[nullVillains Villains Scheme.md#^villains-scheme]]`
+`dice: [[Villains Villains Scheme.md#^villains-scheme]]`
 
 **Villain's Scheme**
 

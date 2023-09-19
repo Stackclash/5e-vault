@@ -8,7 +8,7 @@ aliases: ["Far Realm Effects"]
 # Far Realm Effects
 *Source: Tasha's Cauldron of Everything p. 152* 
 
-`dice: [[nullFar Realm Effects (TCE).md#^far-realm-effects]]`
+`dice: [[Far Realm Effects (TCE).md#^far-realm-effects]]`
 
 **Far Realm Effects**
 

@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Tragedies"]
 # Secondary Tables; Tragedies
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Tragedies (XGE).md#^tragedies]]`
+`dice: [[Secondary Tables Tragedies (XGE).md#^tragedies]]`
 
 **Tragedies**
 

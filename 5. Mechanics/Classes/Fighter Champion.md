@@ -7,7 +7,7 @@ tags:
 aliases: ["Champion"]
 ---
 # Champion
-*[[nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 72. Available in the SRD and the Basic Rules.*  
 
 

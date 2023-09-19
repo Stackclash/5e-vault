@@ -8,7 +8,7 @@ aliases: ["Scribe a Scroll Complications"]
 # Scribe a Scroll Complications
 *Source: Xanathar's Guide to Everything p. 133* 
 
-`dice: [[nullScribe A Scroll Complications (XGE).md#^table]]`
+`dice: [[Scribe A Scroll Complications (XGE).md#^table]]`
 
 **Scribe a Scroll Complications**
 

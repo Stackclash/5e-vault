@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Monstrosities"]
 # Monsters' Desires; Monstrosities
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Monstrosities (TCE).md#^monstrosities]]`
+`dice: [[Monsters Desires Monstrosities (TCE).md#^monstrosities]]`
 
 **Monstrosities**
 

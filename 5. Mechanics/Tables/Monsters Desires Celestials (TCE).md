@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Celestials"]
 # Monsters' Desires; Celestials
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Celestials (TCE).md#^celestials]]`
+`dice: [[Monsters Desires Celestials (TCE).md#^celestials]]`
 
 **Celestials**
 

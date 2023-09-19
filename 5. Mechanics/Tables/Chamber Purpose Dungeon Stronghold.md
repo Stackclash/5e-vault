@@ -8,7 +8,7 @@ aliases: ["Chamber Purpose; Dungeon: Stronghold"]
 # Chamber Purpose; Dungeon: Stronghold
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[nullChamber Purpose Dungeon Stronghold.md#^dungeon-stronghold]]`
+`dice: [[Chamber Purpose Dungeon Stronghold.md#^dungeon-stronghold]]`
 
 **Dungeon: Stronghold**
 

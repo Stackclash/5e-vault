@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Swords"]
 ---
 # College of Swords
-*[[nullBard.md\|Bard]]: Bard College*  
+*[[Bard.md\|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 15*  
 
 

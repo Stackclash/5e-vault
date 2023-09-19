@@ -8,7 +8,7 @@ aliases: ["Improvising Damage"]
 # Improvising Damage
 *Source: Dungeon Master's Guide p. 249* 
 
-`dice: [[nullImprovising Damage.md#^improvising-damage]]`
+`dice: [[Improvising Damage.md#^improvising-damage]]`
 
 **Improvising Damage**
 

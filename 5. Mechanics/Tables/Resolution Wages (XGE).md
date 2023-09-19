@@ -8,7 +8,7 @@ aliases: ["Resolution; Wages"]
 # Resolution; Wages
 *Source: Xanathar's Guide to Everything p. 134* 
 
-`dice: [[nullResolution Wages (XGE).md#^wages]]`
+`dice: [[Resolution Wages (XGE).md#^wages]]`
 
 **Wages**
 

@@ -8,7 +8,7 @@ aliases: ["Barbarian Units"]
 # Barbarian Units
 *Source: Strongholds and Followers* 
 
-`dice: [[nullBarbarian Units Saf.md#^barbarian-units]]`
+`dice: [[Barbarian Units Saf.md#^barbarian-units]]`
 
 **Barbarian Units**
 

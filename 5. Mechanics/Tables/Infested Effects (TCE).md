@@ -8,7 +8,7 @@ aliases: ["Infested Effects"]
 # Infested Effects
 *Source: Tasha's Cauldron of Everything p. 156* 
 
-`dice: [[nullInfested Effects (TCE).md#^infested-effects]]`
+`dice: [[Infested Effects (TCE).md#^infested-effects]]`
 
 **Infested Effects**
 

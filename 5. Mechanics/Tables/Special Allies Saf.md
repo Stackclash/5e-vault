@@ -8,7 +8,7 @@ aliases: ["Special Allies"]
 # Special Allies
 *Source: Strongholds and Followers* 
 
-`dice: [[nullSpecial Allies Saf.md#^special-allies]]`
+`dice: [[Special Allies Saf.md#^special-allies]]`
 
 **Special Allies**
 

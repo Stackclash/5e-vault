@@ -7,7 +7,7 @@ tags:
 aliases: ["Aberrant Mind"]
 ---
 # Aberrant Mind
-*[[nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Tasha's Cauldron of Everything p. 66*  
 
 

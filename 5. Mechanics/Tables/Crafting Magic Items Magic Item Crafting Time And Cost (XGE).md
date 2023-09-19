@@ -8,7 +8,7 @@ aliases: ["Crafting Magic Items; Magic Item Crafting Time and Cost"]
 # Crafting Magic Items; Magic Item Crafting Time and Cost
 *Source: Xanathar's Guide to Everything p. 128* 
 
-`dice: [[nullCrafting Magic Items Magic Item Crafting Time And Cost (XGE).md#^table]]`
+`dice: [[Crafting Magic Items Magic Item Crafting Time And Cost (XGE).md#^table]]`
 
 **Magic Item Crafting Time and Cost**
 

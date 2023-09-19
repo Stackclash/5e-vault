@@ -8,7 +8,7 @@ aliases: ["Wild Magic"]
 # Wild Magic
 *Source: Tasha's Cauldron of Everything p. 25* 
 
-`dice: [[nullWild Magic (TCE).md#^wild-magic]]`
+`dice: [[Wild Magic (TCE).md#^wild-magic]]`
 
 **Wild Magic**
 

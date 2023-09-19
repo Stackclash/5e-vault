@@ -8,7 +8,7 @@ aliases: ["Mordenheim's Designs; Serving Dr. Mordenheim"]
 # Mordenheim's Designs; Serving Dr. Mordenheim
 *Source: Van Richten's Guide to Ravenloft p. 142* 
 
-`dice: [[nullMordenheims Designs Serving Dr Mordenheim (VRGR).md#^serving-dr-mordenheim]]`
+`dice: [[Mordenheims Designs Serving Dr Mordenheim (VRGR).md#^serving-dr-mordenheim]]`
 
 **Serving Dr. Mordenheim**
 

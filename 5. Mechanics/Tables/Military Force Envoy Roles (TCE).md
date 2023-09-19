@@ -8,7 +8,7 @@ aliases: ["Military Force Envoy Roles"]
 # Military Force Envoy Roles
 *Source: Tasha's Cauldron of Everything p. 97* 
 
-`dice: [[nullMilitary Force Envoy Roles (TCE).md#^military-force-envoy-roles]]`
+`dice: [[Military Force Envoy Roles (TCE).md#^military-force-envoy-roles]]`
 
 **Military Force Envoy Roles**
 

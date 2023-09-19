@@ -8,7 +8,7 @@ aliases: ["Guild Quests"]
 # Guild Quests
 *Source: Tasha's Cauldron of Everything p. 95* 
 
-`dice: [[nullGuild Quests (TCE).md#^guild-quests]]`
+`dice: [[Guild Quests (TCE).md#^guild-quests]]`
 
 **Guild Quests**
 

@@ -8,7 +8,7 @@ aliases: ["Dragonborn Names – Clan"]
 # Dragonborn Names – Clan
 *Source: Xanathar's Guide to Everything p. 175* 
 
-`dice: [[nullDragonborn Names Clan (XGE).md#^dragonborn-names-clan]]`
+`dice: [[Dragonborn Names Clan (XGE).md#^dragonborn-names-clan]]`
 
 **Dragonborn Names – Clan**
 

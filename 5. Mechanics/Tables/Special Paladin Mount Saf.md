@@ -8,7 +8,7 @@ aliases: ["Special Paladin Mount"]
 # Special Paladin Mount
 *Source: Strongholds and Followers* 
 
-`dice: [[nullSpecial Paladin Mount Saf.md#^special-paladin-mount]]`
+`dice: [[Special Paladin Mount Saf.md#^special-paladin-mount]]`
 
 **Special Paladin Mount**
 

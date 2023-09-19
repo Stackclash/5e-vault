@@ -8,7 +8,7 @@ aliases: ["Variant: Mixing Potions; Potion Miscibility"]
 # Variant: Mixing Potions; Potion Miscibility
 *Source: Dungeon Master's Guide p. 140* 
 
-`dice: [[nullVariant Mixing Potions Potion Miscibility.md#^potion-miscibility]]`
+`dice: [[Variant Mixing Potions Potion Miscibility.md#^potion-miscibility]]`
 
 **Potion Miscibility**
 

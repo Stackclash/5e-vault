@@ -8,7 +8,7 @@ aliases: ["Enchanted Springs; Enchanted Spring Effects"]
 # Enchanted Springs; Enchanted Spring Effects
 *Source: Tasha's Cauldron of Everything p. 165* 
 
-`dice: [[nullEnchanted Springs Enchanted Spring Effects (TCE).md#^enchanted-spring-effects]]`
+`dice: [[Enchanted Springs Enchanted Spring Effects (TCE).md#^enchanted-spring-effects]]`
 
 **Enchanted Spring Effects**
 

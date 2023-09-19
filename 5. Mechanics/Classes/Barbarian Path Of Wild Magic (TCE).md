@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of Wild Magic"]
 ---
 # Path of Wild Magic
-*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 25*  
 
 

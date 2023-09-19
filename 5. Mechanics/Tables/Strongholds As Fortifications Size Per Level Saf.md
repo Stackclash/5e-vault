@@ -8,7 +8,7 @@ aliases: ["Strongholds as Fortifications; Size Per Level"]
 # Strongholds as Fortifications; Size Per Level
 *Source: Strongholds and Followers* 
 
-`dice: [[nullStrongholds As Fortifications Size Per Level Saf.md#^size-per-level]]`
+`dice: [[Strongholds As Fortifications Size Per Level Saf.md#^size-per-level]]`
 
 **Size Per Level**
 

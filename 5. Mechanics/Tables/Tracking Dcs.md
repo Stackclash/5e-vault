@@ -8,7 +8,7 @@ aliases: ["Tracking DCs"]
 # Tracking DCs
 *Source: Dungeon Master's Guide p. 244* 
 
-`dice: [[nullTracking Dcs.md#^tracking-dcs]]`
+`dice: [[Tracking Dcs.md#^tracking-dcs]]`
 
 **Tracking DCs**
 

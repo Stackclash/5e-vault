@@ -8,7 +8,7 @@ aliases: ["Weapons"]
 # Weapons
 *Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullWeapons.md#^weapons]]`
+`dice: [[Weapons.md#^weapons]]`
 
 **Weapons**
 

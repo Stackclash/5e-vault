@@ -8,7 +8,7 @@ aliases: ["Meeting the Darklord; Favors for Harkon Lukas"]
 # Meeting the Darklord; Favors for Harkon Lukas
 *Source: Van Richten's Guide to Ravenloft p. 136* 
 
-`dice: [[nullMeeting The Darklord Favors For Harkon Lukas (VRGR).md#^favors-for-harkon-lukas]]`
+`dice: [[Meeting The Darklord Favors For Harkon Lukas (VRGR).md#^favors-for-harkon-lukas]]`
 
 **Favors for Harkon Lukas**
 

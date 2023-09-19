@@ -8,7 +8,7 @@ aliases: ["Wild Magic Surge"]
 # Wild Magic Surge
 *Source: Player's Handbook p. 103* 
 
-`dice: [[nullWild Magic Surge.md#^wild-magic-surge]]`
+`dice: [[Wild Magic Surge.md#^wild-magic-surge]]`
 
 **Wild Magic Surge**
 

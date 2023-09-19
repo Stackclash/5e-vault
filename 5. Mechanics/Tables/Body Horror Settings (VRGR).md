@@ -8,7 +8,7 @@ aliases: ["Body Horror Settings"]
 # Body Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 47* 
 
-`dice: [[nullBody Horror Settings (VRGR).md#^body-horror-settings]]`
+`dice: [[Body Horror Settings (VRGR).md#^body-horror-settings]]`
 
 **Body Horror Settings**
 

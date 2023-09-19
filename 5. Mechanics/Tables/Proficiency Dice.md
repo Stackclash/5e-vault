@@ -8,7 +8,7 @@ aliases: ["Proficiency Dice"]
 # Proficiency Dice
 *Source: Dungeon Master's Guide p. 263* 
 
-`dice: [[nullProficiency Dice.md#^proficiency-dice]]`
+`dice: [[Proficiency Dice.md#^proficiency-dice]]`
 
 **Proficiency Dice**
 

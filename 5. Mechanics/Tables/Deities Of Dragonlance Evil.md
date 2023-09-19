@@ -8,7 +8,7 @@ aliases: ["Deities of Dragonlance: Evil"]
 # Deities of Dragonlance: Evil
 *Source: Player's Handbook p. 293* 
 
-`dice: [[nullDeities Of Dragonlance Evil.md#^deities-of-dragonlance-evil]]`
+`dice: [[Deities Of Dragonlance Evil.md#^deities-of-dragonlance-evil]]`
 
 **Deities of Dragonlance: Evil**
 

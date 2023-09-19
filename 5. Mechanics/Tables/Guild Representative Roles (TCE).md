@@ -8,7 +8,7 @@ aliases: ["Guild Representative Roles"]
 # Guild Representative Roles
 *Source: Tasha's Cauldron of Everything p. 95* 
 
-`dice: [[nullGuild Representative Roles (TCE).md#^guild-representative-roles]]`
+`dice: [[Guild Representative Roles (TCE).md#^guild-representative-roles]]`
 
 **Guild Representative Roles**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["The Genie"]
 ---
 # The Genie
-*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 73*  
 
 

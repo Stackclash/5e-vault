@@ -8,7 +8,7 @@ aliases: ["Crafting an Item; Resources and Resolution"]
 # Crafting an Item; Resources and Resolution
 *Source: Xanathar's Guide to Everything p. 128* 
 
-`dice: [[nullCrafting An Item Resources And Resolution (XGE).md#^proficiency-items]]`
+`dice: [[Crafting An Item Resources And Resolution (XGE).md#^proficiency-items]]`
 
 | Proficiency | Items |
 |-------------|-------|

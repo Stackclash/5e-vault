@@ -8,7 +8,7 @@ aliases: ["Rogue Followers"]
 # Rogue Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullRogue Followers Saf.md#^rogue-followers]]`
+`dice: [[Rogue Followers Saf.md#^rogue-followers]]`
 
 **Rogue Followers**
 

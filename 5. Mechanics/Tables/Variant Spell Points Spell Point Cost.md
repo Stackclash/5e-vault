@@ -8,7 +8,7 @@ aliases: ["Variant: Spell Points; Spell Point Cost"]
 # Variant: Spell Points; Spell Point Cost
 *Source: Dungeon Master's Guide p. 288* 
 
-`dice: [[nullVariant Spell Points Spell Point Cost.md#^spell-point-cost]]`
+`dice: [[Variant Spell Points Spell Point Cost.md#^spell-point-cost]]`
 
 **Spell Point Cost**
 

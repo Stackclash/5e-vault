@@ -8,7 +8,7 @@ aliases: ["Stage Four: Pestilence; Stage Four Encounters"]
 # Stage Four: Pestilence; Stage Four Encounters
 *Source: Van Richten's Guide to Ravenloft p. 155* 
 
-`dice: [[nullStage Four Pestilence Stage Four Encounters (VRGR).md#^stage-four-encounters]]`
+`dice: [[Stage Four Pestilence Stage Four Encounters (VRGR).md#^stage-four-encounters]]`
 
 **Stage Four Encounters**
 

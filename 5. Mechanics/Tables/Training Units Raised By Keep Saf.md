@@ -8,7 +8,7 @@ aliases: ["Training; Units Raised by Keep"]
 # Training; Units Raised by Keep
 *Source: Strongholds and Followers* 
 
-`dice: [[nullTraining Units Raised By Keep Saf.md#^units-raised-by-keep]]`
+`dice: [[Training Units Raised By Keep Saf.md#^units-raised-by-keep]]`
 
 **Units Raised by Keep**
 

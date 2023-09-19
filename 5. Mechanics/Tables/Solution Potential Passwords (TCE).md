@@ -8,7 +8,7 @@ aliases: ["Solution; Potential Passwords"]
 # Solution; Potential Passwords
 *Source: Tasha's Cauldron of Everything p. 183* 
 
-`dice: [[nullSolution Potential Passwords (TCE).md#^potential-passwords]]`
+`dice: [[Solution Potential Passwords (TCE).md#^potential-passwords]]`
 
 **Potential Passwords**
 

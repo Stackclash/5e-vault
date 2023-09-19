@@ -8,7 +8,7 @@ aliases: ["Extinction or Depletion"]
 # Extinction or Depletion
 *Source: Dungeon Master's Guide p. 30* 
 
-`dice: [[nullExtinction Or Depletion.md#^extinction-or-depletion]]`
+`dice: [[Extinction Or Depletion.md#^extinction-or-depletion]]`
 
 **Extinction or Depletion**
 

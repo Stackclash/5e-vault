@@ -8,7 +8,7 @@ tags:
 aliases: ["Trickery Domain"]
 ---
 # Trickery Domain
-*[[nullCleric.md\|Cleric]]: Divine Domain*  
+*[[Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 

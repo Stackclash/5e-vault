@@ -8,7 +8,7 @@ aliases: ["Stage Three: Illness; Stage Three Encounters"]
 # Stage Three: Illness; Stage Three Encounters
 *Source: Van Richten's Guide to Ravenloft p. 155* 
 
-`dice: [[nullStage Three Illness Stage Three Encounters (VRGR).md#^stage-three-encounters]]`
+`dice: [[Stage Three Illness Stage Three Encounters (VRGR).md#^stage-three-encounters]]`
 
 **Stage Three Encounters**
 

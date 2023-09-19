@@ -8,7 +8,7 @@ aliases: ["Urban Chase Complications"]
 # Urban Chase Complications
 *Source: Dungeon Master's Guide p. 253* 
 
-`dice: [[nullUrban Chase Complications.md#^urban-chase-complications]]`
+`dice: [[Urban Chase Complications.md#^urban-chase-complications]]`
 
 **Urban Chase Complications**
 

@@ -8,7 +8,7 @@ aliases: ["Halfling Names – Female"]
 # Halfling Names – Female
 *Source: Xanathar's Guide to Everything p. 179* 
 
-`dice: [[nullHalfling Names Female (XGE).md#^halfling-names-female]]`
+`dice: [[Halfling Names Female (XGE).md#^halfling-names-female]]`
 
 **Halfling Names – Female**
 

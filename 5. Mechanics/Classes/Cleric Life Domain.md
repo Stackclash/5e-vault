@@ -8,7 +8,7 @@ tags:
 aliases: ["Life Domain"]
 ---
 # Life Domain
-*[[nullCleric.md\|Cleric]]: Divine Domain*  
+*[[Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 60. Available in the SRD and the Basic Rules.*  
 
 

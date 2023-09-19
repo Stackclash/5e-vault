@@ -8,7 +8,7 @@ aliases: ["Folk Horror Adventure Sites"]
 # Folk Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
-`dice: [[nullFolk Horror Adventure Sites (VRGR).md#^folk-horror-adventure-sites]]`
+`dice: [[Folk Horror Adventure Sites (VRGR).md#^folk-horror-adventure-sites]]`
 
 **Folk Horror Adventure Sites**
 

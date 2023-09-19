@@ -8,7 +8,7 @@ aliases: ["Academy Type"]
 # Academy Type
 *Source: Tasha's Cauldron of Everything p. 84* 
 
-`dice: [[nullAcademy Type (TCE).md#^academy-type]]`
+`dice: [[Academy Type (TCE).md#^academy-type]]`
 
 **Academy Type**
 

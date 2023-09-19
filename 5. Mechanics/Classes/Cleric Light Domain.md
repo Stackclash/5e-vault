@@ -8,7 +8,7 @@ tags:
 aliases: ["Light Domain"]
 ---
 # Light Domain
-*[[nullCleric.md\|Cleric]]: Divine Domain*  
+*[[Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 60*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Random Buildings; Residence"]
 # Random Buildings; Residence
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[nullRandom Buildings Residence.md#^residence]]`
+`dice: [[Random Buildings Residence.md#^residence]]`
 
 **Residence**
 

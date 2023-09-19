@@ -8,7 +8,7 @@ aliases: ["Paladin Followers"]
 # Paladin Followers
 *Source: Strongholds and Followers* 
 
-`dice: [[nullPaladin Followers Saf.md#^paladin-followers]]`
+`dice: [[Paladin Followers Saf.md#^paladin-followers]]`
 
 **Paladin Followers**
 

@@ -8,7 +8,7 @@ aliases: ["Party Formation; Party Origin"]
 # Party Formation; Party Origin
 *Source: Tasha's Cauldron of Everything p. 139* 
 
-`dice: [[nullParty Formation Party Origin (TCE).md#^party-origin]]`
+`dice: [[Party Formation Party Origin (TCE).md#^party-origin]]`
 
 **Party Origin**
 

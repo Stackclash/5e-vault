@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Zealot"]
 ---
 # Path of the Zealot
-*[[nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Xanathar's Guide to Everything p. 11*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Deep Ethereal; Ethereal Curtains"]
 # Deep Ethereal; Ethereal Curtains
 *Source: Dungeon Master's Guide p. 48* 
 
-`dice: [[nullDeep Ethereal Ethereal Curtains.md#^ethereal-curtains]]`
+`dice: [[Deep Ethereal Ethereal Curtains.md#^ethereal-curtains]]`
 
 **Ethereal Curtains**
 

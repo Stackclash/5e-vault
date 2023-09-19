@@ -8,7 +8,7 @@ aliases: ["Foraging DCs"]
 # Foraging DCs
 *Source: Dungeon Master's Guide p. 111* 
 
-`dice: [[nullForaging Dcs.md#^foraging-dcs]]`
+`dice: [[Foraging Dcs.md#^foraging-dcs]]`
 
 **Foraging DCs**
 

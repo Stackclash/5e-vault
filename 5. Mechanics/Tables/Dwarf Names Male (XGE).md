@@ -8,7 +8,7 @@ aliases: ["Dwarf Names – Male"]
 # Dwarf Names – Male
 *Source: Xanathar's Guide to Everything p. 176* 
 
-`dice: [[nullDwarf Names Male (XGE).md#^dwarf-names-male]]`
+`dice: [[Dwarf Names Male (XGE).md#^dwarf-names-male]]`
 
 **Dwarf Names – Male**
 

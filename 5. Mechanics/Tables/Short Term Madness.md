@@ -8,7 +8,7 @@ aliases: ["Short-Term Madness"]
 # Short-Term Madness
 *Source: Dungeon Master's Guide p. 259. Available in the SRD.* 
 
-`dice: [[nullShort Term Madness.md#^short-term-madness]]`
+`dice: [[Short Term Madness.md#^short-term-madness]]`
 
 **Short-Term Madness**
 

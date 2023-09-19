@@ -8,7 +8,7 @@ aliases: ["Crime Complications"]
 # Crime Complications
 *Source: Xanathar's Guide to Everything p. 130* 
 
-`dice: [[nullCrime Complications (XGE).md#^table]]`
+`dice: [[Crime Complications (XGE).md#^table]]`
 
 **Crime Complications**
 

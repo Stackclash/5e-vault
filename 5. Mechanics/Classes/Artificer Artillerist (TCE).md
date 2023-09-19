@@ -7,7 +7,7 @@ tags:
 aliases: ["Artillerist"]
 ---
 # Artillerist
-*[[nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 17*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Human Names – Greek, Male"]
 # Human Names – Greek, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Greek Male (XGE).md#^human-names-greek-male]]`
+`dice: [[Human Names Greek Male (XGE).md#^human-names-greek-male]]`
 
 **Human Names – Greek, Male**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Circle of Spores"]
 ---
 # Circle of Spores
-*[[nullDruid.md\|Druid]]: Druid Circle*  
+*[[Druid.md\|Druid]]: Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 36*  
 
 

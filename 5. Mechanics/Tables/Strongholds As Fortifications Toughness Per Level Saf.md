@@ -8,7 +8,7 @@ aliases: ["Strongholds as Fortifications; Toughness Per Level"]
 # Strongholds as Fortifications; Toughness Per Level
 *Source: Strongholds and Followers* 
 
-`dice: [[nullStrongholds As Fortifications Toughness Per Level Saf.md#^toughness-per-level]]`
+`dice: [[Strongholds As Fortifications Toughness Per Level Saf.md#^toughness-per-level]]`
 
 **Toughness Per Level**
 

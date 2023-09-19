@@ -8,7 +8,7 @@ aliases: ["The Celtic Pantheon; Celtic Deities"]
 # The Celtic Pantheon; Celtic Deities
 *Source: Player's Handbook p. 297. Available in the SRD.* 
 
-`dice: [[nullThe Celtic Pantheon Celtic Deities.md#^celtic-deities]]`
+`dice: [[The Celtic Pantheon Celtic Deities.md#^celtic-deities]]`
 
 **Celtic Deities**
 

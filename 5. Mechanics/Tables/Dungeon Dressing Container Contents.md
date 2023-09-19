@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; Container Contents"]
 # Dungeon Dressing; Container Contents
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[nullDungeon Dressing Container Contents.md#^container-contents]]`
+`dice: [[Dungeon Dressing Container Contents.md#^container-contents]]`
 
 **Container Contents**
 

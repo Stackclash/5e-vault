@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Beasts"]
 # Monsters' Desires; Beasts
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Beasts (TCE).md#^beasts]]`
+`dice: [[Monsters Desires Beasts (TCE).md#^beasts]]`
 
 **Beasts**
 

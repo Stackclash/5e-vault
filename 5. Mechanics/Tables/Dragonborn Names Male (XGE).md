@@ -8,7 +8,7 @@ aliases: ["Dragonborn Names – Male"]
 # Dragonborn Names – Male
 *Source: Xanathar's Guide to Everything p. 175* 
 
-`dice: [[nullDragonborn Names Male (XGE).md#^dragonborn-names-male]]`
+`dice: [[Dragonborn Names Male (XGE).md#^dragonborn-names-male]]`
 
 **Dragonborn Names – Male**
 

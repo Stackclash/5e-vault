@@ -7,7 +7,7 @@ tags:
 aliases: ["The Undead"]
 ---
 # The Undead
-*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Van Richten's Guide to Ravenloft p. 30*  
 
 

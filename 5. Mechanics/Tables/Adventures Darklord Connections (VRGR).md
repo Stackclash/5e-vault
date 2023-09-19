@@ -8,7 +8,7 @@ aliases: ["Adventures; Darklord Connections"]
 # Adventures; Darklord Connections
 *Source: Van Richten's Guide to Ravenloft p. 44* 
 
-`dice: [[nullAdventures Darklord Connections (VRGR).md#^darklord-connections]]`
+`dice: [[Adventures Darklord Connections (VRGR).md#^darklord-connections]]`
 
 **Darklord Connections**
 

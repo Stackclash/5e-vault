@@ -8,7 +8,7 @@ aliases: ["Combat Encounter Difficulty; XP Thresholds by Character Level"]
 # Combat Encounter Difficulty; XP Thresholds by Character Level
 *Source: Dungeon Master's Guide p. 82. Available in the Basic Rules.* 
 
-`dice: [[nullCombat Encounter Difficulty Xp Thresholds By Character Level.md#^xp-thresholds-by-character-level]]`
+`dice: [[Combat Encounter Difficulty Xp Thresholds By Character Level.md#^xp-thresholds-by-character-level]]`
 
 **XP Thresholds by Character Level**
 

@@ -8,7 +8,7 @@ aliases: ["Hill Encounters (Levels 1—4)"]
 # Hill Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 101* 
 
-`dice: [[nullHill Encounters Levels-14 (XGE).md#^hill-encounters-levels-14]]`
+`dice: [[Hill Encounters Levels-14 (XGE).md#^hill-encounters-levels-14]]`
 
 **Hill Encounters (Levels 1—4)**
 

@@ -8,7 +8,7 @@ aliases: ["Magic Items Awarded by Rarity - Major"]
 # Magic Items Awarded by Rarity - Major
 *Source: Xanathar's Guide to Everything p. 135* 
 
-`dice: [[nullMagic Items Awarded By Rarity Major (XGE).md#^magic-items-awarded-by-rarity-major]]`
+`dice: [[Magic Items Awarded By Rarity Major (XGE).md#^magic-items-awarded-by-rarity-major]]`
 
 **Magic Items Awarded by Rarity - Major**
 

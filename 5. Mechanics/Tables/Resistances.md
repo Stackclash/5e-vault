@@ -8,7 +8,7 @@ aliases: ["Resistances"]
 # Resistances
 *Source: Monster Manual p. 180* 
 
-`dice: [[nullResistances.md#^color-damage-resistance]]`
+`dice: [[Resistances.md#^color-damage-resistance]]`
 
 | Color | Damage Resistance |
 |-------|-------------------|

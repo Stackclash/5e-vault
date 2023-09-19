@@ -8,7 +8,7 @@ aliases: ["Horror Characteristics; Horror Character Personality Traits"]
 # Horror Characteristics; Horror Character Personality Traits
 *Source: Van Richten's Guide to Ravenloft p. 32* 
 
-`dice: [[nullHorror Characteristics Horror Character Personality Traits (VRGR).md#^horror-character-personality-traits]]`
+`dice: [[Horror Characteristics Horror Character Personality Traits (VRGR).md#^horror-character-personality-traits]]`
 
 **Horror Character Personality Traits**
 

@@ -8,7 +8,7 @@ aliases: ["Magic Tattoos; Magic Tattoo Coverage"]
 # Magic Tattoos; Magic Tattoo Coverage
 *Source: Tasha's Cauldron of Everything p. 118* 
 
-`dice: [[nullMagic Tattoos Magic Tattoo Coverage (TCE).md#^magic-tattoo-coverage]]`
+`dice: [[Magic Tattoos Magic Tattoo Coverage (TCE).md#^magic-tattoo-coverage]]`
 
 **Magic Tattoo Coverage**
 

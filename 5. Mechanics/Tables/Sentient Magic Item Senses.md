@@ -8,7 +8,7 @@ aliases: ["Sentient Magic Item Senses"]
 # Sentient Magic Item Senses
 *Source: Dungeon Master's Guide p. 214. Available in the SRD.* 
 
-`dice: [[nullSentient Magic Item Senses.md#^sentient-magic-item-senses]]`
+`dice: [[Sentient Magic Item Senses.md#^sentient-magic-item-senses]]`
 
 **Sentient Magic Item Senses**
 

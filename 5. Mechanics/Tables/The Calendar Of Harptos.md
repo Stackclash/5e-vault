@@ -8,7 +8,7 @@ aliases: ["The Calendar of Harptos"]
 # The Calendar of Harptos
 *Source: Dungeon Master's Guide p. 33* 
 
-`dice: [[nullThe Calendar Of Harptos.md#^month-name-common-name]]`
+`dice: [[The Calendar Of Harptos.md#^month-name-common-name]]`
 
 | Month | Name | Common Name |
 |-------|------|-------------|

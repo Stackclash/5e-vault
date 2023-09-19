@@ -8,7 +8,7 @@ aliases: ["Monster Research"]
 # Monster Research
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonster Research (TCE).md#^monster-research]]`
+`dice: [[Monster Research (TCE).md#^monster-research]]`
 
 **Monster Research**
 

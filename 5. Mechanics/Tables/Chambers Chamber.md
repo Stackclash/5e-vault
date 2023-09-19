@@ -8,7 +8,7 @@ aliases: ["Chambers; Chamber"]
 # Chambers; Chamber
 *Source: Dungeon Master's Guide p. 291* 
 
-`dice: [[nullChambers Chamber.md#^table]]`
+`dice: [[Chambers Chamber.md#^table]]`
 
 **Chamber**
 

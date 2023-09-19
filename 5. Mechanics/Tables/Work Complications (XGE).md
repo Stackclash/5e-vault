@@ -8,7 +8,7 @@ aliases: ["Work Complications"]
 # Work Complications
 *Source: Xanathar's Guide to Everything p. 134* 
 
-`dice: [[nullWork Complications (XGE).md#^table]]`
+`dice: [[Work Complications (XGE).md#^table]]`
 
 **Work Complications**
 

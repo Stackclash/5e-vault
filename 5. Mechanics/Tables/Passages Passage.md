@@ -8,7 +8,7 @@ aliases: ["Passages; Passage"]
 # Passages; Passage
 *Source: Dungeon Master's Guide p. 290* 
 
-`dice: [[nullPassages Passage.md#^table]]`
+`dice: [[Passages Passage.md#^table]]`
 
 **Passage**
 

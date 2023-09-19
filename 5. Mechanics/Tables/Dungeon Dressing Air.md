@@ -8,7 +8,7 @@ aliases: ["Dungeon Dressing; Air"]
 # Dungeon Dressing; Air
 *Source: Dungeon Master's Guide p. 298* 
 
-`dice: [[nullDungeon Dressing Air.md#^air]]`
+`dice: [[Dungeon Dressing Air.md#^air]]`
 
 **Air**
 

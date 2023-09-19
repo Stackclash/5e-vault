@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Eloquence"]
 ---
 # College of Eloquence
-*[[nullBard.md\|Bard]]: Bard College*  
+*[[Bard.md\|Bard]]: Bard College*  
 *Source: Tasha's Cauldron of Everything p. 29*  
 
 

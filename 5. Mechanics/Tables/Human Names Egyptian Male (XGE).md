@@ -8,7 +8,7 @@ aliases: ["Human Names – Egyptian, Male"]
 # Human Names – Egyptian, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Egyptian Male (XGE).md#^human-names-egyptian-male]]`
+`dice: [[Human Names Egyptian Male (XGE).md#^human-names-egyptian-male]]`
 
 **Human Names – Egyptian, Male**
 

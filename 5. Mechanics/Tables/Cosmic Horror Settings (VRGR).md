@@ -8,7 +8,7 @@ aliases: ["Cosmic Horror Settings"]
 # Cosmic Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
-`dice: [[nullCosmic Horror Settings (VRGR).md#^cosmic-horror-settings]]`
+`dice: [[Cosmic Horror Settings (VRGR).md#^cosmic-horror-settings]]`
 
 **Cosmic Horror Settings**
 

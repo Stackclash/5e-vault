@@ -8,7 +8,7 @@ aliases: ["The Adventuring Day; Adventuring Day XP"]
 # The Adventuring Day; Adventuring Day XP
 *Source: Dungeon Master's Guide p. 84. Available in the Basic Rules.* 
 
-`dice: [[nullThe Adventuring Day Adventuring Day Xp.md#^adventuring-day-xp]]`
+`dice: [[The Adventuring Day Adventuring Day Xp.md#^adventuring-day-xp]]`
 
 **Adventuring Day XP**
 

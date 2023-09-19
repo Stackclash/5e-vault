@@ -8,7 +8,7 @@ aliases: ["Religious Order Quests"]
 # Religious Order Quests
 *Source: Tasha's Cauldron of Everything p. 100* 
 
-`dice: [[nullReligious Order Quests (TCE).md#^religious-order-quests]]`
+`dice: [[Religious Order Quests (TCE).md#^religious-order-quests]]`
 
 **Religious Order Quests**
 

@@ -8,7 +8,7 @@ aliases: ["Dungeon Location; Exotic Location"]
 # Dungeon Location; Exotic Location
 *Source: Dungeon Master's Guide p. 99* 
 
-`dice: [[nullDungeon Location Exotic Location.md#^exotic-location]]`
+`dice: [[Dungeon Location Exotic Location.md#^exotic-location]]`
 
 **Exotic Location**
 

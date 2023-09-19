@@ -7,7 +7,7 @@ tags:
 aliases: ["The Fathomless"]
 ---
 # The Fathomless
-*[[nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 72*  
 
 

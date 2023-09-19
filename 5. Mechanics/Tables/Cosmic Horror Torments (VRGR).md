@@ -8,7 +8,7 @@ aliases: ["Cosmic Horror Torments"]
 # Cosmic Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
-`dice: [[nullCosmic Horror Torments (VRGR).md#^cosmic-horror-torments]]`
+`dice: [[Cosmic Horror Torments (VRGR).md#^cosmic-horror-torments]]`
 
 **Cosmic Horror Torments**
 

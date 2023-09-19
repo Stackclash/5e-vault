@@ -8,7 +8,7 @@ aliases: ["Tepest Adventures"]
 # Tepest Adventures
 *Source: Van Richten's Guide to Ravenloft p. 159* 
 
-`dice: [[nullTepest Adventures (VRGR).md#^tepest-adventures]]`
+`dice: [[Tepest Adventures (VRGR).md#^tepest-adventures]]`
 
 **Tepest Adventures**
 

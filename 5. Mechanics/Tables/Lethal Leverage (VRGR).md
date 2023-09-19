@@ -8,7 +8,7 @@ aliases: ["Lethal Leverage"]
 # Lethal Leverage
 *Source: Van Richten's Guide to Ravenloft p. 82* 
 
-`dice: [[nullLethal Leverage (VRGR).md#^lethal-leverage]]`
+`dice: [[Lethal Leverage (VRGR).md#^lethal-leverage]]`
 
 **Lethal Leverage**
 

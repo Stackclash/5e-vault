@@ -8,7 +8,7 @@ aliases: ["Psychic Resonance Effects"]
 # Psychic Resonance Effects
 *Source: Tasha's Cauldron of Everything p. 160* 
 
-`dice: [[nullPsychic Resonance Effects (TCE).md#^psychic-resonance-effects]]`
+`dice: [[Psychic Resonance Effects (TCE).md#^psychic-resonance-effects]]`
 
 **Psychic Resonance Effects**
 

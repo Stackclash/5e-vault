@@ -8,7 +8,7 @@ aliases: ["Monuments"]
 # Monuments
 *Source: Dungeon Master's Guide p. 108* 
 
-`dice: [[nullMonuments.md#^monuments]]`
+`dice: [[Monuments.md#^monuments]]`
 
 **Monuments**
 

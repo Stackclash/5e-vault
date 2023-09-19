@@ -8,7 +8,7 @@ aliases: ["NPC Bonds"]
 # NPC Bonds
 *Source: Dungeon Master's Guide p. 91* 
 
-`dice: [[nullNpc Bonds.md#^npc-bonds]]`
+`dice: [[Npc Bonds.md#^npc-bonds]]`
 
 **NPC Bonds**
 

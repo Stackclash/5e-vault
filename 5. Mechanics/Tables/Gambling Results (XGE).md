@@ -8,7 +8,7 @@ aliases: ["Gambling Results"]
 # Gambling Results
 *Source: Xanathar's Guide to Everything p. 130* 
 
-`dice: [[nullGambling Results (XGE).md#^gambling-results]]`
+`dice: [[Gambling Results (XGE).md#^gambling-results]]`
 
 **Gambling Results**
 

@@ -8,7 +8,7 @@ aliases: ["Research Outcomes"]
 # Research Outcomes
 *Source: Xanathar's Guide to Everything p. 132* 
 
-`dice: [[nullResearch Outcomes (XGE).md#^research-outcomes]]`
+`dice: [[Research Outcomes (XGE).md#^research-outcomes]]`
 
 **Research Outcomes**
 

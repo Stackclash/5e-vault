@@ -8,7 +8,7 @@ aliases: ["Romance; Romantic Elements"]
 # Romance; Romantic Elements
 *Source: Van Richten's Guide to Ravenloft p. 148* 
 
-`dice: [[nullRomance Romantic Elements (VRGR).md#^romantic-elements]]`
+`dice: [[Romance Romantic Elements (VRGR).md#^romantic-elements]]`
 
 **Romantic Elements**
 

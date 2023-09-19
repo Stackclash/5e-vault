@@ -8,7 +8,7 @@ aliases: ["Religious Order Member Roles"]
 # Religious Order Member Roles
 *Source: Tasha's Cauldron of Everything p. 99* 
 
-`dice: [[nullReligious Order Member Roles (TCE).md#^religious-order-member-roles]]`
+`dice: [[Religious Order Member Roles (TCE).md#^religious-order-member-roles]]`
 
 **Religious Order Member Roles**
 

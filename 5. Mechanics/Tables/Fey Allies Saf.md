@@ -8,7 +8,7 @@ aliases: ["Fey Allies"]
 # Fey Allies
 *Source: Strongholds and Followers* 
 
-`dice: [[nullFey Allies Saf.md#^fey-allies]]`
+`dice: [[Fey Allies Saf.md#^fey-allies]]`
 
 **Fey Allies**
 

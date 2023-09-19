@@ -8,7 +8,7 @@ aliases: ["Lost Memories; Suppressed Memories"]
 # Lost Memories; Suppressed Memories
 *Source: Van Richten's Guide to Ravenloft p. 75* 
 
-`dice: [[nullLost Memories Suppressed Memories (VRGR).md#^suppressed-memories]]`
+`dice: [[Lost Memories Suppressed Memories (VRGR).md#^suppressed-memories]]`
 
 **Suppressed Memories**
 

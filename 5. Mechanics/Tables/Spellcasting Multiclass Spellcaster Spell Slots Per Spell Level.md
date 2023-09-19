@@ -8,7 +8,7 @@ aliases: ["Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"]
 # Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
 *Source: Player's Handbook p. 164. Available in the SRD.* 
 
-`dice: [[nullSpellcasting Multiclass Spellcaster Spell Slots Per Spell Level.md#^multiclass-spellcaster-spell-slots-per-spell-level]]`
+`dice: [[Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level.md#^multiclass-spellcaster-spell-slots-per-spell-level]]`
 
 **Multiclass Spellcaster: Spell Slots per Spell Level**
 

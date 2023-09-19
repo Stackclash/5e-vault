@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 17—20)"]
 # Arctic Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[nullArctic Encounters Levels-1720 (XGE).md#^arctic-encounters-levels-1720]]`
+`dice: [[Arctic Encounters Levels-1720 (XGE).md#^arctic-encounters-levels-1720]]`
 
 **Arctic Encounters (Levels 17—20)**
 

@@ -8,7 +8,7 @@ aliases: ["Spell Scrolls; Spell Scroll"]
 # Spell Scrolls; Spell Scroll
 *Source: Dungeon Master's Guide p. 139. Available in the SRD.* 
 
-`dice: [[nullSpell Scrolls Spell Scroll.md#^spell-scroll]]`
+`dice: [[Spell Scrolls Spell Scroll.md#^spell-scroll]]`
 
 **Spell Scroll**
 

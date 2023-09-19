@@ -8,7 +8,7 @@ aliases: ["Individual Treasure: Challenge 5—10"]
 # Individual Treasure: Challenge 5—10
 *Source: Dungeon Master's Guide p. 133* 
 
-`dice: [[nullIndividual Treasure Challenge-510.md#^individual-treasure-challenge-510]]`
+`dice: [[Individual Treasure Challenge-510.md#^individual-treasure-challenge-510]]`
 
 **Individual Treasure: Challenge 5—10**
 

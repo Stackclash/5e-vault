@@ -8,7 +8,7 @@ aliases: ["Hill Encounters (Levels 11—16)"]
 # Hill Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 101* 
 
-`dice: [[nullHill Encounters Levels-1116 (XGE).md#^hill-encounters-levels-1116]]`
+`dice: [[Hill Encounters Levels-1116 (XGE).md#^hill-encounters-levels-1116]]`
 
 **Hill Encounters (Levels 11—16)**
 

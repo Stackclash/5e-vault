@@ -8,7 +8,7 @@ aliases: ["Strongholds as Fortifications; Cost to Upgrade (gp)"]
 # Strongholds as Fortifications; Cost to Upgrade (gp)
 *Source: Strongholds and Followers* 
 
-`dice: [[nullStrongholds As Fortifications Cost To Upgrade Gp Saf.md#^cost-to-upgrade-gp]]`
+`dice: [[Strongholds As Fortifications Cost To Upgrade Gp Saf.md#^cost-to-upgrade-gp]]`
 
 **Cost to Upgrade (gp)**
 

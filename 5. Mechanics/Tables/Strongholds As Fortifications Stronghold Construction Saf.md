@@ -8,7 +8,7 @@ aliases: ["Strongholds as Fortifications; Stronghold Construction"]
 # Strongholds as Fortifications; Stronghold Construction
 *Source: Strongholds and Followers* 
 
-`dice: [[nullStrongholds As Fortifications Stronghold Construction Saf.md#^stronghold-construction]]`
+`dice: [[Strongholds As Fortifications Stronghold Construction Saf.md#^stronghold-construction]]`
 
 **Stronghold Construction**
 

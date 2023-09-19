@@ -8,7 +8,7 @@ aliases: ["Magic Items"]
 # Magic Items
 *Source: Tasha's Cauldron of Everything p. 117* 
 
-`dice: [[nullMagic Items (TCE).md#^magic-items]]`
+`dice: [[Magic Items (TCE).md#^magic-items]]`
 
 **Magic Items**
 

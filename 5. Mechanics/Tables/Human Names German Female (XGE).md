@@ -8,7 +8,7 @@ aliases: ["Human Names – German, Female"]
 # Human Names – German, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names German Female (XGE).md#^human-names-german-female]]`
+`dice: [[Human Names German Female (XGE).md#^human-names-german-female]]`
 
 **Human Names – German, Female**
 

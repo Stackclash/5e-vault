@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Adventures"]
 # Secondary Tables; Adventures
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Adventures (XGE).md#^adventures]]`
+`dice: [[Secondary Tables Adventures (XGE).md#^adventures]]`
 
 **Adventures**
 

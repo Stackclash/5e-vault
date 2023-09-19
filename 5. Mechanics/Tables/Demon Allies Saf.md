@@ -8,7 +8,7 @@ aliases: ["Demon Allies"]
 # Demon Allies
 *Source: Strongholds and Followers* 
 
-`dice: [[nullDemon Allies Saf.md#^demon-allies]]`
+`dice: [[Demon Allies Saf.md#^demon-allies]]`
 
 **Demon Allies**
 

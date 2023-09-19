@@ -8,7 +8,7 @@ aliases: ["Random Tricks; Trick Objects"]
 # Random Tricks; Trick Objects
 *Source: Dungeon Master's Guide p. 297* 
 
-`dice: [[nullRandom Tricks Trick Objects.md#^trick-objects]]`
+`dice: [[Random Tricks Trick Objects.md#^trick-objects]]`
 
 **Trick Objects**
 

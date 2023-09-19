@@ -8,7 +8,7 @@ aliases: ["Cosmic Horror Villains"]
 # Cosmic Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 48* 
 
-`dice: [[nullCosmic Horror Villains (VRGR).md#^cosmic-horror-villains]]`
+`dice: [[Cosmic Horror Villains (VRGR).md#^cosmic-horror-villains]]`
 
 **Cosmic Horror Villains**
 

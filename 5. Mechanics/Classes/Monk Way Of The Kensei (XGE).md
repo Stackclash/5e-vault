@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Kensei"]
 ---
 # Way of the Kensei
-*[[nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 

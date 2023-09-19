@@ -8,7 +8,7 @@ aliases: ["Spells"]
 # Spells
 *Source: Tasha's Cauldron of Everything p. 105* 
 
-`dice: [[nullSpells (TCE).md#^level-spell-school-conc-ritual-class]]`
+`dice: [[Spells (TCE).md#^level-spell-school-conc-ritual-class]]`
 
 | Level | Spell | School | Conc. | Ritual | Class |
 |-------|-------|--------|-------|--------|-------|

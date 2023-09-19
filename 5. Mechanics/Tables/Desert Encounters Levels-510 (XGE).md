@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 5—10)"]
 # Desert Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[nullDesert Encounters Levels-510 (XGE).md#^desert-encounters-levels-510]]`
+`dice: [[Desert Encounters Levels-510 (XGE).md#^desert-encounters-levels-510]]`
 
 **Desert Encounters (Levels 5—10)**
 

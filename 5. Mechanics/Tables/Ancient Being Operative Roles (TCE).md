@@ -8,7 +8,7 @@ aliases: ["Ancient Being Operative Roles"]
 # Ancient Being Operative Roles
 *Source: Tasha's Cauldron of Everything p. 88* 
 
-`dice: [[nullAncient Being Operative Roles (TCE).md#^ancient-being-operative-roles]]`
+`dice: [[Ancient Being Operative Roles (TCE).md#^ancient-being-operative-roles]]`
 
 **Ancient Being Operative Roles**
 

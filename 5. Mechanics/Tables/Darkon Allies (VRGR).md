@@ -8,7 +8,7 @@ aliases: ["Darkon Allies"]
 # Darkon Allies
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
-`dice: [[nullDarkon Allies (VRGR).md#^darkon-allies]]`
+`dice: [[Darkon Allies (VRGR).md#^darkon-allies]]`
 
 **Darkon Allies**
 

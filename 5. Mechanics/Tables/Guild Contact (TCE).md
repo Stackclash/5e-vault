@@ -8,7 +8,7 @@ aliases: ["Guild Contact"]
 # Guild Contact
 *Source: Tasha's Cauldron of Everything p. 94* 
 
-`dice: [[nullGuild Contact (TCE).md#^guild-contact]]`
+`dice: [[Guild Contact (TCE).md#^guild-contact]]`
 
 **Guild Contact**
 

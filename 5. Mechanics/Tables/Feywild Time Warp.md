@@ -8,7 +8,7 @@ aliases: ["Feywild Time Warp"]
 # Feywild Time Warp
 *Source: Dungeon Master's Guide p. 50* 
 
-`dice: [[nullFeywild Time Warp.md#^feywild-time-warp]]`
+`dice: [[Feywild Time Warp.md#^feywild-time-warp]]`
 
 **Feywild Time Warp**
 

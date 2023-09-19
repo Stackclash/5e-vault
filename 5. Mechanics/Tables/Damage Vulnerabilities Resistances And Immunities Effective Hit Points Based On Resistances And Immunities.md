@@ -8,7 +8,7 @@ aliases: ["Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Po
 # Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
 *Source: Dungeon Master's Guide p. 277* 
 
-`dice: [[nullDamage Vulnerabilities Resistances And Immunities Effective Hit Points Based On Resistances And Immunities.md#^effective-hit-points-based-on-resistances-and-immunities]]`
+`dice: [[Damage Vulnerabilities Resistances And Immunities Effective Hit Points Based On Resistances And Immunities.md#^effective-hit-points-based-on-resistances-and-immunities]]`
 
 **Effective Hit Points Based on Resistances and Immunities**
 

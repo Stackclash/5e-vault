@@ -8,7 +8,7 @@ aliases: ["NPC Talents"]
 # NPC Talents
 *Source: Dungeon Master's Guide p. 90* 
 
-`dice: [[nullNpc Talents.md#^npc-talents]]`
+`dice: [[Npc Talents.md#^npc-talents]]`
 
 **NPC Talents**
 

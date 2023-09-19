@@ -8,7 +8,7 @@ aliases: ["Optional Rule: Abyssal Corruption; Abyssal Corruption"]
 # Optional Rule: Abyssal Corruption; Abyssal Corruption
 *Source: Dungeon Master's Guide p. 62* 
 
-`dice: [[nullOptional Rule Abyssal Corruption Abyssal Corruption.md#^abyssal-corruption]]`
+`dice: [[Optional Rule Abyssal Corruption Abyssal Corruption.md#^abyssal-corruption]]`
 
 **Abyssal Corruption**
 

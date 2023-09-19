@@ -8,7 +8,7 @@ aliases: ["Academy Quests"]
 # Academy Quests
 *Source: Tasha's Cauldron of Everything p. 86* 
 
-`dice: [[nullAcademy Quests (TCE).md#^academy-quests]]`
+`dice: [[Academy Quests (TCE).md#^academy-quests]]`
 
 **Academy Quests**
 

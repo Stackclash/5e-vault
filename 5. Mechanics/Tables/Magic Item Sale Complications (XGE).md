@@ -8,7 +8,7 @@ aliases: ["Magic Item Sale Complications"]
 # Magic Item Sale Complications
 *Source: Xanathar's Guide to Everything p. 133* 
 
-`dice: [[nullMagic Item Sale Complications (XGE).md#^table]]`
+`dice: [[Magic Item Sale Complications (XGE).md#^table]]`
 
 **Magic Item Sale Complications**
 

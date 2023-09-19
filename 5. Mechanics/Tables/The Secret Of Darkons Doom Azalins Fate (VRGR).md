@@ -8,7 +8,7 @@ aliases: ["The Secret of Darkon's Doom; Azalin's Fate"]
 # The Secret of Darkon's Doom; Azalin's Fate
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
-`dice: [[nullThe Secret Of Darkons Doom Azalins Fate (VRGR).md#^azalins-fate]]`
+`dice: [[The Secret Of Darkons Doom Azalins Fate (VRGR).md#^azalins-fate]]`
 
 **Azalin's Fate**
 

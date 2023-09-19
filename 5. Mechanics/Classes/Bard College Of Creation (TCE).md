@@ -7,7 +7,7 @@ tags:
 aliases: ["College of Creation"]
 ---
 # College of Creation
-*[[nullBard.md\|Bard]]: Bard College*  
+*[[Bard.md\|Bard]]: Bard College*  
 *Source: Tasha's Cauldron of Everything p. 28*  
 
 

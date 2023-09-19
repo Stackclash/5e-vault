@@ -8,7 +8,7 @@ aliases: ["Elf Names – Male Adult"]
 # Elf Names – Male Adult
 *Source: Xanathar's Guide to Everything p. 176* 
 
-`dice: [[nullElf Names Male Adult (XGE).md#^elf-names-male-adult]]`
+`dice: [[Elf Names Male Adult (XGE).md#^elf-names-male-adult]]`
 
 **Elf Names – Male Adult**
 

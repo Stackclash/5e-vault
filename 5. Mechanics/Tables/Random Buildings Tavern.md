@@ -8,7 +8,7 @@ aliases: ["Random Buildings; Tavern"]
 # Random Buildings; Tavern
 *Source: Dungeon Master's Guide p. 113* 
 
-`dice: [[nullRandom Buildings Tavern.md#^tavern]]`
+`dice: [[Random Buildings Tavern.md#^tavern]]`
 
 **Tavern**
 

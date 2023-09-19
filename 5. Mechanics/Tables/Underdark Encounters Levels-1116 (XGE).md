@@ -8,7 +8,7 @@ aliases: ["Underdark Encounters (Levels 11—16)"]
 # Underdark Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 106* 
 
-`dice: [[nullUnderdark Encounters Levels-1116 (XGE).md#^underdark-encounters-levels-1116]]`
+`dice: [[Underdark Encounters Levels-1116 (XGE).md#^underdark-encounters-levels-1116]]`
 
 **Underdark Encounters (Levels 11—16)**
 

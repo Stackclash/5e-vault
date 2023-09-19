@@ -8,7 +8,7 @@ aliases: ["Human Names – Polynesian, Male"]
 # Human Names – Polynesian, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
-`dice: [[nullHuman Names Polynesian Male (XGE).md#^human-names-polynesian-male]]`
+`dice: [[Human Names Polynesian Male (XGE).md#^human-names-polynesian-male]]`
 
 **Human Names – Polynesian, Male**
 

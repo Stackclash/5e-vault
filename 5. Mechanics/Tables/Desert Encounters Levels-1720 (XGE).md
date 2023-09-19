@@ -8,7 +8,7 @@ aliases: ["Desert Encounters (Levels 17—20)"]
 # Desert Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 95* 
 
-`dice: [[nullDesert Encounters Levels-1720 (XGE).md#^desert-encounters-levels-1720]]`
+`dice: [[Desert Encounters Levels-1720 (XGE).md#^desert-encounters-levels-1720]]`
 
 **Desert Encounters (Levels 17—20)**
 

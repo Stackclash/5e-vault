@@ -8,7 +8,7 @@ aliases: ["Nonhuman Deities"]
 # Nonhuman Deities
 *Source: Player's Handbook p. 293* 
 
-`dice: [[nullNonhuman Deities.md#^nonhuman-deities]]`
+`dice: [[Nonhuman Deities.md#^nonhuman-deities]]`
 
 **Nonhuman Deities**
 

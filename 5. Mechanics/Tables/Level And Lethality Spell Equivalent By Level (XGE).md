@@ -8,7 +8,7 @@ aliases: ["Level and Lethality; Spell Equivalent by Level"]
 # Level and Lethality; Spell Equivalent by Level
 *Source: Xanathar's Guide to Everything p. 116* 
 
-`dice: [[nullLevel And Lethality Spell Equivalent By Level (XGE).md#^spell-equivalent-by-level]]`
+`dice: [[Level And Lethality Spell Equivalent By Level (XGE).md#^spell-equivalent-by-level]]`
 
 **Spell Equivalent by Level**
 

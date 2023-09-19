@@ -8,7 +8,7 @@ aliases: ["Deities of Greyhawk"]
 # Deities of Greyhawk
 *Source: Player's Handbook p. 293* 
 
-`dice: [[nullDeities Of Greyhawk.md#^deities-of-greyhawk]]`
+`dice: [[Deities Of Greyhawk.md#^deities-of-greyhawk]]`
 
 **Deities of Greyhawk**
 

@@ -8,7 +8,7 @@ aliases: ["Supplemental Tables; Childhood Memories"]
 # Supplemental Tables; Childhood Memories
 *Source: Xanathar's Guide to Everything p. 63* 
 
-`dice: [[nullSupplemental Tables Childhood Memories (XGE).md#^childhood-memories]]`
+`dice: [[Supplemental Tables Childhood Memories (XGE).md#^childhood-memories]]`
 
 **Childhood Memories**
 

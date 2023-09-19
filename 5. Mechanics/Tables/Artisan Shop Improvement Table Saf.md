@@ -8,7 +8,7 @@ aliases: ["Artisan Shop Improvement Table"]
 # Artisan Shop Improvement Table
 *Source: Strongholds and Followers* 
 
-`dice: [[nullArtisan Shop Improvement Table Saf.md#^artisan-shop-improvement-table]]`
+`dice: [[Artisan Shop Improvement Table Saf.md#^artisan-shop-improvement-table]]`
 
 **Artisan Shop Improvement Table**
 

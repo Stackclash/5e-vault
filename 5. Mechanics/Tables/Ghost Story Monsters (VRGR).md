@@ -8,7 +8,7 @@ aliases: ["Ghost Story Monsters"]
 # Ghost Story Monsters
 *Source: Van Richten's Guide to Ravenloft p. 54* 
 
-`dice: [[nullGhost Story Monsters (VRGR).md#^ghost-story-monsters]]`
+`dice: [[Ghost Story Monsters (VRGR).md#^ghost-story-monsters]]`
 
 **Ghost Story Monsters**
 

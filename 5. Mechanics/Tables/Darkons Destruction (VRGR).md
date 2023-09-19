@@ -8,7 +8,7 @@ aliases: ["Darkon's Destruction"]
 # Darkon's Destruction
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
-`dice: [[nullDarkons Destruction (VRGR).md#^darkons-destruction]]`
+`dice: [[Darkons Destruction (VRGR).md#^darkons-destruction]]`
 
 **Darkon's Destruction**
 

@@ -8,7 +8,7 @@ aliases: ["Wandering the Mists"]
 # Wandering the Mists
 *Source: Van Richten's Guide to Ravenloft p. 61* 
 
-`dice: [[nullWandering The Mists (VRGR).md#^wandering-the-mists]]`
+`dice: [[Wandering The Mists (VRGR).md#^wandering-the-mists]]`
 
 **Wandering the Mists**
 

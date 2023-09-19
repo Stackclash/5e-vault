@@ -8,7 +8,7 @@ aliases: ["Monster Relationships"]
 # Monster Relationships
 *Source: Xanathar's Guide to Everything p. 91* 
 
-`dice: [[nullMonster Relationships (XGE).md#^monster-relationships]]`
+`dice: [[Monster Relationships (XGE).md#^monster-relationships]]`
 
 **Monster Relationships**
 

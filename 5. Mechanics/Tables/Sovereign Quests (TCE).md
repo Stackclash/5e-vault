@@ -8,7 +8,7 @@ aliases: ["Sovereign Quests"]
 # Sovereign Quests
 *Source: Tasha's Cauldron of Everything p. 102* 
 
-`dice: [[nullSovereign Quests (TCE).md#^sovereign-quests]]`
+`dice: [[Sovereign Quests (TCE).md#^sovereign-quests]]`
 
 **Sovereign Quests**
 

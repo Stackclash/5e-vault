@@ -8,7 +8,7 @@ aliases: ["Monsters' Desires; Constructs"]
 # Monsters' Desires; Constructs
 *Source: Tasha's Cauldron of Everything p. 148* 
 
-`dice: [[nullMonsters Desires Constructs (TCE).md#^constructs]]`
+`dice: [[Monsters Desires Constructs (TCE).md#^constructs]]`
 
 **Constructs**
 

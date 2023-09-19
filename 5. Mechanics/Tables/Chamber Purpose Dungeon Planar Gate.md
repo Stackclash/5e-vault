@@ -8,7 +8,7 @@ aliases: ["Chamber Purpose; Dungeon: Planar Gate"]
 # Chamber Purpose; Dungeon: Planar Gate
 *Source: Dungeon Master's Guide p. 292* 
 
-`dice: [[nullChamber Purpose Dungeon Planar Gate.md#^dungeon-planar-gate]]`
+`dice: [[Chamber Purpose Dungeon Planar Gate.md#^dungeon-planar-gate]]`
 
 **Dungeon: Planar Gate**
 

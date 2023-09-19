@@ -8,7 +8,7 @@ aliases: ["Monsters and Motivations; Monster Motivation"]
 # Monsters and Motivations; Monster Motivation
 *Source: Dungeon Master's Guide p. 296* 
 
-`dice: [[nullMonsters And Motivations Monster Motivation.md#^monster-motivation]]`
+`dice: [[Monsters And Motivations Monster Motivation.md#^monster-motivation]]`
 
 **Monster Motivation**
 

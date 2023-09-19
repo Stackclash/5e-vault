@@ -8,7 +8,7 @@ aliases: ["Simple Warfare; Simple Combat Resolution"]
 # Simple Warfare; Simple Combat Resolution
 *Source: Strongholds and Followers p. 243* 
 
-`dice: [[nullSimple Warfare Simple Combat Resolution Saf.md#^table]]`
+`dice: [[Simple Warfare Simple Combat Resolution Saf.md#^table]]`
 
 **Simple Combat Resolution**
 

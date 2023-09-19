@@ -8,7 +8,7 @@ aliases: ["Sovereign Contact"]
 # Sovereign Contact
 *Source: Tasha's Cauldron of Everything p. 102* 
 
-`dice: [[nullSovereign Contact (TCE).md#^sovereign-contact]]`
+`dice: [[Sovereign Contact (TCE).md#^sovereign-contact]]`
 
 **Sovereign Contact**
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Oath of the Ancients"]
 ---
 # Oath of the Ancients
-*[[nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 86*  
 
 

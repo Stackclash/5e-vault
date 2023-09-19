@@ -8,7 +8,7 @@ aliases: ["Folk Horror Plots"]
 # Folk Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
-`dice: [[nullFolk Horror Plots (VRGR).md#^folk-horror-plots]]`
+`dice: [[Folk Horror Plots (VRGR).md#^folk-horror-plots]]`
 
 **Folk Horror Plots**
 

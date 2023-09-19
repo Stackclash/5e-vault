@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Drunken Master"]
 ---
 # Way of the Drunken Master
-*[[nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 33*  
 
 

@@ -8,7 +8,7 @@ aliases: ["Ending a Chase; Escape Factors"]
 # Ending a Chase; Escape Factors
 *Source: Dungeon Master's Guide p. 253* 
 
-`dice: [[nullEnding A Chase Escape Factors.md#^escape-factors]]`
+`dice: [[Ending A Chase Escape Factors.md#^escape-factors]]`
 
 **Escape Factors**
 

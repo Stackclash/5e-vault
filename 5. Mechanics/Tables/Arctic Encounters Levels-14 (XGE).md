@@ -8,7 +8,7 @@ aliases: ["Arctic Encounters (Levels 1—4)"]
 # Arctic Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 92* 
 
-`dice: [[nullArctic Encounters Levels-14 (XGE).md#^arctic-encounters-levels-14]]`
+`dice: [[Arctic Encounters Levels-14 (XGE).md#^arctic-encounters-levels-14]]`
 
 **Arctic Encounters (Levels 1—4)**
 

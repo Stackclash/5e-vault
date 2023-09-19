@@ -8,7 +8,7 @@ aliases: ["Adventuring Gear; Container Capacity"]
 # Adventuring Gear; Container Capacity
 *Source: Player's Handbook p. 148. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullAdventuring Gear Container Capacity.md#^table]]`
+`dice: [[Adventuring Gear Container Capacity.md#^table]]`
 
 **Container Capacity**
 

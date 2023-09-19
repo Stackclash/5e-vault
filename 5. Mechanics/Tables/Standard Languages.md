@@ -8,7 +8,7 @@ aliases: ["Standard Languages"]
 # Standard Languages
 *Source: Player's Handbook p. 123. Available in the SRD and the Basic Rules.* 
 
-`dice: [[nullStandard Languages.md#^standard-languages]]`
+`dice: [[Standard Languages.md#^standard-languages]]`
 
 **Standard Languages**
 

@@ -8,7 +8,7 @@ aliases: ["Secondary Tables; Punishment"]
 # Secondary Tables; Punishment
 *Source: Xanathar's Guide to Everything p. 70* 
 
-`dice: [[nullSecondary Tables Punishment (XGE).md#^punishment]]`
+`dice: [[Secondary Tables Punishment (XGE).md#^punishment]]`
 
 **Punishment**
 

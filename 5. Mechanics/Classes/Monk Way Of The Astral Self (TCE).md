@@ -7,7 +7,7 @@ tags:
 aliases: ["Way of the Astral Self"]
 ---
 # Way of the Astral Self
-*[[nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Tasha's Cauldron of Everything p. 50*  
 
 
