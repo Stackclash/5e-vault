@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/Bag Of Beans.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Items/Bag Of Beans.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Items/Bag Of Beans.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Items/Bag Of Beans.md"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "fe43018b69e34e57",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+    "5. Mechanics/Items/Bag Of Beans.md",
     "5. Mechanics/Items/Bit And Bridle.md",
     "5. Mechanics/Items/Black Dragon Scale Mail.md",
     "5. Mechanics/Items/Black Pearl.md",
@@ -209,8 +211,6 @@
     "5. Mechanics/Vehicles/Vehicles.md",
     "5. Mechanics/Vehicles/Apparatus Of Kwalish.md",
     "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
-    "5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md",
-    "5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
