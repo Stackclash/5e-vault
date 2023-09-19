@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d35e24c12c4400",
+        "id": "812753d117a5ccc6",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb5c69bb153cd8d",
+            "id": "1da6294caac95a98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Screen/Tools/Barovian Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38455212f0cef1aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4bd1be7dccafe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Screen/Tools/Encounter Generator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d387292909ef649a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/2. Session Logs/Knowing the Road.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a99016b4cbea0042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/2. Session Logs/Session 5.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ec42556e4400ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74c59cf8c7bd70ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e2eda03aba2f526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Artificer Specialist",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md",
+                "file": "5. Mechanics/Items/Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md",
+                "file": "5. Mechanics/Items/Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Classes/Artificer Armorer (TCE).md"
+                "file": "5. Mechanics/Items/Items.md"
               }
             }
           },
@@ -269,8 +179,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63ec42556e4400ee",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "5. Mechanics/Items/Alchemy Jug.md",
+    "5. Mechanics/Items/Amethyst.md",
+    "5. Mechanics/Items/Amulet.md",
+    "5. Mechanics/Items/1 All Purpose Tool (TCE).md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Objects/Objects.md",
+    "5. Mechanics/Objects/Trebuchet.md",
+    "5. Mechanics/Objects/Suspended Cauldron.md",
+    "5. Mechanics/Objects/Siege Tower.md",
+    "5. Mechanics/Objects/Mangonel.md",
+    "5. Mechanics/Objects/Ballista.md",
+    "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "3. The Party/1. Players/1. Players.md",
+    "5. Mechanics/Classes/Artificer Armorer (TCE).md",
     "5. Mechanics/Classes/Artificer (TCE).md",
     "5. Mechanics/Optional Features/List Artificer Infusion (TCE).md",
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
@@ -281,22 +207,6 @@
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
-    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
-    "1. DM Screen/Tools/Barovian Names.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
-    "5. Mechanics/Spells/Magic Weapon.md",
-    "5. Mechanics/Spells/Faerie Fire.md",
-    "5. Mechanics/Spells/Divine Word.md",
-    "3. The Party/1. Players/1. Players.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "5. Mechanics/Items/Potion Of Healing.md",
-    "5. Mechanics/Items/Items.md",
-    "1. DM Screen/1. DM Screen.md",
-    "5. Mechanics/Items/Potion Of Greater Healing.md",
-    "5. Mechanics/Rules/Variant Rules/Mixing Potions.md",
-    "5. Mechanics/Tables/Brewing Potions Of Healing Potion Of Healing Creation (XGE).md",
     "z_Templates/World Building",
     "z_Templates/Party",
     "z_Templates/DM Prep",
