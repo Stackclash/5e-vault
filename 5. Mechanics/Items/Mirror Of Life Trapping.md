@@ -10,6 +10,7 @@ aliases: ["Mirror of Life Trapping"]
 ---
 # Mirror of Life Trapping
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/mirror-of-life-trapping.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 50.0 lbs.

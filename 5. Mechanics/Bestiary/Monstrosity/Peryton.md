@@ -51,8 +51,8 @@ Established settlements are attractive to perytons as a renewable food source. A
 "cr": "2"
 "traits":
 - "desc": "If the peryton is flying and dives at least 30 feet straight toward a target\
-    \ and then hits it with a melee weapon attack, the attack deals an extra 9 (dice:\
-    \ 2d8|avg (2d8)) damage to the target."
+    \ and then hits it with a melee weapon attack, the attack deals an extra dice:\
+    \ 2d8|avg (2d8) damage to the target."
   "name": "Dive Attack"
 - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
     \ an enemy's reach."
@@ -64,10 +64,10 @@ Established settlements are attractive to perytons as a renewable food source. A
 - "desc": "The peryton makes one gore attack and one talon attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
   "name": "Gore"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) piercing damage."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) piercing damage."
   "name": "Talons"
 "source":
 - "MM"

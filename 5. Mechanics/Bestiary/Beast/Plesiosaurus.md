@@ -46,7 +46,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   "name": "Hold Breath"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: 14 (dice: 3d6 + 4|avg (3d6 + 4)) piercing damage."
+    \ Hit: dice: 3d6 + 4|avg (3d6 + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

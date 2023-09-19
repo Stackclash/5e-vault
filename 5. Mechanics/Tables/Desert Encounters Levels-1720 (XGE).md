@@ -12,8 +12,8 @@ aliases: ["Desert Encounters (Levels 17—20)"]
 
 **Desert Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-05 | 1 [[5. Mechanics/Bestiary/Dragon/Adult Brass Dragon.md\|adult brass dragon]] |
 | 06-10 | `dice: 1d2\|avg` (`1d2`) [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md\|yuan-ti abominations]] with `dice: 2d10 + 5\|avg` (`2d10 + 5`) [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type-1.md\|yuan-ti malisons]] and `dice: 4d6 + 6\|avg` (`4d6 + 6`) [[5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md\|yuan-ti purebloods]] |
 | 11-14 | `dice: 1d6 + 2\|avg` (`1d6 + 2`) [[5. Mechanics/Bestiary/Monstrosity/Medusa.md\|medusas]] |

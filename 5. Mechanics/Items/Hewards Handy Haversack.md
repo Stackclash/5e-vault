@@ -10,6 +10,7 @@ aliases: ["Heward's Handy Haversack"]
 ---
 # Heward's Handy Haversack
 *Wondrous Item, minor, rare*  
+![[5. Mechanics/Items/img/hewards-handy-haversack.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

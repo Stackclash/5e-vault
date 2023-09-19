@@ -2,14 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/underdark
-- monster/environment/urban
 - monster/size/small
 - monster/type/undead
 aliases: ["Rosavalda "Rose" Durst"]
 ---
 # Rosavalda "Rose" Durst
-*Source: Curse of Strahd p. 217, Derived from Ghost (MM)*  
+*Source: Curse of Strahd p. 217, Derived from *  
 
 ```statblock
 "name": "Rosavalda \"Rose\" Durst"
@@ -40,12 +38,12 @@ aliases: ["Rosavalda "Rose" Durst"]
     \ Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "Rose can move through other creatures and objects as if they were difficult\
-    \ terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it ends its\
-    \ turn inside an object."
+    \ terrain. It takes dice: 1d10|avg (1d10) force damage if it ends its turn\
+    \ inside an object."
   "name": "Incorporeal Movement"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 17 (dice: 4d6 + 3|avg (4d6 + 3)) necrotic damage."
+    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage."
   "name": "Withering Touch"
 - "desc": "Rose enters the Ethereal Plane from the Material Plane, or vice versa.\
     \ It is visible on the Material Plane while it is in the Border Ethereal, and\
@@ -72,7 +70,3 @@ aliases: ["Rosavalda "Rose" Durst"]
 "image": "compendium/bestiary/npc/token/rosavalda-rose-durst.png"
 ```
 ^statblock
-
-## Environment
-
-underdark, urban

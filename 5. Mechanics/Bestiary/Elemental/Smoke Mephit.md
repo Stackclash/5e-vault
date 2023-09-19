@@ -59,7 +59,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
   "name": "Death Burst"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in that\
     \ area must succeed on a DC 10 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\

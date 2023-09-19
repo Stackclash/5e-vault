@@ -7,7 +7,7 @@ tags:
 aliases: ["Phantom Warrior (Archer)"]
 ---
 # Phantom Warrior (Archer)
-*Source: Curse of Strahd p. 142, Derived from Phantom Warrior (CoS)*  
+*Source: Curse of Strahd p. 142, Derived from *  
 
 ```statblock
 "name": "Phantom Warrior (Archer)"
@@ -40,7 +40,7 @@ aliases: ["Phantom Warrior (Archer)"]
     \ on the Material Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "The phantom warrior can move through other creatures and objects as if\
-    \ they were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
+    \ they were difficult terrain. It takes dice: 1d10|avg (1d10) force damage\
     \ if it ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
@@ -50,7 +50,7 @@ aliases: ["Phantom Warrior (Archer)"]
     \ longbow."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) force damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage."
   "name": "Spectral Longsword"
 - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
     \ or vice versa. It is visible on the Material Plane while it is in the Border\
@@ -58,7 +58,7 @@ aliases: ["Phantom Warrior (Archer)"]
     \ the other plane."
   "name": "Etherealness"
 - "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 150/600 ft., one\
-    \ target. Hit: 4 (dice: 1d8|avg (1d8)) force damage."
+    \ target. Hit: dice: 1d8|avg (1d8) force damage."
   "name": "Spectral Longbow"
 "source":
 - "CoS"

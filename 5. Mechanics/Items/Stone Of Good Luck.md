@@ -11,6 +11,7 @@ aliases: ["Stone of Good Luck"]
 ---
 # Stone of Good Luck
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/stone-of-good-luck.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

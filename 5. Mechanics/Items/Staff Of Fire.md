@@ -12,6 +12,7 @@ aliases: ["Staff of Fire"]
 ---
 # Staff of Fire
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-fire.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

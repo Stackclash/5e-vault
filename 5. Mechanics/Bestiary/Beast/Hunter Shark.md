@@ -41,7 +41,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
   "name": "Water Breathing"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

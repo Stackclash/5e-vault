@@ -8,6 +8,7 @@ aliases: ["Thieves' Tools"]
 ---
 # Thieves' Tools
 *Tools*  
+![[5. Mechanics/Items/img/thieves-tools.jpg#right]]  
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.

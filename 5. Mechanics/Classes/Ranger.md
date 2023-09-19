@@ -155,8 +155,8 @@ If you haven't yet thought about the details of your character's worldview, cons
 
 **View of the World**
 
-| `dice: d6\|avg` (`d6`) | View |
-|-----------|------------|------|
+| dice: d6 | View |
+|----------|------|
 | 1 | Towns and cities are the best places for those who can't survive on their own. |
 | 2 | The advancement of civilization is the best way to thwart chaos, but its reach must be monitored. |
 | 3 | Towns and cities are a necessary evil, but once the wilderness is purged of supernatural threats, we will need them no more. |
@@ -174,8 +174,8 @@ Think of your character's backstory and decide what terrain feels most like home
 
 **Homelands**
 
-| `dice: d6\|avg` (`d6`) | Homeland |
-|-----------|------------|----------|
+| dice: d6 | Homeland |
+|----------|----------|
 | 1 | You patrolled an ancient forest, darkened and corrupted by several crossings to the Shadowfell. |
 | 2 | As part of a group of nomads, you acquired the skills for surviving in the desert. |
 | 3 | Your early life in the Underdark prepared you for the challenges of combating its denizens. |
@@ -193,8 +193,8 @@ What spurred your character to select a particular enemy? Was the choice made be
 
 **Sworn Enemies**
 
-| `dice: d6\|avg` (`d6`) | Enemy |
-|-----------|------------|-------|
+| dice: d6 | Enemy |
+|----------|-------|
 | 1 | You seek revenge on nature's behalf for the great transgressions your foe has committed. |
 | 2 | Your forebears or predecessors fought these creatures, and so shall you. |
 | 3 | You bear no enmity toward your foe. You stalk such creatures as a hunter tracks down a wild animal. |

@@ -12,6 +12,7 @@ aliases: ["Staff of the Magi"]
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-the-magi.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

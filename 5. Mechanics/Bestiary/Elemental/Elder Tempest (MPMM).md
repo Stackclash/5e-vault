@@ -65,12 +65,12 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 - "desc": "The tempest makes two Thunderous Slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one target.\
-    \ Hit: 23 (dice: 4d6 + 9|avg (4d6 + 9)) thunder damage."
+    \ Hit: dice: 4d6 + 9|avg (4d6 + 9) thunder damage."
   "name": "Thunderous Slam"
 - "desc": "Each creature within 120 feet of the tempest must make a DC 21 Dexterity\
-    \ saving throw, taking 27 (dice: 6d8|avg (6d8)) lightning damage on a failed\
-    \ save, or half as much damage on a successful one. If a target's saving throw\
-    \ fails by 5 or more, the creature is also [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ saving throw, taking dice: 6d8|avg (6d8) lightning damage on a failed save,\
+    \ or half as much damage on a successful one. If a target's saving throw fails\
+    \ by 5 or more, the creature is also [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of its next turn."
   "name": "Lightning Storm (Recharge 6)"
 "legendary_actions":
@@ -78,19 +78,19 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   "name": "Move"
 - "desc": "The tempest can cause a bolt of lightning to strike a point on the ground\
     \ anywhere under its storm. Each creature within 5 feet of that point must make\
-    \ a DC 21 Dexterity saving throw, taking 16 (dice: 3d10|avg (3d10)) lightning\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ a DC 21 Dexterity saving throw, taking dice: 3d10|avg (3d10) lightning damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Lightning Strike (Costs 2 Actions)"
 - "desc": "The tempest releases a blast of thunder and wind in a line that is 300\
-    \ feet long and 20 feet wide. Objects in that area take 22 (dice: 4d10|avg (4d10))\
+    \ feet long and 20 feet wide. Objects in that area take dice: 4d10|avg (4d10)\
     \ thunder damage. Each creature there must succeed on a DC 21 Dexterity saving\
-    \ throw or take 22 (dice: 4d10|avg (4d10)) thunder damage and be flung up\
-    \ to 60 feet in a direction away from the line. If a thrown target collides with\
-    \ an immovable object (such as a wall or floor) or another creature, the target\
-    \ takes 3 (dice: 1d6|avg (1d6)) bludgeoning damage for every 10 feet it was\
-    \ thrown before impact. If the target collides with another creature, that other\
-    \ creature must succeed on a DC 19 Dexterity saving throw or take the same impact\
-    \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or take dice: 4d10|avg (4d10) thunder damage and be flung up to 60\
+    \ feet in a direction away from the line. If a thrown target collides with an\
+    \ immovable object (such as a wall or floor) or another creature, the target takes\
+    \ dice: 1d6|avg (1d6) bludgeoning damage for every 10 feet it was thrown before\
+    \ impact. If the target collides with another creature, that other creature must\
+    \ succeed on a DC 19 Dexterity saving throw or take the same impact damage and\
+    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Screaming Gale (Costs 3 Actions)"
 "source":
 - "MPMM"

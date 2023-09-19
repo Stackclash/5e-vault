@@ -26,7 +26,7 @@ The following locations correspond to labels on the map of Yester Hill below.
 
 ### Y1. Trail
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The trail through the thick woods leads to a hill covered with dead grass and cairns of black rock. Dark, ominous clouds gather high above, and a single bolt of lightning strikes the hilltop. West of the hill, the land, the woods, and the sky vanish behind a towering wall of fog.
 ^676
@@ -35,7 +35,7 @@ The trail splits as it climbs the hillside, forming two concentric rings (area Y
 
 ### Y2. Berserker Cairns
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Dirt trails run along two concentric rings of cairns that encircle the hillside. Each cairn is a ten-foot-high mound of slimy black rocks.
 ^678
@@ -44,12 +44,12 @@ These burial mounds predate the arrival of Strahd and the druids. They have rema
 
 ### Y3. Druids' Circle
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Atop the hill is a wide ring of black boulders and smaller rocks that collectively form a makeshift wall enclosing a field of dead grass. Lightning strikes the edge of the ring from time to time, illuminating a ghastly, fifty-foot-tall statue made of tightly woven twigs and packed with black earth. The statue resembles a towering, cloaked man with fangs.
 ^67a
 
-The ring of boulders that surrounds the field is 250 feet in diameter and ranges from 5 to 10 feet high. Any creature that climbs over the black boulders has a 10% chance chance of being struck by lightning, taking 44 (`dice: 8d10|avg` (`8d10`)) lightning damage. Characters can avoid the damage by sticking to the two trails that pass through the ring.
+The ring of boulders that surrounds the field is 250 feet in diameter and ranges from 5 to 10 feet high. Any creature that climbs over the black boulders has a 10% chance chance of being struck by lightning, taking `dice: 8d10|avg` (`8d10`) lightning damage. Characters can avoid the damage by sticking to the two trails that pass through the ring.
 
 #### Wooden Statue
 
@@ -71,7 +71,7 @@ If the druids and the berserkers are killed, their numbers are replenished as ot
 
 ### Y4. Gulthias Tree
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > At the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core. Blood oozes like sap from its twisted trunk. Skulking around the tree are six gangly humanoid creatures covered with needles. Embedded in the tree is a shiny battleaxe, beneath which lies a humanoid skeleton.
 ^67f
@@ -96,7 +96,7 @@ If your card reading reveals that a treasure is here, it's buried amid the roots
 
 Yester Hill gets its name from a strange phenomenon that can be observed by anyone who looks into the mists from the hilltop or the western hillside:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > As you look west into the curtain of fog, you see a white fortress on a hill above a great city. The city appears quite distant, maybe a mile away. The fog obscures all detail, but you can hear what sounds like the echo of a church bell.
 ^683
@@ -125,7 +125,7 @@ Strahd observes the proceedings, defending the druids if they are attacked and r
 
 If the characters are present when the druids complete the ritual, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A thirty-foot-tall plant creature bursts out of the statue, sending twigs and earth flying. The creature resembles a dead treant with green light seeping out of it.
 ^687
@@ -140,7 +140,7 @@ Once the tree blight departs, Strahd commands the druids and berserkers to leave
 
 The spirit of Kavan, a long-dead barbarian chieftain, reaches out to one of the characters, preferably a barbarian, a druid, or a ranger. Read the following text to that character's player:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You hear a whisper, a deep voice carried on the wind. "Long have I waited," it says, "for one who is worthy. My spear hungers for blood. Retrieve it, and rule these mountains in my stead, just like the mighty warriors from the early days of the Whispering Wall."
 ^689

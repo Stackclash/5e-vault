@@ -74,17 +74,17 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 - "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) cold damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage plus dice: 1d6|avg\
+    \ (1d6) cold damage."
   "name": "Claw"
 - "desc": "The yeti targets one creature it can see within 30 feet of it. If the target\
     \ can see the yeti, the target must succeed on a DC 13 Constitution saving throw\
-    \ against this magic or take 10 (dice: 3d6|avg (3d6)) cold damage and then\
-    \ be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute, unless\
-    \ it is immune to cold damage. The target can repeat the saving throw at the end\
-    \ of each of its turns, ending the effect on itself on a success. If the target's\
-    \ saving throw is successful, or if the effect ends on it, the target is immune\
-    \ to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour."
+    \ against this magic or take dice: 3d6|avg (3d6) cold damage and then be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
+    \ saving throw at the end of each of its turns, ending the effect on itself on\
+    \ a success. If the target's saving throw is successful, or if the effect ends\
+    \ on it, the target is immune to the Chilling Gaze of all yetis (but not abominable\
+    \ yetis) for 1 hour."
   "name": "Chilling Gaze"
 "source":
 - "MM"

@@ -43,10 +43,10 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 - "desc": "The thug makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
   "name": "Mace"
 - "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
-    \ target. Hit: 5 (dice: 1d10|avg (1d10)) piercing damage."
+    \ target. Hit: dice: 1d10|avg (1d10) piercing damage."
   "name": "Heavy Crossbow"
 "source":
 - "MM"

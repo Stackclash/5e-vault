@@ -60,12 +60,12 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 - "desc": "Ranged Spell Attack: dice: d20+4 (+4 to hit), range 60 feet, one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) of a type of the kobold's choice:\
-    \ acid, cold, fire, lightning, poison, or thunder."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) of a type of the kobold's choice: acid,\
+    \ cold, fire, lightning, poison, or thunder."
   "name": "Chromatic Bolt"
 "source":
 - "MPMM"

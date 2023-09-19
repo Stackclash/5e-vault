@@ -10,6 +10,7 @@ aliases: ["Bag of Holding"]
 ---
 # Bag of Holding
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/bag-of-holding.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 15.0 lbs.

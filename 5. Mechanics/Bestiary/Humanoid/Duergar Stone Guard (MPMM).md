@@ -70,13 +70,13 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "The duergar makes two Shortsword or Javelin attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage, or 11 (dice: 2d6\
-    \ + 4|avg (2d6 + 4)) piercing damage while under the effect of Enlarge."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, or dice: 2d6 + 4|avg\
+    \ (2d6 + 4) piercing damage while under the effect of Enlarge."
   "name": "Shortsword"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4))\
-    \ piercing damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while\
-    \ under the effect of Enlarge."
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or dice: 2d6 + 4|avg (2d6 + 4) piercing damage while under the effect\
+    \ of Enlarge."
   "name": "Javelin"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

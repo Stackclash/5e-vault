@@ -54,7 +54,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
-> [!quote] Variant: Drow Magic Armor and Weapons
+> [!note] Variant: Drow Magic Armor and Weapons
 > 
 > Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.
 > 
@@ -132,15 +132,15 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "desc": "The drow makes two scourge attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage plus 17 (dice: 5d6|avg\
-    \ (5d6)) poison damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage plus dice: 5d6|avg\
+    \ (5d6) poison damage."
   "name": "Scourge"
 - "desc": "The drow attempts to magically summon a [[5. Mechanics/Bestiary/Fiend/Yochlol.md|yochlol]]\
-    \ with a 30% chance chance of success. If the attempt fails, the drow takes 5\
-    \ (dice: 1d10|avg (1d10)) psychic damage. Otherwise, the summoned demon appears\
-    \ in an unoccupied space within 60 feet of its summoner, acts as an ally of its\
-    \ summoner, and can't summon other demons. It remains for 10 minutes, until it\
-    \ or its summoner dies, or until its summoner dismisses it as an action."
+    \ with a 30% chance chance of success. If the attempt fails, the drow takes dice:\
+    \ 1d10|avg (1d10) psychic damage. Otherwise, the summoned demon appears in\
+    \ an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner,\
+    \ and can't summon other demons. It remains for 10 minutes, until it or its summoner\
+    \ dies, or until its summoner dismisses it as an action."
   "name": "Summon Demon (1/Day)"
 "source":
 - "MM"

@@ -49,7 +49,7 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
 - "desc": "Elise makes two slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"

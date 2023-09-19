@@ -46,11 +46,11 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 - "desc": "The firenewt makes two Scimitar attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
   "name": "Scimitar"
 - "desc": "The firenewt spits fire at a creature within 10 feet of it. The creature\
-    \ must make a DC 11 Dexterity saving throw, taking 9 (dice: 2d8|avg (2d8))\
-    \ fire damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 11 Dexterity saving throw, taking dice: 2d8|avg (2d8) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Spit Fire (Recharges after a Short or Long Rest)"
 "source":
 - "MPMM"

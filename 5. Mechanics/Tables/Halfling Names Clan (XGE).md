@@ -12,8 +12,8 @@ aliases: ["Halfling Names – Clan"]
 
 **Halfling Names – Clan**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Appleblossom |
 | 03-04 | Bigheart |
 | 05-06 | Brightmoon |

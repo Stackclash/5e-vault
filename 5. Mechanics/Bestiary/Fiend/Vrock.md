@@ -153,14 +153,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -218,19 +218,19 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The vrock makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3)) slashing damage."
+    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) slashing damage."
   "name": "Talons"
 - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
     \ spores spread around corners. Each creature in that area must succeed on a DC\
     \ 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, a target\
-    \ takes 5 (dice: 1d10|avg (1d10)) poison damage at the start of each of its\
-    \ turns. A target can repeat the saving throw at the end of each of its turns,\
-    \ ending the effect on itself on a success. Emptying a vial of holy water on the\
-    \ target also ends the effect on it."
+    \ takes dice: 1d10|avg (1d10) poison damage at the start of each of its turns.\
+    \ A target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success. Emptying a vial of holy water on the target\
+    \ also ends the effect on it."
   "name": "Spores (Recharge 6)"
 - "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
     \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\

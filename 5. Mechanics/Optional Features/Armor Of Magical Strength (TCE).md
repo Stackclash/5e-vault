@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ai
 aliases: ["Armor of Magical Strength"]
 ---
 # Armor of Magical Strength
-*Source: Tasha's Cauldron of Everything p. 20* 
+*Source: Tasha's Cauldron of Everything p. 20*  
+
+***Prerequisites*** A suit of armor (requires attunement)
 
 This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
 

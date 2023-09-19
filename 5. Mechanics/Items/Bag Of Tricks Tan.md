@@ -22,8 +22,8 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-| `dice: d8\|avg` (`d8`) | Creature |
-|-----------|------------|----------|
+| dice: d8 | Creature |
+|----------|----------|
 | 1 | [[5. Mechanics/Bestiary/Beast/Jackal.md\|Jackal]] |
 | 2 | [[5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] |
 | 3 | [[5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] |
@@ -32,6 +32,6 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 6 | [[5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] |
 | 7 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] |
 | 8 | [[5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] |
-^dice-avg-creature
+^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the SRD.*

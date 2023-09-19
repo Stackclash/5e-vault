@@ -82,15 +82,15 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
 - "desc": "Orcus makes three Wand of Orcus, Tail, or Necrotic Bolt attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+19 (+19 to hit), reach 10 ft., one target.\
-    \ Hit: 24 (dice: 3d8 + 11|avg (3d8 + 11)) bludgeoning damage plus 13 (dice:\
-    \ 2d12|avg (2d12)) necrotic damage."
+    \ Hit: dice: 3d8 + 11|avg (3d8 + 11) bludgeoning damage plus dice: 2d12|avg\
+    \ (2d12) necrotic damage."
   "name": "Wand of Orcus"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: 21 (dice: 3d8 + 8|avg (3d8 + 8)) force damage plus 9 (dice: 2d8|avg\
-    \ (2d8)) poison damage."
+    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) force damage plus dice: 2d8|avg (2d8)\
+    \ poison damage."
   "name": "Tail"
 - "desc": "Ranged Spell Attack: dice: d20+15 (+15 to hit), range 120 ft., one\
-    \ target. Hit: 29 (dice: 5d8 + 7|avg (5d8 + 7)) necrotic damage."
+    \ target. Hit: dice: 5d8 + 7|avg (5d8 + 7) necrotic damage."
   "name": "Necrotic Bolt"
 - "desc": "While holding the [[5. Mechanics/Items/Wand Of Orcus.md|Wand of Orcus]], Orcus\
     \ conjures Undead creatures whose combined average hit points don't exceed 500.\

@@ -45,7 +45,7 @@ Somewhere in the brimstone wastes of Gehenna, there roams an ultroloth so strong
 
 Whatever the case, no fiend finds the General unless the General desires it. His personal name is unknown, and even the Books of Keeping contain no mention of this powerful, thoroughly evil entity.
 
-> [!quote] Variant: Yugoloth Summoning
+> [!note] Variant: Yugoloth Summoning
 > 
 > Some yugoloths can have an action option that allows them to summon other yugoloths.
 > 
@@ -105,12 +105,12 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "desc": "The mezzoloth makes two attacks: one with its claws and one with its trident."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) slashing damage."
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
   "name": "Claws"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing\
-    \ damage, or 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage when held with\
-    \ two claws and used to make a melee attack."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or dice: 1d8 + 4|avg (1d8 + 4) piercing damage when held with two\
+    \ claws and used to make a melee attack."
   "name": "Trident"
 - "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

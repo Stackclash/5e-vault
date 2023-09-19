@@ -11,6 +11,7 @@ aliases: ["Instrument of the Bards, Mac-Fuirmidh Cittern"]
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Instrument, major, uncommon (requires attunement by a bard)*  
+![[5. Mechanics/Items/img/instrument-of-the-bards-mac-fuirmidh-cittern.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

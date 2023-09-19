@@ -11,6 +11,7 @@ aliases: ["Robe of the Archmagi"]
 ---
 # Robe of the Archmagi
 *Wondrous Item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/robe-of-the-archmagi.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

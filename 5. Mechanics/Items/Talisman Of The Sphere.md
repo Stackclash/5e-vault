@@ -11,6 +11,7 @@ aliases: ["Talisman of the Sphere"]
 ---
 # Talisman of the Sphere
 *Wondrous Item, major, legendary (requires attunement)*  
+![[5. Mechanics/Items/img/talisman-of-the-sphere.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

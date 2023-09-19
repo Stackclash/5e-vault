@@ -109,7 +109,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "The sphinx makes two claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) slashing damage."
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) slashing damage."
   "name": "Claw"
 - "desc": "The sphinx emits a magical roar. Each time it roars before finishing a\
     \ long rest, the roar is louder and the effect is different, as detailed below.\
@@ -124,8 +124,8 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] creature is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ and can repeat the saving throw at the end of each of its turns, ending the\
     \ effect on itself on a success.  \n- Third Roar. Each creature makes a DC\
-    \ 18 Constitution saving throw. On a failed save, a creature takes 44 (dice:\
-    \ 8d10|avg (8d10)) thunder damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ 18 Constitution saving throw. On a failed save, a creature takes dice: 8d10|avg\
+    \ (8d10) thunder damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, the creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
   "name": "Roar (3/Day)"

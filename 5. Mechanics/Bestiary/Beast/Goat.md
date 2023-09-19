@@ -34,8 +34,8 @@ aliases: ["Goat"]
 "cr": "0"
 "traits":
 - "desc": "If the goat moves at least 20 feet straight toward a target and then hits\
-    \ it with a ram attack on the same turn, the target takes an extra 2 (dice: 1d4|avg\
-    \ (1d4)) bludgeoning damage. If the target is a creature, it must succeed on\
+    \ it with a ram attack on the same turn, the target takes an extra dice: 1d4|avg\
+    \ (1d4) bludgeoning damage. If the target is a creature, it must succeed on\
     \ a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 - "desc": "The goat has advantage on Strength and Dexterity saving throws made against\
@@ -43,7 +43,7 @@ aliases: ["Goat"]
   "name": "Sure-Footed"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
   "name": "Ram"
 "source":
 - "MM"

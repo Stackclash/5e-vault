@@ -92,14 +92,14 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
     \ of [[5. Mechanics/Spells/Raise Dead.md|raise dead]]."
   "name": "Special Equipment"
 - "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
-    \ extra 10 (dice: 3d6|avg (3d6)) damage of the weapon's type."
+    \ extra dice: 3d6|avg (3d6) damage of the weapon's type."
   "name": "Undead Slayer"
 "actions":
 - "desc": "Rictavio makes two attacks with his sword cane."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage (wooden cane)\
-    \ or piercing damage (silvered sword)."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage (wooden cane) or piercing\
+    \ damage (silvered sword)."
   "name": "Sword Cane"
 "source":
 - "CoS"

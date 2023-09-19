@@ -145,20 +145,20 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 - "desc": "Strahd makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack (Vampire Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, plus 14 (dice:\
-    \ 4d6|avg (4d6)) necrotic damage. If the target is a creature, Strahd can grapple\
-    \ it (escape DC 18) instead of dealing the slashing damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, plus dice: 4d6|avg\
+    \ (4d6) necrotic damage. If the target is a creature, Strahd can grapple it\
+    \ (escape DC 18) instead of dealing the slashing damage."
   "name": "Unarmed Strike (Vampire or Wolf Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing\
     \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by Strahd, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], or\
-    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: 7 (dice: 1d6\
-    \ + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg (3d6)) necrotic\
-    \ damage. The target's hit point maximum is reduced by an amount equal to the\
-    \ necrotic damage taken, and Strahd regains hit points equal to that amount. The\
-    \ reduction lasts until the target finishes a long rest. The target dies if its\
-    \ hit point maximum is reduced to 0. A humanoid slain in this way and then buried\
-    \ in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+    \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
+    \ + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage.\
+    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
+    \ damage taken, and Strahd regains hit points equal to that amount. The reduction\
+    \ lasts until the target finishes a long rest. The target dies if its hit point\
+    \ maximum is reduced to 0. A humanoid slain in this way and then buried in the\
+    \ ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
     \ under Strahd's control."
   "name": "Bite"
 - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the target\

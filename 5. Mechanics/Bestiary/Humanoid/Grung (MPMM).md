@@ -65,8 +65,8 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
   "name": "Water Dependency"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
-    \ damage plus 5 (dice: 2d4|avg (2d4)) poison damage."
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+    \ damage plus dice: 2d4|avg (2d4) poison damage."
   "name": "Dagger"
 "source":
 - "MPMM"

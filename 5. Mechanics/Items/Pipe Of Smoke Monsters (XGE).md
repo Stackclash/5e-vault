@@ -10,6 +10,7 @@ aliases: ["Pipe of Smoke Monsters"]
 ---
 # Pipe of Smoke Monsters
 *Wondrous Item, minor, common*  
+![[5. Mechanics/Items/img/pipe-of-smoke-monsters.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

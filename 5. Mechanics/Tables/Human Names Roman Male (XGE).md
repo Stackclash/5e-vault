@@ -12,8 +12,8 @@ aliases: ["Human Names – Roman, Male"]
 
 **Human Names – Roman, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aelius |
 | 03-04 | Aetius |
 | 05-06 | Agrippa |

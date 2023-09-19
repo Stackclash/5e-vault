@@ -51,14 +51,13 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
     \ Eye Ray three times."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 16 (dice: 4d6 + 2|avg (4d6 + 2)) piercing damage."
+    \ Hit: dice: 4d6 + 2|avg (4d6 + 2) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
-    \ Hit: 20 (dice: 4d8 + 2|avg (4d8 + 2)) psychic damage. If the target is\
-    \ Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13), and it must succeed on a DC 13 Intelligence saving throw or\
-    \ be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until this grapple\
-    \ ends."
+    \ Hit: dice: 4d8 + 2|avg (4d8 + 2) psychic damage. If the target is Large\
+    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 13), and it must succeed on a DC 13 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ until this grapple ends."
   "name": "Tentacles"
 - "desc": "The mindwitness shoots one magical eye ray at random (roll a dice: d6|avg\
     \ (d6), and reroll if the ray has already been used this turn), choosing one\
@@ -70,7 +69,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
     \ throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] for 1 minute.\
     \ The target can repeat the saving throw at the end of each of its turns, ending\
     \ the effect on itself on a success.  \n- 3 Psychic Ray. The target must succeed\
-    \ on a DC 13 Intelligence saving throw or take 27 (dice: 6d8|avg (6d8)) psychic\
+    \ on a DC 13 Intelligence saving throw or take dice: 6d8|avg (6d8) psychic\
     \ damage.  \n- 4 Slowing Ray. The targeted creature must make a DC 13 Dexterity\
     \ saving throw. On a failed save, the target's speed is halved for 1 minute. In\
     \ addition, the creature can't take reactions, and it can take either an action\

@@ -2,19 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Arabelle"]
 ---
 # Arabelle
-*Source: Curse of Strahd p. 38, Derived from Commoner (MM)*  
+*Source: Curse of Strahd p. 38, Derived from *  
 
 ```statblock
 "name": "Arabelle"
@@ -41,7 +34,3 @@ aliases: ["Arabelle"]
 "image": "5. Mechanics/Bestiary/Npc/token/arabelle.png"
 ```
 ^statblock
-
-## Environment
-
-arctic, desert, coastal, grassland, hill, urban, forest

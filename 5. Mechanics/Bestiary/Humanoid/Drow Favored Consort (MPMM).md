@@ -68,12 +68,12 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
     \ replace one of the attacks with a use of Spellcasting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d6 + 5|avg (1d6 + 5)) slashing damage plus 27 (dice: 6d8|avg\
-    \ (6d8)) poison damage."
+    \ Hit: dice: 1d6 + 5|avg (1d6 + 5) slashing damage plus dice: 6d8|avg\
+    \ (6d8) poison damage."
   "name": "Scimitar"
 - "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 120 ft., one\
-    \ target. Hit: 36 (dice: 8d8|avg (8d8)) force damage, and the drow can push\
-    \ the target up to 10 feet away if it is a Large or smaller creature."
+    \ target. Hit: dice: 8d8|avg (8d8) force damage, and the drow can push the\
+    \ target up to 10 feet away if it is a Large or smaller creature."
   "name": "Arcane Eruption"
 "reactions":
 - "desc": "When the drow or a creature within 10 feet of it is hit by an attack roll,\

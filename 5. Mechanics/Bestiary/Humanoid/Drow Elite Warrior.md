@@ -50,7 +50,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
-> [!quote] Variant: Drow Magic Armor and Weapons
+> [!note] Variant: Drow Magic Armor and Weapons
 > 
 > Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.
 > 
@@ -109,12 +109,12 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - "desc": "The drow makes two shortsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg\
-    \ (3d6)) poison damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg\
+    \ (3d6) poison damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 30/120 ft., one\
-    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage, and the\
-    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and the target\
+    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target wakes up if it takes damage or if another creature takes an action to\

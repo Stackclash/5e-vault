@@ -12,8 +12,8 @@ aliases: ["Arctic Encounters (Levels 11—16)"]
 
 **Arctic Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Monstrosity/Abominable Yeti.md\|abominable yeti]] |
 | 02-04 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] |
 | 05-10 | `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebears]] |

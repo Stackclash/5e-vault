@@ -55,7 +55,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 - "desc": "The cave fisher makes two Claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
   "name": "Claw"
 - "desc": "One Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw.\

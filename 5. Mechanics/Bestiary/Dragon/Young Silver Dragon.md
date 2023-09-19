@@ -117,14 +117,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage."
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage."
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
   "name": "Claw"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Cold Breath.\
     \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
-    \ must make a DC 17 Constitution saving throw, taking 54 (dice: 12d8|avg (12d8))\
+    \ must make a DC 17 Constitution saving throw, taking dice: 12d8|avg (12d8)\
     \ cold damage on a failed save, or half as much damage on a successful one.  \n\
     - Paralyzing Breath. The dragon exhales paralyzing gas in a 30-foot cone.\
     \ Each creature in that area must succeed on a DC 17 Constitution saving throw\

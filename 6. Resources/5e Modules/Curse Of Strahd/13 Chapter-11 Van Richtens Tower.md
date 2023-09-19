@@ -26,7 +26,7 @@ Following in the vampire hunter's footsteps is his protégé, [[5. Mechanics/Bes
 
 The Svalich Woods have swallowed up the road that once led to the tower. Now only a wide dirt trail remains.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You come to a cold mountain lake enclosed by misty woods and rocky bluffs. Thick fog creeps across the dark, still waters. The trail ends at a grass-covered causeway that stretches a hundred yards across the lake to a flat, marshy island with a stone tower on it. The tower is old and decrepit, with collapsing scaffolds clinging to one side where a large gash has split the wall. Timeworn griffon statues, their wings and flanks covered with moss, perch atop buttresses that support the walls.
 > 
@@ -49,7 +49,7 @@ The following areas correspond to labels on the map of Van Richten's Tower below
 
 Ezmerelda's wagon is parked in front of the tower. If the characters investigate the wagon, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which is a cheap wooden sign that reads, "Keep out!"
 ^579
@@ -66,7 +66,7 @@ The wagon has a hidden trapdoor in its underbelly that can be detected by a char
 
 #### Booby Trap
 
-The inside handle of the door has a wire looped around it, and the wire is connected to a flask of alchemist's fire hanging from the wagon's ceiling. When the door is opened, the flask falls and explodes, igniting one hundred more flasks of alchemist's fire that dangle from wires like ornaments along the wagon's interior walls. A creature within 30 feet of the wagon when it explodes must succeed on a DC 12 Constitution saving throw, taking 55 (`dice: 10d10|avg` (`10d10`)) fire damage on a failed save, or half as much damage on a successful one. Creatures inside the wagon or within 5 feet of it have disadvantage on the saving throw. The wagon is reduced to flinders by the explosion, and the contents of the wagon (see "Treasure" below) are destroyed as well.
+The inside handle of the door has a wire looped around it, and the wire is connected to a flask of alchemist's fire hanging from the wagon's ceiling. When the door is opened, the flask falls and explodes, igniting one hundred more flasks of alchemist's fire that dangle from wires like ornaments along the wagon's interior walls. A creature within 30 feet of the wagon when it explodes must succeed on a DC 12 Constitution saving throw, taking `dice: 10d10|avg` (`10d10`) fire damage on a failed save, or half as much damage on a successful one. Creatures inside the wagon or within 5 feet of it have disadvantage on the saving throw. The wagon is reduced to flinders by the explosion, and the contents of the wagon (see "Treasure" below) are destroyed as well.
 
 A character inside the wagon spots the trap automatically (no ability check required) and can disable it with a successful DC 10 Dexterity check. A failed attempt to disable the trap triggers it.
 
@@ -92,7 +92,7 @@ The interior of the wagon contains the following items:
 
 ### V2. Tower Door
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed symbol—a connected series of lines with eight stick figures set around it. Carved into the lintel above the door is a word: Khazan.
 ^57d
@@ -101,9 +101,9 @@ Show the players the door symbol to the right. The door is magically locked and 
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/108-cos11-03.png#center]]
 
-A creature that touches the door without first disabling the trap causes lightning to envelop the tower. Any creature outside the tower and within 10 feet of it must succeed on a DC 15 Dexterity saving throw, with disadvantage if it is wearing armor made of metal, taking 22 (`dice: 4d10|avg` (`4d10`)) lightning damage on a failed save, or half damage on a successful one. As long as the effect persists, any creature that enters the lightning for the first time on a turn or starts its turn there takes 22 (`dice: 4d10|avg` (`4d10`)) lightning damage. The lightning lasts for 10 minutes.
+A creature that touches the door without first disabling the trap causes lightning to envelop the tower. Any creature outside the tower and within 10 feet of it must succeed on a DC 15 Dexterity saving throw, with disadvantage if it is wearing armor made of metal, taking `dice: 4d10|avg` (`4d10`) lightning damage on a failed save, or half damage on a successful one. As long as the effect persists, any creature that enters the lightning for the first time on a turn or starts its turn there takes `dice: 4d10|avg` (`4d10`) lightning damage. The lightning lasts for 10 minutes.
 
-The third time this trap is triggered, the magic fails and causes the tower to collapse. Each creature inside the tower when it collapses takes 132 (`dice: 24d10|avg` (`24d10`)) bludgeoning damage, while those within 20 feet of the tower must succeed on a DC 15 Dexterity saving throw or take 44 (`dice: 8d10|avg` (`8d10`)) bludgeoning damage from falling debris. The collapse not only destroys the tower but also most of its contents, including the animated armor in area V7. The wooden chest in area V7 (as well as the severed head inside it) remains intact but requires `dice: 1d8 + 2|avg` (`1d8 + 2`) hours of digging through rubble to find. The clay golems in area V4 are undamaged but buried under piles of debris. Every hour the characters spend searching through the rubble, they have a 10% chance chance of accidentally unearthing a berserk clay golem.
+The third time this trap is triggered, the magic fails and causes the tower to collapse. Each creature inside the tower when it collapses takes `dice: 24d10|avg` (`24d10`) bludgeoning damage, while those within 20 feet of the tower must succeed on a DC 15 Dexterity saving throw or take `dice: 8d10|avg` (`8d10`) bludgeoning damage from falling debris. The collapse not only destroys the tower but also most of its contents, including the animated armor in area V7. The wooden chest in area V7 (as well as the severed head inside it) remains intact but requires `dice: 1d8 + 2|avg` (`1d8 + 2`) hours of digging through rubble to find. The clay golems in area V4 are undamaged but buried under piles of debris. Every hour the characters spend searching through the rubble, they have a 10% chance chance of accidentally unearthing a berserk clay golem.
 
 #### Opening the Door
 
@@ -117,16 +117,16 @@ Beyond the door is a 5-foot-square vestibule with a tattered curtain that concea
 
 ### V3. Rickety Scaffolding
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.
 ^581
 
-The scaffolding can't support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking `dice: 1d6|avg` (`1d6`) bludgeoning damage per 10 feet fallen plus an additional `dice: 2d6|avg` (`2d6`) piercing damage from the debris. A creature underneath the scaffolding must succeed on a DC 13 Dexterity saving throw or take 14 (`dice: 4d6|avg` (`4d6`)) bludgeoning damage from falling debris.
+The scaffolding can't support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking `dice: 1d6|avg` (`1d6`) bludgeoning damage per 10 feet fallen plus an additional `dice: 2d6|avg` (`2d6`) piercing damage from the debris. A creature underneath the scaffolding must succeed on a DC 13 Dexterity saving throw or take `dice: 4d6|avg` (`4d6`) bludgeoning damage from falling debris.
 
 ### V4. Tower, First Floor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The flagstone floor is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule.
 > 
@@ -143,7 +143,7 @@ The crates in this room are all empty.
 
 ### V5. Tower, Second Floor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.
 ^585
@@ -152,7 +152,7 @@ In the middle of the room is a 5-foot-square hole in the floor and ceiling, with
 
 ### V6. Tower, Third Floor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.
 ^587
@@ -161,7 +161,7 @@ In the middle of the room is a 5-foot-square hole in the floor and ceiling, with
 
 ### V7. Tower, Fourth Floor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower's elevator platform.
 ^589

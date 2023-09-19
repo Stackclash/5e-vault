@@ -12,8 +12,8 @@ aliases: ["Coastal Encounters (Levels 17—20)"]
 
 **Coastal Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-10 | 1 [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc]] |
 | 11-20 | 1 [[5. Mechanics/Bestiary/Giant/Storm Giant.md\|storm giant]] |
 | 21-25 | An [[5. Mechanics/Bestiary/Dragon/Adult Bronze Dragon.md\|adult bronze dragon]] fighting an [[5. Mechanics/Bestiary/Dragon/Adult Blue Dragon.md\|adult blue dragon]] to the death |

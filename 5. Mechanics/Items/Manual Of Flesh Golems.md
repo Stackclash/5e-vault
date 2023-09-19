@@ -10,6 +10,7 @@ aliases: ["Manual of Flesh Golems"]
 ---
 # Manual of Flesh Golems
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/manual-of-flesh-golems.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

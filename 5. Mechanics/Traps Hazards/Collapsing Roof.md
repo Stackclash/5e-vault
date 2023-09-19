@@ -17,6 +17,6 @@ Anyone who inspects the beams can easily determine that they are merely wedged i
 
 The ceiling above the trip wire is in bad repair, and anyone who can see it can tell that it's in danger of collapse.
 
-When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (`dice: 4d10|avg` (`4d10`)) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain.
+When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking `dice: 4d10|avg` (`4d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain.
 
 *Source: Dungeon Master's Guide p. 122. Available in the SRD.*

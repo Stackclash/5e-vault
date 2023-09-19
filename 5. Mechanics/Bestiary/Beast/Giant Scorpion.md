@@ -33,14 +33,14 @@ aliases: ["Giant Scorpion"]
 - "desc": "The scorpion makes three attacks: two with its claws and one with its sting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 12). The\
-    \ scorpion has two claws, each of which can grapple only one target."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 12). The scorpion\
+    \ has two claws, each of which can grapple only one target."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage, and the target\
-    \ must make a DC 12 Constitution saving throw, taking 22 (dice: 4d10|avg (4d10))\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage, and the target must\
+    \ make a DC 12 Constitution saving throw, taking dice: 4d10|avg (4d10) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sting"
 "source":
 - "MM"

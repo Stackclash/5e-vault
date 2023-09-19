@@ -20,7 +20,7 @@ Another lightning flash rips through the darkness, its thunder echoing through t
 
 *Curse of Strahd* is a story of gothic horror, presented here as **Dungeons & Dragons** roleplaying game adventure for a party of four to six adventurers of levels 1–10. A balance of character classes is helpful, since the adventurers will face a variety of challenges. Each character class will certainly have its moment to shine.
 
-> [!quote] A Classic Retold
+> [!note] A Classic Retold
 > 
 > This adventure is a retelling of the original *Ravenloft* adventure, which was published in 1983 by TSR, Inc. In the years since, the original has gained a reputation as one of the greatest **Dungeons & Dragons** adventures ever, and it went on to inspire the creation of a campaign setting of the same name in 1990: Ravenloft, home of the Domains of Dread.
 > 
@@ -35,7 +35,7 @@ The "Monster Manual" contains stat blocks for most of the monsters and nonplayer
 
 Spells and nonmagical equipment mentioned in the adventure are described in the "Player's Handbook". Magic items are described in the "Dungeon Master's Guide", unless the adventure's text directs you to an item's description in appendix C.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Text that appears in a box like this is meant to be read aloud or paraphrased for players when their characters first arrive at a location or under a specific circumstance, as described in the text. Indoor and nighttime descriptions are written with the assumption that the adventurers are using a torch or other light source to see by.
 ^005

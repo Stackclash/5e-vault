@@ -58,12 +58,12 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 - "desc": "The dhergoloth makes two Claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) force damage."
+    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) force damage."
   "name": "Claw"
 - "desc": "The dhergoloth moves up to its speed in a straight line and targets each\
     \ creature within 5 feet of it during its movement. Each target must succeed on\
-    \ a DC 14 Dexterity saving throw or take 22 (dice: 3d12 + 3|avg (3d12 + 3))\
-    \ force damage."
+    \ a DC 14 Dexterity saving throw or take dice: 3d12 + 3|avg (3d12 + 3) force\
+    \ damage."
   "name": "Flailing Claws (Recharge 5-6)"
 - "desc": "The dhergoloth teleports, along with any equipment it is wearing or carrying,\
     \ up to 60 feet to an unoccupied space it can see."

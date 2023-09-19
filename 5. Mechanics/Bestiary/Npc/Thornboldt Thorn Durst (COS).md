@@ -2,14 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/underdark
-- monster/environment/urban
 - monster/size/small
 - monster/type/undead
 aliases: ["Thornboldt "Thorn" Durst"]
 ---
 # Thornboldt "Thorn" Durst
-*Source: Curse of Strahd p. 217, Derived from Ghost (MM)*  
+*Source: Curse of Strahd p. 217, Derived from *  
 
 ```statblock
 "name": "Thornboldt \"Thorn\" Durst"
@@ -40,12 +38,12 @@ aliases: ["Thornboldt "Thorn" Durst"]
     \ Plane, and vice versa."
   "name": "Ethereal Sight"
 - "desc": "Thorn can move through other creatures and objects as if they were difficult\
-    \ terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage if it ends its\
-    \ turn inside an object."
+    \ terrain. It takes dice: 1d10|avg (1d10) force damage if it ends its turn\
+    \ inside an object."
   "name": "Incorporeal Movement"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 17 (dice: 4d6 + 3|avg (4d6 + 3)) necrotic damage."
+    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) necrotic damage."
   "name": "Withering Touch"
 - "desc": "Thorn enters the Ethereal Plane from the Material Plane, or vice versa.\
     \ It is visible on the Material Plane while it is in the Border Ethereal, and\
@@ -72,7 +70,3 @@ aliases: ["Thornboldt "Thorn" Durst"]
 "image": "compendium/bestiary/npc/token/thornboldt-thorn-durst.png"
 ```
 ^statblock
-
-## Environment
-
-underdark, urban

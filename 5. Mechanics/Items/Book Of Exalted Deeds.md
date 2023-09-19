@@ -10,6 +10,7 @@ aliases: ["Book of Exalted Deeds"]
 ---
 # Book of Exalted Deeds
 *Wondrous Item, artifact (requires attunement by a creature of good alignment)*  
+![[5. Mechanics/Items/img/book-of-exalted-deeds.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

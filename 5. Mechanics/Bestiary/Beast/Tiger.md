@@ -45,10 +45,10 @@ aliases: ["Tiger"]
   "name": "Pounce"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage."
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

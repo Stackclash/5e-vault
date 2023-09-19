@@ -10,6 +10,7 @@ aliases: ["Necklace of Fireballs"]
 ---
 # Necklace of Fireballs
 *Wondrous Item, minor, rare*  
+![[5. Mechanics/Items/img/necklace-of-fireballs.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

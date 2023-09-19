@@ -48,7 +48,7 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
   "name": "Beak"
 "source":
 - "MM"

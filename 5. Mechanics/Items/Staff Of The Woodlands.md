@@ -12,6 +12,7 @@ aliases: ["Staff of the Woodlands"]
 ---
 # Staff of the Woodlands
 *Staff, major, rare (requires attunement by a druid)*  
+![[5. Mechanics/Items/img/staff-of-the-woodlands.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

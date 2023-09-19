@@ -50,24 +50,23 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
     \ saving throw to take only half damage, the assassin instead takes no damage\
     \ if it succeeds on the saving throw, and only half damage if it fails."
   "name": "Evasion"
-- "desc": "The assassin deals an extra 14 (dice: 4d6|avg (4d6)) damage when it\
-    \ hits a target with a weapon attack and has advantage on the attack roll, or\
-    \ when the target is within 5 feet of an ally of the assassin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+- "desc": "The assassin deals an extra dice: 4d6|avg (4d6) damage when it hits\
+    \ a target with a weapon attack and has advantage on the attack roll, or when\
+    \ the target is within 5 feet of an ally of the assassin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ and the assassin doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
 "actions":
 - "desc": "The assassin makes two shortsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking 24 (dice: 7d6|avg (7d6))\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage, and the target must\
+    \ make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 80/320 ft., one\
-    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage, and the\
-    \ target must make a DC 15 Constitution saving throw, taking 24 (dice: 7d6|avg\
-    \ (7d6)) poison damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage, and the target\
+    \ must make a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6)\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Light Crossbow"
 "source":
 - "MM"

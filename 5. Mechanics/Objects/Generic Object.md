@@ -41,7 +41,6 @@ Objects are immune to poison and psychic damage. You might decide that some dama
 ### Damage Threshold
 
 Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
-
 ## Statblock
 
 ```ad-statblock
@@ -49,13 +48,13 @@ title: Generic Object
 ![[5. Mechanics/Bestiary/Null/token/generic-object.png#token]]
 *Varies Generic*
 
-
+- **Armor Class** (Varies (see below))
+- **Hit Points** null (Varies (see below))
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||
-
 
 ```
 ^statblock

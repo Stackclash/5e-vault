@@ -39,7 +39,7 @@ Once on each of your turns, you can cause the swarm to assist you in one of the 
 - The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.  
 - You are moved by the swarm 5 feet horizontally in a direction of your choice.  
 
-> [!quote] It's Your Swarm
+> [!note] It's Your Swarm
 > 
 > A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the "Personalizing Spells" section in chapter 3.
 > 

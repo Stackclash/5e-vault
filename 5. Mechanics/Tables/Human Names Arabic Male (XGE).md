@@ -12,8 +12,8 @@ aliases: ["Human Names – Arabic, Male"]
 
 **Human Names – Arabic, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abbad |
 | 03-04 | Abdul |
 | 05-06 | Achmed |

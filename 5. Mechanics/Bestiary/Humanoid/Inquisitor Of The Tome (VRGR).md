@@ -59,17 +59,16 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 - "desc": "The inquisitor attacks twice."
   "name": "Multiattack"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) force damage, and if the target\
-    \ is a Large or smaller creature, the inquisitor can push it up to 10 feet away."
+    \ Hit: dice: 4d8 + 4|avg (4d8 + 4) force damage, and if the target is a\
+    \ Large or smaller creature, the inquisitor can push it up to 10 feet away."
   "name": "Force Bolt"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
-    \ + 4|avg (1d10 + 4)) if used with two hands, plus 18 (dice: 4d8|avg (4d8))\
-    \ force damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+    \ (1d10 + 4) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
   "name": "Silver Longsword"
 - "desc": "Each creature in a 20-foot-radius sphere centered on a point the inquisitor\
     \ can see within 120 feet of it must succeed on a DC 15 Constitution saving throw\
-    \ or take 31 (dice: 6d8 + 4|avg (6d8 + 4)) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ or take dice: 6d8 + 4|avg (6d8 + 4) force damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
     \ and moved to the unoccupied space closest to the sphere's center. Large and\
     \ smaller objects that aren't being worn or carried in the sphere automatically\
     \ take the damage and are similarly moved."

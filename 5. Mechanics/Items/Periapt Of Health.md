@@ -10,6 +10,7 @@ aliases: ["Periapt of Health"]
 ---
 # Periapt of Health
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/periapt-of-health.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

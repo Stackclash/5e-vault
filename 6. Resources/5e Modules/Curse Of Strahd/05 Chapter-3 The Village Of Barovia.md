@@ -22,7 +22,7 @@ Until recently, Strahd had been paying nightly visits to [[5. Mechanics/Bestiary
 
 When the characters first approach the village, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tall shapes loom out of the dense fog that surrounds everything. The muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance.
 ^13e
@@ -67,7 +67,7 @@ The following areas correspond to labels on the map of the village of Barovia be
 
 ### E1. Bildrath's Mercantile
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
 ^145
@@ -80,7 +80,7 @@ If the characters give Bildrath a hard time, he calls [[5. Mechanics/Bestiary/Np
 
 ### E2. Blood of the Vine Tavern
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 ^147
@@ -117,12 +117,12 @@ If the characters arrive in the company of other Vistani, the owners are much mo
 
 ### E3. Mad Mary's Townhouse
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse.
 ^14d
 
-![[Mad Mary](compendium/best...](compendium/adventures/curse-of-strahd/img/016-cos03-04.png#center "[[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md\|Mad Mary]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/016-cos03-04.png#center\|Mad Mary]]
 
 The house, which is about 40 feet square, is boarded up and barricaded from the inside. [[5. Mechanics/Bestiary/Npc/Mad Mary (COS).md\|Mad Mary]] (CN female human [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]]) sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
 
@@ -132,7 +132,7 @@ The malformed doll has a strange leer and wears a sackcloth dress. It belonged t
 
 ### E4. Burgomaster's Mansion
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen.
 ^14f
@@ -143,7 +143,7 @@ Characters who survey the grounds can, with a successful DC 11 Wisdom ([[/5. Mec
 
 If the characters enter the mansion, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room. The burgomaster is in a side drawing room on the floor—lying in a simple wooden coffin surrounded by wilting flowers and a faint odor of decay.
 ^150
@@ -152,7 +152,7 @@ Ismark and Ireena made the coffin themselves.
 
 #### Roleplaying Ireena
 
-![[Ireena Kolyana](compendiu...](compendium/adventures/curse-of-strahd/img/017-cos03-05.png#center "[[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/017-cos03-05.png#center\|Ireena Kolyana]]
 
 Ireena, a striking young woman with auburn hair, has been bitten twice by Strahd. The villagers are afraid of her and avoid her. The characters are Ireena's best hope for protection, so she is willing to accompany them under certain conditions. Although she appears mild, she has a strong will, and she aids the party as best she can in saving herself. She doesn't remember her early past. She doesn't know how she came to Barovia or where she came from. Moreover, her encounters with Strahd are fuzzy memories, thanks to his vampiric charm, but she can recall clearly the blazing hunger in his eyes.
 
@@ -162,14 +162,14 @@ She says that no one from the village has been brave enough to help Ismark take 
 
 ### E5. Church
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Atop a slight rise, against the roots of the pillar stone that supports Castle Ravenloft, stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load.
 ^153
 
 If the characters approach the church doors, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The heavy wooden doors of the church are covered with claw marks and scarred by fire.
 ^154
@@ -184,7 +184,7 @@ The following areas correspond to labels on the map of the church below.
 
 #### E5a. Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
 > 
@@ -195,7 +195,7 @@ The scream comes from the church's undercroft (area E5g). The soft voice utterin
 
 #### E5b. Doru's Bedroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed's headboard is a wooden holy symbol.
 ^158
@@ -204,7 +204,7 @@ This room once belonged to [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]], [[
 
 #### E5c. Donavich's Bedroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed's headboard is a wooden sun-shaped holy symbol.
 ^15a
@@ -213,7 +213,7 @@ This is [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]]'s room and con
 
 #### E5d. Trapdoor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heard through the door.
 ^15c
@@ -222,7 +222,7 @@ This is [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]]'s room and con
 
 #### E5e. Office
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
 ^15e
@@ -233,19 +233,19 @@ For its size, the wooden cabinet contains very little. Inside are a tinderbox, a
 
 #### E5f. Chapel
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The chapel is a shambles, with overturned and broken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
 ^160
 
 If the characters have not already entered the undercroft, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > From beneath the chapel floor, you hear a young man's voice cry out, "Father! I'm starving!"
 ^161
 
-![[Donavich](compendium/best...](compendium/adventures/curse-of-strahd/img/020-cos03-07.png#center "[[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/020-cos03-07.png#center\|Donavich]]
 
 [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] (LG male human [[5. Mechanics/Bestiary/Humanoid/Acolyte.md\|acolyte]]) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]] and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]], who returned to his father as a vampire spawn. [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] was able to trap his son in the church's undercroft, where he remains to this day.
 
@@ -264,12 +264,12 @@ Once Kolyan is put in the ground, [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\
 
 #### E5g. Undercroft
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 ^164
 
-![[[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]]](compendium/adventures/curse-of-strahd/img/021-cos03-08.png#center)
+![[6. Resources/5e Modules/Curse Of Strahd/img/021-cos03-08.png#center\|Doru]]
 
 The shape is [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]], a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] sent by Strahd to torment [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]] and cast down the church. [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]] is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
 
@@ -281,7 +281,7 @@ If your card reading reveals that a treasure is in the undercroft, it's containe
 
 ### E6. Cemetery
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 ^167
@@ -300,7 +300,7 @@ You can use one or both of the following special events while the characters exp
 
 Every night at midnight, one hundred spirits rise from the cemetery (area E6) and march up the Old Svalich Road to Castle Ravenloft.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archaically dressed mages with beards and strange, pointed hats—all these and more march forth from the graveyard, their numbers growing by the second.
 ^16b
@@ -313,7 +313,7 @@ Once they reach the castle, the spirits march straight to the chapel (area K15) 
 
 This event occurs as the characters make their way through the village.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog.
 ^16d

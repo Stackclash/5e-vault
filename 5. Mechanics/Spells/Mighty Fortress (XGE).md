@@ -10,6 +10,7 @@ aliases: ["Mighty Fortress"]
 ---
 # Mighty Fortress
 *8th-level, Conjuration*  
+![[5. Mechanics/Spells/img/mighty-fortress.png#right]]  
 
 - **Casting time:** 1 minute
 - **Range:** 1 miles

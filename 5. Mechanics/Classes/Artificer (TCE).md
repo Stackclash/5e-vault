@@ -162,7 +162,7 @@ _Source: Eberron: Rising from the Last War_
 
 When creating an artificer, think about your character's relationship with the artisan who taught them their craft. Does the character have a rival? Talk to your DM about the role played by artificers in the campaign and the sort of organizations you might have ties to.
 
-> [!quote] Artificers in Other Worlds
+> [!note] Artificers in Other Worlds
 > 
 > Eberron is the world most associated with artificers, yet the class can be found throughout the D&D multiverse. In the Forgotten Realms, for example, the island of Lantan is home to many artificers, and in the world of Dragonlance, tinker gnomes are often members of this class. The strange technologies in the Barrier Peaks of the World of Greyhawk have inspired some folk to walk the path of the artificer, and in Mystara, various nations employ artificers to keep airships and other wondrous devices operational. In the City of Sigil, artificers share discoveries from throughout the cosmos, and one in particular—the gnome inventor Vi—has run a multiverse-spanning business from there since leaving the world of her birth, Eberron. In the world-city Ravnica, the Izzet League trains numerous artificers, the destructiveness of whom is unparalleled in other worlds—except, perhaps, by the tinker gnomes of Krynn.
 ^artificers-in-other-worlds
@@ -221,7 +221,7 @@ You produce your artificer spell effects through your tools. You must have a spe
 
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
-> [!quote] The Magic of Artifice
+> [!note] The Magic of Artifice
 > 
 > As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], you could be quickly producing a salve. If you cast it using [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], you might have a miniature mechanical spider that binds wounds. When you cast [[5. Mechanics/Spells/Poison Spray.md\|poison spray]], you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
 > 
@@ -268,7 +268,7 @@ When you gain this feature, pick four artificer infusions to learn, choosing fro
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
-> [!quote] Artificer Infusions
+> [!note] Artificer Infusions
 > 
 > Artificers have invented numerous magical infusions, extraordinary processes that rapidly create magic items. To many, artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete.
 > 

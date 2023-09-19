@@ -45,7 +45,7 @@ Somewhere in the brimstone wastes of Gehenna, there roams an ultroloth so strong
 
 Whatever the case, no fiend finds the General unless the General desires it. His personal name is unknown, and even the Books of Keeping contain no mention of this powerful, thoroughly evil entity.
 
-> [!quote] Variant: Yugoloth Summoning
+> [!note] Variant: Yugoloth Summoning
 > 
 > Some yugoloths can have an action option that allows them to summon other yugoloths.
 > 
@@ -109,16 +109,16 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ teleports before or after the attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage. If the target is\
-    \ a creature, it must succeed on a DC 16 Constitution saving throw or take 5 (dice:\
-    \ 2d4|avg (2d4)) slashing damage at the start of each of its turns due to a\
-    \ fiendish wound. Each time the nycaloth hits the wounded target with this attack,\
-    \ the damage dealt by the wound increases by 5 (dice: 2d4|avg (2d4)). Any\
-    \ creature can take an action to stanch the wound with a successful DC 13 Wisdom\
-    \ (Medicine) check. The wound also closes if the target receives magical healing."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage. If the target is a creature,\
+    \ it must succeed on a DC 16 Constitution saving throw or take dice: 2d4|avg\
+    \ (2d4) slashing damage at the start of each of its turns due to a fiendish\
+    \ wound. Each time the nycaloth hits the wounded target with this attack, the\
+    \ damage dealt by the wound increases by dice: 2d4|avg (2d4). Any creature\
+    \ can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine)\
+    \ check. The wound also closes if the target receives magical healing."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 18 (dice: 2d12 + 5|avg (2d12 + 5)) slashing damage."
+    \ Hit: dice: 2d12 + 5|avg (2d12 + 5) slashing damage."
   "name": "Greataxe"
 - "desc": "The nycaloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

@@ -11,6 +11,7 @@ aliases: ["Infernal Calling"]
 ---
 # Infernal Calling
 *5th-level, Conjuration*  
+![[5. Mechanics/Spells/img/infernal-calling.png#right]]  
 
 - **Casting time:** 1 minute
 - **Range:** 90 feet

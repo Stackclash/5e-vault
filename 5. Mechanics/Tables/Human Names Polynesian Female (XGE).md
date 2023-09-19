@@ -12,8 +12,8 @@ aliases: ["Human Names – Polynesian, Female"]
 
 **Human Names – Polynesian, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ahulani |
 | 03-04 | Airini |
 | 05-06 | Alani |

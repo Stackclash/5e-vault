@@ -11,6 +11,7 @@ aliases: ["Medallion of Thoughts"]
 ---
 # Medallion of Thoughts
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/medallion-of-thoughts.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

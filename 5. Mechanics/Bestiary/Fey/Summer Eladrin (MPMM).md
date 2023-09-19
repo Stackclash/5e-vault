@@ -71,13 +71,13 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - "desc": "The eladrin makes two Longsword or Longbow attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, or 15 (dice: 2d10\
-    \ + 4|avg (2d10 + 4)) slashing damage if used with two hands, plus 9 (dice:\
-    \ 2d8|avg (2d8)) fire damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or dice: 2d10 + 4|avg\
+    \ (2d10 + 4) slashing damage if used with two hands, plus dice: 2d8|avg (2d8)\
+    \ fire damage."
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 150/600 ft., one\
-    \ target. Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) piercing damage plus 9 (dice:\
-    \ 2d8|avg (2d8)) fire damage."
+    \ target. Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage plus dice: 2d8|avg\
+    \ (2d8) fire damage."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\

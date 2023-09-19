@@ -61,18 +61,17 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 - "desc": "The annis makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage."
+    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) slashing damage."
+    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 36 (dice: 9d6 + 5|avg (9d6 + 5)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) if it\
-    \ is a Large or smaller creature. Until the grapple ends, the target takes 36\
-    \ (dice: 9d6 + 5|avg (9d6 + 5)) bludgeoning damage at the start of each of\
-    \ the hag's turns. The hag can't make attacks while grappling a creature in this\
-    \ way."
+    \ Hit: dice: 9d6 + 5|avg (9d6 + 5) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) if it is\
+    \ a Large or smaller creature. Until the grapple ends, the target takes dice:\
+    \ 9d6 + 5|avg (9d6 + 5) bludgeoning damage at the start of each of the hag's\
+    \ turns. The hag can't make attacks while grappling a creature in this way."
   "name": "Crushing Hug"
 "source":
 - "MPMM"

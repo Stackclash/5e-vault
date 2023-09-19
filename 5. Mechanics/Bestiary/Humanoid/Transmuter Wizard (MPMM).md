@@ -64,8 +64,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - "desc": "The transmuter makes three Arcane Burst attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3))\
-    \ acid damage."
+    \ or range 120 ft., one target. Hit: dice: 3d10 + 3|avg (3d10 + 3) acid\
+    \ damage."
   "name": "Arcane Burst"
 "bonus_actions":
 - "desc": "The transmuter casts [[5. Mechanics/Spells/Alter Self.md|alter self]] or changes\

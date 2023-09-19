@@ -12,8 +12,8 @@ aliases: ["Human Names – Polynesian, Male"]
 
 **Human Names – Polynesian, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Afa |
 | 03-04 | Ahohako |
 | 05-06 | Aisake |

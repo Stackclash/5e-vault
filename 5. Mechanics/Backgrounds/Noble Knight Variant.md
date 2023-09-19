@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- background
 - compendium/src/5e/phb
 aliases: ["Noble (Knight) (Variant)"]
 ---
 # Noble (Knight) (Variant)
-*Source: Player's Handbook p. 136, Derived from Noble (PHB)*  
+*Source: Player's Handbook p. 136, Derived from *  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  

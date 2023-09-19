@@ -60,11 +60,11 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
   "name": "Mouth of Chaos"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) piercing damage, and the giant magically\
+    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) piercing damage, and the giant magically\
     \ regains hit points equal to the damage dealt."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
   "name": "Fist"
 "source":
 - "MPMM"

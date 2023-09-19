@@ -149,14 +149,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -206,10 +206,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The dretch makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
+    \ Hit: dice: 1d6|avg (1d6) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 2d4|avg (2d4)) slashing damage."
+    \ Hit: dice: 2d4|avg (2d4) slashing damage."
   "name": "Claws"
 - "desc": "A 10-foot radius of disgusting green gas extends out from the dretch. The\
     \ gas spreads around corners, and its area is lightly obscured. It lasts for 1\

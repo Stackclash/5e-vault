@@ -71,15 +71,15 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
     \ (escape DC 14), and the shambling mound uses its Engulf on it."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 - "desc": "The shambling mound engulfs a Medium or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by it. The engulfed target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]],\
     \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and unable to breathe,\
     \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
-    \ of the mound's turns or take 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning\
-    \ damage. If the mound moves, the engulfed target moves with it. The mound can\
-    \ have only one creature engulfed at a time."
+    \ of the mound's turns or take dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage.\
+    \ If the mound moves, the engulfed target moves with it. The mound can have only\
+    \ one creature engulfed at a time."
   "name": "Engulf"
 "source":
 - "MM"

@@ -11,7 +11,6 @@ aliases: ["Ballista"]
 *Source: Dungeon Master's Guide p. 255*  
 
 A ballista is a massive crossbow that fires heavy bolts. Before it can be fired, it must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
-
 ```ad-statblock
 title: Ballista
 ![[5. Mechanics/Bestiary/Null/token/ballista.png#token]]
@@ -29,6 +28,6 @@ title: Ballista
 
 ## Actions
 
-***Bolt.*** *Ranged Weapon Attack:* ++6 to hit, range 120/480 ft., one target. *Hit:* 16 (`dice: 3d10|avg` (`3d10`)) piercing damage.
+***Bolt.*** *Ranged Weapon Attack:* +6 to hit, range 120/480 ft., one target. *Hit:* 16 (`dice: 3d10|avg` (`3d10`)) piercing damage.
 ```
 ^statblock

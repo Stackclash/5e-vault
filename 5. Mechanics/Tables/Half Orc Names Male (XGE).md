@@ -12,8 +12,8 @@ aliases: ["Half-Orc Names – Male"]
 
 **Half-Orc Names – Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Argran |
 | 03-04 | Braak |
 | 05-06 | Brug |

@@ -64,7 +64,7 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
     \ attack with its bite."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) piercing damage."
+    \ Hit: dice: 4d8 + 4|avg (4d8 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 50 ft., one creature.\
     \ Hit: The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\

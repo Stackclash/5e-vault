@@ -56,11 +56,10 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage. This attack is magical."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage. This attack is magical."
   "name": "Claws (Requires Alter Self)"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 2 (dice: 1d4|avg (1d4)) piercing\
-    \ damage."
+    \ or range 20/60 ft., one target. Hit: dice: 1d4|avg (1d4) piercing damage."
   "name": "Dagger"
 "source":
 - "CoS"

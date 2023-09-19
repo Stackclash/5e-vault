@@ -33,16 +33,16 @@ aliases: ["Elk"]
 "cr": "1/4"
 "traits":
 - "desc": "If the elk moves at least 20 feet straight toward a target and then hits\
-    \ it with a ram attack on the same turn, the target takes an extra 7 (dice: 2d6|avg\
-    \ (2d6)) damage. If the target is a creature, it must succeed on a DC 13 Strength\
+    \ it with a ram attack on the same turn, the target takes an extra dice: 2d6|avg\
+    \ (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength\
     \ saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
   "name": "Ram"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) bludgeoning damage."
+    \ creature. Hit: dice: 2d4 + 3|avg (2d4 + 3) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

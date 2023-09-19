@@ -105,12 +105,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "cr": "1"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage."
+    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
   "name": "Bite"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Acid Breath.\
     \ The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking 18 (dice: 4d8|avg\
-    \ (4d8)) acid damage on a failed save, or half as much damage on a successful\
+    \ in that line must make a DC 11 Dexterity saving throw, taking dice: 4d8|avg\
+    \ (4d8) acid damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Slowing Breath. The dragon exhales gas in a 15-foot cone. Each\
     \ creature in that area must succeed on a DC 11 Constitution saving throw. On\
     \ a failed save, the creature can't use reactions, its speed is halved, and it\

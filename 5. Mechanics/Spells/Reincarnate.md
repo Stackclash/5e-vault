@@ -22,8 +22,8 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 **Reincarnate Races**
 
-| `dice: d100\|avg` (`d100`) | Race |
-|-------------|--------------|------|
+| dice: d100 | Race |
+|------------|------|
 | 1-4 | [[5. Mechanics/Races/Dragonborn.md\|Dragonborn]] |
 | 5-13 | [[5. Mechanics/Races/Dwarf Hill.md\|Dwarf, hill]] |
 | 14-21 | [[5. Mechanics/Races/Dwarf Mountain.md\|Dwarf, mountain]] |
@@ -36,7 +36,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 | 57-60 | [[5. Mechanics/Races/Half Orc.md\|Half-orc]] |
 | 61-68 | [[5. Mechanics/Races/Halfling Lightfoot.md\|Halfling, lightfoot]] |
 | 69-76 | [[5. Mechanics/Races/Halfling Stout.md\|Halfling, stout]] |
-| 77-96 | Human |
+| 77-96 | [[5. Mechanics/Races/Human.md\|Human]] |
 | 97-0 | [[5. Mechanics/Races/Tiefling.md\|Tiefling]] |
 ^reincarnate-races
 

@@ -53,10 +53,10 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
   "name": "Trampling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 18 (dice: 2d12 + 5|avg (2d12 + 5)) piercing damage."
+    \ Hit: dice: 2d12 + 5|avg (2d12 + 5) piercing damage."
   "name": "Gore"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) bludgeoning damage."
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage."
   "name": "Hooves"
 - "desc": "The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that\
     \ area must succeed on a DC 13 Constitution saving throw. On a failed save, a\

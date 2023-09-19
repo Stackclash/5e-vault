@@ -24,11 +24,11 @@ If you attempt to control a sphere that is under another creature's control, you
 
 If the sphere comes into contact with a planar portal, such as that created by the [[5. Mechanics/Spells/Gate.md\|gate]] spell, or an extradimensional space, such as that within a [[5. Mechanics/Items/Portable Hole.md\|portable hole]], the DM determines randomly what happens, using the following table.
 
-| `dice: d100\|avg` (`d100`) | Result |
-|-------------|--------------|--------|
+| dice: d100 | Result |
+|------------|--------|
 | 01-50 | The sphere is destroyed. |
 | 51-85 | The sphere moves through the portal or into the extradimensional space. |
 | 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
-^dice-avg-result
+^result
 
 *Source: Dungeon Master's Guide p. 201. Available in the SRD.*

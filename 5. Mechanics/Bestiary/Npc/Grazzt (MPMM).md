@@ -78,8 +78,8 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
     \ a use of Spellcasting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: 20 (dice: 4d6 + 6|avg (4d6 + 6)) force damage plus 14 (dice: 4d6|avg\
-    \ (4d6)) acid damage."
+    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) force damage plus dice: 4d6|avg (4d6)\
+    \ acid damage."
   "name": "Wave of Sorrow (Greatsword)"
 - "desc": "Graz'zt teleports, along with any equipment he is wearing or carrying,\
     \ up to 120 feet to an unoccupied space he can see."

@@ -47,16 +47,16 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 "cr": "1"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target\
-    \ of the meazel's size or smaller. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3))\
-    \ bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10\
-    \ (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage at the start of each of\
-    \ the meazel's turns. The meazel can't make weapon attacks while grappling a creature\
-    \ in this way."
+    \ of the meazel's size or smaller. Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning\
+    \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 13 with disadvantage). Until the grapple ends, the target takes dice:\
+    \ 2d6 + 3|avg (2d6 + 3) bludgeoning damage at the start of each of the meazel's\
+    \ turns. The meazel can't make weapon attacks while grappling a creature in this\
+    \ way."
   "name": "Garrote"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) necrotic damage"
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 1d6|avg\
+    \ (1d6) necrotic damage"
   "name": "Shortsword"
 - "desc": "The meazel, any equipment it is wearing or carrying, and any creature it\
     \ is grappling teleport to an unoccupied space within 500 feet of it, provided\

@@ -47,7 +47,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) force\
+    \ or range 120 ft., one target. Hit: dice: 1d10 + 2|avg (1d10 + 2) force\
     \ damage."
   "name": "Arcane Burst"
 "source":

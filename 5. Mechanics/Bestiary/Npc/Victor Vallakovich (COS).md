@@ -2,13 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Victor Vallakovich"]
 ---
 # Victor Vallakovich
-*Source: Curse of Strahd p. 105, Derived from Mage (MM)*  
+*Source: Curse of Strahd p. 105, Derived from *  
 
 ```statblock
 "name": "Victor Vallakovich"
@@ -54,7 +53,7 @@ aliases: ["Victor Vallakovich"]
   "name": "spells"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":
@@ -62,7 +61,3 @@ aliases: ["Victor Vallakovich"]
 "image": "compendium/bestiary/npc/token/victor-vallakovich.png"
 ```
 ^statblock
-
-## Environment
-
-urban

@@ -12,8 +12,8 @@ aliases: ["Hill Encounters (Levels 17—20)"]
 
 **Hill Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 1d2\|avg` (`1d2`) [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|rocs]] |
 | 02-05 | 1 [[5. Mechanics/Bestiary/Dragon/Young Red Dragon.md\|young red dragon]] |
 | 06-10 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Giant/Ettin.md\|ettins]] |

@@ -68,7 +68,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
   "name": "Claws"
 "source":
 - "MM"

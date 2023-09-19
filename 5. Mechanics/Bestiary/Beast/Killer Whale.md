@@ -41,7 +41,7 @@ aliases: ["Killer Whale"]
   "name": "Keen Hearing"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 21 (dice: 5d6 + 4|avg (5d6 + 4)) piercing damage."
+    \ Hit: dice: 5d6 + 4|avg (5d6 + 4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

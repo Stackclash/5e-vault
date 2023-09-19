@@ -98,8 +98,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "desc": "The githzerai makes two unarmed strikes."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage plus 9 (dice:\
-    \ 2d8|avg (2d8)) psychic damage. This is a magic weapon attack."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage plus dice: 2d8|avg\
+    \ (2d8) psychic damage. This is a magic weapon attack."
   "name": "Unarmed Strike"
 "source":
 - "MM"

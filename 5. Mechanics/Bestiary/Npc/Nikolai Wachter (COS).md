@@ -2,13 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Nikolai Wachter"]
 ---
 # Nikolai Wachter
-*Source: Curse of Strahd p. 110, Derived from Noble (MM)*  
+*Source: Curse of Strahd p. 110, Derived from *  
 
 ```statblock
 "name": "Nikolai Wachter"
@@ -36,7 +35,7 @@ aliases: ["Nikolai Wachter"]
 "cr": "1/8"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
+    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
   "name": "Rapier"
 "reactions":
 - "desc": "Nikolai adds 2 to its AC against one melee attack that would hit it. To\
@@ -47,7 +46,3 @@ aliases: ["Nikolai Wachter"]
 "image": "compendium/bestiary/npc/token/nikolai-wachter.png"
 ```
 ^statblock
-
-## Environment
-
-urban

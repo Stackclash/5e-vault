@@ -50,7 +50,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
-> [!quote] Variant: Drow Magic Armor and Weapons
+> [!note] Variant: Drow Magic Armor and Weapons
 > 
 > Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.
 > 
@@ -120,9 +120,9 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d6 - 1|avg (1d6 - 1)) bludgeoning damage, or 3 (dice:\
-    \ 1d8 - 1|avg (1d8 - 1)) bludgeoning damage if used with two hands, plus 3\
-    \ (dice: 1d6|avg (1d6)) poison damage."
+    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) bludgeoning damage, or dice: 1d8 - 1|avg\
+    \ (1d8 - 1) bludgeoning damage if used with two hands, plus dice: 1d6|avg\
+    \ (1d6) poison damage."
   "name": "Staff"
 - "desc": "The drow magically summons a [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]],\
     \ or attempts to summon a [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|shadow demon]]\

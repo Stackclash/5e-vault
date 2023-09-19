@@ -36,10 +36,10 @@ aliases: ["Giant Ape"]
 - "desc": "The ape makes two fist attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: 22 (dice: 3d10 + 6|avg (3d10 + 6)) bludgeoning damage."
+    \ Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage."
   "name": "Fist"
 - "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 50/100 ft., one\
-    \ target. Hit: 30 (dice: 7d6 + 6|avg (7d6 + 6)) bludgeoning damage."
+    \ target. Hit: dice: 7d6 + 6|avg (7d6 + 6) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

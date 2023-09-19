@@ -8,15 +8,13 @@ aliases: ["Downtime Activity: Religious Service"]
 # Downtime Activity: Religious Service
 *Source: Xanathar's Guide to Everything p. 131* 
 
-## Downtime Activity: Religious Service
-
 Characters with a religious bent might want to spend downtime in service to a temple, either by attending rites or by proselytizing in the community. Someone who undertakes this activity has a chance of winning the favor of the temple's leaders.
 
-### Resources
+## Resources
 
 Performing religious service requires access to, and often attendance at, a temple whose beliefs and ethos align with the character's. If such a place is available, the activity takes one workweek of time but involves no gold piece expenditure.
 
-### Resolution
+## Resolution
 
 At the end of the required time, the character chooses to make either an Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) check or a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
 
@@ -26,7 +24,7 @@ A favor, in broad terms, is a promise of future assistance from a representative
 
 Favors earned need not be expended immediately, but only a certain number can be stored up. A character can have a maximum number of unused favors equal to 1 + the character's Charisma modifier (minimum of one unused favor).
 
-### Complications
+## Complications
 
 Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10% chance chance of a complication, examples of which are on the Religious Service Complications table.
 

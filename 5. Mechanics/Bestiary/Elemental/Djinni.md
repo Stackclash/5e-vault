@@ -104,8 +104,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "desc": "The djinni makes three scimitar attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) lightning or thunder damage (djinni's choice)."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage plus dice: 1d6|avg\
+    \ (1d6) lightning or thunder damage (djinni's choice)."
   "name": "Scimitar"
 - "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
     \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\

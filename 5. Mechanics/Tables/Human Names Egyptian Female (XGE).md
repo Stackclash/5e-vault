@@ -12,8 +12,8 @@ aliases: ["Human Names – Egyptian, Female"]
 
 **Human Names – Egyptian, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | A'at |
 | 03-04 | Ahset |
 | 05-06 | Amunet |

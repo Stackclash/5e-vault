@@ -42,9 +42,9 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 "cr": "1/8"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing\
-    \ damage, or 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage if used with\
-    \ two hands to make a melee attack."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+    \ hands to make a melee attack."
   "name": "Spear"
 "source":
 - "MM"

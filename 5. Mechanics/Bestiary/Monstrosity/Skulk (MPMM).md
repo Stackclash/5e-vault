@@ -62,8 +62,8 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
   "name": "Trackless"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) slashing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) necrotic damage."
+    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage plus dice: 1d6|avg\
+    \ (1d6) necrotic damage."
   "name": "Claw"
 "source":
 - "MPMM"

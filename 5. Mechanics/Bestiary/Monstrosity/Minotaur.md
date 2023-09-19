@@ -53,8 +53,8 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 "cr": "3"
 "traits":
 - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra 9 (dice:\
-    \ 2d8|avg (2d8)) piercing damage. If the target is a creature, it must succeed\
+    \ hits it with a gore attack on the same turn, the target takes an extra dice:\
+    \ 2d8|avg (2d8) piercing damage. If the target is a creature, it must succeed\
     \ on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
@@ -66,10 +66,10 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
   "name": "Reckless"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 17 (dice: 2d12 + 4|avg (2d12 + 4)) slashing damage."
+    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) slashing damage."
   "name": "Greataxe"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

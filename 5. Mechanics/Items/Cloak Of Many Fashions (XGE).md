@@ -10,6 +10,7 @@ aliases: ["Cloak of Many Fashions"]
 ---
 # Cloak of Many Fashions
 *Wondrous Item, minor, common*  
+![[5. Mechanics/Items/img/cloak-of-many-fashions.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

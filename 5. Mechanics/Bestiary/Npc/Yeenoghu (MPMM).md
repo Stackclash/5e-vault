@@ -72,17 +72,17 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 - "desc": "Yeenoghu makes three Flail attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: 22 (dice: 2d12 + 9|avg (2d12 + 9)) force damage. If it's his turn,\
-    \ Yeenoghu can cause the target to suffer one of the following additional effects,\
-    \ each of which he can apply only once per turn\n\n- Confusion. The target\
-    \ must succeed on a DC 17 Wisdom saving throw or be affected by the confusion\
-    \ spell until the start of Yeenoghu's next turn.  \n- Force. The target takes\
-    \ an extra 13 (dice: 2d12|avg (2d12)) force damage.  \n- Paralysis. The\
-    \ target must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ Hit: dice: 2d12 + 9|avg (2d12 + 9) force damage. If it's his turn, Yeenoghu\
+    \ can cause the target to suffer one of the following additional effects, each\
+    \ of which he can apply only once per turn\n\n- Confusion. The target must\
+    \ succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell\
+    \ until the start of Yeenoghu's next turn.  \n- Force. The target takes an\
+    \ extra dice: 2d12|avg (2d12) force damage.  \n- Paralysis. The target\
+    \ must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of Yeenoghu's next turn.  "
   "name": "Flail"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: 20 (dice: 2d10 + 9|avg (2d10 + 9)) acid damage."
+    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) acid damage."
   "name": "Bite"
 "bonus_actions":
 - "desc": "When Yeenoghu reduces a creature to 0 hit points with a melee attack, he\

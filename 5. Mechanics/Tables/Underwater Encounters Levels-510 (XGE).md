@@ -12,8 +12,8 @@ aliases: ["Underwater Encounters (Levels 5—10)"]
 
 **Underwater Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Elemental/Steam Mephit.md\|steam mephits]] |
 | 03-04 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] |
 | 05-06 | 1 [[5. Mechanics/Bestiary/Beast/Giant Octopus.md\|giant octopus]] |

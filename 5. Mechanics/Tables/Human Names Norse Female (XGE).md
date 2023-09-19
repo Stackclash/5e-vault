@@ -12,8 +12,8 @@ aliases: ["Human Names – Norse, Female"]
 
 **Human Names – Norse, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Alfhild |
 | 03-04 | Arnbjorg |
 | 05-06 | Ase |

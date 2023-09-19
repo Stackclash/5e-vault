@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ai
 aliases: ["Repulsion Shield"]
 ---
 # Repulsion Shield
-*Source: Tasha's Cauldron of Everything p. 23* 
+*Source: Tasha's Cauldron of Everything p. 23*  
+
+***Prerequisites*** 6th-level Artificer, A shield (requires attunement)
 
 A creature gains a +1 bonus to Armor Class while wielding this shield.
 

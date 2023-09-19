@@ -11,6 +11,7 @@ aliases: ["Robe of Stars"]
 ---
 # Robe of Stars
 *Wondrous Item, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/robe-of-stars.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

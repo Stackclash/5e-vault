@@ -12,6 +12,7 @@ aliases: ["Moonblade"]
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
+![[5. Mechanics/Items/img/moonblade.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S
@@ -32,8 +33,8 @@ A moonblade has one rune on its blade for each master it has served (typically `
 
 **Moonblade Properties**
 
-| `dice: d100\|avg` (`d100`) | Property |
-|-------------|--------------|----------|
+| dice: d100 | Property |
+|------------|----------|
 | 01-40 | Increase the bonus to attack and damage rolls by 1, to a maximum of +3. Reroll if the moonblade already has a +3 bonus. |
 | 41-80 | The moonblade gains a randomly determined [[5. Mechanics/Tables/Special Features What Minor Property Does It Have.md\|minor property]] (see "Special Features" DMG p143). |
 | 81-82 | The moonblade gains the finesse property. |

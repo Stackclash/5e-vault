@@ -90,8 +90,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - "desc": "The lizardfolk makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack (Lizardfolk Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage, or 7 (dice: 1d10\
-    \ + 2|avg (1d10 + 2)) piercing damage in [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]]\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage, or dice: 1d10 + 2|avg\
+    \ (1d10 + 2) piercing damage in [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]]\
     \ form. If the lizardfolk is in crocodile form and the target is a Large or smaller\
     \ creature, the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
@@ -99,7 +99,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     \ true form, the grapple ends."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
   "name": "Claws (Lizardfolk Form Only)"
 - "desc": "The lizardfolk magically polymorphs into a [[5. Mechanics/Bestiary/Beast/Crocodile.md|crocodile]],\
     \ remaining in that form for up to 1 hour. It can revert to its true form as a\

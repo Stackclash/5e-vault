@@ -54,8 +54,8 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
     \ ability is Charisma.\n\nAt will: [[5. Mechanics/Spells/Heat Metal.md|heat metal]]"
   "name": "innate"
 - "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
-    \ 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (dice: 2d6|avg\
-    \ (2d6)) fire damage on a failed save, or half as much damage on a successful\
+    \ 5 feet of it must make a DC 11 Dexterity saving throw, taking dice: 2d6|avg\
+    \ (2d6) fire damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Death Burst"
 - "desc": "While the mephit remains motionless, it is indistinguishable from an ordinary\
@@ -63,12 +63,12 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) slashing damage plus 2 (dice: 1d4|avg\
-    \ (1d4)) fire damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage plus dice: 1d4|avg\
+    \ (1d4) fire damage."
   "name": "Claws"
 - "desc": "The mephit exhales a 15-foot cone of fire. Each creature in that area must\
-    \ make a DC 11 Dexterity saving throw, taking 7 (dice: 2d6|avg (2d6)) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ make a DC 11 Dexterity saving throw, taking dice: 2d6|avg (2d6) fire damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 6)"
 "source":
 - "MM"

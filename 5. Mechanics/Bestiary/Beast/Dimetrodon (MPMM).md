@@ -37,7 +37,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 "cr": "1/4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) piercing damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MPMM"

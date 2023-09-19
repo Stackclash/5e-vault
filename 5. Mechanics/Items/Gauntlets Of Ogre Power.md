@@ -11,6 +11,7 @@ aliases: ["Gauntlets of Ogre Power"]
 ---
 # Gauntlets of Ogre Power
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/gauntlets-of-ogre-power.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -16,8 +16,8 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 
 **Warlord Battle Cries**
 
-| `dice: d8\|avg` (`d8`) | Battle Cry |
-|-----------|------------|------------|
+| dice: d8 | Battle Cry |
+|----------|------------|
 | 1 | "Remember why we fight!" |
 | 2 | "Victory awaits!" |
 | 3 | "For the crown!" |
@@ -66,10 +66,10 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 - "desc": "The warlord makes two Greatsword or Short bow attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
   "name": "Greatsword"
 - "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 80/320 ft., one\
-    \ target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Shortbow"
 "legendary_actions":
 - "desc": "The warlord targets one ally it can see within 30 feet of it. if the target\

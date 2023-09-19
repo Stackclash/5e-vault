@@ -58,9 +58,9 @@ Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as
     \ Command or Terrifying Command."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 11 (dice: 1d12 + 5|avg (1d12 + 5)) piercing damage plus 16 (dice:\
-    \ 3d10|avg (3d10)) fire damage. If this damage kills a creature with a soul,\
-    \ the soul rises from the River Styx as a [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
+    \ Hit: dice: 1d12 + 5|avg (1d12 + 5) piercing damage plus dice: 3d10|avg\
+    \ (3d10) fire damage. If this damage kills a creature with a soul, the soul\
+    \ rises from the River Styx as a [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
     \ in Avernus in dice: 1d4|avg (1d4) hours. If the creature isn't revived before\
     \ then, only a [[5. Mechanics/Spells/Wish.md|wish]] spell or killing the lemure and\
     \ casting true resurrection on the creature's original body can restore it to\

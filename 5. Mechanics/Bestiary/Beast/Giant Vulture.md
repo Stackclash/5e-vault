@@ -46,10 +46,10 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 - "desc": "The vulture makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage."
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

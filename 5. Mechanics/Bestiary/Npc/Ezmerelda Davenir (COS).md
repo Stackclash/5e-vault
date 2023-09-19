@@ -107,14 +107,14 @@ Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Alth
     \ +1 handaxe or her silvered shortsword."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) piercing damage."
+    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) piercing damage."
   "name": "Rapier +1"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing\
     \ damage."
   "name": "Handaxe +1"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
   "name": "Silvered Shortsword"
 - "desc": "Ezmerelda targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed,\

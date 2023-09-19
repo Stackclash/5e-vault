@@ -12,8 +12,8 @@ aliases: ["Hill Encounters (Levels 11—16)"]
 
 **Hill Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] or `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 02-04 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Fey/Green Hag.md\|green hags]] with `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Dragon/Wyvern.md\|wyverns]] |
 | 05-07 | 1 [[5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with 1 [[5. Mechanics/Bestiary/Giant/Hill Giant.md\|hill giant]] and `dice: 4d10\|avg` (`4d10`) [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |

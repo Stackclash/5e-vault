@@ -105,12 +105,12 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "desc": "The Dao makes two fist attacks or two maul attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 15 (dice: 2d8 + 6|avg (2d8 + 6)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) bludgeoning damage."
   "name": "Fist"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 20 (dice: 4d6 + 6|avg (4d6 + 6)) bludgeoning damage. If the target\
-    \ is a Huge or smaller creature, it must succeed on a DC 18 Strength check or\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 4d6 + 6|avg (4d6 + 6) bludgeoning damage. If the target is\
+    \ a Huge or smaller creature, it must succeed on a DC 18 Strength check or be\
+    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Maul"
 "source":
 - "MM"

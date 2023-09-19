@@ -77,11 +77,11 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - "desc": "The deva makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage plus 18 (dice:\
-    \ 4d8|avg (4d8)) radiant damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage plus dice: 4d8|avg\
+    \ (4d8) radiant damage."
   "name": "Mace"
-- "desc": "The deva touches another creature. The target magically regains 20 (dice:\
-    \ 4d8 + 2|avg (4d8 + 2)) hit points and is freed from any curse, disease, poison,\
+- "desc": "The deva touches another creature. The target magically regains dice:\
+    \ 4d8 + 2|avg (4d8 + 2) hit points and is freed from any curse, disease, poison,\
     \ blindness, or deafness."
   "name": "Healing Touch (3/Day)"
 - "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge\

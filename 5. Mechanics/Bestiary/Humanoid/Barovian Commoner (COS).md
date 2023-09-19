@@ -2,19 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
 aliases: ["Barovian Commoner"]
 ---
 # Barovian Commoner
-*Source: Curse of Strahd p. 29, Derived from Commoner (MM)*  
+*Source: Curse of Strahd p. 29, Derived from *  
 
 ```statblock
 "name": "Barovian Commoner"
@@ -38,14 +31,10 @@ aliases: ["Barovian Commoner"]
 "cr": "0"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
+    \ Hit: dice: 1d6|avg (1d6) piercing damage."
   "name": "Pitchfork"
 "source":
 - "CoS"
 "image": "compendium/bestiary/humanoid/token/barovian-commoner.png"
 ```
 ^statblock
-
-## Environment
-
-arctic, desert, coastal, grassland, hill, urban, forest

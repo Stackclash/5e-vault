@@ -62,10 +62,10 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
   "name": "Nilbogism"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
   "name": "Fool's Scepter"
 - "desc": "The nilbog targets one creature it can see within 60 feet of it. The target\
-    \ must succeed on a DC 12 Wisdom saving throw or take 5 (dice: 2d4|avg (2d4))\
+    \ must succeed on a DC 12 Wisdom saving throw or take dice: 2d4|avg (2d4)\
     \ psychic damage and have disadvantage on its next attack roll before the end\
     \ of its next turn."
   "name": "Mocking Word"
@@ -75,7 +75,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
   "name": "Nimble Escape"
 "reactions":
 - "desc": "In response to another creature dealing damage to the nilbog, the nilbog\
-    \ reduces the damage to 0 and regains 3 (dice: 1d6|avg (1d6)) hit points."
+    \ reduces the damage to 0 and regains dice: 1d6|avg (1d6) hit points."
   "name": "Reversal of Fortune"
 "source":
 - "MPMM"

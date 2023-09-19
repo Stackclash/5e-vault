@@ -64,12 +64,11 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 - "desc": "The roc makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: 27 (dice: 4d8 + 9|avg (4d8 + 9)) piercing damage."
+    \ Hit: dice: 4d8 + 9|avg (4d8 + 9) piercing damage."
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: 23 (dice: 4d6 + 9|avg (4d6 + 9)) slashing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 19). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ Hit: dice: 4d6 + 9|avg (4d6 + 9) slashing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the roc can't use its talons on another target."
   "name": "Talons"
 "source":

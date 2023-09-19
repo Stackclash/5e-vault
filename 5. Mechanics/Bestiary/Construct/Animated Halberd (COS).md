@@ -7,7 +7,7 @@ tags:
 aliases: ["Animated Halberd"]
 ---
 # Animated Halberd
-*Source: Curse of Strahd p. 59, Derived from Flying Sword (MM)*  
+*Source: Curse of Strahd p. 59, Derived from *  
 
 ```statblock
 "name": "Animated Halberd"
@@ -46,7 +46,7 @@ aliases: ["Animated Halberd"]
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d10 + 1|avg (1d10 + 1)) slashing damage."
+    \ Hit: dice: 1d10 + 1|avg (1d10 + 1) slashing damage."
   "name": "Halberd"
 "source":
 - "CoS"

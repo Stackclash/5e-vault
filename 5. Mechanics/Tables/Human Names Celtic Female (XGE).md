@@ -12,8 +12,8 @@ aliases: ["Human Names – Celtic, Female"]
 
 **Human Names – Celtic, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aife |
 | 03-04 | Aina |
 | 05-06 | Alane |

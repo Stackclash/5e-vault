@@ -12,8 +12,8 @@ aliases: ["Dragonborn Names – Clan"]
 
 **Dragonborn Names – Clan**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Akambherylliax |
 | 03-04 | Argenthrixus |
 | 05-06 | Baharoosh |

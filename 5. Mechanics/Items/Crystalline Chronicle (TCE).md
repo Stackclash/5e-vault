@@ -10,6 +10,7 @@ aliases: ["Crystalline Chronicle"]
 ---
 # Crystalline Chronicle
 *Wondrous Item, very rare (requires attunement by a wizard)*  
+![[5. Mechanics/Items/img/crystalline-chronicle.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

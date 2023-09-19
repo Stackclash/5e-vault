@@ -58,7 +58,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 "cr": "2"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

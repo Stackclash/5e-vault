@@ -18,6 +18,7 @@ aliases: ["Burning Hands"]
 ---
 # Burning Hands
 *1st-level, Evocation*  
+![[5. Mechanics/Spells/img/burning-hands.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** Self (15-feet cone)

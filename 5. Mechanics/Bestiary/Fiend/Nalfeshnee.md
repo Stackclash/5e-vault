@@ -151,14 +151,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -218,10 +218,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 32 (dice: 5d10 + 5|avg (5d10 + 5)) piercing damage."
+    \ Hit: dice: 5d10 + 5|avg (5d10 + 5) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) slashing damage."
+    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) slashing damage."
   "name": "Claw"
 - "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
     \ creature within 15 feet of the nalfeshnee that can see the light must succeed\

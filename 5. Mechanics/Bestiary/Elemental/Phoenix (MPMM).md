@@ -45,22 +45,22 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "cr": "16"
 "traits":
 - "desc": "If the phoenix dies, it explodes. Each creature in 60-foot-radius sphere\
-    \ centered on the phoenix must make a DC 20 Dexterity saving throw, taking 22\
-    \ (dice: 4d10|avg (4d10)) fire damage on a failed save, or half as much damage\
-    \ on a successful one. The fire ignites flammable objects in the area that aren't\
-    \ being worn or carried.\n\nThe explosion destroys the phoenix's body and leaves\
-    \ behind an egg-shaped cinder, which weighs 5 pounds. The cinder deals 21 (dice:\
-    \ 6d6|avg (6d6)) fire damage to any creature that touches it, though no more\
-    \ than once per round. The cinder is immune to all damage, and after dice: 1d6|avg\
-    \ (1d6) days, it hatches a new phoenix."
+    \ centered on the phoenix must make a DC 20 Dexterity saving throw, taking dice:\
+    \ 4d10|avg (4d10) fire damage on a failed save, or half as much damage on a\
+    \ successful one. The fire ignites flammable objects in the area that aren't being\
+    \ worn or carried.\n\nThe explosion destroys the phoenix's body and leaves behind\
+    \ an egg-shaped cinder, which weighs 5 pounds. The cinder deals dice: 6d6|avg\
+    \ (6d6) fire damage to any creature that touches it, though no more than once\
+    \ per round. The cinder is immune to all damage, and after dice: 1d6|avg (1d6)\
+    \ days, it hatches a new phoenix."
   "name": "Fiery Death and Rebirth"
 - "desc": "The phoenix can move through a space as narrow as 1 inch wide without squeezing.\n\
     \nAny creature that touches the phoenix or hits it with a melee attack while within\
-    \ 5 feet of it takes 5 (dice: 1d10|avg (1d10)) fire damage. In addition, the\
-    \ phoenix can enter a hostile creature's space and stop there. The first time\
-    \ it enters a creature's space on a turn, that creature takes 5 (dice: 1d10|avg\
-    \ (1d10)) fire damage.\n\nWith a touch, the phoenix can also ignite flammable\
-    \ objects that aren't worn or carried (no action required)."
+    \ 5 feet of it takes dice: 1d10|avg (1d10) fire damage. In addition, the phoenix\
+    \ can enter a hostile creature's space and stop there. The first time it enters\
+    \ a creature's space on a turn, that creature takes dice: 1d10|avg (1d10)\
+    \ fire damage.\n\nWith a touch, the phoenix can also ignite flammable objects\
+    \ that aren't worn or carried (no action required)."
   "name": "Fire Form"
 - "desc": "The phoenix doesn't provoke opportunity attacks when it flies out of an\
     \ enemy's reach."
@@ -76,10 +76,10 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 - "desc": "The phoenix makes two attacks: one Beak attack and one Fiery Talons attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: 15 (dice: 2d6 + 8|avg (2d6 + 8)) fire damage."
+    \ Hit: dice: 2d6 + 8|avg (2d6 + 8) fire damage."
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: 17 (dice: 2d8 + 8|avg (2d8 + 8)) fire damage."
+    \ Hit: dice: 2d8 + 8|avg (2d8 + 8) fire damage."
   "name": "Fiery Talons"
 "legendary_actions":
 - "desc": "The phoenix moves up to its speed."

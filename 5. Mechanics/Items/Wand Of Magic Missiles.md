@@ -10,6 +10,7 @@ aliases: ["Wand of Magic Missiles"]
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  
+![[5. Mechanics/Items/img/wand-of-magic-missiles.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

@@ -65,11 +65,11 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
   "name": "Gnome Cunning"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "War Pick"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ creature. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage, and the\
-    \ target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ creature. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target\
+    \ must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success"
   "name": "Poisoned Dart"

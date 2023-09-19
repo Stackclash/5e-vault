@@ -10,6 +10,7 @@ aliases: ["Horn of Blasting"]
 ---
 # Horn of Blasting
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/horn-of-blasting.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.

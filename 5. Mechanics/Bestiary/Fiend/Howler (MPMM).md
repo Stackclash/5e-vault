@@ -55,13 +55,13 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 - "desc": "The howler makes two Rending Bite attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage, plus 22 (dice:\
-    \ 4d10|avg (4d10)) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]].\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage, plus dice: 4d10|avg\
+    \ (4d10) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]].\
     \ This attack ignores damage resistance."
   "name": "Rending Bite"
 - "desc": "The howler emits a keening howl in a 60-foot cone. Each creature in that\
-    \ area must succeed on a DC 13 Wisdom saving throw or take 16 (dice: 3d10|avg\
-    \ (3d10)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ area must succeed on a DC 13 Wisdom saving throw or take dice: 3d10|avg (3d10)\
+    \ psychic damage and be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of the howler's next turn. While a creature is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ in this way, its speed is halved, and it is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
     \ A target that successfully saves is immune to the Mind-Breaking Howl of all\

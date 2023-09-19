@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ai
 aliases: ["Repeating Shot"]
 ---
 # Repeating Shot
-*Source: Tasha's Cauldron of Everything p. 22* 
+*Source: Tasha's Cauldron of Everything p. 22*  
+
+***Prerequisites*** A simple or martial weapon with the ammunition property (requires attunement)
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
 

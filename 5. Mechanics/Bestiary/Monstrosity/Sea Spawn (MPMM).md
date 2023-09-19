@@ -53,19 +53,18 @@ Kraken priests (in this book) tend to the kraken's flock. Most of the priests ar
     \ attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) bludgeoning damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
   "name": "Unarmed Strike"
 - "desc": "The sea spawn uses one of the following options (choose one or roll a dice:\
     \ d6|avg (d6)):\n\n- 1–2 Bite. Melee Weapon Attack: dice: d20+4 (+4\
-    \ to hit), reach 5 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2))\
-    \ piercing damage.  \n- 3–4 Poison Quills. Melee Weapon Attack: dice: d20+4\
-    \ (+4 to hit), reach 5 ft., one creature. Hit: 3 (dice: 1d6|avg (1d6)) poison\
-    \ damage, and the target must succeed on a DC 12 Constitution saving throw or\
-    \ be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute. The target\
-    \ can repeat the saving throw at the end of each of its turns, ending the effect\
-    \ on itself on a success.  \n- 5–6 Tentacle. Melee Weapon Attack: dice:\
-    \ d20+4 (+4 to hit), reach 10 ft., one target. Hit: 5 (dice: 1d6 + 2|avg\
-    \ (1d6 + 2)) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ to hit), reach 5 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+    \ damage.  \n- 3–4 Poison Quills. Melee Weapon Attack: dice: d20+4 (+4\
+    \ to hit), reach 5 ft., one creature. Hit: dice: 1d6|avg (1d6) poison damage,\
+    \ and the target must succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
+    \ turns, ending the effect on itself on a success.  \n- 5–6 Tentacle. Melee\
+    \ Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one target. Hit:\
+    \ dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends,\
     \ the sea spawn can't use this tentacle on another target.  "
   "name": "Piscine Anatomy"

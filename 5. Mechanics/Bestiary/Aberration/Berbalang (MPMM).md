@@ -56,11 +56,11 @@ The knowledge that berbalangs accumulate makes them great sources of information
 - "desc": "The berbalang makes one Bite attack and one\n\nClaw attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage plus 4 (dice:\
-    \ 1d8|avg (1d8)) psychic damage."
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage plus dice: 1d8|avg\
+    \ (1d8) psychic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) slashing damage."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The berbalang creates one spectral duplicate of itself in an unoccupied\

@@ -12,8 +12,8 @@ aliases: ["Hill Encounters (Levels 1—4)"]
 
 **Hill Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Beast/Eagle.md\|eagle]] |
 | 02-03 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Baboon.md\|baboons]] |
 | 04-06 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |

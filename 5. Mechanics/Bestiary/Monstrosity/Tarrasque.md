@@ -67,21 +67,20 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
     \ tail. It can use its Swallow instead of its bite."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+19 (+19 to hit), reach 10 ft., one target.\
-    \ Hit: 36 (dice: 4d12 + 10|avg (4d12 + 10)) piercing damage. If the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ Hit: dice: 4d12 + 10|avg (4d12 + 10) piercing damage. If the target is\
+    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
     \ DC 20). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the tarrasque can't bite another target."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+19 (+19 to hit), reach 15 ft., one target.\
-    \ Hit: 28 (dice: 4d8 + 10|avg (4d8 + 10)) slashing damage."
+    \ Hit: dice: 4d8 + 10|avg (4d8 + 10) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+19 (+19 to hit), reach 10 ft., one target.\
-    \ Hit: 32 (dice: 4d10 + 10|avg (4d10 + 10)) piercing damage."
+    \ Hit: dice: 4d10 + 10|avg (4d10 + 10) piercing damage."
   "name": "Horns"
 - "desc": "Melee Weapon Attack: dice: d20+19 (+19 to hit), reach 20 ft., one target.\
-    \ Hit: 24 (dice: 4d6 + 10|avg (4d6 + 10)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 20 Strength saving throw or be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 4d6 + 10|avg (4d6 + 10) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 20 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Tail"
 - "desc": "Each creature of the tarrasque's choice within 120 feet of it and aware\
     \ of it must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -96,9 +95,9 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
     \ target is swallowed, and the grapple ends. While swallowed, the creature is\
     \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ it has total cover against attacks and other effects outside the tarrasque,\
-    \ and it takes 56 (dice: 16d6|avg (16d6)) acid damage at the start of each\
-    \ of the tarrasque's turns.\n\nIf the tarrasque takes 60 damage or more on a single\
-    \ turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution\
+    \ and it takes dice: 16d6|avg (16d6) acid damage at the start of each of the\
+    \ tarrasque's turns.\n\nIf the tarrasque takes 60 damage or more on a single turn\
+    \ from a creature inside it, the tarrasque must succeed on a DC 20 Constitution\
     \ saving throw at the end of that turn or regurgitate all swallowed creatures,\
     \ which fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in a space within\
     \ 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no\

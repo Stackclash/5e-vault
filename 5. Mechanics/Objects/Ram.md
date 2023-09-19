@@ -15,7 +15,6 @@ A ram consists of a movable gallery equipped with a heavy log suspended from two
 The log is shod in iron and used to batter through doors and barricades.
 
 It takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.
-
 ```ad-statblock
 title: Ram
 ![[5. Mechanics/Bestiary/Null/token/ram.png#token]]
@@ -33,6 +32,6 @@ title: Ram
 
 ## Actions
 
-***Ram.*** *Melee Weapon Attack:* ++8 to hit, reach 5 ft., one object. *Hit:* 16 (`dice: 3d10|avg` (`3d10`)) bludgeoning damage.
+***Ram.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one object. *Hit:* 16 (`dice: 3d10|avg` (`3d10`)) bludgeoning damage.
 ```
 ^statblock

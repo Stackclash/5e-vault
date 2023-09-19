@@ -8,6 +8,7 @@ aliases: ["Dragonborn"]
 ---
 # Dragonborn
 *Source: Player's Handbook p. 32. Available in the SRD.*  
+![[5. Mechanics/Races/img/dragonborn.png#right]]  
 
 - **Ability Scores**: Strength +2, Charisma +1
 - **Type**: race
@@ -87,7 +88,7 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 - **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
 - **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
-> [!quote] Draconians
+> [!note] Draconians
 > 
 > In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhis is in the War of the Lance-auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons they have unique magical abilities.
 ^draconians

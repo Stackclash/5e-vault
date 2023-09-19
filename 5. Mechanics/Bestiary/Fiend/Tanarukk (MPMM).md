@@ -54,10 +54,10 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 - "desc": "The tanarukk makes one Bite attack and one Greatsword attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
   "name": "Greatsword"
 "bonus_actions":
 - "desc": "The tanarukk moves up to its speed toward an enemy that it can see."

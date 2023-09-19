@@ -72,10 +72,10 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 - "desc": "The ettin makes two attacks: one with its battleaxe and one with its morningstar."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) slashing damage."
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
   "name": "Battleaxe"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) piercing damage."
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) piercing damage."
   "name": "Morningstar"
 "source":
 - "MM"

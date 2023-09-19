@@ -12,8 +12,8 @@ aliases: ["Arctic Encounters (Levels 5—10)"]
 
 **Arctic Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-05 | 2 [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|saber-toothed tigers]] |
 | 06-07 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md\|half-ogres]] |
 | 08-10 | `dice: 1d3 + 1\|avg` (`1d3 + 1`) [[5. Mechanics/Bestiary/Beast/Brown Bear.md\|brown bears]] |

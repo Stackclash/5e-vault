@@ -2,13 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
 aliases: ["Kasimir Velikov"]
 ---
 # Kasimir Velikov
-*Source: Curse of Strahd p. 233, Derived from Mage (MM)*  
+*Source: Curse of Strahd p. 233, Derived from *  
 
 ```statblock
 "name": "Kasimir Velikov"
@@ -65,7 +64,7 @@ aliases: ["Kasimir Velikov"]
   "name": "Special Equipment"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":
@@ -73,7 +72,3 @@ aliases: ["Kasimir Velikov"]
 "image": "compendium/bestiary/npc/token/kasimir-velikov.png"
 ```
 ^statblock
-
-## Environment
-
-urban

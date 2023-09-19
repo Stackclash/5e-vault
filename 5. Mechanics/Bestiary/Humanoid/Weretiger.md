@@ -33,7 +33,7 @@ A lycanthrope can either resist its curse or embrace it. By resisting the curse,
 
 Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
 
-> [!quote] Player Characters as Lycanthropes
+> [!note] Player Characters as Lycanthropes
 > 
 > A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.
 > 
@@ -97,18 +97,18 @@ Some individuals see little point in fighting the curse and accept what they are
     \ attacks. In hybrid form, it can attack like a humanoid or make two claw attacks."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) piercing damage. If the target\
-    \ is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed\
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) piercing damage. If the target is a\
+    \ humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed\
     \ with weretiger lycanthropy."
   "name": "Bite (Tiger or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage."
   "name": "Claw (Tiger or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Scimitar (Humanoid or Hybrid Form Only)"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Longbow (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"

@@ -61,15 +61,15 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - "desc": "The abishai makes one Bite attack, one Claw attack, and one Longsword attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) cold damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 1d6|avg\
+    \ (1d6) cold damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) slashing damage."
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) force damage, or 8 (dice: 1d10 +\
-    \ 3|avg (1d10 + 3)) force damage if used with two hands."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) force damage, or dice: 1d10 + 3|avg\
+    \ (1d10 + 3) force damage if used with two hands."
   "name": "Longsword"
 "reactions":
 - "desc": "In response to taking damage, the abishai makes one Bite attack against\

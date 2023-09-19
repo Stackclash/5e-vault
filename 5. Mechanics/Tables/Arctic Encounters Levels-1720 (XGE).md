@@ -12,8 +12,8 @@ aliases: ["Arctic Encounters (Levels 17—20)"]
 
 **Arctic Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | `dice: 2d10\|avg` (`2d10`) [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] |
 | 03-04 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
 | 05-06 | `dice: 2d10\|avg` (`2d10`) [[5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebears]] |

@@ -10,6 +10,7 @@ aliases: ["Manual of Clay Golems"]
 ---
 # Manual of Clay Golems
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/manual-of-clay-golems.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

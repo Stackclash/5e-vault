@@ -77,10 +77,10 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 - "desc": "Titivilus makes one Silver Sword attack, and he uses Frightful Word."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) force damage, or 9 (dice: 1d10 +\
-    \ 4|avg (1d10 + 4)) force damage if used with two hands, plus 16 (dice: 3d10|avg\
-    \ (3d10)) necrotic damage. If the target is a creature, its hit point maximum\
-    \ is reduced by an amount equal to half the necrotic damage taken."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) force damage, or dice: 1d10 + 4|avg\
+    \ (1d10 + 4) force damage if used with two hands, plus dice: 3d10|avg (3d10)\
+    \ necrotic damage. If the target is a creature, its hit point maximum is reduced\
+    \ by an amount equal to half the necrotic damage taken."
   "name": "Silver Sword"
 - "desc": "Titivilus targets one creature he can see within 10 feet of him. The target\
     \ must succeed on a DC 21 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

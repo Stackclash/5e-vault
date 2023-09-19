@@ -12,8 +12,8 @@ aliases: ["Human Names – Mesoamerican, Male"]
 
 **Human Names – Mesoamerican, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Achcauhtli |
 | 03-04 | Amoxtli |
 | 05-06 | Chicahua |

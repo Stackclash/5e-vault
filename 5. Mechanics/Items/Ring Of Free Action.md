@@ -11,6 +11,7 @@ aliases: ["Ring of Free Action"]
 ---
 # Ring of Free Action
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-free-action.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

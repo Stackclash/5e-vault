@@ -12,8 +12,8 @@ aliases: ["Coastal Encounters (Levels 11—16)"]
 
 **Coastal Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] (night only) |
 | 02-04 | 1 [[5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclops]] |
 | 05-08 | `dice: 1d6 + 2\|avg` (`1d6 + 2`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |

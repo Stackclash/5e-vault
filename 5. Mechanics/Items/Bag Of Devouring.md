@@ -10,6 +10,7 @@ aliases: ["Bag of Devouring"]
 ---
 # Bag of Devouring
 *Wondrous Item, minor, very rare*  
+![[5. Mechanics/Items/img/bag-of-devouring.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 15.0 lbs.

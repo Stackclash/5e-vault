@@ -117,8 +117,8 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
   "name": "Turn Resistance"
 "actions":
 - "desc": "Melee Spell Attack: dice: d20+12 (+12 to hit), reach 5 ft., one creature.\
-    \ Hit: 10 (dice: 3d6|avg (3d6)) cold damage. The target must succeed on\
-    \ a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
+    \ Hit: dice: 3d6|avg (3d6) cold damage. The target must succeed on a DC\
+    \ 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ for 1 minute. The target can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Paralyzing Touch"
@@ -136,8 +136,8 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
     \ it, the target is immune to the lich's gaze for the next 24 hours."
   "name": "Frightening Gaze (Costs 2 Actions)"
 - "desc": "Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution\
-    \ saving throw against this magic, taking 21 (dice: 6d6|avg (6d6)) necrotic\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ saving throw against this magic, taking dice: 6d6|avg (6d6) necrotic damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Disrupt Life (Costs 3 Actions)"
 "source":
 - "MM"

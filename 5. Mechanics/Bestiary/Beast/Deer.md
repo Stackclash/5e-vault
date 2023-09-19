@@ -32,7 +32,7 @@ aliases: ["Deer"]
 "cr": "0"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) piercing damage."
+    \ Hit: dice: 1d4|avg (1d4) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

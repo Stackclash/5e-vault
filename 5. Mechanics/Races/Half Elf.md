@@ -8,6 +8,7 @@ aliases: ["Half-Elf"]
 ---
 # Half-Elf
 *Source: Player's Handbook p. 38. Available in the SRD.*  
+![[5. Mechanics/Races/img/half-elf.png#right]]  
 
 - **Ability Scores**: Charisma +2, Apply +1 to 2 (distinct) of Strength, Dexterity, Constitution, Intelligence, Wisdom
 - **Type**: race
@@ -58,7 +59,7 @@ In most parts of the world, though, half-elves are uncommon enough that one migh
 
 Half-elves use either human or elven naming conventions. As if to emphasize that they don't really fit in to either society, half-elves raised among humans are often given elven names, and those raised among elves often take human names.
 
-> [!quote] Excellent Ambassadors
+> [!note] Excellent Ambassadors
 > 
 > Many half-elves learn at an early age to get along with everyone, defusing hostility and finding common ground. As a race, they have elves grace without elves aloofness and human energy without human boorishness. They often make excellent ambassadors and go-betweens (except between elves and humans, since each side suspects the half-elf of favoring the other).
 ^excellent-ambassadors

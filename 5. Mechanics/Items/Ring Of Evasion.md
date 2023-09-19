@@ -11,6 +11,7 @@ aliases: ["Ring of Evasion"]
 ---
 # Ring of Evasion
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-evasion.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

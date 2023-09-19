@@ -10,6 +10,7 @@ aliases: ["Helm of Comprehending Languages"]
 ---
 # Helm of Comprehending Languages
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/helm-of-comprehending-languages.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

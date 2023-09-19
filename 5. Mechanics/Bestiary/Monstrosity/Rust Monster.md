@@ -62,7 +62,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
   "name": "Rust Metal"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
+    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
   "name": "Bite"
 - "desc": "The rust monster corrodes a nonmagical ferrous metal object it can see\
     \ within 5 feet of it. If the object isn't being worn or carried, the touch destroys\

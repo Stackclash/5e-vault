@@ -85,7 +85,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 - "desc": "The horror can move through any opening at least 1 inch wide without squeezing."
   "name": "Amorphous (Malleable Mass Only)"
 - "desc": "Any creature that touches the horror or hits it with a melee attack takes\
-    \ 5 (dice: 1d10|avg (1d10)) acid damage."
+    \ dice: 1d10|avg (1d10) acid damage."
   "name": "Bile Body (Oozing Organs Only)"
 - "desc": "The horror can move through the space of another creature. The first time\
     \ on a turn that the horror enters a creature's space during this move, the creature\
@@ -95,12 +95,11 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 - "desc": "The horror makes two Limbs attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 21 (dice: 3d10 + 5|avg (3d10 + 5)) bludgeoning damage."
+    \ Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
   "name": "Limbs"
 - "desc": "The horror expels necrotic energy in a 30-foot cone. Each creature in that\
-    \ area must make a DC 15 Constitution saving throw, taking 45 (dice: 7d12|avg\
-    \ (7d12)) necrotic damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ area must make a DC 15 Constitution saving throw, taking dice: 7d12|avg (7d12)\
+    \ necrotic damage on a failed save, or half as much damage on a successful one."
   "name": "Hex Blast (Recharge 5-6)"
 "source":
 - "VRGR"

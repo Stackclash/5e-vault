@@ -67,10 +67,10 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) necrotic damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) necrotic damage."
   "name": "Deathly Claw"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3)) necrotic damage."
+    \ Hit: dice: 2d10 + 3|avg (2d10 + 3) necrotic damage."
   "name": "Grave Bolt"
 "source":
 - "MPMM"

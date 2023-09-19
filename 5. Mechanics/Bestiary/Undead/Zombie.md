@@ -69,7 +69,7 @@ A zombie doesn't require air, food, drink, or sleep.
   "name": "Undead Fortitude"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

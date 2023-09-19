@@ -11,7 +11,7 @@ aliases: ["Swarm of Rats"]
 # Swarm of Rats
 *Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
-> [!quote] The Nature of Swarms
+> [!note] The Nature of Swarms
 > 
 > The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night, while the very presence of a mummy lord can cause scarab beetles to boil up from the sand-filled depths of its tomb. A hag might have the power to turn swarms of ravens against her enemies, while a [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md|yuan-ti abomination]] might have [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarms of poisonous snakes]] slithering in its wake. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 ^the-nature-of-swarms
@@ -48,9 +48,9 @@ aliases: ["Swarm of Rats"]
   "name": "Swarm"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: 7 (dice: 2d6|avg (2d6)) piercing damage, or\
-    \ 3 (dice: 1d6|avg (1d6)) piercing damage if the swarm has half of its hit\
-    \ points or fewer."
+    \ in the swarm's space. Hit: dice: 2d6|avg (2d6) piercing damage, or dice:\
+    \ 1d6|avg (1d6) piercing damage if the swarm has half of its hit points or\
+    \ fewer."
   "name": "Bites"
 "source":
 - "MM"

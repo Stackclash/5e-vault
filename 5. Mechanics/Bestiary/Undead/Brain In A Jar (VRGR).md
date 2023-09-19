@@ -66,14 +66,14 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
   "name": "Unusual Nature"
 "actions":
 - "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one creature.\
-    \ Hit: 13 (dice: 3d8|avg (3d8)) necrotic damage, and the target can't regain\
+    \ Hit: dice: 3d8|avg (3d8) necrotic damage, and the target can't regain\
     \ hit points until the start of the brain's next turn. If the target is undead,\
     \ it also has disadvantage on attack rolls against the brain until the end of\
     \ the brain's next turn."
   "name": "Chill Touch (Cantrip)"
 - "desc": "The brain magically emits psychic energy in a 60-foot cone. Each creature\
-    \ in that area must succeed on a DC 14 Intelligence saving throw or take 17 (dice:\
-    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ in that area must succeed on a DC 14 Intelligence saving throw or take dice:\
+    \ 3d8 + 4|avg (3d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

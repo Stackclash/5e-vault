@@ -69,10 +69,10 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
   "name": "Mimicry"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

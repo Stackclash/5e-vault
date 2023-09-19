@@ -51,14 +51,14 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 - "desc": "The balhannoth makes one Bite attack and two Tentacle attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 19 (dice: 3d10 + 3|avg (3d10 + 3)) piercing damage."
+    \ Hit: dice: 3d10 + 3|avg (3d10 + 3) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) and is\
-    \ moved up to 5 feet toward the balhannoth. Until this grapple ends, the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the balhannoth\
-    \ can't use this tentacle against other targets. The balhannoth has four tentacles."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15) and is moved\
+    \ up to 5 feet toward the balhannoth. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ and the balhannoth can't use this tentacle against other targets. The balhannoth\
+    \ has four tentacles."
   "name": "Tentacle"
 "legendary_actions":
 - "desc": "The balhannoth makes one Bite attack against one creature it has [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]."

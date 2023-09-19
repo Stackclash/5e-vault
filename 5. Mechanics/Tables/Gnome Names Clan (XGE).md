@@ -12,8 +12,8 @@ aliases: ["Gnome Names – Clan"]
 
 **Gnome Names – Clan**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Albaratie |
 | 03-04 | Bafflestone |
 | 05-06 | Beren |

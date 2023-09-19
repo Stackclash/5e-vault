@@ -11,6 +11,7 @@ aliases: ["Cloak of Elvenkind"]
 ---
 # Cloak of Elvenkind
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/cloak-of-elvenkind.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -84,7 +84,7 @@ A flameskull doesn't require air, food, drink, or sleep
 - "desc": "The flameskull uses Fire Ray twice."
   "name": "Multiattack"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 30 ft., one target.\
-    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage."
+    \ Hit: dice: 3d6|avg (3d6) fire damage."
   "name": "Fire Ray"
 "source":
 - "MM"

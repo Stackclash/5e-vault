@@ -10,6 +10,7 @@ aliases: ["Dimensional Shackles"]
 ---
 # Dimensional Shackles
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/dimensional-shackles.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

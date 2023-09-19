@@ -47,7 +47,7 @@ Somewhere in the brimstone wastes of Gehenna, there roams an ultroloth so strong
 
 Whatever the case, no fiend finds the General unless the General desires it. His personal name is unknown, and even the Books of Keeping contain no mention of this powerful, thoroughly evil entity.
 
-> [!quote] Variant: Yugoloth Summoning
+> [!note] Variant: Yugoloth Summoning
 > 
 > Some yugoloths can have an action option that allows them to summon other yugoloths.
 > 
@@ -114,8 +114,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - "desc": "The ultroloth can use its Hypnotic Gaze and makes three melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
-    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+    \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one creature\
     \ it can see within 30 feet of it. If the target can see the ultroloth, the target\

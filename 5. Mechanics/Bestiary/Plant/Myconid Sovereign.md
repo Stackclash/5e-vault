@@ -54,8 +54,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     \ then makes a fist attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 3d4 + 1|avg (3d4 + 1)) bludgeoning damage plus 7 (dice:\
-    \ 3d4|avg (3d4)) poison damage."
+    \ Hit: dice: 3d4 + 1|avg (3d4 + 1) bludgeoning damage plus dice: 3d4|avg\
+    \ (3d4) poison damage."
   "name": "Fist"
 - "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
     \ within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse\

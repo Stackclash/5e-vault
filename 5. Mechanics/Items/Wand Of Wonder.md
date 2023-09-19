@@ -11,6 +11,7 @@ aliases: ["Wand of Wonder"]
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  
+![[5. Mechanics/Items/img/wand-of-wonder.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤
@@ -24,8 +25,8 @@ If an effect covers an area, you must center the spell on and include the target
 
 The wand regains `dice: 1d6 + 1|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice: d20|avg` (`d20`). On a 1, the wand crumbles into dust and is destroyed.
 
-| `dice: d100\|avg` (`d100`) | Effect |
-|-------------|--------------|--------|
+| dice: d100 | Effect |
+|------------|--------|
 | 01-05 | You cast [[5. Mechanics/Spells/Slow.md\|slow]]. |
 | 06-10 | You cast [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]]. |
 | 11-15 | You are [[/5. Mechanics/Rules/Conditions.md#stunned\|stunned]] until the start of your next turn, believing something awesome just happened. |
@@ -48,6 +49,6 @@ The wand regains `dice: 1d6 + 1|avg` (`1d6 + 1`) expended charges daily at dawn.
 | 91-95 | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 | 96-97 | The target's skin turns bright blue for `dice: 1d10\|avg` (`1d10`) days. If you chose a point in space, the creature nearest to that point is affected. |
 | 98-00 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]]. On any other failed save, the target is [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] and begins to turn to stone. While [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]] in this way, the target must repeat the saving throw at the end of its next turn, becoming [[/5. Mechanics/Rules/Conditions.md#petrified\|petrified]] on a failure or ending the effect on a success. The petrification lasts until the target is freed by the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. |
-^dice-avg-effect
+^effect
 
 *Source: Dungeon Master's Guide p. 212. Available in the SRD.*

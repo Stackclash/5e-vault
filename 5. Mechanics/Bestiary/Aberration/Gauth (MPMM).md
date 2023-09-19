@@ -57,13 +57,13 @@ A [[5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away 
     \ must immediately make the save."
   "name": "Stunning Gaze"
 - "desc": "When the gauth dies, the magical energy within it explodes, and each creature\
-    \ within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (dice:\
-    \ 3d8|avg (3d8)) force damage on a failed save, or half as much damage on a\
+    \ within 10 feet of it must make a DC 14 Dexterity saving throw, taking dice:\
+    \ 3d8|avg (3d8) force damage on a failed save, or half as much damage on a\
     \ successful one."
   "name": "Death Throes"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d8|avg (2d8)) piercing damage."
+    \ Hit: dice: 2d8|avg (2d8) piercing damage."
   "name": "Bite"
 - "desc": "The gauth shoots three of the following magical eye rays at random (roll\
     \ three dice: d6|avg (d6)s, and reroll duplicates), targeting one to three\
@@ -73,16 +73,16 @@ A [[5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away 
     \ If the object is a charged item, it also loses dice: 1d4|avg (1d4) charges.\
     \ Determine the affected item randomly, ignoring single-use items such as potions\
     \ and scrolls.  \n- 2 Enervation Ray. The target must make a DC 14 Constitution\
-    \ saving throw, taking 18 (dice: 4d8|avg (4d8)) necrotic damage on a failed\
-    \ save, or half as much damage on a successful one.  \n- 3 Fire Ray. The target\
-    \ must succeed on a DC 14 Dexterity saving throw or take 22 (dice: 4d10|avg\
-    \ (4d10)) fire damage.  \n- 4 Paralyzing Ray. The target must succeed on\
-    \ a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success.  \n- 5 Pushing Ray. The\
-    \ target must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet\
-    \ away from the gauth and have its speed halved until the start of the gauth's\
-    \ next turn.  \n- 6 Sleep Ray. The target must succeed on a DC 14 Wisdom saving\
+    \ saving throw, taking dice: 4d8|avg (4d8) necrotic damage on a failed save,\
+    \ or half as much damage on a successful one.  \n- 3 Fire Ray. The target\
+    \ must succeed on a DC 14 Dexterity saving throw or take dice: 4d10|avg (4d10)\
+    \ fire damage.  \n- 4 Paralyzing Ray. The target must succeed on a DC 14 Constitution\
+    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for\
+    \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
+    \ ending the effect on itself on a success.  \n- 5 Pushing Ray. The target\
+    \ must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away\
+    \ from the gauth and have its speed halved until the start of the gauth's next\
+    \ turn.  \n- 6 Sleep Ray. The target must succeed on a DC 14 Wisdom saving\
     \ throw or fall asleep and remain [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for 1 minute. The target awakens if it takes damage or another creature takes\
     \ an action to wake it. This ray has no effect on Constructs and Undead.  "

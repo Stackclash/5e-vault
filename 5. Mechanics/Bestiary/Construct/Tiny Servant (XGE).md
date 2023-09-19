@@ -32,7 +32,7 @@ aliases: ["Tiny Servant"]
 "languages": ""
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
   "name": "Slam"
 "source":
 - "XGE"

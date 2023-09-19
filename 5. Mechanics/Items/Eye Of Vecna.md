@@ -10,6 +10,7 @@ aliases: ["Eye of Vecna"]
 ---
 # Eye of Vecna
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/eye-of-vecna.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

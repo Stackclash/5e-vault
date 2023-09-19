@@ -47,7 +47,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "cr": "20"
 "traits":
 - "desc": "Any creature that starts its turn within 30 feet of the nightwalker must\
-    \ succeed on a DC 21 Constitution saving throw or take 21 (dice: 6d6|avg (6d6))\
+    \ succeed on a DC 21 Constitution saving throw or take dice: 6d6|avg (6d6)\
     \ necrotic damage. Undead are immune to this aura."
   "name": "Annihilating Aura"
 - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
@@ -60,15 +60,15 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
     \ replaced by Finger of Doom, if available."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 15 ft., one target.\
-    \ Hit: 28 (dice: 5d8 + 6|avg (5d8 + 6)) necrotic damage. The target must\
-    \ succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced\
-    \ by an amount equal to the necrotic damage taken. This reduction lasts until\
-    \ the target finishes a long rest. The target dies if its hit point maximum is\
-    \ reduced to 0."
+    \ Hit: dice: 5d8 + 6|avg (5d8 + 6) necrotic damage. The target must succeed\
+    \ on a DC 21 Constitution saving throw or its hit point maximum is reduced by\
+    \ an amount equal to the necrotic damage taken. This reduction lasts until the\
+    \ target finishes a long rest. The target dies if its hit point maximum is reduced\
+    \ to 0."
   "name": "Enervating Focus"
 - "desc": "The nightwalker points at one creature it can see within 300 feet of it.\
-    \ The target must succeed on a DC 21 Wisdom saving throw or take 39 (dice: 6d12|avg\
-    \ (6d12)) necrotic damage and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ The target must succeed on a DC 21 Wisdom saving throw or take dice: 6d12|avg\
+    \ (6d12) necrotic damage and become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ until the end of the nightwalker's next turn. While [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ in this way, the creature is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]].\
     \ If a target's saving throw is successful, the target is immune to the nightwalker's\

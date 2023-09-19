@@ -11,6 +11,7 @@ aliases: ["Rod of Resurrection"]
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  
+![[5. Mechanics/Items/img/rod-of-resurrection.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

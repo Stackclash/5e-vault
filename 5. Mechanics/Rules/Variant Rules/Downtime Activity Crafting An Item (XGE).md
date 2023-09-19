@@ -8,11 +8,9 @@ aliases: ["Downtime Activity: Crafting an Item"]
 # Downtime Activity: Crafting an Item
 *Source: Xanathar's Guide to Everything p. 128* 
 
-## Downtime Activity: Crafting an Item
-
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
 
-### Resources and Resolution
+## Resources and Resolution
 
 In addition to the appropriate tools for the item to be crafted, a character needs raw materials worth half of the item's selling cost. To determine how many workweeks it takes to create an item, divide its gold piece cost by 50. A character can complete multiple items in a workweek if the items' combined cost is 50 gp or lower. Items that cost more than 50 gp can be completed over longer periods of time, as long as the work in progress is stored in a safe location.
 
@@ -30,7 +28,7 @@ A character needs to be proficient with the tools needed to craft an item and ha
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
 
-### Crafting Magic Items
+## Crafting Magic Items
 
 Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
@@ -74,13 +72,13 @@ To complete a magic item, a character also needs whatever tool proficiency is ap
 
 If all the above requirements are met, the result of the process is a magic item of the desired sort.
 
-### Complications
+## Complications
 
 Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10% chance chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
 ![[5. Mechanics/Tables/Crafting Complications (XGE).md\|Crafting Complications]]
 
-### Brewing Potions of Healing
+## Brewing Potions of Healing
 
 Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] can create these potions. The times and costs for doing so are summarized on the [[5. Mechanics/Items/Potion Of Healing.md\|Potion of Healing]] Creation table.
 

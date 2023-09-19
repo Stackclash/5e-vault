@@ -11,6 +11,7 @@ aliases: ["Candle of Invocation"]
 ---
 # Candle of Invocation
 *Wondrous Item, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/candle-of-invocation.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤
@@ -18,8 +19,8 @@ aliases: ["Candle of Invocation"]
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell. The DM chooses the god and associated alignment or determines the alignment randomly.
 
-| `dice: d20\|avg` (`d20`) | Alignment |
-|------------|-------------|-----------|
+| dice: d20 | Alignment |
+|-----------|-----------|
 | 1-2 | Chaotic evil |
 | 3-4 | Chaotic neutral |
 | 5-7 | Chaotic good |
@@ -29,7 +30,7 @@ This slender taper is dedicated to a deity and shares that deity's alignment. Th
 | 14-15 | Lawful evil |
 | 16-17 | Lawful neutral |
 | 18-20 | Lawful good |
-^dice-avg-alignment
+^alignment
 
 The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 

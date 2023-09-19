@@ -10,6 +10,7 @@ aliases: ["Orb of Dragonkind"]
 ---
 # Orb of Dragonkind
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/orb-of-dragonkind.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

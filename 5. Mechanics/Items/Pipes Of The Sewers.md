@@ -11,6 +11,7 @@ aliases: ["Pipes of the Sewers"]
 ---
 # Pipes of the Sewers
 *Instrument, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/pipes-of-the-sewers.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

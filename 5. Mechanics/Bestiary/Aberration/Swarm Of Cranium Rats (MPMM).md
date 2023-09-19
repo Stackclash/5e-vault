@@ -55,9 +55,9 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   "name": "Telepathic Shroud"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: 14 (dice: 4d6|avg (4d6)) piercing damage, or\
-    \ 7 (dice: 2d6|avg (2d6)) piercing damage if the swarm has half of its hit\
-    \ points or fewer, plus 22 (dice: 5d8|avg (5d8)) psychic damage."
+    \ in the swarm's space. Hit: dice: 4d6|avg (4d6) piercing damage, or dice:\
+    \ 2d6|avg (2d6) piercing damage if the swarm has half of its hit points or\
+    \ fewer, plus dice: 5d8|avg (5d8) psychic damage."
   "name": "Bites"
 "bonus_actions":
 - "desc": "The swarm sheds dim light from its brains in a 5-foot radius, increases\

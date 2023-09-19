@@ -116,7 +116,7 @@ In many domains, locals maintain chilly relationships with aloof deities, knowin
 
 One noteworthy exception to this is the worship of the god Ezra, which has its origins in the Mists (see the "Ezra, God of the Mists" sidebar). For your adventures, you define what deities are worshiped in a domain and whether those deities are actual gods, manifestations of the Dark Powers, or one masquerading as the other.
 
-> [!quote] Ezra, God of the Mists
+> [!note] Ezra, God of the Mists
 > 
 > The denizens of several domains worship an aloof god known as Ezra. Depicted as a vague, vaporous figure, the god is known for her dark, billowing hair and for her ability to manipulate the Mists. Her holy symbol is a sprig of belladonna atop a silver kite shield. Beyond that, her disparate sects of worshipers view her differently—and contradictorily. For some, Ezra is a goodly guardian, while others perceive her as a soul-stealing embodiment of the Mists. Ultimately, though, her true nature is a mystery. Whether she's a manifestation of the Dark Powers, an aspect of the Plane of Shadow's mysterious Raven Queen, or something else entirely is for you to decide. Whatever the case, Ezra's followers, traditions, alignment, and the domains she grants her clerics vary widely. Collaborate with players who want to create characters devoted to Ezra to define the god's role in their domain of origin.
 ^ezra-god-of-the-mists
@@ -186,7 +186,7 @@ Those familiar with Barovia know the following facts:
 - Vistani bands passing through Barovia are under the protection of the count. This protection stems from a past kindness the Vistani showed the count and from his long association with the fortune-teller Madam Eva. (See ""Travelers in the Mists"" at the end of this chapter for details on the Vistani.)  
 - The stories of Barovia's people are full of hidden evils: treacherous witches, secretive cults, portentous ravens, vicious werewolves, and worse.  
 
-> [!quote] Barovian Characters
+> [!note] Barovian Characters
 > 
 > A diverse populace dwells in Barovia, their ancestors drawn from lands long ago conquered by Count von Zarovich. The people favor dressing in muted but functional clothes, have a wide range of skin and hair colors, and often have names inspired by Slavic peoples. When players create characters from Barovia, ask them the following questions.
 > 
@@ -554,7 +554,7 @@ Those familiar with Borca know the following facts:
 - The common folk live in rural villages that serve noble interests or in crowded cities. Most either avoid entanglements with powerful but fickle nobles or desperately court their favor.  
 - Culture and prestige in Borca reach their height in the fabulous city of Levkarest. At its heart rises the Great Cathedral of the god Ezra.  
 
-> [!quote] Borcan Characters
+> [!note] Borcan Characters
 > 
 > Characters from Borca might be members of a decadent noble family or struggling peasants. In either case, much of the populace possesses dark hair and varied skin tones with cool undertones. Names often take inspiration from German, Slavic, and more fantastical conventions. When players create characters from Borca, consider asking them the following questions.
 > 
@@ -611,7 +611,7 @@ Among the most decadent noble holdings is Misericordia, the Boritsi estate. Situ
 | Tatenna | Fulchighora |
 ^noble-families-and-estates
 
-> [!quote] Domain with Two Darklords
+> [!note] Domain with Two Darklords
 > 
 > Ivana Boritsi and Ivan Dilisnya are coequal rulers of Borca. As they both committed depraved crimes in the same land at the same time, the Dark Powers gathered them both into the Domains of Dread. Generally, though, Ivana and Ivan have little to do with one another. Their homes occupy opposite ends of the domain, and their interests rarely overlap—that is, until suitably intriguing characters arrive.
 > 
@@ -861,7 +861,7 @@ Those familiar with the Carnival know the following facts:
 - Merchants unaffiliated with the Carnival follow its travels and set up shop alongside it. Known as the Litwick Market, this collection of tents and booths is filled with strange vendors and stranger goods.  
 - Those seeking an escape from a place or their current lives can join the Carnival. As long as travelers are willing to work and contribute to the community, they're welcome to stay as long as they like.  
 
-> [!quote] Carnival Characters
+> [!note] Carnival Characters
 > 
 > When players create characters from the Carnival, consider asking them the following questions.
 > 
@@ -909,7 +909,7 @@ The Carnival doesn't travel alone. Wherever it goes, fey creatures chase after i
 
 #### Isolde
 
-![[Isolde](compendium/bestia...](compendium/books/van-richtens-guide-to-ravenloft/img/051-03-010-isolde-with-the-sword-nepenthe.png#center "[[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] with the sword Nepenthe")
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/051-03-010-isolde-with-the-sword-nepenthe.png#center\|Isolde with the sword Nepenthe]]
 
 [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] and her companions had slain. Rather than be angry at [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]]'s companions, leaving [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] alone, bitter, and vulnerable. The insidious archfey then befriended [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] and offered to help her forget her terrible losses. [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] and quelled her thirst for vengeance.
 
@@ -1011,7 +1011,7 @@ Those familiar with Darkon know the following facts:
 - The Kargat, the nation's secret police, is particularly active in Darkon's largest cities: Martira Bay and Il Aluk.  
 - The night after any Humanoid dies, its corpse rises as a mindless Undead that shambles into the night. Locals swiftly burn bodies to prevent this.  
 
-> [!quote] Darkonian Characters
+> [!note] Darkonian Characters
 > 
 > Darkon boasts particularly varied human and nonhuman populations. While diverse groups of humans dwell in the domain's cities, there are several communities where nonhumans are in the majority, including the dwarves and orcs of Tempe Falls, the elves of Neblus and Nevuchar Springs, the gnomes and halflings of Mayvin, and the dragonborn and drow of Vradlock. People of any sort might find a home somewhere in Darkon. When players create characters from Darkon, consider asking them the following questions.
 > 
@@ -1106,7 +1106,7 @@ On the night of each new moon, Madame Eris hosts a private event, gathering her 
 
 Madame Eris is a human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]. Her body is permanently [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], but her cosmetics and clothing aren't. It takes her at least 10 minutes and copious cosmetics to create a visible form. She dresses in a fashion typical of her desired appearance or of a fictitious family member.
 
-> [!quote] Who Is Azalin Rex?
+> [!note] Who Is Azalin Rex?
 > 
 > In life, Azalin was an arrogant wizard-tyrant who murdered his brother, executed his son, and embroiled his nation in unending war. The Mists claimed him and he emerged in Barovia. When the locals asked him who he was, he responded "*azal'Lan*," meaning "wizard-king" in his native language.
 > 
@@ -1141,7 +1141,7 @@ When Azalin Rex disappeared during the Hour of Ascension, Darkon lost its Darklo
 | 4 | Azalin escaped into his past or drew multiple versions of himself into the present. |
 ^azalins-fate
 
-> [!quote] The Shroud
+> [!note] The Shroud
 > 
 > During the day, the Mists surrounding Darkon can be traversed as normal, allowing creatures to travel between domains or regions of Darkon itself. At night, though, the Mists surrounding the domain turn deadly and encroach on the land—sometimes by infinitesimal degrees, other times in unstoppable floods. The fates of those claimed by these surges is a mystery. If a character experiments with the Shroud, a taste of this threat can take the form of damage, stress (see "[[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]]" in "chapter 4"), or a glimpse of the deadly forces lurking beyond. Don't outright slay characters who encounter the Shroud, but make sure the experience reinforces the threat to all of Darkon.
 ^the-shroud
@@ -1197,7 +1197,7 @@ Everyone in Dementlieu sweats to get by, but admitting to reality means social r
 
 Anyone who lets the mask slip meets a grisly end. When an "aristocrat" at the duchess's masquerade loses a button from a fraying coat, the duchess pronounces the impostor's doom and the unmasked pretender crumbles to dust. When a struggling merchant fails to keep up appearances, the resulting fall is less public but no less final. Left with no home and no livelihood, these wretches inevitably fall prey to the Red Death. This mysterious spirit haunts the poorest parts of town and drains every glimmer of life from its victims—and is embodied by Duchess Saidra.
 
-> [!quote] Dementlieuse Characters
+> [!note] Dementlieuse Characters
 > 
 > Characters from Dementlieu come from a vast array of origins and have widely varied appearances. Dapper orcs and down-on-their-luck drow would be equally at home in this fairytale domain. The naming conventions often take broad inspiration from the French language. When players create characters from Dementlieu, ask them the following questions.
 > 
@@ -1383,7 +1383,7 @@ Use the Grand Masquerade Complications table to arbitrarily introduce a new elem
 
 If the duchess unmasks someone at the ball, read this text to the players to describe what happens (unless they intervene):
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > "You!"
 > 
@@ -1411,7 +1411,7 @@ Every month a new zombie legion issues from the Mists. Never emerging from the s
 
 In the aftermath of an attack, the Falkovnians burn their dead, repair what they can, and whisper that now might be the time to flee. Invariably, though, someone speaks too loudly and a so-called traitor is impaled upon Lekar's walls. The people might want to abandon their homes, but Vladeska Drakov will not know defeat.
 
-> [!quote] Falkovnian Characters
+> [!note] Falkovnian Characters
 > 
 > Characters from Falkovnia have good reason to be in other domains, having fled their homeland's zombie plague. Such individuals have likely seen horrors and know tragedy. Falkovnia's residents often have brown hair and varied skin tones with warm undertones. Their names are broadly inspired by the German language. When players create characters from Falkovnia, consider asking them the following questions.
 > 
@@ -1571,8 +1571,8 @@ As the battle reaches what you determine to be the halfway point, start rolling 
 
 **Zombie Siege Encounters**
 
-| dice: d6s | Encounter |
-|-----------|-----------|
+| 1d6;2d6 | Encounter |
+|---------|-----------|
 | 1 | Zombies rip apart a soldier, causing those nearby to freeze or flee. |
 | 2 | Commoners flee the battle. A Talon attacks them, killing deserters to deter further flight. |
 | 3 | A Talon messenger, bearing orders from General Drakov, struggles to reach a besieged gate. |
@@ -1633,7 +1633,7 @@ Those familiar with Har'Akir know the following facts:
 - Akirran death rituals call for removing the heart, draining the body of blood, and wrapping the remains in linen. These methods preserve the body so the pharaoh might call it to service. It is a crime to burn the dead.  
 - Akirrans value music, and many locals are accomplished singers or proficient in playing the reed pipe, goblet drum, or arched harp.  
 
-> [!quote] Akirran Characters
+> [!note] Akirran Characters
 > 
 > Characters from Har'Akir claim descent from an ancient culture and have survived in an extreme environment. Most of the land's people have dark hair and a variety of warm skin tones favoring golden to deep brown and black shades, and names with Egyptian inspirations. When players create characters from Har'Akir, consider asking them the following questions.
 > 
@@ -1863,7 +1863,7 @@ Those familiar with Hazlan know the following facts:
 - The visible effects of magical disasters disfigure the domain, from rivers poisoned by alchemical runoff to craters caused by magical explosions.  
 - Creatures warped by magical experiments infest the domain, including magic-hungry [[5. Mechanics/Bestiary/Monstrosity/Gremishka (VRGR).md\|gremishkas]] (see "chapter 5") and ravenous [[5. Mechanics/Bestiary/Monstrosity/Purple Worm.md\|purple worms]].  
 
-> [!quote] Hazlani Characters
+> [!note] Hazlani Characters
 > 
 > Characters from Hazlan have been exposed to strange magic all their lives. People of all descriptions and races hail from the domain, perhaps living in small communities or having been created by magic. When players create characters from Hazlan, consider asking them the following questions.
 > 
@@ -2037,7 +2037,7 @@ Every twilight, Tsien Chiang climbs the spirit-infested Ping'On Tower and tolls 
 
 Any whom the Mists carry to I'Cath or who wake from Tsien Chiang's dream find themselves in a gray, haunted, ever-changing city where food is scarce and jiangshi hunt the living. With twilight comes a terrible choice: endure the uncertain terrors of the waking world or succumb to endless servitude in sleep.
 
-> [!quote] I'cathan Characters
+> [!note] I'cathan Characters
 > 
 > Characters from I'Cath have known wonder and want, and often have remarkable stories about how they left their homeland's dual realities. The domain's residents tend to have dark hair and a range of sandy skin tones. Their names might take inspiration from Chinese names. When players create characters from I'Cath, consider asking them the following questions.
 > 
@@ -2231,7 +2231,7 @@ Kalakeri is a deceptively beautiful land of verdant rain forests and an idyllic 
 
 The people of Kalakeri live in dread, as a single misstep means doom. Schemers and hapless citizens alike are tossed by the tidal forces of the royal family. Following her betrayal and assassination, Maharani Ramya was restored to the world to avenge herself against her treacherous siblings, Arijani and Reeva. Ramya's curse manifests in both her deathless rage and in the monstrous forms afflicting her siblings. Both sides continue to escalate their atrocities against one another, drawing the powerful and the innocent alike into their squabbles. As Arijani and Reeva host murderous galas to entice fiendish allies, the forces of the Darklord search out and execute anyone they consider treasonous, adding their skulls to Ramya's ever-growing Tower of Traitors.
 
-> [!quote] Kalakeri Characters
+> [!note] Kalakeri Characters
 > 
 > Characters from Kalakeri hail from a rich, wondrous land tainted by suspicion. They are typically dark-haired, dark-eyed, brown-skinned people with Indian- inspired names. When players create characters from Kalakeri, consider asking them the following questions.
 > 
@@ -2488,7 +2488,7 @@ To outsiders, life feels staged and surreal in Kartakass, as every plant and bea
 
 In Kartakass, individuals strive for glory. Where talent and expertise fail, obsession and duplicity reign, leading to repeating cycles of triumph, betrayal, and despair. Predators of all sorts flourish in this land of consuming passions and vicious secrets. With each full moon, the truth of Kartakass is exposed, and lycanthropes reveal their hunger for dominance and for blood.
 
-> [!quote] Kartakan Characters
+> [!note] Kartakan Characters
 > 
 > Characters from Kartakass are quick to smile—and quicker to be suspicious of others' smiling faces. The domain's population is comprised of a variety of peoples who have broad ranges of rich skin and hair colors. The use of dyes and cosmetics to accent one's features and memorability is common among all genders. When players create characters from Kartakass, consider asking them the following questions.
 > 
@@ -2665,7 +2665,7 @@ Those familiar with Lamordia know these facts:
 - The reclusive genius Dr. Viktra Mordenheim created or inspired Ludendorf's greatest innovations.  
 - Few voluntarily trek into Lamordia's wilderness, fearing freak blizzards, starving beasts, and creatures warped by strange radiation.  
 
-> [!quote] Lamordian Characters
+> [!note] Lamordian Characters
 > 
 > Characters from Lamordia are typically direct, skeptical of superstition, and inured to cold. Humans and gnomes are the domain's primary residents, with white hair and skin, often tinged blue or gray, being common. German conventions inspire many names in the region. When players create characters from Lamordia, consider asking them the following questions.
 > 
@@ -2798,7 +2798,7 @@ Dr. Mordenheim's supposed beloved and greatest achievement, [[5. Mechanics/Besti
 
 The Unbreakable Heart is a nonmagical scientific wonder that replaces a creature's heart. The device installs itself, connecting to a creature's anatomy and stitching itself into place if positioned in a cavity where the creature's heart used to be. A creature with the device inside them is immune to disease, ceases to age, and does not die of old age, though they can still die in other ways. The glowing device sheds light in a 10-foot radius and dim light for an additional 10 feet. While inside a creature, the device causes the creature to shed dim light in a 10-foot radius.
 
-![Within [Elise](compendium/...](compendium/books/van-richtens-guide-to-ravenloft/img/083-03-025-dr-mordenheim.png#center "Within [[5. Mechanics/Bestiary/Npc/Elise (VRGR).md\|Elise]]'s undying body beats Dr. Mordenheim's greatest creation: the Unbreakable Heart")
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/083-03-025-dr-mordenheim.png#center\|"Within Elise's undying body beats Dr. Mordenheim's greatest creation: the Unbreakable Heart"]]
 
 #### Re-created by the Doctor
 
@@ -2861,7 +2861,7 @@ Those familiar with Mordent know the following facts:
 - The House on Gryphon Hill is the most famous haunted house in Mordent, known to be occupied by the spirit of Lord Wilfred Godefroy—an evil man who murdered his wife and daughter.  
 - The proximity of the spirit realm spurs local eccentrics to investigate spiritualism and the nature of the soul.  
 
-> [!quote] Mordentish Characters
+> [!note] Mordentish Characters
 > 
 > Characters from Mordent are typically earnest and practical. Humans are the domain's primary residents. Locals have varied hair colors and a range of skin tones from black to pink, often with reddish undertones. Celtic and English conventions inspire many names in the region. When players create characters from Mordent, consider asking them the following questions.
 > 
@@ -2941,7 +2941,7 @@ Lord Godefroy is an abyss of grief and rage, tormented by the following circumst
 - Godefroy's family still haunts the House on Gryphon Hill. Although he wishes for their love, he avoids the floor of the house where they dwell, resenting their rightful condemnation.  
 - Godefroy is convinced the Apparatus is the key to escaping his undead existence. However, he can't grasp even its basic workings and is frustrated by every delay and malfunction related to the device.  
 
-> [!quote] Foundations of Horror
+> [!note] Foundations of Horror
 > 
 > Three years after the 1983 release of the adventure *Ravenloft*, the sequel adventure, *Ravenloft II: The House on Gryphon Hill*, debuted. The adventure pulled back the Mists on the domain of Mordent, a realm of terrors beyond Barovia, and introduced such characters as Lord Byron Weathermay, the mesmerist Germain d'Honaire, the tragic Godefroy family, the lycanthropic Timothys, and Azalin the lich—names you'll find throughout this book. With the *House on Gryphon Hill*, Barovia and Mordent paved the way for Ravenloft to become a vast and varied setting encompassing dozens of Domains of Dread.
 ^foundations-of-horror
@@ -3076,7 +3076,7 @@ Those familiar with Richemulot know the following facts:
 - Richemulot's cities contain an inexplicably large number of buildings, an amount greater than their highest populations would have ever warranted.  
 - Rat swarms prowl city streets like packs of dogs.  
 
-> [!quote] Richemuloise Characters
+> [!note] Richemuloise Characters
 > 
 > The people of Richemulot know how unexpectedly death can arrive. The domain is predominantly populated by humans and halflings with dark hair colors and various rich skin tones, many of whom bear the marks of childhood diseases or medical treatments. When players create characters from Richemulot, consider asking them the following questions.
 > 
@@ -3302,7 +3302,7 @@ Those familiar with Tepest know the following facts:
 - Caves dot the land, connecting to deeper caverns where dangerous fey dwell. The people of Viktal fear the fey and blame them for every accident and ill.  
 - Few children are born in Tepest. Determined would-be parents must bargain with Mother or the fey to bring them a child.  
 
-> [!quote] Tepestani Characters
+> [!note] Tepestani Characters
 > 
 > Characters from Tepest come from a rural background, having fled the village of Viktal. Humans and hexbloods (see "chapter 1") of any appearance are common, but other folk with ties to the fey might also hail from the domain. When players create characters from Tepest, consider asking them the following questions.
 > 
@@ -3502,7 +3502,7 @@ Those familiar with Valachan know the following facts:
 - Any wild plant or creature in the jungles of Valachan might turn hostile toward explorers.  
 - Packs of displacer beasts roam the jungle, led by Yana, a preternaturally cunning [[5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md\|displacer beast]] that serves Chakuna.  
 
-> [!quote] Valachani Characters
+> [!note] Valachani Characters
 > 
 > Characters from Valachan typically hail from small, rain forest communities. The domain's people are predominantly humans with dark hair and a range of warm, brown skin tones. Some names take inspiration from Mesoamerican languages. When players create characters from Valachan, consider asking them the following questions:
 > 
@@ -3880,7 +3880,7 @@ Only the group's highest-ranking members know that the Keepers of the Feather be
 
 However, the Mists find a way to twist even the best of intentions. In the cities of urbane domains like "Borca", "Darkon", and "Dementlieu", the mystical writings and talismans the wereravens carried from "Barovia" came to the attention of the bored elite. Fascinated, these socialites became obsessed with the occult, seeking out esoteric works, hiring doubtful fortune-tellers, and hosting parlor séances. In most cases, the results were passing fads. In some, they were catastrophic—the unprepared successfully summoned fiends and angry spirits into their salons. But a few earnest amateur spiritualists genuinely sought to learn more about the secrets beyond their homes, their lives, and the Mists. In these would-be occultists, the wereravens saw potential.
 
-> [!quote] Keeper Characters
+> [!note] Keeper Characters
 > 
 > Characters playing members of the Keepers of the Feather have access to contacts with interest in spiritualism and the occult, including hapless dilettantes, reclusive scholars, correspondents from other domains, and hucksters. At any time, members of the organization might call upon their contacts to uncover some esoteric secret, engage in a supernatural investigation, or even explore another domain.
 > 
@@ -3963,7 +3963,7 @@ Members of Vistani bands understand the disorienting, dangerous nature of the Mi
 
 Characters who befriend or do right by members of a Vistani band might be allowed to take shelter or travel with a caravan for a time. But Vistani travelers quickly share tales of danger and of those who've wronged them with other caravans, and those who slight one Vistana often meet others who share a grudge against them.
 
-> [!quote] Vistani Characters
+> [!note] Vistani Characters
 > 
 > Being a Vistana makes a character part of a larger family and cultural tradition. Most Vistani are human, but many bands incorporate other peoples, particularly halflings, wood elves, orcs, and tieflings. Vistani have a range of skin, eye, and hair colors. When players create Vistani characters, consider asking them the following questions.
 > 

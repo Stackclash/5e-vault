@@ -66,11 +66,11 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) bludgeoning damage plus 24 (dice:\
-    \ 7d6|avg (7d6)) necrotic damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 7d6|avg\
+    \ (7d6) necrotic damage."
   "name": "Staff"
 - "desc": "Ranged Spell Attack: dice: d20+12 (+12 to hit), range 120 ft., one\
-    \ target. Hit: 30 (dice: 7d6 + 6|avg (7d6 + 6)) necrotic damage."
+    \ target. Hit: dice: 7d6 + 6|avg (7d6 + 6) necrotic damage."
   "name": "Deathly Ray"
 "bonus_actions":
 - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\

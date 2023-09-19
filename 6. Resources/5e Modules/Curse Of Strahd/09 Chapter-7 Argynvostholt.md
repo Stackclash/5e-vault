@@ -20,7 +20,7 @@ During the war between Strahd and his foes, the Order of the Silver Dragon drove
 
 Since the dragon's death, Argynvostholt has become a haunted ruin, a former bastion of nobility and light turned into a place of desolation and unrest.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > I was looking at dead men. Before another hour passed, I'd send them wailing on their way to rotting hell. All of them.
 > 
@@ -41,7 +41,7 @@ After receiving that news, Vladimir ceased his advance and led his knights back 
 
 The spirit of the dragon Argynvost isn't at rest, either. It can sense that the knights have been corrupted, and it reaches out to the characters, hoping they will help the knights find peace. If the characters retrieve the dragon's skull from Castle Ravenloft and place it in the mausoleum of Argynvostholt, the dragon's spirit ascends to the highest tower of the mansion and transforms into a beacon of light that flashes across Barovia. The light of the beacon reminds [[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]] of what he has lost, enabling him and his fellow knights to let go of their hatred and find both redemption and rest.
 
-> [!quote] Revenants of Barovia
+> [!note] Revenants of Barovia
 > 
 > A [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]], as described in the "Monster Manual", has a year to achieve its revenge before its body crumbles to dust and its soul enters the afterlife. In Barovia, however, a revenant can remain in its body indefinitely, and once it has reaped its vengeance, its soul remains trapped in Barovia.
 > 
@@ -65,7 +65,7 @@ A winding branch of the Old Svalich Road meanders up the forested slope of a mou
 
 When the characters first come within sight of Argynvostholt, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > High above the river valley juts a quiet promontory upon which looms a sepulchral mansion, its turrets capped with fairytale cones, its towers lined with sculpted battlements. A third of the structure has collapsed, as has part of the roof, but the rest appears intact. A dark, octagonal tower rises above the surrounding architecture.
 > 
@@ -82,7 +82,7 @@ The following areas correspond to labels on the maps of Argynvostholt below.
 
 ### Q1. Dragon Statue
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Perched atop a ten-foot-wide, ten-foot-high cube of granite is a moss-covered statue of a dragon, its wings tucked close to its body. The statue looks east, toward the mansion.
 ^42c
@@ -93,7 +93,7 @@ If scrutinized with a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spel
 
 ### Q2. Main Entrance
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Flagstone steps flanked by stone railings climb to a landing in front of a pair of tall, wooden doors with rusted iron bands and knockers shaped like small dragons. Carved into the lintel above the entrance is the word Argynvostholt.
 ^42e
@@ -104,7 +104,7 @@ The doors are unlocked and can be pushed open to reveal a dark foyer (area Q3).
 
 ### Q3. Dragon's Foyer
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room feels like a king's tomb. A grand staircase leads up to stone balconies held aloft by stone pillars and arches. A tall, faded tapestry depicting a nobleman in silver armor hangs from an iron rod above the staircase landing.
 > 
@@ -117,7 +117,7 @@ The tapestry is torn in places and worthless. It is a portrait of Lord Argynvost
 
 The first time the characters pass through this foyer, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A great shadow with wings moves across the walls and disappears. You hear the soft bestial hiss in the darkness.
 ^432
@@ -126,7 +126,7 @@ The draconic shadow is ominous yet harmless.
 
 ### Q4. Spiders' Ballroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!
 ^434
@@ -135,7 +135,7 @@ Nine [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] nest here. T
 
 ### Q5. Ruined Stable
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Here lie the blackened beams of a wooden stable, burned to its stone foundation. Looming above the wreckage is the partially collapsed south end of the mansion, all three of its floors exposed to the elements.
 ^436
@@ -144,7 +144,7 @@ There is nothing of value in the stable.
 
 ### Q6. Dragon's Den
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This wood-paneled den has been ransacked, its furnishings tossed about. A cold, dark hearth dominates the west wall between two narrow windows. Standing upright against the north wall is a sarcophagus made of black wood with a queen's effigy carved into its lid.
 ^438
@@ -157,16 +157,16 @@ A secret door at the north end of the east wall can be pushed open to reveal a s
 
 If the beacon of Argynvostholt (area Q53) has not been lit, read the following text when the characters approach the fireplace for the first time:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A fire erupts in the dead hearth and assumes a draconic form. It hisses, crackles, and unfurls its smoky wings.
 ^43a
 
-Have the player characters roll initiative. The fire acts on initiative count 10 and has AC 15, 1 hit point, and immunity to fire, poison, and psychic damage. If it is reduced to 0 hit points, it explodes and fills the room with fire, setting fire to the dry furnishings. Each creature in the room must make a DC 12 Dexterity saving throw, taking 22 (`dice: 4d10|avg` (`4d10`)) fire damage on a failed save, or half as much damage on a successful one.
+Have the player characters roll initiative. The fire acts on initiative count 10 and has AC 15, 1 hit point, and immunity to fire, poison, and psychic damage. If it is reduced to 0 hit points, it explodes and fills the room with fire, setting fire to the dry furnishings. Each creature in the room must make a DC 12 Dexterity saving throw, taking `dice: 4d10|avg` (`4d10`) fire damage on a failed save, or half as much damage on a successful one.
 
 The fire doesn't attack. On its first turn, if it has not been reduced to 0 hit points, it speaks:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The fiery dragon hisses as it addresses you. "My knights have fallen into darkness. Save them if you can. Show them the light they have lost!" With that, the fire burns out.
 ^43b
@@ -175,7 +175,7 @@ The dragon refers to the Order of the Silver Dragon and the beacon (area Q53).
 
 ### Q7. Parlor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tattered velvet drapes cover the tall, slender windows that encircle this parlor. The furnishings are covered with dust and cobwebs, and lie in disarray. A damaged brass chandelier hangs from the ceiling, which is covered with a faded mural that depicts metallic dragons and colorful birds flying beneath white clouds.
 ^43d
@@ -190,7 +190,7 @@ Ten-foot-high flights of stone steps to the west and east of the archway lead up
 
 ### Q9. Servants' Quarters
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tattered brown drapes cover the windows of this circular room, and a heavy curtain hangs across an archway to the south. Strewn about the floor is the wreckage of half a dozen beds and other pieces of furniture.
 ^440
@@ -199,7 +199,7 @@ Lord Argynvost's household staff once slept here. The room contains nothing of v
 
 ### Q10. Kitchen
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This kitchen has been plundered, its tables overturned. The floor is littered with rusted utensils and smashed crockery. Narrow windows flanking a hearth look out over a cemetery. An open iron pot hangs from a hook inside the blackened fireplace. It rattles on its hook and bobs up and down, as though something is inside it.
 ^443
@@ -208,7 +208,7 @@ The iron pot contains an ordinary [[5. Mechanics/Bestiary/Beast/Bat.md\|bat]]. W
 
 ### Q11. Wine Storage
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Five barrels lie in wooden braces along the walls of this dark, moldy storage room.
 ^445
@@ -229,7 +229,7 @@ A secret door at the north end of the west wall can be pulled open to reveal a d
 
 ### Q12. Dining Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A twenty-foot-long table with sculpted dragons for legs stands in the center of this hall. The chairs that surround the table have backs carved to resemble folded dragon wings, and several of the chairs have been overturned or smashed to pieces. Suspended above the table is a crystal chandelier that glows with a soft white light. Standing in windowed alcoves are two life-sized statues depicting knights with dragon-winged helms and shields.
 > 
@@ -242,21 +242,21 @@ A [[5. Mechanics/Spells/Continual Flame.md\|continual flame]] spell was cast on 
 
 ### Q13. Chapel of Morning
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Cracked wooden pillars support a wooden, U-shaped balcony that overhangs this stone-walled chapel. Narrow archways lead to spiral staircases that curl up to the balcony, and a door set into the north wall has a wooden beam barring it. At the east end of the chapel rests a stone altar flanked by iron candelabras. The altar is carved with a rising sun bas-relief. Tall, arching windows set with panels of stained glass decorate the walls behind the altar. One of the windows has been shattered, covering the chapel floor with shards of colored glass and allowing thick fog to enter and fill the room.
 ^449
 
 If the beacon has not been lit (see areas Q16 and Q53), add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Through the fog, you see three armored figures kneeling before the altar.
 ^44a
 
 The figures are three [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
 
-The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`dice: 2d10 + 4|avg` (`2d10 + 4`)) slashing damage on a hit.
+The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice: 2d10 + 4|avg` (`2d10 + 4`) slashing damage on a hit.
 
 Characters who study the room's iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
 
@@ -268,7 +268,7 @@ The bar across the north door is easily lifted from this side. Once the bar is r
 
 ### Q14. Chapel Staircases
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Narrow windows allow dim light to enter this five-foot-wide spiral staircase.
 ^44c
@@ -277,14 +277,14 @@ The staircase leads from the chapel (area Q13) to the chapel's balcony (area Q24
 
 ### Q15. Cemetery
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tucked behind the mansion is a fog-shrouded cemetery enclosed by a seven-foot-tall fence of wrought iron. In the northeast corner stands a mausoleum.
 ^44e
 
 If the beacon has not been lit (see areas Q16 and Q53), read the following text when the characters cross the cemetery for the first time:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You suddenly feel like someone or something is watching you. Looking up, you spot a well-dressed man with a thick mane of thistledown hair observing you from a high tower window. He draws the curtain and disappears from view.
 ^44f
@@ -299,21 +299,21 @@ A stone staircase curls up the outside of a turret to a flagstone landing in fro
 
 ### Q16. Dragon's Mausoleum
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tarnished, silver-plated gargoyles shaped like dragon wyrmlings cling to the stone-tiled roof of this mausoleum. An eight-foot-tall, four-foot-wide white marble door set into the southwest wall is engraved with a name: Argynvost.
 ^451
 
 The dragon-shaped gargoyles are harmless statuary. The stone door can be pulled open with a successful DC 15 Strength check.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The interior of the mausoleum is dark and dusty. You see four empty alcoves with raised floors. Etched into the far wall is a verse written in Draconic.
 ^452
 
 Characters who can read the Draconic script can decipher the writing on the wall:
 
-> [!quote] ...
+> [!note] 
 > 
 > *Here lie the bones and treasures of*
 > 
@@ -328,7 +328,7 @@ If the skull of Argynvost is brought from Castle Ravenloft (see chapter 4, area 
 
 ### Q17. West Staircases
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Narrow windows illuminate this dusty, five-foot-wide spiral staircase.
 ^456
@@ -337,7 +337,7 @@ These staircases connect the second-floor balconies (area Q18) to areas Q30 and 
 
 ### Q18. Balconies
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Two stone balconies flank the main foyer. Balusters carved to resemble knights in shining armor support their elegantly carved stone railings. Weapons and shields festoon the walls along each of these walkways, while alabaster busts of handsome men flank hallways that lead north and south away from the foyer. At the west end of each balcony is an archway that leads to a spiral staircase going up.
 ^458
@@ -348,7 +348,7 @@ The balcony is 20 feet above the floor of the foyer (area Q3). The weapons and s
 
 There are two of these rooms.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The south end of this room has collapsed, exposing the chamber to the elements. A few furnishings lie broken under fallen debris from the level above.
 ^45b
@@ -357,14 +357,14 @@ The wooden floor creaks underfoot. Although it is safe to walk on, doing so attr
 
 ### Q20. South Alcove
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A red velvet curtain hangs in front of an alcove in the southeast corner of this hall. It ripples ever so slightly.
 ^45d
 
 One of the narrow windows in the back of the alcove has a broken glass pane through which a slight breeze passes, causing the curtain to move. When the characters look behind the curtain, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A black cloth covers something atop a white marble pedestal.
 ^45e
@@ -373,7 +373,7 @@ Beneath the black cloth is the severed head of a randomly determined characterâ€
 
 ### Q21. North Alcove
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A red velvet curtain hangs in front of an alcove in the northeast corner of this hall.
 ^460
@@ -382,7 +382,7 @@ The alcove is empty except for the narrow windows in the back walls. Whenever th
 
 ### Q22. Bathroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The room contains an iron tub and has wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with a continuous, faded mural of a mountainscape.
 ^462
@@ -391,7 +391,7 @@ The mural accurately depicts the Balinok Mountains.
 
 ### Q23. Storage Room
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Rainwater seeps through cracks in the ceiling and flows into a pool on the sagging wooden floor. The pool fills about half the room. Bare stone shelves line the walls.
 ^464
@@ -400,7 +400,7 @@ This room has been thoroughly looted. The wooden floor is soft and spongy, and i
 
 ### Q24. Chapel Balcony
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This wooden balcony overhangs the mansion's chapel. An exquisitely carved wooden throne rests at the west end between two doors, and narrow archways lead to spiral staircases going up and down. Hanging from the high ceiling is an iron chandelier with candle holders shaped like tiny silver dragons.
 ^466
@@ -409,7 +409,7 @@ The doors behind the throne lead to areas Q20 and Q21. A wooden railing surround
 
 ### Q25. Trapped Hallway
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.
 ^468
@@ -422,14 +422,14 @@ The wall of stone vanishes after 10 minutes, at which time the trap resets. Char
 
 The door to this room hangs open.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Two beds with torn canopies stand against opposite walls with a tattered rug lying on the floor between them. Set into the far wall is a fireplace black with soot. A soft hiss issues from the hearth.
 ^46a
 
 When one or more characters approach within 10 feet of the fireplace, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A small, hissing dragon made of ash and smoke erupts from the fireplace, filling the room with soot as it beats its wings.
 ^46b
@@ -442,7 +442,7 @@ The smoky dragonet has the statistics of a [[5. Mechanics/Bestiary/Elemental/Smo
 
 ### Q27. Knights' Quarters
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room is littered with the wreckage of ancient bunk beds. Five dirt-caked windows allow precious little light to enter, and between them are four empty armor stands. Empty torch sconces line the walls.
 ^46d
@@ -451,7 +451,7 @@ Four [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md\|phantom warriors]]
 
 ### Q28. Knights' Quarters
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor.
 ^470
@@ -464,7 +464,7 @@ Buried under the wreckage is a small wooden coffer containing four [[5. Mechanic
 
 ### Q29. Northwest Guest Room
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The contents of this room are draped in cobwebs. Between curtained windows stands a black marble hearth with a sculpted mantelpiece, above which hangs a framed portrait of a handsome, well-dressed man with a wry smile and a thick mane of thistledown hair. Opposite the fireplace is a large bed with a rotting mattress and wooden posts carved to resemble dragons. Across from the double doors stands a tall wardrobe, its doors hanging open, revealing a dark and empty cavity. The only other piece of furniture is an overstuffed leather chair that faces the hearth.
 ^473
@@ -485,7 +485,7 @@ A round-topped wooden door opens to reveal a spiral staircase with narrow window
 
 These two rooms stand across from each other, separated by a ruined corridor that abruptly ends to the south of their doors.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Most of this chamber has collapsed. The wooden floor is strewn with rubble and falls away into a foggy abyss to the south. The roof overhead is jagged and broken.
 ^477
@@ -494,7 +494,7 @@ The floor here is 40 feet above of the floor of the ballroom (area Q4). The roof
 
 ### Q33. Collapsed Ceiling
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The roof over this part of the mansion has collapsed, creating a twenty-foot-diameter gaping hole with broken rafters bisecting it. Dark storm clouds roll across the sky overhead. The floor is piled with rocks, broken tiles, shattered beams, and other debris. Beneath the rubble lie a sagging floor and puddles of rainwater.
 ^479
@@ -505,14 +505,14 @@ The ceiling here is 20 feet high, and the rubble is difficult terrain.
 
 ### Q34. Ruined Bathroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has a tiled floor and an iron bathtub filled with debris from the collapsed roof. A torn curtain hangs in an open doorway in the center of the east wall.
 ^47b
 
 ### Q35. Upstairs Gallery
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has dark wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with murals of religious figures performing holy rites. In the center of the west wall is a tattered curtain hanging in an open doorway. Three tall, slender stained-glass windows set into the opposite wall depict figures in white robes with orange sunrises behind their heads.
 ^47d
@@ -521,7 +521,7 @@ From north to south, the three stained-glass windows portray Saint Andral, the M
 
 ### Q36. Dragon's Audience Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Slumped in the throne is a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
 ^47f
@@ -530,7 +530,7 @@ From north to south, the three stained-glass windows portray Saint Andral, the M
 
 If the beacon has not been lit, the body is serving as a host for the revenant. If the characters approach it, it says, "Go away." If they don't leave immediately, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The creature's grip on the greatsword tightens. "If you have come to destroy me, know this: I perished defending this land from evil over four centuries ago, and because of my failure, I am forever doomed. If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down. You cannot free me from my damnation, nor would I wish it."
 > 
@@ -555,23 +555,23 @@ If your card reading reveals that a treasure is here, it's in Vladimir's possess
 
 The leaders of the Order of the Silver Dragon used to convene here.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Through the dust and cobwebs, you see faded war banners adorning the walls of a spacious chamber, in the center of which stands a heavy wooden table. An iron chandelier hangs above the table, which is surrounded by six high-backed chairs with wood-carved dragons perched atop them. Slumped in five of the chairs are skeletal humans in tattered chainmail.
 ^485
 
 If the beacon in area Q53 has been lit, the spirits of these revenants are laid to rest, leaving behind their inanimate corpses. If the beacon has not been lit, add the following:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The corpses tilt their heads in your direction. One of them growls, "Why do you the living disturb the dead?"
 ^486
 
-The skeletal figures are five [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]]. All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`dice: 2d10 + 4|avg` (`2d10 + 4`)) slashing damage on a hit.
+The skeletal figures are five [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]]. All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing `dice: 2d10 + 4|avg` (`2d10 + 4`) slashing damage on a hit.
 
 One of the revenants, [[5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym (COS).md\|Sir Godfrey Gwilym]], is a spellcaster with a challenge rating of 6 (2,300 XP) and the following additional feature:
 
-> [!quote] ...
+> [!note] 
 > 
 > **Spellcasting.** Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 14). Sir Godfrey has the following paladin spells prepared:
 > 
@@ -588,7 +588,7 @@ Characters who inspect the fireplace notice a shield-shaped patch on the wall ab
 
 #### Development
 
-![[Sir Godfrey Gwilym](compe...](compendium/adventures/curse-of-strahd/img/081-cos07-05.png#center "[[5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym (COS).md\|Sir Godfrey Gwilym]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/081-cos07-05.png#center\|Sir Godfrey Gwilym]]
 
 Sir Godfrey can sense that the spirit of Argynvost isn't at rest and isn't happy that the order has been reduced to such a state. If the characters petition the revenants for aid, Sir Godfrey (speaking in a scratchy voice) relates all the information presented at the start of the chapter concerning Argynvost and the rise and fall of the Order of the Silver Dragon. Neither he nor the other revenants can help the characters in any meaningful way, however, because of the oaths they have sworn to [[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]].
 
@@ -602,14 +602,14 @@ If the beacon in area Q53 has been lit, Sir Godfrey remains a revenant even afte
 
 ### Q38. Closet
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This dusty closet has a slender window set into the north wall. The room is otherwise empty.
 ^48c
 
 ### Q39. Vladimir's Bedroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Light enters this circular room through five cracked windows. The light falls on a large, dust-covered bed in the center of the room, its posts topped with wood-carved dragons. Two large animals flank the double doors. One is a brown bear standing on its hind legs, its claws outstretched. The other is a dire wolf, its face frozen in an evil snarl. Near the wolf lies an empty wooden chest.
 ^48e
@@ -618,7 +618,7 @@ This room once served as a bedchamber for Sir [[5. Mechanics/Bestiary/Npc/Vladim
 
 ### Q40. Argynvost's Study
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room is a haven for dust and cobwebs. Three narrow windows allow slivers of light to illuminate bare oak shelves along the walls and a torn, padded chair lying on its side near a cavernous hearth. A picture above the mantel has been slashed, its lower half hanging down below the frame like a torn piece of flesh. An iron door set in the south corner of the west wall hangs open on one hinge.
 ^490
@@ -631,7 +631,7 @@ The sole remaining volume lies on the floor behind the overturned chair. Titled 
 
 As the characters cross the room, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You hear the soft flapping sound of wings, but can't discern its origin. A single piece of parchment blows off the top of a bookshelf, spirals lazily in the air, and lands gently at your feet.
 ^492
@@ -642,14 +642,14 @@ The sheet of parchment is the last page of Argynvost's journal, the rest of whic
 
 If the characters study the whole picture above the mantelpiece, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The picture shows the mansion in better days, under clear winter skies with snow-capped mountains in the background. The top of the chapel tower glows like a silver beacon.
 ^494
 
 The picture radiates an aura of transmutation magic under the scrutiny of a [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell, but the aura is weak. If the characters repair the picture using a [[5. Mechanics/Spells/Mending.md\|mending]] cantrip, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The beacon in the picture flashes with a brilliant silver light, and the spectral form of a huge silver dragon fills the room. "My skull lies in the fortress of my enemy," it says, "displayed in a place of ill omen. Return my skull to its rightful crypt, and my spirit will shine here forever, bringing hope to this dark land." With that, the dragon's apparition fades away.
 ^495
@@ -660,7 +660,7 @@ The spectral dragon isn't the spirit of Argynvost, but a spell-like effect. Once
 
 The iron door leading to this room hangs open on a single rusty hinge. It has obviously been forced open and no longer closes properly.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The walls of this room are lined with lead. Emptied chests and shattered vases lie strewn upon the floor, their contents plundered.
 ^497
@@ -669,7 +669,7 @@ This vault once held a dragon's trove but was stripped of all valuables long ago
 
 ### Q42. Argynvost's Bedroom
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Rich drapes, faded by time and neglect, hide the windows of this otherwise empty room.
 ^499
@@ -682,7 +682,7 @@ This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the
 
 ### Q44. Dragon Gargoyle
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Perched on the rooftop overlooking the parapet is a silver-plated gargoyle shaped like a dragon wyrmling.
 ^49c
@@ -699,7 +699,7 @@ The silver dragon wyrmling statue is 10 feet above the parapet and has a [[5. Me
 
 ### Q45. Ancient Ballista
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > An ancient ballista, rotted by time and weather, stands behind the battlements on this tower rooftop.
 ^49e
@@ -708,7 +708,7 @@ The ballista falls apart if disturbed.
 
 ### Q46. Destroyed Ballista
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Strewn atop the roof toward the front of the mansion is the wreckage of a ballista. Flanking the wreckage are two stone turrets with conical rooftops and narrow doors.
 ^4a1
@@ -717,7 +717,7 @@ The turrets are described in area Q47.
 
 ### Q47. Roof Turrets
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Cobwebs hang from the rafters of this turret, which is empty except for a wooden bench and an iron stove. Arrow slits look down upon the foggy grounds in front of the mansion.
 ^4a3
@@ -726,7 +726,7 @@ The knights who once guarded the rooftop used these turrets for warmth and shelt
 
 ### Q48. Roof's Edge
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Beyond a ragged edge of stone is a sixty-foot plunge to the rubble-strewn ground below. A few rafters stick out from beneath the stone.
 ^4a5
@@ -735,7 +735,7 @@ The edge of the roof is sturdy enough to walk on, and not in danger of further c
 
 ### Q49. Beacon Tower Door
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The parapet narrows to a width of ten feet, ending before a sturdy wooden door set into the wall of the eastern tower.
 ^4a7
@@ -744,7 +744,7 @@ This door is barred from the inside. The phantom warriors in the tower's turrets
 
 ### Q50. Beacon, Lower Landing
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A rickety wooden landing and a staircase cling to the walls of this tower. The stairs lead up to another landing twenty feet above, and the floor of the chapel lies sixty feet below.
 ^4a9
@@ -753,7 +753,7 @@ The landing and the stairs creak and shudder underfoot, but they are safe.
 
 ### Q51. Beacon, Upper Landing
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Creaky stairs climb to a wooden landing with three windows that look out over the roof of the mansion. Flanking the windows are two narrow wooden doors.
 ^4ab
@@ -764,30 +764,30 @@ The doors lead to the rooftops of the turrets (area Q52).
 
 ### Q52. Beacon Turrets
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A stone battlement encloses the roof of this turret. A spiral staircase descends to the level below.
 ^4ad
 
 These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers' postsâ€”small rooms lined with arrow slits. Standing guard in each of these rooms is a [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md\|phantom warrior]] (see appendix D) with a spectral longbow that shoots arrows of force energy. The two phantom warriors gain the following action options:
 
-> [!quote] ...
+> [!note] 
 > 
 > **Multiattack.** The phantom warrior makes two attacks with its spectral longsword or spectral longbow.
 > 
-> **Spectral Longbow.** *Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. Hit: 4 (`dice: 1d8|avg` (`1d8`)) force damage.
+> **Spectral Longbow.** *Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. Hit: `dice: 1d8|avg` (`1d8`) force damage.
 ^4ae
 
 ### Q53. Beacon of Argynvostholt
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Wooden stairs climb to the tower's peak, which has a stone floor and a thirty-foot-high pitched roof. Ravens roost on crisscrossing rafters, coming and going through small holes in the roof. Ten-foot-high, five-foot-wide arched windows are evenly spaced around the walls. Each window consists of a lead latticework fitted with small panes of transparent glass.
 ^4b2
 
 The [[5. Mechanics/Bestiary/Beast/Raven.md\|ravens]] that roost here are harmless, but they watch the characters with great interest. If the characters look out the windows, you can use the following text to describe what they see in the distance.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > To the north and east lies a mist-shrouded valley with dark woods, a small town, and a lonely windmill on a precipice. To the south, a river flows through a foggy marsh. To the west, between rocky hills, you glimpse an abbey perched on a snowy mountainside beyond a long stretch of fog-smothered pines.
 ^4b3

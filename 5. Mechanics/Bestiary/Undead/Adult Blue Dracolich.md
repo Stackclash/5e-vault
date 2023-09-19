@@ -91,14 +91,14 @@ The dracolich has advantage on saving throws against spells and other magical ef
     \ one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: 18 (dice: 2d10 + 7|avg (2d10 + 7)) piercing damage plus 5 (dice:\
-    \ 1d10|avg (1d10)) lightning damage."
+    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage plus dice: 1d10|avg\
+    \ (1d10) lightning damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 2d6 + 7|avg (2d6 + 7)) slashing damage."
+    \ Hit: dice: 2d6 + 7|avg (2d6 + 7) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: 16 (dice: 2d8 + 7|avg (2d8 + 7)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 7|avg (2d8 + 7) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
     \ dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become\
@@ -110,8 +110,8 @@ The dracolich has advantage on saving throws against spells and other magical ef
   "name": "Frightful Presence"
 - "desc": "The dracolich exhales lightning in a 90-foot line that is 5 feet wide.\
     \ Each creature in that line must make a DC 20 Dexterity saving throw, taking\
-    \ 66 (dice: 12d10|avg (12d10)) lightning damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ dice: 12d10|avg (12d10) lightning damage on a failed save, or half as much\
+    \ damage on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "The dracolich makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
@@ -120,8 +120,8 @@ The dracolich has advantage on saving throws against spells and other magical ef
 - "desc": "The dracolich makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dracolich beats its tattered wings. Each creature within 10 feet of\
-    \ the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (dice:\
-    \ 2d6 + 7|avg (2d6 + 7)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ the dracolich must succeed on a DC 21 Dexterity saving throw or take dice:\
+    \ 2d6 + 7|avg (2d6 + 7) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ After beating its wings this way, the dracolich can fly up to half its flying\
     \ speed."
   "name": "Wing Attack (Costs 2 Actions)"

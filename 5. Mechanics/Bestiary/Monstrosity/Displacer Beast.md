@@ -61,8 +61,8 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 - "desc": "The displacer beast makes two attacks with its tentacles."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) piercing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage plus dice: 1d6|avg\
+    \ (1d6) piercing damage."
   "name": "Tentacle"
 "source":
 - "MM"

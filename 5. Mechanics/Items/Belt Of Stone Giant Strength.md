@@ -11,6 +11,7 @@ aliases: ["Belt of Stone Giant Strength"]
 ---
 # Belt of Stone Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/belt-of-stone-giant-strength.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -12,8 +12,8 @@ aliases: ["Desert Encounters (Levels 5—10)"]
 
 **Desert Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] |
 | 02 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md\|jackalweres]] |
 | 03 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |

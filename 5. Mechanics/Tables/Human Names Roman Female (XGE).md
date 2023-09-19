@@ -12,8 +12,8 @@ aliases: ["Human Names – Roman, Female"]
 
 **Human Names – Roman, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aelia |
 | 03-04 | Aemilia |
 | 05-06 | Agrippina |

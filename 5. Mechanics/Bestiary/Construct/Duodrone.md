@@ -19,7 +19,7 @@ Modrons are beings of absolute law that adhere to a hive-like hierarchy. They in
 
 Under the direction of their leader, Primus, modrons increase order in the multiverse in accordance with laws beyond the comprehension of mortal minds. Their own minds are networked in a hierarchal pyramid, in which each modron receives commands from superiors and delegates orders to underlings. A modron carries out commands with total obedience, utmost efficiency, and an absence of morality or ego. Modrons have no sense of self beyond what is necessary to fulfill their duties. They exist as a unified collective, divided by ranks, yet they always refer to themselves collectively. To a modron, there is no "I," but only "we" or "us."
 
-> [!quote] Variant: Rogue Modrons
+> [!note] Variant: Rogue Modrons
 > 
 > A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.
 > 
@@ -73,11 +73,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "desc": "The duodrone makes two fist attacks or two javelin attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
   "name": "Fist"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1))\
-    \ piercing damage."
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+    \ damage."
   "name": "Javelin"
 "source":
 - "MM"

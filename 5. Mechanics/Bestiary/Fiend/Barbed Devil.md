@@ -107,7 +107,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -167,8 +167,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "At the start of each of its turns, the barbed devil deals 5 (dice: 1d10|avg\
-    \ (1d10)) piercing damage to any creature grappling it."
+- "desc": "At the start of each of its turns, the barbed devil deals dice: 1d10|avg\
+    \ (1d10) piercing damage to any creature grappling it."
   "name": "Barbed Hide"
 - "desc": "Magical darkness doesn't impede the devil's darkvision."
   "name": "Devil's Sight"
@@ -180,14 +180,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ claws. Alternatively, it can use Hurl Flame twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
   "name": "Tail"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 150 ft., one target.\
-    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage. If the target is a flammable\
-    \ object that isn't being worn or carried, it also catches fire."
+    \ Hit: dice: 3d6|avg (3d6) fire damage. If the target is a flammable object\
+    \ that isn't being worn or carried, it also catches fire."
   "name": "Hurl Flame"
 "source":
 - "MM"

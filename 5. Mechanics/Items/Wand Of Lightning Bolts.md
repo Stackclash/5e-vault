@@ -11,6 +11,7 @@ aliases: ["Wand of Lightning Bolts"]
 ---
 # Wand of Lightning Bolts
 *Wand, major, rare (requires attunement by a spellcaster)*  
+![[5. Mechanics/Items/img/wand-of-lightning-bolts.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

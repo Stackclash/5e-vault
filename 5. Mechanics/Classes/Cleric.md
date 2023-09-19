@@ -158,8 +158,8 @@ Some temples are cut off from the world so that their occupants can focus on dev
 
 **Temple**
 
-| `dice: d6\|avg` (`d6`) | Temple |
-|-----------|------------|--------|
+| dice: d6 | Temple |
+|----------|--------|
 | 1 | Your temple is said to be the oldest surviving structure built to honor your god. |
 | 2 | Acolytes of several like-minded deities all received instruction together in your temple. |
 | 3 | You come from a temple famed for the brewery it operates. Some say you smell like one of its ales. |
@@ -175,8 +175,8 @@ Many clerics have items among their personal gear that symbolize their faith, re
 
 **Keepsake**
 
-| `dice: d6\|avg` (`d6`) | Keepsake |
-|-----------|------------|----------|
+| dice: d6 | Keepsake |
+|----------|----------|
 | 1 | The finger bone of a saint |
 | 2 | A metal-bound book that tells how to hunt and destroy infernal creatures |
 | 3 | A pig's whistle that reminds you of your humble and beloved mentor |
@@ -194,8 +194,8 @@ If you haven't considered this aspect of your character yet, see the table entri
 
 **Secret**
 
-| `dice: d6\|avg` (`d6`) | Secret |
-|-----------|------------|--------|
+| dice: d6 | Secret |
+|----------|--------|
 | 1 | An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful. |
 | 2 | You believe that, in the final analysis, the gods are nothing more than ultrapowerful mortal creatures. |
 | 3 | You acknowledge the power of the gods, but you think that most events are dictated by pure chance. |
@@ -204,7 +204,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 | 6 | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness. |
 ^secret
 
-> [!quote] Serving a Pantheon, Philosophy, or Force
+> [!note] Serving a Pantheon, Philosophy, or Force
 > 
 > The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.
 > 

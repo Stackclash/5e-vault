@@ -51,8 +51,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   "name": "Sun Sickness"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: 1 (dice: 1d4 - 1|avg (1d4 - 1)) bludgeoning damage plus 2 (dice:\
-    \ 1d4|avg (1d4)) poison damage."
+    \ Hit: dice: 1d4 - 1|avg (1d4 - 1) bludgeoning damage plus dice: 1d4|avg\
+    \ (1d4) poison damage."
   "name": "Fist"
 - "desc": "A 10-foot radius of spores extends from the myconid. These spores can go\
     \ around corners and affect only creatures with an Intelligence of 2 or higher\

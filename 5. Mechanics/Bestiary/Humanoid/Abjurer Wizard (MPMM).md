@@ -56,19 +56,19 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - "desc": "The abjurer makes three Arcane Burst attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: 20 (dice: 3d10 + 4|avg (3d10 + 4))\
-    \ force damage."
+    \ or range 120 ft., one target. Hit: dice: 3d10 + 4|avg (3d10 + 4) force\
+    \ damage."
   "name": "Arcane Burst"
 - "desc": "Each creature in a 20-foot cube originating from the abjurer must make\
-    \ a DC 16 Constitution saving throw. On a failed save, a creature takes 36 (dice:\
-    \ 8d8|avg (8d8)) force damage and is pushed up to 10 feet away from the abjurer.\
+    \ a DC 16 Constitution saving throw. On a failed save, a creature takes dice:\
+    \ 8d8|avg (8d8) force damage and is pushed up to 10 feet away from the abjurer.\
     \ On a successful save, a creature takes half as much damage and isn't pushed."
   "name": "Force Blast"
 "reactions":
 - "desc": "When the abjurer or a creature it can see within 30 feet of it takes damage,\
     \ the abjurer magically creates a protective barrier around itself or the other\
-    \ creature. The barrier reduces the damage to the protected creature by 26 (dice:\
-    \ 4d10 + 4|avg (4d10 + 4)), to a minimum of 0, and then vanishes."
+    \ creature. The barrier reduces the damage to the protected creature by dice:\
+    \ 4d10 + 4|avg (4d10 + 4), to a minimum of 0, and then vanishes."
   "name": "Arcane Ward (Recharge 4-6)"
 "source":
 - "MPMM"

@@ -56,10 +56,9 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit) (dice: d20+4 (+4 to\
-    \ hit) with shillelagh), reach 5 ft., one target. Hit: 3 (dice: 1d6|avg (1d6))\
-    \ bludgeoning damage, 4 (dice: 1d8|avg (1d8)) bludgeoning damage if wielded\
-    \ with two hands, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) bludgeoning damage with\
-    \ [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]."
+    \ hit) with shillelagh), reach 5 ft., one target. Hit: dice: 1d6|avg (1d6)\
+    \ bludgeoning damage, dice: 1d8|avg (1d8) bludgeoning damage if wielded with\
+    \ two hands, or dice: 1d8 + 2|avg (1d8 + 2) bludgeoning damage with [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]."
   "name": "Quarterstaff"
 "source":
 - "MM"

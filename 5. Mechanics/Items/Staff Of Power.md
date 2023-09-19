@@ -12,6 +12,7 @@ aliases: ["Staff of Power"]
 ---
 # Staff of Power
 *Staff, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-power.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

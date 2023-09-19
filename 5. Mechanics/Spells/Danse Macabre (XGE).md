@@ -11,6 +11,7 @@ aliases: ["Danse Macabre"]
 ---
 # Danse Macabre
 *5th-level, Necromancy*  
+![[5. Mechanics/Spells/img/danse-macabre.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

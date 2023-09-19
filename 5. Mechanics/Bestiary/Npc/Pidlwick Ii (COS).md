@@ -72,10 +72,10 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
   "name": "Ambusher"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
   "name": "Club"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/60 ft., one\
-    \ target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
+    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
   "name": "Dart"
 "source":
 - "CoS"

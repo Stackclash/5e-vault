@@ -92,17 +92,17 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-- "desc": "Once per turn, the hobgoblin can deal an extra 7 (dice: 2d6|avg (2d6))\
+- "desc": "Once per turn, the hobgoblin can deal an extra dice: 2d6|avg (2d6)\
     \ damage to a creature it hits with a weapon attack if that creature is within\
     \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) slashing damage, or 6 (dice: 1d10\
-    \ + 1|avg (1d10 + 1)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage, or dice: 1d10 + 1|avg\
+    \ (1d10 + 1) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 150/600 ft., one\
-    \ target. Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
+    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"

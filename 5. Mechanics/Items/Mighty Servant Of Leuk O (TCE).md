@@ -10,6 +10,7 @@ aliases: ["Mighty Servant of Leuk-o"]
 ---
 # Mighty Servant of Leuk-o
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/mighty-servant-of-leuk-o.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤
@@ -52,7 +53,7 @@ If the servant loses half of its hit points or more, each creature attuned to it
 
 By inputting a specific series of lever pulls and button presses, the servant's two crew members can cause it to explode. The self-destruct code is not revealed to crew members when they attune to the artifact. If the code is discovered (the DM determines how), it requires two attuned crew members to be inside the servant and spend their actions on 3 consecutive rounds performing the command. Should the crew members begin the process of entering the code, though, the servant uses its Ghost in the Machine property and turns the crew members against each other.
 
-If the crew members successfully implement the code, at the end of the third round, the servant explodes. Every creature in a 100-foot-radius sphere centered on the servant must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 87 (`dice: 25d6|avg` (`25d6`)) force damage, 87 (`dice: 25d6|avg` (`25d6`)) lightning damage, and 87 (`dice: 25d6|avg` (`25d6`)) thunder damage. On a successful save, a creature takes half as much damage. Objects and structures in the area take triple damage. Creatures inside the servant are slain instantly and leave behind no remains.
+If the crew members successfully implement the code, at the end of the third round, the servant explodes. Every creature in a 100-foot-radius sphere centered on the servant must make a DC 25 Dexterity saving throw. On a failed save, a creature takes `dice: 25d6|avg` (`25d6`) force damage, `dice: 25d6|avg` (`25d6`) lightning damage, and `dice: 25d6|avg` (`25d6`) thunder damage. On a successful save, a creature takes half as much damage. Objects and structures in the area take triple damage. Creatures inside the servant are slain instantly and leave behind no remains.
 
 This does not destroy the servant permanently. Rather, `dice: 2d6|avg` (`2d6`) days later, its parts—left arm, left leg, right arm, right leg, lower torso, and upper torso—drop from the sky in random places within 1,000 miles of the explosion. If brought within 5 feet of one another, the pieces reconnect and reform the servant.
 

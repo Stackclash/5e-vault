@@ -2,18 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Luvash"]
 ---
 # Luvash
-*Source: Curse of Strahd p. 121, Derived from Bandit Captain (MM)*  
+*Source: Curse of Strahd p. 121, Derived from *  
 
 ```statblock
 "name": "Luvash"
@@ -47,10 +41,10 @@ aliases: ["Luvash"]
     \ dagger. Or Luvash makes two ranged attacks with its daggers."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Scimitar"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
     \ damage."
   "name": "Dagger"
 "reactions":
@@ -62,7 +56,3 @@ aliases: ["Luvash"]
 "image": "5. Mechanics/Bestiary/Npc/token/luvash.png"
 ```
 ^statblock
-
-## Environment
-
-coastal, hill, arctic, urban, forest, desert

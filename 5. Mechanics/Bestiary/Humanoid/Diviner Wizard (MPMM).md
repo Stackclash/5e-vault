@@ -55,13 +55,13 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - "desc": "The diviner makes three Arcane Burst attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: 20 (dice: 3d10 + 4|avg (3d10 + 4))\
-    \ radiant damage."
+    \ or range 120 ft., one target. Hit: dice: 3d10 + 4|avg (3d10 + 4) radiant\
+    \ damage."
   "name": "Arcane Burst"
 - "desc": "The diviner magically creates a burst of illumination in a 10-foot-radius\
     \ sphere centered on a point within 120 feet of it. Each creature in that area\
-    \ must make a DC 15 Wisdom saving throw. On a failed save, a creature takes 45\
-    \ (dice: 10d8|avg (10d8)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ must make a DC 15 Wisdom saving throw. On a failed save, a creature takes dice:\
+    \ 10d8|avg (10d8) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the diviner's next turn. On a successful save, the creature\
     \ takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]."
   "name": "Overwhelming Revelation (Recharge 5-6)"

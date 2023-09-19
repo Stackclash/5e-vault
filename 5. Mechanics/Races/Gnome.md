@@ -8,6 +8,7 @@ aliases: ["Gnome"]
 ---
 # Gnome
 *Source: Player's Handbook p. 35. Available in the SRD.*  
+![[5. Mechanics/Races/img/gnome.png#right]]  
 
 - **Ability Scores**: Intelligence +2
 - **Type**: race
@@ -73,7 +74,7 @@ Gnomes love names, and most have half a dozen or so. A gnome's mother, father, c
 
 Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as s quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.
 
-> [!quote] Deep Gnomes
+> [!note] Deep Gnomes
 > 
 > A third sub race of gnomes, the deep gnomes (or svirfneblin) live in small communities scattered in the Underdark. Unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.
 ^deep-gnomes

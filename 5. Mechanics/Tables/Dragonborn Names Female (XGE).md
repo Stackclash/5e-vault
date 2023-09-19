@@ -12,8 +12,8 @@ aliases: ["Dragonborn Names – Female"]
 
 **Dragonborn Names – Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Akra |
 | 03-04 | Aasathra |
 | 05-06 | Antrara |

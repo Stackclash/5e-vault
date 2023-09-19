@@ -84,18 +84,18 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   "name": "Telepathic Hub"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 30 ft., one target.\
-    \ Hit: 20 (dice: 4d8 + 2|avg (4d8 + 2)) bludgeoning damage. If the target\
-    \ is a Huge or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15) and takes 9 (dice: 1d8 + 5|avg (1d8 + 5)) psychic damage\
-    \ at the start of each of its turns until the grapple ends. The elder brain can\
-    \ have up to four targets [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ at a time."
+    \ Hit: dice: 4d8 + 2|avg (4d8 + 2) bludgeoning damage. If the target is\
+    \ a Huge or smaller creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 15) and takes dice: 1d8 + 5|avg (1d8 + 5) psychic damage at the\
+    \ start of each of its turns until the grapple ends. The elder brain can have\
+    \ up to four targets [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] at a\
+    \ time."
   "name": "Tentacle"
 - "desc": "Creatures of the elder brain's choice within 60 feet of it must succeed\
-    \ on a DC 18 Intelligence saving throw or take 32 (dice: 5d10 + 5|avg (5d10\
-    \ + 5)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
-    \ for 1 minute. A target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+    \ on a DC 18 Intelligence saving throw or take dice: 5d10 + 5|avg (5d10 + 5)\
+    \ psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] for\
+    \ 1 minute. A target can repeat the saving throw at the end of each of its turns,\
+    \ ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"
 "bonus_actions":
 - "desc": "The elder brain targets one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
@@ -106,9 +106,9 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     \ and the elder brain can terminate the link at any time (no action required).\
     \ The target can use an action on its turn to attempt to break the link, doing\
     \ so with a successful DC 18 Charisma saving throw. On a successful save, the\
-    \ target takes 10 (dice: 3d6|avg (3d6)) psychic damage. The link also ends\
-    \ if the target and the elder brain are more than 5 miles apart. The elder brain\
-    \ can form psychic links with up to ten creatures at a time."
+    \ target takes dice: 3d6|avg (3d6) psychic damage. The link also ends if the\
+    \ target and the elder brain are more than 5 miles apart. The elder brain can\
+    \ form psychic links with up to ten creatures at a time."
   "name": "Psychic Link"
 - "desc": "The elder brain targets a creature with which it has a psychic link. The\
     \ elder brain gains insight into the target's emotional state and foremost thoughts\
@@ -117,12 +117,12 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "legendary_actions":
 - "desc": "The elder brain targets one creature within 120 feet of it with which it\
     \ has a psychic link. The elder brain breaks the creature's [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\
-    \ on a spell it has cast. The creature also takes 2 (dice: 1d4|avg (1d4))\
-    \ psychic damage per level of the spell."
+    \ on a spell it has cast. The creature also takes dice: 1d4|avg (1d4) psychic\
+    \ damage per level of the spell."
   "name": "Break Concentration"
 - "desc": "The elder brain targets one creature within 120 feet of it with which it\
     \ has a psychic link. The target and enemies of the elder brain within 30 feet\
-    \ of target take 10 (dice: 3d6|avg (3d6)) psychic damage."
+    \ of target take dice: 3d6|avg (3d6) psychic damage."
   "name": "Psychic Pulse"
 - "desc": "The elder brain targets one creature within 120 feet of it with which it\
     \ has a psychic link. The elder brain ends the link, causing the creature to have\

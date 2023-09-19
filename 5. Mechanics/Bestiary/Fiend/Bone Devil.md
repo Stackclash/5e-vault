@@ -107,7 +107,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -174,14 +174,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes three attacks: two with its claws and one with its sting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage plus 17 (dice:\
-    \ 5d6|avg (5d6)) poison damage, and the target must succeed on a DC 14 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage plus dice: 5d6|avg\
+    \ (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Sting"
 "source":
 - "MM"

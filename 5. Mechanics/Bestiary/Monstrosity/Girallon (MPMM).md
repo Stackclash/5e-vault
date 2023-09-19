@@ -50,10 +50,10 @@ Girallons that are well treated might be willing to serve as guards, though they
 - "desc": "The girallon makes one Bite attack and four Claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage."
   "name": "Claw"
 "bonus_actions":
 - "desc": "The girallon moves up to its speed toward a hostile creature that it can\

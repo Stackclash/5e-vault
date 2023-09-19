@@ -10,6 +10,7 @@ aliases: ["Apparatus of Kwalish"]
 ---
 # Apparatus of Kwalish
 *Wondrous Item, major, legendary*  
+![[5. Mechanics/Items/img/apparatus-of-kwalish.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 500.0 lbs.

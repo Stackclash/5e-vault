@@ -8,8 +8,6 @@ aliases: ["Downtime Revisited"]
 # Downtime Revisited
 *Source: Xanathar's Guide to Everything p. 123* 
 
-## Downtime Revisited
-
 It's possible for the characters to start a campaign at 1st level, dive into an epic story, and reach 10th level and beyond in a short amount of game time. Although that pace works fine for many campaigns, some DMs prefer a campaign story with pauses built into it—times when adventurers are not going on adventures. The downtime rules given in this section can be used as alternatives to the approach in the "Player's Handbook" and the "Dungeon Master's Guide", or you can use the material here to inspire the creation of your own options.
 
 By engaging the characters in downtime activities that take weeks or even months to complete, you can give your campaign a longer time line—one in which events in the world play out over years. Wars begin and end, tyrants come and go, and royal lines rise and fall over the course of the story that you and the characters tell.
@@ -18,13 +16,13 @@ Downtime rules also provide ways for characters to spend—or be relieved of—t
 
 The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
 
-### Rivals
+## Rivals
 
 Rivals are NPCs who oppose the characters and make their presence felt whenever the characters are engaging in downtime. A rival might be a villain you have featured in past adventures or plan to use in the future. Rivals can also include good or neutral folk who are at odds with the characters, whether because they have opposing goals or they simply dislike one another. The cultist of Orcus whose plans the characters have foiled, the ambitious merchant prince who wants to rule the city with an iron fist, and the nosy high priest of Helm who is convinced the characters are up to no good are all examples of rivals.
 
 A rival's agenda changes over time. Though the characters engage in downtime only between adventures, their rivals rarely rest, continuing to spin plots and work against the characters even when the characters are off doing something else.
 
-#### Creating a Rival
+### Creating a Rival
 
 In essence, a rival is a somewhat specialized NPC. You can use chapter 4 of the Dungeon Master's Guide to build a new NPC for this purpose, or pick one from your current cast of supporting characters and embellish that NPC as described below.
 
@@ -60,15 +58,15 @@ The best rivals have a connection with their adversaries on a personal level. Fi
 
 To add the right amount of detail to a rival you want to create, give some thought to what that NPC is trying to accomplish and what resources and methods the rival can bring to bear against the characters.
 
-##### Goals
+#### Goals
 
 An effective rival has a clear reason for interfering with the characters' lives. Think about what the rival wants, how and why the characters stand in the way, and how the conflict could be resolved. Ideally, a rival's goal directly involves the characters or something they care about.
 
-##### Assets
+#### Assets
 
 Think about the resources the rival can marshal. Does the character have enough money to pay bribes or to hire a small gang of mercenaries? Does the rival hold sway over any guilds, temples, or other groups? Make a list of the rival's assets, and consider how they can be used.
 
-##### Plans
+#### Plans
 
 The foundation of a rival's presence in the campaign is the actions the rival takes or the events that occur as a result of that character's goals. Each time you resolve one or more workweeks of downtime, pick one of the ways a rival's plans might be advanced and introduce it into play.
 
@@ -78,13 +76,13 @@ A rival's action might be a direct attack, such as an assassination attempt, tha
 
 Some elements of a rival's plans might involve events in the world that aren't under the rival's control. Whether such an event can be easily anticipated or not, the rival's plans might include contingencies for taking advantage of such happenings.
 
-### Downtime Activities
+## Downtime Activities
 
 Downtime activities are tasks that usually take a workweek (5 days) or longer to perform. These tasks can include buying or creating magic items, pulling off crimes, and working at a job. A character selects a downtime activity from among those available and pays the cost of that activity in time and money. You, as DM, then follow the rules for the activity to resolve it, informing the player of the results and any complications that ensue.
 
 Consider handling downtime away from the game table. For example, you could have the players pick their downtime activities at the end of a session, and then communicate about them by email or text, until you next see them in person.
 
-#### Resolving Activities
+### Resolving Activities
 
 The description of each activity tells you how to resolve it. Many activities require an ability check, so be sure to note the character's relevant ability modifiers. Follow the steps in the activity, and determine the results.
 
@@ -92,13 +90,13 @@ Most downtime activities require a workweek (5 days) to complete. Some activitie
 
 The days of an activity don't need to be consecutive; you can spread them over a longer period of time than is required for the activity. But that period of time should be no more than twice as long as the required time; otherwise you should introduce extra complications (see below) and possibly double the activity's costs to represent the inefficiency of the character's progress.
 
-#### Complications
+### Complications
 
 The description of each activity includes a discussion of complications you can throw at the characters. The consequences of a complication might spawn entire adventures, introduce NPCs to vex the party, or give the characters headaches or advantages in any number of other ways.
 
 Each of these sections has a table that offers possible complications. You can roll to determine a complication randomly, pick one from the table, or devise one of your own, and then share it with the player.
 
-### Example Downtime Activities
+## Example Downtime Activities
 
 The following activities are suitable for any character who can afford to pursue them. As DM, you have the final say on which activities are available to the characters. The activities you allow might depend on the nature of the area where the characters are located. For example, you might disallow the creation of magic items or decide that the characters are in a town that is too isolated from major markets for them to buy such items.
 

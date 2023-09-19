@@ -12,8 +12,8 @@ aliases: ["Desert Encounters (Levels 1—4)"]
 
 **Desert Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 3d8\|avg` (`3d8`) [[5. Mechanics/Bestiary/Beast/Scorpion.md\|scorpions]] |
 | 02 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Vulture.md\|vultures]] |
 | 03 | 1 abandoned [[5. Mechanics/Bestiary/Beast/Mule.md\|mule]] |

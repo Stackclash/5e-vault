@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
 - optional-feature/pb
 aliases: ["Pact of the Chain"]
 ---
 # Pact of the Chain
-*Source: Player's Handbook p. 107. Available in the SRD.* 
+*Source: Player's Handbook p. 107. Available in the SRD.*  
 
 You learn the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
 

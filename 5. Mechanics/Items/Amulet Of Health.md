@@ -11,6 +11,7 @@ aliases: ["Amulet of Health"]
 ---
 # Amulet of Health
 *Wondrous Item, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/amulet-of-health.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

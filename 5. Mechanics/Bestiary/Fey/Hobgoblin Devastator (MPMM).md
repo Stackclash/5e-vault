@@ -18,7 +18,7 @@ Far from being cloistered academics, hobgoblin devastators are masters of the ba
 
 In the Feywild, many archfey seek to bolster their armies' might with the services of hobgoblin devastators.
 
-> [!quote] Goblinoids of the Feywild
+> [!note] Goblinoids of the Feywild
 > 
 > The goblinoid peoples—goblins, hobgoblins, and bugbears—first appeared in the Feywild millennia ago, and they resided there until the god Maglubiyet conquered them. They then spread throughout the multiverse, with many of them ending up on the worlds of the Material Plane. Most goblinoids encountered on those worlds are members of families that have been away from the Feywild for centuries, and over time, those lineages have become Humanoid. Fey goblinoids, who still bear the magic of the Feywild, are rare on the Material Plane but not unheard of. Hobgoblin devastators are examples of such Fey folk, as are hobgoblin iron shadows and nilbogs (also in this book).
 ^goblinoids-of-the-feywild
@@ -62,13 +62,13 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 - "desc": "The hobgoblin makes two Quarterstaff or Devastating Bolt attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage, or 5 (dice:\
-    \ 1d8 + 1|avg (1d8 + 1)) bludgeoning damage if used with two hands, plus 13\
-    \ (dice: 3d8|avg (3d8)) force damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage, or dice: 1d8 + 1|avg\
+    \ (1d8 + 1) bludgeoning damage if used with two hands, plus dice: 3d8|avg\
+    \ (3d8) force damage."
   "name": "Quarterstaff"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 60 ft., one target.\
-    \ Hit: 21 (dice: 4d8 + 3|avg (4d8 + 3)) force damage, and the target is\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 4d8 + 3|avg (4d8 + 3) force damage, and the target is knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Devastating Bolt"
 "source":
 - "MPMM"

@@ -77,7 +77,7 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 - "desc": "The spore servant makes two claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

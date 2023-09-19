@@ -41,7 +41,7 @@ Humanoid emotions are foreign to most yuan-ti, which understand sentiment only a
 
 Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they worship. Instead, they see worship as a means to attain power. A yuan-ti believes an individual who attains enough power can devour and replace one of the yuan-ti gods. The yuan-ti strive for ascension and are willing to commit the darkest atrocities to achieve it.
 
-> [!quote] Serpent Gods
+> [!note] Serpent Gods
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
@@ -97,11 +97,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - "desc": "The yuan-ti makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
   "name": "Scimitar"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) poison damage."
+    \ target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
   "name": "Shortbow"
 "source":
 - "MM"

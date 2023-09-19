@@ -54,7 +54,7 @@ The war chief of an orc tribe is its strongest and most cunning member. The reig
 
 Gruumsh bestows special blessings upon war chiefs who prove themselves in battle time and again, imbuing them with slivers of his savagery. A war chief so blessed finds that his weapons cut deeper into his enemies, allowing him to inflict more carnage.
 
-> [!quote] King Obould Many-Arrows
+> [!note] King Obould Many-Arrows
 > 
 > King Obould of the Many-Arrows tribe is a legend among the orc war chiefs of the Forgotten Realms, and he is the most famous orc chief in the history of the D&D game.
 > 
@@ -100,8 +100,8 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."
   "name": "Aggressive"
-- "desc": "The orc deals an extra 4 (dice: 1d8|avg (1d8)) damage when it hits\
-    \ with a weapon attack (included in the attacks)."
+- "desc": "The orc deals an extra dice: 1d8|avg (1d8) damage when it hits with\
+    \ a weapon attack (included in the attacks)."
   "name": "Gruumsh's Fury"
 "actions":
 - "desc": "The orc makes two attacks with its greataxe or its spear."
@@ -112,8 +112,8 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
   "name": "Greataxe"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
     \ or range 20/60 ft., one target. Hit: 12 (dice: 1d6 + 4|avg (1d6 + 4) plus\
-    \ dice: 1d8|avg (1d8)) piercing damage, or 13 (dice: 2d8 + 4|avg (2d8 +\
-    \ 4)) piercing damage if used with two hands to make a melee attack."
+    \ dice: 1d8|avg (1d8)) piercing damage, or dice: 2d8 + 4|avg (2d8 + 4)\
+    \ piercing damage if used with two hands to make a melee attack."
   "name": "Spear"
 - "desc": "Each creature of the war chief's choice that is within 30 feet of it, can\
     \ hear it, and not already affected by Battle Cry gain advantage on attack rolls\

@@ -17,6 +17,7 @@ aliases: ["Cloudkill"]
 ---
 # Cloudkill
 *5th-level, Conjuration*  
+![[5. Mechanics/Spells/img/cloudkill.jpg#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 120 feet

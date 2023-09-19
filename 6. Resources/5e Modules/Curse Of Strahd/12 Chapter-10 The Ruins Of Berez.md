@@ -26,7 +26,7 @@ The ruins of Berez are now home to [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS)
 
 The following boxed text assumes that the characters approach Berez from the north, along the trail leading from the Old Svalich Road. If they approach from a different direction, don't read the first sentence.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all. Scattered throughout the marsh are old peasant cottages, their walls covered with black mildew, their roofs mostly caved in. These decrepit dwellings seem to hunker down in the mire, as though they have long since given up on escaping the thick mud. Everywhere you look, black clouds of flies dart about, hungry for blood.
 > 
@@ -51,7 +51,7 @@ The following areas correspond to labels on the map of Berez below.
 
 ### U1. Abandoned Cottages
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > As you approach this cluster of ruined cottages separated by low stone walls, you see a short stretch of dirt road that has remained intact.
 ^553
@@ -60,14 +60,14 @@ The cottages contain rotted furnishings and nothing of value. The walls that sep
 
 ### U2. Ulrich Mansion
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Toward the south end of the village lie the remains of a mansion built on higher ground. It has been reduced to piles of stone and rotting timber. Empty, arched windows stare at you. South of the ruin, an untamed garden runs rampant, surrounded by broken walls that are no longer able to contain it. East of the ruin, someone has erected a crude wooden fence, forming a circular yard in which several goats are penned. Surmounting the fence posts are human skulls.
 ^555
 
 The ruined mansion is littered with the rotted remains of furniture and decor. The last burgomaster of Berez, Lazlo Ulrich, haunts the ruin as a [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]]. If the characters search the mansion, the ghost appears before them:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A ghost takes shape in the fog, assuming the form of a giant of a man, his features mutilated and his entrails hanging out like frayed ropes. Despite its intimidating presence, the apparition has a cringing light in its eyes. "Why do you invade my home? Begone, I beseech you!"
 ^556
@@ -80,7 +80,7 @@ Ulrich's ghost is neutral good. It attacks if threatened or if the characters be
 
 If your card reading reveals that a treasure is hidden in Berez, Ulrich's ghost points the characters to the treasure's true location, saying these words as it fades away:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > "Travel west. Two hundred paces from the mansion lies a monument to my folly and the treasure you seek."
 ^558
@@ -105,7 +105,7 @@ There is no gate in the fence, and [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS)
 
 ### U3. Baba Lysaga's Hut
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider.
 > 
@@ -113,7 +113,7 @@ There is no gate in the fence, and [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS)
 ^55d
 
 > [!gallery]
-> ![Map 10.2: [Baba Lysaga](co...](compendium/adventures/curse-of-strahd/img/101-cos10-02.jpg#gallery "Map 10.2: [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]]'s Creeping Hut")
+> ![[6. Resources/5e Modules/Curse Of Strahd/img/101-cos10-02.jpg#gallery\|Map 10.2: Baba Lysaga's Creeping Hut]]
 > ![[6. Resources/5e Modules/Curse Of Strahd/img/102-cos1001.jpg#gallery\|Player Version]]
 
 [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking.
@@ -126,7 +126,7 @@ The upside-down skull that floats next to the hut is a hill giant's skull that [
 
 #### Hut Interior
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The hut is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it. All the furnishings except for the crib are bolted to the floor. Beneath the crib, green light seeps up through cracks between the rotting floorboards.
 ^560
@@ -155,7 +155,7 @@ If your card reading reveals that a treasure is here, it's in the chest with the
 
 ### U4. Churchyard
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Through the fog you see the empty shell an old stone church, north of which is a cemetery of leaning gravestones enclosed by a disintegrating iron fence. Half of the cemetery has sunk into the mire.
 ^564
@@ -168,7 +168,7 @@ Strahd had this monument erected after Marina's death. The monument is hidden in
 
 The following boxed text assumes that the characters have met [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]]. If they have not, don't read the sentence that mentions her.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]]. Carved into the monument's base is an epitaph.
 ^566
@@ -181,7 +181,7 @@ If your card reading reveals that a treasure is here, it is hidden in a cavity u
 
 If the characters disturb the monument, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The croaking frogs and chirping crickets fall silent, and the stench of decay grows strong. You hear the trudge of heavy footsteps through mud and water as bloated gray shapes shamble out of the fog.
 ^568
@@ -192,7 +192,7 @@ Characters can take the treasure and flee, easily outpacing the snake-swollen co
 
 ### U6. Standing Stones
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A dozen moss-covered menhirs form a near-perfect circle in the spongy earth. These weathered stones range in height from 15 to 18 feet. A couple of them lean inward as if to share some great secret with their inscrutable neighbors. A wary-looking peasant woman lurks behind the tallest stone, a rusty lantern clutched in one gnarled hand and a dagger clutched in the other.
 ^56a
@@ -215,7 +215,7 @@ The circle is 100 feet across, and the menhirs are spaced apart at regular inter
 
 The standing stones are nonmagical. However, druid characters who enter the circle can sense that powerful gods once blessed this site, and that it still holds some measure of power. They can also sense one of its properties, namely that creatures within the circle can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-The circle has another property that druid characters can't sense but might discover when they use the Wild Shape feature within the circle's confines. Any druid that uses the Wild Shape feature within the circle gains the maximum number of hit points available to the new form. For example, a druid character using the Wild Shape feature to assume the form of a giant eagle would have 44 (`dice: 4d10 + 4|avg` (`4d10 + 4`)) hit points while in that form.
+The circle has another property that druid characters can't sense but might discover when they use the Wild Shape feature within the circle's confines. Any druid that uses the Wild Shape feature within the circle gains the maximum number of hit points available to the new form. For example, a druid character using the Wild Shape feature to assume the form of a giant eagle would have `dice: 4d10 + 4|avg` (`4d10 + 4`) hit points while in that form.
 
 At your discretion, the circle might have other strange properties that have been forgotten over time. Although she knows something of the circle's history, Muriel is unaware of its properties.
 
@@ -227,7 +227,7 @@ You can use one or both of the following special events while the characters are
 
 [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]] has given a semblance of life to her hut using a magic gemstone stolen from the Wizard of Wines vineyard. If the characters overstay their welcome, she commands the hut to animate and attack them. If this happens, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The giant roots beneath the hut come to life and pull themselves up out of the mire. The hut and the roots lurch and groan, becoming a lumbering mass that cracks as it walks, crushing all in its path.
 ^56e
@@ -238,7 +238,7 @@ You can use one or both of the following special events while the characters are
 
 This event occurs as the characters travel north of Berez after leaving the ruins.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You hear sounds of battle, but the fog has grown so thick that you can barely see more than sixty feet in any direction. Suddenly, the fog takes on the forms of soldiers on horseback charging across the field. They collide with armored pike-bearers wearing devil-horned helms. As each soldier falls in battle, it turns to fading mist. Hundreds more soldiers collide in a storm of screams and clashing metal.
 ^570
@@ -247,7 +247,7 @@ Characters can move through this ghostly battlefield unscathed, and they can't h
 
 If the characters have not yet explored Argynvostholt (chapter 7), add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You hear a thunderous roar, and seconds later a huge dragon made of silver mist glides overhead, dispersing enemy soldiers with each flap of its mighty wings. Its long, reptilian tail slices through the air above you as the dragon carves a swath through the fog, affording you a fleeting glimpse of a dark mansion overlooking the valley.
 ^571

@@ -65,8 +65,8 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
   "name": "Web Walker"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing\
-    \ damage plus 10 (dice: 3d6|avg (3d6)) poison damage."
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
+    \ damage plus dice: 3d6|avg (3d6) poison damage."
   "name": "Dagger"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 30/60 ft., one\
     \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
@@ -78,8 +78,8 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "bonus_actions":
 - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of itself.\
     \ The choldrith can make a melee spell attack (dice: d20+4 (+4 to hit)) against\
-    \ one creature within 5 feet of the dagger. On a hit, the target takes 6 (dice:\
-    \ 1d8 + 2|avg (1d8 + 2)) force damage.\n\nThe dagger lasts for 1 minute. As\
+    \ one creature within 5 feet of the dagger. On a hit, the target takes dice:\
+    \ 1d8 + 2|avg (1d8 + 2) force damage.\n\nThe dagger lasts for 1 minute. As\
     \ a bonus action on later turns, the choldrith can move the dagger up to 20 feet\
     \ and repeat the attack against one creature within 5 feet of the dagger."
   "name": "Spectral Dagger (Recharges after a Short or Long Rest)"

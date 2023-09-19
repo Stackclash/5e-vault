@@ -8,6 +8,7 @@ aliases: ["Trinket"]
 ---
 # Trinket
 *Adventuring Gear*  
+![[5. Mechanics/Items/img/trinket-phb.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤
@@ -16,8 +17,8 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 **Player's Handbook Trinket Table**
 
-| `dice: d100\|avg` (`d100`) | Trinket |
-|-------------|--------------|---------|
+| dice: d100 | Trinket |
+|------------|---------|
 | 01 | A mummified goblin hand |
 | 02 | A piece of crystal that faintly glows in the moonlight |
 | 03 | A gold coin minted in an unknown land |

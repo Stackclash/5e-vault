@@ -57,8 +57,8 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
     \ after which it gains a number of Hit Dice (d8s) equal to half the creature's\
     \ number of Hit Dice. Roll those dice, and increase the nabassu's hit points by\
     \ the numbers rolled. For every 4 Hit Dice the nabassu gains in this way, its\
-    \ attacks deal an extra 3 (dice: 1d6|avg (1d6)) damage on a hit. The nabassu\
-    \ retains these benefits for 6 days. A creature devoured by a nabassu can be restored\
+    \ attacks deal an extra dice: 1d6|avg (1d6) damage on a hit. The nabassu retains\
+    \ these benefits for 6 days. A creature devoured by a nabassu can be restored\
     \ to life only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
   "name": "Devour Soul"
 - "desc": "The nabassu has advantage on saving throws against spells and other magical\
@@ -69,19 +69,19 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
     \ Gaze."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: 38 (dice: 5d12 + 6|avg (5d12 + 6)) necrotic damage."
+    \ Hit: dice: 5d12 + 6|avg (5d12 + 6) necrotic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) force damage."
+    \ Hit: dice: 4d10 + 6|avg (4d10 + 6) force damage."
   "name": "Claw"
 - "desc": "The nabassu targets one creature it can see within 30 feet of it. If the\
     \ target isn't a Construct or an Undead, it must succeed on a DC 16 Charisma saving\
-    \ throw or take 13 (dice: 2d12|avg (2d12)) necrotic damage. The target's hit\
-    \ point maximum is reduced by an amount equal to the necrotic damage dealt, and\
-    \ the nabassu regains hit points equal to half that amount. This reduction lasts\
-    \ until the target finishes a short or long rest. The target dies if its hit point\
-    \ maximum is reduced to 0, and if the target is a Humanoid, it immediately rises\
-    \ as a [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]] under the nabassu's control."
+    \ throw or take dice: 2d12|avg (2d12) necrotic damage. The target's hit point\
+    \ maximum is reduced by an amount equal to the necrotic damage dealt, and the\
+    \ nabassu regains hit points equal to half that amount. This reduction lasts until\
+    \ the target finishes a short or long rest. The target dies if its hit point maximum\
+    \ is reduced to 0, and if the target is a Humanoid, it immediately rises as a\
+    \ [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]] under the nabassu's control."
   "name": "Soul-Stealing Gaze"
 "source":
 - "MPMM"

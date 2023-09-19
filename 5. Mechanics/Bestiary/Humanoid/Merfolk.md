@@ -50,9 +50,9 @@ Merfolk defend their communities with spears crafted from whatever materials the
   "name": "Amphibious"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 3 (dice: 1d6|avg (1d6)) piercing\
-    \ damage, or 4 (dice: 1d8|avg (1d8)) piercing damage if used with two hands\
-    \ to make a melee attack."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6|avg (1d6) piercing damage,\
+    \ or dice: 1d8|avg (1d8) piercing damage if used with two hands to make a\
+    \ melee attack."
   "name": "Spear"
 "source":
 - "MM"

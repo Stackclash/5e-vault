@@ -77,11 +77,11 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - "desc": "The elder oblex makes two Pseudopod attacks, and it uses Eat Memories."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: 17 (dice: 4d6 + 3|avg (4d6 + 3)) bludgeoning damage plus 14 (dice:\
-    \ 4d6|avg (4d6)) psychic damage."
+    \ Hit: dice: 4d6 + 3|avg (4d6 + 3) bludgeoning damage plus dice: 4d6|avg\
+    \ (4d6) psychic damage."
   "name": "Pseudopod"
 - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
-    \ must succeed on a DC 18 Wisdom saving throw or take 44 (dice: 8d10|avg (8d10))\
+    \ must succeed on a DC 18 Wisdom saving throw or take dice: 8d10|avg (8d10)\
     \ psychic damage and become memory drained until it finishes a short or long rest\
     \ or until it benefits from the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ or [[5. Mechanics/Spells/Heal.md|heal]] spell. Constructs, Oozes, Plants, and Undead\

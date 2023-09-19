@@ -12,8 +12,8 @@ aliases: ["Grassland Encounters (Levels 1—5)"]
 
 **Grassland Encounters (Levels 1—5)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice: 1d4 + 1\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
 | 02 | 1 [[5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimera]] |
 | 03 | 1 [[5. Mechanics/Bestiary/Monstrosity/Gorgon.md\|gorgon]] |

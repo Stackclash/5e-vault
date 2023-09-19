@@ -53,10 +53,10 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 - "desc": "The scout makes two melee attacks or two ranged attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 150/600 ft.,\
-    \ one target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Longbow"
 "source":
 - "MM"

@@ -10,6 +10,7 @@ aliases: ["Circlet of Blasting"]
 ---
 # Circlet of Blasting
 *Wondrous Item, major, uncommon*  
+![[5. Mechanics/Items/img/circlet-of-blasting.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

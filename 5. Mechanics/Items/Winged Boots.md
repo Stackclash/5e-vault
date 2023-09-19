@@ -11,6 +11,7 @@ aliases: ["Winged Boots"]
 ---
 # Winged Boots
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/winged-boots.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

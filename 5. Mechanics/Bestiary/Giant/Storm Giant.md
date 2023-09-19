@@ -53,7 +53,7 @@ At the highest level of the ordning, the races of the giants are also ranked acc
 
 Regardless of a giant's rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
 
-> [!quote] Giant Gods
+> [!note] Giant Gods
 > 
 > When the giants' ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants' pantheon.
 > 
@@ -116,14 +116,14 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "desc": "The giant makes two greatsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: 30 (dice: 6d6 + 9|avg (6d6 + 9)) slashing damage."
+    \ Hit: dice: 6d6 + 9|avg (6d6 + 9) slashing damage."
   "name": "Greatsword"
 - "desc": "Ranged Weapon Attack: dice: d20+14 (+14 to hit), range 60/240 ft.,\
-    \ one target. Hit: 35 (dice: 4d12 + 9|avg (4d12 + 9)) bludgeoning damage."
+    \ one target. Hit: dice: 4d12 + 9|avg (4d12 + 9) bludgeoning damage."
   "name": "Rock"
 - "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
     \ feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity\
-    \ saving throw, taking 54 (dice: 12d8|avg (12d8)) lightning damage on a failed\
+    \ saving throw, taking dice: 12d8|avg (12d8) lightning damage on a failed\
     \ save, or half as much damage on a successful one."
   "name": "Lightning Strike (Recharge 5-6)"
 "source":

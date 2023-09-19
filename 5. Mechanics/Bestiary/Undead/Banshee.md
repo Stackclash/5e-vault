@@ -62,12 +62,12 @@ A banshee doesn't require air, food, drink, or sleep.
     \ they're in but not their exact locations."
   "name": "Detect Life"
 - "desc": "The banshee can move through other creatures and objects as if they were\
-    \ difficult terrain. She takes 5 (dice: 1d10|avg (1d10)) force damage if she\
-    \ ends her turn inside an object."
+    \ difficult terrain. She takes dice: 1d10|avg (1d10) force damage if she ends\
+    \ her turn inside an object."
   "name": "Incorporeal Movement"
 "actions":
 - "desc": "Melee Spell Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) necrotic damage."
+    \ Hit: dice: 3d6 + 2|avg (3d6 + 2) necrotic damage."
   "name": "Corrupting Touch"
 - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
     \ must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -81,7 +81,7 @@ A banshee doesn't require air, food, drink, or sleep.
     \ This wail has no effect on constructs and undead. All other creatures within\
     \ 30 feet of her that can hear her must make a DC 13 Constitution saving throw.\
     \ On a failure, a creature drops to 0 hit points. On a success, a creature takes\
-    \ 10 (dice: 3d6|avg (3d6)) psychic damage."
+    \ dice: 3d6|avg (3d6) psychic damage."
   "name": "Wail (1/Day)"
 "source":
 - "MM"

@@ -61,8 +61,8 @@ A helmed horror doesn't require air, food, drink, or sleep.
 - "desc": "The helmed horror makes two longsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
-    \ + 4|avg (1d10 + 4)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+    \ (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
 "source":
 - "MM"

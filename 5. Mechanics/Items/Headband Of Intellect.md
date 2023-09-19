@@ -11,6 +11,7 @@ aliases: ["Headband of Intellect"]
 ---
 # Headband of Intellect
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/headband-of-intellect.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

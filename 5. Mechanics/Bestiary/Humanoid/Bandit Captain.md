@@ -53,10 +53,10 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
     \ its dagger. Or the captain makes two ranged attacks with its daggers."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Scimitar"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing\
     \ damage."
   "name": "Dagger"
 "reactions":

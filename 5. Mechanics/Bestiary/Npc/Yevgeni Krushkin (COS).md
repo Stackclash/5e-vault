@@ -2,21 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Yevgeni Krushkin"]
 ---
 # Yevgeni Krushkin
-*Source: Curse of Strahd p. 100, Derived from Scout (MM)*  
+*Source: Curse of Strahd p. 100, Derived from *  
 
 ```statblock
 "name": "Yevgeni Krushkin"
@@ -51,17 +42,13 @@ aliases: ["Yevgeni Krushkin"]
 - "desc": "Yevgeni makes two melee attacks or two ranged attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 150/600 ft.,\
-    \ one target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Longbow"
 "source":
 - "CoS"
 "image": "compendium/bestiary/npc/token/yevgeni-krushkin.png"
 ```
 ^statblock
-
-## Environment
-
-coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert

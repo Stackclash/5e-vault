@@ -37,7 +37,7 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
   "name": "Illumination"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+1 (+1 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d6 - 1|avg (1d6 - 1)) slashing damage."
+    \ Hit: dice: 1d6 - 1|avg (1d6 - 1) slashing damage."
   "name": "Bite"
 "source":
 - "MM"

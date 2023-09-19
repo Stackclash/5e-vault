@@ -2,18 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/swamp
-- monster/environment/urban
 - monster/size/medium
 - monster/type/undead
 aliases: ["Sir Godfrey Gwilym"]
 ---
 # Sir Godfrey Gwilym
-*Source: Curse of Strahd p. 139, Derived from Knight of the Order (CoS)*  
+*Source: Curse of Strahd p. 139, Derived from *  
 
 ```statblock
 "name": "Sir Godfrey Gwilym"
@@ -73,16 +67,16 @@ aliases: ["Sir Godfrey Gwilym"]
 - "desc": "The knight makes two longsword attacks or two fist attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) slashing damage. If the target\
-    \ is a creature against which the knight has sworn vengeance, the target takes\
-    \ an extra 14 (dice: 4d6|avg (4d6)) slashing damage."
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) slashing damage. If the target is a\
+    \ creature against which the knight has sworn vengeance, the target takes an extra\
+    \ dice: 4d6|avg (4d6) slashing damage."
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage. If the target\
-    \ is a creature against which the knight has sworn vengeance, the target takes\
-    \ an extra 14 (dice: 4d6|avg (4d6)) bludgeoning damage. Instead of dealing\
-    \ damage, the knight can grapple the target (escape DC 14) provided the target\
-    \ is Large or smaller."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage. If the target is\
+    \ a creature against which the knight has sworn vengeance, the target takes an\
+    \ extra dice: 4d6|avg (4d6) bludgeoning damage. Instead of dealing damage,\
+    \ the knight can grapple the target (escape DC 14) provided the target is Large\
+    \ or smaller."
   "name": "Fist"
 - "desc": "The knight targets one creature it can see within 30 feet of it and against\
     \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
@@ -99,7 +93,3 @@ aliases: ["Sir Godfrey Gwilym"]
 "image": "compendium/bestiary/npc/token/sir-godfrey-gwilym.png"
 ```
 ^statblock
-
-## Environment
-
-forest, swamp, hill, urban, desert, arctic

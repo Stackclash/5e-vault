@@ -52,16 +52,15 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
     \ or harpoon."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) slashing damage."
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
   "name": "Claws"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4))\
-    \ piercing damage. If the target is a Huge or smaller creature, it must succeed\
-    \ on a Strength contest against the merrow or be pulled up to 20 feet toward the\
-    \ merrow."
+    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
+    \ damage. If the target is a Huge or smaller creature, it must succeed on a Strength\
+    \ contest against the merrow or be pulled up to 20 feet toward the merrow."
   "name": "Harpoon"
 "source":
 - "MM"

@@ -60,13 +60,13 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
     \ Intellect."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
   "name": "Claws"
 - "desc": "The intellect devourer targets one creature it can see within 10 feet of\
     \ it that has a brain. The target must succeed on a DC 12 Intelligence saving\
-    \ throw against this magic or take 11 (dice: 2d10|avg (2d10)) psychic damage.\
-    \ Also on a failure, roll dice: 3d6|avg (3d6): If the total equals or exceeds\
-    \ the target's Intelligence score, that score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ throw against this magic or take dice: 2d10|avg (2d10) psychic damage. Also\
+    \ on a failure, roll dice: 3d6|avg (3d6): If the total equals or exceeds the\
+    \ target's Intelligence score, that score is reduced to 0. The target is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until it regains at least one point of Intelligence."
   "name": "Devour Intellect"
 - "desc": "The intellect devourer initiates an Intelligence contest with an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\

@@ -11,6 +11,7 @@ aliases: ["Ring of the Ram"]
 ---
 # Ring of the Ram
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-the-ram.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -12,8 +12,8 @@ aliases: ["Human Names – Niger-Congo, Female"]
 
 **Human Names – Niger-Congo, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abebi |
 | 03-04 | Abena |
 | 05-06 | Abimbola |

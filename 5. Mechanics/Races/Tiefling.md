@@ -8,6 +8,7 @@ aliases: ["Tiefling"]
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the SRD.*  
+![[5. Mechanics/Races/img/tiefling.png#right]]  
 
 - **Ability Scores**: Charisma +2, Intelligence +1
 - **Type**: race
@@ -63,7 +64,7 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 - **Female Infernal Names.** Akra, Anakis, Bryseis, Criella, Ea, Kallista, Lerissa, Makaria, Nemeia, Phelaia, Rieta  
 - **Virtue Names.** Art, Carrion, Chant, Creed, Despair, Fear, Glory, Hope, Ideal, Music, Nowhere, Poetry, Quest, Random, Reverence, Sorrow, Torment, Weary  
 
-> [!quote] Mutual Mistrust
+> [!note] Mutual Mistrust
 > 
 > People tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. Shopkeepers keep a close eye on their goods when tieflings enter their stores, the town watch might follow a tiefling around for a while, and demagogues blame tieflings for strange happenings. The reality, though, is that a tiefling's bloodline doesn't affect his or her personality to any great degree. Years of dealing with mistrust does leave its mark on most tieflings, and they respond to it in different ways. Some choose to live up to the wicked stereotype, but others are virtuous. Most are simply very aware of how people respond to them. After dealing with this mistrust throughout youth, a tiefling often develops the ability to overcome prejudice through charm or intimidation.
 ^mutual-mistrust

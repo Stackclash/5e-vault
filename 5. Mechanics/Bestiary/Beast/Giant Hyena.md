@@ -41,7 +41,7 @@ aliases: ["Giant Hyena"]
   "name": "Rampage"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

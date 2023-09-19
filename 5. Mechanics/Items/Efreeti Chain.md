@@ -11,6 +11,7 @@ aliases: ["Efreeti Chain"]
 ---
 # Efreeti Chain
 *Heavy Armor, major, legendary (requires attunement)*  
+![[5. Mechanics/Items/img/efreeti-chain.jpg#right]]  
 
 - **Armor Class**: 16
 - **Properties**: Requires Attunement

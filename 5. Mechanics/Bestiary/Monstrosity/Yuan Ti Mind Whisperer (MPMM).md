@@ -65,14 +65,14 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
     \ two Spectral Fangs attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 7 (dice: 2d6|avg\
-    \ (2d6)) poison damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: 16 (dice: 3d8 + 3|avg (3d8 + 3)) psychic damage."
+    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) psychic damage."
   "name": "Spectral Fangs"
 "bonus_actions":
 - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\

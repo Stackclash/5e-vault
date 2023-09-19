@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- background
 - compendium/src/5e/phb
 aliases: ["Sailor (Pirate) (Variant)"]
 ---
 # Sailor (Pirate) (Variant)
-*Source: Player's Handbook p. 139, Derived from Sailor (PHB)*  
+*Source: Player's Handbook p. 139, Derived from *  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Navigators Tools.md\|Navigator's tools]], vehicles (water)  

@@ -96,7 +96,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "languages": "Common, Goblin"
 "cr": "6"
 "traits":
-- "desc": "Once per turn, the hobgoblin can deal an extra 14 (dice: 4d6|avg (4d6))\
+- "desc": "Once per turn, the hobgoblin can deal an extra dice: 4d6|avg (4d6)\
     \ damage to a creature it hits with a weapon attack if that creature is within\
     \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
@@ -105,17 +105,17 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
     \ ranged attacks with its javelins."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
-    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+    \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage. If the target\
-    \ is Large or smaller, it must succeed on a DC 14 Strength saving throw or be\
-    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage. If the target is\
+    \ Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked\
+    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shield Bash"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3))\
-    \ piercing damage."
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing\
+    \ damage."
   "name": "Javelin"
 - "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\

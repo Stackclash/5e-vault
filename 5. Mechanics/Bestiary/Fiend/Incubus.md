@@ -73,7 +73,7 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
   "name": "Shapechanger"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Claw (Fiend Form Only)"
 - "desc": "One humanoid the fiend can see within 30 feet of it must succeed on a DC\
     \ 15 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
@@ -87,9 +87,9 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
   "name": "Charm"
 - "desc": "The fiend kisses a creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ by it or a willing creature. The target must make a DC 15 Constitution saving\
-    \ throw against this magic, taking 32 (dice: 5d10 + 5|avg (5d10 + 5)) psychic\
-    \ damage on a failed save, or half as much damage on a successful one. The target's\
-    \ hit point maximum is reduced by an amount equal to the damage taken. This reduction\
+    \ throw against this magic, taking dice: 5d10 + 5|avg (5d10 + 5) psychic damage\
+    \ on a failed save, or half as much damage on a successful one. The target's hit\
+    \ point maximum is reduced by an amount equal to the damage taken. This reduction\
     \ lasts until the target finishes a long rest. The target dies if this effect\
     \ reduces its hit point maximum to 0."
   "name": "Draining Kiss"

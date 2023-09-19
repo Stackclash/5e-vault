@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- background
 - compendium/src/5e/vrgr
 aliases: ["Investigator"]
 ---
 # Investigator
 *Source: Van Richten's Guide to Ravenloft p. 35*  
+![[5. Mechanics/Backgrounds/img/investigator.png#right]]  
 
 - **Skill Proficiencies.** Choose two from among [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Disguise Kit.md\|Disguise kit]], [[5. Mechanics/Items/Thieves Tools.md\|Thieves' tools]]  

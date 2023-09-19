@@ -62,10 +62,10 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 - "desc": "The harpy makes two attacks: one with its claws and one with its club."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) slashing damage."
+    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) slashing damage."
   "name": "Claws"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage."
   "name": "Club"
 - "desc": "The harpy sings a magical melody. Every humanoid and giant within 300 feet\
     \ of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw\

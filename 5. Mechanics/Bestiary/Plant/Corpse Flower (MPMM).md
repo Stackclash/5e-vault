@@ -56,15 +56,15 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 - "desc": "The corpse flower makes three Tentacle attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) bludgeoning damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) poison damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 3d6|avg\
+    \ (3d6) poison damage."
   "name": "Tentacle"
 - "desc": "The corpse flower swallows one unsecured Humanoid corpse within 10 feet\
     \ of it, along with any equipment the corpse is wearing or carrying."
   "name": "Harvest the Dead"
 "bonus_actions":
 - "desc": "The corpse flower digests one corpse in its body and instantly regains\
-    \ 11 (dice: 2d10|avg (2d10)) hit points. Nothing of the digested corpse remains.\
+    \ dice: 2d10|avg (2d10) hit points. Nothing of the digested corpse remains.\
     \ Any equipment on the corpse is expelled from the corpse flower in its space."
   "name": "Digest"
 - "desc": "The corpse flower animates one corpse in its body, turning it into a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]].\

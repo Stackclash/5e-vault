@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/rn
 aliases: ["Fire Rune"]
 ---
 # Fire Rune
-*Source: Tasha's Cauldron of Everything p. 44* 
+*Source: Tasha's Cauldron of Everything p. 44*  
 
 This rune's magic channels the masterful craftsmanship of great smiths. While wearing or carrying an object inscribed with this rune, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
 

@@ -31,7 +31,7 @@ Gargoyles sometimes serve demons for their propensity for wanton chaos and destr
 
 A gargoyle doesn't require air, food, drink, or sleep.
 
-> [!quote] Shards of Elemental Evil
+> [!note] Shards of Elemental Evil
 > 
 > As Ogrémoch, the evil Prince of Elemental Earth, treads his stony realm, it leaves shards of broken rock in his wake. Imbued with slivers of sentience, these shards thrum with the essence of the elemental prince, growing over long years into vaguely humanoid rock formations that resolve at last into the hard, cruel shapes of gargoyles.
 > 
@@ -71,10 +71,10 @@ A gargoyle doesn't require air, food, drink, or sleep.
 - "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) slashing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

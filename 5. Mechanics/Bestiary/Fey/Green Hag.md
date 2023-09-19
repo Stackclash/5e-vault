@@ -62,7 +62,7 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 
 Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
-> [!quote] Hag Covens
+> [!note] Hag Covens
 > 
 > When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
 > 
@@ -122,7 +122,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": "Mimicry"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Claws"
 - "desc": "The hag covers herself and anything she is wearing or carrying with a magical\
     \ illusion that makes her look like another creature of her general size and humanoid\

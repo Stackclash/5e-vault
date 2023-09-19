@@ -12,8 +12,8 @@ aliases: ["Swamp Encounters (Levels 11—20)"]
 
 **Swamp Encounters (Levels 11—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-10 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md\|giant crocodiles]] |
 | 11-15 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md\|yuan-ti abominations]] |
 | 16-20 | `dice: 1d6 + 1\|avg` (`1d6 + 1`) [[5. Mechanics/Bestiary/Fey/Green Hag.md\|green hags]] |

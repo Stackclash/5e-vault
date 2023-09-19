@@ -151,14 +151,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -211,16 +211,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "19"
 "traits":
 - "desc": "When the balor dies, it explodes, and each creature within 30 feet of it\
-    \ must make a DC 20 Dexterity saving throw, taking 70 (dice: 20d6|avg (20d6))\
-    \ fire damage on a failed save, or half as much damage on a successful one. The\
-    \ explosion ignites flammable objects in that area that aren't being worn or carried,\
-    \ and it destroys the balor's weapons."
+    \ must make a DC 20 Dexterity saving throw, taking dice: 20d6|avg (20d6) fire\
+    \ damage on a failed save, or half as much damage on a successful one. The explosion\
+    \ ignites flammable objects in that area that aren't being worn or carried, and\
+    \ it destroys the balor's weapons."
   "name": "Death Throes"
 - "desc": "At the start of each of the balor's turns, each creature within 5 feet\
-    \ of it takes 10 (dice: 3d6|avg (3d6)) fire damage, and flammable objects\
-    \ in the aura that aren't being worn or carried ignite. A creature that touches\
-    \ the balor or hits it with a melee attack while within 5 feet of it takes 10\
-    \ (dice: 3d6|avg (3d6)) fire damage."
+    \ of it takes dice: 3d6|avg (3d6) fire damage, and flammable objects in the\
+    \ aura that aren't being worn or carried ignite. A creature that touches the balor\
+    \ or hits it with a melee attack while within 5 feet of it takes dice: 3d6|avg\
+    \ (3d6) fire damage."
   "name": "Fire Aura"
 - "desc": "The balor has advantage on saving throws against spells and other magical\
     \ effects."
@@ -231,14 +231,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The balor makes two attacks: one with its longsword and one with its whip."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one target.\
-    \ Hit: 21 (dice: 3d8 + 8|avg (3d8 + 8)) slashing damage plus 13 (dice:\
-    \ 3d8|avg (3d8)) lightning damage. If the balor scores a critical hit, it rolls\
-    \ damage dice three times, instead of twice."
+    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) slashing damage plus dice: 3d8|avg\
+    \ (3d8) lightning damage. If the balor scores a critical hit, it rolls damage\
+    \ dice three times, instead of twice."
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 30 ft., one target.\
-    \ Hit: 15 (dice: 2d6 + 8|avg (2d6 + 8)) slashing damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) fire damage, and the target must succeed on a DC 20 Strength\
-    \ saving throw or be pulled up to 25 feet toward the balor."
+    \ Hit: dice: 2d6 + 8|avg (2d6 + 8) slashing damage plus dice: 3d6|avg\
+    \ (3d6) fire damage, and the target must succeed on a DC 20 Strength saving\
+    \ throw or be pulled up to 25 feet toward the balor."
   "name": "Whip"
 - "desc": "The balor magically teleports, along with any equipment it is wearing or\
     \ carrying, up to 120 feet to an unoccupied space it can see."

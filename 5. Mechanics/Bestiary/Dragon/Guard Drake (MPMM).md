@@ -49,10 +49,10 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 - "desc": "The guard drake makes one Bite attack and one Tail attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
   "name": "Tail"
 "source":
 - "MPMM"

@@ -84,14 +84,14 @@ A naga doesn't require air, food, drink, or sleep.
   "name": "Rejuvenation"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one creature.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage, and the target must\
-    \ make a DC 15 Constitution saving throw, taking 45 (dice: 10d8|avg (10d8))\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage, and the target must\
+    \ make a DC 15 Constitution saving throw, taking dice: 10d8|avg (10d8) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Bite"
 - "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 15/30 ft., one\
     \ creature. Hit: The target must make a DC 15 Constitution saving throw, taking\
-    \ 45 (dice: 10d8|avg (10d8)) poison damage on a failed save, or half as much\
-    \ damage on a successful one."
+    \ dice: 10d8|avg (10d8) poison damage on a failed save, or half as much damage\
+    \ on a successful one."
   "name": "Spit Poison"
 "source":
 - "MM"

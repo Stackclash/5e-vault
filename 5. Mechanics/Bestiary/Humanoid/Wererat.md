@@ -32,7 +32,7 @@ A lycanthrope can either resist its curse or embrace it. By resisting the curse,
 
 Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
 
-> [!quote] Player Characters as Lycanthropes
+> [!note] Player Characters as Lycanthropes
 > 
 > A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.
 > 
@@ -89,15 +89,15 @@ Some individuals see little point in fighting the curse and accept what they are
 - "desc": "The wererat makes two attacks, only one of which can be a bite."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed\
-    \ with wererat lycanthropy."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage. If the target is a humanoid,\
+    \ it must succeed on a DC 11 Constitution saving throw or be cursed with wererat\
+    \ lycanthropy."
   "name": "Bite (Rat or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Shortsword (Humanoid or Hybrid Form Only)"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 30/120 ft., one\
-    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"

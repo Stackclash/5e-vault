@@ -61,15 +61,15 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
     \ one Wolf Bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: 35 (dice: 4d12 + 9|avg (4d12 + 9)) force damage. If the target has\
-    \ at least one head and the molydeus rolled a 20 on the attack roll, the target\
-    \ is decapitated and dies if it can't survive without that head. A target is immune\
+    \ Hit: dice: 4d12 + 9|avg (4d12 + 9) force damage. If the target has at\
+    \ least one head and the molydeus rolled a 20 on the attack roll, the target is\
+    \ decapitated and dies if it can't survive without that head. A target is immune\
     \ to this effect if it takes none of the damage, has legendary actions, or is\
-    \ Huge or larger. Such a creature takes an extra 27 (dice: 6d8|avg (6d8))\
-    \ force damage from the hit."
+    \ Huge or larger. Such a creature takes an extra dice: 6d8|avg (6d8) force\
+    \ damage from the hit."
   "name": "Demonic Weapon"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one creature.\
-    \ Hit: 16 (dice: 2d6 + 9|avg (2d6 + 9)) poison damage. The target must succeed\
+    \ Hit: dice: 2d6 + 9|avg (2d6 + 9) poison damage. The target must succeed\
     \ on a DC 22 Constitution saving throw, or its hit point maximum is reduced by\
     \ an amount equal to the damage taken. This reduction lasts until the target finishes\
     \ a long rest. The target transforms into a [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
@@ -77,7 +77,7 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
     \ only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
   "name": "Snakebite"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: 25 (dice: 3d10 + 9|avg (3d10 + 9)) necrotic damage."
+    \ Hit: dice: 3d10 + 9|avg (3d10 + 9) necrotic damage."
   "name": "Wolf Bite"
 "legendary_actions":
 - "desc": "The molydeus makes one Demonic Weapon or Snakebite attack."

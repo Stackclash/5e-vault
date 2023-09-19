@@ -59,11 +59,11 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 - "desc": "The giant makes two Slam attacks or two Telekinetic Strike attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 10 ft., one target.\
-    \ Hit: 21 (dice: 3d8 + 8|avg (3d8 + 8)) bludgeoning damage plus 5 (dice:\
-    \ 1d10|avg (1d10)) psychic damage."
+    \ Hit: dice: 3d8 + 8|avg (3d8 + 8) bludgeoning damage plus dice: 1d10|avg\
+    \ (1d10) psychic damage."
   "name": "Slam"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 240 ft., one target.\
-    \ Hit: 25 (dice: 4d10 + 3|avg (4d10 + 3)) force damage."
+    \ Hit: dice: 4d10 + 3|avg (4d10 + 3) force damage."
   "name": "Telekinetic Strike"
 - "desc": "The giant magically transforms to look and feel like a Beast or a Humanoid\
     \ it has seen or to return to its true form. Any equipment the giant is wearing\

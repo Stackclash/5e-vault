@@ -157,8 +157,8 @@ What sort of place was your monastery, and where is it located? Did attending it
 
 **Monastery**
 
-| `dice: d6\|avg` (`d6`) | Monastery |
-|-----------|------------|-----------|
+| dice: d6 | Monastery |
+|----------|-----------|
 | 1 | Your monastery is carved out of a mountainside, where it looms over a treacherous pass. |
 | 2 | Your monastery is high in the branches of an immense tree in the Feywild. |
 | 3 | Your monastery was founded long ago by a cloud giant and is inside a cloud castle that can be reached only by flying. |
@@ -176,8 +176,8 @@ If your character's monastery had a special icon, you might wear a crude image o
 
 **Icon**
 
-| `dice: d6\|avg` (`d6`) | Icon |
-|-----------|------------|------|
+| dice: d6 | Icon |
+|----------|------|
 | 1 | Monkey. Quick reflexes and the ability to travel through the treetops are two of the reasons why your order admires the monkey. |
 | 2 | Dragon Turtle. The monks of your seaside monastery venerate the dragon turtle, reciting ancient prayers and offering garlands of flowers to honor this living spirit of the sea. |
 | 3 | Ki-rin. Your monastery sees its main purpose as watching over and protecting the land in the manner of the ki-rin. |
@@ -193,8 +193,8 @@ During your studies, you were likely under the tutelage of a master who imparted
 
 **Master**
 
-| `dice: d6\|avg` (`d6`) | Master |
-|-----------|------------|--------|
+| dice: d6 | Master |
+|----------|--------|
 | 1 | Your master was a tyrant whom you had to defeat in single combat to complete your instruction. |
 | 2 | Your master was kindly and taught you to pursue the cause of peace. |
 | 3 | Your master was merciless in pushing you to your limits. You nearly lost an eye during one especially brutal practice session. |

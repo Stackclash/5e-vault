@@ -12,8 +12,8 @@ aliases: ["Forest Encounters (Levels 17—20)"]
 
 **Forest Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-05 | 1 [[5. Mechanics/Bestiary/Dragon/Young Green Dragon.md\|young green dragon]] |
 | 06-10 | 1 [[5. Mechanics/Bestiary/Plant/Treant.md\|treant]] |
 | 11-13 | 1 [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md\|guardian naga]] |

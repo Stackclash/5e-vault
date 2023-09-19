@@ -80,7 +80,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 - "desc": "The alkilith makes three Tentacle attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 15 ft., one target.\
-    \ Hit: 18 (dice: 4d6 + 4|avg (4d6 + 4)) acid damage."
+    \ Hit: dice: 4d6 + 4|avg (4d6 + 4) acid damage."
   "name": "Tentacle"
 "source":
 - "MPMM"

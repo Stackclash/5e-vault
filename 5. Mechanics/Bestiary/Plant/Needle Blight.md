@@ -59,10 +59,10 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "cr": "1/4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) piercing damage."
+    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage."
   "name": "Claws"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 30/60 ft., one\
-    \ target. Hit: 8 (dice: 2d6 + 1|avg (2d6 + 1)) piercing damage."
+    \ target. Hit: dice: 2d6 + 1|avg (2d6 + 1) piercing damage."
   "name": "Needles"
 "source":
 - "MM"

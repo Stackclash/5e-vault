@@ -41,10 +41,10 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 "cr": "1/8"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
   "name": "Scimitar"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 80/320 ft., one\
-    \ target. Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
+    \ target. Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
   "name": "Light Crossbow"
 "source":
 - "MM"

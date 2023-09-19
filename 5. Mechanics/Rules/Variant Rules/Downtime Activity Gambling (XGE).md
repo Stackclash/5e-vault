@@ -8,15 +8,13 @@ aliases: ["Downtime Activity: Gambling"]
 # Downtime Activity: Gambling
 *Source: Xanathar's Guide to Everything p. 130* 
 
-## Downtime Activity: Gambling
-
 Games of chance are a way to make a fortune—and perhaps a better way to lose one.
 
-### Resources
+## Resources
 
 This activity requires one workweek of effort plus a stake of at least 10 gp, to a maximum of 1,000 gp or more, as you see fit.
 
-### Resolution
+## Resolution
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
@@ -24,7 +22,7 @@ The character makes three checks: Wisdom ([[/5. Mechanics/Rules/Skills.md#Insigh
 
 ![[5. Mechanics/Tables/Gambling Results (XGE).md\|Gambling Results]]
 
-### Complications
+## Complications
 
 Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10% chance chance of a complication, examples of which are on the Gambling Complications table.
 

@@ -107,7 +107,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -174,21 +174,21 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes two attacks: one with its beard and one with its glaive."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage, and the target must\
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage, and the target must\
     \ succeed on a DC 12 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in\
     \ this way, the target can't regain hit points. The target can repeat the saving\
     \ throw at the end of each of its turns, ending the effect on itself on a success."
   "name": "Beard"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) slashing damage. If the target\
-    \ is a creature other than an undead or a construct, it must succeed on a DC 12\
-    \ Constitution saving throw or lose 5 (dice: 1d10|avg (1d10)) hit points at\
-    \ the start of each of its turns due to an infernal wound. Each time the devil\
-    \ hits the wounded target with this attack, the damage dealt by the wound increases\
-    \ by 5 (dice: 1d10|avg (1d10)). Any creature can take an action to stanch\
-    \ the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes\
-    \ if the target receives magical healing."
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage. If the target is a\
+    \ creature other than an undead or a construct, it must succeed on a DC 12 Constitution\
+    \ saving throw or lose dice: 1d10|avg (1d10) hit points at the start of each\
+    \ of its turns due to an infernal wound. Each time the devil hits the wounded\
+    \ target with this attack, the damage dealt by the wound increases by dice: 1d10|avg\
+    \ (1d10). Any creature can take an action to stanch the wound with a successful\
+    \ DC 12 Wisdom (Medicine) check. The wound also closes if the target receives\
+    \ magical healing."
   "name": "Glaive"
 "source":
 - "MM"

@@ -68,12 +68,12 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Psychic Mirror"
 "actions":
 - "desc": "The hulk makes two Slam attacks. If both attacks hit the same target, the\
-    \ target also takes 9 (dice: 2d8|avg (2d8)) psychic damage and must succeed\
-    \ on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ target also takes dice: 2d8|avg (2d8) psychic damage and must succeed on\
+    \ a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the target's next turn."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "The hulk makes a separate Slam attack against each creature within 10 feet\
     \ of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving\

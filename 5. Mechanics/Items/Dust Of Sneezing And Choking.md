@@ -10,6 +10,7 @@ aliases: ["Dust of Sneezing and Choking"]
 ---
 # Dust of Sneezing and Choking
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/dust-of-sneezing-and-choking.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

@@ -10,6 +10,7 @@ aliases: ["Crook of Rao"]
 ---
 # Crook of Rao
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/crook-of-rao.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

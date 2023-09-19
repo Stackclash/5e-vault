@@ -11,6 +11,7 @@ aliases: ["Tasha's Mind Whip"]
 ---
 # Tasha's Mind Whip
 *2nd-level, Enchantment*  
+![[5. Mechanics/Spells/img/tashas-mind-whip.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 90 feet

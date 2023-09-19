@@ -11,6 +11,7 @@ aliases: ["Instrument of the Bards, Doss Lute"]
 ---
 # Instrument of the Bards, Doss Lute
 *Instrument, major, uncommon (requires attunement by a bard)*  
+![[5. Mechanics/Items/img/instrument-of-the-bards-doss-lute.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

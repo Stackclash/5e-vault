@@ -56,7 +56,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 - "desc": "The sibriex emits an aura of corruption 30 feet in every direction. Vegetation\
     \ withers in the aura, and the ground in the aura is difficult terrain for other\
     \ creatures. Any creature that starts its turn in the aura must succeed on a DC\
-    \ 20 Constitution saving throw or take 14 (dice: 4d6|avg (4d6)) poison damage.\
+    \ 20 Constitution saving throw or take dice: 4d6|avg (4d6) poison damage.\
     \ A creature that succeeds on the save is immune to this sibriex's Contamination\
     \ for 24 hours."
   "name": "Contamination"
@@ -69,11 +69,11 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 - "desc": "The sibriex makes three Chain attacks, and it uses Squirt Bile."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 15 ft., one target.\
-    \ Hit: 20 (dice: 2d12 + 7|avg (2d12 + 7)) force damage."
+    \ Hit: dice: 2d12 + 7|avg (2d12 + 7) force damage."
   "name": "Chain"
 - "desc": "The sibriex targets one creature it can see within 120 feet of it. The\
-    \ target must succeed on a DC 20 Dexterity saving throw or take 31 (dice: 9d6|avg\
-    \ (9d6)) acid damage."
+    \ target must succeed on a DC 20 Dexterity saving throw or take dice: 9d6|avg\
+    \ (9d6) acid damage."
   "name": "Squirt Bile"
 - "desc": "The sibriex targets up to three creatures it can see within 120 feet of\
     \ it. Each target must make a DC 20 Constitution saving throw. On a successful\

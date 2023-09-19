@@ -14,6 +14,7 @@ aliases: ["Shadow Blade"]
 ---
 # Shadow Blade
 *2nd-level, Illusion*  
+![[5. Mechanics/Spells/img/shadow-blade.png#right]]  
 
 - **Casting time:** 1 bonus
 - **Range:** Self

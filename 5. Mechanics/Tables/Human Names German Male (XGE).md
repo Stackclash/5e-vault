@@ -12,8 +12,8 @@ aliases: ["Human Names – German, Male"]
 
 **Human Names – German, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Albrecht |
 | 03-04 | Allexander |
 | 05-06 | Baltasar |

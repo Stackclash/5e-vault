@@ -58,7 +58,7 @@ When creating and playing your character, consider courage not as the absence of
 
 Beyond this, discuss with your group how much fear ties into the game's rules. Would you prefer to keep frightful reactions narrative, or would you like to use game rules that present additional challenges and benefits? Ask your DM about the possibility of using the rules for inspiration to motivate fearful character reactions, as detailed in the "[[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]]" section of "chapter 4". Using this system, a character who possesses particular fears and uses them to guide their responses to horrific scenes might earn inspiration for reinforcing the adventure's frightful atmosphere. The DM might not employ these rules every time something frightening occurs, but your group might use them as a way to highlight individual fears and build an adventure's overarching sense of dread.
 
-> [!quote] From the Mists or Beyond?
+> [!note] From the Mists or Beyond?
 > 
 > Not everyone exploring the Domains of Dread comes from those grim lands. Work with the DM to determine your character's origins. Has your character lived their entire life among the Mists? Or do they hail from another D&D setting, a place of your own design, or a more mysterious homeland?
 > 
@@ -93,7 +93,7 @@ Playing horror adventures is similar to telling ghost stories around a fire. You
 
 In the Land of the Mists, power and dread lie in the simple question "What happened to me?" The following lineages are races that characters might gain through remarkable events. These overshadow their original race, if any, becoming their new race. A character might choose a lineage during character creation, their transformation having occurred before play begins. Or, events might unfold during adventures that lead your character to replacing their race with this new lineage. Work with your DM to establish if you're amenable to such a development and how such stories unfold.
 
-> [!quote] What Happened to Me?
+> [!note] What Happened to Me?
 > 
 > The lineages provided in this section represent a physical and magical transformation that alters you in fundamental ways. You can still appear as you once were, but you've changed in significant ways that might overwrite your once physical or magical capabilities. A dragonborn who becomes a dhampir, for instance, loses their connection to their draconic ancestry as the deathless power of vampirism surges through them. Once able to exhale destructive energy, the dragonborn now feels a powerful hunger inside, and their bite is now able to drain life. Some racial traits might remain after you gain a lineage, a possibility captured in the Ancestral Legacy trait. Keep this in mind when you explore the details of how you change after gaining a lineage subsequent to character creation.
 ^what-happened-to-me
@@ -249,7 +249,7 @@ This section presents optional features for any background. You may replace the 
 - Trauma Survivor  
 - Traveler  
 
-> [!quote] Generational Background Features
+> [!note] Generational Background Features
 > 
 > You can use background features to connect characters between campaigns. Characters who have previously adventured in Ravenloft, such as those from a previous Curse of Strahd campaign, make good candidates for being your new character's mentor or relative. Alternatively, the deed of your characters in past adventures might have impacted your new character, throwing them into action or danger. Whatever details you and your DM decide upon, such connections can forge the continuing legend of a whole family of heroes.
 > 

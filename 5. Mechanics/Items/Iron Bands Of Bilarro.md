@@ -10,6 +10,7 @@ aliases: ["Iron Bands of Bilarro"]
 ---
 # Iron Bands of Bilarro
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/iron-bands-of-bilarro.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

@@ -10,6 +10,7 @@ aliases: ["Feywild Shard"]
 ---
 # Feywild Shard
 *Wondrous Item, uncommon (requires attunement by a sorcerer)*  
+![[5. Mechanics/Items/img/feywild-shard.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

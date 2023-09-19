@@ -47,7 +47,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   "name": "Howdah"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage."
   "name": "Mace"
 "source":
 - "MPMM"

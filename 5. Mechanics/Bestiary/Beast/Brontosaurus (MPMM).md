@@ -37,11 +37,11 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "cr": "5"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: 27 (dice: 5d8 + 5|avg (5d8 + 5)) bludgeoning damage, and the target\
-    \ must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 5d8 + 5|avg (5d8 + 5) bludgeoning damage, and the target must\
+    \ succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Stomp"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: 32 (dice: 6d8 + 5|avg (6d8 + 5)) bludgeoning damage"
+    \ Hit: dice: 6d8 + 5|avg (6d8 + 5) bludgeoning damage"
   "name": "Tail"
 "source":
 - "MPMM"

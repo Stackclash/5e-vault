@@ -11,6 +11,7 @@ aliases: ["Necklace of Prayer Beads"]
 ---
 # Necklace of Prayer Beads
 *Wondrous Item, major, rare (requires attunement by a cleric, druid, or paladin)*  
+![[5. Mechanics/Items/img/necklace-of-prayer-beads.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤
@@ -20,14 +21,14 @@ This necklace has `dice: 1d4 + 2|avg` (`1d4 + 2`) magic beads made from aquamari
 
 Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
-| `dice: d20\|avg` (`d20`) | Bead of... | Spell |
-|------------|-------------|------------|-------|
+| dice: d20 | Bead of... | Spell |
+|-----------|------------|-------|
 | 1-6 | Blessing | [[5. Mechanics/Spells/Bless.md\|Bless]] |
 | 7-12 | Curing | [[5. Mechanics/Spells/Cure Wounds.md\|Cure wounds]] (2nd level) or [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
 | 13-16 | Favor | [[5. Mechanics/Spells/Greater Restoration.md\|Greater restoration]] |
 | 17-18 | Smiting | [[5. Mechanics/Spells/Branding Smite.md\|Branding smite]] |
 | 19 | Summons | [[5. Mechanics/Spells/Planar Ally.md\|Planar ally]] |
 | 20 | Wind walking | [[5. Mechanics/Spells/Wind Walk.md\|Wind walk]] |
-^dice-avg-bead-of-spell
+^bead-of-spell
 
 *Source: Dungeon Master's Guide p. 182. Available in the SRD.*

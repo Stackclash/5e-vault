@@ -98,7 +98,7 @@ At some point during the adventure, the characters are likely to meet [[5. Mecha
 
 Appendix E shows all the cards of the tarokka deck and summarizes their symbolic meanings.
 
-> [!quote] Using Regular Playing Cards
+> [!note] Using Regular Playing Cards
 > 
 > If you like, you can use a regular deck of playing cards in place of the tarokka deck. To do so, separate the numbered cards from the face cards and jokers, and treat them as two separate decks: the common deck (the numbered cards) and the high deck (the face cards and jokers).
 > 
@@ -141,7 +141,7 @@ Once all five cards are drawn and placed face down, follow the instructions belo
 
 Flip over card 1, and read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This card tells of history. Knowledge of the ancient will help you better understand your enemy.
 ^023
@@ -152,7 +152,7 @@ This card determines the location of the [[5. Mechanics/Items/Tome Of Strahd (CO
 
 Flip over card 2, and read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This card tells of a powerful force for good and protection, a holy symbol of great hope.
 ^025
@@ -163,7 +163,7 @@ This card determines the location of the [[5. Mechanics/Items/Holy Symbol Of Rav
 
 Flip over card 3, and read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.
 ^027
@@ -174,7 +174,7 @@ This card determines the location of the [[5. Mechanics/Items/Sunsword (COS).md\
 
 Flip over card 4, and read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This card sheds light on one who will help you greatly in the battle against darkness.
 ^029
@@ -185,7 +185,7 @@ This card determines where the characters can find a powerful ally. Read the box
 
 Flip over card 5, and read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 ^02b
@@ -198,7 +198,7 @@ The cards of the common deck determine the locations of the [[5. Mechanics/Items
 
 #### Swords (Spades)
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **One of Swords—Avenger**
 > 
@@ -207,7 +207,7 @@ The cards of the common deck determine the locations of the [[5. Mechanics/Items
 
 The treasure is in the possession of [[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]] in Argynvostholt (chapter 7, area Q36).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Two of Swords—Paladin**
 > 
@@ -216,7 +216,7 @@ The treasure is in the possession of [[5. Mechanics/Bestiary/Npc/Vladimir Hornga
 
 The treasure lies in Sergei's tomb (chapter 4, area K85).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Three of Swords—Soldier**
 > 
@@ -225,7 +225,7 @@ The treasure lies in Sergei's tomb (chapter 4, area K85).
 
 The treasure lies on the rooftop of the Tsolenka Pass guard tower (chapter 9, area T6).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Four of Swords—Mercenary**
 > 
@@ -234,7 +234,7 @@ The treasure lies on the rooftop of the Tsolenka Pass guard tower (chapter 9, ar
 
 The treasure lies in a crypt in Castle Ravenloft (chapter 4, area K84, crypt 31).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Five of Swords—Myrmidon**
 > 
@@ -243,7 +243,7 @@ The treasure lies in a crypt in Castle Ravenloft (chapter 4, area K84, crypt 31)
 
 The treasure lies in the shrine of Mother Night in the werewolf den (chapter 15, area Z7).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Six of Swords—Berserker**
 > 
@@ -252,7 +252,7 @@ The treasure lies in the shrine of Mother Night in the werewolf den (chapter 15,
 
 The treasure lies in the crypt of General Kroval "Mad Dog" Grislek (chapter 4, area K84, crypt 38).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Seven of Swords—Hooded One**
 > 
@@ -261,7 +261,7 @@ The treasure lies in the crypt of General Kroval "Mad Dog" Grislek (chapter 4, a
 
 The treasure is inside the head of the giant statue in the Amber Temple (chapter 13, area X5a).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Eight of Swords—Dictator**
 > 
@@ -270,7 +270,7 @@ The treasure is inside the head of the giant statue in the Amber Temple (chapter
 
 The treasure lies in Castle Ravenloft's audience hall (chapter 4, area K25).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Nine of Swords—Torturer**
 > 
@@ -279,7 +279,7 @@ The treasure lies in Castle Ravenloft's audience hall (chapter 4, area K25).
 
 The treasure is hidden in the attic of the Burgomaster's mansion in Vallaki (chapter 5, area N3s).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Master of Swords—Warrior**
 > 
@@ -290,7 +290,7 @@ The treasure lies in Strahd's tomb (chapter 4, area K86).
 
 #### Stars (Clubs)
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **One of Stars—Transmuter**
 > 
@@ -299,7 +299,7 @@ The treasure lies in Strahd's tomb (chapter 4, area K86).
 
 The treasure lies in Castle Ravenloft's north tower peak (chapter 4, area K60).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Two of Stars—Diviner**
 > 
@@ -308,7 +308,7 @@ The treasure lies in Castle Ravenloft's north tower peak (chapter 4, area K60).
 
 The treasure lies in [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]'s encampment (chapter 2, area G). If she is the one performing the card reading, she says, "I think the treasure is under my very nose!"
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Three of Stars—Enchanter**
 > 
@@ -317,7 +317,7 @@ The treasure lies in [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]
 
 The treasure lies under Marina's monument in Berez (chapter 10, area U5). "The master of the marsh" refers to Burgomaster Lazlo Ulrich (area U2), whose ghost can point characters toward the monument.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Four of Stars—Abjurer**
 > 
@@ -326,7 +326,7 @@ The treasure lies under Marina's monument in Berez (chapter 10, area U5). "The m
 
 The treasure lies in the beacon of Argynvostholt (chapter 7, area Q53). "Great stone dragon" refers to the statue in area Q1.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Five of Stars—Elementalist**
 > 
@@ -335,7 +335,7 @@ The treasure lies in the beacon of Argynvostholt (chapter 7, area Q53). "Great s
 
 The treasure is inside a model of Castle Ravenloft in the Amber Temple (chapter 13, area X20).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Six of Stars—Evoker**
 > 
@@ -344,7 +344,7 @@ The treasure is inside a model of Castle Ravenloft in the Amber Temple (chapter 
 
 The treasure is hidden in the crypt of Gralmore Nimblenobs (chapter 4, area K84, crypt 37).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Seven of Stars—Illusionist**
 > 
@@ -353,7 +353,7 @@ The treasure is hidden in the crypt of Gralmore Nimblenobs (chapter 4, area K84,
 
 The treasure lies in [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]]'s carnival wagon (chapter 5, area N5).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Eight of Stars—Necromancer**
 > 
@@ -362,7 +362,7 @@ The treasure lies in [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]]'s
 
 The treasure lies in Castle Ravenloft's study (chapter 4, area K37).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Nine of Stars—Conjurer**
 > 
@@ -371,7 +371,7 @@ The treasure lies in Castle Ravenloft's study (chapter 4, area K37).
 
 The treasure is in [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga]]'s hut (chapter 10, area U3).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Master of Stars—Wizard**
 > 
@@ -382,7 +382,7 @@ The treasure lies on the top floor of Van Richten's Tower (chapter 11, area V7).
 
 #### Coins (Diamonds)
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **One of Coins—Swashbuckler**
 > 
@@ -391,7 +391,7 @@ The treasure lies on the top floor of Van Richten's Tower (chapter 11, area V7).
 
 The treasure lies in the crypt of Endorovich (chapter 4, area K84, crypt 7).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Two of Coins—Philanthropist**
 > 
@@ -400,7 +400,7 @@ The treasure lies in the crypt of Endorovich (chapter 4, area K84, crypt 7).
 
 The treasure is in the nursery of the Abbey of Saint Markovia (chapter 8, area S23).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Three of Coins—Trader**
 > 
@@ -409,7 +409,7 @@ The treasure is in the nursery of the Abbey of Saint Markovia (chapter 8, area S
 
 The treasure lies in the glassblower's workshop in the Wizard of Wines winery (chapter 12, area W10).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Four of Coins—Merchant**
 > 
@@ -418,7 +418,7 @@ The treasure lies in the glassblower's workshop in the Wizard of Wines winery (c
 
 The treasure lies in Castle Ravenloft's wine cellar (chapter 4, area K63).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Five of Coins—Guild Member**
 > 
@@ -427,7 +427,7 @@ The treasure lies in Castle Ravenloft's wine cellar (chapter 4, area K63).
 
 The treasure lies in the crypt of Artank Swilovich (chapter 4, area K84, crypt 5).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Six of Coins—Beggar**
 > 
@@ -436,7 +436,7 @@ The treasure lies in the crypt of Artank Swilovich (chapter 4, area K84, crypt 5
 
 The treasure is hidden in Kasimir's hovel (chapter 5, area N9a).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Seven of Coins—Thief**
 > 
@@ -445,7 +445,7 @@ The treasure is hidden in Kasimir's hovel (chapter 5, area N9a).
 
 The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2, area F).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Eight of Coins—Tax Collector**
 > 
@@ -454,7 +454,7 @@ The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2
 
 The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] (see chapter 2, area L).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Nine of Coins—Miser**
 > 
@@ -463,7 +463,7 @@ The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A m
 
 The treasure lies in Castle Ravenloft's treasury (chapter 4, area K41).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Master of Coins—Rogue**
 > 
@@ -474,7 +474,7 @@ The treasure is hidden in the attic of the Blue Water Inn (chapter 5, area N2q).
 
 #### Glyphs (Hearts)
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **One of Glyphs—Monk**
 > 
@@ -483,7 +483,7 @@ The treasure is hidden in the attic of the Blue Water Inn (chapter 5, area N2q).
 
 The treasure lies in the main hall of the Abbey of Saint Markovia (chapter 8, area S13).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Two of Glyphs—Missionary**
 > 
@@ -492,7 +492,7 @@ The treasure lies in the main hall of the Abbey of Saint Markovia (chapter 8, ar
 
 The treasure is hidden inside one of the scarecrows in the garden of the Abbey of Saint Markovia (chapter 8, area S9).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Three of Glyphs—Healer**
 > 
@@ -501,7 +501,7 @@ The treasure is hidden inside one of the scarecrows in the garden of the Abbey o
 
 The treasure lies beneath the gazebo in the Shrine of the White Sun (chapter 8, area S4).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Four of Glyphs—Shepherd**
 > 
@@ -510,7 +510,7 @@ The treasure lies beneath the gazebo in the Shrine of the White Sun (chapter 8, 
 
 The treasure lies in the tomb of King Barov and Queen Ravenovia (chapter 4, area K88).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Five of Glyphs—Druid**
 > 
@@ -519,7 +519,7 @@ The treasure lies in the tomb of King Barov and Queen Ravenovia (chapter 4, area
 
 The treasure lies at the base of the Gulthias tree (chapter 14, area Y4). Any wereraven encountered in the wilderness can lead the characters to the location.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Six of Glyphs—Anarchist**
 > 
@@ -528,7 +528,7 @@ The treasure lies at the base of the Gulthias tree (chapter 14, area Y4). Any we
 
 The treasure lies in Castle Ravenloft's hall of bones (chapter 4, area K67).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Seven of Glyphs—Charlatan**
 > 
@@ -537,7 +537,7 @@ The treasure lies in Castle Ravenloft's hall of bones (chapter 4, area K67).
 
 The treasure lies in the attic of Old Bonegrinder (chapter 6, area O4).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Eight of Glyphs—Bishop**
 > 
@@ -546,7 +546,7 @@ The treasure lies in the attic of Old Bonegrinder (chapter 6, area O4).
 
 The treasure lies in the sealed treasury of the Amber Temple (chapter 13, area X40).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Nine of Glyphs—Traitor**
 > 
@@ -555,7 +555,7 @@ The treasure lies in the sealed treasury of the Amber Temple (chapter 13, area X
 
 The treasure is hidden in the master bedroom of Wachterhaus (chapter 5, area N4o).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Master of Glyphs—Priest**
 > 
@@ -576,7 +576,7 @@ While within sight of Strahd, this character grants inspiration to one player ch
 
 Each of the NPCs described in this section has a role to play in the adventure, even if that individual isn't indicated in the card reading. For the one so designated, however, the information in this section regarding the NPC's behavior takes precedence over whatever is said elsewhere in these pages; that NPC is extraordinary.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Artifact (Joker 1)**
 > 
@@ -587,7 +587,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (s
 
 The characters might think that [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).md\|Gadof Blinsky]], the toymaker of Vallaki (area N7), is the figure they seek, because he has a pet monkey. If they speak to him about this possibility, Blinsky jokes that he and the monkey are "old friends," but if the characters ask him to come with them to fight Strahd, he politely declines. If the characters tell him about the tarokka reading, Blinsky admits that he acquired the monkey from a half-elf carnival ringmaster named [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]].
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Beast (Jack of Diamonds)**
 > 
@@ -596,7 +596,7 @@ The characters might think that [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).
 
 This card refers to the werewolf [[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md\|Zuleika Toranescu]] (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]].
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Broken One (King of Diamonds)**
 > 
@@ -605,7 +605,7 @@ This card refers to the werewolf [[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (
 
 This card refers to [[5. Mechanics/Bestiary/Npc/The Mad Mage Of Mount Baratok (COS).md\|the Mad Mage of Mount Baratok]] (see chapter 2, area M).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Broken One (King of Diamonds)**
 > 
@@ -614,7 +614,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/The Mad Mage Of Mount Baratok (C
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]], the priest in the village of Barovia (see chapter 3, area E5). He will not accompany the characters until his son, [[5. Mechanics/Bestiary/Npc/Doru (COS).md\|Doru]], is dead and buried.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Darklord (King of Spades)**
 > 
@@ -623,7 +623,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]], t
 
 There is no NPC who can inspire the characters.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Donjon (King of Clubs)**
 > 
@@ -632,7 +632,7 @@ There is no NPC who can inspire the characters.
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Victor Vallakovich (COS).md\|Victor Vallakovich]] (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Donjon (King of Clubs)**
 > 
@@ -641,7 +641,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Victor Vallakovich (COS).md\|Vic
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md\|Stella Wachter]] (see chapter 5, area N4n). She grants the party no benefit unless her madness is cured. With her wits restored, Stella is happy to join the party and leave her rotten family behind.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Seer (Jack of Clubs)**
 > 
@@ -650,7 +650,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md\|Stella 
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see chapter 5, area N9a). The dusk elf accompanies the characters to Castle Ravenloft only after they lead him to the Amber Temple and help him find the means to resurrect his dead sister, [[5. Mechanics/Bestiary/Npc/Patrina Velikovna (COS).md\|Patrina Velikovna]].
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Ghost (King of Hearts)**
 > 
@@ -659,7 +659,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md\|Kasimi
 
 This card refers to the revenant [[5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym (COS).md\|Sir Godfrey Gwilym]] (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Ghost (King of Hearts)**
 > 
@@ -668,7 +668,7 @@ This card refers to the revenant [[5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym 
 
 This card refers to Sir Klutz the [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md\|phantom warrior]] (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Executioner (Jack of Spades)**
 > 
@@ -677,7 +677,7 @@ This card refers to Sir Klutz the [[5. Mechanics/Bestiary/Undead/Phantom Warrior
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Ismark Kolyanovich (COS).md\|Ismark Kolyanovich]] (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]], is safe.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Horseman (Joker 2)**
 > 
@@ -688,7 +688,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Nikolai Wachter (COS).md\|Nikola
 
 If the characters don't have the means to raise Nikolai from the dead, [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (see appendix D) gives them a spell scroll of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Horseman (Joker 2)**
 > 
@@ -697,7 +697,7 @@ If the characters don't have the means to raise Nikolai from the dead, [[5. Mech
 
 This card refers to the Vistani assassin [[5. Mechanics/Bestiary/Npc/Arrigal (COS).md\|Arrigal]] (see chapter 5, area N9c). If the characters mention this card reading to him, he accepts his fate and accompanies them. If the characters succeed in defeating Strahd, [[5. Mechanics/Bestiary/Npc/Arrigal (COS).md\|Arrigal]] betrays and attacks them, believing that he is destined to become Barovia's new lord.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Innocent (Queen of Hearts)**
 > 
@@ -706,7 +706,7 @@ This card refers to the Vistani assassin [[5. Mechanics/Bestiary/Npc/Arrigal (CO
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Parriwimple (COS).md\|Parriwimple]] (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]], who is very beautiful. The characters must somehow deal with Bildrath, [[5. Mechanics/Bestiary/Npc/Parriwimple (COS).md\|Parriwimple]]'s employer, who won't let the foolish boy go to the castle for any reason.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Innocent (Queen of Hearts)**
 > 
@@ -715,7 +715,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Parriwimple (COS).md\|Parriwimpl
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena Kolyana]] (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Marionette (Jack of Hearts)**
 > 
@@ -724,7 +724,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena 
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick II]] (see chapter 4, area K59, as well as appendix D).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Marionette (Jack of Hearts)**
 > 
@@ -733,7 +733,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick I
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]] (see chapter 8, area S17), the two-headed [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]]. Clovin serves [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] out of fear and a perverse sense of loyalty. His job is to deliver food to the other mongrelfolk, whom he abhors. If [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] still lives, Clovin doesn't want to earn his Master's ire by attempting to leave, and he refuses to accompany the characters. But if [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] dies, Clovin doesn't have any reason to remain in the abbey, so he's willing to come along if he is bribed with wine. Clovin provides no benefit to the party without his viol.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Mists (Queen of Spades)**
 > 
@@ -742,7 +742,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin 
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (see appendix D). She can be found in the Abbey of Saint Markovia (see chapter 8, area S19), as well as several other locations throughout Barovia.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Raven (Queen of Clubs)**
 > 
@@ -751,7 +751,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezme
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian Martikov]] (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, [[5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md\|Urwin Martikov]] (see chapter 5, area N2).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **A. Tempter (Queen of Diamonds)**
 > 
@@ -760,7 +760,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, [[5. Mechanics/Bestiary/Npc/Luvash (COS).md\|Luvash]], refuses to let her leave.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **B. Tempter (Queen of Diamonds)**
 > 
@@ -773,7 +773,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Vasilka (COS).md\|Vasilka]] the 
 
 Drawn from the high deck, the fifth card in the card reading determines the location of the final showdown with Strahd—the place in Castle Ravenloft where the characters are sure to find him. The first time the characters arrive at the foretold location, Strahd is there, provided he hasn't been forced back into his coffin.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Artifact (Joker 1)**
 > 
@@ -782,7 +782,7 @@ Drawn from the high deck, the fifth card in the card reading determines the loca
 
 Strahd faces the characters in the chapel (area K15).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Beast (Jack of Diamonds)**
 > 
@@ -791,7 +791,7 @@ Strahd faces the characters in the chapel (area K15).
 
 Strahd faces the characters in the audience hall (area K25).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Broken One (King of Diamonds)**
 > 
@@ -800,7 +800,7 @@ Strahd faces the characters in the audience hall (area K25).
 
 Strahd faces the characters in Sergei's tomb (area K85).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Darklord (King of Spades)**
 > 
@@ -809,7 +809,7 @@ Strahd faces the characters in Sergei's tomb (area K85).
 
 Strahd faces the characters in his tomb (area K86).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Donjon (King of Clubs)**
 > 
@@ -818,7 +818,7 @@ Strahd faces the characters in his tomb (area K86).
 
 Strahd faces the characters in the hall of bones (area K67).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Seer (Jack of Clubs)**
 > 
@@ -827,7 +827,7 @@ Strahd faces the characters in the hall of bones (area K67).
 
 Strahd faces the characters in the study (area K37).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Ghost (King of Hearts)**
 > 
@@ -836,7 +836,7 @@ Strahd faces the characters in the study (area K37).
 
 Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area K88).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Executioner (Jack of Spades)**
 > 
@@ -845,7 +845,7 @@ Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area 
 
 Strahd faces the characters at the overlook (area K6).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Horseman (Joker 2)**
 > 
@@ -854,7 +854,7 @@ Strahd faces the characters at the overlook (area K6).
 
 Strahd faces the characters in his tomb (area K86).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Innocent (Queen of Hearts)**
 > 
@@ -863,7 +863,7 @@ Strahd faces the characters in his tomb (area K86).
 
 Strahd faces the characters in Sergei's tomb (area K85).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Marionette (Jack of Hearts)**
 > 
@@ -872,7 +872,7 @@ Strahd faces the characters in Sergei's tomb (area K85).
 
 Strahd faces the characters in the north tower peak (area K60).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Mists (Queen of Spades)**
 > 
@@ -881,7 +881,7 @@ Strahd faces the characters in the north tower peak (area K60).
 
 The card offers no clue about where the final showdown with Strahd will occur. It can happen anywhere you like in Castle Ravenloft. Alternatively, [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] tells the characters to return to her after at least three days, and she will consult the cards again for them, but only to discern the location of their enemy.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Raven (Queen of Clubs)**
 > 
@@ -890,7 +890,7 @@ The card offers no clue about where the final showdown with Strahd will occur. I
 
 Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area K88).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > **Tempter (Queen of Diamonds)**
 > 
@@ -917,7 +917,7 @@ In "Creeping Fog," the characters are traveling a lonely road through the woods 
 
 The characters start their adventure in an old tavern, the details of which are for you to decide.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > To a party of seasoned adventurers such as yourselves, what you see is but another dull tavern in another dull town in some nameless province. It is but another span of time between the challenges of true adventuring.
 > 
@@ -948,7 +948,7 @@ The letter, which seems to have been written by the burgomaster, was actually pe
 
 The details of this adventure hook assume that your D&D campaign is based in or near Daggerford, a town on the Sword Coast in the Forgotten Realms, but you can change the location to suit your campaign.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Duchess Morwen of Daggerford is having guests for dinner—and you are invited. No strangers to Daggerford, you have come to the town's defense on more than one occasion, and you count Lady Morwen as a friend and a benefactor.
 > 
@@ -965,7 +965,7 @@ The travelers are camped on the hill outside the gates of Daggerford, near the r
 
 When the characters approach the camp, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > As the evening grows dark, you see a dozen men and women gathered around a crackling bonfire. The folk are in good spirits. A few of them sing and dance around the fire while others find happiness in their flasks and wineskins. Three barrel-topped wagons are parked at odd angles. Tied to a nearby tree, grazing, are half a dozen draft horses wearing bright coats with bangles and tassels.
 ^085
@@ -974,7 +974,7 @@ The men and women are Vistani. They have no interest in Daggerford. Their orders
 
 The leader of this group is [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stanimir]] (CN male human), an old man with the statistics of a [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] who has the following spells prepared:
 
-> [!quote] ...
+> [!note] 
 > 
 > - Cantrips (at will): [[5. Mechanics/Spells/Friends.md\|friends]], [[5. Mechanics/Spells/Light.md\|light]], [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]]  
 > - 1st level (4 slots): [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Shield.md\|shield]], [[5. Mechanics/Spells/Sleep.md\|sleep]]  
@@ -990,14 +990,14 @@ The leader of this group is [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stani
 
 [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stanimir]] introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stanimir]] laughs. "Don't worry. We have no wish to make enemies of Lady Morwen. I have a story to tell all of you. First you listen, then we go."
 ^089
 
 If the characters agree to hear [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stanimir]]'s story, he invites them to gather around the fire and hear his tale:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stanimir]] fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.
 > 
@@ -1026,7 +1026,7 @@ If the characters decline [[5. Mechanics/Bestiary/Npc/Stanimir (COS).md\|Stanimi
 
 This adventure hook assumes you're running a campaign in or near Daggerford (see "Mysterious Visitors" for more information). It also assumes you're using the five player factions featured in the Adventurers League.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > "Werewolves in the mist!" You've heard these dreaded words spoken again and again by farmers, merchants, and adventurers alike. The hamlets east of Daggerford have fallen prey to a pack of werewolves that spills out of the Misty Forest on nights of the full moon, cloaked in crawling mist that seems to follow them wherever they go. The beasts spread death and mayhem, slaughtering adults and stealing children before retreating back into the woods. Others have tried to combat the werewolf menace, with little success.
 ^08c
@@ -1035,7 +1035,7 @@ The Misty Forest lies thirty miles east of Daggerford. Before the characters emb
 
 #### Harpers
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A Harper named Zelraun Roaringhorn knows a metalsmith who will silver your weapons for free. He also provides some helpful magic.
 > 
@@ -1052,7 +1052,7 @@ The Harpers is a network of spellcasters and spies who advocate equality and who
 
 #### Order of the Gauntlet
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [[5. Mechanics/Bestiary/Undead/Knight Of The Order (COS).md\|knight of the order]] named Lanniver Strayl offers you his blessing.
 ^091
@@ -1065,7 +1065,7 @@ Founded by paladins and clerics of Helm, Torm, and Tyr, the order is a dedicated
 
 #### Emerald Enclave
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You don't need to consult with others in the Emerald Enclave to know that the werewolves are upsetting the natural order. For balance to be restored, they must be eradicated. It seems the gods of nature agree, for they've sent good weather and preserved the monsters' tracks.
 ^094
@@ -1080,7 +1080,7 @@ Branches of the organization can be found wherever untamed wilderness exists. Me
 
 #### Lords' Alliance
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A Lords' Alliance operative from Waterdeep named Eravien Haund comes to Daggerford bearing news that alliance agents have not only captured one of the werewolves but also conducted a thorough interrogation before putting the creature out of its misery.
 ^097
@@ -1102,7 +1102,7 @@ Although alliance members have pledged to join forces against common threats, ev
 
 #### Zhentarim
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The Black Network sees the werewolf menace as an opportunity to provide lords and nervous landowners with mercenaries to protect their holdings. But at least one of your fellow members has a grudge against the lycanthropes. Davra Jassur, a member of the Zhentarim based in Waterdeep, arranges a private meeting with you.
 ^09a
@@ -1119,7 +1119,7 @@ Members of the Zhentarim think of themselves as members of an extended family an
 
 Strahd is using the werewolves to lure adventurers to his domain. Characters can follow the werewolves' tracks into the Misty Forest. After hours of fruitless searching, the characters are engulfed by thick fog:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The woods darken as the trees begin to close ranks, their needle-covered arms interlocking to blot out the sun. The shroud of mist that covers the ground turns into creeping walls of gray fog that silently envelop you until you can't see more than a few feet in any direction. Soon, even the werewolf tracks disappear.
 ^09d
@@ -1130,7 +1130,7 @@ No matter which direction they go, the characters come to a lonely dirt road tha
 
 This scenario assumes that the characters are camping in a forest when the fog engulfs them. They are quietly borne to the edge of Barovia.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The woods are quiet this night, and the air grows chill. Your fire sputters as a low mist gathers around the edges of your camp, growing closer as the night wears on. By morning, the fog hangs thick in the air, turning the trees around you into gray ghosts. Then you notice these aren't the same trees that surrounded you the night before.
 ^09f

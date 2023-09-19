@@ -59,10 +59,10 @@ Some renowned archers and groups of archers are known for the special fletching 
 - "desc": "The archer makes two Shortsword or Longbow attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
-    \ target. Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
+    \ target. Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "Immediately after making an attack roll or a damage roll with a ranged\

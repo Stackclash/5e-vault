@@ -8,6 +8,7 @@ aliases: ["Halfling"]
 ---
 # Halfling
 *Source: Player's Handbook p. 26. Available in the SRD and the Basic Rules.*  
+![[5. Mechanics/Races/img/halfling.png#right]]  
 
 - **Ability Scores**: Dexterity +2
 - **Type**: race
@@ -70,7 +71,7 @@ Most halflings live in small, peaceful communities with large farms and well-kep
 
 Many halflings live among other races, where the halflings' hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.
 
-> [!quote] Affable and Positive
+> [!note] Affable and Positive
 > 
 > Halfling try to get along with everyone else and are loath to make sweeping generalizations-especially negative ones.
 > 

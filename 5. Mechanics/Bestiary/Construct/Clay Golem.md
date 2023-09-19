@@ -89,9 +89,9 @@ A golem doesn't require air, food, drink, or sleep.
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 15 Constitution saving throw or have\
-    \ its hit point maximum reduced by an amount equal to the damage taken. The target\
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 15 Constitution saving throw or have its\
+    \ hit point maximum reduced by an amount equal to the damage taken. The target\
     \ dies if this attack reduces its hit point maximum to 0. The reduction lasts\
     \ until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell or other magic."

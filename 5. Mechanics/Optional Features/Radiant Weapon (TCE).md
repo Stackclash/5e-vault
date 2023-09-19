@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ai
 aliases: ["Radiant Weapon"]
 ---
 # Radiant Weapon
-*Source: Tasha's Cauldron of Everything p. 22* 
+*Source: Tasha's Cauldron of Everything p. 22*  
+
+***Prerequisites*** 6th-level Artificer, A simple or martial weapon (requires attunement)
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 

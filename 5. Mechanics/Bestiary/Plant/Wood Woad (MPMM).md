@@ -68,7 +68,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 - "desc": "The wood woad makes two Club attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 4d4 + 4|avg (4d4 + 4)) force damage."
+    \ Hit: dice: 4d4 + 4|avg (4d4 + 4) force damage."
   "name": "Club"
 "source":
 - "MPMM"

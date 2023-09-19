@@ -68,10 +68,10 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) piercing damage."
+    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) slashing damage."
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

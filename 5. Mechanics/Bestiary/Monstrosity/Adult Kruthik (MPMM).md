@@ -69,10 +69,10 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - "desc": "The kruthik makes two Stab or Spike attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Stab"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
+    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
   "name": "Spike"
 "source":
 - "MPMM"

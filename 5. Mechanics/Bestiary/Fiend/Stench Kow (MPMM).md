@@ -46,9 +46,9 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
   "name": "Stench"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage. If the stench kow\
-    \ moved at least 20 feet straight toward the target immediately before the hit,\
-    \ the target takes an extra 7 (dice: 2d6|avg (2d6)) piercing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage. If the stench kow moved\
+    \ at least 20 feet straight toward the target immediately before the hit, the\
+    \ target takes an extra dice: 2d6|avg (2d6) piercing damage."
   "name": "Gore"
 "source":
 - "MPMM"

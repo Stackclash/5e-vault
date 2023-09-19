@@ -12,8 +12,8 @@ aliases: ["Dwarf Names – Male"]
 
 **Dwarf Names – Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adrik |
 | 03-04 | Alberich |
 | 05-06 | Baern |

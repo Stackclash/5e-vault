@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
 - optional-feature/pb
 aliases: ["Pact of the Blade"]
 ---
 # Pact of the Blade
-*Source: Player's Handbook p. 107. Available in the SRD.* 
+*Source: Player's Handbook p. 107. Available in the SRD.*  
 
 You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 

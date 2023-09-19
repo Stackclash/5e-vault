@@ -10,6 +10,7 @@ aliases: ["Ring of Three Wishes"]
 ---
 # Ring of Three Wishes
 *Ring, major, legendary*  
+![[5. Mechanics/Items/img/ring-of-three-wishes.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

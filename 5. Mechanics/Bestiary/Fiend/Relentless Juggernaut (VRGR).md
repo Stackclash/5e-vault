@@ -85,34 +85,33 @@ Relentless killers come into being and undertake their terrifying sprees for a s
     \ Shaping if it is ready."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage, and if the target\
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage, and if the target\
     \ is a creature, its speed is reduced by 10 feet until the start of the juggernaut's\
     \ next turn."
   "name": "Executioner's Pick"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 1d10 + 6|avg (1d10 + 6)) bludgeoning damage, and if the\
-    \ target is a Large or smaller creature, it must succeed on a DC 18 Strength saving\
-    \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 1d10 + 6|avg (1d10 + 6) bludgeoning damage, and if the target\
+    \ is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw\
+    \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Fist"
 - "desc": "The juggernaut magically shapes a feature of its surroundings into a deadly\
     \ implement. A creature the juggernaut can see within 60 feet of it must make\
     \ a DC 18 Dexterity saving throw. If the saving throw fails, the targeted creature\
     \ is struck by one of the following (juggernaut's choice):"
   "name": "Deadly Shaping (Recharge 5-6)"
-- "desc": "The target takes 22 (dice: 5d8|avg (5d8)) bludgeoning damage and is\
-    \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] until the start\
-    \ of the juggernaut's next turn, and the implement vanishes."
+- "desc": "The target takes dice: 5d8|avg (5d8) bludgeoning damage and is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ until the start of the juggernaut's next turn, and the implement vanishes."
   "name": "Flying Stone"
-- "desc": "The target takes 14 (dice: 4d6|avg (4d6)) slashing damage, and the\
-    \ implement vanishes. At the start of each of its turns, the target takes 10 (dice:\
-    \ 3d6|avg (3d6)) necrotic damage from the wound left by the shrapnel. The wound\
-    \ ends if the target regains any hit points or if a creature uses an action to\
-    \ stanch the wound, which requires a successful DC 15 Wisdom (Medicine) check."
+- "desc": "The target takes dice: 4d6|avg (4d6) slashing damage, and the implement\
+    \ vanishes. At the start of each of its turns, the target takes dice: 3d6|avg\
+    \ (3d6) necrotic damage from the wound left by the shrapnel. The wound ends\
+    \ if the target regains any hit points or if a creature uses an action to stanch\
+    \ the wound, which requires a successful DC 15 Wisdom (Medicine) check."
   "name": "Scything Shrapnel"
 "legendary_actions":
 - "desc": "The juggernaut moves up to its speed, ignoring difficult terrain. Any object\
-    \ in its path takes 55 (dice: 10d10|avg (10d10)) bludgeoning damage if it\
-    \ isn't being worn or carried."
+    \ in its path takes dice: 10d10|avg (10d10) bludgeoning damage if it isn't\
+    \ being worn or carried."
   "name": "Implacable Advance"
 - "desc": "The juggernaut recharges Deadly Shaping and uses it."
   "name": "Rapid Shaping (Costs 3 Actions)"

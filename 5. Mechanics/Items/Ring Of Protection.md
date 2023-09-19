@@ -11,6 +11,7 @@ aliases: ["Ring of Protection"]
 ---
 # Ring of Protection
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-protection.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

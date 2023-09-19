@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
 - optional-feature/ei
 aliases: ["Improved Pact Weapon"]
 ---
 # Improved Pact Weapon
-*Source: Xanathar's Guide to Everything p. 57* 
+*Source: Xanathar's Guide to Everything p. 57*  
+
+***Prerequisites*** Pact of the Blade
 
 You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.
 

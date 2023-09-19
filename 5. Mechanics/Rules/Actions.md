@@ -231,7 +231,7 @@ If you want to interact with a second object, you need to use your action. Some 
 
 The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
 
-> [!quote] Interacting with Objects Around You
+> [!note] Interacting with Objects Around You
 > 
 > Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 > 

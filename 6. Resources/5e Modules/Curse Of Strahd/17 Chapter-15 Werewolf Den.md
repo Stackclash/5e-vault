@@ -26,7 +26,7 @@ Then Kiril disappeared for several days, causing the other werewolves to wonder 
 
 Kiril reestablished his dominance, but his ideas and tactics didn't sit well with the pack's older members, and they certainly didn't please Emil's mate, [[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md\|Zuleika Toranescu]]. She knows she can't slay Kiril on her own, and after what happened to Emil, the rest of the pack is unwilling to challenge Kiril's authority and face Strahd's wrath. Kiril won't let Zuleika hunt, so she's more or less confined to the den.
 
-> [!quote] Travel Through the Mists
+> [!note] Travel Through the Mists
 > 
 > The werewolves serve Strahd out of fear, believing that Mother Night has blessed him with godlike powers and eternal life. Although he can't leave Barovia, Strahd can allow certain creatures to come and go, such as the Vistani. He periodically allows the werewolves to slip past the misty borders as well, so that they can bring or lure others into his domain. Unlike the Vistani, however, the werewolves can't come and go as they please.
 ^travel-through-the-mists
@@ -35,7 +35,7 @@ Kiril reestablished his dominance, but his ideas and tactics didn't sit well wit
 
 When the characters first approach the werewolf den, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Above the tree line, carved into the side of a rocky mountain spur, is a wide, torchlit cave that looks like the gaping maw of a great wolf.
 ^68f
@@ -54,7 +54,7 @@ Mounted to the walls throughout the den are iron brackets containing lit torches
 
 ### Z1. Cave Mouth
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Torches in iron brackets line the walls. From somewhere deep inside, you hear the echoing sounds of a flute. Some of the notes are discordant—painfully so.
 ^692
@@ -67,7 +67,7 @@ If the characters arrive here with [[5. Mechanics/Bestiary/Npc/Emil Toranescu (C
 
 ### Z2. Guard Post
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Here, the cave splits to the left and right. Standing on a five-foot-high ledge between the divide are two feral-looking women wearing shredded clothing and clutching spears.
 ^695
@@ -78,14 +78,14 @@ Aziana and Davanka, two [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves
 
 Nine [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] and a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his wolf allies.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A five-foot-high stone ledge overlooks this large cave, which has a smoldering campfire at the far west end. The floor is covered with gnawed bones.
 ^697
 
 If Skennis is reduced to 0 hit points, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The old man cackles. "When Kiril returns," he says to you with his last breath, "he'll skin you alive."
 ^698
@@ -96,7 +96,7 @@ Skennis's electrum flute is nonmagical and worth 250 gp. Skennis also carries a 
 
 ### Z4. Underground Spring
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A gash in the rocky ceiling allows the gray light and cold drizzle of the outdoors to seep into this dank, torchlit cave, where an underground spring forms a pool of water roughly forty feet across and ten feet deep. A five-foot-high ledge to the north overlooks the pool. A similar ledge spans the eastern wall, with a rough-hewn staircase leading up to it. A few crates sit atop the eastern ledge.
 ^69b
@@ -107,7 +107,7 @@ The crates on the eastern ledge contain heaps of adult-sized clothing.
 
 ### Z5. Deep Caves
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A maze of torchlit tunnels and caves expands in front of you. Bones lie strewn upon the floor.
 ^69d
@@ -128,7 +128,7 @@ Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Fores
 
 ### Z6. Kiril's Cave
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > At the back of this cave hangs a curtain made of human skin.
 ^6a1
@@ -139,7 +139,7 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 
 ### Z7. Shrine of Mother Night
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Rough-hewn stairs lead down to a torchlit cave and a bizarre sight: wide-eyed children stand behind wooden bars and stare at you in terrified silence. The cave holds six wooden cages, their lids held shut with heavy rocks. Two of the cages are empty, and each of the others holds a pair of frightened children.
 > 
@@ -148,7 +148,7 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 
 The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] in human form named [[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md\|Zuleika Toranescu]], who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
-![[Zuleika Toranescu](compen...](compendium/adventures/curse-of-strahd/img/129-cos15-03.png#center "[[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (COS).md\|Zuleika Toranescu]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/129-cos15-03.png#center\|Zuleika Toranescu]]
 
 Kiril has ordered Zuleika to guard the prisoners. If the characters rescue Emil and return him safely to Zuleika, she gladly releases the children. If the characters confirm that Emil is truly dead, either by their hand or Strahd's, she still might let the prisoners go if the characters help her deal with [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]], whom she blames above all. Zuleika sees the characters as the answer to her prayers and asks them to kill Kiril when he returns from his latest hunt (see "Leader of the Pack" in the "Special Events" section below).
 
@@ -178,7 +178,7 @@ If your card reading reveals that a treasure is here, it's lying amid the other 
 
 ### Z8. Ring of Stone
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A twenty-foot-diameter ring of stones dominates a rocky ledge on the mountainside. Within the ring, you see spattered blood and small, gnawed bones. Lying on the ground outside the circle are several spears stained with dry blood.
 ^6a7
@@ -195,7 +195,7 @@ You can use one or both of the following special events while the characters are
 
 This event doesn't occur if the characters previously encountered and defeated Kiril's hunting pack (see "Pack Attack" in the "Special Events" section in chapter 11).
 
-![[Kiril Stoyanovich](compen...](compendium/adventures/curse-of-strahd/img/130-cos15-04.png#center "[[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/130-cos15-04.png#center\|Kiril Stoyanovich]]
 
 Every hour the characters spend inside the werewolf den, roll a `dice: d20|avg` (`d20`). On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[5. Mechanics/Bestiary/Npc/Kiril Stoyanovich (COS).md\|Kiril Stoyanovich]] (a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] with 90 hit points), six normal [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]], and nine [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]. All the werewolves arrive in wolf form.
 

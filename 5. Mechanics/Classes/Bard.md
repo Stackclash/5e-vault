@@ -158,8 +158,8 @@ If your character is just starting out, your ultimate defining work is likely in
 
 **Defining Work**
 
-| `dice: d6\|avg` (`d6`) | Defining Work |
-|-----------|------------|---------------|
+| dice: d6 | Defining Work |
+|----------|---------------|
 | 1 | "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire |
 | 2 | "Waltz of the Myconids," an upbeat tune that children in particular enjoy |
 | 3 | "Asmodeus's Golden Arse," a dramatic poem you claim was inspired by your personal visit to Avernus |
@@ -177,8 +177,8 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 
 **Instrument**
 
-| `dice: d6\|avg` (`d6`) | Instrument |
-|-----------|------------|------------|
+| dice: d6 | Instrument |
+|----------|------------|
 | 1 | A masterfully crafted halfling fiddle |
 | 2 | A mithral [[5. Mechanics/Items/Horn.md\|horn]] made by elves |
 | 3 | A zither made with drow spider silk |
@@ -196,8 +196,8 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 
 **Embarrassment**
 
-| `dice: d6\|avg` (`d6`) | Embarrassment |
-|-----------|------------|---------------|
+| dice: d6 | Embarrassment |
+|----------|---------------|
 | 1 | The time when your comedic song, "Big Tom's Hijinks"—which, by the way, you thought was brilliant—did not go over well with Big Tom |
 | 2 | The matinee performance when a circus's owlbear got loose and terrorized the crowd |
 | 3 | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth" |

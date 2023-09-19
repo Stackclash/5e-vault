@@ -11,6 +11,7 @@ aliases: ["Ring of X-ray Vision"]
 ---
 # Ring of X-ray Vision
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-x-ray-vision.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

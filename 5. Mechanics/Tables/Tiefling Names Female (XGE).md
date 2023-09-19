@@ -12,8 +12,8 @@ aliases: ["Tiefling Names – Female"]
 
 **Tiefling Names – Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Akta |
 | 03-04 | Anakis |
 | 05-06 | Armara |

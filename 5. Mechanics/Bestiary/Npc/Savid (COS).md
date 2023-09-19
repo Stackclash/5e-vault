@@ -2,21 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
 aliases: ["Savid"]
 ---
 # Savid
-*Source: Curse of Strahd p. 133, Derived from Scout (MM)*  
+*Source: Curse of Strahd p. 133, Derived from *  
 
 ```statblock
 "name": "Savid"
@@ -51,17 +42,13 @@ aliases: ["Savid"]
 - "desc": "Savid makes two melee attacks or two ranged attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), ranged 150/600 ft.,\
-    \ one target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ one target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Longbow"
 "source":
 - "CoS"
 "image": "5. Mechanics/Bestiary/Npc/token/savid.png"
 ```
 ^statblock
-
-## Environment
-
-coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert

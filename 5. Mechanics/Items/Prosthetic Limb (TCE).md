@@ -9,6 +9,7 @@ aliases: ["Prosthetic Limb"]
 ---
 # Prosthetic Limb
 *Wondrous Item, common*  
+![[5. Mechanics/Items/img/prosthetic-limb.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

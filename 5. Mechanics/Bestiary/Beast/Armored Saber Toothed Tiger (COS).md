@@ -2,14 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/mountain
 - monster/size/large
 - monster/type/beast
 aliases: ["Armored Saber-Toothed Tiger"]
 ---
 # Armored Saber-Toothed Tiger
-*Source: Curse of Strahd p. 115, Derived from Saber-Toothed Tiger (MM)*  
+*Source: Curse of Strahd p. 115, Derived from *  
 
 ```statblock
 "name": "Armored Saber-Toothed Tiger"
@@ -45,17 +43,13 @@ aliases: ["Armored Saber-Toothed Tiger"]
   "name": "Pounce"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 1d10 + 5|avg (1d10 + 5)) piercing damage."
+    \ Hit: dice: 1d10 + 5|avg (1d10 + 5) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
   "name": "Claw"
 "source":
 - "CoS"
 "image": "compendium/bestiary/beast/token/armored-saber-toothed-tiger.png"
 ```
 ^statblock
-
-## Environment
-
-mountain, arctic

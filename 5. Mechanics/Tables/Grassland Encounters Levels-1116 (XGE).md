@@ -12,8 +12,8 @@ aliases: ["Grassland Encounters (Levels 11—16)"]
 
 **Grassland Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-05 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Wereboar.md\|wereboars]] |
 | 06-10 | `dice: 2d10\|avg` (`2d10`) [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md\|gnoll fangs of Yeenoghu]] |
 | 11-15 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Monstrosity/Bulette.md\|bulettes]] |

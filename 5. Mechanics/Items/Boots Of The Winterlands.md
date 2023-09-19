@@ -11,6 +11,7 @@ aliases: ["Boots of the Winterlands"]
 ---
 # Boots of the Winterlands
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/boots-of-the-winterlands.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

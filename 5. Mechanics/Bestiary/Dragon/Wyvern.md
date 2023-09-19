@@ -55,15 +55,15 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
     \ While flying, it can use its claws in place of one other attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Claws"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one creature.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage. The target must\
-    \ make a DC 15 Constitution saving throw, taking 24 (dice: 7d6|avg (7d6))\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage. The target must make\
+    \ a DC 15 Constitution saving throw, taking dice: 7d6|avg (7d6) poison damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Stinger"
 "source":
 - "MM"

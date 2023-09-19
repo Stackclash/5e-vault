@@ -63,10 +63,10 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
   "name": "Dagger"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), one target directly\
-    \ below the kobold. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage."
+    \ below the kobold. Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage."
   "name": "Dropped Rock"
 "source":
 - "MM"

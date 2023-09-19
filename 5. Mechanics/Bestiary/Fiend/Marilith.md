@@ -155,14 +155,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -226,11 +226,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     \ its tail."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one creature.\
-    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) bludgeoning damage. If the target\
-    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) bludgeoning damage. If the target is\
+    \ Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ the marilith can automatically hit the target with its tail, and the marilith\
     \ can't make tail attacks against other targets."

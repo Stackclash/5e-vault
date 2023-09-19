@@ -10,6 +10,7 @@ aliases: ["Universal Solvent"]
 ---
 # Universal Solvent
 *Wondrous Item, minor, legendary*  
+![[5. Mechanics/Items/img/universal-solvent.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

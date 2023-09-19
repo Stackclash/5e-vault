@@ -37,7 +37,7 @@ aliases: ["Animated Object (Huge)"]
   "name": "Animated"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 16 (dice: 2d12 + 4|avg (2d12 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d12 + 4|avg (2d12 + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "PHB"

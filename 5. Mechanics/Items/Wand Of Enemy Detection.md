@@ -11,6 +11,7 @@ aliases: ["Wand of Enemy Detection"]
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/wand-of-enemy-detection.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

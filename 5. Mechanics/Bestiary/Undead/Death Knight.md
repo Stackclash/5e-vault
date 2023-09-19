@@ -23,7 +23,7 @@ A death knight can arise anew even after it has been destroyed. Only when it ato
 
 A death knight doesn't require air, food, drink, or sleep.
 
-> [!quote] Lord Soth
+> [!note] Lord Soth
 > 
 > Lord Soth began his fall from grace with an act of heroism, saving an elf named Isolde from an ogre. Soth and Isolde fell in love, but Soth was already married. He had a servant dispose of his wife and was charged with murder, but fled with Isolde. When his castle fell under siege, he prayed for guidance and was told that he must atone for his misdeeds by completing a quest, but growing fears about Isolde's fidelity caused him to abandon his quest. Because his mission was not accomplished, a great cataclysm swept the land. When Isolde gave birth to a son, Soth refused to believe that the child was his and slew them both. All were incinerated in a fire that swept through the castle, yet Soth would find no rest in death, becoming a death knight.
 ^lord-soth
@@ -77,16 +77,16 @@ A death knight doesn't require air, food, drink, or sleep.
 - "desc": "The death knight makes three longsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) slashing damage, or 10 (dice: 1d10\
-    \ + 5|avg (1d10 + 5)) slashing damage if used with two hands, plus 18 (dice:\
-    \ 4d8|avg (4d8)) necrotic damage."
+    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) slashing damage, or dice: 1d10 + 5|avg\
+    \ (1d10 + 5) slashing damage if used with two hands, plus dice: 4d8|avg (4d8)\
+    \ necrotic damage."
   "name": "Longsword"
 - "desc": "The death knight hurls a magical ball of fire that explodes at a point\
     \ it can see within 120 feet of it. Each creature in a 20-foot-radius sphere centered\
     \ on that point must make a DC 18 Dexterity saving throw. The sphere spreads around\
-    \ corners. A creature takes 35 (dice: 10d6|avg (10d6)) fire damage and 35\
-    \ (dice: 10d6|avg (10d6)) necrotic damage on a failed save, or half as much\
-    \ damage on a successful one."
+    \ corners. A creature takes dice: 10d6|avg (10d6) fire damage and dice: 10d6|avg\
+    \ (10d6) necrotic damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Hellfire Orb (1/Day)"
 "reactions":
 - "desc": "The death knight adds 6 to its AC against one melee attack that would hit\

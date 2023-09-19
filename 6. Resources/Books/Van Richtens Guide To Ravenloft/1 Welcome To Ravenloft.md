@@ -32,7 +32,7 @@ This book explores the Domains of Dread, the mysterious expanses of the Shadowfe
 
 "Chapter 5" details how to make any foe into a notorious terror, as well as a collection of monsters that roam the Domains of Dread and other D&D worlds.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Doctor van Richten,
 > 
@@ -73,7 +73,7 @@ Suspenseful stories don't need to be somber or shocking. Action, mystery, and co
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/001-00-007-letter-gennifer.png#center]]
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Uncle Rudolph,
 > 
@@ -118,7 +118,7 @@ Ravenloft is inherently a vast nightmare. Most of those who experience its terro
 
 As with any nightmare, the Domains of Dread aren't shackled to the laws of reality. Domains exist not to simulate a believable world, but to terrify. This flexibility provides a powerful tool to upend assumptions of safety and tailor your characters' struggles. It also encourages layers of mysteries about the nature of the setting. Is each domain unique or just one in a series of recurring nightmares? How many forms of Castle Ravenloft exist, have existed, and will yet reveal themselves in the Mists? What is truth among the Domains of Dread, and how long will that remain certain? The answers are for you to decide.
 
-> [!quote] This Book Gives Characters Nightmares
+> [!note] This Book Gives Characters Nightmares
 > 
 > Ravenloft is a setting designed to bring nightmares to lifeâ€”for characters, not for players. While the Land of the Mists is rife with sinister plots and terrifying tales, they're meant to stay within the world of your game, not to prey upon the fears of players. "Chapter 4" details ways to make sure you're crafting adventures that are spooky in ways your players will enjoy. "Chapter 1" also provides guidance for players so they can work together to create horror experiences that are safe and fun for the entire group. Revisit these considerations and safety tools often, until they're just as much a part of your game as character sheets and dice.
 > 
@@ -141,7 +141,7 @@ The true nature of the Dark Powers is for you to decide. How you perceive these 
 - **Evil Architects.** The Dark Powers are embodiments of evil, mysterious entities of the Plane of Shadow, or a conspiracy of wicked gods. They treat the denizens of the Domains of Dread as their playthings, sowing fears and fomenting despair. This pleases or sustains them, or perhaps they're searching for individuals worthy of joining their ranks.  
 - **Undying Remnants.** The Dark Powers are all that remain of a multitude of vanquished evil deities and demigods. Traces of their power linger in amber sarcophagi scattered throughout the Domains of Dread. These diminished vestiges manipulate their realm to create negative forces that sustain their essence and build toward renewed apotheosis.  
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Rudolph,
 > 
@@ -176,7 +176,7 @@ Sinister demiplanes known as domains constitute the realms of Ravenloft. These d
 
 Details on how to create your own domains appear in "chapter 2", while "chapter 3" describes some of the most notorious Domains of Dread.
 
-> [!quote] Cultivating Hope
+> [!note] Cultivating Hope
 > 
 > In Ravenloft, the Dark Powers control reality, the Mists foil escape attempts, and terrifying Darklords can appear at any moment. What hope do heroes have against such overwhelming evils?
 > 
@@ -213,7 +213,7 @@ Adventurers find few peers in the Land of the Mists. While there are exceptionsâ
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/007-00-012-letter-van-richten.png#center]]
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > My Friends,
 > 

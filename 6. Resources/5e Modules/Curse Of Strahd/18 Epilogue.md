@@ -28,7 +28,7 @@ When [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd]] is reduc
 
 If the characters finish off Strahd in his coffin, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Strahd can't hide his surprise as death takes him into the black abyss. Surprise turns to rage, and the Pillarstone of Ravenloft trembles with fury, shaking dust from the ceiling of the vampire's tomb. The shudders abate as Strahd's burning hatred melts away, replaced at last with relief. The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you. In a matter of moments, only bones, dust, and noble garb remain. [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], the dark lord of Barovia, is dead and gone.
 ^6af
@@ -37,7 +37,7 @@ If the characters finish off Strahd in his coffin, read:
 
 If Strahd dies but [[5. Mechanics/Bestiary/Npc/Rahadin (COS).md\|Rahadin]] yet lives, the dusk elf chamberlain appears moments after Strahd's demise. When that occurs, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > "Master!" says a voice from behind you. An elf with dusky brown skin and long black hair, his face a mask of terror, looks on what you have wrought and screams.
 ^6b1
@@ -50,7 +50,7 @@ This optional scene can be used after Strahd has been defeated. It assumes that 
 
 On the morning after Strahd's demise, the characters feel drawn to Castle Ravenloft's overlook (area K6), and there they witness the following scene.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Thick clouds fill the sky. Through the chilly morning mists, the land of Barovia is visible far below. There is peacefulness here. Rest has come to the valley for the first time anyone can remember.
 > 

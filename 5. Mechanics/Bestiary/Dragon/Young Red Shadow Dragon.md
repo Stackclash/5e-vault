@@ -102,14 +102,14 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: 17 (dice: 2d10 + 6|avg (2d10 + 6)) piercing damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) necrotic damage."
+    \ Hit: dice: 2d10 + 6|avg (2d10 + 6) piercing damage plus dice: 1d6|avg\
+    \ (1d6) necrotic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage."
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
   "name": "Claw"
 - "desc": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that\
-    \ area must make a DC 18 Dexterity saving throw, taking 56 (dice: 16d6|avg (16d6))\
+    \ area must make a DC 18 Dexterity saving throw, taking dice: 16d6|avg (16d6)\
     \ necrotic damage on a failed save, or half as much damage on a successful one.\
     \ A humanoid reduced to 0 hit points by this damage dies, and an undead [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]\
     \ rises from its corpse and acts immediately after the dragon in the initiative\

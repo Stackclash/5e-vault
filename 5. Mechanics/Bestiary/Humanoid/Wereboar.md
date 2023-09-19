@@ -31,7 +31,7 @@ A lycanthrope can either resist its curse or embrace it. By resisting the curse,
 
 Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
 
-> [!quote] Player Characters as Lycanthropes
+> [!note] Player Characters as Lycanthropes
 > 
 > A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.
 > 
@@ -81,9 +81,9 @@ Some individuals see little point in fighting the curse and accept what they are
     \ carrying isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
 - "desc": "If the wereboar moves at least 15 feet straight toward a target and then\
-    \ hits it with its tusks on the same turn, the target takes an extra 7 (dice:\
-    \ 2d6|avg (2d6)) slashing damage. If the target is a creature, it must succeed\
-    \ on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ hits it with its tusks on the same turn, the target takes an extra dice: 2d6|avg\
+    \ (2d6) slashing damage. If the target is a creature, it must succeed on a DC\
+    \ 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge (Boar or Hybrid Form Only)"
 - "desc": "If the wereboar takes 14 damage or less that would reduce it to 0 hit points,\
     \ it is reduced to 1 hit point instead."
@@ -92,12 +92,12 @@ Some individuals see little point in fighting the curse and accept what they are
 - "desc": "The wereboar makes two attacks, only one of which can be with its tusks."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage."
   "name": "Maul (Humanoid or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed\
-    \ with wereboar lycanthropy."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage. If the target is a humanoid,\
+    \ it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar\
+    \ lycanthropy."
   "name": "Tusks (Boar or Hybrid Form Only)"
 "source":
 - "MM"

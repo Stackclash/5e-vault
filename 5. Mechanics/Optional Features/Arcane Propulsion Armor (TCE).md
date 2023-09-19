@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ai
 aliases: ["Arcane Propulsion Armor"]
 ---
 # Arcane Propulsion Armor
-*Source: Tasha's Cauldron of Everything p. 20* 
+*Source: Tasha's Cauldron of Everything p. 20*  
+
+***Prerequisites*** 14th-level Artificer, A suit of armor (requires attunement)
 
 The wearer of this armor gains these benefits:
 

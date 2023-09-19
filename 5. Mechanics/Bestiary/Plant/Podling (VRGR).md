@@ -59,7 +59,7 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
   "name": "Unusual Nature"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage."
   "name": "Slam"
 "source":
 - "VRGR"

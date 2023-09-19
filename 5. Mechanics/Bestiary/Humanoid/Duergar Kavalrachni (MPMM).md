@@ -70,11 +70,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - "desc": "The duergar makes two War Pick attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage plus 5 (dice: 2d4|avg\
-    \ (2d4)) poison damage."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 2d4|avg\
+    \ (2d4) poison damage."
   "name": "War Pick"
 - "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
-    \ target. Hit: 5 (dice: 1d10|avg (1d10)) piercing damage."
+    \ target. Hit: dice: 1d10|avg (1d10) piercing damage."
   "name": "Heavy Crossbow"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

@@ -58,18 +58,17 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 - "desc": "The giant makes two Fireshield or Rock attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: 22 (dice: 4d6 + 8|avg (4d6 + 8)) bludgeoning damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) fire damage plus 7 (dice: 2d6|avg (2d6)) piercing damage."
+    \ Hit: dice: 4d6 + 8|avg (4d6 + 8) bludgeoning damage plus dice: 2d6|avg\
+    \ (2d6) fire damage plus dice: 2d6|avg (2d6) piercing damage."
   "name": "Fireshield"
 - "desc": "Ranged Weapon Attack: dice: d20+13 (+13 to hit), range 60/240 ft.,\
-    \ one target. Hit: 30 (dice: 4d10 + 8|avg (4d10 + 8)) bludgeoning damage."
+    \ one target. Hit: dice: 4d10 + 8|avg (4d10 + 8) bludgeoning damage."
   "name": "Rock"
 - "desc": "The giant moves up to 30 feet in a straight line and can move through the\
     \ space of any creature smaller than Huge. The first time it enters a creature's\
     \ space during this move, that creature must succeed on a DC 21 Strength saving\
-    \ throw or take 36 (dice: 8d6 + 8|avg (8d6 + 8)) bludgeoning damage plus 14\
-    \ (dice: 4d6|avg (4d6)) fire damage and be pushed up to 30 feet and knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ throw or take dice: 8d6 + 8|avg (8d6 + 8) bludgeoning damage plus dice:\
+    \ 4d6|avg (4d6) fire damage and be pushed up to 30 feet and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Shield Charge (Recharge 5-6)"
 "source":
 - "MPMM"

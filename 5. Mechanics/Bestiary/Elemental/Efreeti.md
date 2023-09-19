@@ -104,11 +104,11 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "desc": "The efreeti makes two scimitar attacks or uses its Hurl Flame twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage plus 7 (dice: 2d6|avg\
-    \ (2d6)) fire damage."
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage plus dice: 2d6|avg\
+    \ (2d6) fire damage."
   "name": "Scimitar"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: 17 (dice: 5d6|avg (5d6)) fire damage."
+    \ Hit: dice: 5d6|avg (5d6) fire damage."
   "name": "Hurl Flame"
 "source":
 - "MM"

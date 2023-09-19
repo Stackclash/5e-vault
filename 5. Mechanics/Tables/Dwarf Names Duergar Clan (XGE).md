@@ -12,8 +12,8 @@ aliases: ["Dwarf Names – Duergar Clan"]
 
 **Dwarf Names – Duergar Clan**
 
-| `dice: d12\|avg` (`d12`) | Name |
-|------------|-------------|------|
+| dice: d12 | Name |
+|-----------|------|
 | 1 | Ashlord |
 | 2 | Battlegore |
 | 3 | Doomfist |

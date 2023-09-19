@@ -45,7 +45,7 @@ Somewhere in the brimstone wastes of Gehenna, there roams an ultroloth so strong
 
 Whatever the case, no fiend finds the General unless the General desires it. His personal name is unknown, and even the Books of Keeping contain no mention of this powerful, thoroughly evil entity.
 
-> [!quote] Variant: Yugoloth Summoning
+> [!note] Variant: Yugoloth Summoning
 > 
 > Some yugoloths can have an action option that allows them to summon other yugoloths.
 > 
@@ -132,9 +132,9 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   "name": "Magic Weapons"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) slashing damage. The target must\
-    \ make a DC 14 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. The target must make\
+    \ a DC 14 Constitution saving throw, taking dice: 3d6|avg (3d6) poison damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Claws"
 - "desc": "The arcanaloth magically teleports, along with any equipment it is wearing\
     \ or carrying, up to 60 feet to an unoccupied space it can see."

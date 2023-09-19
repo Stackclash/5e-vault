@@ -55,8 +55,8 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
   "name": "Spider Climb"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 9 (dice: 2d8|avg\
-    \ (2d8)) poison damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 2d8|avg\
+    \ (2d8) poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one Medium\
     \ or smaller creature. Hit: The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\

@@ -56,11 +56,11 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
   "name": "Unusual Nature"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) slashing damage. If the target is\
-    \ a creature, it must succeed on a DC 12 Constitution saving throw, or it begins\
-    \ to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ until the end of its next turn, when it must repeat the saving throw. The effect\
-    \ ends if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
+    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) slashing damage. If the target is a creature,\
+    \ it must succeed on a DC 12 Constitution saving throw, or it begins to turn to\
+    \ stone and is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until\
+    \ the end of its next turn, when it must repeat the saving throw. The effect ends\
+    \ if the second save is successful; otherwise the target is [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]\
     \ for 24 hours."
   "name": "Petrifying Claws"
 "source":

@@ -10,6 +10,7 @@ aliases: ["Wand of Orcus"]
 ---
 # Wand of Orcus
 *Wand, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/wand-of-orcus.jpg#right]]  
 
 - **Damage**: 1d6 B
 - **Properties**: Requires Attunement

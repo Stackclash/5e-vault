@@ -57,12 +57,11 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 - "desc": "The redcap makes three Wicked Sickle attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) slashing damage."
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) slashing damage."
   "name": "Wicked Sickle"
 - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
     \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw or\
-    \ take 20 (dice: 3d10 + 4|avg (3d10 + 4)) bludgeoning damage and be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ take dice: 3d10 + 4|avg (3d10 + 4) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Ironbound Pursuit"
 "source":
 - "MPMM"

@@ -151,14 +151,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -213,8 +213,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "17"
 "traits":
 - "desc": "If the goristro moves at least 15 feet straight toward a target and then\
-    \ hits it with a gore attack on the same turn, the target takes an extra 38 (dice:\
-    \ 7d10|avg (7d10)) piercing damage. If the target is a creature, it must succeed\
+    \ hits it with a gore attack on the same turn, the target takes an extra dice:\
+    \ 7d10|avg (7d10) piercing damage. If the target is a creature, it must succeed\
     \ on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Charge"
@@ -229,15 +229,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The goristro makes three attacks: two with its fists and one with its hoof."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: 20 (dice: 3d8 + 7|avg (3d8 + 7)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 7|avg (3d8 + 7) bludgeoning damage."
   "name": "Fist"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 5 ft., one target.\
-    \ Hit: 23 (dice: 3d10 + 7|avg (3d10 + 7)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 21 Strength saving throw or be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 3d10 + 7|avg (3d10 + 7) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 21 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hoof"
 - "desc": "Melee Weapon Attack: dice: d20+13 (+13 to hit), reach 10 ft., one target.\
-    \ Hit: 45 (dice: 7d10 + 7|avg (7d10 + 7)) piercing damage."
+    \ Hit: dice: 7d10 + 7|avg (7d10 + 7) piercing damage."
   "name": "Gore"
 "source":
 - "MM"

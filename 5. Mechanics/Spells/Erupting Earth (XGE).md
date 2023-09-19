@@ -14,6 +14,7 @@ aliases: ["Erupting Earth"]
 ---
 # Erupting Earth
 *3rd-level, Transmutation*  
+![[5. Mechanics/Spells/img/erupting-earth.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 120 feet

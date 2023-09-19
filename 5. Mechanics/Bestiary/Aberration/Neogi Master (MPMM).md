@@ -73,18 +73,18 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     \ of Hadar attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage plus 14 (dice: 4d6|avg\
-    \ (4d6)) poison damage, and the target must succeed on a DC 12 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. A target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage plus dice: 4d6|avg\
+    \ (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
+    \ A target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) piercing damage."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) piercing damage."
   "name": "Claw"
 - "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
-    \ Hit: 14 (dice: 3d6 + 4|avg (3d6 + 4)) necrotic damage, and the target\
-    \ can't take reactions until the end of the neogi's next turn, as a spectral tentacle\
+    \ Hit: dice: 3d6 + 4|avg (3d6 + 4) necrotic damage, and the target can't\
+    \ take reactions until the end of the neogi's next turn, as a spectral tentacle\
     \ clings to the target."
   "name": "Tentacle of Hadar"
 "bonus_actions":

@@ -68,16 +68,16 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
     \ It can replace one of those attacks with a bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) piercing damage plus 9 (dice: 2d8|avg (2d8))\
+    \ Hit: dice: 1d4|avg (1d4) piercing damage plus dice: 2d8|avg (2d8)\
     \ poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
-    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+    \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
-    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 4 (dice:\
-    \ 1d8|avg (1d8)) poison damage."
+    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 1d8|avg\
+    \ (1d8) poison damage."
   "name": "Longbow"
 "source":
 - "MM"

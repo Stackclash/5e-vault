@@ -73,12 +73,12 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - "desc": "The cambion makes two melee attacks or uses its Fire Ray twice."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing\
-    \ damage, or 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage if used with\
-    \ two hands to make a melee attack, plus 3 (dice: 1d6|avg (1d6)) fire damage."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or dice: 1d8 + 4|avg (1d8 + 4) piercing damage if used with two\
+    \ hands to make a melee attack, plus dice: 1d6|avg (1d6) fire damage."
   "name": "Spear"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage."
+    \ Hit: dice: 3d6|avg (3d6) fire damage."
   "name": "Fire Ray"
 - "desc": "One humanoid the cambion can see within 30 feet of it must succeed on a\
     \ DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

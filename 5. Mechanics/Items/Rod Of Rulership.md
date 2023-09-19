@@ -11,6 +11,7 @@ aliases: ["Rod of Rulership"]
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/rod-of-rulership.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/rn
 aliases: ["Stone Rune"]
 ---
 # Stone Rune
-*Source: Tasha's Cauldron of Everything p. 45* 
+*Source: Tasha's Cauldron of Everything p. 45*  
 
 This rune's magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks, and you have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 120 feet.
 

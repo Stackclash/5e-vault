@@ -59,7 +59,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 - "desc": "The chitine makes three Dagger attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":

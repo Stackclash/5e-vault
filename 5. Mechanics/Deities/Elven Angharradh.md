@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: json5e-deity
+cssclasses: json5e-deity
 tags:
 - compendium/src/5e/mtf
 - deity/elven

@@ -7,7 +7,7 @@ tags:
 aliases: ["Vasilka"]
 ---
 # Vasilka
-*Source: Curse of Strahd p. 151, Derived from Flesh Golem (MM)*  
+*Source: Curse of Strahd p. 151, Derived from *  
 
 ```statblock
 "name": "Vasilka"
@@ -61,7 +61,7 @@ aliases: ["Vasilka"]
 - "desc": "Vasilka makes two slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "CoS"

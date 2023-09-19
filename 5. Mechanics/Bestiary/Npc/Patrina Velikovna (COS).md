@@ -2,13 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
 aliases: ["Patrina Velikovna"]
 ---
 # Patrina Velikovna
-*Source: Curse of Strahd p. 89, Derived from Archmage (MM)*  
+*Source: Curse of Strahd p. 89, Derived from *  
 
 ```statblock
 "name": "Patrina Velikovna"
@@ -67,7 +66,7 @@ aliases: ["Patrina Velikovna"]
   "name": "Magic Resistance"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
     \ damage."
   "name": "Dagger"
 "source":
@@ -75,7 +74,3 @@ aliases: ["Patrina Velikovna"]
 "image": "compendium/bestiary/npc/token/patrina-velikovna.png"
 ```
 ^statblock
-
-## Environment
-
-urban

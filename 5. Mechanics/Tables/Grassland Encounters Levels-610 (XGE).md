@@ -12,8 +12,8 @@ aliases: ["Grassland Encounters (Levels 6—10)"]
 
 **Grassland Encounters (Levels 6—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Monstrosity/Gorgon.md\|gorgons]] |
 | 02 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclopes]] |
 | 03-04 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md\|gnoll fangs of Yeenoghu]] |

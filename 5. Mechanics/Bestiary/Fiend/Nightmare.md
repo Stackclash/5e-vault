@@ -47,8 +47,8 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
   "name": "Illumination"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) fire damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage plus dice: 2d6|avg\
+    \ (2d6) fire damage."
   "name": "Hooves"
 - "desc": "The nightmare and up to three willing creatures within 5 feet of it magically\
     \ enter the Ethereal Plane from the Material Plane, or vice versa."

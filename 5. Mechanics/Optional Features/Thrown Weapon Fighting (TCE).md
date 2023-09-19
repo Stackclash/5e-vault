@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/fs-f
@@ -8,7 +8,7 @@ tags:
 aliases: ["Thrown Weapon Fighting"]
 ---
 # Thrown Weapon Fighting
-*Source: Tasha's Cauldron of Everything p. 42* 
+*Source: Tasha's Cauldron of Everything p. 42*  
 
 You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
 

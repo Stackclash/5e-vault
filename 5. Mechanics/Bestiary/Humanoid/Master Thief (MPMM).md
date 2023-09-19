@@ -68,12 +68,12 @@ When a master thief completes a challenging heist, they often leave behind a cal
 - "desc": "The thief makes three Shortsword or Shortbow attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) poison damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 1d6|avg\
+    \ (1d6) poison damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 80/320 ft., one\
-    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) poison damage."
+    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 1d6|avg\
+    \ (1d6) poison damage."
   "name": "Shortbow"
 "bonus_actions":
 - "desc": "The thief takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]],\

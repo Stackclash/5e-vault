@@ -6,12 +6,11 @@ tags:
 - item/attunement/required
 - item/property/versatile
 - item/rarity/very-rare
-- item/tier/major
 - item/wondrous/staff
 aliases: ["Jakarion's Staff of Frost"]
 ---
 # Jakarion's Staff of Frost
-*Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+*Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 
 - **Damage**:
   - One-handed: 1d6 B
@@ -28,4 +27,4 @@ The staff regains `dice: 1d6 + 4|avg` (`1d6 + 4`) expended charges daily at dawn
 
 Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
-*Source: Curse of Strahd p. 187, Derived from Staff of Frost (DMG)*
+*Source: Curse of Strahd p. 187, Derived from *

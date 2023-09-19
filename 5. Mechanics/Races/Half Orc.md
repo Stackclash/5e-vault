@@ -8,6 +8,7 @@ aliases: ["Half-Orc"]
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the SRD.*  
+![[5. Mechanics/Races/img/half-orc.png#right]]  
 
 - **Ability Scores**: Strength +2, Constitution +1
 - **Type**: race
@@ -67,7 +68,7 @@ Half-orcs usually have names appropriate to the culture in which they were raise
 - **Male Orc Names.** Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk  
 - **Female Orc Names.** Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Vola, Volen, Yevelda  
 
-> [!quote] Grudging Acceptance
+> [!note] Grudging Acceptance
 > 
 > Each half-orc finds a way to gain acceptance from those who hate orcs. Some are reserved, trying not to draw attention to themselves. A few demonstrate piety and good-heartedness as publicly as they can (whether or not such demonstrations are genuine). And some simply try to be so tough that others just avoid them.
 ^grudging-acceptance

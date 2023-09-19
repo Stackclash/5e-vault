@@ -10,6 +10,7 @@ aliases: ["Quiver of Ehlonna"]
 ---
 # Quiver of Ehlonna
 *Wondrous Item, major, uncommon*  
+![[5. Mechanics/Items/img/quiver-of-ehlonna.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.

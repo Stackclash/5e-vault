@@ -65,8 +65,8 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], and at risk of suffocating,\
     \ and the rug can't smother another target. In addition, at the start of each\
-    \ of the target's turns, the target takes 10 (dice: 2d6 + 3|avg (2d6 + 3))\
-    \ bludgeoning damage."
+    \ of the target's turns, the target takes dice: 2d6 + 3|avg (2d6 + 3) bludgeoning\
+    \ damage."
   "name": "Smother"
 "source":
 - "MM"

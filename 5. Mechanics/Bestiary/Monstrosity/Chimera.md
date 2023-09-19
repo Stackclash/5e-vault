@@ -52,17 +52,17 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
     \ in place of its bite or horns."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 1d12 + 4|avg (1d12 + 4)) bludgeoning damage."
+    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) bludgeoning damage."
   "name": "Horns"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
   "name": "Claws"
 - "desc": "The dragon head exhales fire in a 15-foot cone. Each creature in that area\
-    \ must make a DC 15 Dexterity saving throw, taking 31 (dice: 7d8|avg (7d8))\
-    \ fire damage on a failed save, or half as much damage on a successful one."
+    \ must make a DC 15 Dexterity saving throw, taking dice: 7d8|avg (7d8) fire\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

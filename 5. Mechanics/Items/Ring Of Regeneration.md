@@ -11,6 +11,7 @@ aliases: ["Ring of Regeneration"]
 ---
 # Ring of Regeneration
 *Ring, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-regeneration.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -66,8 +66,8 @@ A naga doesn't require air, food, drink, or sleep.
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) poison damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage plus dice: 3d6|avg\
+    \ (3d6) poison damage."
   "name": "Bite"
 "source":
 - "MM"

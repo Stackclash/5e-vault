@@ -12,8 +12,8 @@ aliases: ["Urban Encounters (Levels 1—4)"]
 
 **Urban Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1d6 [[5. Mechanics/Bestiary/Beast/Cat.md\|cats]] |
 | 02-03 | 1 [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]] with 1d6 [[5. Mechanics/Bestiary/Beast/Goat.md\|goats]] |
 | 04-05 | 2d10 [[5. Mechanics/Bestiary/Beast/Rat.md\|rats]] |

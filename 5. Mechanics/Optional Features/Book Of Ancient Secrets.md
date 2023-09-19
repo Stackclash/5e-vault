@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
 - optional-feature/ei
 aliases: ["Book of Ancient Secrets"]
 ---
 # Book of Ancient Secrets
-*Source: Player's Handbook p. 110. Available in the SRD.* 
+*Source: Player's Handbook p. 110. Available in the SRD.*  
+
+***Prerequisites*** Pact of the Tome
 
 You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells needn't be from the same spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 

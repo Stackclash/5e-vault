@@ -10,6 +10,7 @@ aliases: ["Censer of Controlling Air Elementals"]
 ---
 # Censer of Controlling Air Elementals
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/censer-of-controlling-air-elementals.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

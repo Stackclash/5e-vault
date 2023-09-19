@@ -38,10 +38,10 @@ aliases: ["Elephant"]
   "name": "Trampling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) piercing damage."
+    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) piercing damage."
   "name": "Gore"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: 22 (dice: 3d10 + 6|avg (3d10 + 6)) bludgeoning damage."
+    \ creature. Hit: dice: 3d10 + 6|avg (3d10 + 6) bludgeoning damage."
   "name": "Stomp"
 "source":
 - "MM"

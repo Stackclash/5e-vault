@@ -56,10 +56,10 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
     \ one of the attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage."
   "name": "Unarmed Strike"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 20/60 ft., one\
-    \ target. Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
+    \ target. Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
   "name": "Dart"
 - "desc": "The hobgoblin teleports, along with any equipment it is wearing or carrying,\
     \ up to 30 feet to an unoccupied space it can see. Both the space it leaves and\

@@ -92,7 +92,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-- "desc": "Once per turn, the hobgoblin can deal an extra 10 (dice: 3d6|avg (3d6))\
+- "desc": "Once per turn, the hobgoblin can deal an extra dice: 3d6|avg (3d6)\
     \ damage to a creature it hits with a weapon attack if that creature is within\
     \ 5 feet of an ally of the hobgoblin that isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]."
   "name": "Martial Advantage"
@@ -100,11 +100,11 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 - "desc": "The hobgoblin makes two greatsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage."
   "name": "Greatsword"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2))\
-    \ piercing damage."
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage."
   "name": "Javelin"
 - "desc": "For 1 minute, the hobgoblin can utter a special command or warning whenever\
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\

@@ -10,6 +10,7 @@ aliases: ["Manual of Iron Golems"]
 ---
 # Manual of Iron Golems
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/manual-of-iron-golems.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

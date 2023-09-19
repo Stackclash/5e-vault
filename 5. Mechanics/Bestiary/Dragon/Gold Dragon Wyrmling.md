@@ -110,11 +110,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Amphibious"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage."
+    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
   "name": "Bite"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 15-foot cone. Each creature in that area must make\
-    \ a DC 13 Dexterity saving throw, taking 22 (dice: 4d10|avg (4d10)) fire damage\
+    \ a DC 13 Dexterity saving throw, taking dice: 4d10|avg (4d10) fire damage\
     \ on a failed save, or half as much damage on a successful one.  \n- Weakening\
     \ Breath. The dragon exhales gas in a 15-foot cone. Each creature in that area\
     \ must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based\

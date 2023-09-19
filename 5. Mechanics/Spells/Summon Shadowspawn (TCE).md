@@ -11,6 +11,7 @@ aliases: ["Summon Shadowspawn"]
 ---
 # Summon Shadowspawn
 *3rd-level, Conjuration*  
+![[5. Mechanics/Spells/img/summon-shadowspawn.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 90 feet

@@ -17,7 +17,7 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 > 
 > They live by the sword and kill by the sword. Their beauty is nothing compared to their wrath.
 
-> [!quote] Variant: Rope of Entanglement
+> [!note] Variant: Rope of Entanglement
 > 
 > Some erinyes carry a [[5. Mechanics/Items/Rope Of Entanglement.md|rope of entanglement]] (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 ^variant-rope-of-entanglement
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -125,7 +125,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -172,8 +172,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
-- "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (dice: 3d8|avg\
-    \ (3d8)) poison damage on a hit (included in the attacks)."
+- "desc": "The erinyes's weapon attacks are magical and deal an extra dice: 3d8|avg\
+    \ (3d8) poison damage on a hit (included in the attacks)."
   "name": "Hellish Weapons"
 - "desc": "The erinyes has advantage on saving throws against spells and other magical\
     \ effects."
@@ -182,15 +182,15 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The erinyes makes three attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
-    \ + 4|avg (1d10 + 4)) slashing damage if used with two hands, plus 13 (dice:\
-    \ 3d8|avg (3d8)) poison damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+    \ (1d10 + 4) slashing damage if used with two hands, plus dice: 3d8|avg (3d8)\
+    \ poison damage."
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 13 (dice:\
-    \ 3d8|avg (3d8)) poison damage, and the target must succeed on a DC 14 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The\
-    \ poison lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 3d8|avg\
+    \ (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]. The poison\
+    \ lasts until it is removed by the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
     \ spell or similar magic."
   "name": "Longbow"
 "reactions":

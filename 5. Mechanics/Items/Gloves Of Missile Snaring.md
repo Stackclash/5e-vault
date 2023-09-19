@@ -11,6 +11,7 @@ aliases: ["Gloves of Missile Snaring"]
 ---
 # Gloves of Missile Snaring
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/gloves-of-missile-snaring.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

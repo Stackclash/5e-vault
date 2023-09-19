@@ -49,9 +49,9 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
   "name": "Swarm"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 0 ft., one target\
-    \ in the swarm's space. Hit: 12 (dice: 3d6 + 2|avg (3d6 + 2)) piercing damage,\
-    \ or 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage if the swarm has half\
-    \ of its hit points or fewer, plus 7 (dice: 2d6|avg (2d6)) force damage."
+    \ in the swarm's space. Hit: dice: 3d6 + 2|avg (3d6 + 2) piercing damage,\
+    \ or dice: 1d6 + 2|avg (1d6 + 2) piercing damage if the swarm has half of\
+    \ its hit points or fewer, plus dice: 2d6|avg (2d6) force damage."
   "name": "Bites"
 "reactions":
 - "desc": "In response to a spell attack roll missing the swarm, the swarm causes\

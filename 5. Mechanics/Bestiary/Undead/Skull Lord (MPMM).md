@@ -70,11 +70,11 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - "desc": "The skull lord makes three Bone Staff or Deathly Ray attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) bludgeoning damage plus 21 (dice:\
-    \ 6d6|avg (6d6)) necrotic damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) bludgeoning damage plus dice: 6d6|avg\
+    \ (6d6) necrotic damage."
   "name": "Bone Staff"
 - "desc": "Ranged Spell Attack: dice: d20+10 (+10 to hit), range 60 ft., one target.\
-    \ Hit: 27 (dice: 5d8 + 5|avg (5d8 + 5)) necrotic damage."
+    \ Hit: dice: 5d8 + 5|avg (5d8 + 5) necrotic damage."
   "name": "Deathly Ray"
 "legendary_actions":
 - "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."

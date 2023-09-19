@@ -8,15 +8,13 @@ aliases: ["Downtime Activity: Crime"]
 # Downtime Activity: Crime
 *Source: Xanathar's Guide to Everything p. 130* 
 
-## Downtime Activity: Crime
-
 Sometimes it pays to be bad. This activity gives a character the chance to make some extra cash, at the risk of arrest.
 
-### Resources
+## Resources
 
 A character must spend one week and at least 25 gp gathering information on potential targets before committing the intended crime.
 
-### Resolution
+## Resolution
 
 The character must make a series of checks, with the DC for all the checks chosen by the character according to the amount of profit sought from the crime.
 
@@ -42,7 +40,7 @@ If all three checks are successful, the character earns the full value of the lo
 | 25 | 1,000 gp, robbery of one of the richest figures in town |
 ^loot-value
 
-### Complications
+## Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 

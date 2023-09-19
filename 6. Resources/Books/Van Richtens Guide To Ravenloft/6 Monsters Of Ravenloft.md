@@ -91,7 +91,7 @@ Once you've considered the techniques in this section, put them all together to 
 
 For example, perhaps you've got an idea for a [[5. Mechanics/Bestiary/Giant/Troll.md\|troll]] that ambushes adventurers while they rest. Considering its origins and appearance, the troll literally being a troll isn't important to you; you're more interested in that general challenge and look for the creature. To make your troll feel notorious, you think of what would scare adventurers—where they're vulnerable and what they're sensitive about. You come up with an idea for a creature that can come from anywhere, maybe even within the adventurers' own gear. With tactics and traits in mind, you think of your troll as an abductor and give it the Grappler trait of a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] and the Amorphous trait of a [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black pudding]] so it can sneak in anywhere. Finally, you don't think of the troll as a minion, but you give it the Alien Mind trait to reflect its tormented psyche. Then you flesh out its story and give it a name: [[5. Mechanics/Bestiary/Giant/The Bagman (VRGR).md\|the Bagman]].
 
-![[The Bagman](compendium/be...](compendium/books/van-richtens-guide-to-ravenloft/img/123-05-003-the-bagman.png#center "[[5. Mechanics/Bestiary/Giant/The Bagman (VRGR).md\|The Bagman]] emerges from a bag of holding to collect its next victim")
+![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/123-05-003-the-bagman.png#center\|"The Bagman emerges from a bag of holding to collect its next victim"]]
 
 #### Beware the Bagman
 

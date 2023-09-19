@@ -58,7 +58,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one creature.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage."
   "name": "Fists"
 - "desc": "The mephit belches viscid mud onto one creature within 5 feet of it. If\
     \ the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving\

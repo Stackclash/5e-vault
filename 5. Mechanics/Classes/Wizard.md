@@ -145,8 +145,8 @@ Your wizard character's most prized possession—your spellbook—might be an in
 
 **Spellbooks**
 
-| `dice: d6\|avg` (`d6`) | Spellbook |
-|-----------|------------|-----------|
+| dice: d6 | Spellbook |
+|----------|-----------|
 | 1 | A tome with pages that are thin sheets of metal, spells etched into them with acid |
 | 2 | Long straps of leather on which spells are written, wrapped around a staff for ease of transport |
 | 3 | A battered tome filled with pictographs that only you can understand |
@@ -164,8 +164,8 @@ Beyond the obvious, why does your wizard character study magic, and what do you 
 
 **Ambitions**
 
-| `dice: d6\|avg` (`d6`) | Ambition |
-|-----------|------------|----------|
+| dice: d6 | Ambition |
+|----------|----------|
 | 1 | You will prove that the gods aren't as powerful as folk believe. |
 | 2 | Immortality is the end goal of your studies. |
 | 3 | If you can fully understand magic, you can unlock its use for all and usher in an era of equality. |
@@ -183,8 +183,8 @@ If your character has an eccentricity, is it a physical tic or a mental one? Are
 
 **Eccentricities**
 
-| `dice: d6\|avg` (`d6`) | Eccentricity |
-|-----------|------------|--------------|
+| dice: d6 | Eccentricity |
+|----------|--------------|
 | 1 | You have the habit of tapping your foot incessantly, which often annoys those around you. |
 | 2 | Your memory is quite good, but you have no trouble pretending to be absentminded when it suits your purposes. |
 | 3 | You never enter a room without looking to see what's hanging from the ceiling. |
@@ -245,7 +245,7 @@ You can use an arcane focus as a spellcasting focus for your wizard spells.
 
 Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
 
-> [!quote] Your Spellbook
+> [!note] Your Spellbook
 > 
 > The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
 > 

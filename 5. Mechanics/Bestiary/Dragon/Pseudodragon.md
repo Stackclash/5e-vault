@@ -33,7 +33,7 @@ Pseudodragons can't speak, but they communicate using a limited form of telepath
 
 A pseudodragon often vocalizes animal noises. A rasping purr indicates pleasure, while a hiss means unpleasant surprise. A bird-like chirping represents desire, and a growl always means anger or discontent.
 
-> [!quote] Variant: Pseudodragon Familiar
+> [!note] Variant: Pseudodragon Familiar
 > 
 > Some pseudodragons are willing to serve spellcasters as a familiar. Such pseudodragons have the following trait.
 ^variant-pseudodragon-familiar
@@ -77,10 +77,10 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
   "name": "Limited Telepathy"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage, and the target must\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage, and the target must\
     \ succeed on a DC 11 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ for the same duration, or until it takes damage or another creature uses an\

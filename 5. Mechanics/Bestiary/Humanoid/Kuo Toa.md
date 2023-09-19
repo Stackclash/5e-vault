@@ -36,15 +36,15 @@ Kuo-toa Gear. Many weapons of the kuo-toa are designed to capture rather than ki
 
 In general, kuo-toa don't like the weight of armor on their slippery bodies and rely on their natural rubbery hides for protection. However, they like to wear jewelry made from scavenged bones, shells, pearls, gems, and carapace fragments.
 
-> [!quote] Variant: Kuo-toa Monitor
+> [!note] Variant: Kuo-toa Monitor
 > 
 > A kuo-toa monitor has a challenge rating of 3 (700 XP). It has the same statistics as a kuo-toa whip except that it adds its Wisdom modifier to its Armor Class (AC 13), loses the Spellcaster trait, and replaces the whip's action options with the following action options.
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (`dice: 1d4 + 2|avg` (`1d4 + 2`)) piercing damage.
+> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d4 + 2|avg` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (`dice: 1d6 + 2|avg` (`1d6 + 2`)) bludgeoning damage + 3 (`dice: 1d6|avg` (`1d6`)) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice: 1d6 + 2|avg` (`1d6 + 2`) bludgeoning damage + `dice: 1d6|avg` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote]- A quote from Sabal Mizzrym of Menzoberranzan  
@@ -90,12 +90,12 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
   "name": "Bite"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing\
-    \ damage, or 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage if used with\
-    \ two hands to make a melee attack."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+    \ hands to make a melee attack."
   "name": "Spear"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 5/15 ft., one\
     \ Large or smaller creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\

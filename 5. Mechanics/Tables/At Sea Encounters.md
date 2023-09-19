@@ -12,8 +12,8 @@ aliases: ["At Sea Encounters"]
 
 **At Sea Encounters**
 
-| `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
-|-----------------|------------------|-----------|
+| dice: d12 + d8 | Encounter |
+|----------------|-----------|
 | 2 | Ghost ship |
 | 3 | Friendly and curious bronze dragon |
 | 4 | Whirlpool (25% chance chance that the whirlpool is a portal to the Elemental Plane of Water) |

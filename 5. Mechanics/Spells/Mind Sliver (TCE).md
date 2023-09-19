@@ -12,6 +12,7 @@ aliases: ["Mind Sliver"]
 ---
 # Mind Sliver
 *cantrip, Enchantment*  
+![[5. Mechanics/Spells/img/mind-sliver.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

@@ -11,6 +11,7 @@ aliases: ["Instrument of the Bards, Canaith Mandolin"]
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Instrument, major, rare (requires attunement by a bard)*  
+![[5. Mechanics/Items/img/instrument-of-the-bards-canaith-mandolin.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

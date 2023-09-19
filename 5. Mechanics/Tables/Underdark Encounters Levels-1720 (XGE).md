@@ -12,8 +12,8 @@ aliases: ["Underdark Encounters (Levels 17—20)"]
 
 **Underdark Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Monstrosity/Grick Alpha.md\|grick alphas]] |
 | 02 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Aberration/Spectator.md\|spectators]] |
 | 03-04 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] or `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Monitor.md\|kuo-toa monitors]] |

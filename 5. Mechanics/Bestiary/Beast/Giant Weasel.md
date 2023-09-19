@@ -40,7 +40,7 @@ aliases: ["Giant Weasel"]
   "name": "Keen Hearing and Smell"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

@@ -10,6 +10,7 @@ aliases: ["Keoghtom's Ointment"]
 ---
 # Keoghtom's Ointment
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/keoghtoms-ointment.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

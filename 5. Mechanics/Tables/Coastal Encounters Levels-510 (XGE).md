@@ -12,8 +12,8 @@ aliases: ["Coastal Encounters (Levels 5—10)"]
 
 **Coastal Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|giant wolf spiders]] |
 | 02-03 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Pteranodon.md\|pteranodons]] |
 | 04-05 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] |

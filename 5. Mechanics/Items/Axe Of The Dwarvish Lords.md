@@ -13,6 +13,7 @@ aliases: ["Axe of the Dwarvish Lords"]
 ---
 # Axe of the Dwarvish Lords
 *Melee Weapon, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/axe-of-the-dwarvish-lords.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S

@@ -12,8 +12,8 @@ aliases: ["Forest Encounters (Levels 5—10)"]
 
 **Forest Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Plant/Vine Blight.md\|vine blights]] |
 | 02 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] or `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 03 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Ape.md\|apes]] or `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Fey/Satyr.md\|satyrs]] |

@@ -68,9 +68,9 @@ Flumphs live in complex and organized groups called cloisters, within which each
   "name": "Telepathic Shroud"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage plus 2 (dice: 1d4|avg\
-    \ (1d4)) acid damage. At the end of each of its turns, the target must make\
-    \ a DC 10 Constitution saving throw, taking 2 (dice: 1d4|avg (1d4)) acid damage\
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 1d4|avg\
+    \ (1d4) acid damage. At the end of each of its turns, the target must make a\
+    \ DC 10 Constitution saving throw, taking dice: 1d4|avg (1d4) acid damage\
     \ on a failure or ending the recurring acid damage on a success. A [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
     \ spell cast on the target also ends the recurring acid damage."
   "name": "Tendrils"

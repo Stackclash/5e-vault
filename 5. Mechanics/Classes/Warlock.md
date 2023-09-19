@@ -159,8 +159,8 @@ When you determine the attitude your warlock character holds toward your patron,
 
 **Patron Attitudes**
 
-| `dice: d6\|avg` (`d6`) | Attitude |
-|-----------|------------|----------|
+| dice: d6 | Attitude |
+|----------|----------|
 | 1 | Your patron has guided and helped your family for generations and is kindly toward you. |
 | 2 | Each interaction with your capricious patron is a surprise, whether pleasant or painful. |
 | 3 | Your patron is the spirit of a long-dead hero who sees your pact as a way for it to continue to influence the world. |
@@ -178,8 +178,8 @@ Does your character have a pact that requires you to change your behavior in an 
 
 **Special Terms**
 
-| `dice: d6\|avg` (`d6`) | Term |
-|-----------|------------|------|
+| dice: d6 | Term |
+|----------|------|
 | 1 | When directed, you must take immediate action against a specific enemy of your patron. |
 | 2 | Your pact tests your willpower; you are required to abstain from alcohol and other intoxicants. |
 | 3 | At least once a day, you must inscribe or carve your patron's name or symbol on the wall of a building. |

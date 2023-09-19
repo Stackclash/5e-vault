@@ -8,6 +8,7 @@ aliases: ["Dhampir"]
 ---
 # Dhampir
 *Source: Van Richten's Guide to Ravenloft p. 16*  
+![[5. Mechanics/Races/img/dhampir.png#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

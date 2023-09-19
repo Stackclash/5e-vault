@@ -74,11 +74,11 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 "cr": "2"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
   "name": "Greatclub"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4))\
-    \ piercing damage."
+    \ or range 30/120 ft., one target. Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing\
+    \ damage."
   "name": "Javelin"
 "source":
 - "MM"

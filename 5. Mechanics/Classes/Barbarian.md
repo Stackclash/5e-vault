@@ -154,8 +154,8 @@ Consider creating one or more personal totems for your character—objects that 
 
 **Personal Totems**
 
-| `dice: d6\|avg` (`d6`) | Totem |
-|-----------|------------|-------|
+| dice: d6 | Totem |
+|----------|-------|
 | 1 | A tuft of fur from a solitary wolf that you befriended during a hunt |
 | 2 | Three eagle feathers given to you by a wise shaman, who told you they would play a role in determining your fate |
 | 3 | A necklace made from the claws of a young cave bear that you slew singlehandedly as a child |
@@ -173,8 +173,8 @@ Each tattoo a barbarian displays contributes to that individual's identity. If y
 
 **Tattoos**
 
-| `dice: d6\|avg` (`d6`) | Tattoo |
-|-----------|------------|--------|
+| dice: d6 | Tattoo |
+|----------|--------|
 | 1 | The wings of an eagle are spread wide across your upper back. |
 | 2 | Etched on the backs of your hands are the paws of a cave bear. |
 | 3 | The symbols of your clan are displayed in viny patterns along your arms. |
@@ -196,8 +196,8 @@ If your barbarian character has any superstitions, were they ingrained in you by
 
 **Superstition**
 
-| `dice: d6\|avg` (`d6`) | Superstition |
-|-----------|------------|--------------|
+| dice: d6 | Superstition |
+|----------|--------------|
 | 1 | If you disturb the bones of the dead, you inherit all the troubles that plagued them in life. |
 | 2 | Never trust a wizard. They're all devils in disguise, especially the friendly ones. |
 | 3 | Dwarves have lost their spirits, and are almost like the undead. That's why they live underground. |

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
 - optional-feature/ed
 aliases: ["Elemental Attunement"]
 ---
 # Elemental Attunement
-*Source: Player's Handbook p. 81* 
+*Source: Player's Handbook p. 81*  
 
 You can use your action to briefly control elemental forces within 30 feet of you, causing one of the following effects of your choice:
 

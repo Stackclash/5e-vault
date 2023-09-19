@@ -12,8 +12,8 @@ aliases: ["Wild Magic Surge"]
 
 **Wild Magic Surge**
 
-| `dice: d100\|avg` (`d100`) | Effect |
-|-------------|--------------|--------|
+| dice: d100 | Effect |
+|------------|--------|
 | 01-02 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |
 | 03-04 | For the next minute, you can see any [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] creature if you have line of sight to it. |
 | 05-06 | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later. |

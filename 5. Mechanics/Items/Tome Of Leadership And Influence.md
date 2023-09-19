@@ -10,6 +10,7 @@ aliases: ["Tome of Leadership and Influence"]
 ---
 # Tome of Leadership and Influence
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/tome-of-leadership-and-influence.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

@@ -82,15 +82,15 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - "desc": "The shadar-kai makes two Shadow Dagger attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 13 (dice: 4d4 + 3|avg (4d4 + 3))\
-    \ piercing damage plus 19 (dice: 3d12|avg (3d12)) necrotic damage, and the\
-    \ target has disadvantage on saving throws until the end of the shadar-kai's next\
-    \ turn. Hit or Miss: The dagger magically returns to the shadar-kai's hand immediately\
-    \ after a ranged attack."
+    \ or range 20/60 ft., one target. Hit: dice: 4d4 + 3|avg (4d4 + 3) piercing\
+    \ damage plus dice: 3d12|avg (3d12) necrotic damage, and the target has disadvantage\
+    \ on saving throws until the end of the shadar-kai's next turn. Hit or Miss: The\
+    \ dagger magically returns to the shadar-kai's hand immediately after a ranged\
+    \ attack."
   "name": "Shadow Dagger"
 - "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
     \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
-    \ takes 45 (dice: 10d8|avg (10d8)) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
+    \ takes dice: 10d8|avg (10d8) psychic damage and suffers 1 level of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]].\
     \ On a successful save, it takes half as much damage and doesn't gain a level\
     \ of [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]."
   "name": "Wave of Weariness (Recharge 4-6)"

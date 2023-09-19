@@ -11,6 +11,7 @@ aliases: ["Instrument of the Bards, Ollamh Harp"]
 ---
 # Instrument of the Bards, Ollamh Harp
 *Instrument, major, legendary (requires attunement by a bard)*  
+![[5. Mechanics/Items/img/instrument-of-the-bards-ollamh-harp.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

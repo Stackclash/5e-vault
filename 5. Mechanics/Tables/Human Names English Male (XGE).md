@@ -12,8 +12,8 @@ aliases: ["Human Names – English, Male"]
 
 **Human Names – English, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adam |
 | 03-04 | Adelard |
 | 05-06 | Aldous |

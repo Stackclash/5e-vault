@@ -123,14 +123,14 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ fist."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 3d6 + 4|avg (3d6 + 4)) bludgeoning damage plus 21 (dice:\
-    \ 6d6|avg (6d6)) necrotic damage. If the target is a creature, it must succeed\
-    \ on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed\
-    \ target can't regain hit points, and its hit point maximum decreases by 10 (dice:\
-    \ 3d6|avg (3d6)) for every 24 hours that elapse. If the curse reduces the target's\
-    \ hit point maximum to 0, the target dies, and its body turns to dust. The curse\
-    \ lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
-    \ spell or other magic."
+    \ Hit: dice: 3d6 + 4|avg (3d6 + 4) bludgeoning damage plus dice: 6d6|avg\
+    \ (6d6) necrotic damage. If the target is a creature, it must succeed on a DC\
+    \ 16 Constitution saving throw or be cursed with mummy rot. The cursed target\
+    \ can't regain hit points, and its hit point maximum decreases by dice: 3d6|avg\
+    \ (3d6) for every 24 hours that elapse. If the curse reduces the target's hit\
+    \ point maximum to 0, the target dies, and its body turns to dust. The curse lasts\
+    \ until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell\
+    \ or other magic."
   "name": "Rotting Fist"
 - "desc": "The mummy lord targets one creature it can see within 60 feet of it. If\
     \ the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving\

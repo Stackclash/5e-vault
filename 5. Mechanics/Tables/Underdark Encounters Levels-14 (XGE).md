@@ -12,8 +12,8 @@ aliases: ["Underdark Encounters (Levels 1—4)"]
 
 **Underdark Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Aberration/Mind Flayer Arcanist.md\|mind flayer arcanist]] |
 | 02 | `dice: 1d3 + 1\|avg` (`1d3 + 1`) [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|giant poisonous snakes]] |
 | 03 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|giant lizards]] |

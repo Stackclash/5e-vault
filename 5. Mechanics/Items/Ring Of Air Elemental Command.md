@@ -11,6 +11,7 @@ aliases: ["Ring of Air Elemental Command"]
 ---
 # Ring of Air Elemental Command
 *Ring, major, legendary (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-air-elemental-command.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

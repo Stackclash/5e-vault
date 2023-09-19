@@ -12,8 +12,8 @@ aliases: ["Hill Encounters (Levels 5—10)"]
 
 **Hill Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasi]] or `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Monstrosity/Peryton.md\|perytons]] |
 | 02 | `dice: 1d6 + 2\|avg` (`1d6 + 2`) [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goats]] |
 | 03 | 1 [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticore]] |

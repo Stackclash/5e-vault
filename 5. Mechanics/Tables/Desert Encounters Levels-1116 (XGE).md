@@ -12,8 +12,8 @@ aliases: ["Desert Encounters (Levels 11—16)"]
 
 **Desert Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Dragon/Young Brass Dragon.md\|young brass dragon]] |
 | 02-05 | `dice: 4d6\|avg` (`4d6`) [[5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] |
 | 06-10 | `dice: 3d10\|avg` (`3d10`) [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|giant hyenas]] |

@@ -63,13 +63,13 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     \ uses its Incite Rampage if it can."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: 8 (dice: 1d10 + 3|avg (1d10 + 3)) slashing damage."
+    \ Hit: dice: 1d10 + 3|avg (1d10 + 3) slashing damage."
   "name": "Glaive"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Longbow"
 - "desc": "One creature the gnoll can see within 30 feet of it can use its reaction\
     \ to make a melee attack if it can hear the gnoll and has the Rampage trait."

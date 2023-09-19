@@ -11,6 +11,7 @@ aliases: ["Rod of Lordly Might"]
 ---
 # Rod of Lordly Might
 *Rod, major, legendary (requires attunement)*  
+![[5. Mechanics/Items/img/rod-of-lordly-might.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

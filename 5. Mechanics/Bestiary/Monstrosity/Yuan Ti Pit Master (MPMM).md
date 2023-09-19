@@ -61,11 +61,11 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 - "desc": "The yuan-ti makes three Bite attacks or two Spectral Fangs attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 7 (dice: 2d6|avg\
-    \ (2d6)) poison damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
   "name": "Bite"
 - "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
-    \ Hit: 16 (dice: 3d8 + 3|avg (3d8 + 3)) poison damage."
+    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) poison damage."
   "name": "Spectral Fangs"
 - "desc": "The yuan-ti targets up to five creatures that it can see within 60 feet\
     \ of it. Each target must succeed on a DC 13 Constitution saving throw or fall\

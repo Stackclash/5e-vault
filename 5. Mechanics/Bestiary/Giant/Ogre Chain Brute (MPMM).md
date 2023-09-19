@@ -39,17 +39,17 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "cr": "3"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage."
   "name": "Fist"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage, and the target\
-    \ must make a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage, and the target must\
+    \ make a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. The target repeats the saving throw if it takes damage and at\
     \ the end of each of its turns, ending the effect on itself on a success."
   "name": "Chain Smash (Recharge 6)"
 - "desc": "The ogre swings its chain, and every creature within 10 feet of it must\
     \ make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes\
-    \ 8 (dice: 1d8 + 4|avg (1d8 + 4)) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, the creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Chain Sweep"

@@ -69,10 +69,10 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
     \ mandibles."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) slashing damage."
+    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 14 (dice: 2d8 + 5|avg (2d8 + 5)) slashing damage."
+    \ Hit: dice: 2d8 + 5|avg (2d8 + 5) slashing damage."
   "name": "Mandibles"
 "source":
 - "MM"

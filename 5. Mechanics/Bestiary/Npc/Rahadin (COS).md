@@ -88,8 +88,8 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
     \ blank](compendium/spells/mind-blank.md) spell hears in its mind the screams\
     \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin can\
     \ force all creatures that can hear the screams to make a DC 16 Wisdom saving\
-    \ throw. Each creature takes 16 (dice: 3d10|avg (3d10)) psychic damage on\
-    \ a failed save, or half as much damage on a successful one."
+    \ throw. Each creature takes dice: 3d10|avg (3d10) psychic damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Deathly Choir"
 - "desc": "Rahadin has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put him to sleep."
@@ -102,11 +102,11 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
     \ darts."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d6 + 6|avg (1d6 + 6)) slashing damage."
+    \ Hit: dice: 1d6 + 6|avg (1d6 + 6) slashing damage."
   "name": "Scimitar"
 - "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 20/60 ft., one\
-    \ target. Hit: 8 (dice: 1d4 + 6|avg (1d4 + 6)) piercing damage plus 5 (dice:\
-    \ 2d4|avg (2d4)) poison damage."
+    \ target. Hit: dice: 1d4 + 6|avg (1d4 + 6) piercing damage plus dice: 2d4|avg\
+    \ (2d4) poison damage."
   "name": "Poisoned Dart"
 "source":
 - "CoS"

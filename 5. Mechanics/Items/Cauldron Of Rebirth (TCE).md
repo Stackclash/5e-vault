@@ -10,6 +10,7 @@ aliases: ["Cauldron of Rebirth"]
 ---
 # Cauldron of Rebirth
 *Wondrous Item, very rare (requires attunement by a druid or warlock)*  
+![[5. Mechanics/Items/img/cauldron-of-rebirth.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -51,14 +51,14 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 - "desc": "The dolphin makes two Dazzling Slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) psychic damage, and the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning damage plus dice: 2d6|avg\
+    \ (2d6) psychic damage, and the target is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]\
     \ until the start of the dolphin's next turn."
   "name": "Dazzling Slam"
 "bonus_actions":
 - "desc": "The dolphin magically emanates light in a 10-foot radius for a moment.\
-    \ The dolphin and each creature of its choice in that light gain 11 (dice: 2d10|avg\
-    \ (2d10)) temporary hit points."
+    \ The dolphin and each creature of its choice in that light gain dice: 2d10|avg\
+    \ (2d10) temporary hit points."
   "name": "Delightful Light (Recharge 5-6)"
 - "desc": "The dolphin teleports up to 30 feet to an unoccupied space it can see.\
     \ Immediately before teleporting, the dolphin can choose one creature within 5\

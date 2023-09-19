@@ -8,6 +8,7 @@ aliases: ["Dwarf"]
 ---
 # Dwarf
 *Source: Player's Handbook p. 18. Available in the SRD and the Basic Rules.*  
+![[5. Mechanics/Races/img/dwarf.png#right]]  
 
 - **Ability Scores**: Constitution +2
 - **Type**: race
@@ -84,7 +85,7 @@ Dwarves in other lands are typically artisans, especially weaponsmiths, armorers
 
 Dwarves who take up the adventuring life might be motivated by a desire for treasure-for its own sake, for a specific purpose, or even out of an altruistic desire to help others. Other dwarves are driven by the command or inspiration of a deity, a direct calling or simply a desire to bring glory to one of the dwarf gods. Clan and ancestry are also important motivators. A dwarf might seek to restore a clan's lost honor, avenge an ancient wrong the clan suffered, or earn a new place within the clan after having been exiled. Or a dwarf might search for the axe wielded by a mighty ancestor, lost on the field of battle centuries ago.
 
-> [!quote] Slow to Trust
+> [!note] Slow to Trust
 > 
 > Dwarves get along passably well with most other races. "The difference between an acquaintance and a friend is about a hundred years," is a dwarf saying that might be hyperbole, but certainly points to how difficult it can be for a member of a short-lived race like humans to earn a dwarf's trust.
 > 
@@ -105,7 +106,7 @@ A dwarf who misuses or brings shame to a clan name is stripped of the name and f
 - **Female Names.** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra  
 - **Clan Names.** Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart  
 
-> [!quote] Duergar
+> [!note] Duergar
 > 
 > In cities deep in the Underdark live the duergar, or gray dwarves. These vicious, stealthy slave traders raid the surface world for captives, then sell their prey to the other races of the Underdark. They have innate magical abilities to become invisible and to temporarily grow to giant size.
 ^duergar

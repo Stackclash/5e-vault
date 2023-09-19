@@ -30,7 +30,7 @@ The following areas correspond to labels on the map of Krezk below.
 
 ### S1. Road Junction
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The road branches north and climbs a rocky escarpment, ending at a gatehouse built into a twenty-foot-high wall of stone reinforced with buttresses every fifty feet or so. The wall encloses a settlement on the side of a snow-dusted mountain spur. Beyond the wall you see the tops of snow-covered pines and thin, white wisps of smoke. The somber toll of a bell comes from a stone abbey that clings to the mountainside high above the settlement. The steady chime is inviting—a welcome change from the deathly silence and oppressive fog to which you have grown accustomed. It's hard to tell at this distance, but there seems to be a switchback road clinging to the cliffs that lead up from the walled settlement to the abbey.
 ^4bf
@@ -41,7 +41,7 @@ The Old Svalich Road continues west from this location for a little more than a 
 
 The map of Krezk includes a diagram of the gatehouse.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The air grows colder as you approach the walled settlement. Two square towers with peaked roofs flank a stone archway into which is set a pair of twelve-foot-tall, ironbound wooden doors. Carved into the arch above the doors is a name: Krezk.
 > 
@@ -70,7 +70,7 @@ A character who succeeds on a DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insi
 
 When the characters get past the outer wall, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The mist-shrouded village beyond the wall is nothing more than a scattering of humble wooden cottages along dirt roads that stretch between stands of snow-dusted pine trees—so many trees, in fact, as to constitute a forest. To the northeast, gray cliffs rise sharply, and the road winding up to the abbey is easy to see from this vantage.
 ^4c4
@@ -110,7 +110,7 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 
 ### S4. Pool and Shrine
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Even under gray skies, this pool at the north end of the village shimmers and sparkles. Near its shore sits an old gazebo on the verge of collapse. A wooden statue of a mournful, bare-chested man, its paint chipped and faded, stands in the gazebo with arms outstretched, as though waiting to be embraced.
 ^4ca
@@ -125,7 +125,7 @@ If your card reading reveals that a treasure is here, the item is hidden under t
 
 ### S5. Winding Road
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The switchback road that hugs the cliff is ten feet wide and covered with loose gravel and chunks of broken rock. The ascent is slow and somewhat treacherous, and the air grows colder as one nears the top.
 ^4cd
@@ -148,7 +148,7 @@ The windows of the north wing are made of leaded glass that is translucent—goo
 
 ### S6. North Gate
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The road from the village climbs above the mist to the wide ledge on which the abbey is perched. A light dusting of snow covers the trees and the rocky earth.
 > 
@@ -159,7 +159,7 @@ The iron gates are unlocked but squeal loudly when someone opens them.
 
 Two gate guards are on duty, but they aren't awake when the characters arrive (see below). Characters who succeed on a DC 12 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check can climb over the low outer wall without waking them. If one or more characters fail the check, or if the characters open the gates, the guards rouse themselves and stumble forth to confront the trespassers.
 
-![[Otto Belview](compendium/...](compendium/adventures/curse-of-strahd/img/088-cos08-04.png#center "[[5. Mechanics/Bestiary/Npc/Otto Belview (COS).md\|Otto Belview]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/088-cos08-04.png#center\|Otto Belview]]
 
 The gate guards are Otto and [[5. Mechanics/Bestiary/Npc/Zygfrek Belview (COS).md\|Zygfrek Belview]], two lawful evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]], yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
 
@@ -169,7 +169,7 @@ Hanging on the inside wall of each guard post is a net woven from twigs and pine
 
 Use the information below to roleplay the mongrelfolk guards, Otto and Zygfrek.
 
-![[Zygfrek Belview](compendi...](compendium/adventures/curse-of-strahd/img/089-cos08-05.png#center "[[5. Mechanics/Bestiary/Npc/Zygfrek Belview (COS).md\|Zygfrek Belview]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/089-cos08-05.png#center\|Zygfrek Belview]]
 
 ##### Otto Belview
 
@@ -185,7 +185,7 @@ Zygfrek has the [[/5. Mechanics/Rules/Senses.md#Darkvision\|Darkvision]] feature
 
 ### S7. Graveyard
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Stunted pine trees grow out of the rocky earth in the graveyard near the foundation of the abbey's north wing. The windows of the structure are cracked panes of leaded glass. Ancient gravestones burst from a thin crust of snow in the yard. Beyond the low wall that surrounds the graveyard, the ground falls away. The village lies four hundred feet below, and the view is breathtaking.
 ^4d5
@@ -196,7 +196,7 @@ Carved into each gravestone is the name of a long-dead priest or nun. Some of th
 
 The gravestone marked X is carved with roses and bears a 3-inch-diameter sun-shaped indentation on its east side. Engraved beneath the indentation is the name Petrovna. If Tasha Petrovna's holy symbol (see chapter 4, area K84, crypt 11) is placed in the indentation, both the holy symbol and the indentation vanish. Then read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A ray of golden sunlight breaks through the clouds to the west and shines upon the grave. The fog and the gloom shrink from its brilliance as the sunlight causes the gravestone to crack and crumble, revealing a ring within.
 ^4d7
@@ -207,7 +207,7 @@ The ring is a [[5. Mechanics/Items/Ring Of Regeneration.md\|ring of regeneration
 
 ### S8. Garden Gatehouse
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A gatehouse stands at the entrance to the abbey gardens.
 ^4d9
@@ -216,14 +216,14 @@ The gatehouse is empty.
 
 ### S9. Gardens
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Nestled between rising and plunging cliffs are four rectangular garden plots enclosed by a five-foot-high wall of mortared stones. White rabbits nibble on turnips uprooted by the cold. Two lifeless scarecrows with stuffed gullets and sackcloth heads hang from wooden crosses pounded into the cold, hard earth.
 ^4db
 
 If the characters haven't cleared out the east wing, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The abbey's east wing looms over the garden, its shattered windows dark and disturbing. A door leads into this forlorn edifice, which apparently isn't as abandoned as one might have hoped. From within come the laughter and the wailing of things that should not be.
 ^4dc
@@ -236,7 +236,7 @@ If your card reading reveals that a treasure is here, the item is hidden in the 
 
 ### S10. Abbey Entrance
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A fifteen-foot-high curtain wall joins the abbey's two wings. Behind its battlements, two guards stand at attention, their features obscured by fog. Below them, set into the wall, is a pair of ten-foot-tall, wooden doors reinforced with bands of steel. To the right of these doors, mounted on the wall, is a tarnished copper plaque.
 ^4df
@@ -257,7 +257,7 @@ These two empty buildings help support the curtain wall (area S18) that encloses
 
 ### S12. Courtyard
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The thick fog that fills this courtyard swirls, as if eager to escape. The courtyard is surrounded by a fifteen-foot-high curtain wall on which stand several guards with their backs to you—or so it seemed at first. It's clear now that these guards are merely scarecrows.
 > 
@@ -288,7 +288,7 @@ Each of these sheds is fitted with an iron padlock. [[5. Mechanics/Bestiary/Npc/
 
 If the characters open a shed, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This shed holds the shattered remains of several chicken coops. Shackled to the back wall is a wretched humanoid with bestial deformities.
 ^4e7
@@ -301,7 +301,7 @@ Iron rings bolted to these wooden posts were once used to secure horses. Chained
 
 If the characters approach Marzena, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The creature chained to the post flaps its leathery wings and takes to the air, but doesn't get far before its chains go taut. She flutters about madly, screaming nonsense.
 ^4e9
@@ -316,7 +316,7 @@ Marzena has the Flight feature (see the [[5. Mechanics/Bestiary/Humanoid/Mongrel
 
 ### S13. Main Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Gentle-sounding music trickles down from above, played on a single stringed instrument by some unseen master.
 > 
@@ -327,7 +327,7 @@ Marzena has the Flight feature (see the [[5. Mechanics/Bestiary/Humanoid/Mongrel
 
 [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|The Abbot]] is normally here. If he is here, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A handsome young man in a brown monk's robe gently takes the woman by her hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck. He moves with the grace of a saint.
 ^4ee
@@ -360,7 +360,7 @@ If your card reading reveals that a treasure is here, it is hidden in the niche 
 
 ### S14. Foyer
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room used to be an office, as evidenced by the remains of a desk and a chair, both of which have been smashed to pieces. A hallway to the south leads to a staircase going up. A dark passage to the east is full of unnatural whispers, mad laughter, and bestial odors.
 ^4f3
@@ -371,14 +371,14 @@ If the characters enter this area making noise or carrying light sources, the go
 
 ### S15. Madhouse
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This lightless corridor has multiple doors behind which lie creatures that shatter the quiet with their mad cackles and whispered curses. The stench is overpowering.
 ^4f5
 
 Before he set out to create a bride for Strahd, [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] tried his hand at creating a more rudimentary golem. This creature paces the hall, tirelessly guarding the abbey's madhouse and making sure no mongrelfolk escape. When the characters first see the golem, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Even in the gloom, you can make out a monstrous shape lumbering down the hall. When the darkness can no longer hide its true nature, your eyes are treated to a terrifying, 7-foot-tall assemblage of human body parts.
 ^4f6
@@ -391,7 +391,7 @@ The sixty [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] c
 
 #### S15a. Fearful Mongrelfolk
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room was once a shared bedchamber, but its furnishings have been destroyed. Three shrieking mongrels cower in the shadowy northwest corner. One of them cradles something shiny.
 ^4f8
@@ -400,7 +400,7 @@ Three [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] are c
 
 #### S15b. Quarreling Mongrelfolk
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Four mongrel creatures brawl amid the wreckage of this bedchamber while a fifth watches and cackles behind a life-sized, painted wooden statue of a saintly woman in robes.
 ^4fa
@@ -411,7 +411,7 @@ The statue is a little over 5 feet tall and carved from a single piece of wood. 
 
 #### S15c. Incanting Mongrelfolk
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Seven mongrels are seated in the middle of this room, forming a ring. They appear to be chanting a spell.
 ^4fc
@@ -420,7 +420,7 @@ These seven [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]]
 
 #### S15d. Hungry Mongrelfolk
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Nine mongrel creatures stand in the middle of this room, staring at the doorway in silence with hungry looks in their eyes.
 ^4fe
@@ -429,7 +429,7 @@ These nine [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] 
 
 #### S15e. Mongrelfolk Horde
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room is packed wall to wall with mongrels wallowing in their own filth. The floor is strewn with gnawed bones.
 ^500
@@ -438,7 +438,7 @@ Sixteen screaming [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrel
 
 #### S15f. Singing and Dancing Mongrelfolk
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Eight mongrels caper about the wreckage of this bedchamber while singing a rhyme. One of them holds up a glittering gold statuette as it leads this mad parade.
 ^502
@@ -461,7 +461,7 @@ The golden statuette depicts Saint Markovia and is worth 250 gp. It grants any g
 
 #### S15g. Mongrelfolk Babies
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Filthy mongrels cradle screaming young in the debris-strewn corners of this room while several more hoot, holler, roll on the floor, and whack each other with sticks.
 ^505
@@ -470,7 +470,7 @@ This room contains ten [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mo
 
 #### S15h. Mongrelfolk Fort
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room contains a fort made out of piled bits of shattered furniture and torn draperies. From within the fort, you hear a mischievous cackle.
 ^507
@@ -479,7 +479,7 @@ Two [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] live in
 
 ### S16. Wine Cellar
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The stone steps descend twenty feet to a cellar that contains ten barrels of wine and an L-shaped wooden rack packed with wine bottles.
 ^509
@@ -496,7 +496,7 @@ Among the wine bottles on the rack is one with no stopper and a label that reads
 
 Anyone on the curtain wall (area S18) who listens at this room's door hear the soft tones of a stringed instrument.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The wooden stairs climb twenty feet to a loft with a pitched roof and a door in the center of the south wall. Unlit lanterns hang from the rafters, and a rope dangles from a bronze bell lodged in the belfry thirty feet overhead. The room is filled with the sound of beautiful music—a melody so enchanting that it adds a bit of much-needed warmth to the otherwise freezing room.
 > 
@@ -509,7 +509,7 @@ This loft is where [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]] c
 
 If anyone rings the bell, a cacophony erupts from the courtyard and the east wing as the mongrelfolk cry out, "Food!" The cries last until the creatures are fed.
 
-![[Clovin Belview](compendiu...](compendium/adventures/curse-of-strahd/img/092-cos08-07.png#center "[[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/092-cos08-07.png#center\|Clovin Belview]]
 
 [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin Belview]], [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s manservant, a two-headed neutral evil [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
 
@@ -531,14 +531,14 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 
 If the characters lift the black shroud covering the larger table, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Beneath the shroud lies a creature made of stitched-together body parts. You recognize some of these parts as your own!
 ^510
 
 The creature on the table appears to be made from the body parts of the characters, which, of course, cannot be. Strahd's will is playing a trick on them. If a character touches the horrid creature, its true appearance is revealed:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Your eyes play tricks, for what truly lies atop the table are chopped-up body parts, all of them taken from cold, gray, lifeless women, all of them waiting to be stitched together into something horrid.
 ^511
@@ -547,7 +547,7 @@ The body parts were plundered from graves in Krezk. They are leftovers—pieces 
 
 ### S18. Curtain Wall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Scarecrows line the abbey walls, looking outward. They wear tattered chain shirts and carry spears with rusty heads. The courtyard below is blanketed with fog.
 ^513
@@ -558,7 +558,7 @@ It's a 15-foot drop from the top of the wall to the courtyard. Any creature that
 
 ### S19. Barracks
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Bunk beds that have disintegrated with age lie in heaps along the walls of this moldy, thirty-foot-square room.
 ^516
@@ -575,7 +575,7 @@ As [[5. Mechanics/Bestiary/Npc/The Abbot (COS).md\|the Abbot]]'s guest, Ezmereld
 
 ### S20. Upstairs Office
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A wooden counter shaped like an L stands at the front of this spacious office. All the other furniture has rotted away, leaving heaps of moldy wood and faded cloth.
 ^519
@@ -584,7 +584,7 @@ The wood of the counter is old, soft, and easily broken. Nothing of value remain
 
 ### S21. Haunted Hospital
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This spacious chamber contains bed frames of wrought iron arranged in two neat rows. Cobwebs and bits of rotten mattress cling to each frame.
 > 
@@ -595,14 +595,14 @@ Six [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] haunt this room. They ar
 
 ### S22. Operating Room
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A bloodstained table stands in the middle of this otherwise empty room.
 ^51d
 
 The first time a character touches the table, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A scream fills the room—a scream that echoes through time. It is followed by other, fainter screams of those who died under the knife. The screams fade until they are nothing more than haunting memories.
 ^51e
@@ -611,7 +611,7 @@ There is nothing of value here.
 
 ### S23. Nursery
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room contains the wreckage of old wooden cribs.
 ^520
@@ -624,7 +624,7 @@ If your card reading reveals that a treasure is here, it is under the wreckage o
 
 ### S24. Morgue
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A raven perches on the windowsill of this otherwise empty room.
 ^523
@@ -683,7 +683,7 @@ This encounter occurs if the characters bring [[5. Mechanics/Bestiary/Npc/Ireena
 
 Ireena hears a gentle voice calling to her. It leads her to the edge of the blessed pool (area S4). If the characters follow her, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > As Ireena reaches the pool's edge, an image appears in its sparkling blue waters: a handsome youth of kind and noble visage. The sadness in his eyes turns to sudden joy.
 > 
@@ -696,7 +696,7 @@ If the characters intervene, pulling Ireena away from the water's grasp, the han
 
 If the characters allow her to take the hand, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Ireena is pulled into the pool and embraces Sergei beneath the rippling water. You have never seen a happier couple as they both begin to fade from view.
 ^52c
@@ -705,12 +705,12 @@ The spirit of Sergei takes Ireena to a place where Strahd can't harm her. She is
 
 Whether or not Sergei takes Ireena, Strahd senses that the two have found each other. He reacts as follows:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A peal of thunder shakes the land, and the dark clouds coalesce into a terrible visage. A deep, dark voice from beyond the mountains cries out, "She is mine!" A terrible crack resounds as blue lightning splits the sky and strikes the pool.
 ^52d
 
-Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking 44 (`dice: 8d10|avg` (`8d10`)) lightning damage on a failed save, or half as much damage on a successful one.
+Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]]. The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking `dice: 8d10|avg` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
 Strahd's wrath destroys the blessing on the pool, rendering its waters nonmagical and preventing the spirit of Sergei from manifesting in them again.
 

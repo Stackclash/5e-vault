@@ -73,9 +73,9 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ with a use of Mind Mastery."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 10 (dice: 3d6|avg\
-    \ (3d6)) psychic damage, or 1 piercing damage plus 10 (dice: 3d6|avg (3d6))\
-    \ psychic damage while under the effect of Reduce."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 3d6|avg\
+    \ (3d6) psychic damage, or 1 piercing damage plus dice: 3d6|avg (3d6) psychic\
+    \ damage while under the effect of Reduce."
   "name": "Mind-Poison Dagger"
 - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ for up to 1 hour or until it attacks, it forces a creature to make a saving\

@@ -83,20 +83,20 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
     \ Terror."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: 19 (dice: 3d6 + 9|avg (3d6 + 9)) force damage."
+    \ Hit: dice: 3d6 + 9|avg (3d6 + 9) force damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: 22 (dice: 3d8 + 9|avg (3d8 + 9)) force damage."
+    \ Hit: dice: 3d8 + 9|avg (3d8 + 9) force damage."
   "name": "Fist"
 - "desc": "Fraz-Urb'luu targets one creature he can see within 120 feet of him. The\
-    \ target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (dice: 3d10|avg\
-    \ (3d10)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ target must succeed on a DC 23 Wisdom saving throw, or it takes dice: 3d10|avg\
+    \ (3d10) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of Fraz-Urb'luu until the end of its next turn."
   "name": "Phantasmal Terror"
 "legendary_actions":
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: 20 (dice: 2d10 + 9|avg (2d10 + 9)) force damage. If the target is\
-    \ a Large or smaller creature, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) force damage. If the target is a Large\
+    \ or smaller creature, it is also [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 24), and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ until the grapple ends. Fraz-Urb'luu can grapple only one creature with his\
     \ tail at a time."

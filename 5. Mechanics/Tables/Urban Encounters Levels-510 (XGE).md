@@ -12,8 +12,8 @@ aliases: ["Urban Encounters (Levels 5—10)"]
 
 **Urban Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | 1d10 [[5. Mechanics/Bestiary/Humanoid/Kenku.md\|kenku]] |
 | 03-04 | 2d6 [[5. Mechanics/Bestiary/Beast/Giant Centipede.md\|giant centipedes]] |
 | 05-06 | 2d8 [[5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]] |

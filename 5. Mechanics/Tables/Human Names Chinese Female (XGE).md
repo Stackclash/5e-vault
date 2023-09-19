@@ -12,8 +12,8 @@ aliases: ["Human Names – Chinese, Female"]
 
 **Human Names – Chinese, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ai |
 | 03-04 | Anming |
 | 05-06 | Baozhai |

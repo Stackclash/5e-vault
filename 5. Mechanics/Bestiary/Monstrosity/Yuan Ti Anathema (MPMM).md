@@ -72,19 +72,19 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 - "desc": "The anathema makes two Claw attacks and one Flurry of Bites attack."
   "name": "Multiattack (Anathema Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage."
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage."
   "name": "Claw (Anathema Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one creature.\
-    \ Hit: 27 (dice: 6d6 + 6|avg (6d6 + 6)) piercing damage plus 14 (dice:\
-    \ 4d6|avg (4d6)) poison damage."
+    \ Hit: dice: 6d6 + 6|avg (6d6 + 6) piercing damage plus dice: 4d6|avg\
+    \ (4d6) poison damage."
   "name": "Flurry of Bites (Anathema Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 15 ft., one Large\
-    \ or smaller creature. Hit: 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning\
-    \ damage plus 7 (dice: 2d6|avg (2d6)) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ or smaller creature. Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage\
+    \ plus dice: 2d6|avg (2d6) acid damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and it takes 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning damage plus 7\
-    \ (dice: 2d6|avg (2d6)) acid damage at the start of each of its turns. The\
-    \ anathema can constrict only one creature at a time."
+    \ and it takes dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage plus dice:\
+    \ 2d6|avg (2d6) acid damage at the start of each of its turns. The anathema\
+    \ can constrict only one creature at a time."
   "name": "Constrict (Snake Form Only)"
 "bonus_actions":
 - "desc": "The anathema transforms into a Huge constrictor snake or back into its\

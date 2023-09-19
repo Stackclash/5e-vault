@@ -75,11 +75,10 @@ An ooze doesn't require sleep.
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) bludgeoning damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) acid damage, and if the target is wearing nonmagical metal\
-    \ armor, its armor is partly corroded and takes a permanent and cumulative −1\
-    \ penalty to the AC it offers. The armor is destroyed if the penalty reduces its\
-    \ AC to 10."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) bludgeoning damage plus dice: 2d6|avg\
+    \ (2d6) acid damage, and if the target is wearing nonmagical metal armor, its\
+    \ armor is partly corroded and takes a permanent and cumulative −1 penalty to\
+    \ the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
   "name": "Pseudopod"
 "source":
 - "MM"

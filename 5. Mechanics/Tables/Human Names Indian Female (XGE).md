@@ -12,8 +12,8 @@ aliases: ["Human Names – Indian, Female"]
 
 **Human Names – Indian, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abha |
 | 03-04 | Aishwarya |
 | 05-06 | Amala |

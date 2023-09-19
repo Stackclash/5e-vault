@@ -117,12 +117,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "cr": "4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) fire damage."
+    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage plus dice: 1d6|avg\
+    \ (1d6) fire damage."
   "name": "Bite"
 - "desc": "The dragon exhales fire in a 15-foot cone. Each creature in that area must\
-    \ make a DC 13 Dexterity saving throw, taking 24 (dice: 7d6|avg (7d6)) fire\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ make a DC 13 Dexterity saving throw, taking dice: 7d6|avg (7d6) fire damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "MM"

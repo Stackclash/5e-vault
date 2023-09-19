@@ -60,7 +60,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) slashing damage."
+    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) slashing damage."
   "name": "Longsword"
 "source":
 - "MM"

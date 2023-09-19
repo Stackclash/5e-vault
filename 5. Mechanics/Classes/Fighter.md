@@ -124,8 +124,8 @@ Your character could be affiliated with an organization or a cause, and thus mig
 
 **Heraldic Signs**
 
-| `dice: d6\|avg` (`d6`) | Heraldic Signs |
-|-----------|------------|----------------|
+| dice: d6 | Heraldic Signs |
+|----------|----------------|
 | 1 | A rampant golden dragon on a green field, representing valor and a quest for wealth |
 | 2 | The fist of a storm giant clutching lightning before a storm cloud, symbolizing wrath and power |
 | 3 | Crossed greatswords in front of a castle gate, signifying the defense of a city or kingdom |
@@ -145,8 +145,8 @@ If you decide that your character had an individual instructor, what is that per
 
 **Instructor**
 
-| `dice: d6\|avg` (`d6`) | Instructor |
-|-----------|------------|------------|
+| dice: d6 | Instructor |
+|----------|------------|
 | 1 | Gladiator. Your instructor was a slave who fought for freedom in the arena, or one who willingly chose the gladiator's life to earn money and fame. |
 | 2 | Military. Your trainer served with a group of soldiers and knows much about working as a team. |
 | 3 | City Watch. Crowd control and peacekeeping are your instructor's specialties. |
@@ -164,8 +164,8 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 **Style**
 
-| `dice: d6\|avg` (`d6`) | Style |
-|-----------|------------|-------|
+| dice: d6 | Style |
+|----------|-------|
 | 1 | Elegant. You move with precise grace and total control, never using more energy than you need. |
 | 2 | Brutal. Your attacks rain down like hammer blows, meant to splinter bone or send blood flying. |
 | 3 | Cunning. You dart in to attack at just the right moment and use small-scale tactics to tilt the odds in your favor. |

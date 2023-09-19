@@ -10,6 +10,7 @@ aliases: ["Far Realm Shard"]
 ---
 # Far Realm Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
+![[5. Mechanics/Items/img/far-realm-shard.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

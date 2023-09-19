@@ -8,15 +8,13 @@ aliases: ["Haunted Traps"]
 # Haunted Traps
 *Source: Van Richten's Guide to Ravenloft p. 196* 
 
-## Haunted Traps
-
 Like other traps, haunted traps represent threats leveled toward trespassers. They originate in an area spontaneously, often resulting from overwhelming negative emotions, tragedy, or evil. Just as some terrible fates might cause a tormented individual to rise as an undead creature, so might supernatural evil and violent emotions manifest more generally as one or more haunted traps. Such traps provide a way to theme the dangers and monsters of a haunted place to reveal a grim history or frightening tale. When creating haunted traps, consider what events brought them into being and how the trap's effects suggest those origins.
 
-### Detecting Haunted Traps
+## Detecting Haunted Traps
 
 Every haunted trap has an emanation, which might be as subtle as a drop in temperature or as overt as an object moving of its own accord. A haunted trap's emanation occurs before the trap takes effect. A character notices the emanation if their passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score equals or exceeds 10 + the trap's Haunt Bonus. A character who notices the haunted trap has until the start of their next turn to react, which might include fleeing to avoid the trap or attempting to disarm it (see the following section). Class features and spells, such as Divine Sense and [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], that discern desecration also detect haunted traps.
 
-### Disarming Haunted Traps
+## Disarming Haunted Traps
 
 Characters who notice a haunted trap before it activates can attempt to disarm it. Typical methods of disarming traps, such as [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] and [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], don't affect haunted traps. However, the Channel Divinity class feature and the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell can disarm a haunted trap.
 
@@ -26,11 +24,11 @@ Depending on the haunted trap's origins, certain spells might also affect the tr
 
 Some haunted traps might also be disarmed in nonmagical ways related to the history of a haunted area. Such methods might be as simple as wearing the clothes of a haunted house's former owner or singing a lullaby that soothes a restless spirit. Haunted traps disarmed in such ways typically remain disarmed for 24 hours.
 
-### Sample Haunted Traps
+## Sample Haunted Traps
 
 Several haunted traps are presented here in alphabetical order. Customize them to create terrifying traps appropriate for your adventures.
 
-#### Danse Macabre
+### Danse Macabre
 
 *Haunt Bonus +4*
 
@@ -38,7 +36,7 @@ This haunted trap affects a 20-foot-radius sphere centered on an ancient but pri
 
 While the phantom performer plays, any creature within the haunted trap's area can use an action to try to convince the performer to stop playing, doing so with a successful DC 14 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. When the performer stops playing, all creatures affected by the haunted trap are freed from its effects and float to the ground safely.
 
-#### Faceless Malice
+### Faceless Malice
 
 *Haunt Bonus +2*
 
@@ -46,7 +44,7 @@ This haunted trap affects a 15-foot-cube in front of an ornate mirror hanging on
 
 ![[/5. Mechanics/Rules/Variant Rules/img/vrgr-110-04-006-faceless-malice.png#center\|The faceless malice haunted trap claims a victim]]
 
-#### Icon of the Lower Aerial Kingdoms
+### Icon of the Lower Aerial Kingdoms
 
 *Haunt Bonus +6*
 
@@ -54,7 +52,7 @@ This haunted trap is tied to the 10-foot-radius sphere surrounding an ominous, 1
 
 This haunted trap manifests as the result of a fiendish influence. Casting [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] on the statue permanently disarms the haunted trap.
 
-#### Morbid Memory
+### Morbid Memory
 
 *Haunt Bonus +0*
 

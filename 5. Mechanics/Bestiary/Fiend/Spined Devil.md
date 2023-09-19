@@ -111,7 +111,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -120,7 +120,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -178,14 +178,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ two with its tail spines."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 2d4|avg (2d4)) slashing damage."
+    \ Hit: dice: 2d4|avg (2d4) slashing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
+    \ Hit: dice: 1d6|avg (1d6) piercing damage."
   "name": "Fork"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 20/80 ft., one\
-    \ target. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) fire damage."
+    \ target. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage plus dice: 1d6|avg\
+    \ (1d6) fire damage."
   "name": "Tail Spine"
 "source":
 - "MM"

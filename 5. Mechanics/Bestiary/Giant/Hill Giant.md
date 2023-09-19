@@ -62,7 +62,7 @@ At the highest level of the ordning, the races of the giants are also ranked acc
 
 Regardless of a giant's rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
 
-> [!quote] Giant Gods
+> [!note] Giant Gods
 > 
 > When the giants' ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants' pantheon.
 > 
@@ -105,10 +105,10 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "desc": "The giant makes two greatclub attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
   "name": "Greatclub"
 - "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 60/240 ft., one\
-    \ target. Hit: 21 (dice: 3d10 + 5|avg (3d10 + 5)) bludgeoning damage."
+    \ target. Hit: dice: 3d10 + 5|avg (3d10 + 5) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

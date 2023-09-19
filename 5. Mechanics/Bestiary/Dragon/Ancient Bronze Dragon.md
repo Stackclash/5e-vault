@@ -115,13 +115,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     \ one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: 20 (dice: 2d10 + 9|avg (2d10 + 9)) piercing damage."
+    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 10 ft., one target.\
-    \ Hit: 16 (dice: 2d6 + 9|avg (2d6 + 9)) slashing damage."
+    \ Hit: dice: 2d6 + 9|avg (2d6 + 9) slashing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one target.\
-    \ Hit: 18 (dice: 2d8 + 9|avg (2d8 + 9)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 9|avg (2d8 + 9) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
     \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
@@ -132,8 +132,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Frightful Presence"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
     \ The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature\
-    \ in that line must make a DC 23 Dexterity saving throw, taking 88 (dice: 16d10|avg\
-    \ (16d10)) lightning damage on a failed save, or half as much damage on a successful\
+    \ in that line must make a DC 23 Dexterity saving throw, taking dice: 16d10|avg\
+    \ (16d10) lightning damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Repulsion Breath. The dragon exhales repulsion energy in a 30-foot\
     \ cone. Each creature in that area must succeed on a DC 23 Strength saving throw.\
     \ On a failed save, the creature is pushed 60 feet away from the dragon.  "
@@ -155,8 +155,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-    \ must succeed on a DC 24 Dexterity saving throw or take 16 (dice: 2d6 + 9|avg\
-    \ (2d6 + 9)) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ must succeed on a DC 24 Dexterity saving throw or take dice: 2d6 + 9|avg (2d6\
+    \ + 9) bludgeoning damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ The dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":

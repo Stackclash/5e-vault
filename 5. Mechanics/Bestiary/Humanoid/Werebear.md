@@ -33,7 +33,7 @@ A lycanthrope can either resist its curse or embrace it. By resisting the curse,
 
 Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
 
-> [!quote] Player Characters as Lycanthropes
+> [!note] Player Characters as Lycanthropes
 > 
 > A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.
 > 
@@ -91,15 +91,15 @@ Some individuals see little point in fighting the curse and accept what they are
     \ makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) piercing damage. If the target\
-    \ is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage. If the target is a\
+    \ humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed\
     \ with werebear lycanthropy."
   "name": "Bite (Bear or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Claw (Bear or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 1d12 + 4|avg (1d12 + 4)) slashing damage."
+    \ Hit: dice: 1d12 + 4|avg (1d12 + 4) slashing damage."
   "name": "Greataxe (Humanoid or Hybrid Form Only)"
 "source":
 - "MM"

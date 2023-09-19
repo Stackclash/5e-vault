@@ -13,13 +13,13 @@ Found most commonly on the cold layers of Stygia and Cania, ice devils serve as 
 
 Resembling a giant bipedal insect, an ice devil has clawed hands and feet, powerful mandibles, and a long tail covered in razor-sharp spikes. Some carry barbed spears whose icy touch can render a foe all but helpless in combat.
 
-> [!quote] Variant: Ice Devil Spear
+> [!note] Variant: Ice Devil Spear
 > 
 > Some ice devils have the following action options.
 > 
 > **Multiattack.** The devil makes two attacks: one with its spear and one with its tail.
 > 
-> **Ice Spear.** *Melee Weapon Attack:* ++10 to hit, reach 10 ft., one target. *Hit:* 14 (`dice: 2d8 + 5|avg` (`2d8 + 5`)) piercing damage + 10 (`dice: 3d6|avg` (`3d6`)) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+> **Ice Spear.** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* `dice: 2d8 + 5|avg` (`2d8 + 5`) piercing damage + `dice: 3d6|avg` (`3d6`) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ^variant-ice-devil-spear
 
 ## Devils
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -125,7 +125,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -182,16 +182,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ one with its tail."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) piercing damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) cold damage."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) piercing damage plus dice: 3d6|avg\
+    \ (3d6) cold damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d4 + 5|avg (2d4 + 5)) slashing damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) cold damage."
+    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) slashing damage plus dice: 3d6|avg\
+    \ (3d6) cold damage."
   "name": "Claws"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) cold damage."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage plus dice: 3d6|avg\
+    \ (3d6) cold damage."
   "name": "Tail"
 - "desc": "The devil magically forms an opaque wall of ice on a solid surface it can\
     \ see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and\
@@ -199,17 +199,17 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ the wall appears, each creature in its space is pushed out of it by the shortest\
     \ route. The creature chooses which side of the wall to end up on, unless the\
     \ creature is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]].\
-    \ The creature then makes a DC 17 Dexterity saving throw, taking 35 (dice: 10d6|avg\
-    \ (10d6)) cold damage on a failed save, or half as much damage on a successful\
+    \ The creature then makes a DC 17 Dexterity saving throw, taking dice: 10d6|avg\
+    \ (10d6) cold damage on a failed save, or half as much damage on a successful\
     \ one.\n\nThe wall lasts for 1 minute or until the devil is [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ or dies. The wall can be damaged and breached; each 10-foot section has AC 5,\
     \ 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic,\
     \ poison, and psychic damage. If a section is destroyed, it leaves behind a sheet\
     \ of frigid air in the space the wall occupied. Whenever a creature finishes moving\
     \ through the frigid air on a turn, willingly or otherwise, the creature must\
-    \ make a DC 17 Constitution saving throw, taking 17 (dice: 5d6|avg (5d6))\
-    \ cold damage on a failed save, or half as much damage on a successful one. The\
-    \ frigid air dissipates when the rest of the wall vanishes."
+    \ make a DC 17 Constitution saving throw, taking dice: 5d6|avg (5d6) cold\
+    \ damage on a failed save, or half as much damage on a successful one. The frigid\
+    \ air dissipates when the rest of the wall vanishes."
   "name": "Wall of Ice (Recharge 6)"
 "source":
 - "MM"

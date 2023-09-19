@@ -10,6 +10,7 @@ aliases: ["Book of Vile Darkness"]
 ---
 # Book of Vile Darkness
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/Book Of Vile Darkness.webp#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

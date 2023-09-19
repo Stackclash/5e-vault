@@ -13,6 +13,7 @@ aliases: ["Storm Sphere"]
 ---
 # Storm Sphere
 *4th-level, Evocation*  
+![[5. Mechanics/Spells/img/storm-sphere.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 150 feet

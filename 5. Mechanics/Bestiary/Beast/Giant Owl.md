@@ -45,7 +45,7 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
   "name": "Keen Hearing and Sight"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d6 + 1|avg (2d6 + 1)) slashing damage."
+    \ Hit: dice: 2d6 + 1|avg (2d6 + 1) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

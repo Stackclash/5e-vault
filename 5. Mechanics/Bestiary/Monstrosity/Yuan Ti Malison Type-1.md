@@ -41,7 +41,7 @@ Humanoid emotions are foreign to most yuan-ti, which understand sentiment only a
 
 Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they worship. Instead, they see worship as a means to attain power. A yuan-ti believes an individual who attains enough power can devour and replace one of the yuan-ti gods. The yuan-ti strive for ascension and are willing to commit the darkest atrocities to achieve it.
 
-> [!quote] Serpent Gods
+> [!note] Serpent Gods
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
@@ -105,15 +105,15 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ its bite only once."
   "name": "Multiattack (Yuan-ti Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage plus 7 (dice: 2d6|avg\
-    \ (2d6)) poison damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 150/600 ft., one\
-    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) poison damage."
+    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage plus dice: 2d6|avg\
+    \ (2d6) poison damage."
   "name": "Longbow (Yuan-ti Form Only)"
 "source":
 - "MM"

@@ -64,7 +64,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   "name": "Aura of Shrieks"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) piercing damage, and the target must\
+    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) piercing damage, and the target must\
     \ succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage\
     \ until the start of the grue's next turn."
   "name": "Confounding Bite"

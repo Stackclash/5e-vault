@@ -40,7 +40,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "cr": "1/8"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage."
+    \ Hit: dice: 1d8 + 1|avg (1d8 + 1) piercing damage."
   "name": "Rapier"
 "reactions":
 - "desc": "The noble adds 2 to its AC against one melee attack that would hit it.\

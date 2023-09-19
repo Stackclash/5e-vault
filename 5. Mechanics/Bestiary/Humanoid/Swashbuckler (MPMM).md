@@ -17,8 +17,8 @@ Many swashbucklers have a signature flourish with which they embellish their act
 
 **Swashbuckler Flourishes**
 
-| `dice: d8\|avg` (`d8`) | Flourish |
-|-----------|------------|----------|
+| dice: d8 | Flourish |
+|----------|----------|
 | 1 | Winks and flashes a charming grin |
 | 2 | Bows theatrically |
 | 3 | Constantly flips their dagger |
@@ -60,11 +60,11 @@ Many swashbucklers have a signature flourish with which they embellish their act
 - "desc": "The swashbuckler makes one Dagger attack and two Rapier attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 4|avg (1d4 + 4) piercing\
     \ damage."
   "name": "Dagger"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) piercing damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) piercing damage."
   "name": "Rapier"
 "bonus_actions":
 - "desc": "The swashbuckler takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] or\

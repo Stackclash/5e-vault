@@ -12,8 +12,8 @@ aliases: ["Mountain Encounters (Levels 11—16)"]
 
 **Mountain Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | `dice: 1d8 + 1\|avg` (`1d8 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Basilisk.md\|basilisks]] |
 | 03-04 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Fiend/Hell Hound.md\|hell hounds]] |
 | 05-06 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimeras]] |

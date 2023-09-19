@@ -35,7 +35,7 @@ Normally, a character who undertakes this activity creates a magic item describe
 
 While crafting a magic item, a character can maintain modest lifestyle without having to pay the 1 gp per day, or a comfortable lifestyle at half the normal cost (see chapter 5, ""Equipment"," of the "Player's Handbook").
 
-> [!quote] Magic Item Formulas
+> [!note] Magic Item Formulas
 > 
 > A magic item formula explains how to make a particular magic item. Such a formula can be an excellent reward if you allow player characters to craft magic items.
 > 

@@ -10,6 +10,7 @@ aliases: ["Wand of Secrets"]
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  
+![[5. Mechanics/Items/img/wand-of-secrets.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

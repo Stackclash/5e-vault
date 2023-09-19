@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- background
 - compendium/src/5e/phb
 aliases: ["Guild Artisan (Guild Merchant) (Variant)"]
 ---
 # Guild Artisan (Guild Merchant) (Variant)
-*Source: Player's Handbook p. 133, Derived from Guild Artisan (PHB)*  
+*Source: Player's Handbook p. 133, Derived from *  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]  
 - **Tool Proficiencies.** One type of artisan's tools, or [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]], or an additional language  

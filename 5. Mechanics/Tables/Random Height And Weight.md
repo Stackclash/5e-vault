@@ -14,7 +14,7 @@ aliases: ["Random Height and Weight"]
 
 | Race | Base Height | Height Modifier | Base Weight | Weight Modifier |
 |------|-------------|-----------------|-------------|-----------------|
-| Human | 4'8" | +`dice: 2d10\|avg` (`2d10`) | 110 lb. | × (`dice: 2d4\|avg` (`2d4`)) lb. |
+| [[5. Mechanics/Races/Human.md\|Human]] | 4'8" | +`dice: 2d10\|avg` (`2d10`) | 110 lb. | × (`dice: 2d4\|avg` (`2d4`)) lb. |
 | [[5. Mechanics/Races/Dwarf Hill.md\|Dwarf (hill)]] | 3'8" | +`dice: 2d4\|avg` (`2d4`) | 115 lb. | × (`dice: 2d6\|avg` (`2d6`)) lb. |
 | [[5. Mechanics/Races/Dwarf Mountain.md\|Dwarf (mountain)]] | 4' | +`dice: 2d4\|avg` (`2d4`) | 130 lb. | × (`dice: 2d6\|avg` (`2d6`)) lb. |
 | [[5. Mechanics/Races/Elf High.md\|Elf (high)]] | 4'6" | +`dice: 2d10\|avg` (`2d10`) | 90 lb. | × (`dice: 1d4\|avg` (`1d4`)) lb. |

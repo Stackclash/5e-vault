@@ -10,6 +10,7 @@ aliases: ["Find Greater Steed"]
 ---
 # Find Greater Steed
 *4th-level, Conjuration*  
+![[5. Mechanics/Spells/img/find-greater-steed.png#right]]  
 
 - **Casting time:** 10 minute
 - **Range:** 30 feet
@@ -26,7 +27,7 @@ You can't have more than one mount bonded by this spell or [[5. Mechanics/Spells
 
 Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
 
-> [!quote] Dragonnel Steeds
+> [!note] Dragonnel Steeds
 > 
 > With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
 ^dragonnel-steeds

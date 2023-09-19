@@ -107,8 +107,8 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 - "desc": "Baba Lysaga makes three attacks with her quarterstaff."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) bludgeoning damage, or 8 (dice:\
-    \ 1d8 + 4|avg (1d8 + 4)) bludgeoning damage if wielded with two hands."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) bludgeoning damage, or dice: 1d8 + 4|avg\
+    \ (1d8 + 4) bludgeoning damage if wielded with two hands."
   "name": "Quarterstaff"
 - "desc": "Baba Lysaga summons dice: 1d4|avg (1d4) swarms of insects. A summoned\
     \ swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts\

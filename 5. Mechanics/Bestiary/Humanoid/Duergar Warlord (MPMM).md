@@ -68,14 +68,14 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     \ Call to Attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) bludgeoning damage, or 15 (dice:\
-    \ 2d10 + 4|avg (2d10 + 4)) bludgeoning damage while under the effect of Enlarge,\
-    \ plus 5 (dice: 1d10|avg (1d10)) psychic damage."
+    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) bludgeoning damage, or dice: 2d10\
+    \ + 4|avg (2d10 + 4) bludgeoning damage while under the effect of Enlarge,\
+    \ plus dice: 1d10|avg (1d10) psychic damage."
   "name": "Psychic-Attuned Hammer"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4))\
-    \ piercing damage, or 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage while\
-    \ under the effect of Enlarge."
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage, or dice: 2d6 + 4|avg (2d6 + 4) piercing damage while under the effect\
+    \ of Enlarge."
   "name": "Javelin"
 - "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
     \ each use their reaction to make one weapon attack."
@@ -97,8 +97,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "reactions":
 - "desc": "When an ally that the duergar can see makes a dice: d20|avg (d20) roll,\
     \ the duergar can roll a dice: d6|avg (d6), and the ally can add the number\
-    \ rolled to the dice: d20|avg (d20) by taking 3 (dice: 1d6|avg (1d6))\
-    \ psychic damage."
+    \ rolled to the dice: d20|avg (d20) by taking dice: 1d6|avg (1d6) psychic\
+    \ damage."
   "name": "Scouring Instruction"
 "source":
 - "MPMM"

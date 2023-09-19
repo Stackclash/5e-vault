@@ -42,10 +42,10 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 - "desc": "The knight makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
   "name": "Greatsword"
 - "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 100/400 ft., one\
-    \ target. Hit: 5 (dice: 1d10|avg (1d10)) piercing damage."
+    \ target. Hit: dice: 1d10|avg (1d10) piercing damage."
   "name": "Heavy Crossbow"
 - "desc": "For 1 minute, the knight can utter a special command or warning whenever\
     \ a nonhostile creature that it can see within 30 feet of it makes an attack roll\

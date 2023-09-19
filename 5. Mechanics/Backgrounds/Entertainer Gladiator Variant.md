@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- background
 - compendium/src/5e/phb
 aliases: ["Entertainer (Gladiator) (Variant)"]
 ---
 # Entertainer (Gladiator) (Variant)
-*Source: Player's Handbook p. 131, Derived from Entertainer (PHB)*  
+*Source: Player's Handbook p. 131, Derived from *  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]  
 - **Tool Proficiencies.** [[5. Mechanics/Items/Disguise Kit.md\|Disguise kit]], one type of musical instrument  

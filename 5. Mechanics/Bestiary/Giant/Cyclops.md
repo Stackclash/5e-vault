@@ -58,10 +58,10 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 - "desc": "The cyclops makes two greatclub attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
   "name": "Greatclub"
 - "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 30/120 ft., one\
-    \ target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage."
+    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
   "name": "Rock"
 "source":
 - "MM"

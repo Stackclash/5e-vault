@@ -57,10 +57,10 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 - "desc": "The treant makes two slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 16 (dice: 3d6 + 6|avg (3d6 + 6)) bludgeoning damage."
+    \ Hit: dice: 3d6 + 6|avg (3d6 + 6) bludgeoning damage."
   "name": "Slam"
 - "desc": "Ranged Weapon Attack: dice: d20+10 (+10 to hit), range 60/180 ft.,\
-    \ one target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage."
+    \ one target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage."
   "name": "Rock"
 - "desc": "The treant magically animates one or two trees it can see within 60 feet\
     \ of it. These trees have the same statistics as a [[5. Mechanics/Bestiary/Plant/Treant.md|treant]],\

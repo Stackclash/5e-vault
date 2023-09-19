@@ -2,14 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/tce
-- monster/environment/underdark
-- monster/environment/urban
 - monster/size/medium
 - monster/type/fey
 aliases: ["Reflection"]
 ---
 # Reflection
-*Source: Tasha's Cauldron of Everything p. 158, Derived from Shadow (MM)*  
+*Source: Tasha's Cauldron of Everything p. 158, Derived from *  
 
 ```statblock
 "name": "Reflection"
@@ -50,9 +48,9 @@ aliases: ["Reflection"]
   "name": "Sunlight Weakness"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) necrotic damage, and the target's\
-    \ Strength score is reduced by dice: 1d4|avg (1d4). The target dies if this\
-    \ reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes\
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) necrotic damage, and the target's Strength\
+    \ score is reduced by dice: 1d4|avg (1d4). The target dies if this reduces\
+    \ its Strength to 0. Otherwise, the reduction lasts until the target finishes\
     \ a short or long rest.\n\nIf a non-evil humanoid dies from this attack, a new\
     \ reflection rises from the corpse dice: 1d4|avg (1d4) hours later."
   "name": "Strength Drain"
@@ -61,7 +59,3 @@ aliases: ["Reflection"]
 "image": "5. Mechanics/Bestiary/Fey/token/reflection.png"
 ```
 ^statblock
-
-## Environment
-
-underdark, urban

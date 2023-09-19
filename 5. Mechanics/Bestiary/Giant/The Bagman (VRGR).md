@@ -2,18 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/vrgr
-- monster/environment/arctic
-- monster/environment/forest
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/swamp
-- monster/environment/underdark
 - monster/size/large
 - monster/type/giant
 aliases: ["The Bagman"]
 ---
 # The Bagman
-*Source: Van Richten's Guide to Ravenloft p. 225, Derived from Troll (MM)*  
+*Source: Van Richten's Guide to Ravenloft p. 225, Derived from *  
 
 ## Beware the Bagman
 
@@ -66,17 +60,13 @@ Any character might know the story of the Bagman. What the Bagman is and how you
 - "desc": "The Bagman makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
   "name": "Claw"
 "source":
 - "VRGR"
 "image": "compendium/bestiary/giant/token/the-bagman.png"
 ```
 ^statblock
-
-## Environment
-
-underdark, mountain, forest, swamp, hill, arctic

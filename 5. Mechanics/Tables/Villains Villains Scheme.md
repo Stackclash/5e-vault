@@ -12,8 +12,8 @@ aliases: ["Villains; Villain's Scheme"]
 
 **Villain's Scheme**
 
-| `dice: d8\|avg` (`d8`) | Objective | Scheme |
-|-----------|------------|-----------|--------|
+| dice: d8 | Objective | Scheme |
+|----------|-----------|--------|
 | 1 | Immortality (d4) |  |
 |  | 1 | Acquire a legendary item to prolong life |
 |  | 2 | Ascend to godhood |

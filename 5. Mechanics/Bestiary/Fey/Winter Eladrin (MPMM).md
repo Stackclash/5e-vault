@@ -78,13 +78,12 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     \ attack with a use of Spellcasting."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d8|avg (1d8)) slashing damage, or 5 (dice: 1d10|avg (1d10))\
-    \ slashing damage if used with two hands, plus 13 (dice: 3d8|avg (3d8)) cold\
-    \ damage."
+    \ Hit: dice: 1d8|avg (1d8) slashing damage, or dice: 1d10|avg (1d10)\
+    \ slashing damage if used with two hands, plus dice: 3d8|avg (3d8) cold damage."
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+7 (+7 to hit), range 150/600 ft., one\
-    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 13 (dice:\
-    \ 3d8|avg (3d8)) cold damage."
+    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 3d8|avg\
+    \ (3d8) cold damage."
   "name": "Longbow"
 "bonus_actions":
 - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -93,7 +92,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "reactions":
 - "desc": "When the eladrin takes damage from a creature the eladrin can see within\
     \ 60 feet of it, the eladrin can force that creature to make a DC 16 Constitution\
-    \ saving throw. On a failed save, the creature takes 11 (dice: 2d10|avg (2d10))\
+    \ saving throw. On a failed save, the creature takes dice: 2d10|avg (2d10)\
     \ cold damage."
   "name": "Frigid Rebuke"
 "source":

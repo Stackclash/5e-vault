@@ -53,15 +53,15 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - "desc": "The evoker makes three Arcane Burst attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: 25 (dice: 4d10 + 3|avg (4d10 + 3))\
-    \ force damage."
+    \ or range 120 ft., one target. Hit: dice: 4d10 + 3|avg (4d10 + 3) force\
+    \ damage."
   "name": "Arcane Burst"
 - "desc": "The evoker unleashes a magical explosion of a particular damage type: cold,\
     \ fire, lightning, or thunder. The magic erupts in a 20-foot-radius sphere centered\
     \ on a point within 150 feet of the evoker. Each creature in that area must make\
     \ a DC 15 Dexterity saving throw. The evoker can select up to three creatures\
     \ it can see in the area to ignore the spell, as the evoker sculpts the spell's\
-    \ energy around them. On a failed save, a creature takes 40 (dice: 9d8|avg (9d8))\
+    \ energy around them. On a failed save, a creature takes dice: 9d8|avg (9d8)\
     \ damage of the chosen type and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."

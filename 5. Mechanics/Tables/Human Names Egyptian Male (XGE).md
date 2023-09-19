@@ -12,8 +12,8 @@ aliases: ["Human Names – Egyptian, Male"]
 
 **Human Names – Egyptian, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ahmose |
 | 03-04 | Akhom |
 | 05-06 | Amasis |

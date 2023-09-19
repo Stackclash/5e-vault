@@ -58,7 +58,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 - "desc": "The merrenoloth makes one Oar attack and uses Fear Gaze."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) fire damage."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) fire damage."
   "name": "Oar"
 - "desc": "The merrenoloth targets one creature it can see within 60 feet of it. The\
     \ target must succeed on a DC 13 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

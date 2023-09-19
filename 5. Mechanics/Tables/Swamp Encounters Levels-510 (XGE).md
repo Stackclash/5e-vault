@@ -12,8 +12,8 @@ aliases: ["Swamp Encounters (Levels 5—10)"]
 
 **Swamp Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Fey/Green Hag.md\|green hag]] |
 | 02-03 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|giant lizards]] or `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|giant poisonous snakes]] |
 | 04-05 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Humanoid/Winged Kobold.md\|winged kobolds]] |

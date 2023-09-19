@@ -63,15 +63,15 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 - "desc": "The drow makes two Scimitar attacks and one Whip or Hand Crossbow attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing damage plus 14 (dice: 4d6|avg\
-    \ (4d6)) poison damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing damage plus dice: 4d6|avg\
+    \ (4d6) poison damage."
   "name": "Scimitar"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) slashing damage."
+    \ Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing damage."
   "name": "Whip"
 - "desc": "Ranged Weapon Attack: dice: d20+8 (+8 to hit), range 30/120 ft., one\
-    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage, and the\
-    \ target must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
+    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage, and the target\
+    \ must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ for 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]\
     \ while [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way. The\
     \ target regains consciousness if it takes damage or if another creature takes\

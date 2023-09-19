@@ -75,7 +75,7 @@ A golem doesn't require air, food, drink, or sleep.
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
   "name": "Slam"
 - "desc": "The golem targets one or more creatures it can see within 10 feet of it.\
     \ Each target must make a DC 17 Wisdom saving throw against this magic. On a failed\

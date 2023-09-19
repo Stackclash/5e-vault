@@ -59,13 +59,13 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 - "desc": "The necrichor makes two attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) necrotic damage, and the target must\
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) necrotic damage, and the target must\
     \ succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
     \ until the start of the necrichor's next turn."
   "name": "Pseudopod"
 - "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one creature.\
-    \ Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) necrotic damage, and the target\
-    \ can't regain hit points until the start of the necrichor's next turn."
+    \ Hit: dice: 2d8 + 3|avg (2d8 + 3) necrotic damage, and the target can't\
+    \ regain hit points until the start of the necrichor's next turn."
   "name": "Necrotic Bolt"
 - "desc": "The necrichor targets a creature it can see within 5 feet of it that is\
     \ missing any of its hit points. If the target isn't a Construct or an Undead,\

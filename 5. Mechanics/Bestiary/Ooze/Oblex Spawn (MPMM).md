@@ -63,8 +63,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   "name": "Unusual Nature"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage plus 2 (dice:\
-    \ 1d4|avg (1d4)) psychic damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage plus dice: 1d4|avg\
+    \ (1d4) psychic damage."
   "name": "Pseudopod"
 "source":
 - "MPMM"

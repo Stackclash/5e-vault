@@ -12,8 +12,8 @@ aliases: ["Swamp Encounters (Levels 1—4)"]
 
 **Swamp Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|poisonous snakes]] |
 | 02-05 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Rat.md\|rats]] |
 | 06-10 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Beast/Raven.md\|ravens]] |

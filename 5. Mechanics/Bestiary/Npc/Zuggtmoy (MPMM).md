@@ -71,9 +71,8 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 "actions":
 - "desc": "Zuggtmoy makes three Pseudopod attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: ++13 to hit, reach 10 ft., one target. Hit: 15\
-    \ (dice: 2d8 + 6|avg (2d8 + 6)) force damage plus 9 (dice: 2d8|avg (2d8))\
-    \ poison damage."
+- "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: dice:\
+    \ 2d8 + 6|avg (2d8 + 6) force damage plus dice: 2d8|avg (2d8) poison damage."
   "name": "Pseudopod"
 "bonus_actions":
 - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\

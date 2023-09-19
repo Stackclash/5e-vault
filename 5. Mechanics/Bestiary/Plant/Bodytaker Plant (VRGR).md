@@ -48,16 +48,16 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
 - "desc": "The plant makes three Vine Lash attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 20 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. If the target is\
-    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. If the target is a creature,\
+    \ it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 15). Until\
+    \ the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ The plant has four vines, each of which can grapple one target."
   "name": "Vine Lash"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one Medium\
     \ or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by\
-    \ the plant. Hit: 22 (dice: 4d8 + 4|avg (4d8 + 4)) acid damage, and the\
-    \ target is pulled into the plant's space and enveloped by the pod, and the grapple\
-    \ ends. While enveloped, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ the plant. Hit: dice: 4d8 + 4|avg (4d8 + 4) acid damage, and the target\
+    \ is pulled into the plant's space and enveloped by the pod, and the grapple ends.\
+    \ While enveloped, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and it has total cover against attacks and effects originating outside the pod.\
     \ The enveloped target must also immediately succeed on a DC 16 Constitution saving\
     \ throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] by the plant's\

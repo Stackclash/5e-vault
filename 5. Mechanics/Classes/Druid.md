@@ -135,7 +135,7 @@ Have you always been an adventurer as part of your druidic calling, or did you f
 
 You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Hermit.md\|hermit]] background.
 
-> [!quote] Sacred Plants and Wood
+> [!note] Sacred Plants and Wood
 > 
 > A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 > 
@@ -144,7 +144,7 @@ You can make a druid quickly by following these suggestions. First, Wisdom shoul
 > Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
 ^sacred-plants-and-wood
 
-> [!quote] Druids and the Gods
+> [!note] Druids and the Gods
 > 
 > Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples. In fact, in the world of Greyhawk, the druidic faith is called the Old Faith, and it claims many adherents among farmers, foresters, fishers, and others who live closely with nature. This tradition includes the worship of Nature as a primal force beyond personification, but also encompasses the worship of Beory, the Oerth Mother, as well as devotees of Obad-Hai, Ehlonna, and Ulaa.
 > 
@@ -170,8 +170,8 @@ When you decide what your character's treasured item is, think about giving it a
 
 **Treasured Item**
 
-| `dice: d6\|avg` (`d6`) | Treasured Item |
-|-----------|------------|----------------|
+| dice: d6 | Treasured Item |
+|----------|----------------|
 | 1 | A twig from the meeting tree that stands in the center of your village |
 | 2 | A vial of water from the source of a sacred river |
 | 3 | Special herbs tied together in a bundle |
@@ -187,8 +187,8 @@ Many druids feel a strong link to a specific aspect of the natural world, such a
 
 **Guiding Aspects**
 
-| `dice: d6\|avg` (`d6`) | Guiding Aspects |
-|-----------|------------|-----------------|
+| dice: d6 | Guiding Aspects |
+|----------|-----------------|
 | 1 | Yew trees remind you of renewing your mind and spirit, letting the old die and the new spring forth. |
 | 2 | Oak trees represent strength and vitality. Meditating under an oak fills your body and mind with resolve and fortitude. |
 | 3 | The river's endless flow reminds you of the great span of the world. You seek to act with the long-term interests of nature in mind. |
@@ -206,8 +206,8 @@ If your character received training from someone else, who or what was that indi
 
 **Mentors**
 
-| `dice: d6\|avg` (`d6`) | Mentors |
-|-----------|------------|---------|
+| dice: d6 | Mentors |
+|----------|---------|
 | 1 | Your mentor was a wise treant who taught you to think in terms of years and decades rather than days or months. |
 | 2 | You were tutored by a dryad who watched over a slumbering portal to the Abyss. During your training, you were tasked with watching for hidden threats to the world. |
 | 3 | Your tutor always interacted with you in the form of a falcon. You never saw the tutor's humanoid form. |

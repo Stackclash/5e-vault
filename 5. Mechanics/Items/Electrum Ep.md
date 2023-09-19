@@ -8,6 +8,7 @@ aliases: ["Electrum (ep)"]
 ---
 # Electrum (ep)
 *Treasure*  
+![[5. Mechanics/Items/img/electrum-ep.jpg#right]]  
 
 - **Cost**: 5 sp
 - **Weight**: 0.02 lbs.

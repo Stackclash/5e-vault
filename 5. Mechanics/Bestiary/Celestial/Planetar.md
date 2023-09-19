@@ -83,12 +83,12 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 - "desc": "The planetar makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+12 (+12 to hit), reach 5 ft., one target.\
-    \ Hit: 21 (dice: 4d6 + 7|avg (4d6 + 7)) slashing damage plus 22 (dice:\
-    \ 5d8|avg (5d8)) radiant damage."
+    \ Hit: dice: 4d6 + 7|avg (4d6 + 7) slashing damage plus dice: 5d8|avg\
+    \ (5d8) radiant damage."
   "name": "Greatsword"
-- "desc": "The planetar touches another creature. The target magically regains 30\
-    \ (dice: 6d8 + 3|avg (6d8 + 3)) hit points and is freed from any curse, disease,\
-    \ poison, blindness, or deafness."
+- "desc": "The planetar touches another creature. The target magically regains dice:\
+    \ 6d8 + 3|avg (6d8 + 3) hit points and is freed from any curse, disease, poison,\
+    \ blindness, or deafness."
   "name": "Healing Touch (4/Day)"
 "source":
 - "MM"

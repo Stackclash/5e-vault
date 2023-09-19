@@ -53,17 +53,17 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 - "desc": "The zaratan makes one Bite attack and one Stomp attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 20 ft., one target.\
-    \ Hit: 28 (dice: 4d8 + 10|avg (4d8 + 10)) force damage."
+    \ Hit: dice: 4d8 + 10|avg (4d8 + 10) force damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 20 ft., one target.\
-    \ Hit: 26 (dice: 3d10 + 10|avg (3d10 + 10)) thunder damage."
+    \ Hit: dice: 3d10 + 10|avg (3d10 + 10) thunder damage."
   "name": "Stomp"
 - "desc": "Ranged Weapon Attack: dice: d20+17 (+17 to hit), range 120 ft./240\
-    \ ft., one target. Hit: 31 (dice: 6d8 + 10|avg (6d8 + 10)) force damage."
+    \ ft., one target. Hit: dice: 6d8 + 10|avg (6d8 + 10) force damage."
   "name": "Spit Rock"
 - "desc": "The zaratan exhales rocky debris in a 90-foot cube. Each creature in that\
-    \ area must make a DC 25 Dexterity saving throw. A creature takes 33 (dice: 6d10|avg\
-    \ (6d10)) bludgeoning damage on a failed save, or half as much damage on a successful\
+    \ area must make a DC 25 Dexterity saving throw. A creature takes dice: 6d10|avg\
+    \ (6d10) bludgeoning damage on a failed save, or half as much damage on a successful\
     \ one. A creature that fails the save by 5 or more is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Spew Debris (Recharge 5-6)"
 "bonus_actions":
@@ -76,7 +76,7 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
     \ in the area. If a creature is near a structure that collapses, the creature\
     \ might be buried; a creature within half the distance of the structure's height\
     \ must make a DC 25 Dexterity saving throw. On a failed save, the creature takes\
-    \ 17 (dice: 5d6|avg (5d6)) bludgeoning damage, is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+    \ dice: 5d6|avg (5d6) bludgeoning damage, is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
     \ and is trapped in the rubble. A trapped creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ requiring a successful DC 20 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
     \ check as an action to escape. Another creature within 5 feet of the buried creature\
@@ -98,8 +98,8 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
     \ action."
   "name": "Retract (Costs 2 Actions)"
 - "desc": "The zaratan can use this option only if it is retracted in its shell. It\
-    \ regains 52 (dice: 5d20|avg (5d20)) hit points. The next time it takes a\
-    \ legendary action, it must take its Emerge action."
+    \ regains dice: 5d20|avg (5d20) hit points. The next time it takes a legendary\
+    \ action, it must take its Emerge action."
   "name": "Revitalize (Costs 2 Actions)"
 - "desc": "The zaratan emerges from its shell and makes one Spit Rock attack. It can\
     \ use this option only if it is retracted in its shell."

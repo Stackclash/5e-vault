@@ -34,7 +34,7 @@ A lycanthrope can either resist its curse or embrace it. By resisting the curse,
 
 Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
 
-> [!quote] Player Characters as Lycanthropes
+> [!note] Player Characters as Lycanthropes
 > 
 > A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.
 > 
@@ -92,17 +92,17 @@ Some individuals see little point in fighting the curse and accept what they are
     \ with its bite and one with its claws (hybrid form)."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed\
-    \ with werewolf lycanthropy."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage. If the target is a humanoid,\
+    \ it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf\
+    \ lycanthropy."
   "name": "Bite (Wolf or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
   "name": "Claws (Hybrid Form Only)"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one creature. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2))\
-    \ piercing damage, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage if used\
-    \ with two hands to make a melee attack."
+    \ or range 20/60 ft., one creature. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+    \ hands to make a melee attack."
   "name": "Spear (Humanoid Form Only)"
 "source":
 - "MM"

@@ -77,18 +77,18 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 - "desc": "Geryon makes one Claw attack and one Stinger attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 15 ft., one target.\
-    \ Hit: 23 (dice: 4d6 + 9|avg (4d6 + 9)) cold damage. If the target is Large\
-    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (DC 24),\
+    \ Hit: dice: 4d6 + 9|avg (4d6 + 9) cold damage. If the target is Large or\
+    \ smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (DC 24),\
     \ and it is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] until the\
     \ grapple ends. Geryon can grapple one creature at a time. If the target is already\
     \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by Geryon, the target takes\
-    \ an extra 27 (dice: 6d8|avg (6d8)) cold damage."
+    \ an extra dice: 6d8|avg (6d8) cold damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+16 (+16 to hit), reach 20 ft., one creature.\
-    \ Hit: 14 (dice: 2d4 + 9|avg (2d4 + 9)) force damage, and the target must\
-    \ succeed on a DC 21 Constitution saving throw or take 13 (dice: 2d12|avg (2d12))\
-    \ poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ until it finishes a short or long rest. The target's hit point maximum is reduced\
+    \ Hit: dice: 2d4 + 9|avg (2d4 + 9) force damage, and the target must succeed\
+    \ on a DC 21 Constitution saving throw or take dice: 2d12|avg (2d12) poison\
+    \ damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until\
+    \ it finishes a short or long rest. The target's hit point maximum is reduced\
     \ by an amount equal to half the poison damage taken. This reduction lasts until\
     \ the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] condition is removed.\
     \ The target dies if its hit point maximum is reduced to 0."

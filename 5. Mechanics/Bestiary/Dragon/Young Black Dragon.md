@@ -121,15 +121,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) piercing damage plus 4 (dice:\
-    \ 1d8|avg (1d8)) acid damage."
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) piercing damage plus dice: 1d8|avg\
+    \ (1d8) acid damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
   "name": "Claw"
 - "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 14 Dexterity saving throw, taking 49 (dice: 11d8|avg\
-    \ (11d8)) acid damage on a failed save, or half as much damage on a successful\
+    \ in that line must make a DC 14 Dexterity saving throw, taking dice: 11d8|avg\
+    \ (11d8) acid damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Acid Breath (Recharge 5-6)"
 "source":

@@ -56,11 +56,11 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 - "desc": "The shoosuva makes one Bite attack and one Tail Stinger attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 26 (dice: 4d10 + 4|avg (4d10 + 4)) piercing damage."
+    \ Hit: dice: 4d10 + 4|avg (4d10 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 15 ft., one creature.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage, and the target\
-    \ must succeed on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage, and the target must\
+    \ succeed on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]].\
     \ While [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] in this way, the\
     \ target is also [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]. The target\
     \ can repeat the saving throw at the end of each of its turns, ending the effect\

@@ -48,10 +48,10 @@ These machines are deployed to assist with construction projects and war. Some d
 - "desc": "The hammerer makes one Claw attack and one Hammer attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage."
   "name": "Hammer"
 "reactions":
 - "desc": "Immediately after a creature within 5 feet of the hammerer hits it with\

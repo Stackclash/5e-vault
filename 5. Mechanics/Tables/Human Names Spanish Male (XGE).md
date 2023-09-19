@@ -12,8 +12,8 @@ aliases: ["Human Names – Spanish, Male"]
 
 **Human Names – Spanish, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Alexandre |
 | 03-04 | Alfonso |
 | 05-06 | Alonso |

@@ -21,7 +21,7 @@ While a humanoid sleeps, a night hag can straddle the person ethereally and intr
 
 A night hag that is part of a coven (see the "Hag Covens" sidebar) has a challenge rating of 7 (2,900 XP).
 
-> [!quote] Night Hag Items
+> [!note] Night Hag Items
 > 
 > A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.
 > 
@@ -70,7 +70,7 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 
 Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
-> [!quote] Hag Covens
+> [!note] Hag Covens
 > 
 > When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
 > 
@@ -143,7 +143,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   "name": "Night Hag Items"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Claws (Hag Form Only)"
 - "desc": "The hag magically polymorphs into a Small or Medium female humanoid, or\
     \ back into her true form. Her statistics are the same in each form. Any equipment\
@@ -158,7 +158,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ spell cast on the target prevents this contact, as does a magic circle. As long\
     \ as the contact persists, the target has dreadful visions. If these visions last\
     \ for at least 1 hour, the target gains no benefit from its rest, and its hit\
-    \ point maximum is reduced by 5 (dice: 1d10|avg (1d10)). If this effect reduces\
+    \ point maximum is reduced by dice: 1d10|avg (1d10). If this effect reduces\
     \ the target's hit point maximum to 0, the target dies, and if the target was\
     \ evil, its soul is trapped in the hag's soul bag. The reduction to the target's\
     \ hit point maximum lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\

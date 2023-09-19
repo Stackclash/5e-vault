@@ -72,15 +72,15 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     \ Bite attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage plus 10 (dice: 3d6|avg\
-    \ (3d6)) psychic damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage plus dice: 3d6|avg\
+    \ (3d6) psychic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 15 ft., one target.\
-    \ Hit: 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it\
-    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ and takes 15 (dice: 3d8 + 2|avg (3d8 + 2)) bludgeoning damage at the start\
-    \ of each of its turns, and the morkoth can't use its tentacles on another target."
+    \ Hit: dice: 3d8 + 2|avg (3d8 + 2) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
+    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ and takes dice: 3d8 + 2|avg (3d8 + 2) bludgeoning damage at the start of\
+    \ each of its turns, and the morkoth can't use its tentacles on another target."
   "name": "Tentacles"
 - "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature in\
     \ that area must make a DC 17 Wisdom saving throw. On a failed save, the creature\

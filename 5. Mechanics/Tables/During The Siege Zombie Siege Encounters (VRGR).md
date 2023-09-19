@@ -12,8 +12,8 @@ aliases: ["During the Siege; Zombie Siege Encounters"]
 
 **Zombie Siege Encounters**
 
-| dice: d6s | Encounter |
-|-----------|-----------|
+| 1d6;2d6 | Encounter |
+|---------|-----------|
 | 1 | Zombies rip apart a soldier, causing those nearby to freeze or flee. |
 | 2 | Commoners flee the battle. A Talon attacks them, killing deserters to deter further flight. |
 | 3 | A Talon messenger, bearing orders from General Drakov, struggles to reach a besieged gate. |

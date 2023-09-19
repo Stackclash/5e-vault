@@ -2,14 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/underdark
-- monster/environment/urban
 - monster/size/medium
 - monster/type/undead
 aliases: ["Volenta Popofsky"]
 ---
 # Volenta Popofsky
-*Source: Curse of Strahd p. 93, Derived from Vampire Spawn (MM)*  
+*Source: Curse of Strahd p. 93, Derived from *  
 
 ```statblock
 "name": "Volenta Popofsky"
@@ -61,23 +59,19 @@ aliases: ["Volenta Popofsky"]
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one willing\
     \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by Volenta, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: 6 (dice:\
-    \ 1d6 + 3|avg (1d6 + 3)) piercing damage plus 7 (dice: 2d6|avg (2d6)) necrotic\
-    \ damage. The target's hit point maximum is reduced by an amount equal to the\
-    \ necrotic damage taken, and Volenta regains hit points equal to that amount.\
-    \ The reduction lasts until the target finishes a long rest. The target dies if\
-    \ this effect reduces its hit point maximum to 0."
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
+    \ + 3|avg (1d6 + 3) piercing damage plus dice: 2d6|avg (2d6) necrotic damage.\
+    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
+    \ damage taken, and Volenta regains hit points equal to that amount. The reduction\
+    \ lasts until the target finishes a long rest. The target dies if this effect\
+    \ reduces its hit point maximum to 0."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) slashing damage. Instead of dealing\
-    \ damage, Volenta can grapple the target (escape DC 13)."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) slashing damage. Instead of dealing damage,\
+    \ Volenta can grapple the target (escape DC 13)."
   "name": "Claws"
 "source":
 - "CoS"
 "image": "compendium/bestiary/npc/token/volenta-popofsky.png"
 ```
 ^statblock
-
-## Environment
-
-underdark, urban

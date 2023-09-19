@@ -70,8 +70,8 @@ An ooze doesn't require sleep.
   "name": "Spider Climb"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) bludgeoning damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) acid damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage plus dice: 1d6|avg\
+    \ (1d6) acid damage."
   "name": "Pseudopod"
 "reactions":
 - "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\

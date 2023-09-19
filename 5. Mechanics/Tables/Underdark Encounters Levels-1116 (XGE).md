@@ -12,8 +12,8 @@ aliases: ["Underdark Encounters (Levels 11—16)"]
 
 **Underdark Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Monstrosity/Carrion Crawler.md\|carrion crawlers]] |
 | 03-04 | `dice: 1d6 + 1\|avg` (`1d6 + 1`) [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md\|gelatinous cubes]] |
 | 05-06 | `dice: 1d8 + 2\|avg` (`1d8 + 2`) [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md\|gibbering mouthers]] |

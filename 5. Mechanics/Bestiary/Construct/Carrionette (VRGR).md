@@ -46,9 +46,9 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
   "name": "Unusual Nature"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 1 piercing damage plus 3 (dice: 1d6|avg (1d6)) necrotic damage, and\
-    \ the target must succeed on a DC 12 Charisma saving throw or become cursed for\
-    \ 1 minute. While cursed in this way, the target's speed is reduced by 10 feet,\
+    \ Hit: 1 piercing damage plus dice: 1d6|avg (1d6) necrotic damage, and the\
+    \ target must succeed on a DC 12 Charisma saving throw or become cursed for 1\
+    \ minute. While cursed in this way, the target's speed is reduced by 10 feet,\
     \ and it must roll a dice: 1d4|avg (1d4) and subtract the number rolled from\
     \ each ability check or attack roll it makes."
   "name": "Silver Needle"

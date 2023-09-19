@@ -12,6 +12,7 @@ aliases: ["Staff of Frost"]
 ---
 # Staff of Frost
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-frost.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

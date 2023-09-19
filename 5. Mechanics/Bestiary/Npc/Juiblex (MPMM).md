@@ -80,26 +80,26 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 - "desc": "Juiblex makes three Acid Lash attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+14 (+14 to hit), reach 10\
-    \ ft. or range 60/120 ft., one target. Hit: 21 (dice: 4d6 + 7|avg (4d6 +\
-    \ 7)) acid damage. Any creature killed by this attack is drawn into Juiblex's\
-    \ body, where the corpse is dissolved after 1 minute."
+    \ ft. or range 60/120 ft., one target. Hit: dice: 4d6 + 7|avg (4d6 + 7)\
+    \ acid damage. Any creature killed by this attack is drawn into Juiblex's body,\
+    \ where the corpse is dissolved after 1 minute."
   "name": "Acid Lash"
 - "desc": "Juiblex spews out a corrosive slime, targeting one creature that it can\
     \ see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving\
-    \ throw or take 55 (dice: 10d10|avg (10d10)) acid damage. Unless the target\
-    \ avoids taking all of this damage, any metal armor worn by the target takes a\
-    \ permanent −1 penalty to the AC it offers, and any metal weapon the target is\
-    \ carrying or wearing takes a permanent −1 penalty to damage rolls. The penalty\
-    \ worsens each time a target is subjected to this effect. If the penalty on an\
-    \ object drops to −5, the object is destroyed. The penalty on an object can be\
-    \ removed by the [[5. Mechanics/Spells/Mending.md|mending]] spell."
+    \ throw or take dice: 10d10|avg (10d10) acid damage. Unless the target avoids\
+    \ taking all of this damage, any metal armor worn by the target takes a permanent\
+    \ −1 penalty to the AC it offers, and any metal weapon the target is carrying\
+    \ or wearing takes a permanent −1 penalty to damage rolls. The penalty worsens\
+    \ each time a target is subjected to this effect. If the penalty on an object\
+    \ drops to −5, the object is destroyed. The penalty on an object can be removed\
+    \ by the [[5. Mechanics/Spells/Mending.md|mending]] spell."
   "name": "Eject Slime (Recharge 5-6)"
 "legendary_actions":
 - "desc": "Juiblex makes one Acid Lash attack."
   "name": "Attack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 10 ft., one creature.\
-    \ Hit: 21 (dice: 4d6 + 7|avg (4d6 + 7)) poison damage, and the target is\
-    \ slimed. Until the slime is scraped off with an action, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+    \ Hit: dice: 4d6 + 7|avg (4d6 + 7) poison damage, and the target is slimed.\
+    \ Until the slime is scraped off with an action, the target is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
     \ and any creature, other than an Ooze, is [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
     \ while within 10 feet of the target."
   "name": "Corrupting Touch (Costs 2 Actions)"

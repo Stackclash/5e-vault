@@ -251,6 +251,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,

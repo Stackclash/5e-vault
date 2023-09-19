@@ -12,8 +12,8 @@ aliases: ["Elf Names – Male Adult"]
 
 **Elf Names – Male Adult**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adran |
 | 03-04 | Aelar |
 | 05-06 | Aerdeth |

@@ -12,8 +12,8 @@ aliases: ["Human Names – English, Female"]
 
 **Human Names – English, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adelaide |
 | 03-04 | Agatha |
 | 05-06 | Agnes |

@@ -71,8 +71,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3) necrotic damage)."
   "name": "Deathly Claw"
 - "desc": "Ranged Spell Attack: dice: d20+6 (+6 to hit), range 120 ft., one target.\
-    \ Hit: 13 (dice: 3d8|avg (3d8)) necrotic damage. If the target is Large\
-    \ or smaller, it must succeed on a DC 16 Strength saving throw or become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
+    \ Hit: dice: 3d8|avg (3d8) necrotic damage. If the target is Large or smaller,\
+    \ it must succeed on a DC 16 Strength saving throw or become [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ as shadowy tendrils wrap around it for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ target can use its action to repeat the saving throw, ending the effect on itself\
     \ on a success."

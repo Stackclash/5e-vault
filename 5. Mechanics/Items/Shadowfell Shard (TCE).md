@@ -10,6 +10,7 @@ aliases: ["Shadowfell Shard"]
 ---
 # Shadowfell Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
+![[5. Mechanics/Items/img/shadowfell-shard.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

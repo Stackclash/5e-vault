@@ -61,13 +61,13 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - "desc": "The warlock makes two Rapier attacks, or it uses Bewildering Word twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage plus 7 (dice: 2d6|avg\
-    \ (2d6)) piercing damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage plus dice: 2d6|avg\
+    \ (2d6) piercing damage."
   "name": "Rapier"
 - "desc": "The warlock utters a magical bewilderment, targeting one creature it can\
     \ see within 60 feet of it. The target must succeed on a DC 14 Wisdom saving throw\
-    \ or take 9 (dice: 2d8|avg (2d8)) psychic damage and have disadvantage on\
-    \ attack rolls until the end of the warlock's next turn."
+    \ or take dice: 2d8|avg (2d8) psychic damage and have disadvantage on attack\
+    \ rolls until the end of the warlock's next turn."
   "name": "Bewildering Word"
 "reactions":
 - "desc": "In response to taking damage, the warlock turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\

@@ -2,20 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/mountain
-- monster/environment/underdark
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Ismark Kolyanovich"]
 ---
 # Ismark Kolyanovich
-*Source: Curse of Strahd p. 43, Derived from Veteran (MM)*  
+*Source: Curse of Strahd p. 43, Derived from *  
 
 ```statblock
 "name": "Ismark Kolyanovich"
@@ -45,21 +37,17 @@ aliases: ["Ismark Kolyanovich"]
     \ also make a shortsword attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) slashing damage, or 8 (dice: 1d10\
-    \ + 3|avg (1d10 + 3)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage, or dice: 1d10 + 3|avg\
+    \ (1d10 + 3) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+3 (+3 to hit), range 100/400 ft., one\
-    \ target. Hit: 6 (dice: 1d10 + 1|avg (1d10 + 1)) piercing damage."
+    \ target. Hit: dice: 1d10 + 1|avg (1d10 + 1) piercing damage."
   "name": "Heavy Crossbow"
 "source":
 - "CoS"
 "image": "compendium/bestiary/npc/token/ismark-kolyanovich.png"
 ```
 ^statblock
-
-## Environment
-
-coastal, mountain, grassland, hill, arctic, urban, forest, underdark

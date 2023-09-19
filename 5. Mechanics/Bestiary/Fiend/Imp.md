@@ -13,7 +13,7 @@ Imps are found throughout the Lower Planes, either running errands for their inf
 
 An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]], attacking with its poison stinger.
 
-> [!quote] Variant: Imp Familiar
+> [!note] Variant: Imp Familiar
 > 
 > Imps can be found in the service to mortal spellcasters, acting as advisors, spies, and familiars. An imp urges its master to acts of evil, knowing the mortal's soul is a prize the imp might ultimately claim. Imps display an unusual loyalty to their masters, and an imp can be quite dangerous if its master is threatened. Some such imps have the following trait.
 > 
@@ -114,7 +114,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -123,7 +123,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -183,9 +183,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   "name": "Magic Resistance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) piercing damage, and the target must\
-    \ make a DC 11 Constitution saving throw, taking 10 (dice: 3d6|avg (3d6))\
-    \ poison damage on a failed save, or half as much damage on a successful one."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) piercing damage, and the target must\
+    \ make a DC 11 Constitution saving throw, taking dice: 3d6|avg (3d6) poison\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sting (Bite in Beast Form)"
 - "desc": "The imp magically turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\
     \ until it attacks, or until its [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]]\

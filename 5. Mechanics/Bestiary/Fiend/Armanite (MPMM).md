@@ -48,21 +48,21 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
     \ Tail attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d4 + 5|avg (2d4 + 5)) slashing damage plus 9 (dice: 2d8|avg\
-    \ (2d8)) lightning damage."
+    \ Hit: dice: 2d4 + 5|avg (2d4 + 5) slashing damage plus dice: 2d8|avg\
+    \ (2d8) lightning damage."
   "name": "Claw"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage. If the target\
-    \ is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage. If the target is\
+    \ a Large or smaller creature, it must succeed on a DC 16 Strength saving throw\
     \ or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hooves"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) slashing damage."
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) slashing damage."
   "name": "Serrated Tail"
 - "desc": "The armanite looses a bolt of lightning in a line that is 60 feet long\
     \ and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving\
-    \ throw, taking 36 (dice: 8d8|avg (8d8)) lightning damage on a failed save,\
-    \ or half as much damage on a successful one."
+    \ throw, taking dice: 8d8|avg (8d8) lightning damage on a failed save, or\
+    \ half as much damage on a successful one."
   "name": "Lightning Lance (Recharge 5-6)"
 "source":
 - "MPMM"

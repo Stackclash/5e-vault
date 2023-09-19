@@ -74,36 +74,36 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     \ one use of Fling."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 5 ft., one target.\
-    \ Hit: 23 (dice: 3d8 + 10|avg (3d8 + 10)) piercing damage. If the target\
-    \ is a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ Hit: dice: 3d8 + 10|avg (3d8 + 10) piercing damage. If the target is a\
+    \ Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the kraken, that creature is swallowed, and the grapple ends. While swallowed,\
     \ the creature is [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ it has total cover against attacks and other effects outside the kraken, and\
-    \ it takes 42 (dice: 12d6|avg (12d6)) acid damage at the start of each of\
-    \ the kraken's turns. If the kraken takes 50 damage or more on a single turn from\
-    \ a creature inside it, the kraken must succeed on a DC 25 Constitution saving\
-    \ throw at the end of that turn or regurgitate all swallowed creatures, which\
-    \ fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in a space within 10 feet\
-    \ of the kraken. If the kraken dies, a swallowed creature is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ by it and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ it takes dice: 12d6|avg (12d6) acid damage at the start of each of the kraken's\
+    \ turns. If the kraken takes 50 damage or more on a single turn from a creature\
+    \ inside it, the kraken must succeed on a DC 25 Constitution saving throw at the\
+    \ end of that turn or regurgitate all swallowed creatures, which fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
+    \ in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature\
+    \ is no longer [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]] by it\
+    \ and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 30 ft., one target.\
-    \ Hit: 20 (dice: 3d6 + 10|avg (3d6 + 10)) bludgeoning damage, and the target\
+    \ Hit: dice: 3d6 + 10|avg (3d6 + 10) bludgeoning damage, and the target\
     \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 18). Until\
     \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ The kraken has ten tentacles, each of which can grapple one target."
   "name": "Tentacle"
 - "desc": "One Large or smaller object held or creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the kraken is thrown up to 60 feet in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \ If a thrown target strikes a solid surface, the target takes 3 (dice: 1d6|avg\
-    \ (1d6)) bludgeoning damage for every 10 feet it was thrown. If the target is\
+    \ If a thrown target strikes a solid surface, the target takes dice: 1d6|avg\
+    \ (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is\
     \ thrown at another creature, that creature must succeed on a DC 18 Dexterity\
     \ saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Fling"
 - "desc": "The kraken magically creates three bolts of lightning, each of which can\
     \ strike a target the kraken can see within 120 feet of it. A target must make\
-    \ a DC 23 Dexterity saving throw, taking 22 (dice: 4d10|avg (4d10)) lightning\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ a DC 23 Dexterity saving throw, taking dice: 4d10|avg (4d10) lightning damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Lightning Storm"
 "legendary_actions":
 - "desc": "The kraken makes one tentacle attack or uses its Fling."
@@ -113,8 +113,8 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 - "desc": "While underwater, the kraken expels an ink cloud in a 60-foot radius. The\
     \ cloud spreads around corners, and that area is heavily obscured to creatures\
     \ other than the kraken. Each creature other than the kraken that ends its turn\
-    \ there must succeed on a DC 23 Constitution saving throw, taking 16 (dice: 3d10|avg\
-    \ (3d10)) poison damage on a failed save, or half as much damage on a successful\
+    \ there must succeed on a DC 23 Constitution saving throw, taking dice: 3d10|avg\
+    \ (3d10) poison damage on a failed save, or half as much damage on a successful\
     \ one. A strong current disperses the cloud, which otherwise disappears at the\
     \ end of the kraken's next turn."
   "name": "Ink Cloud (Costs 3 Actions)"

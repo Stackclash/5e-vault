@@ -50,7 +50,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "cr": "6"
 "traits":
 - "desc": "Any creature that starts its turn within 10 feet of the zombie must succeed\
-    \ on a DC 14 Constitution saving throw or take 9 (dice: 2d8|avg (2d8)) poison\
+    \ on a DC 14 Constitution saving throw or take dice: 2d8|avg (2d8) poison\
     \ damage and be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] until the\
     \ start of the creature's next turn."
   "name": "Deathly Stench"
@@ -64,17 +64,17 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 - "desc": "The zombie makes two Slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage."
   "name": "Slam"
 - "desc": "The zombie flings a detached clump of corpses at a creature it can see\
     \ within 30 feet of it. The target must succeed on a DC 16 Strength saving throw\
-    \ or take 16 (dice: 3d10|avg (3d10)) bludgeoning damage, and if the target\
-    \ is a Large or smaller creature, it becomes entombed in dead flesh.\n\nA creature\
+    \ or take dice: 3d10|avg (3d10) bludgeoning damage, and if the target is a\
+    \ Large or smaller creature, it becomes entombed in dead flesh.\n\nA creature\
     \ entombed in the dead flesh is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ has total cover against attacks and other effects outside the dead flesh, and\
-    \ takes 10 (dice: 3d6|avg (3d6)) necrotic damage at the start of each of its\
-    \ turns. The creature can be freed if the dead flesh is destroyed. The dead flesh\
-    \ is a Large object with AC 10, 25 hit points, and immunity to poison and psychic\
+    \ takes dice: 3d6|avg (3d6) necrotic damage at the start of each of its turns.\
+    \ The creature can be freed if the dead flesh is destroyed. The dead flesh is\
+    \ a Large object with AC 10, 25 hit points, and immunity to poison and psychic\
     \ damage."
   "name": "Flesh Entomb (Recharge 5-6)"
 "source":

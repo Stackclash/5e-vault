@@ -12,8 +12,8 @@ aliases: ["Elf Names – Family"]
 
 **Elf Names – Family**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aloro |
 | 03-04 | Amakiir |
 | 05-06 | Amastacia |

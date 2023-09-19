@@ -12,7 +12,7 @@ You can run *Curse of Strahd* for 1st-level characters with the help of this opt
 
 Before the characters can explore the haunted townhouse known as Death House, you need to guide them to the village of Barovia. The "Creeping Fog" adventure hook in chapter 1 works best, as it introduces few distractions. Once the characters arrive in Strahd's domain, steer them to the village. For the duration of this introductory adventure, any attempt by the characters to explore other locations in Strahd's domain causes the mists of Ravenloft to block their path.
 
-> [!quote] Level Advancement
+> [!note] Level Advancement
 > 
 > In this mini-adventure, the characters gain levels by accomplishing specific goals, rather than by slaying monsters. These milestones are as follows:
 > 
@@ -38,7 +38,7 @@ The cult's habit of trapping and devouring wayward visitors proved to be its dow
 
 The characters are pulled into Strahd's domain by the mists of Ravenloft. Forced to follow a lonely road (area A), they eventually arrive at the village of Barovia (area E). Once they reach the village, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The gravel road leads to a village, its tall houses dark as tombstones. Nestled among these solemn dwellings are a handful of closed-up shops. Even the tavern is shut tight.
 > 
@@ -49,12 +49,12 @@ The children are ten-year-old Rosavalda ("Rose") and her seven-year-old brother,
 
 If the characters approach the children or call out to them, add the following:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > After shushing the boy, the girl turns to you and says, "There's a monster in our house!" She then points to a tall brick row house that has seen better days. Its windows are dark. It has a gated portico on the ground floor, and the rusty gate is slightly ajar. The houses on either side are abandoned, their windows and doors boarded up.
 ^6d3
 
-![[Thornboldt "Thorn" Durst]...](compendium/adventures/curse-of-strahd/img/133-cos17-01.png#center "[Thornboldt "Thorn" Durst](compendium/bestiary/npc/thornboldt-thorn-durst-cos.md) and [Rosavalda "Rose" Durst](compendium/bestiary/npc/rosavalda-rose-durst-cos.md)")
+![Thornboldt "Thorn" Durst a...](compendium/adventures/curse-of-strahd/img/133-cos17-01.png#center "Thornboldt "Thorn" Durst and Rosavalda "Rose" Durst")
 
 Characters who question the children learn the following information:
 
@@ -70,7 +70,7 @@ The children died of starvation centuries ago after their insane parents locked 
 
 Characters who remain outside the house can see the mists close in around them, swallowing up the rest of the village. As more buildings disappear into the mists, the characters are left with little choice but to seek refuge in the house. The mists stop short of entering the house but engulf anyone outside (see chapter 2, "The Lands of Barovia," for information on the mists' effect).
 
-> [!quote] Death House's Features
+> [!note] Death House's Features
 > 
 > Death House is aware of its surroundings and all creatures within it. Its goal is to continue the work of the cult by luring visitors to their doom. Various important features of the house are summarized here.
 > 
@@ -157,7 +157,7 @@ A dumbwaiter in the corner of the west wall has a button on the wall next to it.
 
 The master of the house used to spend many hours here before his descent into madness.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.
 ^6e2
@@ -178,7 +178,7 @@ A heavy wooden chest with clawed iron feet stands against the south wall, its li
 
 Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
 
-> [!quote] ...
+> [!note] 
 > 
 > My most pathetic servant,
 > 
@@ -279,7 +279,7 @@ This web-filled room contains a slender bed, a nightstand, a rocking chair, an e
 
 The door to this room is locked from the outside (see area 16 for details).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.
 ^6f9
@@ -293,7 +293,7 @@ The toy chest contains an assortment of stuffed animals and toys. Characters who
 If either the dollhouse or the chest is disturbed, the ghosts of [[5. Mechanics/Bestiary/Npc/Rosavalda Rose Durst (COS).md\|Rose]] and [[5. Mechanics/Bestiary/Npc/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
-- They have 35 (`dice: 10d6|avg` (`10d6`)) hit points each.  
+- They have `dice: 10d6|avg` (`10d6`) hit points each.  
 - They lack the Horrifying Visage action.  
 - They speak Common and have a challenge rating of 3 (700 XP).  
 
@@ -323,7 +323,7 @@ The secret door and shaft don't exist until the house reveals them, which can ha
 
 Once the house wills the secret door into existence, characters find it automatically if they search the wall (no ability check required). Characters who descend the spiral staircase end up in area 22.
 
-> [!quote] Dungeon Features
+> [!note] Dungeon Features
 > 
 > The dungeon level underneath Death House is carved out of earth, clay, and rock. The tunnels are 4 feet wide by 7 feet high with timber braces at 5-foot intervals. Rooms are 8 feet tall and supported by thick wooden posts with crossbeams. The only exception is area 38, which has a 16-foot-high ceiling supported by stone pillars. Characters without [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] must provide their own light sources, as the dungeon is unlit.
 > 
@@ -406,7 +406,7 @@ This room's chest contains a silvered [[5. Mechanics/Items/Shortsword.md\|shorts
 
 ### 26. Hidden Spiked Pit
 
-The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and taking 3 (`dice: 1d6|avg` (`1d6`)) bludgeoning damage from the fall plus 11 (`dice: 2d10|avg` (`2d10`)) piercing damage from the spikes.
+The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#prone\|prone]] and taking `dice: 1d6|avg` (`1d6`) bludgeoning damage from the fall plus `dice: 2d10|avg` (`2d10`) piercing damage from the spikes.
 
 ### 27. Dining Hall
 
@@ -428,7 +428,7 @@ It's obvious to any character standing at the top of this 20-foot-long staircase
 
 ### 31. Darklord's Shrine
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room is festooned with moldy skeletons that hang from rusty shackles against the walls. A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands next to him. In his right hand, he holds a smoky-gray crystal orb.
 > 
@@ -519,7 +519,7 @@ This tunnel is blocked by a rusty iron portcullis that can be forcibly lifted wi
 
 The cult used to perform rituals in this sunken room. The chanting heard throughout the dungeon originates here, yet when the characters arrive, the dungeon falls silent as the chanting mysteriously stops.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The chanting stops as you peer into this forty-foot-square room. The smooth masonry walls provide excellent acoustics. Featureless stone pillars support the ceiling, and a breach in the west wall leads to a dark cave heaped with refuse. Murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood.
 ^725
@@ -534,7 +534,7 @@ The hole in the west wall leads to a naturally formed alcove. The half-submerged
 
 If any character climbs to the top of the dais, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The chanting rises once more as thirteen dark apparitions appear on the ledges overlooking the room. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids.
 > 

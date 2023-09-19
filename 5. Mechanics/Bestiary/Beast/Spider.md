@@ -42,7 +42,7 @@ aliases: ["Spider"]
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
     \ Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution\
-    \ saving throw or take 2 (dice: 1d4|avg (1d4)) poison damage."
+    \ saving throw or take dice: 1d4|avg (1d4) poison damage."
   "name": "Bite"
 "source":
 - "MM"

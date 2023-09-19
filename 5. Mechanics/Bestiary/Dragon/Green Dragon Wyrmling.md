@@ -133,13 +133,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   "name": "Amphibious"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) poison damage."
+    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage plus dice: 1d6|avg\
+    \ (1d6) poison damage."
   "name": "Bite"
 - "desc": "The dragon exhales poisonous gas in a 15-foot cone. Each creature in that\
-    \ area must make a DC 11 Constitution saving throw, taking 21 (dice: 6d6|avg\
-    \ (6d6)) poison damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ area must make a DC 11 Constitution saving throw, taking dice: 6d6|avg (6d6)\
+    \ poison damage on a failed save, or half as much damage on a successful one."
   "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "MM"

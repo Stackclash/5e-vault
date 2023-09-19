@@ -12,8 +12,8 @@ aliases: ["Human Names – Chinese, Male"]
 
 **Human Names – Chinese, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Bingwen |
 | 03-04 | Bo |
 | 05-06 | Bolin |

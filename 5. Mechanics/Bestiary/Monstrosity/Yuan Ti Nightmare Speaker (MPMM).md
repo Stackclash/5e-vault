@@ -63,27 +63,27 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
     \ two Spectral Fangs attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it\
-    \ is a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it is\
+    \ a Large or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]].\
     \ The yuan-ti can constrict only one creature at a time."
   "name": "Constrict"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Scimitar (Yuan-ti Form Only)"
 - "desc": "Ranged Spell Attack: dice: d20+5 (+5 to hit), range 120 ft., one target.\
-    \ Hit: 16 (dice: 3d8 + 3|avg (3d8 + 3)) necrotic damage."
+    \ Hit: dice: 3d8 + 3|avg (3d8 + 3) necrotic damage."
   "name": "Spectral Fangs"
 - "desc": "The yuan-ti taps into the nightmares of one creature it can see within\
     \ 60 feet of it and creates an illusory, immobile manifestation of the creature's\
     \ deepest fears, visible only to that creature.\n\nThe target must make a DC 13\
-    \ Intelligence saving throw. On a failed save, the target takes 22 (dice: 4d10|avg\
-    \ (4d10)) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
+    \ Intelligence saving throw. On a failed save, the target takes dice: 4d10|avg\
+    \ (4d10) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\
     \ of the manifestation, believing it to be real. The yuan-ti must concentrate\
     \ to maintain the illusion (as if concentrating on a spell), which lasts for up\
     \ to 1 minute and can't be harmed. The target can repeat the saving throw at the\
-    \ end of each of its turns, ending the illusion on a success or taking 11 (dice:\
-    \ 2d10|avg (2d10)) psychic damage on a failure."
+    \ end of each of its turns, ending the illusion on a success or taking dice:\
+    \ 2d10|avg (2d10) psychic damage on a failure."
   "name": "Invoke Nightmare (Recharges after a Short or Long Rest)"
 "bonus_actions":
 - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\

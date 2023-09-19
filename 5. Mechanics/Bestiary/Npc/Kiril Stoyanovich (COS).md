@@ -2,15 +2,13 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/forest
-- monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
 aliases: ["Kiril Stoyanovich"]
 ---
 # Kiril Stoyanovich
-*Source: Curse of Strahd p. 203, Derived from Werewolf (MM)*  
+*Source: Curse of Strahd p. 203, Derived from *  
 
 ```statblock
 "name": "Kiril Stoyanovich"
@@ -51,24 +49,20 @@ aliases: ["Kiril Stoyanovich"]
     \ its bite and one with its claws (hybrid form)."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed\
-    \ with werewolf lycanthropy."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage. If the target is a humanoid,\
+    \ it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf\
+    \ lycanthropy."
   "name": "Bite (Wolf or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage."
   "name": "Claws (Hybrid Form Only)"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one creature. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2))\
-    \ piercing damage, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage if used\
-    \ with two hands to make a melee attack."
+    \ or range 20/60 ft., one creature. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+    \ hands to make a melee attack."
   "name": "Spear (Humanoid Form Only)"
 "source":
 - "CoS"
 "image": "compendium/bestiary/npc/token/kiril-stoyanovich.png"
 ```
 ^statblock
-
-## Environment
-
-forest, hill

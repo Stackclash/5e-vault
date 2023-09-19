@@ -37,7 +37,7 @@ Acererak or another demilich like him has a challenge rating of 21 (33,000 XP), 
 
 ### Trap Soul
 
-The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes 24 (`dice: 7d6|avg` (`7d6`)) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
+The demilich targets one creature that it can see within 30 feet of it. The target must make a DC 19 Charisma saving throw. On a failed save, the target's soul is magically trapped inside one of the demilich's gems. While the soul is trapped, the target's body and all the equipment it is carrying cease to exist. On a successful save, the target takes `dice: 7d6|avg` (`7d6`) necrotic damage, and if this damage reduces the target to 0 hit points, its soul is trapped as if it failed the saving throw. A soul trapped in a gem for 24 hours is devoured and ceases to exist.
 
 If the demilich drops to 0 hit points, it is destroyed and turns to powder, leaving behind its gems. Crushing a gem releases any soul trapped within, at which point the target's body re-forms in an unoccupied space nearest to the gem and in the same state as when it was trapped.
 
@@ -92,7 +92,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Howl (Recharge 5-6)"
 - "desc": "The demilich targets up to three creatures that it can see within 10 feet\
     \ of it. Each target must succeed on a DC 19 Constitution saving throw or take\
-    \ 21 (dice: 6d6|avg (6d6)) necrotic damage, and the demilich regains hit points\
+    \ dice: 6d6|avg (6d6) necrotic damage, and the demilich regains hit points\
     \ equal to the total damage dealt to all targets."
   "name": "Life Drain"
 "legendary_actions":
@@ -106,9 +106,9 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   "name": "Cloud of Dust"
 - "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
     \ saving throw. On a failed save, the creature's hit point maximum is magically\
-    \ reduced by 10 (dice: 3d6|avg (3d6)). If a creature's hit point maximum is\
-    \ reduced to 0 by this effect, the creature dies. A creature's hit point maximum\
-    \ can be restored with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+    \ reduced by dice: 3d6|avg (3d6). If a creature's hit point maximum is reduced\
+    \ to 0 by this effect, the creature dies. A creature's hit point maximum can be\
+    \ restored with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
     \ spell or similar magic."
   "name": "Energy Drain (Costs 2 Actions)"
 - "desc": "The demilich targets one creature it can see within 30 feet of it. The\

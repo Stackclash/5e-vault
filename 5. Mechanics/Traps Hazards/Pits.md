@@ -33,6 +33,6 @@ In some cases, a mechanism (usually hidden behind a secret door nearby) opens th
 
 ## Spiked Pit
 
-This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (`dice: 2d10|avg` (`2d10`)) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an 22 (`dice: 4d10|avg` (`4d10`)) poison damage on a failed save, or half as much damage on a successful one.
+This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes `dice: 2d10|avg` (`2d10`) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an `dice: 4d10|avg` (`4d10`) poison damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 122. Available in the SRD.*

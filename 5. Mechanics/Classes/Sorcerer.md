@@ -151,8 +151,8 @@ Does your character know the source of your magical power? Does it tie back to s
 
 **Arcane Origins**
 
-| `dice: d6\|avg` (`d6`) | Origin |
-|-----------|------------|--------|
+| dice: d6 | Origin |
+|----------|--------|
 | 1 | Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse. |
 | 2 | You are the reincarnation of a being from another plane of existence. |
 | 3 | A powerful entity entered the world. Its magic changed you. |
@@ -170,8 +170,8 @@ When your sorcerer's powers appeared, how did the world around you respond? Were
 
 **Reactions**
 
-| `dice: d6\|avg` (`d6`) | Reaction |
-|-----------|------------|----------|
+| dice: d6 | Reaction |
+|----------|----------|
 | 1 | Your powers are seen as a great blessing by those around you, and you are expected to use them in service to your community. |
 | 2 | Your powers caused destruction and even a death when they became evident, and you were treated as a criminal. |
 | 3 | Your neighbors hate and fear your power, causing them to shun you. |
@@ -189,8 +189,8 @@ If your sorcerer has a supernatural mark, it might be one that's easily conceale
 
 **Supernatural Marks**
 
-| `dice: d6\|avg` (`d6`) | Mark |
-|-----------|------------|------|
+| dice: d6 | Mark |
+|----------|------|
 | 1 | Your eyes are an unusual color, such as red. |
 | 2 | You have an extra toe on one foot. |
 | 3 | One of your ears is noticeably larger than the other. |
@@ -208,8 +208,8 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 
 **Signs of Sorcery**
 
-| `dice: d6\|avg` (`d6`) | Sign |
-|-----------|------------|------|
+| dice: d6 | Sign |
+|----------|------|
 | 1 | You deliver the verbal components of your spells in the booming voice of a titan. |
 | 2 | For a moment after you cast a spell, the area around you grows dark and gloomy. |
 | 3 | You sweat profusely while casting a spell and for a few seconds thereafter. |

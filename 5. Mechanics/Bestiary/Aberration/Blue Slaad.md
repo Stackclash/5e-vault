@@ -29,7 +29,7 @@ Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanti
 
 Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
 
-> [!quote] Variant: Slaad Control Gems
+> [!note] Variant: Slaad Control Gems
 > 
 > As a slaad emerges from the Spawning Stone, the stone magically implants a fragment of itself in the slaad's brain. This fragment takes the form of a magic gem roughly the size and shape of a human child's fist. The gem is the same color as the slaad. Another creature can use magic to draw forth a slaad's gem and use it to subjugate the slaad. The slaad must obey whoever possesses its gem. If a slaad's gem is destroyed, the slaad can no longer be controlled in this way.
 > 
@@ -41,7 +41,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals 22 (`dice: 4d10|avg` (`4d10`)) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice: 4d10|avg` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -82,16 +82,16 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) piercing damage."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage. If the target is\
-    \ a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected\
-    \ with a disease called chaos phage. While infected, the target can't regain hit\
-    \ points, and its hit point maximum is reduced by 10 (dice: 3d6|avg (3d6))\
-    \ every 24 hours. If the disease reduces the target's hit point maximum to 0,\
-    \ the target instantly transforms into a [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|red slaad]]\
-    \ or, if it has the ability to cast spells of 3rd level or higher, a [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|green slaad]].\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage. If the target is a humanoid,\
+    \ it must succeed on a DC 15 Constitution saving throw or be infected with a disease\
+    \ called chaos phage. While infected, the target can't regain hit points, and\
+    \ its hit point maximum is reduced by dice: 3d6|avg (3d6) every 24 hours.\
+    \ If the disease reduces the target's hit point maximum to 0, the target instantly\
+    \ transforms into a [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|red slaad]] or,\
+    \ if it has the ability to cast spells of 3rd level or higher, a [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|green slaad]].\
     \ Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can reverse the transformation."
   "name": "Claw"
 "source":

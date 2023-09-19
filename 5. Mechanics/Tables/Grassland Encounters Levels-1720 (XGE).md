@@ -12,8 +12,8 @@ aliases: ["Grassland Encounters (Levels 17—20)"]
 
 **Grassland Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-10 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Beast/Triceratops.md\|triceratopses]] |
 | 11-20 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Monstrosity/Gorgon.md\|gorgons]] |
 | 21-25 | `dice: 2d6\|avg` (`2d6`) [[5. Mechanics/Bestiary/Beast/Hyena.md\|hyenas]] feeding on the carcass of a dead dinosaur |

@@ -10,6 +10,7 @@ aliases: ["Manual of Quickness of Action"]
 ---
 # Manual of Quickness of Action
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/manual-of-quickness-of-action.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

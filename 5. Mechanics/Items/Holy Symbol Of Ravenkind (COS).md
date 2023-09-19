@@ -10,6 +10,7 @@ aliases: ["Holy Symbol of Ravenkind"]
 ---
 # Holy Symbol of Ravenkind
 *Wondrous Item, legendary (requires attunement by a cleric or paladin of good alignment)*  
+![[5. Mechanics/Items/img/holy-symbol-of-ravenkind.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

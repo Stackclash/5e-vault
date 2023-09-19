@@ -59,11 +59,11 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "cr": "1"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d8 + 2|avg (2d8 + 2)) piercing damage."
+    \ Hit: dice: 2d8 + 2|avg (2d8 + 2) piercing damage."
   "name": "Bite"
 - "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
-    \ on a DC 11 Dexterity saving throw or take 11 (dice: 2d10|avg (2d10)) acid\
-    \ damage and fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in the spew."
+    \ on a DC 11 Dexterity saving throw or take dice: 2d10|avg (2d10) acid damage\
+    \ and fall [[/5. Mechanics/Rules/Conditions.md#prone|prone]] in the spew."
   "name": "Disgorge (Recharge 6)"
 "source":
 - "MPMM"

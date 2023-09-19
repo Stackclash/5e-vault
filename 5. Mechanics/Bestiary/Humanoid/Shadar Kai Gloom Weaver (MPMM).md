@@ -76,10 +76,9 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     \ with a use of Spellcasting."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft.\
-    \ or range 30/120, one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing\
-    \ damage plus 26 (dice: 4d12|avg (4d12)) necrotic damage. Hit or Miss: The\
-    \ spear magically returns to the shadar-kai's hand immediately after a ranged\
-    \ attack."
+    \ or range 30/120, one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing\
+    \ damage plus dice: 4d12|avg (4d12) necrotic damage. Hit or Miss: The spear\
+    \ magically returns to the shadar-kai's hand immediately after a ranged attack."
   "name": "Shadow Spear"
 "reactions":
 - "desc": "When the shadar-kai takes damage, it turns [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]]\

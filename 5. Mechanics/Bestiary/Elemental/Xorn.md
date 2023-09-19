@@ -60,10 +60,10 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 - "desc": "The xorn makes three claw attacks and one bite attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 3d6 + 3|avg (3d6 + 3)) piercing damage."
+    \ Hit: dice: 3d6 + 3|avg (3d6 + 3) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Claw"
 "source":
 - "MM"

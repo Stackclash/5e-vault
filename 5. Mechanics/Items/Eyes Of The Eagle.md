@@ -11,6 +11,7 @@ aliases: ["Eyes of the Eagle"]
 ---
 # Eyes of the Eagle
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/eyes-of-the-eagle.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

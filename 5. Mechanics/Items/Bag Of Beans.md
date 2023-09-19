@@ -10,6 +10,7 @@ aliases: ["Bag of Beans"]
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  
+![[5. Mechanics/Items/img/bag-of-beans.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 0.5 lbs.
@@ -20,8 +21,8 @@ If you dump the bag's contents out on the ground, they explode in a 10-foot radi
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The DM can choose an effect from the following table, determine it randomly, or create an effect.
 
-| `dice: d100\|avg` (`d100`) | Effect |
-|-------------|--------------|--------|
+| dice: d100 | Effect |
+|------------|--------|
 | 01 | `dice: 5d4\|avg` (`5d4`) toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take `dice: 5d6\|avg` (`5d6`) poison damage and become [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 1 hour. On an even roll, the eater gains `dice: 5d6\|avg` (`5d6`) temporary hit points for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (DM's choice) 30 feet into the air for `dice: 1d12\|avg` (`1d12`) rounds. |
 | 11-20 | A [[5. Mechanics/Bestiary/Plant/Treant.md\|treant]] sprouts. There's a 50% chance chance that the treant is chaotic evil and attacks. |
@@ -34,6 +35,6 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 81-90 | A nest of `dice: 1d4 + 3\|avg` (`1d4 + 3`) eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes `dice: 10d6\|avg` (`10d6`) force damage from an internal magical explosion. |
 | 91-99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a [[5. Mechanics/Bestiary/Undead/Mummy Lord.md\|mummy lord]]. The pyramid is treated as the [[5. Mechanics/Bestiary/Undead/Mummy Lord.md\|mummy lord's]] lair, and its sarcophagus contains treasure of the DM's choice. |
 | 00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a [[5. Mechanics/Bestiary/Giant/Cloud Giant.md\|cloud giant's]] castle, or a different plane of existence. |
-^dice-avg-effect
+^effect
 
 *Source: Dungeon Master's Guide p. 152. Available in the SRD.*

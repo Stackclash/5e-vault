@@ -12,8 +12,8 @@ aliases: ["Underdark Encounters (Levels 5—10)"]
 
 **Underdark Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
 | 02 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] or `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|giant toads]] |
 | 03 | 1 [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] |

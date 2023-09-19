@@ -62,11 +62,11 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 - "desc": "The giant makes two Lightning Sword attacks, or it uses Wind Javelin twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
-    \ Hit: 40 (dice: 9d6 + 9|avg (9d6 + 9)) lightning damage."
+    \ Hit: dice: 9d6 + 9|avg (9d6 + 9) lightning damage."
   "name": "Lightning Sword"
 - "desc": "The giant coalesces wind into a javelin-like form and hurls it at a creature\
-    \ it can see within 600 feet of it. The javelin deals 19 (dice: 3d6 + 9|avg\
-    \ (3d6 + 9)) force damage to the target, striking unerringly. The javelin disappears\
+    \ it can see within 600 feet of it. The javelin deals dice: 3d6 + 9|avg (3d6\
+    \ + 9) force damage to the target, striking unerringly. The javelin disappears\
     \ after it hits."
   "name": "Wind Javelin"
 "legendary_actions":
@@ -76,9 +76,9 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
     \ chooses."
   "name": "Gust"
 - "desc": "The giant hurls a thunderbolt at a creature it can see within 600 feet\
-    \ of it. The target must make a DC 18 Dexterity saving throw, taking 22 (dice:\
-    \ 4d10|avg (4d10)) thunder damage on a failed save, or half as much damage\
-    \ on a successful one."
+    \ of it. The target must make a DC 18 Dexterity saving throw, taking dice: 4d10|avg\
+    \ (4d10) thunder damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Thunderbolt (Costs 2 Actions)"
 - "desc": "The giant vanishes, dispersing itself into the storm surrounding its lair.\
     \ The giant can end this effect at the start of any of its turns, becoming a giant\

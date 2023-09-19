@@ -2,13 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Donavich"]
 ---
 # Donavich
-*Source: Curse of Strahd p. 46, Derived from Acolyte (MM)*  
+*Source: Curse of Strahd p. 46, Derived from *  
 
 ```statblock
 "name": "Donavich"
@@ -43,14 +42,10 @@ aliases: ["Donavich"]
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
   "name": "Club"
 "source":
 - "CoS"
 "image": "5. Mechanics/Bestiary/Npc/token/donavich.png"
 ```
 ^statblock
-
-## Environment
-
-urban

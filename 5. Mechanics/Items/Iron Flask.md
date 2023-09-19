@@ -10,6 +10,7 @@ aliases: ["Iron Flask"]
 ---
 # Iron Flask
 *Wondrous Item, major, legendary*  
+![[5. Mechanics/Items/img/iron-flask.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.
@@ -20,8 +21,8 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the DM or determined randomly.
 
-| `dice: d100\|avg` (`d100`) | Contents |
-|-------------|--------------|----------|
+| dice: d100 | Contents |
+|------------|----------|
 | 01-50 | Empty |
 | 51 | [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|Arcanaloth]] |
 | 52 | [[5. Mechanics/Bestiary/Fiend/Cambion.md\|Cambion]] |
@@ -52,6 +53,6 @@ An [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature i
 | 97-98 | [Succubus/Incubus](compendium/bestiary/fiend/succubus.md) |
 | 99 | [[5. Mechanics/Bestiary/Fiend/Ultroloth.md\|Ultroloth]] |
 | 00 | [[5. Mechanics/Bestiary/Elemental/Xorn.md\|Xorn]] |
-^dice-avg-contents
+^contents
 
 *Source: Dungeon Master's Guide p. 178. Available in the SRD.*

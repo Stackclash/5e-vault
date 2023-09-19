@@ -8,6 +8,7 @@ aliases: ["Hexblood"]
 ---
 # Hexblood
 *Source: Van Richten's Guide to Ravenloft p. 18*  
+![[5. Mechanics/Races/img/hexblood.png#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race
@@ -50,7 +51,7 @@ You can cast the [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] and [[5
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose the ability when you gain this lineage).
 
-> [!quote] Becoming a Hag
+> [!note] Becoming a Hag
 > 
 > Hags can undertake a ritual to irreversibly transform a hexblood they created into a new hag, either one of their own kind or that embodies the hexblood's nature. This requires that both the hag and hexblood be in the same place and consent to the lengthy ritual—circumstances most hexbloods shun but might come to accept over the course of centuries. Once a hexblood undergoes this irreversible ritual, they emerge as a hag NPC no longer under the control of the hexblood's player, unless the DM rules otherwise.
 ^becoming-a-hag

@@ -12,8 +12,8 @@ aliases: ["Tiefling Names – Male"]
 
 **Tiefling Names – Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abad |
 | 03-04 | Ahrim |
 | 05-06 | Akmen |

@@ -61,17 +61,17 @@ Once a loup garou is slain, a [[5. Mechanics/Spells/Remove Curse.md|remove curse
     \ or one with its Bite and one with its Claws (dire wolf or hybrid form)."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) piercing damage plus 14 (dice:\
-    \ 4d6|avg (4d6)) necrotic damage. If the target is a Humanoid, it must succeed\
-    \ on a DC 17 Constitution saving throw or be cursed with loup garou lycanthropy."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) piercing damage plus dice: 4d6|avg\
+    \ (4d6) necrotic damage. If the target is a Humanoid, it must succeed on a DC\
+    \ 17 Constitution saving throw or be cursed with loup garou lycanthropy."
   "name": "Bite (Dire Wolf or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. If the target is\
-    \ a creature, it must succeed on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. If the target is a creature,\
+    \ it must succeed on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Claws (Dire Wolf or Hybrid Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage, or 15 (dice: 2d10\
-    \ + 4|avg (2d10 + 4)) slashing damage if used with two hands."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage, or dice: 2d10 + 4|avg\
+    \ (2d10 + 4) slashing damage if used with two hands."
   "name": "Longsword (Humanoid Form Only)"
 "bonus_actions":
 - "desc": "The loup garou polymorphs into a Large wolf-humanoid hybrid or into a Large\

@@ -43,18 +43,18 @@ In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|av
   "name": "Unusual Nature"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage plus 7 (dice: 2d6|avg\
-    \ (2d6)) necrotic damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 2d6|avg\
+    \ (2d6) necrotic damage."
   "name": "Gnashing Bite (Gnashing Head Only)"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing damage plus 5 (dice: 1d10|avg\
-    \ (1d10)) necrotic damage, and the target must succeed on a DC 10 Intelligence\
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing damage plus dice: 1d10|avg\
+    \ (1d10) necrotic damage, and the target must succeed on a DC 10 Intelligence\
     \ saving throw or it can't take a reaction until the end of its next turn. Moreover,\
     \ on its next turn, the target must choose whether it gets a move, an action,\
     \ or a bonus action; it gets only one of the three."
   "name": "Mind-Bending Bite (Aberrant Head Only)"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage, and the target must\
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage, and the target must\
     \ succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
     \ as it begins to turn to stone. The target must repeat the saving throw at the\
     \ end of its next turn. On a success, the effect ends. On a failure, the target\

@@ -41,7 +41,7 @@ aliases: ["Hyena"]
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage."
+    \ Hit: dice: 1d6|avg (1d6) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

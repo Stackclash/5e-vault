@@ -78,17 +78,17 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
     \ He also uses Frightful Presence."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: 19 (dice: 2d8 + 10|avg (2d8 + 10)) piercing damage."
+    \ Hit: dice: 2d8 + 10|avg (2d8 + 10) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: 17 (dice: 2d6 + 10|avg (2d6 + 10)) piercing damage. If Baphomet moved\
+    \ Hit: dice: 2d6 + 10|avg (2d6 + 10) piercing damage. If Baphomet moved\
     \ at least 10 feet straight toward the target immediately before the hit, the\
-    \ target takes an extra 16 (dice: 3d10|avg (3d10)) piercing damage. If the\
-    \ target is a creature, it must succeed on a DC 25 Strength saving throw or be\
-    \ pushed up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ target takes an extra dice: 3d10|avg (3d10) piercing damage. If the target\
+    \ is a creature, it must succeed on a DC 25 Strength saving throw or be pushed\
+    \ up to 10 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Gore"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
-    \ Hit: 21 (dice: 2d10 + 10|avg (2d10 + 10)) force damage."
+    \ Hit: dice: 2d10 + 10|avg (2d10 + 10) force damage."
   "name": "Heartcleaver"
 - "desc": "Each creature of Baphomet's choice within 120 feet of him and aware of\
     \ him must succeed on a DC 18 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]\

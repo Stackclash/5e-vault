@@ -27,7 +27,7 @@ Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanti
 
 Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
 
-> [!quote] Variant: Slaad Control Gems
+> [!note] Variant: Slaad Control Gems
 > 
 > As a slaad emerges from the Spawning Stone, the stone magically implants a fragment of itself in the slaad's brain. This fragment takes the form of a magic gem roughly the size and shape of a human child's fist. The gem is the same color as the slaad. Another creature can use magic to draw forth a slaad's gem and use it to subjugate the slaad. The slaad must obey whoever possesses its gem. If a slaad's gem is destroyed, the slaad can no longer be controlled in this way.
 > 
@@ -39,7 +39,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals 22 (`dice: 4d10|avg` (`4d10`)) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice: 4d10|avg` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]-  
@@ -75,7 +75,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   "name": "Magic Resistance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

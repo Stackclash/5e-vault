@@ -39,8 +39,8 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "cr": "2"
 "traits":
 - "desc": "The poltergeist can move through other creatures and objects as if they\
-    \ were difficult terrain. It takes 5 (dice: 1d10|avg (1d10)) force damage\
-    \ if it ends its turn inside an object."
+    \ were difficult terrain. It takes dice: 1d10|avg (1d10) force damage if it\
+    \ ends its turn inside an object."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as\
     \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
@@ -50,7 +50,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
   "name": "Invisibility"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one creature.\
-    \ Hit: 10 (dice: 3d6|avg (3d6)) force damage."
+    \ Hit: dice: 3d6|avg (3d6) force damage."
   "name": "Forceful Slam"
 - "desc": "The poltergeist targets a creature or unattended object within 30 feet\
     \ of it. A creature must be Medium or smaller to be affected by this magic, and\
@@ -62,8 +62,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     \ moved.\n\nIf the target is an object that isn't being worn or carried, the poltergeist\
     \ hurls it up to 30 feet in any direction. The poltergeist can use the object\
     \ as a ranged weapon, attacking one creature along the object's path (dice: d20+4\
-    \ (+4 to hit)) and dealing 5 (dice: 2d4|avg (2d4)) bludgeoning damage on a\
-    \ hit."
+    \ (+4 to hit)) and dealing dice: 2d4|avg (2d4) bludgeoning damage on a hit."
   "name": "Telekinetic Thrust"
 "source":
 - "MM"

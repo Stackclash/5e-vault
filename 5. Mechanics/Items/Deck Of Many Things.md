@@ -10,6 +10,7 @@ aliases: ["Deck of Many Things"]
 ---
 # Deck of Many Things
 *Wondrous Item, major, legendary*  
+![[5. Mechanics/Items/img/deck-of-many-things.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤
@@ -26,8 +27,8 @@ Two of the cards in a deck of many things can earn a character the enmity of ano
 
 In the case of the [[5. Mechanics/Items/Deck Of Many Things.md#Rogue\|Rogue]] card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
 
-| Playing Card | Card |
-|--------------|------|
+| 1d22 | Card |
+|------|------|
 | 1 | Vizier* |
 | 2 | Sun |
 | 3 | Moon |
@@ -50,7 +51,7 @@ In the case of the [[5. Mechanics/Items/Deck Of Many Things.md#Rogue\|Rogue]] ca
 | 20 | Balance* |
 | 21 | Fool* |
 | 22 | Jester |
-^playing-card-card
+^1-card
 
 * Found only in a deck with twenty-two cards
 

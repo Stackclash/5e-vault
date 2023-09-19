@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
 - optional-feature/mm
 aliases: ["Twinned Spell"]
 ---
 # Twinned Spell
-*Source: Player's Handbook p. 102. Available in the SRD.* 
+*Source: Player's Handbook p. 102. Available in the SRD.*  
 
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 

@@ -12,8 +12,8 @@ aliases: ["Human Names – Japanese, Female"]
 
 **Human Names – Japanese, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aika |
 | 03-04 | Akemi |
 | 05-06 | Akiko |

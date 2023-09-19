@@ -12,8 +12,8 @@ aliases: ["Human Names – Spanish, Female"]
 
 **Human Names – Spanish, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abella |
 | 03-04 | Adalina |
 | 05-06 | Adora |

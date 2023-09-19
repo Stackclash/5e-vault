@@ -78,18 +78,18 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "desc": "The aboleth makes three tentacle attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 14 Constitution saving throw or become\
-    \ diseased. The disease has no effect for 1 minute and can be removed by any magic\
-    \ that cures disease. After 1 minute, the diseased creature's skin becomes translucent\
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 14 Constitution saving throw or become diseased.\
+    \ The disease has no effect for 1 minute and can be removed by any magic that\
+    \ cures disease. After 1 minute, the diseased creature's skin becomes translucent\
     \ and slimy, the creature can't regain hit points unless it is underwater, and\
     \ the disease can be removed only by [[5. Mechanics/Spells/Heal.md|heal]] or another\
     \ disease-curing spell of 6th level or higher. When the creature is outside a\
-    \ body of water, it takes 6 (dice: 1d12|avg (1d12)) acid damage every 10 minutes\
+    \ body of water, it takes dice: 1d12|avg (1d12) acid damage every 10 minutes\
     \ unless moisture is applied to the skin before 10 minutes have passed."
   "name": "Tentacle"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 10 ft., one target.\
-    \ Hit: 15 (dice: 3d6 + 5|avg (3d6 + 5)) bludgeoning damage."
+    \ Hit: dice: 3d6 + 5|avg (3d6 + 5) bludgeoning damage."
   "name": "Tail"
 - "desc": "The aboleth targets one creature it can see within 30 feet of it. The target\
     \ must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
@@ -109,7 +109,7 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "desc": "The aboleth makes one tail attack."
   "name": "Tail Swipe"
 - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]] by the\
-    \ aboleth takes 10 (dice: 3d6|avg (3d6)) psychic damage, and the aboleth regains\
+    \ aboleth takes dice: 3d6|avg (3d6) psychic damage, and the aboleth regains\
     \ hit points equal to the damage the creature takes."
   "name": "Psychic Drain (Costs 2 Actions)"
 "source":

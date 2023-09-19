@@ -32,7 +32,7 @@ aliases: ["Riding Horse"]
 "cr": "1/4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 2d4 + 3|avg (2d4 + 3)) bludgeoning damage."
+    \ Hit: dice: 2d4 + 3|avg (2d4 + 3) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

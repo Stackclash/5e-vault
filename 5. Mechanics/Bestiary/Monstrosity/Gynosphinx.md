@@ -107,7 +107,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "desc": "The sphinx makes two claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Claw"
 "legendary_actions":
 - "desc": "The sphinx makes one claw attack."

@@ -10,7 +10,7 @@ aliases: ["Appendix F: Handouts"]
 
 ## Kolyan Indirovich's Letter (version 1)
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Hail to thee of might and valor.
 > 
@@ -29,7 +29,7 @@ aliases: ["Appendix F: Handouts"]
 
 ## Strahd's Invitation
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > My friends,
 > 
@@ -42,7 +42,7 @@ aliases: ["Appendix F: Handouts"]
 
 ## From the Tome of Strahd
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.
 > 
@@ -71,7 +71,7 @@ aliases: ["Appendix F: Handouts"]
 
 ## Journal of Rudolph van Richten
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.
 > 
@@ -96,7 +96,7 @@ aliases: ["Appendix F: Handouts"]
 
 ## Kolyan Indirovich's Letter (version 2)
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Hail thee of might and valor:
 > 
@@ -115,7 +115,7 @@ aliases: ["Appendix F: Handouts"]
 
 ## Journal of Argynvost
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > My knights have fallen, and this land is lost. The armies of my enemy will not be stopped by sword or spell, claw or fang. Today I will die, not avenging those who have fallen, but defending that which I love—this valley, this home, and the ideals of the Order of the Silver Dragon.
 > 

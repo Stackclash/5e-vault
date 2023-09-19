@@ -75,15 +75,15 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     \ claws or spear."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) slashing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage."
   "name": "Claws"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) piercing\
-    \ damage, or 5 (dice: 1d8 + 1|avg (1d8 + 1)) piercing damage if used with\
-    \ two hands to make a melee attack."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 1|avg (1d6 + 1) piercing\
+    \ damage, or dice: 1d8 + 1|avg (1d8 + 1) piercing damage if used with two\
+    \ hands to make a melee attack."
   "name": "Spear"
 "source":
 - "MM"

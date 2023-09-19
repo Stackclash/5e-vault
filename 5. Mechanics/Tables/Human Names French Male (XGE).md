@@ -12,8 +12,8 @@ aliases: ["Human Names – French, Male"]
 
 **Human Names – French, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ambroys |
 | 03-04 | Ame |
 | 05-06 | Andri |

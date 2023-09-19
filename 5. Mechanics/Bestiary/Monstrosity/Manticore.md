@@ -61,13 +61,13 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
     \ or three with its tail spikes."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage."
   "name": "Claw"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 100/200 ft., one\
-    \ target. Hit: 7 (dice: 1d8 + 3|avg (1d8 + 3)) piercing damage."
+    \ target. Hit: dice: 1d8 + 3|avg (1d8 + 3) piercing damage."
   "name": "Tail Spike"
 "source":
 - "MM"

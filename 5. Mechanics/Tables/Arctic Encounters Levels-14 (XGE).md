@@ -12,8 +12,8 @@ aliases: ["Arctic Encounters (Levels 1—4)"]
 
 **Arctic Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Beast/Giant Owl.md\|giant owl]] |
 | 02-05 | `dice: 1d6 + 3\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] |
 | 06-08 | `dice: 1d4 + 3\|avg` (`1d4 + 3`) trappers ([[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) |

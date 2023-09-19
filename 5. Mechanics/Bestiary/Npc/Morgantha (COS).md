@@ -7,7 +7,7 @@ tags:
 aliases: ["Morgantha"]
 ---
 # Morgantha
-*Source: Curse of Strahd p. 48, Derived from Night Hag (MM)*  
+*Source: Curse of Strahd p. 48, Derived from *  
 
 ```statblock
 "name": "Morgantha"
@@ -60,7 +60,7 @@ aliases: ["Morgantha"]
   "name": "Night Hag Items"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) slashing damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) slashing damage."
   "name": "Claws (Hag Form Only)"
 - "desc": "Morgantha magically polymorphs into a Small or Medium female humanoid,\
     \ or back into her true form. Her statistics are the same in each form. Any equipment\
@@ -75,7 +75,7 @@ aliases: ["Morgantha"]
     \ spell cast on the target prevents this contact, as does a magic circle. As long\
     \ as the contact persists, the target has dreadful visions. If these visions last\
     \ for at least 1 hour, the target gains no benefit from its rest, and its hit\
-    \ point maximum is reduced by 5 (dice: 1d10|avg (1d10)). If this effect reduces\
+    \ point maximum is reduced by dice: 1d10|avg (1d10). If this effect reduces\
     \ the target's hit point maximum to 0, the target dies, and if the target was\
     \ evil, its soul is trapped in Morgantha's soul bag. The reduction to the target's\
     \ hit point maximum lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\

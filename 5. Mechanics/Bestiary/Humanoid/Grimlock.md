@@ -68,8 +68,8 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
   "name": "Stone Camouflage"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d4 + 3|avg (1d4 + 3)) bludgeoning damage plus 2 (dice:\
-    \ 1d4|avg (1d4)) piercing damage."
+    \ Hit: dice: 1d4 + 3|avg (1d4 + 3) bludgeoning damage plus dice: 1d4|avg\
+    \ (1d4) piercing damage."
   "name": "Spiked Bone Club"
 "source":
 - "MM"

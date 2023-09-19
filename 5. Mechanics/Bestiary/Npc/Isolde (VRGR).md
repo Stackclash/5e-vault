@@ -66,13 +66,13 @@ Zybilna was intrigued enough by the shadar-kai to let Isolde go, but not without
 - "desc": "Isolde makes two melee attacks or uses its Fire Ray twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft.., one target.\
-    \ Hit: 11 (dice: 1d8 + 7|avg (1d8 + 7)) slashing damage, or 12 (dice: 1d10\
-    \ + 7|avg (1d10 + 7)) slashing damage if used with two hands to make a melee\
-    \ attack. If the target is a fiend or an undead, it takes an extra 11 (dice:\
-    \ 2d10|avg (2d10)) radiant damage."
+    \ Hit: dice: 1d8 + 7|avg (1d8 + 7) slashing damage, or dice: 1d10 + 7|avg\
+    \ (1d10 + 7) slashing damage if used with two hands to make a melee attack.\
+    \ If the target is a fiend or an undead, it takes an extra dice: 2d10|avg (2d10)\
+    \ radiant damage."
   "name": "Nepenthe"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: 10 (dice: 3d6|avg (3d6)) fire damage."
+    \ Hit: dice: 3d6|avg (3d6) fire damage."
   "name": "Fire Ray"
 - "desc": "One humanoid Isolde can see within 30 feet of it must succeed on a DC 14\
     \ Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\

@@ -12,8 +12,8 @@ aliases: ["Elf Names – Child"]
 
 **Elf Names – Child**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ael |
 | 03-04 | Ang |
 | 05-06 | Ara |

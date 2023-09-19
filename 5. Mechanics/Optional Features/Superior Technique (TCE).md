@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/fs-f
 aliases: ["Superior Technique"]
 ---
 # Superior Technique
-*Source: Tasha's Cauldron of Everything p. 41* 
+*Source: Tasha's Cauldron of Everything p. 41*  
 
 You learn one [[5. Mechanics/Optional Features/List Maneuver Battle Master.md\|maneuver]] of your choice from among those available to the [[5. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 

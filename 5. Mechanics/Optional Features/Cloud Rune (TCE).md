@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/rn
 aliases: ["Cloud Rune"]
 ---
 # Cloud Rune
-*Source: Tasha's Cauldron of Everything p. 44* 
+*Source: Tasha's Cauldron of Everything p. 44*  
 
 This rune emulates the deceptive magic used by some cloud giants. While wearing or carrying an object inscribed with this rune, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) checks and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) checks.
 

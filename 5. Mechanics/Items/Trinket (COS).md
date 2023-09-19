@@ -16,8 +16,8 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 **Curse of Strahd. Character Options, Gothic Trinket Table**
 
-| `dice: d100\|avg` (`d100`) | Trinket |
-|-------------|--------------|---------|
+| dice: d100 | Trinket |
+|------------|---------|
 | 01-02 | A picture you drew as a child of your imaginary friend |
 | 03-04 | A lock that opens when blood is dripped in its keyhole |
 | 05-06 | Clothes stolen from a [[5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrow]] |

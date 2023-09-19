@@ -10,6 +10,7 @@ aliases: ["Mace of Smiting"]
 ---
 # Mace of Smiting
 *Melee Weapon, major, rare*  
+![[5. Mechanics/Items/img/mace-of-smiting.jpg#right]]  
 
 - **Damage**: 1d6 B
 - **Cost**: ⏤

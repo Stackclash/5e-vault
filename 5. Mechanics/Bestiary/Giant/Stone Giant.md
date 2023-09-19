@@ -56,7 +56,7 @@ At the highest level of the ordning, the races of the giants are also ranked acc
 
 Regardless of a giant's rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
 
-> [!quote] Giant Gods
+> [!note] Giant Gods
 > 
 > When the giants' ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants' pantheon.
 > 
@@ -108,12 +108,12 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "desc": "The giant makes two greatclub attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
   "name": "Greatclub"
 - "desc": "Ranged Weapon Attack: dice: d20+9 (+9 to hit), range 60/240 ft., one\
-    \ target. Hit: 28 (dice: 4d10 + 6|avg (4d10 + 6)) bludgeoning damage. If\
-    \ the target is a creature, it must succeed on a DC 17 Strength saving throw or\
-    \ be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ target. Hit: dice: 4d10 + 6|avg (4d10 + 6) bludgeoning damage. If the\
+    \ target is a creature, it must succeed on a DC 17 Strength saving throw or be\
+    \ knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Rock"
 "reactions":
 - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\

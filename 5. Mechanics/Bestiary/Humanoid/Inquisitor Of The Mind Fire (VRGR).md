@@ -58,13 +58,12 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     \ twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
-    \ + 4|avg (1d10 + 4)) if used with two hands, plus 18 (dice: 4d8|avg (4d8))\
-    \ force damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+    \ (1d10 + 4) if used with two hands, plus dice: 4d8|avg (4d8) force damage."
   "name": "Silver Longsword"
 - "desc": "The inquisitor targets one creature it can see within 120 feet of it. The\
-    \ target must succeed on a DC 15 Intelligence saving throw or take 17 (dice:\
-    \ 3d8 + 4|avg (3d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ target must succeed on a DC 15 Intelligence saving throw or take dice: 3d8\
+    \ + 4|avg (3d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the start of the inquisitor's next turn."
   "name": "Mind Fire"
 - "desc": "Each creature of the inquisitor's choice that it can see within 60 feet\

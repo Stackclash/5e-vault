@@ -75,11 +75,11 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 - "desc": "The rakshasa makes two claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) slashing damage, and the target is\
-    \ cursed if it is a creature. The magical curse takes effect whenever the target\
-    \ takes a short or long rest, filling the target's thoughts with horrible images\
-    \ and dreams. The cursed target gains no benefit from finishing a short or long\
-    \ rest. The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) slashing damage, and the target is cursed\
+    \ if it is a creature. The magical curse takes effect whenever the target takes\
+    \ a short or long rest, filling the target's thoughts with horrible images and\
+    \ dreams. The cursed target gains no benefit from finishing a short or long rest.\
+    \ The curse lasts until it is lifted by a [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
     \ spell or similar magic."
   "name": "Claw"
 "source":

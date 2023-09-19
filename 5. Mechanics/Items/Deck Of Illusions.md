@@ -22,8 +22,8 @@ An illusion of one or more creatures forms over the thrown card and remains unti
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-| Playing Card | Illusion |
-|--------------|----------|
+| 1d33 | Illusion |
+|------|----------|
 | 1 | [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md\|Red dragon]] |
 | 2 | [[5. Mechanics/Bestiary/Humanoid/Knight.md\|Knight]] and four [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] |
 | 3 | [Succubus/Incubus](compendium/bestiary/fiend/succubus.md) |
@@ -57,6 +57,6 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | 31 | [[5. Mechanics/Bestiary/Humanoid/Orc.md\|Orc]] |
 | 32 | [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|Kobold]] |
 | 33-34 | You (the deck's owner) |
-^playing-card-illusion
+^1-illusion
 
 *Source: Dungeon Master's Guide p. 161. Available in the SRD.*

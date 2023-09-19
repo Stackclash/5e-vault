@@ -42,8 +42,8 @@ aliases: ["Giant Octopus"]
   "name": "Water Breathing"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 15 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) bludgeoning damage. If the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) bludgeoning damage. If the target is\
+    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
     \ DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the octopus can't use its tentacles on another target."
   "name": "Tentacles"

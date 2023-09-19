@@ -7,7 +7,7 @@ tags:
 aliases: ["Cyrus Belview"]
 ---
 # Cyrus Belview
-*Source: Curse of Strahd p. 77, Derived from Mongrelfolk (CoS)*  
+*Source: Curse of Strahd p. 77, Derived from *  
 
 ```statblock
 "name": "Cyrus Belview"
@@ -45,13 +45,13 @@ aliases: ["Cyrus Belview"]
 - "desc": "Cyrus makes two attacks: one with its bite and one with its claw or dagger."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) slashing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) slashing damage."
   "name": "Claw"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing\
+    \ or range 20/60 ft., one target. Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing\
     \ damage."
   "name": "Dagger"
 "source":

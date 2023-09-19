@@ -48,8 +48,8 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 - "desc": "The collector makes two Slam attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one target.\
-    \ Hit: 18 (dice: 3d8 + 5|avg (3d8 + 5)) bludgeoning damage plus 16 (dice:\
-    \ 3d10|avg (3d10)) necrotic damage."
+    \ Hit: dice: 3d8 + 5|avg (3d8 + 5) bludgeoning damage plus dice: 3d10|avg\
+    \ (3d10) necrotic damage."
   "name": "Slam"
 - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
     \ in that area must make a successful DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

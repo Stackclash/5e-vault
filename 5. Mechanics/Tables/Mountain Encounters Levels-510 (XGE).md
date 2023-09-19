@@ -12,8 +12,8 @@ aliases: ["Mountain Encounters (Levels 5—10)"]
 
 **Mountain Encounters (Levels 5—10)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | `dice: 2d8 + 1\|avg` (`2d8 + 1`) [[5. Mechanics/Bestiary/Humanoid/Aarakocra.md\|aarakocra]] |
 | 03-04 | 1 [[5. Mechanics/Bestiary/Beast/Lion.md\|lion]] or 1 [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|saber-toothed tiger]] |
 | 05-06 | `dice: 1d8 + 1\|avg` (`1d8 + 1`) [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goats]] |

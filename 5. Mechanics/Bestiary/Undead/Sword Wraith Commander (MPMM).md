@@ -51,11 +51,11 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 - "desc": "The commander makes two Longsword or Longbow attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) slashing damage, or 9 (dice: 1d10\
-    \ + 4|avg (1d10 + 4)) slashing damage if used with two hands."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) slashing damage, or dice: 1d10 + 4|avg\
+    \ (1d10 + 4) slashing damage if used with two hands."
   "name": "Longsword"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 150/600 ft., one\
-    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Longbow"
 - "desc": "If the commander has taken damage during this combat, it gives itself advantage\
     \ on attack rolls until the end of its next turn, and dice: 1d4 + 1|avg (1d4\
@@ -66,8 +66,8 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
   "name": "Call to Honor (1/Day)"
 "bonus_actions":
 - "desc": "The commander makes one Longsword or Longbow attack, which deals an extra\
-    \ 9 (dice: 2d8|avg (2d8)) necrotic damage on a hit, and attack rolls against\
-    \ it have advantage until the start of its next turn."
+    \ dice: 2d8|avg (2d8) necrotic damage on a hit, and attack rolls against it\
+    \ have advantage until the start of its next turn."
   "name": "Martial Fury"
 "source":
 - "MPMM"

@@ -11,6 +11,7 @@ aliases: ["Wand of Fear"]
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/wand-of-fear.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

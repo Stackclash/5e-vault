@@ -49,14 +49,14 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "cr": "1"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one creature.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) piercing damage."
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) slashing damage. If the target is\
-    \ a creature other than an elf or undead, it must succeed on a DC 10 Constitution\
-    \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for\
-    \ 1 minute. The target can repeat the saving throw at the end of each of its turns,\
-    \ ending the effect on itself on a success."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) slashing damage. If the target is a creature\
+    \ other than an elf or undead, it must succeed on a DC 10 Constitution saving\
+    \ throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] for 1 minute.\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Claws"
 "source":
 - "MM"

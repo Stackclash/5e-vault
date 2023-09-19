@@ -37,12 +37,12 @@ aliases: ["Giant Constrictor Snake"]
 "cr": "2"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one creature.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one creature.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16). Until\
-    \ this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 16). Until this\
+    \ grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the snake can't constrict another target."
   "name": "Constrict"
 "source":

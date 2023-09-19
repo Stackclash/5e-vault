@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/rn
 aliases: ["Hill Rune"]
 ---
 # Hill Rune
-*Source: Tasha's Cauldron of Everything p. 45* 
+*Source: Tasha's Cauldron of Everything p. 45*  
+
+***Prerequisites*** 7th-level Fighter
 
 This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]], and you have resistance against poison damage.
 

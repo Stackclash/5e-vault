@@ -2,13 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Lady Fiona Wachter"]
 ---
 # Lady Fiona Wachter
-*Source: Curse of Strahd p. 110, Derived from Priest (MM)*  
+*Source: Curse of Strahd p. 110, Derived from *  
 
 ```statblock
 "name": "Lady Fiona Wachter"
@@ -47,21 +46,17 @@ aliases: ["Lady Fiona Wachter"]
     \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
   "name": "spells"
 - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
-    \ attacks to magically deal an extra 10 (dice: 3d6|avg (3d6)) radiant damage\
-    \ to a target on a hit. This benefit lasts until the end of the turn. If Fiona\
-    \ expends a spell slot of 2nd level or higher, the extra damage increases by dice:\
-    \ 1d6|avg (1d6) for each level above 1st."
+    \ attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to\
+    \ a target on a hit. This benefit lasts until the end of the turn. If Fiona expends\
+    \ a spell slot of 2nd level or higher, the extra damage increases by dice: 1d6|avg\
+    \ (1d6) for each level above 1st."
   "name": "Divine Eminence"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d6|avg (1d6)) bludgeoning damage."
+    \ Hit: dice: 1d6|avg (1d6) bludgeoning damage."
   "name": "Mace"
 "source":
 - "CoS"
 "image": "compendium/bestiary/npc/token/lady-fiona-wachter.png"
 ```
 ^statblock
-
-## Environment
-
-urban

@@ -66,10 +66,10 @@ A Strahd zombie doesn't require air or sleep.
 - "desc": "The zombie makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d6 + 1|avg (1d6 + 1)) slashing damage."
+    \ Hit: dice: 1d6 + 1|avg (1d6 + 1) slashing damage."
   "name": "Claw"
 "source":
 - "CoS"

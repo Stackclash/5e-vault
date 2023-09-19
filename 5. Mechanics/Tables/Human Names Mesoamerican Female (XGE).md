@@ -12,8 +12,8 @@ aliases: ["Human Names – Mesoamerican, Female"]
 
 **Human Names – Mesoamerican, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ahuiliztli |
 | 03-04 | Atl |
 | 05-06 | Centehua |

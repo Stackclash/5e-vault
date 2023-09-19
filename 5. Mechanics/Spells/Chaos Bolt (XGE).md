@@ -20,8 +20,8 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 **Chaos Bolt**
 
-| `dice: d8\|avg` (`d8`) | Damage Type |
-|-----------|------------|-------------|
+| dice: d8 | Damage Type |
+|----------|-------------|
 | 1 | Acid |
 | 2 | Cold |
 | 3 | Fire |

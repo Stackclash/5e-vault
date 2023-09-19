@@ -10,6 +10,7 @@ aliases: ["Tome of Clear Thought"]
 ---
 # Tome of Clear Thought
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/tome-of-clear-thought.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

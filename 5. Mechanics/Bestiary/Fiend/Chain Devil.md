@@ -107,7 +107,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -171,11 +171,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "desc": "The devil makes two attacks with its chains."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ (escape DC 14) if the devil isn't already grappling a creature. Until this grapple\
     \ ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]\
-    \ and takes 7 (dice: 2d6|avg (2d6)) piercing damage at the start of each of\
-    \ its turns."
+    \ and takes dice: 2d6|avg (2d6) piercing damage at the start of each of its\
+    \ turns."
   "name": "Chain"
 - "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
     \ razor-edged barbs and animate under the devil's control, provided that the chains\

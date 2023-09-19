@@ -10,6 +10,7 @@ aliases: ["Broom of Flying"]
 ---
 # Broom of Flying
 *Wondrous Item, major, uncommon*  
+![[5. Mechanics/Items/img/broom-of-flying.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.

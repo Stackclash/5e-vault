@@ -74,29 +74,29 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "traits":
 - "desc": "The seer can move through other creatures and objects as if they were difficult\
     \ terrain, and its movement doesn't provoke opportunity attacks.\n\nEach creature\
-    \ it moves through takes 5 (dice: 1d10|avg (1d10)) psychic damage; no creature\
-    \ can take this damage more than once per turn.\n\nThe seer takes 5 (dice: 1d10|avg\
-    \ (1d10)) force damage if it ends its turn inside an object."
+    \ it moves through takes dice: 1d10|avg (1d10) psychic damage; no creature\
+    \ can take this damage more than once per turn.\n\nThe seer takes dice: 1d10|avg\
+    \ (1d10) force damage if it ends its turn inside an object."
   "name": "Out-Of-Phase Movement"
 "actions":
 - "desc": "The seer makes two Comet Staff or Psychic Orb attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 1d8 + 6|avg (1d8 + 6)) bludgeoning damage plus 18 (dice:\
-    \ 4d8|avg (4d8)) psychic damage, and if the target is a creature, it must succeed\
-    \ on a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
+    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) bludgeoning damage plus dice: 4d8|avg\
+    \ (4d8) psychic damage, and if the target is a creature, it must succeed on\
+    \ a DC 19 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ until the end of its next turn."
   "name": "Comet Staff"
 - "desc": "Ranged Spell Attack: dice: d20+11 (+11 to hit), range 120 feet, one\
-    \ creature. Hit: 27 (dice: 5d10|avg (5d10)) psychic damage."
+    \ creature. Hit: dice: 5d10|avg (5d10) psychic damage."
   "name": "Psychic Orb"
 - "desc": "The seer warps space around one creature it can see within 30 feet of it.\
     \ That creature must make a DC 19 Wisdom saving throw. On a failed save, the target,\
     \ along with any equipment it is wearing or carrying, is teleported up to 60 feet\
     \ to an unoccupied space the seer can see, and then each creature within 10 feet\
-    \ of the target's original space takes 39 (dice: 6d12|avg (6d12)) psychic\
-    \ damage. On a successful save, the target takes 19 (dice: 3d12|avg (3d12))\
-    \ psychic damage and isn't teleported."
+    \ of the target's original space takes dice: 6d12|avg (6d12) psychic damage.\
+    \ On a successful save, the target takes dice: 3d12|avg (3d12) psychic damage\
+    \ and isn't teleported."
   "name": "Collapse Distance (Recharge 6)"
 "reactions":
 - "desc": "When the seer would be hit by an attack roll, it teleports, along with\

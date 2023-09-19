@@ -57,18 +57,18 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 - "desc": "The leviathan makes one Slam attack and one Tail attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: 21 (dice: 2d12 + 8|avg (2d12 + 8)) bludgeoning damage plus 13 (dice:\
-    \ 2d12|avg (2d12)) acid damage."
+    \ Hit: dice: 2d12 + 8|avg (2d12 + 8) bludgeoning damage plus dice: 2d12|avg\
+    \ (2d12) acid damage."
   "name": "Slam"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 20 ft., one target.\
-    \ Hit: 19 (dice: 2d10 + 8|avg (2d10 + 8)) bludgeoning damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) acid damage."
+    \ Hit: dice: 2d10 + 8|avg (2d10 + 8) bludgeoning damage plus dice: 3d6|avg\
+    \ (3d6) acid damage."
   "name": "Tail"
 - "desc": "The leviathan magically creates a wave of water that extends from a point\
     \ it can see within 120 feet of itself. The wave is up to 250 feet long, up to\
     \ 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a\
-    \ DC 24 Strength saving throw. On a failed save, a creature takes 45 (dice: 7d12|avg\
-    \ (7d12)) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ DC 24 Strength saving throw. On a failed save, a creature takes dice: 7d12|avg\
+    \ (7d12) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a successful save, a creature takes half as much damage and isn't knocked\
     \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]. The water spreads out across\
     \ the ground in all directions, extinguishing unprotected flames in its area and\

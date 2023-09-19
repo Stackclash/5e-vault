@@ -8,11 +8,9 @@ aliases: ["Customizing Your Origin"]
 # Customizing Your Origin
 *Source: Tasha's Cauldron of Everything p. 8* 
 
-## Customizing Your Origin
-
 At 1st level, you choose various aspects of your character, including ability scores, race, class, and background. Together these elements help paint a picture of your character's origin and give you the ability to create many different types of characters. Despite that versatility, a D&D race that has the Ability Score Increase trait includes little or no choice—a lack that can make it difficult to realize certain character concepts. The following subsections address that lack by adding choice to your character's race if it includes the Ability Score Increase trait, allowing you to customize your ability scores, languages, and certain proficiencies to fit the origin you have in mind for your character. Character race in the game represents your character's fantasy species, combined with certain cultural assumptions. The following options step outside those assumptions to pave the way for truly unique characters.
 
-### Ability Score Increases
+## Ability Score Increases
 
 The Ability Score Increase trait in a race reflects an archetypal bit of excellence in the adventurers of this kind in D&D's past. For example, if you're a dwarf, your Constitution increases by 2, because dwarf heroes in D&D are often exceptionally tough. This increase doesn't apply to every dwarf, just to dwarf adventurers, and it exists to reinforce an archetype. That reinforcement is appropriate if you want to lean into the archetype, but it's unhelpful if your character doesn't conform to the archetype.
 
@@ -20,7 +18,7 @@ If you'd like your character to follow their own path, you may ignore your Abili
 
 For example, if the Ability Score Increase trait of your race or subrace increases your Constitution by 2 and your Wisdom by 1, you could instead increase your Intelligence by 2 and your Charisma by 1.
 
-### Languages
+## Languages
 
 If your character's race has the Languages trait, that trait includes languages that your character is assumed to know, usually Common and the language of your ancestors. For example, a halfling adventurer is assumed to know Common and Halfling. Here's the thing: D&D adventurers are extraordinary, and your character might have grown up speaking languages different from the ones in your Languages trait.
 
@@ -28,7 +26,7 @@ To customize the languages you know, you may replace each language in your Langu
 
 Your DM may add or remove languages from that list, depending on what languages are appropriate for your campaign.
 
-### Proficiencies
+## Proficiencies
 
 Some races that include the Ability Score Increase trait also grant proficiencies. These proficiencies are usually cultural, and your character might not have any connection with the culture in question or might have pursued different training. You can replace each of those proficiencies with a different one of your choice, following the restrictions on the Proficiency Swaps table.
 
@@ -47,11 +45,11 @@ For example, high elf adventurers have proficiency with longswords, which are ma
 
 The ""Equipment"" chapter of the "Player's Handbook" includes weapons and tools suitable for these swaps, and your DM might allow additional options.
 
-### Personality
+## Personality
 
 The description of a race might suggest various things about the behavior and personality of that people's archetypal adventurers. You may ignore those suggestions, whether they're about alignment, moods, interests, or any other personality trait. Your character's personality and behavior are entirely yours to determine.
 
-> [!quote] Custom Lineage
+> [!note] Custom Lineage
 > 
 > Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
 > 

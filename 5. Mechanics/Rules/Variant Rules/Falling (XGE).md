@@ -8,17 +8,15 @@ aliases: ["Falling"]
 # Falling
 *Source: Xanathar's Guide to Everything p. 77* 
 
-## Falling
-
 Falling from a great height is a significant risk for adventurers and their foes. The rule given in the "Player's Handbook" is simple: at the end of a fall, you take `dice: 1d6|avg` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice: 20d6|avg` (`20d6`). You also land [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
-### Rate of Falling
+## Rate of Falling
 
 The rule for falling assumes that a creature immediately drops the entire distance when it falls. But what if a creature is at a high altitude when it falls, perhaps on the back of a [[5. Mechanics/Bestiary/Monstrosity/Griffon.md\|griffon]] or on board an [[5. Mechanics/Items/Airship.md\|airship]]? Realistically, a fall from such a height can take more than a few seconds, extending past the end of the turn when the fall occurred. If you'd like high-altitude falls to be properly time-consuming, use the following optional rule.
 
 When you fall from a great height, you instantly descend up to 500 feet. If you're still falling on your next turn, you descend up to 500 feet at the end of that turn. This process continues until the fall ends, either because you hit the ground or the fall is otherwise halted.
 
-### Flying Creatures and Falling
+## Flying Creatures and Falling
 
 A flying creature in flight falls if it is knocked [[/5. Mechanics/Rules/Conditions.md#prone\|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[5. Mechanics/Spells/Fly.md\|fly]] spell.
 

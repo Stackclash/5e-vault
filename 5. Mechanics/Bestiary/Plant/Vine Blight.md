@@ -63,9 +63,9 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 10 ft., one target.\
-    \ Hit: 9 (dice: 2d6 + 2|avg (2d6 + 2)) bludgeoning damage, and a Large or\
-    \ smaller target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
-    \ DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ Hit: dice: 2d6 + 2|avg (2d6 + 2) bludgeoning damage, and a Large or smaller\
+    \ target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 12).\
+    \ Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the blight can't constrict another target."
   "name": "Constrict"
 - "desc": "Grasping roots and vines sprout in a 15-foot radius centered on the blight,\

@@ -12,8 +12,8 @@ aliases: ["Forest Encounters (Levels 11—16)"]
 
 **Forest Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-03 | 1 [[5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebear]] |
 | 04-05 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druids]] performing a ritual for the dead (day only) or `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] (night only) |
 | 06-07 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |

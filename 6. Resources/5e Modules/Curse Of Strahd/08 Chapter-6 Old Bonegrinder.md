@@ -34,14 +34,14 @@ While in the trance, the creature dreams of being in some joyous place, far remo
 
 The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]].
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley. In the heart of the valley you see a walled town near the shores of a great mountain lake, its waters dark and still. A branch in the road leads west to a promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
 ^415
 
 Closer investigation of the windmill yields a few more details:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
 ^416
@@ -58,7 +58,7 @@ The following areas correspond to labels on the map of Old Bonegrinder below.
 
 ### O1. Ground Floor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors. In addition to the clucking of the chickens, you hear toads croaking.
 > 
@@ -69,7 +69,7 @@ The following areas correspond to labels on the map of Old Bonegrinder below.
 
 The ceiling here is 8 feet high. If the characters explore the room, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Small human bones litter the flagstone floor.
 ^41a
@@ -92,7 +92,7 @@ The wooden trunk has tiny holes bored into its lid and contains a hundred croaki
 
 Unless she has been lured elsewhere, [[5. Mechanics/Bestiary/Npc/Morgantha (COS).md\|Morgantha]] is encountered here. This is where she grinds children's bones to make the powder for her dream pastries.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A haggard, heavyset old woman with a face as wrinkled as a boiled apple sweeps the floor, pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
 > 
@@ -107,7 +107,7 @@ The hags operate the millstone manually, since the arms of the windmill no longe
 
 The [[5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hags]] Bella Sunbane and Offalia Wormwiggle are here, unless they have been drawn elsewhere.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Dancing around a thick wooden gear shaft in the center of this cramped, circular room are two ugly young women wearing silk shawls and gowns of stitched flesh. Long needles stick out of their tangled mops of black hair. The women cackle with glee.
 > 
@@ -128,7 +128,7 @@ The hags don't use the bed for sleeping, but they store their treasure in it. Si
 
 ### O4. Domed Attic
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You've reached the windmill's peak—a domed chamber filled with old machinery. There's not much room to move around. Light slips into this attic through small holes in the walls.
 ^421

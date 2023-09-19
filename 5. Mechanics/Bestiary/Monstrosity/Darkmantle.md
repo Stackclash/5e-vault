@@ -48,7 +48,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one creature.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) bludgeoning damage, and the darkmantle\
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) bludgeoning damage, and the darkmantle\
     \ attaches to the target. If the target is Medium or smaller and the darkmantle\
     \ has advantage on the attack roll, it attaches by engulfing the target's head,\
     \ and the target is also [[/5. Mechanics/Rules/Conditions.md#blinded|blinded]] and\

@@ -12,8 +12,8 @@ aliases: ["Urban Encounters (Levels 17—20)"]
 
 **Urban Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-05 | 1d10 [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md\|invisible stalkers]] |
 | 06-10 | 1d10 [[5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] |
 | 11-14 | 1d6 + 2 [[5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiators]] |

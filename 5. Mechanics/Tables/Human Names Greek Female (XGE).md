@@ -12,8 +12,8 @@ aliases: ["Human Names – Greek, Female"]
 
 **Human Names – Greek, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Acantha |
 | 03-04 | Aella |
 | 05-06 | Alektos |

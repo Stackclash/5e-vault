@@ -12,8 +12,8 @@ aliases: ["Coastal Encounters (Levels 1—4)"]
 
 **Coastal Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md\|pseudodragon]] |
 | 02-05 | `dice: 2d8\|avg` (`2d8`) [[5. Mechanics/Bestiary/Beast/Crab.md\|crabs]] |
 | 06-10 | `dice: 2d6\|avg` (`2d6`) fishers ([[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) |

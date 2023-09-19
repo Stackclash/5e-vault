@@ -68,8 +68,8 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
     \ Spittle."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one creature.\
-    \ Hit: 17 (dice: 5d6|avg (5d6)) piercing damage. If the target is Medium\
-    \ or smaller, it must succeed on a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ Hit: dice: 5d6|avg (5d6) piercing damage. If the target is Medium or smaller,\
+    \ it must succeed on a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ If the target is killed by this damage, it is absorbed into the mouther."
   "name": "Bites"
 - "desc": "The mouther spits a chemical glob at a point it can see within 15 feet\

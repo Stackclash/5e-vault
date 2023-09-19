@@ -94,7 +94,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) piercing damage."
+    \ Hit: dice: 1d4|avg (1d4) piercing damage."
   "name": "Dagger"
 - "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
     \ The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed,\

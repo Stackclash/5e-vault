@@ -11,6 +11,7 @@ aliases: ["Demon Armor"]
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/demon-armor.jpg#right]]  
 
 - **Armor Class**: 18
 - **Properties**: Requires Attunement

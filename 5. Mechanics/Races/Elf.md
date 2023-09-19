@@ -8,6 +8,7 @@ aliases: ["Elf"]
 ---
 # Elf
 *Source: Player's Handbook p. 21. Available in the SRD and the Basic Rules.*  
+![[5. Mechanics/Races/img/elf.png#right]]  
 
 - **Ability Scores**: Dexterity +2
 - **Type**: race
@@ -69,7 +70,7 @@ Most elves dwell in small forest villages hidden among the trees. Elves hunt gam
 
 Elves encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of elf instructors to teach swordplay or magic to their children.
 
-> [!quote] Haughty but Gracious
+> [!note] Haughty but Gracious
 > 
 > Although they can be haughty, elves are generally gracious - even to those who fall short of their high expectations - which is most non-elves. Still, they can find good in just about anyone.
 > 

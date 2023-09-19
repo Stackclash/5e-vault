@@ -81,11 +81,11 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
     \ use of Gaze."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: 28 (dice: 3d12 + 9|avg (3d12 + 9)) force damage. If the target is\
-    \ a creature, it must succeed on a DC 23 Constitution saving throw, or its hit\
-    \ point maximum is reduced by an amount equal to the damage taken. This reduction\
-    \ lasts until the target finishes a long rest. The target dies if its hit point\
-    \ maximum is reduced to 0."
+    \ Hit: dice: 3d12 + 9|avg (3d12 + 9) force damage. If the target is a creature,\
+    \ it must succeed on a DC 23 Constitution saving throw, or its hit point maximum\
+    \ is reduced by an amount equal to the damage taken. This reduction lasts until\
+    \ the target finishes a long rest. The target dies if its hit point maximum is\
+    \ reduced to 0."
   "name": "Tentacle"
 - "desc": "Demogorgon turns his magical gaze toward one creature he can see within\
     \ 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer\
@@ -104,8 +104,8 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 - "desc": "Demogorgon uses Gaze and must use either Beguiling Gaze or Confusing Gaze."
   "name": "Gaze"
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 15 ft., one target.\
-    \ Hit: 20 (dice: 2d10 + 9|avg (2d10 + 9)) bludgeoning damage plus 11 (dice:\
-    \ 2d10|avg (2d10)) necrotic damage."
+    \ Hit: dice: 2d10 + 9|avg (2d10 + 9) bludgeoning damage plus dice: 2d10|avg\
+    \ (2d10) necrotic damage."
   "name": "Tail"
 - "desc": "Demogorgon uses Spellcasting."
   "name": "Cast a Spell (Costs 2 Actions)"

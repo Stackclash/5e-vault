@@ -51,10 +51,10 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 - "desc": "The witherling makes two Bite or Spiked Club attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) necrotic damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) necrotic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) piercing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing damage."
   "name": "Spiked Club"
 "bonus_actions":
 - "desc": "After the witherling reduces a creature to 0 hit points with a melee attack\

@@ -16,7 +16,7 @@ aliases: ["Giant Lizard"]
 
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.
 
-> [!quote] Variant: Giant Lizard Traits
+> [!note] Variant: Giant Lizard Traits
 > 
 > Some giant lizards have one or both of the following traits.
 > 
@@ -46,7 +46,7 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 "cr": "1/4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Bite"
 "source":
 - "MM"

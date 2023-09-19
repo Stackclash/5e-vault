@@ -82,18 +82,18 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 - "desc": "The slasher makes two Slasher's Knife attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: 6 (dice: 1d4 + 4|avg (1d4 + 4)) slashing\
-    \ damage plus 21 (dice: 6d6|avg (6d6)) necrotic damage. If the target is a\
-    \ creature, it suffers a lingering wound that causes it to take 7 (dice: 2d6|avg\
-    \ (2d6)) necrotic damage at the start of each of its turns. Each time the slasher\
-    \ hits the wounded target with this attack, the damage dealt by the wound increases\
-    \ by 3 (dice: 1d6|avg (1d6)). The wound ends if the target regains hit points\
+    \ or range 30/60 ft., one target. Hit: dice: 1d4 + 4|avg (1d4 + 4) slashing\
+    \ damage plus dice: 6d6|avg (6d6) necrotic damage. If the target is a creature,\
+    \ it suffers a lingering wound that causes it to take dice: 2d6|avg (2d6)\
+    \ necrotic damage at the start of each of its turns. Each time the slasher hits\
+    \ the wounded target with this attack, the damage dealt by the wound increases\
+    \ by dice: 1d6|avg (1d6). The wound ends if the target regains hit points\
     \ or if a creature uses an action to stanch the wound, which requires a successful\
     \ DC 15 Wisdom (Medicine) check."
   "name": "Slasher's Knife"
 "legendary_actions":
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft.\
-    \ or range 30/60 ft., one target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) slashing\
+    \ or range 30/60 ft., one target. Hit: dice: 1d6 + 4|avg (1d6 + 4) slashing\
     \ damage."
   "name": "Slice"
 - "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\

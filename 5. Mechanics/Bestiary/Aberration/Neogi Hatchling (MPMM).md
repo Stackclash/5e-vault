@@ -52,11 +52,11 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   "name": "Spider Climb"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) poison damage, and the target must succeed on a DC 10 Constitution\
-    \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]\
-    \ for 1 minute. A target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage plus dice: 1d6|avg\
+    \ (1d6) poison damage, and the target must succeed on a DC 10 Constitution saving\
+    \ throw or become [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] for 1 minute.\
+    \ A target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Bite"
 "source":
 - "MPMM"

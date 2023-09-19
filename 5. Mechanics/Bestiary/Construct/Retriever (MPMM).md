@@ -64,12 +64,11 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     \ Beam, if available."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+11 (+11 to hit), reach 10 ft., one target.\
-    \ Hit: 15 (dice: 2d8 + 6|avg (2d8 + 6)) slashing damage."
+    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) slashing damage."
   "name": "Foreleg"
 - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
-    \ target must make a DC 16 Dexterity saving throw, taking 27 (dice: 5d10|avg\
-    \ (5d10)) force damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ target must make a DC 16 Dexterity saving throw, taking dice: 5d10|avg (5d10)\
+    \ force damage on a failed save, or half as much damage on a successful one."
   "name": "Force Beam"
 - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
     \ target must succeed on a DC 18 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\

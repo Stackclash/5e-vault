@@ -12,8 +12,8 @@ aliases: ["Urban Encounters (Levels 11—16)"]
 
 **Urban Encounters (Levels 11—16)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] |
 | 02-05 | 1 [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] with 5d10 [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]], all on [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horses]] |
 | 06-10 | 1d10 [[5. Mechanics/Bestiary/Humanoid/Knight.md\|knights]] on [[5. Mechanics/Bestiary/Beast/Warhorse.md\|warhorses]] (one knight is a [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelganger]]) |

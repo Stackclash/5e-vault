@@ -10,6 +10,7 @@ aliases: ["Ring of Water Walking"]
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  
+![[5. Mechanics/Items/img/ring-of-water-walking.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

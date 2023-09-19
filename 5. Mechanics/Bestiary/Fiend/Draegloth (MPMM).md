@@ -57,10 +57,10 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 - "desc": "The draegloth makes one Bite attack and two Claw attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one creature.\
-    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) piercing damage."
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 10 ft., one target.\
-    \ Hit: 16 (dice: 2d10 + 5|avg (2d10 + 5)) slashing damage."
+    \ Hit: dice: 2d10 + 5|avg (2d10 + 5) slashing damage."
   "name": "Claw"
 "source":
 - "MPMM"

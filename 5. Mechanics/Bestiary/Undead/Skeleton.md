@@ -60,10 +60,10 @@ A skeleton doesn't require air, food, drink, or sleep.
 "cr": "1/4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing damage."
+    \ target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

@@ -12,8 +12,8 @@ aliases: ["Human Names – Indian, Male"]
 
 **Human Names – Indian, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abhay |
 | 03-04 | Ahsan |
 | 05-06 | Ajay |

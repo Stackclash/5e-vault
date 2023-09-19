@@ -43,7 +43,7 @@ Start your survey by listing common story and horror elements to determine your 
 
 If you're not comfortable adding any of these topics to your game, don't include them as options, and use them as the starting point for a list of elements that your adventures won't include.
 
-> [!quote] Serious Fear
+> [!note] Serious Fear
 > 
 > Many horror D&D games are spooky romps not too different from typical D&D adventures. Others venture into more unsettling territory. You and the players should decide what level of intensity is right for your horror adventures. This section provides guidance that applies whether your adventures are morbid comedies or explorations of mature themes. The advice here emphasizes structures that work for all players, including those with different tolerances for being scared or who have certain topics that are off-limits for them. Always consider what you can do to make players feel comfortable with your game, even if no one entirely knows how the horror might unfold. Never assume you know your players' deepest fears—no matter how long you've been roleplaying with them.
 ^serious-fear
@@ -190,7 +190,7 @@ While horror traditionally nullifies heroes' strengths, doing so can remove the 
 - Have foes play dead, only to "return to life" after characters think things are safe.  
 - Make use of the techniques detailed in the ""Horror Monsters"" section of "chapter 5".  
 
-> [!quote] Subvert Clichés
+> [!note] Subvert Clichés
 > 
 > When characters and worlds feature clichés, they become dull and predictable. If your favorite horror story features outdated tropes, your fondness doesn't redeem them. To create dynamic and compelling characters, consider the following options:
 > 

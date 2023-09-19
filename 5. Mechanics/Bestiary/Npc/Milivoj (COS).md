@@ -2,19 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Milivoj"]
 ---
 # Milivoj
-*Source: Curse of Strahd p. 97, Derived from Commoner (MM)*  
+*Source: Curse of Strahd p. 97, Derived from *  
 
 ```statblock
 "name": "Milivoj"
@@ -38,14 +31,10 @@ aliases: ["Milivoj"]
 "cr": "0"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) bludgeoning damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) bludgeoning damage."
   "name": "Shovel"
 "source":
 - "CoS"
 "image": "5. Mechanics/Bestiary/Npc/token/milivoj.png"
 ```
 ^statblock
-
-## Environment
-
-arctic, desert, coastal, grassland, hill, urban, forest

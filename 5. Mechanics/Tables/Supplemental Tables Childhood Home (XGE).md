@@ -12,8 +12,8 @@ aliases: ["Supplemental Tables; Childhood Home"]
 
 **Childhood Home**
 
-| `d100 + Charisma modifier` | Home |
-|----------------------------|------|
+| dice: d100 + #$prompt_number:title=Enter Lifestyle Modifier$# | Home |
+|---------------------------------------------------------------|------|
 | 0 | On the streets |
 | 1-20 | Rundown shack |
 | 21-30 | No permanent residence |

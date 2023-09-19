@@ -32,14 +32,14 @@ Neither a vampire nor a vampire spawn requires air.
 
 A vampire chooses a grand yet defensible location for its lair, such as a castle, fortified manor, or walled abbey. It hides its coffin in an underground crypt or vault guarded by vampire spawn or other loyal creatures of the night.
 
-> [!quote] Player Characters as Vampires
+> [!note] Player Characters as Vampires
 > 
 > The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
 > The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics/Spells/Wish.md|wish]] spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
-> [!quote] Strahd von Zarovich
+> [!note] Strahd von Zarovich
 > 
 > A brilliant thinker and capable warrior in life, Strahd von Zarovich fought in countless battles for his people. When war and killing finally stripped him of his youth and strength, he settled in the remote valley of Barovia and built a castle on a towering pinnacle, from which he could survey his lands. His brother Sergei came to live with him in Castle Ravenloft, becoming Strahd's adviser and constant companion.
 > 
@@ -131,20 +131,20 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
   "name": "Multiattack (Vampire Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one creature.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) bludgeoning damage. Instead of dealing\
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) bludgeoning damage. Instead of dealing\
     \ damage, the vampire can grapple the target (escape DC 18)."
   "name": "Unarmed Strike (Vampire Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one willing\
     \ creature, or a creature that is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
     \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
-    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: 7 (dice:\
-    \ 1d6 + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg (3d6))\
-    \ necrotic damage. The target's hit point maximum is reduced by an amount equal\
-    \ to the necrotic damage taken, and the vampire regains hit points equal to that\
-    \ amount. The reduction lasts until the target finishes a long rest. The target\
-    \ dies if this effect reduces its hit point maximum to 0. A humanoid slain in\
-    \ this way and then buried in the ground rises the following night as a [vampire\
-    \ spawn](compendium/bestiary/undead/vampire-spawn.md) under the vampire's control."
+    \ or [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]. Hit: dice: 1d6\
+    \ + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg (3d6) necrotic damage.\
+    \ The target's hit point maximum is reduced by an amount equal to the necrotic\
+    \ damage taken, and the vampire regains hit points equal to that amount. The reduction\
+    \ lasts until the target finishes a long rest. The target dies if this effect\
+    \ reduces its hit point maximum to 0. A humanoid slain in this way and then buried\
+    \ in the ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+    \ under the vampire's control."
   "name": "Bite (Bat or Vampire Form Only)"
 - "desc": "The vampire targets one humanoid it can see within 30 feet of it. If the\
     \ target can see the vampire, the target must succeed on a DC 17 Wisdom saving\

@@ -11,6 +11,7 @@ aliases: ["Rod of Absorption"]
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/rod-of-absorption.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -11,6 +11,7 @@ aliases: ["Talking Doll"]
 ---
 # Talking Doll
 *Wondrous Item, minor, common (requires attunement)*  
+![[5. Mechanics/Items/img/talking-doll.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

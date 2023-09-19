@@ -80,13 +80,13 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
   "name": "Magic Resistance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 2d4 + 1|avg (2d4 + 1)) bludgeoning damage."
+    \ Hit: dice: 2d4 + 1|avg (2d4 + 1) bludgeoning damage."
   "name": "Ram"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Shortsword"
 - "desc": "Ranged Weapon Attack: dice: d20+5 (+5 to hit), range 80/320 ft., one\
-    \ target. Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ target. Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Shortbow"
 "source":
 - "MM"

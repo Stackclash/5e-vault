@@ -78,16 +78,16 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
 - "desc": "The priest attacks twice."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage, and if the target\
-    \ is a creature, it is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]\
-    \ until the start of the priest's next turn. If this damage reduces a Medium or\
-    \ smaller creature to 0 hit points, the creature dies, and its soul is trapped\
-    \ in the priest's body, manifesting as a shadowy Soul Tattoo on the priest. The\
-    \ soul is freed if the priest dies."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage, and if the target is\
+    \ a creature, it is [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]] until\
+    \ the start of the priest's next turn. If this damage reduces a Medium or smaller\
+    \ creature to 0 hit points, the creature dies, and its soul is trapped in the\
+    \ priest's body, manifesting as a shadowy Soul Tattoo on the priest. The soul\
+    \ is freed if the priest dies."
   "name": "Soul Blade"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 120 ft., one target.\
-    \ Hit: 17 (dice: 3d8 + 4|avg (3d8 + 4)) necrotic damage, and the target\
-    \ can't regain hit points until the start of the priest's next turn."
+    \ Hit: dice: 3d8 + 4|avg (3d8 + 4) necrotic damage, and the target can't\
+    \ regain hit points until the start of the priest's next turn."
   "name": "Necrotic Bolt"
 "bonus_actions":
 - "desc": "The priest touches one of the Soul Tattoos on its body. The tattoo vanishes\

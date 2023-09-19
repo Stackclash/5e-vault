@@ -89,9 +89,9 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "desc": "The githyanki makes two silver greatsword attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6)) slashing damage plus 10 (dice:\
-    \ 3d6|avg (3d6)) psychic damage. This is a magic weapon attack. On a critical\
-    \ hit against a target in an astral body (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
+    \ Hit: dice: 2d6 + 6|avg (2d6 + 6) slashing damage plus dice: 3d6|avg\
+    \ (3d6) psychic damage. This is a magic weapon attack. On a critical hit against\
+    \ a target in an astral body (as with the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
     \ spell), the githyanki can cut the silvery cord that tethers the target to its\
     \ material body, instead of dealing damage."
   "name": "Silver Greatsword"

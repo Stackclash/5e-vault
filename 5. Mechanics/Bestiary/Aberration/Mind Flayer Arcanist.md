@@ -34,7 +34,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 
 An illithid experiences euphoria as it devours the brain of a humanoid, along with its memories, personality, and innermost fears. Mind flayers will sometimes harvest a brain rather than devour it, using it as part of some alien experiment or transforming it into an intellect devourer.
 
-> [!quote] Qualith
+> [!note] Qualith
 > 
 > On the rare occasion that mind flayers need to write something down, they do so in Qualith. This system of tactile writing (similar to braille) is read by an illithid's tentacles. Qualith is written in four-line stanzas and is so alien in construction that non-illithids must resort to magic to discern its meaning. Though Qualith can be used to keep records, illithids most often use it to mark portals or other surfaces with warnings or instructions.
 ^qualith
@@ -97,20 +97,20 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
   "name": "Magic Resistance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: 15 (dice: 2d10 + 4|avg (2d10 + 4)) psychic damage. If the target\
-    \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
-    \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ Hit: dice: 2d10 + 4|avg (2d10 + 4) psychic damage. If the target is Medium\
+    \ or smaller, it is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape\
+    \ DC 15) and must succeed on a DC 15 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until this grapple ends."
   "name": "Tentacles"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]\
     \ humanoid [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by the mind flayer.\
-    \ Hit: The target takes 55 (dice: 10d10|avg (10d10)) piercing damage. If\
-    \ this damage reduces the target to 0 hit points, the mind flayer kills the target\
+    \ Hit: The target takes dice: 10d10|avg (10d10) piercing damage. If this\
+    \ damage reduces the target to 0 hit points, the mind flayer kills the target\
     \ by extracting and devouring its brain."
   "name": "Extract Brain"
 - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
     \ creature in that area must succeed on a DC 15 Intelligence saving throw or take\
-    \ 22 (dice: 4d8 + 4|avg (4d8 + 4)) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ dice: 4d8 + 4|avg (4d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success."
   "name": "Mind Blast (Recharge 5-6)"

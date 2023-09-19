@@ -8,15 +8,13 @@ aliases: ["Downtime Activity: Buying a Magic Item"]
 # Downtime Activity: Buying a Magic Item
 *Source: Xanathar's Guide to Everything p. 126* 
 
-## Downtime Activity: Buying a Magic Item
-
 Purchasing a magic item requires time and money to seek out and contact people willing to sell items. Even then, there is no guarantee a seller will have the items a character desires.
 
-### Resources
+## Resources
 
 Finding magic items to purchase requires at least one workweek of effort and 100 gp in expenses. Spending more time and money increases your chance of finding a high-quality item.
 
-### Resolution
+## Resolution
 
 A character seeking to buy a magic item makes a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check to determine the quality of the seller found. The character gains a +1 bonus on the check for every workweek beyond the first that is spent seeking a seller and a +1 bonus for every additional 100 gp spent on the search, up to a maximum bonus of +10. The monetary cost includes a wealthy lifestyle, for a buyer must impress potential business partners.
 
@@ -56,7 +54,7 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 *Halved for a consumable item like a potion or scroll
 
-### Complications
+## Complications
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 

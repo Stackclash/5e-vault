@@ -107,7 +107,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 | 9 | Nessus | Asmodeus | — | All devils |
 ^layers-and-lords-of-the-nine-hells-layer
 
-> [!quote] Devil True Names and Talismans
+> [!note] Devil True Names and Talismans
 > 
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
@@ -116,7 +116,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
 ^devil-true-names-and-talismans
 
-> [!quote] Variant: Devil Summoning
+> [!note] Variant: Devil Summoning
 > 
 > Some devils can have an action option that allows them to summon other devils.
 > 
@@ -173,21 +173,21 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     \ tail. It can use Hurl Flame in place of any melee attack."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 15 (dice: 2d8 + 6|avg (2d8 + 6)) piercing damage."
+    \ Hit: dice: 2d8 + 6|avg (2d8 + 6) piercing damage."
   "name": "Fork"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 10 (dice: 1d8 + 6|avg (1d8 + 6)) piercing damage. If the target is\
-    \ a creature other than an undead or a construct, it must succeed on a DC 17 Constitution\
-    \ saving throw or lose 10 (dice: 3d6|avg (3d6)) hit points at the start of\
-    \ each of its turns due to an infernal wound. Each time the devil hits the wounded\
-    \ target with this attack, the damage dealt by the wound increases by 10 (dice:\
-    \ 3d6|avg (3d6)). Any creature can take an action to stanch the wound with\
-    \ a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target\
-    \ receives magical healing."
+    \ Hit: dice: 1d8 + 6|avg (1d8 + 6) piercing damage. If the target is a creature\
+    \ other than an undead or a construct, it must succeed on a DC 17 Constitution\
+    \ saving throw or lose dice: 3d6|avg (3d6) hit points at the start of each\
+    \ of its turns due to an infernal wound. Each time the devil hits the wounded\
+    \ target with this attack, the damage dealt by the wound increases by dice: 3d6|avg\
+    \ (3d6). Any creature can take an action to stanch the wound with a successful\
+    \ DC 12 Wisdom (Medicine) check. The wound also closes if the target receives\
+    \ magical healing."
   "name": "Tail"
 - "desc": "Ranged Spell Attack: dice: d20+7 (+7 to hit), range 150 ft., one target.\
-    \ Hit: 14 (dice: 4d6|avg (4d6)) fire damage. If the target is a flammable\
-    \ object that isn't being worn or carried, it also catches fire."
+    \ Hit: dice: 4d6|avg (4d6) fire damage. If the target is a flammable object\
+    \ that isn't being worn or carried, it also catches fire."
   "name": "Hurl Flame"
 "source":
 - "MM"

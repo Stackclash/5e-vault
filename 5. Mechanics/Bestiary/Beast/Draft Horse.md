@@ -31,7 +31,7 @@ aliases: ["Draft Horse"]
 "cr": "1/4"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 2d4 + 4|avg (2d4 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d4 + 4|avg (2d4 + 4) bludgeoning damage."
   "name": "Hooves"
 "source":
 - "MM"

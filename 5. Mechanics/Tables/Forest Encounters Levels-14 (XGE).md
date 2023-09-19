@@ -12,8 +12,8 @@ aliases: ["Forest Encounters (Levels 1—4)"]
 
 **Forest Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01 | 1 [[5. Mechanics/Bestiary/Beast/Giant Owl.md\|giant owl]] |
 | 02 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Beast/Cat.md\|cats]] |
 | 03 | `dice: 2d4\|avg` (`2d4`) woodcutters ([[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]]) |

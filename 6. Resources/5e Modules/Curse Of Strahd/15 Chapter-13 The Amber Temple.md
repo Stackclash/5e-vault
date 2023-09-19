@@ -14,7 +14,7 @@ A secret society of good-aligned wizards built the Amber Temple in the Balinok M
 
 The wizards were dead and gone by the time an evil archmage named [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] took over the temple and turned the skulls of it previous defenders into flameskulls under his command. [[5. Mechanics/Bestiary/Npc/Exethanter (COS).md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
 
-> [!quote] Extreme Cold
+> [!note] Extreme Cold
 > 
 > The Amber Temple is a cold, dark place carved out of the snowy slope of Mount Ghakis. The temperature throughout the complex is −10 degrees Fahrenheit (−23 degrees Celsius). Characters who don't have heat sources, cold weather gear, or magic to protect them are subject to the effects of extreme cold, as described in the ""Weather"" section in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide". If [[5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md\|Kasimir Velikov]] (see chapter 5, area N9a) is with the party, his [[5. Mechanics/Items/Ring Of Warmth.md\|ring of warmth]] protects him from the effects of the extreme cold.
 ^extreme-cold
@@ -43,7 +43,7 @@ All the doors in the temple are fashioned from blocks of translucent amber with 
 
 A snow-swept gravel road climbs the mountainside as it travels north from Tsolenka Pass toward the temple. When the characters reach the end of this road, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The road fades away under a covering of snow, but it takes you far enough to see the facade of some kind of temple carved into the sheer mountainside ahead. The front of the structure is fifty feet high and has six alcoves containing twenty-foot-tall statues. Each statue is carved from a single block of amber and depicts a faceless, hooded figure, its hands pressed together in a gesture of prayer. Between the two innermost statues is a twenty-foot-tall archway with a staircase leading down.
 ^5d2
@@ -52,7 +52,7 @@ The amber statues are impervious to damage. Looking at one for long fills a view
 
 ### X1a. Narrow Fissure
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A natural fissure has opened in the mountainside west of the temple's facade, creating a gap two feet wide, ten feet tall, and fifteen feet deep. You see light coming from a room beyond, and you hear human voices there as well.
 ^5d4
@@ -63,7 +63,7 @@ The fissure leads to area X15. If the characters make a lot of noise outside, on
 
 If the characters pass through the archway between the statues, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Icy steps descend ten feet to a time-ravaged hallway with arrow slits in the walls. Beyond the hall lies a vast, sepulchral darkness.
 ^5d6
@@ -78,7 +78,7 @@ This empty room lies behind a secret door. The ceiling is 10 feet high. Two arro
 
 This room lies behind a secret door.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Two arrow slits are carved into the west wall of this 10-foot-high, twenty-foot-square room. Slumped in the northeast corner is a skeleton wearing a blue wizard's robe and clutching a wand to its chest.
 ^5d9
@@ -91,7 +91,7 @@ The skeleton clutches a [[5. Mechanics/Items/Wand Of Secrets.md\|wand of secrets
 
 ### X3. Empty Barracks
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Shattered bits of wood cover the floor of this frigid, twenty-foot-square room.
 ^5dc
@@ -102,7 +102,7 @@ A secret door set in one wall of each room can be pulled open to reveal area X2a
 
 ### X4. Overlook
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A twenty-foot-wide balcony of black marble with a shattered railing overlooks a vast temple. Black marble staircases at each end of the balcony descend thirty feet to the temple floor. The vaulted ceiling is thirty feet above the balcony. The walls and ceiling are covered in an amber glaze, lending the gloom a golden sheen. A set of amber doors stands closed at the west end of the balcony. A similar pair stands open to the east.
 ^5de
@@ -113,7 +113,7 @@ The open doorway to the east leads to area X6. The double doors to the west open
 
 ### X5. Temple of Lost Secrets
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Four black marble columns support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness. The ominous statue stands between two black marble balconies, one of which has partially collapsed and fallen on the temple's black marble floor, in front of an open doorway. The walls of the temple are sheathed in amber, and the doors leading from it are made of amber as well. Arched hallways coated with amber lead away from the temple to the west and east. Flanking these exits are alcoves that hold white marble statues of robed human wizards with pointed hats and golden staffs. One of them has toppled over and lies shattered on the floor. 
 ^5e0
@@ -165,11 +165,11 @@ Set into the middle of the temple's north wall is a secret door. A character who
 
 ### X5c. Locked Doors
 
-These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes 22 (`dice: 4d10|avg` (`4d10`)) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
+These amber doors are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs (area X31).
 
 ### X5d. Amber Reflections
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This arched hall rises to a height of twenty feet. You can see your reflections in the amber glaze. But the images don't mirror your movements. Instead, they wave their arms and scream silent warnings to you.
 ^5e8
@@ -180,7 +180,7 @@ The east hall leads to area X32, the west hall to area X36.
 
 ### X6. Southeast Annex
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room is featureless except for a rough-edged, 10-foot-diameter circular hole in the floor to the east and empty torch sconces along the walls. Double doors of amber stand open to the north and west. A single closed door lies just south of the western set of double doors.
 ^5ea
@@ -193,7 +193,7 @@ A secret door in the south wall opens into area X7.
 
 ### X7. Secret Scroll Repository
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Carved into the south wall of this dusty space are cylindrical holes fit for scrolls or maps.
 ^5ed
@@ -202,7 +202,7 @@ The wizards kept magic scrolls here in case the temple came under attack. The sc
 
 ### X8. Upper East Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Glazed amber covers the walls of this twenty-foot-wide, seventy-foot-long arched corridor. The amber doors at both ends of the hall stand open. A closed door is in the middle of the east wall, and three arrow slits are cut into the wall across from it. Cracks in the black marble floor run the length of the hall.
 ^5ef
@@ -211,14 +211,14 @@ The cracks in the floor were made by the golem in area X10. The arrow slits are 
 
 ### X9. Lecture Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This chamber is brightly lit by red copper lanthorns that hang from the ceiling. The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spellbooks. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descending rows of red marble benches. 
 ^5f1
 
 The hanging lanthorns have [[5. Mechanics/Spells/Continual Flame.md\|continual flame]] spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
-![[Vilnius](compendium/besti...](compendium/adventures/curse-of-strahd/img/119-cos13-03.png#center "[[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] and Quasit")
+![[6. Resources/5e Modules/Curse Of Strahd/img/119-cos13-03.png#center\|Vilnius and Quasit]]
 
 Hiding behind the lectern is [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] (NE male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) and his [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]] familiar. Characters who have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[5. Mechanics/Bestiary/Npc/Vilnius (COS).md\|Vilnius]] with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check.
 
@@ -238,7 +238,7 @@ Although he can tell that the amulet is magical, he doesn't know its purpose. Th
 
 ### X10. Northeast Annex
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The walls and ceiling in the eastern portion of this bare stone room have collapsed. To the west and south are open amber doors. In the center of the room is a ten-foot-tall statue of a jackal-headed warrior made of cracked amber. It turns to face you and clenches its fists.
 ^5f4
@@ -249,7 +249,7 @@ An earthquake collapsed the eastern part of the room long ago.
 
 ### X11. Northeast Balcony
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This black marble balcony, thirty feet above the floor, overhangs the northeast corner of the temple. The two amber doors leading from this balcony stand open.
 ^5f6
@@ -258,7 +258,7 @@ Characters can see an arrow slit west of the northern set of doors (see area X13
 
 ### X12. East Shrine
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This bare stone room consists of a foyer to the west and a shrine to the east. Four candlesticks lie on the dusty floor of the foyer. In the shrine, fragments of a shattered obsidian statue are scattered in a raised alcove at the eastern end of the chamber. Two pairs of empty alcoves line the north and south walls of the shrine.
 ^5f8
@@ -269,7 +269,7 @@ A secret door is set into the back of one of the alcoves on the north wall. It c
 
 ### X13. East Archer Post
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This narrow room has an arrow slit in the center of the south wall.
 ^5fa
@@ -280,7 +280,7 @@ The ceiling here is 10 feet high. The arrow slit looks down toward the temple fl
 
 When the characters open the secret door at the top of the stairs, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A dusty corridor heads north, then bends to the east, descending a dark staircase. The air is thin, but heavy with the stench of death.
 ^5fc
@@ -289,7 +289,7 @@ Three 10-foot-long staircases with landings between them descend a total of 30 f
 
 ### X14a. Collapsed Lower Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The stairs descend to a collapsed hall with a high ceiling and amber-glazed walls glazed. Rubble covers most of the floor, and a path through the rubble leads to an open doorway. A deathly stench seems to come from there.
 ^5fe
@@ -304,7 +304,7 @@ This room contains a [[5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]] 
 
 When they aren't expecting trouble, the gladiator and the berserkers sit on the floor, sharpening their weapons, while the dire wolf sleeps in the middle of the room. The gladiator and the berserkers fight to the death. The dire wolf flees the temple (heading east, through areas X4 and X2) if reduced to fewer than half its hit points.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Torches in sconces light this bare stone room. Six bedrolls made of stitched animal furs cover the floor. Cold air enters through a fissure in the southwest wall.
 ^600
@@ -325,7 +325,7 @@ Apart from its location, this room is identical to area X7.
 
 ### X17. Upper West Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several amber doors lead from this hall, and three arrow slits are cut into the east wall. Floating in the middle of the hall are three skulls wreathed in green flame.
 ^605
@@ -342,7 +342,7 @@ Although the dead wizard's spellbook didn't survive, his staff did. It is a [[5.
 
 ### X18. Hallway
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This twenty-foot-long, ten-foot-high hallway of bare stone has an amber door at each end.
 ^608
@@ -351,7 +351,7 @@ Area X17 lies beyond the door to the east, area X21 beyond the door to the west.
 
 ### X19. Potion Storage
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Stone blocks resembling tables stand in the center of this room covered in dust. Carved into the stone walls are niches filled with hundreds of dusty bottles. Cobwebs hang from wooden ladders that lean against the walls.
 ^60a
@@ -362,7 +362,7 @@ A secret door is set in the north wall. It can be pulled open to reveal a stairc
 
 ### X20. Architect's Room
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest.
 ^60c
@@ -389,7 +389,7 @@ The uppermost landing has secret doors set into its north and south walls. The s
 
 When one of the doors to this room is opened, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Torches in sconces illuminate a dining table in the center of the room. Covering the table is a magnificent feast that fills the hall with the rich smells of cooked meat, sweet vegetables, piping hot gravy, and wine.
 ^611
@@ -408,7 +408,7 @@ Many unscrupulous Barovians and Vistani would kill to obtain this ewer. Others w
 
 ### X23. Northwest Balcony
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This black marble balcony overhangs the northwest corner of the temple, the floor of which lies thirty feet below. Nearly half of the balcony has fallen away, and obvious cracks have formed near its ragged edge.
 ^614
@@ -419,7 +419,7 @@ Characters can see an arrow slit east of the northern set of doors (see area X25
 
 ### X24. West Shrine
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of alcoves line the north and south walls of the shrine.
 ^616
@@ -430,7 +430,7 @@ A pair of amber doors in the east wall open into area X25. A secret door is set 
 
 ### X25. West Archer Post
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This narrow room has an arrow slit in the center of the south wall.
 ^618
@@ -441,14 +441,14 @@ The ceiling here is 10 feet high. The arrow slit looks down toward the temple fl
 
 Two secret doors lead to this room. When either door is pulled open, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Hundreds of skulls fall out of a cavity behind the door.
 ^61b
 
 This room has a 30-foot-high ceiling and is packed floor to ceiling with human skulls. It takes 5 minutes for a single character to clear a path into the room. Multiple characters can work together to clear a path more quickly. Once the skulls are cleared away, characters can search the room.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Attached to the thirty-foot-high ceiling of this dark sepulcher is an upside-down iron chest with a barrel-shaped lid.
 ^61c
@@ -461,7 +461,7 @@ The iron chest is empty.
 
 ### X27. Lich's Lair
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This fifteen-foot-high room contains the trappings of royalty: ornate furniture, exquisite rugs and tapestries, and decorative statuary. Everywhere you look are lit candelabras atop small tables. The beauty of the decor is undone by thick dust and cobwebs. Standing in the center of the room is a decrepit skeleton clad in tattered robes.
 > 
@@ -490,7 +490,7 @@ The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain vi
 
 The secret door to this room has an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell cast on it (see area X27 for details).
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Behind the secret door is a small, dusty room. Rising from the floor in the eastern half of the room is a scaly arm and claw clutching a small box made of bone.
 ^621
@@ -499,7 +499,7 @@ The scaly arm is merely a carved pedestal. The bone box is [[5. Mechanics/Bestia
 
 ### X29. Secret Room
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Dust and cobwebs fill this otherwise empty room.
 ^623
@@ -508,7 +508,7 @@ The ceiling here is 10 feet high.
 
 ### X30. Preserved Library
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This stone library has twenty-foot-high walls and a thirty-foot-high vaulted ceiling. Covering the ceiling is a fresco that depicts angels being set ablaze in a hell. A black marble railing encloses a gold marble staircase that spirals gently down a thirty-foot-wide, thirty-foot-deep shaft to the north. Against the gray walls stand six ten-foot-tall, black marble bookcases. On their shelves are hundreds of well-preserved tomes. Embroidered rugs, chairs, and lit candelabras fill the southern half of the room.
 ^625
@@ -529,14 +529,14 @@ The secret door in the center of the west wall can be pulled open to reveal an e
 
 These catacombs contain the moldy remains of the wizards who once defended the Amber Temple. Later generations of wizards who were corrupted by the evil of the temple smashed the amber sheaths covering the dead wizards' bodies and stole everything of value, leaving the formerly preserved corpses to rot.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > You smell the horrid perfume of the ancient dead. Stone niches along the walls of these catacombs hold human-shaped amber husks, bones, and tattered shrouds.
 ^627
 
 If the characters enter these catacombs, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Tall, iron candlesticks stand in alcoves. Their candles ignite as you enter, casting flickering light upon the walls and causing the shattered amber to glitter.
 ^628
@@ -545,14 +545,14 @@ The magic candles ignite when a living creature enters the catacombs and melt aw
 
 ### X31a. West Catacombs
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > More skeletal remains fill niches in the walls of this smaller annex, the amber husks that once preserved them smashed beyond repair.
 ^62a
 
 ### X31b. East Catacombs
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The niches set into the wall of this annex lie empty, except for a thick coat of dust.
 ^62c
@@ -561,7 +561,7 @@ No wizards were entombed here. This annex is empty.
 
 ### X32. Lower East Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The walls and ceiling of this great hall are coated in amber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble.
 > 
@@ -574,7 +574,7 @@ An earth tremor collapsed the northern part of the hall. Three [[5. Mechanics/Be
 
 If two of the witches are killed or [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]], the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
 
-> [!quote] Amber Sarcophagi
+> [!note] Amber Sarcophagi
 > 
 > An amber sarcophagus looks like a rough block of solid amber 8 feet tall, 5 feet wide, and 5 feet thick. Trapped inside the block is a sliver or wisp of utter darkness no more than a few inches long. The darkness is the vestige of a dead and hateful god—a shard of pure evil with shreds of sentience and awareness. The vestige can't be harmed or controlled, and it is immune to all conditions.
 > 
@@ -595,11 +595,11 @@ Several of these amber-glazed rooms are located along the periphery of the compl
 
 #### X33a. Vault of Shalx
 
-The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes 22 (`dice: 4d10|avg` (`4d10`)) necrotic damage, turning to dust and bones if reduced to 0 hit points.
+The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes `dice: 4d10|avg` (`4d10`) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
 Adjust the following text if the creatures in this room have already been encountered and destroyed.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has walls of glazed amber, a floor of red marble, and a rough-hewn shaft in the center of its ten-foot-high ceiling. Three amber sarcophagi stand in alcoves, and above each sarcophagus floats a human skull wreathed in green flame.
 ^634
@@ -632,7 +632,7 @@ As soon as this dark gift is received, the beneficiary's eyes glow a sickly yell
 
 The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of area X33a.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has amber-glazed walls, a blue marble floor, and three amber sarcophagi standing in alcoves.
 ^639
@@ -661,7 +661,7 @@ The beneficiary of this dark gift gains an extra finger on each hand, as well as
 
 The amber door to this room hangs open, and the chamber reeks of death.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
 ^63e
@@ -696,7 +696,7 @@ The beneficiary of this dark gift gains the following flaw: "I won't take no for
 
 The amber door to this room hangs open.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has amber-glazed walls and a floor of purplish-black marble. Two amber sarcophagi stand in alcoves to the west and east. A third sarcophagus that once stood in the north alcove lies shattered on the floor. Clustered in the middle of the room are four loathsome, hunched creatures. Each one has a single large, baleful eye.
 ^644
@@ -725,7 +725,7 @@ The beneficiary's voice becomes a low whisper, and its smile becomes cruel and e
 
 The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of area X33a.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has amber-glazed walls, a black marble floor with red veins, and three amber sarcophagi standing in alcoves.
 ^649
@@ -756,7 +756,7 @@ Oily black fur covers the beneficiary's face and body.
 
 The amber door to this room is sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Thangob." The door is otherwise identical to the door of area X33a.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room has amber-glazed walls, a floor of grayish marble with black veins, and three amber sarcophagi standing in alcoves.
 ^64e
@@ -783,7 +783,7 @@ The beneficiary gains the ability to speak and understand Infernal, if he or she
 
 ### X34. Wizard's Bedchamber
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A white marble bed stands in the center of this bare stone room, its mattress long since rotted away. Golden hawks perch atop the bed's corner posts. The room's remaining furnishings have been reduced to dust-covered heaps. Cobwebs cover arcane sigils carved into the walls.
 ^653
@@ -796,7 +796,7 @@ The four golden hawks are worth 250 gp each.
 
 ### X35. Sleeping Guardian
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The furnishings of this bare stone room have succumbed to decrepitude. Standing in the center of the room, its head scraping the ten-foot-high ceiling, is a vaguely man-shaped construct made of dark wood and riveted iron. Its helmed head stares blindly in your direction. Cobwebs stretch from this terrible artifice to the wrecked furniture that surrounds it.
 ^656
@@ -805,7 +805,7 @@ This room was once a wizard's bedchamber. The construct is an [[/5. Mechanics/Ru
 
 ### X36. Lower West Hall
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Glistening amber coats the walls and ceiling of this enormous hall like sculpted honey, and dust covers the black marble floor. The vaulted ceiling is twenty-five feet high. Set into the walls at a height of five feet are amber ledges lined with life-sized alabaster statues of cats, frogs, hawks, owls, rats, ravens, snakes, toads, and weasels. Many of the statues have fallen off their perches and lie shattered on the floor.
 > 
@@ -816,14 +816,14 @@ The animal statues represent different kinds of familiars, and they are harmless
 
 ### X37. Wizard's Bedchamber
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Furnishings made of ancient, colorless wood have collapsed under their own weight and now lie covered with cobwebs and dust.
 ^65a
 
 ### X38. Haunted Room
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about.
 ^65c
@@ -836,7 +836,7 @@ A search of the room yields a wooden scroll tube containing an intact spell scro
 
 ### X39. Plundered Treasury
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The amber doors that once sealed this great stone room have been smashed, their pieces lying amid crushed bones, armor, and weapons.
 ^65f
@@ -851,21 +851,21 @@ Not all of the thieves escaped, and the pulverized remains of those who died her
 
 The amber doors to the south are sealed with an [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] spell is cast on the [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] in this room. The spell lasts for 1 minute.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Piles of treasure are heaped against the west and east walls of this stone room.
 ^661
 
 If the golem is visible, add:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall.
 ^662
 
 The ceiling here is 30 feet high and flat. The statue in the northern alcove is an [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|amber golem]] (use the stat block for the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] in the "Monster Manual"). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple.
 
-![[Amber Golem](compendium/b...](compendium/adventures/curse-of-strahd/img/122-cos13-05.png#center "[[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md\|Amber Golem]]")
+![[6. Resources/5e Modules/Curse Of Strahd/img/122-cos13-05.png#center\|Amber Golem]]
 
 See area X41 for a description of the cracks in the south wall.
 
@@ -931,7 +931,7 @@ An earth tremor split the rock between areas X40 and X42, creating two natural o
 
 ### X42. Amber Vault
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A golden marble staircase with a black marble railing hugs the north wall as it spirals gently up a thirty-foot-wide shaft. Lying in the middle of the room are six rotting wooden crates.
 > 

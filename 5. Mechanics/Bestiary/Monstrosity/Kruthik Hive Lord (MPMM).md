@@ -67,14 +67,14 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - "desc": "The kruthik makes two Stab or Spike attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: 9 (dice: 1d10 + 4|avg (1d10 + 4)) piercing damage."
+    \ Hit: dice: 1d10 + 4|avg (1d10 + 4) piercing damage."
   "name": "Stab"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 30/120 ft., one\
-    \ target. Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage."
+    \ target. Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage."
   "name": "Spike"
 - "desc": "The kruthik sprays acid in a 15-foot cone. Each creature in that area must\
-    \ make a DC 14 Dexterity saving throw, taking 22 (dice: 4d10|avg (4d10)) acid\
-    \ damage on a failed save, or half as much damage on a successful one."
+    \ make a DC 14 Dexterity saving throw, taking dice: 4d10|avg (4d10) acid damage\
+    \ on a failed save, or half as much damage on a successful one."
   "name": "Acid Spray (Recharge 5-6)"
 "source":
 - "MPMM"

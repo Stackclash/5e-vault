@@ -82,7 +82,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   "name": "Unusual Nature"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage, and if the target\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage, and if the target\
     \ is Large or smaller, it is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Slam"
 "reactions":

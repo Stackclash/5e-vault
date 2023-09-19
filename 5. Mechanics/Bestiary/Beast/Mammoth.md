@@ -40,10 +40,10 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
   "name": "Trampling Charge"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 10 ft., one target.\
-    \ Hit: 25 (dice: 4d8 + 7|avg (4d8 + 7)) piercing damage."
+    \ Hit: dice: 4d8 + 7|avg (4d8 + 7) piercing damage."
   "name": "Gore"
 - "desc": "Melee Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#prone|prone]]\
-    \ creature. Hit: 29 (dice: 4d10 + 7|avg (4d10 + 7)) bludgeoning damage."
+    \ creature. Hit: dice: 4d10 + 7|avg (4d10 + 7) bludgeoning damage."
   "name": "Stomp"
 "source":
 - "MM"

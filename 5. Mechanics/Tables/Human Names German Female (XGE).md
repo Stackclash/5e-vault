@@ -12,8 +12,8 @@ aliases: ["Human Names – German, Female"]
 
 **Human Names – German, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adelhayt |
 | 03-04 | Affra |
 | 05-06 | Agatha |

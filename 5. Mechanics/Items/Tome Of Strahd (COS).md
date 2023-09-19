@@ -8,6 +8,7 @@ aliases: ["Tome of Strahd"]
 ---
 # Tome of Strahd
 *Adventuring Gear*  
+![[5. Mechanics/Items/img/tome-of-strahd.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

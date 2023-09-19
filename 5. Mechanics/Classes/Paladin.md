@@ -156,8 +156,8 @@ If your paladin character has a personal goal, it might be drawn from some life 
 
 **Personal Goal**
 
-| `dice: d6\|avg` (`d6`) | Personal Goal |
-|-----------|------------|---------------|
+| dice: d6 | Personal Goal |
+|----------|---------------|
 | 1 | Peace. You fight so that future generations will not have to. |
 | 2 | Revenge. Your oath is the vehicle through which you will right an ancient wrong. |
 | 3 | Duty. You will live up to what you have sworn to do, or die trying. |
@@ -175,8 +175,8 @@ Your symbol might be displayed on a banner, a flag, or your clothing for all to 
 
 **Symbol**
 
-| `dice: d6\|avg` (`d6`) | Symbol |
-|-----------|------------|--------|
+| dice: d6 | Symbol |
+|----------|--------|
 | 1 | A dragon, emblematic of your nobility in peace and your ferocity in combat |
 | 2 | A clenched fist, because you are always ready to fight for your beliefs |
 | 3 | An upraised open hand, indicating your preference for diplomacy over combat |
@@ -194,8 +194,8 @@ Your paladin character might have an enemy that dates from the days before you t
 
 **Nemesis**
 
-| `dice: d6\|avg` (`d6`) | Nemesis |
-|-----------|------------|---------|
+| dice: d6 | Nemesis |
+|----------|---------|
 | 1 | A mighty orc war chief who threatens to overrun and destroy everything you hold sacred |
 | 2 | A fiend or a celestial, the agent of a power of the Outer Planes, who has been charged with corrupting or redeeming you, as appropriate |
 | 3 | A dragon whose servants dog your steps |
@@ -213,8 +213,8 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 **Temptation**
 
-| `dice: d6\|avg` (`d6`) | Temptation |
-|-----------|------------|------------|
+| dice: d6 | Temptation |
+|----------|------------|
 | 1 | Fury. When your anger is roused, you have trouble thinking straight, and you fear you might do something you'll regret. |
 | 2 | Pride. Your deeds are noteworthy, and no one takes note of them more often than you. |
 | 3 | Lust. You can't resist an attractive face and a pleasant smile. |
@@ -311,7 +311,7 @@ _Source: Tasha's Cauldron of Everything p. 52_
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
 
-> [!quote] Breaking Your Oath
+> [!note] Breaking Your Oath
 > 
 > A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
 > 

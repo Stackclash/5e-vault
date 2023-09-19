@@ -45,15 +45,15 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   "name": "Hold Breath"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
   "name": "Claw"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) piercing\
-    \ damage, or 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage if used with\
-    \ two hands in melee."
+    \ or range 20/60 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage, or dice: 1d8 + 2|avg (1d8 + 2) piercing damage if used with two\
+    \ hands in melee."
   "name": "Spear"
 - "desc": "Ranged Weapon Attack: dice: d20+2 (+2 to hit), range 80/320 ft., one\
-    \ target. Hit: 4 (dice: 1d8|avg (1d8)) piercing damage."
+    \ target. Hit: dice: 1d8|avg (1d8) piercing damage."
   "name": "Light Crossbow"
 - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus\
     \ to AC and has advantage on Strength and Constitution saving throws. While in\

@@ -28,7 +28,7 @@ The following areas correspond to labels on the map of the Tsolenka Pass below. 
 
 When the characters approach from the west, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron portcullis, behind which burns a curtain of green flame.
 > 
@@ -45,7 +45,7 @@ These statues are actually two [[/5. Mechanics/Rules/Conditions.md#petrified\|pe
 
 ### T3. Curtain of Green Flame
 
-A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes 33 (`dice: 6d10|avg` (`6d10`)) fire damage.
+A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes `dice: 6d10|avg` (`6d10`) fire damage.
 
 A successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
@@ -53,7 +53,7 @@ A successful casting of [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] (D
 
 The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check.
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A cold hearth stands across from the door, the wind howling down its chimney. A stone staircase is on the south wall. Three windows look out over a foggy sea.
 ^537
@@ -66,7 +66,7 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 
 ### T5. Guard Tower, Upper Floor
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The upper level of the tower is an icebox with windows set in almost every wall. A rusted iron ladder bolted to the floor and ceiling leads up to a wooden trapdoor. Mounted above the stone hearth is a dire wolf's head. The wind coming down the chimney howls in its stead.
 ^53a
@@ -75,7 +75,7 @@ The trapdoor in the ceiling pushes open with a squeal, revealing the rooftop (ar
 
 ### T6. Guard Tower Rooftop
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Ten-foot-tall, gold-plated statues stand atop the battlements, facing outward. Each one depicts a female human knight holding a lance. The cold wind stirs the snow, under which you see human skeletons clad in rusty mail.
 ^53c
@@ -88,7 +88,7 @@ The skeletons are the remains of four guards who held this post long ago. Charac
 
 If your card reading reveals that a treasure is here, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The swirling snow assumes the forms of thin, young women. The wind howls, "Begone! The treasure is ours!"
 ^53e
@@ -104,7 +104,7 @@ The snow maidens don't speak, nor are they interested in hearing what the charac
 
 When the characters approach the bridge, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The snowy pass comes to a gorge spanned by a stone bridge. At each end of the bridge is a thirty-foot-tall, thirty-foot-wide stone arch. Atop each one are two statues of armored knights on horseback with lances, charging toward one another. The wind bites and howls like wolves as it passes through the gorge.
 ^540
@@ -113,7 +113,7 @@ The western arch contains empty guard posts, one on each side of the bridge. The
 
 ### T8. Stone Bridge
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The low walls that enclose the stone bridge have fallen away in a couple of places, but the bridge appears intact. A black-cloaked rider on a charcoal-colored horse guards the middle of the bridge.
 ^542
@@ -124,7 +124,7 @@ Five hundred feet below the bridge is the Luna River, barely visible through the
 
 ### T9. Eastern Arch
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > One of the statues atop this arch has crumbled, leaving only the hindquarters of the horse intact. The mountain pass continues beyond.
 ^544
@@ -143,7 +143,7 @@ As the characters cross the stone bridge (area T8) from east to west—possibly 
 
 When the Roc of Mount Ghakis appears, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > Diving toward the bridge is a creature of unearthly size—a bird so monstrous that its wings blot out the sky.
 ^547
@@ -156,14 +156,14 @@ The roc attacks a random creature on the bridge, snatching up a horse or a mule,
 
 As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call [[5. Mechanics/Bestiary/Npc/Sangzor (COS).md\|Sangzor]] ("Bloodhorn"):
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
 ^549
 
 If no character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 16 or higher, the party is surprised. Otherwise, read:
 
-> [!quote] ...
+> [!readaloud] 
 > 
 > A nine-foot-tall goat stands atop a crag above you, its gray fur blending perfectly with the rock of the mountainside. It lowers its head, and malice glimmers in its eyes.
 ^54a

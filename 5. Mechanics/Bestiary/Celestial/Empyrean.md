@@ -71,12 +71,12 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
   "name": "Magic Weapons"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+17 (+17 to hit), reach 10 ft., one target.\
-    \ Hit: 31 (dice: 6d6 + 10|avg (6d6 + 10)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ Hit: dice: 6d6 + 10|avg (6d6 + 10) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the empyrean's next turn."
   "name": "Maul"
 - "desc": "Ranged Spell Attack: dice: d20+15 (+15 to hit), range 600 ft., one\
-    \ target. Hit: 24 (dice: 7d6|avg (7d6)) damage of one of the following types\
+    \ target. Hit: dice: 7d6|avg (7d6) damage of one of the following types\
     \ (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder."
   "name": "Bolt"
 "legendary_actions":

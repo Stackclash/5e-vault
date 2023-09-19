@@ -152,14 +152,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 | 6 | balor, goristro |
 ^demons-by-type
 
-> [!quote] Demon True Names
+> [!note] Demon True Names
 > 
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
 
-> [!quote] Variant: Demon Summoning
+> [!note] Variant: Demon Summoning
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
@@ -236,8 +236,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "desc": "The yochlol makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft. (10 feet\
-    \ in demon form), one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2)) bludgeoning\
-    \ (piercing in spider form) damage plus 21 (dice: 6d6|avg (6d6)) poison damage."
+    \ in demon form), one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) bludgeoning\
+    \ (piercing in spider form) damage plus dice: 6d6|avg (6d6) poison damage."
   "name": "Slam (Bite in Spider Form)"
 - "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
     \ equipment it is wearing or carrying is also transformed. It reverts to its true\

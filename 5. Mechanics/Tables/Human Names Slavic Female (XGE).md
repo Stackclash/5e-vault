@@ -12,8 +12,8 @@ aliases: ["Human Names – Slavic, Female"]
 
 **Human Names – Slavic, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Agripina |
 | 03-04 | Anastasiya |
 | 05-06 | Bogdana |

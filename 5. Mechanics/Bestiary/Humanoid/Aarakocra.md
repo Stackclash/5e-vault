@@ -24,7 +24,7 @@ Aarakocra have no concept of political borders or property ownership, and the va
 
 The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, which once ruled many worlds. A creature known as the Queen of Chaos arose and initiated an interplanar war against vaati rule. To combat the threat, seven vaati heroes combined their powers to create the mighty *Rod of Law*. In a battle against the queen's greatest general, Mishka the Wolf Spider, a vaati killed Mishka by thrusting the rod into him like a spear. The rod shattered into seven shards that scattered across the multiverse. Aaracokra seek signs of the pieces' locations in order to rebuild what is now known as the *Rod of Seven Parts*.
 
-> [!quote] Summoning Air Elementals
+> [!note] Summoning Air Elementals
 > 
 > Five aarakocra within 30 feet of each other can magically summon an air elemental. Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can't perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.
 ^summoning-air-elementals
@@ -54,15 +54,15 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 "traits":
 - "desc": "If the aarakocra is flying and dives at least 30 feet straight toward a\
     \ target and then hits it with a melee weapon attack, the attack deals an extra\
-    \ 3 (dice: 1d6|avg (1d6)) damage to the target."
+    \ dice: 1d6|avg (1d6) damage to the target."
   "name": "Dive Attack"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2)) slashing damage."
+    \ Hit: dice: 1d4 + 2|avg (1d4 + 2) slashing damage."
   "name": "Talon"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 30/120 ft., one target. Hit: 5 (dice: 1d6 + 2|avg (1d6 + 2))\
-    \ piercing damage."
+    \ or range 30/120 ft., one target. Hit: dice: 1d6 + 2|avg (1d6 + 2) piercing\
+    \ damage."
   "name": "Javelin"
 - "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
     \ elemental](compendium/bestiary/elemental/air-elemental.md). Each of the five\

@@ -53,8 +53,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - "desc": "The illusionist makes two Arcane Burst attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: dice: d20+5 (+5 to hit), reach 5 ft.\
-    \ or range 120 ft., one target. Hit: 14 (dice: 2d10 + 3|avg (2d10 + 3))\
-    \ psychic damage."
+    \ or range 120 ft., one target. Hit: dice: 2d10 + 3|avg (2d10 + 3) psychic\
+    \ damage."
   "name": "Arcane Burst"
 "bonus_actions":
 - "desc": "The illusionist projects an illusion that makes the illusionist appear\

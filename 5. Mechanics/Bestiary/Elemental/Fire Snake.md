@@ -62,18 +62,18 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "cr": "1"
 "traits":
 - "desc": "A creature that touches the snake or hits it with a melee attack while\
-    \ within 5 feet of it takes 3 (dice: 1d6|avg (1d6)) fire damage."
+    \ within 5 feet of it takes dice: 1d6|avg (1d6) fire damage."
   "name": "Heated Body"
 "actions":
 - "desc": "The snake makes two attacks: one with its bite and one with its tail."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) piercing damage plus 3 (dice: 1d6|avg\
-    \ (1d6)) fire damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) piercing damage plus dice: 1d6|avg\
+    \ (1d6) fire damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d4 + 1|avg (1d4 + 1)) bludgeoning damage plus 3 (dice:\
-    \ 1d6|avg (1d6)) fire damage."
+    \ Hit: dice: 1d4 + 1|avg (1d4 + 1) bludgeoning damage plus dice: 1d6|avg\
+    \ (1d6) fire damage."
   "name": "Tail"
 "source":
 - "MM"

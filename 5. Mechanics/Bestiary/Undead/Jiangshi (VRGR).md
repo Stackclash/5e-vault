@@ -51,11 +51,11 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
 - "desc": "The jiangshi makes three Slam attacks and uses Consume Energy."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 5 ft., one target.\
-    \ Hit: 13 (dice: 2d8 + 4|avg (2d8 + 4)) bludgeoning damage."
+    \ Hit: dice: 2d8 + 4|avg (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 - "desc": "The jiangshi draws energy from a creature it can see within 30 feet of\
-    \ it. The target makes a DC 16 Constitution saving throw, taking 18 (dice: 4d8|avg\
-    \ (4d8)) necrotic damage on a failed save, or half as much damage on a successful\
+    \ it. The target makes a DC 16 Constitution saving throw, taking dice: 4d8|avg\
+    \ (4d8) necrotic damage on a failed save, or half as much damage on a successful\
     \ one. The jiangshi regains hit points equal to the amount of necrotic damage\
     \ dealt. After regaining hit points from this action, the jiangshi gains the following\
     \ benefits for 7 days: its walking speed increases to 40 feet, and it gains a\

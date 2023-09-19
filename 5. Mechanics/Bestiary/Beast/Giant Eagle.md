@@ -44,10 +44,10 @@ A giant eagle is a noble creature that speaks its own language and understands s
 - "desc": "The eagle makes two attacks: one with its beak and one with its talons."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) piercing damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) piercing damage."
   "name": "Beak"
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) slashing damage."
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) slashing damage."
   "name": "Talons"
 "source":
 - "MM"

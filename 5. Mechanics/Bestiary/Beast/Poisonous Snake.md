@@ -37,8 +37,8 @@ aliases: ["Poisonous Snake"]
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
     \ Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving\
-    \ throw, taking 5 (dice: 2d4|avg (2d4)) poison damage on a failed save, or\
-    \ half as much damage on a successful one."
+    \ throw, taking dice: 2d4|avg (2d4) poison damage on a failed save, or half\
+    \ as much damage on a successful one."
   "name": "Bite"
 "source":
 - "MM"

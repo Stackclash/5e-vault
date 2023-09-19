@@ -12,8 +12,8 @@ aliases: ["Human Names – Norse, Male"]
 
 **Human Names – Norse, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Agni |
 | 03-04 | Alaric |
 | 05-06 | Anvindr |

@@ -56,11 +56,11 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 3 (dice: 1d6|avg (1d6)) piercing damage. If the target is Medium\
-    \ or smaller, the derro can choose to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 1d6|avg (1d6) piercing damage. If the target is Medium or smaller,\
+    \ the derro can choose to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Hooked Spear"
 - "desc": "Ranged Weapon Attack: dice: d20+4 (+4 to hit), range 80/320 ft., one\
-    \ target. Hit: 6 (dice: 1d8 + 2|avg (1d8 + 2)) piercing damage."
+    \ target. Hit: dice: 1d8 + 2|avg (1d8 + 2) piercing damage."
   "name": "Light Crossbow"
 "source":
 - "MPMM"

@@ -12,6 +12,7 @@ aliases: ["Sacred Flame"]
 ---
 # Sacred Flame
 *cantrip, Evocation*  
+![[5. Mechanics/Spells/img/sacred-flame.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

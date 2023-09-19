@@ -12,8 +12,8 @@ aliases: ["Supplemental Tables; Childhood Memories"]
 
 **Childhood Memories**
 
-| `3d6 + Charisma modifier` | Memory |
-|---------------------------|--------|
+| 3d6 + #$prompt_number:title=Enter Charisma Modifier$# | Memory |
+|-------------------------------------------------------|--------|
 | 1-3 | I am still haunted by my childhood, when I was treated badly by my peers. |
 | 4-5 | I spent most of my childhood alone, with no close friends. |
 | 6-8 | Others saw me as being different or strange, and so I had few companions. |

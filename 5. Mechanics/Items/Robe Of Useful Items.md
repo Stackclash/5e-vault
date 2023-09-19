@@ -10,6 +10,7 @@ aliases: ["Robe of Useful Items"]
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/robe-of-useful-items.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤
@@ -27,8 +28,8 @@ The robe has two of each of the following patches:
 
 In addition, the robe has `dice: 4d4|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
 
-| `dice: d100\|avg` (`d100`) | Patch |
-|-------------|--------------|-------|
+| dice: d100 | Patch |
+|------------|-------|
 | 01-08 | Bag of 100 gp |
 | 09-15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp |
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
@@ -42,6 +43,6 @@ In addition, the robe has `dice: 4d4|avg` (`4d4`) other patches. The DM chooses 
 | 84-90 | 2 [[5. Mechanics/Bestiary/Beast/Mastiff.md\|mastiffs]] |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
 | 97-00 | [[5. Mechanics/Items/Portable Ram.md\|Portable ram]] |
-^dice-avg-patch
+^patch
 
 *Source: Dungeon Master's Guide p. 195. Available in the SRD.*

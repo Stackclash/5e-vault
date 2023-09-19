@@ -11,6 +11,7 @@ aliases: ["Helm of Brilliance"]
 ---
 # Helm of Brilliance
 *Wondrous Item, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/helm-of-brilliance.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -12,8 +12,8 @@ aliases: ["Elf Names – Female Adult"]
 
 **Elf Names – Female Adult**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adrie |
 | 03-04 | Ahinar |
 | 05-06 | Althaea |

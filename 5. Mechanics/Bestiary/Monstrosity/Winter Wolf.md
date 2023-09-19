@@ -48,12 +48,12 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
   "name": "Snow Camouflage"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage. If the target is a creature,\
+    \ it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 - "desc": "The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature\
-    \ in that area must make a DC 12 Dexterity saving throw, taking 18 (dice: 4d8|avg\
-    \ (4d8)) cold damage on a failed save, or half as much damage on a successful\
+    \ in that area must make a DC 12 Dexterity saving throw, taking dice: 4d8|avg\
+    \ (4d8) cold damage on a failed save, or half as much damage on a successful\
     \ one."
   "name": "Cold Breath (Recharge 5-6)"
 "source":

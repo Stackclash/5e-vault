@@ -42,12 +42,12 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 "cr": "5"
 "traits":
 - "desc": "A creature that touches the remorhaz or hits it with a melee attack while\
-    \ within 5 feet of it takes 7 (dice: 2d6|avg (2d6)) fire damage."
+    \ within 5 feet of it takes dice: 2d6|avg (2d6) fire damage."
   "name": "Heated Body"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 20 (dice: 3d10 + 4|avg (3d10 + 4)) piercing damage plus 7 (dice:\
-    \ 2d6|avg (2d6)) fire damage."
+    \ Hit: dice: 3d10 + 4|avg (3d10 + 4) piercing damage plus dice: 2d6|avg\
+    \ (2d6) fire damage."
   "name": "Bite"
 "source":
 - "MM"

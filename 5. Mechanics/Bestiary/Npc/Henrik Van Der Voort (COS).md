@@ -2,19 +2,12 @@
 cssclass: json5e-monster
 tags:
 - compendium/src/5e/cos
-- monster/environment/arctic
-- monster/environment/coastal
-- monster/environment/desert
-- monster/environment/forest
-- monster/environment/grassland
-- monster/environment/hill
-- monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 aliases: ["Henrik van der Voort"]
 ---
 # Henrik van der Voort
-*Source: Curse of Strahd p. 116, Derived from Commoner (MM)*  
+*Source: Curse of Strahd p. 116, Derived from *  
 
 ```statblock
 "name": "Henrik van der Voort"
@@ -38,14 +31,10 @@ aliases: ["Henrik van der Voort"]
 "cr": "0"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
   "name": "Club"
 "source":
 - "CoS"
 "image": "compendium/bestiary/npc/token/henrik-van-der-voort.png"
 ```
 ^statblock
-
-## Environment
-
-arctic, desert, coastal, grassland, hill, urban, forest

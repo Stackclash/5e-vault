@@ -12,8 +12,8 @@ aliases: ["Dwarf Names – Clan"]
 
 **Dwarf Names – Clan**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aranore |
 | 03-04 | Balderk |
 | 05-06 | Battlehammer |

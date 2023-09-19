@@ -12,8 +12,8 @@ aliases: ["Human Names – French, Female"]
 
 **Human Names – French, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aalis |
 | 03-04 | Agatha |
 | 05-06 | Agnez |

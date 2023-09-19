@@ -12,8 +12,8 @@ aliases: ["Human Names – Greek, Male"]
 
 **Human Names – Greek, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Adonis |
 | 03-04 | Adrastos |
 | 05-06 | Aeson |

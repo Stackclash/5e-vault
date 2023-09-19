@@ -12,8 +12,8 @@ aliases: ["Mountain Encounters (Levels 17—20)"]
 
 **Mountain Encounters (Levels 17—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-05 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Monstrosity/Bulette.md\|bulettes]] |
 | 06-10 | `dice: 1d8 + 1\|avg` (`1d8 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimeras]] |
 | 11-15 | 1 [[5. Mechanics/Bestiary/Dragon/Adult Silver Dragon.md\|adult silver dragon]] |

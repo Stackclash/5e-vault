@@ -31,7 +31,7 @@ aliases: ["Camel"]
 "cr": "1/8"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 5 ft., one target.\
-    \ Hit: 2 (dice: 1d4|avg (1d4)) bludgeoning damage."
+    \ Hit: dice: 1d4|avg (1d4) bludgeoning damage."
   "name": "Bite"
 "source":
 - "MM"

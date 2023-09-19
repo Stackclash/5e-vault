@@ -39,9 +39,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "cr": "3"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: 18 (dice: 4d6 + 4|avg (4d6 + 4)) bludgeoning damage. If the target\
-    \ is a creature, it must succeed on a DC 14 Strength saving throw or be knocked\
-    \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 4d6 + 4|avg (4d6 + 4) bludgeoning damage. If the target is\
+    \ a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Tail"
 "source":
 - "MM"

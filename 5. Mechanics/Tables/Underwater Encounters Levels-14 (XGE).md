@@ -12,8 +12,8 @@ aliases: ["Underwater Encounters (Levels 1—4)"]
 
 **Underwater Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-10 | `dice: 3d6\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Quipper.md\|quippers]] |
 | 11-14 | `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Elemental/Steam Mephit.md\|steam mephits]] |
 | 15-18 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] |

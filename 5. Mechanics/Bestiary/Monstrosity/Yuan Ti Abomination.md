@@ -41,7 +41,7 @@ Humanoid emotions are foreign to most yuan-ti, which understand sentiment only a
 
 Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they worship. Instead, they see worship as a means to attain power. A yuan-ti believes an individual who attains enough power can devour and replace one of the yuan-ti gods. The yuan-ti strive for ascension and are willing to commit the darkest atrocities to achieve it.
 
-> [!quote] Serpent Gods
+> [!note] Serpent Gods
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
@@ -100,21 +100,21 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     \ its bite and constrict attacks only once each."
   "name": "Multiattack (Abomination Form Only)"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one creature.\
-    \ Hit: 7 (dice: 1d6 + 4|avg (1d6 + 4)) piercing damage plus 10 (dice: 3d6|avg\
-    \ (3d6)) poison damage."
+    \ Hit: dice: 1d6 + 4|avg (1d6 + 4) piercing damage plus dice: 3d6|avg\
+    \ (3d6) poison damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 10 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) bludgeoning damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14). Until\
-    \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) bludgeoning damage, and the target is\
+    \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14). Until this\
+    \ grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
     \ and the yuan-ti can't constrict another target."
   "name": "Constrict"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) slashing damage."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) slashing damage."
   "name": "Scimitar (Abomination Form Only)"
 - "desc": "Ranged Weapon Attack: dice: d20+6 (+6 to hit), range 150/600 ft., one\
-    \ target. Hit: 12 (dice: 2d8 + 3|avg (2d8 + 3)) piercing damage plus 10\
-    \ (dice: 3d6|avg (3d6)) poison damage."
+    \ target. Hit: dice: 2d8 + 3|avg (2d8 + 3) piercing damage plus dice: 3d6|avg\
+    \ (3d6) poison damage."
   "name": "Longbow (Abomination Form Only)"
 "source":
 - "MM"

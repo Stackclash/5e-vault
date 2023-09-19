@@ -11,6 +11,7 @@ aliases: ["Boots of Striding and Springing"]
 ---
 # Boots of Striding and Springing
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/boots-of-striding-and-springing.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -40,11 +40,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 - "desc": "The myrmidon makes three Flail attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 8 (dice: 1d8 + 4|avg (1d8 + 4)) force damage."
+    \ Hit: dice: 1d8 + 4|avg (1d8 + 4) force damage."
   "name": "Flail"
 - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
-    \ 18 (dice: 4d8|avg (4d8)) lightning damage, and the target must succeed on\
-    \ a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
+    \ dice: 4d8|avg (4d8) lightning damage, and the target must succeed on a DC\
+    \ 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]\
     \ until the end of the myrmidon's next turn."
   "name": "Lightning Strike (Recharge 6)"
 "source":

@@ -12,6 +12,7 @@ aliases: ["Intellect Fortress"]
 ---
 # Intellect Fortress
 *3rd-level, Abjuration*  
+![[5. Mechanics/Spells/img/intellect-fortress.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 30 feet

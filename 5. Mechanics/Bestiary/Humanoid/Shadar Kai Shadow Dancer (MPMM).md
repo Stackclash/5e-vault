@@ -66,15 +66,14 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     \ after one of these attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: 10 (dice: 2d6 + 3|avg (2d6 + 3)) piercing damage. The target must\
-    \ succeed on a DC 14 Dexterity saving throw or suffer one of the following effects\
-    \ (choose one or roll a dice: d6|avg (d6)):\n\n- 1–2 Decay. The target\
-    \ takes 22 (dice: 4d10|avg (4d10)) necrotic damage.  \n- 3–4 Grapple.\
-    \ The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC\
-    \ 14) if it is a Medium or smaller creature. Until the grapple ends, the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and the shadar-kai\
-    \ can't grapple another target.  \n- 5–6 Topple. The target is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
-    \  "
+    \ Hit: dice: 2d6 + 3|avg (2d6 + 3) piercing damage. The target must succeed\
+    \ on a DC 14 Dexterity saving throw or suffer one of the following effects (choose\
+    \ one or roll a dice: d6|avg (d6)):\n\n- 1–2 Decay. The target takes dice:\
+    \ 4d10|avg (4d10) necrotic damage.  \n- 3–4 Grapple. The target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
+    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
+    \ the shadar-kai can't grapple another target.  \n- 5–6 Topple. The target\
+    \ is knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].  "
   "name": "Spiked Chain"
 "bonus_actions":
 - "desc": "The shadar-kai teleports, along with any equipment is it wearing or carrying,\

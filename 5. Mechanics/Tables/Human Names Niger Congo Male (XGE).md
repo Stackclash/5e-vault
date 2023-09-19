@@ -12,8 +12,8 @@ aliases: ["Human Names – Niger-Congo, Male"]
 
 **Human Names – Niger-Congo, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Abebe |
 | 03-04 | Abel |
 | 05-06 | Abidemi |

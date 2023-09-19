@@ -39,7 +39,7 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[5. Me
   "name": "False Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 10 ft., one target.\
-    \ Hit: 14 (dice: 3d6 + 4|avg (3d6 + 4)) bludgeoning damage."
+    \ Hit: dice: 3d6 + 4|avg (3d6 + 4) bludgeoning damage."
   "name": "Slam"
 "source":
 - "MM"

@@ -53,8 +53,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - "desc": "The fanatic makes two melee attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one creature. Hit: 4 (dice: 1d4 + 2|avg (1d4 + 2))\
-    \ piercing damage."
+    \ or range 20/60 ft., one creature. Hit: dice: 1d4 + 2|avg (1d4 + 2) piercing\
+    \ damage."
   "name": "Dagger"
 "source":
 - "MM"

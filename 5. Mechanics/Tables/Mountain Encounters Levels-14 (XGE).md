@@ -12,8 +12,8 @@ aliases: ["Mountain Encounters (Levels 1—4)"]
 
 **Mountain Encounters (Levels 1—4)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-02 | 1 [[5. Mechanics/Bestiary/Beast/Eagle.md\|eagle]] |
 | 03-05 | `dice: 1d3\|avg` (`1d3`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] |
 | 06-08 | `dice: 1d6\|avg` (`1d6`) [[5. Mechanics/Bestiary/Beast/Goat.md\|goats]] |

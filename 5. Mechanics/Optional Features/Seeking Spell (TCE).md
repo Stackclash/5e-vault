@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/mm
 aliases: ["Seeking Spell"]
 ---
 # Seeking Spell
-*Source: Tasha's Cauldron of Everything p. 66* 
+*Source: Tasha's Cauldron of Everything p. 66*  
 
 If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the `dice: d20|avg` (`d20`), and you must use the new roll.
 

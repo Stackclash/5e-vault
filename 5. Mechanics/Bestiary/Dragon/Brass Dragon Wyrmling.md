@@ -105,12 +105,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "cr": "1"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 1d10 + 2|avg (1d10 + 2)) piercing damage."
+    \ Hit: dice: 1d10 + 2|avg (1d10 + 2) piercing damage."
   "name": "Bite"
 - "desc": "The dragon uses one of the following breath weapons.\n\n- Fire Breath.\
     \ The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 11 Dexterity saving throw, taking 14 (dice: 4d6|avg\
-    \ (4d6)) fire damage on a failed save, or half as much damage on a successful\
+    \ in that line must make a DC 11 Dexterity saving throw, taking dice: 4d6|avg\
+    \ (4d6) fire damage on a failed save, or half as much damage on a successful\
     \ one.  \n- Sleep Breath. The dragon exhales sleep gas in a 15-foot cone.\
     \ Each creature in that area must succeed on a DC 11 Constitution saving throw\
     \ or fall [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]] for 1 minute.\

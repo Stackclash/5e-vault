@@ -12,8 +12,8 @@ aliases: ["Human Names – Celtic, Male"]
 
 **Human Names – Celtic, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Airell |
 | 03-04 | Airic |
 | 05-06 | Alan |

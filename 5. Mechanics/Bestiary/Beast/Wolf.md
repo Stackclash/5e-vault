@@ -44,8 +44,8 @@ aliases: ["Wolf"]
   "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\
-    \ Hit: 7 (dice: 2d4 + 2|avg (2d4 + 2)) piercing damage. If the target is\
-    \ a creature, it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
+    \ Hit: dice: 2d4 + 2|avg (2d4 + 2) piercing damage. If the target is a creature,\
+    \ it must succeed on a DC 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Bite"
 "source":
 - "MM"

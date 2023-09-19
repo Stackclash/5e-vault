@@ -12,8 +12,8 @@ aliases: ["Underwater Encounters (Levels 11—20)"]
 
 **Underwater Encounters (Levels 11—20)**
 
-| `dice: d100\|avg` (`d100`) | Encounter |
-|-------------|--------------|-----------|
+| dice: d100 | Encounter |
+|------------|-----------|
 | 01-10 | 1 [[5. Mechanics/Bestiary/Humanoid/Sahuagin Baron.md\|sahuagin baron]] with `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Sahuagin Priestess.md\|sahuagin priestesses]] and `dice: 2d10\|avg` (`2d10`) [[5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] |
 | 11-35 | `dice: 1d10\|avg` (`1d10`) [[5. Mechanics/Bestiary/Beast/Killer Whale.md\|killer whales]] |
 | 36-40 | A ghost ship passing overhead, containing `dice: 2d6 + 10\|avg` (`2d6 + 10`) [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghosts]] |

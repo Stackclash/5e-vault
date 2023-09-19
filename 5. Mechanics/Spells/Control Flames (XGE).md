@@ -16,6 +16,7 @@ aliases: ["Control Flames"]
 ---
 # Control Flames
 *cantrip, Transmutation*  
+![[5. Mechanics/Spells/img/control-flames.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

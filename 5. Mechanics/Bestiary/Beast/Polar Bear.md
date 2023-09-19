@@ -40,10 +40,10 @@ aliases: ["Polar Bear"]
 - "desc": "The bear makes two attacks: one with its bite and one with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 9 (dice: 1d8 + 5|avg (1d8 + 5)) piercing damage."
+    \ Hit: dice: 1d8 + 5|avg (1d8 + 5) piercing damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: dice: d20+7 (+7 to hit), reach 5 ft., one target.\
-    \ Hit: 12 (dice: 2d6 + 5|avg (2d6 + 5)) slashing damage."
+    \ Hit: dice: 2d6 + 5|avg (2d6 + 5) slashing damage."
   "name": "Claws"
 "source":
 - "MM"

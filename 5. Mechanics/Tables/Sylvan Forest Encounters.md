@@ -12,8 +12,8 @@ aliases: ["Sylvan Forest Encounters"]
 
 **Sylvan Forest Encounters**
 
-| `dice: d12 + d8\|avg` (`d12 + d8`) | Encounter |
-|-----------------|------------------|-----------|
+| dice: d12 + d8 | Encounter |
+|----------------|-----------|
 | 2 | 1 [[5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md\|displacer beast]] |
 | 3 | 1 [[5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md\|gnoll pack lord]] and `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] |
 | 4 | `dice: 1d4\|avg` (`1d4`) [[5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] and `dice: 2d4\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Hyena.md\|hyenas]] |

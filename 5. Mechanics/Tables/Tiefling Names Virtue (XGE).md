@@ -12,8 +12,8 @@ aliases: ["Tiefling Names – Virtue"]
 
 **Tiefling Names – Virtue**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Ambition |
 | 03-04 | Art |
 | 05-06 | Carrion |

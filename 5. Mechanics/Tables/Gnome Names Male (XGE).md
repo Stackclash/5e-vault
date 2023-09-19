@@ -12,8 +12,8 @@ aliases: ["Gnome Names – Male"]
 
 **Gnome Names – Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Alston |
 | 03-04 | Alvyn |
 | 05-06 | Anverth |

@@ -12,8 +12,8 @@ aliases: ["Human Names – Arabic, Female"]
 
 **Human Names – Arabic, Female**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aaliyah |
 | 03-04 | Aida |
 | 05-06 | Akilah |

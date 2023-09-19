@@ -48,7 +48,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - "desc": "The fungus makes dice: 1d4|avg (1d4) Rotting Touch attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 10 ft., one creature.\
-    \ Hit: 4 (dice: 1d8|avg (1d8)) necrotic damage."
+    \ Hit: dice: 1d8|avg (1d8) necrotic damage."
   "name": "Rotting Touch"
 "source":
 - "MM"

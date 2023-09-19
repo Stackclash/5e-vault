@@ -59,16 +59,16 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 - "desc": "The emissary makes three attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+14 (+14 to hit), reach 15 ft., one target.\
-    \ Hit: 20 (dice: 2d10 + 7|avg (2d10 + 7)) piercing damage plus 13 (dice:\
-    \ 3d8|avg (3d8)) acid damage."
+    \ Hit: dice: 2d10 + 7|avg (2d10 + 7) piercing damage plus dice: 3d8|avg\
+    \ (3d8) acid damage."
   "name": "Lashing Maw"
 - "desc": "Ranged Spell Attack: dice: d20+15 (+15 to hit), range 120 ft., one\
-    \ creature. Hit: 27 (dice: 3d12 + 8|avg (3d12 + 8)) psychic damage."
+    \ creature. Hit: dice: 3d12 + 8|avg (3d12 + 8) psychic damage."
   "name": "Psychic Orb"
 - "desc": "The emissary expels bile that splashes all creatures in a 30-foot-radius\
     \ sphere centered on a point within 120 feet of the emissary. Each creature in\
-    \ that area must make a DC 23 Dexterity saving throw, taking 55 (dice: 10d10|avg\
-    \ (10d10)) acid damage on a failed save, or half as much damage on a successful\
+    \ that area must make a DC 23 Dexterity saving throw, taking dice: 10d10|avg\
+    \ (10d10) acid damage on a failed save, or half as much damage on a successful\
     \ one. For each creature that fails the saving throw, a [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md|gibbering mouther]]\
     \ (see its entry in the Monster Manual) appears in an unoccupied space on a surface\
     \ that can support it within 30 feet of that creature. The gibbering mouthers\
@@ -82,13 +82,13 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   "name": "Attack"
 - "desc": "The emissary causes the ground in a 20-foot square that it can see within\
     \ 90 feet of it to turn into teeth and maws until the start of its next turn.\
-    \ The area becomes difficult terrain for the duration. Any creature takes 10 (dice:\
-    \ 3d6|avg (3d6)) piercing damage for each 5 feet it moves on this terrain."
+    \ The area becomes difficult terrain for the duration. Any creature takes dice:\
+    \ 3d6|avg (3d6) piercing damage for each 5 feet it moves on this terrain."
   "name": "Warp Space (Costs 2 Actions)"
 - "desc": "The emissary unleashes a psychic wave. Each creature within 30 feet of\
-    \ the emissary must succeed on a DC 23 Wisdom saving throw or take 32 (dice:\
-    \ 5d12|avg (5d12)) psychic damage. In addition, every spell ends on creatures\
-    \ and objects of the emissary's choice in that area."
+    \ the emissary must succeed on a DC 23 Wisdom saving throw or take dice: 5d12|avg\
+    \ (5d12) psychic damage. In addition, every spell ends on creatures and objects\
+    \ of the emissary's choice in that area."
   "name": "Mind Cloud (Costs 3 Actions)"
 "source":
 - "VRGR"

@@ -62,20 +62,20 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - "desc": "The warlock makes three Scimitar attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
-    \ Hit: 6 (dice: 1d6 + 3|avg (1d6 + 3)) slashing damage plus 14 (dice: 4d6|avg\
-    \ (4d6)) fire damage."
+    \ Hit: dice: 1d6 + 3|avg (1d6 + 3) slashing damage plus dice: 4d6|avg\
+    \ (4d6) fire damage."
   "name": "Scimitar"
 - "desc": "Green flame explodes in a 10-foot-radius sphere centered on a point within\
     \ 120 feet of the warlock. Each creature in that area must make a DC 15 Dexterity\
-    \ saving throw, taking 16 (dice: 3d10|avg (3d10)) fire damage and 11 (dice:\
-    \ 2d10|avg (2d10)) necrotic damage on a failed save, or half as much damage\
-    \ on a successful one."
+    \ saving throw, taking dice: 3d10|avg (3d10) fire damage and dice: 2d10|avg\
+    \ (2d10) necrotic damage on a failed save, or half as much damage on a successful\
+    \ one."
   "name": "Hellfire"
 "reactions":
 - "desc": "In response to being damaged by a visible creature within 60 feet of it,\
     \ the warlock forces that creature to make a DC 15 Constitution saving throw,\
-    \ taking 22 (dice: 4d10|avg (4d10)) necrotic damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ taking dice: 4d10|avg (4d10) necrotic damage on a failed save, or half as\
+    \ much damage on a successful one."
   "name": "Fiendish Rebuke (3/Day)"
 "source":
 - "MPMM"

@@ -57,12 +57,11 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
     \ and uses Evil Eye once."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+9 (+9 to hit), reach 15 ft., one target.\
-    \ Hit: 19 (dice: 3d8 + 6|avg (3d8 + 6)) bludgeoning damage."
+    \ Hit: dice: 3d8 + 6|avg (3d8 + 6) bludgeoning damage."
   "name": "Greatclub"
 - "desc": "The fomorian magically forces a creature it can see within 60 feet of it\
-    \ to make a DC 14 Charisma saving throw. The creature takes 27 (dice: 6d8|avg\
-    \ (6d8)) psychic damage on a failed save, or half as much damage on a successful\
-    \ one."
+    \ to make a DC 14 Charisma saving throw. The creature takes dice: 6d8|avg (6d8)\
+    \ psychic damage on a failed save, or half as much damage on a successful one."
   "name": "Evil Eye"
 - "desc": "With a stare, the fomorian uses Evil Eye, but on a failed save, the creature\
     \ is also cursed with magical deformities. While deformed, the creature has its\

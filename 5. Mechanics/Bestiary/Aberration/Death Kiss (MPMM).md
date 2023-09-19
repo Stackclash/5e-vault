@@ -46,7 +46,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "languages": "Deep Speech, Undercommon"
 "cr": "10"
 "traits":
-- "desc": "A creature within 5 feet of the death kiss takes 5 (dice: 1d10|avg (1d10))\
+- "desc": "A creature within 5 feet of the death kiss takes dice: 1d10|avg (1d10)\
     \ lightning damage whenever it hits the death kiss with a melee attack that deals\
     \ piercing or slashing damage."
   "name": "Lightning Blood"
@@ -55,16 +55,16 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
     \ can be replaced by Blood Drain—one replacement per tentacle grappling a creature."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: dice: d20+8 (+8 to hit), reach 20 ft., one target.\
-    \ Hit: 11 (dice: 2d6 + 4|avg (2d6 + 4)) piercing damage, and the target\
-    \ is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] (escape DC 14) if it\
-    \ is a Huge or smaller creature. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
-    \ and the death kiss can't use the same tentacle on another target. The death\
-    \ kiss has ten tentacles."
+    \ Hit: dice: 2d6 + 4|avg (2d6 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]]\
+    \ (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends,\
+    \ the target is [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], and\
+    \ the death kiss can't use the same tentacle on another target. The death kiss\
+    \ has ten tentacles."
   "name": "Tentacle"
 - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]] by a\
     \ tentacle of the death kiss must make a DC 16 Constitution saving throw. On a\
-    \ failed save, the target takes 22 (dice: 4d10|avg (4d10)) lightning damage,\
-    \ and the death kiss regains half as many hit points."
+    \ failed save, the target takes dice: 4d10|avg (4d10) lightning damage, and\
+    \ the death kiss regains half as many hit points."
   "name": "Blood Drain"
 "source":
 - "MPMM"

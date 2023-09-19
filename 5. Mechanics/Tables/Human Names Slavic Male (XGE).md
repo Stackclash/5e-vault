@@ -12,8 +12,8 @@ aliases: ["Human Names – Slavic, Male"]
 
 **Human Names – Slavic, Male**
 
-| `dice: d100\|avg` (`d100`) | Name |
-|-------------|--------------|------|
+| dice: d100 | Name |
+|------------|------|
 | 01-02 | Aleksandru |
 | 03-04 | Berislav |
 | 05-06 | Blazh |

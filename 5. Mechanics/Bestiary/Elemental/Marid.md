@@ -87,14 +87,14 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 - "desc": "The marid makes two trident attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Weapon Attack: dice: d20+10 (+10 to hit), reach 5 ft.\
-    \ or range 20/60 ft., one target. Hit: 13 (dice: 2d6 + 6|avg (2d6 + 6))\
-    \ piercing damage, or 15 (dice: 2d8 + 6|avg (2d8 + 6)) piercing damage if\
-    \ used with two hands to make a melee attack."
+    \ or range 20/60 ft., one target. Hit: dice: 2d6 + 6|avg (2d6 + 6) piercing\
+    \ damage, or dice: 2d8 + 6|avg (2d8 + 6) piercing damage if used with two\
+    \ hands to make a melee attack."
   "name": "Trident"
 - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
     \ Each creature in that line must make a DC 16 Dexterity saving throw. On a failure,\
-    \ a target takes 21 (dice: 6d6|avg (6d6)) bludgeoning damage and, if it is\
-    \ Huge or smaller, is pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
+    \ a target takes dice: 6d6|avg (6d6) bludgeoning damage and, if it is Huge\
+    \ or smaller, is pushed up to 20 feet away from the marid and knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]].\
     \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
     \ nor knocked [[/5. Mechanics/Rules/Conditions.md#prone|prone]]."
   "name": "Water Jet"
