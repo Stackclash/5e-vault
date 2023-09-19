@@ -38,5 +38,3 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 ^effect
 
 *Source: Dungeon Master's Guide p. 152. Available in the SRD.*
-
-`dice: [[Bag Of Beans#^effect]]`
