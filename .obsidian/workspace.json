@@ -11,11 +11,9 @@
             "id": "fe43018b69e34e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
-                "mode": "source",
-                "source": false
+                "file": "1. DM Screen/1. DM Screen.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
+                "file": "1. DM Screen/1. DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
+                "file": "1. DM Screen/1. DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md"
+                "file": "1. DM Screen/1. DM Screen.md"
               }
             }
           },
@@ -185,9 +183,11 @@
   },
   "active": "fe43018b69e34e57",
   "lastOpenFiles": [
+    "5. Mechanics/Vehicles/Vehicles.md",
+    "5. Mechanics/Vehicles/Apparatus Of Kwalish.md",
+    "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
     "5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md",
     "5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md",
-    "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
     "5. Mechanics/Tables/Druid Followers (SAF).md",
     "compendium/items/spell-scroll-3rd-level.md",
     "compendium/bestiary/undead/skull-lord-mpmm.md",
@@ -209,8 +209,6 @@
     "compendium/deities/greyhawk-st-cuthbert.md",
     "compendium/bestiary/beast/giant-sea-horse.md",
     "compendium/items/quartz.md",
-    "compendium/items/scroll-of-protection-from-fiends.md",
-    "compendium/bestiary/fiend/maw-demon-mpmm.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
