@@ -1,0 +1,65 @@
+---
+cssclass: json5e-monster
+tags:
+- compendium/src/5e/saf
+- monster/size/medium
+- monster/type/humanoid/any-race
+aliases: ["Troubadour-warrior"]
+---
+# Troubadour-warrior
+*Source: Strongholds and Followers p. 73*  
+
+```statblock
+"name": "Troubadour-warrior"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Any alignment"
+"ac": !!int "13"
+"stats":
+- !!int "14"
+- !!int "14"
+- !!int "14"
+- !!int "14"
+- !!int "14"
+- !!int "18"
+"speed": "30 ft. (dependant on ancestry)"
+"saves":
+  "Charisma": "+6"
+  "Dexterity": "+6"
+  "Wisdom": "+3"
+  "Intelligence": "+3"
+  "Strength": "+3"
+  "Constitution": "+3"
+"skillsaves":
+  "Deception": "+5"
+  "Performance": "+5"
+  "Persuasion": "+5"
+"senses": "appropriate to ancestry, passive Perception 12"
+"languages": "appropriate to ancestry (usually Common)"
+"cr": "Unknown"
+"traits":
+- "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
+  "name": "Retainer"
+"actions":
+- "desc": "Melee Weapon Attack: dice: d20+6 (+6 to hit), reach 5 ft., one target.\
+    \ Hit: dice: 1d8 + 3|avg (1d8 + 3) slashing damage.\n\nAt 7th level, retainers\
+    \ can take two signature attacks per round."
+  "name": "Signature Attack"
+"reactions":
+- "desc": "Prerequisite: 3rd-level retainer\n\nAfter an ally within 60 feet that\
+    \ the troubadour-warrior can see makes an attack, roll a dice: d6|avg (d6)\
+    \ and add the result to the ally's result."
+  "name": "Cheer (3/Day)"
+- "desc": "Prerequisite: 5th-level retainer\n\nAfter an ally hits an enemy creature,\
+    \ the troubadour-warrior can convert the hit into a critical hit."
+  "name": "Bolstering Praise (1/Day)"
+- "desc": "Prerequisite: 7th-level retainer\n\nWhen a creature the troubadour-warrior\
+    \ can see within 60 feet hits the leader of the troubadour-warrior, the troubadour-warrior\
+    \ can taunt the creature, forcing it to make a Charisma saving throw. On a failed\
+    \ save, its attack automatically misses."
+  "name": "Distracting Taunt (3/Day)"
+"source":
+- "SaF"
+```
+^statblock

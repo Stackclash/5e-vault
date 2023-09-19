@@ -4,6 +4,7 @@ cssclasses: json5e-note
 tags:
 - compendium/src/5e/dmg
 - compendium/src/5e/phb
+- compendium/src/5e/saf
 aliases: ["Item Types"]
 ---
 # Item Types
@@ -118,3 +119,10 @@ If a ship has a Damage Threshold, it has immunity to all damage unless it takes 
 ### Ship Repair
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
+
+## requires installation
+_Source: Strongholds and Followers p. 246_
+
+### Installation
+
+Some items must be **installed** in your stronghold in order to function. Such items cease to function if taken from the stronghold in which they were installed, and must be reinstalled to regain their power, though their powers may still work on *you* if you leave.
