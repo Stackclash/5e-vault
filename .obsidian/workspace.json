@@ -11,9 +11,11 @@
             "id": "fe43018b69e34e57",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md"
+                "file": "5. Mechanics/Items/Bag Of Beans.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md",
+                "file": "5. Mechanics/Items/Bag Of Beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md",
+                "file": "5. Mechanics/Items/Bag Of Beans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Screen/1. DM Screen.md"
+                "file": "5. Mechanics/Items/Bag Of Beans.md"
               }
             }
           },
@@ -183,32 +185,32 @@
   },
   "active": "fe43018b69e34e57",
   "lastOpenFiles": [
+    "5. Mechanics/Items/Bit And Bridle.md",
+    "5. Mechanics/Items/Black Dragon Scale Mail.md",
+    "5. Mechanics/Items/Black Pearl.md",
+    "5. Mechanics/Items/Bedroll.md",
+    "5. Mechanics/Items/Bead Of Force.md",
+    "5. Mechanics/Items/Battleaxe.md",
+    "5. Mechanics/Items/Basket.md",
+    "5. Mechanics/Items/Basic Poison Vial.md",
+    "5. Mechanics/Items/Barrier Tattoo Medium (TCE).md",
+    "5. Mechanics/Items/Barrier Tattoo Large (TCE).md",
+    "5. Mechanics/Items/Barrel.md",
+    "5. Mechanics/Items/Ball Bearings Bag Of-1000.md",
+    "5. Mechanics/Items/Ball Bearing.md",
+    "5. Mechanics/Items/Bagpipes.md",
+    "5. Mechanics/Items/Bag Of Tricks Tan.md",
+    "5. Mechanics/Items/Bag Of Tricks Rust.md",
+    "5. Mechanics/Items/Bag Of Tricks Gray.md",
+    "5. Mechanics/Items/Bag Of Devouring.md",
+    "5. Mechanics/Items/Bag Of Holding.md",
+    "5. Mechanics/Items/Items.md",
+    "1. DM Screen/1. DM Screen.md",
     "5. Mechanics/Vehicles/Vehicles.md",
     "5. Mechanics/Vehicles/Apparatus Of Kwalish.md",
     "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
     "5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md",
     "5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md",
-    "5. Mechanics/Tables/Druid Followers (SAF).md",
-    "compendium/items/spell-scroll-3rd-level.md",
-    "compendium/bestiary/undead/skull-lord-mpmm.md",
-    "compendium/bestiary/beast/bestial-spirit-air-8th-level-spell-tce.md",
-    "compendium/bestiary/npc/pidlwick-ii-cos.md",
-    "compendium/races/centaur-mpmm.md",
-    "compendium/bestiary/construct/fate-saf.md",
-    "compendium/bestiary/beast/swarm-of-bats.md",
-    "compendium/rewards/dark-gift-of-tarakamedes-the-grave-wyrm-cos.md",
-    "compendium/items/keoghtoms-ointment.md",
-    "compendium/bestiary/npc/escher-cos.md",
-    "compendium/items/driftglobe.md",
-    "compendium/bestiary/aberration/mind-flayer-arcanist.md",
-    "compendium/bestiary/npc/zariel-mpmm.md",
-    "compendium/feats/savage-attacker.md",
-    "compendium/bestiary/humanoid/mage.md",
-    "compendium/items/lock-of-trickery-xge.md",
-    "compendium/bestiary/beast/aurochs-mpmm.md",
-    "compendium/deities/greyhawk-st-cuthbert.md",
-    "compendium/bestiary/beast/giant-sea-horse.md",
-    "compendium/items/quartz.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
