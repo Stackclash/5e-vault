@@ -143,13 +143,13 @@ Area C2b also has a lever that controls the portcullis hanging above the castle'
 
 ### C3. Entrance Hall
 
-The largest chamber in Castle Rend is now breezy and moss-covered. Its carpets have been shredded by animal claws and rotted by water. A large bonfire burns in the center of this chamber, its smoke pouring out of a hole in the ceiling. Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut Saf.md\|White Tusk juggernauts]] (see page 136) and their two [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] pets sit around the fire, gnawing on large hunks of venison. The two juggernauts each carry a [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|potion of hill giant strength]] brewed by the orc shamans in the cauldron room (C18), and each orc drinks their potion on their first turn in combat.
+The largest chamber in Castle Rend is now breezy and moss-covered. Its carpets have been shredded by animal claws and rotted by water. A large bonfire burns in the center of this chamber, its smoke pouring out of a hole in the ceiling. Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernauts]] (see page 136) and their two [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] pets sit around the fire, gnawing on large hunks of venison. The two juggernauts each carry a [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|potion of hill giant strength]] brewed by the orc shamans in the cauldron room (C18), and each orc drinks their potion on their first turn in combat.
 
 A treasure chest has been slid against the south wall of this chamber. It is surrounded by animal bones that have been gnawed clean by sharp fangs. This treasure chest is actually a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] that the orcs found and now keep as a pet. It contains 500 gp worth of sapphires inside its gullet.
 
 #### Developments
 
-This room is connected to many others, so creating a disturbance here causes the orcs in adjacent rooms to investigate. If it is sundown, Bonebreaker Dorokor, Oregg Steeltwister, Pinna, and Edmund Bedegar are likely dining in the Great Hall (C8). [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor Saf.md\|Bonebreaker Dorokor]] and [[5. Mechanics/Bestiary/Npc/Oregg Steeltwister Saf.md\|Oregg Steeltwister]] (page 135) attack on sight, suspecting that the characters are Lord Saxton's thugs. Pinna and Edmund hold back and come to investigate on the second round of combat, but if Pinna recognizes the characters from Gravesford, she screams for both sides to stop fighting. See the Negotiating with Orcs event (page 125).
+This room is connected to many others, so creating a disturbance here causes the orcs in adjacent rooms to investigate. If it is sundown, Bonebreaker Dorokor, Oregg Steeltwister, Pinna, and Edmund Bedegar are likely dining in the Great Hall (C8). [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[5. Mechanics/Bestiary/Npc/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) attack on sight, suspecting that the characters are Lord Saxton's thugs. Pinna and Edmund hold back and come to investigate on the second round of combat, but if Pinna recognizes the characters from Gravesford, she screams for both sides to stop fighting. See the Negotiating with Orcs event (page 125).
 
 #### Treasure
 
@@ -199,7 +199,7 @@ Digging through the mold and muck for 5 minutes will yield gold buttons, lapis l
 
 A stately marble dining table stands before a cold hearth in the center of the great hall. Twelve stone chairs are assembled around it, though all have been chipped, covered with plants, or knocked over. Every night at sunset, Bonebreaker Dorokor sups here with her lieutenant, Oregg Steeltwister, as well as Edmund Bedegar and Pinna. Lately, they have been planning how best to conduct negotiations with the people of Gravesford.
 
-If the PCs interrupt this meal, [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor Saf.md\|Bonebreaker Dorokor]] and [[5. Mechanics/Bestiary/Npc/Oregg Steeltwister Saf.md\|Oregg Steeltwister]] (page 135) both leap over the table and attack instantly, suspecting that the PCs are assassins sent by Lord Saxton. If Pinna recognizes them from Gravesford, she instantly calls for everyone to stop fighting. See the Negotiating with Orcs event (page 125).
+If the PCs interrupt this meal, [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]] and [[5. Mechanics/Bestiary/Npc/Oregg Steeltwister (SAF).md\|Oregg Steeltwister]] (page 135) both leap over the table and attack instantly, suspecting that the PCs are assassins sent by Lord Saxton. If Pinna recognizes them from Gravesford, she instantly calls for everyone to stop fighting. See the Negotiating with Orcs event (page 125).
 
 At other times of day, this chamber is usually empty. Orcs can pass through it to get from the barracks to the watchtower when changing guard shifts (see C13).
 
@@ -207,7 +207,7 @@ At other times of day, this chamber is usually empty. Orcs can pass through it t
 
 The orcs have repurposed the Blue Dragonflight's barracks as their own. Areas 9a, 9b, and 9c each contain four bunks. Area 9d has been converted into a holding chamber for Edmund Bedegar and, more recently, Pinna. Young Lord Bedegar has helped soothe the hedge mage's nerves after being kidnapped.
 
-Area 9e belongs to Bonebreaker Dorokor, and its door is decorated with an ornate crest of snapped bones, with an eagle's skull in the center. Her large chamber contains items unusual for an orc, such as a washbasin, parchment, and charcoal. Dorokor has no use for human fineries, and everything within her chamber is worthless by human standards, save for her magical greataxe, [[5. Mechanics/Items/Wound Saf.md\|Wound]] (see [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor Saf.md\|Bonebreaker Dorokor]], page 141). She keeps this mighty weapon on her person at all times, and rests it at the foot of her cot while she sleeps.
+Area 9e belongs to Bonebreaker Dorokor, and its door is decorated with an ornate crest of snapped bones, with an eagle's skull in the center. Her large chamber contains items unusual for an orc, such as a washbasin, parchment, and charcoal. Dorokor has no use for human fineries, and everything within her chamber is worthless by human standards, save for her magical greataxe, [[5. Mechanics/Items/Wound (SAF).md\|Wound]] (see [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], page 141). She keeps this mighty weapon on her person at all times, and rests it at the foot of her cot while she sleeps.
 
 Area 9f belongs to Oregg Steeltwister, second-in-command of the White Tusk clan. He possesses none of Dorokor's cunning or subtlety, but he is madly in love with her. He follows her every order and pretends to understand her schemes in order to win her favor.
 
@@ -282,14 +282,14 @@ Each of these four rooms contains a bunk that fits two orcs (in fairly cramped c
 
 Each cell's occupants are:
 
-- **C16a..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc Saf.md\|White Tusk orcs]].  
-- **C16b..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager Saf.md\|White Tusk bloodragers]].  
-- **C16c..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc Saf.md\|White Tusk orcs]].  
-- **C16d..** One [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut Saf.md\|White Tusk juggernaut]].  
+- **C16a..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc (SAF).md\|White Tusk orcs]].  
+- **C16b..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager (SAF).md\|White Tusk bloodragers]].  
+- **C16c..** Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc (SAF).md\|White Tusk orcs]].  
+- **C16d..** One [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md\|White Tusk juggernaut]].  
 
 ### C17. Warspeakers' Cloister
 
-Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker Saf.md\|White Tusk warspeakers]] of Grole have made this spacious chamber their home. While they tend to the shrine (C23) during the day, they return here to sleep after nightfall. One has cast an [[5. Mechanics/Spells/Alarm.md\|alarm]] spell on this room in case one of the common orcs is foolish enough to try to steal from them, and both warspeakers come running from the shrine if the spell is triggered.
+Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk warspeakers]] of Grole have made this spacious chamber their home. While they tend to the shrine (C23) during the day, they return here to sleep after nightfall. One has cast an [[5. Mechanics/Spells/Alarm.md\|alarm]] spell on this room in case one of the common orcs is foolish enough to try to steal from them, and both warspeakers come running from the shrine if the spell is triggered.
 
 #### Treasure
 
@@ -297,11 +297,11 @@ Each warspeaker keeps a small chest containing 100 gp underneath their cot. Addi
 
 ### C18. Cauldron Room
 
-Here, two [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman Saf.md\|White Tusk shamans]] brew a foul-smelling concoction in a cauldron suspended over a bed of smoldering embers. On the first turn of combat, one of the shamans uses its Spirit-Bonded Body trait to transform into a [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]] and howl loudly as an action. This howling alerts all orcs in the dungeon level to the presence of intruders, so they can't be surprised for the next hour. Additionally, all orcs in areas C15, C16, C17, and C20 come to investigate the disturbance, ready for battle.
+Here, two [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman (SAF).md\|White Tusk shamans]] brew a foul-smelling concoction in a cauldron suspended over a bed of smoldering embers. On the first turn of combat, one of the shamans uses its Spirit-Bonded Body trait to transform into a [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]] and howl loudly as an action. This howling alerts all orcs in the dungeon level to the presence of intruders, so they can't be surprised for the next hour. Additionally, all orcs in areas C15, C16, C17, and C20 come to investigate the disturbance, ready for battle.
 
 #### Treasure
 
-The cauldron contains a potion that the shamans are brewing to aid their bloodchief in the trials to come. This pungent broth is the base for a [[5. Mechanics/Items/Potion Of Enhance Ability Saf.md\|potion of enhance ability]]. It is currently inert, but its magical effects can be activated by adding a single hair or feather of a certain animal to a vial of this potion. There is enough broth in this cauldron to fill six glass vials. A crate containing twelve [[5. Mechanics/Items/Vial.md\|vials]] sits in a corner of this room.
+The cauldron contains a potion that the shamans are brewing to aid their bloodchief in the trials to come. This pungent broth is the base for a [[5. Mechanics/Items/Potion Of Enhance Ability (SAF).md\|potion of enhance ability]]. It is currently inert, but its magical effects can be activated by adding a single hair or feather of a certain animal to a vial of this potion. There is enough broth in this cauldron to fill six glass vials. A crate containing twelve [[5. Mechanics/Items/Vial.md\|vials]] sits in a corner of this room.
 
 ### C19. Secret Treasury
 
@@ -325,7 +325,7 @@ At the start of each round of combat while in the crypt, two [[5. Mechanics/Best
 
 #### Treasure
 
-Within the wraith's sarcophagus is his holy sword, [[5. Mechanics/Items/Grace Saf.md\|Grace]] (page 144). Another sarcophagus holds the dust of another knight and the [[5. Mechanics/Items/Armor Of St Gaed The Confessor Saf.md\|Armor of St. Gaed the Confessor]] (page 144).
+Within the wraith's sarcophagus is his holy sword, [[5. Mechanics/Items/Grace (SAF).md\|Grace]] (page 144). Another sarcophagus holds the dust of another knight and the [[5. Mechanics/Items/Armor Of St Gaed The Confessor (SAF).md\|Armor of St. Gaed the Confessor]] (page 144).
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-crypt-blue-dragonflight.webp#center)
 
@@ -337,11 +337,11 @@ A stone spiral staircase winds up to the main floor of the keep (C12), and then 
 
 The warspeakers of the White Tusk clan created a new shrine to Grole after they realized their error in defiling the statue of St. Gaed in the upper levels. The shrine to Grole in the dungeons is little more than a stone slab covered in carved bone trinkets, but it is enough to satisfy Bonebreaker Dorokor.
 
-Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker Saf.md\|White Tusk warspeakers]] tend to this shrine. They allow their fellow orcs to pray at this shrine, but attack invaders on sight.
+Two [[5. Mechanics/Bestiary/Humanoid/White Tusk Warspeaker (SAF).md\|White Tusk warspeakers]] tend to this shrine. They allow their fellow orcs to pray at this shrine, but attack invaders on sight.
 
 #### Treasure
 
-A fist-sized sapphire rests on the shrine, a shining stone that one of the warspeakers found while exploring the dungeons. A character that makes a successful DC 22 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check discerns that this stone is actually the crystallized heart of a sapphire dragon, and it is probably about a hundred years old. As a stone, it would sell for about 400 gp, but as a magical relic, a wizard would easily buy it for 1,000 gp. It also functions as a medium [[5. Mechanics/Items/Psionic Crystal Saf.md\|psionic crystal]] (page 260).
+A fist-sized sapphire rests on the shrine, a shining stone that one of the warspeakers found while exploring the dungeons. A character that makes a successful DC 22 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check discerns that this stone is actually the crystallized heart of a sapphire dragon, and it is probably about a hundred years old. As a stone, it would sell for about 400 gp, but as a magical relic, a wizard would easily buy it for 1,000 gp. It also functions as a medium [[5. Mechanics/Items/Psionic Crystal (SAF).md\|psionic crystal]] (page 260).
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-grole-shrine.webp#center)
 
@@ -357,7 +357,7 @@ These stairs lead upward to the collapsed tower (C14).
 
 ## Castle Rend Event: Negotiating with Orcs
 
-When the PCs meet with [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor Saf.md\|Bonebreaker Dorokor]], she announces: "I am Bonebreaker Dorokor, Bloodchief of the White Tusk. I hold [[5. Mechanics/Items/Wound Saf.md\|Wound]]. If you are servants of the human Saxton, you will die quickly and painfully."
+When the PCs meet with [[5. Mechanics/Bestiary/Npc/Bonebreaker Dorokor (SAF).md\|Bonebreaker Dorokor]], she announces: "I am Bonebreaker Dorokor, Bloodchief of the White Tusk. I hold [[5. Mechanics/Items/Wound (SAF).md\|Wound]]. If you are servants of the human Saxton, you will die quickly and painfully."
 
 Facing an orc with two humans hostage, the heroes may just attack. Typical. But if they negotiate with her, she agrees to parley. She demands that the PCs set down their arms and join her at the table. She snarls at Edmund and Pinna to not speak out of turn, and the two meekly oblige. Edmund sits on Dorokor's left, Pinna sits on Edmund's left, and Oregg Steeltwister sits on Dorokor's right.
 
@@ -371,13 +371,13 @@ Dorokor is willing to return both Pinna and Edmund and quit the field, leaving t
 
 The flip side of this is that the orcs don't really know what counts as "an item of power," so they can be fooled a little. But Bonebreaker Dorokor is harder to fool. If the PCs are sufficiently persuasive, she'll accept a lesser item and play it up to her tribe as though it's a triumph.
 
-Otherwise, she demands a powerful magic item—a rare or rarer magic weapon (like the holy sword [[5. Mechanics/Items/Grace Saf.md\|Grace]] found in C21) would do the trick. As a rule of thumb, the PCs' single most valuable possession is enough to all-but-instantly secure a successful negotiation.
+Otherwise, she demands a powerful magic item—a rare or rarer magic weapon (like the holy sword [[5. Mechanics/Items/Grace (SAF).md\|Grace]] found in C21) would do the trick. As a rule of thumb, the PCs' single most valuable possession is enough to all-but-instantly secure a successful negotiation.
 
 If this negotiation goes well, Dorokor snarls a wide smile. "Take the boy. Take the girl. Take this stone house too, if you wish. Walls are for keeping cattle and pigs. We care not for such things—you can have it. But kill Saxton. He is too treacherous to lead men, and too weak to survive out here. If you agree to this, the White Tusk clan will return to the hills in the north and trouble you no more."
 
 If the negotiations go *exceptionally well*, Dorokor produces a hollowed ram's horn from her belt and hands it to the PCs. "I do not give Men gifts lightly. We have a common enemy: Saxton and his vermin. If you blow the horn, my clan will answer so long as we can hear it."
 
-If negotiations stall or turn sour, Dorokor puts her hostage to work. She grabs Edmund by the neck and levels [[5. Mechanics/Items/Wound Saf.md\|Wound]] at his throat. "Meet my demands or your true bloodchief dies. And the girl too. You must swear it. Swear with something stronger than your worthless honor." It is clear from the look in her eyes and the edge in her voice that Dorokor never makes empty threats.
+If negotiations stall or turn sour, Dorokor puts her hostage to work. She grabs Edmund by the neck and levels [[5. Mechanics/Items/Wound (SAF).md\|Wound]] at his throat. "Meet my demands or your true bloodchief dies. And the girl too. You must swear it. Swear with something stronger than your worthless honor." It is clear from the look in her eyes and the edge in her voice that Dorokor never makes empty threats.
 
 If the PCs can't agree on how to negotiate with Dorokor, then it's initiative. If they fail to beat her in the initiative order, she executes Edmund. Or just slits his throat and leaves him for dead, so a PC cleric can heal him later, depending on what kind of GM you are. 😃
 

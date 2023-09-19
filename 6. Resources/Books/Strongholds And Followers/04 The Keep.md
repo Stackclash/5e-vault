@@ -118,7 +118,7 @@ If the province fails its Unrest check, it loses one development level. If this 
 
 Of course, spending a season there means withstanding the owner's own armies. We're basically talking about an invasion.
 
-![[5. Mechanics/Tables/Barbarian Units Saf.md\|Barbarian Units]]
+![[5. Mechanics/Tables/Barbarian Units (SAF).md\|Barbarian Units]]
 
 > [!gallery]
 > ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/keep-small.jpg#gallery)
@@ -132,7 +132,7 @@ Another variation of the Keep is the dreaded Pirate Ship. The Pirate Ship (a gal
 
 The Pirate Ship functions as a Keep with the following differences.
 
-- It attracts units just like a keep, but with restrictions to their Size. The ship may not carry units larger than Size 1d6. If rolling on the [[5. Mechanics/Tables/Training Units Raised By Keep Saf.md\|Units Raised by Keep]] chart (page 17) would produce a unit larger than Size 1d6, roll again. The ship can hold and no more units than its stronghold level. A fully upgraded Pirate Ship (level 5) could therefore carry five units. There is no restriction on the type of units a Pirate Ship may carry.  
+- It attracts units just like a keep, but with restrictions to their Size. The ship may not carry units larger than Size 1d6. If rolling on the [[5. Mechanics/Tables/Training Units Raised By Keep (SAF).md\|Units Raised by Keep]] chart (page 17) would produce a unit larger than Size 1d6, roll again. The ship can hold and no more units than its stronghold level. A fully upgraded Pirate Ship (level 5) could therefore carry five units. There is no restriction on the type of units a Pirate Ship may carry.  
 - The ship can move five sea hexes per day ^[ Assuming a 24-mile hex.], plus one hex per level of the ship.  
 - If the ship sacks (i.e wins a battle against) a port settlement, the settlement's Development Level is downgraded by one.  
 - Spending a week in a port settlement generates 100 gp.

@@ -14,8 +14,8 @@ A sufficiently evil character in league with fell powers can use their concordan
 
 Fiends, like all creatures, grow in power over time and as a demon collects souls they grow in power. Many demons are listed in the core rules, but two unique to this book are listed below in their lesser forms, still serving their masters, waiting to fulfill their quota of souls and grow into their final forms.
 
-- [[5. Mechanics/Bestiary/Fiend/Lesser Marilith Saf.md\|Lesser Marilith]]  
-- [[5. Mechanics/Bestiary/Fiend/Lesser Balor Saf.md\|Lesser Balor]]  
+- [[5. Mechanics/Bestiary/Fiend/Lesser Marilith (SAF).md\|Lesser Marilith]]  
+- [[5. Mechanics/Bestiary/Fiend/Lesser Balor (SAF).md\|Lesser Balor]]  
 
 ## Devils
 
@@ -23,7 +23,7 @@ Summoned from the Seven Cities of Hell and the wasted lands that separate them, 
 
 Summoned devils arrive aware of the process that brought them to this world, and ready to make a deal once their time is up. The greater devils are aware of the existence of the codex incabulum and greatly desire to bring it to the Seven Cities. They will make any bargain to further this goal.
 
-- [[5. Mechanics/Bestiary/Fiend/Lesser Erinyes Saf.md\|Lesser Erinyes]]  
+- [[5. Mechanics/Bestiary/Fiend/Lesser Erinyes (SAF).md\|Lesser Erinyes]]  
 
 ## The Celestial Court
 
@@ -37,12 +37,12 @@ Others, undaunted, argue that this just means more collation is needed, and that
 
 As far as theologists and philosophers can tell, there's only one of each of these beings. So if you summon a princip, for example, and it casts haste twice before the battle is over, summoning another princip later that day would summon the same one, and it's only got one haste (or remove curse or stoneskin) left. They cannot be killed by any power less than that which kills gods. Death on our plane is just a failure of their manifold projection into the timescape.
 
-- [[5. Mechanics/Bestiary/Celestial/Princip Saf.md\|Princip]]  
-- [[5. Mechanics/Bestiary/Celestial/Authority Saf.md\|Authority]]  
-- [[5. Mechanics/Bestiary/Celestial/Virtue Saf.md\|Virtue]]  
-- [[5. Mechanics/Bestiary/Celestial/Dominion Saf.md\|Dominion]]  
-- [[5. Mechanics/Bestiary/Celestial/Throne Saf.md\|Throne]]  
-- [[5. Mechanics/Bestiary/Celestial/Seraph Saf.md\|Seraph]]  
+- [[5. Mechanics/Bestiary/Celestial/Princip (SAF).md\|Princip]]  
+- [[5. Mechanics/Bestiary/Celestial/Authority (SAF).md\|Authority]]  
+- [[5. Mechanics/Bestiary/Celestial/Virtue (SAF).md\|Virtue]]  
+- [[5. Mechanics/Bestiary/Celestial/Dominion (SAF).md\|Dominion]]  
+- [[5. Mechanics/Bestiary/Celestial/Throne (SAF).md\|Throne]]  
+- [[5. Mechanics/Bestiary/Celestial/Seraph (SAF).md\|Seraph]]  
 
 ## The Court of All Flesh
 
@@ -58,11 +58,11 @@ Members of the Court are beings of pure chaos. Any attempt to force them to chan
 
 The Changing Ones are not evil. Indeed, they arrive in the Mundane World committed to helping the character who summoned them, even dying for them. They care not for good, nor evil—they are opposed to law, to tyranny, to any force that attempts to slow or stifle change.
 
-- [[5. Mechanics/Bestiary/Npc/Baron Malgas Saf.md\|Baron Malgas]]  
-- [[5. Mechanics/Bestiary/Npc/The Queen Of Bones Saf.md\|The Queen of Bones]]  
-- [[5. Mechanics/Bestiary/Npc/Lord Rall Saf.md\|Lord Rall]]  
-- [[5. Mechanics/Bestiary/Npc/Uursovk Saf.md\|Uursovk]]  
-- [[5. Mechanics/Bestiary/Aberration/Maladar Dictum Saf.md\|Maladar Dictum]]  
+- [[5. Mechanics/Bestiary/Npc/Baron Malgas (SAF).md\|Baron Malgas]]  
+- [[5. Mechanics/Bestiary/Npc/The Queen Of Bones (SAF).md\|The Queen of Bones]]  
+- [[5. Mechanics/Bestiary/Npc/Lord Rall (SAF).md\|Lord Rall]]  
+- [[5. Mechanics/Bestiary/Npc/Uursovk (SAF).md\|Uursovk]]  
+- [[5. Mechanics/Bestiary/Aberration/Maladar Dictum (SAF).md\|Maladar Dictum]]  
 
 ## The Court of Arcadia
 
@@ -88,12 +88,12 @@ The servants of Val consider themselves the enemies of both the Knights of Axiom
 
 To them, chaos means freedom, the freedom of a vine to grow where it will and, yes, even destroy and pull down a wall or a gate in time. The low things of the Court of All Flesh are a corrupt, mirror mockery of this. To the Arcadians, the Court of All Flesh represents discord. Chaos twisted into an evil, destructive form.
 
-- [[5. Mechanics/Bestiary/Fey/Mantis Knight Saf.md\|Mantis Knight]]  
-- [[5. Mechanics/Bestiary/Fey/Monarchon Saf.md\|Monarchon]]  
-- [[5. Mechanics/Bestiary/Fey/Orchid Count Saf.md\|Orchid Count]]  
-- [[5. Mechanics/Bestiary/Dragon/Oleander Dragon Saf.md\|Oleander Dragon]]  
-- [[5. Mechanics/Bestiary/Fey/Ash Marshal Saf.md\|Ash Marshal]]  
-- [[5. Mechanics/Bestiary/Fey/Sidereal Vizier Saf.md\|Sidereal Vizier]]  
+- [[5. Mechanics/Bestiary/Fey/Mantis Knight (SAF).md\|Mantis Knight]]  
+- [[5. Mechanics/Bestiary/Fey/Monarchon (SAF).md\|Monarchon]]  
+- [[5. Mechanics/Bestiary/Fey/Orchid Count (SAF).md\|Orchid Count]]  
+- [[5. Mechanics/Bestiary/Dragon/Oleander Dragon (SAF).md\|Oleander Dragon]]  
+- [[5. Mechanics/Bestiary/Fey/Ash Marshal (SAF).md\|Ash Marshal]]  
+- [[5. Mechanics/Bestiary/Fey/Sidereal Vizier (SAF).md\|Sidereal Vizier]]  
 
 ## The Court of Elements
 
@@ -101,12 +101,12 @@ The Lady of Brass is a notorious adventurer, who often takes her floating Castle
 
 The Court patrol Alloy—the Burning City, the City of Four Elements—and enforce the Lady's law. Beings from across the timescape come to Alloy, and many bring their grudges with them. The Lady has spent eons building Alloy's reputation as a neutral city, open to trade and available for loremasters seeking knowledge not available on their home plane. The Court of Elements enforce this order, ensuring the safety of visitors, unless they come seeking conflict.
 
-- [[5. Mechanics/Bestiary/Elemental/Fire Mote Saf.md\|Fire Mote]]  
-- [[5. Mechanics/Bestiary/Elemental/Source Of Earth Saf.md\|Source of Earth]]  
-- [[5. Mechanics/Bestiary/Elemental/Pillar Of Water Saf.md\|Pillar of Water]]  
-- [[5. Mechanics/Bestiary/Elemental/Knight Of Air Saf.md\|Knight of Air]]  
-- [[5. Mechanics/Bestiary/Elemental/Storm Magistrate Saf.md\|Storm Magistrate]]  
-- [[5. Mechanics/Bestiary/Elemental/High Templar Of Dust Saf.md\|High Templar of Dust]]  
+- [[5. Mechanics/Bestiary/Elemental/Fire Mote (SAF).md\|Fire Mote]]  
+- [[5. Mechanics/Bestiary/Elemental/Source Of Earth (SAF).md\|Source of Earth]]  
+- [[5. Mechanics/Bestiary/Elemental/Pillar Of Water (SAF).md\|Pillar of Water]]  
+- [[5. Mechanics/Bestiary/Elemental/Knight Of Air (SAF).md\|Knight of Air]]  
+- [[5. Mechanics/Bestiary/Elemental/Storm Magistrate (SAF).md\|Storm Magistrate]]  
+- [[5. Mechanics/Bestiary/Elemental/High Templar Of Dust (SAF).md\|High Templar of Dust]]  
 
 ## Gemstone Dragons
 
@@ -228,18 +228,18 @@ The following manifestations are by no means the only ones the dragons have acce
 
 The save DC against a dragon's manifestation is 8 plus the dragon's proficiency bonus plus the dragon's Intelligence modifier.
 
-- [[5. Mechanics/Optional Features/Amplify Saf.md\|Amplify]]  
-- [[5. Mechanics/Optional Features/Another World Saf.md\|Another World]]  
-- [[5. Mechanics/Optional Features/Believe Saf.md\|Believe]]  
-- [[5. Mechanics/Optional Features/Distance Saf.md\|Distance]]  
-- [[5. Mechanics/Optional Features/Elsewhere Saf.md\|Elsewhere]]  
-- [[5. Mechanics/Optional Features/Flay Saf.md\|Flay]]  
-- [[5. Mechanics/Optional Features/Forget Saf.md\|Forget]]  
-- [[5. Mechanics/Optional Features/Mindscape Saf.md\|Mindscape]]  
-- [[5. Mechanics/Optional Features/The Real Saf.md\|The Real]]  
-- [[5. Mechanics/Optional Features/Reflection Saf.md\|Reflection]]  
-- [[5. Mechanics/Optional Features/Sympathy Saf.md\|Sympathy]]  
-- [[5. Mechanics/Optional Features/Weight Saf.md\|Weight]]  
+- [[5. Mechanics/Optional Features/Amplify (SAF).md\|Amplify]]  
+- [[5. Mechanics/Optional Features/Another World (SAF).md\|Another World]]  
+- [[5. Mechanics/Optional Features/Believe (SAF).md\|Believe]]  
+- [[5. Mechanics/Optional Features/Distance (SAF).md\|Distance]]  
+- [[5. Mechanics/Optional Features/Elsewhere (SAF).md\|Elsewhere]]  
+- [[5. Mechanics/Optional Features/Flay (SAF).md\|Flay]]  
+- [[5. Mechanics/Optional Features/Forget (SAF).md\|Forget]]  
+- [[5. Mechanics/Optional Features/Mindscape (SAF).md\|Mindscape]]  
+- [[5. Mechanics/Optional Features/The Real (SAF).md\|The Real]]  
+- [[5. Mechanics/Optional Features/Reflection (SAF).md\|Reflection]]  
+- [[5. Mechanics/Optional Features/Sympathy (SAF).md\|Sympathy]]  
+- [[5. Mechanics/Optional Features/Weight (SAF).md\|Weight]]  
 
 #### Auras
 
@@ -261,32 +261,32 @@ All gemstone dragons develop telepathy as they age. Most acquire it when they ar
 
 The gemstone dragons can maintain several persistent manifestations simultaneously but doing so requires expending 1 charge per manifestation at the start of each round. Damage disrupts psionic concentration just as it does a spell, but the saving throw is based on Intelligence rather than Constitution.
 
-- [[5. Mechanics/Bestiary/Dragon/Ancient Emerald Dragon Saf.md\|Ancient Emerald Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Adult Emerald Dragon Saf.md\|Adult Emerald Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Young Emerald Dragon Saf.md\|Young Emerald Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Emerald Wyrmling Saf.md\|Emerald Wyrmling]]  
-- [[5. Mechanics/Bestiary/Dragon/Ancient Ruby Dragon Saf.md\|Ancient Ruby Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Adult Ruby Dragon Saf.md\|Adult Ruby Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Young Ruby Dragon Saf.md\|Young Ruby Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Ruby Wyrmling Saf.md\|Ruby Wyrmling]]  
-- [[5. Mechanics/Bestiary/Dragon/Ancient Sapphire Dragon Saf.md\|Ancient Sapphire Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Adult Sapphire Dragon Saf.md\|Adult Sapphire Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Young Sapphire Dragon Saf.md\|Young Sapphire Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Sapphire Wyrmling Saf.md\|Sapphire Wyrmling]]  
-- [[5. Mechanics/Bestiary/Dragon/Ancient Topaz Dragon Saf.md\|Ancient Topaz Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Adult Topaz Dragon Saf.md\|Adult Topaz Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Young Topaz Dragon Saf.md\|Young Topaz Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Topaz Wyrmling Saf.md\|Topaz Wyrmling]]  
-- [[5. Mechanics/Bestiary/Dragon/Ancient Amethyst Dragon Saf.md\|Ancient Amethyst Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Adult Amethyst Dragon Saf.md\|Adult Amethyst Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Young Amethyst Dragon Saf.md\|Young Amethyst Dragon]]  
-- [[5. Mechanics/Bestiary/Dragon/Amethyst Wyrmling Saf.md\|Amethyst Wyrmling]]  
+- [[5. Mechanics/Bestiary/Dragon/Ancient Emerald Dragon (SAF).md\|Ancient Emerald Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Adult Emerald Dragon (SAF).md\|Adult Emerald Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Young Emerald Dragon (SAF).md\|Young Emerald Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Emerald Wyrmling (SAF).md\|Emerald Wyrmling]]  
+- [[5. Mechanics/Bestiary/Dragon/Ancient Ruby Dragon (SAF).md\|Ancient Ruby Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Adult Ruby Dragon (SAF).md\|Adult Ruby Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Young Ruby Dragon (SAF).md\|Young Ruby Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Ruby Wyrmling (SAF).md\|Ruby Wyrmling]]  
+- [[5. Mechanics/Bestiary/Dragon/Ancient Sapphire Dragon (SAF).md\|Ancient Sapphire Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Adult Sapphire Dragon (SAF).md\|Adult Sapphire Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Young Sapphire Dragon (SAF).md\|Young Sapphire Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Sapphire Wyrmling (SAF).md\|Sapphire Wyrmling]]  
+- [[5. Mechanics/Bestiary/Dragon/Ancient Topaz Dragon (SAF).md\|Ancient Topaz Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Adult Topaz Dragon (SAF).md\|Adult Topaz Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Young Topaz Dragon (SAF).md\|Young Topaz Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Topaz Wyrmling (SAF).md\|Topaz Wyrmling]]  
+- [[5. Mechanics/Bestiary/Dragon/Ancient Amethyst Dragon (SAF).md\|Ancient Amethyst Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Adult Amethyst Dragon (SAF).md\|Adult Amethyst Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Young Amethyst Dragon (SAF).md\|Young Amethyst Dragon]]  
+- [[5. Mechanics/Bestiary/Dragon/Amethyst Wyrmling (SAF).md\|Amethyst Wyrmling]]  
 
 ### Gemstone Dragonborn
 
 Much rarer than their metallic or chromatic cousins, the gemstone dragonborn are the result of powerful rituals. They are proud of their heritage. Because the gemstone dragons are rare, so rare as to be considered mythical, it's not unusual for their humanoid descendants to pursue a great quest to find their ultimate progenitor...or just any gemstone dragon, to get a sense of where they came from and prove the jeweled dragons are real.
 
-- [[5. Mechanics/Races/Gemstone Dragonborn Saf.md\|Gemstone Dragonborn]]  
+- [[5. Mechanics/Races/Gemstone Dragonborn (SAF).md\|Gemstone Dragonborn]]  
 
 > A sound roared and thrummed in their minds. But the creature in front of them was recumbent, sleeping. Still. It looked like a great beast of the plains, satiated after a long hunt.
 > 
@@ -602,9 +602,9 @@ Almost all the Inexorables are vulnerable to magic. It interferes with the perfe
 
 The forces of Law that grant the Inexorables the power to travel the planes, arriving when summoned to repair the damaged fabric of reality, also prevent their duty from being interfered with. When it comes to denying the Inexorables the opportunity to pursue their purpose, even the chaos of magic cannot stop them. The Inexorables are immune to any effects that would slow them or deny them actions or movement.
 
-- [[5. Mechanics/Bestiary/Construct/Space Saf.md\|Space]]  
-- [[5. Mechanics/Bestiary/Construct/Death Saf.md\|Death]]  
-- [[5. Mechanics/Bestiary/Construct/Change Saf.md\|Change]]  
-- [[5. Mechanics/Bestiary/Construct/Fate Saf.md\|Fate]]  
-- [[5. Mechanics/Bestiary/Construct/Time Saf.md\|Time]]  
-- [[5. Mechanics/Bestiary/Construct/Nature Saf.md\|Nature]]
+- [[5. Mechanics/Bestiary/Construct/Space (SAF).md\|Space]]  
+- [[5. Mechanics/Bestiary/Construct/Death (SAF).md\|Death]]  
+- [[5. Mechanics/Bestiary/Construct/Change (SAF).md\|Change]]  
+- [[5. Mechanics/Bestiary/Construct/Fate (SAF).md\|Fate]]  
+- [[5. Mechanics/Bestiary/Construct/Time (SAF).md\|Time]]  
+- [[5. Mechanics/Bestiary/Construct/Nature (SAF).md\|Nature]]

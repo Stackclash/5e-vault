@@ -10,9 +10,9 @@ aliases: ["Magic Items"]
 
 The following new magic items appear in *The Siege of Castle Rend*.
 
-- [[5. Mechanics/Items/Grace Saf.md\|Grace]]  
+- [[5. Mechanics/Items/Grace (SAF).md\|Grace]]  
 - Armor of St . Gaed the Confessor  
-- [[5. Mechanics/Items/Potion Of Enhance Ability Saf.md\|Potion of Enhance Ability]]  
-- [[5. Mechanics/Items/Wound Saf.md\|Wound]]  
+- [[5. Mechanics/Items/Potion Of Enhance Ability (SAF).md\|Potion of Enhance Ability]]  
+- [[5. Mechanics/Items/Wound (SAF).md\|Wound]]  
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-magic-items.webp#center)

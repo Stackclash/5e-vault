@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdcb64ad739edb7c",
+        "id": "a8a692fd8e5a0fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "418471cf72d1a7e2",
+            "id": "fe43018b69e34e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/The Siege Of Castle Rend/3 Part-2 The Forest Rend.md",
-                "mode": "preview",
+                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/The Siege Of Castle Rend/3 Part-2 The Forest Rend.md",
+                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/The Siege Of Castle Rend/3 Part-2 The Forest Rend.md",
+                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/The Siege Of Castle Rend/3 Part-2 The Forest Rend.md"
+                "file": "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md"
               }
             }
           },
@@ -183,8 +183,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "418471cf72d1a7e2",
+  "active": "fe43018b69e34e57",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md",
+    "5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md",
+    "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
+    "5. Mechanics/Tables/Druid Followers (SAF).md",
+    "compendium/items/spell-scroll-3rd-level.md",
+    "compendium/bestiary/undead/skull-lord-mpmm.md",
+    "compendium/bestiary/beast/bestial-spirit-air-8th-level-spell-tce.md",
+    "compendium/bestiary/npc/pidlwick-ii-cos.md",
+    "compendium/races/centaur-mpmm.md",
+    "compendium/bestiary/construct/fate-saf.md",
+    "compendium/bestiary/beast/swarm-of-bats.md",
+    "compendium/rewards/dark-gift-of-tarakamedes-the-grave-wyrm-cos.md",
+    "compendium/items/keoghtoms-ointment.md",
+    "compendium/bestiary/npc/escher-cos.md",
+    "compendium/items/driftglobe.md",
+    "compendium/bestiary/aberration/mind-flayer-arcanist.md",
+    "compendium/bestiary/npc/zariel-mpmm.md",
+    "compendium/feats/savage-attacker.md",
+    "compendium/bestiary/humanoid/mage.md",
+    "compendium/items/lock-of-trickery-xge.md",
+    "compendium/bestiary/beast/aurochs-mpmm.md",
+    "compendium/deities/greyhawk-st-cuthbert.md",
+    "compendium/bestiary/beast/giant-sea-horse.md",
+    "compendium/items/quartz.md",
+    "compendium/items/scroll-of-protection-from-fiends.md",
+    "compendium/bestiary/fiend/maw-demon-mpmm.md",
+    "compendium/backgrounds",
+    "compendium/races",
+    "compendium/bestiary/construct",
+    "compendium/bestiary/npc",
+    "compendium/bestiary/giant",
+    "compendium/rewards",
+    "compendium/bestiary/fey",
+    "compendium/bestiary/fiend",
+    "compendium/bestiary/undead",
+    "compendium/bestiary/beast",
     "compendium/bestiary/celestial/token/pegasus.png",
     "compendium/bestiary/ooze/img/ochre-jelly.jpg",
     "compendium/bestiary/celestial/img/couatl.jpg",
@@ -194,43 +230,7 @@
     "compendium/bestiary/ooze/token/gelatinous-cube.png",
     "compendium/backgrounds/img/investigator.png",
     "compendium/backgrounds/img/haunted-one.png",
-    "compendium/backgrounds/img",
     "compendium/bestiary/fey/img/yeth-hound.webp",
-    "compendium/bestiary/fey/img/winter-eladrin.webp",
-    "compendium/bestiary/fey/img",
-    "compendium/bestiary/null/token",
-    "compendium/bestiary/null",
-    "compendium/bestiary/giant/img",
-    "compendium/deities/img",
-    "compendium/bestiary/giant/token",
-    "compendium/bestiary/undead/img",
-    "compendium/bestiary/construct/img",
-    "compendium/races/img",
-    "compendium/rules/variant-rules/wands-that-dont-recharge.md",
-    "compendium/rules/variant-rules/tying-knots-xge.md",
-    "compendium/rules/variant-rules/tool-proficiencies-xge.md",
-    "compendium/rules/variant-rules/survivors-vrgr.md",
-    "compendium/rules/variant-rules/spellcasting-xge.md",
-    "compendium/rules/variant-rules/skill-variants.md",
-    "compendium/rules/variant-rules/spell-points.md",
-    "compendium/rules/variant-rules/sleep-xge.md",
-    "compendium/rules/variant-rules/skills-with-different-abilities.md",
-    "compendium/rules/variant-rules/shared-campaign-variant-rules-xge.md",
-    "compendium/rules/variant-rules/simultaneous-effects-xge.md",
-    "compendium/rules/variant-rules/sidekicks-tce.md",
-    "compendium/rules/variant-rules/scroll-mishaps.md",
-    "compendium/rules/variant-rules/rest-variants.md",
-    "compendium/rules/variant-rules/renown.md",
-    "compendium/rules/variant-rules/proficiency-dice.md",
-    "compendium/rules/variant-rules/plot-points.md",
-    "compendium/rules/variant-rules/playing-on-a-grid.md",
-    "compendium/rules/variant-rules/player-characters-as-vampires.md",
-    "compendium/rules/variant-rules/player-characters-as-lycanthropes.md",
-    "compendium/rules/variant-rules/planar-effects.md",
-    "compendium/rules/variant-rules/optional-class-features-tce.md",
-    "compendium/rules/variant-rules/new-ability-scores-honor-and-sanity.md",
-    "compendium/rules/variant-rules/multiclassing.md",
-    "compendium/rules/variant-rules/more-difficult-identification.md",
     "Untitled.canvas"
   ]
 }
