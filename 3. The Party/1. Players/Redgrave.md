@@ -23,3 +23,5 @@ class: Cleric
 ```custom-frames
 frame: DnDBGeorge
 ```
+
+`=this.file.class`
