@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 # `=this.file.name`
 ## **Characters**
-### **[[1. Players|Edit Players]]**
+### **[[3. The Party/1. Players/1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID

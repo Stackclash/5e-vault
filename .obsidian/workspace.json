@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md"
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md"
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           },
@@ -181,8 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "fe43018b69e34e57",
   "lastOpenFiles": [
+    "3. The Party/1. Players.md",
+    "3. The Party/1. Players/1. Players.md",
+    "3. The Party/1. Players/.md",
+    "3. The Party/3. Quests/3. Quests.md",
     "z_Templates/Party/Player Character.md",
     "MCDM Productions; Strongholds and Followers.json",
     "6. Resources/Resources/Interactive Tome of Strahd.json",
@@ -207,10 +211,6 @@
     "5. Mechanics/Items/Barrel.md",
     "5. Mechanics/Items/Ball Bearings Bag Of-1000.md",
     "5. Mechanics/Items/Ball Bearing.md",
-    "5. Mechanics/Items/Bagpipes.md",
-    "5. Mechanics/Items/Bag Of Tricks Tan.md",
-    "5. Mechanics/Items/Bag Of Tricks Rust.md",
-    "5. Mechanics/Items/Bag Of Tricks Gray.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
