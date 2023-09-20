@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72702c03fad4dbb4",
+        "id": "85cfc6346c444b32",
         "type": "tabs",
         "children": [
           {
-            "id": "56f938606e307fc0",
+            "id": "8fa1fb0ecdce4e8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/1. Players/Hello.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. The Party/1. Players/Hello.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,9 +175,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56f938606e307fc0",
+  "active": "8fa1fb0ecdce4e8c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "z_Scripts/get_all_files.js",
+    "z_Scripts/get-all-files.js",
+    "3. The Party/1. Players/Hello.md",
+    "3. The Party/1. Players/Hello.md",
+    "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
     "`this.art`.md",
@@ -207,20 +206,12 @@
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
-    "5. Mechanics/Items/Bag Of Beans.md",
-    "5. Mechanics/Items/Bit And Bridle.md",
-    "5. Mechanics/Items/Black Dragon Scale Mail.md",
-    "5. Mechanics/Items/Black Pearl.md",
-    "5. Mechanics/Items/Bedroll.md",
-    "5. Mechanics/Items/Bead Of Force.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
     "compendium/bestiary/npc",
     "compendium/bestiary/giant",
     "compendium/rewards",
-    "compendium/bestiary/fey",
-    "compendium/bestiary/fiend",
     "compendium/bestiary/celestial/token/pegasus.png",
     "compendium/bestiary/ooze/img/ochre-jelly.jpg",
     "compendium/bestiary/celestial/img/couatl.jpg",

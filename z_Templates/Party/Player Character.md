@@ -14,12 +14,16 @@ condition:
 location:
 ---
 <%*
+const dv = app.plugins.plugins.dataview.api
+
 let title = tp.file.title
 await tp.file.move('3. The Party/1. Players/' + tp.file.title)
 if (tp.config.run_mode === 0) {
     title = await tp.system.prompt("What is the name of the character?")
     await tp.file.rename(title)
 }
+
+let images = tp.user.get_all_files("z_Assets")
 %>
 > [!infobox|right]
 > # `=this.file.name`
@@ -37,8 +41,8 @@ if (tp.config.run_mode === 0) {
 > | | |
 > | ---- | ---- |
 > | Str | `=this.stats[0]` |
-> | Dex | `=this.stats[0]` |
-> | Con | `=this.stats[0]` |
-> | Int | `=this.stats[0]` |
-> | Wis | `=this.stats[0]` |
-> | Cha | `=this.stats[0]` |
+> | Dex | `=this.stats[1]` |
+> | Con | `=this.stats[2]` |
+> | Int | `=this.stats[3]` |
+> | Wis | `=this.stats[4]` |
+> | Cha | `=this.stats[5]` |
