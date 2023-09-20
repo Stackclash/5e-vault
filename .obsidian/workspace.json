@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a692fd8e5a0fd6",
+        "id": "11657d18ca7ab0b1",
         "type": "tabs",
         "children": [
           {
-            "id": "fe43018b69e34e57",
+            "id": "dcb4180f3eee6a1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Party/Player Character.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Party/Player Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Party/Player Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "z_Templates/Party/Player Character.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,15 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe43018b69e34e57",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "3. The Party/1. Players/1. Players.md",
     "Untitled.md",
+    "z_Templates/Party/Player Character.md",
+    "3. The Party/1. Players/1. Players.md",
     "hello.md.md",
     "3. The Party/1. Players.md",
     "3. The Party/1. Players/.md",
     "3. The Party/3. Quests/3. Quests.md",
-    "z_Templates/Party/Player Character.md",
     "MCDM Productions; Strongholds and Followers.json",
     "6. Resources/Resources/Interactive Tome of Strahd.json",
     "3. The Party/2. Session Logs/2. Session Logs.md",
