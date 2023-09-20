@@ -24,4 +24,6 @@ class: Cleric
 frame: DnDBGeorge
 ```
 
-`=this.file.class`
+```dataviewjs
+dv.span(dv.page(this.class))
+```
