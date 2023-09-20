@@ -9,7 +9,7 @@ stats:
 ac:
 modifier:
 party:
-art:
+art: <% tp.system.suggester(images, images, false, "PlaceholderImage.png") %>
 condition:
 location:
 ---
@@ -23,11 +23,11 @@ if (tp.config.run_mode === 0) {
     await tp.file.rename(title)
 }
 
-let basePath = app.vault.adapter.getBasePath()
-console.log(basePath)
+let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
 %>
 > [!infobox|right]
 > # `=this.file.name`
+> ![[<%+ tp.frontmatter.art %>]]
 > ## Info
 > | | |
 > | ---- | ---- |

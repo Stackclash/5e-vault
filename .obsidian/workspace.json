@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85cfc6346c444b32",
+        "id": "c20a19a66c61c267",
         "type": "tabs",
         "children": [
           {
-            "id": "8fa1fb0ecdce4e8c",
+            "id": "91cd1ee916612f06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md"
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           },
@@ -183,25 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa1fb0ecdce4e8c",
+  "active": "91cd1ee916612f06",
   "lastOpenFiles": [
     "3. The Party/1. Players/1. Players.md",
     "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
     "z_Scripts/proccess_5etools_files.js",
     "z_Scripts/get_all_files.js",
-    "3. The Party/1. Players/Hello.md",
     "z_Scripts/get-all-files.js",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Marin.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
     "`this.art`.md",
     "3. The Party/1. Players/hello.md",
     "z_Templates/World Building/Settlement.md",
