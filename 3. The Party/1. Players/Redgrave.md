@@ -23,7 +23,3 @@ class: Cleric
 ```custom-frames
 frame: DnDBGeorge
 ```
-
-```dataviewjs
-dv.span(dv.page(this.class))
-```
