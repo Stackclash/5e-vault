@@ -15,4 +15,4 @@ location:
 ---
 
 <%- tp.file.move("3. The Party/1. Players/") -%>
-
+<%- tp.config.run_mode -%>

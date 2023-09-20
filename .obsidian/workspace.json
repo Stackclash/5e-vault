@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81fa21521ae6d79e",
+        "id": "a8a692fd8e5a0fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "6406abeab3f6d459",
+            "id": "fe43018b69e34e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "source",
-                "source": false
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           },
@@ -183,36 +181,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6406abeab3f6d459",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "3. The Party/1. Players/1. Players.md",
     "z_Templates/Party/Player Character.md",
-    "5. Mechanics/Races/Aasimar (MPMM).md",
-    "5. Mechanics/Races/Aasimar (DMG).md",
-    "5. Mechanics/Races/Races.md",
-    "3. The Party/1. Players/Redgrave.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-    "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
-    "z_Templates/Party/Player.md",
-    "5. Mechanics/Races/Zombie (DMG).md",
-    "5. Mechanics/Races/Half Orc.md",
-    "5. Mechanics/Races/Half Elf.md",
-    "5. Mechanics/Races/Grimlock (DMG).md",
-    "5. Mechanics/Races/Elf.md",
-    "5. Mechanics/Races/Elf High.md",
-    "5. Mechanics/Races/Bullywug (DMG).md",
-    "5. Mechanics/Races/Bugbear (MPMM).md",
-    "5. Mechanics/Races/Centaur (MPMM).md",
-    "5. Mechanics/Races/Dragonborn.md",
-    "5. Mechanics/Races/Githyanki (MPMM).md",
-    "5. Mechanics/Items/Alchemy Jug.md",
-    "5. Mechanics/Items/Items.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
-    "3. The Party/1. Players/Marin.md",
     "MCDM Productions; Strongholds and Followers.json",
     "6. Resources/Resources/Interactive Tome of Strahd.json",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "3. The Party/2. Session Logs/Session 5.md",
+    "4. World Almanac/Eldoria/Groups/Groups.md",
+    "4. World Almanac/Eldoria/Locations/Locations.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
+    "5. Mechanics/Items/Bag Of Beans.md",
+    "5. Mechanics/Items/Bit And Bridle.md",
+    "5. Mechanics/Items/Black Dragon Scale Mail.md",
+    "5. Mechanics/Items/Black Pearl.md",
+    "5. Mechanics/Items/Bedroll.md",
+    "5. Mechanics/Items/Bead Of Force.md",
+    "5. Mechanics/Items/Battleaxe.md",
+    "5. Mechanics/Items/Basket.md",
+    "5. Mechanics/Items/Basic Poison Vial.md",
+    "5. Mechanics/Items/Barrier Tattoo Medium (TCE).md",
+    "5. Mechanics/Items/Barrier Tattoo Large (TCE).md",
+    "5. Mechanics/Items/Barrel.md",
+    "5. Mechanics/Items/Ball Bearings Bag Of-1000.md",
+    "5. Mechanics/Items/Ball Bearing.md",
+    "5. Mechanics/Items/Bagpipes.md",
+    "5. Mechanics/Items/Bag Of Tricks Tan.md",
+    "5. Mechanics/Items/Bag Of Tricks Rust.md",
+    "5. Mechanics/Items/Bag Of Tricks Gray.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
