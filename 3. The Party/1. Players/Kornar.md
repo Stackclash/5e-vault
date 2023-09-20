@@ -15,7 +15,11 @@ location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$= dv.fileLink(dv.current().art, true)`
+> ```dataview
+> TABLE WITHOUT ID
+> embed(link(art)) as "Art"
+> WHERE file.name = this.file.name 
+> ```
 > ## Info
 > | | |
 > | ---- | ---- |
