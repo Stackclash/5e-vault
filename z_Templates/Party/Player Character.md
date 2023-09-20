@@ -29,7 +29,7 @@ location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$=dv.fileLink(this.art, true)`
+> `$= dv.container = '<img src="' + app.vault.getResourcePath(dv.fileLink(dv.current().art) ) + '" />' `
 > ## Info
 > | | |
 > | ---- | ---- |

@@ -9,13 +9,13 @@ stats:
 ac:
 modifier:
 party:
-art: Barovia.jpg
+art: Faerah Duskrane.jpeg
 condition:
 location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `=link(this.art)`
+ `$= dv.el("img", "", {attr: { src : dv.current().art}}) `
 > ## Info
 > | | |
 > | ---- | ---- |
