@@ -1,3 +1,17 @@
+/*
+In folder-font use these to denote the icon set to use:
+--rmx -> remixicon
+--mdi -> Material Icons Sharp
+--fa5 -> Font Awesome 5 Free Solid
+--rpg -> rpg-awesome
+
+To find the unicode use these sites
+https://remixicon.com/
+https://fonts.google.com/icons -> Material Icons
+https://fontawesome.com/
+https://nagoshiashumari.github.io/Rpg-Awesome/ https://github.com/nagoshiashumari/Rpg-Awesome/blob/master/scss/_variables.scss
+*/
+
 .nav-folder-title[data-path="1. DM Screen"],
 .nav-folder-title[data-path="1. DM Screen"] + .nav-folder-children {
 	--folder-icon: "\e982";
@@ -34,18 +48,6 @@
 	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
 }
 
-.nav-folder-title[data-path="4. Session Journal"],
-.nav-folder-title[data-path="4. Session Journal"] + .nav-folder-children {
-	--folder-icon: "\f02d";
-	--folder-font: var(--fa5);
-	
-	/*--folder-vertical-alignment: -2px; */ 
-	/* Optional, helps with aligning icons vertically */
-	
-	/* --folder: #000000; Folder color here */
-	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
-}
-
 .nav-folder-title[data-path="4. World Almanac"],
 .nav-folder-title[data-path="4. World Almanac"] + .nav-folder-children {
 	--folder-icon: "\f57d";
@@ -61,6 +63,30 @@
 .nav-folder-title[data-path="5. Mechanics"],
 .nav-folder-title[data-path="5. Mechanics"] + .nav-folder-children {
 	--folder-icon: "\f7d9";
+	--folder-font: var(--fa5);
+	
+	/*--folder-vertical-alignment: -2px; */ 
+	/* Optional, helps with aligning icons vertically */
+	
+	/* --folder: #000000; Folder color here */
+	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
+}
+
+.nav-folder-title[data-path="6. Resources"],
+.nav-folder-title[data-path="6. Resources"] + .nav-folder-children {
+	--folder-icon: "\f56f";
+	--folder-font: var(--fa5);
+	
+	/*--folder-vertical-alignment: -2px; */ 
+	/* Optional, helps with aligning icons vertically */
+	
+	/* --folder: #000000; Folder color here */
+	/* --accent-color: 0, 0, 0; RGB Values Only: ###, ###, ### */
+}
+
+.nav-folder-title[data-path="z_Scripts"],
+.nav-folder-title[data-path="z_Scripts"] + .nav-folder-children {
+	--folder-icon: "\f121";
 	--folder-font: var(--fa5);
 	
 	/*--folder-vertical-alignment: -2px; */ 
