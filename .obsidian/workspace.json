@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. The Party/1. Players/Hello.md"
+              }
             }
           },
           {
@@ -175,9 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa1fb0ecdce4e8c",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "3. The Party/1. Players/Hello.md",
     "z_Scripts/get_all_files.js",
     "z_Scripts/get-all-files.js",
     "3. The Party/1. Players/Hello.md",

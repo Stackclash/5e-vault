@@ -21,14 +21,3 @@ if (tp.config.run_mode === 0) {
     await tp.file.rename(title)
 }
 %>
-> [!infobox|right]
-> # `=this.file.name`
-> ## Info
-> | | |
-> | ---- | ---- |
-> | Level | `=this.level` |
-> | Class | `=link(this.class)` |
-> | Race | `=link(this.race)` |
-> | HP | `=this.hp` |
-> | AC | `=this.ac` |
-> | Initiative Mod | `=this.modifier` |
