@@ -16,7 +16,7 @@ location:
 
 > [!infobox|right]
 > # `=this.file.name`
-> `$=embed(link(this.art))`
+> `=embed(link(this.art))`
 > ## Info
 > | Level | `=this.level` |
 > | HP | `=this.hp` |
