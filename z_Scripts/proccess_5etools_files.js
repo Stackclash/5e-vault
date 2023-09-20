@@ -188,4 +188,8 @@ function processAllRules(files) {
     })
 }
 
-processAllRules(goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath)))
+function processCompendium() {
+    processAllRules(goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath)))
+}
+
+module.exports = processCompendium
