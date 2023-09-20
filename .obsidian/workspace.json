@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. The Party/1. Players/Untitled.md"
+              }
             }
           },
           {
@@ -178,6 +180,7 @@
   "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
     "Untitled.md",
+    "3. The Party/1. Players/Untitled.md",
     "z_Templates/Party/Player Character.md",
     "3. The Party/1. Players/1. Players.md",
     "hello.md.md",
@@ -204,7 +207,6 @@
     "5. Mechanics/Items/Basic Poison Vial.md",
     "5. Mechanics/Items/Barrier Tattoo Medium (TCE).md",
     "5. Mechanics/Items/Barrier Tattoo Large (TCE).md",
-    "5. Mechanics/Items/Barrel.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
