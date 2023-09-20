@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a692fd8e5a0fd6",
+        "id": "5bc5a8a137011e00",
         "type": "tabs",
         "children": [
           {
-            "id": "fe43018b69e34e57",
+            "id": "a3f4d389ed992c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/Bag Of Beans.md",
+                "file": "3. The Party/1. Players/Yevelda Ovak.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "57185d63bc107e4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "3. The Party/1. Players/Yevelda Ovak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "3. The Party/1. Players/Yevelda Ovak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "3. The Party/1. Players/Yevelda Ovak.md"
               }
             }
           },
@@ -196,8 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57185d63bc107e4d",
+  "active": "a3f4d389ed992c78",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Redgrave.md",
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/1. Players/1. Players.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "5. Mechanics/Items/Bag Of Beans.md",
     "conflict-files-obsidian-git.md",
     "MCDM Productions; Strongholds and Followers.json",
@@ -220,12 +213,6 @@
     "5. Mechanics/Items/Bag Of Tricks Rust.md",
     "5. Mechanics/Items/Bag Of Tricks Gray.md",
     "5. Mechanics/Items/Bag Of Devouring.md",
-    "5. Mechanics/Items/Bag Of Holding.md",
-    "5. Mechanics/Items/Items.md",
-    "1. DM Screen/1. DM Screen.md",
-    "5. Mechanics/Vehicles/Vehicles.md",
-    "5. Mechanics/Vehicles/Apparatus Of Kwalish.md",
-    "5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",

@@ -4,11 +4,12 @@
     "custom_callouts",
     "initiative-tracker-fix",
     "supercharged-links-gen",
-    "Custom Styles",
     "Folder Icons",
     "ITS - Encoded Fonts",
     "ITS - Encoded Icons",
-    "CSS Links"
+    "CSS Links",
+    "CSS External Links",
+    "Custom Styles"
   ],
   "theme": "moonstone",
   "cssTheme": "ITS Theme",
