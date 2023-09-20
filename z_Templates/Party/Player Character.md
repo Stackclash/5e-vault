@@ -22,12 +22,10 @@ if (tp.config.run_mode === 0) {
     title = await tp.system.prompt("What is the name of the character?")
     await tp.file.rename(title)
 }
-
-let images = tp.user.get_all_files("z_Assets")
 %>
 > [!infobox|right]
 > # `=this.file.name`
-> ![[<% tp.system.prompt("Character Art Filename?") %>]]
+> `=embed(link(this.art))`
 > ## Info
 > | | |
 > | ---- | ---- |
@@ -40,9 +38,9 @@ let images = tp.user.get_all_files("z_Assets")
 > ## Stats
 > | | |
 > | ---- | ---- |
-> | Str | `=this.stats[0]` |
-> | Dex | `=this.stats[1]` |
-> | Con | `=this.stats[2]` |
-> | Int | `=this.stats[3]` |
-> | Wis | `=this.stats[4]` |
-> | Cha | `=this.stats[5]` |
+> | Str | `=this.stats[0] || 0` |
+> | Dex | `=this.stats[1] || 0` |
+> | Con | `=this.stats[2] || 0` |
+> | Int | `=this.stats[3] || 0` |
+> | Wis | `=this.stats[4] || 0` |
+> | Cha | `=this.stats[5] || 0` |
