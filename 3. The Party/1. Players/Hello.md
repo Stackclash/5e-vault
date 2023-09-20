@@ -13,19 +13,7 @@ art:
 condition:
 location:
 ---
-<%*
-const path = require('path')
 
-let title = tp.file.title
-await tp.file.move('3. The Party/1. Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-
-let basePath = app.vault.adapter.getBasePath()
-console.log(basePath)
-%>
 > [!infobox|right]
 > # `=this.file.name`
 > ## Info
