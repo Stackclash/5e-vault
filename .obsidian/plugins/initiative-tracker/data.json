@@ -149,8 +149,8 @@
   "unconsciousId": "Unconscious",
   "version": [
     12,
-    1,
-    4
+    2,
+    3
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -172,7 +172,7 @@
         "currentAC": 15,
         "note": "Faerah Duskrane",
         "path": "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
-        "id": "ID_c83bd8284a69",
+        "id": "ID_e82b599b6b0a",
         "currentHP": 24,
         "tempHP": 0,
         "status": [],
@@ -194,7 +194,7 @@
         "currentAC": 9,
         "note": "Marin",
         "path": "3. The Party/Curse of Strahd Campaign/Marin.md",
-        "id": "ID_6b29bb097b49",
+        "id": "ID_287bca986af9",
         "currentHP": 21,
         "tempHP": 0,
         "status": [],
@@ -216,7 +216,7 @@
         "currentAC": 21,
         "note": "Redgrave",
         "path": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
-        "id": "ID_89d9ab990b78",
+        "id": "ID_eaba4be91b79",
         "currentHP": 17,
         "tempHP": 0,
         "status": [],
@@ -238,7 +238,7 @@
         "currentAC": 15,
         "note": "Seluvis Felo'melorn",
         "path": "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
-        "id": "ID_3969db389a99",
+        "id": "ID_0adbc899e8eb",
         "currentHP": 21,
         "tempHP": 0,
         "status": [],
@@ -260,7 +260,7 @@
         "currentAC": 15,
         "note": "Yevelda Ovak",
         "path": "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
-        "id": "ID_db3b1bd99b09",
+        "id": "ID_48b83929c998",
         "currentHP": 10,
         "tempHP": 0,
         "status": [],
@@ -509,5 +509,6 @@
       ]
     }
   },
+  "rollPlayerInitiatives": 0,
   "leafletIntegration": false
 }

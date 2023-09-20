@@ -11,8 +11,12 @@
             "id": "59369db4c5f1a630",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/1. Players/Kornar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. The Party/1. Players/Kornar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. The Party/1. Players/Kornar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md"
+                "file": "3. The Party/1. Players/Kornar.md"
               }
             }
           },
@@ -120,14 +126,6 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef34cacf567e1afa",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
               "state": {}
             }
           },
@@ -148,6 +146,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f0b688bede4e948f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -159,11 +165,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -174,11 +178,16 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "59369db4c5f1a630",
   "lastOpenFiles": [
+    "Untitled.md",
+    "3. The Party/1. Players/Kornar.md",
+    "3. The Party/1. Players/1. Players.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
@@ -186,7 +195,6 @@
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/1. Players.md",
     "z_Scripts/proccess_5etools_files.js",
     "z_Scripts/get_all_files.js",
     "z_Scripts/get-all-files.js",
