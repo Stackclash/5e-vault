@@ -23,8 +23,10 @@ if (tp.config.run_mode === 0) {
 %>
 > [!infobox|right]
 > # `=this.file.name`
-> `=embed(link(this.art))`
+> ![[<% tp.system.prompt("Character Art Filename?") %>]]
 > ## Info
+> | | |
+> | ---- | ---- |
 > | Level | `=this.level` |
 > | Class | `=link(this.class)` |
 > | Race | `=link(this.race)` |
@@ -32,4 +34,11 @@ if (tp.config.run_mode === 0) {
 > | AC | `=this.ac` |
 > | Initiative Mod | `=this.modifier` |
 > ## Stats
+> | | |
+> | ---- | ---- |
 > | Str | `=this.stats[0]` |
+> | Dex | `=this.stats[0]` |
+> | Con | `=this.stats[0]` |
+> | Int | `=this.stats[0]` |
+> | Wis | `=this.stats[0]` |
+> | Cha | `=this.stats[0]` |

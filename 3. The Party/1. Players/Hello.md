@@ -3,12 +3,11 @@ obsidianUIMode: preview
 statblock: true
 level: 1
 race: Elf
-class: Cleric
-hp: 25
-stats:
-  - "10"
-ac: 18
-modifier: 2
+class: Artificer
+hp: 10
+stats: 
+ac: 
+modifier: 
 party: 
 art: 
 condition: 
@@ -17,7 +16,7 @@ location:
 
 > [!infobox|right]
 > # `=this.file.name`
-> `=embed(link(this.art))`
+> ![[Marin.jpeg]]
 > ## Info
 > | | |
 > | ---- | ---- |
@@ -28,5 +27,11 @@ location:
 > | AC | `=this.ac` |
 > | Initiative Mod | `=this.modifier` |
 > ## Stats
+> | | |
+> | ---- | ---- |
 > | Str | `=this.stats[0]` |
-
+> | Dex | `=this.stats[0]` |
+> | Con | `=this.stats[0]` |
+> | Int | `=this.stats[0]` |
+> | Wis | `=this.stats[0]` |
+> | Cha | `=this.stats[0]` |
