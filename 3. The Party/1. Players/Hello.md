@@ -9,13 +9,13 @@ stats:
 ac:
 modifier:
 party:
-art: Redgrave.jpeg
+art: Barovia.jpg
 condition:
 location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$=dv.fileLink(this.art, true)`
+> `=link(this.art)`
 > ## Info
 > | | |
 > | ---- | ---- |
@@ -34,4 +34,3 @@ location:
 > | Int | `=this.stats[0]` |
 > | Wis | `=this.stats[0]` |
 > | Cha | `=this.stats[0]` |
-
