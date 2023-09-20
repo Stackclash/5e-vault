@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c158c1fb4bec3682",
+        "id": "72702c03fad4dbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "6494aa5728ae9dac",
+            "id": "56f938606e307fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md",
+                "file": "3. The Party/1. Players/Hello.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md",
+                "file": "3. The Party/1. Players/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md",
+                "file": "3. The Party/1. Players/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Marin.md"
+                "file": "3. The Party/1. Players/Hello.md"
               }
             }
           },
@@ -183,11 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6494aa5728ae9dac",
+  "active": "56f938606e307fc0",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
     "`this.art`.md",
-    "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/hello.md",
     "z_Templates/World Building/Settlement.md",
     "3. The Party/1. Players/Test Character.md",

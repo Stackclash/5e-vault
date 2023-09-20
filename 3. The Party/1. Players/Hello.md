@@ -1,30 +1,26 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level:
-race:
-class:
-hp:
+level: 1
+race: Elf
+class: Cleric
+hp: 25
 stats:
-ac:
-modifier:
-party:
-art:
-condition:
+  - "10"
+ac: 18
+modifier: 2
+party: 
+art: 
+condition: 
 location:
 ---
-<%*
-let title = tp.file.title
-await tp.file.move('3. The Party/1. Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-%>
+
 > [!infobox|right]
 > # `=this.file.name`
 > `=embed(link(this.art))`
 > ## Info
+> | | |
+> | ---- | ---- |
 > | Level | `=this.level` |
 > | Class | `=link(this.class)` |
 > | Race | `=link(this.race)` |
@@ -33,3 +29,4 @@ if (tp.config.run_mode === 0) {
 > | Initiative Mod | `=this.modifier` |
 > ## Stats
 > | Str | `=this.stats[0]` |
+
