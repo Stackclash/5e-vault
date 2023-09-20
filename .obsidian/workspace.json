@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c20a19a66c61c267",
+        "id": "02bbeeb4d6dc3e53",
         "type": "tabs",
         "children": [
           {
-            "id": "91cd1ee916612f06",
+            "id": "59369db4c5f1a630",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -181,10 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91cd1ee916612f06",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "3. The Party/1. Players/1. Players.md",
     "3. The Party/1. Players/Hello.md",
+    "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/1. Players/1. Players.md",
     "z_Scripts/proccess_5etools_files.js",
     "z_Scripts/get_all_files.js",
     "z_Scripts/get-all-files.js",
@@ -197,7 +196,6 @@
     "hello.md.md",
     "3. The Party/1. Players.md",
     "3. The Party/1. Players/.md",
-    "3. The Party/3. Quests/3. Quests.md",
     "MCDM Productions; Strongholds and Followers.json",
     "6. Resources/Resources/Interactive Tome of Strahd.json",
     "3. The Party/2. Session Logs/2. Session Logs.md",
