@@ -21,3 +21,9 @@ if (tp.config.run_mode === 0) {
     await tp.file.rename(title)
 }
 %>
+> [!infobox|right]
+> # `=this.file.name`
+> `=embed(link(this.art))`
+> ## Info
+> | Level | `=this.level` |
+> | HP | `=this.hp` |
