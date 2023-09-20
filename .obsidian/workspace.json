@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11657d18ca7ab0b1",
+        "id": "c158c1fb4bec3682",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb4180f3eee6a1a",
+            "id": "6494aa5728ae9dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/hello.md",
+                "file": "3. The Party/1. Players/Hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/hello.md",
+                "file": "3. The Party/1. Players/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/hello.md",
+                "file": "3. The Party/1. Players/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/hello.md"
+                "file": "3. The Party/1. Players/Hello.md"
               }
             }
           },
@@ -183,12 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcb4180f3eee6a1a",
+  "active": "6494aa5728ae9dac",
   "lastOpenFiles": [
-    "z_Templates/World Building/Settlement.md",
-    "3. The Party/1. Players/hello.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/Hello.md",
+    "3. The Party/1. Players/hello.md",
+    "z_Templates/World Building/Settlement.md",
     "3. The Party/1. Players/Test Character.md",
     "z_Templates/Party/Player Character.md",
     "3. The Party/1. Players/1. Players.md",

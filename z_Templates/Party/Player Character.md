@@ -26,4 +26,6 @@ if (tp.config.run_mode === 0) {
 > `=embed(link(this.art))`
 > ## Info
 > | Level | `=this.level` |
+> | Class | `=link(this.class)` |
+> | Race | `=link(this.race)` |
 > | HP | `=this.hp` |

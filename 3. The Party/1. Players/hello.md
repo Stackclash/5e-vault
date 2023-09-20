@@ -2,22 +2,23 @@
 obsidianUIMode: preview
 statblock: true
 level: 
-race: 
-class: 
+race: Elf
+class: Cleric
 hp: 
 stats: 
 ac: 
 modifier: 
 party: 
-art: Marin.jpeg
+art: Seluvis Felo'melorn.jpeg
 condition: 
 location:
 ---
 
 > [!infobox|right]
 > # `=this.file.name`
-> `=embed(link(this.art))`
+> `=link(this.art)`
 > ## Info
 > | Level | `=this.level` |
+> | Class | `=link(this.class)` |
+> | Race | `=link(this.race)` |
 > | HP | `=this.hp` |
-
