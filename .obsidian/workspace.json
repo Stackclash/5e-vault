@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
-                "mode": "source",
+                "file": "3. The Party/1. Players/Marin.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
+                "file": "3. The Party/1. Players/Marin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md",
+                "file": "3. The Party/1. Players/Marin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Hello.md"
+                "file": "3. The Party/1. Players/Marin.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "6494aa5728ae9dac",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/Hello.md",
+    "`this.art`.md",
+    "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/hello.md",
     "z_Templates/World Building/Settlement.md",
     "3. The Party/1. Players/Test Character.md",
