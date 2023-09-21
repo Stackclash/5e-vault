@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/1. Players/Kornar.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,9 +185,10 @@
   },
   "active": "6bcc0b40fc2724b2",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Kornar.md",
+    "3. The Party/1. Players/Kornar.md",
     "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Kornar.md",
-    "3. The Party/1. Players/Kornar.md",
     "3. The Party/1. Players/Vikon Rockcleaver.md",
     "3. The Party/1. Players/1. Players.md",
     "3. The Party/1. Players/Hello.md",
@@ -200,7 +201,6 @@
     "z_Scripts/proccess_5etools_files.js",
     "z_Scripts/get_all_files.js",
     "z_Scripts/get-all-files.js",
-    "3. The Party/1. Players/Marin.md",
     "`this.art`.md",
     "3. The Party/1. Players/hello.md",
     "z_Templates/World Building/Settlement.md",

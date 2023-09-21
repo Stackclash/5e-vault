@@ -14,12 +14,18 @@ let selectedImage = await tp.system.suggester(images, images, false, "Placeholde
 ---
 obsidianUIMode: preview
 statblock: true
-level:
+level: 1
 race:
 class:
-hp:
+hp: 1
 stats:
-ac:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+ac: 10
 modifier:
 party:
 art: <% selectedImage %>
@@ -41,9 +47,9 @@ location:
 > ## Stats
 > | | | |
 > | ---- | ---- | ---- |
-> | Strength | `=this.stats[0]` | `$=Math.floor((parseInt(dv.current().stats[0] || 0)-10)/2)` |
-> | Dexterity | `=this.stats[1]` | `$=Math.floor((parseInt(dv.current().stats[1] || 0)-10)/2)` |
-> | Constitution | `=this.stats[2]` | `$=Math.floor((parseInt(dv.current().stats[2] || 0)-10)/2)` |
-> | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3] || 0)-10)/2)` |
-> | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4] || 0)-10)/2)` |
-> | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5] || 0)-10)/2)` |
+> | Strength | `=this.stats[0]` | `$=Math.floor((parseInt(dv.current().stats[0])-10)/2)` |
+> | Dexterity | `=this.stats[1]` | `$=Math.floor((parseInt(dv.current().stats[1])-10)/2)` |
+> | Constitution | `=this.stats[2]` | `$=Math.floor((parseInt(dv.current().stats[2])-10)/2)` |
+> | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3])-10)/2)` |
+> | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4])-10)/2)` |
+> | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
