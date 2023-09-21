@@ -10,7 +10,6 @@ if (tp.config.run_mode === 0) {
 
 let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
 let selectedImage = await tp.system.suggester(images, images, false, "PlaceholderImage.png")
-console.log(selectedImage)
 -%>
 ---
 obsidianUIMode: preview
@@ -29,7 +28,7 @@ location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
-> `$= dv.container = '<img src="' + app.vault.getResourcePath(dv.fileLink(dv.current().art) ) + '" />' `
+> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
 > ## Info
 > | | |
 > | ---- | ---- |
@@ -43,8 +42,8 @@ location:
 > | | |
 > | ---- | ---- |
 > | Str | `=this.stats[0]` |
-> | Dex | `=this.stats[0]` |
-> | Con | `=this.stats[0]` |
-> | Int | `=this.stats[0]` |
-> | Wis | `=this.stats[0]` |
-> | Cha | `=this.stats[0]` |
+> | Dex | `=this.stats[1]` |
+> | Con | `=this.stats[2]` |
+> | Int | `=this.stats[3]` |
+> | Wis | `=this.stats[4]` |
+> | Cha | `=this.stats[5]` |
