@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
-                "mode": "preview",
+                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/NPC.md"
+                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md"
               }
             }
           },
@@ -185,11 +185,14 @@
   },
   "active": "6bcc0b40fc2724b2",
   "lastOpenFiles": [
-    "z_Templates/World Building/Leaflet Map.md",
-    "z_Templates/World Building/Leaflet Bounds Calculator.md",
-    "z_Templates/Party/Quest.md",
-    "z_Templates/Party/Player Character.md",
+    "z_Templates/DM Prep/Session Note.md",
     "z_Templates/Party/Party Dashboard.md",
+    "z_Templates/Party/Player Character.md",
+    "z_Templates/Party/Quest.md",
+    "z_Templates/World Building/Leaflet Bounds Calculator.md",
+    "z_Templates/World Building/Leaflet Map.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/NPC.md",
     "1. DM Screen/1. DM Screen.md",
     "3. The Party/1. Players/1. Players.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
@@ -211,9 +214,6 @@
     "z_Scripts/proccess_5etools_files.js",
     "z_Scripts/get_all_files.js",
     "z_Scripts/get-all-files.js",
-    "`this.art`.md",
-    "3. The Party/1. Players/hello.md",
-    "z_Templates/World Building/Settlement.md",
     "MCDM Productions; Strongholds and Followers.json",
     "6. Resources/Resources/Interactive Tome of Strahd.json",
     "compendium/backgrounds",
