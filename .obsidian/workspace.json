@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd89c18e0e1ced12",
+        "id": "02bbeeb4d6dc3e53",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcc0b40fc2724b2",
+            "id": "59369db4c5f1a630",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/DM Prep/Lazy DM Prep Notes.md"
+                "file": "3. The Party/1. Players/Hello.md"
               }
             }
           },
@@ -126,6 +120,14 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef34cacf567e1afa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           },
@@ -146,14 +148,6 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "f0b688bede4e948f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -165,9 +159,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -178,44 +174,38 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bcc0b40fc2724b2",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "z_Templates/DM Prep/Session Note.md",
-    "z_Templates/Party/Party Dashboard.md",
-    "z_Templates/Party/Player Character.md",
-    "z_Templates/Party/Quest.md",
-    "z_Templates/World Building/Leaflet Bounds Calculator.md",
-    "z_Templates/World Building/Leaflet Map.md",
-    "z_Templates/World Building/Settlement.md",
-    "z_Templates/World Building/NPC.md",
-    "1. DM Screen/1. DM Screen.md",
-    "3. The Party/1. Players/1. Players.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/3. Quests/3. Quests.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Vikon Rockcleaver.md",
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
-    "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Marin.md",
-    "conflict-files-obsidian-git.md",
     "2. Scratch Notes/Templates to Create.md",
-    "3. The Party/1. Players/Kornar.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
+    "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/Hello.md",
+    "3. The Party/1. Players/1. Players.md",
     "z_Scripts/proccess_5etools_files.js",
     "z_Scripts/get_all_files.js",
     "z_Scripts/get-all-files.js",
+    "3. The Party/1. Players/Marin.md",
+    "`this.art`.md",
+    "3. The Party/1. Players/hello.md",
+    "z_Templates/World Building/Settlement.md",
+    "3. The Party/1. Players/Test Character.md",
+    "z_Templates/Party/Player Character.md",
+    "hello.md.md",
+    "3. The Party/1. Players.md",
+    "3. The Party/1. Players/.md",
     "MCDM Productions; Strongholds and Followers.json",
     "6. Resources/Resources/Interactive Tome of Strahd.json",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "3. The Party/2. Session Logs/Session 5.md",
+    "4. World Almanac/Eldoria/Groups/Groups.md",
     "compendium/backgrounds",
     "compendium/races",
     "compendium/bestiary/construct",
