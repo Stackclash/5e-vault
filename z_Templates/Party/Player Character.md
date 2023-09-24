@@ -55,7 +55,7 @@ location:
 > | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
-frame: DnDBHolly
+frame: 
 ```
 
 # Personality
