@@ -1,16 +1,3 @@
-<%*
-const path = require('path')
-
-let title = tp.file.title
-await tp.file.move('3. The Party/1. Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-
-let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
-let selectedImage = await tp.system.suggester(images, images, false, "PlaceholderImage.png")
--%>
 ---
 obsidianUIMode: preview
 statblock: true
@@ -28,7 +15,7 @@ stats:
 ac: 10
 modifier:
 party:
-art: <% selectedImage %>
+art: Faerah Duskrane.jpeg
 condition:
 location:
 ---
