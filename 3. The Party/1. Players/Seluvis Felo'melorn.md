@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 statblock: true
 level: 4
-race: High Elf
-class: Artificer
+race: Elf High
+class: Artificer (TCE)
 hp: 27
 stats:
   - "8"

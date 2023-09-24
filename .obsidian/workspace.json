@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Classes/Classes.md",
+                "file": "5. Mechanics/Races/Races.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Classes/Classes.md",
+                "file": "5. Mechanics/Races/Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Classes/Classes.md",
+                "file": "5. Mechanics/Races/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Classes/Classes.md"
+                "file": "5. Mechanics/Races/Races.md"
               }
             }
           },
@@ -185,15 +185,15 @@
   },
   "active": "72c5a9e247fe6806",
   "lastOpenFiles": [
-    "5. Mechanics/Races/Races.md",
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
-    "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Marin.md",
+    "5. Mechanics/Classes/Classes.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/Redgrave.md",
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Yevelda Ovak.md",
+    "5. Mechanics/Races/Races.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "z_Templates/Party/Party Dashboard.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/1. Players.md",
     "5. Mechanics/Races/Warforged (ERLW).md",
     "compendium/vehicles/vehicles.md",
@@ -230,7 +230,6 @@
     "compendium/rules/variant-rules/tool-proficiencies-xge.md",
     "compendium/rules/variant-rules/survivors-vrgr.md",
     "compendium/rules/variant-rules/spellcasting-xge.md",
-    "compendium/rules/variant-rules/spell-points.md",
     "Untitled.canvas"
   ]
 }
