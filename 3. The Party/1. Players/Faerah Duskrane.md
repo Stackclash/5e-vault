@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: true
-level: 3
+level: 4
 race: Elf Drow
 class: Rogue
 hp: 24
@@ -11,6 +11,7 @@ stats:
   - "14"
   - "10"
   - "12"
+  - "14"
 ac: 15
 modifier: 5
 party: Curse of Strahd

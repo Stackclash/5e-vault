@@ -2,22 +2,22 @@
 obsidianUIMode: preview
 statblock: true
 level: 4
-race: Half Elf
-class: Warlock
-hp: 35
+race: Warforged
+class: Cleric
+hp: 31
 stats:
-  - "7"
-  - "16"
-  - "16"
-  - "11"
-  - "13"
-  - "20"
-ac: 15
-modifier: 3
+  - "15"
+  - "8"
+  - "14"
+  - "12"
+  - "18"
+  - "10"
+ac: 21
+modifier: -1
 party: Curse of Strahd
-art: Marin.jpeg
+art: Redgrave.jpeg
 condition: Healthy
-location: Vallaki
+location:
 ---
 > [!infobox|right]
 > # `=this.file.name`
@@ -42,7 +42,7 @@ location: Vallaki
 > | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
 # DnD Beyond Character Sheet
 ```custom-frames
-frame: DnDBBriana
+frame: DnDBGeorge
 ```
 
 # Personality
