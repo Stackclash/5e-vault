@@ -10,7 +10,6 @@ aliases: ["Wand of Magic Detection"]
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  
-![[5. Mechanics/Items/img/wand-of-magic-detection.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

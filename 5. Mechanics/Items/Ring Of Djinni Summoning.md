@@ -11,7 +11,6 @@ aliases: ["Ring of Djinni Summoning"]
 ---
 # Ring of Djinni Summoning
 *Ring, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-djinni-summoning.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

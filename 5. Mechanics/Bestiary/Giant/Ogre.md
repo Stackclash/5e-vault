@@ -16,7 +16,7 @@ tags:
 aliases: ["Ogre"]
 ---
 # Ogre
-*Source: Monster Manual p. 237. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 

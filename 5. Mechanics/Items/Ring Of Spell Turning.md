@@ -11,7 +11,6 @@ aliases: ["Ring of Spell Turning"]
 ---
 # Ring of Spell Turning
 *Ring, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-spell-turning.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

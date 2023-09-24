@@ -8,6 +8,7 @@ tags:
 aliases: ["Ram"]
 ---
 # Ram
+%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains.
@@ -15,6 +16,7 @@ A ram consists of a movable gallery equipped with a heavy log suspended from two
 The log is shod in iron and used to batter through doors and barricades.
 
 It takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.
+
 ```ad-statblock
 title: Ram
 ![[5. Mechanics/Bestiary/Null/token/ram.png#token]]

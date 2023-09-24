@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
+- compendium/src/5e/erlw
 - deity/eberron
 - domain/grave
 - domain/knowledge
@@ -10,10 +10,12 @@ tags:
 aliases: ["The Undying Court"]
 ---
 # The Undying Court
-*Source: Player's Handbook p. 296, Xanathar's Guide to Everything p. 19* 
+*Source: Eberron: Rising from the Last War p. 141* 
+![[5. Mechanics/Deities/img/erlw-the-undying-court.png#symbol]]
 
-- **Alignment**: Neutral Good
+- **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron
 - **Domains**: Grave, Knowledge, Life
 - **Pantheon**: Eberron
-- **Symbol**: Varies
+- **Province**: Elven ancestors
+- **Symbol**: Golden mask

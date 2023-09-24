@@ -10,7 +10,6 @@ aliases: ["Goggles of Night"]
 ---
 # Goggles of Night
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/goggles-of-night.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

@@ -12,7 +12,6 @@ aliases: ["Staff of Withering"]
 ---
 # Staff of Withering
 *Staff, major, rare (requires attunement by a cleric, druid, or warlock)*  
-![[5. Mechanics/Items/img/staff-of-withering.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

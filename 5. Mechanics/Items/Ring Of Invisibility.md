@@ -11,7 +11,6 @@ aliases: ["Ring of Invisibility"]
 ---
 # Ring of Invisibility
 *Ring, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-invisibility.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

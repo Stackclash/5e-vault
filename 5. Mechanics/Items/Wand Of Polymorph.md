@@ -11,7 +11,6 @@ aliases: ["Wand of Polymorph"]
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-polymorph.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

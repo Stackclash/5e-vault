@@ -11,7 +11,6 @@ aliases: ["Tentacle Rod"]
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/tentacle-rod.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

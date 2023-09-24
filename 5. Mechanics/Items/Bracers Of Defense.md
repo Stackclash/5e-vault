@@ -11,7 +11,6 @@ aliases: ["Bracers of Defense"]
 ---
 # Bracers of Defense
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/bracers-of-defense.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

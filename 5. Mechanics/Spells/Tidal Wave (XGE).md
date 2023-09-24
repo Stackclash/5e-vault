@@ -13,6 +13,7 @@ tags:
 aliases: ["Tidal Wave"]
 ---
 # Tidal Wave
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
 
 - **Casting time:** 1 action

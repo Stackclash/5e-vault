@@ -10,7 +10,6 @@ aliases: ["Folding Boat"]
 ---
 # Folding Boat
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/folding-boat.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 4.0 lbs.

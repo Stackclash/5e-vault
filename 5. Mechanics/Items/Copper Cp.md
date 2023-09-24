@@ -8,7 +8,6 @@ aliases: ["Copper (cp)"]
 ---
 # Copper (cp)
 *Treasure*  
-![[5. Mechanics/Items/img/copper-cp.jpg#right]]  
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

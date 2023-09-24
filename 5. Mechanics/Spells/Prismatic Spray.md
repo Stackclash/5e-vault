@@ -10,8 +10,8 @@ tags:
 aliases: ["Prismatic Spray"]
 ---
 # Prismatic Spray
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
-![[5. Mechanics/Spells/img/prismatic-spray.jpg#right]]  
 
 - **Casting time:** 1 action
 - **Range:** Self (60-feet cone)

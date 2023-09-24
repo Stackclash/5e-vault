@@ -11,7 +11,6 @@ aliases: ["Ring of Spell Storing"]
 ---
 # Ring of Spell Storing
 *Ring, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-spell-storing.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

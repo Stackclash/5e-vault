@@ -10,7 +10,6 @@ aliases: ["Decanter of Endless Water"]
 ---
 # Decanter of Endless Water
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/decanter-of-endless-water.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Intellect Devourer"]
 ---
 # Intellect Devourer
-*Source: Monster Manual p. 191*  
+*Source: Monster Manual p. 191, Eberron: Rising from the Last War*  
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.
 

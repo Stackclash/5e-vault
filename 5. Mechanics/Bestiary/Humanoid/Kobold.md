@@ -16,7 +16,7 @@ tags:
 aliases: ["Kobold"]
 ---
 # Kobold
-*Source: Monster Manual p. 195. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 195, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 

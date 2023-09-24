@@ -10,7 +10,6 @@ aliases: ["Fulminating Treatise"]
 ---
 # Fulminating Treatise
 *Wondrous Item, rare (requires attunement by a wizard)*  
-![[5. Mechanics/Items/img/fulminating-treatise.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

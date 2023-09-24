@@ -10,7 +10,6 @@ aliases: ["Daern's Instant Fortress"]
 ---
 # Daern's Instant Fortress
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/daerns-instant-fortress.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

@@ -7,7 +7,7 @@ tags:
 aliases: ["Repeating Shot"]
 ---
 # Repeating Shot
-*Source: Tasha's Cauldron of Everything p. 22*  
+*Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
 
 ***Prerequisites*** A simple or martial weapon with the ammunition property (requires attunement)
 

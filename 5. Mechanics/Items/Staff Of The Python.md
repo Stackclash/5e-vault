@@ -12,7 +12,6 @@ aliases: ["Staff of the Python"]
 ---
 # Staff of the Python
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
-![[5. Mechanics/Items/img/staff-of-the-python.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

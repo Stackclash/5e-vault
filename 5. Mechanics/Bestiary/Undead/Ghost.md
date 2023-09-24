@@ -9,7 +9,7 @@ tags:
 aliases: ["Ghost"]
 ---
 # Ghost
-*Source: Monster Manual p. 147, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 147, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 

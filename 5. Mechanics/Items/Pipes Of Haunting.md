@@ -10,7 +10,6 @@ aliases: ["Pipes of Haunting"]
 ---
 # Pipes of Haunting
 *Instrument, major, uncommon*  
-![[5. Mechanics/Items/img/pipes-of-haunting.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.

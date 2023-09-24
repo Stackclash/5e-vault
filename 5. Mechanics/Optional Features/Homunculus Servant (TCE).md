@@ -7,7 +7,7 @@ tags:
 aliases: ["Homunculus Servant"]
 ---
 # Homunculus Servant
-*Source: Tasha's Cauldron of Everything p. 21*  
+*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  
 
 ***Prerequisites*** A gem or crystal worth at least 100 gp
 

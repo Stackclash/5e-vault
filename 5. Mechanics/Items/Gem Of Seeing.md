@@ -11,7 +11,6 @@ aliases: ["Gem of Seeing"]
 ---
 # Gem of Seeing
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/gem-of-seeing.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

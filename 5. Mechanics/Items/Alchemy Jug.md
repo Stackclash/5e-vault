@@ -10,7 +10,6 @@ aliases: ["Alchemy Jug"]
 ---
 # Alchemy Jug
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/alchemy-jug.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 12.0 lbs.

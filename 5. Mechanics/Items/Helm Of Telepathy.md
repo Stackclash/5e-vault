@@ -11,7 +11,6 @@ aliases: ["Helm of Telepathy"]
 ---
 # Helm of Telepathy
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/helm-of-telepathy.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

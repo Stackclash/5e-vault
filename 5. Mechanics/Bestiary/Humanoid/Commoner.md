@@ -14,7 +14,7 @@ tags:
 aliases: ["Commoner"]
 ---
 # Commoner
-*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 

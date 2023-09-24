@@ -8,7 +8,6 @@ aliases: ["Harengon"]
 ---
 # Harengon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 22*  
-![[5. Mechanics/Races/img/harengon.png#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

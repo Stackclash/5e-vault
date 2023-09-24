@@ -7,7 +7,7 @@ tags:
 aliases: ["Homunculus"]
 ---
 # Homunculus
-*Source: Monster Manual p. 188. Available in the SRD.*  
+*Source: Monster Manual p. 188, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
 

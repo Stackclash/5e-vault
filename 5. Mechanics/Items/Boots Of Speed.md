@@ -11,7 +11,6 @@ aliases: ["Boots of Speed"]
 ---
 # Boots of Speed
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/boots-of-speed.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

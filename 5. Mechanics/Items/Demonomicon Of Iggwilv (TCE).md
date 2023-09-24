@@ -10,7 +10,6 @@ aliases: ["Demonomicon of Iggwilv"]
 ---
 # Demonomicon of Iggwilv
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/demonomicon-of-iggwilv.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤
@@ -20,7 +19,7 @@ An expansive treatise documenting the Abyss's infinite layers and inhabitants, t
 
 ## Random Properties
 
-The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
+The artifact has the follow random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
 - 2 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial]] properties  
 - 1 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental]] property  

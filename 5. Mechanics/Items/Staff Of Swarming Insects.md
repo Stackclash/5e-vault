@@ -12,7 +12,6 @@ aliases: ["Staff of Swarming Insects"]
 ---
 # Staff of Swarming Insects
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![[5. Mechanics/Items/img/staff-of-swarming-insects.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

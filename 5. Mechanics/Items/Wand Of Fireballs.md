@@ -11,7 +11,6 @@ aliases: ["Wand of Fireballs"]
 ---
 # Wand of Fireballs
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-fireballs.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

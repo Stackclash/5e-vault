@@ -12,7 +12,6 @@ aliases: ["Staff of Healing"]
 ---
 # Staff of Healing
 *Staff, major, rare (requires attunement by a bard, cleric, or druid)*  
-![[5. Mechanics/Items/img/staff-of-healing.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

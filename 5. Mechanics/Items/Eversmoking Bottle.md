@@ -10,7 +10,6 @@ aliases: ["Eversmoking Bottle"]
 ---
 # Eversmoking Bottle
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/eversmoking-bottle.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

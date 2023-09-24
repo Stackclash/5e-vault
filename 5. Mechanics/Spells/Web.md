@@ -15,8 +15,8 @@ tags:
 aliases: ["Web"]
 ---
 # Web
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Conjuration*  
-![[5. Mechanics/Spells/img/web.jpg#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

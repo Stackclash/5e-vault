@@ -10,7 +10,6 @@ aliases: ["Dwarven Plate"]
 ---
 # Dwarven Plate
 *Heavy Armor, major, very rare*  
-![[5. Mechanics/Items/img/dwarven-plate.jpg#right]]  
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

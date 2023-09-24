@@ -10,7 +10,6 @@ aliases: ["Deck of Many Things"]
 ---
 # Deck of Many Things
 *Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/deck-of-many-things.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

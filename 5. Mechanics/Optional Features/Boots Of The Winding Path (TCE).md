@@ -7,7 +7,7 @@ tags:
 aliases: ["Boots of the Winding Path"]
 ---
 # Boots of the Winding Path
-*Source: Tasha's Cauldron of Everything p. 21*  
+*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  
 
 ***Prerequisites*** 6th-level Artificer, A pair of boots (requires attunement)
 

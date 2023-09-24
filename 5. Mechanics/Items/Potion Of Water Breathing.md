@@ -10,7 +10,6 @@ aliases: ["Potion of Water Breathing"]
 ---
 # Potion of Water Breathing
 *Potion, minor, uncommon*  
-![[5. Mechanics/Items/img/Potion Of Water Breathing.webp#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

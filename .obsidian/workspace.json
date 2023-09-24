@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f48660057d1cda2f",
+        "id": "db7c2cedfd8cd3ae",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f47ca30b758221",
+            "id": "72c5a9e247fe6806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
+                "file": "5. Mechanics/Races/Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
+                "file": "5. Mechanics/Races/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md"
+                "file": "5. Mechanics/Races/Races.md"
               }
             }
           },
@@ -183,53 +179,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5f47ca30b758221",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "Untitled.md",
     "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Faerah Duskrane.md",
     "3. The Party/1. Players/Marin.md",
-    "5. Mechanics/Races/Races.md",
     "3. The Party/1. Players/1. Players.md",
-    "3. The Party/1. Players/Player.md",
-    "3. The Party/1. Players/Boo.md",
-    "z_Templates/World Building/Shop.md",
-    "3. The Party/1. Players/Doo.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Vikon Rockcleaver.md",
-    "2. Scratch Notes/Templates to Create.md",
-    "3. The Party/3. Quests/3. Quests.md",
-    "z_Scripts/proccess_5etools_files.js",
-    "z_Scripts/get_all_files.js",
-    "z_Scripts/get-all-files.js",
-    "`this.art`.md",
-    "3. The Party/1. Players/hello.md",
-    "z_Templates/World Building/Settlement.md",
-    "3. The Party/1. Players/Test Character.md",
-    "z_Templates/Party/Player Character.md",
-    "hello.md.md",
-    "3. The Party/1. Players.md",
-    "3. The Party/1. Players/.md",
-    "MCDM Productions; Strongholds and Followers.json",
-    "6. Resources/Resources/Interactive Tome of Strahd.json",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "4. World Almanac/Eldoria/Groups/Groups.md",
-    "compendium/backgrounds",
-    "compendium/races",
-    "compendium/bestiary/construct",
-    "compendium/bestiary/npc",
-    "compendium/bestiary/giant",
-    "compendium/bestiary/celestial/token/pegasus.png",
-    "compendium/bestiary/ooze/img/ochre-jelly.jpg",
-    "compendium/bestiary/celestial/img/couatl.jpg",
-    "compendium/bestiary/ooze/img/oblex-spawn.webp",
-    "compendium/bestiary/ooze/img/slithering-tracker.webp",
-    "compendium/bestiary/ooze/token/oblex-spawn.png",
-    "compendium/bestiary/ooze/token/gelatinous-cube.png",
-    "compendium/backgrounds/img/investigator.png",
-    "compendium/backgrounds/img/haunted-one.png",
-    "compendium/bestiary/fey/img/yeth-hound.webp",
+    "5. Mechanics/Races/Warforged (ERLW).md",
+    "5. Mechanics/Races/Races.md",
+    "compendium/vehicles/vehicles.md",
+    "compendium/vehicles/apparatus-of-kwalish.md",
+    "compendium/vehicles",
+    "compendium/bestiary/npc/img/005-cos02-02.png",
+    "compendium/bestiary/undead/token/poltergeist.png",
+    "compendium/bestiary/fiend/img/dybbuk.webp",
+    "compendium/bestiary/monstrosity/img/peryton.jpg",
+    "compendium/bestiary/humanoid/img/kobold-scale-sorcerer.webp",
+    "compendium/books/van-richtens-guide-to-ravenloft/img/091-03-030-wearing-a-mask.png",
+    "compendium/bestiary/humanoid/token/commoner.png",
+    "compendium/bestiary/fiend/token/nycaloth.png",
+    "compendium/bestiary/fiend/token/oinoloth.png",
+    "compendium/bestiary/humanoid/token/apprentice-wizard.png",
+    "compendium/backgrounds/img",
+    "compendium/bestiary/null/token",
+    "compendium/bestiary/null",
+    "compendium/bestiary/giant/img",
+    "compendium/bestiary/ooze/token",
+    "compendium/bestiary/plant/token",
+    "compendium/bestiary/beast/img",
+    "compendium/bestiary/plant/img",
+    "compendium/bestiary/dragon/token",
+    "compendium/books/van-richtens-guide-to-ravenloft/7-appendix-spirit-board.md",
+    "compendium/books/van-richtens-guide-to-ravenloft/6-monsters-of-ravenloft.md",
+    "compendium/books/van-richtens-guide-to-ravenloft/5-horror-adventures.md",
+    "compendium/books/van-richtens-guide-to-ravenloft/4-domains-of-ravenloft.md",
+    "compendium/books/van-richtens-guide-to-ravenloft/3-creating-domains-of-dread.md",
+    "compendium/books/van-richtens-guide-to-ravenloft/2-character-creation.md",
+    "compendium/books/van-richtens-guide-to-ravenloft/1-welcome-to-ravenloft.md",
+    "compendium/rules/variant-rules/wands-that-dont-recharge.md",
+    "compendium/rules/variant-rules/tying-knots-xge.md",
+    "compendium/rules/variant-rules/tool-proficiencies-xge.md",
+    "compendium/rules/variant-rules/survivors-vrgr.md",
+    "compendium/rules/variant-rules/spellcasting-xge.md",
+    "compendium/rules/variant-rules/spell-points.md",
+    "compendium/rules/variant-rules/sleep-xge.md",
+    "compendium/rules/variant-rules/skills-with-different-abilities.md",
+    "compendium/rules/variant-rules/skill-variants.md",
+    "compendium/rules/variant-rules/simultaneous-effects-xge.md",
     "Untitled.canvas"
   ]
 }

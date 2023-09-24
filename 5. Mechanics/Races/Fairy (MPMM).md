@@ -8,7 +8,6 @@ aliases: ["Fairy"]
 ---
 # Fairy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 14*  
-![[5. Mechanics/Races/img/fairy.png#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: race

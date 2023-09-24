@@ -10,6 +10,7 @@ tags:
 aliases: ["Awaken"]
 ---
 # Awaken
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Transmutation*  
 
 - **Casting time:** 8 hour

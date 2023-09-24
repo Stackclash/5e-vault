@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 statblock: true
 level: 4
-race: Warforged
+race: Warforged (ERLW)
 class: Cleric
 hp: 31
 stats:

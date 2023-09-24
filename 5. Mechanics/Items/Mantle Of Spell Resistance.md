@@ -11,7 +11,6 @@ aliases: ["Mantle of Spell Resistance"]
 ---
 # Mantle of Spell Resistance
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/mantle-of-spell-resistance.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

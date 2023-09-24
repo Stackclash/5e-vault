@@ -8,7 +8,7 @@ aliases: ["Battle Smith"]
 ---
 # Battle Smith
 *[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
-*Source: Tasha's Cauldron of Everything p. 18*  
+*Source: Tasha's Cauldron of Everything p. 18, Eberron: Rising from the Last War p. 60*  
 
 
 ## Class Features

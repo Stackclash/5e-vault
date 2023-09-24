@@ -10,7 +10,6 @@ aliases: ["Cubic Gate"]
 ---
 # Cubic Gate
 *Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/cubic-gate.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

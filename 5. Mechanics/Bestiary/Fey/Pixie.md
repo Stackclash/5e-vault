@@ -8,7 +8,7 @@ tags:
 aliases: ["Pixie"]
 ---
 # Pixie
-*Source: Monster Manual p. 253*  
+*Source: Monster Manual p. 253, Eberron: Rising from the Last War*  
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
 

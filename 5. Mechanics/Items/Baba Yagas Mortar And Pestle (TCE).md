@@ -10,7 +10,6 @@ aliases: ["Baba Yaga's Mortar and Pestle"]
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/baba-yagas-mortar-and-pestle.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

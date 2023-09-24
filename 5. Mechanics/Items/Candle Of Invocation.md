@@ -11,7 +11,6 @@ aliases: ["Candle of Invocation"]
 ---
 # Candle of Invocation
 *Wondrous Item, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/candle-of-invocation.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

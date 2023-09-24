@@ -11,7 +11,6 @@ aliases: ["Talisman of Ultimate Evil"]
 ---
 # Talisman of Ultimate Evil
 *Wondrous Item, major, legendary (requires attunement by a creature of evil alignment)*  
-![[5. Mechanics/Items/img/talisman-of-ultimate-evil.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

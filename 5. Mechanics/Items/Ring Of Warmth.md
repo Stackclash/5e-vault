@@ -11,7 +11,6 @@ aliases: ["Ring of Warmth"]
 ---
 # Ring of Warmth
 *Ring, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-warmth.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

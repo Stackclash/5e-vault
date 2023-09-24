@@ -10,7 +10,6 @@ aliases: ["Sending Stones"]
 ---
 # Sending Stones
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/sending-stones.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤
