@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db7c2cedfd8cd3ae",
+        "id": "b4cf8527f408cab2",
         "type": "tabs",
         "children": [
           {
-            "id": "72c5a9e247fe6806",
+            "id": "e48f841a53436355",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Redgrave.md"
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           },
@@ -183,15 +181,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72c5a9e247fe6806",
+  "active": "e48f841a53436355",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/1. Players/Redgrave.md",
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Marin.md",
     "5. Mechanics/Races/Races.md",
     "5. Mechanics/Classes/Classes.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "z_Templates/Party/Party Dashboard.md",
     "3. The Party/1. Players/1. Players.md",
