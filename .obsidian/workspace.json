@@ -11,11 +11,9 @@
             "id": "59369db4c5f1a630",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/1. Players/Doo.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Doo.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Doo.md",
+                "file": "3. The Party/1. Players/1. Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Doo.md"
+                "file": "3. The Party/1. Players/1. Players.md"
               }
             }
           },
@@ -183,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "59369db4c5f1a630",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Boo.md",
     "z_Templates/World Building/Shop.md",
     "3. The Party/1. Players/Doo.md",
     "3. The Party/1. Players/1. Players.md",

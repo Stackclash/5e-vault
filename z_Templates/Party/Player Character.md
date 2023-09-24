@@ -53,11 +53,33 @@ location:
 > | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3])-10)/2)` |
 > | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4])-10)/2)` |
 > | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
-## DM Notes
-### Additional Notes From Players 
+# DnD Beyond Character Sheet
+```custom-frames
+frame: DnDBHolly
+```
 
+# Personality
+## Loves
 
-### Hidden Details
+## Hates
 
+# Goals
+## Short-term
 
-### Notes
+## Long-term
+
+# History
+## Backstory
+
+## Religion
+
+## Enemies
+
+## Allies
+
+# DM Notes
+## Additional Notes From Players 
+
+## Hidden Details
+
+## Notes
