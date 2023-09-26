@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+                "file": "z_Templates/World Building/NPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+                "file": "z_Templates/World Building/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+                "file": "z_Templates/World Building/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md"
+                "file": "z_Templates/World Building/NPC.md"
               }
             }
           },
@@ -199,11 +198,12 @@
   "active": "e48f841a53436355",
   "lastOpenFiles": [
     "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "5. Mechanics/Bestiary/Npc/token/brom-martikov.png",
     "4. World Almanac/Eldoria/NPCs/Brom Martikov.md",
     "5. Mechanics/Bestiary/Npc/img/bray-martikov.png",
     "5. Mechanics/Bestiary/Npc/token/bray-martikov.png",
-    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
     "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
     "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
     "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
@@ -212,7 +212,6 @@
     "5. Mechanics/Bestiary/Npc/token/davian-martikov.png",
     "5. Mechanics/Bestiary/Npc/img/brom-martikov.png",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "z_Templates/World Building/NPC.md",
     "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
     "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
