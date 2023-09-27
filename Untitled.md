@@ -3,3 +3,6 @@
 let image = document.getElement('image')
 dv.span(image)
 ```
+Width: undefined
+Height: undefined
+undefined
