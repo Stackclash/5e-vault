@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48a003792f0ec098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md"
               }
             }
           },
@@ -204,11 +191,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "48a003792f0ec098",
+  "active": "083d8c94874b58f3",
   "lastOpenFiles": [
+    "Untitled.md",
     "z_Templates/World Building/Leaflet Calculator.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
-    "Untitled.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "z_Assets/Vallaki.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
