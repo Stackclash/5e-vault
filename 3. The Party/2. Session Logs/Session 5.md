@@ -1,13 +1,9 @@
 ---
+Party: Curse of Strahd
+date: 2023-09-17T00:00:00.000-05:00
+---
+---
 obsidianUIMode: preview
-fc-date:
-	year: 973
-	month: Rainmoot
-	day: 12
-fc-end:
-	year: 973
-	month: Rainmoot
-	day: 13
 ---  
 # `=this.file.name`
 ## Session Prep:

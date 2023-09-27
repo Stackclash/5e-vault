@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd24cf407bebb2a2",
+        "id": "e17e4925387f4534",
         "type": "tabs",
         "children": [
           {
-            "id": "9a3af69b8158ba72",
+            "id": "ef0189d8fbf75b5e",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+              }
             }
           }
         ]
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+              }
             }
           },
           {
@@ -183,7 +189,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "92118adc8da6f9c6",
+  "active": "ef0189d8fbf75b5e",
   "lastOpenFiles": [
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
