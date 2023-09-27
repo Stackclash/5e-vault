@@ -1,6 +1,7 @@
 ---
 Party: Curse of Strahd
 date: 2023-09-17T00:00:00.000-05:00
+summary: Encounters a werewolf outside of Vallaki. They leave one alive and tie them to a tree. Once inside of Vallaki they speak to the priest and he confide in them that sacred bones have been stolen. They spend the night at Blue Water Inn.
 ---
 ---
 obsidianUIMode: preview

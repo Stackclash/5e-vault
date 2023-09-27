@@ -44,7 +44,7 @@ TBD
 > lock: true  
 > recenter: true  
 > noScrollZoom: true  
-> image: [[HighRes (with Saltmarsh) (Orig).jpg]] 
+> image: [[PlaceholderImage.png]] 
 > bounds: [[0,0], [1815.07, 2805.48]]  
 > height: 900px  
 > width: 95%

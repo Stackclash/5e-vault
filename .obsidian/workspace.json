@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e17e4925387f4534",
+        "id": "d8da1baf231eb6f2",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0189d8fbf75b5e",
+            "id": "b6c758fb9b5a233f",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "image",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg"
               }
             }
           },
@@ -189,15 +189,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ef0189d8fbf75b5e",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+    "z_Templates/World Building/Settlement.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
+    "5. Mechanics/Races/Races.md",
+    "z_Templates/World Building/NPC.md",
+    "z_Templates/World Building/Shop.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
     "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "conflict-files-obsidian-git.md",
-    "z_Templates/World Building/Shop.md",
     "5. Mechanics/Tables/Xoriat The Realm Of Madness Xoriat Manifest Zone Features (ERLW).md",
     "5. Mechanics/Tables/Why Do You Need-200 Gold Pieces Debts (ERLW).md",
     "5. Mechanics/Tables/Whats On The Bill Shows In Menthis (ERLW).md",
@@ -210,13 +217,6 @@
     "5. Mechanics/Tables/Warforged Ossuary Adventures (ERLW).md",
     "5. Mechanics/Tables/War Torn Survivor War Torn Villains (ERLW).md",
     "5. Mechanics/Tables/Unusual Locations (ERLW).md",
-    "5. Mechanics/Tables/University Contact (ERLW).md",
-    "5. Mechanics/Tables/Tyrants Villains (ERLW).md",
-    "5. Mechanics/Tables/Tyrants Campaign Themes Tyrants Assignments (ERLW).md",
-    "5. Mechanics/Tables/Tyrants Adventure Hooks (ERLW).md",
-    "5. Mechanics/Tables/Types Of Reporting Journalistic Focus (ERLW).md",
-    "5. Mechanics/Tables/Types Of Inquisitive Work Investigative Expertise (ERLW).md",
-    "5. Mechanics/Tables/Types Of Espionage Espionage Missions (ERLW).md",
     "5. Mechanics/Races/img/warforged.png",
     "5. Mechanics/Races/img/warforged-001.png",
     "5. Mechanics/Races/img/kalashtar.png",
