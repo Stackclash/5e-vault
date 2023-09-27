@@ -1,5 +1,13 @@
 ---
 obsidianUIMode: preview
+fc-date:
+	year: 973
+	month: Rainmoot
+	day: 12
+fc-end:
+	year: 973
+	month: Rainmoot
+	day: 13
 ---  
 # `=this.file.name`
 ## Session Prep:
