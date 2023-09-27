@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59efd19879ea5f0f",
+        "id": "b4cf8527f408cab2",
         "type": "tabs",
         "children": [
           {
-            "id": "083d8c94874b58f3",
+            "id": "05f7975cf58e4023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "48a003792f0ec098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Martikov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
               }
             }
           },
@@ -139,6 +126,14 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef34cacf567e1afa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           },
@@ -161,15 +156,7 @@
             }
           },
           {
-            "id": "f0b688bede4e948f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "92118adc8da6f9c6",
+            "id": "a5234f9b60b56dd7",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -181,14 +168,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -200,58 +187,57 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "48a003792f0ec098",
+  "active": "05f7975cf58e4023",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
-    "Untitled.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "z_Assets/Vallaki.jpg",
-    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg",
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "z_Templates/World Building/Settlement.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
-    "5. Mechanics/Races/Races.md",
-    "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Shop.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "3. The Party/2. Session Logs/Welcome to Barovia.md",
-    "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
-    "5. Mechanics/Tables/Xoriat The Realm Of Madness Xoriat Manifest Zone Features (ERLW).md",
-    "5. Mechanics/Tables/Why Do You Need-200 Gold Pieces Debts (ERLW).md",
-    "5. Mechanics/Tables/Whats On The Bill Shows In Menthis (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Upper Sharn Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Skyway Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Lower Sharn Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Home Base (ERLW).md",
-    "5. Mechanics/Tables/Watch Your Step Falling In Sharn (ERLW).md",
-    "5. Mechanics/Tables/Watch Station Adventures (ERLW).md",
-    "5. Mechanics/Tables/Warforged Ossuary Adventures (ERLW).md",
-    "5. Mechanics/Races/img/warforged.png",
-    "5. Mechanics/Races/img/warforged-001.png",
-    "5. Mechanics/Races/img/kalashtar.png",
-    "5. Mechanics/Races/img/kalashtar-001.png",
-    "5. Mechanics/Deities/img/erlw-the-undying-court.png",
-    "5. Mechanics/Deities/img/erlw-the-silver-flame.png",
-    "5. Mechanics/Deities/img/erlw-the-path-of-light.png",
-    "5. Mechanics/Deities/img/erlw-the-dark-six.png",
-    "z_Scripts/proccess_5etools_files.js",
-    "z_Scripts/get_all_files.js",
-    "z_Scripts/get-all-files.js",
-    "MCDM Productions; Strongholds and Followers.json",
-    "6. Resources/Resources/Interactive Tome of Strahd.json",
-    "compendium/backgrounds",
-    "compendium/races",
-    "compendium/bestiary/construct",
-    "compendium/bestiary/npc",
-    "compendium/bestiary/giant",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "z_Templates/World Building/NPC.md",
+    "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+    "5. Mechanics/Bestiary/Npc/token/brom-martikov.png",
+    "4. World Almanac/Eldoria/NPCs/Brom Martikov.md",
+    "5. Mechanics/Bestiary/Npc/img/bray-martikov.png",
+    "5. Mechanics/Bestiary/Npc/token/bray-martikov.png",
+    "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
+    "5. Mechanics/Bestiary/Npc/token/urwin-martikov.png",
+    "5. Mechanics/Bestiary/Npc/img/davian-martikov.png",
+    "5. Mechanics/Bestiary/Npc/token/davian-martikov.png",
+    "5. Mechanics/Bestiary/Npc/img/brom-martikov.png",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
+    "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Vargas Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
+    "4. World Almanac/Eldoria/NPCs/Szoldar Szoldarovich.md",
+    "4. World Almanac/Eldoria/NPCs/Rictavio.md",
+    "4. World Almanac/Eldoria/NPCs/Nikolai Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Lucian Petrovich.md",
+    "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
+    "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
+    "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Danika Dorakova.md",
+    "3. The Party/1. Players/1. Players.md",
+    "compendium/vehicles",
+    "compendium/bestiary/npc/img/005-cos02-02.png",
+    "compendium/bestiary/undead/token/poltergeist.png",
+    "compendium/bestiary/fiend/img/dybbuk.webp",
+    "compendium/backgrounds/img",
+    "compendium/bestiary/null/token",
+    "compendium/bestiary/null",
+    "compendium/bestiary/giant/img",
+    "compendium/bestiary/ooze/token",
+    "compendium/bestiary/plant/token",
+    "compendium/bestiary/beast/img",
+    "compendium/bestiary/plant/img",
+    "compendium/bestiary/dragon/token",
     "Untitled.canvas"
   ]
 }
