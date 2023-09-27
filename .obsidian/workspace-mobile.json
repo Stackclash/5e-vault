@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scratch Notes/Templates to Create.md",
-                "mode": "source",
+                "file": "5. Mechanics/Items/Items.md",
+                "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "dbb999e66b779d5a",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
             }
           }
         ]
@@ -77,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Scratch Notes/Templates to Create.md",
+            "file": "5. Mechanics/Items/Items.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Scratch Notes/Templates to Create.md",
+            "file": "5. Mechanics/Items/Items.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Scratch Notes/Templates to Create.md"
+            "file": "5. Mechanics/Items/Items.md"
           }
         }
       },
@@ -123,6 +131,14 @@
         "type": "leaf",
         "state": {
           "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "4ba7da8e936fec82",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
           "state": {}
         }
       }
@@ -146,6 +162,11 @@
   },
   "active": "b2297bee4e1d2679",
   "lastOpenFiles": [
+    "5. Mechanics/Items/Torch.md",
+    "5. Mechanics/Items/Items.md",
+    "Untitled.md",
+    "3. The Party/1. Players/1. Players.md",
+    "2. Scratch Notes/Templates to Create.md",
     "5. Mechanics/Tables/Travel Pace.md",
     "1. DM Screen/Tools/Travel Time.md",
     "1. DM Screen/Tools/Encounter Generator.md",
