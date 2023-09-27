@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "59efd19879ea5f0f",
+        "id": "b4cf8527f408cab2",
         "type": "tabs",
         "children": [
           {
-            "id": "083d8c94874b58f3",
+            "id": "05f7975cf58e4023",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
                 "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Martikov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,6 +128,14 @@
             }
           },
           {
+            "id": "ef34cacf567e1afa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
             "id": "7194cf4fcfc02e55",
             "type": "leaf",
             "state": {
@@ -146,15 +154,7 @@
             }
           },
           {
-            "id": "f0b688bede4e948f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "92118adc8da6f9c6",
+            "id": "a5234f9b60b56dd7",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -166,14 +166,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -185,8 +185,7 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "083d8c94874b58f3",
