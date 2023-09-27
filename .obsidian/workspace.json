@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dd89c18e0e1ced12",
+        "id": "bd24cf407bebb2a2",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcc0b40fc2724b2",
+            "id": "9a3af69b8158ba72",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "a8fa16cd0a7f15ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/2. Session Logs/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. The Party/2. Session Logs/Session 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,9 +146,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "92118adc8da6f9c6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -192,8 +183,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a8fa16cd0a7f15ca",
+  "active": "92118adc8da6f9c6",
   "lastOpenFiles": [
+    "3. The Party/2. Session Logs/Session 5.md",
+    "3. The Party/2. Session Logs/Welcome to Barovia.md",
+    "3. The Party/2. Session Logs/The Look of Desperation.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "conflict-files-obsidian-git.md",
@@ -217,9 +211,6 @@
     "5. Mechanics/Tables/Types Of Reporting Journalistic Focus (ERLW).md",
     "5. Mechanics/Tables/Types Of Inquisitive Work Investigative Expertise (ERLW).md",
     "5. Mechanics/Tables/Types Of Espionage Espionage Missions (ERLW).md",
-    "5. Mechanics/Tables/Types Of Crime Syndicate Crimes (ERLW).md",
-    "5. Mechanics/Tables/Trinkets From Xendrik (ERLW).md",
-    "5. Mechanics/Tables/Trinkets From Sarlona (ERLW).md",
     "5. Mechanics/Races/img/warforged.png",
     "5. Mechanics/Races/img/warforged-001.png",
     "5. Mechanics/Races/img/kalashtar.png",
