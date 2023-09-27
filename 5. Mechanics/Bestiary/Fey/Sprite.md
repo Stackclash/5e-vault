@@ -8,7 +8,7 @@ tags:
 aliases: ["Sprite"]
 ---
 # Sprite
-*Source: Monster Manual p. 283. Available in the SRD.*  
+*Source: Monster Manual p. 283, Eberron: Rising from the Last War. Available in the SRD.*  
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
 

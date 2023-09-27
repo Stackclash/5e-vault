@@ -10,7 +10,6 @@ aliases: ["Rope of Entanglement"]
 ---
 # Rope of Entanglement
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/rope-of-entanglement.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.

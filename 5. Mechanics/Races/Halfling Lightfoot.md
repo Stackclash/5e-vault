@@ -8,7 +8,6 @@ aliases: ["Halfling (Lightfoot)"]
 ---
 # Halfling (Lightfoot)
 *Source: Player's Handbook p. 28. Available in the SRD and the Basic Rules.*  
-![[5. Mechanics/Races/img/halfling.png#right]]  
 
 - **Ability Scores**: Charisma +1
 - **Type**: subrace

@@ -13,7 +13,6 @@ aliases: ["Hammer of Thunderbolts"]
 ---
 # Hammer of Thunderbolts
 *Melee Weapon, major, legendary*  
-![[5. Mechanics/Items/img/hammer-of-thunderbolts.jpg#right]]  
 
 - **Damage**: 2d6 B
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]

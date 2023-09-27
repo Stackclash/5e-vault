@@ -13,8 +13,8 @@ tags:
 aliases: ["Magic Missile"]
 ---
 # Magic Missile
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Evocation*  
-![[5. Mechanics/Spells/img/magic-missile.jpg#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 120 feet

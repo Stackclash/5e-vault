@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Weapon"]
 ---
 # Enhanced Weapon
-*Source: Tasha's Cauldron of Everything p. 21*  
+*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  
 
 ***Prerequisites*** A simple or martial weapon
 

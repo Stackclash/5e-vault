@@ -12,7 +12,6 @@ aliases: ["Staff of the Adder"]
 ---
 # Staff of the Adder
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
-![[5. Mechanics/Items/img/staff-of-the-adder.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B

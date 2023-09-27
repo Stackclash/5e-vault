@@ -8,7 +8,6 @@ aliases: ["Tiefling"]
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the SRD.*  
-![[5. Mechanics/Races/img/tiefling.png#right]]  
 
 - **Ability Scores**: Charisma +2, Intelligence +1
 - **Type**: race

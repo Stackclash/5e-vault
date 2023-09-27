@@ -10,7 +10,6 @@ aliases: ["Cloak of the Manta Ray"]
 ---
 # Cloak of the Manta Ray
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/cloak-of-the-manta-ray.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

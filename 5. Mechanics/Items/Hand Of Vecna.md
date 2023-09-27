@@ -10,7 +10,6 @@ aliases: ["Hand of Vecna"]
 ---
 # Hand of Vecna
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/hand-of-vecna.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

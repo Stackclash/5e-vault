@@ -14,7 +14,6 @@ aliases: ["Sun Blade"]
 ---
 # Sun Blade
 *Melee Weapon, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/sun-blade.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 R

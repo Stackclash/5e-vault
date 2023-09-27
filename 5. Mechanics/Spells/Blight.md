@@ -20,6 +20,7 @@ tags:
 aliases: ["Blight"]
 ---
 # Blight
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Necromancy*  
 
 - **Casting time:** 1 action

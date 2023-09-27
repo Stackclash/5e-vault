@@ -11,8 +11,8 @@ tags:
 aliases: ["Whirlwind"]
 ---
 # Whirlwind
+%%-- Embedded content starts on the next line. --%%
 *7th-level, Evocation*  
-![[5. Mechanics/Spells/img/whirlwind.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 300 feet

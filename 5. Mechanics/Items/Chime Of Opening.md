@@ -10,7 +10,6 @@ aliases: ["Chime of Opening"]
 ---
 # Chime of Opening
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/chime-of-opening.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

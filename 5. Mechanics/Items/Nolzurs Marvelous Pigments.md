@@ -10,7 +10,6 @@ aliases: ["Nolzur's Marvelous Pigments"]
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous Item, minor, very rare*  
-![[5. Mechanics/Items/img/nolzurs-marvelous-pigments.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

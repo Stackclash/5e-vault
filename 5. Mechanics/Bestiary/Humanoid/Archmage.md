@@ -8,7 +8,7 @@ tags:
 aliases: ["Archmage"]
 ---
 # Archmage
-*Source: Monster Manual p. 342, Curse of Strahd. Available in the SRD.*  
+*Source: Monster Manual p. 342, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
 

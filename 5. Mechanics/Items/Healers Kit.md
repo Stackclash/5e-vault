@@ -8,7 +8,6 @@ aliases: ["Healer's Kit"]
 ---
 # Healer's Kit
 *Adventuring Gear*  
-![[5. Mechanics/Items/img/healers-kit.jpg#right]]  
 
 - **Cost**: 5 gp
 - **Weight**: 3.0 lbs.

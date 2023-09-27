@@ -11,7 +11,6 @@ aliases: ["Wand of Wonder"]
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-wonder.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

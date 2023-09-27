@@ -11,7 +11,6 @@ aliases: ["Mace of Terror"]
 ---
 # Mace of Terror
 *Melee Weapon, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/mace-of-terror.jpg#right]]  
 
 - **Damage**: 1d6 B
 - **Properties**: Requires Attunement

@@ -11,7 +11,6 @@ aliases: ["Ring of Mind Shielding"]
 ---
 # Ring of Mind Shielding
 *Ring, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-mind-shielding.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

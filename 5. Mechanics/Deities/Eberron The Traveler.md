@@ -2,17 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
+- compendium/src/5e/erlw
 - deity/eberron
+- domain/forge
 - domain/knowledge
 - domain/trickery
 aliases: ["The Traveler"]
 ---
 # The Traveler
-*Source: Player's Handbook p. 296* 
+*Source: Eberron: Rising from the Last War p. 141* 
+![[5. Mechanics/Deities/img/erlw-the-dark-six.png#symbol\|The Dark Six]]
 
-- **Alignment**: Chaotic Neutral
+- **Alignment**: Unaligned
 - **Category**: The Dark Six
-- **Domains**: Knowledge, Trickery
+- **Domains**: Forge, Knowledge, Trickery
 - **Pantheon**: Eberron
+- **Province**: Change, chaos
 - **Symbol**: Four crossed, rune-inscribed bones
+
+The Traveler asserts that chaos drives evolution and that change makes us stronger. The Traveler is a trickster and the giver of dangerous gifts. Some artificers worship the Traveler, seeing it as the lord of innovation, but the gifts of the Traveler always have unexpected consequences.

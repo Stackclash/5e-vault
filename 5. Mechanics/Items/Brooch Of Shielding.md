@@ -11,7 +11,6 @@ aliases: ["Brooch of Shielding"]
 ---
 # Brooch of Shielding
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/brooch-of-shielding.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

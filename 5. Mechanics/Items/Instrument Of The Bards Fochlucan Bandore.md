@@ -11,7 +11,6 @@ aliases: ["Instrument of the Bards, Fochlucan Bandore"]
 ---
 # Instrument of the Bards, Fochlucan Bandore
 *Instrument, major, uncommon (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-fochlucan-bandore.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

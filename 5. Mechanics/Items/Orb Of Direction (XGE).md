@@ -10,7 +10,6 @@ aliases: ["Orb of Direction"]
 ---
 # Orb of Direction
 *Wondrous Item, minor, common*  
-![[5. Mechanics/Items/img/orb-of-direction.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.

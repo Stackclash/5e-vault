@@ -11,7 +11,7 @@ tags:
 aliases: ["Harpy"]
 ---
 # Harpy
-*Source: Monster Manual p. 181. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 181, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 

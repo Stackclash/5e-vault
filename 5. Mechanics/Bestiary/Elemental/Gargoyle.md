@@ -9,7 +9,7 @@ tags:
 aliases: ["Gargoyle"]
 ---
 # Gargoyle
-*Source: Monster Manual p. 140, Curse of Strahd. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 140, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
 

@@ -11,7 +11,6 @@ aliases: ["Amulet of the Planes"]
 ---
 # Amulet of the Planes
 *Wondrous Item, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/amulet-of-the-planes.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

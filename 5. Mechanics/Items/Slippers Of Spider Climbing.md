@@ -11,7 +11,6 @@ aliases: ["Slippers of Spider Climbing"]
 ---
 # Slippers of Spider Climbing
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/slippers-of-spider-climbing.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

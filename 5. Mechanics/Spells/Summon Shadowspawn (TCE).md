@@ -10,8 +10,8 @@ tags:
 aliases: ["Summon Shadowspawn"]
 ---
 # Summon Shadowspawn
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Conjuration*  
-![[5. Mechanics/Spells/img/summon-shadowspawn.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 90 feet

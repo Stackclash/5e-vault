@@ -10,7 +10,6 @@ aliases: ["Nature's Mantle"]
 ---
 # Nature's Mantle
 *Wondrous Item, uncommon (requires attunement by a druid or ranger)*  
-![[5. Mechanics/Items/img/natures-mantle.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

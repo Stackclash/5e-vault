@@ -11,7 +11,6 @@ aliases: ["Belt of Dwarvenkind"]
 ---
 # Belt of Dwarvenkind
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/belt-of-dwarvenkind.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

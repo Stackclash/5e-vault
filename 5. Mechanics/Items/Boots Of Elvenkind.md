@@ -10,7 +10,6 @@ aliases: ["Boots of Elvenkind"]
 ---
 # Boots of Elvenkind
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/boots-of-elvenkind.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

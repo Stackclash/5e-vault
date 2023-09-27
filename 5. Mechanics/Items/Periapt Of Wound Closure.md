@@ -11,7 +11,6 @@ aliases: ["Periapt of Wound Closure"]
 ---
 # Periapt of Wound Closure
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/periapt-of-wound-closure.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

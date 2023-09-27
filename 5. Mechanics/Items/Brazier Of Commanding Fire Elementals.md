@@ -10,7 +10,6 @@ aliases: ["Brazier of Commanding Fire Elementals"]
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/brazier-of-commanding-fire-elementals.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

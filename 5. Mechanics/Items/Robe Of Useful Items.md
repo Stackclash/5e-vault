@@ -10,7 +10,6 @@ aliases: ["Robe of Useful Items"]
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/robe-of-useful-items.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

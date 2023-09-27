@@ -1,25 +1,72 @@
 ---
 obsidianUIMode: preview
 statblock: true
-name: Redgrave
-level: 3
-modifier: -1
-ac: 21
-hp: 24
-stats:
-  - 15
-  - 8
-  - 14
-  - 12
-  - 16
-  - 10
-Party: Curse of Strahd
-art: Redgrave.jpeg
-race: Warforged
-condition: Healthy
-location: Tser Pool
+level: 4
+race: Warforged (ERLW)
 class: Cleric
+hp: 31
+stats:
+  - "15"
+  - "8"
+  - "14"
+  - "12"
+  - "18"
+  - "10"
+ac: 21
+modifier: -1
+party: Curse of Strahd
+art: Redgrave.jpeg
+condition: Healthy
+location: Vallaki
 ---
+> [!infobox|right]
+> # `=this.file.name`
+> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
+> ## Info
+> | | |
+> | ---- | ---- |
+> | Level | `=this.level` |
+> | Class | `=link(this.class)` |
+> | Race | `=link(this.race)` |
+> | HP | `=this.hp` |
+> | AC | `=this.ac` |
+> | Initiative Mod | `=this.modifier` |
+> ## Stats
+> | | | |
+> | ---- | ---- | ---- |
+> | Strength | `=this.stats[0]` | `$=Math.floor((parseInt(dv.current().stats[0])-10)/2)` |
+> | Dexterity | `=this.stats[1]` | `$=Math.floor((parseInt(dv.current().stats[1])-10)/2)` |
+> | Constitution | `=this.stats[2]` | `$=Math.floor((parseInt(dv.current().stats[2])-10)/2)` |
+> | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3])-10)/2)` |
+> | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4])-10)/2)` |
+> | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
+# DnD Beyond Character Sheet
 ```custom-frames
 frame: DnDBGeorge
 ```
+
+# Personality
+## Loves
+
+## Hates
+
+# Goals
+## Short-term
+
+## Long-term
+
+# History
+## Backstory
+
+## Religion
+
+## Enemies
+
+## Allies
+
+# DM Notes
+## Additional Notes From Players 
+
+## Hidden Details
+
+## Notes

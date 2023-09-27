@@ -10,7 +10,6 @@ aliases: ["Unbreakable Arrow"]
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  
-![[5. Mechanics/Items/img/unbreakable-arrow.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

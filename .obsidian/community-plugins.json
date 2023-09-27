@@ -1,7 +1,6 @@
 [
   "dataview",
   "obsidian-dice-roller",
-  "fantasy-calendar",
   "obsidian-5e-statblocks",
   "initiative-tracker",
   "obsidian-leaflet-plugin",
@@ -20,5 +19,7 @@
   "obsidian-image-toolkit",
   "table-editor-obsidian",
   "supercharged-links-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "fantasy-calendar",
+  "actions-uri"
 ]

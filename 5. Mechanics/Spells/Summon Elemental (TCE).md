@@ -11,6 +11,7 @@ tags:
 aliases: ["Summon Elemental"]
 ---
 # Summon Elemental
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 action

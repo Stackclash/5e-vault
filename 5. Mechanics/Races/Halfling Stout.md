@@ -8,7 +8,6 @@ aliases: ["Halfling (Stout)"]
 ---
 # Halfling (Stout)
 *Source: Player's Handbook p. 28. Available in the Basic Rules.*  
-![[5. Mechanics/Races/img/halfling.png#right]]  
 
 - **Ability Scores**: Constitution +1
 - **Type**: subrace

@@ -8,7 +8,6 @@ aliases: ["Half-Orc"]
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the SRD.*  
-![[5. Mechanics/Races/img/half-orc.png#right]]  
 
 - **Ability Scores**: Strength +2, Constitution +1
 - **Type**: race

@@ -10,7 +10,6 @@ aliases: ["Ring of Animal Influence"]
 ---
 # Ring of Animal Influence
 *Ring, major, rare*  
-![[5. Mechanics/Items/img/ring-of-animal-influence.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

@@ -10,7 +10,6 @@ aliases: ["Bag of Beans"]
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  
-![[5. Mechanics/Items/img/bag-of-beans.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 0.5 lbs.

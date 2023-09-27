@@ -10,7 +10,6 @@ aliases: ["Sovereign Glue"]
 ---
 # Sovereign Glue
 *Wondrous Item, minor, legendary*  
-![[5. Mechanics/Items/img/sovereign-glue.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

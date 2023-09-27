@@ -10,7 +10,7 @@ tags:
 aliases: ["Hippogriff"]
 ---
 # Hippogriff
-*Source: Monster Manual p. 184. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 184, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
 

@@ -11,7 +11,6 @@ aliases: ["Cube of Force"]
 ---
 # Cube of Force
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/cube-of-force.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

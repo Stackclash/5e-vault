@@ -11,7 +11,6 @@ aliases: ["Helm of Teleportation"]
 ---
 # Helm of Teleportation
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/helm-of-teleportation.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

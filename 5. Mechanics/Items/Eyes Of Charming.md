@@ -11,7 +11,6 @@ aliases: ["Eyes of Charming"]
 ---
 # Eyes of Charming
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/eyes-of-charming.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

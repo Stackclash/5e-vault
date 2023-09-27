@@ -12,8 +12,8 @@ tags:
 aliases: ["Barkskin"]
 ---
 # Barkskin
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
-![[5. Mechanics/Spells/img/barkskin.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** Touch

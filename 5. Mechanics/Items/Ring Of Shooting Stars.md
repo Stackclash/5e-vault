@@ -11,7 +11,6 @@ aliases: ["Ring of Shooting Stars"]
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  
-![[5. Mechanics/Items/img/ring-of-shooting-stars.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

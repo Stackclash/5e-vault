@@ -10,6 +10,7 @@ tags:
 aliases: ["Power Word Heal"]
 ---
 # Power Word Heal
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Evocation*  
 
 - **Casting time:** 1 action

@@ -14,6 +14,7 @@ tags:
 aliases: ["Snare"]
 ---
 # Snare
+%%-- Embedded content starts on the next line. --%%
 *1st-level, Abjuration*  
 
 - **Casting time:** 1 minute

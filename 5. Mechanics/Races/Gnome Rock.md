@@ -8,7 +8,6 @@ aliases: ["Gnome (Rock)"]
 ---
 # Gnome (Rock)
 *Source: Player's Handbook p. 37. Available in the SRD.*  
-![[5. Mechanics/Races/img/gnome.png#right]]  
 
 - **Ability Scores**: Constitution +1
 - **Type**: subrace

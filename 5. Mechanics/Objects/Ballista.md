@@ -8,9 +8,11 @@ tags:
 aliases: ["Ballista"]
 ---
 # Ballista
+%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A ballista is a massive crossbow that fires heavy bolts. Before it can be fired, it must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
+
 ```ad-statblock
 title: Ballista
 ![[5. Mechanics/Bestiary/Null/token/ballista.png#token]]

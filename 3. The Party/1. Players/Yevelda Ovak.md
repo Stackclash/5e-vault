@@ -1,26 +1,72 @@
 ---
 obsidianUIMode: preview
 statblock: true
-name: Yevelda Ovak
-level: 3
-modifier: 2
-ac: 15
-hp: 21
-stats:
-  - 17
-  - 14
-  - 16
-  - 10
-  - 13
-  - 12
-Party: Curse of Strahd
-art: Yevelda Ovak.jpeg
+level: 4
 race: Human
-condition: Healthy
-location: Tser Pool
 class: Barbarian
+hp: 51
+stats:
+  - "18"
+  - "14"
+  - "16"
+  - "10"
+  - "13"
+  - "12"
+ac: 15
+modifier: 2
+party: Curse of Strahd
+art: Yevelda Ovak.jpeg
+condition: Healthy
+location: Vallaki
 ---
-## D&D Beyond
+> [!infobox|right]
+> # `=this.file.name`
+> `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
+> ## Info
+> | | |
+> | ---- | ---- |
+> | Level | `=this.level` |
+> | Class | `=link(this.class)` |
+> | Race | `=link(this.race)` |
+> | HP | `=this.hp` |
+> | AC | `=this.ac` |
+> | Initiative Mod | `=this.modifier` |
+> ## Stats
+> | | | |
+> | ---- | ---- | ---- |
+> | Strength | `=this.stats[0]` | `$=Math.floor((parseInt(dv.current().stats[0])-10)/2)` |
+> | Dexterity | `=this.stats[1]` | `$=Math.floor((parseInt(dv.current().stats[1])-10)/2)` |
+> | Constitution | `=this.stats[2]` | `$=Math.floor((parseInt(dv.current().stats[2])-10)/2)` |
+> | Intelligence | `=this.stats[3]` | `$=Math.floor((parseInt(dv.current().stats[3])-10)/2)` |
+> | Wisdom | `=this.stats[4]` | `$=Math.floor((parseInt(dv.current().stats[4])-10)/2)` |
+> | Charisma | `=this.stats[5]` | `$=Math.floor((parseInt(dv.current().stats[5])-10)/2)` |
+# DnD Beyond Character Sheet
 ```custom-frames
 frame: DnDBShi
 ```
+
+# Personality
+## Loves
+
+## Hates
+
+# Goals
+## Short-term
+
+## Long-term
+
+# History
+## Backstory
+
+## Religion
+
+## Enemies
+
+## Allies
+
+# DM Notes
+## Additional Notes From Players 
+
+## Hidden Details
+
+## Notes

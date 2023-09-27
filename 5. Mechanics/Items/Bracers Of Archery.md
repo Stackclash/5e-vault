@@ -11,7 +11,6 @@ aliases: ["Bracers of Archery"]
 ---
 # Bracers of Archery
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/bracers-of-archery.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

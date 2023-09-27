@@ -12,6 +12,7 @@ tags:
 aliases: ["Mass Suggestion"]
 ---
 # Mass Suggestion
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Enchantment*  
 
 - **Casting time:** 1 action

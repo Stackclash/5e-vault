@@ -11,7 +11,6 @@ aliases: ["Cloak of Protection"]
 ---
 # Cloak of Protection
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/cloak-of-protection.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

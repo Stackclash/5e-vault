@@ -8,7 +8,7 @@ tags:
 aliases: ["Medusa"]
 ---
 # Medusa
-*Source: Monster Manual p. 214. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
 
