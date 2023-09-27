@@ -11,7 +11,6 @@ aliases: ["Wings of Flying"]
 ---
 # Wings of Flying
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/wings-of-flying.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

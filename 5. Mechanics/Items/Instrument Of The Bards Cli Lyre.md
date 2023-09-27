@@ -11,7 +11,6 @@ aliases: ["Instrument of the Bards, Cli Lyre"]
 ---
 # Instrument of the Bards, Cli Lyre
 *Instrument, major, rare (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-cli-lyre.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -15,7 +15,7 @@ TABLE WITHOUT ID
 >	condition AS "Condition",
 >	location AS "Location"
 >	FROM "3. The Party/1. Players"
->	WHERE Party = this.file.name
+>	WHERE party = this.file.name
 >SORT file.name asc
 >```
 

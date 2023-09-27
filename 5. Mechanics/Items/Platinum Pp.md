@@ -8,7 +8,6 @@ aliases: ["Platinum (pp)"]
 ---
 # Platinum (pp)
 *Treasure*  
-![[5. Mechanics/Items/img/platinum-pp.jpg#right]]  
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

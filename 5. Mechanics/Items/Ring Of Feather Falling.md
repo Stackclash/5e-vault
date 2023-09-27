@@ -11,7 +11,6 @@ aliases: ["Ring of Feather Falling"]
 ---
 # Ring of Feather Falling
 *Ring, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-feather-falling.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

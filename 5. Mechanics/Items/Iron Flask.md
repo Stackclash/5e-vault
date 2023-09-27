@@ -10,7 +10,6 @@ aliases: ["Iron Flask"]
 ---
 # Iron Flask
 *Wondrous Item, major, legendary*  
-![[5. Mechanics/Items/img/iron-flask.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

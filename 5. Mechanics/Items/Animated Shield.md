@@ -11,7 +11,6 @@ aliases: ["Animated Shield"]
 ---
 # Animated Shield
 *Shield, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/animated-shield.jpg#right]]  
 
 - **Armor Class**: 2
 - **Properties**: Requires Attunement

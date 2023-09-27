@@ -11,7 +11,6 @@ aliases: ["Cloak of Displacement"]
 ---
 # Cloak of Displacement
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/cloak-of-displacement.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -10,7 +10,6 @@ aliases: ["Teeth of Dahlver-Nar"]
 ---
 # Teeth of Dahlver-Nar
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/teeth-of-dahlver-nar.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

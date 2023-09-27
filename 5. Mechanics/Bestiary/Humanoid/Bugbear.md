@@ -10,7 +10,7 @@ tags:
 aliases: ["Bugbear"]
 ---
 # Bugbear
-*Source: Monster Manual p. 33, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 33, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 

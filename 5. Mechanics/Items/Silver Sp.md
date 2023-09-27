@@ -8,7 +8,6 @@ aliases: ["Silver (sp)"]
 ---
 # Silver (sp)
 *Treasure*  
-![[5. Mechanics/Items/img/silver-sp.jpg#right]]  
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.

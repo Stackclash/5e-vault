@@ -10,7 +10,6 @@ aliases: ["Cape of the Mountebank"]
 ---
 # Cape of the Mountebank
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/cape-of-the-mountebank.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

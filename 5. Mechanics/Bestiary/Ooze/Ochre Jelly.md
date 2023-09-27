@@ -8,7 +8,7 @@ tags:
 aliases: ["Ochre Jelly"]
 ---
 # Ochre Jelly
-*Source: Monster Manual p. 243. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 243, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Griffon"]
 ---
 # Griffon
-*Source: Monster Manual p. 174. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 174, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
 

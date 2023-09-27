@@ -11,7 +11,6 @@ aliases: ["Robe of Eyes"]
 ---
 # Robe of Eyes
 *Wondrous Item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/robe-of-eyes.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

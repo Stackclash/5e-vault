@@ -10,7 +10,6 @@ aliases: ["Luba's Tarokka of Souls"]
 ---
 # Luba's Tarokka of Souls
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/lubas-tarokka-of-souls.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

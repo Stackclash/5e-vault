@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "dd89c18e0e1ced12",
+        "id": "b4cf8527f408cab2",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcc0b40fc2724b2",
+            "id": "e48f841a53436355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/Kornar.md",
+                "file": "z_Templates/World Building/NPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05f7975cf58e4023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Martikov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Kornar.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Kornar.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Kornar.md"
+                "file": "z_Templates/World Building/NPC.md"
               }
             }
           },
@@ -126,6 +138,14 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef34cacf567e1afa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           },
@@ -146,14 +166,6 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "f0b688bede4e948f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -165,9 +177,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -178,57 +192,56 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bcc0b40fc2724b2",
+  "active": "e48f841a53436355",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Marin.md",
-    "3. The Party/1. Players/Kornar.md",
-    "3. The Party/1. Players/Kornar.md",
-    "3. The Party/1. Players/Redgrave.md",
-    "3. The Party/1. Players/Vikon Rockcleaver.md",
+    "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "5. Mechanics/Bestiary/Npc/token/brom-martikov.png",
+    "4. World Almanac/Eldoria/NPCs/Brom Martikov.md",
+    "5. Mechanics/Bestiary/Npc/img/bray-martikov.png",
+    "5. Mechanics/Bestiary/Npc/token/bray-martikov.png",
+    "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
+    "5. Mechanics/Bestiary/Npc/token/urwin-martikov.png",
+    "5. Mechanics/Bestiary/Npc/img/davian-martikov.png",
+    "5. Mechanics/Bestiary/Npc/token/davian-martikov.png",
+    "5. Mechanics/Bestiary/Npc/img/brom-martikov.png",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "z_Templates/World Building/NPC.md",
+    "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
+    "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Vargas Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
+    "4. World Almanac/Eldoria/NPCs/Szoldar Szoldarovich.md",
+    "4. World Almanac/Eldoria/NPCs/Rictavio.md",
+    "4. World Almanac/Eldoria/NPCs/Nikolai Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Lucian Petrovich.md",
+    "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
+    "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
+    "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Danika Dorakova.md",
     "3. The Party/1. Players/1. Players.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/3. Quests/3. Quests.md",
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Hello.md",
-    "z_Scripts/proccess_5etools_files.js",
-    "z_Scripts/get_all_files.js",
-    "z_Scripts/get-all-files.js",
-    "`this.art`.md",
-    "3. The Party/1. Players/hello.md",
-    "z_Templates/World Building/Settlement.md",
-    "3. The Party/1. Players/Test Character.md",
-    "z_Templates/Party/Player Character.md",
-    "hello.md.md",
-    "3. The Party/1. Players.md",
-    "3. The Party/1. Players/.md",
-    "MCDM Productions; Strongholds and Followers.json",
-    "6. Resources/Resources/Interactive Tome of Strahd.json",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "4. World Almanac/Eldoria/Groups/Groups.md",
-    "compendium/backgrounds",
-    "compendium/races",
-    "compendium/bestiary/construct",
-    "compendium/bestiary/npc",
-    "compendium/bestiary/giant",
-    "compendium/bestiary/celestial/token/pegasus.png",
-    "compendium/bestiary/ooze/img/ochre-jelly.jpg",
-    "compendium/bestiary/celestial/img/couatl.jpg",
-    "compendium/bestiary/ooze/img/oblex-spawn.webp",
-    "compendium/bestiary/ooze/img/slithering-tracker.webp",
-    "compendium/bestiary/ooze/token/oblex-spawn.png",
-    "compendium/bestiary/ooze/token/gelatinous-cube.png",
-    "compendium/backgrounds/img/investigator.png",
-    "compendium/backgrounds/img/haunted-one.png",
-    "compendium/bestiary/fey/img/yeth-hound.webp",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "z_Templates/World Building/Shop.md",
+    "compendium/vehicles",
+    "compendium/bestiary/npc/img/005-cos02-02.png",
+    "compendium/bestiary/undead/token/poltergeist.png",
+    "compendium/bestiary/fiend/img/dybbuk.webp",
+    "compendium/backgrounds/img",
+    "compendium/bestiary/null/token",
+    "compendium/bestiary/null",
+    "compendium/bestiary/giant/img",
+    "compendium/bestiary/ooze/token",
+    "compendium/bestiary/plant/token",
+    "compendium/bestiary/beast/img",
+    "compendium/bestiary/plant/img",
+    "compendium/bestiary/dragon/token",
     "Untitled.canvas"
   ]
 }

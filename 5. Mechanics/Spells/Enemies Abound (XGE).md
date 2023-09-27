@@ -14,6 +14,7 @@ tags:
 aliases: ["Enemies Abound"]
 ---
 # Enemies Abound
+%%-- Embedded content starts on the next line. --%%
 *3rd-level, Enchantment*  
 
 - **Casting time:** 1 action

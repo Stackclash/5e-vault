@@ -10,7 +10,6 @@ aliases: ["Elven Chain"]
 ---
 # Elven Chain
 *Medium Armor, major, rare*  
-![[5. Mechanics/Items/img/elven-chain.jpg#right]]  
 
 - **Armor Class**: 13 + DEX (max of +2)
 - **Cost**: ⏤

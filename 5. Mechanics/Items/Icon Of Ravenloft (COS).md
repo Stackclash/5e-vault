@@ -10,7 +10,6 @@ aliases: ["Icon of Ravenloft"]
 ---
 # Icon of Ravenloft
 *Wondrous Item, legendary (requires attunement by a creature of good alignment)*  
-![[5. Mechanics/Items/img/icon-of-ravenloft.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -10,7 +10,6 @@ aliases: ["Lantern of Revealing"]
 ---
 # Lantern of Revealing
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/lantern-of-revealing.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.

@@ -8,11 +8,13 @@ tags:
 aliases: ["Suspended Cauldron"]
 ---
 # Suspended Cauldron
+%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A cauldron is an iron pot suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled-and its contents must usually be reheated-before it can be used again. It takes three actions to fill a cauldron and one action to tip it.
 
 Cauldrons can be filled with other liquids, such as acid or [[5. Mechanics/Traps Hazards/Green Slime.md\|green slime]], with different effects.
+
 ```ad-statblock
 title: Suspended Cauldron
 ![[5. Mechanics/Bestiary/Null/token/suspended-cauldron.png#token]]

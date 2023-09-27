@@ -11,7 +11,6 @@ aliases: ["Necklace of Prayer Beads"]
 ---
 # Necklace of Prayer Beads
 *Wondrous Item, major, rare (requires attunement by a cleric, druid, or paladin)*  
-![[5. Mechanics/Items/img/necklace-of-prayer-beads.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

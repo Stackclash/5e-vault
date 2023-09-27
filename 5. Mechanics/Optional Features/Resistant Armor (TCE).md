@@ -7,7 +7,7 @@ tags:
 aliases: ["Resistant Armor"]
 ---
 # Resistant Armor
-*Source: Tasha's Cauldron of Everything p. 23*  
+*Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63*  
 
 ***Prerequisites*** 6th-level Artificer, A suit of armor (requires attunement)
 

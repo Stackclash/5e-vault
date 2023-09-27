@@ -12,6 +12,7 @@ tags:
 aliases: ["Maximilian's Earthen Grasp"]
 ---
 # Maximilian's Earthen Grasp
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Transmutation*  
 
 - **Casting time:** 1 action

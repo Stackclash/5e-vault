@@ -11,6 +11,7 @@ tags:
 aliases: ["Heroes' Feast"]
 ---
 # Heroes' Feast
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Conjuration*  
 
 - **Casting time:** 10 minute

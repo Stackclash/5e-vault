@@ -8,7 +8,6 @@ aliases: ["Trinket"]
 ---
 # Trinket
 *Adventuring Gear*  
-![[5. Mechanics/Items/img/trinket-phb.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

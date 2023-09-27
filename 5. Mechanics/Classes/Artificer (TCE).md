@@ -7,7 +7,7 @@ tags:
 aliases: ["Artificer"]
 ---
 # Artificer
-*Source: Tasha's Cauldron of Everything p. 9*  
+*Source: Tasha's Cauldron of Everything p. 9, Eberron: Rising from the Last War p. 54*  
 
 > [!tldr]- Feature progression
 > 

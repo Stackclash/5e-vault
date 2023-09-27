@@ -8,7 +8,6 @@ aliases: ["Elf (High)"]
 ---
 # Elf (High)
 *Source: Player's Handbook p. 23. Available in the SRD and the Basic Rules.*  
-![[5. Mechanics/Races/img/elf.png#right]]  
 
 - **Ability Scores**: Intelligence +1
 - **Type**: subrace

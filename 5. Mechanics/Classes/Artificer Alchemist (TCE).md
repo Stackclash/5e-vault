@@ -8,7 +8,7 @@ aliases: ["Alchemist"]
 ---
 # Alchemist
 *[[Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
-*Source: Tasha's Cauldron of Everything p. 14*  
+*Source: Tasha's Cauldron of Everything p. 14, Eberron: Rising from the Last War p. 58*  
 
 
 ## Class Features

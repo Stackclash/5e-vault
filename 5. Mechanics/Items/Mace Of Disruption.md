@@ -11,7 +11,6 @@ aliases: ["Mace of Disruption"]
 ---
 # Mace of Disruption
 *Melee Weapon, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/mace-of-disruption.jpg#right]]  
 
 - **Damage**: 1d6 B
 - **Properties**: Requires Attunement

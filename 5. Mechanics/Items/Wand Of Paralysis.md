@@ -11,7 +11,6 @@ aliases: ["Wand of Paralysis"]
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-paralysis.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

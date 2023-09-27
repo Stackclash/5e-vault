@@ -11,7 +11,6 @@ aliases: ["Instrument of the Bards, Anstruth Harp"]
 ---
 # Instrument of the Bards, Anstruth Harp
 *Instrument, major, very rare (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-anstruth-harp.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

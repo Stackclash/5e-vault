@@ -10,7 +10,6 @@ aliases: ["Gem of Brightness"]
 ---
 # Gem of Brightness
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/gem-of-brightness.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

@@ -15,6 +15,7 @@ tags:
 aliases: ["Detect Thoughts"]
 ---
 # Detect Thoughts
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination*  
 
 - **Casting time:** 1 action

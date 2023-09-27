@@ -11,7 +11,6 @@ aliases: ["Necklace of Adaptation"]
 ---
 # Necklace of Adaptation
 *Wondrous Item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/necklace-of-adaptation.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

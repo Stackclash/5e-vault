@@ -10,8 +10,8 @@ tags:
 aliases: ["Danse Macabre"]
 ---
 # Danse Macabre
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Necromancy*  
-![[5. Mechanics/Spells/img/danse-macabre.png#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

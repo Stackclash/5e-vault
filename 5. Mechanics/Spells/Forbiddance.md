@@ -11,6 +11,7 @@ tags:
 aliases: ["Forbiddance"]
 ---
 # Forbiddance
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Abjuration (ritual)*  
 
 - **Casting time:** 10 minute unless cast as a ritual

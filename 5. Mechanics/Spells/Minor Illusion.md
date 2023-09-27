@@ -16,6 +16,7 @@ tags:
 aliases: ["Minor Illusion"]
 ---
 # Minor Illusion
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Illusion*  
 
 - **Casting time:** 1 action

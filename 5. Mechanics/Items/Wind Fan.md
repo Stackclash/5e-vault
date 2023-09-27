@@ -10,7 +10,6 @@ aliases: ["Wind Fan"]
 ---
 # Wind Fan
 *Wondrous Item, major, uncommon*  
-![[5. Mechanics/Items/img/wind-fan.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

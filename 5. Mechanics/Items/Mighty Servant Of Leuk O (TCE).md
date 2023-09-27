@@ -10,7 +10,6 @@ aliases: ["Mighty Servant of Leuk-o"]
 ---
 # Mighty Servant of Leuk-o
 *Wondrous Item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/mighty-servant-of-leuk-o.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

@@ -10,7 +10,6 @@ aliases: ["Dread Helm"]
 ---
 # Dread Helm
 *Wondrous Item, minor, common*  
-![[5. Mechanics/Items/img/dread-helm.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

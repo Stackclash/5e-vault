@@ -8,6 +8,7 @@ tags:
 aliases: ["Generic Object"]
 ---
 # Generic Object
+%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 246. Available in the SRD.*  
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
@@ -41,6 +42,7 @@ Objects are immune to poison and psychic damage. You might decide that some dama
 ### Damage Threshold
 
 Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
+
 ## Statblock
 
 ```ad-statblock
@@ -48,13 +50,13 @@ title: Generic Object
 ![[5. Mechanics/Bestiary/Null/token/generic-object.png#token]]
 *Varies Generic*
 
-- **Armor Class** (Varies (see below))
-- **Hit Points** null (Varies (see below))
+
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||
+
 
 ```
 ^statblock

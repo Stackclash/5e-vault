@@ -11,7 +11,6 @@ aliases: ["Ring of Telekinesis"]
 ---
 # Ring of Telekinesis
 *Ring, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/ring-of-telekinesis.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

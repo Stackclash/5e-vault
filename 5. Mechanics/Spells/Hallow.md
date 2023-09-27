@@ -11,6 +11,7 @@ tags:
 aliases: ["Hallow"]
 ---
 # Hallow
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Evocation*  
 
 - **Casting time:** 24 hour

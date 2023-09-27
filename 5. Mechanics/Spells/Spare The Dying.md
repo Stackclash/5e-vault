@@ -13,6 +13,7 @@ tags:
 aliases: ["Spare the Dying"]
 ---
 # Spare the Dying
+%%-- Embedded content starts on the next line. --%%
 *cantrip, Necromancy*  
 
 - **Casting time:** 1 action

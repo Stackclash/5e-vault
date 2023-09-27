@@ -11,7 +11,6 @@ aliases: ["Spellguard Shield"]
 ---
 # Spellguard Shield
 *Shield, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/spellguard-shield.jpg#right]]  
 
 - **Armor Class**: 2
 - **Properties**: Requires Attunement

@@ -8,7 +8,7 @@ tags:
 aliases: ["Displacer Beast"]
 ---
 # Displacer Beast
-*Source: Monster Manual p. 81*  
+*Source: Monster Manual p. 81, Eberron: Rising from the Last War*  
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 

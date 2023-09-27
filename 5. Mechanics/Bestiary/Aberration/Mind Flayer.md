@@ -8,7 +8,7 @@ tags:
 aliases: ["Mind Flayer"]
 ---
 # Mind Flayer
-*Source: Monster Manual p. 222, Tasha's Cauldron of Everything*  
+*Source: Monster Manual p. 222, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 

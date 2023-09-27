@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Arcane Focus"]
 ---
 # Enhanced Arcane Focus
-*Source: Tasha's Cauldron of Everything p. 21*  
+*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  
 
 ***Prerequisites*** A rod, staff, or wand (requires attunement)
 

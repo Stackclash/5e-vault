@@ -10,7 +10,6 @@ aliases: ["Atlas of Endless Horizons"]
 ---
 # Atlas of Endless Horizons
 *Wondrous Item, rare (requires attunement by a wizard)*  
-![[5. Mechanics/Items/img/atlas-of-endless-horizons.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

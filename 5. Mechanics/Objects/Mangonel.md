@@ -8,11 +8,13 @@ tags:
 aliases: ["Mangonel"]
 ---
 # Mangonel
+%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A mangonel is a type of catapult that hurls heavy projectiles in a high arc. This payload can hit targets behind cover. Before the mangonel can be fired, it must be loaded and aimed. It takes two actions to load the weapon, two actions to aim it, and one action to fire it.
 
 A mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different effects.
+
 ```ad-statblock
 title: Mangonel
 ![[5. Mechanics/Bestiary/Null/token/mangonel.png#token]]

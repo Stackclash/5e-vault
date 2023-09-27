@@ -2,17 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
-- compendium/src/5e/phb
+- compendium/src/5e/erlw
 - deity/eberron
 - domain/forge
 - domain/knowledge
 aliases: ["Onatar"]
 ---
 # Onatar
-*Source: Player's Handbook p. 296, Xanathar's Guide to Everything p. 18* 
+*Source: Eberron: Rising from the Last War p. 141* 
+![[5. Mechanics/Deities/img/erlw-the-sovereign-host.png#symbol\|The Sovereign Host]]
 
-- **Alignment**: Neutral Good
+- **Alignment**: Unaligned
 - **Category**: The Sovereign Host
 - **Domains**: Forge, Knowledge
 - **Pantheon**: Eberron
-- **Symbol**: Crossed hammer and tongs
+- **Province**: Artifice, the forge
+- **Symbol**: Crossed hammer and tongs *or* brass dragon
+
+Onatar is the Sovereign of Fire and Forge. He guides both mundane smiths and artificers, inspiring anyone who performs an act of creation

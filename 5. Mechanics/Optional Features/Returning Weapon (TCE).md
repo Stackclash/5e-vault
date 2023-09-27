@@ -7,7 +7,7 @@ tags:
 aliases: ["Returning Weapon"]
 ---
 # Returning Weapon
-*Source: Tasha's Cauldron of Everything p. 23*  
+*Source: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63*  
 
 ***Prerequisites*** A simple or martial weapon with the thrown property
 

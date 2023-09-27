@@ -10,7 +10,6 @@ aliases: ["Bowl of Commanding Water Elementals"]
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/bowl-of-commanding-water-elementals.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 3.0 lbs.

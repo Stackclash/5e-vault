@@ -10,7 +10,6 @@ aliases: ["Driftglobe"]
 ---
 # Driftglobe
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/driftglobe.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 1.0 lbs.

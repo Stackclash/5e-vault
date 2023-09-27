@@ -16,8 +16,8 @@ tags:
 aliases: ["Cloudkill"]
 ---
 # Cloudkill
+%%-- Embedded content starts on the next line. --%%
 *5th-level, Conjuration*  
-![[5. Mechanics/Spells/img/cloudkill.jpg#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 120 feet

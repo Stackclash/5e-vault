@@ -14,8 +14,8 @@ tags:
 aliases: ["Guardian of Faith"]
 ---
 # Guardian of Faith
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
-![[5. Mechanics/Spells/img/guardian-of-faith.jpg#right]]  
 
 - **Casting time:** 1 action
 - **Range:** 30 feet

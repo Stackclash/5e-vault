@@ -16,6 +16,7 @@ tags:
 aliases: ["See Invisibility"]
 ---
 # See Invisibility
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Divination*  
 
 - **Casting time:** 1 action

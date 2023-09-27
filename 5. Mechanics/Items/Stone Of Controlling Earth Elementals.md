@@ -10,7 +10,6 @@ aliases: ["Stone of Controlling Earth Elementals"]
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous Item, major, rare*  
-![[5. Mechanics/Items/img/stone-of-controlling-earth-elementals.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 5.0 lbs.

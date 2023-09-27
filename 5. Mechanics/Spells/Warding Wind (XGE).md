@@ -14,6 +14,7 @@ tags:
 aliases: ["Warding Wind"]
 ---
 # Warding Wind
+%%-- Embedded content starts on the next line. --%%
 *2nd-level, Evocation*  
 
 - **Casting time:** 1 action

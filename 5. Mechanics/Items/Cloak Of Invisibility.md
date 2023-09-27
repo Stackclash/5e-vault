@@ -11,7 +11,6 @@ aliases: ["Cloak of Invisibility"]
 ---
 # Cloak of Invisibility
 *Wondrous Item, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/cloak-of-invisibility.png#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

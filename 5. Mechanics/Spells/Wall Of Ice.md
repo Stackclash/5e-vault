@@ -9,6 +9,7 @@ tags:
 aliases: ["Wall of Ice"]
 ---
 # Wall of Ice
+%%-- Embedded content starts on the next line. --%%
 *6th-level, Evocation*  
 
 - **Casting time:** 1 action

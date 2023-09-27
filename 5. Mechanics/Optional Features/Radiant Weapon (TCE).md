@@ -7,7 +7,7 @@ tags:
 aliases: ["Radiant Weapon"]
 ---
 # Radiant Weapon
-*Source: Tasha's Cauldron of Everything p. 22*  
+*Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
 
 ***Prerequisites*** 6th-level Artificer, A simple or martial weapon (requires attunement)
 

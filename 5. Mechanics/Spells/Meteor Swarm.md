@@ -10,6 +10,7 @@ tags:
 aliases: ["Meteor Swarm"]
 ---
 # Meteor Swarm
+%%-- Embedded content starts on the next line. --%%
 *9th-level, Evocation*  
 
 - **Casting time:** 1 action

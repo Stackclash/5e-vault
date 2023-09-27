@@ -10,7 +10,6 @@ aliases: ["Immovable Rod"]
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  
-![[5. Mechanics/Items/img/immovable-rod.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: 2.0 lbs.

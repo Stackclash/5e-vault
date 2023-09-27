@@ -10,7 +10,6 @@ aliases: ["Pole of Collapsing"]
 ---
 # Pole of Collapsing
 *Wondrous Item, minor, common*  
-![[5. Mechanics/Items/img/pole-of-collapsing.png#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

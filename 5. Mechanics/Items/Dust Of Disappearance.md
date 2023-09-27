@@ -10,7 +10,6 @@ aliases: ["Dust of Disappearance"]
 ---
 # Dust of Disappearance
 *Wondrous Item, minor, uncommon*  
-![[5. Mechanics/Items/img/dust-of-disappearance.jpg#right]]  
 
 - **Cost**: ⏤
 - **Weight**: ⏤

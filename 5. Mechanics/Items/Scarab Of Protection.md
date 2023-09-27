@@ -11,7 +11,6 @@ aliases: ["Scarab of Protection"]
 ---
 # Scarab of Protection
 *Wondrous Item, major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/scarab-of-protection.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

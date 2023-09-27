@@ -8,7 +8,7 @@ tags:
 aliases: ["Gelatinous Cube"]
 ---
 # Gelatinous Cube
-*Source: Monster Manual p. 242. Available in the SRD.*  
+*Source: Monster Manual p. 242, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
 

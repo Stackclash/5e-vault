@@ -11,7 +11,6 @@ aliases: ["Wand of Web"]
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-web.jpg#right]]  
 
 - **Properties**: Requires Attunement
 - **Cost**: ⏤

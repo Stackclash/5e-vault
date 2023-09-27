@@ -12,6 +12,7 @@ tags:
 aliases: ["Conjure Minor Elementals"]
 ---
 # Conjure Minor Elementals
+%%-- Embedded content starts on the next line. --%%
 *4th-level, Conjuration*  
 
 - **Casting time:** 1 minute
