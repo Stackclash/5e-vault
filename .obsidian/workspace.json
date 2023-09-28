@@ -11,14 +11,13 @@
             "id": "05f7975cf58e4023",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "pdf",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
               }
             }
           },
@@ -189,54 +188,54 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "083d8c94874b58f3",
+  "active": "05f7975cf58e4023",
   "lastOpenFiles": [
-    "z_Templates/World Building/Leaflet Calculator.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
-    "Untitled.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-    "z_Assets/Vallaki.jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - High Resolution.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-    "6. Resources/5e Modules/Curse Of Strahd/img/048-cos05-02-player.jpg",
-    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
-    "z_Templates/World Building/Settlement.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
-    "5. Mechanics/Races/Races.md",
-    "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Shop.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "3. The Party/2. Session Logs/Welcome to Barovia.md",
-    "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Invitation.png",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Cereomony Seating Chart.png",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Wedding Invitation.png",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Stained Glass of Saint Markova.jpeg",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Gilded Portrait of the Abbot.jpeg",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk/Gilded Portrait of Lugdana.jpeg",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts/Chapter 8 - Krezk",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Krezk Handouts",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps/Map - Megaliths - Ungridded.jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps/Map - Megaliths - Gridded.jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps/Maps/Vallaki Market.jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps/Maps/Vallaki Market - No Fog.jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps/Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps",
     "conflict-files-obsidian-git.md",
-    "5. Mechanics/Tables/Xoriat The Realm Of Madness Xoriat Manifest Zone Features (ERLW).md",
-    "5. Mechanics/Tables/Why Do You Need-200 Gold Pieces Debts (ERLW).md",
-    "5. Mechanics/Tables/Whats On The Bill Shows In Menthis (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Upper Sharn Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Skyway Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Lower Sharn Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Home Base (ERLW).md",
-    "5. Mechanics/Tables/Watch Your Step Falling In Sharn (ERLW).md",
-    "5. Mechanics/Tables/Watch Station Adventures (ERLW).md",
-    "5. Mechanics/Races/img/warforged.png",
-    "5. Mechanics/Races/img/warforged-001.png",
-    "5. Mechanics/Races/img/kalashtar.png",
-    "5. Mechanics/Races/img/kalashtar-001.png",
-    "5. Mechanics/Deities/img/erlw-the-undying-court.png",
-    "5. Mechanics/Deities/img/erlw-the-silver-flame.png",
-    "5. Mechanics/Deities/img/erlw-the-path-of-light.png",
-    "5. Mechanics/Deities/img/erlw-the-dark-six.png",
-    "z_Scripts/proccess_5etools_files.js",
-    "z_Scripts/get_all_files.js",
-    "z_Scripts/get-all-files.js",
-    "MCDM Productions; Strongholds and Followers.json",
-    "6. Resources/Resources/Interactive Tome of Strahd.json",
-    "compendium/backgrounds",
-    "compendium/races",
-    "compendium/bestiary/construct",
-    "compendium/bestiary/npc",
-    "compendium/bestiary/giant",
+    "Untitled.md",
+    "z_Templates/World Building/Leaflet Calculator.md",
+    "z_Templates/World Building/NPC.md",
+    "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Brom Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
+    "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Vargas Vallakovich.md",
+    "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
+    "4. World Almanac/Eldoria/NPCs/Szoldar Szoldarovich.md",
+    "4. World Almanac/Eldoria/NPCs/Rictavio.md",
+    "4. World Almanac/Eldoria/NPCs/Nikolai Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Lucian Petrovich.md",
+    "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
+    "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
+    "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
+    "4. World Almanac/Eldoria/NPCs/Danika Dorakova.md",
     "Untitled.canvas"
   ]
 }
