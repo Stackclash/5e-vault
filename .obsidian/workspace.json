@@ -11,11 +11,9 @@
             "id": "083d8c94874b58f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md"
+                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
               }
             }
           },
@@ -193,9 +191,14 @@
   },
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Locations.md",
+    "4. World Almanac/Eldoria/Groups/Groups.md",
+    "3. The Party/1. Players/Yevelda Ovak.md",
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/1. Players.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
     "Untitled.md",
     "z_Templates/World Building/Leaflet Calculator.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "z_Assets/Vallaki.jpg",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
@@ -216,11 +219,6 @@
     "5. Mechanics/Tables/Why Do You Need-200 Gold Pieces Debts (ERLW).md",
     "5. Mechanics/Tables/Whats On The Bill Shows In Menthis (ERLW).md",
     "5. Mechanics/Tables/What Happens Next Upper Sharn Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Skyway Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Lower Sharn Street Events (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Home Base (ERLW).md",
-    "5. Mechanics/Tables/Watch Your Step Falling In Sharn (ERLW).md",
-    "5. Mechanics/Tables/Watch Station Adventures (ERLW).md",
     "5. Mechanics/Races/img/warforged.png",
     "5. Mechanics/Races/img/warforged-001.png",
     "5. Mechanics/Races/img/kalashtar.png",
