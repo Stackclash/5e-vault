@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b4815d5f069772a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
+              }
+            }
+          },
+          {
+            "id": "70d47d107931d257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1737cedc1382ff26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,12 +225,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "05f7975cf58e4023",
+  "active": "1737cedc1382ff26",
   "lastOpenFiles": [
-    "z_Assets/Vallaki.jpg",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "z_Templates/World Building/Leaflet Calculator.md",
+    "z_Assets/Vallaki.jpg",
     "z_Templates/World Building/NPC.md",
     "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
     "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
@@ -224,11 +261,9 @@
     "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
     "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
     "4. World Almanac/Eldoria/NPCs/Danika Dorakova.md",
-    "3. The Party/1. Players/1. Players.md",
     "compendium/vehicles",
     "compendium/bestiary/npc/img/005-cos02-02.png",
     "compendium/bestiary/undead/token/poltergeist.png",
-    "compendium/bestiary/fiend/img/dybbuk.webp",
     "compendium/backgrounds/img",
     "compendium/bestiary/null/token",
     "compendium/bestiary/null",
@@ -237,7 +272,6 @@
     "compendium/bestiary/plant/token",
     "compendium/bestiary/beast/img",
     "compendium/bestiary/plant/img",
-    "compendium/bestiary/dragon/token",
     "Untitled.canvas"
   ]
 }
