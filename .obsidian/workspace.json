@@ -11,9 +11,11 @@
             "id": "083d8c94874b58f3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
+                "file": "z_Templates/World Building/Settlement.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
+                "file": "z_Templates/World Building/Settlement.md"
               }
             }
           },
@@ -191,6 +193,8 @@
   },
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
+    "z_Templates/World Building/Shop.md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/Groups/Groups.md",
     "3. The Party/1. Players/Yevelda Ovak.md",
@@ -208,7 +212,6 @@
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
     "5. Mechanics/Races/Races.md",
     "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Shop.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
@@ -218,7 +221,6 @@
     "5. Mechanics/Tables/Xoriat The Realm Of Madness Xoriat Manifest Zone Features (ERLW).md",
     "5. Mechanics/Tables/Why Do You Need-200 Gold Pieces Debts (ERLW).md",
     "5. Mechanics/Tables/Whats On The Bill Shows In Menthis (ERLW).md",
-    "5. Mechanics/Tables/What Happens Next Upper Sharn Street Events (ERLW).md",
     "5. Mechanics/Races/img/warforged.png",
     "5. Mechanics/Races/img/warforged-001.png",
     "5. Mechanics/Races/img/kalashtar.png",

@@ -4,14 +4,12 @@ obsidianUIMode: preview
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
 > **Alias** | `=this.alias` |
 > **Type** | `=this.type` |
 > **Population** | `=this.population` |
-> **Theme** | `=this.theme` |
 > **Region** | `=link(this.Region)` |
 > **Terrain** | `=this.terrain` |
 > ###### Politics
