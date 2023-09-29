@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf"
+                "file": "6. Resources/Resources/A Guide to Curse of Strahd.pdf"
               }
             }
           },
@@ -189,22 +189,24 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "332abb4ace240687",
+  "active": "05f7975cf58e4023",
   "lastOpenFiles": [
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless 4k [20x20 sq - Res 4096x4096].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless [20x20 sq - Res 2048x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Tree Transparency Gridless [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Tree Transparency [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Sunset Gridless [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Sunset  [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Gridless [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - 4k Gridless [30x40 sq - 3072x4096].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/24 Appendix F Handouts.md",
     "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Invitation.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "conflict-files-obsidian-git.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (DM).png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
-    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps",
@@ -212,7 +214,6 @@
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps/Maps",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 3 - Village of Barovia  Maps/Maps/Funeral for the Burgomaster",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 3 - Village of Barovia  Maps/Maps",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "Untitled.md",
     "z_Templates/World Building/Leaflet Calculator.md",
@@ -236,7 +237,6 @@
     "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
     "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
     "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
-    "4. World Almanac/Eldoria/NPCs/Danika Dorakova.md",
     "Untitled.canvas"
   ]
 }
