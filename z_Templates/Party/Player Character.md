@@ -11,9 +11,10 @@ if (tp.config.run_mode === 0) {
 }
 
 let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
-let selectedImage = await tp.system.suggester(images, images, false, "PlaceholderImage.png")
-let parties = dv.pages("3. Party/0. Party Hubs").title
-let selectedParty = await tp.system.suggester(parties, parties, false)
+let selectedImage = await tp.system.suggester(images, images, false, "What image to use?")
+let parties = dv.pages('"3. Party/0. Party Hubs"')
+console.log(parties)
+let selectedParty = await tp.system.suggester(parties, parties, false, "What party is the character a part of?")
 -%>
 ---
 obsidianUIMode: preview
