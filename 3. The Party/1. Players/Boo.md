@@ -1,22 +1,9 @@
-<%*
-const path = require('path')
-
-let title = tp.file.title
-await tp.file.move('3. The Party/1. Players/' + tp.file.title)
-if (tp.config.run_mode === 0) {
-    title = await tp.system.prompt("What is the name of the character?")
-    await tp.file.rename(title)
-}
-
-let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
-let selectedImage = await tp.system.suggester(images, images, false, "PlaceholderImage.png")
--%>
 ---
 obsidianUIMode: preview
 statblock: true
 level: 1
-race:
-class:
+race: 
+class: Barbarian
 hp: 1
 stats:
   - "10"
@@ -26,16 +13,16 @@ stats:
   - "10"
   - "10"
 ac: 10
-modifier:
+modifier: 
 alignment: 
 ideal: 
 bond: 
 flaw: 
 likes: 
 dislikes: 
-party:
-art: <% selectedImage %>
-condition:
+party: 
+art: Marin.jpeg
+condition: 
 location:
 ---
 > [!infobox|right]
