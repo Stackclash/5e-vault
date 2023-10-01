@@ -1,5 +1,6 @@
 <%*
 const path = require('path')
+const dv = app.plugins.getPlugin("Dataview")
 
 let title = tp.file.title
 await tp.file.move('3. The Party/1. Players/' + tp.file.title)
@@ -10,6 +11,8 @@ if (tp.config.run_mode === 0) {
 
 let images = tp.user.get_all_files(path.join(app.vault.adapter.getBasePath(), "z_Assets"))
 let selectedImage = await tp.system.suggester(images, images, false, "PlaceholderImage.png")
+let parties = dv.pages("3. Party/0. Party Hubs").title
+let selectedParty = await tp.system.suggester(parties, parties, false)
 -%>
 ---
 obsidianUIMode: preview
@@ -33,7 +36,7 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-party:
+party: <% selectedParty %>
 art: <% selectedImage %>
 condition:
 location:
