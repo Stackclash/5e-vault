@@ -1,6 +1,7 @@
 <%*
 const path = require('path')
-const dv = app.plugins.getPlugin("Dataview")
+const dv = app.plugins.getPlugin("dataview").api
+console.log(app.plugins)
 
 let title = tp.file.title
 await tp.file.move('3. The Party/1. Players/' + tp.file.title)
