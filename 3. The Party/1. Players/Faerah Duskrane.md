@@ -14,6 +14,12 @@ stats:
   - "14"
 ac: 15
 modifier: 5
+alignment: 
+ideal: 
+bond: 
+flaw: 
+likes: 
+dislikes: 
 party: Curse of Strahd
 art: Faerah Duskrane.jpeg
 condition: Healthy

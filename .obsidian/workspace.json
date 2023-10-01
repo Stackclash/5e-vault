@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/Faerah Duskrane.md",
-                "mode": "source",
+                "file": "z_Templates/Party/Party Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Faerah Duskrane.md",
+                "file": "z_Templates/Party/Party Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Faerah Duskrane.md",
+                "file": "z_Templates/Party/Party Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/Faerah Duskrane.md"
+                "file": "z_Templates/Party/Party Dashboard.md"
               }
             }
           },
@@ -194,12 +194,17 @@
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
     "z_Templates/Party/Player Character.md",
+    "z_Templates/Party/Quest.md",
+    "2. Scratch Notes/Templates to Create.md",
+    "2. Scratch Notes/Fields for NPCs.md",
+    "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/1. Players/1. Players.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "3. The Party/1. Players/Marin.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "z_Templates/Party/Party Dashboard.md",
     "z_Templates/Party/Party Dashboard.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/1. Players/Marin.md",
     "z_Templates/World Building/NPC.md",
     "5. Mechanics/Classes/Barbarian Path Of Wild Magic (TCE).md",
     "5. Mechanics/Classes/Barbarian Path Of The Zealot (XGE).md",
@@ -214,11 +219,6 @@
     "5. Mechanics/Classes/Artificer Armorer (TCE).md",
     "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
     "5. Mechanics/Classes/Artificer (TCE).md",
-    "5. Mechanics/Classes/Classes.md",
-    "3. The Party/1. Players/Boo.md",
-    "z_Templates/World Building/Settlement.md",
-    "z_Templates/Party/Quest.md",
-    "2. Scratch Notes/Fields for NPCs.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",

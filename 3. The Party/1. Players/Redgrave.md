@@ -14,6 +14,12 @@ stats:
   - "10"
 ac: 21
 modifier: -1
+alignment: 
+ideal: 
+bond: 
+flaw: 
+likes: 
+dislikes: 
 party: Curse of Strahd
 art: Redgrave.jpeg
 condition: Healthy

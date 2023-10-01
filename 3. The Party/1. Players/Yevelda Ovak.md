@@ -14,6 +14,12 @@ stats:
   - "12"
 ac: 15
 modifier: 2
+alignment: 
+ideal: 
+bond: 
+flaw: 
+likes: 
+dislikes: 
 party: Curse of Strahd
 art: Yevelda Ovak.jpeg
 condition: Healthy

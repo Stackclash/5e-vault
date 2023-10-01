@@ -14,6 +14,12 @@ stats:
   - "10"
 ac: 13
 modifier: 3
+alignment: 
+ideal: 
+bond: 
+flaw: 
+likes: 
+dislikes: 
 party: Curse of Strahd
 art: Seluvis Felo'melorn.jpeg
 condition: Healthy
