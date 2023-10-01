@@ -28,7 +28,7 @@ TABLE WITHOUT ID
 >	summary
 > FROM "3. The Party/2. Session Logs"
 > WHERE Party = this.file.name
-> SORT file.date ASC
+> SORT file.frontmatter.date DESC
 >```
 
 ## **Quests**
