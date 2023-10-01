@@ -32,7 +32,7 @@ location:
 > | | |
 > | ---- | ---- |
 > | Level | `=this.level` |
-> | Class | `$=dv.span(dv.pages().where(p => p.file.name === this.class || p.aliases.includes(this.class)).link)` |
+> | Class | `$=dv.pages().where(p => p.file.name === dv.current().class || p.file.aliases.includes(dv.current().class)).file.link` |
 > | Race | `=link(this.race)` |
 > | HP | `=this.hp` |
 > | AC | `=this.ac` |
