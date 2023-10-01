@@ -7,7 +7,13 @@ alignment:
 condition: healthy
 occupation: 
 group: 
-religion:
+religion: 
+location: 
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals:
 ---
 > [!infobox]
 > # `=this.file.name` (`=this.pronouns`)

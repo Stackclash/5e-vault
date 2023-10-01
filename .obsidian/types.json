@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "stats": "multitext",
-    "age": "number"
+    "age": "number",
+    "goals": "multitext"
   }
 }
