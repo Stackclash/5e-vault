@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+pronounced: 
 race: 
 sex: 
 age: 
@@ -16,7 +17,7 @@ flaw:
 goals:
 ---
 > [!infobox]
-> # `=this.file.name` (`=this.pronouns`)
+> # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
 > ![[PlaceholderImage.png|cover hm-sm]]
 > ###### Bio

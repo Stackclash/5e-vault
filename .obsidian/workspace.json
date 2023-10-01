@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
-                "mode": "source",
+                "file": "z_Templates/Party/Player Character.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "z_Templates/Party/Player Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "z_Templates/Party/Player Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/NPC.md"
+                "file": "z_Templates/Party/Player Character.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
+    "z_Templates/Party/Quest.md",
+    "z_Templates/World Building/NPC.md",
     "2. Scratch Notes/Fields for NPCs.md",
     "2. Scratch Notes/Fields for Shops.md",
     "2. Scratch Notes/Fields for Locations.md",
@@ -234,11 +236,9 @@
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
     "5. Mechanics/Races/Races.md",
-    "z_Templates/World Building/NPC.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
-    "3. The Party/2. Session Logs/The Look of Desperation.md",
     "Untitled.canvas"
   ]
 }
