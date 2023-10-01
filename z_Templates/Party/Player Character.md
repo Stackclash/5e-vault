@@ -45,7 +45,7 @@ location:
 > | | |
 > | ---- | ---- |
 > | Level | `=this.level` |
-> | Class | `=link(this.class)` |
+> | Class | `=file.link where file.name = this.class or contains(file.frontmatter.aliases, this.class)` |
 > | Race | `=link(this.race)` |
 > | HP | `=this.hp` |
 > | AC | `=this.ac` |
