@@ -1,5 +1,13 @@
 ---
 obsidianUIMode: preview
+race: 
+sex: 
+age: 
+alignment: 
+condition: healthy
+occupation: 
+group: 
+religion:
 ---
 > [!infobox]
 > # `=this.file.name` (`=this.pronouns`)
