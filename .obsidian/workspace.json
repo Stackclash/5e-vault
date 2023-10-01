@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "59efd19879ea5f0f",
+        "id": "b4cf8527f408cab2",
         "type": "tabs",
         "children": [
           {
-            "id": "083d8c94874b58f3",
+            "id": "05f7975cf58e4023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "z_Templates/World Building/Settlement.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Martikov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +131,14 @@
             }
           },
           {
+            "id": "ef34cacf567e1afa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
             "id": "7194cf4fcfc02e55",
             "type": "leaf",
             "state": {
@@ -148,15 +157,7 @@
             }
           },
           {
-            "id": "f0b688bede4e948f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "92118adc8da6f9c6",
+            "id": "a5234f9b60b56dd7",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -164,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,9 +174,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
@@ -187,20 +189,45 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
-    "z_Templates/World Building/Shop.md",
-    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blinksy Toys.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Blue Water Inn.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Burgomaster's Mansion.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Coffin Maker's Shop.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Wachterhaus.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Old BoneGrinder.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "4. World Almanac/Eldoria/Groups/Groups.md",
-    "3. The Party/1. Players/Yevelda Ovak.md",
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
-    "3. The Party/1. Players/1. Players.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
+    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless 4k [20x20 sq - Res 4096x4096].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless [20x20 sq - Res 2048x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Tree Transparency Gridless [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Tree Transparency [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Sunset Gridless [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Sunset  [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Gridless [30x40 sq - 1536x2048].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - 4k Gridless [30x40 sq - 3072x4096].jpg",
+    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
+    "6. Resources/5e Modules/Curse Of Strahd/24 Appendix F Handouts.md",
+    "6. Resources/Resources/Curse of Strahd Companion/Handouts/Wedding at Ravenloft/Wedding at Ravenloft/Wedding Invitation.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_Epilogue_-_A_Lords_Rest_(updated_04_28_21).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
+    "conflict-files-obsidian-git.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
+    "6. Resources/Resources/The Interactive Tome of Strahd",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps/Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "Untitled.md",
     "z_Templates/World Building/Leaflet Calculator.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
@@ -212,33 +239,15 @@
     "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
     "5. Mechanics/Races/Races.md",
     "z_Templates/World Building/NPC.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "3. The Party/2. Session Logs/Welcome to Barovia.md",
-    "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
-    "conflict-files-obsidian-git.md",
-    "5. Mechanics/Tables/Xoriat The Realm Of Madness Xoriat Manifest Zone Features (ERLW).md",
-    "5. Mechanics/Tables/Why Do You Need-200 Gold Pieces Debts (ERLW).md",
-    "5. Mechanics/Tables/Whats On The Bill Shows In Menthis (ERLW).md",
-    "5. Mechanics/Races/img/warforged.png",
-    "5. Mechanics/Races/img/warforged-001.png",
-    "5. Mechanics/Races/img/kalashtar.png",
-    "5. Mechanics/Races/img/kalashtar-001.png",
-    "5. Mechanics/Deities/img/erlw-the-undying-court.png",
-    "5. Mechanics/Deities/img/erlw-the-silver-flame.png",
-    "5. Mechanics/Deities/img/erlw-the-path-of-light.png",
-    "5. Mechanics/Deities/img/erlw-the-dark-six.png",
-    "z_Scripts/proccess_5etools_files.js",
-    "z_Scripts/get_all_files.js",
-    "z_Scripts/get-all-files.js",
-    "MCDM Productions; Strongholds and Followers.json",
-    "6. Resources/Resources/Interactive Tome of Strahd.json",
-    "compendium/backgrounds",
-    "compendium/races",
-    "compendium/bestiary/construct",
-    "compendium/bestiary/npc",
-    "compendium/bestiary/giant",
+    "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Bray Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Brom Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/Urwin Martikov.md",
+    "5. Mechanics/Bestiary/Npc/Urwin Martikov (COS).md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
+    "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
+    "4. World Almanac/Eldoria/NPCs/Victor Vallakovich.md",
     "Untitled.canvas"
   ]
 }

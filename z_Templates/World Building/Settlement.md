@@ -69,13 +69,6 @@ table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated
 WHERE Location = this.file.name AND contains(NoteIcon, "Shop")
 SORT file.name ASC
 
-> ###### Notable Points of Interest
-> [[POI Database|Add New Point of Interest]]
-> ```dataview
-table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
-WHERE Location = this.file.name AND contains(NoteIcon, "POI")
-SORT file.name ASC
-
 ## Notable Characters
 
 > ###### Notable Characters
