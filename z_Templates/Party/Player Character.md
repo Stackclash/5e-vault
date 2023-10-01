@@ -27,6 +27,12 @@ stats:
   - "10"
 ac: 10
 modifier:
+alignment: 
+ideal: 
+bond: 
+flaw: 
+likes: 
+dislikes: 
 party:
 art: <% selectedImage %>
 condition:
