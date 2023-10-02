@@ -16,27 +16,15 @@
             }
           },
           {
-            "id": "ad9da76e2ff22ae8",
+            "id": "c1826f9016162b65",
             "type": "leaf",
             "state": {
               "type": "intiative-tracker-encounter-builder",
               "state": []
             }
-          },
-          {
-            "id": "e2729e5e428e7c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,11 +166,24 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "87d98b24f802d020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37cf6a24cb5cd52e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +204,9 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e2729e5e428e7c2e",
+  "active": "c1826f9016162b65",
   "lastOpenFiles": [
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/1. Players.md",
     "z_Templates/World Building/NPC.md",
@@ -234,7 +232,6 @@
     "5. Mechanics/Classes/Barbarian Path Of The Zealot (XGE).md",
     "5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md",
     "5. Mechanics/Classes/Barbarian Path Of The Storm Herald (XGE).md",
-    "5. Mechanics/Classes/Barbarian Path Of The Berserker.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
