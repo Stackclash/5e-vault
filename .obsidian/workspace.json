@@ -11,15 +11,32 @@
             "id": "083d8c94874b58f3",
             "type": "leaf",
             "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad9da76e2ff22ae8",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
+          },
+          {
+            "id": "e2729e5e428e7c2e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
-                "mode": "source",
+                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/NPC.md",
+                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/NPC.md"
+                "file": "3. The Party/1. Players/Seluvis Felo'melorn.md"
               }
             }
           },
@@ -148,23 +165,23 @@
             }
           },
           {
-            "id": "f0b688bede4e948f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "92118adc8da6f9c6",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "a935de75015b7bf2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -178,29 +195,29 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open DnDBGeorge": false,
       "obsidian-custom-frames:Open DnDBTim": false,
       "obsidian-custom-frames:Open DnDBShi": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "083d8c94874b58f3",
+  "active": "e2729e5e428e7c2e",
   "lastOpenFiles": [
-    "z_Templates/World Building/Settlement.md",
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/1. Players.md",
     "z_Templates/World Building/NPC.md",
+    "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Leaflet Map.md",
     "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "z_Templates/DM Prep/Session Note.md",
     "z_Templates/Party/Party Dashboard.md",
     "z_Templates/Party/Player Character.md",
-    "3. The Party/1. Players/1. Players.md",
     "3. The Party/1. Players/Hello.md",
     "3. The Party/1. Players/he.md",
     "3. The Party/1. Players/Boo.md",
@@ -211,7 +228,6 @@
     "2. Scratch Notes/Fields for NPCs.md",
     "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/1. Players/Marin.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "5. Mechanics/Classes/Barbarian Path Of Wild Magic (TCE).md",

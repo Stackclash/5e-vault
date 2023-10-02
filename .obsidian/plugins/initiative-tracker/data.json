@@ -2,11 +2,11 @@
   "players": [
     {
       "note": "Faerah Duskrane",
-      "path": "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
+      "path": "3. The Party/1. Players/Faerah Duskrane.md",
       "name": "Faerah Duskrane",
       "ac": 15,
       "hp": 24,
-      "level": 3,
+      "level": 4,
       "modifier": 5,
       "player": true
     },
@@ -150,7 +150,7 @@
   "version": [
     12,
     2,
-    3
+    6
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -172,7 +172,7 @@
         "currentAC": 15,
         "note": "Faerah Duskrane",
         "path": "3. The Party/Curse of Strahd Campaign/Faerah Duskrane.md",
-        "id": "ID_a9db6b6bb9c8",
+        "id": "ID_499b18095a3a",
         "currentHP": 24,
         "tempHP": 0,
         "status": [],
@@ -194,7 +194,7 @@
         "currentAC": 9,
         "note": "Marin",
         "path": "3. The Party/Curse of Strahd Campaign/Marin.md",
-        "id": "ID_a84be9f83b68",
+        "id": "ID_c86b1b5a4839",
         "currentHP": 21,
         "tempHP": 0,
         "status": [],
@@ -216,7 +216,7 @@
         "currentAC": 21,
         "note": "Redgrave",
         "path": "3. The Party/Curse of Strahd Campaign/Redgrave.md",
-        "id": "ID_f91bc879cb9a",
+        "id": "ID_cbab6b7afa9b",
         "currentHP": 17,
         "tempHP": 0,
         "status": [],
@@ -238,7 +238,7 @@
         "currentAC": 15,
         "note": "Seluvis Felo'melorn",
         "path": "3. The Party/Curse of Strahd Campaign/Seluvis Felo'melorn.md",
-        "id": "ID_c91b291a59fb",
+        "id": "ID_db281a19bbeb",
         "currentHP": 21,
         "tempHP": 0,
         "status": [],
@@ -260,7 +260,7 @@
         "currentAC": 15,
         "note": "Yevelda Ovak",
         "path": "3. The Party/Curse of Strahd Campaign/Yevelda Ovak.md",
-        "id": "ID_eb8b4b18892b",
+        "id": "ID_08c96bb9c8a9",
         "currentHP": 10,
         "tempHP": 0,
         "status": [],
@@ -366,7 +366,7 @@
   "rollHP": true,
   "descending": true,
   "builder": {
-    "showParty": false,
+    "showParty": true,
     "showXP": false,
     "sidebarIcon": true,
     "headers": [

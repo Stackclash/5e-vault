@@ -57,19 +57,14 @@ TBD
 >> [!metadata|text-Center bg-c-gray] Flaw
 >> `=this.flaw`
 >
->> [!metadata|text-Center bg-c-gray] Likes
+>> [!metadata|text-Center bg-c-green] Likes
 >> `=this.likes`
 >
->> [!metadata|text-Center bg-c-gray] Dislikes
+>> [!metadata|text-Center bg-c-red] Dislikes
 >> `=this.dislikes`
 
 > [!column|dataview] Goals
->> [!metadata|text-Center bg-c-yellow]- Personal
->> TBD
->
->> [!metadata|text-Center bg-c-yellow]- Professional
->> TBD
->
+>> `=this.goals`
 
 ## Acquaintances
 > [!column|dataview] Acquaintances
