@@ -1,9 +1,26 @@
 ---
 obsidianUIMode: preview
+pronounced: 
+race: 
+sex: 
+age: 
+alignment: 
+condition: healthy
+occupation: 
+group: 
+religion: 
+location: 
+personality: 
+ideal: 
+bond: 
+flaw: 
+goals: 
+likes: 
+dislikes:
 ---
 > [!infobox]
-> # `=this.file.name` (`=this.pronouns`)
-> **Pronounced:**  "`=this.Pronounced`"
+> # `=this.file.name`
+> **Pronounced:**  "`=this.pronounced`"
 > ![[PlaceholderImage.png|cover hm-sm]]
 > ###### Bio
 >  |
@@ -29,26 +46,25 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.PersonalityTrait`
+>> `=this.personality`
 >
->> [!metadata|text-Center bg-c-gray] Social
->> `=this.SocialTrait`
+>> [!metadata|text-Center bg-c-gray] Ideal
+>> `=this.ideal`
 >
->> [!metadata|text-Center bg-c-gray] Mental
->> `=this.MentalTrait`
+>> [!metadata|text-Center bg-c-gray] Bond
+>> `=this.Bond`
 >
->> [!metadata|text-Center bg-c-gray] Likes/Dislikes
->> **Likes:** `=this.Likes`
->>
->> **Dislikes:** `=this.Dislikes`
+>> [!metadata|text-Center bg-c-gray] Flaw
+>> `=this.flaw`
+>
+>> [!metadata|text-Center bg-c-green] Likes
+>> `=this.likes`
+>
+>> [!metadata|text-Center bg-c-red] Dislikes
+>> `=this.dislikes`
 
 > [!column|dataview] Goals
->> [!metadata|text-Center bg-c-yellow]- Personal
->> TBD
->
->> [!metadata|text-Center bg-c-yellow]- Professional
->> TBD
->
+>> `=this.goals`
 
 ## Acquaintances
 > [!column|dataview] Acquaintances
