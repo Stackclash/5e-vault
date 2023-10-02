@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
-                "mode": "preview",
+                "file": "z_Templates/World Building/NPC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "z_Templates/World Building/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md"
+                "file": "z_Templates/World Building/NPC.md"
               }
             }
           },
@@ -193,6 +193,9 @@
   },
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/NPC.md",
+    "z_Templates/World Building/Leaflet Map.md",
     "z_Templates/DM Prep/Lazy DM Prep Notes.md",
     "z_Templates/DM Prep/Session Note.md",
     "z_Templates/Party/Party Dashboard.md",
@@ -211,14 +214,11 @@
     "3. The Party/1. Players/Marin.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
-    "z_Templates/World Building/NPC.md",
     "5. Mechanics/Classes/Barbarian Path Of Wild Magic (TCE).md",
     "5. Mechanics/Classes/Barbarian Path Of The Zealot (XGE).md",
     "5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md",
     "5. Mechanics/Classes/Barbarian Path Of The Storm Herald (XGE).md",
     "5. Mechanics/Classes/Barbarian Path Of The Berserker.md",
-    "5. Mechanics/Classes/Barbarian Path Of The Beast (TCE).md",
-    "5. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian (XGE).md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",

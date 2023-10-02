@@ -14,11 +14,13 @@ personality:
 ideal: 
 bond: 
 flaw: 
-goals:
+goals: 
+likes: 
+dislikes:
 ---
 > [!infobox]
 > # `=this.file.name`
-> **Pronounced:**  "`=this.Pronounced`"
+> **Pronounced:**  "`=this.pronounced`"
 > ![[PlaceholderImage.png|cover hm-sm]]
 > ###### Bio
 >  |
@@ -44,18 +46,22 @@ TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.PersonalityTrait`
+>> `=this.personality`
 >
->> [!metadata|text-Center bg-c-gray] Social
->> `=this.SocialTrait`
+>> [!metadata|text-Center bg-c-gray] Ideal
+>> `=this.ideal`
 >
->> [!metadata|text-Center bg-c-gray] Mental
->> `=this.MentalTrait`
+>> [!metadata|text-Center bg-c-gray] Bond
+>> `=this.Bond`
 >
->> [!metadata|text-Center bg-c-gray] Likes/Dislikes
->> **Likes:** `=this.Likes`
->>
->> **Dislikes:** `=this.Dislikes`
+>> [!metadata|text-Center bg-c-gray] Flaw
+>> `=this.flaw`
+>
+>> [!metadata|text-Center bg-c-gray] Likes
+>> `=this.likes`
+>
+>> [!metadata|text-Center bg-c-gray] Dislikes
+>> `=this.dislikes`
 
 > [!column|dataview] Goals
 >> [!metadata|text-Center bg-c-yellow]- Personal
