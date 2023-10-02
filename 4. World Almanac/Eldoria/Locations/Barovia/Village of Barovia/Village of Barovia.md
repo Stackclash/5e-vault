@@ -80,8 +80,8 @@ SORT file.name ASC
 > [[NPC Database|Add New NPC]]
 > ```dataview
 table art
-> F
-WHERE Location = this.file.name AND !contains(condition, "Dead")
+> FROM "4. World Almanac/Eldoria/NPCs"
+WHERE location = this.file.name AND !contains(condition, "Dead")
 SORT file.name ASC
 
 ## History

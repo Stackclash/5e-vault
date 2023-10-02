@@ -9,7 +9,7 @@ condition: healthy
 occupation: 
 group: 
 religion: 
-location: 
+location: Village of Barovia
 personality: 
 ideal: 
 bond: 

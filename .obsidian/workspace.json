@@ -18,20 +18,14 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9784aa0efe672f2b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "05f7975cf58e4023",
+            "id": "9ed31bb62c9eb89c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
+                "file": "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
                 "mode": "preview",
                 "source": false
               }
@@ -211,9 +205,10 @@
   },
   "active": "75679b398a74b744",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
+    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
     "4. World Almanac/Eldoria/NPCs/Bray Martikov.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Village of Barovia/Village of Barovia.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Vallaki/Vallaki.md",
     "4. World Almanac/Eldoria/NPCs/Yevgeni Krushkin.md",
@@ -228,7 +223,6 @@
     "4. World Almanac/Eldoria/NPCs/Milivoj.md",
     "4. World Almanac/Eldoria/NPCs/Lucian Petrovich.md",
     "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
-    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
     "4. World Almanac/Eldoria/NPCs/Gadof Blinksy.md",
     "4. World Almanac/Eldoria/NPCs/Fiona Wachter.md",
     "4. World Almanac/Eldoria/NPCs/Danika Dorakova.md",
