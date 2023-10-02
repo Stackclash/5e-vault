@@ -11,9 +11,11 @@
             "id": "083d8c94874b58f3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md"
+                "file": "z_Templates/World Building/Settlement.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/1. Players/1. Players.md"
+                "file": "z_Templates/World Building/Settlement.md"
               }
             }
           },
@@ -191,13 +193,16 @@
   },
   "active": "083d8c94874b58f3",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/Boo.md",
-    "3. The Party/1. Players/Hi.md",
-    "3. The Party/1. Players/1. Players.md",
-    "z_Templates/World Building/Shop.md",
+    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+    "z_Templates/DM Prep/Session Note.md",
     "z_Templates/Party/Party Dashboard.md",
     "z_Templates/Party/Player Character.md",
+    "3. The Party/1. Players/1. Players.md",
+    "3. The Party/1. Players/Hello.md",
+    "3. The Party/1. Players/he.md",
+    "3. The Party/1. Players/Boo.md",
+    "3. The Party/1. Players/Hi.md",
+    "z_Templates/World Building/Shop.md",
     "z_Templates/Party/Quest.md",
     "2. Scratch Notes/Templates to Create.md",
     "2. Scratch Notes/Fields for NPCs.md",
@@ -214,7 +219,6 @@
     "5. Mechanics/Classes/Barbarian Path Of The Berserker.md",
     "5. Mechanics/Classes/Barbarian Path Of The Beast (TCE).md",
     "5. Mechanics/Classes/Barbarian Path Of The Ancestral Guardian (XGE).md",
-    "5. Mechanics/Classes/Barbarian.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",

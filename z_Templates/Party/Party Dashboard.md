@@ -13,7 +13,7 @@ let selectedImage = await tp.system.suggester(images, images, false, "Placeholde
 -%>
 ---
 obsidianUIMode: preview
-banner: "![[Barovia_Banner.webp]]"
+banner: "![[PlaceholderImage.png]]"
 banner_y: 0
 ---
 # `=this.file.name`
