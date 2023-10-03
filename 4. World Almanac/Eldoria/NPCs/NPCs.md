@@ -132,8 +132,8 @@ columns:
     accessorKey: age
     key: age
     id: age
-    label: age
-    position: 7
+    label: Age
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -151,7 +151,7 @@ columns:
     accessorKey: alignment
     key: alignment
     id: alignment
-    label: alignment
+    label: Alignment
     position: 8
     skipPersist: false
     isHidden: false
@@ -170,7 +170,7 @@ columns:
     accessorKey: bond
     key: bond
     id: bond
-    label: bond
+    label: Bond
     position: 9
     skipPersist: false
     isHidden: false
@@ -190,7 +190,7 @@ columns:
     key: condition
     id: condition
     label: Condition
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -212,7 +212,7 @@ columns:
     accessorKey: dislikes
     key: dislikes
     id: dislikes
-    label: dislikes
+    label: Dislikes
     position: 10
     skipPersist: false
     isHidden: false
@@ -231,7 +231,7 @@ columns:
     accessorKey: flaw
     key: flaw
     id: flaw
-    label: flaw
+    label: Flaw
     position: 11
     skipPersist: false
     isHidden: false
@@ -250,7 +250,7 @@ columns:
     accessorKey: goals
     key: goals
     id: goals
-    label: goals
+    label: Goals
     position: 12
     skipPersist: false
     isHidden: false
@@ -269,7 +269,7 @@ columns:
     accessorKey: group
     key: group
     id: group
-    label: group
+    label: Group
     position: 13
     skipPersist: false
     isHidden: false
@@ -288,7 +288,7 @@ columns:
     accessorKey: ideal
     key: ideal
     id: ideal
-    label: ideal
+    label: Ideal
     position: 14
     skipPersist: false
     isHidden: false
@@ -307,7 +307,7 @@ columns:
     accessorKey: likes
     key: likes
     id: likes
-    label: likes
+    label: Likes
     position: 15
     skipPersist: false
     isHidden: false
@@ -326,7 +326,7 @@ columns:
     accessorKey: location
     key: location
     id: location
-    label: location
+    label: Location
     position: 16
     skipPersist: false
     isHidden: false
@@ -345,7 +345,7 @@ columns:
     accessorKey: occupation
     key: occupation
     id: occupation
-    label: occupation
+    label: Occupation
     position: 17
     skipPersist: false
     isHidden: false
@@ -364,7 +364,7 @@ columns:
     accessorKey: personality
     key: personality
     id: personality
-    label: personality
+    label: Personality
     position: 18
     skipPersist: false
     isHidden: false
@@ -383,7 +383,7 @@ columns:
     accessorKey: pronounced
     key: pronounced
     id: pronounced
-    label: pronounced
+    label: Pronounced
     position: 19
     skipPersist: false
     isHidden: false
@@ -402,7 +402,7 @@ columns:
     accessorKey: religion
     key: religion
     id: religion
-    label: religion
+    label: Religion
     position: 20
     skipPersist: false
     isHidden: false
@@ -421,7 +421,7 @@ columns:
     accessorKey: gender
     key: gender
     id: gender
-    label: gender
+    label: Gender
     position: 21
     skipPersist: false
     isHidden: false
