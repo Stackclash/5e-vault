@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
-location: [4.52, 14.36]
+location:
+  - 4.52
+  - 14.36
 mapmarker: village
 ---
 > [!infobox]

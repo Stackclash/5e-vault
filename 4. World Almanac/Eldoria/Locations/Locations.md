@@ -81,27 +81,6 @@ columns:
       footer_type: none
       persist_changes: false
       source_data: current_folder
-  Alias:
-    input: text
-    accessor: Alias
-    key: Alias
-    label: Alias
-    position: 3
-    skipPersist: false
-    accessorKey: Alias
-    isHidden: false
-    sortIndex: -1
-    width: 173
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      source_data: current_folder
   Type:
     input: select
     accessor: Type
@@ -242,7 +221,7 @@ columns:
       footer_type: none
       persist_changes: false
   Population:
-    input: text
+    input: number
     accessorKey: Population
     key: Population
     id: Population
