@@ -47,7 +47,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 24
+    position: 3
     width: 150
     isHidden: true
     sortIndex: -1
@@ -73,7 +73,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 25
+    position: 4
     width: 150
     isHidden: true
     sortIndex: -1
@@ -114,7 +114,7 @@ columns:
     key: race
     id: race
     label: Race
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -133,7 +133,7 @@ columns:
     key: age
     id: age
     label: age
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -152,7 +152,7 @@ columns:
     key: alignment
     id: alignment
     label: alignment
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -171,7 +171,7 @@ columns:
     key: bond
     id: bond
     label: bond
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -189,11 +189,14 @@ columns:
     accessorKey: condition
     key: condition
     id: condition
-    label: condition
-    position: 100
+    label: Condition
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "Healthy", value: "Healthy", color: "hsl(83,100%,43%)"}
+      - { label: "Dead", value: "Dead", color: "hsl(0,100%,47%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -203,13 +206,14 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   dislikes:
     input: text
     accessorKey: dislikes
     key: dislikes
     id: dislikes
     label: dislikes
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -228,7 +232,7 @@ columns:
     key: flaw
     id: flaw
     label: flaw
-    position: 100
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -247,7 +251,7 @@ columns:
     key: goals
     id: goals
     label: goals
-    position: 100
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -266,7 +270,7 @@ columns:
     key: group
     id: group
     label: group
-    position: 100
+    position: 13
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -285,7 +289,7 @@ columns:
     key: ideal
     id: ideal
     label: ideal
-    position: 100
+    position: 14
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -304,7 +308,7 @@ columns:
     key: likes
     id: likes
     label: likes
-    position: 100
+    position: 15
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -323,7 +327,7 @@ columns:
     key: location
     id: location
     label: location
-    position: 100
+    position: 16
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -342,7 +346,7 @@ columns:
     key: occupation
     id: occupation
     label: occupation
-    position: 100
+    position: 17
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -361,7 +365,7 @@ columns:
     key: personality
     id: personality
     label: personality
-    position: 100
+    position: 18
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -380,7 +384,7 @@ columns:
     key: pronounced
     id: pronounced
     label: pronounced
-    position: 100
+    position: 19
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -399,7 +403,7 @@ columns:
     key: religion
     id: religion
     label: religion
-    position: 100
+    position: 20
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -418,7 +422,7 @@ columns:
     key: gender
     id: gender
     label: gender
-    position: 100
+    position: 21
     skipPersist: false
     isHidden: false
     sortIndex: -1

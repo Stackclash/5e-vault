@@ -5,7 +5,7 @@ race:
 gender: 
 age: 
 alignment: 
-condition: healthy
+condition: ""
 occupation: 
 group: 
 religion: 

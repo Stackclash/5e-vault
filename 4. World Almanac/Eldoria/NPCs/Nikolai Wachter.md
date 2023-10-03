@@ -1,3 +1,3 @@
 ---
-condition: healthy
+condition: Healthy
 ---
