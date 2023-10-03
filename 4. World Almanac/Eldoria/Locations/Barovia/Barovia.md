@@ -17,15 +17,13 @@ exports:
 > **Alias** | `=this.alias` |
 > **Type** | `=this.type` |
 > **Population** | `=this.population` |
-> **Theme** | `=this.theme` |
-> **Region** | `=link(this.Region)` |
+> **Parent Location** | `=this.parent_location` |
 > **Terrain** | `=this.terrain` |
 > ###### Politics
 >  |
 > ---|---|
 > **Ruler(s)** | TBD |
-> **Leaders** | TBD |
-> **Govt Type** | `=this.GovtType` |
+> **Govt Type** | `=this.government` |
 > **Defenses** | `=this.defences` |
 > **Religion(s)** | `=link(this.religions)` |
 > ###### Commerce
@@ -36,8 +34,9 @@ exports:
 > ###### Groups
 > [[Group Database|Add New Group]]
 > ```dataview 
-table join(Type, ", ") AS Type
-WHERE econtains(Location, this.file.name) AND contains(NoteIcon, "Group")
+table join(type, ", ") AS Type
+FROM "4. World Almanac/Eldoria/Groups"
+WHERE econtains(Location, this.file.name)
 SORT Type ASC
 
 # **`=this.file.name`**

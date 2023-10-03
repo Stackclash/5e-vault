@@ -13,5 +13,7 @@
 
 ## Types of Locations
 - Shops
+	- Items and Prices
 - Region
 - Settlement
+	- NPCs
