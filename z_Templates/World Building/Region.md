@@ -16,8 +16,7 @@ obsidianUIMode: preview
 >  |
 > ---|---|
 > **Ruler(s)** | TBD |
-> **Leaders** | TBD |
-> **Govt Type** | `=this.GovtType` |
+> **Govt Type** | `=this.government` |
 > **Defenses** | `=this.defences` |
 > **Religion(s)** | `=link(this.religions)` |
 > ###### Commerce

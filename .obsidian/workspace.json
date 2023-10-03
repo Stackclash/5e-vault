@@ -11,11 +11,9 @@
             "id": "1bf7fa1db12f64ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
-                "mode": "source",
-                "source": false
+                "file": "4. World Almanac/Eldoria/Locations/Locations.md"
               }
             }
           },
@@ -25,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-                "mode": "preview",
+                "file": "z_Templates/World Building/Region.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
+                "file": "z_Templates/World Building/Region.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
+                "file": "z_Templates/World Building/Region.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md"
+                "file": "z_Templates/World Building/Region.md"
               }
             }
           },
@@ -203,12 +202,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "1bf7fa1db12f64ed",
+  "active": "81a4d550b9fba3c5",
   "lastOpenFiles": [
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
-    "2. Scratch Notes/To Do List.md",
     "2. Scratch Notes/Fields for Locations.md",
+    "2. Scratch Notes/To Do List.md",
     "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Encounter Generator.md",
     "1. DM Screen/Tools/Vistani Lore.md",
