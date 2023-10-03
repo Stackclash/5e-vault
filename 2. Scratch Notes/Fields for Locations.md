@@ -1,3 +1,11 @@
+# [[Regions]] 
+
+# Settlements
+
+# Places of Interest
+
+# Shops
+
 - Pronounced
 - Alias
 - Type
