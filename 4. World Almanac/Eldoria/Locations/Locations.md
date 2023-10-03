@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 11
+    position: 12
     isHidden: false
     sortIndex: -1
     config:
@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 12
+    position: 13
     isHidden: false
     sortIndex: -1
     config:
@@ -157,7 +157,7 @@ columns:
     accessor: Defences
     key: defences
     label: Defences
-    position: 6
+    position: 8
     skipPersist: false
     accessorKey: defences
     isHidden: false
@@ -227,7 +227,7 @@ columns:
     key: religions
     id: Religions
     label: Religions
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -248,7 +248,7 @@ columns:
     key: imports
     id: Imports
     label: Imports
-    position: 9
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -272,7 +272,7 @@ columns:
     key: exports
     id: Exports
     label: Exports
-    position: 10
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -309,6 +309,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  terrain:
+    input: select
+    accessorKey: terrain
+    key: terrain
+    id: Terrain
+    label: Terrain
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
 config:
   enable_show_state: false
   group_folder_column: 

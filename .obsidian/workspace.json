@@ -24,13 +24,12 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "4. World Almanac/Eldoria/Locations/Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "file": "4. World Almanac/Eldoria/Locations/Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
+                "file": "4. World Almanac/Eldoria/Locations/Locations.md"
               }
             }
           },
@@ -202,11 +201,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "81a4d550b9fba3c5",
+  "active": "1bf7fa1db12f64ed",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "4. World Almanac/Eldoria/Locations/Locations.md",
     "2. Scratch Notes/Fields for Locations.md",
-    "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
     "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Encounter Generator.md",
     "1. DM Screen/Tools/Vistani Lore.md",

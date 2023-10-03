@@ -10,7 +10,7 @@ exports:
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
+> ![[Barovia.jpg|cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
