@@ -114,7 +114,7 @@ columns:
     key: race
     id: race
     label: Race
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -133,7 +133,7 @@ columns:
     key: age
     id: age
     label: Age
-    position: 6
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -152,7 +152,7 @@ columns:
     key: alignment
     id: alignment
     label: Alignment
-    position: 8
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -171,7 +171,7 @@ columns:
     key: bond
     id: bond
     label: Bond
-    position: 9
+    position: 14
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -190,7 +190,7 @@ columns:
     key: condition
     id: condition
     label: Condition
-    position: 7
+    position: 21
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -213,7 +213,7 @@ columns:
     key: dislikes
     id: dislikes
     label: Dislikes
-    position: 10
+    position: 17
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -232,7 +232,7 @@ columns:
     key: flaw
     id: flaw
     label: Flaw
-    position: 11
+    position: 15
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -251,7 +251,7 @@ columns:
     key: goals
     id: goals
     label: Goals
-    position: 12
+    position: 18
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -270,7 +270,7 @@ columns:
     key: group
     id: group
     label: Group
-    position: 13
+    position: 19
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -289,7 +289,7 @@ columns:
     key: ideal
     id: ideal
     label: Ideal
-    position: 14
+    position: 13
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -308,7 +308,7 @@ columns:
     key: likes
     id: likes
     label: Likes
-    position: 15
+    position: 16
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -327,7 +327,7 @@ columns:
     key: location
     id: location
     label: Location
-    position: 16
+    position: 20
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -346,7 +346,7 @@ columns:
     key: occupation
     id: occupation
     label: Occupation
-    position: 17
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -365,7 +365,7 @@ columns:
     key: personality
     id: personality
     label: Personality
-    position: 18
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -384,7 +384,7 @@ columns:
     key: pronounced
     id: pronounced
     label: Pronounced
-    position: 19
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -403,7 +403,7 @@ columns:
     key: religion
     id: religion
     label: Religion
-    position: 20
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -422,7 +422,7 @@ columns:
     key: gender
     id: gender
     label: Gender
-    position: 21
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
