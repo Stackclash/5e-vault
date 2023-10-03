@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 Type: Region
-GovtType: Monarchy
-Imports:
+government: Monarchy
+imports:
   - None
-Exports:
+exports:
   - None
 ---
 > [!infobox]

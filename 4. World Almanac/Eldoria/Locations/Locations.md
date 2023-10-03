@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 14
+    position: 11
     isHidden: false
     sortIndex: -1
     config:
@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 15
+    position: 12
     isHidden: false
     sortIndex: -1
     config:
@@ -86,7 +86,7 @@ columns:
     accessor: Type
     key: Type
     label: Type
-    position: 5
+    position: 3
     skipPersist: false
     accessorKey: Type
     isHidden: false
@@ -112,14 +112,54 @@ columns:
       persist_changes: false
       source_data: current_folder
       option_source: manual
-  Defences:
+  Pronounced:
+    input: text
+    accessor: Pronounced
+    key: Pronounced
+    label: Pronounced
+    position: 2
+    skipPersist: false
+    accessorKey: Pronounced
+    isHidden: false
+    sortIndex: -1
+    width: 141
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      source_data: current_folder
+  Population:
+    input: number
+    accessorKey: Population
+    key: Population
+    id: Population
+    label: Population
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  defences:
     input: select
     accessor: Defences
-    key: Defences
+    key: defences
     label: Defences
-    position: 9
+    position: 6
     skipPersist: false
-    accessorKey: Defences
+    accessorKey: defences
     isHidden: false
     sortIndex: -1
     options:
@@ -139,14 +179,15 @@ columns:
       footer_type: none
       persist_changes: false
       source_data: current_folder
-  GovtType:
+      option_source: manual
+  government:
     input: select
     accessor: GovtType
-    key: GovtType
-    label: GovtType
-    position: 10
+    key: government
+    label: Government
+    position: 7
     skipPersist: false
-    accessorKey: GovtType
+    accessorKey: government
     isHidden: false
     sortIndex: -1
     options:
@@ -179,34 +220,14 @@ columns:
       footer_type: none
       persist_changes: false
       source_data: current_folder
-  Pronounced:
-    input: text
-    accessor: Pronounced
-    key: Pronounced
-    label: Pronounced
-    position: 2
-    skipPersist: false
-    accessorKey: Pronounced
-    isHidden: false
-    sortIndex: -1
-    width: 141
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      source_data: current_folder
-  Religions:
+      option_source: manual
+  religions:
     input: tags
-    accessorKey: Religions
-    key: Religions
+    accessorKey: religions
+    key: religions
     id: Religions
     label: Religions
-    position: 11
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -220,32 +241,14 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Population:
-    input: number
-    accessorKey: Population
-    key: Population
-    id: Population
-    label: Population
-    position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Imports:
+      option_source: manual
+  imports:
     input: tags
-    accessorKey: Imports
-    key: Imports
+    accessorKey: imports
+    key: imports
     id: Imports
     label: Imports
-    position: 12
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -263,13 +266,13 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  Exports:
+  exports:
     input: tags
-    accessorKey: Exports
-    key: Exports
+    accessorKey: exports
+    key: exports
     id: Exports
     label: Exports
-    position: 13
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -287,6 +290,25 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  parent_location:
+    input: text
+    accessorKey: parent_location
+    key: parent_location
+    id: ParentLocation
+    label: ParentLocation
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   enable_show_state: false
   group_folder_column: 
