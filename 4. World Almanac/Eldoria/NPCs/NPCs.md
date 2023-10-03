@@ -185,7 +185,7 @@ columns:
       footer_type: none
       persist_changes: false
   condition:
-    input: text
+    input: select
     accessorKey: condition
     key: condition
     id: condition
