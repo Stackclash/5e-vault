@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bf7fa1db12f64ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "81a4d550b9fba3c5",
             "type": "leaf",
             "state": {
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
+                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
+                "file": "3. The Party/2. Session Logs/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md"
+                "file": "3. The Party/2. Session Logs/Session 5.md"
               }
             }
           },
@@ -203,8 +191,20 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "a88a1818b2c15bdd",
+  "active": "81a4d550b9fba3c5",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
+    "4. World Almanac/Eldoria/Places of Interest/Blue Water Inn.md",
+    "4. World Almanac/Eldoria/Places of Interest/Blinksy Toys.md",
+    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
+    "4. World Almanac/Eldoria/Places of Interest",
+    "4. World Almanac/Eldoria/Settlements",
+    "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
+    "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Regions/Locations.md",
     "3. The Party/2. Session Logs/Session 5.md",
@@ -215,20 +215,12 @@
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "z_Templates/World Building/Region.md",
-    "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
     "2. Scratch Notes/Fields for Locations.md",
     "2. Scratch Notes/To Do List.md",
     "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Encounter Generator.md",
     "1. DM Screen/Tools/Vistani Lore.md",
     "1. DM Screen/Tools/Barovian Lore.md",
-    "1. DM Screen/Tools/Barovian Names.md",
-    "3. The Party/1. Players/1. Players.md",
-    "Untitled.md",
-    "4. World Almanac/Eldoria/Regions/Barovia/Vallaki/Vallaki.md",
-    "4. World Almanac/Eldoria/NPCs/NPCs.md",
-    "4. World Almanac/Eldoria/NPCs/Izek Strazni.md",
-    "4. World Almanac/Eldoria/Regions/Barovia/Vallaki/Coffin Maker's Shop.md",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist Gridless [27x31 sq - Res 1780x2040].jpg",
@@ -236,8 +228,6 @@
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - Forest - Tree Transparency [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - Forest [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Gridless [27x31 sq - Res 1780x2040].jpg",
-    "3. The Party/1. Players/Marin.md",
-    "4. World Almanac/Eldoria/Regions/Barovia/Village of Barovia/Village of Barovia.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless 4k [20x20 sq - Res 4096x4096].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless [20x20 sq - Res 2048x2048].jpg",
@@ -249,8 +239,6 @@
     "6. Resources/Resources/The Interactive Tome of Strahd",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps/Maps",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 5 - Vallaki - Maps",
     "Untitled.canvas"
   ]
 }
