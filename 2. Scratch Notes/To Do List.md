@@ -1,0 +1,1 @@
+- [ ] Find a way to generalize Dataview queries instead of being specific about a files location. Types? (shop, region, etc)
