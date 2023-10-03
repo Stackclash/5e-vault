@@ -16,7 +16,7 @@ bond:
 flaw: 
 goals: 
 likes: 
-dislikes:
+dislikes: 
 ---
 > [!infobox]
 > # `=this.file.name`
