@@ -10,7 +10,6 @@ obsidianUIMode: preview
 > **Alias** | `=this.alias` |
 > **Type** | `=this.type` |
 > **Population** | `=this.population` |
-> **Region** | `=link(this.Region)` |
 > **Terrain** | `=this.terrain` |
 > ###### Politics
 >  |
@@ -18,7 +17,6 @@ obsidianUIMode: preview
 > **Ruler(s)** | TBD |
 > **Govt Type** | `=this.government` |
 > **Defenses** | `=this.defences` |
-> **Religion(s)** | `=link(this.religions)` |
 > ###### Commerce
 >  |
 > ---|---|
