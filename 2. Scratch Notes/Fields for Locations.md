@@ -10,3 +10,8 @@
 - Exports
 - Parent Location
 - Children Location
+
+## Types of Locations
+- Shops
+- Region
+- Settlement
