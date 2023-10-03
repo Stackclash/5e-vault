@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 pronounced: 
 race: 
-sex: 
+gender: 
 age: 
 alignment: 
 condition: healthy
