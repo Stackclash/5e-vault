@@ -11,9 +11,11 @@
             "id": "1bf7fa1db12f64ed",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Locations.md"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Locations.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Locations.md",
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Locations/Locations.md"
+                "file": "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md"
               }
             }
           },
@@ -203,9 +205,9 @@
   },
   "active": "1bf7fa1db12f64ed",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Locations/Locations.md",
     "2. Scratch Notes/To Do List.md",
     "4. World Almanac/Eldoria/Locations/Barovia/Barovia.md",
-    "4. World Almanac/Eldoria/Locations/Locations.md",
     "2. Scratch Notes/Fields for Locations.md",
     "1. DM Screen/1. DM Screen.md",
     "1. DM Screen/Tools/Encounter Generator.md",
