@@ -3,6 +3,7 @@
 - Pronounced
 - Population
 - Government
+- Army
 - Ruler
 ## Sections
 - Map (Travel Distances and Travel Calculator?)
@@ -26,14 +27,18 @@
 
 # Places of Interest
 ## Fields
-- Map
 - Pronounced
 - Location
 ## Sections
+- Map
 - Notable NPCs
-- 
 
 # Shops
 ## Fields
 - Owners
+- Staff
+- Cost Modifier
+- Static Items
 ## Sections
+- Items for sale
+- Item Generator?
