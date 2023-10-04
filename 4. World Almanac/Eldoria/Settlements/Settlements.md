@@ -49,25 +49,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  region:
-    input: text
-    accessorKey: region
-    key: region
-    id: region
-    label: Region
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   population:
     input: text
     accessorKey: population
@@ -225,6 +206,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  location:
+    input: select
+    accessorKey: location
+    key: location
+    id: region
+    label: Region
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Barovia", value: "Barovia", color: "hsl(232, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

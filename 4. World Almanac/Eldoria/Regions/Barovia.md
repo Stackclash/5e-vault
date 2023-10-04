@@ -101,3 +101,9 @@ TBD
 
 
 ### General Notes
+
+
+> ```dataview
+>  TABLE
+>  FROM "4. World Almanac/Eldoria/Places of Interest" OR "4. World Almanac/Eldoria/Settlements"
+> ```

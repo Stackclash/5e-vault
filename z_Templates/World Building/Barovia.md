@@ -50,9 +50,8 @@ TBD
 ## Notable Locations
 
 > ```dataview
->  TABLE
+>  TABLE file.name as "Name", file.location as "Location"
 >  FROM "4. World Almanac/Eldoria/Places of Interest" OR "4. World Almanac/Eldoria/Settlements"
->  WHERE file.region = this.file.name OR file.location = this.file.name
 > ```
 
 

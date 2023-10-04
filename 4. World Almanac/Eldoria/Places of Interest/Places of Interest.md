@@ -59,6 +59,9 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "Vallaki", value: "Vallaki", color: "hsl(274, 95%, 90%)"}
+      - { label: "Barovia", value: "Barovia", color: "hsl(83, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
