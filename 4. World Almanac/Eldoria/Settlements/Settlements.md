@@ -30,6 +30,118 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  pronounced:
+    input: text
+    accessorKey: pronounced
+    key: pronounced
+    id: pronounced
+    label: pronounced
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  region:
+    input: text
+    accessorKey: region
+    key: region
+    id: region
+    label: region
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  population:
+    input: text
+    accessorKey: population
+    key: population
+    id: population
+    label: population
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  terrain:
+    input: text
+    accessorKey: terrain
+    key: terrain
+    id: terrain
+    label: terrain
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  government:
+    input: select
+    accessorKey: government
+    key: government
+    id: government
+    label: government
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  relgions:
+    input: select
+    accessorKey: relgions
+    key: relgions
+    id: relgions
+    label: relgions
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  defences:
+    input: select
+    accessorKey: defences
+    key: defences
+    id: defences
+    label: defences
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

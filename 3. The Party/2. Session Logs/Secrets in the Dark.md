@@ -5,7 +5,7 @@ fc-date: 973-2-11
 timelines:
   - COS
 aat-render-enabled: true
-fc-category: Blah
+fc-category: Session
 party: Curse of Strahd
 ---
 # What Happened
