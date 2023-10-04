@@ -191,7 +191,7 @@ columns:
       source_data: current_folder
       option_source: manual
   rulers:
-    input: tags
+    input: relation
     accessorKey: rulers
     key: rulers
     id: rulers
@@ -200,7 +200,6 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -210,6 +209,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      related_note_path: 4. World Almanac/Eldoria/NPCs/NPCs.md
+      relation_color: hsl(37,99%,42%)
 config:
   enable_show_state: false
   group_folder_column: 
