@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59be4a322747ab47",
+        "id": "83bd6238485ebcad",
         "type": "tabs",
         "children": [
           {
-            "id": "81a4d550b9fba3c5",
+            "id": "20ce406185c127ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Martikov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,14 +130,6 @@
             }
           },
           {
-            "id": "ef34cacf567e1afa",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "7194cf4fcfc02e55",
             "type": "leaf",
             "state": {
@@ -156,15 +148,37 @@
             }
           },
           {
-            "id": "a5234f9b60b56dd7",
+            "id": "92118adc8da6f9c6",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "a935de75015b7bf2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
+      },
+      {
+        "id": "87d98b24f802d020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37cf6a24cb5cd52e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,72 +187,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open DnDBGeorge": false,
       "obsidian-custom-frames:Open DnDBTim": false,
       "obsidian-custom-frames:Open DnDBShi": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "81a4d550b9fba3c5",
+  "active": "20ce406185c127ab",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Regions/Regions.md",
-    "3. The Party/2. Session Logs/Session 5.md",
-    "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Eldoria/Shops/Coffin Maker's Shop.md",
-    "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
-    "4. World Almanac/Eldoria/Shops/Blue Water Inn.md",
-    "4. World Almanac/Eldoria/Shops",
-    "4. World Almanac/Eldoria/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
-    "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
-    "4. World Almanac/Eldoria/Places of Interest/Blue Water Inn.md",
-    "4. World Almanac/Eldoria/Places of Interest/Blinksy Toys.md",
-    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
-    "4. World Almanac/Eldoria/Places of Interest",
-    "4. World Almanac/Eldoria/Settlements",
-    "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
-    "4. World Almanac/Eldoria/Regions/Barovia.md",
-    "4. World Almanac/Eldoria/Regions/Locations.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
-    "5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md",
-    "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
-    "5. Mechanics/Bestiary/Npc/Madam Eva (COS).md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
-    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
+    "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Region.md",
-    "2. Scratch Notes/Fields for Locations.md",
+    "4. World Almanac/Eldoria/Shops/Blue Water Inn.md",
+    "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
+    "4. World Almanac/Eldoria/Shops",
+    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
+    "4. World Almanac/Eldoria/Settlements",
+    "4. World Almanac/Eldoria/Regions/Regions.md",
+    "4. World Almanac/Eldoria/Regions/Barovia.md",
+    "4. World Almanac/Eldoria/Regions",
+    "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Eldoria/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
+    "4. World Almanac/Eldoria/Places of Interest",
     "2. Scratch Notes/To Do List.md",
-    "1. DM Screen/1. DM Screen.md",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist Gridless [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night Gridless [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - Forest - Tree Transparency [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - Forest [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Gridless [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless 4k [20x20 sq - Res 4096x4096].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless [20x20 sq - Res 2048x2048].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Tree Transparency Gridless [30x40 sq - 1536x2048].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - B&W Printer Friendly.pdf",
-    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
+    "3. The Party/1. Players/Seluvis Felo'melorn.md",
+    "3. The Party/1. Players/Marin.md",
+    "3. The Party/1. Players/1. Players.md",
+    "z_Templates/World Building/NPC.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Leaflet Map.md",
+    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
+    "z_Templates/DM Prep/Session Note.md",
+    "z_Templates/Party/Party Dashboard.md",
+    "z_Templates/Party/Player Character.md",
+    "3. The Party/1. Players/Hello.md",
+    "3. The Party/1. Players/he.md",
+    "3. The Party/1. Players/Boo.md",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (DM).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v3_-_Color.pdf",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Adventure_-_The_Interactive_Tome_of_Strahd_v2_Printer_Friendly_(updated_04_21_21).pdf",
     "6. Resources/Resources/The Interactive Tome of Strahd",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps/CoS 6 - Old Bonegrinder Maps",
+    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 6 - Old Bonegrinder Maps",
     "Untitled.canvas"
   ]
 }
