@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 12
+    position: 7
     isHidden: false
     sortIndex: -1
     config:
@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 13
+    position: 8
     isHidden: false
     sortIndex: -1
     config:
@@ -81,37 +81,6 @@ columns:
       footer_type: none
       persist_changes: false
       source_data: current_folder
-  Type:
-    input: select
-    accessor: Type
-    key: Type
-    label: Type
-    position: 3
-    skipPersist: false
-    accessorKey: Type
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Thorp", value: "Thorp", color: "hsl(259, 95%, 90%)"}
-      - { label: "Hamlet", value: "Hamlet", color: "hsl(168, 95%, 90%)"}
-      - { label: "Village", value: "Village", color: "hsl(207, 95%, 90%)"}
-      - { label: "Small Town", value: "Small Town", color: "hsl(301, 95%, 90%)"}
-      - { label: "Large Town", value: "Large Town", color: "hsl(306, 95%, 90%)"}
-      - { label: "Small City", value: "Small City", color: "hsl(324, 95%, 90%)"}
-      - { label: "Large City", value: "Large City", color: "hsl(162, 95%, 90%)"}
-      - { label: "Metropolis", value: "Metropolis", color: "hsl(344, 95%, 90%)"}
-      - { label: "Region", value: "Region", color: "hsl(201, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      source_data: current_folder
-      option_source: manual
   Pronounced:
     input: text
     accessor: Pronounced
@@ -139,7 +108,7 @@ columns:
     key: Population
     id: Population
     label: Population
-    position: 5
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -152,40 +121,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  defences:
-    input: select
-    accessor: Defences
-    key: defences
-    label: Defences
-    position: 8
-    skipPersist: false
-    accessorKey: defences
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Formidable", value: "Formidable", color: "hsl(239, 95%, 90%)"}
-      - { label: "Strong", value: "Strong", color: "hsl(293, 95%, 90%)"}
-      - { label: "Average", value: "Average", color: "hsl(161, 95%, 90%)"}
-      - { label: "Weak", value: "Weak", color: "hsl(274, 95%, 90%)"}
-      - { label: "Patheric", value: "Patheric", color: "hsl(342, 95%, 90%)"}
-      - { label: "None", value: "None", color: "hsl(217, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      source_data: current_folder
-      option_source: manual
   government:
     input: select
     accessor: GovtType
     key: government
     label: Government
-    position: 7
+    position: 5
     skipPersist: false
     accessorKey: government
     isHidden: false
@@ -221,17 +162,23 @@ columns:
       persist_changes: false
       source_data: current_folder
       option_source: manual
-  religions:
-    input: tags
-    accessorKey: religions
-    key: religions
-    id: Religions
-    label: Religions
-    position: 9
+  army:
+    input: select
+    accessor: Defences
+    key: army
+    label: Army
+    position: 6
     skipPersist: false
+    accessorKey: army
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Formidable", value: "Formidable", color: "hsl(239, 95%, 90%)"}
+      - { label: "Strong", value: "Strong", color: "hsl(293, 95%, 90%)"}
+      - { label: "Average", value: "Average", color: "hsl(161, 95%, 90%)"}
+      - { label: "Weak", value: "Weak", color: "hsl(274, 95%, 90%)"}
+      - { label: "Patheric", value: "Patheric", color: "hsl(342, 95%, 90%)"}
+      - { label: "None", value: "None", color: "hsl(217, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -241,84 +188,18 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      source_data: current_folder
       option_source: manual
-  imports:
+  rulers:
     input: tags
-    accessorKey: imports
-    key: imports
-    id: Imports
-    label: Imports
-    position: 10
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Lumber", value: "Lumber", color: "hsl(164, 95%, 90%)"}
-      - { label: "Grain", value: "Grain", color: "hsl(96, 95%, 90%)"}
-      - { label: "None", value: "None", color: "hsl(288, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-  exports:
-    input: tags
-    accessorKey: exports
-    key: exports
-    id: Exports
-    label: Exports
-    position: 11
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Lumber", value: "Lumber", color: "hsl(112, 95%, 90%)"}
-      - { label: "Grain", value: "Grain", color: "hsl(78, 95%, 90%)"}
-      - { label: "None", value: "None", color: "hsl(182, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-  parent_location:
-    input: text
-    accessorKey: parent_location
-    key: parent_location
-    id: ParentLocation
-    label: ParentLocation
+    accessorKey: rulers
+    key: rulers
+    id: rulers
+    label: rulers
     position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  terrain:
-    input: select
-    accessorKey: terrain
-    key: terrain
-    id: Terrain
-    label: Terrain
-    position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
     options:
     config:
       enable_media_view: true
@@ -329,7 +210,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
 config:
   enable_show_state: false
   group_folder_column: 

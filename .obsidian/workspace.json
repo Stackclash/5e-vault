@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "83bd6238485ebcad",
+        "id": "c24a18cd70e3e910",
         "type": "tabs",
         "children": [
           {
-            "id": "20ce406185c127ab",
+            "id": "c51e605ad7436c51",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
+                "file": "4. World Almanac/Eldoria/Regions/Regions.md"
+              }
+            }
+          },
+          {
+            "id": "584d955bba003085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Scratch Notes/Fields for Locations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md",
+                "file": "4. World Almanac/Eldoria/Regions/Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md",
+                "file": "4. World Almanac/Eldoria/Regions/Regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/NPCs/NPCs.md"
+                "file": "4. World Almanac/Eldoria/Regions/Regions.md"
               }
             }
           },
@@ -202,9 +214,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "20ce406185c127ab",
+  "active": "c51e605ad7436c51",
   "lastOpenFiles": [
     "2. Scratch Notes/Fields for Locations.md",
+    "4. World Almanac/Eldoria/Regions/Regions.md",
+    "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Region.md",
     "4. World Almanac/Eldoria/Shops/Blue Water Inn.md",
@@ -213,7 +227,6 @@
     "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
     "4. World Almanac/Eldoria/Settlements/Vallaki.md",
     "4. World Almanac/Eldoria/Settlements",
-    "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Regions",
     "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
@@ -233,7 +246,6 @@
     "z_Templates/Party/Party Dashboard.md",
     "z_Templates/Party/Player Character.md",
     "3. The Party/1. Players/Hello.md",
-    "3. The Party/1. Players/he.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",

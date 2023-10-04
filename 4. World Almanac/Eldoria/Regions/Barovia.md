@@ -1,11 +1,6 @@
 ---
 obsidianUIMode: preview
-Type: Region
 government: Monarchy
-imports:
-  - None
-exports:
-  - None
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -89,7 +89,7 @@ columns:
       persist_formula: false
       source_data: current_folder
   art:
-    input: rollup
+    input: text
     accessorKey: art
     key: art
     id: Art
@@ -107,7 +107,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      asociated_relation_id: 
   race:
     input: text
     accessorKey: race
