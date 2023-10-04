@@ -1,13 +1,14 @@
 ---
-Party: Curse of Strahd
 date: 2023-08-05T00:00:00.000-05:00
-summary: The party struggles to escape the mansion and eventually find the inn in the village of Barovia. They get contracted to take Ireena to Vallaki.
+summary: The party struggles to escape the mansion and eventually find the inn
+  in the village of Barovia. They get contracted to take Ireena to Vallaki.
 fc-date: 973-2-11
 fc-end: 973-2-12
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
+party: Curse of Strahd
 ---
 # Preparation
 
