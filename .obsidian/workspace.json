@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "preview",
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
-                "mode": "source",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +217,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c51e605ad7436c51",
+  "active": "584d955bba003085",
   "lastOpenFiles": [
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/3. Quests/Take Ireena to Vallaki.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
@@ -228,7 +230,6 @@
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
     "4. World Almanac/Eldoria/Settlements/Vallaki.md",
-    "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Region.md",
