@@ -1,11 +1,14 @@
 ---
+obsidianUIMode: preview
 pronounced: 
 region: 
 population: 
 terrain: 
 government: 
 religions: 
-defences:
+defences: 
+exports: 
+imports:
 ---
 
 > [!infobox]

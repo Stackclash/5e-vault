@@ -8,6 +8,8 @@
     "goals": "multitext",
     "aat-render-enabled": "checkbox",
     "population": "number",
-    "alias": "text"
+    "alias": "text",
+    "exports": "multitext",
+    "imports": "multitext"
   }
 }
