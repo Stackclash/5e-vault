@@ -195,7 +195,7 @@ columns:
     accessorKey: rulers
     key: rulers
     id: rulers
-    label: rulers
+    label: Rulers
     position: 4
     skipPersist: false
     isHidden: false

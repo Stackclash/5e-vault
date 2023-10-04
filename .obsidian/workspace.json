@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Regions.md"
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Regions.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Regions.md",
+                "file": "3. The Party/3. Quests/3. Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Regions.md"
+                "file": "3. The Party/3. Quests/3. Quests.md"
               }
             }
           },
@@ -216,8 +216,15 @@
   },
   "active": "c51e605ad7436c51",
   "lastOpenFiles": [
-    "2. Scratch Notes/Fields for Locations.md",
+    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+    "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "4. World Almanac/Eldoria/Shops/Shops.md",
+    "4. World Almanac/Eldoria/Settlements/Settlements.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
+    "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
+    "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Region.md",
@@ -225,7 +232,6 @@
     "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
-    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
     "4. World Almanac/Eldoria/Settlements",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Regions",
@@ -240,12 +246,6 @@
     "3. The Party/1. Players/1. Players.md",
     "z_Templates/World Building/NPC.md",
     "z_Templates/World Building/Settlement.md",
-    "z_Templates/World Building/Leaflet Map.md",
-    "z_Templates/DM Prep/Lazy DM Prep Notes.md",
-    "z_Templates/DM Prep/Session Note.md",
-    "z_Templates/Party/Party Dashboard.md",
-    "z_Templates/Party/Player Character.md",
-    "3. The Party/1. Players/Hello.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
