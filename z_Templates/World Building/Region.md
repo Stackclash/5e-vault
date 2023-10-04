@@ -1,5 +1,11 @@
 ---
 obsidianUIMode: preview
+alias: 
+pronounced: 
+rulers: 
+population: 
+government: 
+army:
 ---
 > [!infobox]
 > # `=this.file.name`
