@@ -15,38 +15,25 @@
 - Population (Percentage of Region Population?)
 - Government
 - Religions
+- Defences
 - Exports
 - Imports
 ## Sections
 - Map
 - Places of Interest (Map as well)
 - Shops (Map as well)
+- Notable NPCs
 
 # Places of Interest
 ## Fields
+- Map
+- Pronounced
+- Location
 ## Sections
+- Notable NPCs
+- 
 
 # Shops
 ## Fields
 - Owners
 ## Sections
-
-- Pronounced
-- Alias
-- Type
-	- Region
-	- Town
-- Population
-- Government Type
-- Religions
-- Imports
-- Exports
-- Parent Location
-- Children Location
-
-## Types of Locations
-- Shops
-	- Items and Prices
-- Region
-- Settlement
-	- NPCs
