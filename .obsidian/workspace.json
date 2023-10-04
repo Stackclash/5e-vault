@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "file": "3. The Party/2. Session Logs/Secrets in the Dark.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f28fd99fd3a30c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md"
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
               }
             }
           },
@@ -190,15 +203,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "81a4d550b9fba3c5",
+  "active": "f28fd99fd3a30c11",
   "lastOpenFiles": [
-    "3. The Party/2. Session Logs/The Look of Desperation.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/Never Trust a Hunter.md",
-    "3. The Party/2. Session Logs/Campaign Preparation.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "3. The Party/2. Session Logs/Welcome to Barovia.md",
+    "3. The Party/2. Session Logs/The Look of Desperation.md",
+    "3. The Party/2. Session Logs/Knowing the Road.md",
+    "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Session 5.md",
     "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
@@ -220,7 +234,6 @@
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Regions/Locations.md",
     "5. Mechanics/Bestiary/Npc/Baron Vargas Vallakovich (COS).md",
-    "4. World Almanac/Eldoria/NPCs/Karl Wachter.md",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist Gridless [27x31 sq - Res 1780x2040].jpg",
