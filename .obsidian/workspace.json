@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md"
               }
             }
           },
@@ -217,10 +216,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "584d955bba003085",
+  "active": "c51e605ad7436c51",
   "lastOpenFiles": [
-    "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/3. Quests/Take Ireena to Vallaki.md",

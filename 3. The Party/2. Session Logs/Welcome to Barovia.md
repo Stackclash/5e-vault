@@ -1,13 +1,12 @@
 ---
 Party: Curse of Strahd
 date: 2023-07-08T00:00:00.000-05:00
-summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion. Boo
+summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
 fc-date: 359
 fc-end: 435
-aat-render-enabled: true
 timelines:
   - COS
-aat-event-body: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
+aat-render-enabled: true
 ---
 # Preparation
 - How to get the players to the town of Barovia?

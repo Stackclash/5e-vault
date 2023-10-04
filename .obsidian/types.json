@@ -5,6 +5,7 @@
     "tags": "tags",
     "stats": "multitext",
     "age": "number",
-    "goals": "multitext"
+    "goals": "multitext",
+    "aat-render-enabled": "checkbox"
   }
 }
