@@ -50,7 +50,7 @@ columns:
       footer_type: none
       persist_changes: false
   location:
-    input: text
+    input: select
     accessorKey: location
     key: location
     id: location

@@ -51,7 +51,8 @@ TBD
 
 > ```dataview
 >  TABLE
->  FROM "4. Worl"
+>  FROM "4. World Almanac/Eldoria/Places of Interest" OR "4. World Almanac/Eldoria/Settlements"
+>  WHERE file.region = this.file.name OR file.location = this.file.name
 > ```
 
 
