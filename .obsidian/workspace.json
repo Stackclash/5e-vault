@@ -11,9 +11,11 @@
             "id": "c51e605ad7436c51",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md"
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/3. Quests/3. Quests.md"
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
               }
             }
           },
@@ -216,8 +218,10 @@
   },
   "active": "c51e605ad7436c51",
   "lastOpenFiles": [
-    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
+    "3. The Party/2. Session Logs/Welcome to Barovia.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/3. Quests/3. Quests.md",
+    "3. The Party/3. Quests/Take Ireena to Vallaki.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "4. World Almanac/Eldoria/Shops/Shops.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",
@@ -244,8 +248,6 @@
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Marin.md",
     "3. The Party/1. Players/1. Players.md",
-    "z_Templates/World Building/NPC.md",
-    "z_Templates/World Building/Settlement.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
