@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Place of Interest.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Place of Interest.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Place of Interest.md",
+                "file": "z_Templates/World Building/Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Place of Interest.md"
+                "file": "z_Templates/World Building/Settlement.md"
               }
             }
           },
@@ -210,11 +210,11 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
+    "2. Scratch Notes/Fields for Locations.md",
     "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Leaflet Map.md",
-    "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",

@@ -1,3 +1,13 @@
+---
+pronounced: 
+region: 
+population: 
+terrain: 
+government: 
+religions: 
+defences:
+---
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
