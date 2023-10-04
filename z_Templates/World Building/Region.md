@@ -9,6 +9,7 @@ army:
 ---
 > [!infobox]
 > # `=this.file.name`
+> ![[PlaceholderImage.png]]
 > **Pronounced:**  "`=this.Pronounced`"
 > ###### Info
 >  |
@@ -50,8 +51,9 @@ TBD
 ## Notable Locations
 
 > ```dataview
->  TABLE file.name as "Name", file.location as "Location", file.frontmatter.location as "Frontmatter", file.folder.split("/")
+>  TABLE file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Eldoria/Places of Interest" OR "4. World Almanac/Eldoria/Settlements"
+>  WHERE file.frontmatter.location = this.file.name OR file.frontmatter.region = this.file.name
 > ```
 
 
