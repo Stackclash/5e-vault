@@ -9,7 +9,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 ---
-****# Preparation
+# Preparation
 - How to get the players to the town of Barovia?
 
 ## Maps
