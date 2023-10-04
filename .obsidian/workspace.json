@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Region.md",
+                "file": "z_Templates/World Building/Place of Interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Region.md",
+                "file": "z_Templates/World Building/Place of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Region.md",
+                "file": "z_Templates/World Building/Place of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Region.md"
+                "file": "z_Templates/World Building/Place of Interest.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
     "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Leaflet Map.md",
     "2. Scratch Notes/Fields for Locations.md",
@@ -235,7 +236,6 @@
     "3. The Party/2. Session Logs/Never Trust a Hunter.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "3. The Party/2. Session Logs/Campaign Preparation.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",
