@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md"
+                "file": "4. World Almanac/Eldoria/Shops/Shops.md"
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md",
+                "file": "4. World Almanac/Eldoria/Shops/Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md",
+                "file": "4. World Almanac/Eldoria/Shops/Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md"
+                "file": "4. World Almanac/Eldoria/Shops/Shops.md"
               }
             }
           },
@@ -208,11 +208,18 @@
   },
   "active": "ab9d3795384ab3b7",
   "lastOpenFiles": [
+    "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
+    "4. World Almanac/Eldoria/Settlements/Settlements.md",
+    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
+    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
+    "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
@@ -221,22 +228,15 @@
     "3. The Party/2. Session Logs/The Look of Desperation.md",
     "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Session 5.md",
-    "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Eldoria/Shops/Coffin Maker's Shop.md",
-    "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
     "4. World Almanac/Eldoria/Shops/Blue Water Inn.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
     "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Eldoria/Places of Interest/Blue Water Inn.md",
     "4. World Almanac/Eldoria/Places of Interest/Blinksy Toys.md",
-    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",
-    "4. World Almanac/Eldoria/Regions/Barovia/Barovia.md",
-    "4. World Almanac/Eldoria/Regions/Locations.md",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist [27x31 sq - Res 1780x2040].jpg",
     "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist Gridless [27x31 sq - Res 1780x2040].jpg",

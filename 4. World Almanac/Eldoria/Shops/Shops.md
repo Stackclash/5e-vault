@@ -30,6 +30,54 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  owners:
+    input: relation
+    accessorKey: owners
+    key: owners
+    id: owners
+    label: owners
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  staff:
+    input: relation
+    accessorKey: staff
+    key: staff
+    id: staff
+    label: staff
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  cost_modifier:
+    input: number
+    accessorKey: cost_modifier
+    key: cost_modifier
+    id: cost_modifier
+    label: cost_modifier
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

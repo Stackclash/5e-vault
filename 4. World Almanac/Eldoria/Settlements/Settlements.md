@@ -35,8 +35,11 @@ columns:
     accessorKey: pronounced
     key: pronounced
     id: pronounced
-    label: pronounced
+    label: Pronounced
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -51,8 +54,11 @@ columns:
     accessorKey: region
     key: region
     id: region
-    label: region
+    label: Region
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -67,8 +73,11 @@ columns:
     accessorKey: population
     key: population
     id: population
-    label: population
+    label: Population
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -83,8 +92,11 @@ columns:
     accessorKey: terrain
     key: terrain
     id: terrain
-    label: terrain
+    label: Terrain
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -99,8 +111,31 @@ columns:
     accessorKey: government
     key: government
     id: government
-    label: government
+    label: Government
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Autocracy", value: "Autocracy", color: "hsl(301, 95%, 90%)"}
+      - { label: "Bureaucracy", value: "Bureaucracy", color: "hsl(31, 95%, 90%)"}
+      - { label: "Confederacy", value: "Confederacy", color: "hsl(224, 95%, 90%)"}
+      - { label: "Democracy", value: "Democracy", color: "hsl(34, 95%, 90%)"}
+      - { label: "Dictatorship", value: "Dictatorship", color: "hsl(86, 95%, 90%)"}
+      - { label: "Feudalism", value: "Feudalism", color: "hsl(351, 95%, 90%)"}
+      - { label: "Gerontocracy", value: "Gerontocracy", color: "hsl(291, 95%, 90%)"}
+      - { label: "Hierarchy", value: "Hierarchy", color: "hsl(216, 95%, 90%)"}
+      - { label: "Kleptocracy", value: "Kleptocracy", color: "hsl(12, 95%, 90%)"}
+      - { label: "Magocracy", value: "Magocracy", color: "hsl(10, 95%, 90%)"}
+      - { label: "Matriarchy or Patriarchy", value: "Matriarchy or Patriarchy", color: "hsl(23, 95%, 90%)"}
+      - { label: "Meritocracy", value: "Meritocracy", color: "hsl(42, 95%, 90%)"}
+      - { label: "Stratocracy", value: "Stratocracy", color: "hsl(242, 95%, 90%)"}
+      - { label: "Monarchy", value: "Monarchy", color: "hsl(14, 95%, 90%)"}
+      - { label: "Oligarchy", value: "Oligarchy", color: "hsl(72, 95%, 90%)"}
+      - { label: "Plutocracy", value: "Plutocracy", color: "hsl(93, 95%, 90%)"}
+      - { label: "Republic", value: "Republic", color: "hsl(340, 95%, 90%)"}
+      - { label: "Satrapy", value: "Satrapy", color: "hsl(110, 95%, 90%)"}
+      - { label: "Theocracy", value: "Theocracy", color: "hsl(174, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -111,12 +146,16 @@ columns:
       footer_type: none
       persist_changes: false
   relgions:
-    input: select
+    input: tags
     accessorKey: relgions
     key: relgions
     id: relgions
-    label: relgions
+    label: Relgions
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -131,8 +170,52 @@ columns:
     accessorKey: defences
     key: defences
     id: defences
-    label: defences
+    label: Defences
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Exports:
+    input: tags
+    accessorKey: Exports
+    key: Exports
+    id: Exports
+    label: Exports
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Imports:
+    input: tags
+    accessorKey: Imports
+    key: Imports
+    id: Imports
+    label: Imports
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
