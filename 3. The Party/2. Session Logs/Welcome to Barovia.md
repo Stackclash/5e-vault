@@ -7,6 +7,7 @@ fc-end: 435
 timelines:
   - COS
 aat-render-enabled: true
+fc-category: Session
 ---
 # Preparation
 - How to get the players to the town of Barovia?
