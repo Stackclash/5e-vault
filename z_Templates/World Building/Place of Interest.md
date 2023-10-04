@@ -1,3 +1,9 @@
+---
+obsidianUIMode: preview
+pronounced: 
+location:
+---
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
