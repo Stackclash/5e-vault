@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/World Building/Region.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -210,9 +210,11 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Region.md",
+    "z_Templates/World Building/Leaflet Map.md",
     "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
-    "z_Templates/World Building/Region.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
@@ -223,7 +225,6 @@
     "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
-    "z_Templates/World Building/Settlement.md",
     "4. World Almanac/Eldoria/Shops/Shops.md",
     "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
     "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
@@ -235,7 +236,6 @@
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "3. The Party/2. Session Logs/The Look of Desperation.md",
     "3. The Party/2. Session Logs/Campaign Preparation.md",
-    "3. The Party/2. Session Logs/Session 5.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",
