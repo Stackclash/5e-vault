@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c51e605ad7436c51",
+            "id": "b31a96acb3cd0129",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff6d5f5c5f199914",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "584d955bba003085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +212,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c51e605ad7436c51",
+  "active": "ff6d5f5c5f199914",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
     "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/3. Quests/Take Ireena to Vallaki.md",
@@ -246,7 +244,6 @@
     "2. Scratch Notes/To Do List.md",
     "3. The Party/1. Players/Seluvis Felo'melorn.md",
     "3. The Party/1. Players/Marin.md",
-    "3. The Party/1. Players/1. Players.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
