@@ -3,7 +3,6 @@ Party: Curse of Strahd
 date: 2023-07-08T00:00:00.000-05:00
 summary: Players were drawn together by mysterious fog and lured by the ghosts of two children into a haunted mansion.
 fc-date: 973-2-11
-fc-end: 973-2-12
 timelines:
   - COS
 aat-render-enabled: true
