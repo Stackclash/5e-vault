@@ -29,11 +29,9 @@
             "id": "ab9d3795384ab3b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
-                "mode": "source",
-                "source": false
+                "file": "4. World Almanac/Eldoria/Regions/Regions.md"
               }
             }
           }
@@ -210,8 +208,8 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
-    "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
+    "2. Scratch Notes/Fields for Locations.md",
     "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Settlement.md",
     "4. World Almanac/Eldoria/Shops/Shops.md",
