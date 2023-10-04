@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-location: Barovia
+region: Barovia
 ---
 > [!infobox]
 > # `=this.file.name`

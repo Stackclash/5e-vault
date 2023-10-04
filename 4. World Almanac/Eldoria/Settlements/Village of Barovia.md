@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
-location: Barovia
 mapmarker: village
+region: Barovia
 ---
 > [!infobox]
 > # `=this.file.name`
