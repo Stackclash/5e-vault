@@ -18,12 +18,56 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
+    position: 0
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
       media_width: 100
       media_height: 100
       isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  pronounced:
+    input: text
+    accessorKey: pronounced
+    key: pronounced
+    id: pronounced
+    label: Pronounced
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  location:
+    input: select
+    accessorKey: location
+    key: location
+    id: location
+    label: Location
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Vallaki", value: "Vallaki", color: "hsl(274, 95%, 90%)"}
+      - { label: "Barovia", value: "Barovia", color: "hsl(83, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false

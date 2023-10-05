@@ -1,12 +1,16 @@
 ---
 obsidianUIMode: preview
-alias: 
 pronounced: 
-rulers: 
+region: 
 population: 
+terrain: 
 government: 
-army:
+religions: 
+defences: 
+exports: 
+imports:
 ---
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]

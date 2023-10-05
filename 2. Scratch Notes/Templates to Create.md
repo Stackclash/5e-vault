@@ -1,6 +1,0 @@
-- quest
-- shop
-- dm prep notes
-- town
-- region
-- npc 

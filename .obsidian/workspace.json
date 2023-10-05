@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b1297b92d511546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,9 +225,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ff6d5f5c5f199914",
+  "active": "8b1297b92d511546",
   "lastOpenFiles": [
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
+    "conflict-files-obsidian-git.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Place of Interest.md",
+    "3. The Party/2. Session Logs/Never Trust a Hunter.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/1. Players/Faerah Duskrane.md",
     "2. Scratch Notes/Fields for Locations.md",
@@ -239,11 +256,7 @@
     "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
     "4. World Almanac/Eldoria/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Eldoria/Places of Interest",
-    "2. Scratch Notes/To Do List.md",
-    "3. The Party/1. Players/Seluvis Felo'melorn.md",
-    "3. The Party/1. Players/Marin.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",

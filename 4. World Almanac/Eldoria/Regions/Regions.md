@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 7
+    position: 8
     isHidden: false
     sortIndex: -1
     config:
@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 8
+    position: 9
     isHidden: false
     sortIndex: -1
     config:
@@ -86,7 +86,7 @@ columns:
     accessor: Pronounced
     key: Pronounced
     label: Pronounced
-    position: 2
+    position: 3
     skipPersist: false
     accessorKey: Pronounced
     isHidden: false
@@ -108,7 +108,7 @@ columns:
     key: Population
     id: Population
     label: Population
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -126,7 +126,7 @@ columns:
     accessor: GovtType
     key: government
     label: Government
-    position: 5
+    position: 6
     skipPersist: false
     accessorKey: government
     isHidden: false
@@ -167,7 +167,7 @@ columns:
     accessor: Defences
     key: army
     label: Army
-    position: 6
+    position: 7
     skipPersist: false
     accessorKey: army
     isHidden: false
@@ -191,16 +191,36 @@ columns:
       source_data: current_folder
       option_source: manual
   rulers:
-    input: tags
+    input: relation
     accessorKey: rulers
     key: rulers
     id: rulers
     label: Rulers
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Eldoria/NPCs/NPCs.md
+      relation_color: hsl(37,99%,42%)
+  alias:
+    input: text
+    accessorKey: alias
+    key: alias
+    id: alias
+    label: Alias
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true

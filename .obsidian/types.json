@@ -6,6 +6,10 @@
     "stats": "multitext",
     "age": "number",
     "goals": "multitext",
-    "aat-render-enabled": "checkbox"
+    "aat-render-enabled": "checkbox",
+    "population": "number",
+    "alias": "text",
+    "exports": "multitext",
+    "imports": "multitext"
   }
 }

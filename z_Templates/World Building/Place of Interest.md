@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
-alias: 
 pronounced: 
-rulers: 
-population: 
-government: 
-army:
+location:
 ---
+
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]

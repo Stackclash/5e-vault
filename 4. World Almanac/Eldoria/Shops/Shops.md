@@ -30,6 +30,85 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  owners:
+    input: relation
+    accessorKey: owners
+    key: owners
+    id: owners
+    label: Owners
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Eldoria/NPCs/NPCs.md
+  staff:
+    input: relation
+    accessorKey: staff
+    key: staff
+    id: staff
+    label: Staff
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Eldoria/NPCs/NPCs.md
+  cost_modifier:
+    input: number
+    accessorKey: cost_modifier
+    key: cost_modifier
+    id: cost_modifier
+    label: Cost Modifier
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  items:
+    input: tags
+    accessorKey: items
+    key: items
+    id: items
+    label: Items
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
