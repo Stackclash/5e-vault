@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b149bcfabff3c6d",
+            "id": "b2b668dfc5b6f97f",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -16,12 +16,14 @@
             }
           },
           {
-            "id": "21b6454ce6ed64f2",
+            "id": "2e188bd52a169b9d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md",
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/2. Session Logs/2. Session Logs.md"
+                "file": "3. The Party/2. Session Logs/Welcome to Barovia.md"
               }
             }
           },
@@ -211,14 +213,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "21b6454ce6ed64f2",
+  "active": "2e188bd52a169b9d",
   "lastOpenFiles": [
-    "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "conflict-files-obsidian-git.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
     "3. The Party/2. Session Logs/Never Trust a Hunter.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/2. Session Logs/2. Session Logs.md",
+    "3. The Party/1. Players/Faerah Duskrane.md",
+    "conflict-files-obsidian-git.md",
     "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "z_Templates/World Building/Settlement.md",
@@ -226,7 +229,6 @@
     "2. Scratch Notes/Fields for Locations.md",
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/3. Quests/Take Ireena to Vallaki.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
     "4. World Almanac/Eldoria/Shops/Shops.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
