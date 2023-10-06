@@ -13,5 +13,4 @@ region: "[[Barovia]]"
 - [[Morgantha (COS)]] is not home
 - If captured the party is given a quest to deliver a [[Hag Eye]] to Castle Ravenloft
 - If it's a nice encounter then the hags try to get the party to bring them children from [[Vallaki]] 
-`=this.world.active_party.minutes_per_mile`
 
