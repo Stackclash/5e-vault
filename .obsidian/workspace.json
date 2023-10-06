@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b7316ffbbbf1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/World Building/Region.md",
+                "file": "z_Templates/World Building/Shop.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "z_Templates/World Building/Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
+                "file": "z_Templates/World Building/Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md"
+                "file": "z_Templates/World Building/Shop.md"
               }
             }
           },
@@ -222,12 +210,12 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Shops/Shops.md",
     "z_Templates/World Building/Settlement.md",
-    "2. Scratch Notes/Fields for Locations.md",
-    "z_Templates/World Building/Region.md",
-    "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Shop.md",
+    "z_Templates/World Building/Region.md",
+    "4. World Almanac/Eldoria/Shops/Shops.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Leaflet Map.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
