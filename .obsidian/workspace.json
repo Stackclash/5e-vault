@@ -14,7 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/World Building/Settlement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28b7316ffbbbf1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/World Building/Region.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c34e5c0c9439ae51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec981840664e033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Scratch Notes/Fields for Locations.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -192,12 +222,12 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Region.md",
+    "z_Templates/World Building/Settlement.md",
+    "2. Scratch Notes/Fields for Locations.md",
+    "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Place of Interest.md",
-    "2. Scratch Notes/Fields for Locations.md",
     "z_Templates/World Building/Leaflet Map.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",

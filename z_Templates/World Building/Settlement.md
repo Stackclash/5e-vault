@@ -68,14 +68,17 @@ TBD
 > ```
 
 ## Notable Locations
-**[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataview
 >  TABLE file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Eldoria/Places of Interest" OR "4. World Almanac/Eldoria/Settlements"
+>  FROM "4. World Almanac/Eldoria/Places of Interest"
 >  WHERE file.frontmatter.location = this.file.name OR file.frontmatter.region = this.file.name
 > ```
 
+## Shops
+[[Shops|Add New Shop]]
+> ```
+```
 
 ## History
 TBD
