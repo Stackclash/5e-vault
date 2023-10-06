@@ -248,7 +248,7 @@ columns:
       footer_type: none
       persist_changes: true
       asociated_relation_id: region
-      rollup_action: Summatory
+      rollup_action: Original Value
       rollup_key: world
 config:
   remove_field_when_delete_column: false

@@ -1,5 +1,7 @@
 ---
-location: Barovia
+settlement: Barovia
+region:
+  - "[[4. World Almanac/Eldoria/Regions/Barovia.md|Barovia]]"
 ---
 [[08 Chapter-6 Old Bonegrinder]]
 - Nearing the windmill there are no animal noises

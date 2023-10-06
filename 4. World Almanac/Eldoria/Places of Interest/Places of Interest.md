@@ -49,19 +49,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  location:
-    input: select
-    accessorKey: location
-    key: location
+  settlement:
+    input: relation
+    accessorKey: settlement
+    key: settlement
     id: location
-    label: Location
+    label: Settlement
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "Vallaki", value: "Vallaki", color: "hsl(274, 95%, 90%)"}
-      - { label: "Barovia", value: "Barovia", color: "hsl(83, 95%, 90%)"}
+    width: 157
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -71,6 +69,53 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      related_note_path: 4. World Almanac/Eldoria/Settlements/Settlements.md
+      relation_color: hsl(0,92%,63%)
+  region:
+    input: relation
+    accessorKey: region
+    key: region
+    id: location
+    label: Region
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 154
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Eldoria/Regions/Regions.md
+      relation_color: hsl(0,96%,61%)
+  settlement_world:
+    input: rollup
+    accessorKey: settlement_world
+    key: settlement_world
+    id: world
+    label: Settlement World
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 154
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      asociated_relation_id: settlement
+      rollup_action: Original Value
+      rollup_key: world
 config:
   remove_field_when_delete_column: false
   cell_size: normal

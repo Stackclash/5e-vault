@@ -6,7 +6,7 @@
       {
         "id": "59be4a322747ab47",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 53.79746835443038,
         "children": [
           {
             "id": "29b4c3cada28a26c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md"
+                "file": "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -35,7 +35,7 @@
       {
         "id": "c34e5c0c9439ae51",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 46.20253164556962,
         "children": [
           {
             "id": "2ec981840664e033",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md",
+                "file": "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md",
+                "file": "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Settlements/Settlements.md"
+                "file": "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -222,10 +222,13 @@
   },
   "active": "29b4c3cada28a26c",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",
+    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
+    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
+    "4. World Almanac/Eldoria/Shops/Shops.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
+    "4. World Almanac/Eldoria/Places of Interest/Places of Interest.md",
     "4. World Almanac/Eldoria/Eldoria.md",
     "z_Templates/World Building/Shop.md",
     "5. Mechanics/Items/Amber.md",
@@ -236,13 +239,10 @@
     "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
     "5. Mechanics/Items/Items.md",
     "z_Templates/World Building/Region.md",
-    "4. World Almanac/Eldoria/Shops/Shops.md",
     "2. Scratch Notes/Fields for Locations.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Leaflet Map.md",
-    "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
-    "4. World Almanac/Eldoria/Settlements/Vallaki.md",
     "4. World Almanac/Eldoria/Places of Interest/Wachterhaus.md",
     "4. World Almanac/Eldoria/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Eldoria/Places of Interest/Coffin Maker's Shop.md",
