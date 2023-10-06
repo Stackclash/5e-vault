@@ -230,28 +230,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  regions:
-    input: relation
-    accessorKey: regions
-    key: regions
-    id: regions
-    label: World
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Worlds/Untitled database.md
-      relation_color: hsl(0,96%,58%)
-      bidirectional_relation: true
 config:
   enable_show_state: false
   group_folder_column: 

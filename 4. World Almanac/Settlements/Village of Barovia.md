@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 mapmarker: village
 region:
-  - "[[4. World Almanac/Eldoria/Regions/Barovia.md|Barovia]]"
+  - "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 world: ""
 ---
 > [!infobox]

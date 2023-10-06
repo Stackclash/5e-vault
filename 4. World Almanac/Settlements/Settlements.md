@@ -206,48 +206,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  region:
-    input: relation
-    accessorKey: region
-    key: region
-    id: region
-    label: Region
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Eldoria/Regions/Regions.md
-      relation_color: hsl(0,100%,59%)
-  world:
-    input: rollup
-    accessorKey: world
-    key: world
-    id: world
-    label: World
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      asociated_relation_id: region
-      rollup_action: Original Value
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -278,4 +236,7 @@ config:
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
   enable_footer: false
   implementation: default
-filters
+filters:
+  enabled: false
+  conditions:
+```
