@@ -18,5 +18,8 @@ items:
 > | Location | `=this.location` |
 # `=this.file.name`
 ```dataviewjs
-
+let items = dv.current().items
+items = items.map(item => [item, 0])
+console.log(items)
+dv.table(["Item", "Cost"], items)
 ```
