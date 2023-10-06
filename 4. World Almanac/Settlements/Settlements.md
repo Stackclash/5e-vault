@@ -36,7 +36,7 @@ columns:
     key: pronounced
     id: pronounced
     label: Pronounced
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -55,7 +55,7 @@ columns:
     key: population
     id: population
     label: Population
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -74,7 +74,7 @@ columns:
     key: terrain
     id: terrain
     label: Terrain
-    position: 6
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -93,7 +93,7 @@ columns:
     key: government
     id: government
     label: Government
-    position: 7
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -132,7 +132,7 @@ columns:
     key: relgions
     id: relgions
     label: Relgions
-    position: 8
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -152,7 +152,7 @@ columns:
     key: defences
     id: defences
     label: Defences
-    position: 9
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -172,7 +172,7 @@ columns:
     key: Exports
     id: Exports
     label: Exports
-    position: 10
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -192,7 +192,7 @@ columns:
     key: Imports
     id: Imports
     label: Imports
-    position: 11
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -206,13 +206,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  region:
+  settlements:
     input: relation
-    accessorKey: region
-    key: region
+    accessorKey: settlements
+    key: settlements
     id: settlements
     label: Region
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1

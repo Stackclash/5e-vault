@@ -253,13 +253,13 @@ columns:
       related_note_path: 4. World Almanac/Worlds/Worlds.md
       relation_color: hsl(0,99%,62%)
       bidirectional_relation: true
-  region:
+  settlements:
     input: relation
-    accessorKey: region
-    key: region
+    accessorKey: settlements
+    key: settlements
     id: places_of_interest
-    label: Places of Interest
-    position: 4
+    label: Settlements
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -272,9 +272,32 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
+      related_note_path: 4. World Almanac/Settlements/Settlements.md
       relation_color: hsl(0,100%,63%)
       bidirectional_relation: true
+  region:
+    input: relation
+    accessorKey: region
+    key: region
+    id: places_of_interest
+    label: Places of Interest
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 150
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
+      bidirectional_relation: true
+      relation_color: hsl(0,100%,61%)
 config:
   enable_show_state: false
   group_folder_column: 
