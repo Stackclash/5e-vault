@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,10 +66,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Martikov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Shop.md"
+                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
               }
             }
           },
@@ -210,8 +210,10 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
-    "z_Templates/World Building/Settlement.md",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "z_Templates/World Building/Shop.md",
+    "z_Templates/World Building/Settlement.md",
     "5. Mechanics/Items/Items.md",
     "z_Templates/World Building/Region.md",
     "4. World Almanac/Eldoria/Shops/Shops.md",
@@ -232,10 +234,8 @@
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
     "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
     "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
-    "3. The Party/2. Session Logs/Secrets in the Dark.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",
