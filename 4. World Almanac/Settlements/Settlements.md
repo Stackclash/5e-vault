@@ -252,6 +252,28 @@ columns:
       related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
       relation_color: hsl(0,97%,57%)
       bidirectional_relation: true
+  world:
+    input: rollup
+    accessorKey: world
+    key: world
+    id: world
+    label: World
+    position: 12
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      asociated_relation_id: settlements
+      rollup_action: Original Value
+      rollup_key: world
 config:
   remove_field_when_delete_column: false
   cell_size: normal

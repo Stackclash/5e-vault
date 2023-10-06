@@ -1,6 +1,7 @@
 ---
 world: ""
 places_of_interest: ""
+region_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 ---
 region:: 
 region::  [[4. World Almanac/Regions/Barovia.md|Barovia]]

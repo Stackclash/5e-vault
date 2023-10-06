@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 mapmarker: village
-world: ""
+world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 region: ""
 ---
 settlements:: [[4. World Almanac/Regions/Barovia.md|Barovia]]

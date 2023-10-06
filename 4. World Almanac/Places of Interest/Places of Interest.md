@@ -93,6 +93,50 @@ columns:
       related_note_path: 4. World Almanac/Settlements/Settlements.md
       relation_color: hsl(0,97%,57%)
       bidirectional_relation: true
+  settlement_world:
+    input: rollup
+    accessorKey: settlement_world
+    key: settlement_world
+    id: settlement_world
+    label: settlement_world
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      asociated_relation_id: settlement
+      rollup_action: Original Value
+      rollup_key: world
+  region_world:
+    input: rollup
+    accessorKey: region_world
+    key: region_world
+    id: region_world
+    label: region_world
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      asociated_relation_id: region
+      rollup_action: Original Value
+      rollup_key: world
 config:
   remove_field_when_delete_column: false
   cell_size: normal
