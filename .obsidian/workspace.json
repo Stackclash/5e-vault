@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md"
+                "file": "4. World Almanac/Shops/Shops.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md",
+                "file": "4. World Almanac/Shops/Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md",
+                "file": "4. World Almanac/Shops/Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md"
+                "file": "4. World Almanac/Shops/Shops.md"
               }
             }
           },
@@ -204,8 +204,13 @@
   },
   "active": "7c2e1abac185d09c",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Worlds/Eldoria.md",
@@ -218,13 +223,8 @@
     "4. World Almanac/Shops",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Settlements",
     "4. World Almanac/Regions",
-    "4. World Almanac/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Places of Interest",
     "4. World Almanac/NPCs/Yevgeni Krushkin.md",
     "4. World Almanac/NPCs/Victor Vallakovich.md",
