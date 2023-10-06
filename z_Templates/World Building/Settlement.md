@@ -71,7 +71,7 @@ TBD
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataview
 >  TABLE WITHOUT ID file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Eldoria/Places of Interest"
+>  FROM "4. World Almanac/Places of Interest"
 >  WHERE file.frontmatter.location = this.file.name
 > ```
 
@@ -79,7 +79,7 @@ TBD
 **[[Shops|Add New Shop]]**
 > ```dataview
 > TABLE WITHOUT ID file.name as "Name", file.frontmatter.items as "Items"
-> FROM "4. World Almanac/Eldoria/Shops"
+> FROM "4. World Almanac/Shops"
 > WHERE file.frontmatter.location = this.file.name
 > ```
 

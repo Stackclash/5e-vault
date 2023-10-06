@@ -98,11 +98,12 @@ columns:
     accessorKey: settlement_world
     key: settlement_world
     id: settlement_world
-    label: settlement_world
+    label: Settlement World
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 138
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -120,7 +121,30 @@ columns:
     accessorKey: region_world
     key: region_world
     id: region_world
-    label: region_world
+    label: Region World
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 174
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      asociated_relation_id: region
+      rollup_action: Original Value
+      rollup_key: world
+  world:
+    input: formula
+    accessorKey: world
+    key: world
+    id: world
+    label: World
     position: 100
     skipPersist: false
     isHidden: false
@@ -134,9 +158,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: true
-      asociated_relation_id: region
-      rollup_action: Original Value
-      rollup_key: world
+      formula_query: ${row.settlement_world || row.region_world}
+      formula_persist_type: text
 config:
   remove_field_when_delete_column: false
   cell_size: normal
