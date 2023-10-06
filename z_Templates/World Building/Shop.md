@@ -5,6 +5,8 @@ staff:
 cost_modifier: 
 location: 
 items:
+  - Alchemy Jug
+  - Amber
 ---
 
 > [!infobox]
@@ -15,7 +17,6 @@ items:
 > | Staff | `=this.staff` |
 > | Location | `=this.location` |
 # `=this.file.name`
-> ```dataview
-> TABLE this.file.frontmatter.items
-> FROM this.file
-> ```
+```dataviewjs
+
+```

@@ -10,6 +10,7 @@
     "population": "number",
     "alias": "text",
     "exports": "multitext",
-    "imports": "multitext"
+    "imports": "multitext",
+    "items": "multitext"
   }
 }
