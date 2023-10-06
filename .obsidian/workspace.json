@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c34e5c0c9439ae51",
+        "id": "9b43911993ace17a",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec981840664e033",
+            "id": "7c2e1abac185d09c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
-                "mode": "source",
-                "source": false
+                "file": "4. World Almanac/Settlements/Settlements.md"
               }
             }
           }
@@ -51,7 +49,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -61,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
     "id": "68a7579a19bc6383",
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
+                "file": "4. World Almanac/Settlements/Settlements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
+                "file": "4. World Almanac/Settlements/Settlements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md"
+                "file": "4. World Almanac/Settlements/Settlements.md"
               }
             }
           },
@@ -126,14 +124,6 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef34cacf567e1afa",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
               "state": {}
             }
           },
@@ -156,15 +146,37 @@
             }
           },
           {
-            "id": "a5234f9b60b56dd7",
+            "id": "92118adc8da6f9c6",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "a935de75015b7bf2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
+      },
+      {
+        "id": "87d98b24f802d020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37cf6a24cb5cd52e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,10 +185,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-custom-frames:Open DnDBBriana": false,
       "obsidian-custom-frames:Open DnDBHolly": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-custom-frames:Open DnDBGeorge": false,
@@ -186,35 +197,34 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "2ec981840664e033",
+  "active": "7c2e1abac185d09c",
   "lastOpenFiles": [
-    "z_Templates/World Building/Settlement.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Worlds/Eldoria.md",
+    "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
-    "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
-    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Worlds",
     "4. World Almanac/Shops/Shops.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/Eldoria/Regions",
-    "4. World Almanac/Eldoria",
-    "5. Mechanics/Items/Amber.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "4. World Almanac/Shops",
+    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Settlements",
     "4. World Almanac/Regions",
+    "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "4. World Almanac/Places of Interest",
     "4. World Almanac/NPCs/Yevgeni Krushkin.md",
     "4. World Almanac/NPCs/Victor Vallakovich.md",
@@ -223,21 +233,23 @@
     "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
     "4. World Almanac/NPCs/Strahd von Zarovich.md",
     "4. World Almanac/NPCs/Rictavio.md",
+    "4. World Almanac/NPCs/Nikolai Wachter.md",
     "4. World Almanac/NPCs/NPCs.md",
     "4. World Almanac/NPCs",
     "4. World Almanac/Groups",
-    "4. World Almanac/Worlds",
     "4. World Almanac/Eldoria/Shops",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - No Mist Gridless [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Night Gridless [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - Forest - Tree Transparency [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - Forest [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area H_ Tser Falls/Tser Inn/Svalich Road Inn - On Fire - Gridless [27x31 sq - Res 1780x2040].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless 4k [20x20 sq - Res 4096x4096].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 2 - Lands of Barovia Maps/Area A_ Old Svalich Road/Old Svalich Road 1/Old Svalich Road 1 - Gridless [20x20 sq - Res 2048x2048].jpg",
-    "6. Resources/Resources/Curse of Strahd Companion/Maps/CoS 0 - Death House Prologue Maps/Caravans - Tree Transparency Gridless [30x40 sq - 1536x2048].jpg",
+    "4. World Almanac/Eldoria/Settlements",
+    "4. World Almanac/Eldoria/Regions",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (DM).png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Leo_s_House.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Homes.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Exterior.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Map_-_Forest_Fane_Hut.PNG",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Item_Card_-_Tome_of_Strahd.png",
+    "6. Resources/Resources/The Interactive Tome of Strahd/1673380-Handout_-_News_of_ravenovias_death.png",
     "Untitled.canvas"
   ]
 }
