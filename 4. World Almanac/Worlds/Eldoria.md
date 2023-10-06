@@ -1,7 +1,7 @@
 ---
 regions: ""
 ---
-world:: 
+world:: [[4. World Almanac/Regions/Barovia.md|Barovia]]
 # Configuration
 ## Party
 **active_party**:: [[Curse of Strahd]]

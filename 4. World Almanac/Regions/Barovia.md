@@ -4,7 +4,10 @@ government: Monarchy
 rulers:
   - "[[4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
 regions: ""
+settlements: ""
 ---
+region::  [[4. World Almanac/Settlements/Vallaki.md|Vallaki]], [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
+world:: [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -49,116 +49,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  settlement:
-    input: relation
-    accessorKey: settlement
-    key: settlement
-    id: location
-    label: Settlement
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 157
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Eldoria/Settlements/Settlements.md
-      relation_color: hsl(0,92%,63%)
   region:
     input: relation
     accessorKey: region
     key: region
-    id: location
+    id: places_of_interest
     label: Region
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 154
     config:
       enable_media_view: true
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: false
+      isInline: true
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: 4. World Almanac/Eldoria/Regions/Regions.md
-      relation_color: hsl(0,96%,61%)
-  settlement_world:
-    input: rollup
-    accessorKey: settlement_world
-    key: settlement_world
-    id: world
-    label: Settlement World
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 221
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: true
-      asociated_relation_id: settlement
-      rollup_action: Original Value
-      rollup_key: world
-  region_world:
-    input: rollup
-    accessorKey: region_world
-    key: region_world
-    id: region_world
-    label: Region World
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      asociated_relation_id: region
-      rollup_action: Original Value
-      rollup_key: world
-  world:
-    input: formula
-    accessorKey: world
-    key: world
-    id: world
-    label: World
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: true
-      formula_query: ${row.settlement_world || row.region_world}
-      formula_persist_type: text
+      related_note_path: 4. World Almanac/Regions/Regions.md
+      relation_color: hsl(0,100%,63%)
+      bidirectional_relation: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal

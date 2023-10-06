@@ -3,7 +3,9 @@ obsidianUIMode: preview
 region:
   - "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 world: ""
+settlements: ""
 ---
+region::  [[4. World Almanac/Regions/Barovia.md|Barovia]]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"

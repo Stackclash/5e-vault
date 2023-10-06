@@ -206,6 +206,29 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  region:
+    input: relation
+    accessorKey: region
+    key: region
+    id: settlements
+    label: Region
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 120
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Regions/Regions.md
+      relation_color: hsl(0,99%,61%)
+      bidirectional_relation: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
