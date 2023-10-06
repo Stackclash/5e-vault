@@ -5,7 +5,6 @@ staff:
 cost_modifier: 
 location: 
 items:
-  - Alchemy Jug
   - Amber
 ---
 
