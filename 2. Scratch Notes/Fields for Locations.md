@@ -40,6 +40,7 @@
 - Staff
 - Cost Modifier
 - Static Items
+- Location
 ## Sections
 - Items for sale
 - Item Generator?

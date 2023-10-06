@@ -72,13 +72,16 @@ TBD
 > ```dataview
 >  TABLE file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Eldoria/Places of Interest"
->  WHERE file.frontmatter.location = this.file.name OR file.frontmatter.region = this.file.name
+>  WHERE file.frontmatter.location = this.file.name
 > ```
 
 ## Shops
-[[Shops|Add New Shop]]
+**[[Shops|Add New Shop]]**
+> ```dataview
+> TABLE file.name as "Name", file.frontmatter.items as "Items"
+> FROM "4. World Almanac/Eldoria/Shops"
+> WHERE file.frontmatter.location = this.file.name
 > ```
-```
 
 ## History
 TBD
