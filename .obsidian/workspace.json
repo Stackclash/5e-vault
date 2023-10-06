@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Eldoria.md",
+                "file": "z_Templates/World Building/Shop.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Eldoria/Eldoria.md",
+                "file": "z_Templates/World Building/Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Eldoria/Eldoria.md",
+                "file": "z_Templates/World Building/Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Eldoria/Eldoria.md"
+                "file": "z_Templates/World Building/Shop.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "4. World Almanac/Eldoria/Eldoria.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
     "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Settlement.md",
