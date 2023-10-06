@@ -87,7 +87,7 @@ const config = {
                 let separator = file.path.match(/[\/\\]/)
 
                 if (new RegExp(/([\w\s]+)[\/\\]\1/).test(`${file.relativePath}${separator}${file.fileName}`)) {
-                    fileContent = `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${file.relativePath.replace(/\/$/, "")}" WHERE file.name != this.file.name\n\`\`\``
+                    fileContent = `---\nobsidianUIMode: preview\n---\n\`\`\`dataview\nLIST FROM "${file.relativePath.replace(/[\/\\]$/, "").replaceAll(/\\/g, "/")}" WHERE file.name != this.file.name\n\`\`\``
                 }
 
                 return fileContent
