@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
-                "mode": "preview",
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md"
+                "file": "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "08ea0dbdee183beb",
   "lastOpenFiles": [
+    "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
+    "5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md",
+    "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Campaign Preparation.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
@@ -238,9 +241,6 @@
     "4. World Almanac/Eldoria/Settlements/Vallaki.md",
     "4. World Almanac/Eldoria/NPCs/NPCs.md",
     "z_Templates/World Building/Shop.md",
-    "z_Templates/World Building/Region.md",
-    "4. World Almanac/Eldoria/Shops/Blue Water Inn.md",
-    "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Settlements",
     "4. World Almanac/Eldoria/Regions",
