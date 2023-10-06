@@ -1,5 +1,5 @@
 # Configuration
 ## Party
-active_party:: Curst of Strahd
+**active_party**:: [[Curse of Strahd]]
 
 ## Economics

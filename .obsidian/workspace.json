@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8e1a6050f6589c5",
+            "id": "29b4c3cada28a26c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
-                "mode": "source",
+                "file": "5. Mechanics/Tables/Travel Pace.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "5. Mechanics/Tables/Travel Pace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Shop.md",
+                "file": "5. Mechanics/Tables/Travel Pace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Shop.md"
+                "file": "5. Mechanics/Tables/Travel Pace.md"
               }
             }
           },
@@ -208,11 +208,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8e1a6050f6589c5",
+  "active": "29b4c3cada28a26c",
   "lastOpenFiles": [
-    "4. World Almanac/Eldoria/Eldoria.md",
-    "z_Templates/World Building/Shop.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "z_Templates/World Building/Shop.md",
+    "4. World Almanac/Eldoria/Eldoria.md",
     "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
     "z_Templates/World Building/Settlement.md",
     "5. Mechanics/Items/Items.md",

@@ -26,4 +26,6 @@ dv.table(["Item", "Quantity", "Cost"], items)
 ```
 
 
-`=[[[[Eldoria]].active_party]].blah`
+`=[[Eldoria]].active_party`
+
+

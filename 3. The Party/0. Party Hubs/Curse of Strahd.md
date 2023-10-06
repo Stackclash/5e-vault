@@ -64,4 +64,3 @@ COS
 # Configuration
 
 ## Travel
-blah:: hello world
