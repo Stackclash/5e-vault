@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
-                "mode": "preview",
+                "file": "4. World Almanac/Eldoria/Eldoria.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "4. World Almanac/Eldoria/Eldoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md",
+                "file": "4. World Almanac/Eldoria/Eldoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/0. Party Hubs/Curse of Strahd.md"
+                "file": "4. World Almanac/Eldoria/Eldoria.md"
               }
             }
           },
@@ -210,8 +210,9 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "4. World Almanac/Eldoria/Eldoria.md",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Settlement.md",
     "5. Mechanics/Items/Items.md",
@@ -235,7 +236,6 @@
     "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
     "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
     "3. The Party/2. Session Logs/Knowing the Road.md",
-    "3. The Party/2. Session Logs/2. Session Logs.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",
