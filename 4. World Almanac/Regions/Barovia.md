@@ -3,7 +3,6 @@ obsidianUIMode: preview
 government: Monarchy
 rulers:
   - "[[4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
-world: Eldoria
 ---
 > [!infobox]
 > # `=this.file.name`
