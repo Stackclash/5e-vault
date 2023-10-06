@@ -64,3 +64,7 @@ COS
 # Configuration
 
 ## Travel
+[[Travel Pace]]
+**minutes_per_mile**:: 
+**exhaustion_level**:: 
+**hours_per_day**:: 

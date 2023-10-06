@@ -11,11 +11,9 @@
             "id": "29b4c3cada28a26c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "5. Mechanics/Tables/Travel Pace.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/Untitled database.md"
               }
             }
           }
@@ -79,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "68a7579a19bc6383",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Mechanics/Tables/Travel Pace.md",
+                "file": "4. World Almanac/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Mechanics/Tables/Travel Pace.md",
+                "file": "4. World Almanac/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Mechanics/Tables/Travel Pace.md"
+                "file": "4. World Almanac/Untitled database.md"
               }
             }
           },
@@ -210,11 +208,14 @@
   },
   "active": "29b4c3cada28a26c",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "z_Templates/World Building/Shop.md",
     "4. World Almanac/Eldoria/Eldoria.md",
-    "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
+    "4. World Almanac/Untitled database.md",
+    "4. World Almanac/Eldoria/Regions/Regions.md",
     "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Shop.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "5. Mechanics/Tables/Travel Pace.md",
+    "6. Resources/Books/Van Richtens Guide To Ravenloft/3 Creating Domains Of Dread.md",
     "5. Mechanics/Items/Items.md",
     "z_Templates/World Building/Region.md",
     "4. World Almanac/Eldoria/Shops/Shops.md",
@@ -222,7 +223,6 @@
     "conflict-files-obsidian-git.md",
     "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Leaflet Map.md",
-    "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Settlements/Settlements.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Eldoria/Settlements/Village of Barovia.md",
@@ -234,8 +234,6 @@
     "4. World Almanac/Eldoria/Places of Interest/Burgomaster's Mansion.md",
     "z_Templates/World Building/Leaflet Bounds Calculator.md",
     "4. World Almanac/Eldoria/Shops/Blinksy Toys.md",
-    "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",

@@ -3,3 +3,4 @@
 **active_party**:: [[Curse of Strahd]]
 
 ## Economics
+**economic_scale**:: .5
