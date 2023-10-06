@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 pronounced: 
-location:
+region: 
+settlement: 
+world:
 ---
 
 > [!infobox]

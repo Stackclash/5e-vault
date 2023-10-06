@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Settlement.md",
-                "mode": "preview",
+                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -22,16 +22,18 @@
         ]
       },
       {
-        "id": "fb813f352dc548bf",
+        "id": "264240e6d9fc4609",
         "type": "tabs",
         "children": [
           {
-            "id": "39970d8c4c61ca9f",
+            "id": "7b386abd287d282f",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md"
+                "file": "z_Templates/World Building/Place of Interest.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md",
+                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md",
+                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md"
+                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md"
               }
             }
           },
@@ -220,24 +222,26 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "39970d8c4c61ca9f",
+  "active": "e279bc38cdcb3e64",
   "lastOpenFiles": [
-    "4. World Almanac/Settlements/Vallaki.md",
-    "4. World Almanac/Settlements/Settlements.md",
+    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Worlds/Eldoria.md",
+    "4. World Almanac/Worlds/Worlds.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
+    "z_Templates/World Building/Place of Interest.md",
+    "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Settlement.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Regions/Regions.md",
-    "z_Templates/World Building/Region.md",
-    "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Barovia.md",
     "z_Templates/World Building/Shop.md",
     "4. World Almanac/Shops/Shops.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "4. World Almanac/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
-    "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/Regions/Barovia.md",
     "4. World Almanac/Worlds",
@@ -251,8 +255,6 @@
     "4. World Almanac/NPCs/Victor Vallakovich.md",
     "4. World Almanac/NPCs/Vargas Vallakovich.md",
     "4. World Almanac/NPCs/Urwin Martikov.md",
-    "4. World Almanac/NPCs/Szoldar Szoldarovich.md",
-    "4. World Almanac/NPCs/Strahd von Zarovich.md",
     "4. World Almanac/NPCs",
     "4. World Almanac/Groups",
     "4. World Almanac/Eldoria/Shops",

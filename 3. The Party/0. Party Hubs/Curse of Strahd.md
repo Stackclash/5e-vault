@@ -65,6 +65,6 @@ COS
 
 ## Travel
 [[Travel Pace]]
-**minutes_per_mile**:: 
+**minutes_per_mile**:: 60
 **exhaustion_level**:: 
 **hours_per_day**:: 

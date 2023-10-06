@@ -206,29 +206,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  settlement:
-    input: relation
-    accessorKey: settlement
-    key: settlement
-    id: places_of_interest
-    label: Places of Interest
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 231
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
-      relation_color: hsl(0,97%,57%)
-      bidirectional_relation: true
   world:
     input: rollup
     accessorKey: world
@@ -273,6 +250,29 @@ columns:
       persist_changes: false
       related_note_path: 4. World Almanac/Regions/Regions.md
       relation_color: hsl(0,99%,61%)
+      bidirectional_relation: true
+  settlement:
+    input: relation
+    accessorKey: settlement
+    key: settlement
+    id: places_of_interest
+    label: Places of Interest
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 231
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
+      relation_color: hsl(0,97%,57%)
       bidirectional_relation: true
 config:
   remove_field_when_delete_column: false

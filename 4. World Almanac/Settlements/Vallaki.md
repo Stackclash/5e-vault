@@ -7,8 +7,8 @@ places_of_interest:
   - "[[Wachterhaus]]"
   - "[[Burgomaster's Mansion]]"
 settlements: ""
+settlement: ""
 ---
-settlement:: [[4. World Almanac/Places of Interest/Burgomaster's Mansion.md|Burgomaster's Mansion]], [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]], [[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
