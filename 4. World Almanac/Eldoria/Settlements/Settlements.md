@@ -74,7 +74,7 @@ columns:
     key: terrain
     id: terrain
     label: Terrain
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -93,7 +93,7 @@ columns:
     key: government
     id: government
     label: Government
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -132,7 +132,7 @@ columns:
     key: relgions
     id: relgions
     label: Relgions
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -152,7 +152,7 @@ columns:
     key: defences
     id: defences
     label: Defences
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -172,7 +172,7 @@ columns:
     key: Exports
     id: Exports
     label: Exports
-    position: 9
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -192,7 +192,7 @@ columns:
     key: Imports
     id: Imports
     label: Imports
-    position: 10
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -207,7 +207,7 @@ columns:
       footer_type: none
       persist_changes: false
   region:
-    input: select
+    input: relation
     accessorKey: region
     key: region
     id: region
@@ -216,8 +216,6 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "Barovia", value: "Barovia", color: "hsl(232, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -227,7 +225,31 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
+      related_note_path: 4. World Almanac/Eldoria/Regions/Regions.md
+      relation_color: hsl(0,100%,59%)
+  world:
+    input: rollup
+    accessorKey: world
+    key: world
+    id: world
+    label: world
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 148
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      asociated_relation_id: region
+      rollup_action: Summatory
+      rollup_key: world
 config:
   remove_field_when_delete_column: false
   cell_size: normal
