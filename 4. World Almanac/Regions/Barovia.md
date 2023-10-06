@@ -6,9 +6,10 @@ rulers:
 regions: ""
 region: ""
 places_of_interest: ""
+settlements: ""
 ---
 region::  [[4. World Almanac/Places of Interest/Old BoneGrinder.md|Old BoneGrinder]]
-settlements:: [[4. World Almanac/Settlements/Vallaki.md|Vallaki]], [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
+region::  [[4. World Almanac/Settlements/Vallaki.md|Vallaki]], [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
 world:: [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
 
 > [!infobox]

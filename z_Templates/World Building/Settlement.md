@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 pronounced: 
 region: 
+places_of_interest: 
 population: 
 terrain: 
 government: 

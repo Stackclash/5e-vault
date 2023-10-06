@@ -1,11 +1,14 @@
 ---
 obsidianUIMode: preview
-alias: 
+aliases: 
 pronounced: 
 rulers: 
 population: 
 government: 
-army:
+army: 
+world: 
+settlements: 
+places_of_interest:
 ---
 > [!infobox]
 > # `=this.file.name`

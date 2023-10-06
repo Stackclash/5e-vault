@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 mapmarker: village
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-region: ""
+region: "[[Barovia]]"
 ---
-settlements:: [[4. World Almanac/Regions/Barovia.md|Barovia]]
+region::  [[4. World Almanac/Regions/Barovia.md|Barovia]]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"

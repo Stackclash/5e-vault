@@ -1,11 +1,14 @@
 ---
 obsidianUIMode: preview
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-region: ""
-places_of_interest: ""
+region: "[[Barovia]]"
+places_of_interest:
+  - "[[Coffin Maker's Shop]]"
+  - "[[Wachterhaus]]"
+  - "[[Burgomaster's Mansion]]"
+settlements: ""
 ---
-settlements:: [[4. World Almanac/Regions/Barovia.md|Barovia]]
-settlement:: [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]], [[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]], [[4. World Almanac/Places of Interest/Burgomaster's Mansion.md|Burgomaster's Mansion]], [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]
+settlement:: [[4. World Almanac/Places of Interest/Burgomaster's Mansion.md|Burgomaster's Mansion]], [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]], [[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
