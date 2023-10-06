@@ -36,7 +36,7 @@ columns:
     key: pronounced
     id: pronounced
     label: Pronounced
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -55,7 +55,7 @@ columns:
     key: population
     id: population
     label: Population
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -74,7 +74,7 @@ columns:
     key: terrain
     id: terrain
     label: Terrain
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -93,7 +93,7 @@ columns:
     key: government
     id: government
     label: Government
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -132,7 +132,7 @@ columns:
     key: relgions
     id: relgions
     label: Relgions
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -152,7 +152,7 @@ columns:
     key: defences
     id: defences
     label: Defences
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -172,7 +172,7 @@ columns:
     key: Exports
     id: Exports
     label: Exports
-    position: 9
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -192,7 +192,7 @@ columns:
     key: Imports
     id: Imports
     label: Imports
-    position: 10
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -228,6 +228,29 @@ columns:
       persist_changes: false
       related_note_path: 4. World Almanac/Regions/Regions.md
       relation_color: hsl(0,99%,61%)
+      bidirectional_relation: true
+  settlement:
+    input: relation
+    accessorKey: settlement
+    key: settlement
+    id: places_of_interest
+    label: Places of Interest
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 231
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
+      relation_color: hsl(0,97%,57%)
       bidirectional_relation: true
 config:
   remove_field_when_delete_column: false

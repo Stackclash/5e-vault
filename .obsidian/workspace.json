@@ -14,7 +14,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Settlements.md"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -211,9 +211,10 @@
   "active": "aca57b331501e5cf",
   "lastOpenFiles": [
     "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Worlds/Worlds.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Settlements/Vallaki.md",
@@ -221,7 +222,6 @@
     "4. World Almanac/Eldoria/Regions",
     "4. World Almanac/Eldoria",
     "5. Mechanics/Items/Amber.md",
-    "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Blinksy Toys.md",
     "4. World Almanac/Shops",
