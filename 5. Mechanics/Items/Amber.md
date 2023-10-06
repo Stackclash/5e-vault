@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+  - json5e-item
 tags:
-- compendium/src/5e/dmg
-- item/wealth
-aliases: ["Amber"]
+  - compendium/src/5e/dmg
+  - item/wealth
+aliases:
+  - Amber
+cost: 100
 ---
 # Amber
 *Treasure*  
