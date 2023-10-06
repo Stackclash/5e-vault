@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a52604a094d14377",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab9d3795384ab3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Scratch Notes/Fields for Locations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +192,11 @@
   },
   "active": "f8e1a6050f6589c5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Shop.md",
     "z_Templates/World Building/Place of Interest.md",
-    "z_Templates/World Building/Settlement.md",
     "2. Scratch Notes/Fields for Locations.md",
     "z_Templates/World Building/Leaflet Map.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
@@ -235,7 +218,6 @@
     "3. The Party/2. Session Logs/2. Session Logs.md",
     "3. The Party/2. Session Logs/Secrets in the Dark.md",
     "3. The Party/2. Session Logs/Never Trust a Hunter.md",
-    "3. The Party/2. Session Logs/Welcome to Barovia.md",
     "4. World Almanac/Eldoria/Shops",
     "4. World Almanac/Eldoria/Places of Interest",
     "4. World Almanac/Eldoria/Settlements",
