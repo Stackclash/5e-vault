@@ -13,6 +13,8 @@
     "imports": "multitext",
     "places_of_interest": "multitext",
     "economic_scale": "number",
-    "hours_per_day": "number"
+    "hours_per_day": "number",
+    "regions": "multitext",
+    "world": "multitext"
   }
 }

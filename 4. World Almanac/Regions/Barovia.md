@@ -3,15 +3,8 @@ obsidianUIMode: preview
 government: Monarchy
 rulers:
   - "[[4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
-regions: ""
-places_of_interest: ""
-settlements: ""
+world:
 ---
-world:: [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
-region:: [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
-region:: [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
-regions::  [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
