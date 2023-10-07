@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md"
+                "file": "4. World Almanac/Worlds/Worlds.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md",
+                "file": "4. World Almanac/Worlds/Worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md",
+                "file": "4. World Almanac/Worlds/Worlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Regions.md"
+                "file": "4. World Almanac/Worlds/Worlds.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "417012e238ecdbce",
   "lastOpenFiles": [
-    "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Worlds/Worlds.md",
