@@ -1,10 +1,10 @@
 ---
-regions: ""
+economic_scale: 
 ---
 world:: [[4. World Almanac/Regions/Barovia.md|Barovia]]
+active_party:: [[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]]
 # Configuration
 ## Party
-**active_party**:: [[Curse of Strahd]]
+
 
 ## Economics
-**economic_scale**:: .5

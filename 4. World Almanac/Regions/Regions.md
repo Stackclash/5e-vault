@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 11
+    position: 10
     isHidden: false
     sortIndex: -1
     config:
@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 12
+    position: 11
     isHidden: false
     sortIndex: -1
     config:
@@ -86,7 +86,7 @@ columns:
     accessor: Pronounced
     key: Pronounced
     label: Pronounced
-    position: 6
+    position: 3
     skipPersist: false
     accessorKey: Pronounced
     isHidden: false
@@ -108,7 +108,7 @@ columns:
     key: Population
     id: Population
     label: Population
-    position: 7
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -126,7 +126,7 @@ columns:
     accessor: GovtType
     key: government
     label: Government
-    position: 9
+    position: 8
     skipPersist: false
     accessorKey: government
     isHidden: false
@@ -167,7 +167,7 @@ columns:
     accessor: Defences
     key: army
     label: Army
-    position: 10
+    position: 9
     skipPersist: false
     accessorKey: army
     isHidden: false
@@ -196,7 +196,7 @@ columns:
     key: rulers
     id: rulers
     label: Rulers
-    position: 8
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -217,7 +217,7 @@ columns:
     key: alias
     id: alias
     label: Alias
-    position: 5
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -230,6 +230,65 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  settlements:
+    input: relation
+    accessorKey: settlements
+    key: settlements
+    id: settlements
+    label: Settlements
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  places_of_interest:
+    input: relation
+    accessorKey: places_of_interest
+    key: places_of_interest
+    id: places_of_interest
+    label: Places of Interest
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  world:
+    input: rollup
+    accessorKey: world
+    key: world
+    id: world
+    label: world
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      asociated_relation_id: 
+      rollup_action: Original Value
 config:
   enable_show_state: false
   group_folder_column: 
