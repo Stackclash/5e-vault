@@ -50,7 +50,7 @@ columns:
       footer_type: none
       persist_changes: false
   population:
-    input: text
+    input: number
     accessorKey: population
     key: population
     id: population

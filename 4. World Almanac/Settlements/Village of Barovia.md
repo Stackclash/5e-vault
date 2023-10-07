@@ -1,8 +1,6 @@
 ---
 obsidianUIMode: preview
 mapmarker: village
-world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-region: "[[Barovia]]"
 ---
 > [!infobox]
 > # `=this.file.name`

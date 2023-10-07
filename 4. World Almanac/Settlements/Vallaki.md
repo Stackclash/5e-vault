@@ -1,13 +1,5 @@
 ---
 obsidianUIMode: preview
-world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-region: "[[Barovia]]"
-places_of_interest:
-  - "[[Coffin Maker's Shop]]"
-  - "[[Wachterhaus]]"
-  - "[[Burgomaster's Mansion]]"
-settlements: ""
-settlement: ""
 ---
 > [!infobox]
 > # `=this.file.name`
