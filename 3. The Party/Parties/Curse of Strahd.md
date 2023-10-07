@@ -6,7 +6,7 @@ hours_per_day:
 ---
 # `=this.file.name`
 ## **Characters**
-### **[[1. Players|Edit Players]]**
+### **[[Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID
@@ -15,42 +15,42 @@ TABLE WITHOUT ID
 >	race AS "Race",
 >	condition AS "Condition",
 >	location AS "Location"
->	FROM "3. The Party/1. Players"
+>	FROM "3. The Party/Players"
 >	WHERE party = this.file.name
 >SORT file.name asc
 >```
 
 ## **Session Log**
-### **[[2. Session Logs|New Session Log]]**
+### **[[Session Logs|New Session Log]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "3. The Party/2. Session Logs"
-> WHERE Party = this.file.name
+> FROM "3. The Party/Session Logs"
+> WHERE party = this.file.name
 > SORT file.frontmatter.date DESC
 >```
 
 ## **Quests**
-### **[[3. Quests| New Quest]]**
+### **[[Quests| New Quest]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "3. The Party/3. Quests"
+> FROM "3. The Party/Quests"
 > WHERE party = this.file.name AND active AND !side-quest
 >SORT file.name asc
 >```
 
-### **[[3. Quests| New Side Quest]]**
+### **[[Quests| New Side Quest]]**
 > [!cards|dataview 3]
 >```dataview
 TABLE WITHOUT ID
 >	link(file.path, name) AS "Name",
 >	summary
-> FROM "3. The Party/3. Quests"
+> FROM "3. The Party/Quests"
 > WHERE party = this.file.name AND active AND side-quest
 >SORT file.name asc
 >```

@@ -247,7 +247,7 @@ columns:
       persist_changes: false
       option_source: manual
   party:
-    input: select
+    input: relation
     accessorKey: party
     key: party
     id: Party
@@ -257,8 +257,6 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 188
-    options:
-      - { label: "Curse of Strahd", value: "Curse of Strahd", color: "hsl(46, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -268,7 +266,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

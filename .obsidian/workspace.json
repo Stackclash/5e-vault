@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Parties/Parties.md"
+                "file": "3. The Party/Players/Players.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Parties/Parties.md",
+                "file": "3. The Party/Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Parties/Parties.md",
+                "file": "3. The Party/Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Parties.md"
+                "file": "3. The Party/Players/Players.md"
               }
             }
           },
@@ -204,11 +204,11 @@
   },
   "active": "417012e238ecdbce",
   "lastOpenFiles": [
+    "3. The Party/Session Logs/Session Logs.md",
+    "3. The Party/Quests/Quests.md",
+    "3. The Party/Players/Players.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Quests/Quests.md",
-    "3. The Party/Session Logs/Session Logs.md",
     "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Worlds/Worlds.md",

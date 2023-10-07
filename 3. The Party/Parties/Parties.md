@@ -40,6 +40,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 137
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -54,12 +55,31 @@ columns:
     accessorKey: exhaustion_level
     key: exhaustion_level
     id: exhaustion_level
-    label: exhaustion_level
+    label: Exhaustion Level
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
     width: 174
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  miles_per_day:
+    input: number
+    accessorKey: miles_per_day
+    key: miles_per_day
+    id: miles_per_day
+    label: Miles Per Day
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
