@@ -269,11 +269,11 @@ columns:
       footer_type: none
       persist_changes: false
   world:
-    input: rollup
+    input: relation
     accessorKey: world
     key: world
-    id: world
-    label: world
+    id: regions
+    label: World
     position: 100
     skipPersist: false
     isHidden: false
@@ -283,12 +283,13 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: false
+      isInline: true
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      asociated_relation_id: 
-      rollup_action: Original Value
+      related_note_path: 4. World Almanac/Worlds/Worlds.md
+      relation_color: hsl(0,94%,59%)
+      bidirectional_relation: false
 config:
   enable_show_state: false
   group_folder_column: 

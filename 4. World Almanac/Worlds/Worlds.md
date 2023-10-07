@@ -35,7 +35,7 @@ columns:
     accessorKey: active_party
     key: active_party
     id: active_party
-    label: active_party
+    label: Active Party
     position: 100
     skipPersist: false
     isHidden: false
@@ -57,7 +57,7 @@ columns:
     accessorKey: economic_scale
     key: economic_scale
     id: economic_scale
-    label: economic_scale
+    label: Economic Scale
     position: 100
     skipPersist: false
     isHidden: false

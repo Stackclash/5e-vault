@@ -7,9 +7,10 @@ regions: ""
 places_of_interest: ""
 settlements: ""
 ---
-region:: [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
-region:: [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
 world:: [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
+region:: [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
+region:: [[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]
+regions::  [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
 
 > [!infobox]
 > # `=this.file.name`
