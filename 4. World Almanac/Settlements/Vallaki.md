@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
+settlement_PoI:: [[4. World Almanac/Places of Interest/Burgomaster's Mansion.md|Burgomaster's Mansion]], [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]], [[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]
 region_settlement:: [[4. World Almanac/Regions/Barovia.md|Barovia]]
 > [!infobox]
 > # `=this.file.name`

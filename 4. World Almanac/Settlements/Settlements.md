@@ -247,6 +247,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
+      bidirectional_relation: true
+      relation_color: hsl(0,98%,59%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal
