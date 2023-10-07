@@ -16,6 +16,7 @@
     "hours_per_day": "number",
     "regions": "multitext",
     "world": "multitext",
-    "world_region": "multitext"
+    "world_region": "multitext",
+    "region_settlement": "multitext"
   }
 }

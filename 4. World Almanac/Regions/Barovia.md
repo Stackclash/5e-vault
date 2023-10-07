@@ -5,6 +5,9 @@ rulers:
   - "[[4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md|Strahd von Zarovich]]"
 world_region:
   - "[[Eldoria]]"
+region_settlement:
+  - "[[Vallaki]]"
+  - "[[Village of Barovia]]"
 ---
 > [!infobox]
 > # `=this.file.name`
