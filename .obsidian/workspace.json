@@ -11,11 +11,9 @@
             "id": "417012e238ecdbce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/Worlds/Worlds.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "4. World Almanac/Worlds/Worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "4. World Almanac/Worlds/Worlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md"
+                "file": "4. World Almanac/Worlds/Worlds.md"
               }
             }
           },
@@ -206,27 +204,27 @@
   },
   "active": "417012e238ecdbce",
   "lastOpenFiles": [
+    "4. World Almanac/Worlds/Eldoria.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Worlds/Worlds.md",
     "3. The Party/Parties/Parties.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Players.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Players/Marin.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Quests/Quests.md",
     "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Worlds/Eldoria.md",
-    "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Settlement.md",
-    "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
     "z_Templates/World Building/Shop.md",
     "4. World Almanac/Shops/Shops.md",

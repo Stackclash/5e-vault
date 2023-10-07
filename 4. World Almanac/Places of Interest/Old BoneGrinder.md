@@ -1,5 +1,5 @@
 ---
-world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+world: ""
 region: "[[Barovia]]"
 ---
 [[08 Chapter-6 Old Bonegrinder]]

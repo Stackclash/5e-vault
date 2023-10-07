@@ -246,28 +246,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  party:
-    input: relation
-    accessorKey: party
-    key: party
-    id: pary
-    label: Party
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: 3. The Party/Parties/Parties.md
-      bidirectional_relation: true
-      relation_color: hsl(0,100%,54%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

@@ -2,10 +2,8 @@
 obsidianUIMode: preview
 banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
-hours_per_day: 
-players:
+hours_per_day:
 ---
-party:: [[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]], [[3. The Party/Players/Marin.md|Marin]], [[3. The Party/Players/Redgrave.md|Redgrave]], [[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]], [[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]
 # `=this.file.name`
 ## **Characters**
 ### **[[Players|Edit Players]]**
