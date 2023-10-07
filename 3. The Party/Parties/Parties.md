@@ -89,6 +89,29 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  players:
+    input: relation
+    accessorKey: players
+    key: players
+    id: Party
+    label: Party
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 188
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: 3. The Party/Players/Players.md
+      bidirectional_relation: true
+      relation_color: hsl(0,95%,69%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

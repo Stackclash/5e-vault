@@ -20,10 +20,11 @@ bond:
 flaw: 
 likes: 
 dislikes: 
-party: Curse of Strahd
 art: Redgrave.jpeg
 condition: Healthy
 location: Vallaki
+players:
+  - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 ---
 > [!infobox|right]
 > # `=this.file.name`

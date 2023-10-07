@@ -246,10 +246,10 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  party:
+  players:
     input: relation
-    accessorKey: party
-    key: party
+    accessorKey: players
+    key: players
     id: Party
     label: Party
     position: 2
@@ -266,6 +266,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      related_note_path: 3. The Party/Parties/Parties.md
+      bidirectional_relation: true
+      relation_color: hsl(0,100%,61%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

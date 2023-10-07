@@ -2,7 +2,8 @@
 obsidianUIMode: preview
 banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
-hours_per_day:
+hours_per_day: 
+players: "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 ---
 # `=this.file.name`
 ## **Characters**
