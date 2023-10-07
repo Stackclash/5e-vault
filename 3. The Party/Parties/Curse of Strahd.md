@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
+hours_per_day:
 ---
 # `=this.file.name`
 ## **Characters**
@@ -61,10 +62,3 @@ COS
 
 # **Notes**
 
-# Configuration
-
-## Travel
-[[Travel Pace]]
-**minutes_per_mile**:: 60
-**exhaustion_level**:: 
-**hours_per_day**:: 

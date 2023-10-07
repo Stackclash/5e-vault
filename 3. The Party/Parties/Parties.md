@@ -35,8 +35,31 @@ columns:
     accessorKey: hours_per_day
     key: hours_per_day
     id: hours_per_day
-    label: hours_per_day
+    label: Hours per Day
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  exhaustion_level:
+    input: number
+    accessorKey: exhaustion_level
+    key: exhaustion_level
+    id: exhaustion_level
+    label: exhaustion_level
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 174
     config:
       enable_media_view: true
       link_alias_enabled: true
