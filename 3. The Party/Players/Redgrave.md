@@ -26,6 +26,7 @@ location: Vallaki
 players:
   - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 ---
+party:: [[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]
 > [!infobox|right]
 > # `=this.file.name`
 > `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
