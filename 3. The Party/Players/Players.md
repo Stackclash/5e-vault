@@ -283,8 +283,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: query
-  source_form_result: "FROM \"3. The Party/1. Players\""
+  source_data: current_folder
+  source_form_result: 
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 

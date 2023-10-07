@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b43911993ace17a",
+        "id": "524bc7c0e775849c",
         "type": "tabs",
         "children": [
           {
-            "id": "e279bc38cdcb3e64",
+            "id": "417012e238ecdbce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "264240e6d9fc4609",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b386abd287d282f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/World Building/Place of Interest.md",
-                "mode": "preview",
-                "source": false
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           }
@@ -95,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Old BoneGrinder.md"
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           },
@@ -222,9 +202,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e279bc38cdcb3e64",
+  "active": "417012e238ecdbce",
   "lastOpenFiles": [
-    "3. The Party/0. Party Hubs/Curse of Strahd.md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Quests/Quests.md",
+    "3. The Party/Session Logs/Session Logs.md",
     "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Worlds/Worlds.md",
@@ -251,10 +235,6 @@
     "4. World Almanac/Settlements",
     "4. World Almanac/Regions",
     "4. World Almanac/Places of Interest",
-    "4. World Almanac/NPCs/Yevgeni Krushkin.md",
-    "4. World Almanac/NPCs/Victor Vallakovich.md",
-    "4. World Almanac/NPCs/Vargas Vallakovich.md",
-    "4. World Almanac/NPCs/Urwin Martikov.md",
     "4. World Almanac/NPCs",
     "4. World Almanac/Groups",
     "4. World Almanac/Eldoria/Shops",

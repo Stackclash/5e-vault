@@ -18,7 +18,7 @@ banner_y: 0
 ---
 # `=this.file.name`
 ## **Characters**
-### **[[3. The Party/1. Players/1. Players|Edit Players]]**
+### **[[1. Players|Edit Players]]**
 > [!cards|dataview 5]
 >```dataview
 TABLE WITHOUT ID
