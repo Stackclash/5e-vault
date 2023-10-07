@@ -62,6 +62,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 140
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -71,12 +72,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  regions:
+  world_region:
     input: relation
-    accessorKey: regions
-    key: regions
-    id: regions
-    label: Regions
+    accessorKey: world_region
+    key: world_region
+    id: world_region
+    label: world_region
     position: 100
     skipPersist: false
     isHidden: false
@@ -91,7 +92,8 @@ columns:
       footer_type: none
       persist_changes: false
       related_note_path: 4. World Almanac/Regions/Regions.md
-      relation_color: hsl(0,100%,57%)
+      bidirectional_relation: true
+      relation_color: hsl(0,100%,60%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

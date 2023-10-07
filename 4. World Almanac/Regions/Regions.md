@@ -230,50 +230,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  settlements:
+  world_region:
     input: relation
-    accessorKey: settlements
-    key: settlements
-    id: settlements
-    label: Settlements
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  places_of_interest:
-    input: relation
-    accessorKey: places_of_interest
-    key: places_of_interest
-    id: places_of_interest
-    label: Places of Interest
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  world:
-    input: relation
-    accessorKey: world
-    key: world
-    id: regions
-    label: World
+    accessorKey: world_region
+    key: world_region
+    id: world_region
+    label: world_region
     position: 100
     skipPersist: false
     isHidden: false
@@ -288,8 +250,8 @@ columns:
       footer_type: none
       persist_changes: false
       related_note_path: 4. World Almanac/Worlds/Worlds.md
-      relation_color: hsl(0,94%,59%)
-      bidirectional_relation: false
+      bidirectional_relation: true
+      relation_color: hsl(0,100%,62%)
 config:
   enable_show_state: false
   group_folder_column: 

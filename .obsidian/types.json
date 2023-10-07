@@ -15,6 +15,7 @@
     "economic_scale": "number",
     "hours_per_day": "number",
     "regions": "multitext",
-    "world": "multitext"
+    "world": "multitext",
+    "world_region": "multitext"
   }
 }
