@@ -8,6 +8,7 @@ world_region:
 region_settlement:
   - "[[Vallaki]]"
   - "[[Village of Barovia]]"
+region_PoI: "[[Old BoneGrinder]]"
 ---
 > [!infobox]
 > # `=this.file.name`
