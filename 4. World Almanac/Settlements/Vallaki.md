@@ -70,15 +70,15 @@ TBD
 > [!info|bg-c-purple]- Districts
 TBD
 
-> ###### Notable Shops/Services
-> [[Shop & Service Database|Add New Shop/Service]]
+> ###### Notable Shops
+> [[Shops|Add New Shop]]
 > ```dataview
-table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
+TABLE WITHOUT ID join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
 WHERE Location = this.file.name AND contains(NoteIcon, "Shop")
 SORT file.name ASC
 
 > ###### Notable Points of Interest
-> [[POI Database|Add New Point of Interest]]
+> [[Places of Interest|Add New Point of Interest]]
 > ```dataview
 table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
 WHERE Location = this.file.name AND contains(NoteIcon, "POI")
