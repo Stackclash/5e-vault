@@ -11,7 +11,6 @@ defences:
 exports: 
 imports:
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
@@ -71,17 +70,17 @@ TBD
 ## Notable Locations
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataview
->  TABLE WITHOUT ID file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
+>  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Places of Interest"
->  WHERE file.frontmatter.location = this.file.name
+>  WHERE contains(file.frontmatter.settlement_PoI, this.file.name)
 > ```
 
 ## Shops
 **[[Shops|Add New Shop]]**
 > ```dataview
-> TABLE WITHOUT ID file.name as "Name", file.frontmatter.items as "Items"
+> TABLE WITHOUT ID link(file.name) as "Name", file.frontmatter.items as "Items"
 > FROM "4. World Almanac/Shops"
-> WHERE file.frontmatter.location = this.file.name
+> WHERE contains(file.frontmatter.location, this.file.name)
 > ```
 
 ## History

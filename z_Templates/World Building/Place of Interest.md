@@ -5,22 +5,10 @@ region:
 settlement: 
 world:
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
 > **Pronounced:**  "`=this.Pronounced`"
-> ###### Info
->  |
-> ---|---|
-> **Alias** | `=this.alias` |
-> **Population** | `=this.population` |
-> ###### Politics
->  |
-> ---|---|
-> **Ruler(s)** | `=link(this.rulers)` |
-> **Govt Type** | `=this.government` |
-> **Army** | `=this.army` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
@@ -66,9 +54,9 @@ TBD
 **[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataview
->  TABLE file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Eldoria/Places of Interest" OR "4. World Almanac/Eldoria/Settlements"
->  WHERE file.frontmatter.location = this.file.name OR file.frontmatter.region = this.file.name
+>  TABLE link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
+>  FROM "4. World Almanac/Places of Interest" OR "4. World Almanac/Settlements"
+>  WHERE contains(file.frontmatter.region_PoI, this.file.name) OR contains(file.frontmatter.settlement_PoI, this.file.name)
 > ```
 
 

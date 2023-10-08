@@ -1,1 +1,24 @@
-![[07 Chapter-5 The Town Of Vallaki#N2. Blue Water Inn]]
+---
+obsidianUIMode: preview
+owners: 
+staff: 
+cost_modifier: 
+settlement_shop: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+items: []
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+---
+> [!infobox]
+> # `=this.file.name`
+> |||
+> |---|---|
+> | Owner(s) | `=this.owners` |
+> | Staff | `=this.staff` |
+> | Location | `=this.location` |
+# `=this.file.name`
+
+## Inventory
+```dataviewjs
+let items = dv.current().items
+items = items.map(item => [dv.fileLink(item), dv.page(item).cost * dv.page("Eldoria").economic_scale * this.file.frontmatter.cost_modifier])
+dv.table(["Item", "Cost"], items)
+```

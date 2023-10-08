@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Shops/Blinksy Toys.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Shops/Blinksy Toys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
+                "file": "4. World Almanac/Shops/Blinksy Toys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md"
+                "file": "4. World Almanac/Shops/Blinksy Toys.md"
               }
             }
           },
@@ -204,18 +205,35 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e656074653e5c2bc",
+  "active": "c04841bfa53ad429",
   "lastOpenFiles": [
+    "4. World Almanac/Shops/Blue Water Inn.md",
+    "4. World Almanac/Shops/Blinksy Toys.md",
+    "4. World Almanac/Shops/Shops.md",
+    "z_Templates/World Building/Shop.md",
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Region.md",
+    "z_Templates/World Building/Place of Interest.md",
+    "4. World Almanac/Worlds/Eldoria.md",
+    "4. World Almanac/NPCs/Strahd von Zarovich.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "z_Templates/World Building/NPC.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Players.md",

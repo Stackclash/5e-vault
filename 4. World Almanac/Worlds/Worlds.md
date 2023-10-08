@@ -77,7 +77,7 @@ columns:
     accessorKey: world_region
     key: world_region
     id: world_region
-    label: world_region
+    label: Region Relationship
     position: 100
     skipPersist: false
     isHidden: false
