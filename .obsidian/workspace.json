@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/Regions/Barovia.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -206,6 +206,7 @@
   },
   "active": "e656074653e5c2bc",
   "lastOpenFiles": [
+    "z_Scripts/Dataview/Region/locations.js",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Worlds/Eldoria.md",
@@ -241,7 +242,6 @@
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Templates/World Building/Place of Interest.md",
-    "z_Templates/World Building/Region.md",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
