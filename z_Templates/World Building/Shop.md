@@ -3,9 +3,7 @@ obsidianUIMode: preview
 owners: 
 staff: 
 cost_modifier: 
-location: 
-items:
-  - Amber
+items: []
 ---
 
 > [!infobox]

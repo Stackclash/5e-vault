@@ -7,6 +7,9 @@ settlement_PoI:
   - "[[Burgomaster's Mansion]]"
   - "[[Coffin Maker's Shop]]"
   - "[[Wachterhaus]]"
+settlement_shop:
+  - "[[Blinksy Toys]]"
+  - "[[Blue Water Inn]]"
 ---
 > [!infobox]
 > # `=this.file.name`
