@@ -73,10 +73,8 @@ TBD
 TBD
 
 > [[Places of Interest|Add New Place of Interest]]
-> ```dataview
->  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Places of Interest"
->  WHERE contains(file.frontmatter.settlement_PoI, this.file.name)
+> ```dataviewjs
+> dv.view("z_Scripts/Dataview/Settlement/places of interest")
 > ```
 
 ## Shops
