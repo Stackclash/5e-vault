@@ -92,6 +92,7 @@ columns:
       persist_changes: false
       related_note_path: 4. World Almanac/Regions/Regions.md
       bidirectional_relation: true
+      relation_color: hsl(0,100%,57%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal
