@@ -18,7 +18,5 @@ location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 
 ## Inventory
 ```dataviewjs
-let items = dv.current().items
-items = items.map(item => [dv.fileLink(item), dv.page(item).cost * dv.page("Eldoria").economic_scale * this.file.frontmatter.cost_modifier])
-dv.table(["Item", "Cost"], items)
+await dv.view("z_Scripts/Dataview/Shop/inventory")
 ```

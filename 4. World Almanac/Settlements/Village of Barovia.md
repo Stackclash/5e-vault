@@ -62,18 +62,14 @@ TBD
 
 ## Notable Locations
 **[[Places of Interest|Add New Place of Interest]]**
-> ```dataview
->  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
->  FROM "4. World Almanac/Places of Interest"
->  WHERE contains(file.frontmatter.settlement_PoI, this.file.name)
+> ```dataviewjs
+> await dv.view("z_Scripts/Dataview/Settlement/places of interest")
 > ```
 
 ## Shops
 **[[Shops|Add New Shop]]**
-> ```dataview
-> TABLE WITHOUT ID link(file.name) as "Name", file.frontmatter.items as "Items"
-> FROM "4. World Almanac/Shops"
-> WHERE contains(file.frontmatter.location, this.file.name)
+> ```dataviewjs
+> await dv.view("z_Scripts/Dataview/Settlement/shops")
 > ```
 
 ## History

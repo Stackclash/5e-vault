@@ -74,13 +74,13 @@ TBD
 
 > [[Places of Interest|Add New Place of Interest]]
 > ```dataviewjs
-> dv.view("z_Scripts/Dataview/Settlement/places of interest")
+> await dv.view("z_Scripts/Dataview/Settlement/places of interest")
 > ```
 
 ## Shops
 **[[Shops|Add New Shop]]**
 > ```dataviewjs
-> dv.view("z_Scripts/Dataview/Settlement/shops")
+> await dv.view("z_Scripts/Dataview/Settlement/shops")
 > ```
 
 ## History
