@@ -5,7 +5,6 @@ staff:
 cost_modifier: 
 items: []
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > |||
@@ -21,5 +20,3 @@ let items = dv.current().items
 items = items.map(item => [dv.fileLink(item), Math.floor(Math.random() * 5), dv.page(item).cost * dv.page("Eldoria").economic_scale])
 dv.table(["Item", "Quantity", "Cost"], items)
 ```
-
-

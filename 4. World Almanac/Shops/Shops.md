@@ -153,6 +153,27 @@ columns:
       related_note_path: 4. World Almanac/Settlements/Settlements.md
       bidirectional_relation: true
       relation_color: hsl(0,100%,60%)
+  location:
+    input: formula
+    accessorKey: location
+    key: location
+    id: location
+    label: location
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      formula_query: ${row.PoI_shop || row.settlement_shop}
+      formula_persist_type: text
 config:
   remove_field_when_delete_column: false
   cell_size: normal
