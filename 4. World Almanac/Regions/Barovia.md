@@ -10,6 +10,7 @@ region_settlement:
   - "[[Village of Barovia]]"
 region_PoI: "[[Old BoneGrinder]]"
 ---
+world_region::  [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]

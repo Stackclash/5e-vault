@@ -1,6 +1,5 @@
 ---
-world: ""
-region: "[[Barovia]]"
+obsidianUIMode: preview
 region_PoI:: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 ---
 > [!infobox]

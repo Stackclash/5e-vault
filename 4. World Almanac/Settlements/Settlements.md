@@ -211,7 +211,7 @@ columns:
     accessorKey: region_settlement
     key: region_settlement
     id: region_settlement
-    label: region_settlement
+    label: Region Relationship
     position: 100
     skipPersist: false
     isHidden: false
@@ -233,7 +233,7 @@ columns:
     accessorKey: settlement_PoI
     key: settlement_PoI
     id: settlement_PoI
-    label: settlement_PoI
+    label: PoI Relationship
     position: 100
     skipPersist: false
     isHidden: false

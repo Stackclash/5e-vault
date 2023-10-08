@@ -54,7 +54,7 @@ columns:
     accessorKey: settlement_PoI
     key: settlement_PoI
     id: settlement_PoI
-    label: settlement_PoI
+    label: Settlement Relationship
     position: 100
     skipPersist: false
     isHidden: false

@@ -1,6 +1,5 @@
 ---
-world: ""
-settlement: "[[Vallaki]]"
+obsidianUIMode: preview
 ---
 > [!infobox]
 > # `=this.file.name`
