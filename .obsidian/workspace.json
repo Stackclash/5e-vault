@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/Settlements/Vallaki.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -206,6 +206,7 @@
   },
   "active": "e656074653e5c2bc",
   "lastOpenFiles": [
+    "z_Scripts/Dataview/Settlement/shops.js",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "z_Scripts/Dataview/Settlement/places of interest.js",
