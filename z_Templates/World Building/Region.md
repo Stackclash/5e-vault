@@ -72,7 +72,7 @@ TBD
 > ```dataview
 >  TABLE WITHOUT ID file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Places of Interest" OR "4. World Almanac/Settlements"
->  WHERE file.frontmatter.region_PoI = this.file.name OR file.frontmatter.region = this.file.name
+>  WHERE file.frontmatter.region_PoI = this.file.name OR file.frontmatter.region_settlement = this.file.name
 > ```
 
 

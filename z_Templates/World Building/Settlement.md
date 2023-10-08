@@ -73,7 +73,7 @@ TBD
 > ```dataview
 >  TABLE WITHOUT ID file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Places of Interest"
->  WHERE file.frontmatter.location = this.file.name
+>  WHERE file.frontmatter.settlement_PoI = this.file.name
 > ```
 
 ## Shops

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/World Building/Region.md",
-                "mode": "source",
+                "file": "4. World Almanac/Regions/Barovia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/World Building/Region.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/World Building/Region.md",
+                "file": "4. World Almanac/Regions/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/World Building/Region.md"
+                "file": "4. World Almanac/Regions/Barovia.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "e656074653e5c2bc",
   "lastOpenFiles": [
-    "z_Templates/World Building/Place of Interest.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Region.md",
     "4. World Almanac/Settlements/Settlements.md",
+    "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/NPC.md",
     "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Regions/Regions.md",
@@ -228,8 +230,6 @@
     "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
-    "z_Templates/World Building/Region.md",
-    "z_Templates/World Building/Settlement.md",
     "z_Templates/World Building/Shop.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Worlds",
