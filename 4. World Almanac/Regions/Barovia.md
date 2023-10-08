@@ -55,9 +55,9 @@ TBD
 **[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataview
->  TABLE WITHOUT ID file.name AS "Name", file.frontmatter.pronounced as "Pronounced"
+>  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Places of Interest" OR "4. World Almanac/Settlements"
->  WHERE file.frontmatter.region_PoI = this.file OR file.frontmatter.region_settlement = this.file
+>  WHERE contains(file.frontmatter.region_PoI, this.file.name) OR contains(file.frontmatter.region_settlement, this.file.name)
 > ```
 
 
@@ -72,10 +72,3 @@ TBD
 
 
 ### General Notes
-
-
-```dataview
-TABLE 
-FROM "4. World Almanac/Settlements"
-WHERE contains(file.region_settlement, this.file.name)
-```
