@@ -80,7 +80,7 @@ TBD
 ## Shops
 **[[Shops|Add New Shop]]**
 > ```dataviewjs
-> dv.view("z_Scripts/Dataview/Settlemenet/shops")
+> dv.view("z_Scripts/Dataview/Settlement/shops")
 > ```
 
 ## History
