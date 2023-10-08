@@ -209,7 +209,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: R
+      related_note_path: 4. World Almanac/NPCs/NPCs.md
       relation_color: hsl(37,99%,42%)
   alias:
     input: text
