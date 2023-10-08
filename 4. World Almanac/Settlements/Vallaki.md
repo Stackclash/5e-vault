@@ -72,8 +72,7 @@ TBD
 > [!info|bg-c-purple]- Districts
 TBD
 
-> ###### Notable Shops
-> [[Shops|Add New Shop]]
+> [[Places of Interest|Add New Place of Interest]]
 > ```dataview
 >  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
 >  FROM "4. World Almanac/Places of Interest"

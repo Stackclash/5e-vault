@@ -204,10 +204,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e656074653e5c2bc",
+  "active": "a88a1818b2c15bdd",
   "lastOpenFiles": [
-    "4. World Almanac/Settlements/Village of Barovia.md",
+    "z_Scripts/Dataview/Settlement/places of interest.js",
+    "z_Scripts/Dataview/Settlement/Untitled.md",
     "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
     "z_Scripts/Dataview/Places of Interest",
     "z_Scripts/Dataview/Common",
     "z_Scripts/Dataview/Settlement",
@@ -239,7 +241,6 @@
     "z_Templates/World Building/Place of Interest.md",
     "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Settlement.md",
-    "z_Templates/World Building/Shop.md",
     "4. World Almanac/Worlds",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
