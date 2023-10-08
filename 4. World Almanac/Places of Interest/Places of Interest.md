@@ -115,6 +115,7 @@ columns:
       persist_changes: false
       asociated_relation_id: region_PoI
       rollup_action: Original Value
+      rollup_key: world_region
   settlement_world:
     input: rollup
     accessorKey: settlement_world
@@ -135,6 +136,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      asociated_relation_id: settlement_PoI
+      rollup_action: Original Value
+      rollup_key: world
   world:
     input: formula
     accessorKey: world
@@ -154,7 +158,9 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      persist_changes: false
+      persist_changes: true
+      formula_query: ${row.region_world || row.settlement_world}
+      formula_persist_type: text
 config:
   remove_field_when_delete_column: false
   cell_size: normal
