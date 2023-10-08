@@ -19,6 +19,7 @@
     "world_region": "multitext",
     "region_settlement": "multitext",
     "settlement_PoI": "multitext",
-    "region_PoI": "multitext"
+    "region_PoI": "multitext",
+    "region_PoI:": "multitext"
   }
 }

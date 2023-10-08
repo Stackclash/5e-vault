@@ -76,7 +76,7 @@ columns:
     accessorKey: region_PoI
     key: region_PoI
     id: region_PoI
-    label: region_PoI
+    label: Region Relationship
     position: 100
     skipPersist: false
     isHidden: false
@@ -93,6 +93,68 @@ columns:
       related_note_path: 4. World Almanac/Regions/Regions.md
       bidirectional_relation: true
       relation_color: hsl(0,100%,57%)
+  region_world:
+    input: rollup
+    accessorKey: region_world
+    key: region_world
+    id: region_world
+    label: Region's World
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 242
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      asociated_relation_id: region_PoI
+      rollup_action: Original Value
+  settlement_world:
+    input: rollup
+    accessorKey: settlement_world
+    key: settlement_world
+    id: settlement_world
+    label: Settlement's World
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 232
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  world:
+    input: formula
+    accessorKey: world
+    key: world
+    id: world
+    label: World
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 120
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

@@ -2,11 +2,9 @@
 obsidianUIMode: preview
 region_settlement:
   - "[[Barovia]]"
-settlement_PoI:
-  - "[[Burgomaster's Mansion]]"
-  - "[[Coffin Maker's Shop]]"
-  - "[[Wachterhaus]]"
+world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 ---
+settlement_PoI:: [[4. World Almanac/Places of Interest/Burgomaster's Mansion.md|Burgomaster's Mansion]], [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]], [[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]], [[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]], [[4. World Almanac/Places of Interest/Burgomaster's Mansion.md|Burgomaster's Mansion]]
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]

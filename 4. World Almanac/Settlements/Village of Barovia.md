@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 region_settlement:
   - "[[Barovia]]"
+world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 ---
 > [!infobox]
 > # `=this.file.name`

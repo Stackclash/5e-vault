@@ -8,9 +8,8 @@ world_region:
 region_settlement:
   - "[[Vallaki]]"
   - "[[Village of Barovia]]"
-region_PoI: "[[Old BoneGrinder]]"
 ---
-world_region::  [[4. World Almanac/Worlds/Eldoria.md|Eldoria]]
+region_PoI:: [[4. World Almanac/Places of Interest/Old BoneGrinder.md|Old BoneGrinder]], [[4. World Almanac/Places of Interest/Old BoneGrinder.md|Old BoneGrinder]]
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]

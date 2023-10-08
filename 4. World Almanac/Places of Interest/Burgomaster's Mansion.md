@@ -1,5 +1,7 @@
 ---
 obsidianUIMode: preview
+settlement_PoI:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > # `=this.file.name`

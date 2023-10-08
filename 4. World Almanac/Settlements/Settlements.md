@@ -238,6 +238,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 225
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -250,6 +251,29 @@ columns:
       related_note_path: 4. World Almanac/Places of Interest/Places of Interest.md
       bidirectional_relation: true
       relation_color: hsl(0,98%,59%)
+  world:
+    input: rollup
+    accessorKey: world
+    key: world
+    id: world
+    label: World
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 163
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      asociated_relation_id: region_settlement
+      rollup_action: Original Value
+      rollup_key: world_region
 config:
   remove_field_when_delete_column: false
   cell_size: normal
