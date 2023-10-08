@@ -5,84 +5,75 @@ region_settlement:
 ---
 > [!infobox]
 > # `=this.file.name`
+> ![[PlaceholderImage.png|wm-tl]]
 > **Pronounced:**  "`=this.Pronounced`"
 > ###### Info
 >  |
 > ---|---|
 > **Alias** | `=this.alias` |
-> **Type** | `=this.type` |
 > **Population** | `=this.population` |
-> **Region** | `=link(this.Region)` |
-> **Terrain** | `=this.terrain` |
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s)** | TBD |
-> **Leaders** | TBD |
-> **Govt Type** | `=this.GovtType` |
-> **Defenses** | `=this.defences` |
-> **Religion(s)** | `=link(this.religions)` |
-> ###### Commerce
->  |
-> ---|---|
-> **Imports** | `=this.imports` |
-> **Exports** | `=this.exports` |
-> ###### Groups
-> [[Group Database|Add New Group]]
-> ```dataview 
-table join(Type, ", ") AS Type
-WHERE econtains(Location, this.file.name) AND contains(NoteIcon, "Group")
-SORT Type ASC
+> **Ruler(s)** | `=link(this.rulers)` |
+> **Govt Type** | `=this.government` |
+> **Army** | `=this.army` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
 TBD
 
 ## Map
-> ```leaflet
-> id: village-of-barovia
-> image: [[Village of Barovia.jpg]]
-> height: 800px
-> minZoom: 0
-> maxZoom: 1
-> defaultZoom: 0
-> lat: 412.5
-> long: 325
-> bounds:
-> - [0,0]
-> - [825,650]
-> noUI: false
-> unit: feet
-> marker: haunted-house, 435.875, 552.25, [[Village of Barovia#Death House]]
-> marker: shop, 311.75, 313.5, [[Village of Barovia#Bildrath's Mercantile]]
-> marker: house, 260.875, 285.5, [[Village of Barovia#Mad Mary's Townhouse]]
-> marker: tavern, 412.875, 322.5, [[Village of Barovia#Blood of the Vine Tavern]]
-> marker: church, 565.875, 171.5, [[Village of Barovia#Church]]
-> marker: graveyard, 679.875, 170.5, [[Village of Barovia#Cemetery]]
-> marker: house, 77.875, 271.5, [[Village of Barovia#Burgomaster's Mansion]]
+> ```leaflet  
+> ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
+> ### id must be unique  
+> id: Faerun_Map  
+> ### Lock pins so they can't be moved  
+> lock: true  
+> ### If true, view of map will recenter as you zoom out.  
+> recenter: true  
+> ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
+> noScrollZoom: true  
+> image: [[PlaceholderImage.png]]
+> ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
+> ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
+> ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
+> ### Bounds is entered as [Height, Width]  
+> bounds: [[0,0], [1815.07, 2805.48]]  
+> height: 900px  
+> width: 95%  
+> ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
+> lat: 907.53  
+> long: 1402.74  
+> ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
+> minZoom: -1.5  
+> ### Max zoom is 18.  
+> maxZoom: 1.5  
+> ### Hover mouse over the Reset Zoom icon to see your current zoom level.  
+> defaultZoom: -1  
+> ### How far it zooms in or out with each step. Can be in decimals.  
+> zoomDelta: 0.5  
+> ### This is a string so can be any text. Change it to match your maps measurement scale.  
+> unit: miles  
+> scale: 1  
+> darkMode: false  
 > ```
 
 ## Notable Locations
-
-> [!info|bg-c-purple]- Districts
-TBD
-
-> ###### Notable Shops/Services
-> [[Shop & Service Database|Add New Shop/Service]]
+**[[Places of Interest|Add New Place of Interest]]**
 > ```dataview
-table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
-WHERE Location = this.file.name AND contains(NoteIcon, "Shop")
-SORT file.name ASC
+>  TABLE WITHOUT ID link(file.name) AS "Name", file.frontmatter.pronounced as "Pronounced"
+>  FROM "4. World Almanac/Places of Interest"
+>  WHERE contains(file.frontmatter.settlement_PoI, this.file.name)
+> ```
 
-## Notable Characters
-
-> ###### Notable Characters
-> [[NPC Database|Add New NPC]]
+## Shops
+**[[Shops|Add New Shop]]**
 > ```dataview
-table art
-> FROM "4. World Almanac/Eldoria/NPCs"
-WHERE location = this.file.name AND !contains(condition, "Dead")
-SORT file.name ASC
+> TABLE WITHOUT ID link(file.name) as "Name", file.frontmatter.items as "Items"
+> FROM "4. World Almanac/Shops"
+> WHERE contains(file.frontmatter.location, this.file.name)
+> ```
 
 ## History
 TBD

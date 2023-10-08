@@ -5,22 +5,10 @@ region:
 settlement: 
 world:
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
 > **Pronounced:**  "`=this.Pronounced`"
-> ###### Info
->  |
-> ---|---|
-> **Alias** | `=this.alias` |
-> **Population** | `=this.population` |
-> ###### Politics
->  |
-> ---|---|
-> **Ruler(s)** | `=link(this.rulers)` |
-> **Govt Type** | `=this.government` |
-> **Army** | `=this.army` |
 
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview

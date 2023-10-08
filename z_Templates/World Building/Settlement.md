@@ -11,7 +11,6 @@ defences:
 exports: 
 imports:
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > ![[PlaceholderImage.png|wm-tl]]
