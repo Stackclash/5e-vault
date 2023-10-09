@@ -11,11 +11,9 @@
             "id": "e656074653e5c2bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
               }
             }
           },
@@ -206,6 +204,10 @@
   },
   "active": "e656074653e5c2bc",
   "lastOpenFiles": [
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
     "z_Scripts/Dataview/Region/locations.js",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -225,12 +227,8 @@
     "z_Scripts/Dataview/Settlement",
     "z_Scripts/Dataview/Region",
     "z_Scripts/JS/proccess_5etools_files.js",
-    "z_Scripts/JS",
     "conflict-files-obsidian-git.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Places of Interest/Wachterhaus.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Players.md",
@@ -238,7 +236,6 @@
     "3. The Party/Players/Marin.md",
     "3. The Party/Session Logs/Session Logs.md",
     "3. The Party/Quests/Quests.md",
-    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
     "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
     "z_Templates/World Building/Place of Interest.md",
