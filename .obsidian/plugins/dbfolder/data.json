@@ -1,6 +1,6 @@
 {
   "global_settings": {
-    "enable_debug_mode": false,
+    "enable_debug_mode": true,
     "enable_show_state": false,
     "enable_row_shadow": true,
     "enable_auto_update": true,
@@ -15,7 +15,7 @@
     }
   },
   "local_settings": {
-    "remove_field_when_delete_column": false,
+    "remove_field_when_delete_column": true,
     "cell_size": "normal",
     "sticky_first_column": false,
     "group_folder_column": "",
