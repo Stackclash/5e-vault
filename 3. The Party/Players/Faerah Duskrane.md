@@ -24,6 +24,7 @@ art: Faerah Duskrane.jpeg
 condition: Healthy
 location: Vallaki
 party_player: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+exhaustion: 0
 ---
 > [!infobox|right]
 > # `=this.file.name`
