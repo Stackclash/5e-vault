@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "3. The Party/Players/Players.md"
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/Players/Players.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/Players/Players.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Players/Players.md"
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           },
@@ -204,14 +204,14 @@
   },
   "active": "f671b63c0ad7d56f",
   "lastOpenFiles": [
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Players/Players.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
-    "3. The Party/Players/Players.md",
     "3. The Party/Parties/Parties.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Screen/Tools/Barovian Lore.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "4. World Almanac/Worlds/Eldoria.md",
