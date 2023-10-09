@@ -2,7 +2,8 @@
 obsidianUIMode: preview
 banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
-hours_per_day:
+hours_per_day: 
+party_player: []
 ---
 # `=this.file.name`
 ## **Characters**

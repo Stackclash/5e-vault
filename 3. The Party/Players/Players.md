@@ -246,16 +246,17 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  exhaustion_level:
-    input: number
-    accessorKey: exhaustion_level
-    key: exhaustion_level
+  party_player:
+    input: relation
+    accessorKey: party_player
+    key: party_player
     id: exhaustion_level
-    label: Exhaustion Level
+    label: Party Relationship
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 174
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -265,6 +266,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      related_note_path: 3. The Party/Parties/Parties.md
+      bidirectional_relation: true
+      relation_color: hsl(0,99%,58%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

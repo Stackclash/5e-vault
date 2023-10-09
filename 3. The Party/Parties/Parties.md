@@ -50,12 +50,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  exhaustion_level:
-    input: number
-    accessorKey: exhaustion_level
-    key: exhaustion_level
+  party_player:
+    input: relation
+    accessorKey: party_player
+    key: party_player
     id: exhaustion_level
-    label: Exhaustion Level
+    label: Player Relationship
     position: 100
     skipPersist: false
     isHidden: false
@@ -70,25 +70,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  miles_per_day:
-    input: number
-    accessorKey: miles_per_day
-    key: miles_per_day
-    id: miles_per_day
-    label: Miles Per Day
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
+      related_note_path: 3. The Party/Players/Players.md
+      bidirectional_relation: true
+      relation_color: hsl(0,96%,57%)
 config:
   remove_field_when_delete_column: false
   cell_size: normal

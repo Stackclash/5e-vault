@@ -23,12 +23,9 @@ dislikes:
 art: Redgrave.jpeg
 condition: Healthy
 location: Vallaki
-players:
+party_player:
   - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-party: ""
-exhaustion_level: 0
 ---
-players::  [[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]
 > [!infobox|right]
 > # `=this.file.name`
 > `$=dv.container='<img src="'+app.vault.getResourcePath(dv.fileLink("z_Assets/"+dv.current().art))+'"/>'`
