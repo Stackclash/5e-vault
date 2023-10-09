@@ -23,6 +23,7 @@ dislikes:
 art: Faerah Duskrane.jpeg
 condition: Healthy
 location: Vallaki
+exhaustion_level: 0
 ---
 players::  [[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]
 > [!infobox|right]

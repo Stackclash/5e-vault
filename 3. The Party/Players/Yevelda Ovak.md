@@ -26,6 +26,7 @@ location: Vallaki
 players:
   - "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 party: ""
+exhaustion_level: 0
 ---
 players::  [[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]
 > [!infobox|right]
