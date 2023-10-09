@@ -13,7 +13,9 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
+                "file": "5. Mechanics/Tables/Middle Dura Bazaar Merchants (ERLW).md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
+                "file": "5. Mechanics/Tables/Middle Dura Bazaar Merchants (ERLW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
+                "file": "5. Mechanics/Tables/Middle Dura Bazaar Merchants (ERLW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md"
+                "file": "5. Mechanics/Tables/Middle Dura Bazaar Merchants (ERLW).md"
               }
             }
           },
@@ -204,41 +206,36 @@
   },
   "active": "e656074653e5c2bc",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
-    "4. World Almanac/Places of Interest/Wachterhaus.md",
-    "4. World Almanac/Regions/Barovia.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
-    "z_Scripts/Dataview/Region/locations.js",
-    "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Settlements/Settlements.md",
-    "4. World Almanac/Worlds/Eldoria.md",
-    "4. World Almanac/Shops/Blue Water Inn.md",
+    "5. Mechanics/Tables/Middle Class Carousing Complications (XGE).md",
+    "5. Mechanics/Tables/Menu Items (TCE).md",
+    "5. Mechanics/Tables/Mabar The Endless Night Mabar Manifest Zone Features (ERLW).md",
+    "5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md",
+    "5. Mechanics/Tables/Magic Item Rarity.md",
+    "5. Mechanics/Tables/Magic Item Sale Complications (XGE).md",
+    "5. Mechanics/Tables/Magic Items Awarded By Rarity Major (XGE).md",
+    "5. Mechanics/Tables/Academy Contact (TCE).md",
     "4. World Almanac/Shops/Blinksy Toys.md",
-    "z_Scripts/Dataview/Shop/inventory.js",
-    "z_Scripts/Dataview/Shop",
+    "4. World Almanac/Shops/Blue Water Inn.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Vallaki.md",
-    "z_Scripts/Dataview/Settlement/shops.js",
-    "z_Scripts/Dataview/Settlement/places of interest.js",
-    "z_Scripts/Dataview/Settlement/Untitled.md",
-    "z_Scripts/Dataview/Places of Interest",
-    "z_Scripts/Dataview/Common",
-    "z_Scripts/Dataview/Settlement",
-    "z_Scripts/Dataview/Region",
-    "z_Scripts/JS/proccess_5etools_files.js",
-    "conflict-files-obsidian-git.md",
-    "4. World Almanac/Worlds/Worlds.md",
-    "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Parties/Parties.md",
-    "3. The Party/Players/Players.md",
-    "3. The Party/Players/Faerah Duskrane.md",
-    "3. The Party/Players/Marin.md",
-    "3. The Party/Session Logs/Session Logs.md",
-    "3. The Party/Quests/Quests.md",
+    "4. World Almanac/Places of Interest/Wachterhaus.md",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
     "4. World Almanac/Places of Interest/Coffin Maker's Shop.md",
-    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "z_Templates/World Building/Settlement.md",
+    "z_Templates/World Building/Region.md",
     "z_Templates/World Building/Place of Interest.md",
+    "4. World Almanac/Worlds",
+    "4. World Almanac/Shops",
+    "4. World Almanac/Settlements",
+    "4. World Almanac/Regions",
+    "4. World Almanac/Places of Interest",
+    "4. World Almanac/NPCs",
+    "4. World Almanac/Groups",
+    "4. World Almanac/Eldoria/Shops",
+    "4. World Almanac/Eldoria/Settlements",
+    "4. World Almanac/Eldoria/Regions",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Sanctum.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Overlook.png",
     "6. Resources/Resources/The Interactive Tome of Strahd/The Order of the Guardians Monastery/Order of the Guardians Monastery - Full Map (Player).png",
