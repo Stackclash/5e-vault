@@ -95,7 +95,7 @@ columns:
       asociated_relation_id: party_player
       rollup_action: Formula
       rollup_key: exhaustion
-      formula_query: ${Math.max(...db.rollup().getPages().map(p => p.exhaustion)).toString() || 0}
+      formula_query: ${Math.max(...db.rollup().getPages().map(p => p.exhaustion)) || 0}
 config:
   remove_field_when_delete_column: false
   cell_size: normal

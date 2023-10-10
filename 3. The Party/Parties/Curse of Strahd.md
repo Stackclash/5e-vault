@@ -23,7 +23,7 @@ TABLE WITHOUT ID
 >	condition AS "Condition",
 >	location AS "Location"
 >	FROM "3. The Party/Players"
->	WHERE party = this.file.name
+>	WHERE contains(file.frontmatter.party_player, this.file.name)
 >SORT file.name asc
 >```
 
