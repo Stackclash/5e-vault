@@ -129,6 +129,8 @@ columns:
     sortIndex: -1
     options:
       - { label: "Walking", value: "walking", color: "hsl(56, 95%, 90%)"}
+      - { label: "Donkey", value: "donkey", color: "hsl(165, 95%, 90%)"}
+      - { label: "Riding Horse", value: "riding horse", color: "hsl(111, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
