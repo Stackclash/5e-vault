@@ -95,7 +95,7 @@ columns:
       asociated_relation_id: party_player
       rollup_action: Formula
       rollup_key: exhaustion
-      formula_query:
+      formula_query: 
 config:
   remove_field_when_delete_column: false
   cell_size: normal
