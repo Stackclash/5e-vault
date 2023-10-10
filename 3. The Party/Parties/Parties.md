@@ -151,7 +151,8 @@ columns:
     sortIndex: -1
     options:
       - { label: "Fast", value: "fast", color: "hsl(187, 95%, 90%)"}
-      - { label: "Normal", value: "Normal", color: "hsl(151, 95%, 90%)"}
+      - { label: "Normal", value: "normal", color: "hsl(151, 95%, 90%)"}
+      - { label: "Slow", value: "slow", color: "hsl(258, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
