@@ -5,9 +5,10 @@ movement:
   draft horse: {name: "Draft Horse", base: 40, slow: 22, normal: 15, fast: 11}
   riding horse: {name: "Riding Horse", base: 60, slow: 15, normal: 10, fast: 8}
 ---
-`=round(160 * ([[Eldoria]].active_party.movement))`
+`=round(160 * ([[Travel Time]].movement[[[Eldoria]].active_party.movement].base))`
 
-`=[[Eldoria]].active.party.move`
+`=[[Travel Time]].movement[[[Eldoria]].active_party.movement].base`
+
  
 ```dataviewjs
 const pg = dv.current()
