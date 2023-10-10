@@ -91,11 +91,32 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      persist_changes: true
+      persist_changes: false
       asociated_relation_id: party_player
-      rollup_action: Formula
+      rollup_action: Original Value
       rollup_key: exhaustion
-      formula_query:
+      formula_query: 
+  exhaustion_level:
+    input: formula
+    accessorKey: exhaustion_level
+    key: exhaustion_level
+    id: exhaustion_level
+    label: exhaustion_level
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: true
+      formula_persist_type: number
+      formula_query: ${Math.max(...row.party_exhaustion.split(', '))}
 config:
   remove_field_when_delete_column: false
   cell_size: normal
