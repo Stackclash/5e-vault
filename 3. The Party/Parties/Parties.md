@@ -127,6 +127,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 159
     options:
       - { label: "Walking", value: "walking", color: "hsl(56, 95%, 90%)"}
       - { label: "Donkey", value: "donkey", color: "hsl(165, 95%, 90%)"}
