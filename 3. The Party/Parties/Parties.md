@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -36,7 +36,7 @@ columns:
     key: hours_per_day
     id: hours_per_day
     label: Hours per Day
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -56,7 +56,7 @@ columns:
     key: party_player
     id: exhaustion_level
     label: Player Relationship
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -78,8 +78,31 @@ columns:
     accessorKey: party_exhaustion
     key: party_exhaustion
     id: party_exhaustion
-    label: party_exhaustion
-    position: 100
+    label: Party Exhaustion
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      asociated_relation_id: party_player
+      rollup_action: Original Value
+      rollup_key: exhaustion
+      formula_query: 
+  exhaustion_level:
+    input: formula
+    accessorKey: exhaustion_level
+    key: exhaustion_level
+    id: exhaustion_level
+    label: Exhaustion
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -92,10 +115,56 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: true
-      asociated_relation_id: party_player
-      rollup_action: Formula
-      rollup_key: exhaustion
-      formula_query: 
+      formula_persist_type: number
+      formula_query: ${Math.max(...row.party_exhaustion.split(', '))}
+  movement:
+    input: select
+    accessorKey: movement
+    key: movement
+    id: movement
+    label: Mode of Travel
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Walking", value: "walking", color: "hsl(56, 95%, 90%)"}
+      - { label: "Donkey", value: "donkey", color: "hsl(165, 95%, 90%)"}
+      - { label: "Riding Horse", value: "riding horse", color: "hsl(111, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  speed:
+    input: select
+    accessorKey: speed
+    key: speed
+    id: speed
+    label: Travel Speed
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Fast", value: "fast", color: "hsl(187, 95%, 90%)"}
+      - { label: "Normal", value: "normal", color: "hsl(151, 95%, 90%)"}
+      - { label: "Slow", value: "slow", color: "hsl(258, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

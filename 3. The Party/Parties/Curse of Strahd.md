@@ -2,14 +2,16 @@
 obsidianUIMode: preview
 banner: "![[Barovia_Banner.webp]]"
 banner_y: 0
-hours_per_day: 
+hours_per_day: 8
 party_player:
   - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
   - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
-party_exhaustion: ""
+exhaustion_level: 1
+movement: riding horse
+speed: normal
 ---
 # `=this.file.name`
 ## **Characters**
