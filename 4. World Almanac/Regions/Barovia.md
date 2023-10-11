@@ -56,9 +56,8 @@ TBD
 **[[Settlements|Add New Settlement]]**
 **[[Places of Interest|Add New Place of Interest]]**
 > ```dataviewjs
-> dv.view("z_Scripts/Dataview/Region/locations")
+> await dv.view("z_Scripts/Dataview/Region/locations")
 > ```
-
 
 ## History
 TBD

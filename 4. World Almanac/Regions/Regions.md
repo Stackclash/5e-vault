@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 10
+    position: 11
     isHidden: false
     sortIndex: -1
     config:
@@ -68,7 +68,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 11
+    position: 12
     isHidden: false
     sortIndex: -1
     config:
@@ -108,7 +108,7 @@ columns:
     key: Population
     id: Population
     label: Population
-    position: 6
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -126,7 +126,7 @@ columns:
     accessor: GovtType
     key: government
     label: Government
-    position: 8
+    position: 6
     skipPersist: false
     accessorKey: government
     isHidden: false
@@ -167,7 +167,7 @@ columns:
     accessor: Defences
     key: army
     label: Army
-    position: 9
+    position: 7
     skipPersist: false
     accessorKey: army
     isHidden: false
@@ -196,7 +196,7 @@ columns:
     key: rulers
     id: rulers
     label: Rulers
-    position: 7
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -236,7 +236,7 @@ columns:
     key: region_settlement
     id: region_settlement
     label: Settlement Relationship
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -258,7 +258,7 @@ columns:
     key: region_PoI
     id: region_PoI
     label: PoI Relationship
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -280,7 +280,7 @@ columns:
     key: world_region
     id: world_region
     label: World Relationship
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
