@@ -4,8 +4,6 @@ region_settlement:
   - "[[Barovia]]"
 world:
   - "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-location: "[-10.94,21.93]"
-mapmarker: village
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -49,8 +49,7 @@ TBD
 > defaultZoom: 6
 > zoomDelta: 0.5
 > unit: miles
-> markerFile:
->     - [[Village of Barovia]]
+> marker: village, 4.5, 14.37, [[Village of Barovia]]
 > ```
 
 ## Notable Locations
