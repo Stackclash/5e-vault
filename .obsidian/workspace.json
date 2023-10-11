@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/Regions/Barovia.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Settlements/Village of Barovia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -236,10 +236,12 @@
   },
   "active": "3b7175a2117c3653",
   "lastOpenFiles": [
-    "6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg",
-    "4. World Almanac/Regions/Barovia.md",
-    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Players.md",
@@ -262,7 +264,6 @@
     "5. Mechanics/Bestiary/Beast/Riding Horse.md",
     "5. Mechanics/Items/Riding Horse.md",
     "5. Mechanics/Tables/Random Buildings Warehouse.md",
-    "5. Mechanics/Tables/Random Buildings Tavern Name Generator.md",
     "4. World Almanac/Worlds",
     "4. World Almanac/Shops",
     "4. World Almanac/Settlements",

@@ -49,8 +49,8 @@ TBD
 > defaultZoom: 6
 > zoomDelta: 0.5
 > unit: miles
-> mapmarkers:
-> 	- ["Village", [-10.94,21.93]]
+> markerFile:
+> 	- [[Village of Barovia]]
 > ```
 
 ## Notable Locations
