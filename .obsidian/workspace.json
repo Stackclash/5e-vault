@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
-                "mode": "source",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "276148ab5e48c4ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg"
               }
             }
           }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md"
+                "file": "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md"
               }
             }
           },
@@ -164,21 +174,7 @@
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "87d98b24f802d020",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37cf6a24cb5cd52e",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,8 +202,10 @@
   },
   "active": "f671b63c0ad7d56f",
   "lastOpenFiles": [
-    "4. World Almanac/Regions/Regions.md",
+    "6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg",
+    "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Regions/Regions.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Players.md",
@@ -231,8 +229,6 @@
     "5. Mechanics/Items/Riding Horse.md",
     "5. Mechanics/Tables/Random Buildings Warehouse.md",
     "5. Mechanics/Tables/Random Buildings Tavern Name Generator.md",
-    "5. Mechanics/Tables/Random Buildings Building Type.md",
-    "5. Mechanics/Tables/Quick Matchups (XGE).md",
     "4. World Almanac/Worlds",
     "4. World Almanac/Shops",
     "4. World Almanac/Settlements",
