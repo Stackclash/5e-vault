@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Settlements/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "4. World Almanac/Settlements/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md"
+                "file": "4. World Almanac/Settlements/Village of Barovia.md"
               }
             }
           },
@@ -234,10 +234,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3b7175a2117c3653",
+  "active": "1d2905374db55ad8",
   "lastOpenFiles": [
-    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "4. World Almanac/Settlements/Settlements.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/007-001.jpg",
