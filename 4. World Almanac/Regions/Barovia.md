@@ -50,7 +50,7 @@ TBD
 > zoomDelta: 0.5
 > unit: miles
 > markerFile:
-> 	- [[Village of Barovia]]
+>     - [[Village of Barovia]]
 > ```
 
 ## Notable Locations
