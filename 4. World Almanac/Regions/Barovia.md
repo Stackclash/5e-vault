@@ -49,7 +49,6 @@ TBD
 > defaultZoom: 6
 > zoomDelta: 0.5
 > unit: miles
-> markerFolder: "4. World Almanac/Eldoria/Locations/Barovia/"
 > ```
 
 ## Notable Locations
