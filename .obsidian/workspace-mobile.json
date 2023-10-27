@@ -23,9 +23,11 @@
             "id": "5dee5abadc7c9e5a",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Eldoria/Regions/Regions.md"
+                "file": "2. Scratch Notes/D&D Ideas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -74,6 +76,16 @@
             "useHierarchy": true
           }
         }
+      },
+      {
+        "id": "f2cbef852e47c364",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -88,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. World Almanac/Eldoria/Regions/Regions.md",
+            "file": "2. Scratch Notes/D&D Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. World Almanac/Eldoria/Regions/Regions.md",
+            "file": "2. Scratch Notes/D&D Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. World Almanac/Eldoria/Regions/Regions.md"
+            "file": "2. Scratch Notes/D&D Ideas.md"
           }
         }
       },
@@ -172,6 +184,19 @@
   },
   "active": "5dee5abadc7c9e5a",
   "lastOpenFiles": [
+    "4. World Almanac/Places of Interest/Burgomaster's Mansion.md",
+    "2. Scratch Notes/D&D Ideas.md",
+    "2. Scratch Notes/D&D Ideas.md",
+    "1. DM Screen/Lookup Tables/Travel Time.md",
+    "1. DM Screen/Lookup Tables",
+    "4. World Almanac/Places of Interest/Old BoneGrinder.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Regions/Barovia.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Settlements/Village of Barovia.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "4. World Almanac/Settlements/Settlements.md",
     "2. Scratch Notes/Fields for Locations.md",
     "4. World Almanac/Eldoria/Regions/Regions.md",
     "4. World Almanac/Eldoria/NPCs/Strahd von Zarovich.md",
@@ -185,18 +210,6 @@
     "3. The Party/3. Quests/3. Quests.md",
     "3. The Party/1. Players/1. Players.md",
     "3. The Party/0. Party Hubs/Curse of Strahd.md",
-    "3. The Party/2. Session Logs/Never Trust a Hunter.md",
-    "3. The Party/2. Session Logs/Knowing the Road.md",
-    "3. The Party/1. Players/Faerah Duskrane.md",
-    "3. The Party/2. Session Logs/The Look of Desperation.md",
-    "3. The Party/2. Session Logs/Secrets in the Dark.md",
-    "3. The Party/2. Session Logs/Welcome to Barovia.md",
-    "5. Mechanics/Items/Items.md",
-    "5. Mechanics/Items/Torch.md",
-    "Untitled.md",
-    "5. Mechanics/Tables/Travel Pace.md",
-    "1. DM Screen/Tools/Travel Time.md",
-    "1. DM Screen/Tools/Encounter Generator.md",
-    "1. DM Screen/1. DM Screen.md"
+    "3. The Party/2. Session Logs/Never Trust a Hunter.md"
   ]
 }
