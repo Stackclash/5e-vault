@@ -11,11 +11,9 @@
             "id": "57f6715283185e52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
-                "mode": "source",
-                "source": false
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md",
+                "file": "3. The Party/Parties/Parties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. World Almanac/Worlds/Eldoria.md"
+                "file": "3. The Party/Parties/Parties.md"
               }
             }
           },
@@ -192,7 +190,11 @@
   },
   "active": "57f6715283185e52",
   "lastOpenFiles": [
+    "3. The Party/Players/Players.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/Worlds/Worlds.md",
+    "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
     "compendium/bestiary/npc/img/005-cos02-02.png",
@@ -234,10 +236,6 @@
     "compendium/rules/variant-rules/renown.md",
     "compendium/rules/variant-rules/proficiency-dice.md",
     "compendium/rules/variant-rules/plot-points.md",
-    "compendium/rules/variant-rules/playing-on-a-grid.md",
-    "compendium/rules/variant-rules/player-characters-as-vampires.md",
-    "compendium/rules/variant-rules/player-characters-as-lycanthropes.md",
-    "compendium/rules/variant-rules/planar-effects.md",
     "Untitled.canvas"
   ]
 }

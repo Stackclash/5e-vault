@@ -10,7 +10,7 @@ party_player:
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 exhaustion_level: 1
-movement: riding horse
+movement: walking
 speed: normal
 ---
 # `=this.file.name`
