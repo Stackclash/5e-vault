@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["+3 Arcane Grimoire"]
+aliases: 
+- "+3 Arcane Grimoire"
 ---
 # +3 Arcane Grimoire
 *Wondrous Item, very rare (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 While you are holding this leather-bound book, you can use it as a spellcasting focus for your wizard spells, and you gain a +3 bonus to spell attack rolls and to the saving throw DCs of your wizard spells.

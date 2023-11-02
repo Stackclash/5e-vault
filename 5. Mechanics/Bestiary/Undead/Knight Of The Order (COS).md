@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Knight of the Order"]
 ---
-# Knight of the Order
+# [Knight of the Order](compendium\bestiary\undead/knight-of-the-order-cos.md)
 *Source: Curse of Strahd p. 139, Derived from *  
 
 ```statblock
-"name": "Knight of the Order"
+"name": "Knight of the Order (CoS)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -26,13 +29,15 @@ aliases: ["Knight of the Order"]
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Strength": "+7"
-  "Constitution": "+7"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"

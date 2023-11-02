@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/thrown
 - item/weapon/simple/melee
-aliases: ["Javelin"]
+aliases: 
+- "Javelin"
+cost: 5 sp
 ---
 # Javelin
 *Melee Weapon*  

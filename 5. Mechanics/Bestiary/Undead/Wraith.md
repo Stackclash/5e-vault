@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Wraith"]
 ---
-# Wraith
+# [Wraith](compendium\bestiary\undead/wraith.md)
 *Source: Monster Manual p. 302, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
@@ -51,8 +54,10 @@ A wraith doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "5"

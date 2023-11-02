@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Radiant Resistance"]
+aliases: 
+- "Potion of Radiant Resistance"
 ---
 # Potion of Radiant Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to radiant damage for 1 hour.
 

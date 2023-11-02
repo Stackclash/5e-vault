@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/trade-good
-aliases: ["Iron"]
+aliases: 
+- "Iron"
+cost: 1 sp
 ---
 # Iron
 *Trade Good*  

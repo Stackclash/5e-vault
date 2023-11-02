@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/shifter
+statblock: inline
 aliases: ["Shifter"]
 ---
-# Shifter
+# [Shifter](compendium\bestiary\humanoid/shifter-erlw.md)
 *Source: Eberron: Rising from the Last War p. 319*  
 
 Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
 
 ```statblock
-"name": "Shifter"
+"name": "Shifter (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "shifter"
@@ -29,10 +32,10 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Nature": "+2"
-  "Insight": "+4"
-  "Perception": "+4"
-  "Acrobatics": "+5"
+  "Nature": !!int "2"
+  "Insight": !!int "4"
+  "Perception": !!int "4"
+  "Acrobatics": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common"
 "cr": "1/2"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Lief Lipsiege"]
 ---
-# Lief Lipsiege
+# [Lief Lipsiege](compendium\bestiary\npc/lief-lipsiege-cos.md)
 *Source: Curse of Strahd p. 62, Derived from *  
 
 ```statblock
-"name": "Lief Lipsiege"
+"name": "Lief Lipsiege (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

@@ -19,6 +19,6 @@ aliases: ["Magic Item Table E"]
 | 56-70 | [[5. Mechanics/Items/Potion Of Supreme Healing.md\|Potion of supreme healing]] |
 | 71-85 | [[5. Mechanics/Items/Spell Scroll-9th Level.md\|Spell scroll (9th level)]] |
 | 86-93 | [[5. Mechanics/Items/Universal Solvent.md\|Universal solvent]] |
-| 94-98 | Arrow of slaying |
+| 94-98 | [[5. Mechanics/Items/Arrow Of Slaying.md\|Arrow of slaying]] |
 | 99-100 | [[5. Mechanics/Items/Sovereign Glue.md\|Sovereign glue]] |
 ^magic-item-table-e

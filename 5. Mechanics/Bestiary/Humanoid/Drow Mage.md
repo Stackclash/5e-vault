@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Mage"]
 ---
-# Drow Mage
+# [Drow Mage](compendium\bestiary\humanoid/drow-mage.md)
 *Source: Monster Manual p. 129*  
 
 ## Drow
@@ -82,10 +85,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+5"
-  "Perception": "+4"
-  "Arcana": "+6"
+  "Deception": !!int "4"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
+  "Arcana": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "7"
@@ -100,16 +103,15 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). The drow has\
     \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Poison Spray.md|poison spray]],\
-    \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+    \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
     \ [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Alter Self.md|alter self]],\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Web.md|web]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Fly.md|fly]], [lightning\
-    \ bolt](compendium/spells/lightning-bolt.md)\n\n4th level (3 4th-level slots):\
-    \ [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]], [greater\
-    \ invisibility](compendium/spells/greater-invisibility.md)\n\n5th level (2 5th-level\
-    \ slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [misty\
+    \ step](compendium/spells/misty-step.md), [[5. Mechanics/Spells/Web.md|web]]\n\n\
+    3rd level (3 slots): [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
+    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level\
+    \ (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
   "name": "spells"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."

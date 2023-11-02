@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Quadrone"]
 ---
-# Quadrone
+# [Quadrone](compendium\bestiary\construct/quadrone.md)
 *Source: Monster Manual p. 226*  
 
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
@@ -60,7 +63,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"

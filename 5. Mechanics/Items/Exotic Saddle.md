@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tack-and-harness
-aliases: ["Exotic Saddle"]
+aliases: 
+- "Exotic Saddle"
+cost: 60 gp
 ---
 # Exotic Saddle
 *Tack and Harness*  

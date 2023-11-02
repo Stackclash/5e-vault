@@ -1,21 +1,24 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Deinonychus"]
 ---
-# Deinonychus
+# [Deinonychus](compendium\bestiary\beast/deinonychus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  
 
 This larger cousin of the velociraptor kills by gripping its target with its claws and feeding.
 
 ```statblock
-"name": "Deinonychus"
+"name": "Deinonychus (MPMM)"
 "size": "Medium"
 "type": "beast"
 "subtype": "dinosaur"
@@ -32,7 +35,7 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"

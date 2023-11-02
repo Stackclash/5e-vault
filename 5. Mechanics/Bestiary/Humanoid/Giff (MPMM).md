@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Giff"]
 ---
-# Giff
+# [Giff](compendium\bestiary\humanoid/giff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -27,7 +30,7 @@ In addition to their personal gunpowder weapons, giff ships and mercenary compan
 Every other keg of gunpowder within 20 feet of an exploding keg has a 50% chance chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
 
 ```statblock
-"name": "Giff"
+"name": "Giff (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"

@@ -1,20 +1,23 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/14
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/cleric
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Inquisitor"]
 ---
-# Drow Inquisitor
+# [Drow Inquisitor](compendium\bestiary\humanoid/drow-inquisitor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102*  
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
 
 ```statblock
-"name": "Drow Inquisitor"
+"name": "Drow Inquisitor (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "cleric, elf"
@@ -31,15 +34,15 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 - !!int "20"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+10"
-  "Wisdom": "+10"
-  "Constitution": "+7"
+  "Charisma": !!int "10"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Stealth": "+7"
-  "Religion": "+8"
-  "Insight": "+10"
-  "Perception": "+10"
-"condition_immunities": "frightened"
+  "Stealth": !!int "7"
+  "Religion": !!int "8"
+  "Insight": !!int "10"
+  "Perception": !!int "10"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 20"
 "languages": "Elvish, Undercommon"
 "cr": "14"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fiend/gnoll
+statblock: inline
 aliases: ["Gnoll Fang of Yeenoghu"]
 ---
-# Gnoll Fang of Yeenoghu
+# [Gnoll Fang of Yeenoghu](compendium\bestiary\fiend/gnoll-fang-of-yeenoghu.md)
 *Source: Monster Manual p. 163*  
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
@@ -53,9 +56,9 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+3"
-  "Wisdom": "+2"
-  "Constitution": "+4"
+  "Charisma": !!int "3"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"

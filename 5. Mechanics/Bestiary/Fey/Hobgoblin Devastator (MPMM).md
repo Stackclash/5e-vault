@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fey/goblinoid
+statblock: inline
 aliases: ["Hobgoblin Devastator"]
 ---
-# Hobgoblin Devastator
+# [Hobgoblin Devastator](compendium\bestiary\fey/hobgoblin-devastator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153*  
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -24,7 +27,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 ^goblinoids-of-the-feywild
 
 ```statblock
-"name": "Hobgoblin Devastator"
+"name": "Hobgoblin Devastator (MPMM)"
 "size": "Medium"
 "type": "fey"
 "subtype": "goblinoid"
@@ -41,7 +44,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Arcana": "+5"
+  "Arcana": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
 "cr": "4"

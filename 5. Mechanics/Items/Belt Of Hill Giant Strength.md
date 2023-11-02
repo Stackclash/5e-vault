@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Belt of Hill Giant Strength"]
+aliases: 
+- "Belt of Hill Giant Strength"
 ---
 # Belt of Hill Giant Strength
 *Wondrous Item, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this belt, your Strength score changes to 21. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
 

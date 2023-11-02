@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Thunder Resistance"]
+aliases: 
+- "Ring of Thunder Resistance"
 ---
 # Ring of Thunder Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to thunder damage while wearing this ring. The ring is set with spinel.
 

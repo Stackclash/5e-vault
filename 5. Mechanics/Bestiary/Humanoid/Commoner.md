@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -11,9 +13,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Commoner"]
 ---
-# Commoner
+# [Commoner](compendium\bestiary\humanoid/commoner.md)
 *Source: Monster Manual p. 345, Curse of Strahd, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.

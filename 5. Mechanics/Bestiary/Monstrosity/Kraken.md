@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/23
 - monster/environment/underwater
 - monster/size/gargantuan
 - monster/type/monstrosity/titan
+statblock: inline
 aliases: ["Kraken"]
 ---
-# Kraken
+# [Kraken](compendium\bestiary\monstrosity/kraken.md)
 *Source: Monster Manual p. 197. Available in the SRD.*  
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
@@ -48,13 +51,14 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
 - !!int "20"
 "speed": "20 ft., swim 60 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+11"
-  "Intelligence": "+13"
-  "Strength": "+17"
-  "Constitution": "+14"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "11"
+  "Intelligence": !!int "13"
+  "Strength": !!int "17"
+  "Constitution": !!int "14"
 "damage_immunities": "lightning; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "frightened, paralyzed"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]]"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Abyssal, Celestial, Infernal, Primordial, telepathy 120 ft. but can't\
   \ speak"

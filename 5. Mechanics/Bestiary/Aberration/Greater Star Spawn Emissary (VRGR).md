@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/21
 - monster/size/huge
 - monster/type/aberration
+statblock: inline
 aliases: ["Greater Star Spawn Emissary"]
 ---
-# Greater Star Spawn Emissary
+# [Greater Star Spawn Emissary](compendium\bestiary\aberration/greater-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  
 
 An emissary's greater form sheds all pretense of being part of a plane's reality and openly mocks it. A destructive titan, this form rises in a 25-foot-tall pillar of violent flesh amalgamating the meat and voices of every form the emissary has ever mimicked. Manifestations of alien hunger erupt from this horror in waves of ravenous organs and mind-breaking psychic assaults.
@@ -22,7 +25,7 @@ Star spawn emissaries can assume two forms: a lesser form suited to infiltration
 After finishing a long rest, a greater star spawn emissary regains its lesser form if it was destroyed. When an emissary transitions from one form to another, it loses all the traits and actions of the previous form and gains those of the new form.
 
 ```statblock
-"name": "Greater Star Spawn Emissary"
+"name": "Greater Star Spawn Emissary (VRGR)"
 "size": "Huge"
 "type": "aberration"
 "alignment": "Unaligned"
@@ -38,15 +41,15 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 - !!int "25"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+14"
-  "Wisdom": "+13"
-  "Intelligence": "+15"
-  "Constitution": "+15"
+  "Charisma": !!int "14"
+  "Wisdom": !!int "13"
+  "Intelligence": !!int "15"
+  "Constitution": !!int "15"
 "skillsaves":
-  "Perception": "+13"
-  "Arcana": "+22"
+  "Perception": !!int "13"
+  "Arcana": !!int "22"
 "damage_resistances": "acid, force, necrotic, psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 1,000 ft."
 "cr": "21"

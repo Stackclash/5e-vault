@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/14
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Death Tyrant"]
 ---
-# Death Tyrant
+# [Death Tyrant](compendium\bestiary\undead/death-tyrant.md)
 *Source: Monster Manual p. 29*  
 
 On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
@@ -55,15 +58,17 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 - !!int "19"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+7"
-  "Intelligence": "+9"
-  "Strength": "+5"
-  "Constitution": "+7"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "7"
+  "Intelligence": !!int "9"
+  "Strength": !!int "5"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Perception": "+12"
+  "Perception": !!int "12"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, paralyzed, petrified, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "14"

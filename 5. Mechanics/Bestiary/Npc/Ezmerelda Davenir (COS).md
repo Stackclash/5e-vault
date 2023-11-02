@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Ezmerelda d'Avenir"]
 ---
-# Ezmerelda d'Avenir
+# [Ezmerelda d'Avenir](compendium\bestiary\npc/ezmerelda-davenir-cos.md)
 *Source: Curse of Strahd p. 231*  
 
 Ezmerelda d'Avenir, a Vistana, is the protégé of Rudolph van Richten - despite the fact that her first encounter with the vampire hunter was anything but pleasant.
@@ -35,7 +38,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 ## Tarokka Deck
 
-Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
+Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
 
 ## Ezmerelda d'Avenir's Traits
 
@@ -52,7 +55,7 @@ Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Alth
 "I go where angels fear to tread."
 
 ```statblock
-"name": "Ezmerelda d'Avenir"
+"name": "Ezmerelda d'Avenir (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -69,18 +72,18 @@ Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Alth
 - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+3"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Medicine": "+3"
-  "Sleight of Hand": "+7"
-  "Deception": "+9"
-  "Stealth": "+7"
-  "Insight": "+3"
-  "Perception": "+6"
-  "Performance": "+6"
-  "Acrobatics": "+7"
-  "Arcana": "+6"
-  "Survival": "+6"
+  "Medicine": !!int "3"
+  "Sleight of Hand": !!int "7"
+  "Deception": !!int "9"
+  "Stealth": !!int "7"
+  "Insight": !!int "3"
+  "Perception": !!int "6"
+  "Performance": !!int "6"
+  "Acrobatics": !!int "7"
+  "Arcana": !!int "6"
+  "Survival": !!int "6"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish"
 "cr": "8"
@@ -90,13 +93,13 @@ Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Alth
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-    \ 1st-level slots): [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+    \ slots): [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Darkvision.md|darkvision]],\
-    \ [[5. Mechanics/Spells/Knock.md|knock]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
-    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Magic Circle.md|magic circle]]\n\
-    \n4th level (1 4th-level slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Darkvision.md|darkvision]], [[5. Mechanics/Spells/Knock.md|knock]],\
+    \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+    \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]]\n\n4th level (1 slots):\
+    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
   "name": "spells"
 - "desc": "In addition to her magic armor and weapons, Ezmerelda has two [potions\
     \ of greater healing](compendium/items/potion-of-greater-healing.md), six [vials\

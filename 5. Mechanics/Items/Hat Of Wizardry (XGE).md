@@ -7,14 +7,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Hat of Wizardry"]
+aliases: 
+- "Hat of Wizardry"
 ---
 # Hat of Wizardry
 *Wondrous Item, minor, common (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This antiquated, cone—shaped hat is adorned with gold crescent moons and stars. While you are wearing it, you gain the following benefits:
 

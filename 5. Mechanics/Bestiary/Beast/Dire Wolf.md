@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Dire Wolf"]
 ---
-# Dire Wolf
+# [Dire Wolf](compendium\bestiary\beast/dire-wolf.md)
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -28,8 +31,8 @@ aliases: ["Dire Wolf"]
 - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"

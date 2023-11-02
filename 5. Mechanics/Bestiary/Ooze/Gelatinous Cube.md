@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/large
 - monster/type/ooze
+statblock: inline
 aliases: ["Gelatinous Cube"]
 ---
-# Gelatinous Cube
+# [Gelatinous Cube](compendium\bestiary\ooze/gelatinous-cube.md)
 *Source: Monster Manual p. 242, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
@@ -35,7 +38,9 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - !!int "6"
 - !!int "1"
 "speed": "15 ft."
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "2"

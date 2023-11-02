@@ -7,13 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/wand
-aliases: ["Wand of Wonder"]
+aliases: 
+- "Wand of Wonder"
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  
+![[5. Mechanics/Items/img/wand-of-wonder.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll `dice: d100|avg` (`d100`) and consult the following table to discover what happens.

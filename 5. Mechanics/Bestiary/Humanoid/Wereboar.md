@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Wereboar"]
 ---
-# Wereboar
+# [Wereboar](compendium\bestiary\humanoid/wereboar.md)
 *Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
@@ -68,7 +71,7 @@ Some individuals see little point in fighting the curse and accept what they are
 - !!int "8"
 "speed": "30 ft. (40 ft. in boar form)"
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "passive Perception 12"

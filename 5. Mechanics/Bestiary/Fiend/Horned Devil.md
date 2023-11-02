@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Horned Devil"]
 ---
-# Horned Devil
+# [Horned Devil](compendium\bestiary\fiend/horned-devil.md)
 *Source: Monster Manual p. 74. Available in the SRD.*  
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
@@ -151,14 +154,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "17"
 "speed": "20 ft., fly 60 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+7"
-  "Wisdom": "+7"
-  "Strength": "+10"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "7"
+  "Strength": !!int "10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "11"

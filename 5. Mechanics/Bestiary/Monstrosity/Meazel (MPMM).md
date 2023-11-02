@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
@@ -12,9 +14,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Meazel"]
 ---
-# Meazel
+# [Meazel](compendium\bestiary\monstrosity/meazel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -24,7 +27,7 @@ The evil that corrupted meazels also imbued them with magical powers that allow 
 Any creatures meazels draw through the shadows are cursed by the meazels' baleful magic. The curse acts as a beacon; sorrowsworn (which appear in this book), Undead, and other terrors sense where they are located and descend on the stranded victims to tear them apart.
 
 ```statblock
-"name": "Meazel"
+"name": "Meazel (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -40,8 +43,8 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+3"
+  "Stealth": !!int "5"
+  "Perception": !!int "3"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common"
 "cr": "1"

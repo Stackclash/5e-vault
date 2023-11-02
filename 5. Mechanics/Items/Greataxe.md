@@ -7,7 +7,9 @@ tags:
 - item/property/martial
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Greataxe"]
+aliases: 
+- "Greataxe"
+cost: 30 gp
 ---
 # Greataxe
 *Melee Weapon*  

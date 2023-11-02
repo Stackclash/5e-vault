@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/6
 - monster/environment/arctic
 - monster/environment/hill
 - monster/environment/mountain
@@ -9,9 +11,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Warlock of the Great Old One"]
 ---
-# Warlock of the Great Old One
+# [Warlock of the Great Old One](compendium\bestiary\humanoid/warlock-of-the-great-old-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256*  
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
@@ -21,7 +24,7 @@ Warlocks of the Great Old One gain their powers through magical pacts forged wit
 Warlocks gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities.
 
 ```statblock
-"name": "Warlock of the Great Old One"
+"name": "Warlock of the Great Old One (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -37,11 +40,11 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+4"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "History": "+4"
-  "Arcana": "+4"
+  "History": !!int "4"
+  "Arcana": !!int "4"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any two languages, telepathy 30 ft."

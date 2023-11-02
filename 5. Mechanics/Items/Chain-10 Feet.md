@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Chain (10 feet)"]
+aliases: 
+- "Chain (10 feet)"
+cost: 5 gp
 ---
 # Chain (10 feet)
 *Adventuring Gear*  

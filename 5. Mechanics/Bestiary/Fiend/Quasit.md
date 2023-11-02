@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/size/tiny
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Quasit"]
 ---
-# Quasit
+# [Quasit](compendium\bestiary\fiend/quasit.md)
 *Source: Monster Manual p. 63, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
@@ -198,11 +201,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+5"
+  "Stealth": !!int "5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Abyssal, Common"
 "cr": "1"

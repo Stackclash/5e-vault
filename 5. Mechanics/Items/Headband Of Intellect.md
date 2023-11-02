@@ -7,14 +7,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Headband of Intellect"]
+aliases: 
+- "Headband of Intellect"
 ---
 # Headband of Intellect
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/headband-of-intellect.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it.
 

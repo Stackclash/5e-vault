@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Star Spawn Mangler"]
 ---
-# Star Spawn Mangler
+# [Star Spawn Mangler](compendium\bestiary\aberration/star-spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -42,7 +45,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tyranthraxus, the Flamed One  
 
 ```statblock
-"name": "Star Spawn Mangler"
+"name": "Star Spawn Mangler (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -58,13 +61,14 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": "+7"
-  "Constitution": "+4"
+  "Dexterity": !!int "7"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Stealth": "+7"
+  "Stealth": !!int "7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
-"condition_immunities": "charmed, frightened, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "5"

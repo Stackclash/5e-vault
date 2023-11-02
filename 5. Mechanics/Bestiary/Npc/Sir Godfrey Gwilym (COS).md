@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/6
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Sir Godfrey Gwilym"]
 ---
-# Sir Godfrey Gwilym
+# [Sir Godfrey Gwilym](compendium\bestiary\npc/sir-godfrey-gwilym-cos.md)
 *Source: Curse of Strahd p. 139, Derived from *  
 
 ```statblock
-"name": "Sir Godfrey Gwilym"
+"name": "Sir Godfrey Gwilym (CoS)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -26,25 +29,27 @@ aliases: ["Sir Godfrey Gwilym"]
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Strength": "+7"
-  "Constitution": "+7"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "6"
 "traits":
 - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom\
     \ (spell save DC 14, dice: d20+6 (+6 to hit) with spell attacks). He has the\
-    \ following paladin spells prepared:\n\n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
+    \ following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
-    \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
-    \n4th level (2 4th-level slots): [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
+    \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
+    \n4th level (2 slots): [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
   "name": "spells"
 - "desc": "The knight regains 10 hit points at the start of its turn. If the knight\
     \ takes fire or radiant damage, this trait doesn't function at the start of the\

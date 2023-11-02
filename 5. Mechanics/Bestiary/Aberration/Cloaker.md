@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Cloaker"]
 ---
-# Cloaker
+# [Cloaker](compendium\bestiary\aberration/cloaker.md)
 *Source: Monster Manual p. 41. Available in the SRD.*  
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
@@ -49,7 +52,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 - !!int "14"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  "Stealth": "+5"
+  "Stealth": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"

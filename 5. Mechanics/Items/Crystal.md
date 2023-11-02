@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/spellcasting-focus
-aliases: ["Crystal"]
+aliases: 
+- "Crystal"
+cost: 10 gp
 ---
 # Crystal
 *Spellcasting Focus*  

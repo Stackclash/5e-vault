@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Thug"]
 ---
-# Vistana Thug
+# [Vistana Thug](compendium\bestiary\humanoid/vistana-thug-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Thug"
+"name": "Vistana Thug (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,7 +30,7 @@ aliases: ["Vistana Thug"]
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+2"
+  "Intimidation": !!int "2"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/2"

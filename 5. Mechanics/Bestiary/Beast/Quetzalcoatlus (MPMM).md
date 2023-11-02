@@ -1,21 +1,24 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/coastal
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Quetzalcoatlus"]
 ---
-# Quetzalcoatlus
+# [Quetzalcoatlus](compendium\bestiary\beast/quetzalcoatlus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
 
 ```statblock
-"name": "Quetzalcoatlus"
+"name": "Quetzalcoatlus (MPMM)"
 "size": "Huge"
 "type": "beast"
 "subtype": "dinosaur"
@@ -32,7 +35,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 - !!int "5"
 "speed": "10 ft., fly 80 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "2"

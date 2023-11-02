@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration
+statblock: inline
 aliases: ["Flumph"]
 ---
-# Flumph
+# [Flumph](compendium\bestiary\aberration/flumph.md)
 *Source: Monster Manual p. 135*  
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
@@ -45,9 +48,9 @@ Flumphs live in complex and organized groups called cloisters, within which each
 - !!int "11"
 "speed": "5 ft., fly 30 ft."
 "skillsaves":
-  "Religion": "+4"
-  "History": "+4"
-  "Arcana": "+4"
+  "Religion": !!int "4"
+  "History": !!int "4"
+  "Arcana": !!int "4"
 "damage_vulnerabilities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Undercommon but can't speak, telepathy 60 ft."

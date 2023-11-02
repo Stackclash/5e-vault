@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/forest
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Unicorn"]
 ---
-# Unicorn
+# [Unicorn](compendium\bestiary\celestial/unicorn.md)
 *Source: Monster Manual p. 294, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
@@ -65,7 +68,8 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 - !!int "16"
 "speed": "50 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "5"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Aberrant Spirit (7th-level Spell)"]
 ---
-# Aberrant Spirit (7th-level Spell)
+# [Aberrant Spirit (7th-level Spell)](compendium\bestiary\aberration/aberrant-spirit-7th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock
-"name": "Aberrant Spirit (7th-level Spell)"
+"name": "Aberrant Spirit (7th-level Spell) (TCE)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Unaligned"

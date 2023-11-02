@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/goblinoid
+statblock: inline
 aliases: ["Bugbear"]
 ---
-# Bugbear
+# [Bugbear](compendium\bestiary\humanoid/bugbear.md)
 *Source: Monster Manual p. 33, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -44,8 +47,8 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Survival": "+2"
+  "Stealth": !!int "6"
+  "Survival": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/6
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["White Abishai"]
 ---
-# White Abishai
+# [White Abishai](compendium\bestiary\fiend/white-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41*  
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -21,7 +24,7 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
 ```statblock
-"name": "White Abishai"
+"name": "White Abishai (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -38,12 +41,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "13"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Strength": "+6"
-  "Constitution": "+7"
+  "Strength": !!int "6"
+  "Constitution": !!int "7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "6"

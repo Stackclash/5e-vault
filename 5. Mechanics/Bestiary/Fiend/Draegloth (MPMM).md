@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Draegloth"]
 ---
-# Draegloth
+# [Draegloth](compendium\bestiary\fiend/draegloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98*  
 
 A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[5. Mechanics/Bestiary/Fiend/Glabrezu.md|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
@@ -19,7 +22,7 @@ Among the drow noble houses of Menzoberranzan in the Forgotten Realms, a high pr
 Although draegloths plays an important part in the plans of Lolth's cult, a draegloth can't rise above the status of a favored servant to a priest in that cult. Before a draegloth is given any duties, it receives instruction in accepting the role set for it and not challenging authority. Most draegloths fiercely resent being given orders, but thanks to their training, they typically take out their frustration on their creator's enemies, rather than on their creator. A draegloth that can't suppress its ambitions might abandon its creator and strike out on its own. Whether these rebellious draegloths are part of Lolth's plan for sowing chaos is unclear.
 
 ```statblock
-"name": "Draegloth"
+"name": "Draegloth (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -36,11 +39,11 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+3"
+  "Stealth": !!int "5"
+  "Perception": !!int "3"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "7"

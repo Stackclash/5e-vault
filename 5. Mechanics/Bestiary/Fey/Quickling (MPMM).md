@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
+statblock: inline
 aliases: ["Quickling"]
 ---
-# Quickling
+# [Quickling](compendium\bestiary\fey/quickling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207*  
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -23,7 +26,7 @@ Quicklings have a capricious nature that goes well with their energy level: they
 Tricks of that sort are hardly the limit of quicklings' artful malice, however. They don't commit outright murder, but they can ruin lives in plenty of other ways: stealing an important letter, swiping coins collected for the poor, planting a stolen item in someone's bag. Quicklings enjoy causing suffering that transcends mere mischief, especially when the blame for their actions falls on others and creates discord.
 
 ```statblock
-"name": "Quickling"
+"name": "Quickling (MPMM)"
 "size": "Tiny"
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
@@ -39,10 +42,10 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 - !!int "7"
 "speed": "120 ft."
 "skillsaves":
-  "Sleight of Hand": "+8"
-  "Stealth": "+8"
-  "Perception": "+5"
-  "Acrobatics": "+8"
+  "Sleight of Hand": !!int "8"
+  "Stealth": !!int "8"
+  "Perception": !!int "5"
+  "Acrobatics": !!int "8"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Sylvan"
 "cr": "1"

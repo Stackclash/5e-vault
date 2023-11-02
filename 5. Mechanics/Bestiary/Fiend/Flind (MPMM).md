@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/coastal
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fiend/gnoll
+statblock: inline
 aliases: ["Flind"]
 ---
-# Flind
+# [Flind](compendium\bestiary\fiend/flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an excep tionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -20,7 +23,7 @@ A war band of demon-worshiping gnolls typically contains only one flind, and tha
 Unlike other leaders who might skulk behind their minions, a flind leads the charge in battle. Its flail causes wracking pain, paralysis, and disorientation in those it strikes.
 
 ```statblock
-"name": "Flind"
+"name": "Flind (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "gnoll"
@@ -37,11 +40,11 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+5"
-  "Constitution": "+8"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Intimidation": "+5"
-  "Perception": "+5"
+  "Intimidation": !!int "5"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Gnoll, Abyssal"
 "cr": "9"

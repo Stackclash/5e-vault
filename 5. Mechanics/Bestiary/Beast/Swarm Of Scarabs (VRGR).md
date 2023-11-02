@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/3
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Swarm of Scarabs"]
 ---
-# Swarm of Scarabs
+# [Swarm of Scarabs](compendium\bestiary\beast/swarm-of-scarabs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 247*  
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
@@ -22,7 +25,7 @@ Base creatures are among the first to respond to sinister forces at work in a la
 ^swarm-behavior
 
 ```statblock
-"name": "Swarm of Scarabs"
+"name": "Swarm of Scarabs (VRGR)"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -38,8 +41,10 @@ Base creatures are among the first to respond to sinister forces at work in a la
 - !!int "1"
 "speed": "30 ft., burrow 30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "tremorsense 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"

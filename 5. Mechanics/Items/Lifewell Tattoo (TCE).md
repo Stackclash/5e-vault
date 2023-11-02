@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Lifewell Tattoo"]
+aliases: 
+- "Lifewell Tattoo"
 ---
 # Lifewell Tattoo
 *Wondrous Item, very rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo features symbols of life and rebirth.
 

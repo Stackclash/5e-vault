@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/gith
+statblock: inline
 aliases: ["Githzerai Zerth"]
 ---
-# Githzerai Zerth
+# [Githzerai Zerth](compendium\bestiary\humanoid/githzerai-zerth.md)
 *Source: Monster Manual p. 161*  
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -74,14 +77,14 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Intelligence": "+6"
-  "Strength": "+4"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "6"
+  "Strength": !!int "4"
 "skillsaves":
-  "Insight": "+6"
-  "Perception": "+6"
-  "Arcana": "+6"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+  "Arcana": !!int "6"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "6"

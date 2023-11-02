@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/28
 - monster/size/large
 - monster/type/fiend
+statblock: inline
 aliases: ["Sul Khatesh"]
 ---
-# Sul Khatesh
+# [Sul Khatesh](compendium\bestiary\npc/sul-khatesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 304*  
 
 Sul Khatesh is known as the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness.
@@ -34,7 +37,7 @@ As long as the overlords are bound by the Silver Flame, they can't physically ma
 Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh and Sul Khatesh, both of whom remain imprisoned and can't take physical form. The stat blocks provided here reflect the powers they would wield if they were ever unleashed upon the world.
 
 ```statblock
-"name": "Sul Khatesh"
+"name": "Sul Khatesh (ERLW)"
 "size": "Large"
 "type": "fiend"
 "alignment": "Lawful Evil"
@@ -50,18 +53,20 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 - !!int "25"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+15"
-  "Wisdom": "+14"
-  "Intelligence": "+18"
-  "Constitution": "+12"
+  "Charisma": !!int "15"
+  "Wisdom": !!int "14"
+  "Intelligence": !!int "18"
+  "Constitution": !!int "12"
 "skillsaves":
-  "Religion": "+18"
-  "Insight": "+14"
-  "History": "+18"
-  "Arcana": "+18"
+  "Religion": !!int "18"
+  "Insight": !!int "14"
+  "History": !!int "18"
+  "Arcana": !!int "18"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 16"
 "languages": "all, telepathy 150 ft."
 "cr": "28"

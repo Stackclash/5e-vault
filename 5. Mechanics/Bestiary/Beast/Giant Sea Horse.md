@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underwater
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Sea Horse"]
 ---
-# Giant Sea Horse
+# [Giant Sea Horse](compendium\bestiary\beast/giant-sea-horse.md)
 *Source: Monster Manual p. 328. Available in the SRD and the Basic Rules.*  
 
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.

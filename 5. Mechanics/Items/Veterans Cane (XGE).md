@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Veteran's Cane"]
+aliases: 
+- "Veteran's Cane"
 ---
 # Veteran's Cane
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you grasp this walking cane and use a bonus action to speak the command word, it transforms into an ordinary longsword and ceases to be magical.
 

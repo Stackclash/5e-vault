@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/23
 - monster/size/huge
 - monster/type/celestial/titan
+statblock: inline
 aliases: ["Empyrean"]
 ---
-# Empyrean
+# [Empyrean](compendium\bestiary\celestial/empyrean.md)
 *Source: Monster Manual p. 130*  
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
@@ -41,13 +44,13 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - !!int "27"
 "speed": "50 ft., fly 50 ft., swim 50 ft."
 "saves":
-  "Charisma": "+15"
-  "Wisdom": "+13"
-  "Intelligence": "+12"
-  "Strength": "+17"
+  "Charisma": !!int "15"
+  "Wisdom": !!int "13"
+  "Intelligence": !!int "12"
+  "Strength": !!int "17"
 "skillsaves":
-  "Insight": "+13"
-  "Persuasion": "+15"
+  "Insight": !!int "13"
+  "Persuasion": !!int "15"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "truesight 120 ft., passive Perception 16"
 "languages": "all"

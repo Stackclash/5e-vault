@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Tarkanan Assassin"]
 ---
-# Tarkanan Assassin
+# [Tarkanan Assassin](compendium\bestiary\humanoid/tarkanan-assassin-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Tarkanan assassins are the elite killers, spies, and thieves who work for House Tarkanan, a criminal organization specializing in theft and assassination. In addition to their deadly skill, a Tarkanan assassin possesses an aberrant dragonmark—a twisted sigil that provides them with magical power. House Tarkanan actively seeks and recruits people with aberrant dragonmarks.
@@ -27,7 +30,7 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 ^aberrant-dragonmark-innate-spells
 
 ```statblock
-"name": "Tarkanan Assassin"
+"name": "Tarkanan Assassin (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -44,11 +47,11 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+3"
-  "Sleight of Hand": "+5"
-  "Deception": "+2"
-  "Stealth": "+5"
-  "Perception": "+4"
+  "Athletics": !!int "3"
+  "Sleight of Hand": !!int "5"
+  "Deception": !!int "2"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Thieves' cant"
 "cr": "2"

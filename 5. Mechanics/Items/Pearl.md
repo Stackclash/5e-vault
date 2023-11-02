@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Pearl"]
+aliases: 
+- "Pearl"
+cost: 100 gp
 ---
 # Pearl
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 An opaque lustrous white, yellow, or pink gemstone.
 

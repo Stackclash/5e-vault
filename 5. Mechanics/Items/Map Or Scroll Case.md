@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Map or Scroll Case"]
+aliases: 
+- "Map or Scroll Case"
+cost: 1 gp
 ---
 # Map or Scroll Case
 *Adventuring Gear*  

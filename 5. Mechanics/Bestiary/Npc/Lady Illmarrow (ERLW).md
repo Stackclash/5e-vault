@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/22
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Lady Illmarrow"]
 ---
-# Lady Illmarrow
+# [Lady Illmarrow](compendium\bestiary\npc/lady-illmarrow-erlw.md)
 *Source: Eberron: Rising from the Last War p. 296*  
 
 Lady Illmarrow is a legend—an ancient lich said to dwell in a castle of bone and ice in the coldest regions of the Lhazaar Principalities. Some stories say that she is served by a legion of undead and that she maintains a court of vampires and ghosts in her palace of ice. Other tales claim that when anyone dies in Lhazaar, Illmarrow chooses whether to take their soul before it passes on to the Keeper and Dolurrh.
@@ -41,7 +44,7 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
 ^lady-illmarrow-and-the-blood-of-vol
 
 ```statblock
-"name": "Lady Illmarrow"
+"name": "Lady Illmarrow (ERLW)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Evil"
@@ -57,19 +60,22 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
 - !!int "24"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Wisdom": "+12"
-  "Intelligence": "+15"
-  "Constitution": "+12"
+  "Wisdom": !!int "12"
+  "Intelligence": !!int "15"
+  "Constitution": !!int "12"
 "skillsaves":
-  "Insight": "+12"
-  "Perception": "+12"
-  "History": "+15"
-  "Arcana": "+15"
+  "Insight": !!int "12"
+  "Perception": !!int "12"
+  "History": !!int "15"
+  "Arcana": !!int "15"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 22"
 "languages": "Common, Draconic, Elvish"
 "cr": "22"
@@ -79,24 +85,23 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
     \ has the following wizard spells prepared:\n\nCantrips (at will): [chill\
     \ touch](compendium/spells/chill-touch.md) (see \"Actions\" below), [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
-    \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Blur.md|blur]],\
+    \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
     \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
     \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
     \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Confusion.md|confusion]],\
-    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (3 5th-level slots):\
-    \ [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]],\
-    \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]], [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
-    \n6th level (2 6th-level slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]],\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Confusion.md|confusion]],\
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (3 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
+    \ [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
+    \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (2 slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]],\
     \ [[5. Mechanics/Spells/Circle Of Death.md|circle of death]], [[5. Mechanics/Spells/Create Undead.md|create undead]]\n\
-    \n7th level (2 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+    \n7th level (2 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
     \ [[5. Mechanics/Spells/Forcecage.md|forcecage]], [[5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]\n\
-    \n8th level (1 8th-level slots): [[5. Mechanics/Spells/Incendiary Cloud.md|incendiary cloud]],\
-    \ [[5. Mechanics/Spells/Maze.md|maze]]\n\n9th level (1 9th-level slots): [power\
-    \ word kill](compendium/spells/power-word-kill.md), [[5. Mechanics/Spells/Time Stop.md|time stop]]"
+    \n8th level (1 slots): [[5. Mechanics/Spells/Incendiary Cloud.md|incendiary cloud]],\
+    \ [[5. Mechanics/Spells/Maze.md|maze]]\n\n9th level (1 slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]],\
+    \ [[5. Mechanics/Spells/Time Stop.md|time stop]]"
   "name": "spells"
 - "desc": "If Illmarrow fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Kruthik Hive Lord"]
 ---
-# Kruthik Hive Lord
+# [Kruthik Hive Lord](compendium\bestiary\monstrosity/kruthik-hive-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
@@ -35,7 +38,7 @@ Although they can feed on carrion, kruthiks prefer live prey. They kill enemies 
 Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
 
 ```statblock
-"name": "Kruthik Hive Lord"
+"name": "Kruthik Hive Lord (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -51,7 +54,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - !!int "10"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  "Perception": "+8"
+  "Perception": !!int "8"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 18"
 "languages": "Kruthik"
 "cr": "5"

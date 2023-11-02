@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/22
 - monster/size/huge
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Geryon"]
 ---
-# Geryon
+# [Geryon](compendium\bestiary\npc/geryon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
@@ -23,7 +26,7 @@ Among the archdevils, Geryon is known for his martial prowess. He is a ferocious
 Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling complex that rises from the icy center of Stygia. He roams the passages, spitting oaths of vengeance against Asmodeus and hatching schemes to reclaim his standing from Levistus. The challenge rating of Geryon is 23 (50,000 XP) when he's encountered in his lair.
 
 ```statblock
-"name": "Geryon"
+"name": "Geryon (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "devil"
@@ -40,18 +43,19 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 - !!int "23"
 "speed": "30 ft., fly 50 ft."
 "saves":
-  "Charisma": "+13"
-  "Dexterity": "+10"
-  "Wisdom": "+10"
-  "Constitution": "+13"
+  "Charisma": !!int "13"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "13"
 "skillsaves":
-  "Intimidation": "+13"
-  "Deception": "+13"
-  "Perception": "+10"
+  "Intimidation": !!int "13"
+  "Deception": !!int "13"
+  "Perception": !!int "10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "all, telepathy 120 ft."
 "cr": "22"

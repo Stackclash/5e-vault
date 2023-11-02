@@ -9,14 +9,14 @@ tags:
 - item/property/reach
 - item/rarity/very-rare
 - item/weapon/martial/melee
-aliases: ["Dyrrn's Tentacle Whip"]
+aliases: 
+- "Dyrrn's Tentacle Whip"
 ---
 # Dyrrn's Tentacle Whip
 *Melee Weapon, very rare (requires attunement)*  
 
 - **Damage**: 1d4 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], Requires Attunement
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
 
 This long, whip-like strand of tough muscle bears a sharp stinger at one end. To attune to this symbiotic weapon, you wrap the whip around your wrist for the entire attunement period, during which time the whip painfully embeds its tendrils into your arm.

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/24
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient Gold Dragon"]
 ---
-# Ancient Gold Dragon
+# [Ancient Gold Dragon](compendium\bestiary\dragon/ancient-gold-dragon.md)
 *Source: Monster Manual p. 113. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -96,15 +99,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "28"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": "+16"
-  "Dexterity": "+9"
-  "Wisdom": "+10"
-  "Constitution": "+16"
+  "Charisma": !!int "16"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "16"
 "skillsaves":
-  "Stealth": "+9"
-  "Insight": "+10"
-  "Perception": "+17"
-  "Persuasion": "+16"
+  "Stealth": !!int "9"
+  "Insight": !!int "10"
+  "Perception": !!int "17"
+  "Persuasion": !!int "16"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
 "languages": "Common, Draconic"

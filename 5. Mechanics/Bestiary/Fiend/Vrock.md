@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Vrock"]
 ---
-# Vrock
+# [Vrock](compendium\bestiary\fiend/vrock.md)
 *Source: Monster Manual p. 64, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
@@ -200,13 +203,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "saves":
-  "Charisma": "+2"
-  "Dexterity": "+5"
-  "Wisdom": "+4"
+  "Charisma": !!int "2"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"

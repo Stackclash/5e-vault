@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/21
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Moloch"]
 ---
-# Moloch
+# [Moloch](compendium\bestiary\npc/moloch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -26,7 +29,7 @@ Rumors suggest that he can often be found in Sigil, where he bargains with yugol
 Most of Moloch's cultists have switched allegiance to one of the other archdevils, but idols constructed to honor him still stand in deep dungeons, their jeweled eyes and the remnants of power they hold drawing monstrous worshipers and unwise adventurers into places where his foul influence remains.
 
 ```statblock
-"name": "Moloch"
+"name": "Moloch (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "devil"
@@ -43,18 +46,19 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
 - !!int "23"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+13"
-  "Dexterity": "+11"
-  "Wisdom": "+11"
-  "Constitution": "+13"
+  "Charisma": !!int "13"
+  "Dexterity": !!int "11"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "13"
 "skillsaves":
-  "Intimidation": "+13"
-  "Deception": "+13"
-  "Perception": "+11"
+  "Intimidation": !!int "13"
+  "Deception": !!int "13"
+  "Perception": !!int "11"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"

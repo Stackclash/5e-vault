@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Earth Elemental"]
 ---
-# Earth Elemental
+# [Earth Elemental](compendium\bestiary\elemental/earth-elemental.md)
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
@@ -53,7 +56,9 @@ An elemental doesn't require air, food, drink, or sleep.
 "damage_vulnerabilities": "thunder"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": "Terran"
 "cr": "5"

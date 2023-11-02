@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/mountain
@@ -9,9 +11,10 @@ tags:
 - monster/environment/urban
 - monster/size/small
 - monster/type/humanoid
+statblock: inline
 aliases: ["Kobold Scale Sorcerer"]
 ---
-# Kobold Scale Sorcerer
+# [Kobold Scale Sorcerer](compendium\bestiary\humanoid/kobold-scale-sorcerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165*  
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -19,7 +22,7 @@ Kobold scale sorcerers have an innate talent for arcane magic, making them highl
 A scale sorcerer who resides in or near a dragon's lair may serve as that dragon's diplomat and mouthpiece—anticipating the dragon's needs, issuing commands to others on the dragon's behalf, and reporting information back to the dragon. Such scale sorcerers often wear artificial wings, which are a sign of their draconic office. Scale sorcerers are just as awed by and respectful of dragons as others who venerate these mighty creatures, but they know that duty requires them not to fawn over their master at all times. They also understand that their frequent proximity to their dragon master means they would probably be the first to die if their master became angry or displeased, so they frantically maintain a balance between adoration and terror in their behavior toward their master.
 
 ```statblock
-"name": "Kobold Scale Sorcerer"
+"name": "Kobold Scale Sorcerer (MPMM)"
 "size": "Small"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -35,8 +38,8 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": "+1"
-  "Arcana": "+2"
+  "Medicine": !!int "1"
+  "Arcana": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Draconic"
 "cr": "1"

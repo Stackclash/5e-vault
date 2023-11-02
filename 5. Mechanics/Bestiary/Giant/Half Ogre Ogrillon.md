@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/forest
@@ -11,9 +13,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Half-Ogre (Ogrillon)"]
 ---
-# Half-Ogre (Ogrillon)
+# [Half-Ogre (Ogrillon)](compendium\bestiary\giant/half-ogre-ogrillon.md)
 *Source: Monster Manual p. 238, Eberron: Rising from the Last War*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.

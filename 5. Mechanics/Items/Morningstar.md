@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/martial
 - item/weapon/martial/melee
-aliases: ["Morningstar"]
+aliases: 
+- "Morningstar"
+cost: 15 gp
 ---
 # Morningstar
 *Melee Weapon*  

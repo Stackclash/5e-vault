@@ -6,13 +6,13 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Dread Helm"]
+aliases: 
+- "Dread Helm"
 ---
 # Dread Helm
 *Wondrous Item, minor, common*  
+![[5. Mechanics/Items/img/dread-helm.png#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This fearsome steel helm makes your eyes glow red while you wear it.
 

@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/erlw
 - item/rarity/common
 - item/wondrous
-aliases: ["Spellshard"]
+aliases: 
+- "Spellshard"
 ---
 # Spellshard
 *Wondrous Item, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This polished Eberron dragonshard fits in the hand and stores information similar to a book. The shard can hold the equivalent of one book that's no more than 320 pages long. A shard can be created blank or already filled with information. When the shard is created, the creator can set a passphrase that must be spoken to access the information stored within.
 

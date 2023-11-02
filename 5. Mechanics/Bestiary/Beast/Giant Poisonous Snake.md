@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
@@ -10,9 +12,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Poisonous Snake"]
 ---
-# Giant Poisonous Snake
+# [Giant Poisonous Snake](compendium\bestiary\beast/giant-poisonous-snake.md)
 *Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -32,7 +35,7 @@ aliases: ["Giant Poisonous Snake"]
 - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "blindsight 10 ft., passive Perception 12"
 "languages": ""
 "cr": "1/4"

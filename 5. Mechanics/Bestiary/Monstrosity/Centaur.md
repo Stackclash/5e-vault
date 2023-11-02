@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Centaur"]
 ---
-# Centaur
+# [Centaur](compendium\bestiary\monstrosity/centaur.md)
 *Source: Monster Manual p. 38. Available in the SRD and the Basic Rules.*  
 
 > [!quote]- A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
@@ -51,9 +54,9 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  "Athletics": "+6"
-  "Perception": "+3"
-  "Survival": "+3"
+  "Athletics": !!int "6"
+  "Perception": !!int "3"
+  "Survival": !!int "3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"

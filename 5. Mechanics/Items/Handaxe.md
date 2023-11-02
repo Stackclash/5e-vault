@@ -6,7 +6,9 @@ tags:
 - item/property/light
 - item/property/thrown
 - item/weapon/simple/melee
-aliases: ["Handaxe"]
+aliases: 
+- "Handaxe"
+cost: 5 gp
 ---
 # Handaxe
 *Melee Weapon*  

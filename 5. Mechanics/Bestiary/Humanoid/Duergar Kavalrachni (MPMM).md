@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
+statblock: inline
 aliases: ["Duergar Kavalrachni"]
 ---
-# Duergar Kavalrachni
+# [Duergar Kavalrachni](compendium\bestiary\humanoid/duergar-kavalrachni-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
 Kavalrachni are duergar cavalry trained to fight while riding [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md|female steeders]] (in this book) or other Underdark creatures as mounts.
@@ -34,7 +37,7 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
 ```statblock
-"name": "Duergar Kavalrachni"
+"name": "Duergar Kavalrachni (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "dwarf"

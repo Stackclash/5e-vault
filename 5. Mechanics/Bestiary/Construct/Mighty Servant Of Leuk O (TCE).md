@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/huge
 - monster/type/construct
+statblock: inline
 aliases: ["Mighty Servant of Leuk-o"]
 ---
-# Mighty Servant of Leuk-o
+# [Mighty Servant of Leuk-o](compendium\bestiary\construct/mighty-servant-of-leuk-o-tce.md)
 *Source: Tasha's Cauldron of Everything p. 131*  
 
 ```statblock
-"name": "Mighty Servant of Leuk-o"
+"name": "Mighty Servant of Leuk-o (TCE)"
 "size": "Huge"
 "type": "construct"
 "alignment": "Unaligned"
@@ -26,15 +29,20 @@ aliases: ["Mighty Servant of Leuk-o"]
 - !!int "10"
 "speed": "60 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+9"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "9"
 "skillsaves":
-  "Perception": "+9"
+  "Perception": !!int "9"
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "acid, bludgeoning, cold, fire, lightning, necrotic, poison,\
   \ psychic, radiant"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
-  \ incapacitated, paralyzed, petrified, poisoned, restrained, stunned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "blindsight 120 ft., passive Perception 19"
 "languages": "understands the languages of creatures attuned to it but can't speak"
 "traits":

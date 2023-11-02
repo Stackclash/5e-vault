@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/small
 - monster/type/humanoid/gnome
+statblock: inline
 aliases: ["Deep Gnome (Svirfneblin)"]
 ---
-# Deep Gnome (Svirfneblin)
+# [Deep Gnome (Svirfneblin)](compendium\bestiary\humanoid/deep-gnome-svirfneblin.md)
 *Source: Monster Manual p. 164. Available in the SRD.*  
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
@@ -44,9 +47,9 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 - !!int "9"
 "speed": "20 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Investigation": "+3"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Investigation": !!int "3"
+  "Perception": !!int "2"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Gnomish, Terran, Undercommon"
 "cr": "1/2"

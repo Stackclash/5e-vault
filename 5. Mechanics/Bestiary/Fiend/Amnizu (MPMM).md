@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/18
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Amnizu"]
 ---
-# Amnizu
+# [Amnizu](compendium\bestiary\fiend/amnizu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46*  
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
@@ -14,7 +17,7 @@ Amnizus lead infernal legions into battle and command guardians at the gateways 
 Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemures]]. Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
 
 ```statblock
-"name": "Amnizu"
+"name": "Amnizu (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -31,16 +34,16 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 - !!int "18"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Charisma": "+10"
-  "Dexterity": "+7"
-  "Wisdom": "+7"
-  "Constitution": "+9"
+  "Charisma": !!int "10"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Perception": "+7"
+  "Perception": !!int "7"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Common, Infernal, telepathy 1,000 ft."
 "cr": "18"

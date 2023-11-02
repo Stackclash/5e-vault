@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
+statblock: inline
 aliases: ["Duergar Stone Guard"]
 ---
-# Duergar Stone Guard
+# [Duergar Stone Guard](compendium\bestiary\humanoid/duergar-stone-guard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110*  
 
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
@@ -34,7 +37,7 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
 ```statblock
-"name": "Duergar Stone Guard"
+"name": "Duergar Stone Guard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "dwarf"

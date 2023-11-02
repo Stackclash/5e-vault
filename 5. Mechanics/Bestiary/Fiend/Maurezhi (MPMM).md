@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Maurezhi"]
 ---
-# Maurezhi
+# [Maurezhi](compendium\bestiary\fiend/maurezhi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175*  
 
 When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] and [[5. Mechanics/Bestiary/Undead/Ghast.md|ghasts]] on the Material Plane.
@@ -18,7 +21,7 @@ When a maurezhi consumes the corpse of a Humanoid it has slain—a process that 
 A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. If this affliction is allowed to go far enough, the victim is infected with an unholy hunger for flesh that overpowers their personality and transforms them into a ghoul.
 
 ```statblock
-"name": "Maurezhi"
+"name": "Maurezhi (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -35,11 +38,12 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+5"
+  "Deception": !!int "5"
 "damage_resistances": "cold; fire; lightning; necrotic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Elvish, telepathy 120 ft."
 "cr": "7"

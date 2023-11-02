@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/gith
+statblock: inline
 aliases: ["Githyanki Kith'rak"]
 ---
-# Githyanki Kith'rak
+# [Githyanki Kith'rak](compendium\bestiary\humanoid/githyanki-kithrak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
 
 Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md|githyanki warriors]]), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
@@ -19,7 +22,7 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 Githyanki descend from an ancient people who were also the progenitors of githzerai (also in this book). These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane. Among the best-known githyanki are the bellicose followers of the Lich Queen Vlaakith. They terrorize the Astral Plane, raiding into other planes to plunder the multiverse of its magic and riches.
 
 ```statblock
-"name": "Githyanki Kith'rak"
+"name": "Githyanki Kith'rak (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "gith"
@@ -36,12 +39,12 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+6"
-  "Intelligence": "+7"
-  "Constitution": "+7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Intimidation": "+7"
-  "Perception": "+6"
+  "Intimidation": !!int "7"
+  "Perception": !!int "6"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "12"

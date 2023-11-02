@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/10
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Madam Eva"]
 ---
-# Madam Eva
+# [Madam Eva](compendium\bestiary\npc/madam-eva-cos.md)
 *Source: Curse of Strahd p. 233*  
 
 The fortune-teller Madam Eva lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
@@ -40,7 +43,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 "The people whose fates I divine aren't important. They are but the means to an end."
 
 ```statblock
-"name": "Madam Eva"
+"name": "Madam Eva (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -57,14 +60,14 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 - !!int "18"
 "speed": "20 ft."
 "saves":
-  "Constitution": "+5"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Intimidation": "+8"
-  "Deception": "+8"
-  "Religion": "+7"
-  "Insight": "+13"
-  "Perception": "+9"
-  "Arcana": "+7"
+  "Intimidation": !!int "8"
+  "Deception": !!int "8"
+  "Religion": !!int "7"
+  "Insight": !!int "13"
+  "Perception": !!int "9"
+  "Arcana": !!int "7"
 "senses": "passive Perception 19"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "10"
@@ -73,24 +76,23 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
     \ (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). Madam Eva\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Command.md|command]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [protection\
     \ from evil and good](compendium/spells/protection-from-evil-and-good.md)\n\n\
-    2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
+    2nd level (3 slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
     \ [[5. Mechanics/Spells/Protection From Poison.md|protection from poison]], [spiritual\
-    \ weapon](compendium/spells/spiritual-weapon.md)\n\n3rd level (3 3rd-level slots):\
-    \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]], [speak\
-    \ with dead](compendium/spells/speak-with-dead.md), [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Divination.md|divination]],\
-    \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]], [guardian of\
-    \ faith](compendium/spells/guardian-of-faith.md)\n\n5th level (2 5th-level slots):\
-    \ [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\
-    \n6th level (1 6th-level slots): [[5. Mechanics/Spells/Find The Path.md|find the path]],\
-    \ [[5. Mechanics/Spells/Harm.md|harm]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
-    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Fire Storm.md|fire storm]],\
-    \ [[5. Mechanics/Spells/Regenerate.md|regenerate]]\n\n8th level (1 8th-level slots):\
-    \ [[5. Mechanics/Spells/Earthquake.md|earthquake]]"
+    \ weapon](compendium/spells/spiritual-weapon.md)\n\n3rd level (3 slots): [create\
+    \ food and water](compendium/spells/create-food-and-water.md), [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]],\
+    \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\n4th level (3\
+    \ slots): [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]],\
+    \ [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\n5th level (2\
+    \ slots): [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]], [raise\
+    \ dead](compendium/spells/raise-dead.md)\n\n6th level (1 slots): [find the\
+    \ path](compendium/spells/find-the-path.md), [[5. Mechanics/Spells/Harm.md|harm]],\
+    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 slots):\
+    \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Regenerate.md|regenerate]]\n\
+    \n8th level (1 slots): [[5. Mechanics/Spells/Earthquake.md|earthquake]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+4 (+4 to hit), reach 5 ft., one target.\

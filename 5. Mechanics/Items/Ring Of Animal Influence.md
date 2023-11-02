@@ -6,13 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Animal Influence"]
+aliases: 
+- "Ring of Animal Influence"
 ---
 # Ring of Animal Influence
 *Ring, major, rare*  
+![[5. Mechanics/Items/img/ring-of-animal-influence.jpg#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This ring has 3 charges, and it regains `dice: 1d3|avg` (`1d3`) expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:
 

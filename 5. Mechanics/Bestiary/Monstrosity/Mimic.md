@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
+statblock: inline
 aliases: ["Mimic"]
 ---
-# Mimic
+# [Mimic](compendium\bestiary\monstrosity/mimic.md)
 *Source: Monster Manual p. 220, Curse of Strahd. Available in the SRD.*  
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
@@ -46,9 +49,9 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 - !!int "8"
 "speed": "15 ft."
 "skillsaves":
-  "Stealth": "+5"
+  "Stealth": !!int "5"
 "damage_immunities": "acid"
-"condition_immunities": "prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"

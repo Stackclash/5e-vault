@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Azurite"]
+aliases: 
+- "Azurite"
+cost: 10 gp
 ---
 # Azurite
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque mottled deep blue gemstone.
 

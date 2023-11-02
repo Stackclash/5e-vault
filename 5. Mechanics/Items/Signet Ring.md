@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Signet Ring"]
+aliases: 
+- "Signet Ring"
+cost: 5 gp
 ---
 # Signet Ring
 *Adventuring Gear*  
 
 - **Cost**: 5 gp
-- **Weight**: ⏤
 
 *Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

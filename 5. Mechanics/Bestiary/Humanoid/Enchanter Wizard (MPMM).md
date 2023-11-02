@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Enchanter Wizard"]
 ---
-# Enchanter Wizard
+# [Enchanter Wizard](compendium\bestiary\humanoid/enchanter-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261*  
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
@@ -17,7 +20,7 @@ Enchanters know how to magically influence minds. Benign enchanters use this mag
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Enchanter Wizard"
+"name": "Enchanter Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,11 +36,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+4"
-  "Intelligence": "+6"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "History": "+6"
-  "Arcana": "+6"
+  "History": !!int "6"
+  "Arcana": !!int "6"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "5"

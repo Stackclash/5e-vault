@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/heavy
-aliases: ["Plate Armor"]
+aliases: 
+- "Plate Armor"
+cost: 1,500 gp
 ---
 # Plate Armor
 *Heavy Armor*  

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Bedroll"]
+aliases: 
+- "Bedroll"
+cost: 1 gp
 ---
 # Bedroll
 *Adventuring Gear*  

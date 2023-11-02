@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Badger"]
 ---
-# Giant Badger
+# [Giant Badger](compendium\bestiary\beast/giant-badger.md)
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
+statblock: inline
 aliases: ["Duergar Mind Master"]
 ---
-# Duergar Mind Master
+# [Duergar Mind Master](compendium\bestiary\humanoid/duergar-mind-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108*  
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
@@ -34,7 +37,7 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
 ```statblock
-"name": "Duergar Mind Master"
+"name": "Duergar Mind Master (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "dwarf"
@@ -51,10 +54,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - !!int "12"
 "speed": "25 ft."
 "saves":
-  "Wisdom": "+2"
+  "Wisdom": !!int "2"
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+2"
+  "Stealth": !!int "5"
+  "Perception": !!int "2"
 "damage_resistances": "poison"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"

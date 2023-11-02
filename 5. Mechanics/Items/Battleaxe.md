@@ -6,7 +6,9 @@ tags:
 - item/property/martial
 - item/property/versatile
 - item/weapon/martial/melee
-aliases: ["Battleaxe"]
+aliases: 
+- "Battleaxe"
+cost: 10 gp
 ---
 # Battleaxe
 *Melee Weapon*  

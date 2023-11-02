@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Barrier Tattoo (Small)"]
+aliases: 
+- "Barrier Tattoo (Small)"
 ---
 # Barrier Tattoo (Small)
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.
 

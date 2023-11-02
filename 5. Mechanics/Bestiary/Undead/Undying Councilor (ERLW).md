@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/10
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Undying Councilor"]
 ---
-# Undying Councilor
+# [Undying Councilor](compendium\bestiary\undead/undying-councilor-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -36,7 +39,7 @@ The greatest members of the Undying Court are the ascendant councilors. These be
 An undying doesn't require air, food, drink, or sleep.
 
 ```statblock
-"name": "Undying Councilor"
+"name": "Undying Councilor (ERLW)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Good"
@@ -52,18 +55,20 @@ An undying doesn't require air, food, drink, or sleep.
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+9"
-  "Intelligence": "+7"
-  "Constitution": "+6"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Religion": "+7"
-  "Insight": "+9"
-  "Perception": "+9"
-  "History": "+11"
-  "Arcana": "+7"
+  "Religion": !!int "7"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
+  "History": !!int "11"
+  "Arcana": !!int "7"
 "damage_vulnerabilities": "necrotic"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "Common, Elvish"
 "cr": "10"
@@ -73,19 +78,18 @@ An undying doesn't require air, food, drink, or sleep.
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]],\
     \ [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]]\n\n\
-    2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Augury.md|augury]], [calm\
-    \ emotions](compendium/spells/calm-emotions.md), [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Daylight.md|daylight]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\
-    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
+    2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Daylight.md|daylight]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]]\n\n4th level (3\
+    \ slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Divination.md|divination]],\
+    \ [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\n5th level (2\
+    \ slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
     \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]] (see \"Actions\" below), [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
-    \n6th level (1 6th-level slots): [[5. Mechanics/Spells/Forbiddance.md|forbiddance]],\
-    \ [[5. Mechanics/Spells/Planar Ally.md|planar ally]]\n\n7th level (1 7th-level\
-    \ slots): [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+    \n6th level (1 slots): [[5. Mechanics/Spells/Forbiddance.md|forbiddance]], [planar\
+    \ ally](compendium/spells/planar-ally.md)\n\n7th level (1 slots): [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
   "name": "spells"
 - "desc": "The councilor magically sheds bright light in a 15-foot radius and dim\
     \ light for an additional 15 feet. The councilor can extinguish or restore this\

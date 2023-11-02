@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/dwarf
+statblock: inline
 aliases: ["Duergar Despot"]
 ---
-# Duergar Despot
+# [Duergar Despot](compendium\bestiary\humanoid/duergar-despot-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -34,7 +37,7 @@ Denigrated by some as joyless, duergar are in fact deeply passionate in all that
 Among the duergar of the Forgotten Realms, creation is a fiercely passionate process. They tend to favor works that are sturdy and grand, but in a bare, stripped-down fashion that favors geometric forms. The strongholds they design are blocky and stark, and the weapons they forge are blatantly tools of violence. While others may decry their creations as cold and bare of ornamentation to the point of austerity, duergar see them as honoring the materials used and honest about their purpose.
 
 ```statblock
-"name": "Duergar Despot"
+"name": "Duergar Despot (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "dwarf"
@@ -51,10 +54,12 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 - !!int "13"
 "speed": "25 ft."
 "saves":
-  "Wisdom": "+6"
-  "Constitution": "+8"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "8"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "12"

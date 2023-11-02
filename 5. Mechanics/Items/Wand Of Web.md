@@ -7,13 +7,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous/wand
-aliases: ["Wand of Web"]
+aliases: 
+- "Wand of Web"
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  
+![[5. Mechanics/Items/img/wand-of-web.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Web.md\|web]] spell (save DC 15) from it.

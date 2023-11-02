@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/tiny
 - monster/type/aberration/beholder
+statblock: inline
 aliases: ["Gazer"]
 ---
-# Gazer
+# [Gazer](compendium\bestiary\aberration/gazer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134*  
 
 A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.
@@ -17,7 +20,7 @@ A gazer can't speak any languages but can approximate words and sentences it hea
 A wild gazer (one living separately from a beholder) is territorial, eats bugs and little animals, and is known for playing with its food. A lone wild gazer avoids picking fights with creatures that are Medium or larger, but a pack of them might take on larger prey. A gazer might follow the folk in its territory, noisily mimicking their speech and generally being a nuisance, until they leave the area, but it flees if confronted by something it can't kill.
 
 ```statblock
-"name": "Gazer"
+"name": "Gazer (MPMM)"
 "size": "Tiny"
 "type": "aberration"
 "subtype": "beholder"
@@ -34,11 +37,11 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 - !!int "7"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  "Wisdom": "+2"
+  "Wisdom": !!int "2"
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+4"
-"condition_immunities": "prone"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1/2"

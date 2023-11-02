@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/11
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Radiant Idol"]
 ---
-# Radiant Idol
+# [Radiant Idol](compendium\bestiary\celestial/radiant-idol-erlw.md)
 *Source: Eberron: Rising from the Last War p. 308*  
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
@@ -24,7 +27,7 @@ When a radiant idol achieves a sizable following through silvered words and demo
 A radiant idol doesn't require food, drink, or sleep.
 
 ```statblock
-"name": "Radiant Idol"
+"name": "Radiant Idol (ERLW)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Lawful Evil"
@@ -40,15 +43,16 @@ A radiant idol doesn't require food, drink, or sleep.
 - !!int "21"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+9"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
 "skillsaves":
-  "Deception": "+9"
-  "Insight": "+9"
-  "Perception": "+9"
-  "Persuasion": "+9"
+  "Deception": !!int "9"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
+  "Persuasion": !!int "9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "11"

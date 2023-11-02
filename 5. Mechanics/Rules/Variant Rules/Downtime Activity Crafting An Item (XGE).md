@@ -32,7 +32,7 @@ If all the above requirements are met, the result of the process is an item of t
 
 Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
-Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a Spell Scroll" section, below.
+Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [[5. Mechanics/Items/Spell Scroll.md\|Spell Scroll]]" section, below.
 
 To start with, a character needs a formula for a magic item in order to create it. The formula is like a recipe. It lists the materials needed and steps required to make the item.
 
@@ -51,7 +51,7 @@ The Magic Item Ingredients table suggests the challenge rating of a creature tha
 | Legendary | 19+ |
 ^magic-item-ingredients
 
-If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating mariner's armor might require the essence of a water weird. Crafting a [[5. Mechanics/Items/Staff Of Charming.md\|staff of charming]] might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
+If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating [[5. Mechanics/Items/Mariners Armor.md\|mariner's armor]] might require the essence of a water weird. Crafting a [[5. Mechanics/Items/Staff Of Charming.md\|staff of charming]] might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [[5. Mechanics/Items/Staff Of Power.md\|staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 

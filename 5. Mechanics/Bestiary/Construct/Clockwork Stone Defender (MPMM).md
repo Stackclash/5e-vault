@@ -1,19 +1,22 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Clockwork Stone Defender"]
 ---
-# Clockwork Stone Defender
+# [Clockwork Stone Defender](compendium\bestiary\construct/clockwork-stone-defender-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80*  
 
-The thick plates of stone riveted onto a stone defender give it substantial protection. Its chief role is as a bodyguard.
+The thick plates of stone riveted onto a stone [[5. Mechanics/Items/Defender.md|defender]] give it substantial protection. Its chief role is as a bodyguard.
 
 ## Clockworks
 
@@ -54,7 +57,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 ^clockwork-malfunctions
 
 ```statblock
-"name": "Clockwork Stone Defender"
+"name": "Clockwork Stone Defender (MPMM)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"
@@ -70,7 +73,9 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "4"

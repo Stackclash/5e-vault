@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Dolphin Delighter"]
 ---
-# Dolphin Delighter
+# [Dolphin Delighter](compendium\bestiary\fey/dolphin-delighter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
@@ -20,7 +23,7 @@ Dolphin delighters often accompany groups of sea elves, tritons, and tortles as 
 Dolphins are clever, social marine mammals that feed on small fish and squid. An adult specimen is between 5 and 6 feet long.
 
 ```statblock
-"name": "Dolphin Delighter"
+"name": "Dolphin Delighter (MPMM)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Typically  Chaotic Good"
@@ -36,11 +39,11 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 - !!int "16"
 "speed": "0 ft., swim 60 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+3"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Perception": "+3"
-  "Performance": "+5"
+  "Perception": !!int "3"
+  "Performance": !!int "5"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": "Aquan, telepathy 120 ft."
 "cr": "3"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/9
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Silver Dragon"]
 ---
-# Young Silver Dragon
+# [Young Silver Dragon](compendium\bestiary\dragon/young-silver-dragon.md)
 *Source: Monster Manual p. 118. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -100,15 +103,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "19"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+4"
-  "Wisdom": "+4"
-  "Constitution": "+9"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+8"
-  "History": "+6"
-  "Arcana": "+6"
+  "Stealth": !!int "4"
+  "Perception": !!int "8"
+  "History": !!int "6"
+  "Arcana": !!int "6"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic"

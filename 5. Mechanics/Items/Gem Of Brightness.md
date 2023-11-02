@@ -6,12 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Gem of Brightness"]
+aliases: 
+- "Gem of Brightness"
 ---
 # Gem of Brightness
 *Wondrous Item, major, uncommon*  
+![[5. Mechanics/Items/img/gem-of-brightness.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:

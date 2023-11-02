@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Black Pearl"]
+aliases: 
+- "Black Pearl"
+cost: 500 gp
 ---
 # Black Pearl
 *Treasure*  
 
 - **Cost**: 500 gp
-- **Weight**: ⏤
 
 An opaque pure black gemstone.
 

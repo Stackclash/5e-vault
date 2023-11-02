@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/gear/instrument
 - item/rarity/rare
-aliases: ["Reveler's Concertina"]
+aliases: 
+- "Reveler's Concertina"
 ---
 # Reveler's Concertina
 *Instrument, rare (requires attunement by a bard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While holding this concertina, you gain a +2 bonus to the saving throw DC of your bard spells.
 

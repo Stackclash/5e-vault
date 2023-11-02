@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Dryad"]
 ---
-# Dryad
+# [Dryad](compendium\bestiary\fey/dryad.md)
 *Source: Monster Manual p. 121. Available in the SRD.*  
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
@@ -45,8 +48,8 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+4"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"

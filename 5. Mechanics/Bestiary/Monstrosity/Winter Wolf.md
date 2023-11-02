@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/arctic
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Winter Wolf"]
 ---
-# Winter Wolf
+# [Winter Wolf](compendium\bestiary\monstrosity/winter-wolf.md)
 *Source: Monster Manual p. 340. Available in the SRD and the Basic Rules.*  
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
@@ -29,8 +32,8 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+5"
+  "Stealth": !!int "3"
+  "Perception": !!int "5"
 "damage_immunities": "cold"
 "senses": "passive Perception 15"
 "languages": "Common, Giant, Winter Wolf"

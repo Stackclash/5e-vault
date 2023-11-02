@@ -6,12 +6,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Efreeti Bottle"]
+aliases: 
+- "Efreeti Bottle"
 ---
 # Efreeti Bottle
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/efreeti-bottle.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [[5. Mechanics/Bestiary/Elemental/Efreeti.md\|efreeti]] appears in an unoccupied space within 30 feet of you.

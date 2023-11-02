@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/desert
 - monster/environment/grassland
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Leucrotta"]
 ---
-# Leucrotta
+# [Leucrotta](compendium\bestiary\monstrosity/leucrotta-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -22,7 +25,7 @@ A leucrotta is so loathsome that few outside of its own kind can stand to be aro
 A leucrotta's stench would normally warn away prey long before the creature could attack. It has two natural capabilities, however, that give it an advantage. First, a leucrotta's tracks are nearly impossible to distinguish from those of common deer. Second, it can duplicate the call or the vocal expressions of just about any creature it has heard. The monster uses its mimicry to lure in potential victims, then attacks while they are confused or unaware of the actual threat.
 
 ```statblock
-"name": "Leucrotta"
+"name": "Leucrotta (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
@@ -38,8 +41,8 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  "Deception": "+2"
-  "Perception": "+5"
+  "Deception": !!int "2"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Gnoll"
 "cr": "3"

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/weapon/explosive
-aliases: ["Gunpowder Keg"]
+aliases: 
+- "Gunpowder Keg"
+cost: 250 gp
 ---
 # Gunpowder Keg
 *Explosive*  

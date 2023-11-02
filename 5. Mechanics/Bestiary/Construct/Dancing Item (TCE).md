@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Dancing Item"]
 ---
-# Dancing Item
+# [Dancing Item](compendium\bestiary\construct/dancing-item-tce.md)
 *Source: Tasha's Cauldron of Everything p. 29*  
 
 ```statblock
-"name": "Dancing Item"
+"name": "Dancing Item (TCE)"
 "size": "Large"
 "type": "construct"
 "alignment": "Unaligned"
@@ -24,7 +27,8 @@ aliases: ["Dancing Item"]
 - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "charmed, exhaustion, poisoned, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "traits":

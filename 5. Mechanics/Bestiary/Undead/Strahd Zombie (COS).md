@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Strahd Zombie"]
 ---
-# Strahd Zombie
+# [Strahd Zombie](compendium\bestiary\undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
@@ -20,7 +23,7 @@ A Strahd zombie's gray-green flesh looks soft, and its bones seem brittle. Any g
 A Strahd zombie doesn't require air or sleep.
 
 ```statblock
-"name": "Strahd Zombie"
+"name": "Strahd Zombie (CoS)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -36,9 +39,9 @@ A Strahd zombie doesn't require air or sleep.
 - !!int "5"
 "speed": "20 ft."
 "saves":
-  "Wisdom": "+0"
+  "Wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"

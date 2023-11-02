@@ -6,7 +6,9 @@ tags:
 - item/property/thrown
 - item/property/versatile
 - item/weapon/simple/melee
-aliases: ["Spear"]
+aliases: 
+- "Spear"
+cost: 1 gp
 ---
 # Spear
 *Melee Weapon*  

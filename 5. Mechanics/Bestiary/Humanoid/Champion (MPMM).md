@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/desert
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Champion"]
 ---
-# Champion
+# [Champion](compendium\bestiary\humanoid/champion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -38,7 +41,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 ^champions-coat-of-arms
 
 ```statblock
-"name": "Champion"
+"name": "Champion (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -54,12 +57,12 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Strength": "+9"
-  "Constitution": "+6"
+  "Strength": !!int "9"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
-  "Athletics": "+9"
-  "Perception": "+6"
+  "Intimidation": !!int "5"
+  "Athletics": !!int "9"
+  "Perception": !!int "6"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "9"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Wereraven"]
 ---
-# Wereraven
+# [Wereraven](compendium\bestiary\humanoid/wereraven-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*  
 
 Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
@@ -29,7 +32,7 @@ The Monster Manual has rules for characters afflicted with lycanthropy. The foll
 A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the "Player Characters as Lycanthropes" sidebar in the lycanthropes entry in the Monster Manual for details.
 
 ```statblock
-"name": "Wereraven"
+"name": "Wereraven (VRGR)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -46,8 +49,8 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
 - !!int "14"
 "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)"
 "skillsaves":
-  "Insight": "+4"
-  "Perception": "+6"
+  "Insight": !!int "4"
+  "Perception": !!int "6"
 "senses": "passive Perception 16"
 "languages": "Common (can't speak in raven form)"
 "cr": "2"

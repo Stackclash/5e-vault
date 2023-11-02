@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-4
 - monster/size/small
 - monster/type/construct
+statblock: inline
 aliases: ["Pidlwick II"]
 ---
-# Pidlwick II
+# [Pidlwick II](compendium\bestiary\npc/pidlwick-ii-cos.md)
 *Source: Curse of Strahd p. 236*  
 
 After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count Strahd von Zarovich's bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
@@ -44,7 +47,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 "When I'm upset, I do bad things."
 
 ```statblock
-"name": "Pidlwick II"
+"name": "Pidlwick II (CoS)"
 "size": "Small"
 "type": "construct"
 "alignment": "Neutral Evil"
@@ -60,9 +63,10 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Performance": "+2"
+  "Performance": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"

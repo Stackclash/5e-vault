@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/10
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Rahadin"]
 ---
-# Rahadin
+# [Rahadin](compendium\bestiary\npc/rahadin-cos.md)
 *Source: Curse of Strahd p. 237*  
 
 Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
@@ -50,7 +53,7 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
 ```statblock
-"name": "Rahadin"
+"name": "Rahadin (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -67,14 +70,14 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 - !!int "18"
 "speed": "35 ft."
 "saves":
-  "Wisdom": "+7"
-  "Constitution": "+7"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Intimidation": "+12"
-  "Deception": "+8"
-  "Stealth": "+14"
-  "Insight": "+7"
-  "Perception": "+11"
+  "Intimidation": !!int "12"
+  "Deception": !!int "8"
+  "Stealth": !!int "14"
+  "Insight": !!int "7"
+  "Perception": !!int "11"
 "senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common, Elvish"
 "cr": "10"

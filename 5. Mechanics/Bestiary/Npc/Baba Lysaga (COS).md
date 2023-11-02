@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/11
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Baba Lysaga"]
 ---
-# Baba Lysaga
+# [Baba Lysaga](compendium\bestiary\npc/baba-lysaga-cos.md)
 *Source: Curse of Strahd p. 228*  
 
 Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
@@ -49,7 +52,7 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 "I will not rest until the last of my son's enemies are destroyed."
 
 ```statblock
-"name": "Baba Lysaga"
+"name": "Baba Lysaga (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -66,10 +69,10 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+7"
+  "Wisdom": !!int "7"
 "skillsaves":
-  "Religion": "+13"
-  "Arcana": "+13"
+  "Religion": !!int "13"
+  "Arcana": !!int "13"
 "senses": "passive Perception 13"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
 "cr": "11"
@@ -79,21 +82,20 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Acid Splash.md|acid splash]],\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Sleep.md|sleep]],\
-    \ [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\n2nd level (3 2nd-level slots):\
-    \ [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 3rd-level slots):\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fireball.md|fireball]],\
-    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\n4th level (3 4th-level\
-    \ slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
-    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (2 5th-level slots):\
-    \ [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Geas.md|geas]],\
-    \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
-    \ [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]], [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
-    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-    \ [[5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\n8th level (1 8th-level\
-    \ slots): [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
+    \ [[5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\n2nd level (3 slots): [crown\
+    \ of madness](compendium/spells/crown-of-madness.md), [enlarge/reduce](compendium/spells/enlarge-reduce.md),\
+    \ [[5. Mechanics/Spells/Misty Step.md|misty step]]\n\n3rd level (3 slots): [dispel\
+    \ magic](compendium/spells/dispel-magic.md), [[5. Mechanics/Spells/Fireball.md|fireball]],\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\n4th level (3 slots):\
+    \ [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]],\
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
+    \ [[5. Mechanics/Spells/Geas.md|geas]], [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Programmed Illusion.md|programmed illusion]],\
+    \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]\n\n7th level (1 slots):\
+    \ [[5. Mechanics/Spells/Finger Of Death.md|finger of death]], [[5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\
+    \n8th level (1 slots): [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
   "name": "spells"
 - "desc": "Baba Lysaga can use an action to polymorph into a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
     \ (flies), or back into her true form. While in swarm form, she has a walking\

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/underdark
 - monster/size/gargantuan
 - monster/type/aberration
+statblock: inline
 aliases: ["Neothelid"]
 ---
-# Neothelid
+# [Neothelid](compendium\bestiary\aberration/neothelid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193*  
 
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
@@ -17,7 +20,7 @@ Neothelids know nothing beyond their predatory existence. They prowl subterranea
 Mind flayers consider neothelids dangerous abominations—normally they eat or destroy any tadpoles that grow larger than a few inches in length without being implanted in a brain so they can't become such threats. Neothelids are not intelligent enough for elder brains to detect, so mind flayers are always alert for signs of their presence and organize hunting parties to exterminate any of these murderous worms they learn of.
 
 ```statblock
-"name": "Neothelid"
+"name": "Neothelid (MPMM)"
 "size": "Gargantuan"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -33,9 +36,9 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+8"
-  "Intelligence": "+1"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "1"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 13"
 "languages": ""
 "cr": "13"

@@ -54,7 +54,7 @@ If the characters approach the children or call out to them, add the following:
 > After shushing the boy, the girl turns to you and says, "There's a monster in our house!" She then points to a tall brick row house that has seen better days. Its windows are dark. It has a gated portico on the ground floor, and the rusty gate is slightly ajar. The houses on either side are abandoned, their windows and doors boarded up.
 ^6d3
 
-![Thornboldt "Thorn" Durst a...](compendium/adventures/curse-of-strahd/img/133-cos17-01.png#center "Thornboldt "Thorn" Durst and Rosavalda "Rose" Durst")
+![Thornboldt &quot;Thorn&quot; Durst a...](compendium/adventures/curse-of-strahd/img/133-cos17-01.png#center "Thornboldt &quot;Thorn&quot; Durst and Rosavalda &quot;Rose&quot; Durst")
 
 Characters who question the children learn the following information:
 
@@ -193,7 +193,7 @@ Clutched in the skeleton's left hand is a letter bearing the seal of [[5. Mechan
 
 #### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each), three spell scrolls ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
+The chest contains three blank books with black leather covers (worth 25 gp each), three [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 
 ### 10. Conservatory
 

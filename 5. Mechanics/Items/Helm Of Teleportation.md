@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Helm of Teleportation"]
+aliases: 
+- "Helm of Teleportation"
 ---
 # Helm of Teleportation
 *Wondrous Item, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/helm-of-teleportation.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the [[5. Mechanics/Spells/Teleport.md\|teleport]] spell from it. The helm regains `dice: 1d3|avg` (`1d3`) expended charges daily at dawn.
 

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/size/large
 - monster/type/aberration/shapechanger
+statblock: inline
 aliases: ["Green Slaad"]
 ---
-# Green Slaad
+# [Green Slaad](compendium\bestiary\aberration/green-slaad.md)
 *Source: Monster Manual p. 277*  
 
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
@@ -69,8 +72,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
-  "Arcana": "+3"
+  "Perception": !!int "2"
+  "Arcana": !!int "3"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Slaad, telepathy 60 ft."

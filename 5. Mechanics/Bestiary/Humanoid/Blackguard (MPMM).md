@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/paladin
+statblock: inline
 aliases: ["Blackguard"]
 ---
-# Blackguard
+# [Blackguard](compendium\bestiary\humanoid/blackguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63*  
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
@@ -30,7 +33,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 ^blackguard-accoutrements
 
 ```statblock
-"name": "Blackguard"
+"name": "Blackguard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "paladin"
@@ -47,12 +50,12 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+5"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Intimidation": "+5"
-  "Athletics": "+7"
-  "Deception": "+5"
+  "Intimidation": !!int "5"
+  "Athletics": !!int "7"
+  "Deception": !!int "5"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "8"

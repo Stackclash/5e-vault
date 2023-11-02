@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Merregon"]
 ---
-# Merregon
+# [Merregon](compendium\bestiary\fiend/merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179*  
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -16,7 +19,7 @@ Merregons have no individuality and hence no need for faces. Every merregon legi
 Because of their unshakable loyalty, merregons form the backbone of many devils' protective retinues. They shrink from no task, no matter how dangerous. Unless ordered to fall back, they never retreat from a fight.
 
 ```statblock
-"name": "Merregon"
+"name": "Merregon (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -35,7 +38,8 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
 "cr": "4"

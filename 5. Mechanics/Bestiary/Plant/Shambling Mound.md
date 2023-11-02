@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/large
 - monster/type/plant
+statblock: inline
 aliases: ["Shambling Mound"]
 ---
-# Shambling Mound
+# [Shambling Mound](compendium\bestiary\plant/shambling-mound.md)
 *Source: Monster Manual p. 270, Curse of Strahd. Available in the SRD.*  
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
@@ -54,10 +57,11 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 - !!int "5"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": "+2"
+  "Stealth": !!int "2"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "blinded, deafened, exhaustion"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "5"

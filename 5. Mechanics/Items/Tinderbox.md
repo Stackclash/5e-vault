@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Tinderbox"]
+aliases: 
+- "Tinderbox"
+cost: 5 sp
 ---
 # Tinderbox
 *Adventuring Gear*  

@@ -21,7 +21,7 @@ Battle Smiths played a key role in House Cannith's work on battle constructs and
 
 ### Tool Proficiency (Level 3)
 
-When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]]. If you already have this proficiency, you gain proficiency with one other type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
 
 ### Battle Smith Spells (Level 3)
 

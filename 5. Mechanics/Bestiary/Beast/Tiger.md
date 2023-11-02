@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Tiger"]
 ---
-# Tiger
+# [Tiger](compendium\bestiary\beast/tiger.md)
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -28,8 +31,8 @@ aliases: ["Tiger"]
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+3"
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1"

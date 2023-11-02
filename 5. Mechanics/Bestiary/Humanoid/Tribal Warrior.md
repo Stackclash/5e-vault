@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -13,9 +15,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Tribal Warrior"]
 ---
-# Tribal Warrior
+# [Tribal Warrior](compendium\bestiary\humanoid/tribal-warrior.md)
 *Source: Monster Manual p. 350. Available in the SRD.*  
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.

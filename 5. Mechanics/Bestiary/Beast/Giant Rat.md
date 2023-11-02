@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Rat"]
 ---
-# Giant Rat
+# [Giant Rat](compendium\bestiary\beast/giant-rat.md)
 *Source: Monster Manual p. 327. Available in the SRD and the Basic Rules.*  
 
 ```statblock

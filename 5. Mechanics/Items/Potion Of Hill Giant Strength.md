@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Hill Giant Strength"]
+aliases: 
+- "Potion of Hill Giant Strength"
 ---
 # Potion of Hill Giant Strength
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
 

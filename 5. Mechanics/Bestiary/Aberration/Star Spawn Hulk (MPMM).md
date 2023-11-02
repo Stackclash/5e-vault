@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Star Spawn Hulk"]
 ---
-# Star Spawn Hulk
+# [Star Spawn Hulk](compendium\bestiary\aberration/star-spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
@@ -36,7 +39,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tyranthraxus, the Flamed One  
 
 ```statblock
-"name": "Star Spawn Hulk"
+"name": "Star Spawn Hulk (MPMM)"
 "size": "Large"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -52,12 +55,12 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "9"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+3"
-  "Wisdom": "+5"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech"
 "cr": "10"

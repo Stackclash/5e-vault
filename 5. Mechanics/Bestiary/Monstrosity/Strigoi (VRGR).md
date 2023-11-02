@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/4
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Strigoi"]
 ---
-# Strigoi
+# [Strigoi](compendium\bestiary\monstrosity/strigoi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 246*  
 
 The first strigoi were created by spellcasters who subjected swarms of stirges to transmutation spells. Other strigoi have emerged as the results of similar spellcraft, as the byproducts of outlandish scientific experiments, and from stirges draining well-fed vampires. When a strigoi arises, the unnatural creature is overwhelmed by instinctual hunger that drives it to undertake bloodthirsty rampages along with swarms of emboldened, bloodsucking pests.
@@ -16,7 +19,7 @@ Strigoi drain the blood, marrow, and soft tissues from their victims, leaving be
 Many strigoi seek ways to return to their former existence while being compelled to drain living victims. Others, though, embrace their new forms and mimic vampires. These would-be bloodsucker aristocrats create stirge courts amid scabrous husk-decorated villas and drain the life from any who balk at their grotesque gentility.
 
 ```statblock
-"name": "Strigoi"
+"name": "Strigoi (VRGR)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -32,14 +35,14 @@ Many strigoi seek ways to return to their former existence while being compelled
 - !!int "10"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Dexterity": "+4"
-  "Wisdom": "+5"
-  "Strength": "+5"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "5"
+  "Strength": !!int "5"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+5"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
 "damage_resistances": "necrotic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Common"
 "cr": "4"

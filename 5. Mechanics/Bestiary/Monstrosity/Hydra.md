@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/swamp
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Hydra"]
 ---
-# Hydra
+# [Hydra](compendium\bestiary\monstrosity/hydra.md)
 *Source: Monster Manual p. 190. Available in the SRD and the Basic Rules.*  
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
@@ -37,7 +40,7 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": "+6"
+  "Perception": !!int "6"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "8"

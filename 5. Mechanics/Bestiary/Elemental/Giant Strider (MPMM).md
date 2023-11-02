@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Giant Strider"]
 ---
-# Giant Strider
+# [Giant Strider](compendium\bestiary\elemental/giant-strider-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -25,7 +28,7 @@ These fierce and majestic monsters exhibit attributes of both birds and reptiles
 Firenewts prize giant striders and seek to adopt them whenever possible. They provide for stables of these creatures in their lairs, and in return, the giant striders voluntarily serve as mounts for firenewt warriors (in this book).
 
 ```statblock
-"name": "Giant Strider"
+"name": "Giant Strider (MPMM)"
 "size": "Large"
 "type": "elemental"
 "alignment": "Unaligned"

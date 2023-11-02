@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Black Abishai"]
 ---
-# Black Abishai
+# [Black Abishai](compendium\bestiary\fiend/black-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
@@ -21,7 +24,7 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
 ```statblock
-"name": "Black Abishai"
+"name": "Black Abishai (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -38,15 +41,15 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "11"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "6"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+6"
+  "Stealth": !!int "6"
+  "Perception": !!int "6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "acid, fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "7"
@@ -54,7 +57,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - "desc": "The abishai casts [[5. Mechanics/Spells/Darkness.md|darkness]] at a point\
     \ within 120 feet of it, requiring no spell components or [[/5. Mechanics/Rules/Conditions.md#concentration|concentration]].\
     \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
-    \ the abishai can move the area of darkness up to 60 feet as a bonus action."
+    \ the abishai can move the area of darkness up to 60 feet as a bonus action.\n"
   "name": "spells"
 - "desc": "Magical darkness doesn't impede the abishai's [[/5. Mechanics/Rules/Senses.md#darkvision|darkvision]]."
   "name": "Devil's Sight"

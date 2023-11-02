@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead/mind-flayer
 - monster/type/undead/wizard
+statblock: inline
 aliases: ["Alhoon"]
 ---
-# Alhoon
+# [Alhoon](compendium\bestiary\undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -38,7 +41,7 @@ The undeath conferred by a periapt of mind trapping lasts only so long as the li
 Destroying a periapt of mind trapping consigns those trapped within it to oblivion, and thus alhoons often work together to create elaborate protections for their periapt and their preferred ritual site. Sometimes a single alhoon is entrusted with the periapt of mind trapping, but this is a dangerous proposition. Anyone who holds the periapt gains advantage on attacks, saving throws, and checks against the alhoons associated with its creation, and those alhoons in turn suffer disadvantage on attacks, saving throws, and checks against the holder. In addition, the holder can telepathically communicate with any sacrificed soul trapped within, and alhoons within the periapt can speak telepathically with the holder. A creature carrying the periapt can't prevent communication from alhoons but can silence trapped souls.
 
 ```statblock
-"name": "Alhoon"
+"name": "Alhoon (MPMM)"
 "size": "Medium"
 "type": "undead"
 "subtype": "mind flayer, wizard"
@@ -55,20 +58,22 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 - !!int "17"
 "speed": "30 ft., fly 15 ft. (hover)"
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+7"
-  "Intelligence": "+8"
-  "Constitution": "+7"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "7"
+  "Intelligence": !!int "8"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Deception": "+7"
-  "Stealth": "+5"
-  "Insight": "+7"
-  "Perception": "+7"
-  "History": "+8"
-  "Arcana": "+8"
+  "Deception": !!int "7"
+  "Stealth": !!int "5"
+  "Insight": !!int "7"
+  "Perception": !!int "7"
+  "History": !!int "8"
+  "Arcana": !!int "8"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/20
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/cleric
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Matron Mother"]
 ---
-# Drow Matron Mother
+# [Drow Matron Mother](compendium\bestiary\humanoid/drow-matron-mother-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104*  
 
 Among drow followers of Lolth, each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
@@ -26,7 +29,7 @@ The palace of a drow matron mother is her home and fortress. Sigils throughout t
 Any temple of Lolth also functions as a matron mother's lair while she is inside it, unless she has renounced Lolth or another matron mother is present. When two or more matron mothers gather within a temple of their goddess, none of them can use it as their lair.
 
 ```statblock
-"name": "Drow Matron Mother"
+"name": "Drow Matron Mother (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "cleric, elf"
@@ -43,15 +46,16 @@ Any temple of Lolth also functions as a matron mother's lair while she is inside
 - !!int "22"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+12"
-  "Wisdom": "+11"
-  "Constitution": "+9"
+  "Charisma": !!int "12"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Stealth": "+10"
-  "Religion": "+9"
-  "Insight": "+11"
-  "Perception": "+11"
-"condition_immunities": "charmed, frightened, poisoned"
+  "Stealth": !!int "10"
+  "Religion": !!int "9"
+  "Insight": !!int "11"
+  "Perception": !!int "11"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 21"
 "languages": "Elvish, Undercommon"
 "cr": "20"

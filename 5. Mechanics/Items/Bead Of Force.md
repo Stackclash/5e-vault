@@ -6,12 +6,12 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Bead of Force"]
+aliases: 
+- "Bead of Force"
 ---
 # Bead of Force
 *Wondrous Item, minor, rare*  
 
-- **Cost**: ⏤
 - **Weight**: 0.0625 lbs.
 
 This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, `dice: 1d4 + 4|avg` (`1d4 + 4`) *beads of force* are found together.

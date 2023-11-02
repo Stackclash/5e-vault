@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Clockwork Bronze Scout"]
 ---
-# Clockwork Bronze Scout
+# [Clockwork Bronze Scout](compendium\bestiary\construct/clockwork-bronze-scout-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
@@ -54,7 +57,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 ^clockwork-malfunctions
 
 ```statblock
-"name": "Clockwork Bronze Scout"
+"name": "Clockwork Bronze Scout (MPMM)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"
@@ -70,10 +73,12 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - !!int "1"
 "speed": "30 ft., burrow 30 ft."
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+6"
+  "Stealth": !!int "7"
+  "Perception": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "understands one language of its creator but can't speak"
 "cr": "1"

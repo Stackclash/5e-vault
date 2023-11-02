@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/7
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Vladimir Horngaard"]
 ---
-# Vladimir Horngaard
+# [Vladimir Horngaard](compendium\bestiary\npc/vladimir-horngaard-cos.md)
 *Source: Curse of Strahd p. 241*  
 
 Vladimir Horngaard joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a knight of the order, he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
@@ -69,7 +72,7 @@ No magic can hide a creature pursued by a revenant, which always knows the direc
 A revenant doesn't require air, food, drink, or sleep.
 
 ```statblock
-"name": "Vladimir Horngaard"
+"name": "Vladimir Horngaard (CoS)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -85,13 +88,15 @@ A revenant doesn't require air, food, drink, or sleep.
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Strength": "+7"
-  "Constitution": "+7"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "7"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/coastal
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Tortle"]
 ---
-# Tortle
+# [Tortle](compendium\bestiary\humanoid/tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -19,7 +22,7 @@ Tortles are omnivorous, turtle-like bipeds with shells that cover most of their 
 Most tortles like to see how other folk live. A tortle can spend decades away from their native land without feeling homesick, often viewing their current companions as their family.
 
 ```statblock
-"name": "Tortle"
+"name": "Tortle (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -35,8 +38,8 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+4"
-  "Survival": "+3"
+  "Athletics": !!int "4"
+  "Survival": !!int "3"
 "senses": "passive Perception 11"
 "languages": "Aquan, Common"
 "cr": "1/4"

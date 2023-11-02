@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Bell"]
+aliases: 
+- "Bell"
+cost: 1 gp
 ---
 # Bell
 *Adventuring Gear*  
 
 - **Cost**: 1 gp
-- **Weight**: ⏤
 
 *Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Hunting Trap"]
+aliases: 
+- "Hunting Trap"
+cost: 5 gp
 ---
 # Hunting Trap
 *Adventuring Gear*  

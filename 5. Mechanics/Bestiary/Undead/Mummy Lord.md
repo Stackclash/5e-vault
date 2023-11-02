@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/15
 - monster/environment/desert
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Mummy Lord"]
 ---
-# Mummy Lord
+# [Mummy Lord](compendium\bestiary\undead/mummy-lord.md)
 *Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -81,17 +84,19 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 - !!int "16"
 "speed": "20 ft."
 "saves":
-  "Charisma": "+8"
-  "Wisdom": "+9"
-  "Intelligence": "+5"
-  "Constitution": "+8"
+  "Charisma": !!int "8"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "5"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Religion": "+5"
-  "History": "+5"
+  "Religion": !!int "5"
+  "History": !!int "5"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "15"
@@ -100,16 +105,15 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     \ Wisdom (spell save DC 17, dice: d20+9 (+9 to hit) with spell attacks). The\
     \ mummy lord has the following cleric spells prepared:\n\nCantrips (at will):\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n4th level (3 4th-level\
-    \ slots): [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\
-    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Contagion.md|contagion]],\
-    \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\n6th level (1 6th-level\
-    \ slots): [[5. Mechanics/Spells/Harm.md|harm]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]],\
+    \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Silence.md|silence]],\
+    \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\n3rd level (3\
+    \ slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [guardian\
+    \ of faith](compendium/spells/guardian-of-faith.md)\n\n5th level (2 slots):\
+    \ [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Insect Plague.md|insect plague]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Harm.md|harm]]"
   "name": "spells"
 - "desc": "The mummy lord has advantage on saving throws against spells and other\
     \ magical effects."

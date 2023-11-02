@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Merrow"]
 ---
-# Merrow
+# [Merrow](compendium\bestiary\monstrosity/merrow.md)
 *Source: Monster Manual p. 219. Available in the SRD.*  
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.

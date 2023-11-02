@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Small gold idol"]
+aliases: 
+- "Small gold idol"
+cost: 750 gp
 ---
 # Small gold idol
 *Treasure*  
 
 - **Cost**: 750 gp
-- **Weight**: ⏤
 
 *Source: Dungeon Master's Guide p. 135*

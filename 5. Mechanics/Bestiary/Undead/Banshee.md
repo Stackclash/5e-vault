@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/coastal
 - monster/environment/forest
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Banshee"]
 ---
-# Banshee
+# [Banshee](compendium\bestiary\undead/banshee.md)
 *Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
@@ -46,13 +49,16 @@ A banshee doesn't require air, food, drink, or sleep.
 - !!int "17"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+2"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "2"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish"
 "cr": "4"

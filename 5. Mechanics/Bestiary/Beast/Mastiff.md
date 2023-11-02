@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Mastiff"]
 ---
-# Mastiff
+# [Mastiff](compendium\bestiary\beast/mastiff.md)
 *Source: Monster Manual p. 332, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
@@ -31,7 +34,7 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/8"

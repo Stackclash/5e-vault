@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Animated Armor"]
 ---
-# Animated Armor
+# [Animated Armor](compendium\bestiary\construct/animated-armor.md)
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
@@ -38,8 +41,10 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"

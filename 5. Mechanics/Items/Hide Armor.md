@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/medium
-aliases: ["Hide Armor"]
+aliases: 
+- "Hide Armor"
+cost: 10 gp
 ---
 # Hide Armor
 *Medium Armor*  

@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -13,9 +15,10 @@ tags:
 - monster/environment/urban
 - monster/size/small
 - monster/type/humanoid/kobold
+statblock: inline
 aliases: ["Kobold"]
 ---
-# Kobold
+# [Kobold](compendium\bestiary\humanoid/kobold.md)
 *Source: Monster Manual p. 195, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/5
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Elise"]
 ---
-# Elise
+# [Elise](compendium\bestiary\npc/elise-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 143*  
 
 Dr. Mordenheim's supposed beloved and greatest achievement, Elise is a confused, frustrated soul who never wished for her current circumstances.
@@ -14,7 +17,7 @@ Dr. Mordenheim's supposed beloved and greatest achievement, Elise is a confused,
 Elise's heart has been replaced with the Unbreakable Heart. If this device is removed, Elise dies, even if it is replaced with another heart. Elise is horrified by what Dr. Mordenheim did to her and tries to avoid the doctor and all strangers, fearing they might kill her to learn the Unbreakable Heart's secrets. She roams without destination but keeps a hidden sanctuary at Hope's Heart on the Isles of Agony. Although she has tried to leave Lamordia, the Mists prevent her from doing so.
 
 ```statblock
-"name": "Elise"
+"name": "Elise (VRGR)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Neutral"
@@ -31,7 +34,9 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
 "speed": "30 ft."
 "damage_immunities": "cold; lightning; poison; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"

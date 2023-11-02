@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Clawfoot"]
 ---
-# Clawfoot
+# [Clawfoot](compendium\bestiary\beast/clawfoot-erlw.md)
 *Source: Eberron: Rising from the Last War p. 289*  
 
 Clawfoot dinosaurs are two-legged saurians with sharp teeth and toe claws that resemble deadly sickles. They are imposing creatures, about the size of a tall human, and are fierce enough to take down even larger prey.
@@ -16,7 +19,7 @@ In the wild, an untrained clawfoot can easily hold its own in combat, but they a
 Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains, Xen'drik, and Argonnessen. Smaller dinosaurs are the rule in Q'barra and the Talenta Plains, including varieties commonly used by Talenta halflings as mounts.
 
 ```statblock
-"name": "Clawfoot"
+"name": "Clawfoot (ERLW)"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -32,8 +35,8 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
 - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+3"
+  "Stealth": !!int "5"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"

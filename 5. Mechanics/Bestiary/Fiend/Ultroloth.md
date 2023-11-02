@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/13
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Ultroloth"]
 ---
-# Ultroloth
+# [Ultroloth](compendium\bestiary\fiend/ultroloth.md)
 *Source: Monster Manual p. 314*  
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
@@ -84,13 +87,14 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "19"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Intimidation": "+9"
-  "Stealth": "+8"
-  "Perception": "+7"
+  "Intimidation": !!int "9"
+  "Stealth": !!int "8"
+  "Perception": !!int "7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "13"

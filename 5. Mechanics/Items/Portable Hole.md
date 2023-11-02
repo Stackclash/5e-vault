@@ -6,13 +6,12 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Portable Hole"]
+aliases: 
+- "Portable Hole"
 ---
 # Portable Hole
 *Wondrous Item, minor, rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
 

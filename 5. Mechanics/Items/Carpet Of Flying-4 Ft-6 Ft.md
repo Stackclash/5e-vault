@@ -6,13 +6,12 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Carpet of Flying, 4 ft. × 6 ft."]
+aliases: 
+- "Carpet of Flying, 4 ft. × 6 ft."
 ---
 # Carpet of Flying, 4 ft. × 6 ft.
 *Wondrous Item, major, very rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
 

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/23
 - monster/environment/coastal
 - monster/environment/desert
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient Blue Dragon"]
 ---
-# Ancient Blue Dragon
+# [Ancient Blue Dragon](compendium\bestiary\dragon/ancient-blue-dragon.md)
 *Source: Monster Manual p. 90, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -112,13 +115,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "21"
 "speed": "40 ft., burrow 40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+12"
-  "Dexterity": "+7"
-  "Wisdom": "+10"
-  "Constitution": "+15"
+  "Charisma": !!int "12"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "15"
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+17"
+  "Stealth": !!int "7"
+  "Perception": !!int "17"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
 "languages": "Common, Draconic"

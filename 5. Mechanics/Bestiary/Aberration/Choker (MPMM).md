@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration
+statblock: inline
 aliases: ["Choker"]
 ---
-# Choker
+# [Choker](compendium\bestiary\aberration/choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -23,7 +26,7 @@ When a target presents itself, the choker's starfish-shaped hands dart out of it
 Chokers tend to set their ambushes alone, rather than working in concert, but where one choker is found, others are likely to be nearby. They communicate through eerie, keening howls that travel long distances through caves and tunnels but are difficult to identify or locate in a typical echo-filled cavern.
 
 ```statblock
-"name": "Choker"
+"name": "Choker (MPMM)"
 "size": "Small"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -39,7 +42,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+6"
+  "Stealth": !!int "6"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "1"

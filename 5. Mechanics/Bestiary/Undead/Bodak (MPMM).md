@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/6
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Bodak"]
 ---
-# Bodak
+# [Bodak](compendium\bestiary\undead/bodak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
@@ -21,7 +24,7 @@ Bodaks are extensions of Orcus's will outside the Abyss, serving the demon princ
 A bodak retains vague impressions of its past life. It seeks out its former allies and enemies alike to destroy them, as its warped soul seeks to erase anything connected to its former life. Minions of Orcus are the one exception to this compulsion; a bodak recognizes them as kindred souls and spares them from its wrath. Anyone who knew the individual before its transformation into a bodak can recognize mannerisms or other subtle clues to its original identity.
 
 ```statblock
-"name": "Bodak"
+"name": "Bodak (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -37,12 +40,13 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+4"
+  "Stealth": !!int "6"
+  "Perception": !!int "4"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, the languages it knew in life"
 "cr": "6"

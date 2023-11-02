@@ -7,7 +7,8 @@ tags:
 - item/property/versatile
 - item/rarity/artifact
 - item/weapon/simple/melee
-aliases: ["Baba Yaga's Pestle"]
+aliases: 
+- "Baba Yaga's Pestle"
 ---
 # Baba Yaga's Pestle
 *Melee Weapon, artifact (requires attunement)*  
@@ -15,8 +16,7 @@ aliases: ["Baba Yaga's Pestle"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you are holding the pestle, you can extend it into a quarterstaff or shrink it back into a pestle (no action required). As a quarterstaff, the pestle is a magic weapon that grants a +3 bonus to attack and damage rolls made with it.

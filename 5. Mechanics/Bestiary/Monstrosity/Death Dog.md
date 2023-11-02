@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/desert
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Death Dog"]
 ---
-# Death Dog
+# [Death Dog](compendium\bestiary\monstrosity/death-dog.md)
 *Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  
 
 A death dog is an ugly two-headed hound that roams plains, deserts, and the Underdark. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.
@@ -29,8 +32,8 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+5"
+  "Stealth": !!int "4"
+  "Perception": !!int "5"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "1"

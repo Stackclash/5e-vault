@@ -8,16 +8,17 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of the Adder"]
+aliases: 
+- "Staff of the Adder"
 ---
 # Staff of the Adder
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
+![[5. Mechanics/Items/img/staff-of-the-adder.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.

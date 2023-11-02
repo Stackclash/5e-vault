@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/underwater
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Octopus"]
 ---
-# Giant Octopus
+# [Giant Octopus](compendium\bestiary\beast/giant-octopus.md)
 *Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -27,8 +30,8 @@ aliases: ["Giant Octopus"]
 - !!int "4"
 "speed": "10 ft., swim 60 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+4"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1"

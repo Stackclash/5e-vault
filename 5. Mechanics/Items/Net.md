@@ -7,7 +7,9 @@ tags:
 - item/property/special
 - item/property/thrown
 - item/weapon/martial/ranged
-aliases: ["Net"]
+aliases: 
+- "Net"
+cost: 1 gp
 ---
 # Net
 *Ranged Weapon*  

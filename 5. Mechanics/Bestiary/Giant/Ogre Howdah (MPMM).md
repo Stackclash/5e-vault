@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Ogre Howdah"]
 ---
-# Ogre Howdah
+# [Ogre Howdah](compendium\bestiary\giant/ogre-howdah-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201*  
 
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[5. Mechanics/Bestiary/Humanoid/Goblin.md|goblins]] into battle, or perhaps [[5. Mechanics/Bestiary/Humanoid/Kobold.md|kobolds]] or [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|deep gnomes]], but they might also transport other Small folk.
@@ -19,7 +22,7 @@ The most unusual of the specialized ogres, the howdah carries a palisaded wooden
 Ogres love to rush headlong into battle, but with enough time and patience, some of them learn to carry out specialized missions. The names they are given—the battering ram, the bolt launcher, the chain brute, and the howdah—reflect their particular functions. These jobs are tailored to take advantage of an ogre's strengths.
 
 ```statblock
-"name": "Ogre Howdah"
+"name": "Ogre Howdah (MPMM)"
 "size": "Large"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"

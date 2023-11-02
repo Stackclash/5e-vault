@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/6
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/fey
+statblock: inline
 aliases: ["Annis Hag"]
 ---
-# Annis Hag
+# [Annis Hag](compendium\bestiary\fey/annis-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47*  
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -28,7 +31,7 @@ Thereafter, any creature that holds this iron token can have a whispered convers
 A hag can have up to three iron tokens active at one time. As an action, the hag can discern the direction and approximate distance to those active tokens. The hag can deactivate any of those tokens at any distance (no action required), whereupon the token retains its current form but loses its magic.
 
 ```statblock
-"name": "Annis Hag"
+"name": "Annis Hag (MPMM)"
 "size": "Large"
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
@@ -44,10 +47,10 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 - !!int "15"
 "speed": "40 ft."
 "saves":
-  "Constitution": "+5"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Deception": "+5"
-  "Perception": "+5"
+  "Deception": !!int "5"
+  "Perception": !!int "5"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Giant, Sylvan"

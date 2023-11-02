@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/coastal
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Shoosuva"]
 ---
-# Shoosuva
+# [Shoosuva](compendium\bestiary\fiend/shoosuva-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -26,7 +29,7 @@ A shoosuva is a hyena-demon gifted by [[5. Mechanics/Bestiary/Npc/Yeenoghu (MPMM
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 
 ```statblock
-"name": "Shoosuva"
+"name": "Shoosuva (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -43,12 +46,13 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 - !!int "9"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+4"
-  "Wisdom": "+5"
-  "Constitution": "+6"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "6"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Gnoll, telepathy 120 ft."
 "cr": "8"

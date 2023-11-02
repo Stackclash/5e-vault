@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey/elf
+statblock: inline
 aliases: ["Autumn Eladrin"]
 ---
-# Autumn Eladrin
+# [Autumn Eladrin](compendium\bestiary\fey/autumn-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115*  
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
@@ -31,7 +34,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
-"name": "Autumn Eladrin"
+"name": "Autumn Eladrin (MPMM)"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
@@ -48,8 +51,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": "+7"
-  "Insight": "+7"
+  "Medicine": !!int "7"
+  "Insight": !!int "7"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Elvish, Sylvan"

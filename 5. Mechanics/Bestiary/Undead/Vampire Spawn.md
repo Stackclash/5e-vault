@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Vampire Spawn"]
 ---
-# Vampire Spawn
+# [Vampire Spawn](compendium\bestiary\undead/vampire-spawn.md)
 *Source: Monster Manual p. 298, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -73,11 +76,11 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+3"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+3"
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"

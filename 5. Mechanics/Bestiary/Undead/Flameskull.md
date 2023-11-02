@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/underdark
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
 aliases: ["Flameskull"]
 ---
-# Flameskull
+# [Flameskull](compendium\bestiary\undead/flameskull.md)
 *Source: Monster Manual p. 134, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules.*  
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -51,11 +54,13 @@ A flameskull doesn't require air, food, drink, or sleep
 - !!int "11"
 "speed": "0 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": "+2"
-  "Arcana": "+5"
+  "Perception": !!int "2"
+  "Arcana": !!int "5"
 "damage_resistances": "lightning, necrotic, piercing"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "charmed, frightened, paralyzed, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common"
 "cr": "4"
@@ -64,10 +69,10 @@ A flameskull doesn't require air, food, drink, or sleep
     \ Intelligence (spell save DC 13, dice: d20+5 (+5 to hit) with spell attacks).\
     \ It requires no somatic or material components to cast its spells. The flameskull\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\
-    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 2nd-level slots):\
-    \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\
-    \n3rd level (1 3rd-level slots): [[5. Mechanics/Spells/Fireball.md|fireball]]"
+    \n1st level (3 slots): [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (2 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
+    \ [[5. Mechanics/Spells/Flaming Sphere.md|flaming sphere]]\n\n3rd level (1 slots):\
+    \ [[5. Mechanics/Spells/Fireball.md|fireball]]"
   "name": "spells"
 - "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright light\
     \ in a 15-foot radius and dim light for an additional 15 feet. It can switch between\

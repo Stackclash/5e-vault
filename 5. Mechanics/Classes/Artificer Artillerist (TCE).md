@@ -21,7 +21,7 @@ The gnome artificer Vi, an unlikely yet key member of House Cannith's warforged 
 
 ### Tool Proficiency (Level 3)
 
-When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]]. If you already have this proficiency, you gain proficiency with one other type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
 
 ### Artillerist Spells (Level 3)
 

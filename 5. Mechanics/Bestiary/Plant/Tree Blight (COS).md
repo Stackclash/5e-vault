@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/7
 - monster/size/huge
 - monster/type/plant
+statblock: inline
 aliases: ["Tree Blight"]
 ---
-# Tree Blight
+# [Tree Blight](compendium\bestiary\plant/tree-blight-cos.md)
 *Source: Curse of Strahd p. 230*  
 
 Blights (as described in the Monster Manual) are evil, ambulatory plant creatures, and a tree blight is a particularly enormous variety. It looks like a dead tree or treant, 30 feet tall, with spongy wooden flesh, thorny branches, and rubbery roots that trail behind it. It has blood for sap and is so saturated with blood that it doesn't catch fire easily.
@@ -20,7 +23,7 @@ A tree blight feeds on warm-blooded prey and takes perverse delight in causing c
 A tree blight will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
 
 ```statblock
-"name": "Tree Blight"
+"name": "Tree Blight (CoS)"
 "size": "Huge"
 "type": "plant"
 "alignment": "Neutral Evil"
@@ -35,7 +38,7 @@ A tree blight will often fight alongside other kinds of blights, but it hates ot
 - !!int "10"
 - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "blinded, deafened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands Common and Druidic but doesn't speak"
 "cr": "7"

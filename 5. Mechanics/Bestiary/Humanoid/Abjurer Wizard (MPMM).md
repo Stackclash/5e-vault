@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Abjurer Wizard"]
 ---
-# Abjurer Wizard
+# [Abjurer Wizard](compendium\bestiary\humanoid/abjurer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260*  
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -17,7 +20,7 @@ Abjurers specialize in creating protective magical wards. Monarchs, nobles, and 
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Abjurer Wizard"
+"name": "Abjurer Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,11 +36,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+5"
-  "Intelligence": "+8"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "8"
 "skillsaves":
-  "History": "+8"
-  "Arcana": "+8"
+  "History": !!int "8"
+  "Arcana": !!int "8"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "9"

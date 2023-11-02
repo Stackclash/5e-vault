@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/tiny
 - monster/type/construct
+statblock: inline
 aliases: ["Homunculus Servant"]
 ---
-# Homunculus Servant
+# [Homunculus Servant](compendium\bestiary\construct/homunculus-servant-tce.md)
 *Source: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62*  
 
 ```statblock
-"name": "Homunculus Servant"
+"name": "Homunculus Servant (TCE)"
 "size": "Tiny"
 "type": "construct"
 "alignment": "Unaligned"
@@ -24,12 +27,13 @@ aliases: ["Homunculus Servant"]
 - !!int "7"
 "speed": "20 ft., fly 30 ft."
 "saves":
-  "Dexterity": "+2 plus PB"
+  "Dexterity": !!int "0"
 "skillsaves":
-  "Stealth": "+2 plus PB"
-  "Perception": "+0 plus PB × 2"
+  "Stealth": !!int "0"
+  "Perception": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 0"
 "languages": "understands the languages you speak"
 "traits":

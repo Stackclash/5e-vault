@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/warlock
+statblock: inline
 aliases: ["Yuan-ti Mind Whisperer"]
 ---
-# Yuan-ti Mind Whisperer
+# [Yuan-ti Mind Whisperer](compendium\bestiary\monstrosity/yuan-ti-mind-whisperer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274*  
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -17,7 +20,7 @@ Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the 
 Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat or kill comrades and rivals alike if doing so benefits them. The worshipers of Sseth have their hands in many schemes, often plying the middle ground between two factions, and thus spend a lot of energy making sure none of their allies learn of their conflicting connections. Even among Sseth-worshiping communities, mind whisperers are known for being self-important, sneaky, and prone to flee at the first sign of trouble.
 
 ```statblock
-"name": "Yuan-ti Mind Whisperer"
+"name": "Yuan-ti Mind Whisperer (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "warlock"
@@ -34,13 +37,13 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+4"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Deception": "+5"
-  "Stealth": "+4"
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"

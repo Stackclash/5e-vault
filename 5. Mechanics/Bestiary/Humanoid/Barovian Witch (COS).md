@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Barovian Witch"]
 ---
-# Barovian Witch
+# [Barovian Witch](compendium\bestiary\humanoid/barovian-witch-cos.md)
 *Source: Curse of Strahd p. 229*  
 
 The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[5. Mechanics/Spells/Alter Self.md|alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
@@ -22,7 +25,7 @@ Barovian witches have no scruples. They will deal with anyone in return for powe
 Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
 
 ```statblock
-"name": "Barovian Witch"
+"name": "Barovian Witch (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -39,8 +42,8 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
-  "Arcana": "+4"
+  "Perception": !!int "2"
+  "Arcana": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common"
 "cr": "1/2"
@@ -49,10 +52,9 @@ Barovian witches use the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] 
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The witch\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]],\
     \ [[5. Mechanics/Spells/Sleep.md|sleep]], [[5. Mechanics/Spells/Tashas Hideous Laughter.md|Tasha's hideous laughter]]\n\
-    \n2nd level (2 2nd-level slots): [[5. Mechanics/Spells/Alter Self.md|alter self]],\
-    \ [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
+    \n2nd level (2 slots): [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+3 (+3 to hit), reach 5 ft., one target.\

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/humanoid/merfolk
+statblock: inline
 aliases: ["Merfolk"]
 ---
-# Merfolk
+# [Merfolk](compendium\bestiary\humanoid/merfolk.md)
 *Source: Monster Manual p. 218. Available in the SRD and the Basic Rules.*  
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
@@ -41,7 +44,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
 - !!int "12"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"

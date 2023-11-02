@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/19
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Balor"]
 ---
-# Balor
+# [Balor](compendium\bestiary\fiend/balor.md)
 *Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
@@ -198,14 +201,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "22"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+12"
-  "Wisdom": "+9"
-  "Strength": "+14"
-  "Constitution": "+12"
+  "Charisma": !!int "12"
+  "Wisdom": !!int "9"
+  "Strength": !!int "14"
+  "Constitution": !!int "12"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"

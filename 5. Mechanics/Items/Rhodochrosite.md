@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Rhodochrosite"]
+aliases: 
+- "Rhodochrosite"
+cost: 10 gp
 ---
 # Rhodochrosite
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque light pink gemstone.
 

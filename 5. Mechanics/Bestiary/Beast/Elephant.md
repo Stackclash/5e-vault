@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/grassland
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Elephant"]
 ---
-# Elephant
+# [Elephant](compendium\bestiary\beast/elephant.md)
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock

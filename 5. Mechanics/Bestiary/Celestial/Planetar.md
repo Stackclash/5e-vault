@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/16
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Planetar"]
 ---
-# Planetar
+# [Planetar](compendium\bestiary\celestial/planetar.md)
 *Source: Monster Manual p. 17. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -50,13 +53,14 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 - !!int "25"
 "speed": "40 ft., fly 120 ft."
 "saves":
-  "Charisma": "+12"
-  "Wisdom": "+11"
-  "Constitution": "+12"
+  "Charisma": !!int "12"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "12"
 "skillsaves":
-  "Perception": "+11"
+  "Perception": !!int "11"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "16"

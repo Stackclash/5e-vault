@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/forest
@@ -11,9 +13,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Guard Drake"]
 ---
-# Guard Drake
+# [Guard Drake](compendium\bestiary\dragon/guard-drake-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
@@ -25,7 +28,7 @@ The ritual, which takes several days, requires 10 pounds of fresh dragon scales 
 A newly hatched guard drake imprints upon the first creature that feeds it (usually the one planning to train it), establishing an aggressive but trusting bond with that individual. A guard drake is fully grown within two to three weeks and can be trained in the same length of time. It is the equivalent of a guard dog in terms of what it can be trained to do. A guard drake resembles the type of dragon it was created from, but with a wingless, squat, muscular build. A drake can't reproduce, nor can its scales be used to make other guard drakes.
 
 ```statblock
-"name": "Guard Drake"
+"name": "Guard Drake (MPMM)"
 "size": "Medium"
 "type": "dragon"
 "alignment": "Unaligned"
@@ -41,7 +44,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"
 "cr": "2"

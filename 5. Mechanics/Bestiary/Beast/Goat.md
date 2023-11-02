@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Goat"]
 ---
-# Goat
+# [Goat](compendium\bestiary\beast/goat.md)
 *Source: Monster Manual p. 330, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

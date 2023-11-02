@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Eye Agate"]
+aliases: 
+- "Eye Agate"
+cost: 10 gp
 ---
 # Eye Agate
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 A translucent circles of gray, white, brown, blue, or green gemstone.
 

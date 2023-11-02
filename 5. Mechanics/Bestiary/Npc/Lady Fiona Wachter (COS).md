@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Lady Fiona Wachter"]
 ---
-# Lady Fiona Wachter
+# [Lady Fiona Wachter](compendium\bestiary\npc/lady-fiona-wachter-cos.md)
 *Source: Curse of Strahd p. 110, Derived from *  
 
 ```statblock
-"name": "Lady Fiona Wachter"
+"name": "Lady Fiona Wachter (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -27,9 +30,9 @@ aliases: ["Lady Fiona Wachter"]
 - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": "+7"
-  "Religion": "+5"
-  "Persuasion": "+3"
+  "Medicine": !!int "7"
+  "Religion": !!int "5"
+  "Persuasion": !!int "3"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "2"
@@ -38,12 +41,11 @@ aliases: ["Lady Fiona Wachter"]
     \ save DC 13, dice: d20+5 (+5 to hit) with spell attacks). Fiona has the following\
     \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]], [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Augury.md|augury]], [gentle\
-    \ repose](compendium/spells/gentle-repose.md), [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
-    \n3rd level (2 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-    \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [purify food\
+    \ and drink](compendium/spells/purify-food-and-drink.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Gentle Repose.md|gentle repose]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
+    \ [[5. Mechanics/Spells/Animate Dead.md|animate dead]], [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
   "name": "spells"
 - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
     \ attacks to magically deal an extra dice: 3d6|avg (3d6) radiant damage to\

@@ -7,14 +7,15 @@ tags:
 - item/property/martial
 - item/rarity/rare
 - item/weapon/martial/melee
-aliases: ["Devotee's Censer"]
+aliases: 
+- "Devotee's Censer"
 ---
 # Devotee's Censer
 *Melee Weapon, rare (requires attunement by a cleric or paladin)*  
+![[5. Mechanics/Items/img/devotees-censer.png#right]]  
 
 - **Damage**: 1d8 B
-- **Properties**: Martial, Requires Attunement
-- **Cost**: ⏤
+- **Properties**: Martial
 - **Weight**: 2.0 lbs.
 
 The rounded head of this flail is perforated with tiny holes, arranged in symbols and patterns. The flail counts as a holy symbol for you. When you hit with an attack using this magic flail, the target takes an extra `dice: 1d8|avg` (`1d8`) radiant damage.

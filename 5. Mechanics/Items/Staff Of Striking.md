@@ -8,7 +8,8 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of Striking"]
+aliases: 
+- "Staff of Striking"
 ---
 # Staff of Striking
 *Staff, major, very rare (requires attunement)*  
@@ -16,8 +17,7 @@ aliases: ["Staff of Striking"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.

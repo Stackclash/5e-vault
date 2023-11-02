@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/beast/cattle
+statblock: inline
 aliases: ["Deep Rothé"]
 ---
-# Deep Rothé
+# [Deep Rothé](compendium\bestiary\beast/deep-rothe-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71*  
 
 Deep rothe are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothe came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothe have spent in the Underdark, where ambient magic slowly transforms everything.
@@ -17,7 +20,7 @@ Deep rothe are Underdark cattle that communicate with one another using the danc
 Many kinds of cattle roam the multiverse, some of them domesticated and others feral. In many cultures, cattle are almost like family to the folk who tend to them.
 
 ```statblock
-"name": "Deep Rothé"
+"name": "Deep Rothé (MPMM)"
 "size": "Medium"
 "type": "beast"
 "subtype": "cattle"

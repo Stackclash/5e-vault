@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/phb
+- monster/cr/
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Animated Object (Medium)"]
 ---
-# Animated Object (Medium)
+# [Animated Object (Medium)](compendium\bestiary\construct/animated-object-medium.md)
 *Source: Player's Handbook p. 213*  
 
 ```statblock
-"name": "Animated Object (Medium)"
+"name": "Animated Object (Medium) (PHB)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"

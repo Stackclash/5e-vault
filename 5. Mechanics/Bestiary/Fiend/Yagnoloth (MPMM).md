@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/urban
 - monster/size/large
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Yagnoloth"]
 ---
-# Yagnoloth
+# [Yagnoloth](compendium\bestiary\fiend/yagnoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268*  
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -17,7 +20,7 @@ Although they are entrusted with leading lesser yugoloths, yagnoloths ultimately
 A yagnoloth has one arm of human size and one giant-sized arm. During negotiations, the yagnoloth uses its human-sized arm to draft and sign contracts. When a show of force is necessary or when combat is joined, it attacks with its brutally powerful giant arm.
 
 ```statblock
-"name": "Yagnoloth"
+"name": "Yagnoloth (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "yugoloth"
@@ -34,19 +37,19 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 - !!int "18"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+6"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Deception": "+8"
-  "Insight": "+6"
-  "Perception": "+6"
-  "Persuasion": "+8"
+  "Deception": !!int "8"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+  "Persuasion": !!int "8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "11"

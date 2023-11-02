@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/14
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Fire Giant Dreadnought"]
 ---
-# Fire Giant Dreadnought
+# [Fire Giant Dreadnought](compendium\bestiary\giant/fire-giant-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -24,7 +27,7 @@ Dreadnoughts are massively powerful fire giants who wield two huge shields like 
 When not called on to fight, dreadnoughts maintain their strength by using their shields to shove huge quantities of coal, stone, or ore about the foundry. Occasionally, dreadnoughts are called on by their superiors to accompany a war or diplomatic delegation and use their fierce and intimidating demeanor to strengthen the delegation's position.
 
 ```statblock
-"name": "Fire Giant Dreadnought"
+"name": "Fire Giant Dreadnought (MPMM)"
 "size": "Huge"
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
@@ -40,12 +43,12 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Dexterity": "+4"
-  "Constitution": "+11"
+  "Charisma": !!int "5"
+  "Dexterity": !!int "4"
+  "Constitution": !!int "11"
 "skillsaves":
-  "Athletics": "+13"
-  "Perception": "+5"
+  "Athletics": !!int "13"
+  "Perception": !!int "5"
 "damage_immunities": "fire"
 "senses": "passive Perception 15"
 "languages": "Giant"

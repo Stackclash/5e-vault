@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/23
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Baphomet"]
 ---
-# Baphomet
+# [Baphomet](compendium\bestiary\npc/baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58*  
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
@@ -29,7 +32,7 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the planewide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|minotaurs]], [[5. Mechanics/Bestiary/Fiend/Goristro.md|goristros]], and [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasits]].
 
 ```statblock
-"name": "Baphomet"
+"name": "Baphomet (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -46,15 +49,16 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+9"
-  "Wisdom": "+14"
-  "Constitution": "+15"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "14"
+  "Constitution": !!int "15"
 "skillsaves":
-  "Intimidation": "+17"
-  "Perception": "+14"
+  "Intimidation": !!int "17"
+  "Perception": !!int "14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "23"

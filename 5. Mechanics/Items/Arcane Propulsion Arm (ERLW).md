@@ -7,16 +7,15 @@ tags:
 - item/property/thrown
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Arcane Propulsion Arm"]
+aliases: 
+- "Arcane Propulsion Arm"
 ---
 # Arcane Propulsion Arm
 *Wondrous Item, very rare (requires attunement by a creature missing a hand or an arm)*  
 
 - **Damage**: 1d8 O
 - **Range**: 20/60
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
-- **Cost**: ⏤
-- **Weight**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 
 This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.
 

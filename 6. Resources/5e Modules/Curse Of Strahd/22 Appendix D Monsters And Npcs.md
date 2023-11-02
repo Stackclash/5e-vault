@@ -233,7 +233,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 #### Tarokka Deck
 
-Ezmerelda keeps a deck of tarokka cards in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]].
+Ezmerelda keeps a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]].
 
 #### Ezmerelda d'Avenir's Traits
 
@@ -630,7 +630,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a greatsword, +2 with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a [greatsword, +2](compendium/items/2-weapon.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice: 4d6 + 6|avg` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice: 4d6|avg` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ![[6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.png#center]]

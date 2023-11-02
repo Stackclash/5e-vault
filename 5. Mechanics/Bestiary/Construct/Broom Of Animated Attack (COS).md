@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-4
 - monster/size/small
 - monster/type/construct
+statblock: inline
 aliases: ["Broom of Animated Attack"]
 ---
-# Broom of Animated Attack
+# [Broom of Animated Attack](compendium\bestiary\construct/broom-of-animated-attack-cos.md)
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -16,7 +19,7 @@ A broom of animated attack is easily mistaken for a broom of flying. It attacks 
 Some brooms of animated attack allow their creators to ride them, in which case they behave like typical brooms of flying. A broom of animated attack, however, can carry only half the weight that a broom of flying can (see chapter 7, "Treasure," of the Dungeon Master's Guide).
 
 ```statblock
-"name": "Broom of Animated Attack"
+"name": "Broom of Animated Attack (CoS)"
 "size": "Small"
 "type": "construct"
 "alignment": "Unaligned"
@@ -32,8 +35,11 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"

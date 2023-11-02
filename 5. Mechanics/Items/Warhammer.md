@@ -6,7 +6,9 @@ tags:
 - item/property/martial
 - item/property/versatile
 - item/weapon/martial/melee
-aliases: ["Warhammer"]
+aliases: 
+- "Warhammer"
+cost: 15 gp
 ---
 # Warhammer
 *Melee Weapon*  

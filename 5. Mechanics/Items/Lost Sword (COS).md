@@ -9,17 +9,17 @@ tags:
 - item/property/martial
 - item/rarity/unknown/magic
 - item/weapon/martial/melee
-aliases: ["Lost Sword"]
+aliases: 
+- "Lost Sword"
 ---
 # Lost Sword
 *Melee Weapon, unknown (magic) (requires attunement)*  
 
 - **Damage**: 1d6 P
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial, Requires Attunement
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Martial
 - **Weight**: 2.0 lbs.
 
-The Lost Sword is a sentient lawful good +1 shortsword (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The Lost Sword is a sentient lawful good [+1 shortsword](compendium/items/1-weapon.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 

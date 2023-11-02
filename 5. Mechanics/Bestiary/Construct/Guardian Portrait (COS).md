@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Guardian Portrait"]
 ---
-# Guardian Portrait
+# [Guardian Portrait](compendium\bestiary\construct/guardian-portrait-cos.md)
 *Source: Curse of Strahd p. 227*  
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
@@ -20,7 +23,7 @@ The eyes of the figure depicted in the painting are imbued with [[/5. Mechanics/
 When a guardian portrait attacks, the figure in the painting animates and moves as though alive (albeit in two dimensions). The guardian portrait has no effective melee attacks, but it has a repertoire of innate spells that it can cast. When it casts a spell, the figure painted on the canvas makes all the appropriate somatic gestures and verbal incantations for the spell.
 
 ```statblock
-"name": "Guardian Portrait"
+"name": "Guardian Portrait (CoS)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"
@@ -36,8 +39,11 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
 - !!int "10"
 "speed": "0 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, plus up to two other languages"
 "cr": "1"

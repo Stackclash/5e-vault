@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Worg"]
 ---
-# Worg
+# [Worg](compendium\bestiary\monstrosity/worg.md)
 *Source: Monster Manual p. 341, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
@@ -31,7 +34,7 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Goblin, Worg"
 "cr": "1/2"

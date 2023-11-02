@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Poison Resistance"]
+aliases: 
+- "Ring of Poison Resistance"
 ---
 # Ring of Poison Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to poison damage while wearing this ring. The ring is set with amethyst.
 

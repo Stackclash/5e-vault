@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Gibbering Mouther"]
 ---
-# Gibbering Mouther
+# [Gibbering Mouther](compendium\bestiary\aberration/gibbering-mouther.md)
 *Source: Monster Manual p. 157, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.
@@ -42,7 +45,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 - !!int "10"
 - !!int "6"
 "speed": "10 ft., swim 10 ft."
-"condition_immunities": "prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"

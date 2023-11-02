@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Pentadrone"]
 ---
-# Pentadrone
+# [Pentadrone](compendium\bestiary\construct/pentadrone.md)
 *Source: Monster Manual p. 226*  
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
@@ -60,7 +63,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Modron"
 "cr": "2"

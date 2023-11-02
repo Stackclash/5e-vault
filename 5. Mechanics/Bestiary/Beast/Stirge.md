@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -13,9 +15,10 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Stirge"]
 ---
-# Stirge
+# [Stirge](compendium\bestiary\beast/stirge.md)
 *Source: Monster Manual p. 284. Available in the SRD and the Basic Rules.*  
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.

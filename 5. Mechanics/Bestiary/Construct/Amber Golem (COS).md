@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/10
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Amber Golem"]
 ---
-# Amber Golem
+# [Amber Golem](compendium\bestiary\construct/amber-golem-cos.md)
 *Source: Curse of Strahd p. 186, Derived from *  
 
 ```statblock
-"name": "Amber Golem"
+"name": "Amber Golem (CoS)"
 "size": "Large"
 "type": "construct"
 "alignment": "Unaligned"
@@ -27,7 +30,9 @@ aliases: ["Amber Golem"]
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"

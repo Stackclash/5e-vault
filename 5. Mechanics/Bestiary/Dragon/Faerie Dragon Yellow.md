@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/dragon
+statblock: inline
 aliases: ["Faerie Dragon (Yellow)"]
 ---
-# Faerie Dragon (Yellow)
+# [Faerie Dragon (Yellow)](compendium\bestiary\dragon/faerie-dragon-yellow.md)
 *Source: Monster Manual p. 133*  
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -54,9 +57,9 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 - !!int "16"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+3"
-  "Arcana": "+4"
+  "Stealth": !!int "7"
+  "Perception": !!int "3"
+  "Arcana": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan"
 "cr": "1"

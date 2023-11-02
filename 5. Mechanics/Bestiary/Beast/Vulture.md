@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/desert
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Vulture"]
 ---
-# Vulture
+# [Vulture](compendium\bestiary\beast/vulture.md)
 *Source: Monster Manual p. 339. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -29,7 +32,7 @@ aliases: ["Vulture"]
 - !!int "4"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"

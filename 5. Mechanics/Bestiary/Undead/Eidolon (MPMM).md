@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -10,15 +12,16 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Eidolon"]
 ---
-# Eidolon
+# [Eidolon](compendium\bestiary\undead/eidolon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[5. Mechanics/Bestiary/Undead/Eidolon (MPMM).md|eidolon]] plunges into a [[5. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```statblock
-"name": "Eidolon"
+"name": "Eidolon (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Any alignment"
@@ -34,14 +37,17 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 - !!int "16"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Wisdom": "+8"
+  "Wisdom": !!int "8"
 "skillsaves":
-  "Perception": "+8"
+  "Perception": !!int "8"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "the languages it knew in life"
 "cr": "12"

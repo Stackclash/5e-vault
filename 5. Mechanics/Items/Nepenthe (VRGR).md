@@ -8,16 +8,17 @@ tags:
 - item/property/versatile
 - item/rarity/legendary
 - item/weapon/martial/melee
-aliases: ["Nepenthe"]
+aliases: 
+- "Nepenthe"
 ---
 # Nepenthe
 *Melee Weapon, legendary (requires attunement by a paladin)*  
+![[5. Mechanics/Items/img/nepenthe.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra `dice: 2d10|avg` (`2d10`) radiant damage.

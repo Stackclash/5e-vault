@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
+statblock: inline
 aliases: ["Kuo-toa"]
 ---
-# Kuo-toa
+# [Kuo-toa](compendium\bestiary\humanoid/kuo-toa.md)
 *Source: Monster Manual p. 199*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -70,7 +73,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "1/4"

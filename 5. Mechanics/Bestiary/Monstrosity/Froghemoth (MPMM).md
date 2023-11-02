@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Froghemoth"]
 ---
-# Froghemoth
+# [Froghemoth](compendium\bestiary\monstrosity/froghemoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130*  
 
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
@@ -20,7 +23,7 @@ Every few years, a froghemoth can lay a fertile egg without mating. The froghemo
 If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
 
 ```statblock
-"name": "Froghemoth"
+"name": "Froghemoth (MPMM)"
 "size": "Huge"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -36,11 +39,11 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
 - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "saves":
-  "Wisdom": "+5"
-  "Constitution": "+9"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+9"
+  "Stealth": !!int "5"
+  "Perception": !!int "9"
 "damage_resistances": "fire, lightning"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": ""

@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Planecaller's Codex"]
+aliases: 
+- "Planecaller's Codex"
 ---
 # Planecaller's Codex
 *Wondrous Item, rare (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 The pages of this book are bound in fiend hide, and its cover is embossed with a diagram of the Great Wheel of the multiverse. When found, the book contains the following spells: [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Find Familiar.md\|find familiar]], [[5. Mechanics/Spells/Gate.md\|gate]], [[5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[5. Mechanics/Spells/Planar Binding.md\|planar binding]], and [[5. Mechanics/Spells/Summon Elemental (TCE).md\|summon elemental]]. It functions as a spellbook for you.

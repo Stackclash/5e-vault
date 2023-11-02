@@ -6,7 +6,9 @@ tags:
 - item/property/finesse
 - item/property/thrown
 - item/weapon/simple/ranged
-aliases: ["Dart"]
+aliases: 
+- "Dart"
+cost: 5 cp
 ---
 # Dart
 *Ranged Weapon*  

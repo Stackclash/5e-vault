@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["+2 Bloodwell Vial"]
+aliases: 
+- "+2 Bloodwell Vial"
 ---
 # +2 Bloodwell Vial
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 To attune to this vial, you must place a few drops of your blood into it. The vial can't be opened while your attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells.
 

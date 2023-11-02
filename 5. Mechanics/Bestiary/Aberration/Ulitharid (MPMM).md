@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration/mind-flayer
+statblock: inline
 aliases: ["Ulitharid"]
 ---
-# Ulitharid
+# [Ulitharid](compendium\bestiary\aberration/ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249*  
 
 Very rarely, when a tadpole from the brine pool of an [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain]] is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|mind flayer]] with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain's]] reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain]] perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
@@ -17,7 +20,7 @@ When an ulitharid finds sharing leadership with an [[5. Mechanics/Bestiary/Aberr
 This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|elder brain]].
 
 ```statblock
-"name": "Ulitharid"
+"name": "Ulitharid (MPMM)"
 "size": "Large"
 "type": "aberration"
 "subtype": "mind flayer"
@@ -34,14 +37,14 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 - !!int "21"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+8"
-  "Intelligence": "+9"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "9"
 "skillsaves":
-  "Stealth": "+5"
-  "Insight": "+8"
-  "Perception": "+8"
-  "Arcana": "+9"
+  "Stealth": !!int "5"
+  "Insight": !!int "8"
+  "Perception": !!int "8"
+  "Arcana": !!int "9"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Deep Speech, Undercommon, telepathy 2 miles"
 "cr": "9"

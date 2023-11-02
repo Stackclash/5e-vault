@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/urban
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Banderhobb"]
 ---
-# Banderhobb
+# [Banderhobb](compendium\bestiary\monstrosity/banderhobb-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56*  
 
 A banderhobb is a hybrid of shadow and flesh. Through vile magic, these components take on an enormous and horrific upright shape resembling a bipedal toad. In this form, a banderhobb temporarily serves its creator as a thug, a thief, and a kidnapper that swallows the unwary.
@@ -19,7 +22,7 @@ During its brief existence, a banderhobb attempts to carry out its creator's bid
 A banderhobb fulfills its duties until its existence ends. When it expires, usually several days after its birth, it leaves behind only tarry goo and wisps of shadow. Legends tell of an ominous tower in the Shadowfell where the shadows sometimes reform and banderhobbs roam.
 
 ```statblock
-"name": "Banderhobb"
+"name": "Banderhobb (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -35,9 +38,9 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+8"
-  "Stealth": "+7"
-"condition_immunities": "charmed, frightened"
+  "Athletics": !!int "8"
+  "Stealth": !!int "7"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "understands Common and the languages of its creator but can't speak"
 "cr": "5"

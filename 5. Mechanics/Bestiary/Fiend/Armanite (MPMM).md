@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Armanite"]
 ---
-# Armanite
+# [Armanite](compendium\bestiary\fiend/armanite-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50*  
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
@@ -17,7 +20,7 @@ In the armies of demon lords, armanites perform the role of heavy cavalry, leadi
 Part of what makes armanites so fearsome is the number of weapons they have at their disposal. They possess dense hooves, claws that end in curling talons, and long tails whose serrated ridges can flense the flesh from a victim, and they use them all to carve through their foes. When they're up against tough formations, they can call on their innate magic to loose bolts of lightning and blow holes in enemy ranks.
 
 ```statblock
-"name": "Armanite"
+"name": "Armanite (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -35,7 +38,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "speed": "60 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "7"

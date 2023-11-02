@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/underdark
 - monster/size/small
 - monster/type/fey/goblinoid
+statblock: inline
 aliases: ["Nilbog"]
 ---
-# Nilbog
+# [Nilbog](compendium\bestiary\fey/nilbog-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195*  
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -27,7 +30,7 @@ A goblin targeted by the spirit must succeed on a DC 15 Charisma saving throw or
 If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protection from evil and good, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of their nilbog spirit reverts to their normal statistics and loses the traits they gained while possessed.
 
 ```statblock
-"name": "Nilbog"
+"name": "Nilbog (MPMM)"
 "size": "Small"
 "type": "fey"
 "subtype": "goblinoid"
@@ -44,7 +47,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+6"
+  "Stealth": !!int "6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"

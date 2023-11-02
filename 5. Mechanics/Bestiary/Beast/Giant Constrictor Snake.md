@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/swamp
@@ -9,9 +11,10 @@ tags:
 - monster/environment/underwater
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Constrictor Snake"]
 ---
-# Giant Constrictor Snake
+# [Giant Constrictor Snake](compendium\bestiary\beast/giant-constrictor-snake.md)
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -31,7 +34,7 @@ aliases: ["Giant Constrictor Snake"]
 - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "blindsight 10 ft., passive Perception 12"
 "languages": ""
 "cr": "2"

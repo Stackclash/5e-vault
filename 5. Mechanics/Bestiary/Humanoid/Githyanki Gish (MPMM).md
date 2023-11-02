@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/gith
 - monster/type/humanoid/wizard
+statblock: inline
 aliases: ["Githyanki Gish"]
 ---
-# Githyanki Gish
+# [Githyanki Gish](compendium\bestiary\humanoid/githyanki-gish-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
@@ -20,7 +23,7 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 Githyanki descend from an ancient people who were also the progenitors of githzerai (also in this book). These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane. Among the best-known githyanki are the bellicose followers of the Lich Queen Vlaakith. They terrorize the Astral Plane, raiding into other planes to plunder the multiverse of its magic and riches.
 
 ```statblock
-"name": "Githyanki Gish"
+"name": "Githyanki Gish (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "gith, wizard"
@@ -37,13 +40,13 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+6"
-  "Intelligence": "+7"
-  "Constitution": "+6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Stealth": "+6"
-  "Insight": "+6"
-  "Perception": "+6"
+  "Stealth": !!int "6"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "10"

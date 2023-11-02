@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Commoner"]
 ---
-# Vistana Commoner
+# [Vistana Commoner](compendium\bestiary\humanoid/vistana-commoner-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Commoner"
+"name": "Vistana Commoner (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"

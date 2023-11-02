@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Barbed Devil"]
 ---
-# Barbed Devil
+# [Barbed Devil](compendium\bestiary\fiend/barbed-devil.md)
 *Source: Monster Manual p. 70, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
@@ -151,18 +154,18 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+5"
-  "Strength": "+6"
-  "Constitution": "+7"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "5"
+  "Strength": !!int "6"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Deception": "+5"
-  "Insight": "+5"
-  "Perception": "+8"
+  "Deception": !!int "5"
+  "Insight": !!int "5"
+  "Perception": !!int "8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"

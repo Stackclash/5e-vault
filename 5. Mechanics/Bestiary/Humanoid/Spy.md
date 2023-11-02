@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Spy"]
 ---
-# Spy
+# [Spy](compendium\bestiary\humanoid/spy.md)
 *Source: Monster Manual p. 349, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
@@ -30,13 +33,13 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Sleight of Hand": "+4"
-  "Deception": "+5"
-  "Stealth": "+4"
-  "Investigation": "+5"
-  "Insight": "+4"
-  "Perception": "+6"
-  "Persuasion": "+5"
+  "Sleight of Hand": !!int "4"
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
+  "Investigation": !!int "5"
+  "Insight": !!int "4"
+  "Perception": !!int "6"
+  "Persuasion": !!int "5"
 "senses": "passive Perception 16"
 "languages": "any two languages"
 "cr": "1"

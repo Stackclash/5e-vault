@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/13
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Storm Giant"]
 ---
-# Storm Giant
+# [Storm Giant](compendium\bestiary\giant/storm-giant.md)
 *Source: Monster Manual p. 156. Available in the SRD.*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -88,15 +91,15 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "18"
 "speed": "50 ft., swim 50 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+9"
-  "Strength": "+14"
-  "Constitution": "+10"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
+  "Strength": !!int "14"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Athletics": "+14"
-  "Perception": "+9"
-  "History": "+8"
-  "Arcana": "+8"
+  "Athletics": !!int "14"
+  "Perception": !!int "9"
+  "History": !!int "8"
+  "Arcana": !!int "8"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
 "senses": "passive Perception 19"

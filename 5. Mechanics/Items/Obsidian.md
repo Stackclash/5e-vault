@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Obsidian"]
+aliases: 
+- "Obsidian"
+cost: 10 gp
 ---
 # Obsidian
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque black gemstone.
 

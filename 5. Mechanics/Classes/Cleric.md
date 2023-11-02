@@ -87,7 +87,7 @@ You begin play with the following equipment, in addition to any equipment provid
 - (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)  
 - (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
 - (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
-- A [[5. Mechanics/Items/Shield.md\|shield]] and a holy symbol  
+- A [[5. Mechanics/Items/Shield.md\|shield]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -249,7 +249,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use a holy symbol as a spellcasting focus for your cleric spells.
+You can use a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your cleric spells.
 
 ### Divine Domain (Level 1)
 

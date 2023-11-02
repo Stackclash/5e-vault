@@ -1,20 +1,23 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/grassland
 - monster/environment/swamp
 - monster/size/large
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Hadrosaurus"]
 ---
-# Hadrosaurus
+# [Hadrosaurus](compendium\bestiary\beast/hadrosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
 
 ```statblock
-"name": "Hadrosaurus"
+"name": "Hadrosaurus (MPMM)"
 "size": "Large"
 "type": "beast"
 "subtype": "dinosaur"
@@ -31,7 +34,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "1/4"

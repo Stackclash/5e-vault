@@ -9,7 +9,8 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/weapon/martial/melee
-aliases: ["Sword of Answering (Concluder)"]
+aliases: 
+- "Sword of Answering (Concluder)"
 ---
 # Sword of Answering (Concluder)
 *Melee Weapon, major, legendary (requires attunement by a lawful neutral creature)*  
@@ -17,8 +18,7 @@ aliases: ["Sword of Answering (Concluder)"]
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 In the world of Greyhawk, only nine of these blades are known to exist. Each is patterned after the legendary sword Fragarach, which is variously translated as "Final Word." Each of the nine swords has its own name and alignment, and each bears a different gem in its pommel.

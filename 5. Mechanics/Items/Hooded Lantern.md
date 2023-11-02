@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Hooded Lantern"]
+aliases: 
+- "Hooded Lantern"
+cost: 5 gp
 ---
 # Hooded Lantern
 *Adventuring Gear*  

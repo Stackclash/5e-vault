@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Shadar-kai Soul Monger"]
 ---
-# Shadar-kai Soul Monger
+# [Shadar-kai Soul Monger](compendium\bestiary\humanoid/shadar-kai-soul-monger-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214*  
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -30,7 +33,7 @@ Within the fortress are items that the Raven Queen finds irresistible: objects i
 Shadar-kai encountered outside the Shadowfell are often on quests to find the most sorrow-touched items they can find to bring back to their queen's gloomy castle.
 
 ```statblock
-"name": "Shadar-kai Soul Monger"
+"name": "Shadar-kai Soul Monger (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -47,13 +50,14 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Dexterity": "+7"
-  "Wisdom": "+7"
+  "Charisma": !!int "5"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "7"
 "skillsaves":
-  "Perception": "+7"
+  "Perception": !!int "7"
 "damage_immunities": "necrotic, psychic"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Common, Elvish"
 "cr": "11"

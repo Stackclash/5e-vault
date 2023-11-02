@@ -1,19 +1,17 @@
 ---
 obsidianUIMode: preview
-cssclasses:
-  - json5e-item
+cssclasses: json5e-item
 tags:
-  - compendium/src/5e/dmg
-  - item/wealth
-aliases:
-  - Amber
-cost: 100
+- compendium/src/5e/dmg
+- item/wealth
+aliases: 
+- "Amber"
+cost: 100 gp
 ---
 # Amber
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 A transparent watery gold to rich gold gemstone.
 

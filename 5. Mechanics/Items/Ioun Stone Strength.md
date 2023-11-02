@@ -7,14 +7,12 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Ioun Stone, Strength"]
+aliases: 
+- "Ioun Stone, Strength"
 ---
 # Ioun Stone, Strength
 *Wondrous Item, major, very rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 

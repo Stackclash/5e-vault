@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Tankard"]
+aliases: 
+- "Tankard"
+cost: 2 cp
 ---
 # Tankard
 *Adventuring Gear*  

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/yuan-ti
+statblock: inline
 aliases: ["Yuan-ti Pureblood"]
 ---
-# Yuan-ti Pureblood
+# [Yuan-ti Pureblood](compendium\bestiary\humanoid/yuan-ti-pureblood.md)
 *Source: Monster Manual p. 310*  
 
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
@@ -75,11 +78,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+6"
-  "Stealth": "+3"
-  "Perception": "+3"
+  "Deception": !!int "6"
+  "Stealth": !!int "3"
+  "Perception": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"

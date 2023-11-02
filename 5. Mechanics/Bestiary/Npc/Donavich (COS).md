@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Donavich"]
 ---
-# Donavich
+# [Donavich](compendium\bestiary\npc/donavich-cos.md)
 *Source: Curse of Strahd p. 46, Derived from *  
 
 ```statblock
-"name": "Donavich"
+"name": "Donavich (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -27,8 +30,8 @@ aliases: ["Donavich"]
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": "+4"
-  "Religion": "+2"
+  "Medicine": !!int "4"
+  "Religion": !!int "2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/4"
@@ -37,8 +40,8 @@ aliases: ["Donavich"]
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). Donavich has\
     \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Bless.md|bless]], [cure\
-    \ wounds](compendium/spells/cure-wounds.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
+    \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit), reach 5 ft., one target.\

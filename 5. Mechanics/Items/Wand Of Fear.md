@@ -7,13 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/wand
-aliases: ["Wand of Fear"]
+aliases: 
+- "Wand of Fear"
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/wand-of-fear.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges for the following properties. It regains `dice: 1d6 + 1|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice: d20|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.

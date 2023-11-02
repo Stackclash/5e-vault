@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration/sorcerer
+statblock: inline
 aliases: ["Derro Savant"]
 ---
-# Derro Savant
+# [Derro Savant](compendium\bestiary\aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -25,7 +28,7 @@ Grandiose fantasies and rampant fanaticism have obscured derro's true origin, ev
 Derro tell their own stories of flight and survival in the Underdark, in which mind flayers aren't always the enemy. They tell of two brothers, the gods Diirinka and Diinkarazan, and of how Diirinka cleverly betrayed his sibling so that he could steal magical power from the evil they escaped. The danger the brothers are said to face in this legend varies, depending on whatever foe the savants want to lead their people against, yet the essence of the story remains the same: a lesson of survival at any price and an example of how deceitfulness and cruelty can be virtues.
 
 ```statblock
-"name": "Derro Savant"
+"name": "Derro Savant (MPMM)"
 "size": "Small"
 "type": "aberration"
 "subtype": "sorcerer"
@@ -42,7 +45,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "senses": "darkvision 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "3"

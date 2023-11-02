@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Nupperibo"]
 ---
-# Nupperibo
+# [Nupperibo](compendium\bestiary\fiend/nupperibo-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -26,7 +29,7 @@ A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo
 Nupperibos unthinkingly obey any command they receive telepathically from another devil. This blind loyalty makes them the easiest of infernal troops to lead into battle, but their presence in a legion does nothing to elevate its general's status.
 
 ```statblock
-"name": "Nupperibo"
+"name": "Nupperibo (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -43,10 +46,11 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 - !!int "1"
 "speed": "20 ft."
 "skillsaves":
-  "Perception": "+1"
+  "Perception": !!int "1"
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "blinded, charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 20 ft. (blind beyond this radius), passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"

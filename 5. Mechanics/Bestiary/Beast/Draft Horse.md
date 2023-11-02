@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Draft Horse"]
 ---
-# Draft Horse
+# [Draft Horse](compendium\bestiary\beast/draft-horse.md)
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

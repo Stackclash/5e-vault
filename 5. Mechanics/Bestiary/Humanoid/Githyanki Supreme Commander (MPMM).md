@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/14
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/gith
+statblock: inline
 aliases: ["Githyanki Supreme Commander"]
 ---
-# Githyanki Supreme Commander
+# [Githyanki Supreme Commander](compendium\bestiary\humanoid/githyanki-supreme-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141*  
 
 Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [[5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md|red dragons]] into battle.
@@ -19,7 +22,7 @@ Supreme commanders lead armies, each one commanding ten kith'raks, who in turn l
 Githyanki descend from an ancient people who were also the progenitors of githzerai (also in this book). These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane. Among the best-known githyanki are the bellicose followers of the Lich Queen Vlaakith. They terrorize the Astral Plane, raiding into other planes to plunder the multiverse of its magic and riches.
 
 ```statblock
-"name": "Githyanki Supreme Commander"
+"name": "Githyanki Supreme Commander (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "gith"
@@ -36,12 +39,12 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+8"
-  "Intelligence": "+8"
-  "Constitution": "+9"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "8"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Intimidation": "+9"
-  "Perception": "+8"
+  "Intimidation": !!int "9"
+  "Perception": !!int "8"
 "senses": "passive Perception 18"
 "languages": "Gith"
 "cr": "14"

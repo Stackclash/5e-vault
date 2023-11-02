@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Stella Wachter"]
 ---
-# Stella Wachter
+# [Stella Wachter](compendium\bestiary\npc/stella-wachter-cos.md)
 *Source: Curse of Strahd p. 113, Derived from *  
 
 ```statblock
-"name": "Stella Wachter"
+"name": "Stella Wachter (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

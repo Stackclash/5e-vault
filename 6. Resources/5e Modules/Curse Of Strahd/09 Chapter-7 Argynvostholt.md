@@ -543,7 +543,7 @@ Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q
 
 #### Treasure
 
-[[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]] wields a +2 greatsword.
+[[5. Mechanics/Bestiary/Npc/Vladimir Horngaard (COS).md\|Vladimir Horngaard]] wields a [+2 greatsword](compendium/items/2-weapon.md).
 
 Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp) around his neck, underneath his half plate armor.
 

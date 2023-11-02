@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/size/medium
 - monster/type/humanoid/gith
+statblock: inline
 aliases: ["Githzerai Anarch"]
 ---
-# Githzerai Anarch
+# [Githzerai Anarch](compendium\bestiary\humanoid/githzerai-anarch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142*  
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
@@ -22,7 +25,7 @@ The anarch's challenge rating is 17 (18,000 XP) when it's encountered in its lai
 Githzerai are otherworldly folk with psionic powers who share an ancestral link to githyanki (also in this book). The githzerai followers of the great leader Zaerith Menyar-Ag-Gith are an ascetic people who live apart from the rest of the cosmos, within the confines of fortresses floating through the chaos of Limbo. Instead of imposing their will on other peoples, they focus on controlling and manipulating their endlessly malleable home.
 
 ```statblock
-"name": "Githzerai Anarch"
+"name": "Githzerai Anarch (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "gith"
@@ -39,14 +42,14 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 - !!int "14"
 "speed": "30 ft., fly 40 ft. (hover)"
 "saves":
-  "Dexterity": "+10"
-  "Wisdom": "+10"
-  "Intelligence": "+9"
-  "Strength": "+8"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "10"
+  "Intelligence": !!int "9"
+  "Strength": !!int "8"
 "skillsaves":
-  "Insight": "+10"
-  "Perception": "+10"
-  "Arcana": "+9"
+  "Insight": !!int "10"
+  "Perception": !!int "10"
+  "Arcana": !!int "9"
 "senses": "passive Perception 20"
 "languages": "Gith"
 "cr": "16"

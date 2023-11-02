@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/19
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Kalaraq Quori"]
 ---
-# Kalaraq Quori
+# [Kalaraq Quori](compendium\bestiary\aberration/kalaraq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 306*  
 
 The most powerful quori are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by a nimbus of energy. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed.
@@ -16,7 +19,7 @@ Kalaraq quori guide the quori race, and the Devourer of Dreams—the personal em
 Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares—the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The Inspired are the most common type of willing host for the quori and are described earlier in this chapter.
 
 ```statblock
-"name": "Kalaraq Quori"
+"name": "Kalaraq Quori (ERLW)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Lawful Evil"
@@ -32,17 +35,20 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - !!int "25"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  "Charisma": "+13"
-  "Wisdom": "+13"
-  "Intelligence": "+12"
+  "Charisma": !!int "13"
+  "Wisdom": !!int "13"
+  "Intelligence": !!int "12"
 "skillsaves":
-  "Deception": "+13"
-  "Perception": "+13"
-  "Persuasion": "+13"
+  "Deception": !!int "13"
+  "Perception": !!int "13"
+  "Persuasion": !!int "13"
 "damage_resistances": "cold; necrotic; poison; psychic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"condition_immunities": "blinded, charmed, exhaustion, frightened, grappled, paralyzed,\
-  \ petrified, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "19"

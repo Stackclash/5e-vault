@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/ooze
+statblock: inline
 aliases: ["Adult Oblex"]
 ---
-# Adult Oblex
+# [Adult Oblex](compendium\bestiary\ooze/adult-oblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198*  
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -29,7 +32,7 @@ By experimenting on the slimes, jellies, and puddings that infest the depths of 
 When oblexes feed on thoughts, they can form weird copies of their prey to use as lures, which helps them harvest even more victims for their mind flayer masters.
 
 ```statblock
-"name": "Adult Oblex"
+"name": "Adult Oblex (MPMM)"
 "size": "Medium"
 "type": "ooze"
 "alignment": "Typically  Lawful Evil"
@@ -45,16 +48,18 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 - !!int "15"
 "speed": "20 ft."
 "saves":
-  "Charisma": "+5"
-  "Intelligence": "+7"
+  "Charisma": !!int "5"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Nature": "+7"
-  "Deception": "+5"
-  "Religion": "+7"
-  "Perception": "+4"
-  "History": "+7"
-  "Arcana": "+7"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, prone"
+  "Nature": !!int "7"
+  "Deception": !!int "5"
+  "Religion": !!int "7"
+  "Perception": !!int "4"
+  "History": !!int "7"
+  "Arcana": !!int "7"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 14"
 "languages": "Common plus two more languages"
 "cr": "5"

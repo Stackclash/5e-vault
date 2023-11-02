@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Zircon"]
+aliases: 
+- "Zircon"
+cost: 50 gp
 ---
 # Zircon
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 A transparent pale blue-green gemstone.
 

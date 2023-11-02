@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Bullseye Lantern"]
+aliases: 
+- "Bullseye Lantern"
+cost: 10 gp
 ---
 # Bullseye Lantern
 *Adventuring Gear*  

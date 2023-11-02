@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Heart Weaver's Primer"]
+aliases: 
+- "Heart Weaver's Primer"
 ---
 # Heart Weaver's Primer
 *Wondrous Item, rare (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [antipathy/sympathy](compendium/spells/antipathy-sympathy.md), [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Enthrall.md\|enthrall]], [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]], and [[5. Mechanics/Spells/Suggestion.md\|suggestion]]. It functions as a spellbook for you.

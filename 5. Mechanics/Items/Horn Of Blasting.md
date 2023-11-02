@@ -6,12 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Horn of Blasting"]
+aliases: 
+- "Horn of Blasting"
 ---
 # Horn of Blasting
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/horn-of-blasting.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes `dice: 5d6|avg` (`5d6`) thunder damage and is [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]]. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take `dice: 10d6|avg` (`10d6`) thunder damage instead of `dice: 5d6|avg` (`5d6`).

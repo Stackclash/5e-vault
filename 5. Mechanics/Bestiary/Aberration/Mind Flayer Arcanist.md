@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Mind Flayer Arcanist"]
 ---
-# Mind Flayer Arcanist
+# [Mind Flayer Arcanist](compendium\bestiary\aberration/mind-flayer-arcanist.md)
 *Source: Monster Manual p. 222*  
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
@@ -56,16 +59,16 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Deception": "+6"
-  "Stealth": "+4"
-  "Insight": "+6"
-  "Perception": "+6"
-  "Arcana": "+7"
-  "Persuasion": "+6"
+  "Deception": !!int "6"
+  "Stealth": !!int "4"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+  "Arcana": !!int "7"
+  "Persuasion": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "8"
@@ -81,16 +84,15 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     \ mind flayer has the following wizard spells prepared:\n\nCantrips (at will):\
     \ [[5. Mechanics/Spells/Blade Ward.md|blade ward]], [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
     \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Blur.md|blur]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]],\
     \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]],\
     \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Confusion.md|confusion]],\
-    \ [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]]\n\n5th\
-    \ level (2 5th-level slots): [[5. Mechanics/Spells/Telekinesis.md|telekinesis]],\
-    \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Confusion.md|confusion]], [hallucinatory\
+    \ terrain](compendium/spells/hallucinatory-terrain.md)\n\n5th level (2 slots):\
+    \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
   "name": "spells"
 - "desc": "The mind flayer has advantage on saving throws against spells and other\
     \ magical effects."

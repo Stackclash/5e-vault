@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Shadowblade"]
 ---
-# Drow Shadowblade
+# [Drow Shadowblade](compendium\bestiary\humanoid/drow-shadowblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105*  
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
@@ -15,7 +18,7 @@ Drow shadowblades steal down the dim passages of the Underdark, bound on errands
 A shadowblade gains their powers over shadow via a ritual in which they kill a shadow demon and mystically prevent it from re-forming in the Abyss, siphoning its essence into themselves.
 
 ```statblock
-"name": "Drow Shadowblade"
+"name": "Drow Shadowblade (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -32,12 +35,12 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+9"
-  "Wisdom": "+6"
-  "Constitution": "+7"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Stealth": "+9"
-  "Perception": "+6"
+  "Stealth": !!int "9"
+  "Perception": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "11"

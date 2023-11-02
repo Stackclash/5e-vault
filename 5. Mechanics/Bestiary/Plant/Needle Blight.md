@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/size/medium
 - monster/type/plant
+statblock: inline
 aliases: ["Needle Blight"]
 ---
-# Needle Blight
+# [Needle Blight](compendium\bestiary\plant/needle-blight.md)
 *Source: Monster Manual p. 32, Curse of Strahd*  
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
@@ -53,7 +56,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - !!int "8"
 - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "blinded, deafened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"

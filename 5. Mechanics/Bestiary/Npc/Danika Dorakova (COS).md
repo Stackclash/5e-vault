@@ -1,17 +1,20 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Danika Dorakova"]
 ---
-# Danika Dorakova
+# [Danika Dorakova](compendium\bestiary\npc/danika-dorakova-cos.md)
 *Source: Curse of Strahd p. 98, Derived from *  
 
 ```statblock
-"name": "Danika Dorakova"
+"name": "Danika Dorakova (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -28,8 +31,8 @@ aliases: ["Danika Dorakova"]
 - !!int "14"
 "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)"
 "skillsaves":
-  "Insight": "+4"
-  "Perception": "+6"
+  "Insight": !!int "4"
+  "Perception": !!int "6"
 "senses": "passive Perception 16"
 "languages": "Common (can't speak in raven form)"
 "cr": "2"

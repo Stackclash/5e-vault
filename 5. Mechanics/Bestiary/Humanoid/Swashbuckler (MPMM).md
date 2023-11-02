@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/coastal
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Swashbuckler"]
 ---
-# Swashbuckler
+# [Swashbuckler](compendium\bestiary\humanoid/swashbuckler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238*  
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
@@ -30,7 +33,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 ^swashbuckler-flourishes
 
 ```statblock
-"name": "Swashbuckler"
+"name": "Swashbuckler (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -46,9 +49,9 @@ Many swashbucklers have a signature flourish with which they embellish their act
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Acrobatics": "+8"
-  "Persuasion": "+6"
+  "Athletics": !!int "5"
+  "Acrobatics": !!int "8"
+  "Persuasion": !!int "6"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"

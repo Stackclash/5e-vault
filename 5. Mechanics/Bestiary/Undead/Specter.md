@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Specter"]
 ---
-# Specter
+# [Specter](compendium\bestiary\undead/specter.md)
 *Source: Monster Manual p. 279, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
@@ -50,8 +53,11 @@ A specter doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "1"

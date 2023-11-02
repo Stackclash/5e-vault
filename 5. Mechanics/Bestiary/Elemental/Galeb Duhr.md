@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Galeb Duhr"]
 ---
-# Galeb Duhr
+# [Galeb Duhr](compendium\bestiary\elemental/galeb-duhr.md)
 *Source: Monster Manual p. 139, Tasha's Cauldron of Everything*  
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
@@ -43,7 +46,9 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "6"

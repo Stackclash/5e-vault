@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/tiny
 - monster/type/aberration
+statblock: inline
 aliases: ["Intellect Devourer"]
 ---
-# Intellect Devourer
+# [Intellect Devourer](compendium\bestiary\aberration/intellect-devourer.md)
 *Source: Monster Manual p. 191, Eberron: Rising from the Last War*  
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.
@@ -42,10 +45,10 @@ An intellect devourer consumes a creature's mind and memories, then turns the ho
 - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "blinded"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
 "languages": "understands Deep Speech but can't speak, telepathy 60 ft."
 "cr": "2"

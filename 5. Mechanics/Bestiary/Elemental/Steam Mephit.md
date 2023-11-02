@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underwater
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Steam Mephit"]
 ---
-# Steam Mephit
+# [Steam Mephit](compendium\bestiary\elemental/steam-mephit.md)
 *Source: Monster Manual p. 217. Available in the SRD.*  
 
 ## Mephits
@@ -41,7 +44,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Aquan, Ignan"
 "cr": "1/4"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/3
 - monster/size/small
 - monster/type/undead
+statblock: inline
 aliases: ["Brain in a Jar"]
 ---
-# Brain in a Jar
+# [Brain in a Jar](compendium\bestiary\undead/brain-in-a-jar-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 278*  
 
 Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body's flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
@@ -20,7 +23,7 @@ Being divorced from one's body can tax the mind, and the longer a brain in a jar
 The brain floats in a jar of solution, pulsating as it reacts to its surroundings. Some brains have been known to thump against the walls of their containers when excited or vexed. A jar's metal casing might be rusty but serviceable, or an elegantly wrought masterwork, depending on its creator. A brain in a jar weighs roughly 125 pounds.
 
 ```statblock
-"name": "Brain in a Jar"
+"name": "Brain in a Jar (VRGR)"
 "size": "Small"
 "type": "undead"
 "alignment": "Any alignment"
@@ -36,10 +39,12 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
 - !!int "15"
 "speed": "0 ft., fly 10 ft. (hover)"
 "saves":
-  "Charisma": "+4"
-  "Intelligence": "+6"
+  "Charisma": !!int "4"
+  "Intelligence": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, paralyzed, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 120 ft. (blind beyond this radius); see also \"detect sentience\"\
   \ below, passive Perception 10"
 "languages": "the languages it knew in life"

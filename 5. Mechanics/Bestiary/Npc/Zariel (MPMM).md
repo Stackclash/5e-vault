@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/26
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Zariel"]
 ---
-# Zariel
+# [Zariel](compendium\bestiary\npc/zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -29,7 +32,7 @@ To replenish her legions, Zariel needs the souls of mortals to create lemures, w
 Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly a mile away, one can hear the screams and moans coming from the burned victims chained to the stronghold's wall, the dying remains of those who failed to impress the archdevil. The stronghold, covering five square miles, is surrounded by walls reinforced with high turrets. Devils of all kinds crawl over the structure, ensuring that no intruders breach their defenses.
 
 ```statblock
-"name": "Zariel"
+"name": "Zariel (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "devil"
@@ -46,16 +49,17 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 - !!int "30"
 "speed": "50 ft., fly 150 ft."
 "saves":
-  "Charisma": "+18"
-  "Wisdom": "+16"
-  "Intelligence": "+16"
+  "Charisma": !!int "18"
+  "Wisdom": !!int "16"
+  "Intelligence": !!int "16"
 "skillsaves":
-  "Intimidation": "+18"
-  "Perception": "+16"
+  "Intimidation": !!int "18"
+  "Perception": !!int "16"
 "damage_resistances": "cold; fire; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 26"
 "languages": "all, telepathy 120 ft."
 "cr": "26"

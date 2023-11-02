@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/food-and-drink
-aliases: ["Chunk of Meat"]
+aliases: 
+- "Chunk of Meat"
+cost: 3 sp
 ---
 # Chunk of Meat
 *Food and Drink*  
 
 - **Cost**: 3 sp
-- **Weight**: ⏤
 
 *Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules.*

@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Far Realm Shard"]
+aliases: 
+- "Far Realm Shard"
 ---
 # Far Realm Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
+![[5. Mechanics/Items/img/far-realm-shard.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This writhing crystal is steeped in the warped essence of the Far Realm. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.

@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Banded Agate"]
+aliases: 
+- "Banded Agate"
+cost: 10 gp
 ---
 # Banded Agate
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 A translucent striped brown, blue, white, or red gemstone.
 

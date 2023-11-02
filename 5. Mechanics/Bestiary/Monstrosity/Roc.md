@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -9,9 +11,10 @@ tags:
 - monster/environment/mountain
 - monster/size/gargantuan
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Roc"]
 ---
-# Roc
+# [Roc](compendium\bestiary\monstrosity/roc.md)
 *Source: Monster Manual p. 260, Curse of Strahd. Available in the SRD.*  
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
@@ -47,12 +50,12 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 - !!int "9"
 "speed": "20 ft., fly 120 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+4"
-  "Wisdom": "+4"
-  "Constitution": "+9"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "11"

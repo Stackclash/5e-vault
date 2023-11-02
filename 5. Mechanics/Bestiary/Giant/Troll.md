@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/hill
@@ -10,9 +12,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Troll"]
 ---
-# Troll
+# [Troll](compendium\bestiary\giant/troll.md)
 *Source: Monster Manual p. 291. Available in the SRD and the Basic Rules.*  
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
@@ -42,7 +45,7 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"

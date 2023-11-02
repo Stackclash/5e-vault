@@ -9,17 +9,18 @@ tags:
 - item/property/versatile
 - item/rarity/artifact
 - item/weapon/martial/melee
-aliases: ["Axe of the Dwarvish Lords"]
+aliases: 
+- "Axe of the Dwarvish Lords"
 ---
 # Axe of the Dwarvish Lords
 *Melee Weapon, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/axe-of-the-dwarvish-lords.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
 - **Range**: 20/60
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 Seeing the peril his people faced, a young dwarf prince came to believe that his people needed something to unite them. Thus, he set out to forge a weapon that would be such a symbol.
@@ -32,7 +33,7 @@ Later, in a dark era marked by treachery and wickedness, the axe was lost in a b
 
 ## Magic Weapon
 
-The *Axe of the Dwarvish Lords* is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. The axe also functions as a [[5. Mechanics/Items/Belt Of Dwarvenkind.md\|belt of dwarvenkind]], a [[5. Mechanics/Items/Dwarven Thrower.md\|dwarven thrower]], and a sword of sharpness.
+The *Axe of the Dwarvish Lords* is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. The axe also functions as a [[5. Mechanics/Items/Belt Of Dwarvenkind.md\|belt of dwarvenkind]], a [[5. Mechanics/Items/Dwarven Thrower.md\|dwarven thrower]], and a [[5. Mechanics/Items/Sword Of Sharpness.md\|sword of sharpness]].
 
 ## Random Properties
 
@@ -48,7 +49,7 @@ If you are a dwarf attuned to the axe, you gain the following benefits:
 
 - You have immunity to poison damage.  
 - The range of your [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] increases by 60 feet.  
-- You gain proficiency with artisan's tools related to blacksmithing, brewing, and stonemasonry.  
+- You gain proficiency with [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] related to blacksmithing, brewing, and stonemasonry.  
 
 ## Conjure Earth Elemental
 

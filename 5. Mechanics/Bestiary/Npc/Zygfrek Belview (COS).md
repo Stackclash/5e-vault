@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/mongrelfolk
+statblock: inline
 aliases: ["Zygfrek Belview"]
 ---
-# Zygfrek Belview
+# [Zygfrek Belview](compendium\bestiary\npc/zygfrek-belview-cos.md)
 *Source: Curse of Strahd p. 148, Derived from *  
 
 ```statblock
-"name": "Zygfrek Belview"
+"name": "Zygfrek Belview (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "mongrelfolk"
@@ -27,9 +30,9 @@ aliases: ["Zygfrek Belview"]
 - !!int "6"
 "speed": "20 ft."
 "skillsaves":
-  "Deception": "+2"
-  "Stealth": "+3"
-  "Perception": "+2"
+  "Deception": !!int "2"
+  "Stealth": !!int "3"
+  "Perception": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common"
 "cr": "1/4"

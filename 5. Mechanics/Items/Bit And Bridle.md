@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tack-and-harness
-aliases: ["Bit and bridle"]
+aliases: 
+- "Bit and bridle"
+cost: 2 gp
 ---
 # Bit and bridle
 *Tack and Harness*  

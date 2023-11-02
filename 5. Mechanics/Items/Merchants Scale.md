@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Merchant's Scale"]
+aliases: 
+- "Merchant's Scale"
+cost: 5 gp
 ---
 # Merchant's Scale
 *Adventuring Gear*  

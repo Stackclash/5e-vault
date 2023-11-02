@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Vulture"]
 ---
-# Giant Vulture
+# [Giant Vulture](compendium\bestiary\beast/giant-vulture.md)
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
@@ -30,7 +33,7 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"

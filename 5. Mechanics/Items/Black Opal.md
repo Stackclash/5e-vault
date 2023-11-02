@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Black Opal"]
+aliases: 
+- "Black Opal"
+cost: 1,000 gp
 ---
 # Black Opal
 *Treasure*  
 
 - **Cost**: 1,000 gp
-- **Weight**: ⏤
 
 A translucent dark green with black mottling and golden flecks gemstone.
 

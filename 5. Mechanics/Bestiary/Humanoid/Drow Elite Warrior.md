@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Elite Warrior"]
 ---
-# Drow Elite Warrior
+# [Drow Elite Warrior](compendium\bestiary\humanoid/drow-elite-warrior.md)
 *Source: Monster Manual p. 128*  
 
 ## Drow
@@ -82,12 +85,12 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+4"
-  "Constitution": "+5"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Stealth": "+10"
-  "Perception": "+4"
+  "Stealth": !!int "10"
+  "Perception": !!int "4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"

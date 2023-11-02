@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/size/tiny
 - monster/type/aberration
+statblock: inline
 aliases: ["Slaad Tadpole"]
 ---
-# Slaad Tadpole
+# [Slaad Tadpole](compendium\bestiary\aberration/slaad-tadpole.md)
 *Source: Monster Manual p. 276*  
 
 ## Slaadi
@@ -64,7 +67,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - !!int "3"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Slaad but can't speak"

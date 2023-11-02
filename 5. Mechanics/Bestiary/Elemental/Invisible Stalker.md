@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/urban
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Invisible Stalker"]
 ---
-# Invisible Stalker
+# [Invisible Stalker](compendium\bestiary\elemental/invisible-stalker.md)
 *Source: Monster Manual p. 192, Curse of Strahd. Available in the SRD.*  
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -43,12 +46,15 @@ An invisible stalker requires no air, food, drink, or sleep.
 - !!int "11"
 "speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  "Stealth": "+10"
-  "Perception": "+8"
+  "Stealth": !!int "10"
+  "Perception": !!int "8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"

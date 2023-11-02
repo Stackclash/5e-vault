@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/spellcasting-focus
-aliases: ["Reliquary"]
+aliases: 
+- "Reliquary"
+cost: 5 gp
 ---
 # Reliquary
 *Spellcasting Focus*  

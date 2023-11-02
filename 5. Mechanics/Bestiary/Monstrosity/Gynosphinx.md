@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Gynosphinx"]
 ---
-# Gynosphinx
+# [Gynosphinx](compendium\bestiary\monstrosity/gynosphinx.md)
 *Source: Monster Manual p. 282. Available in the SRD.*  
 
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.
@@ -71,13 +74,13 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Religion": "+8"
-  "Perception": "+8"
-  "History": "+12"
-  "Arcana": "+12"
+  "Religion": !!int "8"
+  "Perception": !!int "8"
+  "History": !!int "12"
+  "Arcana": !!int "12"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 18"
 "languages": "Common, Sphinx"
 "cr": "11"
@@ -87,15 +90,15 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ no material components to cast its spells. The sphinx has the following wizard\
     \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Darkness.md|darkness]],\
-    \ [[5. Mechanics/Spells/Locate Object.md|locate object]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Darkness.md|darkness]], [locate\
+    \ object](compendium/spells/locate-object.md), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
     \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\n5th level\
-    \ (1 5th-level slots): [[5. Mechanics/Spells/Legend Lore.md|legend lore]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [greater\
+    \ invisibility](compendium/spells/greater-invisibility.md)\n\n5th level (1 slots):\
+    \ [[5. Mechanics/Spells/Legend Lore.md|legend lore]]"
   "name": "spells"
 - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\

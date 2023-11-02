@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Spell Storing"]
+aliases: 
+- "Ring of Spell Storing"
 ---
 # Ring of Spell Storing
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-spell-storing.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `dice: 1d6 - 1|avg` (`1d6 - 1`) levels of stored spells chosen by the DM.
 

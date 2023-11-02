@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/3
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Armored Saber-Toothed Tiger"]
 ---
-# Armored Saber-Toothed Tiger
+# [Armored Saber-Toothed Tiger](compendium\bestiary\beast/armored-saber-toothed-tiger-cos.md)
 *Source: Curse of Strahd p. 115, Derived from *  
 
 ```statblock
-"name": "Armored Saber-Toothed Tiger"
+"name": "Armored Saber-Toothed Tiger (CoS)"
 "size": "Large"
 "type": "beast"
 "alignment": "Unaligned"
@@ -26,8 +29,8 @@ aliases: ["Armored Saber-Toothed Tiger"]
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+3"
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "3"

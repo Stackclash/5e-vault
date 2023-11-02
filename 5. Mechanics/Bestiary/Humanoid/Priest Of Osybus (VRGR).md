@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/6
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Priest of Osybus"]
 ---
-# Priest of Osybus
+# [Priest of Osybus](compendium\bestiary\humanoid/priest-of-osybus-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  
 
 Necromancers of deep evil, the priests of Osybus steal the souls of others to fuel the priests' malevolent magic. Using this soul power, each priest can defy death and become an undead creature, potentially cheating the grave over and over.
@@ -40,7 +43,7 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
 ^boons-of-undeath
 
 ```statblock
-"name": "Priest of Osybus"
+"name": "Priest of Osybus (VRGR)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Unaligned"
@@ -56,10 +59,10 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+3"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
-"condition_immunities": "frightened"
+  "Charisma": !!int "3"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "any three languages"
 "cr": "6"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Wildfire Spirit"]
 ---
-# Wildfire Spirit
+# [Wildfire Spirit](compendium\bestiary\elemental/wildfire-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 40*  
 
 ```statblock
-"name": "Wildfire Spirit"
+"name": "Wildfire Spirit (TCE)"
 "size": "Small"
 "type": "elemental"
 "alignment": "Unaligned"
@@ -24,7 +27,9 @@ aliases: ["Wildfire Spirit"]
 - !!int "11"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "fire"
-"condition_immunities": "charmed, frightened, grappled, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you speak"
 "actions":

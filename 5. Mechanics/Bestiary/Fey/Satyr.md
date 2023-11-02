@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Satyr"]
 ---
-# Satyr
+# [Satyr](compendium\bestiary\fey/satyr.md)
 *Source: Monster Manual p. 267. Available in the SRD and the Basic Rules.*  
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
@@ -68,9 +71,9 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+2"
-  "Performance": "+6"
+  "Stealth": !!int "5"
+  "Perception": !!int "2"
+  "Performance": !!int "6"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"

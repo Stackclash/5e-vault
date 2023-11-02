@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Copper Dragon Wyrmling"]
 ---
-# Copper Dragon Wyrmling
+# [Copper Dragon Wyrmling](compendium\bestiary\dragon/copper-dragon-wyrmling.md)
 *Source: Monster Manual p. 111. Available in the SRD.*  
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -92,13 +95,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "13"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+2"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/artisans-tools
-aliases: ["Carpenter's Tools"]
+aliases: 
+- "Carpenter's Tools"
+cost: 8 gp
 ---
 # Carpenter's Tools
 *Artisan's Tools*  

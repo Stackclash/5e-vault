@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/light
 - item/weapon/simple/melee
-aliases: ["Club"]
+aliases: 
+- "Club"
+cost: 1 sp
 ---
 # Club
 *Melee Weapon*  

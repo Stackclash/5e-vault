@@ -6,12 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Bag of Beans"]
+aliases: 
+- "Bag of Beans"
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  
+![[5. Mechanics/Items/img/bag-of-beans.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 0.5 lbs.
 
 Inside this heavy cloth bag are `dice: 3d4|avg` (`3d4`) dry beans. The bag weighs ½ pound plus ¼ pound for each bean it contains.

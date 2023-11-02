@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/medium
-aliases: ["Breastplate"]
+aliases: 
+- "Breastplate"
+cost: 400 gp
 ---
 # Breastplate
 *Medium Armor*  

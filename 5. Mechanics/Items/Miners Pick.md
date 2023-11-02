@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Miner's Pick"]
+aliases: 
+- "Miner's Pick"
+cost: 2 gp
 ---
 # Miner's Pick
 *Adventuring Gear*  

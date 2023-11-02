@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Swarm of Poisonous Snakes"]
 ---
-# Swarm of Poisonous Snakes
+# [Swarm of Poisonous Snakes](compendium\bestiary\beast/swarm-of-poisonous-snakes.md)
 *Source: Monster Manual p. 338, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms
@@ -33,8 +36,10 @@ aliases: ["Swarm of Poisonous Snakes"]
 - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "blindsight 10 ft., passive Perception 10"
 "languages": ""
 "cr": "2"

@@ -6,7 +6,7 @@ const path = require('path')
 const config = {
     dryRun: false,
     limit: 7000,
-    rootVaultPath: path.resolve(__dirname, '../'),
+    rootVaultPath: path.resolve(__dirname, '../../'),
     compendiumPath: 'compendium',
     rules: [
         {
@@ -192,4 +192,4 @@ function processCompendium() {
     processAllRules(goThroughFilesAndFolders(path.resolve(config.rootVaultPath, config.compendiumPath)))
 }
 
-module.exports = processCompendium
+processCompendium()

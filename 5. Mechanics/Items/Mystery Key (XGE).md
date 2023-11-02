@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Mystery Key"]
+aliases: 
+- "Mystery Key"
 ---
 # Mystery Key
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 A question mark is worked into the head of this key. The key has a 5% chance chance of unlocking any lock into which it's inserted. Once it unlocks something, the key disappears.
 

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Bandit"]
 ---
-# Vistana Bandit
+# [Vistana Bandit](compendium\bestiary\humanoid/vistana-bandit-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Bandit"
+"name": "Vistana Bandit (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"

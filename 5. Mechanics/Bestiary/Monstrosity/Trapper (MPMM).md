@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Trapper"]
 ---
-# Trapper
+# [Trapper](compendium\bestiary\monstrosity/trapper-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245*  
 
 A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
@@ -19,7 +22,7 @@ A trapper that lurks on the floor of its hunting grounds can cover any remains t
 A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
 
 ```statblock
-"name": "Trapper"
+"name": "Trapper (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -35,7 +38,7 @@ A trapper needs to eat a [[5. Mechanics/Races/Halfling.md|halfling]]-sized meal 
 - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  "Stealth": "+2"
+  "Stealth": !!int "2"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"

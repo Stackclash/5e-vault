@@ -1,19 +1,22 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/coastal
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Merrenoloth"]
 ---
-# Merrenoloth
+# [Merrenoloth](compendium\bestiary\fiend/merrenoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
 
 ```statblock
-"name": "Merrenoloth"
+"name": "Merrenoloth (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "yugoloth"
@@ -30,17 +33,17 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 - !!int "11"
 "speed": "30 ft., swim 40 ft."
 "saves":
-  "Dexterity": "+5"
-  "Intelligence": "+5"
+  "Dexterity": !!int "5"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Nature": "+5"
-  "Perception": "+4"
-  "History": "+5"
-  "Survival": "+4"
+  "Nature": !!int "5"
+  "Perception": !!int "4"
+  "History": !!int "5"
+  "Survival": !!int "4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "3"

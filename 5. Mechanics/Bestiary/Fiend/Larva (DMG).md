@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/dmg
+- monster/cr/0
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Larva (DMG)"]
 ---
-# Larva (DMG)
+# [Larva (DMG)](compendium\bestiary\fiend/larva-dmg.md)
 *Source: Dungeon Master's Guide p. 63*  
 
 ```statblock
-"name": "Larva (DMG)"
+"name": "Larva (DMG) (DMG)"
 "size": "Medium"
 "type": "fiend"
 "alignment": "Neutral Evil"

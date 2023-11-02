@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/warlock
+statblock: inline
 aliases: ["Yuan-ti Pit Master"]
 ---
-# Yuan-ti Pit Master
+# [Yuan-ti Pit Master](compendium\bestiary\monstrosity/yuan-ti-pit-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276*  
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
@@ -17,7 +20,7 @@ With snakes for arms, pit masters are yuan-ti malison priests who have made a pa
 Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid governments, as well as in the ongoing effort to protect their cities from discovery or attacks by hostiles. They oppose reckless behavior and argue for a slow, cautious approach in all matters.
 
 ```statblock
-"name": "Yuan-ti Pit Master"
+"name": "Yuan-ti Pit Master (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "warlock"
@@ -34,13 +37,13 @@ Pit masters are deeply involved in yuan-ti's longterm plan to take over Humanoid
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+4"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Deception": "+6"
-  "Stealth": "+5"
+  "Deception": !!int "6"
+  "Stealth": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "5"

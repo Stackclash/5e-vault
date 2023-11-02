@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/gear/instrument
 - item/rarity/uncommon
-aliases: ["+1 Rhythm-Maker's Drum"]
+aliases: 
+- "+1 Rhythm-Maker's Drum"
 ---
 # +1 Rhythm-Maker's Drum
 *Instrument, uncommon (requires attunement by a bard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 While holding this [[5. Mechanics/Items/Drum.md\|drum]], you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your bard spells.

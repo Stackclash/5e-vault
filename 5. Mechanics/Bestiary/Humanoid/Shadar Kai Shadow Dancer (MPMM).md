@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/forest
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Shadar-kai Shadow Dancer"]
 ---
-# Shadar-kai Shadow Dancer
+# [Shadar-kai Shadow Dancer](compendium\bestiary\humanoid/shadar-kai-shadow-dancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
@@ -31,7 +34,7 @@ Within the fortress are items that the Raven Queen finds irresistible: objects i
 Shadar-kai encountered outside the Shadowfell are often on quests to find the most sorrow-touched items they can find to bring back to their queen's gloomy castle.
 
 ```statblock
-"name": "Shadar-kai Shadow Dancer"
+"name": "Shadar-kai Shadow Dancer (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -48,12 +51,12 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+6"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "6"
 "skillsaves":
-  "Stealth": "+6"
+  "Stealth": !!int "6"
 "damage_resistances": "necrotic"
-"condition_immunities": "charmed, exhaustion"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "7"

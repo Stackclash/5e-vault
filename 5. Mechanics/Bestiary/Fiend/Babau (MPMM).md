@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Babau"]
 ---
-# Babau
+# [Babau](compendium\bestiary\fiend/babau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -20,7 +23,7 @@ Demons and devils clash endlessly for control of the Lower Planes. One of these 
 A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It has leathery skin pulled tight over its gaunt frame and a curved horn protruding from the back of its elongated skull. A babau's baleful glare can weaken a creature, and its talons gleam with acidic slime.
 
 ```statblock
-"name": "Babau"
+"name": "Babau (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -37,12 +40,12 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+5"
+  "Stealth": !!int "5"
+  "Perception": !!int "5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal"
 "cr": "4"

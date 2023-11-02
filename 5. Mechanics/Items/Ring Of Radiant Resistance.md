@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Radiant Resistance"]
+aliases: 
+- "Ring of Radiant Resistance"
 ---
 # Ring of Radiant Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to radiant damage while wearing this ring. The ring is set with topaz.
 

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Green Hag"]
 ---
-# Green Hag
+# [Green Hag](compendium\bestiary\fey/green-hag.md)
 *Source: Monster Manual p. 177, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
@@ -101,10 +104,10 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+3"
-  "Perception": "+4"
-  "Arcana": "+3"
+  "Deception": !!int "4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
+  "Arcana": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Draconic, Sylvan"
 "cr": "3"

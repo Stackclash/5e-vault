@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-8
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/small
 - monster/type/fey
+statblock: inline
 aliases: ["Boggle"]
 ---
-# Boggle
+# [Boggle](compendium\bestiary\fey/boggle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65*  
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
@@ -22,7 +25,7 @@ Boggles engage in petty pranks to amuse themselves, using the oil they excrete t
 A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] and disappears after a few seconds—just enough time for the boggle to step, reach, or attack through it.
 
 ```statblock
-"name": "Boggle"
+"name": "Boggle (MPMM)"
 "size": "Small"
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
@@ -38,9 +41,9 @@ A boggle can create magical openings to travel short distances or to pilfer item
 - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Sleight of Hand": "+6"
-  "Stealth": "+6"
-  "Perception": "+5"
+  "Sleight of Hand": !!int "6"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Sylvan"

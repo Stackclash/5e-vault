@@ -7,7 +7,9 @@ tags:
 - item/property/reach
 - item/property/special
 - item/weapon/martial/melee
-aliases: ["Lance"]
+aliases: 
+- "Lance"
+cost: 10 gp
 ---
 # Lance
 *Melee Weapon*  

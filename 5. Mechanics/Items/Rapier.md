@@ -6,7 +6,9 @@ tags:
 - item/property/finesse
 - item/property/martial
 - item/weapon/martial/melee
-aliases: ["Rapier"]
+aliases: 
+- "Rapier"
+cost: 25 gp
 ---
 # Rapier
 *Melee Weapon*  

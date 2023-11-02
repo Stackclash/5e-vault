@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Blue Spinel"]
+aliases: 
+- "Blue Spinel"
+cost: 500 gp
 ---
 # Blue Spinel
 *Treasure*  
 
 - **Cost**: 500 gp
-- **Weight**: ⏤
 
 A transparent deep blue gemstone.
 

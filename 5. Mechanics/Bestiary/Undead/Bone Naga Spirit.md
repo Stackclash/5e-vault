@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Bone Naga (Spirit)"]
 ---
-# Bone Naga (Spirit)
+# [Bone Naga (Spirit)](compendium\bestiary\undead/bone-naga-spirit.md)
 *Source: Monster Manual p. 233*  
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -49,7 +52,8 @@ A naga doesn't require air, food, drink, or sleep.
 - !!int "16"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -59,10 +63,10 @@ A naga doesn't require air, food, drink, or sleep.
     \ Its spellcasting ability is Intelligence, and it has the following wizard spells\
     \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Charm Person.md|charm person]],\
-    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 2nd-level slots): [detect\
-    \ thoughts](compendium/spells/detect-thoughts.md), [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\
-    \n3rd level (2 3rd-level slots): [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Charm Person.md|charm person]],\
+    \ [[5. Mechanics/Spells/Sleep.md|sleep]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\

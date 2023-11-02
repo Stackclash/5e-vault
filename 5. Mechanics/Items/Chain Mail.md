@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/heavy
-aliases: ["Chain Mail"]
+aliases: 
+- "Chain Mail"
+cost: 75 gp
 ---
 # Chain Mail
 *Heavy Armor*  

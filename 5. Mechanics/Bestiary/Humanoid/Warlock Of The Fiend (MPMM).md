@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Warlock of the Fiend"]
 ---
-# Warlock of the Fiend
+# [Warlock of the Fiend](compendium\bestiary\humanoid/warlock-of-the-fiend-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  
 
 Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [[5. Mechanics/Bestiary/Fiend/Imp.md|imps]] or [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasits]] as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
@@ -20,7 +23,7 @@ Warlocks of the Fiend gain their powers through magical pacts forged with archfi
 Warlocks gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities.
 
 ```statblock
-"name": "Warlock of the Fiend"
+"name": "Warlock of the Fiend (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -36,13 +39,13 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+4"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Deception": "+7"
-  "Religion": "+4"
-  "Arcana": "+4"
-  "Persuasion": "+7"
+  "Deception": !!int "7"
+  "Religion": !!int "4"
+  "Arcana": !!int "4"
+  "Persuasion": !!int "7"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal)"
 "cr": "7"

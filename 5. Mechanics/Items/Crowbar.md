@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Crowbar"]
+aliases: 
+- "Crowbar"
+cost: 2 gp
 ---
 # Crowbar
 *Adventuring Gear*  

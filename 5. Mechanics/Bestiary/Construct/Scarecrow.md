@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Scarecrow"]
 ---
-# Scarecrow
+# [Scarecrow](compendium\bestiary\construct/scarecrow.md)
 *Source: Monster Manual p. 268, Curse of Strahd*  
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
@@ -35,7 +38,9 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"

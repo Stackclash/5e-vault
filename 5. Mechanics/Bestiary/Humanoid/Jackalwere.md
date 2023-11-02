@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/desert
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Jackalwere"]
 ---
-# Jackalwere
+# [Jackalwere](compendium\bestiary\humanoid/jackalwere.md)
 *Source: Monster Manual p. 193*  
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
@@ -45,9 +48,9 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Deception": !!int "4"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "passive Perception 12"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/13
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Rakshasa"]
 ---
-# Rakshasa
+# [Rakshasa](compendium\bestiary\fiend/rakshasa.md)
 *Source: Monster Manual p. 257, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
@@ -48,8 +51,8 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 - !!int "20"
 "speed": "40 ft."
 "skillsaves":
-  "Deception": "+10"
-  "Insight": "+8"
+  "Deception": !!int "10"
+  "Insight": !!int "8"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 13"

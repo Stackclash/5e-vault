@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1
 - monster/size/small
 - monster/type/humanoid/stout-halfling
+statblock: inline
 aliases: ["Corrin Delmaco"]
 ---
-# Corrin Delmaco
+# [Corrin Delmaco](compendium\bestiary\npc/corrin-delmaco-erlw.md)
 *Source: Eberron: Rising from the Last War p. 271, Derived from *  
 
 ```statblock
-"name": "Corrin Delmaco"
+"name": "Corrin Delmaco (ERLW)"
 "size": "Small"
 "type": "humanoid"
 "subtype": "Stout halfling"
@@ -27,13 +30,13 @@ aliases: ["Corrin Delmaco"]
 - !!int "16"
 "speed": "25 ft."
 "skillsaves":
-  "Sleight of Hand": "+4"
-  "Deception": "+5"
-  "Stealth": "+4"
-  "Investigation": "+5"
-  "Insight": "+4"
-  "Perception": "+6"
-  "Persuasion": "+5"
+  "Sleight of Hand": !!int "4"
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
+  "Investigation": !!int "5"
+  "Insight": !!int "4"
+  "Perception": !!int "6"
+  "Persuasion": !!int "5"
 "senses": "passive Perception 16"
 "languages": "any two languages, Halfling"
 "cr": "1"

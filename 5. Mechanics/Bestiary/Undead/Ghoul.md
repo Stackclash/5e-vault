@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Ghoul"]
 ---
-# Ghoul
+# [Ghoul](compendium\bestiary\undead/ghoul.md)
 *Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -43,7 +46,8 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"

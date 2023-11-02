@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/20
 - monster/environment/arctic
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient White Dragon"]
 ---
-# Ancient White Dragon
+# [Ancient White Dragon](compendium\bestiary\dragon/ancient-white-dragon.md)
 *Source: Monster Manual p. 100. Available in the SRD.*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -109,13 +112,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "14"
 "speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+6"
-  "Wisdom": "+7"
-  "Constitution": "+14"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "14"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+13"
+  "Stealth": !!int "6"
+  "Perception": !!int "13"
 "damage_immunities": "cold"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Common, Draconic"

@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Blue Quartz"]
+aliases: 
+- "Blue Quartz"
+cost: 10 gp
 ---
 # Blue Quartz
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 A transparent pale blue gemstone.
 

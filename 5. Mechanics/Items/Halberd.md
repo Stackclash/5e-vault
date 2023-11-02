@@ -8,7 +8,9 @@ tags:
 - item/property/reach
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Halberd"]
+aliases: 
+- "Halberd"
+cost: 20 gp
 ---
 # Halberd
 *Melee Weapon*  

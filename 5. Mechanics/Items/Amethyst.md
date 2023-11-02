@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Amethyst"]
+aliases: 
+- "Amethyst"
+cost: 100 gp
 ---
 # Amethyst
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 A transparent deep purple gemstone.
 

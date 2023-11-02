@@ -1,20 +1,23 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/tiny
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Velociraptor"]
 ---
-# Velociraptor
+# [Velociraptor](compendium\bestiary\beast/velociraptor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
 
 ```statblock
-"name": "Velociraptor"
+"name": "Velociraptor (MPMM)"
 "size": "Tiny"
 "type": "beast"
 "subtype": "dinosaur"
@@ -31,7 +34,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/4"

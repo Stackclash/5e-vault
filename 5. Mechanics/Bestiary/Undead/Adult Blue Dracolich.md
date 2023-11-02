@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/17
 - monster/environment/desert
 - monster/size/huge
 - monster/type/undead
+statblock: inline
 aliases: ["Adult Blue Dracolich"]
 ---
-# Adult Blue Dracolich
+# [Adult Blue Dracolich](compendium\bestiary\undead/adult-blue-dracolich.md)
 *Source: Monster Manual p. 84*  
 
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
@@ -67,16 +70,18 @@ The dracolich has advantage on saving throws against spells and other magical ef
 - !!int "19"
 "speed": "40 ft., burrow 30 ft., fly 80 ft."
 "saves":
-  "Charisma": "+10"
-  "Dexterity": "+6"
-  "Wisdom": "+8"
-  "Constitution": "+12"
+  "Charisma": !!int "10"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "8"
+  "Constitution": !!int "12"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+14"
+  "Stealth": !!int "6"
+  "Perception": !!int "14"
 "damage_resistances": "necrotic"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"

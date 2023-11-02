@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Brass Dragon Wyrmling"]
 ---
-# Brass Dragon Wyrmling
+# [Brass Dragon Wyrmling](compendium\bestiary\dragon/brass-dragon-wyrmling.md)
 *Source: Monster Manual p. 106. Available in the SRD.*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -92,13 +95,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "13"
 "speed": "30 ft., burrow 15 ft., fly 60 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+2"
-  "Wisdom": "+2"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Stealth": "+2"
-  "Perception": "+4"
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

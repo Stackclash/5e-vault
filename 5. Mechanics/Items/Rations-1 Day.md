@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Rations (1 day)"]
+aliases: 
+- "Rations (1 day)"
+cost: 5 sp
 ---
 # Rations (1 day)
 *Adventuring Gear*  

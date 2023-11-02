@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/3
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Karrnathi Undead Soldier"]
 ---
-# Karrnathi Undead Soldier
+# [Karrnathi Undead Soldier](compendium\bestiary\undead/karrnathi-undead-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 295*  
 
 Undead soldiers form the elite core of the army of Karrnath. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the Last War, most Karrnathi undead have been sealed in vaults below the city of Atur. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the malevolent Order of the Emerald Claw.
@@ -32,7 +35,7 @@ A few exceptional Karrnathi undead retain their individuality and the memories o
 A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 
 ```statblock
-"name": "Karrnathi Undead Soldier"
+"name": "Karrnathi Undead Soldier (ERLW)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
@@ -48,10 +51,11 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Perception": "+3"
+  "Athletics": !!int "5"
+  "Perception": !!int "3"
 "damage_resistances": "cold, poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common"
 "cr": "3"

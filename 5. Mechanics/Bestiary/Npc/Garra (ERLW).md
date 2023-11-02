@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Garra"]
 ---
-# Garra
+# [Garra](compendium\bestiary\npc/garra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 272, Derived from *  
 
 ```statblock
-"name": "Garra"
+"name": "Garra (ERLW)"
 "size": "Large"
 "type": "giant"
 "alignment": "Chaotic Evil"

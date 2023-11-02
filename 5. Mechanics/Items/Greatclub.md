@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/two-handed
 - item/weapon/simple/melee
-aliases: ["Greatclub"]
+aliases: 
+- "Greatclub"
+cost: 2 sp
 ---
 # Greatclub
 *Melee Weapon*  

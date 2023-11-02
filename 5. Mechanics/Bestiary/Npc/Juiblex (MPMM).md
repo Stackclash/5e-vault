@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/23
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Juiblex"]
 ---
-# Juiblex
+# [Juiblex](compendium\bestiary\npc/juiblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
@@ -25,7 +28,7 @@ Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares
 Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 
 ```statblock
-"name": "Juiblex"
+"name": "Juiblex (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -42,15 +45,20 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+12"
-  "Constitution": "+13"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "12"
+  "Constitution": !!int "13"
 "skillsaves":
-  "Perception": "+12"
+  "Perception": !!int "12"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid; poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
-  \ paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "truesight 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "23"

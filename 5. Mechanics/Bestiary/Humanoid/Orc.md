@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/grassland
@@ -11,9 +13,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["Orc"]
 ---
-# Orc
+# [Orc](compendium\bestiary\humanoid/orc.md)
 *Source: Monster Manual p. 246, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -64,7 +67,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+2"
+  "Intimidation": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"

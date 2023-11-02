@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Coiling Grasp Tattoo"]
+aliases: 
+- "Coiling Grasp Tattoo"
 ---
 # Coiling Grasp Tattoo
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo has long intertwining designs.
 

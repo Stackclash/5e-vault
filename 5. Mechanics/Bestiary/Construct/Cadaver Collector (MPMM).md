@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/14
 - monster/environment/grassland
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Cadaver Collector"]
 ---
-# Cadaver Collector
+# [Cadaver Collector](compendium\bestiary\construct/cadaver-collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68*  
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
@@ -17,7 +20,7 @@ Cadaver collectors respond to a summons from a mortal only when they are called 
 Corpses that accumulate on a cadaver collector's shell aren't just grisly battle trophies. A cadaver collector can summon the spirits of these cadavers to battle against its enemies. Although these specters are individually weak, a cadaver collector can call up an almost endless supply of them, if given enough time.
 
 ```statblock
-"name": "Cadaver Collector"
+"name": "Cadaver Collector (MPMM)"
 "size": "Large"
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
@@ -34,7 +37,9 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "speed": "30 ft."
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages but can't speak"
 "cr": "14"

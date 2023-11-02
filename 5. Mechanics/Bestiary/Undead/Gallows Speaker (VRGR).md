@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/6
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Gallows Speaker"]
 ---
-# Gallows Speaker
+# [Gallows Speaker](compendium\bestiary\undead/gallows-speaker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 234*  
 
 Gallows speakers arise from places of mass death or sites where creatures regularly meet their doom. Over time, pain-wracked phantoms and lingering souls combine into an entity that knows death in myriad forms. Such amalgamated spirits are tormented by their collective pain, endlessly moaning disjointed final thoughts as they lash out at the living. Having known untold deaths, gallows speakers can predict suffering, foreseeing dooms leveled against them and overwhelming their foes with visions of innumerable violent deaths.
@@ -14,7 +17,7 @@ Gallows speakers arise from places of mass death or sites where creatures regula
 Gallows speakers rarely speak coherently or communicate with the living, instead being entirely obsessed with their memories of death. These undead endlessly mutter to themselves, giving voice to final curses, regrets, pleas, and apologies. Those who linger and listen to a gallows speaker might gain insight into any of its many deaths.
 
 ```statblock
-"name": "Gallows Speaker"
+"name": "Gallows Speaker (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -30,13 +33,16 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
 - !!int "18"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Wisdom": "+4"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Perception": "+7"
+  "Perception": !!int "7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "truesight 60 ft., passive Perception 17"
 "languages": "any languages its component spirits knew in life"
 "cr": "6"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Sea Horse"]
 ---
-# Sea Horse
+# [Sea Horse](compendium\bestiary\beast/sea-horse.md)
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock

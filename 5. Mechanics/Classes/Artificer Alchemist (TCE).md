@@ -19,7 +19,7 @@ An Alchemist is an expert at combining reagents to produce mystical effects. Alc
 
 ### Tool Proficiency (Level 3)
 
-When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]]. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]]. If you already have this proficiency, you gain proficiency with one other type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
 
 ### Alchemist Spells (Level 3)
 

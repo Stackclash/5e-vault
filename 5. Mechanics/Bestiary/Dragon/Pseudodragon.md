@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -10,9 +12,10 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/dragon
+statblock: inline
 aliases: ["Pseudodragon"]
 ---
-# Pseudodragon
+# [Pseudodragon](compendium\bestiary\dragon/pseudodragon.md)
 *Source: Monster Manual p. 254, Eberron: Rising from the Last War. Available in the SRD.*  
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
@@ -59,8 +62,8 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
 - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"

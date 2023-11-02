@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Lightning Absorbing Tattoo"]
+aliases: 
+- "Lightning Absorbing Tattoo"
 ---
 # Lightning Absorbing Tattoo
 *Wondrous Item, very rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo features designs that emphasize one color (yellow).
 

@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/grassland
@@ -11,9 +13,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["Orc War Chief"]
 ---
-# Orc War Chief
+# [Orc War Chief](compendium\bestiary\humanoid/orc-war-chief.md)
 *Source: Monster Manual p. 246*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -88,11 +91,11 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+2"
-  "Strength": "+6"
-  "Constitution": "+6"
+  "Wisdom": !!int "2"
+  "Strength": !!int "6"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
+  "Intimidation": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "4"

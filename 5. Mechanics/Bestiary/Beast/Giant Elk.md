@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Elk"]
 ---
-# Giant Elk
+# [Giant Elk](compendium\bestiary\beast/giant-elk.md)
 *Source: Monster Manual p. 325. Available in the SRD and the Basic Rules.*  
 
 The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
@@ -32,7 +35,7 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 - !!int "10"
 "speed": "60 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": "Giant Elk, understands Common, Elvish, Sylvan but can't speak them"
 "cr": "2"

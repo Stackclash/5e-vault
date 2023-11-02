@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/arctic
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Frost Giant"]
 ---
-# Frost Giant
+# [Frost Giant](compendium\bestiary\giant/frost-giant.md)
 *Source: Monster Manual p. 155. Available in the SRD and the Basic Rules.*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -90,12 +93,12 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+4"
-  "Wisdom": "+3"
-  "Constitution": "+8"
+  "Charisma": !!int "4"
+  "Wisdom": !!int "3"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Athletics": "+9"
-  "Perception": "+3"
+  "Athletics": !!int "9"
+  "Perception": !!int "3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
 "languages": "Giant"

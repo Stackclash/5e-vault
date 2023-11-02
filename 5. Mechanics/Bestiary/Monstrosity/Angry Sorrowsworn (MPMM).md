@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Angry Sorrowsworn"]
 ---
-# Angry Sorrowsworn
+# [Angry Sorrowsworn](compendium\bestiary\monstrosity/angry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222*  
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
@@ -18,7 +21,7 @@ Relying on violence to sustain their existence, angry sorrowsworn—sometimes ca
 The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnations of the plane's bleak nature. Sorrowsworn embody the forms of suffering inherent to the shadowy landscape and visit horror on those who stumble into their midst. Each sorrowsworn personifies a different aspect of despair or distress.
 
 ```statblock
-"name": "Angry Sorrowsworn"
+"name": "Angry Sorrowsworn (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -34,7 +37,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+11"
+  "Perception": !!int "11"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common"

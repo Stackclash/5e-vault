@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Hematite"]
+aliases: 
+- "Hematite"
+cost: 10 gp
 ---
 # Hematite
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque gray-black gemstone.
 

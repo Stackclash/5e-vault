@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Opal"]
+aliases: 
+- "Opal"
+cost: 1,000 gp
 ---
 # Opal
 *Treasure*  
 
 - **Cost**: 1,000 gp
-- **Weight**: ⏤
 
 A translucent pale blue with green and golden mottling gemstone.
 

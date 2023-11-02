@@ -6,7 +6,9 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Healing"]
+aliases: 
+- "Potion of Healing"
+cost: 50 gp
 ---
 # Potion of Healing
 *Potion, minor, common*  

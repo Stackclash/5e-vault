@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Lightning Resistance"]
+aliases: 
+- "Ring of Lightning Resistance"
 ---
 # Ring of Lightning Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to lightning damage while wearing this ring. The ring is set with citrine.
 

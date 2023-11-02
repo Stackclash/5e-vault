@@ -6,25 +6,25 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous
-aliases: ["Deck of Many Things"]
+aliases: 
+- "Deck of Many Things"
 ---
 # Deck of Many Things
 *Wondrous Item, major, legendary*  
+![[5. Mechanics/Items/img/deck-of-many-things.png#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75% chance) of these decks have only thirteen cards, but the rest have twenty-two.
 
 Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
 
-Once a card is drawn, it fades from existence. Unless the card is the [[5. Mechanics/Items/Deck Of Many Things.md#Fool\|Fool]] or the [[5. Mechanics/Items/Deck Of Many Things.md#Jester\|Jester]], the card reappears in the deck, making it possible to draw the same card twice.
+Once a card is drawn, it fades from existence. Unless the card is the [[5. Mechanics/Decks/Deck Of Many Things.md#Fool\|Fool]] or the [[5. Mechanics/Decks/Deck Of Many Things.md#Jester\|Jester]], the card reappears in the deck, making it possible to draw the same card twice.
 
 ## A Question of Enmity
 
 Two of the cards in a deck of many things can earn a character the enmity of another being. With the Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil itself.
 
-In the case of the [[5. Mechanics/Items/Deck Of Many Things.md#Rogue\|Rogue]] card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
+In the case of the [[5. Mechanics/Decks/Deck Of Many Things.md#Rogue\|Rogue]] card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
 
 | 1d22 | Card |
 |------|------|
@@ -124,7 +124,7 @@ All forms of wealth that you carry or own, other than magic items, are lost to y
 
 ## Euryale
 
-The card's [[5. Mechanics/Bestiary/Monstrosity/Medusa.md\|medusa]]-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [[5. Mechanics/Items/Deck Of Many Things.md#The%20Fates\|The Fates]] card can end this curse.
+The card's [[5. Mechanics/Bestiary/Monstrosity/Medusa.md\|medusa]]-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [[5. Mechanics/Decks/Deck Of Many Things.md#The%20Fates\|The Fates]] card can end this curse.
 
 ## Rogue
 

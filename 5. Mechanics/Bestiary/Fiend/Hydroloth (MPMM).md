@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Hydroloth"]
 ---
-# Hydroloth
+# [Hydroloth](compendium\bestiary\fiend/hydroloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158*  
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -14,7 +17,7 @@ Like the thought-stealing waters of the River Styx they inhabit, hydroloths filc
 For amphibious assaults or underwater conflicts, hydroloths have no equal among yugoloths. They sometimes hire themselves out to attack and scuttle ships and raid coastal settlements.
 
 ```statblock
-"name": "Hydroloth"
+"name": "Hydroloth (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "yugoloth"
@@ -31,13 +34,13 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 - !!int "14"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  "Insight": "+4"
-  "Perception": "+4"
+  "Insight": !!int "4"
+  "Perception": !!int "4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"

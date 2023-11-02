@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Bard"]
 ---
-# Bard
+# [Bard](compendium\bestiary\humanoid/bard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59*  
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
@@ -31,7 +34,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 ^bard-performance-types
 
 ```statblock
-"name": "Bard"
+"name": "Bard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -47,12 +50,12 @@ Each bard is a master of at least one type of performance. You may choose a bard
 - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+4"
-  "Wisdom": "+3"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Perception": "+5"
-  "Performance": "+6"
-  "Acrobatics": "+4"
+  "Perception": !!int "5"
+  "Performance": !!int "6"
+  "Acrobatics": !!int "4"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "2"

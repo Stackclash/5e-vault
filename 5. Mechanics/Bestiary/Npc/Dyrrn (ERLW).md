@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/24
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Dyrrn"]
 ---
-# Dyrrn
+# [Dyrrn](compendium\bestiary\npc/dyrrn-erlw.md)
 *Source: Eberron: Rising from the Last War p. 288*  
 
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded—the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
@@ -44,7 +47,7 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
 ^madness-of-dyrrn
 
 ```statblock
-"name": "Dyrrn"
+"name": "Dyrrn (ERLW)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Chaotic Evil"
@@ -60,16 +63,18 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
 - !!int "24"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+14"
-  "Wisdom": "+13"
-  "Intelligence": "+15"
+  "Charisma": !!int "14"
+  "Wisdom": !!int "13"
+  "Intelligence": !!int "15"
 "skillsaves":
-  "Insight": "+13"
-  "Perception": "+13"
-  "History": "+15"
-  "Arcana": "+15"
+  "Insight": !!int "13"
+  "Perception": !!int "13"
+  "History": !!int "15"
+  "Arcana": !!int "15"
 "damage_resistances": "poison, psychic"
-"condition_immunities": "blinded, charmed, exhaustion, frightened, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "24"

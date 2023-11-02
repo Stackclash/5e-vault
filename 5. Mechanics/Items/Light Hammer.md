@@ -6,7 +6,9 @@ tags:
 - item/property/light
 - item/property/thrown
 - item/weapon/simple/melee
-aliases: ["Light Hammer"]
+aliases: 
+- "Light Hammer"
+cost: 2 gp
 ---
 # Light Hammer
 *Melee Weapon*  

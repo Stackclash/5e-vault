@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/desert
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Oinoloth"]
 ---
-# Oinoloth
+# [Oinoloth](compendium\bestiary\fiend/oinoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202*  
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -16,7 +19,7 @@ Grim specters of death, oinoloths bring pestilence wherever they go. When armies
 Oinoloths solve thorny problems by killing everyone involved. They are typically hired as a last resort when a siege has gone on too long or an army has proven too strong to overcome. Once summoned, oinoloths stalk the killing field, poisoning the ground and sickening creatures they encounter. Sometimes they might be hired to lift the very plagues they spread, but the price for such work is high, and the effort turns the creatures they save into debilitated wrecks.
 
 ```statblock
-"name": "Oinoloth"
+"name": "Oinoloth (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "yugoloth"
@@ -33,16 +36,16 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 - !!int "19"
 "speed": "40 ft."
 "saves":
-  "Wisdom": "+7"
-  "Constitution": "+8"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Intimidation": "+8"
-  "Deception": "+8"
-  "Perception": "+7"
+  "Intimidation": !!int "8"
+  "Deception": !!int "8"
+  "Perception": !!int "7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "12"

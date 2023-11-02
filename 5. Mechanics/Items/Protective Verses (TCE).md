@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Protective Verses"]
+aliases: 
+- "Protective Verses"
 ---
 # Protective Verses
 *Wondrous Item, rare (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 This leather-bound spellbook is reinforced with iron and silver fittings and an iron lock (DC 20 to open). As an action, you can touch the book's cover and cause it to lock as if you cast [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] on it. When found, the book contains the following spells: [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]], [[5. Mechanics/Spells/Glyph Of Warding.md\|glyph of warding]], [[5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|Mordenkainen's private sanctum]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil]], and [[5. Mechanics/Spells/Symbol.md\|symbol]]. It functions as a spellbook for you.

@@ -4,12 +4,12 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/weapon/explosive
-aliases: ["Fragmentation Grenade"]
+aliases: 
+- "Fragmentation Grenade"
 ---
 # Fragmentation Grenade
 *Explosive*  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.

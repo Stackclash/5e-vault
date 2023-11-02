@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/mountain
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Star Spawn Seer"]
 ---
-# Star Spawn Seer
+# [Star Spawn Seer](compendium\bestiary\aberration/star-spawn-seer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230*  
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
@@ -43,7 +46,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tyranthraxus, the Flamed One  
 
 ```statblock
-"name": "Star Spawn Seer"
+"name": "Star Spawn Seer (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Typically  Neutral Evil"
@@ -59,15 +62,15 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+6"
-  "Wisdom": "+9"
-  "Intelligence": "+11"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "11"
 "skillsaves":
-  "Perception": "+9"
+  "Perception": !!int "9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "13"

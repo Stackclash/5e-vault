@@ -1,20 +1,23 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/gargantuan
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Brontosaurus"]
 ---
-# Brontosaurus
+# [Brontosaurus](compendium\bestiary\beast/brontosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
 
 ```statblock
-"name": "Brontosaurus"
+"name": "Brontosaurus (MPMM)"
 "size": "Gargantuan"
 "type": "beast"
 "subtype": "dinosaur"
@@ -31,7 +34,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 - !!int "7"
 "speed": "30 ft."
 "saves":
-  "Constitution": "+6"
+  "Constitution": !!int "6"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "5"

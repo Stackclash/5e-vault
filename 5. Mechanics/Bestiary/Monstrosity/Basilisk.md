@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Basilisk"]
 ---
-# Basilisk
+# [Basilisk](compendium\bestiary\monstrosity/basilisk.md)
 *Source: Monster Manual p. 24. Available in the SRD and the Basic Rules.*  
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.

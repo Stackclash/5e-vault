@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Narzugon"]
 ---
-# Narzugon
+# [Narzugon](compendium\bestiary\fiend/narzugon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190*  
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
@@ -16,7 +19,7 @@ Narzugons wield hell-forged lances that shunt the souls of any they killed to th
 Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as its mount. These steeds are bound by [[5. Mechanics/Items/Infernal Tack (MTF).md|infernal tack]] and must respond to the summons and commands of the spurs' wearer.
 
 ```statblock
-"name": "Narzugon"
+"name": "Narzugon (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -33,15 +36,16 @@ Each narzugon claims a [[5. Mechanics/Bestiary/Fiend/Nightmare.md|nightmare]] as
 - !!int "19"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+5"
-  "Constitution": "+8"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "5"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Perception": "+12"
+  "Perception": !!int "12"
 "damage_resistances": "acid; cold; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Common, Infernal, telepathy 120 ft."
 "cr": "13"

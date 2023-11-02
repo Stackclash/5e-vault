@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/mountain
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Saber-Toothed Tiger"]
 ---
-# Saber-Toothed Tiger
+# [Saber-Toothed Tiger](compendium\bestiary\beast/saber-toothed-tiger.md)
 *Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -28,8 +31,8 @@ aliases: ["Saber-Toothed Tiger"]
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+3"
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "2"

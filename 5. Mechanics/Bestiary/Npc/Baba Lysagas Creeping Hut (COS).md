@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/11
 - monster/size/gargantuan
 - monster/type/construct
+statblock: inline
 aliases: ["Baba Lysaga's Creeping Hut"]
 ---
-# Baba Lysaga's Creeping Hut
+# [Baba Lysaga's Creeping Hut](compendium\bestiary\npc/baba-lysagas-creeping-hut-cos.md)
 *Source: Curse of Strahd p. 226*  
 
 Baba Lysaga built a hut atop the rotting stump of a giant tree that was felled long ago. It was only after she embedded a magic gemstone in the hut that the whole thing was imbued with a semblance of life. When she wills it to do so, the hut pulls its gigantic roots free of the earth and shambles around like a spidery behemoth, shaking the ground with every step. The hut attacks with its flailing and stomping roots. It can also use its roots to fling large rocks.
@@ -22,7 +25,7 @@ The gemstone that has given life to Baba Lysaga's hut was previously buried in t
 Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice: 3d6|avg` (`3d6`) piercing damage and fails to obtain the gem.
 
 ```statblock
-"name": "Baba Lysaga's Creeping Hut"
+"name": "Baba Lysaga's Creeping Hut (CoS)"
 "size": "Gargantuan"
 "type": "construct"
 "alignment": "Unaligned"
@@ -38,12 +41,14 @@ Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.m
 - !!int "3"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+0"
-  "Wisdom": "+0"
-  "Constitution": "+9"
+  "Charisma": !!int "0"
+  "Wisdom": !!int "0"
+  "Constitution": !!int "9"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "11"

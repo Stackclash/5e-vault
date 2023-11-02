@@ -8,7 +8,9 @@ tags:
 - item/property/reach
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Pike"]
+aliases: 
+- "Pike"
+cost: 5 gp
 ---
 # Pike
 *Melee Weapon*  

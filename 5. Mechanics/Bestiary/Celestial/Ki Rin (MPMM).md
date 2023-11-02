@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/grassland
 - monster/environment/mountain
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Ki-rin"]
 ---
-# Ki-rin
+# [Ki-rin](compendium\bestiary\celestial/ki-rin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162*  
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -30,7 +33,7 @@ On the celestial planes, ki-rins reside in lofty, elegant aeries filled with lux
 When viewed from the outside, a ki-rin's lair is indistinguishable from a natural site, and the entrance is difficult for visitors to find and reach. Inside, the lair is a serene and comfortable place, its ambiance a mix between palace and temple. If the ki-rin has taken creatures into its service, its lair doubles as a sacred site wherein the ki-rin not only rests but also teaches of holy mysteries.
 
 ```statblock
-"name": "Ki-rin"
+"name": "Ki-rin (MPMM)"
 "size": "Large"
 "type": "celestial"
 "alignment": "Typically  Lawful Good"
@@ -46,11 +49,11 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 - !!int "20"
 "speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
-  "Religion": "+8"
-  "Perception": "+9"
-  "Insight": "+9"
+  "Religion": !!int "8"
+  "Perception": !!int "9"
+  "Insight": !!int "9"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "12"

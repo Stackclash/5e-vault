@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/17
 - monster/environment/coastal
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
 - monster/type/fiend/wizard
+statblock: inline
 aliases: ["Blue Abishai"]
 ---
-# Blue Abishai
+# [Blue Abishai](compendium\bestiary\fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -23,7 +26,7 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
 ```statblock
-"name": "Blue Abishai"
+"name": "Blue Abishai (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil, wizard"
@@ -40,14 +43,14 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "18"
 "speed": "30 ft., fly 50 ft."
 "saves":
-  "Wisdom": "+12"
-  "Intelligence": "+12"
+  "Wisdom": !!int "12"
+  "Intelligence": !!int "12"
 "skillsaves":
-  "Arcana": "+12"
+  "Arcana": !!int "12"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, lightning, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "17"

@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Earworm"]
+aliases: 
+- "Earworm"
 ---
 # Earworm
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 To attune to this symbiont, you must hold it against the skin behind your ear for the entire attunement period, whereupon it burrows into your head and bonds to your skull. While the earworm is inside you, you can speak, read, and write Deep Speech.
 

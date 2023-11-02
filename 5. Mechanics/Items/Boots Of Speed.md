@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Boots of Speed"]
+aliases: 
+- "Boots of Speed"
 ---
 # Boots of Speed
 *Wondrous Item, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/boots-of-speed.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
 

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Cultist"]
 ---
-# Cultist
+# [Cultist](compendium\bestiary\humanoid/cultist.md)
 *Source: Monster Manual p. 345, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
@@ -30,8 +33,8 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+2"
-  "Religion": "+2"
+  "Deception": !!int "2"
+  "Religion": !!int "2"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Ball Bearings (bag of 1,000)"]
+aliases: 
+- "Ball Bearings (bag of 1,000)"
+cost: 1 gp
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring Gear*  

@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/common
 - item/wondrous
-aliases: ["Masquerade Tattoo"]
+aliases: 
+- "Masquerade Tattoo"
 ---
 # Masquerade Tattoo
 *Wondrous Item, common (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo appears on your body as whatever you desire.
 

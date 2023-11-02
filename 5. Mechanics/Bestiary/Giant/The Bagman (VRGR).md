@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/5
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["The Bagman"]
 ---
-# The Bagman
+# [The Bagman](compendium\bestiary\giant/the-bagman-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 225, Derived from *  
 
 ## Beware the Bagman
@@ -16,7 +19,7 @@ The Bagman is an urban legend about an adventurer who sought to escape doom by a
 Any character might know the story of the Bagman. What the Bagman is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [[5. Mechanics/Items/Bag Of Holding.md|bag of holding]], is the Bagman to blame? Is the Bagman just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
 
 ```statblock
-"name": "The Bagman"
+"name": "The Bagman (VRGR)"
 "size": "Large"
 "type": "giant"
 "alignment": "Chaotic Evil"
@@ -32,7 +35,7 @@ Any character might know the story of the Bagman. What the Bagman is and how you
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"

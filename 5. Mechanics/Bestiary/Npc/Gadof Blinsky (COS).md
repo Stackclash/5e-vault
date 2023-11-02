@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Gadof Blinsky"]
 ---
-# Gadof Blinsky
+# [Gadof Blinsky](compendium\bestiary\npc/gadof-blinsky-cos.md)
 *Source: Curse of Strahd p. 118, Derived from *  
 
 ```statblock
-"name": "Gadof Blinsky"
+"name": "Gadof Blinsky (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

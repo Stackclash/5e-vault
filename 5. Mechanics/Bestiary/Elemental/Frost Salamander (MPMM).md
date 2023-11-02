@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/arctic
 - monster/size/huge
 - monster/type/elemental
+statblock: inline
 aliases: ["Frost Salamander"]
 ---
-# Frost Salamander
+# [Frost Salamander](compendium\bestiary\elemental/frost-salamander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132*  
 
 Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.
@@ -21,7 +24,7 @@ A frost salamander that dwells in a lair for a while carves out enough space to 
 On rare occasions, [[5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giants]] capture and tame these creatures, using them to burrow into the ice to help create outposts and fortresses.
 
 ```statblock
-"name": "Frost Salamander"
+"name": "Frost Salamander (MPMM)"
 "size": "Huge"
 "type": "elemental"
 "alignment": "Unaligned"
@@ -37,10 +40,10 @@ On rare occasions, [[5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giants]] c
 - !!int "7"
 "speed": "60 ft., burrow 40 ft., climb 40 ft."
 "saves":
-  "Wisdom": "+4"
-  "Constitution": "+8"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 14"

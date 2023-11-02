@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/forest
@@ -10,9 +12,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Revenant"]
 ---
-# Revenant
+# [Revenant](compendium\bestiary\undead/revenant.md)
 *Source: Monster Manual p. 259, Curse of Strahd, Eberron: Rising from the Last War*  
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
@@ -46,13 +49,15 @@ A revenant doesn't require air, food, drink, or sleep.
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Strength": "+7"
-  "Constitution": "+7"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Strength": !!int "7"
+  "Constitution": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"

@@ -19,7 +19,7 @@ Your focus is on people and on the influence and secrets they have. Many spies, 
 
 ### Master of Intrigue (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]], the [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]], and one gaming set of your choice. You also learn two languages of your choice.
+When you choose this archetype at 3rd level, you gain proficiency with the [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]], the [[5. Mechanics/Items/Forgery Kit.md\|forgery kit]], and one [[5. Mechanics/Items/Gaming Set.md\|gaming set]] of your choice. You also learn two languages of your choice.
 
 Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.
 

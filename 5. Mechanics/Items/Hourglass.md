@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Hourglass"]
+aliases: 
+- "Hourglass"
+cost: 25 gp
 ---
 # Hourglass
 *Adventuring Gear*  

@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/mountain
@@ -9,9 +11,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Lonely Sorrowsworn"]
 ---
-# Lonely Sorrowsworn
+# [Lonely Sorrowsworn](compendium\bestiary\monstrosity/lonely-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223*  
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
@@ -21,7 +24,7 @@ The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but
 The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnations of the plane's bleak nature. Sorrowsworn embody the forms of suffering inherent to the shadowy landscape and visit horror on those who stumble into their midst. Each sorrowsworn personifies a different aspect of despair or distress.
 
 ```statblock
-"name": "Lonely Sorrowsworn"
+"name": "Lonely Sorrowsworn (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"

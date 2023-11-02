@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/small
 - monster/type/plant
+statblock: inline
 aliases: ["Vegepygmy"]
 ---
-# Vegepygmy
+# [Vegepygmy](compendium\bestiary\plant/vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252*  
 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [[5. Mechanics/Traps Hazards/Russet Mold (VGM).md|russet mold]]. One or more vegepygmies emerge from the corpse a day later.
@@ -20,7 +23,7 @@ Vegepygmies are fungus creatures that live in simple bands, hunting for sustenan
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
 ```statblock
-"name": "Vegepygmy"
+"name": "Vegepygmy (MPMM)"
 "size": "Small"
 "type": "plant"
 "alignment": "Typically  Neutral"
@@ -36,8 +39,8 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "damage_resistances": "lightning, piercing"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Vegepygmy"

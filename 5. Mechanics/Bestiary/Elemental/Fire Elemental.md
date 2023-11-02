@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/desert
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Fire Elemental"]
 ---
-# Fire Elemental
+# [Fire Elemental](compendium\bestiary\elemental/fire-elemental.md)
 *Source: Monster Manual p. 125, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
@@ -50,8 +53,11 @@ An elemental doesn't require air, food, drink, or sleep.
 "speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Ignan"
 "cr": "5"

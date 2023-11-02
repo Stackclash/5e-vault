@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
+statblock: inline
 aliases: ["Yuan-ti Malison (Type 3)"]
 ---
-# Yuan-ti Malison (Type 3)
+# [Yuan-ti Malison (Type 3)](compendium\bestiary\monstrosity/yuan-ti-malison-type-3.md)
 *Source: Monster Manual p. 309*  
 
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
@@ -75,10 +78,10 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+5"
-  "Stealth": "+4"
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"

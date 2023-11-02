@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Diamond"]
+aliases: 
+- "Diamond"
+cost: 5,000 gp
 ---
 # Diamond
 *Treasure*  
 
 - **Cost**: 5,000 gp
-- **Weight**: ⏤
 
 A transparent blue-white, canary, pink, brown, or blue gemstone.
 

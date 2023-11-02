@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
+statblock: inline
 aliases: ["Pixie"]
 ---
-# Pixie
+# [Pixie](compendium\bestiary\fey/pixie.md)
 *Source: Monster Manual p. 253, Eberron: Rising from the Last War*  
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
@@ -56,8 +59,8 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+4"
+  "Stealth": !!int "7"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
 "cr": "1/4"

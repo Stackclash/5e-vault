@@ -7,13 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/rod
-aliases: ["+2 Rod of the Pact Keeper"]
+aliases: 
+- "+2 Rod of the Pact Keeper"
 ---
 # +2 Rod of the Pact Keeper
 *Rod, major, rare (requires attunement by a warlock)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 While holding this rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.

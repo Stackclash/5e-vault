@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Transmuter Wizard"]
 ---
-# Transmuter Wizard
+# [Transmuter Wizard](compendium\bestiary\humanoid/transmuter-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265*  
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
@@ -17,7 +20,7 @@ Transmuters are masters at transforming physical forms. They typically view magi
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Transmuter Wizard"
+"name": "Transmuter Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,11 +36,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+4"
-  "Intelligence": "+6"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "History": "+6"
-  "Arcana": "+6"
+  "History": !!int "6"
+  "Arcana": !!int "6"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "5"

@@ -78,7 +78,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 - **Saving Throws**: Strength, Dexterity
 - **Armor**: none
 - **Weapons**: simple, [[5. Mechanics/Items/Shortsword.md\|shortswords]]
-- **Tools**: any one type of artisan's tools or any one musical instrument of your choice
+- **Tools**: any one type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] or any one [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice
 - **Skills**: Choose 2 from *Acrobatics*, *Athletics*, *History*, *Insight*, *Religion*, *Stealth*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.

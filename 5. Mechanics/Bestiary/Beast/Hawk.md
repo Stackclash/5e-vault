@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Hawk"]
 ---
-# Hawk
+# [Hawk](compendium\bestiary\beast/hawk.md)
 *Source: Monster Manual p. 330. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -26,7 +29,7 @@ aliases: ["Hawk"]
 - !!int "6"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "0"

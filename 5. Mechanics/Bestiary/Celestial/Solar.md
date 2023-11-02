@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/21
 - monster/size/large
 - monster/type/celestial
+statblock: inline
 aliases: ["Solar"]
 ---
-# Solar
+# [Solar](compendium\bestiary\celestial/solar.md)
 *Source: Monster Manual p. 18. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -52,14 +55,15 @@ It is said that only twenty-four solars exist. The few solars that are known are
 - !!int "30"
 "speed": "50 ft., fly 150 ft."
 "saves":
-  "Charisma": "+17"
-  "Wisdom": "+14"
-  "Intelligence": "+14"
+  "Charisma": !!int "17"
+  "Wisdom": !!int "14"
+  "Intelligence": !!int "14"
 "skillsaves":
-  "Perception": "+14"
+  "Perception": !!int "14"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"

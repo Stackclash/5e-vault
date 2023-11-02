@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Bloodstone"]
+aliases: 
+- "Bloodstone"
+cost: 50 gp
 ---
 # Bloodstone
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 An opaque dark gray with red flecks gemstone.
 

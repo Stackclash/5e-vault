@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Firenewt Warlock of Imix"]
 ---
-# Firenewt Warlock of Imix
+# [Firenewt Warlock of Imix](compendium\bestiary\elemental/firenewt-warlock-of-imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -19,7 +22,7 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 Originally from the Elemental Plane of Fire, firenewts can be found on the Material Plane near hot springs and volcanoes. These amphibians need hot water to live, becoming sluggish after spending a week away from a source of moist heat. Firenewts therefore delve for sources of heat in the earth, and a firenewt lair features a network of channels and sluices to circulate hot liquid through the area.
 
 ```statblock
-"name": "Firenewt Warlock of Imix"
+"name": "Firenewt Warlock of Imix (MPMM)"
 "size": "Medium"
 "type": "elemental"
 "alignment": "Typically  Neutral Evil"

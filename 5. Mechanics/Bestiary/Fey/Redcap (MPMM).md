@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/swamp
 - monster/size/small
 - monster/type/fey
+statblock: inline
 aliases: ["Redcap"]
 ---
-# Redcap
+# [Redcap](compendium\bestiary\fey/redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208*  
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -25,7 +28,7 @@ Some redcaps can sense the being whose murderous acts led to their birth. They t
 In any case, if a redcap works with another being, the redcap demands to be paid in victims. A patron who tries to stifle a redcap's natural and necessary urge for blood risks becoming the redcap's next target.
 
 ```statblock
-"name": "Redcap"
+"name": "Redcap (MPMM)"
 "size": "Small"
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
@@ -41,8 +44,8 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 - !!int "9"
 "speed": "25 ft."
 "skillsaves":
-  "Athletics": "+6"
-  "Perception": "+3"
+  "Athletics": !!int "6"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Sylvan"
 "cr": "3"

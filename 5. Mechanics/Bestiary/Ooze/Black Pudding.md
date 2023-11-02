@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/underdark
 - monster/size/large
 - monster/type/ooze
+statblock: inline
 aliases: ["Black Pudding"]
 ---
-# Black Pudding
+# [Black Pudding](compendium\bestiary\ooze/black-pudding.md)
 *Source: Monster Manual p. 241, Curse of Strahd. Available in the SRD.*  
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
@@ -57,7 +60,9 @@ An ooze doesn't require sleep.
 - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"

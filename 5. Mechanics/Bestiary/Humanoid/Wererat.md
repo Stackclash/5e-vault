@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Wererat"]
 ---
-# Wererat
+# [Wererat](compendium\bestiary\humanoid/wererat.md)
 *Source: Monster Manual p. 209. Available in the SRD.*  
 
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
@@ -69,8 +72,8 @@ Some individuals see little point in fighting the curse and accept what they are
 - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "darkvision 60 ft. (rat form only), passive Perception 12"

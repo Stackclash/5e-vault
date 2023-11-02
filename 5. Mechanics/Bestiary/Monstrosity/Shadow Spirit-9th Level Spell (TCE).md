@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Shadow Spirit (9th-level Spell)"]
 ---
-# Shadow Spirit (9th-level Spell)
+# [Shadow Spirit (9th-level Spell)](compendium\bestiary\monstrosity/shadow-spirit-9th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock
-"name": "Shadow Spirit (9th-level Spell)"
+"name": "Shadow Spirit (9th-level Spell) (TCE)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -25,7 +28,7 @@ aliases: ["Shadow Spirit (9th-level Spell)"]
 - !!int "16"
 "speed": "40 ft."
 "damage_resistances": "necrotic"
-"condition_immunities": "frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "traits":

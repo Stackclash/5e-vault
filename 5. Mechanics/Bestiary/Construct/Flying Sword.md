@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/size/small
 - monster/type/construct
+statblock: inline
 aliases: ["Flying Sword"]
 ---
-# Flying Sword
+# [Flying Sword](compendium\bestiary\construct/flying-sword.md)
 *Source: Monster Manual p. 20, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
@@ -40,10 +43,12 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "saves":
-  "Dexterity": "+4"
+  "Dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
-  \ poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"

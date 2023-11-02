@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/15
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead/shapechanger
+statblock: inline
 aliases: ["Vampire Spellcaster"]
 ---
-# Vampire Spellcaster
+# [Vampire Spellcaster](compendium\bestiary\undead/vampire-spellcaster.md)
 *Source: Monster Manual p. 298*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -73,12 +76,12 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+9"
-  "Wisdom": "+7"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "7"
 "skillsaves":
-  "Stealth": "+9"
-  "Perception": "+7"
+  "Stealth": !!int "9"
+  "Perception": !!int "7"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "the languages it knew in life"
@@ -88,15 +91,14 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     \ (spell save DC 16, dice: d20+8 (+8 to hit) with spell attacks). The vampire\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
     \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
     \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Blight.md|blight]], [greater\
-    \ invisibility](compendium/spells/greater-invisibility.md)\n\n5th level (1 5th-level\
-    \ slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
+    \n5th level (1 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
   "name": "spells"
 - "desc": "If the vampire isn't in sunlight or running water, it can use its action\
     \ to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true\

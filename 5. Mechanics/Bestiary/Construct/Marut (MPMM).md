@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/25
 - monster/size/large
 - monster/type/construct/inevitable
+statblock: inline
 aliases: ["Marut"]
 ---
-# Marut
+# [Marut](compendium\bestiary\construct/marut-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173*  
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -16,7 +19,7 @@ The Hall of Concordance is an embassy of pure law in Sigil, the City of Doors. I
 Inevitables care nothing for the spirit of an agreement, only the letter. A marut enforces what is written, not what was meant by or supposed to be understood from the writing. The Kolyarut rejects contracts that contain vague, contradictory, or unenforceable terms. Beyond that, it doesn't care whether both parties understand what they're agreeing to.
 
 ```statblock
-"name": "Marut"
+"name": "Marut (MPMM)"
 "size": "Large"
 "type": "construct"
 "subtype": "inevitable"
@@ -33,16 +36,18 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 - !!int "18"
 "speed": "40 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": "+12"
-  "Wisdom": "+10"
-  "Intelligence": "+12"
+  "Charisma": !!int "12"
+  "Wisdom": !!int "10"
+  "Intelligence": !!int "12"
 "skillsaves":
-  "Intimidation": "+12"
-  "Insight": "+10"
-  "Perception": "+10"
+  "Intimidation": !!int "12"
+  "Insight": !!int "10"
+  "Perception": !!int "10"
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, paralyzed, poisoned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 20"
 "languages": "all but rarely speaks"
 "cr": "25"

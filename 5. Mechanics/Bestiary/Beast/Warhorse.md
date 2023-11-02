@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Warhorse"]
 ---
-# Warhorse
+# [Warhorse](compendium\bestiary\beast/warhorse.md)
 *Source: Monster Manual p. 340, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

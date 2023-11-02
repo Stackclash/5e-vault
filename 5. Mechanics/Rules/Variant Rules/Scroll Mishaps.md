@@ -8,7 +8,7 @@ aliases: ["Scroll Mishaps"]
 # Scroll Mishaps
 *Source: Dungeon Master's Guide p. 140* 
 
-A creature who tries and fails to cast a spell from a spell scroll must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.
+A creature who tries and fails to cast a spell from a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.
 
 **Scroll Mishap**
 

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/1
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Swarm of Zombie Limbs"]
 ---
-# Swarm of Zombie Limbs
+# [Swarm of Zombie Limbs](compendium\bestiary\undead/swarm-of-zombie-limbs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 254*  
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs, infecting them with terrible diseases (see zombie plague spreader), or crushing an entire horde into a single, rotting titan (see zombie clot).
@@ -26,7 +29,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 ^zombie-apocalypses
 
 ```statblock
-"name": "Swarm of Zombie Limbs"
+"name": "Swarm of Zombie Limbs (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -43,8 +46,11 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 9"
 "languages": ""
 "cr": "1"

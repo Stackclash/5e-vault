@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/10
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Dullahan"]
 ---
-# Dullahan
+# [Dullahan](compendium\bestiary\undead/dullahan-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 233*  
 
 Dullahans are headless undead warriors—the remains of villains who let vengeance consume them. These decapitated hunters haunt the areas where they were slain, butchering innocents in search of their severed heads or to quench their thirst for revenge.
@@ -28,7 +31,7 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 ^dullahan-legends
 
 ```statblock
-"name": "Dullahan"
+"name": "Dullahan (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -44,11 +47,12 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Constitution": "+7"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Perception": "+6"
+  "Perception": !!int "6"
 "damage_resistances": "cold, lightning, poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 16"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "10"

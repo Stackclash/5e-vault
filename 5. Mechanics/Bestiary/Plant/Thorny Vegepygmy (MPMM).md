@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/plant
+statblock: inline
 aliases: ["Thorny Vegepygmy"]
 ---
-# Thorny Vegepygmy
+# [Thorny Vegepygmy](compendium\bestiary\plant/thorny-vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  
 
 If a Beast such as a dog or a bear dies from [[5. Mechanics/Traps Hazards/Russet Mold (VGM).md|russet mold]], the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
@@ -20,7 +23,7 @@ Vegepygmies are fungus creatures that live in simple bands, hunting for sustenan
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
 ```statblock
-"name": "Thorny Vegepygmy"
+"name": "Thorny Vegepygmy (MPMM)"
 "size": "Medium"
 "type": "plant"
 "alignment": "Typically  Neutral"
@@ -36,8 +39,8 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
 "damage_resistances": "lightning, piercing"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""

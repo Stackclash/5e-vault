@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Wyvern"]
 ---
-# Wyvern
+# [Wyvern](compendium\bestiary\dragon/wyvern.md)
 *Source: Monster Manual p. 303. Available in the SRD and the Basic Rules.*  
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
@@ -46,7 +49,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 - !!int "6"
 "speed": "20 ft., fly 80 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "6"

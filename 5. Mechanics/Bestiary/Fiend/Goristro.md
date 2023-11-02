@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/17
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Goristro"]
 ---
-# Goristro
+# [Goristro](compendium\bestiary\fiend/goristro.md)
 *Source: Monster Manual p. 59*  
 
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
@@ -198,16 +201,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "14"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+7"
-  "Strength": "+13"
-  "Constitution": "+13"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+  "Strength": !!int "13"
+  "Constitution": !!int "13"
 "skillsaves":
-  "Perception": "+7"
+  "Perception": !!int "7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "17"

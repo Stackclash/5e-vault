@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Cambion"]
 ---
-# Cambion
+# [Cambion](compendium\bestiary\fiend/cambion.md)
 *Source: Monster Manual p. 36*  
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
@@ -46,15 +49,15 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 - !!int "16"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+6"
-  "Intelligence": "+5"
-  "Strength": "+7"
-  "Constitution": "+6"
+  "Charisma": !!int "6"
+  "Intelligence": !!int "5"
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+6"
-  "Deception": "+6"
-  "Stealth": "+7"
-  "Perception": "+4"
+  "Intimidation": !!int "6"
+  "Deception": !!int "6"
+  "Stealth": !!int "7"
+  "Perception": !!int "4"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 14"

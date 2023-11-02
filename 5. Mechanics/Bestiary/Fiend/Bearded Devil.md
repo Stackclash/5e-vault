@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Bearded Devil"]
 ---
-# Bearded Devil
+# [Bearded Devil](compendium\bestiary\fiend/bearded-devil.md)
 *Source: Monster Manual p. 70. Available in the SRD.*  
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
@@ -151,13 +154,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+2"
-  "Strength": "+5"
-  "Constitution": "+4"
+  "Wisdom": !!int "2"
+  "Strength": !!int "5"
+  "Constitution": !!int "4"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "3"

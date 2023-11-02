@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Iron Pot"]
+aliases: 
+- "Iron Pot"
+cost: 2 gp
 ---
 # Iron Pot
 *Adventuring Gear*  

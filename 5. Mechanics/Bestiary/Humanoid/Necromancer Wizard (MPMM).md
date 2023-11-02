@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/desert
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Necromancer Wizard"]
 ---
-# Necromancer Wizard
+# [Necromancer Wizard](compendium\bestiary\humanoid/necromancer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264*  
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
@@ -18,7 +21,7 @@ Necromancers study the interaction of life, death, and undeath. Some necromancer
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Necromancer Wizard"
+"name": "Necromancer Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -34,11 +37,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+5"
-  "Intelligence": "+7"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "History": "+7"
-  "Arcana": "+7"
+  "History": !!int "7"
+  "Arcana": !!int "7"
 "damage_resistances": "necrotic"
 "senses": "passive Perception 11"
 "languages": "any four languages"

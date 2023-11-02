@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/coastal
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Stone Giant Dreamwalker"]
 ---
-# Stone Giant Dreamwalker
+# [Stone Giant Dreamwalker](compendium\bestiary\giant/stone-giant-dreamwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234*  
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -21,7 +24,7 @@ Dreamwalkers occupy an odd place of respect outside the stone giant ordning. The
 Dreamwalkers become divorced from reality by isolation, shame, and their unendingly alien surroundings, and this delirium leaches out into the world around them, affecting other creatures that get too close. Believing that they're living in a dream and that their actions have no real consequences, dreamwalkers act as they please, becoming forces of chaos. As they travel the world, they collect objects and creatures that seem especially significant to them. Over time, the collected things accrete to their bodies, becoming encased in stone.
 
 ```statblock
-"name": "Stone Giant Dreamwalker"
+"name": "Stone Giant Dreamwalker (MPMM)"
 "size": "Huge"
 "type": "giant"
 "alignment": "Typically  Chaotic Neutral"
@@ -37,13 +40,13 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+3"
-  "Constitution": "+9"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Athletics": "+14"
-  "Perception": "+3"
-"condition_immunities": "charmed, frightened"
+  "Athletics": !!int "14"
+  "Perception": !!int "3"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Giant"
 "cr": "10"

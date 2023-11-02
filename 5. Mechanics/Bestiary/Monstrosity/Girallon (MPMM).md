@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Girallon"]
 ---
-# Girallon
+# [Girallon](compendium\bestiary\monstrosity/girallon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139*  
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
@@ -25,7 +28,7 @@ Numerous creatures have tried to tame, subjugate, or cooperate with the monsters
 Girallons that are well treated might be willing to serve as guards, though they lack the intelligence to take on tasks more complicated than attacking strangers who enter their domain. A girallon that's captured when young and carefully trained could end up in a seemingly unlikely place, such as guarding the entrance to a city's thieves' guild. Those who would keep a girallon must always be wary, however, because the creature could revert to its predatory nature at any time.
 
 ```statblock
-"name": "Girallon"
+"name": "Girallon (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -41,8 +44,8 @@ Girallons that are well treated might be willing to serve as guards, though they
 - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+5"
+  "Stealth": !!int "5"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "4"

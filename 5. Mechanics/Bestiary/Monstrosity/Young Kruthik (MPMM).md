@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-8
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Young Kruthik"]
 ---
-# Young Kruthik
+# [Young Kruthik](compendium\bestiary\monstrosity/young-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168*  
 
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
@@ -35,7 +38,7 @@ Although they can feed on carrion, kruthiks prefer live prey. They kill enemies 
 Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
 
 ```statblock
-"name": "Young Kruthik"
+"name": "Young Kruthik (MPMM)"
 "size": "Small"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -51,7 +54,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - !!int "6"
 "speed": "30 ft., burrow 10 ft., climb 30 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": "Kruthik"
 "cr": "1/8"

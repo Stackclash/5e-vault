@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/7
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Tsucora Quori"]
 ---
-# Tsucora Quori
+# [Tsucora Quori](compendium\bestiary\aberration/tsucora-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 307*  
 
 Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals.
@@ -22,7 +25,7 @@ Their ability to manipulate the fears of mortals sees tsucoras often sent to Ebe
 Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares—the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The Inspired are the most common type of willing host for the quori and are described earlier in this chapter.
 
 ```statblock
-"name": "Tsucora Quori"
+"name": "Tsucora Quori (ERLW)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Lawful Evil"
@@ -38,13 +41,13 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+5"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Insight": "+5"
-  "Perception": "+5"
+  "Insight": !!int "5"
+  "Perception": !!int "5"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Quori"
 "cr": "7"

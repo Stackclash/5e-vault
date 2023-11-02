@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/3
 - monster/size/large
 - monster/type/fiend
+statblock: inline
 aliases: ["Beucephalus"]
 ---
-# Beucephalus
+# [Beucephalus](compendium\bestiary\npc/beucephalus-cos.md)
 *Source: Curse of Strahd p. 93, Derived from *  
 
 ```statblock
-"name": "Beucephalus"
+"name": "Beucephalus (CoS)"
 "size": "Large"
 "type": "fiend"
 "alignment": "Neutral Evil"

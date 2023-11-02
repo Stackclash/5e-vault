@@ -490,7 +490,7 @@ The wine racks contain thirty-three bottles of Purple Grapemash No. 3 and twenty
 
 #### Treasure
 
-Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up spell scroll of [[5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]].
+Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]].
 
 ### S17. Loft and Belfry
 

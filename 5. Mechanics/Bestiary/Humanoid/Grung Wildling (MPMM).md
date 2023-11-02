@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/size/small
 - monster/type/humanoid
+statblock: inline
 aliases: ["Grung Wildling"]
 ---
-# Grung Wildling
+# [Grung Wildling](compendium\bestiary\humanoid/grung-wildling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150*  
 
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
@@ -19,7 +22,7 @@ Grungs are frog-like folk found in rain forests and tropical jungles. These amph
 Born in a wide range of colors, grungs most often appear in shades of green, blue, purple, red, orange, and gold. All grungs secrete a substance that is harmless to them but poisonous to other creatures, and sometimes that substance has a special effect based on the grung's color (see "Variant: Grung Poison"). They also use this venom to poison their weapons.
 
 ```statblock
-"name": "Grung Wildling"
+"name": "Grung Wildling (MPMM)"
 "size": "Small"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -35,14 +38,14 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 - !!int "11"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  "Dexterity": "+5"
+  "Dexterity": !!int "5"
 "skillsaves":
-  "Athletics": "+2"
-  "Stealth": "+5"
-  "Perception": "+4"
-  "Survival": "+4"
+  "Athletics": !!int "2"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
+  "Survival": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 14"
 "languages": "Grung"
 "cr": "1"

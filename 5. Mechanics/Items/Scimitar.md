@@ -7,7 +7,9 @@ tags:
 - item/property/light
 - item/property/martial
 - item/weapon/martial/melee
-aliases: ["Scimitar"]
+aliases: 
+- "Scimitar"
+cost: 25 gp
 ---
 # Scimitar
 *Melee Weapon*  

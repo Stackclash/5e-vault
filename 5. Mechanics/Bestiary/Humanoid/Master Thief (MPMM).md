@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Master Thief"]
 ---
-# Master Thief
+# [Master Thief](compendium\bestiary\humanoid/master-thief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174*  
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -31,7 +34,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 ^master-thief-calling-cards
 
 ```statblock
-"name": "Master Thief"
+"name": "Master Thief (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -47,14 +50,14 @@ When a master thief completes a challenging heist, they often leave behind a cal
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Intelligence": "+3"
+  "Dexterity": !!int "7"
+  "Intelligence": !!int "3"
 "skillsaves":
-  "Athletics": "+3"
-  "Sleight of Hand": "+7"
-  "Stealth": "+7"
-  "Perception": "+3"
-  "Acrobatics": "+7"
+  "Athletics": !!int "3"
+  "Sleight of Hand": !!int "7"
+  "Stealth": !!int "7"
+  "Perception": !!int "3"
+  "Acrobatics": !!int "7"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus thieves' cant"
 "cr": "5"

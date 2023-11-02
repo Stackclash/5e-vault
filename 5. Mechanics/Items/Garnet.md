@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Garnet"]
+aliases: 
+- "Garnet"
+cost: 100 gp
 ---
 # Garnet
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 A transparent red, brown-green, or violet gemstone.
 

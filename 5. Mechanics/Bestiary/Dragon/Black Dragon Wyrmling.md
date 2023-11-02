@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Black Dragon Wyrmling"]
 ---
-# Black Dragon Wyrmling
+# [Black Dragon Wyrmling](compendium\bestiary\dragon/black-dragon-wyrmling.md)
 *Source: Monster Manual p. 88. Available in the SRD.*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -102,13 +105,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "13"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+4"
-  "Wisdom": "+2"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+4"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

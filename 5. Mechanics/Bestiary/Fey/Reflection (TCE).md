@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/1-2
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Reflection"]
 ---
-# Reflection
+# [Reflection](compendium\bestiary\fey/reflection-tce.md)
 *Source: Tasha's Cauldron of Everything p. 158, Derived from *  
 
 ```statblock
-"name": "Reflection"
+"name": "Reflection (TCE)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Chaotic Evil"
@@ -26,13 +29,16 @@ aliases: ["Reflection"]
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "damage_vulnerabilities": "bludgeoning"
 "damage_resistances": "acid; cold; fire; lightning; thunder; piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"

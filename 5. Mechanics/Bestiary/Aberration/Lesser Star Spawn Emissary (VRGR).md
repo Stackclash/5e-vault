@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/19
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Lesser Star Spawn Emissary"]
 ---
-# Lesser Star Spawn Emissary
+# [Lesser Star Spawn Emissary](compendium\bestiary\aberration/lesser-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  
 
 A star spawn emissary's lesser form allows it to appear as any creature. Emissaries have no misplaced pride and just as readily appear as people, animals, or other creatures—the more unassuming, the better. Should it reveal its true form, an emissary appears as a roughly bipedal mass of agitated organs, self-cannibalizing alien orifices, and appendages suggestive of forms it has previously assumed.
@@ -22,7 +25,7 @@ Star spawn emissaries can assume two forms: a lesser form suited to infiltration
 After finishing a long rest, a greater star spawn emissary regains its lesser form if it was destroyed. When an emissary transitions from one form to another, it loses all the traits and actions of the previous form and gains those of the new form.
 
 ```statblock
-"name": "Lesser Star Spawn Emissary"
+"name": "Lesser Star Spawn Emissary (VRGR)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Unaligned"
@@ -38,15 +41,15 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 - !!int "23"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+12"
-  "Wisdom": "+11"
-  "Intelligence": "+13"
+  "Charisma": !!int "12"
+  "Wisdom": !!int "11"
+  "Intelligence": !!int "13"
 "skillsaves":
-  "Deception": "+18"
-  "Perception": "+11"
-  "Arcana": "+19"
+  "Deception": !!int "18"
+  "Perception": !!int "11"
+  "Arcana": !!int "19"
 "damage_resistances": "acid, force, necrotic, psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 1,000 ft."
 "cr": "19"

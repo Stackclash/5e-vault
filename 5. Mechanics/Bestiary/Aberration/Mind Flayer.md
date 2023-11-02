@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Mind Flayer"]
 ---
-# Mind Flayer
+# [Mind Flayer](compendium\bestiary\aberration/mind-flayer.md)
 *Source: Monster Manual p. 222, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
@@ -54,16 +57,16 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Deception": "+6"
-  "Stealth": "+4"
-  "Insight": "+6"
-  "Perception": "+6"
-  "Arcana": "+7"
-  "Persuasion": "+6"
+  "Deception": !!int "6"
+  "Stealth": !!int "4"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+  "Arcana": !!int "7"
+  "Persuasion": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "7"

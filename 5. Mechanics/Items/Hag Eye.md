@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/mm
 - item/rarity/unknown/magic
 - item/wondrous/wondrous-item
-aliases: ["Hag Eye"]
+aliases: 
+- "Hag Eye"
 ---
 # Hag Eye
 *Other, unknown (magic)*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] with a radius of 60 feet. If it is destroyed, each coven member takes `dice: 3d10|avg` (`3d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 24 hours.
 

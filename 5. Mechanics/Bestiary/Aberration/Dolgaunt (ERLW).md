@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/3
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Dolgaunt"]
 ---
-# Dolgaunt
+# [Dolgaunt](compendium\bestiary\aberration/dolgaunt-erlw.md)
 *Source: Eberron: Rising from the Last War p. 290*  
 
 Dolgaunts are emaciated hobgoblins with disease-hued flesh. Their eye sockets gape open and empty above a mouth with a wormlike tongue. Writhing cilia cover their bodies, with longer tendrils around their heads and two wiry tentacles protruding from their bare shoulders. A dolgaunt is blind but can perceive its surroundings through the sensitive cilia that cover its skin. It can also absorb life through its tentacles, allowing it to drain the vitality out of any creature it touches.
@@ -18,7 +21,7 @@ When the daelkyr emerged from Xoriat to conquer Khorvaire, they captured and tra
 When the daelkyr were defeated, the dolgaunts descended into the depths of Khyber with their masters. There, they study in cavernous monasteries, forging their bodies into living weapons dedicated to the missions given them by those masters. Dolgaunts are often found commanding squads of dolgrims, and can also be found working with the Cults of the Dragon Below—particularly those devoted to Dyrrn the Corruptor.
 
 ```statblock
-"name": "Dolgaunt"
+"name": "Dolgaunt (ERLW)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Lawful Evil"
@@ -34,10 +37,10 @@ When the daelkyr were defeated, the dolgaunts descended into the depths of Khybe
 - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+4"
-  "Acrobatics": "+6"
-"condition_immunities": "blinded"
+  "Stealth": !!int "6"
+  "Perception": !!int "4"
+  "Acrobatics": !!int "6"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 14"
 "languages": "Deep Speech, Goblin"
 "cr": "3"

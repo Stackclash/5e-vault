@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Harkon's Bite"]
+aliases: 
+- "Harkon's Bite"
 ---
 # Harkon's Bite
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 A dire wolf tooth dangles from this simple cord necklace. While you wear it, the necklace grants you a +1 bonus to ability checks and saving throws.
 

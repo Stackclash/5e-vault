@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Carrion Crawler"]
 ---
-# Carrion Crawler
+# [Carrion Crawler](compendium\bestiary\monstrosity/carrion-crawler.md)
 *Source: Monster Manual p. 37*  
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
@@ -37,7 +40,7 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"

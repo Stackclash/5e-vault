@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/23
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Fraz-Urb'luu"]
 ---
-# Fraz-Urb'luu
+# [Fraz-Urb'luu](compendium\bestiary\npc/fraz-urbluu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  
 
 Fraz-Urb'luu is the Prince of [[/5. Mechanics/Rules/Skills.md#Deception|Deception]] and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
@@ -29,7 +32,7 @@ Fraz-Urb'luu's lair lies within the abyssal realm of Hollow's Heart, a plain of 
 The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in his lair.
 
 ```statblock
-"name": "Fraz-Urb'luu"
+"name": "Fraz-Urb'luu (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -46,17 +49,18 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
 - !!int "26"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Dexterity": "+8"
-  "Wisdom": "+14"
-  "Intelligence": "+15"
-  "Constitution": "+14"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "14"
+  "Intelligence": !!int "15"
+  "Constitution": !!int "14"
 "skillsaves":
-  "Deception": "+15"
-  "Stealth": "+8"
-  "Perception": "+14"
+  "Deception": !!int "15"
+  "Stealth": !!int "8"
+  "Perception": !!int "14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "23"

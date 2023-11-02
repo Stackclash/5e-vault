@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Bead of Nourishment"]
+aliases: 
+- "Bead of Nourishment"
 ---
 # Bead of Nourishment
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations.
 

@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Atlas of Endless Horizons"]
+aliases: 
+- "Atlas of Endless Horizons"
 ---
 # Atlas of Endless Horizons
 *Wondrous Item, rare (requires attunement by a wizard)*  
+![[5. Mechanics/Items/img/atlas-of-endless-horizons.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 This thick book is bound in dark leather, crisscrossed with inlaid silver lines suggesting a map or chart. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [[5. Mechanics/Spells/Arcane Gate.md\|arcane gate]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Gate.md\|gate]], [[5. Mechanics/Spells/Misty Step.md\|misty step]], [[5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], and [[5. Mechanics/Spells/Word Of Recall.md\|word of recall]]. It functions as a spellbook for you.

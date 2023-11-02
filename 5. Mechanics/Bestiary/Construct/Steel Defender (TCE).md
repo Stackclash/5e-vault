@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Steel Defender"]
 ---
-# Steel Defender
+# [Steel Defender](compendium\bestiary\construct/steel-defender-tce.md)
 *Source: Tasha's Cauldron of Everything p. 19, Eberron: Rising from the Last War p. 61*  
 
 ```statblock
-"name": "Steel Defender"
+"name": "Steel Defender (TCE)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"
@@ -24,13 +27,14 @@ aliases: ["Steel Defender"]
 - !!int "6"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+1 plus PB"
-  "Constitution": "+2 plus PB"
+  "Dexterity": !!int "0"
+  "Constitution": !!int "0"
 "skillsaves":
-  "Athletics": "+2 plus PB"
-  "Perception": "+0 plus PB × 2"
+  "Athletics": !!int "0"
+  "Perception": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 0"
 "languages": "understands the languages you speak"
 "traits":

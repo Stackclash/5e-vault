@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/forest
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Ape"]
 ---
-# Giant Ape
+# [Giant Ape](compendium\bestiary\beast/giant-ape.md)
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -27,8 +30,8 @@ aliases: ["Giant Ape"]
 - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Athletics": "+9"
-  "Perception": "+4"
+  "Athletics": !!int "9"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "7"

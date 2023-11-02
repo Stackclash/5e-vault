@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Jet"]
+aliases: 
+- "Jet"
+cost: 100 gp
 ---
 # Jet
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 An opaque deep black gemstone.
 

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Cult Fanatic"]
 ---
-# Cult Fanatic
+# [Cult Fanatic](compendium\bestiary\humanoid/cult-fanatic.md)
 *Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
@@ -30,9 +33,9 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Religion": "+2"
-  "Persuasion": "+4"
+  "Deception": !!int "4"
+  "Religion": !!int "2"
+  "Persuasion": !!int "4"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "2"
@@ -41,10 +44,9 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The fanatic\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
     \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-    \ [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]],\
+    \ [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]"
   "name": "spells"
 - "desc": "The fanatic has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]\
     \ or [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]."

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/light
-aliases: ["Studded Leather Armor"]
+aliases: 
+- "Studded Leather Armor"
+cost: 45 gp
 ---
 # Studded Leather Armor
 *Light Armor*  

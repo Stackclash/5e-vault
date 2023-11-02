@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Yellow Sapphire"]
+aliases: 
+- "Yellow Sapphire"
+cost: 1,000 gp
 ---
 # Yellow Sapphire
 *Treasure*  
 
 - **Cost**: 1,000 gp
-- **Weight**: ⏤
 
 A transparent fiery yellow or yellow-green gemstone.
 

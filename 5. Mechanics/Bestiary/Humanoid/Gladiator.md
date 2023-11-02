@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Gladiator"]
 ---
-# Gladiator
+# [Gladiator](compendium\bestiary\humanoid/gladiator.md)
 *Source: Monster Manual p. 346, Curse of Strahd. Available in the SRD.*  
 
 Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
@@ -30,12 +33,12 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+5"
-  "Strength": "+7"
-  "Constitution": "+6"
+  "Dexterity": !!int "5"
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
-  "Athletics": "+10"
+  "Intimidation": !!int "5"
+  "Athletics": !!int "10"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"

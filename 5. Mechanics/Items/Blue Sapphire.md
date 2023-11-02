@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Blue Sapphire"]
+aliases: 
+- "Blue Sapphire"
+cost: 1,000 gp
 ---
 # Blue Sapphire
 *Treasure*  
 
 - **Cost**: 1,000 gp
-- **Weight**: ⏤
 
 A transparent blue-white to medium blue gemstone.
 

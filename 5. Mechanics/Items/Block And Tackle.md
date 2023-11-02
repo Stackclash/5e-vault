@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Block and Tackle"]
+aliases: 
+- "Block and Tackle"
+cost: 1 gp
 ---
 # Block and Tackle
 *Adventuring Gear*  

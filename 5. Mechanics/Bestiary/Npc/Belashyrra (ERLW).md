@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/22
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Belashyrra"]
 ---
-# Belashyrra
+# [Belashyrra](compendium\bestiary\npc/belashyrra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 286*  
 
 Belashyrra is the Lord of Eyes, also known to its cultists as the All-Seer or the Glorious Eye. Stories told of Belashyrra in the Shadow Marches whisper that the Lord of Eyes can see every evil deed a person commits, and that those touched by this daelkyr suffer terrible hallucinations that inevitably drive them to violence or death.
@@ -44,7 +47,7 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
 ^madness-of-belashyrra
 
 ```statblock
-"name": "Belashyrra"
+"name": "Belashyrra (ERLW)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Chaotic Evil"
@@ -60,14 +63,16 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
 - !!int "23"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+13"
-  "Wisdom": "+13"
-  "Intelligence": "+14"
+  "Charisma": !!int "13"
+  "Wisdom": !!int "13"
+  "Intelligence": !!int "14"
 "skillsaves":
-  "Perception": "+13"
-  "Arcana": "+14"
+  "Perception": !!int "13"
+  "Arcana": !!int "14"
 "damage_resistances": "poison, psychic"
-"condition_immunities": "blinded, charmed, exhaustion, frightened, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "22"

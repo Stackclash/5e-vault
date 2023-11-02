@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Bracers of Defense"]
+aliases: 
+- "Bracers of Defense"
 ---
 # Bracers of Defense
 *Wondrous Item, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/bracers-of-defense.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
 

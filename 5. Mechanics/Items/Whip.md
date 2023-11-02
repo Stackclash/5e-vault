@@ -7,7 +7,9 @@ tags:
 - item/property/martial
 - item/property/reach
 - item/weapon/martial/melee
-aliases: ["Whip"]
+aliases: 
+- "Whip"
+cost: 2 gp
 ---
 # Whip
 *Melee Weapon*  

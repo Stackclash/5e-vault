@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/26
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Demogorgon"]
 ---
-# Demogorgon
+# [Demogorgon](compendium\bestiary\npc/demogorgon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -29,7 +32,7 @@ Similarly, the spiraling Y sign of Demogorgon's cult drives those who contemplat
 Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abyss known as the Gaping Maw. Demogorgon's lair is a place of confusion and duality; the portion of the palace that lies above water takes the form of two serpentine towers, each crowned by a skull-shaped minaret. There, Demogorgon's heads contemplate the mysteries of the arcane while arguing about how best to obliterate their rivals. The bulk of this palace extends deep underwater, in chill and darkened caverns.
 
 ```statblock
-"name": "Demogorgon"
+"name": "Demogorgon (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -46,16 +49,17 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 - !!int "25"
 "speed": "50 ft., swim 50 ft."
 "saves":
-  "Charisma": "+15"
-  "Dexterity": "+10"
-  "Wisdom": "+11"
-  "Constitution": "+16"
+  "Charisma": !!int "15"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "16"
 "skillsaves":
-  "Insight": "+11"
-  "Perception": "+19"
+  "Insight": !!int "11"
+  "Perception": !!int "19"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 29"
 "languages": "all, telepathy 120 ft."
 "cr": "26"

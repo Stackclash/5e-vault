@@ -7,14 +7,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Dark Shard Amulet"]
+aliases: 
+- "Dark Shard Amulet"
 ---
 # Dark Shard Amulet
 *Wondrous Item, minor, common (requires attunement by a warlock)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This amulet is fashioned from a single shard of resilient extraplanar material originating from the realm of your warlock patron. While you are wearing it, you gain the following benefits:
 

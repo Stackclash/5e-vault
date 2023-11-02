@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/grassland
@@ -11,9 +13,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["Orc Eye of Gruumsh"]
 ---
-# Orc Eye of Gruumsh
+# [Orc Eye of Gruumsh](compendium\bestiary\humanoid/orc-eye-of-gruumsh.md)
 *Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -70,8 +73,8 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+3"
-  "Religion": "+1"
+  "Intimidation": !!int "3"
+  "Religion": !!int "1"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Orc"
 "cr": "2"
@@ -80,9 +83,9 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
     \ (spell save DC 11, dice: d20+3 (+3 to hit) with spell attacks). The orc has\
     \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Resistance.md|resistance]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
-    \n2nd level (2 2nd-level slots): [[5. Mechanics/Spells/Augury.md|augury]], [spiritual\
-    \ weapon](compendium/spells/spiritual-weapon.md) (spear)"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Command.md|command]]\n\
+    \n2nd level (2 slots): [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
+    \ (spear)"
   "name": "spells"
 - "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature\
     \ that it can see."

@@ -7,7 +7,9 @@ tags:
 - item/property/light
 - item/property/martial
 - item/weapon/martial/melee
-aliases: ["Shortsword"]
+aliases: 
+- "Shortsword"
+cost: 10 gp
 ---
 # Shortsword
 *Melee Weapon*  

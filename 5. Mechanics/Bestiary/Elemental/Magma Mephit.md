@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Magma Mephit"]
 ---
-# Magma Mephit
+# [Magma Mephit](compendium\bestiary\elemental/magma-mephit.md)
 *Source: Monster Manual p. 216. Available in the SRD.*  
 
 ## Mephits
@@ -41,10 +44,10 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": "+3"
+  "Stealth": !!int "3"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Ignan, Terran"
 "cr": "1/2"

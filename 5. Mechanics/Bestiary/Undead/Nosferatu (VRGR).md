@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/8
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Nosferatu"]
 ---
-# Nosferatu
+# [Nosferatu](compendium\bestiary\undead/nosferatu-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 239*  
 
 Vicious, undead hunters, nosferatu possess the endless thirst of vampires but none of their grace. For them, existence is nothing more than an everlasting string of cold, desperate nights punctuated by crimson splashes of momentary warmth and lucidity. These joys are fleeting, as their blood addiction can never be quelled.
@@ -16,7 +19,7 @@ Nosferatu feed on anything with blood. Heaps of mutilated rats and stables turne
 For a few moments after feeding, nosferatu are lucid and capable of considering more than their next meal. In these instants, nosferatu recollect glimpses of what they once were, beings who knew pride, intention, and a world beyond the shadows. They might even momentarily be convinced to converse with other creatures. However, those who talk with nosferatu typically find them selfish, duplicitous creatures whose memories are faded and whose basic respect for life is long dead.
 
 ```statblock
-"name": "Nosferatu"
+"name": "Nosferatu (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -32,14 +35,14 @@ For a few moments after feeding, nosferatu are lucid and capable of considering 
 - !!int "14"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Constitution": "+8"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Stealth": "+10"
-  "Perception": "+6"
+  "Stealth": !!int "10"
+  "Perception": !!int "6"
 "damage_resistances": "necrotic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "the languages it knew in life"
 "cr": "8"

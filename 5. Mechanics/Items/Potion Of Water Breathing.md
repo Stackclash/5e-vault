@@ -6,13 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Water Breathing"]
+aliases: 
+- "Potion of Water Breathing"
 ---
 # Potion of Water Breathing
 *Potion, minor, uncommon*  
+![[5. Mechanics/Items/img/Potion Of Water Breathing.webp#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 

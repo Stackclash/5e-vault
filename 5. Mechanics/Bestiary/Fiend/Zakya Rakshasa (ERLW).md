@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/5
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Zakya Rakshasa"]
 ---
-# Zakya Rakshasa
+# [Zakya Rakshasa](compendium\bestiary\fiend/zakya-rakshasa-erlw.md)
 *Source: Eberron: Rising from the Last War p. 309*  
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
@@ -16,7 +19,7 @@ Rakshasas are described in the "Monster Manual". A martial variant—the zakya r
 Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They are driven to free their fiendish rulers, seeking vengeance against the dragons and those who revere the couatls. Unlike other rakshasas with their luxurious robes and fineries, zakya rakshasas are almost always clad in battle gear: well-worn scale mail, a razor-sharp longsword, and a heavy shield bearing the emblem of their demonic master.
 
 ```statblock
-"name": "Zakya Rakshasa"
+"name": "Zakya Rakshasa (ERLW)"
 "size": "Medium"
 "type": "fiend"
 "alignment": "Lawful Evil"
@@ -32,8 +35,8 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+7"
-  "Perception": "+4"
+  "Athletics": !!int "7"
+  "Perception": !!int "4"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 14"

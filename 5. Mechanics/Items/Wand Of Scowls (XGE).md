@@ -6,12 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous/wand
-aliases: ["Wand of Scowls"]
+aliases: 
+- "Wand of Scowls"
 ---
 # Wand of Scowls
 *Wand, minor, common*  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to scowl for 1 minute.

@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Nature's Mantle"]
+aliases: 
+- "Nature's Mantle"
 ---
 # Nature's Mantle
 *Wondrous Item, uncommon (requires attunement by a druid or ranger)*  
+![[5. Mechanics/Items/img/natures-mantle.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a spellcasting focus for your druid and ranger spells.

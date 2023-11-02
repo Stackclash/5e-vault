@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration/beholder
+statblock: inline
 aliases: ["Death Kiss"]
 ---
-# Death Kiss
+# [Death Kiss](compendium\bestiary\aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85*  
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
@@ -19,7 +22,7 @@ A death kiss consumes ingested blood, which it also uses to heal and generate el
 A death kiss lacks the combat finesse and intelligence of a true beholder. In most cases, it simply latches on to its prey with one or more of its tentacles and drains blood until the prey collapses. If it's in a superior position and its foe poses no threat, it might toy with its food, drawing out its prey's death. A death kiss prefers to hunt alone. If it meets another of its kind, it might fight, flee, or team up, depending on its health and pride.
 
 ```statblock
-"name": "Death Kiss"
+"name": "Death Kiss (MPMM)"
 "size": "Large"
 "type": "aberration"
 "subtype": "beholder"
@@ -36,12 +39,12 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 - !!int "10"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  "Wisdom": "+5"
-  "Constitution": "+8"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_immunities": "lightning"
-"condition_immunities": "prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "10"

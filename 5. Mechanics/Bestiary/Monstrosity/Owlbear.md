@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Owlbear"]
 ---
-# Owlbear
+# [Owlbear](compendium\bestiary\monstrosity/owlbear.md)
 *Source: Monster Manual p. 249. Available in the SRD and the Basic Rules.*  
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
@@ -56,7 +59,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "3"

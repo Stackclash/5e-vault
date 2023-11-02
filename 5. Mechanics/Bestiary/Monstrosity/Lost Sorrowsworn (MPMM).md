@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/forest
@@ -11,9 +13,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Lost Sorrowsworn"]
 ---
-# Lost Sorrowsworn
+# [Lost Sorrowsworn](compendium\bestiary\monstrosity/lost-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224*  
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -25,7 +28,7 @@ Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a f
 The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnations of the plane's bleak nature. Sorrowsworn embody the forms of suffering inherent to the shadowy landscape and visit horror on those who stumble into their midst. Each sorrowsworn personifies a different aspect of despair or distress.
 
 ```statblock
-"name": "Lost Sorrowsworn"
+"name": "Lost Sorrowsworn (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -41,7 +44,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+6"
+  "Athletics": !!int "6"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common"

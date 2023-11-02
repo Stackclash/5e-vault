@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Yuan-ti Broodguard"]
 ---
-# Yuan-ti Broodguard
+# [Yuan-ti Broodguard](compendium\bestiary\monstrosity/yuan-ti-broodguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273*  
 
 > [!quote]- A quote from Mordekainen  
@@ -23,7 +26,7 @@ Although broodguards can no longer think as clearly as before their transformati
 Most broodguards are made from human captives forced to consume a magical brew that renders them helpless and unable to fight off the inevitable transformation. A human transformed into a broodguard loses all semblance of who they once were. A broodguard is hairless and emaciated, with scaly skin. They have a forked tongue, and they smell faintly of rotting meat. Broodguards can speak but rarely do so, preferring to communicate via snakelike hisses and guttural noises.
 
 ```statblock
-"name": "Yuan-ti Broodguard"
+"name": "Yuan-ti Broodguard (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -39,13 +42,14 @@ Most broodguards are made from human captives forced to consume a magical brew t
 - !!int "4"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+4"
-  "Wisdom": "+2"
-  "Strength": "+4"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "2"
+  "Strength": !!int "4"
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "2"

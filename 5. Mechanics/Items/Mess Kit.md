@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Mess Kit"]
+aliases: 
+- "Mess Kit"
+cost: 2 sp
 ---
 # Mess Kit
 *Adventuring Gear*  

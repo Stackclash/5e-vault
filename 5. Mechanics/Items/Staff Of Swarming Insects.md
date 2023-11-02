@@ -8,16 +8,17 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of Swarming Insects"]
+aliases: 
+- "Staff of Swarming Insects"
 ---
 # Staff of Swarming Insects
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-swarming-insects.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges and regains `dice: 1d6 + 4|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice: d20|avg` (`d20`). On a 1, a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] consumes and destroys the staff, then disperses.

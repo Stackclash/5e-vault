@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Knight"]
 ---
-# Knight
+# [Knight](compendium\bestiary\humanoid/knight.md)
 *Source: Monster Manual p. 347, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
@@ -30,8 +33,8 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+2"
-  "Constitution": "+4"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/desert
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Dybbuk"]
 ---
-# Dybbuk
+# [Dybbuk](compendium\bestiary\fiend/dybbuk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113*  
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -16,7 +19,7 @@ Dybbuks are demons that terrorize mortals on the Material Plane by possessing co
 In their natural form, dybbuks appear as translucent flying jellyfish, trailing long tentacles as they move through the air. They rarely travel in this fashion, however. Instead, a dybbuk possesses a suitable corpse as a vehicle, rousing the body from death. Dybbuks delight in terrorizing other creatures by making their host bodies behave in horrifying ways—throwing up gouts of blood, excreting piles of squirming maggots, and contorting their limbs in impossible ways as they scuttle across the ground.
 
 ```statblock
-"name": "Dybbuk"
+"name": "Dybbuk (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -33,14 +36,17 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 - !!int "14"
 "speed": "40 ft. (hover)"
 "skillsaves":
-  "Intimidation": "+4"
-  "Deception": "+6"
-  "Perception": "+4"
+  "Intimidation": !!int "4"
+  "Deception": !!int "6"
+  "Perception": !!int "4"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "4"

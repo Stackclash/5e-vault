@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/2
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Undying Soldier"]
 ---
-# Undying Soldier
+# [Undying Soldier](compendium\bestiary\undead/undying-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.
@@ -36,7 +39,7 @@ The greatest members of the Undying Court are the ascendant councilors. These be
 An undying doesn't require air, food, drink, or sleep.
 
 ```statblock
-"name": "Undying Soldier"
+"name": "Undying Soldier (ERLW)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Good"
@@ -52,15 +55,16 @@ An undying doesn't require air, food, drink, or sleep.
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Religion": "+4"
-  "Perception": "+3"
-  "History": "+4"
+  "Athletics": !!int "5"
+  "Religion": !!int "4"
+  "Perception": !!int "3"
+  "History": !!int "4"
 "damage_vulnerabilities": "necrotic"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "2"

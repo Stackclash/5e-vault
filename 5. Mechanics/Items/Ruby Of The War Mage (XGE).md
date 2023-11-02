@@ -7,14 +7,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Ruby of the War Mage"]
+aliases: 
+- "Ruby of the War Mage"
 ---
 # Ruby of the War Mage
 *Wondrous Item, minor, common (requires attunement by a spellcaster)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Etched with eldritch runes, this 1-inch-diameter ruby allows you to use a simple or martial weapon as a spellcasting focus for your spells. For this property to work, you must attach the ruby to the weapon by pressing the ruby against it for at least 10 minutes. Thereafter, the ruby can't be removed unless you detach it as an action or the weapon is destroyed. Not even an [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] causes it to fall off. The ruby does fall off the weapon if your attunement to the ruby ends.
 

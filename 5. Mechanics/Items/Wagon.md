@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/vehicle
-aliases: ["Wagon"]
+aliases: 
+- "Wagon"
+cost: 35 gp
 ---
 # Wagon
 *Vehicle (land)*  

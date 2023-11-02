@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Bone Naga (Guardian)"]
 ---
-# Bone Naga (Guardian)
+# [Bone Naga (Guardian)](compendium\bestiary\undead/bone-naga-guardian.md)
 *Source: Monster Manual p. 233*  
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -49,7 +52,8 @@ A naga doesn't require air, food, drink, or sleep.
 - !!int "16"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -58,11 +62,11 @@ A naga doesn't require air, food, drink, or sleep.
     \ to hit) with spell attacks) that needs only verbal components to cast its spells.\
     \ Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:\n\
     \nCantrips (at will): [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]]"
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (2 slots):\
+    \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+5 (+5 to hit), reach 10 ft., one creature.\

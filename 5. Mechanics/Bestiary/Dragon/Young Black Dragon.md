@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/swamp
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Black Dragon"]
 ---
-# Young Black Dragon
+# [Young Black Dragon](compendium\bestiary\dragon/young-black-dragon.md)
 *Source: Monster Manual p. 88. Available in the SRD.*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -103,13 +106,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "15"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": "+5"
-  "Dexterity": "+5"
-  "Wisdom": "+3"
-  "Constitution": "+6"
+  "Charisma": !!int "5"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "3"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+6"
+  "Stealth": !!int "5"
+  "Perception": !!int "6"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"

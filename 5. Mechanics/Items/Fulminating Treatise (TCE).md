@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Fulminating Treatise"]
+aliases: 
+- "Fulminating Treatise"
 ---
 # Fulminating Treatise
 *Wondrous Item, rare (requires attunement by a wizard)*  
+![[5. Mechanics/Items/img/fulminating-treatise.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 This thick, scorched spellbook reeks of smoke and ozone, and sparks of energy crackles along the edges of its pages. When found, the book contains the following spells: [[5. Mechanics/Spells/Contingency.md\|contingency]], [[5. Mechanics/Spells/Fireball.md\|fireball]], [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[5. Mechanics/Spells/Leomunds Tiny Hut.md\|Leomund's tiny hut]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]], and [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]]. It functions as a spellbook for you.

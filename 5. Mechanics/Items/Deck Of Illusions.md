@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Deck of Illusions"]
+aliases: 
+- "Deck of Illusions"
 ---
 # Deck of Illusions
 *Wondrous Item, major, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice: 1d20 - 1|avg` (`1d20 - 1`) cards.
 

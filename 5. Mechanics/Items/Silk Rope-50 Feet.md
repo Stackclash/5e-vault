@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Silk Rope (50 feet)"]
+aliases: 
+- "Silk Rope (50 feet)"
+cost: 10 gp
 ---
 # Silk Rope (50 feet)
 *Adventuring Gear*  

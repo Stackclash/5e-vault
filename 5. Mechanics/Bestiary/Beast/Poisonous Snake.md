@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -10,9 +12,10 @@ tags:
 - monster/environment/swamp
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Poisonous Snake"]
 ---
-# Poisonous Snake
+# [Poisonous Snake](compendium\bestiary\beast/poisonous-snake.md)
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
 
 ```statblock

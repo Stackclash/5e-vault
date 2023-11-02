@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/desert
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey/elf
+statblock: inline
 aliases: ["Summer Eladrin"]
 ---
-# Summer Eladrin
+# [Summer Eladrin](compendium\bestiary\fey/summer-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
@@ -32,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
-"name": "Summer Eladrin"
+"name": "Summer Eladrin (MPMM)"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
@@ -49,8 +52,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - !!int "18"
 "speed": "50 ft."
 "skillsaves":
-  "Intimidation": "+8"
-  "Athletics": "+8"
+  "Intimidation": !!int "8"
+  "Athletics": !!int "8"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish, Sylvan"

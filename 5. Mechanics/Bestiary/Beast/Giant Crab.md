@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/coastal
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Crab"]
 ---
-# Giant Crab
+# [Giant Crab](compendium\bestiary\beast/giant-crab.md)
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -27,7 +30,7 @@ aliases: ["Giant Crab"]
 - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "senses": "blindsight 30 ft., passive Perception 9"
 "languages": ""
 "cr": "1/8"

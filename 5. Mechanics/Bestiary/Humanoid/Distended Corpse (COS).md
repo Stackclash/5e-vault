@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Distended Corpse"]
 ---
-# Distended Corpse
+# [Distended Corpse](compendium\bestiary\humanoid/distended-corpse-cos.md)
 *Source: Curse of Strahd p. 165, Derived from *  
 
 ```statblock
-"name": "Distended Corpse"
+"name": "Distended Corpse (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -26,7 +29,7 @@ aliases: ["Distended Corpse"]
 - !!int "10"
 - !!int "10"
 "speed": "20 ft."
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

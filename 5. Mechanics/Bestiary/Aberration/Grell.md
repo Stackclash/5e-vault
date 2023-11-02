@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Grell"]
 ---
-# Grell
+# [Grell](compendium\bestiary\aberration/grell.md)
 *Source: Monster Manual p. 172*  
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
@@ -48,10 +51,10 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+4"
+  "Stealth": !!int "6"
+  "Perception": !!int "4"
 "damage_immunities": "lightning"
-"condition_immunities": "blinded, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "Grell"
 "cr": "3"

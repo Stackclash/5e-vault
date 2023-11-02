@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/mountain
 - monster/environment/swamp
 - monster/size/small
 - monster/type/aberration
+statblock: inline
 aliases: ["Star Spawn Grue"]
 ---
-# Star Spawn Grue
+# [Star Spawn Grue](compendium\bestiary\aberration/star-spawn-grue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
@@ -38,7 +41,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tyranthraxus, the Flamed One  
 
 ```statblock
-"name": "Star Spawn Grue"
+"name": "Star Spawn Grue (MPMM)"
 "size": "Small"
 "type": "aberration"
 "alignment": "Typically  Neutral Evil"

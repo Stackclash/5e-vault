@@ -8,7 +8,9 @@ tags:
 - item/property/martial
 - item/property/two-handed
 - item/weapon/martial/ranged
-aliases: ["Longbow"]
+aliases: 
+- "Longbow"
+cost: 50 gp
 ---
 # Longbow
 *Ranged Weapon*  

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Sea Spawn"]
 ---
-# Sea Spawn
+# [Sea Spawn](compendium\bestiary\monstrosity/sea-spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211*  
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
@@ -26,7 +29,7 @@ Visitors to a string of islands called the Purple Rocks (in the Forgotten Realms
 Kraken priests (in this book) tend to the kraken's flock. Most of the priests are island natives, but some are other sorts of creatures that live in the water around the Purple Rocks, such as [[5. Mechanics/Bestiary/Humanoid/Merfolk.md|merfolk]] or [[5. Mechanics/Bestiary/Monstrosity/Merrow.md|merrow]], or even sea elves.
 
 ```statblock
-"name": "Sea Spawn"
+"name": "Sea Spawn (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"

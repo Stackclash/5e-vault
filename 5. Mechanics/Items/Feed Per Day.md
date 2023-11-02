@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tack-and-harness
-aliases: ["Feed (per day)"]
+aliases: 
+- "Feed (per day)"
+cost: 5 cp
 ---
 # Feed (per day)
 *Tack and Harness*  

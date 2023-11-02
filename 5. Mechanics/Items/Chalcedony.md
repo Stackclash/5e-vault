@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Chalcedony"]
+aliases: 
+- "Chalcedony"
+cost: 50 gp
 ---
 # Chalcedony
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 An opaque white gemstone.
 

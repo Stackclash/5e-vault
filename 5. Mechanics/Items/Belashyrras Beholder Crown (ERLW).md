@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/legendary
 - item/wondrous
-aliases: ["Belashyrra's Beholder Crown"]
+aliases: 
+- "Belashyrra's Beholder Crown"
 ---
 # Belashyrra's Beholder Crown
 *Wondrous Item, legendary (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This symbiotic crown is carved from dark purple and mauve stone, with ten points like stalks set with gemstones resembling the eyestalks of a [[5. Mechanics/Bestiary/Aberration/Beholder.md\|beholder]]. To attune to this item, you must wear it on your head for the entire attunement period, during which the crown's hidden tendrils burrow into your scalp to bond with your skull.
 

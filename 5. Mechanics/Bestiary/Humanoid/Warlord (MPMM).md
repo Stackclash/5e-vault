@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Warlord"]
 ---
-# Warlord
+# [Warlord](compendium\bestiary\humanoid/warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257*  
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
@@ -29,7 +32,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 ^warlord-battle-cries
 
 ```statblock
-"name": "Warlord"
+"name": "Warlord (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -45,14 +48,14 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Strength": "+9"
-  "Constitution": "+8"
+  "Dexterity": !!int "7"
+  "Strength": !!int "9"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Intimidation": "+8"
-  "Athletics": "+9"
-  "Perception": "+5"
-  "Persuasion": "+8"
+  "Intimidation": !!int "8"
+  "Athletics": !!int "9"
+  "Perception": !!int "5"
+  "Persuasion": !!int "8"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "12"

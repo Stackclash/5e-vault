@@ -6,12 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Decanter of Endless Water"]
+aliases: 
+- "Decanter of Endless Water"
 ---
 # Decanter of Endless Water
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/decanter-of-endless-water.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.

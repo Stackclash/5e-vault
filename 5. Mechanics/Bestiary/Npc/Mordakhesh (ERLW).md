@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/15
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Mordakhesh"]
 ---
-# Mordakhesh
+# [Mordakhesh](compendium\bestiary\npc/mordakhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 301*  
 
 In the age when fiends and dragons waged war across Eberron, rakshasas served the fiendish lords as strategists and generals. A rakshasa named Mordakhesh rose up through the ranks to become one of the greatest commanders of his age, and a dragon-slaying specialist. For this, he earned the nickname Shadowsword, along with a legendary reputation for leaving death in his wake.
@@ -16,7 +19,7 @@ Mordakhesh serves as the prakhutu or "speaker" of his imprisoned master, Rak Tul
 Many of the horrors of the Last War were instigated—or at least encouraged—by Mordakhesh's operatives, and his claws are known to have perpetrated some of the most brutal massacres of that conflict. No one knows how far the Shadowsword's reach extends, or which commanders in the armies of Khorvaire serve him.
 
 ```statblock
-"name": "Mordakhesh"
+"name": "Mordakhesh (ERLW)"
 "size": "Medium"
 "type": "fiend"
 "alignment": "Lawful Evil"
@@ -32,15 +35,15 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 - !!int "20"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+10"
-  "Wisdom": "+8"
-  "Strength": "+10"
-  "Constitution": "+9"
+  "Charisma": !!int "10"
+  "Wisdom": !!int "8"
+  "Strength": !!int "10"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Athletics": "+10"
-  "Insight": "+8"
-  "Perception": "+8"
-  "Persuasion": "+10"
+  "Athletics": !!int "10"
+  "Insight": !!int "8"
+  "Perception": !!int "8"
+  "Persuasion": !!int "10"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"

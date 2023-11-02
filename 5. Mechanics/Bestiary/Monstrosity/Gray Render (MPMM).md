@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/forest
 - monster/environment/hill
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Gray Render"]
 ---
-# Gray Render
+# [Gray Render](compendium\bestiary\monstrosity/gray-render-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146*  
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -38,7 +41,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 ^gray-render-quirks
 
 ```statblock
-"name": "Gray Render"
+"name": "Gray Render (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Neutral"
@@ -54,10 +57,10 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 - !!int "8"
 "speed": "30 ft."
 "saves":
-  "Strength": "+8"
-  "Constitution": "+9"
+  "Strength": !!int "8"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "12"

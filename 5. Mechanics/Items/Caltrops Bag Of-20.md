@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Caltrops (bag of 20)"]
+aliases: 
+- "Caltrops (bag of 20)"
+cost: 1 gp
 ---
 # Caltrops (bag of 20)
 *Adventuring Gear*  

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Weretiger"]
 ---
-# Weretiger
+# [Weretiger](compendium\bestiary\humanoid/weretiger.md)
 *Source: Monster Manual p. 210. Available in the SRD.*  
 
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.
@@ -70,8 +73,8 @@ Some individuals see little point in fighting the curse and accept what they are
 - !!int "11"
 "speed": "30 ft. (40 ft. in tiger form)"
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+5"
+  "Stealth": !!int "4"
+  "Perception": !!int "5"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "darkvision 60 ft., passive Perception 15"

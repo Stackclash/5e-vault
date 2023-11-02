@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/common
 - item/wondrous
-aliases: ["Wand Sheath"]
+aliases: 
+- "Wand Sheath"
 ---
 # Wand Sheath
 *Wondrous Item, common (requires attunement by a warforged)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 A wand sheath clamps onto your arm and imparts the following benefits:
 

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/hill
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Raven"]
 ---
-# Raven
+# [Raven](compendium\bestiary\beast/raven.md)
 *Source: Monster Manual p. 335, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -29,7 +32,7 @@ aliases: ["Raven"]
 - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"

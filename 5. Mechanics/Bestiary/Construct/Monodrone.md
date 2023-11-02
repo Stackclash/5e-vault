@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Monodrone"]
 ---
-# Monodrone
+# [Monodrone](compendium\bestiary\construct/monodrone.md)
 *Source: Monster Manual p. 224*  
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.

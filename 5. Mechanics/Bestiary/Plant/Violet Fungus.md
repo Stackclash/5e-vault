@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
+statblock: inline
 aliases: ["Violet Fungus"]
 ---
-# Violet Fungus
+# [Violet Fungus](compendium\bestiary\plant/violet-fungus.md)
 *Source: Monster Manual p. 138. Available in the SRD.*  
 
 This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice: 2d6|avg` (`2d6`) days.
@@ -36,7 +39,8 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - !!int "3"
 - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "blinded, deafened, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1/4"

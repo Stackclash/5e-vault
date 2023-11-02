@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Tiger Eye"]
+aliases: 
+- "Tiger Eye"
+cost: 10 gp
 ---
 # Tiger Eye
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 A translucent brown with golden center gemstone.
 

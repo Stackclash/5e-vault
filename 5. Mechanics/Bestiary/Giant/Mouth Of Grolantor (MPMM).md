@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/6
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/huge
 - monster/type/giant/hill-giant
+statblock: inline
 aliases: ["Mouth of Grolantor"]
 ---
-# Mouth of Grolantor
+# [Mouth of Grolantor](compendium\bestiary\giant/mouth-of-grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187*  
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
@@ -18,7 +21,7 @@ The sickened giant's compatriots separate the giant from the rest of the communi
 A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunger. Unlike a typical sluggish hill giant, a mouth of Grolantor is thin as a whippet, alert like a bird, and constantly twitchy. Mouths are kept perpetually imprisoned or shackled; if they break free, they're sure to kill anyone nearby before they're brought down or escape on a killing spree. The only time mouths of Grolantor are set loose is during a war, during a raid against an enemy settlement, or in a last-ditch defense of Grolantor's faithful. When a mouth of Grolantor has slaughtered and eaten their fill of enemies, they pass out amid the gory remains of their victims, making them easy to recapture.
 
 ```statblock
-"name": "Mouth of Grolantor"
+"name": "Mouth of Grolantor (MPMM)"
 "size": "Huge"
 "type": "giant"
 "subtype": "hill giant"
@@ -35,8 +38,8 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": "+1"
-"condition_immunities": "frightened"
+  "Perception": !!int "1"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "passive Perception 11"
 "languages": "Giant"
 "cr": "6"

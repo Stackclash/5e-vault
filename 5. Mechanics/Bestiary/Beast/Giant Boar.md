@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Boar"]
 ---
-# Giant Boar
+# [Giant Boar](compendium\bestiary\beast/giant-boar.md)
 *Source: Monster Manual p. 323. Available in the SRD and the Basic Rules.*  
 
 ```statblock

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Gnoll Hunter"]
 ---
-# Gnoll Hunter
+# [Gnoll Hunter](compendium\bestiary\monstrosity/gnoll-hunter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144*  
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
@@ -22,7 +25,7 @@ Hunters are particularly skilled with the longbow, and they fire arrows with vic
 The first gnolls were hyenas transformed by magic. Many of them were then corrupted by the demon lord Yeenoghu. Whether in service to Yeenoghu or dedicated to the survival of their kin, gnoll war bands seek to soften up foes with surprise attacks and to leave no survivors alive.
 
 ```statblock
-"name": "Gnoll Hunter"
+"name": "Gnoll Hunter (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
@@ -38,8 +41,8 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Gnoll"
 "cr": "1/2"

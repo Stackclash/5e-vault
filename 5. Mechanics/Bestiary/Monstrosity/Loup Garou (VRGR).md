@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/13
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
+statblock: inline
 aliases: ["Loup Garou"]
 ---
-# Loup Garou
+# [Loup Garou](compendium\bestiary\monstrosity/loup-garou-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 237*  
 
 Loup garou possess a strain of lycanthropy more virulent than that carried by common werewolves. Aside from being deadlier than their werewolf cousins, loup garou aggressively spread the plague of lycanthropy. Only through the death of a loup garou might those afflicted by it escape their curse.
@@ -18,7 +21,7 @@ A Humanoid who succumbs to a loup garou's lycanthropy becomes a werewolf. This f
 Once a loup garou is slain, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
 
 ```statblock
-"name": "Loup Garou"
+"name": "Loup Garou (VRGR)"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "shapechanger"
@@ -35,13 +38,13 @@ Once a loup garou is slain, a [[5. Mechanics/Spells/Remove Curse.md|remove curse
 - !!int "16"
 "speed": "30 ft. (40 ft. in hybrid form, 50 ft. in dire wolf form)"
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+9"
-  "Constitution": "+9"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "9"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Stealth": "+9"
-  "Perception": "+13"
-"condition_immunities": "charmed, frightened"
+  "Stealth": !!int "9"
+  "Perception": !!int "13"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 23"
 "languages": "Common (can't speak in wolf form)"
 "cr": "13"

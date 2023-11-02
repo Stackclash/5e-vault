@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/16
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Marilith"]
 ---
-# Marilith
+# [Marilith](compendium\bestiary\fiend/marilith.md)
 *Source: Monster Manual p. 61, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
@@ -202,14 +205,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "20"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+10"
-  "Wisdom": "+8"
-  "Strength": "+9"
-  "Constitution": "+10"
+  "Charisma": !!int "10"
+  "Wisdom": !!int "8"
+  "Strength": !!int "9"
+  "Constitution": !!int "10"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "16"

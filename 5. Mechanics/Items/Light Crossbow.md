@@ -7,7 +7,9 @@ tags:
 - item/property/loading
 - item/property/two-handed
 - item/weapon/simple/ranged
-aliases: ["Light Crossbow"]
+aliases: 
+- "Light Crossbow"
+cost: 25 gp
 ---
 # Light Crossbow
 *Ranged Weapon*  

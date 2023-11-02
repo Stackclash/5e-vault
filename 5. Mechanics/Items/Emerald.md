@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Emerald"]
+aliases: 
+- "Emerald"
+cost: 1,000 gp
 ---
 # Emerald
 *Treasure*  
 
 - **Cost**: 1,000 gp
-- **Weight**: ⏤
 
 A transparent deep bright green gemstone.
 

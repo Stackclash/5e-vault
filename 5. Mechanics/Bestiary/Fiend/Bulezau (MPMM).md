@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Bulezau"]
 ---
-# Bulezau
+# [Bulezau](compendium\bestiary\fiend/bulezau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67*  
 
 > [!quote]- A quote from Tasha  
@@ -22,7 +25,7 @@ Bulezaus crave violence. Their eagerness to kill and willingness to die make the
 Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open sores, and a reek of rotten meat that follows them wherever they go.
 
 ```statblock
-"name": "Bulezau"
+"name": "Bulezau (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -40,7 +43,8 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "speed": "40 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "3"

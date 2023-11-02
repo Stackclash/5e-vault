@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/grimlock
+statblock: inline
 aliases: ["Grimlock"]
 ---
-# Grimlock
+# [Grimlock](compendium\bestiary\humanoid/grimlock.md)
 *Source: Monster Manual p. 175. Available in the SRD.*  
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -48,10 +51,10 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Stealth": "+3"
-  "Perception": "+3"
-"condition_immunities": "blinded"
+  "Athletics": !!int "5"
+  "Stealth": !!int "3"
+  "Perception": !!int "3"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
 "senses": "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius),\
   \ passive Perception 13"
 "languages": "Undercommon"

@@ -6,13 +6,12 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Quaal's Feather Token, Tree"]
+aliases: 
+- "Quaal's Feather Token, Tree"
 ---
 # Quaal's Feather Token, Tree
 *Wondrous Item, minor, rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect.
 

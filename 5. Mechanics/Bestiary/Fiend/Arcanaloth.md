@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/12
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Arcanaloth"]
 ---
-# Arcanaloth
+# [Arcanaloth](compendium\bestiary\fiend/arcanaloth.md)
 *Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*  
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
@@ -82,19 +85,19 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "17"
 "speed": "30 ft., fly 30 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+5"
-  "Wisdom": "+7"
-  "Intelligence": "+9"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "7"
+  "Intelligence": !!int "9"
 "skillsaves":
-  "Deception": "+11"
-  "Insight": "+11"
-  "Perception": "+7"
-  "Arcana": "+13"
+  "Deception": !!int "11"
+  "Insight": !!int "11"
+  "Perception": !!int "7"
+  "Arcana": !!int "13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "charmed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
@@ -110,20 +113,19 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     \ The arcanaloth has the following wizard spells prepared:\n\nCantrips (at will):\
     \ [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]],\
     \ [[5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\n2nd\
-    \ level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
-    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 3rd-level slots):\
-    \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Fear.md|fear]],\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
-    \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
-    \n5th level (2 5th-level slots): [[5. Mechanics/Spells/Contact Other Plane.md|contact other plane]],\
-    \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n6th level (1 6th-level\
-    \ slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\n7th level\
-    \ (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
-    \n8th level (1 8th-level slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]"
+    \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \ [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Fireball.md|fireball]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [dimension\
+    \ door](compendium/spells/dimension-door.md)\n\n5th level (2 slots): [contact\
+    \ other plane](compendium/spells/contact-other-plane.md), [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\
+    \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
+    \n8th level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]"
   "name": "spells"
 - "desc": "The arcanaloth has advantage on saving throws against spells and other\
     \ magical effects."

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Ettin"]
 ---
-# Ettin
+# [Ettin](compendium\bestiary\giant/ettin.md)
 *Source: Monster Manual p. 132. Available in the SRD.*  
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
@@ -55,7 +58,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant, Orc"
 "cr": "4"

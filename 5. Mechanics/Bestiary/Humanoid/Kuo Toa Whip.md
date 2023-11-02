@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
+statblock: inline
 aliases: ["Kuo-toa Whip"]
 ---
-# Kuo-toa Whip
+# [Kuo-toa Whip](compendium\bestiary\humanoid/kuo-toa-whip.md)
 *Source: Monster Manual p. 200*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -70,8 +73,8 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": "+5"
-  "Perception": "+6"
+  "Religion": !!int "5"
+  "Perception": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Undercommon"
 "cr": "1"
@@ -80,8 +83,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The kuo-toa\
     \ has the following cleric spells prepared:\n\nCantrips (at will): [sacred\
     \ flame](compendium/spells/sacred-flame.md), [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (3 1st-level slots): [[5. Mechanics/Spells/Bane.md|bane]], [shield\
-    \ of faith](compendium/spells/shield-of-faith.md)"
+    \n1st level (3 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
   "name": "spells"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"

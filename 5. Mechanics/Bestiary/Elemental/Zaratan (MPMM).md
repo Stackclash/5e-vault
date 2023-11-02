@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/22
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
@@ -10,15 +12,16 @@ tags:
 - monster/environment/underdark
 - monster/size/gargantuan
 - monster/type/elemental
+statblock: inline
 aliases: ["Zaratan"]
 ---
-# Zaratan
+# [Zaratan](compendium\bestiary\elemental/zaratan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278*  
 
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
 
 ```statblock
-"name": "Zaratan"
+"name": "Zaratan (MPMM)"
 "size": "Gargantuan"
 "type": "elemental"
 "alignment": "Typically  Neutral"
@@ -34,12 +37,14 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 - !!int "18"
 "speed": "40 ft., swim 40 ft."
 "saves":
-  "Charisma": "+11"
-  "Wisdom": "+12"
+  "Charisma": !!int "11"
+  "Wisdom": !!int "12"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
 "languages": ""
 "cr": "22"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Hezrou"]
 ---
-# Hezrou
+# [Hezrou](compendium\bestiary\fiend/hezrou.md)
 *Source: Monster Manual p. 60. Available in the SRD.*  
 
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.
@@ -196,13 +199,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+4"
-  "Strength": "+7"
-  "Constitution": "+8"
+  "Wisdom": !!int "4"
+  "Strength": !!int "7"
+  "Constitution": !!int "8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "8"

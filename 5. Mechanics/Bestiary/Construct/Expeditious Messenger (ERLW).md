@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1-8
 - monster/size/tiny
 - monster/type/construct
+statblock: inline
 aliases: ["Expeditious Messenger"]
 ---
-# Expeditious Messenger
+# [Expeditious Messenger](compendium\bestiary\construct/expeditious-messenger-erlw.md)
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An expeditious messenger is a speedy flier, designed to quickly carry messages for its creator. Their speedy and efficient attitude makes expeditious messengers quite chatty, and they natter on as fast as they move.
@@ -22,7 +25,7 @@ A homunculus is a construct servant created for certain tasks. Artificers and wi
 Each kind of homunculus has a body constructed from different kinds of materials, including clay, iron, and bits of hair and feathers. The process that creates a homunculus sees those materials mixed with the creator's blood and animated through an extended magical ritual.
 
 ```statblock
-"name": "Expeditious Messenger"
+"name": "Expeditious Messenger (ERLW)"
 "size": "Tiny"
 "type": "construct"
 "alignment": "Neutral"
@@ -38,10 +41,11 @@ Each kind of homunculus has a body constructed from different kinds of materials
 - !!int "7"
 "speed": "25 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Acrobatics": "+5"
+  "Stealth": !!int "5"
+  "Acrobatics": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "one language spoken by its creator"
 "cr": "1/8"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/coastal
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Crab"]
 ---
-# Crab
+# [Crab](compendium\bestiary\beast/crab.md)
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -27,7 +30,7 @@ aliases: ["Crab"]
 - !!int "2"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": "+2"
+  "Stealth": !!int "2"
 "senses": "blindsight 30 ft., passive Perception 9"
 "languages": ""
 "cr": "0"

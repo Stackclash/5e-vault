@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/swamp
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Catoblepas"]
 ---
-# Catoblepas
+# [Catoblepas](compendium\bestiary\monstrosity/catoblepas-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70*  
 
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
@@ -25,7 +28,7 @@ Ordinary folk rarely see a catoblepas, but the creature has such a feared reputa
 Sages say that gods of pestilence and rot created catoblepases as embodiments of their influence, while other stories link them to misfortune. Some such tales claim that swamp-dwelling hags tend catoblepases like cattle, drinking the monsters' milk and using them as guardians or pets. Other legends say that those of impure heart can tame a catoblepas and whisper of malevolent warlocks and wicked knights who ride them into battle.
 
 ```statblock
-"name": "Catoblepas"
+"name": "Catoblepas (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -41,7 +44,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "5"

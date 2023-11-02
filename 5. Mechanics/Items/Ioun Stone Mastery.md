@@ -7,14 +7,12 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous
-aliases: ["Ioun Stone, Mastery"]
+aliases: 
+- "Ioun Stone, Mastery"
 ---
 # Ioun Stone, Mastery
 *Wondrous Item, major, legendary (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 

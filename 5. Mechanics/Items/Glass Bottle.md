@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Glass Bottle"]
+aliases: 
+- "Glass Bottle"
+cost: 2 gp
 ---
 # Glass Bottle
 *Adventuring Gear*  

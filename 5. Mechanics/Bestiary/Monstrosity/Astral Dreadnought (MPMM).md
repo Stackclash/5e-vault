@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/21
 - monster/size/gargantuan
 - monster/type/monstrosity/titan
+statblock: inline
 aliases: ["Astral Dreadnought"]
 ---
-# Astral Dreadnought
+# [Astral Dreadnought](compendium\bestiary\monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51*  
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
@@ -14,7 +17,7 @@ Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astra
 Covered from head to tail in layers of thick, spiked plates, a dreadnought has two gnarled limbs that end in magic-enhanced pincer claws. Constellations appear to swirl in the depths of its single eye, and its serpentine tail trails off into the silvery void. Anything it swallows is deposited in a unique demiplane—an enclosed space that contains eons worth of detritus, as well as the remains of travelers. The place has gravity and breathable air, and organic matter decays there. When the dreadnought dies, its demiplane vanishes, and its contents are released into the Astral Plane.
 
 ```statblock
-"name": "Astral Dreadnought"
+"name": "Astral Dreadnought (MPMM)"
 "size": "Gargantuan"
 "type": "monstrosity"
 "subtype": "titan"
@@ -31,13 +34,15 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 - !!int "18"
 "speed": "15 ft., fly 80 ft. (hover)"
 "saves":
-  "Dexterity": "+5"
-  "Wisdom": "+9"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "9"
 "skillsaves":
-  "Perception": "+9"
+  "Perception": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
-  \ prone, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": ""
 "cr": "21"

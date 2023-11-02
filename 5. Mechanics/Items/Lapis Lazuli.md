@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Lapis Lazuli"]
+aliases: 
+- "Lapis Lazuli"
+cost: 10 gp
 ---
 # Lapis Lazuli
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque light and dark blue with yellow flecks gemstone.
 

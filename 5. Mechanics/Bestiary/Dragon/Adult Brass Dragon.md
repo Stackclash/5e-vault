@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/13
 - monster/environment/desert
 - monster/size/huge
 - monster/type/dragon
+statblock: inline
 aliases: ["Adult Brass Dragon"]
 ---
-# Adult Brass Dragon
+# [Adult Brass Dragon](compendium\bestiary\dragon/adult-brass-dragon.md)
 *Source: Monster Manual p. 105. Available in the SRD.*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -93,15 +96,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "17"
 "speed": "40 ft., burrow 40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+5"
-  "Wisdom": "+6"
-  "Constitution": "+10"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+11"
-  "History": "+7"
-  "Persuasion": "+8"
+  "Stealth": !!int "5"
+  "Perception": !!int "11"
+  "History": !!int "7"
+  "Persuasion": !!int "8"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
 "languages": "Common, Draconic"

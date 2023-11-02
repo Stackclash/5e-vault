@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/dmg
+- monster/cr/
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Fly (DMG)"]
 ---
-# Giant Fly (DMG)
+# [Giant Fly (DMG)](compendium\bestiary\beast/giant-fly-dmg.md)
 *Source: Dungeon Master's Guide p. 169*  
 
 ```statblock
-"name": "Giant Fly (DMG)"
+"name": "Giant Fly (DMG) (DMG)"
 "size": "Large"
 "type": "beast"
 "alignment": "Unaligned"

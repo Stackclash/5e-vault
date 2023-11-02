@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/size/tiny
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Imp"]
 ---
-# Imp
+# [Imp](compendium\bestiary\fiend/imp.md)
 *Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
@@ -158,14 +161,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+5"
-  "Insight": "+3"
-  "Persuasion": "+4"
+  "Deception": !!int "4"
+  "Stealth": !!int "5"
+  "Insight": !!int "3"
+  "Persuasion": !!int "4"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"

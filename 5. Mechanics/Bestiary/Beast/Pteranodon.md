@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/coastal
 - monster/environment/grassland
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Pteranodon"]
 ---
-# Pteranodon
+# [Pteranodon](compendium\bestiary\beast/pteranodon.md)
 *Source: Monster Manual p. 80, Eberron: Rising from the Last War. Available in the Basic Rules.*  
 
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.
@@ -37,7 +40,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - !!int "5"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+1"
+  "Perception": !!int "1"
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "1/4"

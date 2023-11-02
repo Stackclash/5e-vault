@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/1
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Boneless"]
 ---
-# Boneless
+# [Boneless](compendium\bestiary\undead/boneless-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 228*  
 
 Not all animate corpses shamble from their graves. Boneless are undead remains devoid of skeletons. Most rise from the bodies of those who've suffered brutal ends, such as deliberate skinning or crushing. Deathless malice infuses what remains, their husks flopping and slithering in pursuit of vengeance or at the whims of sinister masters. Slipping through cracks and under doors, these stealthy undead seek to adorn living frames once more, wrapping themselves around their victims and wringing them to death in their full-body grip.
@@ -16,7 +19,7 @@ Boneless arise in a variety of forms. While the animate skins of specific creatu
 Whether through accident or depraved genius, some villains use one corpse to create two separate undead. Boneless might adorn the frames of other undead, like skeletons or zombies. The sight of a boneless peeling itself from its independently undead frame haunts the nightmares of many seasoned monster hunters.
 
 ```statblock
-"name": "Boneless"
+"name": "Boneless (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -32,9 +35,10 @@ Whether through accident or depraved genius, some villains use one corpse to cre
 - !!int "1"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "damage_resistances": "bludgeoning, poison"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"

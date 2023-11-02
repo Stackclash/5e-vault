@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/forest
 - monster/environment/mountain
 - monster/environment/swamp
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/humanoid/druid
+statblock: inline
 aliases: ["Archdruid"]
 ---
-# Archdruid
+# [Archdruid](compendium\bestiary\humanoid/archdruid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48*  
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]], and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
@@ -32,7 +35,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 ^archdruid-favored-shapes
 
 ```statblock
-"name": "Archdruid"
+"name": "Archdruid (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "druid"
@@ -49,12 +52,12 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+9"
-  "Intelligence": "+5"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Medicine": "+9"
-  "Nature": "+5"
-  "Perception": "+9"
+  "Medicine": !!int "9"
+  "Nature": !!int "5"
+  "Perception": !!int "9"
 "senses": "passive Perception 19"
 "languages": "Druidic plus any two languages"
 "cr": "12"

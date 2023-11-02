@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/10
 - monster/size/medium
 - monster/type/celestial
+statblock: inline
 aliases: ["The Abbot"]
 ---
-# The Abbot
+# [The Abbot](compendium\bestiary\npc/the-abbot-cos.md)
 *Source: Curse of Strahd p. 151, Derived from *  
 
 ```statblock
-"name": "The Abbot"
+"name": "The Abbot (CoS)"
 "size": "Medium"
 "type": "celestial"
 "alignment": "Lawful Evil"
@@ -26,13 +29,14 @@ aliases: ["The Abbot"]
 - !!int "20"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+9"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
 "skillsaves":
-  "Insight": "+9"
-  "Perception": "+9"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"

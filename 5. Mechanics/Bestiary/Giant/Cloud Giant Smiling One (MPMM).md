@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Cloud Giant Smiling One"]
 ---
-# Cloud Giant Smiling One
+# [Cloud Giant Smiling One](compendium\bestiary\giant/cloud-giant-smiling-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81*  
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -15,7 +18,7 @@ Smiling ones are cloud giants who honor and emulate the craftiness and deceit of
 Smiling ones take their name from the strange two-faced masks they wear. The smiling half of the face often looks more like a smirk or a triumphant sneer than a pleasant grin. The frowning half represents the displeasure smiling ones feel about cloud giants' place in the ordning—second to storm giants. The masks serve as symbols of smiling ones' devotion and also conceal their wearers' true facial expressions.
 
 ```statblock
-"name": "Cloud Giant Smiling One"
+"name": "Cloud Giant Smiling One (MPMM)"
 "size": "Huge"
 "type": "giant"
 "alignment": "Typically  Chaotic Neutral"
@@ -31,14 +34,14 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 - !!int "17"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Charisma": "+7"
-  "Intelligence": "+6"
-  "Constitution": "+10"
+  "Charisma": !!int "7"
+  "Intelligence": !!int "6"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Sleight of Hand": "+9"
-  "Deception": "+11"
-  "Insight": "+7"
-  "Perception": "+11"
+  "Sleight of Hand": !!int "9"
+  "Deception": !!int "11"
+  "Insight": !!int "7"
+  "Perception": !!int "11"
 "senses": "passive Perception 21"
 "languages": "Common, Giant"
 "cr": "11"

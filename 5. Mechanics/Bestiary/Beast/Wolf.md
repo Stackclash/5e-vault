@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Wolf"]
 ---
-# Wolf
+# [Wolf](compendium\bestiary\beast/wolf.md)
 *Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -29,8 +32,8 @@ aliases: ["Wolf"]
 - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/4"

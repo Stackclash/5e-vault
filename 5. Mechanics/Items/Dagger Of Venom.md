@@ -9,15 +9,16 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/weapon/simple/melee
-aliases: ["Dagger of Venom"]
+aliases: 
+- "Dagger of Venom"
 ---
 # Dagger of Venom
 *Melee Weapon, major, rare*  
+![[5. Mechanics/Items/img/dagger-of-venom.jpg#right]]  
 
 - **Damage**: 1d4 P
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.

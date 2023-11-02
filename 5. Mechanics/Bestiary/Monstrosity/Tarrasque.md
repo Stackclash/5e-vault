@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/30
 - monster/environment/urban
 - monster/size/gargantuan
 - monster/type/monstrosity/titan
+statblock: inline
 aliases: ["Tarrasque"]
 ---
-# Tarrasque
+# [Tarrasque](compendium\bestiary\monstrosity/tarrasque.md)
 *Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
@@ -38,12 +41,13 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
 - !!int "11"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+9"
-  "Intelligence": "+5"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "5"
 "damage_immunities": "fire; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "charmed, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 120 ft., passive Perception 10"
 "languages": ""
 "cr": "30"

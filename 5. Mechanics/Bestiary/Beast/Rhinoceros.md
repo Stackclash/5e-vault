@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Rhinoceros"]
 ---
-# Rhinoceros
+# [Rhinoceros](compendium\bestiary\beast/rhinoceros.md)
 *Source: Monster Manual p. 336. Available in the SRD and the Basic Rules.*  
 
 ```statblock

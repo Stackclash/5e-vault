@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/13
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Beholder"]
 ---
-# Beholder
+# [Beholder](compendium\bestiary\aberration/beholder.md)
 *Source: Monster Manual p. 28, Eberron: Rising from the Last War, Tasha's Cauldron of Everything*  
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
@@ -55,12 +58,12 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 - !!int "17"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Charisma": "+8"
-  "Wisdom": "+7"
-  "Intelligence": "+8"
+  "Charisma": !!int "8"
+  "Wisdom": !!int "7"
+  "Intelligence": !!int "8"
 "skillsaves":
-  "Perception": "+12"
-"condition_immunities": "prone"
+  "Perception": !!int "12"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"

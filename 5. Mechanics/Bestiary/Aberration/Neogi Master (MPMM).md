@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/hill
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration/warlock
+statblock: inline
 aliases: ["Neogi Master"]
 ---
-# Neogi Master
+# [Neogi Master](compendium\bestiary\aberration/neogi-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
@@ -24,7 +27,7 @@ A neogi looks like an outsize spider with an eel's neck and head. It can poison 
 Neogi usually dwell in far-flung locations on the Material Plane, as well as in the Astral Plane and the Ethereal Plane. They left their home world long ago to conquer and devour creatures in other realms. During this era, they dominated umber hulks and used them to build sleek, spidery ships capable of traversing the multiverse.
 
 ```statblock
-"name": "Neogi Master"
+"name": "Neogi Master (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "subtype": "warlock"
@@ -41,13 +44,13 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - !!int "18"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Wisdom": "+3"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Intimidation": "+6"
-  "Deception": "+6"
-  "Perception": "+3"
-  "Arcana": "+5"
-  "Persuasion": "+6"
+  "Intimidation": !!int "6"
+  "Deception": !!int "6"
+  "Perception": !!int "3"
+  "Arcana": !!int "5"
+  "Persuasion": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon, telepathy 30 ft."
 "cr": "4"

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Yuan-ti Anathema"]
 ---
-# Yuan-ti Anathema
+# [Yuan-ti Anathema](compendium\bestiary\monstrosity/yuan-ti-anathema-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272*  
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
@@ -19,7 +22,7 @@ Anathemas consider themselves demigods on the path to greater divinity. They dem
 Anathemas don't age, allowing them to pursue their goals until the end of days. Truly powerful ones might rule multiple yuan-ti cities and bring entire regions under their control.
 
 ```statblock
-"name": "Yuan-ti Anathema"
+"name": "Yuan-ti Anathema (MPMM)"
 "size": "Huge"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -35,11 +38,11 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 - !!int "20"
 "speed": "40 ft., climb 40 ft., swim 40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+11"
+  "Stealth": !!int "5"
+  "Perception": !!int "11"
 "damage_resistances": "acid, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 21"
 "languages": "Abyssal, Common, Draconic"
 "cr": "12"

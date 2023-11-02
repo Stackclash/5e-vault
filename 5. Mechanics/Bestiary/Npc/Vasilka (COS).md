@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Vasilka"]
 ---
-# Vasilka
+# [Vasilka](compendium\bestiary\npc/vasilka-cos.md)
 *Source: Curse of Strahd p. 151, Derived from *  
 
 ```statblock
-"name": "Vasilka"
+"name": "Vasilka (CoS)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Neutral"
@@ -27,7 +30,9 @@ aliases: ["Vasilka"]
 "speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/1-2
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
 aliases: ["Death's Head"]
 ---
-# Death's Head
+# [Death's Head](compendium\bestiary\undead/deaths-head-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 232*  
 
 A death's head is a disembodied, flying head. The type of creature one of these grotesque undead originated from determines how it terrorizes it prey. A death's head that arises from a person or animal swoops down to rip apart victims with its gnashing teeth. One with the head of monster like a nothic or medusa, though, retains a measure of the power it had in life and can befuddle the minds or petrify the bodies of its victims.
@@ -16,7 +19,7 @@ A death's head is a disembodied, flying head. The type of creature one of these 
 In cursed wilds grow death's head trees, awakened trees from which `dice: 2d6|avg` (`2d6`) death's heads dangle like foul fruit. The heads detach to protect the tree if it's threatened. Should the tree be destroyed, the heads scatter and plant themselves in unholy ground. A new death's head tree emerges from each planted head `dice: 1d12|avg` (`1d12`) months later.
 
 ```statblock
-"name": "Death's Head"
+"name": "Death's Head (VRGR)"
 "size": "Tiny"
 "type": "undead"
 "alignment": "Unaligned"

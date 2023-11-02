@@ -6,13 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Cape of the Mountebank"]
+aliases: 
+- "Cape of the Mountebank"
 ---
 # Cape of the Mountebank
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/cape-of-the-mountebank.jpg#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] spell as an action. This property of the cape can't be used again until the next dawn.
 

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/large
 - monster/type/plant
+statblock: inline
 aliases: ["Gas Spore"]
 ---
-# Gas Spore
+# [Gas Spore](compendium\bestiary\plant/gas-spore.md)
 *Source: Monster Manual p. 138*  
 
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
@@ -49,7 +52,9 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 - !!int "1"
 "speed": "0 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "blinded, deafened, frightened, paralyzed, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 5"
 "languages": ""
 "cr": "1/2"

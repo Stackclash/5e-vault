@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Marid"]
 ---
-# Marid
+# [Marid](compendium\bestiary\elemental/marid.md)
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything*  
 
 Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
@@ -57,9 +60,9 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 - !!int "18"
 "speed": "30 ft., fly 60 ft., swim 90 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+5"
-  "Wisdom": "+7"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "7"
 "damage_resistances": "acid, cold, lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
 "languages": "Aquan"

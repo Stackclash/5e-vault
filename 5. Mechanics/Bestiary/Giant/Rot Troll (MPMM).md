@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Rot Troll"]
 ---
-# Rot Troll
+# [Rot Troll](compendium\bestiary\giant/rot-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
@@ -26,7 +29,7 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
 ```statblock
-"name": "Rot Troll"
+"name": "Rot Troll (MPMM)"
 "size": "Large"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
@@ -42,7 +45,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "4"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "damage_immunities": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Giant"

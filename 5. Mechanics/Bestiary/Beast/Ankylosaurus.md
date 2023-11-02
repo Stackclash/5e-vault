@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/grassland
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Ankylosaurus"]
 ---
-# Ankylosaurus
+# [Ankylosaurus](compendium\bestiary\beast/ankylosaurus.md)
 *Source: Monster Manual p. 79. Available in the Basic Rules.*  
 
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.

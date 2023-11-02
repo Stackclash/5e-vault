@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/23
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Zuggtmoy"]
 ---
-# Zuggtmoy
+# [Zuggtmoy](compendium\bestiary\npc/zuggtmoy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281*  
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
@@ -27,7 +30,7 @@ Their devotion might begin with the seemingly harmless promises offered by exoti
 Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen mushrooms of pale yellow and rancid brown. These massive fungi are some of the largest in existence. They are surrounded by a field of acidic puffballs and poisonous vapors. The mushrooms themselves are all interconnected by bridges of shelf-fungi, and countless chambers have been hollowed out from within their rubbery, fibrous stalks.
 
 ```statblock
-"name": "Zuggtmoy"
+"name": "Zuggtmoy (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -44,14 +47,15 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 - !!int "24"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+9"
-  "Wisdom": "+11"
-  "Constitution": "+11"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "11"
 "skillsaves":
-  "Perception": "+11"
+  "Perception": !!int "11"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "23"

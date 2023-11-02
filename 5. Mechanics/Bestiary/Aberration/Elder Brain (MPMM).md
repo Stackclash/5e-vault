@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/14
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration/mind-flayer
+statblock: inline
 aliases: ["Elder Brain"]
 ---
-# Elder Brain
+# [Elder Brain](compendium\bestiary\aberration/elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120*  
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
@@ -29,7 +32,7 @@ The lair of an elder brain lies deep in the heart of a mind flayer colony. The b
 An elder brain's ambitions are always tempered by its relative immobility. Although its telepathic senses can reach for miles, moving anywhere is always a dangerous proposition. If forced outside its brine pool, an elder brain swiftly expires, and transporting an elder brain in its pool through confining and tortuous subterranean tunnels frequently proves difficult or impossible.
 
 ```statblock
-"name": "Elder Brain"
+"name": "Elder Brain (MPMM)"
 "size": "Large"
 "type": "aberration"
 "subtype": "mind flayer"
@@ -46,15 +49,15 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 - !!int "24"
 "speed": "5 ft., swim 10 ft."
 "saves":
-  "Charisma": "+12"
-  "Wisdom": "+9"
-  "Intelligence": "+10"
+  "Charisma": !!int "12"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "10"
 "skillsaves":
-  "Intimidation": "+12"
-  "Deception": "+12"
-  "Insight": "+14"
-  "Arcana": "+10"
-  "Persuasion": "+12"
+  "Intimidation": !!int "12"
+  "Deception": !!int "12"
+  "Insight": !!int "14"
+  "Arcana": !!int "10"
+  "Persuasion": !!int "12"
 "senses": "blindsight 120 ft., passive Perception 14"
 "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy\
   \ 5 miles"

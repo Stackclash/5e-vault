@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["+2 Amulet of the Devout"]
+aliases: 
+- "+2 Amulet of the Devout"
 ---
 # +2 Amulet of the Devout
 *Wondrous Item, rare (requires attunement by a cleric or paladin)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This amulet bears the symbol of a deity inlaid with precious stones or metals. While you wear the holy symbol, you gain a +2 bonus to spell attack rolls and the saving throw DCs of your spells.

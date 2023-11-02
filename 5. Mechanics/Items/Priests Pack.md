@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Priest's Pack"]
+aliases: 
+- "Priest's Pack"
+cost: 19 gp
 ---
 # Priest's Pack
 *Adventuring Gear*  

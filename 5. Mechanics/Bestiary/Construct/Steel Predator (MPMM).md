@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/environment/urban
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Steel Predator"]
 ---
-# Steel Predator
+# [Steel Predator](compendium\bestiary\construct/steel-predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -21,7 +24,7 @@ Once battle is joined, the predator ignores every other threat to attack its tar
 If all goes according to plan, a steel predator slays its target and then voluntarily returns to Sigil, where it's broken down into parts that can be used in another steel predator. Battle damage can cause this instinct to fail, however, in which case the steel predator lingers in the area, hunting and killing other creatures that resemble its target or that simply live nearby. Such rogue predators are dangerous to anyone in the vicinity.
 
 ```statblock
-"name": "Steel Predator"
+"name": "Steel Predator (MPMM)"
 "size": "Large"
 "type": "construct"
 "alignment": "Typically  Lawful Neutral"
@@ -37,14 +40,16 @@ If all goes according to plan, a steel predator slays its target and then volunt
 - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+8"
-  "Perception": "+7"
-  "Survival": "+7"
+  "Stealth": !!int "8"
+  "Perception": !!int "7"
+  "Survival": !!int "7"
 "damage_resistances": "cold, lightning, necrotic, thunder"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
-  \ stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 17"
 "languages": "understands Modron and the language of its owner but can't speak"
 "cr": "16"

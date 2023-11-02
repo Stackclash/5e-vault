@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Ismark Kolyanovich"]
 ---
-# Ismark Kolyanovich
+# [Ismark Kolyanovich](compendium\bestiary\npc/ismark-kolyanovich-cos.md)
 *Source: Curse of Strahd p. 43, Derived from *  
 
 ```statblock
-"name": "Ismark Kolyanovich"
+"name": "Ismark Kolyanovich (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -27,8 +30,8 @@ aliases: ["Ismark Kolyanovich"]
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Perception": "+2"
+  "Athletics": !!int "5"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"

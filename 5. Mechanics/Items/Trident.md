@@ -7,7 +7,9 @@ tags:
 - item/property/thrown
 - item/property/versatile
 - item/weapon/martial/melee
-aliases: ["Trident"]
+aliases: 
+- "Trident"
+cost: 5 gp
 ---
 # Trident
 *Melee Weapon*  

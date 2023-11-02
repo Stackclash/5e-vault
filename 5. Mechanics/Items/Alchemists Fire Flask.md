@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Alchemist's Fire (flask)"]
+aliases: 
+- "Alchemist's Fire (flask)"
+cost: 50 gp
 ---
 # Alchemist's Fire (flask)
 *Adventuring Gear*  

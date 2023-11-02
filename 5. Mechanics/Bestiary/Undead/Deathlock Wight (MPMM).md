@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/size/medium
 - monster/type/undead/warlock
+statblock: inline
 aliases: ["Deathlock Wight"]
 ---
-# Deathlock Wight
+# [Deathlock Wight](compendium\bestiary\undead/deathlock-wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
@@ -18,7 +21,7 @@ The forging of a pact between a warlock and a patron is no minor occasion—at l
 An powerful necromancer might also discover the wicked methods of creating a deathlock and then subjugate it, acting as the deathlock's patron.
 
 ```statblock
-"name": "Deathlock Wight"
+"name": "Deathlock Wight (MPMM)"
 "size": "Medium"
 "type": "undead"
 "subtype": "warlock"
@@ -35,13 +38,14 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+4"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Perception": "+4"
-  "Arcana": "+3"
+  "Perception": !!int "4"
+  "Arcana": !!int "3"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "3"

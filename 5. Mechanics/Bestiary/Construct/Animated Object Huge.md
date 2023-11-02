@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/phb
+- monster/cr/
 - monster/size/huge
 - monster/type/construct
+statblock: inline
 aliases: ["Animated Object (Huge)"]
 ---
-# Animated Object (Huge)
+# [Animated Object (Huge)](compendium\bestiary\construct/animated-object-huge.md)
 *Source: Player's Handbook p. 213*  
 
 ```statblock
-"name": "Animated Object (Huge)"
+"name": "Animated Object (Huge) (PHB)"
 "size": "Huge"
 "type": "construct"
 "alignment": "Unaligned"

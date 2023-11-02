@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/5
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Vampiric Mind Flayer"]
 ---
-# Vampiric Mind Flayer
+# [Vampiric Mind Flayer](compendium\bestiary\undead/vampiric-mind-flayer-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 252*  
 
 When the mind flayers of Bluetspur (see chapter 3) could find no cure for their overlord's affliction, their degenerating elder brain turned to radical methods to stave off dementia and death. The results were vampiric mind flayers, feral atrocities spawned from mind flayer tadpoles infected with vampirism. These specialized but flawed terrors serve a single purpose: to drain the cerebral fluids from sapient minds. After doing so, they return to the Elder Brain of Bluetspur, which liquefies them into its pool and releases their stolen essences amid a hormone brine. This grotesque balm stalls the elder brain's degeneration but is far from a cure.
@@ -14,7 +17,7 @@ When the mind flayers of Bluetspur (see chapter 3) could find no cure for their 
 Vampiric mind flayers are physically and mentally unstable beings. Ghoulish creatures, they let nothing stand between them and their existential imperatives. Although they possess the telepathic abilities of mind flayers, their brains aren't equipped to employ them. Instead, they bombard nearby creatures with a mental static of visceral visions. While these ravenous creatures are horrifying to behold, they unsettle none more than other mind flayers, which consider them abominations.
 
 ```statblock
-"name": "Vampiric Mind Flayer"
+"name": "Vampiric Mind Flayer (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -30,15 +33,16 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
 - !!int "18"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+7"
-  "Wisdom": "+5"
-  "Intelligence": "+0"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "0"
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+5"
+  "Stealth": !!int "7"
+  "Perception": !!int "5"
 "damage_resistances": "necrotic, psychic"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "telepathy 120 ft. but can only project emotions"
 "cr": "5"

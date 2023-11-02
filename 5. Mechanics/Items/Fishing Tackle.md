@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Fishing Tackle"]
+aliases: 
+- "Fishing Tackle"
+cost: 1 gp
 ---
 # Fishing Tackle
 *Adventuring Gear*  

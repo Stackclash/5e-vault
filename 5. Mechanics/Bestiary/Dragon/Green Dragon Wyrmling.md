@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Green Dragon Wyrmling"]
 ---
-# Green Dragon Wyrmling
+# [Green Dragon Wyrmling](compendium\bestiary\dragon/green-dragon-wyrmling.md)
 *Source: Monster Manual p. 95. Available in the SRD.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -116,15 +119,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "13"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": "+3"
-  "Dexterity": "+3"
-  "Wisdom": "+2"
-  "Constitution": "+3"
+  "Charisma": !!int "3"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "3"
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"

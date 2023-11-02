@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Owl"]
 ---
-# Giant Owl
+# [Giant Owl](compendium\bestiary\beast/giant-owl.md)
 *Source: Monster Manual p. 327, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
@@ -31,8 +34,8 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 - !!int "10"
 "speed": "5 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+5"
+  "Stealth": !!int "4"
+  "Perception": !!int "5"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Giant Owl, understands Common, Elvish, and Sylvan but can't speak them"
 "cr": "1/4"

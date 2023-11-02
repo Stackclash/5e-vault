@@ -17,7 +17,7 @@ aliases: ["Magic Items"]
 | Common | [[5. Mechanics/Items/Illuminators Tattoo (TCE).md\|Illuminator's Tattoo]] | Yes |
 | Common | [[5. Mechanics/Items/Masquerade Tattoo (TCE).md\|Masquerade Tattoo]] | Yes |
 | Common | [[5. Mechanics/Items/Prosthetic Limb (TCE).md\|Prosthetic Limb]] | No |
-| Common+ | Spellwrought Tattoo | No |
+| Common+ | [[5. Mechanics/Items/Spellwrought Tattoo (TCE).md\|Spellwrought Tattoo]] | No |
 | Uncommon+ | [[5. Mechanics/Items/1 All Purpose Tool (TCE).md\|All-Purpose Tool]] | Yes |
 | Uncommon+ | [[5. Mechanics/Items/1 Amulet Of The Devout (TCE).md\|Amulet of the Devout]] | Yes |
 | Uncommon+ | [[5. Mechanics/Items/1 Arcane Grimoire (TCE).md\|Arcane Grimoire]] | Yes |
@@ -49,7 +49,7 @@ aliases: ["Magic Items"]
 | Rare | [[5. Mechanics/Items/Revelers Concertina (TCE).md\|Reveler's Concertina]] | Yes |
 | Rare | [[5. Mechanics/Items/Shadowfell Brand Tattoo (TCE).md\|Shadowfell Brand Tattoo]] | Yes |
 | Rare | [[5. Mechanics/Items/Shadowfell Shard (TCE).md\|Shadowfell Shard]] | Yes |
-| Very Rare | Absorbing Tattoo | Yes |
+| Very Rare | [[5. Mechanics/Items/Absorbing Tattoo (TCE).md\|Absorbing Tattoo]] | Yes |
 | Very Rare | [[5. Mechanics/Items/Cauldron Of Rebirth (TCE).md\|Cauldron of Rebirth]] | Yes |
 | Very Rare | [[5. Mechanics/Items/Crystalline Chronicle (TCE).md\|Crystalline Chronicle]] | Yes |
 | Very Rare | [[5. Mechanics/Items/Ghost Step Tattoo (TCE).md\|Ghost Step Tattoo]] | Yes |

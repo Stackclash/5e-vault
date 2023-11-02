@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Candle of the Deep"]
+aliases: 
+- "Candle of the Deep"
 ---
 # Candle of the Deep
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle.
 

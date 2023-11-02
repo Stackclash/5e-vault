@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Whetstone"]
+aliases: 
+- "Whetstone"
+cost: 1 cp
 ---
 # Whetstone
 *Adventuring Gear*  

@@ -365,11 +365,11 @@ As part of a short rest, you can produce a forged document no more than one page
 
 ### Gaming Set
 
-Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
+Proficiency with a [[5. Mechanics/Items/Gaming Set.md\|gaming set]] applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
 
 #### Components
 
-A gaming set has all the pieces needed to play a specific game or type of game, such as a complete deck of cards or a board and tokens.
+A [[5. Mechanics/Items/Gaming Set.md\|gaming set]] has all the pieces needed to play a specific game or type of game, such as a complete deck of cards or a board and tokens.
 
 #### History
 
@@ -572,7 +572,7 @@ Your knowledge of masonry allows you to spot weak points in brick walls. You dea
 
 ### Musical Instruments
 
-Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
+Proficiency with a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
 
 #### History
 

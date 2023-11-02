@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Otyugh"]
 ---
-# Otyugh
+# [Otyugh](compendium\bestiary\aberration/otyugh.md)
 *Source: Monster Manual p. 248. Available in the SRD.*  
 
 An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
@@ -43,7 +46,7 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 - !!int "6"
 "speed": "30 ft."
 "saves":
-  "Constitution": "+7"
+  "Constitution": !!int "7"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Otyugh"
 "cr": "5"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Bronze Dragon Wyrmling"]
 ---
-# Bronze Dragon Wyrmling
+# [Bronze Dragon Wyrmling](compendium\bestiary\dragon/bronze-dragon-wyrmling.md)
 *Source: Monster Manual p. 109. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -92,13 +95,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "15"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+2"
-  "Wisdom": "+2"
-  "Constitution": "+4"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Stealth": "+2"
-  "Perception": "+4"
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

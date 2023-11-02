@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -13,9 +15,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Scout"]
 ---
-# Scout
+# [Scout](compendium\bestiary\humanoid/scout.md)
 *Source: Monster Manual p. 349, Curse of Strahd. Available in the SRD.*  
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
@@ -38,10 +41,10 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Nature": "+4"
-  "Stealth": "+6"
-  "Perception": "+5"
-  "Survival": "+5"
+  "Nature": !!int "4"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
+  "Survival": !!int "5"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"

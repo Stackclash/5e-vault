@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Psychic Resistance"]
+aliases: 
+- "Ring of Psychic Resistance"
 ---
 # Ring of Psychic Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to psychic damage while wearing this ring. The ring is set with jade.
 

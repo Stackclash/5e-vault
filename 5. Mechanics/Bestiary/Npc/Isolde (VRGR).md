@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/5
 - monster/size/medium
 - monster/type/fey/elf
+statblock: inline
 aliases: ["Isolde"]
 ---
-# Isolde
+# [Isolde](compendium\bestiary\npc/isolde-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 86*  
 
 Isolde was a holy warrior devoted to a pantheon of elven deities called the Seldarine. In this role, she defended the Feywild against dragons, demons, and other threats. In time, her heroics caught the eye of an archfey named Zybilna, who had forged secret pacts with some of the fiends Isolde and her companions had slain. Rather than be angry at Isolde, Zybilna was impressed by her. She enlisted a powerful fiend known only as "the Caller" to corrupt and slay all of Isolde's companions, leaving Isolde alone, bitter, and vulnerable. The insidious archfey then befriended Isolde and offered to help her forget her terrible losses. Isolde became the master of a traveling fey carnival that served as a gateway to Zybilna's domain. The carnival did what Zybilna hoped it would do: it brought comfort to Isolde and quelled her thirst for vengeance.
@@ -18,7 +21,7 @@ When Isolde's fey carnival crossed paths with another carnival from the Shadowfe
 Zybilna was intrigued enough by the shadar-kai to let Isolde go, but not without casting a spell that made Isolde forget about Zybilna and her Feywild domain, thus preventing the eladrin from divulging the archfey's secrets. As a further punishment, Zybilna sent malevolent fey creatures to hound Isolde and her Shadowfell carnival. Isolde doesn't know who is behind this petty torment, nor does she care. Her hunt for the Caller and her thirst for vengeance have become all-consuming.
 
 ```statblock
-"name": "Isolde"
+"name": "Isolde (VRGR)"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
@@ -35,15 +38,15 @@ Zybilna was intrigued enough by the shadar-kai to let Isolde go, but not without
 - !!int "16"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+6"
-  "Intelligence": "+5"
-  "Strength": "+7"
-  "Constitution": "+6"
+  "Charisma": !!int "6"
+  "Intelligence": !!int "5"
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+6"
-  "Deception": "+6"
-  "Stealth": "+7"
-  "Perception": "+4"
+  "Intimidation": !!int "6"
+  "Deception": !!int "6"
+  "Stealth": !!int "7"
+  "Perception": !!int "4"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 14"

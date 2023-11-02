@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Ogre Battering Ram"]
 ---
-# Ogre Battering Ram
+# [Ogre Battering Ram](compendium\bestiary\giant/ogre-battering-ram-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200*  
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
@@ -19,7 +22,7 @@ An ogre battering ram carries an enormous club that's primarily used for bashing
 Ogres love to rush headlong into battle, but with enough time and patience, some of them learn to carry out specialized missions. The names they are given—the battering ram, the bolt launcher, the chain brute, and the howdah—reflect their particular functions. These jobs are tailored to take advantage of an ogre's strengths.
 
 ```statblock
-"name": "Ogre Battering Ram"
+"name": "Ogre Battering Ram (MPMM)"
 "size": "Large"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"

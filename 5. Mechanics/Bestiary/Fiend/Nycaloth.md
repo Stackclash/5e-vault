@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/9
 - monster/size/large
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Nycaloth"]
 ---
-# Nycaloth
+# [Nycaloth](compendium\bestiary\fiend/nycaloth.md)
 *Source: Monster Manual p. 314, Tasha's Cauldron of Everything*  
 
 The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razorsharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
@@ -82,13 +85,13 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Intimidation": "+6"
-  "Stealth": "+4"
-  "Perception": "+4"
+  "Intimidation": !!int "6"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"

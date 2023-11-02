@@ -7,14 +7,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Gauntlets of Ogre Power"]
+aliases: 
+- "Gauntlets of Ogre Power"
 ---
 # Gauntlets of Ogre Power
 *Wondrous Item, major, uncommon (requires attunement)*  
+![[5. Mechanics/Items/img/gauntlets-of-ogre-power.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher without them.
 

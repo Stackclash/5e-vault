@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Bestial Spirit (Water, 6th-Level Spell)"]
 ---
-# Bestial Spirit (Water, 6th-Level Spell)
+# [Bestial Spirit (Water, 6th-Level Spell)](compendium\bestiary\beast/bestial-spirit-water-6th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock
-"name": "Bestial Spirit (Water, 6th-Level Spell)"
+"name": "Bestial Spirit (Water, 6th-Level Spell) (TCE)"
 "size": "Small"
 "type": "beast"
 "alignment": "Unaligned"

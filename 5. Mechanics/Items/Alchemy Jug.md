@@ -6,12 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Alchemy Jug"]
+aliases: 
+- "Alchemy Jug"
 ---
 # Alchemy Jug
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/alchemy-jug.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 12.0 lbs.
 
 This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.

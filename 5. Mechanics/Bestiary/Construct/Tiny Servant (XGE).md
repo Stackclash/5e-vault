@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/xge
+- monster/cr/
 - monster/size/tiny
 - monster/type/construct
+statblock: inline
 aliases: ["Tiny Servant"]
 ---
-# Tiny Servant
+# [Tiny Servant](compendium\bestiary\construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  
 
 ```statblock
-"name": "Tiny Servant"
+"name": "Tiny Servant (XGE)"
 "size": "Tiny"
 "type": "construct"
 "alignment": "Unaligned"
@@ -26,8 +29,10 @@ aliases: ["Tiny Servant"]
 - !!int "1"
 "speed": "30 ft., climb 30 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "actions":

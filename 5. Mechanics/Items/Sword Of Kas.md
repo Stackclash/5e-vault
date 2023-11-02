@@ -8,16 +8,17 @@ tags:
 - item/property/versatile
 - item/rarity/artifact
 - item/weapon/martial/melee
-aliases: ["Sword of Kas"]
+aliases: 
+- "Sword of Kas"
 ---
 # Sword of Kas
 *Melee Weapon, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/sword-of-kas.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 When Vecna grew in power, he appointed an evil and ruthless lieutenant, Kas the Bloody Handed, to act as his bodyguard and right hand. This despicable villain served as advisor, warlord, and assassin. His successes earned him Vecna's admiration and a reward: a sword with as dark a pedigree as the man who would wield it.

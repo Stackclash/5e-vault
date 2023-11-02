@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Octopus"]
 ---
-# Octopus
+# [Octopus](compendium\bestiary\beast/octopus.md)
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -26,8 +29,8 @@ aliases: ["Octopus"]
 - !!int "4"
 "speed": "5 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
 "cr": "0"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Noble"]
 ---
-# Noble
+# [Noble](compendium\bestiary\humanoid/noble.md)
 *Source: Monster Manual p. 348, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
@@ -32,9 +35,9 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+5"
-  "Insight": "+4"
-  "Persuasion": "+5"
+  "Deception": !!int "5"
+  "Insight": !!int "4"
+  "Persuasion": !!int "5"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"

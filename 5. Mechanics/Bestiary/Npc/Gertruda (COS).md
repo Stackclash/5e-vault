@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Gertruda"]
 ---
-# Gertruda
+# [Gertruda](compendium\bestiary\npc/gertruda-cos.md)
 *Source: Curse of Strahd p. 68, Derived from *  
 
 ```statblock
-"name": "Gertruda"
+"name": "Gertruda (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/weapon/explosive
-aliases: ["Bomb"]
+aliases: 
+- "Bomb"
+cost: 150 gp
 ---
 # Bomb
 *Explosive*  

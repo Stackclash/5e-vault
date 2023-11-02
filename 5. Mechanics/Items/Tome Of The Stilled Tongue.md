@@ -7,13 +7,12 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous
-aliases: ["Tome of the Stilled Tongue"]
+aliases: 
+- "Tome of the Stilled Tongue"
 ---
 # Tome of the Stilled Tongue
 *Wondrous Item, major, legendary (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 This thick leather-bound volume has a desiccated tongue pinned to the front cover. Five of these tomes exist, and it's unknown which one is the original. The grisly cover decoration on the first tome of the stilled tongue once belonged to a treacherous former servant of the lich-god Vecna, keeper of secrets. The tongues pinned to the covers of the four copies came from other spellcasters who crossed Vecna. The first few pages of each tome are filled with indecipherable scrawls. The remaining pages are blank and pristine.

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/urban
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Smoke Mephit"]
 ---
-# Smoke Mephit
+# [Smoke Mephit](compendium\bestiary\elemental/smoke-mephit.md)
 *Source: Monster Manual p. 217, Curse of Strahd*  
 
 ## Mephits
@@ -41,10 +44,10 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Auran, Ignan"
 "cr": "1/4"

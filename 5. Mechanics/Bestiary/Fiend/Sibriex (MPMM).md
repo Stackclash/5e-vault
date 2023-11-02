@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/18
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Sibriex"]
 ---
-# Sibriex
+# [Sibriex](compendium\bestiary\fiend/sibriex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -17,7 +20,7 @@ Sibriexes have spent eons amassing knowledge from across the planes, hoarding it
 Sibriexes can channel the power of the Abyss to create new demons from other creatures. Some demons petition sibriexes for physical gifts, for sibriexes can graft on new body parts to give the demons greater strength, vision, or stamina. Sibriexes never give aid freely, though; they demand a service or a treasure in return for the flesh-shaping they provide.
 
 ```statblock
-"name": "Sibriex"
+"name": "Sibriex (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -34,16 +37,16 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 - !!int "25"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Charisma": "+13"
-  "Intelligence": "+13"
+  "Charisma": !!int "13"
+  "Intelligence": !!int "13"
 "skillsaves":
-  "Perception": "+13"
-  "History": "+13"
-  "Arcana": "+13"
+  "Perception": !!int "13"
+  "History": !!int "13"
+  "Arcana": !!int "13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "18"

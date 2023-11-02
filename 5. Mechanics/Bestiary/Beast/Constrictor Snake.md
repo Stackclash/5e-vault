@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/underwater
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Constrictor Snake"]
 ---
-# Constrictor Snake
+# [Constrictor Snake](compendium\bestiary\beast/constrictor-snake.md)
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock

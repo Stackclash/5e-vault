@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1-8
 - monster/size/tiny
 - monster/type/fey
+statblock: inline
 aliases: ["Valenar Hawk"]
 ---
-# Valenar Hawk
+# [Valenar Hawk](compendium\bestiary\fey/valenar-hawk-erlw.md)
 *Source: Eberron: Rising from the Last War p. 312*  
 
 The elves of Valenar say that when their ancestors fought the giants of Xen'drik, elf druids took the forms of animals on the battlefield. The cruel and mighty Emperor Cul'sir of the giants laid a curse upon the druids and trapped them in the forms of animals. Just as the ancestors of the Valenar guide their warriors in battle, the spirits of these druids can awaken power in an animal to create a companion worthy of a champion.
@@ -34,7 +37,7 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
 ^ancestral-traits
 
 ```statblock
-"name": "Valenar Hawk"
+"name": "Valenar Hawk (ERLW)"
 "size": "Tiny"
 "type": "fey"
 "alignment": "Neutral"
@@ -50,7 +53,7 @@ Each Valenar animal can be customized with an ancestral gift, a supernatural tra
 - !!int "11"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "passive Perception 15"
 "languages": "understands Common, Elvish, and Sylvan but can't speak"
 "cr": "1/8"

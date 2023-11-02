@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/desert
 - monster/environment/hill
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Mule"]
 ---
-# Mule
+# [Mule](compendium\bestiary\beast/mule.md)
 *Source: Monster Manual p. 333, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

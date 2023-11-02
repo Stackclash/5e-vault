@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Alchemical Compendium"]
+aliases: 
+- "Alchemical Compendium"
 ---
 # Alchemical Compendium
 *Wondrous Item, rare (requires attunement by a wizard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 Acrid odors cling to this stained, heavy volume. The book's metal fittings are copper, iron, lead, silver, and gold, some frozen mid-transition from one metal to another. When found, the book contains the following spells: [enlarge/reduce](compendium/spells/enlarge-reduce.md), [[5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]], [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], and [[5. Mechanics/Spells/Polymorph.md\|polymorph]]. It functions as a spellbook for you.

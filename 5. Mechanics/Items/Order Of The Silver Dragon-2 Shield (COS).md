@@ -6,13 +6,13 @@ tags:
 - item/armor/shield
 - item/rarity/rare
 - item/tier/major
-aliases: ["Order of the Silver Dragon +2 Shield"]
+aliases: 
+- "Order of the Silver Dragon +2 Shield"
 ---
 # Order of the Silver Dragon +2 Shield
 *Shield, major, rare*  
 
 - **Armor Class**: 2
-- **Cost**: ⏤
 - **Weight**: 6.0 lbs.
 
 While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/heavy
-aliases: ["Ring Mail"]
+aliases: 
+- "Ring Mail"
+cost: 30 gp
 ---
 # Ring Mail
 *Heavy Armor*  

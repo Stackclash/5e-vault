@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Jacinth"]
+aliases: 
+- "Jacinth"
+cost: 5,000 gp
 ---
 # Jacinth
 *Treasure*  
 
 - **Cost**: 5,000 gp
-- **Weight**: ⏤
 
 A transparent fiery orange gemstone.
 

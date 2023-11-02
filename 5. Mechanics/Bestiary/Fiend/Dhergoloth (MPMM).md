@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Dhergoloth"]
 ---
-# Dhergoloth
+# [Dhergoloth](compendium\bestiary\fiend/dhergoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -21,7 +24,7 @@ A kind of yugoloth, dhergoloths rush into battle like whirlwinds of destruction,
 Since dhergoloths are little more than brutes, employers must use caution when instructing them. They can handle simple orders that don't take a lot of time to resolve. When given anything complex to do, however, they either forget what they're told or don't listen in the first place, and then bungle the task that was set for them.
 
 ```statblock
-"name": "Dhergoloth"
+"name": "Dhergoloth (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "yugoloth"
@@ -38,11 +41,11 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 - !!int "9"
 "speed": "30 ft."
 "saves":
-  "Strength": "+6"
+  "Strength": !!int "6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "7"

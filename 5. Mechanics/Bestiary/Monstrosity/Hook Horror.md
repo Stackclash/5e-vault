@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Hook Horror"]
 ---
-# Hook Horror
+# [Hook Horror](compendium\bestiary\monstrosity/hook-horror.md)
 *Source: Monster Manual p. 189*  
 
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
@@ -41,7 +44,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 13"
 "languages": "Hook Horror"
 "cr": "3"

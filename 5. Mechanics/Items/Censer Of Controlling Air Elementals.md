@@ -6,12 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Censer of Controlling Air Elementals"]
+aliases: 
+- "Censer of Controlling Air Elementals"
 ---
 # Censer of Controlling Air Elementals
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/censer-of-controlling-air-elementals.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 While incense is burning in this censer, you can use an action to speak the censer's command word and summon an [[5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]], as if you had cast the [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] spell. The censer can't be used this way again until the next dawn.

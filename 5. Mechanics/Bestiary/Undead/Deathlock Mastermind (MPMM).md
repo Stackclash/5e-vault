@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead/warlock
+statblock: inline
 aliases: ["Deathlock Mastermind"]
 ---
-# Deathlock Mastermind
+# [Deathlock Mastermind](compendium\bestiary\undead/deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -19,7 +22,7 @@ The forging of a pact between a warlock and a patron is no minor occasion—at l
 An powerful necromancer might also discover the wicked methods of creating a deathlock and then subjugate it, acting as the deathlock's patron.
 
 ```statblock
-"name": "Deathlock Mastermind"
+"name": "Deathlock Mastermind (MPMM)"
 "size": "Medium"
 "type": "undead"
 "subtype": "warlock"
@@ -36,16 +39,17 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Intelligence": "+5"
+  "Charisma": !!int "6"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Perception": "+4"
-  "History": "+5"
-  "Arcana": "+5"
+  "Perception": !!int "4"
+  "History": !!int "5"
+  "Arcana": !!int "5"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"

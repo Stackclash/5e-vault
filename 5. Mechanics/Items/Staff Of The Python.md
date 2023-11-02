@@ -8,16 +8,17 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of the Python"]
+aliases: 
+- "Staff of the Python"
 ---
 # Staff of the Python
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
+![[5. Mechanics/Items/img/staff-of-the-python.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you. The staff becomes a [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snake]] under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.

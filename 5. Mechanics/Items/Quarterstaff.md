@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/versatile
 - item/weapon/simple/melee
-aliases: ["Quarterstaff"]
+aliases: 
+- "Quarterstaff"
+cost: 2 sp
 ---
 # Quarterstaff
 *Melee Weapon*  

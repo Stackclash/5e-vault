@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/17
 - monster/size/huge
 - monster/type/undead
+statblock: inline
 aliases: ["Adult Red Dracolich"]
 ---
-# Adult Red Dracolich
+# [Adult Red Dracolich](compendium\bestiary\undead/adult-red-dracolich-tce.md)
 *Source: Tasha's Cauldron of Everything p. 137, Derived from *  
 
 ```statblock
-"name": "Adult Red Dracolich"
+"name": "Adult Red Dracolich (TCE)"
 "size": "Huge"
 "type": "undead"
 "alignment": "Chaotic Evil"
@@ -26,16 +29,18 @@ aliases: ["Adult Red Dracolich"]
 - !!int "21"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+11"
-  "Dexterity": "+6"
-  "Wisdom": "+7"
-  "Constitution": "+13"
+  "Charisma": !!int "11"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "13"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+13"
+  "Stealth": !!int "6"
+  "Perception": !!int "13"
 "damage_resistances": "necrotic"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, frightened, paralyzed, poisoned, exhaustion"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Common, Draconic"
 "cr": "17"

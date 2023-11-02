@@ -6,13 +6,12 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Clairvoyance"]
+aliases: 
+- "Potion of Clairvoyance"
 ---
 # Potion of Clairvoyance
 *Potion, minor, rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain the effect of the [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
 

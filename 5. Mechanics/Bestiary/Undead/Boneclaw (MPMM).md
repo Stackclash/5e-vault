@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/urban
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Boneclaw"]
 ---
-# Boneclaw
+# [Boneclaw](compendium\bestiary\undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66*  
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -21,7 +24,7 @@ A boneclaw can serve only an evil creature. If its master finds redemption or si
 In service to its master, a boneclaw delights in causing horrific pain. It lurks like a spider in shadowy recesses, waiting for victims to approach within reach of its long, bony limbs. Once speared, a creature is pulled into the darkness to be sliced apart.
 
 ```statblock
-"name": "Boneclaw"
+"name": "Boneclaw (MPMM)"
 "size": "Large"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -37,14 +40,16 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 - !!int "9"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Constitution": "+6"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+6"
+  "Stealth": !!int "7"
+  "Perception": !!int "6"
 "damage_resistances": "cold, necrotic"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Common plus one language spoken by its master"
 "cr": "12"

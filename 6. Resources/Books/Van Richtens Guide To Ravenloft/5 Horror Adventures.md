@@ -251,7 +251,7 @@ Ravenloft has a tradition of adventures featuring setting-specific props and mem
 
 ### Tarokka Deck
 
-In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a tarokka deck. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
+In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
 
 - **Crowns.** The portentous cards of the high deck are marked with crowns but are not themselves a suit. The figures on these fourteen cards represent distinct forces of fate, change, and despair.  
 - **Coins.** The ten cards of this suit symbolize avarice and the desire for personal gain.  
@@ -261,13 +261,13 @@ In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the p
 
 Tarokka decks allow you run encounters where fortune-tellers predict characters' fates. Once you're familiar with the cards and their meanings, you can interpret them in ways that tie in to the characters' pasts or events in your adventures. You can also use the results of tarokka readings to guide your campaign and make sure predictions come to pass.
 
-The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete tarokka deck appear in the adventure Curse of Strahd.
+The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]] appear in the adventure Curse of Strahd.
 
 ### Spirit Board
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.png#center]]
 
-Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the tarokka deck, which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
+Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
 
 This book's "appendix" provides a depiction of a spirit board to use in your adventures, while a planchette to be used with it appears here. The adventure "The House of Lament" later in this chapter features séances employing a spirit board. When making use of this game prop, you take the role of the forces guiding the planchette. Move the planchette subtly to reveal mysterious messages appropriate to your adventures.
 

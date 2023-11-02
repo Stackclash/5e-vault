@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/size/small
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Dretch"]
 ---
-# Dretch
+# [Dretch](compendium\bestiary\fiend/dretch.md)
 *Source: Monster Manual p. 57, Curse of Strahd. Available in the SRD.*  
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
@@ -197,7 +200,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal, telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"

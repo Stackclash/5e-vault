@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/forest
@@ -10,9 +12,10 @@ tags:
 - monster/environment/mountain
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Blood Hawk"]
 ---
-# Blood Hawk
+# [Blood Hawk](compendium\bestiary\beast/blood-hawk.md)
 *Source: Monster Manual p. 319. Available in the SRD and the Basic Rules.*  
 
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
@@ -34,7 +37,7 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 - !!int "5"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "1/8"

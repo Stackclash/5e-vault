@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/desert
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Orthon"]
 ---
-# Orthon
+# [Orthon](compendium\bestiary\fiend/orthon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -19,7 +22,7 @@ Orthons are infamous for their sharp senses. Because an orthon can become invisi
 Orthons value the challenge of the chase and the thrill of one-on-one combat above all else. An orthon's first loyalty is to its archduke, but one with no immediate assignment might work for anyone who promises it a worthy struggle against a lethal foe. Because they travel widely, orthons are unequaled as guides through the layers of the Nine Hells.
 
 ```statblock
-"name": "Orthon"
+"name": "Orthon (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "devil"
@@ -36,17 +39,18 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Constitution": "+9"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Stealth": "+11"
-  "Perception": "+10"
-  "Survival": "+10"
+  "Stealth": !!int "11"
+  "Perception": !!int "10"
+  "Survival": !!int "10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 20"
 "languages": "Common, Infernal, telepathy 120 ft."
 "cr": "10"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/7
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Necrichor"]
 ---
-# Necrichor
+# [Necrichor](compendium\bestiary\undead/necrichor-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 238*  
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -14,7 +17,7 @@ A necrichor is a being of living blood, formed from the ichor of evil gods or th
 Necrichors prove exceptionally difficult to destroy, since they leave a trace of their essence within the veins of every creature they've controlled and can regenerate themselves from those creatures' blood. Unable to extinguish their horrific unlife, virtuous faiths and vigilant organizations (like the Order of the Guardians detailed in chapter 3) seal these viscous horrors in magically warded prisons. As ages pass, though, the knowledge of what these prisons contain and where some lie have been lost. And every imprisoned necrichor understands that its captivity might be lengthy, but time is of little consequence to the ageless.
 
 ```statblock
-"name": "Necrichor"
+"name": "Necrichor (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -30,14 +33,17 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 - !!int "10"
 "speed": "20 ft., climb 20 ft."
 "saves":
-  "Wisdom": "+4"
-  "Intelligence": "+6"
-  "Constitution": "+6"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "6"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Arcana": "+9"
+  "Arcana": !!int "9"
 "damage_resistances": "acid, necrotic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
-  \ paralyzed, poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 11"
 "languages": "any three languages, telepathy 120 ft."
 "cr": "7"

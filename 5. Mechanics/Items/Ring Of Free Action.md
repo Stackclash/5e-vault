@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Free Action"]
+aliases: 
+- "Ring of Free Action"
 ---
 # Ring of Free Action
 *Ring, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-free-action.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [[/5. Mechanics/Rules/Conditions.md#paralyzed\|paralyzed]] or [[/5. Mechanics/Rules/Conditions.md#restrained\|restrained]].
 

@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Paper (one sheet)"]
+aliases: 
+- "Paper (one sheet)"
+cost: 2 sp
 ---
 # Paper (one sheet)
 *Adventuring Gear*  
 
 - **Cost**: 2 sp
-- **Weight**: ⏤
 
 *Source: Player's Handbook p. 150. Available in the SRD and the Basic Rules.*

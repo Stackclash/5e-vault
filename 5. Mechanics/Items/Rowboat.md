@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/vehicle/ship
-aliases: ["Rowboat"]
+aliases: 
+- "Rowboat"
+cost: 50 gp
 ---
 # Rowboat
 *Ship, Vehicle (water)*  

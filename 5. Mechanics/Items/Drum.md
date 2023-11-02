@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/instrument
-aliases: ["Drum"]
+aliases: 
+- "Drum"
+cost: 6 gp
 ---
 # Drum
 *Instrument*  

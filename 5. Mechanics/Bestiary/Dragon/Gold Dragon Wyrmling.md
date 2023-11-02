@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Gold Dragon Wyrmling"]
 ---
-# Gold Dragon Wyrmling
+# [Gold Dragon Wyrmling](compendium\bestiary\dragon/gold-dragon-wyrmling.md)
 *Source: Monster Manual p. 115. Available in the SRD.*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -94,13 +97,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "16"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Charisma": "+5"
-  "Dexterity": "+4"
-  "Wisdom": "+2"
-  "Constitution": "+5"
+  "Charisma": !!int "5"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+4"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

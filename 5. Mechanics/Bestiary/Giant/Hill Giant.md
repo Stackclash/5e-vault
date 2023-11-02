@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/hill
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Hill Giant"]
 ---
-# Hill Giant
+# [Hill Giant](compendium\bestiary\giant/hill-giant.md)
 *Source: Monster Manual p. 155, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
@@ -97,7 +100,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"

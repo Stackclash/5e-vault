@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Lightning Resistance"]
+aliases: 
+- "Potion of Lightning Resistance"
 ---
 # Potion of Lightning Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to lightning damage for 1 hour.
 

@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Eldritch Claw Tattoo"]
+aliases: 
+- "Eldritch Claw Tattoo"
 ---
 # Eldritch Claw Tattoo
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo depicts clawlike forms and other jagged shapes.
 

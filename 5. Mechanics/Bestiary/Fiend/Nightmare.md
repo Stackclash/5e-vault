@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/size/large
 - monster/type/fiend
+statblock: inline
 aliases: ["Nightmare"]
 ---
-# Nightmare
+# [Nightmare](compendium\bestiary\fiend/nightmare.md)
 *Source: Monster Manual p. 235, Curse of Strahd. Available in the SRD.*  
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.

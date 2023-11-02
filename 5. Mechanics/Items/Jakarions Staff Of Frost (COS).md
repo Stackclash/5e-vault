@@ -7,7 +7,8 @@ tags:
 - item/property/versatile
 - item/rarity/very-rare
 - item/wondrous/staff
-aliases: ["Jakarion's Staff of Frost"]
+aliases: 
+- "Jakarion's Staff of Frost"
 ---
 # Jakarion's Staff of Frost
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -15,8 +16,7 @@ aliases: ["Jakarion's Staff of Frost"]
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 You have resistance to cold damage while you hold this staff.

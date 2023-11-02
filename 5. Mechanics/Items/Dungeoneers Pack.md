@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Dungeoneer's Pack"]
+aliases: 
+- "Dungeoneer's Pack"
+cost: 12 gp
 ---
 # Dungeoneer's Pack
 *Adventuring Gear*  

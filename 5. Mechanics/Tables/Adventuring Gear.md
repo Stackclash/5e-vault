@@ -23,7 +23,7 @@ aliases: ["Adventuring Gear"]
 | [[5. Mechanics/Items/Crossbow Bolts-20.md\|Crossbow bolts (20)]] | 1 gp | 1½ lb. |
 | [[5. Mechanics/Items/Sling Bullets-20.md\|Sling bullets (20)]] | 4 cp | 1½ lb. |
 | [[5. Mechanics/Items/Antitoxin Vial.md\|Antitoxin (vial)]] | 50 gp | — |
-| *Arcane focus* |  |  |
+| *[[5. Mechanics/Items/Arcane Focus.md\|Arcane focus]]* |  |  |
 | [[5. Mechanics/Items/Crystal.md\|Crystal]] | 10 gp | 1 lb. |
 | [[5. Mechanics/Items/Orb.md\|Orb]] | 20 gp | 3 lb. |
 | [[5. Mechanics/Items/Rod.md\|Rod]] | 10 gp | 2 lb. |
@@ -53,7 +53,7 @@ aliases: ["Adventuring Gear"]
 | [[5. Mechanics/Items/Travelers Clothes.md\|Clothes, traveler's]] | 2 gp | 4 lb. |
 | [[5. Mechanics/Items/Component Pouch.md\|Component pouch]] | 25 gp | 2 lb. |
 | [[5. Mechanics/Items/Crowbar.md\|Crowbar]] | 2 gp | 5 lb. |
-| *Druidic focus* |  |  |
+| *[[5. Mechanics/Items/Druidic Focus.md\|Druidic focus]]* |  |  |
 | [[5. Mechanics/Items/Sprig Of Mistletoe.md\|Sprig of mistletoe]] | 1 gp | — |
 | [[5. Mechanics/Items/Totem.md\|Totem]] | 1 gp | — |
 | [[5. Mechanics/Items/Wooden Staff.md\|Wooden staff]] | 5 gp | 4 lb. |
@@ -64,7 +64,7 @@ aliases: ["Adventuring Gear"]
 | [[5. Mechanics/Items/Hammer.md\|Hammer]] | 1 gp | 3 lb. |
 | [[5. Mechanics/Items/Sledgehammer.md\|Hammer, sledge]] | 2 gp | 10 lb. |
 | [[5. Mechanics/Items/Healers Kit.md\|Healer's Kit]] | 5 gp | 3 lb. |
-| *Holy symbol* |  |  |
+| *[[5. Mechanics/Items/Holy Symbol.md\|Holy symbol]]* |  |  |
 | [[5. Mechanics/Items/Amulet.md\|Amulet]] | 5 gp | 1 lb. |
 | [[5. Mechanics/Items/Emblem.md\|Emblem]] | 5 gp | — |
 | [[5. Mechanics/Items/Reliquary.md\|Reliquary]] | 5 gp | 2 lb. |

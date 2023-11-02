@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/forest
@@ -12,9 +14,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Vampiric Mist"]
 ---
-# Vampiric Mist
+# [Vampiric Mist](compendium\bestiary\undead/vampiric-mist-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [[5. Mechanics/Bestiary/Undead/Vampire.md|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
@@ -26,7 +29,7 @@ Indistinguishable from fog aside from the charnel reek it exudes, a vampiric mis
 Like sharks in water, vampiric mists can scent blood from up to a mile away. Any injury, no matter how small, might catch their attention and draw them toward their victims. In battle, a mist focuses its attacks on injured targets, since open wounds are a more ready source of blood.
 
 ```statblock
-"name": "Vampiric Mist"
+"name": "Vampiric Mist (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -42,12 +45,14 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 - !!int "7"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  "Wisdom": "+3"
+  "Wisdom": !!int "3"
 "damage_resistances": "acid; cold; lightning; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"

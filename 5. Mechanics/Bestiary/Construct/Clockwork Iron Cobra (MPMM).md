@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Clockwork Iron Cobra"]
 ---
-# Clockwork Iron Cobra
+# [Clockwork Iron Cobra](compendium\bestiary\construct/clockwork-iron-cobra-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
@@ -54,7 +57,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 ^clockwork-malfunctions
 
 ```statblock
-"name": "Clockwork Iron Cobra"
+"name": "Clockwork Iron Cobra (MPMM)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Unaligned"
@@ -70,9 +73,11 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 - !!int "1"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+7"
+  "Stealth": !!int "7"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "4"

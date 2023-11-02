@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Turquoise"]
+aliases: 
+- "Turquoise"
+cost: 10 gp
 ---
 # Turquoise
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque light blue-green gemstone.
 

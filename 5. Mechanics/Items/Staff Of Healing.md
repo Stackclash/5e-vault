@@ -8,16 +8,17 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of Healing"]
+aliases: 
+- "Staff of Healing"
 ---
 # Staff of Healing
 *Staff, major, rare (requires attunement by a bard, cleric, or druid)*  
+![[5. Mechanics/Items/img/staff-of-healing.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] (1 charge per spell level, up to 4th), [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] (2 charges). or [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] (5 charges).

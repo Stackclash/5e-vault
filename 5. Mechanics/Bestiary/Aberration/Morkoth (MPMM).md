@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Morkoth"]
 ---
-# Morkoth
+# [Morkoth](compendium\bestiary\aberration/morkoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -30,7 +33,7 @@ A morkoth claims dominion over an entire island, and it also maintains a central
 A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 
 ```statblock
-"name": "Morkoth"
+"name": "Morkoth (MPMM)"
 "size": "Large"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -46,14 +49,14 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 - !!int "13"
 "speed": "25 ft., swim 50 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+6"
-  "Intelligence": "+9"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "9"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+10"
-  "History": "+9"
-  "Arcana": "+9"
+  "Stealth": !!int "6"
+  "Perception": !!int "10"
+  "History": !!int "9"
+  "Arcana": !!int "9"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 "languages": "telepathy 120 ft."
 "cr": "11"

@@ -7,14 +7,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Hat of Disguise"]
+aliases: 
+- "Hat of Disguise"
 ---
 # Hat of Disguise
 *Wondrous Item, major, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this hat, you can use an action to cast the [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell from it at will. The spell ends if the hat is removed.
 

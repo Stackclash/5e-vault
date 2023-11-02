@@ -79,12 +79,12 @@ The interior of the wagon contains the following items:
 - A [[5. Mechanics/Items/Climbers Kit.md\|climber's kit]], a [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]], a [[5. Mechanics/Items/Healers Kit.md\|healer's kit]], and a [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]  
 - A lyre with golden strings (worth 50 gp)  
 - A sculpted wooden cage holding a chicken and a silver ewer (worth 100 gp) with five chicken eggs in it  
-- A tiny wooden box containing a deck of tarokka cards (see appendix E) wrapped in silk  
+- A tiny wooden box containing a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] (see appendix E) wrapped in silk  
 - A set of copper pots and pans (worth 50 gp)  
 - Three sets of [[5. Mechanics/Items/Manacles.md\|manacles]]  
 - A [[5. Mechanics/Items/Shovel.md\|shovel]]  
-- A wooden chest containing a gold holy symbol of the Morninglord (worth 100 gp), three [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[5. Mechanics/Items/Spyglass.md\|spyglass]]  
-- Two spell scrolls ([[5. Mechanics/Spells/Major Image.md\|major image]] and [[5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
+- A wooden chest containing a gold [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] of the Morninglord (worth 100 gp), three [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[5. Mechanics/Items/Spyglass.md\|spyglass]]  
+- Two [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Major Image.md\|major image]] and [[5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
 - A map of Barovia (showing all the locations marked on this adventure's map of Barovia)  
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).  
 

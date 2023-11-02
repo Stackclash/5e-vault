@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/19
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Red Abishai"]
 ---
-# Red Abishai
+# [Red Abishai](compendium\bestiary\fiend/red-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
@@ -22,7 +25,7 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
 ```statblock
-"name": "Red Abishai"
+"name": "Red Abishai (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -39,16 +42,17 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "19"
 "speed": "30 ft., fly 50 ft."
 "saves":
-  "Wisdom": "+8"
-  "Strength": "+12"
-  "Constitution": "+10"
+  "Wisdom": !!int "8"
+  "Strength": !!int "12"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Intimidation": "+10"
-  "Perception": "+8"
+  "Intimidation": !!int "10"
+  "Perception": !!int "8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "19"

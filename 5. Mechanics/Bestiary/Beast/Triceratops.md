@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/grassland
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Triceratops"]
 ---
-# Triceratops
+# [Triceratops](compendium\bestiary\beast/triceratops.md)
 *Source: Monster Manual p. 80. Available in the SRD and the Basic Rules.*  
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.

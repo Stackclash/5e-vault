@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/coastal
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Bronze Dragon"]
 ---
-# Young Bronze Dragon
+# [Young Bronze Dragon](compendium\bestiary\dragon/young-bronze-dragon.md)
 *Source: Monster Manual p. 108. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -93,14 +96,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "17"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+3"
-  "Wisdom": "+4"
-  "Constitution": "+7"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "3"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Stealth": "+3"
-  "Insight": "+4"
-  "Perception": "+7"
+  "Stealth": !!int "3"
+  "Insight": !!int "4"
+  "Perception": !!int "7"
 "damage_immunities": "lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"

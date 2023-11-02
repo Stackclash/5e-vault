@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/14
 - monster/environment/hill
 - monster/size/huge
 - monster/type/dragon
+statblock: inline
 aliases: ["Adult Copper Dragon"]
 ---
-# Adult Copper Dragon
+# [Adult Copper Dragon](compendium\bestiary\dragon/adult-copper-dragon.md)
 *Source: Monster Manual p. 112. Available in the SRD.*  
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -93,14 +96,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "17"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+6"
-  "Wisdom": "+7"
-  "Constitution": "+10"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Deception": "+8"
-  "Stealth": "+6"
-  "Perception": "+12"
+  "Deception": !!int "8"
+  "Stealth": !!int "6"
+  "Perception": !!int "12"
 "damage_immunities": "acid"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
 "languages": "Common, Draconic"

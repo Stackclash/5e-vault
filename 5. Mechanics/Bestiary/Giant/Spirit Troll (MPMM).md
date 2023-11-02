@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/coastal
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Spirit Troll"]
 ---
-# Spirit Troll
+# [Spirit Troll](compendium\bestiary\giant/spirit-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -26,7 +29,7 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
 ```statblock
-"name": "Spirit Troll"
+"name": "Spirit Troll (MPMM)"
 "size": "Large"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
@@ -42,11 +45,13 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, prone, restrained,\
-  \ unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Giant"
 "cr": "11"

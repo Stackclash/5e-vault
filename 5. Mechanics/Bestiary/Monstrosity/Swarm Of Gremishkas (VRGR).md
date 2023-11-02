@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/2
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Swarm of Gremishkas"]
 ---
-# Swarm of Gremishkas
+# [Swarm of Gremishkas](compendium\bestiary\monstrosity/swarm-of-gremishkas-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 235*  
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
@@ -16,7 +19,7 @@ Despite their feral appearances, gremishkas are cunning creatures. They might im
 Gremishkas have an unstable relationship with magic. Spells cast near a gremishka might rebound onto those nearby or cause the monster to explode, its scaly chunks rapidly reforming into duplicate gremishkas. These spontaneously created swarms can rapidly turn a single annoying gremishka into a chittering, magic-reflecting wave of teeth and claws.
 
 ```statblock
-"name": "Swarm of Gremishkas"
+"name": "Swarm of Gremishkas (VRGR)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -32,10 +35,12 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 - !!int "4"
 "speed": "25 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 30 ft., passive Perception 14"
 "languages": "understands Common but can't speak"
 "cr": "2"

@@ -7,7 +7,9 @@ tags:
 - item/property/martial
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Greatsword"]
+aliases: 
+- "Greatsword"
+cost: 50 gp
 ---
 # Greatsword
 *Melee Weapon*  

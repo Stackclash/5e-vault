@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/18
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
 aliases: ["Demilich"]
 ---
-# Demilich
+# [Demilich](compendium\bestiary\undead/demilich.md)
 *Source: Monster Manual p. 48*  
 
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
@@ -63,15 +66,18 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 - !!int "20"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": "+11"
-  "Wisdom": "+9"
-  "Intelligence": "+11"
-  "Constitution": "+6"
+  "Charisma": !!int "11"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "11"
+  "Constitution": !!int "6"
 "damage_resistances": "bludgeoning, piercing, slashing from magic weapons"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "charmed, deafened, exhaustion, frightened, paralyzed, petrified,\
-  \ poisoned, prone, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": ""
 "cr": "18"

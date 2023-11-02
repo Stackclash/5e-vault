@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Gorgon"]
 ---
-# Gorgon
+# [Gorgon](compendium\bestiary\monstrosity/gorgon.md)
 *Source: Monster Manual p. 171. Available in the SRD.*  
 
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
@@ -39,8 +42,8 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
 - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+4"
-"condition_immunities": "petrified"
+  "Perception": !!int "4"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "5"

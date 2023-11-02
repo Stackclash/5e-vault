@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/24
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Yeenoghu"]
 ---
-# Yeenoghu
+# [Yeenoghu](compendium\bestiary\npc/yeenoghu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270*  
 
 The Beast of Butchery appears as a great scarred gnoll, towering 14 feet tall. Yeenoghu is the Gnoll Lord, and his creations are made in his twisted image. When the demon lord hunted across the Material Plane, packs of hyenas followed in his wake, and those that ate of great Yeenoghu's kills became gnolls. Few others worship the Beast of Butchery, but those who do tend to take on a gnoll-like aspect, hunching over and filing their teeth down to points.
@@ -27,7 +30,7 @@ Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and rav
 The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his lair.
 
 ```statblock
-"name": "Yeenoghu"
+"name": "Yeenoghu (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -44,15 +47,16 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 - !!int "15"
 "speed": "50 ft."
 "saves":
-  "Dexterity": "+10"
-  "Wisdom": "+14"
-  "Constitution": "+15"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "14"
+  "Constitution": !!int "15"
 "skillsaves":
-  "Intimidation": "+9"
-  "Perception": "+14"
+  "Intimidation": !!int "9"
+  "Perception": !!int "14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "24"

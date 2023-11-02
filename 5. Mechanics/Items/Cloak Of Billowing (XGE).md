@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Cloak of Billowing"]
+aliases: 
+- "Cloak of Billowing"
 ---
 # Cloak of Billowing
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this cloak, you can use a bonus action to make it billow dramatically.
 

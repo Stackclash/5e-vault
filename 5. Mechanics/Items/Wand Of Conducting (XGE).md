@@ -6,12 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous/wand
-aliases: ["Wand of Conducting"]
+aliases: 
+- "Wand of Conducting"
 ---
 # Wand of Conducting
 *Wand, minor, common*  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and create orchestral music by waving it around. The music can be heard out to a range of 60 feet and ends when you stop waving the wand.

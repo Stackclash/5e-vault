@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tools
-aliases: ["Poisoner's Kit"]
+aliases: 
+- "Poisoner's Kit"
+cost: 50 gp
 ---
 # Poisoner's Kit
 *Tools*  

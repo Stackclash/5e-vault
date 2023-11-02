@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Burglar's Pack"]
+aliases: 
+- "Burglar's Pack"
+cost: 16 gp
 ---
 # Burglar's Pack
 *Adventuring Gear*  

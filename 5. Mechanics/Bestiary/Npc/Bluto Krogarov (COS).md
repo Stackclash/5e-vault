@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Bluto Krogarov"]
 ---
-# Bluto Krogarov
+# [Bluto Krogarov](compendium\bestiary\npc/bluto-krogarov-cos.md)
 *Source: Curse of Strahd p. 38, Derived from *  
 
 ```statblock
-"name": "Bluto Krogarov"
+"name": "Bluto Krogarov (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/arctic
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Ice Mephit"]
 ---
-# Ice Mephit
+# [Ice Mephit](compendium\bestiary\elemental/ice-mephit.md)
 *Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits
@@ -41,11 +44,11 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+2"
+  "Stealth": !!int "3"
+  "Perception": !!int "2"
 "damage_vulnerabilities": "bludgeoning, fire"
 "damage_immunities": "cold, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Aquan, Auran"
 "cr": "1/2"

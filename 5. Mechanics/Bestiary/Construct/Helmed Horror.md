@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Helmed Horror"]
 ---
-# Helmed Horror
+# [Helmed Horror](compendium\bestiary\construct/helmed-horror.md)
 *Source: Monster Manual p. 183*  
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
@@ -40,12 +43,14 @@ A helmed horror doesn't require air, food, drink, or sleep.
 - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "force, necrotic, poison"
-"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
-  \ poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"

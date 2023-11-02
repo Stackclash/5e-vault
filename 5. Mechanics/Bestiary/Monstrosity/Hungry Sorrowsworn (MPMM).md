@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/forest
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Hungry Sorrowsworn"]
 ---
-# Hungry Sorrowsworn
+# [Hungry Sorrowsworn](compendium\bestiary\monstrosity/hungry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223*  
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
@@ -19,7 +22,7 @@ Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—
 The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnations of the plane's bleak nature. Sorrowsworn embody the forms of suffering inherent to the shadowy landscape and visit horror on those who stumble into their midst. Each sorrowsworn personifies a different aspect of despair or distress.
 
 ```statblock
-"name": "Hungry Sorrowsworn"
+"name": "Hungry Sorrowsworn (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"

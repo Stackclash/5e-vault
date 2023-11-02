@@ -144,8 +144,8 @@ The wooden chest in the hut is protected by a [[5. Mechanics/Spells/Glyph Of War
 - 1,300 gp  
 - Five 500 gp gemstones  
 - A vial containing [[5. Mechanics/Items/Oil Of Sharpness.md\|oil of sharpness]]  
-- Two spell scrolls ([[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] and [[5. Mechanics/Spells/Revivify.md\|revivify]])  
-- A pouch containing ten +1 sling bullets  
+- Two [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] and [[5. Mechanics/Spells/Revivify.md\|revivify]])  
+- A pouch containing ten [+1 sling bullets](compendium/items/1-ammunition.md)  
 - A set of [[5. Mechanics/Items/Pipes Of Haunting.md\|pipes of haunting]]  
 - A [[5. Mechanics/Items/Stone Of Good Luck.md\|stone of good luck (luckstone)]]  
 

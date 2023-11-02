@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/martial
 - item/weapon/martial/melee
-aliases: ["War Pick"]
+aliases: 
+- "War Pick"
+cost: 5 gp
 ---
 # War Pick
 *Melee Weapon*  

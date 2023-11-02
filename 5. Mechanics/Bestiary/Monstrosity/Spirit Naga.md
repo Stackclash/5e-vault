@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Spirit Naga"]
 ---
-# Spirit Naga
+# [Spirit Naga](compendium\bestiary\monstrosity/spirit-naga.md)
 *Source: Monster Manual p. 234. Available in the SRD.*  
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
@@ -53,12 +56,12 @@ A naga doesn't require air, food, drink, or sleep.
 - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+6"
-  "Wisdom": "+5"
-  "Constitution": "+5"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
@@ -68,14 +71,13 @@ A naga doesn't require air, food, drink, or sleep.
     \ only verbal components to cast its spells. It has the following wizard spells\
     \ prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Charm Person.md|charm person]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Charm Person.md|charm person]],\
     \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Blight.md|blight]], [dimension\
-    \ door](compendium/spells/dimension-door.md)\n\n5th level (2 5th-level slots):\
-    \ [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
+    \n5th level (2 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
   "name": "spells"
 - "desc": "If it dies, the naga returns to life in dice: 1d6|avg (1d6) days and\
     \ regains all its hit points. Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can\

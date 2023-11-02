@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Izek Strazni"]
 ---
-# Izek Strazni
+# [Izek Strazni](compendium\bestiary\npc/izek-strazni-cos.md)
 *Source: Curse of Strahd p. 232*  
 
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
@@ -46,7 +49,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 "I would do anything, kill anything, to find my sister."
 
 ```statblock
-"name": "Izek Strazni"
+"name": "Izek Strazni (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -63,8 +66,8 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+8"
-  "Perception": "+2"
+  "Intimidation": !!int "8"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "5"

@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/common
 - item/wondrous
-aliases: ["Scribe's Pen"]
+aliases: 
+- "Scribe's Pen"
 ---
 # Scribe's Pen
 *Wondrous Item, common (requires attunement by a creature with the Mark of Scribing)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You can use this pen to write on any surface. You decide whether the writing is visible or [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]], but the writing is always visible to a person with the Mark of Scribing.
 

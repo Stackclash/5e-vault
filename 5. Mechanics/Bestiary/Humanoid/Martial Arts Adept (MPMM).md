@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Martial Arts Adept"]
 ---
-# Martial Arts Adept
+# [Martial Arts Adept](compendium\bestiary\humanoid/martial-arts-adept-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172*  
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
@@ -29,7 +32,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 ^martial-arts-adept-tattoos
 
 ```statblock
-"name": "Martial Arts Adept"
+"name": "Martial Arts Adept (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -45,9 +48,9 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Insight": "+5"
-  "Acrobatics": "+5"
+  "Stealth": !!int "5"
+  "Insight": !!int "5"
+  "Acrobatics": !!int "5"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common)"
 "cr": "3"

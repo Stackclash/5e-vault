@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/gnoll
+statblock: inline
 aliases: ["Gnoll"]
 ---
-# Gnoll
+# [Gnoll](compendium\bestiary\humanoid/gnoll.md)
 *Source: Monster Manual p. 163, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.

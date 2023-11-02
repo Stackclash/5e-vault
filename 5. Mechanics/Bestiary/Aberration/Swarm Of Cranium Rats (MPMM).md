@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Swarm of Cranium Rats"]
 ---
-# Swarm of Cranium Rats
+# [Swarm of Cranium Rats](compendium\bestiary\aberration/swarm-of-cranium-rats-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat
@@ -18,7 +21,7 @@ Mind flayers create cranium rats by bombarding rats with psionic energy. Cranium
 A single cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us." Some mind flayer colonies use cranium rats as spies. The rats invade communities and act as eyes and ears for the colony's elder brain, transmitting their thoughts when they swarm and are within range of the elder brain's telepathy.
 
 ```statblock
-"name": "Swarm of Cranium Rats"
+"name": "Swarm of Cranium Rats (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Typically  Lawful Evil"
@@ -34,8 +37,10 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 - !!int "14"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "telepathy 30 ft."
 "cr": "5"

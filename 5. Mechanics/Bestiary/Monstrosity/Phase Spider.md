@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
@@ -10,9 +12,10 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Phase Spider"]
 ---
-# Phase Spider
+# [Phase Spider](compendium\bestiary\monstrosity/phase-spider.md)
 *Source: Monster Manual p. 334. Available in the SRD and the Basic Rules.*  
 
 A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
@@ -34,7 +37,7 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": "+6"
+  "Stealth": !!int "6"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Ankheg"]
 ---
-# Ankheg
+# [Ankheg](compendium\bestiary\monstrosity/ankheg.md)
 *Source: Monster Manual p. 21. Available in the SRD.*  
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.

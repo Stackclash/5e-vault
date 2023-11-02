@@ -4,10 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Healer's Kit"]
+aliases: 
+- "Healer's Kit"
+cost: 5 gp
 ---
 # Healer's Kit
 *Adventuring Gear*  
+![[5. Mechanics/Items/img/healers-kit.jpg#right]]  
 
 - **Cost**: 5 gp
 - **Weight**: 3.0 lbs.

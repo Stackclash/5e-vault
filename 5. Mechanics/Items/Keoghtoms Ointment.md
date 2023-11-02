@@ -6,13 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Keoghtom's Ointment"]
+aliases: 
+- "Keoghtom's Ointment"
 ---
 # Keoghtom's Ointment
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/keoghtoms-ointment.jpg#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This glass jar, 3 inches in diameter, contains `dice: 1d4 + 1|avg` (`1d4 + 1`) doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh ½ pound.
 

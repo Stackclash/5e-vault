@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-8
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Dolphin"]
 ---
-# Dolphin
+# [Dolphin](compendium\bestiary\beast/dolphin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
@@ -18,7 +21,7 @@ Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds
 Dolphins are clever, social marine mammals that feed on small fish and squid. An adult specimen is between 5 and 6 feet long.
 
 ```statblock
-"name": "Dolphin"
+"name": "Dolphin (MPMM)"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -34,7 +37,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 - !!int "7"
 "speed": "0 ft., swim 60 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/8"

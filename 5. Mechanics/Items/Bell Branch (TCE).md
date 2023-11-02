@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Bell Branch"]
+aliases: 
+- "Bell Branch"
 ---
 # Bell Branch
 *Wondrous Item, rare (requires attunement by a druid or warlock)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This silver implement is shaped like a tree branch and is strung with small golden bells. The branch is a spellcasting focus for your spells while you hold it.
 

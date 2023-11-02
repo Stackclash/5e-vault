@@ -7,14 +7,12 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Cloak of Arachnida"]
+aliases: 
+- "Cloak of Arachnida"
 ---
 # Cloak of Arachnida
 *Wondrous Item, major, very rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
 

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Ghast"]
 ---
-# Ghast
+# [Ghast](compendium\bestiary\undead/ghast.md)
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the SRD.*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -44,7 +47,8 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "2"

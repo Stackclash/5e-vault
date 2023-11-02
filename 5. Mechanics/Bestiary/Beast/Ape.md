@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/forest
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Ape"]
 ---
-# Ape
+# [Ape](compendium\bestiary\beast/ape.md)
 *Source: Monster Manual p. 317. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -27,8 +30,8 @@ aliases: ["Ape"]
 - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Perception": "+3"
+  "Athletics": !!int "5"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/2"

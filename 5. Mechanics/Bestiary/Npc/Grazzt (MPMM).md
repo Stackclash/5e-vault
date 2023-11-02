@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/24
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Graz'zt"]
 ---
-# Graz'zt
+# [Graz'zt](compendium\bestiary\npc/grazzt-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148*  
 
 The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
@@ -29,7 +32,7 @@ Graz'zt's principal lair is his Argent Palace, a grandiose structure in the city
 Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery and decorations so decadent that even the wealthiest of mortals would blush at the excess. Within Graz'zt's lairs, devotees and subjects alike are forced to slake Graz'zt's thirst for pageantry.
 
 ```statblock
-"name": "Graz'zt"
+"name": "Graz'zt (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -46,16 +49,17 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
 - !!int "26"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+9"
-  "Wisdom": "+12"
-  "Constitution": "+12"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "12"
+  "Constitution": !!int "12"
 "skillsaves":
-  "Deception": "+15"
-  "Perception": "+12"
-  "Persuasion": "+15"
+  "Deception": !!int "15"
+  "Perception": !!int "12"
+  "Persuasion": !!int "15"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "24"

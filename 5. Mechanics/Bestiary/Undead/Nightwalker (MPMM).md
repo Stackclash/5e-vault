@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/20
 - monster/environment/arctic
 - monster/environment/desert
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/undead
+statblock: inline
 aliases: ["Nightwalker"]
 ---
-# Nightwalker
+# [Nightwalker](compendium\bestiary\undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -20,7 +23,7 @@ One can reach the Negative Plane from the Shadowfell in places where the barrier
 Generally, a nightwalker on the Material Plane is attracted to elements of the world associated with the creature responsible for its creation, which can provide clues as to who the trapped creature is. This attraction doesn't indicate a willingness to engage with the world, though; nightwalkers exist to make life extinct, and they prioritize anything associated with the trapped creature for destruction.
 
 ```statblock
-"name": "Nightwalker"
+"name": "Nightwalker (MPMM)"
 "size": "Huge"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -36,12 +39,15 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 - !!int "8"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Constitution": "+13"
+  "Constitution": !!int "13"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": ""
 "cr": "20"

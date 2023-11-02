@@ -146,7 +146,7 @@ The sidekick uses its spellcasting ability whenever a spell refers to that abili
 
 #### Spellcasting Focus
 
-The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a musical instrument.
+The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]].
 
 ### Ability Score Improvement (Level 4)
 

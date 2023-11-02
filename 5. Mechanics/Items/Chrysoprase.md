@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Chrysoprase"]
+aliases: 
+- "Chrysoprase"
+cost: 50 gp
 ---
 # Chrysoprase
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 A translucent green gemstone.
 

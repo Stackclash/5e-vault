@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Bulette"]
 ---
-# Bulette
+# [Bulette](compendium\bestiary\monstrosity/bulette.md)
 *Source: Monster Manual p. 34. Available in the SRD.*  
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
@@ -47,7 +50,7 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  "Perception": "+6"
+  "Perception": !!int "6"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"

@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/common
 - item/wondrous
-aliases: ["Illuminator's Tattoo"]
+aliases: 
+- "Illuminator's Tattoo"
 ---
 # Illuminator's Tattoo
 *Wondrous Item, common (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo features beautiful calligraphy, images of writing implements, and the like.
 

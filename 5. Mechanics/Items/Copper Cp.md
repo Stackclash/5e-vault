@@ -4,10 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/wealth
-aliases: ["Copper (cp)"]
+aliases: 
+- "Copper (cp)"
+cost: 1 cp
 ---
 # Copper (cp)
 *Treasure*  
+![[5. Mechanics/Items/img/copper-cp.jpg#right]]  
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Priestess of Lolth"]
 ---
-# Drow Priestess of Lolth
+# [Drow Priestess of Lolth](compendium\bestiary\humanoid/drow-priestess-of-lolth.md)
 *Source: Monster Manual p. 129*  
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
@@ -86,14 +89,14 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Constitution": "+4"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Stealth": "+5"
-  "Religion": "+4"
-  "Insight": "+6"
-  "Perception": "+6"
+  "Stealth": !!int "5"
+  "Religion": !!int "4"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "8"
@@ -109,17 +112,16 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Animal Friendship.md|animal friendship]],\
     \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Poison And Disease.md|detect poison and disease]],\
-    \ [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection\
-    \ from poison](compendium/spells/protection-from-poison.md), [[5. Mechanics/Spells/Web.md|web]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
+    \ [[5. Mechanics/Spells/Ray Of Sickness.md|ray of sickness]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
+    \ poison](compendium/spells/protection-from-poison.md), [[5. Mechanics/Spells/Web.md|web]]\n\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
     \ (2 [[5. Mechanics/Bestiary/Beast/Giant Spider.md|giant spiders]]), [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Divination.md|divination]],\
-    \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (2 5th-level slots): [[5. Mechanics/Spells/Insect Plague.md|insect plague]],\
-    \ [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Divination.md|divination]], [freedom\
+    \ of movement](compendium/spells/freedom-of-movement.md)\n\n5th level (2 slots):\
+    \ [[5. Mechanics/Spells/Insect Plague.md|insect plague]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]]"
   "name": "spells"
 - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the drow to sleep."

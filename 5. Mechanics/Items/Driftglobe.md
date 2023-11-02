@@ -6,12 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Driftglobe"]
+aliases: 
+- "Driftglobe"
 ---
 # Driftglobe
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/driftglobe.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the [[5. Mechanics/Spells/Light.md\|light]] or [[5. Mechanics/Spells/Daylight.md\|daylight]] spell. Once used, the [[5. Mechanics/Spells/Daylight.md\|daylight]] effect can't be used again until the next dawn.

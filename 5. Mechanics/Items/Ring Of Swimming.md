@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/ring
-aliases: ["Ring of Swimming"]
+aliases: 
+- "Ring of Swimming"
 ---
 # Ring of Swimming
 *Ring, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have a swimming speed of 40 feet while wearing this ring.
 

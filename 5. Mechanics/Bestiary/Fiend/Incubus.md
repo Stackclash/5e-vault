@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/shapechanger
+statblock: inline
 aliases: ["Incubus"]
 ---
-# Incubus
+# [Incubus](compendium\bestiary\fiend/incubus.md)
 *Source: Monster Manual p. 285, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
@@ -50,11 +53,11 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
 - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Deception": "+9"
-  "Stealth": "+7"
-  "Insight": "+5"
-  "Perception": "+5"
-  "Persuasion": "+9"
+  "Deception": !!int "9"
+  "Stealth": !!int "7"
+  "Insight": !!int "5"
+  "Perception": !!int "5"
+  "Persuasion": !!int "9"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 15"

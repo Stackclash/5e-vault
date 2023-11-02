@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/cleric
+statblock: inline
 aliases: ["Choldrith"]
 ---
-# Choldrith
+# [Choldrith](compendium\bestiary\monstrosity/choldrith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -19,7 +22,7 @@ At first, these devotees were unaware that the new creatures, which they dubbed 
 Choldriths are born with a mystical connection to Lolth, which gives them divine magic. They also make up the ruling caste of most chitine colonies. A colony can support numerous choldriths, who serve as commanders, priests, and supervisors. The choldriths continually jockey for position, although they rarely confront one another in a way that puts the colony at risk. The colony is ruled by a sovereign, who determines which colony members perform which tasks, including whether a choldrith is permitted to lay eggs. Sometimes a choldrith ruler receives a vision from Lolth that inspires the entire colony into some grand, often violent, action.
 
 ```statblock
-"name": "Choldrith"
+"name": "Choldrith (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "cleric"
@@ -36,9 +39,9 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 - !!int "10"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Stealth": "+5"
-  "Religion": "+2"
+  "Athletics": !!int "5"
+  "Stealth": !!int "5"
+  "Religion": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"

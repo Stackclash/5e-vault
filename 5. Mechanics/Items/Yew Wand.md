@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/spellcasting-focus
-aliases: ["Yew Wand"]
+aliases: 
+- "Yew Wand"
+cost: 10 gp
 ---
 # Yew Wand
 *Spellcasting Focus*  

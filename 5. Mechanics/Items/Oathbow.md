@@ -11,15 +11,16 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/weapon/martial/ranged
-aliases: ["Oathbow"]
+aliases: 
+- "Oathbow"
 ---
 # Oathbow
 *Ranged Weapon, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/oathbow.jpg#right]]  
 
 - **Damage**: 1d8 P
 - **Range**: 150/600
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Weight**: 2.0 lbs.
 
 When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.

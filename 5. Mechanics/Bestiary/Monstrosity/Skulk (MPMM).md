@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/environment/coastal
 - monster/environment/forest
 - monster/environment/swamp
@@ -9,9 +11,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Skulk"]
 ---
-# Skulk
+# [Skulk](compendium\bestiary\monstrosity/skulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -25,7 +28,7 @@ A skulk can be summoned from the Shadowfell by performing a ritual, and it is bo
 Cruel and chaotic, skulks carry out their orders in the most violent manner possible. A summoned skulk can't return to the Shadowfell until it dies, so many throw themselves into creating bloodshed and mayhem with no regard for their own lives. After killing a person on the Material Plane, some skulks take up a silent imitation of that person's life. In extreme cases, skulks have invaded villages, killed all the occupants, and turned the places into seeming ghost towns where flavorless food is prepared daily, colorless clothes are hung up to dry, and livestock is shifted from pen to pen until it starves.
 
 ```statblock
-"name": "Skulk"
+"name": "Skulk (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Neutral"
@@ -41,10 +44,10 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 - !!int "1"
 "speed": "30 ft."
 "saves":
-  "Constitution": "+2"
+  "Constitution": !!int "2"
 "skillsaves":
-  "Stealth": "+8"
-"condition_immunities": "blinded"
+  "Stealth": !!int "8"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
 "senses": "darkvision 120 ft., passive Perception 8"
 "languages": "understands Common but can't speak"
 "cr": "1/2"

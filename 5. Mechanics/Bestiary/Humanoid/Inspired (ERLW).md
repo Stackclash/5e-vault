@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Inspired"]
 ---
-# Inspired
+# [Inspired](compendium\bestiary\humanoid/inspired-erlw.md)
 *Source: Eberron: Rising from the Last War p. 294*  
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -16,7 +19,7 @@ Any humanoid who can dream can volunteer to serve as a quori vessel. But the Ins
 Most of the people of the Five Nations have heard of the Inspired lords in Riedra—never realizing that Inspired are spread throughout Khorvaire as well. Beggars and generals, mayors and merchants might all be secret servants of the Dreaming Dark. Such Inspired have to willingly accept quori possession, but the Dreaming Dark has long experience in weaving dreams that can convince mortals to surrender their bodies.
 
 ```statblock
-"name": "Inspired"
+"name": "Inspired (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -33,14 +36,14 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+2"
-  "Intelligence": "+5"
+  "Wisdom": !!int "2"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Deception": "+7"
-  "Insight": "+2"
-  "Persuasion": "+7"
+  "Deception": !!int "7"
+  "Insight": !!int "2"
+  "Persuasion": !!int "7"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "passive Perception 10"
 "languages": "Common, Quori"
 "cr": "2"

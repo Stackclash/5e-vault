@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/6
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Dusk Hag"]
 ---
-# Dusk Hag
+# [Dusk Hag](compendium\bestiary\fey/dusk-hag-erlw.md)
 *Source: Eberron: Rising from the Last War p. 292*  
 
 Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair, and eyes that burn like hot coals. They see visions of the future in their dreams, and their dark magic allows them to influence the dreams of others, sending messages or inflicting nightmares with a touch. Tales talk of ambitious wizards, frantic monarchs, and desperate heroes undertaking quests or making bargains with a dusk hag in exchange for its prophecies and visions of the future. But the information gained from a dusk hag often has a way of causing more pain than joy. Like all hags, dusk hags enjoy causing strife to those who bargain with them, and find ways to twist and turn promises to their own advantage. The Dusk Hag Prophecies table provides examples of the sort of dreams dusk hags might share with unsuspecting sleepers.
@@ -28,7 +31,7 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
 ^dusk-hag-prophecies
 
 ```statblock
-"name": "Dusk Hag"
+"name": "Dusk Hag (ERLW)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Neutral Evil"
@@ -44,13 +47,14 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+6"
-  "Intelligence": "+6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "Deception": "+7"
-  "Insight": "+6"
-  "Perception": "+6"
-"condition_immunities": "blinded, charmed, frightened"
+  "Deception": !!int "7"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "blindsight 60 ft., passive Perception 16"
 "languages": "Common, Giant, Infernal"
 "cr": "6"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/coastal
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/underwater
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Wastrilith"]
 ---
-# Wastrilith
+# [Wastrilith](compendium\bestiary\fiend/wastrilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258*  
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
@@ -20,7 +23,7 @@ A wastrilith pollutes the waters around it. Its noxious presence even affects ne
 Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilementchapter 2 of the Dungeon Master's Guide, you can use the [[5. Mechanics/Tables/Optional Rule Abyssal Corruption Abyssal Corruption.md|optional rule on abyssal corruption]] in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
 
 ```statblock
-"name": "Wastrilith"
+"name": "Wastrilith (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "demon"
@@ -37,12 +40,12 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 - !!int "14"
 "speed": "30 ft., swim 80 ft."
 "saves":
-  "Strength": "+9"
-  "Constitution": "+10"
+  "Strength": !!int "9"
+  "Constitution": !!int "10"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/9
 - monster/environment/coastal
 - monster/environment/desert
 - monster/size/large
 - monster/type/dragon
+statblock: inline
 aliases: ["Young Blue Dragon"]
 ---
-# Young Blue Dragon
+# [Young Blue Dragon](compendium\bestiary\dragon/young-blue-dragon.md)
 *Source: Monster Manual p. 91, Curse of Strahd. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -112,13 +115,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "17"
 "speed": "40 ft., burrow 20 ft., fly 80 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+4"
-  "Wisdom": "+5"
-  "Constitution": "+8"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "4"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+9"
+  "Stealth": !!int "4"
+  "Perception": !!int "9"
 "damage_immunities": "lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
 "languages": "Common, Draconic"

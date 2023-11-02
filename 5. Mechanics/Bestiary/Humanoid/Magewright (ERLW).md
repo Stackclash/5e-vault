@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Magewright"]
 ---
-# Magewright
+# [Magewright](compendium\bestiary\humanoid/magewright-erlw.md)
 *Source: Eberron: Rising from the Last War p. 318*  
 
 In Khorvaire, magic is part of everyday life. A chef might use [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]] to heat and season food, while a blacksmith uses [[5. Mechanics/Spells/Mending.md|mending]] to perform minor repairs and [[5. Mechanics/Spells/Guidance.md|guidance]] to help inspire their work. Those who work minor magic into their labors are called magewrights.
@@ -32,7 +35,7 @@ The magewright stat block provides the baseline statistics for a magewright. You
 ^magewright-specialties
 
 ```statblock
-"name": "Magewright"
+"name": "Magewright (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -49,7 +52,7 @@ The magewright stat block provides the baseline statistics for a magewright. You
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Arcana": "+4"
+  "Arcana": !!int "4"
 "senses": "passive Perception 12"
 "languages": "Common plus any two languages"
 "cr": "0"

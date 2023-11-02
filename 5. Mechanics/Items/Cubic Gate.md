@@ -6,13 +6,13 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous
-aliases: ["Cubic Gate"]
+aliases: 
+- "Cubic Gate"
 ---
 # Cubic Gate
 *Wondrous Item, major, legendary*  
+![[5. Mechanics/Items/img/cubic-gate.jpg#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the DM.
 

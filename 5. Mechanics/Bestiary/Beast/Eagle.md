@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/coastal
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Eagle"]
 ---
-# Eagle
+# [Eagle](compendium\bestiary\beast/eagle.md)
 *Source: Monster Manual p. 322. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -30,7 +33,7 @@ aliases: ["Eagle"]
 - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "0"

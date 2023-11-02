@@ -8,16 +8,17 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of the Magi"]
+aliases: 
+- "Staff of the Magi"
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-the-magi.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.

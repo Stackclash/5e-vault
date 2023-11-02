@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/forest
 - monster/size/small
 - monster/type/plant
+statblock: inline
 aliases: ["Twig Blight"]
 ---
-# Twig Blight
+# [Twig Blight](compendium\bestiary\plant/twig-blight.md)
 *Source: Monster Manual p. 32, Curse of Strahd. Available in the Basic Rules.*  
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
@@ -56,9 +59,9 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  "Stealth": "+3"
+  "Stealth": !!int "3"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "blinded, deafened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"

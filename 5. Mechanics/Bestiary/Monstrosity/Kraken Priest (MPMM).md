@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Kraken Priest"]
 ---
-# Kraken Priest
+# [Kraken Priest](compendium\bestiary\monstrosity/kraken-priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167*  
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -16,7 +19,7 @@ A kraken can seem godlike to folk who have faced its fury. Those who mistake its
 Every kraken priest undergoes a change in appearance that reflects the kraken's influence, although each one differs in how their reverence is displayed. One kraken priest might have ink-black eyes and a suckered tentacle for a tongue, while another has a featureless face and a body covered in eyes and mouths that dribble seawater. These horrific manifestations intensify when the kraken possesses its minion to utter dire pronouncements.
 
 ```statblock
-"name": "Kraken Priest"
+"name": "Kraken Priest (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
@@ -32,7 +35,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "5"

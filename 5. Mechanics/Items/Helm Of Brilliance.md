@@ -7,14 +7,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Helm of Brilliance"]
+aliases: 
+- "Helm of Brilliance"
 ---
 # Helm of Brilliance
 *Wondrous Item, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/helm-of-brilliance.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This dazzling helm is set with `dice: 1d10|avg` (`1d10`) diamonds, `dice: 2d10|avg` (`2d10`) rubies, `dice: 3d10|avg` (`3d10`) fire opals, and `dice: 4d10|avg` (`4d10`) opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
 

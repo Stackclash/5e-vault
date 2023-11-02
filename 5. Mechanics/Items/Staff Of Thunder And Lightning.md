@@ -8,16 +8,17 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of Thunder and Lightning"]
+aliases: 
+- "Staff of Thunder and Lightning"
 ---
 # Staff of Thunder and Lightning
 *Staff, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/staff-of-thunder-and-lightning.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.

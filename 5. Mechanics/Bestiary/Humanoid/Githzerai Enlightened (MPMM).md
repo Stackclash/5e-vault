@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/gith
+statblock: inline
 aliases: ["Githzerai Enlightened"]
 ---
-# Githzerai Enlightened
+# [Githzerai Enlightened](compendium\bestiary\humanoid/githzerai-enlightened-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143*  
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -19,7 +22,7 @@ Some spiritual githzerai spend long hours in meditation to transcend the limits 
 Githzerai are otherworldly folk with psionic powers who share an ancestral link to githyanki (also in this book). The githzerai followers of the great leader Zaerith Menyar-Ag-Gith are an ascetic people who live apart from the rest of the cosmos, within the confines of fortresses floating through the chaos of Limbo. Instead of imposing their will on other peoples, they focus on controlling and manipulating their endlessly malleable home.
 
 ```statblock
-"name": "Githzerai Enlightened"
+"name": "Githzerai Enlightened (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "gith"
@@ -36,14 +39,14 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 - !!int "13"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+8"
-  "Wisdom": "+8"
-  "Intelligence": "+7"
-  "Strength": "+6"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "7"
+  "Strength": !!int "6"
 "skillsaves":
-  "Insight": "+8"
-  "Perception": "+8"
-  "Arcana": "+7"
+  "Insight": !!int "8"
+  "Perception": !!int "8"
+  "Arcana": !!int "7"
 "senses": "passive Perception 18"
 "languages": "Gith"
 "cr": "10"

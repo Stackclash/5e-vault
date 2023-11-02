@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Lion"]
 ---
-# Lion
+# [Lion](compendium\bestiary\beast/lion.md)
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -30,8 +33,8 @@ aliases: ["Lion"]
 - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+3"
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"

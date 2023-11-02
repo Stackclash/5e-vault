@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/19
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Bael"]
 ---
-# Bael
+# [Bael](compendium\bestiary\npc/bael-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54*  
 
 With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md|barbed devils]], Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
@@ -20,7 +23,7 @@ Bael also welcomes mortals into his service if they can provide him with an adva
 Despite his lack of interest in affairs outside battle, or perhaps because of it, Bael has gained a small following of cultists. Those who worship at his altar call him the King of Hell, and the most deluded believe that he is the lord of all devils. In arcane circles, certain writings, such as the dreaded Book of Fire, say that Bael revealed the invisibility spell to the world, though some scholars of magic hotly refute such claims. Bael is sometimes depicted as a toad, a cat, a human, or some combination of these forms.
 
 ```statblock
-"name": "Bael"
+"name": "Bael (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "devil"
@@ -37,18 +40,19 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 - !!int "24"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+13"
-  "Dexterity": "+9"
-  "Intelligence": "+11"
-  "Constitution": "+11"
+  "Charisma": !!int "13"
+  "Dexterity": !!int "9"
+  "Intelligence": !!int "11"
+  "Constitution": !!int "11"
 "skillsaves":
-  "Intimidation": "+13"
-  "Perception": "+13"
-  "Persuasion": "+13"
+  "Intimidation": !!int "13"
+  "Perception": !!int "13"
+  "Persuasion": !!int "13"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "19"

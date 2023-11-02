@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Ear Horn of Hearing"]
+aliases: 
+- "Ear Horn of Hearing"
 ---
 # Ear Horn of Hearing
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While held up to your ear, this horn suppresses the effects of the [[/5. Mechanics/Rules/Conditions.md#deafened\|deafened]] condition on you, allowing you to hear normally.
 

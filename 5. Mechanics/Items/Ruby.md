@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Ruby"]
+aliases: 
+- "Ruby"
+cost: 5,000 gp
 ---
 # Ruby
 *Treasure*  
 
 - **Cost**: 5,000 gp
-- **Weight**: ⏤
 
 A transparent clear red to deep crimson gemstone.
 

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Deer"]
 ---
-# Deer
+# [Deer](compendium\bestiary\beast/deer.md)
 *Source: Monster Manual p. 321. Available in the SRD and the Basic Rules.*  
 
 ```statblock

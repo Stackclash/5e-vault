@@ -14,7 +14,7 @@ aliases: ["Mounts and Vehicles; Tack, Harness, and Drawn Vehicles"]
 
 | Item | Cost | Weight |
 |------|------|--------|
-| Barding | ×4 | ×2 |
+| [[5. Mechanics/Items/Barding.md\|Barding]] | ×4 | ×2 |
 | [[5. Mechanics/Items/Bit And Bridle.md\|Bit and bridle]] | 2 gp | 1 lb. |
 | [[5. Mechanics/Items/Carriage.md\|Carriage]] | 100 gp | 600 lb. |
 | [[5. Mechanics/Items/Cart.md\|Cart]] | 15 gp | 200 lb. |

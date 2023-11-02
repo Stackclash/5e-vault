@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
@@ -9,9 +11,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend
+statblock: inline
 aliases: ["Barghest"]
 ---
-# Barghest
+# [Barghest](compendium\bestiary\fiend/barghest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60*  
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -23,7 +26,7 @@ A barghest hungers for the day when it can complete its mission, return to Gehen
 Any conflagration larger than its body acts as a gateway to Gehenna and banishes it to that plane, where it is likely to be slain or enslaved by a yugoloth for its failure.
 
 ```statblock
-"name": "Barghest"
+"name": "Barghest (MPMM)"
 "size": "Large"
 "type": "fiend"
 "alignment": "Typically  Neutral Evil"
@@ -39,14 +42,14 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 - !!int "14"
 "speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
-  "Intimidation": "+4"
-  "Deception": "+4"
-  "Stealth": "+4"
-  "Perception": "+5"
+  "Intimidation": !!int "4"
+  "Deception": !!int "4"
+  "Stealth": !!int "4"
+  "Perception": !!int "5"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"

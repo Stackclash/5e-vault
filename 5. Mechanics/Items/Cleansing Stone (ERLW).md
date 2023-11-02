@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/erlw
 - item/rarity/common
 - item/wondrous
-aliases: ["Cleansing Stone"]
+aliases: 
+- "Cleansing Stone"
 ---
 # Cleansing Stone
 *Wondrous Item, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 A cleansing stone is a sphere 1 foot in diameter, engraved with mystic sigils. When touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person.
 

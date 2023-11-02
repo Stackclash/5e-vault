@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead/warlock
+statblock: inline
 aliases: ["Deathlock"]
 ---
-# Deathlock
+# [Deathlock](compendium\bestiary\undead/deathlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86*  
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -21,7 +24,7 @@ The forging of a pact between a warlock and a patron is no minor occasion—at l
 An powerful necromancer might also discover the wicked methods of creating a deathlock and then subjugate it, acting as the deathlock's patron.
 
 ```statblock
-"name": "Deathlock"
+"name": "Deathlock (MPMM)"
 "size": "Medium"
 "type": "undead"
 "subtype": "warlock"
@@ -38,15 +41,16 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Intelligence": "+4"
+  "Charisma": !!int "5"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "History": "+4"
-  "Arcana": "+4"
+  "History": !!int "4"
+  "Arcana": !!int "4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
+statblock: inline
 aliases: ["Kasimir Velikov"]
 ---
-# Kasimir Velikov
+# [Kasimir Velikov](compendium\bestiary\npc/kasimir-velikov-cos.md)
 *Source: Curse of Strahd p. 233, Derived from *  
 
 ```statblock
-"name": "Kasimir Velikov"
+"name": "Kasimir Velikov (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "Dusk elf"
@@ -27,11 +30,11 @@ aliases: ["Kasimir Velikov"]
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+4"
-  "Intelligence": "+6"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "History": "+6"
-  "Arcana": "+6"
+  "History": !!int "6"
+  "Arcana": !!int "6"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any four languages"
 "cr": "6"
@@ -41,15 +44,14 @@ aliases: ["Kasimir Velikov"]
     \ the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-    \ 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [mage\
-    \ armor](compendium/spells/mage-armor.md), [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-    \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 2nd-level slots):\
-    \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
+    \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+    \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-    \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 5th-level slots):\
-    \ [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
+    \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [cone\
+    \ of cold](compendium/spells/cone-of-cold.md)"
   "name": "spells"
 - "desc": "Kasimir has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
     \ and magic can't put the him to sleep."

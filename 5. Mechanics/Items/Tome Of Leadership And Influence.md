@@ -6,12 +6,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Tome of Leadership and Influence"]
+aliases: 
+- "Tome of Leadership and Influence"
 ---
 # Tome of Leadership and Influence
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/tome-of-leadership-and-influence.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 This book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.

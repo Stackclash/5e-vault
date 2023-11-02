@@ -8,16 +8,17 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of Withering"]
+aliases: 
+- "Staff of Withering"
 ---
 # Staff of Withering
 *Staff, major, rare (requires attunement by a cleric, druid, or warlock)*  
+![[5. Mechanics/Items/img/staff-of-withering.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 3 charges and regains `dice: 1d3|avg` (`1d3`) expended charges daily at dawn.

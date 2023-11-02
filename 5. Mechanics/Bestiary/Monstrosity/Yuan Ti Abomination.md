@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/large
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
+statblock: inline
 aliases: ["Yuan-ti Abomination"]
 ---
-# Yuan-ti Abomination
+# [Yuan-ti Abomination](compendium\bestiary\monstrosity/yuan-ti-abomination.md)
 *Source: Monster Manual p. 308*  
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -75,10 +78,10 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+5"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Alkilith"]
 ---
-# Alkilith
+# [Alkilith](compendium\bestiary\fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -18,7 +21,7 @@ The appearance of an alkilith in the world heralds a great wrongness and an immi
 Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. They gradually become self-aware and seek to find their way onto the Material Plane. Since most cultists consider them too risky to summon—they can, after all, create portals to the Abyss—alkiliths must find other escape routes out of their native plane.
 
 ```statblock
-"name": "Alkilith"
+"name": "Alkilith (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -35,14 +38,15 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": "+8"
-  "Constitution": "+10"
+  "Dexterity": !!int "8"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Stealth": "+8"
+  "Stealth": !!int "8"
 "damage_resistances": "acid; cold; fire; lightning; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "11"

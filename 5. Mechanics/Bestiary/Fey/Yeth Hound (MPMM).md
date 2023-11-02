@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/fey
+statblock: inline
 aliases: ["Yeth Hound"]
 ---
-# Yeth Hound
+# [Yeth Hound](compendium\bestiary\fey/yeth-hound-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271*  
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
@@ -17,7 +20,7 @@ Granted by mighty Fey to individuals who please them, yeth hounds serve their ma
 A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [[5. Mechanics/Bestiary/Undead/Vampire.md|vampire]], [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md|necromancer]], or [[5. Mechanics/Bestiary/Fey/Green Hag.md|hag]].
 
 ```statblock
-"name": "Yeth Hound"
+"name": "Yeth Hound (MPMM)"
 "size": "Large"
 "type": "fey"
 "alignment": "Typically  Neutral Evil"
@@ -33,10 +36,11 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 - !!int "7"
 "speed": "40 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks not\
   \ made with silvered weapons"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Common, Elvish and Sylvan but can't speak"
 "cr": "4"

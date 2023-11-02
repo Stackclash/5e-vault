@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Apprentice Wizard"]
 ---
-# Apprentice Wizard
+# [Apprentice Wizard](compendium\bestiary\humanoid/apprentice-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 259*  
 
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -17,7 +20,7 @@ Apprentices are novice arcane spellcasters who serve more experienced wizards or
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Apprentice Wizard"
+"name": "Apprentice Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,8 +36,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "History": "+4"
-  "Arcana": "+4"
+  "History": !!int "4"
+  "Arcana": !!int "4"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/4"

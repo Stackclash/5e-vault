@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Waterskin"]
+aliases: 
+- "Waterskin"
+cost: 2 sp
 ---
 # Waterskin
 *Adventuring Gear*  

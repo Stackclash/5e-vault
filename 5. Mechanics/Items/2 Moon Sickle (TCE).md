@@ -7,14 +7,14 @@ tags:
 - item/property/light
 - item/rarity/rare
 - item/weapon/simple/melee
-aliases: ["+2 Moon Sickle"]
+aliases: 
+- "+2 Moon Sickle"
 ---
 # +2 Moon Sickle
 *Melee Weapon, rare (requires attunement by a druid or ranger)*  
 
 - **Damage**: 1d4 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], Requires Attunement
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
 
 This silver-bladed sickle glimmers softly with moonlight. While holding this magic weapon, you gain a +2 bonus to attack and damage rolls made with it, and you gain a +2 bonus to spell attack rolls and the saving throw DCs of your druid and ranger spells. In addition, you can use the sickle as a spellcasting focus for your druid and ranger spells.

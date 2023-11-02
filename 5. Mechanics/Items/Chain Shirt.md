@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/medium
-aliases: ["Chain Shirt"]
+aliases: 
+- "Chain Shirt"
+cost: 50 gp
 ---
 # Chain Shirt
 *Medium Armor*  

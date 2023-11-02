@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -9,9 +11,10 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Wolf Spider"]
 ---
-# Giant Wolf Spider
+# [Giant Wolf Spider](compendium\bestiary\beast/giant-wolf-spider.md)
 *Source: Monster Manual p. 330, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
@@ -33,8 +36,8 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+3"
+  "Stealth": !!int "7"
+  "Perception": !!int "3"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"

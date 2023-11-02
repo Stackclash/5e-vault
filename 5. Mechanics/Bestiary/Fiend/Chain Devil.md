@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Chain Devil"]
 ---
-# Chain Devil
+# [Chain Devil](compendium\bestiary\fiend/chain-devil.md)
 *Source: Monster Manual p. 72. Available in the SRD.*  
 
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
@@ -151,13 +154,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+4"
-  "Constitution": "+7"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "7"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "8"

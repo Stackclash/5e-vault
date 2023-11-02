@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/swamp
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Mud Mephit"]
 ---
-# Mud Mephit
+# [Mud Mephit](compendium\bestiary\elemental/mud-mephit.md)
 *Source: Monster Manual p. 216*  
 
 ## Mephits
@@ -41,9 +44,9 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 - !!int "7"
 "speed": "20 ft., fly 20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": "+3"
+  "Stealth": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Aquan, Terran"
 "cr": "1/4"

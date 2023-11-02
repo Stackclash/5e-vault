@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/forest
 - monster/size/small
 - monster/type/fey
+statblock: inline
 aliases: ["Korred"]
 ---
-# Korred
+# [Korred](compendium\bestiary\fey/korred-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166*  
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
@@ -21,7 +24,7 @@ Korreds can hurl boulders far larger than it seems they should be able to, shape
 Korreds have hair all over their bodies, but the hair that grows from their heads is magical. When cut, it transforms into whatever material was used to cut it. Korreds use iron shears to cut lengths of this magical hair, then twist the strands together to create iron ropes that they can manipulate, animating them to bind or snake around creatures and objects. Korreds take great pride in their hair and equally great offense at anyone who attempts to cut it without permission.
 
 ```statblock
-"name": "Korred"
+"name": "Korred (MPMM)"
 "size": "Small"
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
@@ -37,9 +40,9 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 - !!int "9"
 "speed": "30 ft., burrow 30 ft."
 "skillsaves":
-  "Athletics": "+9"
-  "Stealth": "+5"
-  "Perception": "+5"
+  "Athletics": !!int "9"
+  "Stealth": !!int "5"
+  "Perception": !!int "5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 120 ft., tremorsense 120 ft., passive Perception 15"
 "languages": "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"

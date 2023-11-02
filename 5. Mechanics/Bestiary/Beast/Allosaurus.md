@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/grassland
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Allosaurus"]
 ---
-# Allosaurus
+# [Allosaurus](compendium\bestiary\beast/allosaurus.md)
 *Source: Monster Manual p. 79. Available in the Basic Rules.*  
 
 The allosaurus is a predator possessing great size, strength, and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws.
@@ -35,7 +38,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - !!int "5"
 "speed": "60 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "2"

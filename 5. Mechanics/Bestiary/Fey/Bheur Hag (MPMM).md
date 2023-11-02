@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/arctic
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Bheur Hag"]
 ---
-# Bheur Hag
+# [Bheur Hag](compendium\bestiary\fey/bheur-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -19,7 +22,7 @@ Bheur hags are attracted to selfish actions inspired by deadly cold, such as mur
 In combat, a bheur hag also strives to inspire horror. When near a recently slain foe, the hag may forgo an attack to feed on the corpse. The sight of this butchery is enough to terrify most witnesses.
 
 ```statblock
-"name": "Bheur Hag"
+"name": "Bheur Hag (MPMM)"
 "size": "Medium"
 "type": "fey"
 "alignment": "Typically  Chaotic Evil"
@@ -35,12 +38,12 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 - !!int "16"
 "speed": "30 ft., fly 50 ft. (hover, Graystaff magic)"
 "saves":
-  "Wisdom": "+4"
+  "Wisdom": !!int "4"
 "skillsaves":
-  "Nature": "+4"
-  "Stealth": "+6"
-  "Perception": "+4"
-  "Survival": "+4"
+  "Nature": !!int "4"
+  "Stealth": !!int "6"
+  "Perception": !!int "4"
+  "Survival": !!int "4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Auran, Common, Giant"

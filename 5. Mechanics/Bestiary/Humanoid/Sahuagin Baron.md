@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/large
 - monster/type/humanoid/sahuagin
+statblock: inline
 aliases: ["Sahuagin Baron"]
 ---
-# Sahuagin Baron
+# [Sahuagin Baron](compendium\bestiary\humanoid/sahuagin-baron.md)
 *Source: Monster Manual p. 264*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -56,12 +59,12 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - !!int "17"
 "speed": "30 ft., swim 50 ft."
 "saves":
-  "Dexterity": "+5"
-  "Wisdom": "+4"
-  "Intelligence": "+5"
-  "Constitution": "+6"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "5"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Perception": "+7"
+  "Perception": !!int "7"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Sahuagin"
 "cr": "5"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/arctic
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Young Remorhaz"]
 ---
-# Young Remorhaz
+# [Young Remorhaz](compendium\bestiary\monstrosity/young-remorhaz.md)
 *Source: Monster Manual p. 258*  
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.

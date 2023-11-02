@@ -1082,11 +1082,11 @@ The front seat of the wagon conceals a secret compartment that requires a succes
 - An unlocked wooden coffer containing 50 ep bearing Strahd's profile and six gemstones (worth 100 gp each)  
 - A small prayer book (worth 50 gp) with a green leather cover and indecipherable notes in the margins  
 - A [[5. Mechanics/Items/Healers Kit.md\|healer's kit]]  
-- Three wooden holy symbols inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
+- Three wooden [[5. Mechanics/Items/Holy Symbol.md\|holy symbols]] inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
 - A silvered [[5. Mechanics/Items/Shortsword.md\|shortsword]]  
 - A [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]] inlaid with mother-of-pearl (worth 250 gp)  
 - A bundle of twenty silvered [[5. Mechanics/Items/Crossbow Bolts-20.md\|crossbow bolts]]  
-- A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a spell scroll of protection from fiends and a spell scroll of protection from undead.  
+- A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six [[5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [[5. Mechanics/Items/Scroll Of Protection.md\|spell scroll of protection from fiends]] and a [[5. Mechanics/Items/Scroll Of Protection.md\|spell scroll of protection from undead]].  
 
 #### Fortunes of Ravenloft
 

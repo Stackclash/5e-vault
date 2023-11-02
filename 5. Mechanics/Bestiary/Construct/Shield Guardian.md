@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/urban
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Shield Guardian"]
 ---
-# Shield Guardian
+# [Shield Guardian](compendium\bestiary\construct/shield-guardian.md)
 *Source: Monster Manual p. 271, Curse of Strahd. Available in the SRD.*  
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
@@ -45,7 +48,9 @@ A shield guardian doesn't require air, food, drink, or sleep.
 - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"

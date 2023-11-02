@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Crystalline Chronicle"]
+aliases: 
+- "Crystalline Chronicle"
 ---
 # Crystalline Chronicle
 *Wondrous Item, very rare (requires attunement by a wizard)*  
+![[5. Mechanics/Items/img/crystalline-chronicle.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 An etched crystal sphere the size of a grapefruit hums faintly and pulses with irregular flares of inner light. While you are touching the crystal, you can retrieve and store information and spells within the crystal at the same rate as reading and writing. When found, the crystal contains the following spells: [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Intellect Fortress (TCE).md\|intellect fortress]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]], [[5. Mechanics/Spells/Sending.md\|sending]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]], [[5. Mechanics/Spells/Tashas Mind Whip (TCE).md\|Tasha's mind whip]], and [[5. Mechanics/Spells/Tensers Floating Disk.md\|Tenser's floating disk]]. It functions as a spellbook for you, with its spells and other writing psychically encoded within it.

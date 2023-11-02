@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/desert
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/cleric
+statblock: inline
 aliases: ["War Priest"]
 ---
-# War Priest
+# [War Priest](compendium\bestiary\humanoid/war-priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254*  
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [[5. Mechanics/Bestiary/Humanoid/Warlord (MPMM).md|warlord]] (appears in "this book") on the battlefield.
@@ -30,7 +33,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 ^war-priest-holy-symbols
 
 ```statblock
-"name": "War Priest"
+"name": "War Priest (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "cleric"
@@ -47,11 +50,11 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+7"
-  "Constitution": "+6"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
-  "Religion": "+4"
+  "Intimidation": !!int "5"
+  "Religion": !!int "4"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "9"

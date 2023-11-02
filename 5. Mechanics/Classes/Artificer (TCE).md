@@ -78,7 +78,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 - **Saving Throws**: Constitution, Intelligence
 - **Armor**: light, medium, [[5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], one type of artisan's tools of your choice
+- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], one type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice
 - **Skills**: Choose 2 from *Arcana*, *History*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Sleight of Hand*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
@@ -200,7 +200,7 @@ The secrets of creating and operating gunpowder weapons have been discovered in 
 
 ### Magical Tinkering (Level 1)
 
-At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
 
 - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.  
 - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.  
@@ -217,7 +217,7 @@ You have studied the workings of magic and how to channel it through objects. As
 
 #### Tools Required
 
-You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or some kind of artisan's tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
+You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or some kind of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tool]]—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
 
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
@@ -295,7 +295,7 @@ At 3rd level, you choose the type of specialist you are, each of which is detail
 
 ### The Right Tool for the Job (Level 3)
 
-At 3rd level, you learn how to produce exactly the tool you need: with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+At 3rd level, you learn how to produce exactly the tool you need: with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand, you can magically create one set of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Ability Score Improvement (Level 4)
 

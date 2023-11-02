@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/gnoll
+statblock: inline
 aliases: ["Gnoll Pack Lord"]
 ---
-# Gnoll Pack Lord
+# [Gnoll Pack Lord](compendium\bestiary\humanoid/gnoll-pack-lord.md)
 *Source: Monster Manual p. 163*  
 
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.

@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Citrine"]
+aliases: 
+- "Citrine"
+cost: 50 gp
 ---
 # Citrine
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 A transparent pale yellow-brown gemstone.
 

@@ -6,12 +6,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Bag of Devouring"]
+aliases: 
+- "Bag of Devouring"
 ---
 # Bag of Devouring
 *Wondrous Item, minor, very rare*  
+![[5. Mechanics/Items/img/bag-of-devouring.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 15.0 lbs.
 
 This bag superficially resembles a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.

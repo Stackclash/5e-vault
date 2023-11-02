@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/15
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Nabassu"]
 ---
-# Nabassu
+# [Nabassu](compendium\bestiary\fiend/nabassu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188*  
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -19,7 +22,7 @@ Most other demons shun nabassus and force them to live on the fringes of the Aby
 Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try to get summoned so that they can embark on a feast of souls there. A summoned nabassu seeks to break free so that it can devour the soul of its summoner and then feed on the souls of whatever other creatures it can catch. One way a summoner can avoid this fate is by providing a steady supply of souls to the nabassu, which might persuade the demon to be cooperative—as long as the supply lasts.
 
 ```statblock
-"name": "Nabassu"
+"name": "Nabassu (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -36,14 +39,14 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 - !!int "17"
 "speed": "40 ft., fly 60 ft."
 "saves":
-  "Dexterity": "+7"
-  "Strength": "+11"
+  "Dexterity": !!int "7"
+  "Strength": !!int "11"
 "skillsaves":
-  "Perception": "+7"
+  "Perception": !!int "7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "15"

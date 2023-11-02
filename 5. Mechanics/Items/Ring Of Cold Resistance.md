@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Cold Resistance"]
+aliases: 
+- "Ring of Cold Resistance"
 ---
 # Ring of Cold Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to cold damage while wearing this ring. The ring is set with tourmaline.
 

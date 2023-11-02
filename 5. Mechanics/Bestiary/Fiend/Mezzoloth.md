@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Mezzoloth"]
 ---
-# Mezzoloth
+# [Mezzoloth](compendium\bestiary\fiend/mezzoloth.md)
 *Source: Monster Manual p. 313*  
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -82,11 +85,11 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "5"

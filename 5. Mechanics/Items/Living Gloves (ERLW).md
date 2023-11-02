@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Living Gloves"]
+aliases: 
+- "Living Gloves"
 ---
 # Living Gloves
 *Wondrous Item, uncommon (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 These symbiotic gloves—made of thin chitin and sinew—pulse with a life of their own. To attune to them, you must wear them for the entire attunement period, during which the gloves bond with your skin.
 
@@ -21,8 +19,8 @@ While attuned to these gloves, you gain one of the following proficiencies (your
 
 - [[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]  
 - [[5. Mechanics/Items/Thieves Tools.md\|Thieves' tools]]  
-- One kind of artisan's tools of your choice  
-- One kind of musical instrument of your choice  
+- One kind of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice  
+- One kind of [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice  
 
 When you make an ability check using the chosen proficiency, you add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 

@@ -6,12 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Folding Boat"]
+aliases: 
+- "Folding Boat"
 ---
 # Folding Boat
 *Wondrous Item, minor, rare*  
+![[5. Mechanics/Items/img/folding-boat.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.

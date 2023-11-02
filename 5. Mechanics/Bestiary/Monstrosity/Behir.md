@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Behir"]
 ---
-# Behir
+# [Behir](compendium\bestiary\monstrosity/behir.md)
 *Source: Monster Manual p. 25. Available in the SRD.*  
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
@@ -48,8 +51,8 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 - !!int "12"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": "+7"
-  "Perception": "+6"
+  "Stealth": !!int "7"
+  "Perception": !!int "6"
 "damage_immunities": "lightning"
 "senses": "darkvision 90 ft., passive Perception 16"
 "languages": "Draconic"

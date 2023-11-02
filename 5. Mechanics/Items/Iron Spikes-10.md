@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Iron Spikes (10)"]
+aliases: 
+- "Iron Spikes (10)"
+cost: 1 gp
 ---
 # Iron Spikes (10)
 *Adventuring Gear*  

@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Spyglass"]
+aliases: 
+- "Spyglass"
+cost: 1,000 gp
 ---
 # Spyglass
 *Adventuring Gear*  

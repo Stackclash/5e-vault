@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Book of Vile Darkness"]
+aliases: 
+- "Book of Vile Darkness"
 ---
 # Book of Vile Darkness
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/Book Of Vile Darkness.webp#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 The contents of this foul manuscript of ineffable wickedness are the meat and drink of those in evil's thrall. No mortal was meant to know the secrets it contains, knowledge so horrid that to even glimpse the scrawled pages invites madness.

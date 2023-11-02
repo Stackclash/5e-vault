@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Shadowfell Brand Tattoo"]
+aliases: 
+- "Shadowfell Brand Tattoo"
 ---
 # Shadowfell Brand Tattoo
 *Wondrous Item, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo is dark in color and abstract.
 

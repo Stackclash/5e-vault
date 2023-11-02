@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Evoker Wizard"]
 ---
-# Evoker Wizard
+# [Evoker Wizard](compendium\bestiary\humanoid/evoker-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262*  
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -17,7 +20,7 @@ Evokers harness arcane energy to destroy. Many armies employ evokers to rain des
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Evoker Wizard"
+"name": "Evoker Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,11 +36,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+5"
-  "Intelligence": "+7"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "History": "+7"
-  "Arcana": "+7"
+  "History": !!int "7"
+  "Arcana": !!int "7"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "9"

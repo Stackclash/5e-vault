@@ -6,13 +6,14 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/weapon/simple/melee
-aliases: ["Mace of Smiting"]
+aliases: 
+- "Mace of Smiting"
 ---
 # Mace of Smiting
 *Melee Weapon, major, rare*  
+![[5. Mechanics/Items/img/mace-of-smiting.jpg#right]]  
 
 - **Damage**: 1d6 B
-- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.

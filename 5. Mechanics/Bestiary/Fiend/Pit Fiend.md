@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/20
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Pit Fiend"]
 ---
-# Pit Fiend
+# [Pit Fiend](compendium\bestiary\fiend/pit-fiend.md)
 *Source: Monster Manual p. 77, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
@@ -157,13 +160,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "24"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Dexterity": "+8"
-  "Wisdom": "+10"
-  "Constitution": "+13"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "13"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "20"

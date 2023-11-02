@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/28
 - monster/size/huge
 - monster/type/fiend
+statblock: inline
 aliases: ["Rak Tulkhesh"]
 ---
-# Rak Tulkhesh
+# [Rak Tulkhesh](compendium\bestiary\npc/rak-tulkhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 303*  
 
 Called the Rage of War, Rak Tulkhesh is the incarnation of impulses that drives many mortals to battle. Fear, greed, hatred—these are seeds that the Rage of War sows in the hopes of producing a bloody harvest.
@@ -34,7 +37,7 @@ As long as the overlords are bound by the Silver Flame, they can't physically ma
 Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh and Sul Khatesh, both of whom remain imprisoned and can't take physical form. The stat blocks provided here reflect the powers they would wield if they were ever unleashed upon the world.
 
 ```statblock
-"name": "Rak Tulkhesh"
+"name": "Rak Tulkhesh (ERLW)"
 "size": "Huge"
 "type": "fiend"
 "alignment": "Neutral Evil"
@@ -50,17 +53,19 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 - !!int "26"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+16"
-  "Wisdom": "+14"
-  "Strength": "+17"
-  "Constitution": "+16"
+  "Charisma": !!int "16"
+  "Wisdom": !!int "14"
+  "Strength": !!int "17"
+  "Constitution": !!int "16"
 "skillsaves":
-  "Intimidation": "+16"
-  "Athletics": "+17"
-  "Perception": "+14"
+  "Intimidation": !!int "16"
+  "Athletics": !!int "17"
+  "Perception": !!int "14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "28"

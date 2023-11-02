@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/construct/dwarf
+statblock: inline
 aliases: ["Duergar Screamer"]
 ---
-# Duergar Screamer
+# [Duergar Screamer](compendium\bestiary\construct/duergar-screamer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
@@ -20,7 +23,7 @@ Creative duergar engineers have built numerous war machines, including some that
 These machines are deployed to assist with construction projects and war. Some duergar bravely volunteer to become hybrids, while other duergar are forced into the fusion by Underdark tyrants. Unless incapacitated, the duergar inside a machine can extricate themself from it over the course of a short rest, completing the process at the rest's end.
 
 ```statblock
-"name": "Duergar Screamer"
+"name": "Duergar Screamer (MPMM)"
 "size": "Medium"
 "type": "construct"
 "subtype": "dwarf"
@@ -37,7 +40,9 @@ These machines are deployed to assist with construction projects and war. Some d
 - !!int "5"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Dwarvish but can't speak"
 "cr": "3"

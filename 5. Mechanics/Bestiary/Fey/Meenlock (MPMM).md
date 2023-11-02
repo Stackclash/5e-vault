@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/small
 - monster/type/fey
+statblock: inline
 aliases: ["Meenlock"]
 ---
-# Meenlock
+# [Meenlock](compendium\bestiary\fey/meenlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178*  
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -23,7 +26,7 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]] condition. If the creature is susceptible and remains [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking `dice: 3d6|avg` (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[5. Mechanics/Spells/Wish.md|wish]] spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
-"name": "Meenlock"
+"name": "Meenlock (MPMM)"
 "size": "Small"
 "type": "fey"
 "alignment": "Typically  Neutral Evil"
@@ -39,10 +42,10 @@ Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Condit
 - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+4"
-  "Survival": "+2"
-"condition_immunities": "frightened"
+  "Stealth": !!int "6"
+  "Perception": !!int "4"
+  "Survival": !!int "2"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"

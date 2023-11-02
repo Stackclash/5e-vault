@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Sangzor"]
 ---
-# Sangzor
+# [Sangzor](compendium\bestiary\npc/sangzor-cos.md)
 *Source: Curse of Strahd p. 160, Derived from *  
 
 ```statblock
-"name": "Sangzor"
+"name": "Sangzor (CoS)"
 "size": "Large"
 "type": "beast"
 "alignment": "Chaotic Evil"

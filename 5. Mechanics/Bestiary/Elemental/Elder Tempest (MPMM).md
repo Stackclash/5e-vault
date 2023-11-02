@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/23
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/grassland
@@ -9,15 +11,16 @@ tags:
 - monster/environment/mountain
 - monster/size/gargantuan
 - monster/type/elemental
+statblock: inline
 aliases: ["Elder Tempest"]
 ---
-# Elder Tempest
+# [Elder Tempest](compendium\bestiary\elemental/elder-tempest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121*  
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
 
 ```statblock
-"name": "Elder Tempest"
+"name": "Elder Tempest (MPMM)"
 "size": "Gargantuan"
 "type": "elemental"
 "alignment": "Typically  Neutral"
@@ -33,12 +36,15 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 - !!int "18"
 "speed": "0 ft., fly 120 ft. (hover)"
 "saves":
-  "Charisma": "+11"
-  "Wisdom": "+12"
+  "Charisma": !!int "11"
+  "Wisdom": !!int "12"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison, thunder"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "23"

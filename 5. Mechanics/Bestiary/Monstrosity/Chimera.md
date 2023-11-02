@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Chimera"]
 ---
-# Chimera
+# [Chimera](compendium\bestiary\monstrosity/chimera.md)
 *Source: Monster Manual p. 39. Available in the SRD and the Basic Rules.*  
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
@@ -42,7 +45,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+8"
+  "Perception": !!int "8"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"

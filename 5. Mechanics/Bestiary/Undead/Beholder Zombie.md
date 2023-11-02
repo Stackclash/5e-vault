@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Beholder Zombie"]
 ---
-# Beholder Zombie
+# [Beholder Zombie](compendium\bestiary\undead/beholder-zombie.md)
 *Source: Monster Manual p. 316*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -56,9 +59,9 @@ A zombie doesn't require air, food, drink, or sleep.
 - !!int "5"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Wisdom": "+2"
+  "Wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"

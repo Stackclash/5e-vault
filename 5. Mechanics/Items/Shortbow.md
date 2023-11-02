@@ -6,7 +6,9 @@ tags:
 - item/property/ammunition
 - item/property/two-handed
 - item/weapon/simple/ranged
-aliases: ["Shortbow"]
+aliases: 
+- "Shortbow"
+cost: 25 gp
 ---
 # Shortbow
 *Ranged Weapon*  

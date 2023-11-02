@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/vrgr
 - item/gear
-aliases: ["Monster Hunter's Pack"]
+aliases: 
+- "Monster Hunter's Pack"
+cost: 33 gp
 ---
 # Monster Hunter's Pack
 *Adventuring Gear*  
@@ -18,7 +20,7 @@ Includes:
 - a [[5. Mechanics/Items/Crowbar.md\|crowbar]]  
 - a [[5. Mechanics/Items/Hammer.md\|hammer]]  
 - three wooden stakes  
-- a holy symbol  
+- a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
 - a [[5. Mechanics/Items/Holy Water Flask.md\|flask of holy water]]  
 - a set of [[5. Mechanics/Items/Manacles.md\|manacles]]  
 - a [[5. Mechanics/Items/Steel Mirror.md\|steel mirror]]  

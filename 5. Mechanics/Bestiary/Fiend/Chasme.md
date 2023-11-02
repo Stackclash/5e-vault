@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Chasme"]
 ---
-# Chasme
+# [Chasme](compendium\bestiary\fiend/chasme.md)
 *Source: Monster Manual p. 57*  
 
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
@@ -198,13 +201,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "saves":
-  "Dexterity": "+5"
-  "Wisdom": "+5"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"

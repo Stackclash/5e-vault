@@ -7,13 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/wand
-aliases: ["Wand of Binding"]
+aliases: 
+- "Wand of Binding"
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  
+![[5. Mechanics/Items/img/wand-of-binding.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges for the following properties. It regains `dice: 1d6 + 1|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice: d20|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.

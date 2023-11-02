@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Titivilus"]
 ---
-# Titivilus
+# [Titivilus](compendium\bestiary\npc/titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242*  
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
@@ -20,7 +23,7 @@ Since gaining his position, Titivilus has convinced Dispater that countless plot
 Titivilus recognizes the precariousness of his position. After all, Dispater's acceptance of his plans and his advice can last only so long before some other plotter steps in and reveals the truth. For insurance, Titivilus has begun recruiting outsiders to deal with problem devils, to insulate him against criticism, and, above all, to create complications that he can solve so as to reinforce his value in the eyes of his master. Titivilus finds adventurers well suited to the tasks he needs performed and recruits them directly or through intermediaries, expending them later as his plans require.
 
 ```statblock
-"name": "Titivilus"
+"name": "Titivilus (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -37,19 +40,20 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 - !!int "26"
 "speed": "40 ft., fly 60 ft."
 "saves":
-  "Charisma": "+13"
-  "Dexterity": "+11"
-  "Wisdom": "+11"
-  "Constitution": "+8"
+  "Charisma": !!int "13"
+  "Dexterity": !!int "11"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Intimidation": "+13"
-  "Deception": "+13"
-  "Insight": "+11"
-  "Persuasion": "+13"
+  "Intimidation": !!int "13"
+  "Deception": !!int "13"
+  "Insight": !!int "11"
+  "Persuasion": !!int "13"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "all, telepathy 120 ft."
 "cr": "16"

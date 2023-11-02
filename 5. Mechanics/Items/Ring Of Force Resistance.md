@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Force Resistance"]
+aliases: 
+- "Ring of Force Resistance"
 ---
 # Ring of Force Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to force damage while wearing this ring. The ring is set with sapphire.
 

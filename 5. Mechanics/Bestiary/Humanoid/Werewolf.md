@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/forest
 - monster/environment/hill
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Werewolf"]
 ---
-# Werewolf
+# [Werewolf](compendium\bestiary\humanoid/werewolf.md)
 *Source: Monster Manual p. 211, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
@@ -71,8 +74,8 @@ Some individuals see little point in fighting the curse and accept what they are
 - !!int "10"
 "speed": "30 ft. (40 ft. in wolf form)"
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "passive Perception 14"

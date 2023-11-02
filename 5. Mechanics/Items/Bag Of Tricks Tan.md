@@ -6,12 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Bag of Tricks, Tan"]
+aliases: 
+- "Bag of Tricks, Tan"
 ---
 # Bag of Tricks, Tan
 *Wondrous Item, major, uncommon*  
 
-- **Cost**: ⏤
 - **Weight**: 0.5 lbs.
 
 This ordinary bag, made from tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.

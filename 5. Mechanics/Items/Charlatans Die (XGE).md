@@ -7,14 +7,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Charlatan's Die"]
+aliases: 
+- "Charlatan's Die"
 ---
 # Charlatan's Die
 *Wondrous Item, minor, common (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Whenever you roll this six-sided die, you can control which number it rolls.
 

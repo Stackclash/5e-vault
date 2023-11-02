@@ -84,7 +84,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 You begin play with the following equipment, in addition to any equipment provided by your background.
 
 - (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts-20.md\|20 bolts]] or (b) any simple weapon  
-- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an arcane focus  
+- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]]  
 - (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]  
 - [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md\|daggers]]  
 
@@ -241,7 +241,7 @@ Charisma is your spellcasting ability for your warlock spells, so you use your C
 
 #### Spellcasting Focus
 
-You can use an arcane focus as a spellcasting focus for your warlock spells.
+You can use an [[5. Mechanics/Items/Arcane Focus.md\|arcane focus]] as a spellcasting focus for your warlock spells.
 
 ### Otherworldly Patron (Level 1)
 

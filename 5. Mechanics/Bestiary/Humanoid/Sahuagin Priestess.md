@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/humanoid/sahuagin
+statblock: inline
 aliases: ["Sahuagin Priestess"]
 ---
-# Sahuagin Priestess
+# [Sahuagin Priestess](compendium\bestiary\humanoid/sahuagin-priestess.md)
 *Source: Monster Manual p. 264*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -56,8 +59,8 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  "Religion": "+3"
-  "Perception": "+6"
+  "Religion": !!int "3"
+  "Perception": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
@@ -65,11 +68,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 - "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom\
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). She has the\
     \ following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
-    \ (trident)\n\n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
+    \ (trident)\n\n3rd level (3 slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
     \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
   "name": "spells"
 - "desc": "The sahuagin has advantage on melee attack rolls against any creature that\

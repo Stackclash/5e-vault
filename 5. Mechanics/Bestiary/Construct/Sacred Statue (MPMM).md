@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Sacred Statue"]
 ---
-# Sacred Statue
+# [Sacred Statue](compendium\bestiary\construct/sacred-statue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114*  
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[5. Mechanics/Bestiary/Undead/Eidolon (MPMM).md|eidolon]] plunges into a [[5. Mechanics/Bestiary/Construct/Sacred Statue (MPMM).md|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```statblock
-"name": "Sacred Statue"
+"name": "Sacred Statue (MPMM)"
 "size": "Large"
 "type": "construct"
 "alignment": "as the eidolon's alignment"
@@ -28,11 +31,13 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 - !!int "16"
 "speed": "25 ft."
 "saves":
-  "Wisdom": "+8"
+  "Wisdom": !!int "8"
 "damage_resistances": "acid; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages the [[5. Mechanics/Bestiary/Undead/Eidolon (MPMM).md|eidolon]]\
   \ knew in life"

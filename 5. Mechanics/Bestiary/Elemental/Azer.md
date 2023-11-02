@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Azer"]
 ---
-# Azer
+# [Azer](compendium\bestiary\elemental/azer.md)
 *Source: Monster Manual p. 22. Available in the SRD.*  
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
@@ -55,9 +58,9 @@ An azer doesn't require food, drink, or sleep.
 - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Constitution": "+4"
+  "Constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"

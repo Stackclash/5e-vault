@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Diplomat's Pack"]
+aliases: 
+- "Diplomat's Pack"
+cost: 39 gp
 ---
 # Diplomat's Pack
 *Adventuring Gear*  

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/coastal
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Harpy"]
 ---
-# Harpy
+# [Harpy](compendium\bestiary\monstrosity/harpy.md)
 *Source: Monster Manual p. 181, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.

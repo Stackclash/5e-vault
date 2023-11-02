@@ -1,17 +1,20 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+statblock: inline
 aliases: ["Zuleika Toranescu"]
 ---
-# Zuleika Toranescu
+# [Zuleika Toranescu](compendium\bestiary\npc/zuleika-toranescu-cos.md)
 *Source: Curse of Strahd p. 204, Derived from *  
 
 ```statblock
-"name": "Zuleika Toranescu"
+"name": "Zuleika Toranescu (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human, shapechanger"
@@ -28,8 +31,8 @@ aliases: ["Zuleika Toranescu"]
 - !!int "10"
 "speed": "30 ft. (40 ft. in wolf form)"
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+4"
+  "Stealth": !!int "3"
+  "Perception": !!int "4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "senses": "passive Perception 14"

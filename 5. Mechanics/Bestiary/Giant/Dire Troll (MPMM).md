@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/hill
@@ -9,9 +11,10 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Dire Troll"]
 ---
-# Dire Troll
+# [Dire Troll](compendium\bestiary\giant/dire-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246*  
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
@@ -29,7 +32,7 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
 ```statblock
-"name": "Dire Troll"
+"name": "Dire Troll (MPMM)"
 "size": "Huge"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
@@ -45,12 +48,13 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "5"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+2"
-  "Wisdom": "+5"
+  "Charisma": !!int "2"
+  "Wisdom": !!int "5"
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "13"

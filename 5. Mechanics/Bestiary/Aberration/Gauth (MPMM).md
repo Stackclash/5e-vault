@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/6
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration/beholder
+statblock: inline
 aliases: ["Gauth"]
 ---
-# Gauth
+# [Gauth](compendium\bestiary\aberration/gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133*  
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
@@ -19,7 +22,7 @@ When the ritual to summon a spectator goes wrong, a gauth might push itself thro
 A [[5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 ```statblock
-"name": "Gauth"
+"name": "Gauth (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "subtype": "beholder"
@@ -36,12 +39,12 @@ A [[5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away 
 - !!int "13"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Charisma": "+4"
-  "Wisdom": "+5"
-  "Intelligence": "+5"
+  "Charisma": !!int "4"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Perception": "+5"
-"condition_immunities": "prone"
+  "Perception": !!int "5"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "6"

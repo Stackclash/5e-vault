@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/desert
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Spawn of Kyuss"]
 ---
-# Spawn of Kyuss
+# [Spawn of Kyuss](compendium\bestiary\undead/spawn-of-kyuss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225*  
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
@@ -18,7 +21,7 @@ From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie
 Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeath. Left to its own devices, a solitary spawn of Kyuss travels aimlessly. If it stumbles across a living creature, the spawn attacks with the sole intent of creating more spawn. Whether spawn are dispersed or clustered, they reproduce exponentially if nothing stops them.
 
 ```statblock
-"name": "Spawn of Kyuss"
+"name": "Spawn of Kyuss (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -34,9 +37,10 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 - !!int "3"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+1"
+  "Wisdom": !!int "1"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"

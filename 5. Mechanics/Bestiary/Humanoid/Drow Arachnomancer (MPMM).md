@@ -1,19 +1,22 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow Arachnomancer"]
 ---
-# Drow Arachnomancer
+# [Drow Arachnomancer](compendium\bestiary\humanoid/drow-arachnomancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99*  
 
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
 
 ```statblock
-"name": "Drow Arachnomancer"
+"name": "Drow Arachnomancer (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -30,14 +33,14 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
 - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Charisma": "+8"
-  "Intelligence": "+9"
-  "Constitution": "+7"
+  "Charisma": !!int "8"
+  "Intelligence": !!int "9"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Nature": "+9"
-  "Stealth": "+8"
-  "Perception": "+7"
-  "Arcana": "+9"
+  "Nature": !!int "9"
+  "Stealth": !!int "8"
+  "Perception": !!int "7"
+  "Arcana": !!int "9"
 "damage_resistances": "poison"
 "senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Elvish, Undercommon, can speak with spiders"

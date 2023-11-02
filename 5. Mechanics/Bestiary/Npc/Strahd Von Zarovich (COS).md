@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/15
 - monster/size/medium
 - monster/type/undead/shapechanger
+statblock: inline
 aliases: ["Strahd von Zarovich"]
 ---
-# Strahd von Zarovich
+# [Strahd von Zarovich](compendium\bestiary\npc/strahd-von-zarovich-cos.md)
 *Source: Curse of Strahd p. 240*  
 
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
@@ -53,7 +56,7 @@ The effect of the protection afforded by the Heart of Sorrow can be chilling to 
 The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].
 
 ```statblock
-"name": "Strahd von Zarovich"
+"name": "Strahd von Zarovich (CoS)"
 "size": "Medium"
 "type": "undead"
 "subtype": "shapechanger"
@@ -70,14 +73,14 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+9"
-  "Wisdom": "+7"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "7"
 "skillsaves":
-  "Stealth": "+14"
-  "Religion": "+10"
-  "Perception": "+12"
-  "Arcana": "+15"
+  "Stealth": !!int "14"
+  "Religion": !!int "10"
+  "Perception": !!int "12"
+  "Arcana": !!int "15"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
@@ -87,16 +90,15 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
     \ (spell save DC 18, dice: d20+10 (+10 to hit) with spell attacks). He has the\
     \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
     \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
     \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
     \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Blight.md|blight]], [greater\
-    \ invisibility](compendium/spells/greater-invisibility.md), [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\
-    \n5th level (1 5th-level slots): [[5. Mechanics/Spells/Animate Objects.md|animate objects]],\
-    \ [[5. Mechanics/Spells/Scrying.md|scrying]]"
+    \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
+    \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (1 slots): [animate\
+    \ objects](compendium/spells/animate-objects.md), [[5. Mechanics/Spells/Scrying.md|scrying]]"
   "name": "spells"
 - "desc": "If Strahd isn't in running water or sunlight, he can use his action to\
     \ polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back\

@@ -7,16 +7,16 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/tier/major
-aliases: ["Demon Armor"]
+aliases: 
+- "Demon Armor"
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/demon-armor.jpg#right]]  
 
 - **Armor Class**: 18
-- **Properties**: Requires Attunement
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: ⏤
 - **Weight**: 65.0 lbs.
 
 While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of `dice: 1d8|avg` (`1d8`).

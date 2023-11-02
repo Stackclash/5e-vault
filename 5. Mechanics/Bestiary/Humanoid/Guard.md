@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -11,9 +13,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Guard"]
 ---
-# Guard
+# [Guard](compendium\bestiary\humanoid/guard.md)
 *Source: Monster Manual p. 347, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
@@ -36,7 +39,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

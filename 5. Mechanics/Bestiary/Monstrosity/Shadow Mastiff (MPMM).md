@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Shadow Mastiff"]
 ---
-# Shadow Mastiff
+# [Shadow Mastiff](compendium\bestiary\monstrosity/shadow-mastiff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215*  
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
@@ -19,7 +22,7 @@ Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted t
 Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows, always on the hunt.
 
 ```statblock
-"name": "Shadow Mastiff"
+"name": "Shadow Mastiff (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Neutral Evil"
@@ -35,8 +38,8 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+5"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 15"

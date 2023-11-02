@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/tiny
 - monster/type/construct
+statblock: inline
 aliases: ["Homunculus"]
 ---
-# Homunculus
+# [Homunculus](compendium\bestiary\construct/homunculus.md)
 *Source: Monster Manual p. 188, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
@@ -34,7 +37,7 @@ A homunculus knows everything its creator knows, including all the languages the
 - !!int "7"
 "speed": "20 ft., fly 40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "0"

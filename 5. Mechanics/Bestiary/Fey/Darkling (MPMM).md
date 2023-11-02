@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/small
 - monster/type/fey
+statblock: inline
 aliases: ["Darkling"]
 ---
-# Darkling
+# [Darkling](compendium\bestiary\fey/darkling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84*  
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -20,7 +23,7 @@ The Summer Queen's curse causes a darkling's body to absorb light, which wizens 
 Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summer Queens' wrath, she cursed every member of his house. The seelie fey's true name has been stricken from history, but the stories call him Dubh Catha ("Dark Crow" in Common), and other Fey refer to the house's descendants as dubh sith—"darklings." Darklings dwell in secluded caverns and chambers beneath the towns of other species. From such enclaves, they quietly ply their trade as thieves and assassins.
 
 ```statblock
-"name": "Darkling"
+"name": "Darkling (MPMM)"
 "size": "Small"
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
@@ -36,10 +39,10 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+2"
-  "Stealth": "+7"
-  "Perception": "+5"
-  "Acrobatics": "+5"
+  "Deception": !!int "2"
+  "Stealth": !!int "7"
+  "Perception": !!int "5"
+  "Acrobatics": !!int "5"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Elvish, Sylvan"
 "cr": "1/2"

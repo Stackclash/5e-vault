@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/weapon/ammunition
-aliases: ["Arrows (20)"]
+aliases: 
+- "Arrows (20)"
+cost: 1 gp
 ---
 # Arrows (20)
 *Ammunition*  

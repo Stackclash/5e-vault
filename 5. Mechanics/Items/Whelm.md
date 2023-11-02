@@ -9,7 +9,8 @@ tags:
 - item/property/versatile
 - item/rarity/legendary
 - item/weapon/martial/melee
-aliases: ["Whelm"]
+aliases: 
+- "Whelm"
 ---
 # Whelm
 *Melee Weapon, legendary (requires attunement by a dwarf)*  
@@ -18,8 +19,7 @@ aliases: ["Whelm"]
   - One-handed: 1d8 B
   - Two-handed: 1d10 B
 - **Range**: 20/60
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
 
 Whelm is a powerful warhammer forged by dwarves and lost in the dungeon of White Plume Mountain.

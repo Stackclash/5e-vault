@@ -7,7 +7,9 @@ tags:
 - item/property/light
 - item/property/thrown
 - item/weapon/simple/melee
-aliases: ["Dagger"]
+aliases: 
+- "Dagger"
+cost: 2 gp
 ---
 # Dagger
 *Melee Weapon*  

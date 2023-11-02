@@ -150,7 +150,7 @@ The arcanaloth carries a spellbook containing the wizard spells it has prepared 
 - [[5. Mechanics/Items/Riding Horse.md\|Riding horse]]  
 - Pit  
 - [[5. Mechanics/Items/Rowboat.md\|Rowboat]]  
-- Spell scroll ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
+- [[5. Mechanics/Items/Spell Scroll.md\|Spell scroll]] ([[5. Mechanics/Spells/Moonbeam.md\|moonbeam]])  
 - [[5. Mechanics/Items/Mastiff.md\|Mastiffs]]  
 
 See the robe's description in the "Dungeon Master's Guide" for more information on each patch.
@@ -832,7 +832,7 @@ The ceiling here is 10 feet high. A [[5. Mechanics/Bestiary/Undead/Poltergeist.m
 
 #### Treasure
 
-A search of the room yields a wooden scroll tube containing an intact spell scroll of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
+A search of the room yields a wooden scroll tube containing an intact [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]].
 
 ### X39. Plundered Treasury
 
@@ -900,7 +900,7 @@ Six piles of treasure are numbered on the map.
 **Pile 4**
 
 - A pile of iron ingots (worth 250 gp total and weighing 2,500 pounds)  
-- Thirty holy symbols (worth 5 gp each) of gods from various worlds  
+- Thirty [[5. Mechanics/Items/Holy Symbol.md\|holy symbols]] (worth 5 gp each) of gods from various worlds  
 - A set of twelve copper chalices with silver filigree (worth 25 gp each)  
 - A gilded skull with red garnets in its eye sockets (worth 250 gp)  
 - Eight [[5. Mechanics/Items/Warhammer.md\|warhammers]] and six [[5. Mechanics/Items/War Pick.md\|war picks]]  

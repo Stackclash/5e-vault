@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/22
 - monster/environment/forest
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient Green Dragon"]
 ---
-# Ancient Green Dragon
+# [Ancient Green Dragon](compendium\bestiary\dragon/ancient-green-dragon.md)
 *Source: Monster Manual p. 93. Available in the SRD.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -117,18 +120,18 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "19"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": "+11"
-  "Dexterity": "+8"
-  "Wisdom": "+10"
-  "Constitution": "+14"
+  "Charisma": !!int "11"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "14"
 "skillsaves":
-  "Deception": "+11"
-  "Stealth": "+8"
-  "Insight": "+10"
-  "Perception": "+17"
-  "Persuasion": "+11"
+  "Deception": !!int "11"
+  "Stealth": !!int "8"
+  "Insight": !!int "10"
+  "Perception": !!int "17"
+  "Persuasion": !!int "11"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "22"

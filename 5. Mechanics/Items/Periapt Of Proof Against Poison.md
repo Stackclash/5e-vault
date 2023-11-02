@@ -6,12 +6,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Periapt of Proof against Poison"]
+aliases: 
+- "Periapt of Proof against Poison"
 ---
 # Periapt of Proof against Poison
 *Wondrous Item, major, rare*  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] condition and have immunity to poison damage.

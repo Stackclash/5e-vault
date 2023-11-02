@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/heavy
-aliases: ["Splint Armor"]
+aliases: 
+- "Splint Armor"
+cost: 200 gp
 ---
 # Splint Armor
 *Heavy Armor*  

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/environment/coastal
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Djinni"]
 ---
-# Djinni
+# [Djinni](compendium\bestiary\elemental/djinni.md)
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
@@ -77,9 +80,9 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - !!int "20"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+6"
-  "Wisdom": "+7"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
 "damage_immunities": "lightning, thunder"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Auran"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Water Weird"]
 ---
-# Water Weird
+# [Water Weird](compendium\bestiary\elemental/water-weird.md)
 *Source: Monster Manual p. 299*  
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
@@ -48,8 +51,10 @@ A water weird doesn't require air, food, drink, or sleep.
 "speed": "0 ft., swim 60 ft."
 "damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, poisoned, restrained, prone,\
-  \ unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"

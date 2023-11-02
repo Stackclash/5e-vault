@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/kenku
+statblock: inline
 aliases: ["Kenku"]
 ---
-# Kenku
+# [Kenku](compendium\bestiary\humanoid/kenku.md)
 *Source: Monster Manual p. 194, Eberron: Rising from the Last War*  
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
@@ -52,9 +55,9 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+5"
-  "Perception": "+2"
+  "Deception": !!int "4"
+  "Stealth": !!int "5"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "understands Auran and Common but speaks only through the use of its\
   \ Mimicry trait"

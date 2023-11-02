@@ -85,7 +85,7 @@ You begin play with the following equipment, in addition to any equipment provid
 
 - (a) a wooden [[5. Mechanics/Items/Shield.md\|shield]] or (b) any simple weapon  
 - (a) a [[5. Mechanics/Items/Scimitar.md\|scimitar]] or (b) any simple melee weapon  
-- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a druidic focus  
+- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a [[5. Mechanics/Items/Druidic Focus.md\|druidic focus]]  
 
 Alternatively, you may start with 2d4 × 10 gp and choose your own equipment.
 
@@ -509,7 +509,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a druidic focus as a spellcasting focus for your druid spells.
+You can use a [[5. Mechanics/Items/Druidic Focus.md\|druidic focus]] as a spellcasting focus for your druid spells.
 
 ### Wild Shape (Level 2)
 

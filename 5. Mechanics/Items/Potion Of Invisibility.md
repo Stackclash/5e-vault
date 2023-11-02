@@ -6,13 +6,12 @@ tags:
 - item/rarity/very-rare
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Invisibility"]
+aliases: 
+- "Potion of Invisibility"
 ---
 # Potion of Invisibility
 *Potion, minor, very rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This potion's container looks empty but feels as though it holds liquid. When you drink it, you become [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] for 1 hour. Anything you wear or carry is [[/5. Mechanics/Rules/Conditions.md#invisible\|invisible]] with you. The effect ends early if you attack or cast a spell.
 

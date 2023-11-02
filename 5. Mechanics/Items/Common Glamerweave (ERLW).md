@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/erlw
 - item/rarity/common
 - item/wondrous
-aliases: ["Common Glamerweave"]
+aliases: 
+- "Common Glamerweave"
 ---
 # Common Glamerweave
 *Wondrous Item, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Glamerweave is clothing imbued with harmless illusory magic. While wearing the common version of these clothes, you can use a bonus action to create a moving illusory pattern within the cloth.
 

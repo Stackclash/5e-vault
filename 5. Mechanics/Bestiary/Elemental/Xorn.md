@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Xorn"]
 ---
-# Xorn
+# [Xorn](compendium\bestiary\elemental/xorn.md)
 *Source: Monster Manual p. 304. Available in the SRD.*  
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
@@ -40,8 +43,8 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  "Stealth": "+3"
-  "Perception": "+6"
+  "Stealth": !!int "3"
+  "Perception": !!int "6"
 "damage_resistances": "piercing, slashing from nonmagical attacks that aren't adamantine"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": "Terran"

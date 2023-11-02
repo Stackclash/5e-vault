@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/18
 - monster/size/medium
 - monster/type/humanoid/warforged
+statblock: inline
 aliases: ["The Lord of Blades"]
 ---
-# The Lord of Blades
+# [The Lord of Blades](compendium\bestiary\npc/the-lord-of-blades-erlw.md)
 *Source: Eberron: Rising from the Last War p. 300*  
 
 The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
@@ -18,7 +21,7 @@ Some tales assert that the Lord of Blades led the warforged armies of Cyre in th
 The Lord of Blades doesn't require air, food, drink, or sleep.
 
 ```statblock
-"name": "The Lord of Blades"
+"name": "The Lord of Blades (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "warforged"
@@ -35,17 +38,18 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
 - !!int "18"
 "speed": "40 ft."
 "saves":
-  "Wisdom": "+9"
-  "Intelligence": "+10"
-  "Strength": "+11"
-  "Constitution": "+10"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "10"
+  "Strength": !!int "11"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Athletics": "+11"
-  "Perception": "+9"
-  "History": "+10"
-  "Arcana": "+10"
+  "Athletics": !!int "11"
+  "Perception": !!int "9"
+  "History": !!int "10"
+  "Arcana": !!int "10"
 "damage_resistances": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "passive Perception 19"
 "languages": "Common, Draconic, Dwarvish, Elvish"
 "cr": "18"
@@ -55,16 +59,15 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
     \ He has the following artificer spells prepared:\n\nCantrips (at will): [fire\
     \ bolt](compendium/spells/fire-bolt.md) (see \"Actions\" below), [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Expeditious Retreat.md|expeditious retreat]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Expeditious Retreat.md|expeditious retreat]],\
     \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Blur.md|blur]], [heat\
-    \ metal](compendium/spells/heat-metal.md), [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]],\
-    \ [[5. Mechanics/Spells/See Invisibility.md|see invisibility]]\n\n3rd level (3\
-    \ 3rd-level slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Fly.md|fly]],\
-    \ [[5. Mechanics/Spells/Haste.md|haste]]\n\n4th level (3 4th-level slots): [freedom\
-    \ of movement](compendium/spells/freedom-of-movement.md), [Mordenkainen's faithful\
-    \ hound](compendium/spells/mordenkainens-faithful-hound.md)\n\n5th level (2\
-    \ 5th-level slots): [[5. Mechanics/Spells/Animate Objects.md|animate objects]],\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
+    \ [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]], [[5. Mechanics/Spells/See Invisibility.md|see invisibility]]\n\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+    \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Haste.md|haste]]\n\n4th\
+    \ level (3 slots): [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]],\
+    \ [[5. Mechanics/Spells/Mordenkainens Faithful Hound.md|Mordenkainen's faithful hound]]\n\
+    \n5th level (2 slots): [[5. Mechanics/Spells/Animate Objects.md|animate objects]],\
     \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
   "name": "spells"
 - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."

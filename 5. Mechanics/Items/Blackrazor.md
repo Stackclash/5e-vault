@@ -9,14 +9,14 @@ tags:
 - item/property/two-handed
 - item/rarity/legendary
 - item/weapon/martial/melee
-aliases: ["Blackrazor"]
+aliases: 
+- "Blackrazor"
 ---
 # Blackrazor
 *Melee Weapon, legendary (requires attunement by a creature of non-lawful alignment)*  
 
 - **Damage**: 2d6 S
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
 - **Weight**: 6.0 lbs.
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.

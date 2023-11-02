@@ -6,12 +6,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous
-aliases: ["Manual of Flesh Golems"]
+aliases: 
+- "Manual of Flesh Golems"
 ---
 # Manual of Flesh Golems
 *Wondrous Item, major, very rare*  
+![[5. Mechanics/Items/img/manual-of-flesh-golems.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 This tome contains information and incantations necessary to make a particular type of golem. The DM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a manual of golems and attempts to read it takes `dice: 6d6|avg` (`6d6`) psychic damage.

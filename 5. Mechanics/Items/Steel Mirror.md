@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Steel Mirror"]
+aliases: 
+- "Steel Mirror"
+cost: 5 gp
 ---
 # Steel Mirror
 *Adventuring Gear*  

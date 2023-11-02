@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Sardonyx"]
+aliases: 
+- "Sardonyx"
+cost: 50 gp
 ---
 # Sardonyx
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 An opaque bands of red and white gemstone.
 

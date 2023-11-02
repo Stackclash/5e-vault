@@ -6,12 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Iron Bands of Bilarro"]
+aliases: 
+- "Iron Bands of Bilarro"
 ---
 # Iron Bands of Bilarro
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/iron-bands-of-bilarro.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.

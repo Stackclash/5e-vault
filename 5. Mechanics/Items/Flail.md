@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/martial
 - item/weapon/martial/melee
-aliases: ["Flail"]
+aliases: 
+- "Flail"
+cost: 10 gp
 ---
 # Flail
 *Melee Weapon*  

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Parriwimple"]
 ---
-# Parriwimple
+# [Parriwimple](compendium\bestiary\npc/parriwimple-cos.md)
 *Source: Curse of Strahd p. 43, Derived from *  
 
 ```statblock
-"name": "Parriwimple"
+"name": "Parriwimple (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -27,12 +30,12 @@ aliases: ["Parriwimple"]
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+5"
-  "Strength": "+7"
-  "Constitution": "+6"
+  "Dexterity": !!int "5"
+  "Strength": !!int "7"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Intimidation": "+5"
-  "Athletics": "+10"
+  "Intimidation": !!int "5"
+  "Athletics": !!int "10"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"

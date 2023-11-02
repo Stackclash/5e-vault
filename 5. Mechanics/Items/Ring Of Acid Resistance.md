@@ -7,14 +7,12 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Acid Resistance"]
+aliases: 
+- "Ring of Acid Resistance"
 ---
 # Ring of Acid Resistance
 *Ring, major, rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You have resistance to acid damage while wearing this ring. The ring is set with pearl.
 

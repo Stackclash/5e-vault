@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Silver Dragon Wyrmling"]
 ---
-# Silver Dragon Wyrmling
+# [Silver Dragon Wyrmling](compendium\bestiary\dragon/silver-dragon-wyrmling.md)
 *Source: Monster Manual p. 118. Available in the SRD.*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -98,13 +101,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "15"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+2"
-  "Wisdom": "+2"
-  "Constitution": "+5"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Stealth": "+2"
-  "Perception": "+4"
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
 "damage_immunities": "cold"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

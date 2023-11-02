@@ -8,7 +8,9 @@ tags:
 - item/property/martial
 - item/property/two-handed
 - item/weapon/martial/ranged
-aliases: ["Musket"]
+aliases: 
+- "Musket"
+cost: 500 gp
 ---
 # Musket
 *Ranged Weapon*  

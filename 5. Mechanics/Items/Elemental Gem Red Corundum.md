@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Elemental Gem, Red Corundum"]
+aliases: 
+- "Elemental Gem, Red Corundum"
 ---
 # Elemental Gem, Red Corundum
 *Wondrous Item, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, a [[5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elemental]] is summoned as if you had cast the [[5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] spell, and the gem's magic is lost.
 

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
+statblock: inline
 aliases: ["Myconid Adult"]
 ---
-# Myconid Adult
+# [Myconid Adult](compendium\bestiary\plant/myconid-adult.md)
 *Source: Monster Manual p. 232*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.

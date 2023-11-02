@@ -298,7 +298,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 *2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional class features]]*
 
-You can use a druidic focus as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
+You can use a [[5. Mechanics/Items/Druidic Focus.md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
 
 ### Ranger Archetype (Level 3)
 

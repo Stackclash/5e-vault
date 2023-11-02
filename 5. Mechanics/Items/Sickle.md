@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/property/light
 - item/weapon/simple/melee
-aliases: ["Sickle"]
+aliases: 
+- "Sickle"
+cost: 1 gp
 ---
 # Sickle
 *Melee Weapon*  

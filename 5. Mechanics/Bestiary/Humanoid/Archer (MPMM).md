@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/forest
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Archer"]
 ---
-# Archer
+# [Archer](compendium\bestiary\humanoid/archer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49*  
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -34,7 +37,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 ^archer-fletching
 
 ```statblock
-"name": "Archer"
+"name": "Archer (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -50,8 +53,8 @@ Some renowned archers and groups of archers are known for the special fletching 
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+5"
-  "Acrobatics": "+6"
+  "Perception": !!int "5"
+  "Acrobatics": !!int "6"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "3"

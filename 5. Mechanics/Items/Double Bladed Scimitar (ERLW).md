@@ -7,7 +7,9 @@ tags:
 - item/property/special
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Double-Bladed Scimitar"]
+aliases: 
+- "Double-Bladed Scimitar"
+cost: 100 gp
 ---
 # Double-Bladed Scimitar
 *Melee Weapon*  

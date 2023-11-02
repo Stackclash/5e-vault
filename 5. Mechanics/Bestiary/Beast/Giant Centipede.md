@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Centipede"]
 ---
-# Giant Centipede
+# [Giant Centipede](compendium\bestiary\beast/giant-centipede.md)
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock

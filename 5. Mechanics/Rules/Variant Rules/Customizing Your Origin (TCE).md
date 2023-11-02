@@ -41,7 +41,7 @@ Some races that include the Ability Score Increase trait also grant proficiencie
 | Tool | Tool or simple weapon |
 ^proficiency-swaps
 
-For example, high elf adventurers have proficiency with longswords, which are martial weapons. Consulting the Proficiency Swaps table, we see that your high elf can swap that proficiency for proficiency with another weapon or a tool. Your elf might be a musician, who chooses proficiency with a musical instrument—a type of tool—instead of with longswords. Similarly, elves start with proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]] skill. Your elf might not have the keen senses associated with your kin and could take proficiency in a different skill, such as [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]].
+For example, high elf adventurers have proficiency with longswords, which are martial weapons. Consulting the Proficiency Swaps table, we see that your high elf can swap that proficiency for proficiency with another weapon or a tool. Your elf might be a musician, who chooses proficiency with a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]]—a type of tool—instead of with longswords. Similarly, elves start with proficiency in the [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]] skill. Your elf might not have the keen senses associated with your kin and could take proficiency in a different skill, such as [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]].
 
 The ""Equipment"" chapter of the "Player's Handbook" includes weapons and tools suitable for these swaps, and your DM might allow additional options.
 

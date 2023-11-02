@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow House Captain"]
 ---
-# Drow House Captain
+# [Drow House Captain](compendium\bestiary\humanoid/drow-house-captain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101*  
 
 > [!quote]- A quote from Tasha  
@@ -19,7 +22,7 @@ A drow house captain leads the troops of an Underdark faction, whether defending
 Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, each noble house entrusts the leadership of its military forces to a house captain, who is typically the first or second son of a drow matron mother. Elsewhere drow house captains fight in the war against Lolth, often allying with duergar and others who also wish to rid their subterranean world of that god's malevolence.
 
 ```statblock
-"name": "Drow House Captain"
+"name": "Drow House Captain (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -36,12 +39,12 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+8"
-  "Wisdom": "+6"
-  "Constitution": "+6"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Stealth": "+8"
-  "Perception": "+6"
+  "Stealth": !!int "8"
+  "Perception": !!int "6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "9"

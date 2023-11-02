@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Thunder Resistance"]
+aliases: 
+- "Potion of Thunder Resistance"
 ---
 # Potion of Thunder Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to thunder damage for 1 hour.
 

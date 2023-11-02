@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/grassland
@@ -9,9 +11,10 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Griffon"]
 ---
-# Griffon
+# [Griffon](compendium\bestiary\monstrosity/griffon.md)
 *Source: Monster Manual p. 174, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
@@ -51,7 +54,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"

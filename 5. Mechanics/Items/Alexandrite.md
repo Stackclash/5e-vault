@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Alexandrite"]
+aliases: 
+- "Alexandrite"
+cost: 500 gp
 ---
 # Alexandrite
 *Treasure*  
 
 - **Cost**: 500 gp
-- **Weight**: ⏤
 
 A transparent dark green gemstone.
 

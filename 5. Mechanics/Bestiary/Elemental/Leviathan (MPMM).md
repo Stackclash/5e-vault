@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/20
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/gargantuan
 - monster/type/elemental
+statblock: inline
 aliases: ["Leviathan"]
 ---
-# Leviathan
+# [Leviathan](compendium\bestiary\elemental/leviathan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171*  
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
@@ -16,7 +19,7 @@ A leviathan is an immense creature that acts as a force of nature, dragging ship
 Usually found only on the Elemental Plane of Water, a leviathan sometimes swims through a portal to another world, where tritons, sea elves, and other aquatic folk attempt to contain it. Nihilistic cults have also been known to perform arduous rituals to summon a leviathan to a world, with the aim of using the creature to destroy coastal communities. Those cultists often consider it a blessing to drown themselves in the elemental's waters.
 
 ```statblock
-"name": "Leviathan"
+"name": "Leviathan (MPMM)"
 "size": "Gargantuan"
 "type": "elemental"
 "alignment": "Typically  Neutral"
@@ -32,12 +35,15 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 - !!int "17"
 "speed": "40 ft., swim 120 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+10"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "20"

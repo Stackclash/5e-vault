@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/humanoid/lizardfolk
+statblock: inline
 aliases: ["Lizardfolk"]
 ---
-# Lizardfolk
+# [Lizardfolk](compendium\bestiary\humanoid/lizardfolk.md)
 *Source: Monster Manual p. 204, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -66,9 +69,9 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
-  "Survival": "+5"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
+  "Survival": !!int "5"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1/2"

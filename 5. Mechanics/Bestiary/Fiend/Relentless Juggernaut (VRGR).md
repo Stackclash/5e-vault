@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/12
 - monster/size/large
 - monster/type/fiend
+statblock: inline
 aliases: ["Relentless Juggernaut"]
 ---
-# Relentless Juggernaut
+# [Relentless Juggernaut](compendium\bestiary\fiend/relentless-juggernaut-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 243*  
 
 Relentless juggernauts are massive brutes that thirst for carnage. Their presence twists the world around them, allowing them to create weapons with which they can slaughter prey. Sharp iron fences, crushing stalagmites and blades of glass all conveniently appear in order to aid a juggernaut's brutality. Every juggernaut considers a certain area its territory and visits destruction upon all trespassers.
@@ -44,7 +47,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 ^relentless-methods
 
 ```statblock
-"name": "Relentless Juggernaut"
+"name": "Relentless Juggernaut (VRGR)"
 "size": "Large"
 "type": "fiend"
 "alignment": "Unaligned"
@@ -60,13 +63,14 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+7"
-  "Dexterity": "+5"
-  "Wisdom": "+6"
+  "Charisma": !!int "7"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "6"
 "skillsaves":
-  "Perception": "+6"
-  "Survival": "+6"
-"condition_immunities": "charmed, exhaustion, frightened"
+  "Perception": !!int "6"
+  "Survival": !!int "6"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "understands all languages but can't speak"
 "cr": "12"

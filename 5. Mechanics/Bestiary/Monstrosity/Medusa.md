@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/desert
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Medusa"]
 ---
-# Medusa
+# [Medusa](compendium\bestiary\monstrosity/medusa.md)
 *Source: Monster Manual p. 214, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
@@ -39,10 +42,10 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+5"
-  "Stealth": "+5"
-  "Insight": "+4"
-  "Perception": "+4"
+  "Deception": !!int "5"
+  "Stealth": !!int "5"
+  "Insight": !!int "4"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common"
 "cr": "6"

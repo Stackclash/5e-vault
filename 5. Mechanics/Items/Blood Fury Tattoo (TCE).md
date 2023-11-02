@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/legendary
 - item/wondrous
-aliases: ["Blood Fury Tattoo"]
+aliases: 
+- "Blood Fury Tattoo"
 ---
 # Blood Fury Tattoo
 *Wondrous Item, legendary (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo evokes fury in its form and colors.
 

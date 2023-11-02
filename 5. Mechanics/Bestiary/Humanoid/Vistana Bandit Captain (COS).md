@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Bandit Captain"]
 ---
-# Vistana Bandit Captain
+# [Vistana Bandit Captain](compendium\bestiary\humanoid/vistana-bandit-captain-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Bandit Captain"
+"name": "Vistana Bandit Captain (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,12 +30,12 @@ aliases: ["Vistana Bandit Captain"]
 - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+5"
-  "Wisdom": "+2"
-  "Strength": "+4"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "2"
+  "Strength": !!int "4"
 "skillsaves":
-  "Athletics": "+4"
-  "Deception": "+4"
+  "Athletics": !!int "4"
+  "Deception": !!int "4"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"

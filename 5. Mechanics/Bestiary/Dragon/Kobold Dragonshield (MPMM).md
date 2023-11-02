@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/forest
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/small
 - monster/type/dragon
+statblock: inline
 aliases: ["Kobold Dragonshield"]
 ---
-# Kobold Dragonshield
+# [Kobold Dragonshield](compendium\bestiary\dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -22,7 +25,7 @@ Kobold dragonshields are champions of their people. Almost all dragonshields beg
 Dragonshields know they have a place of honor among those who venerate dragons, but—being kobolds at heart—most of them feel unworthy of their status and are desperate to prove themselves deserving of it. But they also have the ability to rally in the face of certain death, inspiring others to follow them into battle.
 
 ```statblock
-"name": "Kobold Dragonshield"
+"name": "Kobold Dragonshield (MPMM)"
 "size": "Small"
 "type": "dragon"
 "alignment": "Any alignment"
@@ -38,7 +41,8 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 - !!int "10"
 "speed": "20 ft."
 "skillsaves":
-  "Perception": "+1"
+  "Perception": !!int "1"
+"damage_resistances": "see Dragon's Resistance below"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Draconic"
 "cr": "1"

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity/warlock
+statblock: inline
 aliases: ["Yuan-ti Nightmare Speaker"]
 ---
-# Yuan-ti Nightmare Speaker
+# [Yuan-ti Nightmare Speaker](compendium\bestiary\monstrosity/yuan-ti-nightmare-speaker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275*  
 
 Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
@@ -17,7 +20,7 @@ Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar t
 Nightmare speakers revel in torturing others, keeping their victims in a constant state of fear and dread. They prefer to terrify rather than kill their opponents. They manipulate communities for the purpose of acquiring more victims and enjoy the company of Undead.
 
 ```statblock
-"name": "Yuan-ti Nightmare Speaker"
+"name": "Yuan-ti Nightmare Speaker (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "warlock"
@@ -34,13 +37,13 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+3"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Deception": "+5"
-  "Stealth": "+4"
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"

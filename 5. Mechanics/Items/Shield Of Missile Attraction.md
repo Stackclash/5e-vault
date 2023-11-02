@@ -7,14 +7,14 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/tier/major
-aliases: ["Shield of Missile Attraction"]
+aliases: 
+- "Shield of Missile Attraction"
 ---
 # Shield of Missile Attraction
 *Shield, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/shield-of-missile-attraction.jpg#right]]  
 
 - **Armor Class**: 2
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 6.0 lbs.
 
 While holding this shield, you have resistance to damage from ranged weapon attacks.

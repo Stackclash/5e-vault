@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/size/small
 - monster/type/humanoid
+statblock: inline
 aliases: ["Grung"]
 ---
-# Grung
+# [Grung](compendium\bestiary\humanoid/grung-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149*  
 
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
@@ -19,7 +22,7 @@ Grungs are frog-like folk found in rain forests and tropical jungles. These amph
 Born in a wide range of colors, grungs most often appear in shades of green, blue, purple, red, orange, and gold. All grungs secrete a substance that is harmless to them but poisonous to other creatures, and sometimes that substance has a special effect based on the grung's color (see "Variant: Grung Poison"). They also use this venom to poison their weapons.
 
 ```statblock
-"name": "Grung"
+"name": "Grung (MPMM)"
 "size": "Small"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -35,14 +38,14 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 - !!int "10"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  "Dexterity": "+4"
+  "Dexterity": !!int "4"
 "skillsaves":
-  "Athletics": "+2"
-  "Stealth": "+4"
-  "Perception": "+2"
-  "Survival": "+2"
+  "Athletics": !!int "2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
+  "Survival": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "1/4"

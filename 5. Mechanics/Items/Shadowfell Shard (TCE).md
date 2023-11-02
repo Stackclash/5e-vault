@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous
-aliases: ["Shadowfell Shard"]
+aliases: 
+- "Shadowfell Shard"
 ---
 # Shadowfell Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  
+![[5. Mechanics/Items/img/shadowfell-shard.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This dull, cold crystal sits heavy and leaden, saturated by the Shadowfell's despair. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.

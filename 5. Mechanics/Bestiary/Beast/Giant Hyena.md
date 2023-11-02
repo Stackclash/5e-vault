@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Hyena"]
 ---
-# Giant Hyena
+# [Giant Hyena](compendium\bestiary\beast/giant-hyena.md)
 *Source: Monster Manual p. 326. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -30,7 +33,7 @@ aliases: ["Giant Hyena"]
 - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"

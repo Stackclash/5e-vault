@@ -21,7 +21,7 @@ An artificer who specializes as an Armorer modifies armor to function almost lik
 
 *3rd-level Armorer feature*
 
-You gain proficiency with heavy armor. You also gain proficiency with [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]]. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+You gain proficiency with heavy armor. You also gain proficiency with [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]]. If you already have this tool proficiency, you gain proficiency with one other type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
 
 ### Armorer Spells (Level 3)
 

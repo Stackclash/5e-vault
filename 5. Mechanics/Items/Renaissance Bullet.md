@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/weapon/ammunition/firearm
-aliases: ["Renaissance Bullet"]
+aliases: 
+- "Renaissance Bullet"
+cost: 3 sp
 ---
 # Renaissance Bullet
 *Ammunition (Firearm)*  

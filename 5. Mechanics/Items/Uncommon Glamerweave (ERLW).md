@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/erlw
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Uncommon Glamerweave"]
+aliases: 
+- "Uncommon Glamerweave"
 ---
 # Uncommon Glamerweave
 *Wondrous Item, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Glamerweave is clothing imbued with harmless illusory magic. While wearing these clothes, you can use a bonus action to create a moving illusory pattern within the cloth. Alternatively, you can have the pattern rise from the cloth. For example, a glamerweave gown might be wreathed in harmless, illusory flames, while a glamerweave hat might have illusory butterflies fluttering around it.
 

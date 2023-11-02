@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/7
 - monster/size/huge
 - monster/type/plant
+statblock: inline
 aliases: ["Bodytaker Plant"]
 ---
-# Bodytaker Plant
+# [Bodytaker Plant](compendium\bestiary\plant/bodytaker-plant-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 226*  
 
 Whether hailing from the stars or sprouting from hidden depths, the malicious vegetation known as bodytaker plants seek to become the dominant form of life wherever they appear. These invasive organisms subvert whole societies by consuming individuals and replacing them with duplicates called podlings. Bodytaker plants view themselves as perfect organisms and seek to dominate the lands where they grow. To their minds, a world would be healthier and more efficient were they in control. Anyone who disagrees either lacks perspective or is fit to serve only as fertilizer.
@@ -14,7 +17,7 @@ Whether hailing from the stars or sprouting from hidden depths, the malicious ve
 A bodytaker plant roots deep, spreading near-invisible filaments through the soil. Should any of these fibers survive the plant's destruction, the bodytaker plant regrows after a matter of months. Salting or poisoning the soil where it grew destroys these filaments and prevents the plant from reappearing.
 
 ```statblock
-"name": "Bodytaker Plant"
+"name": "Bodytaker Plant (VRGR)"
 "size": "Huge"
 "type": "plant"
 "alignment": "Unaligned"
@@ -30,7 +33,8 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
 - !!int "18"
 "speed": "10 ft., climb 10 ft., swim 10 ft."
 "damage_vulnerabilities": "poison"
-"condition_immunities": "blinded, charmed, frightened, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 12"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "7"

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/grassland
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Riding Horse"]
 ---
-# Riding Horse
+# [Riding Horse](compendium\bestiary\beast/riding-horse.md)
 *Source: Monster Manual p. 336, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 ```statblock

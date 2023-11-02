@@ -16,8 +16,8 @@ aliases: ["Magic Item Table B"]
 |------------|------------|
 | 01-15 | [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of greater healing]] |
 | 16-22 | [[5. Mechanics/Items/Potion Of Fire Breath.md\|Potion of fire breath]] |
-| 23-29 | Potion of resistance |
-| 30-34 | +1 ammunition |
+| 23-29 | [[5. Mechanics/Items/Potion Of Resistance.md\|Potion of resistance]] |
+| 30-34 | [+1 ammunition](compendium/items/1-ammunition.md) |
 | 35-39 | [[5. Mechanics/Items/Potion Of Animal Friendship.md\|Potion of animal friendship]] |
 | 40-44 | [[5. Mechanics/Items/Potion Of Hill Giant Strength.md\|Potion of hill giant strength]] |
 | 45-49 | [[5. Mechanics/Items/Potion Of Growth.md\|Potion of growth]] |
@@ -30,7 +30,7 @@ aliases: ["Magic Item Table B"]
 | 74-75 | [[5. Mechanics/Items/Dust Of Disappearance.md\|Dust of disappearance]] |
 | 76-77 | [[5. Mechanics/Items/Dust Of Dryness.md\|Dust of dryness]] |
 | 78-79 | [[5. Mechanics/Items/Dust Of Sneezing And Choking.md\|Dust of sneezing and choking]] |
-| 80-81 | Elemental gem |
+| 80-81 | [[5. Mechanics/Items/Elemental Gem.md\|Elemental gem]] |
 | 82-83 | [[5. Mechanics/Items/Philter Of Love.md\|Philter of love]] |
 | 84 | [[5. Mechanics/Items/Alchemy Jug.md\|Alchemy jug]] |
 | 85 | [[5. Mechanics/Items/Cap Of Water Breathing.md\|Cap of water breathing]] |
@@ -40,8 +40,8 @@ aliases: ["Magic Item Table B"]
 | 89 | [[5. Mechanics/Items/Helm Of Comprehending Languages.md\|Helm of comprehending languages]] |
 | 90 | [[5. Mechanics/Items/Immovable Rod.md\|Immovable rod]] |
 | 91 | [[5. Mechanics/Items/Lantern Of Revealing.md\|Lantern of revealing]] |
-| 92 | Mariner's armor |
-| 93 | Mithral armor |
+| 92 | [[5. Mechanics/Items/Mariners Armor.md\|Mariner's armor]] |
+| 93 | [[5. Mechanics/Items/Mithral Armor.md\|Mithral armor]] |
 | 94 | [[5. Mechanics/Items/Potion Of Poison.md\|Potion of poison]] |
 | 95 | [[5. Mechanics/Items/Ring Of Swimming.md\|Ring of swimming]] |
 | 96 | [[5. Mechanics/Items/Robe Of Useful Items.md\|Robe of useful items]] |

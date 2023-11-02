@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Night Hag"]
 ---
-# Night Hag
+# [Night Hag](compendium\bestiary\fiend/night-hag.md)
 *Source: Monster Manual p. 178, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
@@ -109,13 +112,13 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+6"
-  "Stealth": "+5"
-  "Insight": "+5"
-  "Perception": "+5"
+  "Deception": !!int "6"
+  "Stealth": !!int "5"
+  "Insight": !!int "5"
+  "Perception": !!int "5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
-"condition_immunities": "charmed"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"

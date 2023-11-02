@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/gaming-set
-aliases: ["Dice Set"]
+aliases: 
+- "Dice Set"
+cost: 1 sp
 ---
 # Dice Set
 *Gaming Set*  
 
 - **Cost**: 1 sp
-- **Weight**: ⏤
 
 *Source: Player's Handbook p. 154. Available in the SRD and the Basic Rules.*

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/17
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Androsphinx"]
 ---
-# Androsphinx
+# [Androsphinx](compendium\bestiary\monstrosity/androsphinx.md)
 *Source: Monster Manual p. 281. Available in the SRD.*  
 
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
@@ -69,16 +72,16 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - !!int "23"
 "speed": "40 ft., fly 60 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+10"
-  "Intelligence": "+9"
-  "Constitution": "+11"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "10"
+  "Intelligence": !!int "9"
+  "Constitution": !!int "11"
 "skillsaves":
-  "Religion": "+15"
-  "Perception": "+10"
-  "Arcana": "+9"
+  "Religion": !!int "15"
+  "Perception": !!int "10"
+  "Arcana": !!int "9"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common, Sphinx"
 "cr": "17"
@@ -88,16 +91,15 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     \ no material components to cast its spells. The sphinx has the following cleric\
     \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
     \ [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Command.md|command]],\
-    \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
-    \ [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\n3rd level (3 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-    \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (2 5th-level slots): [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [greater\
-    \ restoration](compendium/spells/greater-restoration.md)\n\n6th level (1 6th-level\
-    \ slots): [[5. Mechanics/Spells/Heroes Feast.md|heroes' feast]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [detect evil\
+    \ and good](compendium/spells/detect-evil-and-good.md), [[5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
+    \ [[5. Mechanics/Spells/Zone Of Truth.md|zone of truth]]\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Tongues.md|tongues]]\n\
+    \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [freedom\
+    \ of movement](compendium/spells/freedom-of-movement.md)\n\n5th level (2 slots):\
+    \ [[5. Mechanics/Spells/Flame Strike.md|flame strike]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Heroes Feast.md|heroes' feast]]"
   "name": "spells"
 - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
     \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\

@@ -7,14 +7,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Telekinesis"]
+aliases: 
+- "Ring of Telekinesis"
 ---
 # Ring of Telekinesis
 *Ring, major, very rare (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-telekinesis.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this ring, you can cast the [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] spell at will, but you can target only objects that aren't being worn or carried.
 

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/14
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Ice Devil"]
 ---
-# Ice Devil
+# [Ice Devil](compendium\bestiary\fiend/ice-devil.md)
 *Source: Monster Manual p. 75, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
@@ -160,14 +163,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "18"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+9"
-  "Dexterity": "+7"
-  "Wisdom": "+7"
-  "Constitution": "+9"
+  "Charisma": !!int "9"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "fire, poison, cold"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "14"

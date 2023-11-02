@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Grappling Hook"]
+aliases: 
+- "Grappling Hook"
+cost: 2 gp
 ---
 # Grappling Hook
 *Adventuring Gear*  

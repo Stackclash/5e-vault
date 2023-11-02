@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/3
 - monster/size/tiny
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Carrion Stalker"]
 ---
-# Carrion Stalker
+# [Carrion Stalker](compendium\bestiary\monstrosity/carrion-stalker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 230*  
 
 A carrion stalker begins life as a pale larva that infests a corpse. Over the course of weeks, this grub burrows, feeds, and grows, ultimately developing into a chitinous mass of pincers and tentacles. When an adult carrion stalker detects movement, it bursts from its corpse-cradle to attack, intent on implanting its young into the living and starting its species' life cycle anew.
@@ -16,7 +19,7 @@ More than one necromancer has animated a corpse infested with carrion stalker la
 Carrion stalkers also enjoy symbiotic relationships with carrion crawlers. Carrion crawlers won't devour bodies infested by carrion stalkers, but they often pick up stalker larvae as they root among filth. The crawlers then spread these grubs, potentially infecting whole sewers, graveyards, or battlefields with carrion stalkers. In return, carrion stalkers avoid preying on carrion crawlers.
 
 ```statblock
-"name": "Carrion Stalker"
+"name": "Carrion Stalker (VRGR)"
 "size": "Tiny"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -32,8 +35,8 @@ Carrion stalkers also enjoy symbiotic relationships with carrion crawlers. Carri
 - !!int "6"
 "speed": "30 ft., burrow 30 ft."
 "skillsaves":
-  "Stealth": "+7"
-"condition_immunities": "blinded"
+  "Stealth": !!int "7"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
 "senses": "tremorsense 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"

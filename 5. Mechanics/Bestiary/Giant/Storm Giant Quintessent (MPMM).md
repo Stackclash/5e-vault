@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/underwater
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Storm Giant Quintessent"]
 ---
-# Storm Giant Quintessent
+# [Storm Giant Quintessent](compendium\bestiary\giant/storm-giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235*  
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -24,7 +27,7 @@ A storm giant quintessent can revert to their true giant form temporarily and ca
 A storm giant quintessent has no need for castles or dungeon lairs. Their lair is usually a secluded region or prominent geographic feature, such as a mountain peak, a great waterfall, a remote island, a fog-shrouded loch, a beautiful coral reef, or a windswept desert bluff. The storm in which the giant lives could be a blizzard, a typhoon, a thunderstorm, or a sandstorm, as befits the environment.
 
 ```statblock
-"name": "Storm Giant Quintessent"
+"name": "Storm Giant Quintessent (MPMM)"
 "size": "Huge"
 "type": "giant"
 "alignment": "Typically  Chaotic Good"
@@ -40,14 +43,14 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 - !!int "19"
 "speed": "50 ft., fly 50 ft. (hover), swim 50 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+10"
-  "Strength": "+14"
-  "Constitution": "+10"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "10"
+  "Strength": !!int "14"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Perception": "+10"
-  "History": "+8"
-  "Arcana": "+8"
+  "Perception": !!int "10"
+  "History": !!int "8"
+  "Arcana": !!int "8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, thunder"
 "senses": "truesight 60 ft., passive Perception 20"

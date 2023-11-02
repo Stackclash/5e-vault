@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/grassland
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Sword Wraith Warrior"]
 ---
-# Sword Wraith Warrior
+# [Sword Wraith Warrior](compendium\bestiary\undead/sword-wraith-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -18,7 +21,7 @@ Sword wraith warriors are most often found on ancient battlefields where soldier
 When glory-obsessed warriors die in battle without honor, they might haunt the site as sword wraiths.
 
 ```statblock
-"name": "Sword Wraith Warrior"
+"name": "Sword Wraith Warrior (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
@@ -35,7 +38,9 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "speed": "30 ft."
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, frightened, poisoned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "the languages it knew in life"
 "cr": "3"

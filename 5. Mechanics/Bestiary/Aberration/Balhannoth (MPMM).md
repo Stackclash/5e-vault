@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/11
 - monster/environment/coastal
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Balhannoth"]
 ---
-# Balhannoth
+# [Balhannoth](compendium\bestiary\aberration/balhannoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55*  
 
 Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. A limited form of telepathy enables a balhannoth to identify images of places where its prey expects their needs and desires to be met, such as an inn or a temple offering healing. It then warps reality around itself, hiding itself and remaking its environment to resemble such a place. The imitation is imperfect, but it's good enough to fool greedy or desperate creatures. Once its prey enters the trap, it snatches the targets and teleports away to feed on their fear and despair.
@@ -21,7 +24,7 @@ Dungeon builders and Underdark tyrants sometimes venture into the Shadowfell to 
 In the Shadowfell, balhannoths make their lairs near places inhabited by creatures they hunt. They typically haunt well-traveled roads and paths, snatching people who come along. A balhannoth used as a guardian in the Underdark might lair in caves near Underdark passages and guard the ways in and out of its keepers' enclave.
 
 ```statblock
-"name": "Balhannoth"
+"name": "Balhannoth (MPMM)"
 "size": "Large"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -37,10 +40,10 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 - !!int "8"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  "Constitution": "+8"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Perception": "+6"
-"condition_immunities": "blinded"
+  "Perception": !!int "6"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]]"
 "senses": "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
 "languages": "understands Deep Speech, telepathy 1 mile"
 "cr": "11"

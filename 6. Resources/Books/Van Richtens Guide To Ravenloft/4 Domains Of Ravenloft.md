@@ -905,7 +905,7 @@ The Carnival doesn't travel alone. Wherever it goes, fey creatures chase after i
 
 ### Isolde and Nepenthe
 
-[[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], the Carnival's leader, is an eladrin (an elf native to the Feywild). She is a Fey who otherwise uses the [[5. Mechanics/Bestiary/Fiend/Cambion.md\|cambion]] stat block. She is never seen without her holy avenger longsword, [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]], which glows red with hate. Nepenthe, not [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], is the Carnival's Darklord.
+[[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], the Carnival's leader, is an eladrin (an elf native to the Feywild). She is a Fey who otherwise uses the [[5. Mechanics/Bestiary/Fiend/Cambion.md\|cambion]] stat block. She is never seen without her [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]] longsword, [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]], which glows red with hate. Nepenthe, not [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], is the Carnival's Darklord.
 
 #### Isolde
 
@@ -921,7 +921,7 @@ Zybilna was intrigued enough by the shadar-kai to let [[5. Mechanics/Bestiary/Np
 
 #### Nepenthe
 
-The holy avenger named [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]] was crafted by shadar-kai to mete out justice as an executioner's weapon. In its lifetime, the sword has beheaded thousands of criminals, not all of whom were guilty of the crimes for which they were convicted. The sword cannot distinguish the guilty from the innocent. With each beheading, it hungers for more justice and blood.
+The [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]] named [[5. Mechanics/Items/Nepenthe (VRGR).md\|Nepenthe]] was crafted by shadar-kai to mete out justice as an executioner's weapon. In its lifetime, the sword has beheaded thousands of criminals, not all of whom were guilty of the crimes for which they were convicted. The sword cannot distinguish the guilty from the innocent. With each beheading, it hungers for more justice and blood.
 
 Nepenthe came to the Carnival in the hands of a retired half-ogre who moonlighted as a sword-swallower. When the half-ogre died of old age, the sword was deemed the property of the Carnival. It was given to [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] by the Carnival's previous owners, who claimed that the sword would help her protect the Carnival against any threat.
 
@@ -929,7 +929,7 @@ In [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], the sword found a par
 
 As soon as [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] took up the blade, it rekindled the grief and fury she had suppressed for so long, awakening the desire to avenge her long-dead companions by slaying the fiend she knows as "the Caller" (see ""Mist Wanderers"" later in this chapter for details). [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] always chooses the Carnival's stops based on her predictions of the Caller's next steps, and if her pursuit forces the Carnival into danger, so be it. Only by ridding [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] of Nepenthe can she truly escape the Dark Powers' clutches. But [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]] will never part with the blade willingly, and if it is taken from the Carnival, the sword will always find its way back.
 
-In addition to having the properties of a holy avenger, Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically. When using its telepathy to speak to [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], the sword can mimic the voices of [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]]'s fallen companions as it drives her to catch their fiendish killer. Unlike [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], whose motives are good, the sword is corrupt and irredeemable.
+In addition to having the properties of a [[5. Mechanics/Items/Holy Avenger.md\|holy avenger]], Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom of 8, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#darkvision\|darkvision]] out to a range of 60 feet. It can read and understand Elvish. It can also speak Elvish, but only through the voice of its wielder, with whom the sword can communicate telepathically. When using its telepathy to speak to [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], the sword can mimic the voices of [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]]'s fallen companions as it drives her to catch their fiendish killer. Unlike [[5. Mechanics/Bestiary/Npc/Isolde (VRGR).md\|Isolde]], whose motives are good, the sword is corrupt and irredeemable.
 
 #### Freedom of the Mists
 
@@ -1064,7 +1064,7 @@ Since the disappearance of Azalin Rex, Darkon has been without a Darklord. Three
 
 Alcio was never close to her brother, Baron, even after a Kargat vampire turned them both into undead servants. When her creator was destroyed, Alcio and Baron went their separate ways.
 
-![Alcio "Baron" Metus](compendium/books/van-richtens-guide-to-ravenloft/img/054-03-011-alcid.png#center)
+![Alcio &quot;Baron&quot; Metus](compendium/books/van-richtens-guide-to-ravenloft/img/054-03-011-alcid.png#center)
 
 It took Alcio years to learn of her brother's death at the hands of Rudolph van Richten, a doctor from Rivalis (see ""Mist Wanderers"" at the end of the chapter). Furious, she sought revenge, but van Richten had moved on, his trail hidden by the Mists. Alcio sought hints of the doctor's location at Richten House, his family's estate. There, she found the spirit of Rudolph's wife, Doctor Ingrid van Richten. Despite imaginative bargains and threats, Alcio couldn't convince Ingrid to reveal anything beyond psychological diagnoses and bemused mockery. Furious, the vampire sought other avenues in her search for her brother's slayer.
 
@@ -3897,7 +3897,7 @@ However, the Mists find a way to twist even the best of intentions. In the citie
 
 ![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/102-03-036-holy-symbol-of-ravenkind.png#center\|Holy Symbol of Ravenkind]]
 
-Beyond Barovia, where the eldest wereraven members of the Keepers of the Feather keep a low profile, Keepers organize into small social clubs with shared interests in occultism. Some members are actual invested scholars, while others are simply bored rich folk. But all have a strong interest in séances, fortune-telling, secrets of the afterlife, sightings of mysterious creatures, metaphysical theories, and tales of the macabre. Among their misinterpretations and outright flimflam—like round planet theory and dikesha dice—Keepers also possess hints of truth and the tools wereravens have long used to combat evil. Among these are "spirit boards" (detailed in "chapter 4"), tarokka decks, Mist talismans, and piecemeal occult writings from various domains. Some among the Keepers don't know the true power of these tools, but this doesn't dull their enthusiasm.
+Beyond Barovia, where the eldest wereraven members of the Keepers of the Feather keep a low profile, Keepers organize into small social clubs with shared interests in occultism. Some members are actual invested scholars, while others are simply bored rich folk. But all have a strong interest in séances, fortune-telling, secrets of the afterlife, sightings of mysterious creatures, metaphysical theories, and tales of the macabre. Among their misinterpretations and outright flimflam—like round planet theory and dikesha dice—Keepers also possess hints of truth and the tools wereravens have long used to combat evil. Among these are "spirit boards" (detailed in "chapter 4"), [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka decks]], Mist talismans, and piecemeal occult writings from various domains. Some among the Keepers don't know the true power of these tools, but this doesn't dull their enthusiasm.
 
 Knowing the threats that Darklords and other evils pose, wereravens of the Keepers typically don't reveal themselves to those not of their kind. Rather, they infiltrate Keeper societies as reclusive members, traveling experts, or foreign scholars. Some Keepers also tell of sightings or visitations involving giant raven-like beings that appear, speak some prophecy or deliver some message, then vanish, often presaging either wonder or disaster. The wereravens take little issue with these exaggerated tales from those who've witnessed their hybrid forms, and they willingly play into the tales of the Keepers if it means spurring them to action.
 
@@ -3929,7 +3929,7 @@ Meetings between Vistani bands are opportunities to trade, catch up with friends
 
 #### Vistani Magic and the Mists
 
-Vistani pass their varied teachings through their families as stories and songs, detailing lessons learned from generations of travelers, warnings specific to visited domains, and traditional magic. Spellcasters aren't uncommon among Vistani bands, with many favoring divination magic for the practical help it provides in avoiding danger. Spellcasters often incorporate their people's traditional divination tools into their spellcasting, including the fortune-telling cards called tarokka decks.
+Vistani pass their varied teachings through their families as stories and songs, detailing lessons learned from generations of travelers, warnings specific to visited domains, and traditional magic. Spellcasters aren't uncommon among Vistani bands, with many favoring divination magic for the practical help it provides in avoiding danger. Spellcasters often incorporate their people's traditional divination tools into their spellcasting, including the fortune-telling cards called [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka decks]].
 
 With their experience navigating the Mists, many Vistani understand how to employ "Mist talismans" (detailed at the start of this "chapter") to reach specific domains, or possess the "Mist Walker" Dark Gift (see "chapter 1"), allowing them to make their way between domains. Vistani don't enter the Mists lightly, though, knowing that each such passage holds inherent danger. Caravan leaders ensure that every family member is accounted for before moving on, ensuring no one gets lost in the Mists.
 
@@ -3980,7 +3980,7 @@ Some Vistani are legends among their people, and their bands might be encountere
 
 - **Hyskosa.** A renowned poet and storyteller, Hyskosa leads a caravan that embraces the Mists and goes where they lead it. As a result, his clan is unmoored from time and reality, appearing in different ages, in strange versions and configurations of domains, and even on worlds beyond the Domains of Dread. His lyrical accounts of his travels are often viewed as prophecies.  
 - **Madame Eva.** A controversial figure among Vistani, Madame Eva made a bargain with the vampire Count Strahd von Zarovich. As a result, the evils that lurk in Barovia avoid Vistani. However, Madame Eva and her followers occasionally ally with the infamous count, giving them a sinister reputation. Madame Eva and her unique band of Vistani are detailed in the adventure Curse of Strahd.  
-- **Mother Luba.** The halfling Mother Luba is known for putting unquiet spirits to rest and transporting wayward souls through the Mists to their rightful homes. Those wicked spirits beyond her aid she trapped within her tarokka deck, which became known as [[5. Mechanics/Items/Lubas Tarokka Of Souls (TCE).md\|Luba's Tarokka of Souls]] (detailed in "Tasha's Cauldron of Everything").  
+- **Mother Luba.** The halfling Mother Luba is known for putting unquiet spirits to rest and transporting wayward souls through the Mists to their rightful homes. Those wicked spirits beyond her aid she trapped within her [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], which became known as [[5. Mechanics/Items/Lubas Tarokka Of Souls (TCE).md\|Luba's Tarokka of Souls]] (detailed in "Tasha's Cauldron of Everything").  
 
 ### Other Groups
 
@@ -4080,7 +4080,7 @@ While traveling with his father, Erasmus bonds with Rudolph's allies. Aromantic 
 
 Erasmus is a [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] and the heart of the van Richten family. Consider the following plots when featuring Erasmus in an adventure:
 
-- Erasmus understands the unquiet dead. Through devices such as tarokka decks and spirit boards, he reveals the histories and intentions of spirits.  
+- Erasmus understands the unquiet dead. Through devices such as [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka decks]] and spirit boards, he reveals the histories and intentions of spirits.  
 - An overzealous priest detects the undead presence hovering near Rudolph van Richten and threatens Rudolph, Erasmus, or both.  
 - A powerful spirit, such as Lord Godefroy of "Mordent", kidnaps Erasmus to manipulate his father.  
 

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
+statblock: inline
 aliases: ["Quaggoth Spore Servant"]
 ---
-# Quaggoth Spore Servant
+# [Quaggoth Spore Servant](compendium\bestiary\plant/quaggoth-spore-servant.md)
 *Source: Monster Manual p. 230*  
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
@@ -69,7 +72,9 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1"

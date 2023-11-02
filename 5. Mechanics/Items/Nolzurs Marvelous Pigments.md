@@ -6,12 +6,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Nolzur's Marvelous Pigments"]
+aliases: 
+- "Nolzur's Marvelous Pigments"
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous Item, minor, very rare*  
+![[5. Mechanics/Items/img/nolzurs-marvelous-pigments.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 Typically found in `dice: 1d4|avg` (`1d4`) pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.

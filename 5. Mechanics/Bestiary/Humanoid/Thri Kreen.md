@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/humanoid/thri-kreen
+statblock: inline
 aliases: ["Thri-kreen"]
 ---
-# Thri-kreen
+# [Thri-kreen](compendium\bestiary\humanoid/thri-kreen.md)
 *Source: Monster Manual p. 288*  
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
@@ -49,9 +52,9 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
-  "Survival": "+3"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
+  "Survival": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Thri-kreen"
 "cr": "1"

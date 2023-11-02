@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Holy Water (flask)"]
+aliases: 
+- "Holy Water (flask)"
+cost: 25 gp
 ---
 # Holy Water (flask)
 *Adventuring Gear*  

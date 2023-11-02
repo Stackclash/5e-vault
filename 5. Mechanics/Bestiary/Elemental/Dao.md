@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/11
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
+statblock: inline
 aliases: ["Dao"]
 ---
-# Dao
+# [Dao](compendium\bestiary\elemental/dao.md)
 *Source: Monster Manual p. 143, Tasha's Cauldron of Everything*  
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -73,10 +76,10 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - !!int "14"
 "speed": "30 ft., burrow 30 ft., fly 30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+5"
-  "Intelligence": "+5"
-"condition_immunities": "petrified"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "5"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#petrified|petrified]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "11"

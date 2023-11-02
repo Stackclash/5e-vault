@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/arctic
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Mammoth"]
 ---
-# Mammoth
+# [Mammoth](compendium\bestiary\beast/mammoth.md)
 *Source: Monster Manual p. 332. Available in the SRD and the Basic Rules.*  
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.

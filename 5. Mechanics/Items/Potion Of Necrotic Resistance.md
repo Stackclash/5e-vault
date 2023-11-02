@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Necrotic Resistance"]
+aliases: 
+- "Potion of Necrotic Resistance"
 ---
 # Potion of Necrotic Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to necrotic damage for 1 hour.
 

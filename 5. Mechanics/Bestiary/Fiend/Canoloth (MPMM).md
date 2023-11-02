@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/coastal
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/yugoloth
+statblock: inline
 aliases: ["Canoloth"]
 ---
-# Canoloth
+# [Canoloth](compendium\bestiary\fiend/canoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -21,7 +24,7 @@ A type of yugoloth, canoloths are fiendish trackers and guardians employed by ev
 With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rules/Conditions.md#invisible|invisible]] creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
 
 ```statblock
-"name": "Canoloth"
+"name": "Canoloth (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "yugoloth"
@@ -38,12 +41,12 @@ With senses sharp enough to pinpoint the locations of nearby [[/5. Mechanics/Rul
 - !!int "12"
 "speed": "50 ft."
 "skillsaves":
-  "Investigation": "+3"
-  "Perception": "+9"
+  "Investigation": !!int "3"
+  "Perception": !!int "9"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "8"

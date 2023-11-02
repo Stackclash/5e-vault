@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/8
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Assassin"]
 ---
-# Assassin
+# [Assassin](compendium\bestiary\humanoid/assassin.md)
 *Source: Monster Manual p. 343, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
@@ -30,13 +33,13 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+6"
-  "Intelligence": "+4"
+  "Dexterity": !!int "6"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "Deception": "+3"
-  "Stealth": "+9"
-  "Perception": "+3"
-  "Acrobatics": "+6"
+  "Deception": !!int "3"
+  "Stealth": !!int "9"
+  "Perception": !!int "3"
+  "Acrobatics": !!int "6"
 "damage_resistances": "poison"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"

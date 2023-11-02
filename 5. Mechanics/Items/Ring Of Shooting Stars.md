@@ -7,14 +7,13 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Shooting Stars"]
+aliases: 
+- "Ring of Shooting Stars"
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  
+![[5. Mechanics/Items/img/ring-of-shooting-stars.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this ring in dim light or darkness, you can cast [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[5. Mechanics/Spells/Light.md\|light]] from the ring at will. Casting either spell from the ring requires an action.
 

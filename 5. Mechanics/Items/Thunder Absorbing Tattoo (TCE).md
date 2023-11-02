@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Thunder Absorbing Tattoo"]
+aliases: 
+- "Thunder Absorbing Tattoo"
 ---
 # Thunder Absorbing Tattoo
 *Wondrous Item, very rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo features designs that emphasize one color (orange).
 

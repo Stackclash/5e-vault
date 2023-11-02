@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/9
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Hashalaq Quori"]
 ---
-# Hashalaq Quori
+# [Hashalaq Quori](compendium\bestiary\aberration/hashalaq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 305*  
 
 Hashalaq quori are loremasters and judges, and are commonly known as dreamstealers. In their natural form, hashalaqs are composed of hundreds of translucent tendrils. They can compress and configure these tendrils to form a wide range of simple shapes. A point of blue light suspended within its tendrils serves as the hashalaq's sensory organ, which can be moved around to suit the creature's current shape.
@@ -22,7 +25,7 @@ Hashalaq quori are the loremasters of Dal Quor. Even those hashalaqs who don't m
 Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares—the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The Inspired are the most common type of willing host for the quori and are described earlier in this chapter.
 
 ```statblock
-"name": "Hashalaq Quori"
+"name": "Hashalaq Quori (ERLW)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Lawful Evil"
@@ -38,15 +41,15 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 - !!int "18"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+8"
-  "Wisdom": "+7"
+  "Charisma": !!int "8"
+  "Wisdom": !!int "7"
 "skillsaves":
-  "Insight": "+11"
-  "History": "+12"
-  "Arcana": "+12"
-  "Persuasion": "+8"
+  "Insight": !!int "11"
+  "History": !!int "12"
+  "Arcana": !!int "12"
+  "Persuasion": !!int "8"
 "damage_resistances": "psychic"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Quori"
 "cr": "9"

@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Topaz"]
+aliases: 
+- "Topaz"
+cost: 500 gp
 ---
 # Topaz
 *Treasure*  
 
 - **Cost**: 500 gp
-- **Weight**: ⏤
 
 A transparent golden yellow gemstone.
 

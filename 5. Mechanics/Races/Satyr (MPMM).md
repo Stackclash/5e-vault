@@ -34,7 +34,7 @@ Whenever you make a long jump or a high jump, you can roll a `dice: d8|avg` (`d8
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]] and [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] skills, and you have proficiency with one musical instrument of your choice.
+As an embodiment of revelry, you have proficiency in the [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]] and [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] skills, and you have proficiency with one [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice.
 
 ## Description
 

@@ -965,7 +965,7 @@ With nothing more to add, the ghost of Pidlwick fades away and doesn't appear ag
 
 #### Treasure
 
-The lute, though old and covered in dust, has survived the passage of time. It is a magic instrument of the bards called a [[5. Mechanics/Items/Instrument Of The Bards Doss Lute.md\|Doss lute]].
+The lute, though old and covered in dust, has survived the passage of time. It is a magic [[5. Mechanics/Items/Instrument Of The Bards.md\|instrument of the bards]] called a [[5. Mechanics/Items/Instrument Of The Bards Doss Lute.md\|Doss lute]].
 
 ### K37. Study
 
@@ -1084,7 +1084,7 @@ The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of
 
 #### Treasure
 
-The ground floor of the [[5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a +2 shield emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
+The ground floor of the [[5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [+2 shield](compendium/items/2-shield.md) emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#incapacitated\|incapacitated]].
 
 The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [[5. Mechanics/Items/Alchemy Jug.md\|alchemy jug]], a [[5. Mechanics/Items/Helm Of Brilliance.md\|helm of brilliance]], a [rod of the pact keeper, +1](compendium/items/1-rod-of-the-pact-keeper.md), and an unlocked wooden coffer with four compartments, each one containing a [[5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]].
 
@@ -1747,7 +1747,7 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
-The source of the underwater glow is a sentient lawful good +1 shortsword (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The source of the underwater glow is a sentient lawful good [+1 shortsword](compendium/items/1-weapon.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 
@@ -2443,7 +2443,7 @@ If the brown mold is killed off, characters can dig through the moldy crust to f
 
 ##### Treasure
 
-Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
+Hidden under the brown mold next to the baron's bones is a [[5. Mechanics/Items/Luck Blade.md\|luck blade]] with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
 
 #### Crypt 30
 
@@ -2473,7 +2473,7 @@ The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The c
 
 ##### Treasure
 
-A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [[5. Mechanics/Items/Crowbar.md\|crowbar]] lie nearby. Tied to the corpse's leather belt is a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Dagger.md\|dagger]] in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a spell scroll of [[5. Mechanics/Spells/Magic Circle.md\|magic circle]].
+A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [[5. Mechanics/Items/Crowbar.md\|crowbar]] lie nearby. Tied to the corpse's leather belt is a [[5. Mechanics/Items/Hempen Rope-50 Feet.md\|50-foot coil of hempen rope]], a [[5. Mechanics/Items/Dagger.md\|dagger]] in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Magic Circle.md\|magic circle]].
 
 #### Fortunes of Ravenloft
 
@@ -2563,7 +2563,7 @@ Inspection of the marble slab reveals a shallow, concave recess at one end. If t
 
 ##### Treasure
 
-The compartment under the slab holds a small, black leather case containing three spell scrolls ([[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Fireball.md\|fireball]], and [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]).
+The compartment under the slab holds a small, black leather case containing three [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Fireball.md\|fireball]], and [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]).
 
 #### Fortunes of Ravenloft
 
@@ -2634,7 +2634,7 @@ The coffin opens easily to the touch of a lawful good creature. Otherwise, openi
 
 #### Treasure
 
-Sergei's embalmed body is clothed in shining +2 plate armor.
+Sergei's embalmed body is clothed in shining [+2 plate armor](compendium/items/2-armor.md).
 
 #### Fortunes of Ravenloft
 

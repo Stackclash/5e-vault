@@ -6,14 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Baba Yaga's Mortar and Pestle"]
+aliases: 
+- "Baba Yaga's Mortar and Pestle"
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/baba-yagas-mortar-and-pestle.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among the notorious implements that cement her legend on countless worlds are the artifacts that propel her through the planes: Baba Yaga's Mortar and Pestle. These signature tools of Baba Yaga are a single artifact for purposes of attunement. Should the two objects become separated, the pestle appears next to the mortar at the next dawn.
 

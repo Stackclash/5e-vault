@@ -42,7 +42,7 @@ Spells and nonmagical equipment mentioned in the adventure are described in the 
 
 ### Story Overview
 
-Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], a vampire and wizard. Using a deck of tarokka cards to predict their future, a fortune-teller named [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] sets them on a dark course that takes them to many corners of Barovia, culminating with a vampire hunt in Castle Ravenloft.
+Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [[5. Mechanics/Bestiary/Npc/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], a vampire and wizard. Using a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|deck of tarokka cards]] to predict their future, a fortune-teller named [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]] sets them on a dark course that takes them to many corners of Barovia, culminating with a vampire hunt in Castle Ravenloft.
 
 [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]'s people are called the Vistani. They travel in covered wagons from world to world, luring strangers into Strahd's domain.
 
@@ -70,7 +70,7 @@ Chapter 1 also outlines Strahd's goals, and it suggests adventure hooks to draw 
 
 Chapter 2, "The Lands of Barovia," provides an overview of the realm and includes special rules for it and its people, including the mysterious Vistani. Chapters 3–15 detail areas that correspond to places on the map of Barovia in chapter 2.
 
-The epilogue offers ways for you to end the adventure. Appendix C details the special items—magical or otherwise—introduced in the adventure, and appendix D provides stat blocks for Strahd and various NPCs and monsters that can be met in Barovia. Appendix E shows the tarokka cards that the Vistani use for their fortune telling, and appendix F contains handouts for you to show the players.
+The epilogue offers ways for you to end the adventure. Appendix C details the special items—magical or otherwise—introduced in the adventure, and appendix D provides stat blocks for Strahd and various NPCs and monsters that can be met in Barovia. Appendix E shows the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka cards]] that the Vistani use for their fortune telling, and appendix F contains handouts for you to show the players.
 
 ### Character Levels
 

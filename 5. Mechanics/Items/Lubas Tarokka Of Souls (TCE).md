@@ -6,20 +6,19 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Luba's Tarokka of Souls"]
+aliases: 
+- "Luba's Tarokka of Souls"
 ---
 # Luba's Tarokka of Souls
 *Wondrous Item, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/lubas-tarokka-of-souls.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.
 
-Created by a figure of Vistani legend, Luba's Tarokka of Souls shaped the destiny of countless heroes. The prophecies of this deck of cards also revealed great evils and guided its creator into the path of nefarious forces. Untold times the deck's creator, Mother Luba, narrowly escaped doom, spared only by her keen insights. But even for her, not all wickedness could be escaped. In the most dire cases, Mother Luba managed to ensnare beings of pure evil amid the strands of fate, imprisoning them within her tarokka deck. There these foul spirits dwell still, trapped within a nether-realm hidden amid shuffling cards, waiting for fate to turn foul—as it inevitably will.
+Created by a figure of Vistani legend, Luba's Tarokka of Souls shaped the destiny of countless heroes. The prophecies of this deck of cards also revealed great evils and guided its creator into the path of nefarious forces. Untold times the deck's creator, Mother Luba, narrowly escaped doom, spared only by her keen insights. But even for her, not all wickedness could be escaped. In the most dire cases, Mother Luba managed to ensnare beings of pure evil amid the strands of fate, imprisoning them within her [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. There these foul spirits dwell still, trapped within a nether-realm hidden amid shuffling cards, waiting for fate to turn foul—as it inevitably will.
 
-Like all tarokka decks, the *Tarokka of Souls* is a lavishly illustrated collection of fifty-four cards, comprising the fourteen cards of the high deck and forty other cards divided into four suits: coins, glyphs, stars, and swords.
+Like all [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka decks]], the *Tarokka of Souls* is a lavishly illustrated collection of fifty-four cards, comprising the fourteen cards of the high deck and forty other cards divided into four suits: coins, glyphs, stars, and swords.
 
 ## Random Properties
 
@@ -77,7 +76,7 @@ If you go 7 days without using the Twist of Fate property, your attunement to Lu
 
 ## Destroying the Deck
 
-Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]], that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
+Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [[5. Mechanics/Bestiary/Undead/Lich.md\|lich]], that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], with no special properties, but it includes a new card of the DM's design.
 
 ### Mother Luba and the Vistani
 

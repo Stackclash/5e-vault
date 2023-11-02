@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Lemure"]
 ---
-# Lemure
+# [Lemure](compendium\bestiary\fiend/lemure.md)
 *Source: Monster Manual p. 76. Available in the SRD.*  
 
 A lemure arises when a mortal soul is twisted by evil and banished to the Nine Hells for eternity. The lowest type of devil, lemures are repugnant, shapeless creatures doomed to suffer torment until they are promoted to a higher form of devil, most commonly an imp.
@@ -152,7 +155,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "speed": "15 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"

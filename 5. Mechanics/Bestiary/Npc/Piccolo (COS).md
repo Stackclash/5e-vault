@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/small
 - monster/type/beast
+statblock: inline
 aliases: ["Piccolo"]
 ---
-# Piccolo
+# [Piccolo](compendium\bestiary\npc/piccolo-cos.md)
 *Source: Curse of Strahd p. 118, Derived from *  
 
 ```statblock
-"name": "Piccolo"
+"name": "Piccolo (CoS)"
 "size": "Small"
 "type": "beast"
 "alignment": "Unaligned"

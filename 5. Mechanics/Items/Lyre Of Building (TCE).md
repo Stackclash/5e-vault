@@ -6,13 +6,12 @@ tags:
 - item/attunement/required
 - item/gear/instrument
 - item/rarity/rare
-aliases: ["Lyre of Building"]
+aliases: 
+- "Lyre of Building"
 ---
 # Lyre of Building
 *Instrument, rare (requires attunement by a bard)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 While holding this [[5. Mechanics/Items/Lyre.md\|lyre]], you can cast [[5. Mechanics/Spells/Mending.md\|mending]] as an action. You can also play the [[5. Mechanics/Items/Lyre.md\|lyre]] as a reaction when an object or a structure you can see within 300 feet of you takes damage, causing it to be immune to that damage and any further damage of the same type until the start of your next turn.

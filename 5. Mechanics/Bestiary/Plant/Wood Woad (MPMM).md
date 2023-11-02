@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/forest
 - monster/size/medium
 - monster/type/plant
+statblock: inline
 aliases: ["Wood Woad"]
 ---
-# Wood Woad
+# [Wood Woad](compendium\bestiary\plant/wood-woad-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266*  
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -25,7 +28,7 @@ Like trees, wood woads need only sunlight, air, and nutrients from the earth to 
 Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]] and [[5. Mechanics/Bestiary/Plant/Treant.md|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
-"name": "Wood Woad"
+"name": "Wood Woad (MPMM)"
 "size": "Medium"
 "type": "plant"
 "alignment": "Typically  Lawful Neutral"
@@ -41,12 +44,12 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": "+7"
-  "Stealth": "+4"
-  "Perception": "+4"
+  "Athletics": !!int "7"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Sylvan"
 "cr": "5"

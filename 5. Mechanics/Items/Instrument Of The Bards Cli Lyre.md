@@ -7,13 +7,13 @@ tags:
 - item/gear/instrument
 - item/rarity/rare
 - item/tier/major
-aliases: ["Instrument of the Bards, Cli Lyre"]
+aliases: 
+- "Instrument of the Bards, Cli Lyre"
 ---
 # Instrument of the Bards, Cli Lyre
 *Instrument, major, rare (requires attunement by a bard)*  
+![[5. Mechanics/Items/img/instrument-of-the-bards-cli-lyre.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `dice: 2d4|avg` (`2d4`) psychic damage.

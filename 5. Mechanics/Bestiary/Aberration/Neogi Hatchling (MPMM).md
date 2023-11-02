@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-8
 - monster/environment/hill
 - monster/environment/underdark
 - monster/size/tiny
 - monster/type/aberration
+statblock: inline
 aliases: ["Neogi Hatchling"]
 ---
-# Neogi Hatchling
+# [Neogi Hatchling](compendium\bestiary\aberration/neogi-hatchling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191*  
 
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
@@ -24,7 +27,7 @@ A neogi looks like an outsize spider with an eel's neck and head. It can poison 
 Neogi usually dwell in far-flung locations on the Material Plane, as well as in the Astral Plane and the Ethereal Plane. They left their home world long ago to conquer and devour creatures in other realms. During this era, they dominated umber hulks and used them to build sleek, spidery ships capable of traversing the multiverse.
 
 ```statblock
-"name": "Neogi Hatchling"
+"name": "Neogi Hatchling (MPMM)"
 "size": "Tiny"
 "type": "aberration"
 "alignment": "Typically  Lawful Evil"

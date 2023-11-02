@@ -6,13 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Daern's Instant Fortress"]
+aliases: 
+- "Daern's Instant Fortress"
 ---
 # Daern's Instant Fortress
 *Wondrous Item, major, rare*  
+![[5. Mechanics/Items/img/daerns-instant-fortress.jpg#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 

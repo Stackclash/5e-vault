@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Shadow Demon"]
 ---
-# Shadow Demon
+# [Shadow Demon](compendium\bestiary\fiend/shadow-demon.md)
 *Source: Monster Manual p. 64, Curse of Strahd*  
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
@@ -202,16 +205,18 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "14"
 "speed": "30 ft., fly 30 ft."
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+5"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "5"
 "skillsaves":
-  "Stealth": "+7"
+  "Stealth": !!int "7"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; fire; necrotic; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, lightning, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "4"

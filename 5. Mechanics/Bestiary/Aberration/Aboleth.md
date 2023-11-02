@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/10
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Aboleth"]
 ---
-# Aboleth
+# [Aboleth](compendium\bestiary\aberration/aboleth.md)
 *Source: Monster Manual p. 13. Available in the SRD.*  
 
 Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
@@ -53,12 +56,12 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - !!int "18"
 "speed": "10 ft., swim 40 ft."
 "saves":
-  "Wisdom": "+6"
-  "Intelligence": "+8"
-  "Constitution": "+6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "8"
+  "Constitution": !!int "6"
 "skillsaves":
-  "Perception": "+10"
-  "History": "+12"
+  "Perception": !!int "10"
+  "History": !!int "12"
 "senses": "darkvision 120 ft., passive Perception 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "10"

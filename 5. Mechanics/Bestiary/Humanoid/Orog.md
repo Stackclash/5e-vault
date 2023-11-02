@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/grassland
@@ -10,9 +12,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/orc
+statblock: inline
 aliases: ["Orog"]
 ---
-# Orog
+# [Orog](compendium\bestiary\humanoid/orog.md)
 *Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -83,8 +86,8 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+5"
-  "Survival": "+2"
+  "Intimidation": !!int "5"
+  "Survival": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "2"

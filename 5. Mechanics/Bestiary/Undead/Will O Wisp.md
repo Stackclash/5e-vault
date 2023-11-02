@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
 aliases: ["Will-o'-Wisp"]
 ---
-# Will-o'-Wisp
+# [Will-o'-Wisp](compendium\bestiary\undead/will-o-wisp.md)
 *Source: Monster Manual p. 301, Curse of Strahd. Available in the SRD.*  
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
@@ -51,8 +54,10 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, poisoned, prone, restrained,\
-  \ unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "2"

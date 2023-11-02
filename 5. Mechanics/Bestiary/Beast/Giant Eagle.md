@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/coastal
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Eagle"]
 ---
-# Giant Eagle
+# [Giant Eagle](compendium\bestiary\beast/giant-eagle.md)
 *Source: Monster Manual p. 324. Available in the SRD and the Basic Rules.*  
 
 A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
@@ -32,7 +35,7 @@ A giant eagle is a noble creature that speaks its own language and understands s
 - !!int "10"
 "speed": "10 ft., fly 80 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": "Giant Eagle, understands Common and Auran but can't speak them"
 "cr": "1"

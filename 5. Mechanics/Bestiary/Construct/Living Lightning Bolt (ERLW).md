@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/5
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Living Lightning Bolt"]
 ---
-# Living Lightning Bolt
+# [Living Lightning Bolt](compendium\bestiary\construct/living-lightning-bolt-erlw.md)
 *Source: Eberron: Rising from the Last War p. 299*  
 
 ## Constructed Nature
@@ -41,7 +44,7 @@ Now make the following changes to that stat block:
 For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-level spell) into a living spell, customize the [[5. Mechanics/Bestiary/Construct/Living Lightning Bolt (ERLW).md|living lightning bolt]]. The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [[5. Mechanics/Spells/Fireball.md|fireball]] with Spell Mimicry.
 
 ```statblock
-"name": "Living Lightning Bolt"
+"name": "Living Lightning Bolt (ERLW)"
 "size": "Large"
 "type": "construct"
 "alignment": "Unaligned"
@@ -58,8 +61,10 @@ For example, if you turn [[5. Mechanics/Spells/Fireball.md|fireball]] (a 3rd-lev
 "speed": "25 ft., fly 25 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
-  \ poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"

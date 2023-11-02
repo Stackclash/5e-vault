@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/underwater
 - monster/size/huge
 - monster/type/beast
+statblock: inline
 aliases: ["Killer Whale"]
 ---
-# Killer Whale
+# [Killer Whale](compendium\bestiary\beast/killer-whale.md)
 *Source: Monster Manual p. 331. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -27,7 +30,7 @@ aliases: ["Killer Whale"]
 - !!int "7"
 "speed": "swim 60 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "blindsight 120 ft., passive Perception 13"
 "languages": ""
 "cr": "3"

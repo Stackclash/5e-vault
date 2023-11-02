@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/13
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Nalfeshnee"]
 ---
-# Nalfeshnee
+# [Nalfeshnee](compendium\bestiary\fiend/nalfeshnee.md)
 *Source: Monster Manual p. 62. Available in the SRD.*  
 
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
@@ -198,14 +201,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "15"
 "speed": "20 ft., fly 30 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Intelligence": "+9"
-  "Constitution": "+11"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "9"
+  "Constitution": !!int "11"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"

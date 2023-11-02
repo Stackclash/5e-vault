@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -10,9 +12,10 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Berserker"]
 ---
-# Berserker
+# [Berserker](compendium\bestiary\humanoid/berserker.md)
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.

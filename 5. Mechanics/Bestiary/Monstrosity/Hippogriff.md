@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Hippogriff"]
 ---
-# Hippogriff
+# [Hippogriff](compendium\bestiary\monstrosity/hippogriff.md)
 *Source: Monster Manual p. 184, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
@@ -39,7 +42,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
 - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1"

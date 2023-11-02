@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/12
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Erinyes"]
 ---
-# Erinyes
+# [Erinyes](compendium\bestiary\fiend/erinyes.md)
 *Source: Monster Manual p. 73. Available in the SRD.*  
 
 The most beautiful and striking of all lesser and greater devils, the erinyes are fierce and disciplined warriors. Sweeping down from the skies, they bring swift death to creatures that have wronged their masters or defied the edicts of Asmodeus. The erinyes appear as male or female humanoids with statuesque builds and large feathery wings. Most wear stylized armor and horned helms, and carry exquisite swords and bows. A few also use ropes of entanglement to ensnare powerful foes.
@@ -160,14 +163,14 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "18"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+7"
-  "Wisdom": "+6"
-  "Constitution": "+8"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "6"
+  "Constitution": !!int "8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"

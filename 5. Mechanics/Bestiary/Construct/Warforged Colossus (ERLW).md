@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/25
 - monster/size/gargantuan
 - monster/type/construct
+statblock: inline
 aliases: ["Warforged Colossus"]
 ---
-# Warforged Colossus
+# [Warforged Colossus](compendium\bestiary\construct/warforged-colossus-erlw.md)
 *Source: Eberron: Rising from the Last War p. 314*  
 
 In the final days of the Last War, House Cannith unleashed its mightiest creations: the warforged colossi. These enormous mechanical warriors thundered across Cyre, crushing everything in their paths and leaving ruin behind them. Meant to end the war decisively, the colossi pulverized hundreds of soldiers beneath their feet and incinerated whole legions with beams of fiery light that shot from their mouths. This rampage was cut short on the Day of Mourning. The arcane cataclysm that engulfed Cyre destroyed most of the warforged colossi, causing them to collapse into lifeless heaps.
@@ -30,7 +33,7 @@ Although it can operate without a crew, a warforged colossus is built to carry w
 A colossus might be filled with monsters and secrets, in addition to the corpses of those who died inside it. In chapter 4, map 4.8 illustrates an inactive warforged colossus, and the text that accompanies it explains how the colossus might serve as an adventure location.
 
 ```statblock
-"name": "Warforged Colossus"
+"name": "Warforged Colossus (ERLW)"
 "size": "Gargantuan"
 "type": "construct"
 "alignment": "Unaligned"
@@ -46,13 +49,15 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
 - !!int "8"
 "speed": "60 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+8"
-  "Intelligence": "+4"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "8"
+  "Intelligence": !!int "4"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "charmed, exhaustion, frightened, incapacitated, paralyzed,\
-  \ petrified, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "truesight 150 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "25"

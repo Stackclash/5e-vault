@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Nothic"]
 ---
-# Nothic
+# [Nothic](compendium\bestiary\aberration/nothic.md)
 *Source: Monster Manual p. 236, Curse of Strahd. Available in the Basic Rules.*  
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
@@ -41,10 +44,10 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Insight": "+4"
-  "Perception": "+2"
-  "Arcana": "+3"
+  "Stealth": !!int "5"
+  "Insight": !!int "4"
+  "Perception": !!int "2"
+  "Arcana": !!int "3"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "2"

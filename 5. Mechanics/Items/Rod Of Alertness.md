@@ -7,13 +7,12 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous/rod
-aliases: ["Rod of Alertness"]
+aliases: 
+- "Rod of Alertness"
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 This rod has a flanged head and the following properties.

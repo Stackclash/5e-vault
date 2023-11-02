@@ -9,7 +9,9 @@ tags:
 - item/property/martial
 - item/property/two-handed
 - item/weapon/martial/ranged
-aliases: ["Heavy Crossbow"]
+aliases: 
+- "Heavy Crossbow"
+cost: 50 gp
 ---
 # Heavy Crossbow
 *Ranged Weapon*  

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/mongrelfolk
+statblock: inline
 aliases: ["Mongrelfolk"]
 ---
-# Mongrelfolk
+# [Mongrelfolk](compendium\bestiary\humanoid/mongrelfolk-cos.md)
 *Source: Curse of Strahd p. 234*  
 
 Mongrelfolk are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
@@ -30,7 +33,7 @@ It's possible to restore a mongrel-folk to its original form using a [[5. Mechan
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
 ```statblock
-"name": "Mongrelfolk"
+"name": "Mongrelfolk (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "mongrelfolk"
@@ -47,9 +50,9 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
 - !!int "6"
 "speed": "20 ft."
 "skillsaves":
-  "Deception": "+2"
-  "Stealth": "+3"
-  "Perception": "+2"
+  "Deception": !!int "2"
+  "Stealth": !!int "3"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"

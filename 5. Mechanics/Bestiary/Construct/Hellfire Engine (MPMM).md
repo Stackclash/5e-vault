@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/size/huge
 - monster/type/construct
+statblock: inline
 aliases: ["Hellfire Engine"]
 ---
-# Hellfire Engine
+# [Hellfire Engine](compendium\bestiary\construct/hellfire-engine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152*  
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
@@ -16,7 +19,7 @@ Hellfire engines take many forms, but all of them have one purpose: to mow down 
 Mortal creatures slain by hellfire engines are doomed to join the infernal legions in mere hours unless powerful magic-wielders intervene on their behalf. The archdukes of the Nine Hells would like nothing better than to modify this magic so it works against demons, too, but that discovery has eluded them so far.
 
 ```statblock
-"name": "Hellfire Engine"
+"name": "Hellfire Engine (MPMM)"
 "size": "Huge"
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
@@ -32,14 +35,16 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
 - !!int "1"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+0"
-  "Dexterity": "+8"
-  "Wisdom": "+5"
+  "Charisma": !!int "0"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "5"
 "damage_resistances": "cold; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, deafened, exhaustion, frightened, paralyzed, poisoned,\
-  \ unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "16"

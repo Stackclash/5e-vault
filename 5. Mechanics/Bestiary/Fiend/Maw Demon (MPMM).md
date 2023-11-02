@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Maw Demon"]
 ---
-# Maw Demon
+# [Maw Demon](compendium\bestiary\fiend/maw-demon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176*  
 
 > [!quote]- A quote from Tasha  
@@ -35,7 +38,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 ^maw-demons-stomach-contents
 
 ```statblock
-"name": "Maw Demon"
+"name": "Maw Demon (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -53,7 +56,8 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"

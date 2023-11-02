@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/9
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Bone Devil"]
 ---
-# Bone Devil
+# [Bone Devil](compendium\bestiary\fiend/bone-devil.md)
 *Source: Monster Manual p. 71. Available in the SRD.*  
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
@@ -151,16 +154,16 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+6"
-  "Intelligence": "+5"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Deception": "+7"
-  "Insight": "+6"
+  "Deception": !!int "7"
+  "Insight": !!int "6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "9"

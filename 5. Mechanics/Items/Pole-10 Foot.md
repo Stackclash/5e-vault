@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Pole (10-foot)"]
+aliases: 
+- "Pole (10-foot)"
+cost: 5 cp
 ---
 # Pole (10-foot)
 *Adventuring Gear*  

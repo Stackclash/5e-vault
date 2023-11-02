@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/desert
 - monster/size/small
 - monster/type/elemental
+statblock: inline
 aliases: ["Dust Mephit"]
 ---
-# Dust Mephit
+# [Dust Mephit](compendium\bestiary\elemental/dust-mephit.md)
 *Source: Monster Manual p. 215. Available in the SRD.*  
 
 ## Mephits
@@ -41,11 +44,11 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Auran, Terran"
 "cr": "1/2"

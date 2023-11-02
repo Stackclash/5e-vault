@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Panther"]
 ---
-# Panther
+# [Panther](compendium\bestiary\beast/panther.md)
 *Source: Monster Manual p. 333. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -29,8 +32,8 @@ aliases: ["Panther"]
 - !!int "7"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+4"
+  "Stealth": !!int "6"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "1/4"

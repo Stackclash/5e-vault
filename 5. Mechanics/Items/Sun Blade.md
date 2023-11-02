@@ -10,16 +10,17 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/weapon/martial/melee
-aliases: ["Sun Blade"]
+aliases: 
+- "Sun Blade"
 ---
 # Sun Blade
 *Melee Weapon, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/sun-blade.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 R
   - Two-handed: 1d10 R
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [[5. Mechanics/Items/Shortsword.md\|shortswords]] or [[5. Mechanics/Items/Longsword.md\|longswords]], you are proficient with the sun blade.

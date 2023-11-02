@@ -7,7 +7,9 @@ tags:
 - item/property/loading
 - item/property/martial
 - item/weapon/martial/ranged
-aliases: ["Blowgun"]
+aliases: 
+- "Blowgun"
+cost: 10 gp
 ---
 # Blowgun
 *Ranged Weapon*  

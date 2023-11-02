@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/8
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Relentless Slasher"]
 ---
-# Relentless Slasher
+# [Relentless Slasher](compendium\bestiary\fiend/relentless-slasher-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 242*  
 
 A relentless slasher conducts its bloody work in silence then vanishes into shadow and infamy. Fixated on a specific individual or type of victim, it pursues its target with single-minded obsession.
@@ -44,7 +47,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 ^relentless-methods
 
 ```statblock
-"name": "Relentless Slasher"
+"name": "Relentless Slasher (VRGR)"
 "size": "Medium"
 "type": "fiend"
 "alignment": "Unaligned"
@@ -60,15 +63,15 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+7"
-  "Wisdom": "+5"
-  "Strength": "+4"
-  "Constitution": "+5"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "5"
+  "Strength": !!int "4"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Athletics": "+7"
-  "Perception": "+5"
-  "Survival": "+5"
-"condition_immunities": "charmed, frightened"
+  "Athletics": !!int "7"
+  "Perception": !!int "5"
+  "Survival": !!int "5"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "understands all languages but can't speak"
 "cr": "8"

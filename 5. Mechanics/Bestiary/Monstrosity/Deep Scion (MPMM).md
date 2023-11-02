@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Deep Scion"]
 ---
-# Deep Scion
+# [Deep Scion](compendium\bestiary\monstrosity/deep-scion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88*  
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -18,7 +21,7 @@ A deep scion emerges from the depths in service to their underwater master, whic
 The training to which a deep scion is subjected rids it of empathy for those they spy on. Though a deep scion might behave as though infatuated, laugh at the joke of a friend, or appear incensed at some injustice, each of these acts is artificial to the deep scion, a means to an end. The creature believes that their true form is the shape they take when they return to the sea they think of as home. Ironically, however, a deep scion that is killed when in their piscine form is stripped of the magic that enabled them to transform, leaving behind the corpse of the person the deep scion once was.
 
 ```statblock
-"name": "Deep Scion"
+"name": "Deep Scion (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
@@ -34,13 +37,13 @@ The training to which a deep scion is subjected rids it of empathy for those the
 - !!int "14"
 "speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 "saves":
-  "Charisma": "+4"
-  "Wisdom": "+3"
+  "Charisma": !!int "4"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Sleight of Hand": "+3"
-  "Deception": "+6"
-  "Stealth": "+3"
-  "Insight": "+3"
+  "Sleight of Hand": !!int "3"
+  "Deception": !!int "6"
+  "Stealth": !!int "3"
+  "Insight": !!int "3"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"

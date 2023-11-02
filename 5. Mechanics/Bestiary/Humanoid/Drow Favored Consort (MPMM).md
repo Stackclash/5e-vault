@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/18
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
 - monster/type/humanoid/wizard
+statblock: inline
 aliases: ["Drow Favored Consort"]
 ---
-# Drow Favored Consort
+# [Drow Favored Consort](compendium\bestiary\humanoid/drow-favored-consort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100*  
 
 Nearly every priestess of Lolth, including the powerful [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|drow matron mother]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
@@ -18,7 +21,7 @@ Those favored consorts who prove their cunning gain the ear, and perhaps even th
 Some favored consorts work behind the scenes to undermine the evils encouraged by Lolth. Others can be found in Underdark cities free of Lolth's influence, where these powerful spellcasters apply their might toward ending her tyranny.
 
 ```statblock
-"name": "Drow Favored Consort"
+"name": "Drow Favored Consort (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf, wizard"
@@ -35,14 +38,14 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+10"
-  "Dexterity": "+11"
-  "Constitution": "+9"
+  "Charisma": !!int "10"
+  "Dexterity": !!int "11"
+  "Constitution": !!int "9"
 "skillsaves":
-  "Athletics": "+8"
-  "Stealth": "+11"
-  "Perception": "+8"
-  "Acrobatics": "+11"
+  "Athletics": !!int "8"
+  "Stealth": !!int "11"
+  "Perception": !!int "8"
+  "Acrobatics": !!int "11"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Elvish, Undercommon"
 "cr": "18"

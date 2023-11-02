@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/desert
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Berbalang"]
 ---
-# Berbalang
+# [Berbalang](compendium\bestiary\aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61*  
 
 Berbalangs creep across the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -19,7 +22,7 @@ Pursuit of knowledge drives everything berbalangs do. Although they mostly learn
 The knowledge that berbalangs accumulate makes them great sources of information for powerful people traveling the planes. Berbalangs ignore petitioners, however, unless they come bearing a choice secret or the bones of a particularly interesting creature. Some githyanki have been able to strike deals with the creatures, using berbalangs to spy on their enemies and to watch over their creches on the Material Plane.
 
 ```statblock
-"name": "Berbalang"
+"name": "Berbalang (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Typically  Neutral Evil"
@@ -35,14 +38,14 @@ The knowledge that berbalangs accumulate makes them great sources of information
 - !!int "10"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Dexterity": "+5"
-  "Intelligence": "+5"
+  "Dexterity": !!int "5"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Religion": "+5"
-  "Insight": "+2"
-  "Perception": "+2"
-  "History": "+5"
-  "Arcana": "+5"
+  "Religion": !!int "5"
+  "Insight": !!int "2"
+  "Perception": !!int "2"
+  "History": !!int "5"
+  "Arcana": !!int "5"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "all"
 "cr": "2"

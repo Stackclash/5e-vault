@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/15
 - monster/environment/desert
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/undead/sorcerer
+statblock: inline
 aliases: ["Skull Lord"]
 ---
-# Skull Lord
+# [Skull Lord](compendium\bestiary\undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220*  
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -17,7 +20,7 @@ Skull lords have claimed vast regions of the Shadowfell as their dominion. From 
 Infighting and treachery brought skull lords into existence. The first of them appeared in the aftermath of Vecna's bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna's warlords turned against each other, and his plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into the shadows, others have arisen, typically created from other leaders who betrayed their masters.
 
 ```statblock
-"name": "Skull Lord"
+"name": "Skull Lord (MPMM)"
 "size": "Medium"
 "type": "undead"
 "subtype": "sorcerer"
@@ -34,15 +37,17 @@ Infighting and treachery brought skull lords into existence. The first of them a
 - !!int "21"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+7"
-  "Stealth": "+8"
-  "Perception": "+12"
-  "History": "+8"
+  "Athletics": !!int "7"
+  "Stealth": !!int "8"
+  "Perception": !!int "12"
+  "History": !!int "8"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, poisoned,\
-  \ stunned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 22"
 "languages": "all the languages it knew in life"
 "cr": "15"

@@ -7,14 +7,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Poison"]
+aliases: 
+- "Potion of Poison"
 ---
 # Potion of Poison
 *Potion, minor, uncommon, poison*  
 
-- **Properties**: Poison
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This concoction looks, smells, and tastes like a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] or other beneficial potion. However, it is actually poison masked by illusion magic. An [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals its true nature.
 

@@ -6,12 +6,13 @@ tags:
 - item/rarity/rare
 - item/tier/minor
 - item/wondrous
-aliases: ["Necklace of Fireballs"]
+aliases: 
+- "Necklace of Fireballs"
 ---
 # Necklace of Fireballs
 *Wondrous Item, minor, rare*  
+![[5. Mechanics/Items/img/necklace-of-fireballs.jpg#right]]  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This necklace has `dice: 1d6 + 3|avg` (`1d6 + 3`) beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level [[5. Mechanics/Spells/Fireball.md\|fireball]] spell (save DC 15).

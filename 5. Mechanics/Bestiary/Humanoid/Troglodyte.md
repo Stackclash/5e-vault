@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/troglodyte
+statblock: inline
 aliases: ["Troglodyte"]
 ---
-# Troglodyte
+# [Troglodyte](compendium\bestiary\humanoid/troglodyte.md)
 *Source: Monster Manual p. 290*  
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -47,7 +50,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+2"
+  "Stealth": !!int "2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"

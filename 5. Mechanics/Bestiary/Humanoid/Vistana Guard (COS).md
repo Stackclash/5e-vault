@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Guard"]
 ---
-# Vistana Guard
+# [Vistana Guard](compendium\bestiary\humanoid/vistana-guard-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Guard"
+"name": "Vistana Guard (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,7 +30,7 @@ aliases: ["Vistana Guard"]
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/phb
+- monster/cr/
 - monster/size/tiny
 - monster/type/construct
+statblock: inline
 aliases: ["Animated Object (Tiny)"]
 ---
-# Animated Object (Tiny)
+# [Animated Object (Tiny)](compendium\bestiary\construct/animated-object-tiny.md)
 *Source: Player's Handbook p. 213*  
 
 ```statblock
-"name": "Animated Object (Tiny)"
+"name": "Animated Object (Tiny) (PHB)"
 "size": "Tiny"
 "type": "construct"
 "alignment": "Unaligned"

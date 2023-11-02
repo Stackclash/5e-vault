@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/15
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Green Abishai"]
 ---
-# Green Abishai
+# [Green Abishai](compendium\bestiary\fiend/green-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -21,7 +24,7 @@ Tiamat deploys abishais as her agents, sending them forth to represent her inter
 Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when he chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
 ```statblock
-"name": "Green Abishai"
+"name": "Green Abishai (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "devil"
@@ -38,17 +41,17 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 - !!int "19"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  "Charisma": "+9"
-  "Intelligence": "+8"
+  "Charisma": !!int "9"
+  "Intelligence": !!int "8"
 "skillsaves":
-  "Deception": "+9"
-  "Insight": "+6"
-  "Perception": "+6"
-  "Persuasion": "+9"
+  "Deception": !!int "9"
+  "Insight": !!int "6"
+  "Perception": !!int "6"
+  "Persuasion": !!int "9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "15"

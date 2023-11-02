@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/humanoid/lizardfolk
+statblock: inline
 aliases: ["Lizardfolk Shaman"]
 ---
-# Lizardfolk Shaman
+# [Lizardfolk Shaman](compendium\bestiary\humanoid/lizardfolk-shaman.md)
 *Source: Monster Manual p. 205*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -66,9 +69,9 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+4"
-  "Survival": "+6"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
+  "Survival": !!int "6"
 "senses": "passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -77,12 +80,11 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     \ Wisdom (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). The\
     \ lizardfolk has the following druid spells prepared:\n\nCantrips (at will):\
     \ [[5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[5. Mechanics/Spells/Produce Flame.md|produce flame]],\
-    \ [[5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\n1st level (4 1st-level slots):\
-    \ [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Heat Metal.md|heat metal]],\
-    \ [[5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\n3rd level (2 3rd-level\
-    \ slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure animals]] (reptiles\
-    \ only), [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
+    \ [[5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]],\
+    \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]]\n\n2nd level (3 slots): [heat\
+    \ metal](compendium/spells/heat-metal.md), [[5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\
+    \n3rd level (2 slots): [[5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
+    \ (reptiles only), [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
   "name": "spells"
 - "desc": "The lizardfolk can hold its breath for 15 minutes."
   "name": "Hold Breath"

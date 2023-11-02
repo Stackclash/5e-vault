@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/4
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Zombie Plague Spreader"]
 ---
-# Zombie Plague Spreader
+# [Zombie Plague Spreader](compendium\bestiary\undead/zombie-plague-spreader-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs (see swarm of zombie limbs), infecting them with terrible diseases, or crushing an entire horde into a single, rotting titan (see zombie clot).
@@ -26,7 +29,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 ^zombie-apocalypses
 
 ```statblock
-"name": "Zombie Plague Spreader"
+"name": "Zombie Plague Spreader (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -43,7 +46,8 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "4"

@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Jade"]
+aliases: 
+- "Jade"
+cost: 100 gp
 ---
 # Jade
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 A translucent light green, deep green, or white gemstone.
 

@@ -6,12 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/wondrous
-aliases: ["Bag of Tricks, Rust"]
+aliases: 
+- "Bag of Tricks, Rust"
 ---
 # Bag of Tricks, Rust
 *Wondrous Item, major, uncommon*  
 
-- **Cost**: ⏤
 - **Weight**: 0.5 lbs.
 
 This ordinary bag, made from rust cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.

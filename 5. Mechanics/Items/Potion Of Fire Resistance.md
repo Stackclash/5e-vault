@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Fire Resistance"]
+aliases: 
+- "Potion of Fire Resistance"
 ---
 # Potion of Fire Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to fire damage for 1 hour.
 

@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Saddle of the Cavalier"]
+aliases: 
+- "Saddle of the Cavalier"
 ---
 # Saddle of the Cavalier
 *Wondrous Item, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage.
 

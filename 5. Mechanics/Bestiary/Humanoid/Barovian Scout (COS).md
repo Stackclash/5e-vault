@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Barovian Scout"]
 ---
-# Barovian Scout
+# [Barovian Scout](compendium\bestiary\humanoid/barovian-scout-cos.md)
 *Source: Curse of Strahd p. 29, Derived from *  
 
 ```statblock
-"name": "Barovian Scout"
+"name": "Barovian Scout (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,10 +30,10 @@ aliases: ["Barovian Scout"]
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Nature": "+4"
-  "Stealth": "+6"
-  "Perception": "+5"
-  "Survival": "+5"
+  "Nature": !!int "4"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
+  "Survival": !!int "5"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"

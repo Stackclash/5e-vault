@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/medium
-aliases: ["Scale Mail"]
+aliases: 
+- "Scale Mail"
+cost: 50 gp
 ---
 # Scale Mail
 *Medium Armor*  

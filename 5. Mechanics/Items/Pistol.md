@@ -7,7 +7,9 @@ tags:
 - item/property/loading
 - item/property/martial
 - item/weapon/martial/ranged
-aliases: ["Pistol"]
+aliases: 
+- "Pistol"
+cost: 250 gp
 ---
 # Pistol
 *Ranged Weapon*  

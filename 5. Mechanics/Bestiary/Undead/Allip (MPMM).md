@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Allip"]
 ---
-# Allip
+# [Allip](compendium\bestiary\undead/allip-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
@@ -20,7 +23,7 @@ Every allip is wracked with a horrifying insight that torments what remains of i
 An allip might attempt to share its lore to escape its curse and enter the afterlife. It can transfer knowledge from its mind by guiding another creature to write down what it knows. This process takes days or possibly weeks. An allip can accomplish this task by lurking in the study or workplace of a scholar. If the allip remains hidden, its victim is gradually overcome by frantic energy. A scholar, driven by sudden insights to work night and day, produces reams of text with little memory of exactly what the documents contain. If the allip succeeds, it passes from the world—and its terrible secret hides somewhere in the scholar's text, waiting to be discovered by its next victim.
 
 ```statblock
-"name": "Allip"
+"name": "Allip (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Neutral Evil"
@@ -36,16 +39,19 @@ An allip might attempt to share its lore to escape its curse and enter the after
 - !!int "16"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  "Wisdom": "+5"
-  "Intelligence": "+6"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "6"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+5"
+  "Stealth": !!int "6"
+  "Perception": !!int "5"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "the languages it knew in life"
 "cr": "5"

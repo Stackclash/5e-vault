@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Ogre Zombie"]
 ---
-# Ogre Zombie
+# [Ogre Zombie](compendium\bestiary\undead/ogre-zombie.md)
 *Source: Monster Manual p. 316. Available in the SRD.*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -55,9 +58,9 @@ A zombie doesn't require air, food, drink, or sleep.
 - !!int "5"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+0"
+  "Wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"

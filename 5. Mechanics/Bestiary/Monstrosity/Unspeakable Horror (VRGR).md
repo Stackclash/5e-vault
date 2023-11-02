@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/8
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Unspeakable Horror"]
 ---
-# Unspeakable Horror
+# [Unspeakable Horror](compendium\bestiary\monstrosity/unspeakable-horror-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 250*  
 
 Untold, half-formed evils lurk amid the Mists, the yet-to-be-realized imaginings of the Dark Powers and the remnants of ruined domains. While such nightmares typically manifest as nothing more than impressions, whispers, or vaporous visions amid the fog, mysterious eddies in the Mists sometimes gather such evils, forcing them into unique, misshapen bodies untethered from the laws of reason or reality. Such unspeakable horrors might continue to haunt the misty netherworld between the Domains of Dread, or they might slink forth into other realms to slake unnameable hungers.
@@ -54,7 +57,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 ^limbs
 
 ```statblock
-"name": "Unspeakable Horror"
+"name": "Unspeakable Horror (VRGR)"
 "size": "Huge"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -70,10 +73,10 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 - !!int "17"
 "speed": "40 ft."
 "saves":
-  "Wisdom": "+5"
-  "Constitution": "+7"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "7"
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "8"

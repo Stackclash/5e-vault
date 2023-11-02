@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/kalashtar
+statblock: inline
 aliases: ["Kalashtar"]
 ---
-# Kalashtar
+# [Kalashtar](compendium\bestiary\humanoid/kalashtar-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  
 
 The kalashtar have bonded with good-aligned quori spirits, which communicate with their hosts through dreams and visions. Descended from monks who offered their bodies as sanctuaries to those quori escaping the evil of Dal Quor, the kalashtar now fight to herald in a new age of light and balance.
 
 ```statblock
-"name": "Kalashtar"
+"name": "Kalashtar (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "kalashtar"
@@ -29,9 +32,9 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Insight": "+4"
-  "Acrobatics": "+4"
-  "Persuasion": "+6"
+  "Insight": !!int "4"
+  "Acrobatics": !!int "4"
+  "Persuasion": !!int "6"
 "damage_resistances": "psychic"
 "senses": "passive Perception 12"
 "languages": "Common, telepathy 20 ft."

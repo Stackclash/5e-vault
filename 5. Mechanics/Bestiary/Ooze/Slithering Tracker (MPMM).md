@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/ooze
+statblock: inline
 aliases: ["Slithering Tracker"]
 ---
-# Slithering Tracker
+# [Slithering Tracker](compendium\bestiary\ooze/slithering-tracker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221*  
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
@@ -20,7 +23,7 @@ A slithering tracker tastes the ground it courses over, seeking any trace of its
 Achieving revenge against its target doesn't end a slithering tracker's existence or its hunger for blood. Some slithering trackers remain aware of their purpose and extend their quest for vengeance to others, such as anyone who supported or befriended the original target. Most of the time, though, a tracker's mind can't cope with being trapped in liquid form, unable to communicate, and driven by the desire for blood; after fulfilling its duty, the overwhelmed creature attacks indiscriminately until it is destroyed.
 
 ```statblock
-"name": "Slithering Tracker"
+"name": "Slithering Tracker (MPMM)"
 "size": "Medium"
 "type": "ooze"
 "alignment": "Typically  Chaotic Evil"
@@ -36,12 +39,15 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 - !!int "11"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": "+8"
-  "Survival": "+6"
+  "Stealth": !!int "8"
+  "Survival": !!int "6"
 "damage_vulnerabilities": "cold, fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "blinded, deafened, exhaustion, grappled, paralyzed, petrified,\
-  \ prone, restrained, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "blindsight 120 ft., passive Perception 12"
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"

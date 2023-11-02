@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/coastal
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Tortle Druid"]
 ---
-# Tortle Druid
+# [Tortle Druid](compendium\bestiary\humanoid/tortle-druid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -19,7 +22,7 @@ Tortles are omnivorous, turtle-like bipeds with shells that cover most of their 
 Most tortles like to see how other folk live. A tortle can spend decades away from their native land without feeling homesick, often viewing their current companions as their family.
 
 ```statblock
-"name": "Tortle Druid"
+"name": "Tortle Druid (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -35,9 +38,9 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Nature": "+2"
-  "Animal Handling": "+4"
-  "Survival": "+4"
+  "Nature": !!int "2"
+  "Animal Handling": !!int "4"
+  "Survival": !!int "4"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "2"

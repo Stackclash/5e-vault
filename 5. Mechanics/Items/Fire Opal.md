@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Fire Opal"]
+aliases: 
+- "Fire Opal"
+cost: 1,000 gp
 ---
 # Fire Opal
 *Treasure*  
 
 - **Cost**: 1,000 gp
-- **Weight**: ⏤
 
 A translucent fiery red gemstone.
 

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Swarm of Rot Grubs"]
 ---
-# Swarm of Rot Grubs
+# [Swarm of Rot Grubs](compendium\bestiary\beast/swarm-of-rot-grubs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237*  
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
@@ -22,7 +25,7 @@ Rot grubs pose a threat both singly and as a swarm. See the stat block for the m
 Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], as the rot grub burrows into the creature. The [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature takes `dice: 1d6|avg` (`1d6`) poison damage at the end of each of its turns. Whenever the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]] creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 ```statblock
-"name": "Swarm of Rot Grubs"
+"name": "Swarm of Rot Grubs (MPMM)"
 "size": "Medium"
 "type": "beast"
 "alignment": "Unaligned"
@@ -39,8 +42,10 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "speed": "5 ft., climb 5 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "piercing, slashing"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
-  \ restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "blindsight 10 ft., passive Perception 6"
 "languages": ""
 "cr": "1/2"

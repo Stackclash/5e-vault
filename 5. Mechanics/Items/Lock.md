@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Lock"]
+aliases: 
+- "Lock"
+cost: 10 gp
 ---
 # Lock
 *Adventuring Gear*  

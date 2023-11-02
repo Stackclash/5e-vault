@@ -1,19 +1,22 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Rug of Smothering"]
 ---
-# Rug of Smothering
+# [Rug of Smothering](compendium\bestiary\construct/rug-of-smothering.md)
 *Source: Monster Manual p. 20, Curse of Strahd. Available in the SRD.*  
 
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
 
 A rug of smothering can be made in many different forms, from a finely woven carpet fit for a queen to a coarse mat in a peasant's hovel. Creatures with the ability to sense magic detect the rug's false magical aura.
 
-In some cases, a rug of smothering is disguised as a carpet of flying or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
+In some cases, a rug of smothering is disguised as a [[5. Mechanics/Items/Carpet Of Flying.md|carpet of flying]] or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
 
 ## Animated Objects
 
@@ -40,8 +43,10 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
-  \ poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "2"

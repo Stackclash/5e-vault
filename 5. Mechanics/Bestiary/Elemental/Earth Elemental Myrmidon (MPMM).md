@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Earth Elemental Myrmidon"]
 ---
-# Earth Elemental Myrmidon
+# [Earth Elemental Myrmidon](compendium\bestiary\elemental/earth-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
 
 ## Elemental Myrmidons
@@ -14,7 +17,7 @@ aliases: ["Earth Elemental Myrmidon"]
 Elemental myrmidons are Elementals conjured and bound by magic into ritually created suits of plate armor. In this form, they possess no recollection of their former existence as free Elementals. They exist only to follow the commands of their creators.
 
 ```statblock
-"name": "Earth Elemental Myrmidon"
+"name": "Earth Elemental Myrmidon (MPMM)"
 "size": "Medium"
 "type": "elemental"
 "alignment": "Typically  Neutral"
@@ -31,7 +34,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "paralyzed, petrified, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Terran, one language of its creator's choice"
 "cr": "7"

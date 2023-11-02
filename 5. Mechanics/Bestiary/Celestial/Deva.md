@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/10
 - monster/size/medium
 - monster/type/celestial
+statblock: inline
 aliases: ["Deva"]
 ---
-# Deva
+# [Deva](compendium\bestiary\celestial/deva.md)
 *Source: Monster Manual p. 16, Curse of Strahd. Available in the SRD.*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -50,13 +53,14 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - !!int "20"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+9"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "9"
 "skillsaves":
-  "Insight": "+9"
-  "Perception": "+9"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"

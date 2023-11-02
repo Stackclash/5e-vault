@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Tlincalli"]
 ---
-# Tlincalli
+# [Tlincalli](compendium\bestiary\monstrosity/tlincalli-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242*  
 
 Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.
@@ -23,7 +26,7 @@ These predators see themselves as great hunters, and respect others with such sk
 Tlincallis rarely build cities, make clothing, or mine metals. Instead, they scavenge much of what they need or want. They do, however, melt down scavenged metal to forge crude weapons, armor, and tools.
 
 ```statblock
-"name": "Tlincalli"
+"name": "Tlincalli (MPMM)"
 "size": "Large"
 "type": "monstrosity"
 "alignment": "Typically  Neutral"
@@ -39,9 +42,9 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+4"
-  "Survival": "+4"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
+  "Survival": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Tlincalli"
 "cr": "5"

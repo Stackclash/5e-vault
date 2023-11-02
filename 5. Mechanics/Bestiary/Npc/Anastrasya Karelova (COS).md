@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Anastrasya Karelova"]
 ---
-# Anastrasya Karelova
+# [Anastrasya Karelova](compendium\bestiary\npc/anastrasya-karelova-cos.md)
 *Source: Curse of Strahd p. 93, Derived from *  
 
 ```statblock
-"name": "Anastrasya Karelova"
+"name": "Anastrasya Karelova (CoS)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Evil"
@@ -26,11 +29,11 @@ aliases: ["Anastrasya Karelova"]
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+6"
-  "Wisdom": "+3"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+3"
+  "Stealth": !!int "6"
+  "Perception": !!int "3"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"

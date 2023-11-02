@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/coastal
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/fey
+statblock: inline
 aliases: ["Sea Hag"]
 ---
-# Sea Hag
+# [Sea Hag](compendium\bestiary\fey/sea-hag.md)
 *Source: Monster Manual p. 179. Available in the SRD.*  
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.

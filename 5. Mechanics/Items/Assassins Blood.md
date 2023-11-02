@@ -5,14 +5,14 @@ tags:
 - compendium/src/5e/dmg
 - item/gear/poison
 - item/property/poison
-aliases: ["Assassin's Blood"]
+aliases: 
+- "Assassin's Blood"
+cost: 150 gp
 ---
 # Assassin's Blood
 *Adventuring Gear, poison*  
 
-- **Properties**: Poison
 - **Cost**: 150 gp
-- **Weight**: ⏤
 
 A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes `dice: 1d12|avg` (`1d12`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]] for 24 hours. On a successful save, the creature takes half damage and isn't [[/5. Mechanics/Rules/Conditions.md#poisoned\|poisoned]].
 

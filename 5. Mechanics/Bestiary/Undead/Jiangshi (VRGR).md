@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/9
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Jiangshi"]
 ---
-# Jiangshi
+# [Jiangshi](compendium\bestiary\undead/jiangshi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 236*  
 
 When a soul becomes trapped within its corpse, its bitterness can reanimate its body, creating a jiangshi. These vengeful dead stalk their descendants and the communities they knew in life, sowing terror and taking retribution for the slights or neglected burial rites that led to their cursed resurrections. Rigor mortis notoriously afflicts the limbs of jiangshi, causing them to hold their arms rigidly and to walk with a stiff gait. This, along with their flight, lead many to call them hopping vampires.
@@ -14,7 +17,7 @@ When a soul becomes trapped within its corpse, its bitterness can reanimate its 
 By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention of the living. At night, they emerge to drain life from other creatures, these vital energies sustaining their unnatural existences and granting them greater powers. Humanoids killed by a jiangshi rise as life-hungry corpses and might turn into jiangshi themselves if they feed upon the living.
 
 ```statblock
-"name": "Jiangshi"
+"name": "Jiangshi (VRGR)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Unaligned"
@@ -30,11 +33,13 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
 - !!int "12"
 "speed": "20 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
-  "Constitution": "+8"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
+  "Constitution": !!int "8"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "9"

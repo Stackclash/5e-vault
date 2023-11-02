@@ -6,13 +6,13 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous
-aliases: ["Helm of Comprehending Languages"]
+aliases: 
+- "Helm of Comprehending Languages"
 ---
 # Helm of Comprehending Languages
 *Wondrous Item, minor, uncommon*  
+![[5. Mechanics/Items/img/helm-of-comprehending-languages.jpg#right]]  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this helm, you can use an action to cast the [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell from it at will.
 

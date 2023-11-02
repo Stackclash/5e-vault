@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Two-Person Tent"]
+aliases: 
+- "Two-Person Tent"
+cost: 2 gp
 ---
 # Two-Person Tent
 *Adventuring Gear*  

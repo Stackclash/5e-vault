@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Warhorse Skeleton"]
 ---
-# Warhorse Skeleton
+# [Warhorse Skeleton](compendium\bestiary\undead/warhorse-skeleton.md)
 *Source: Monster Manual p. 273, Curse of Strahd. Available in the SRD.*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -53,7 +56,8 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "1/2"

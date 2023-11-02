@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Entertainer's Pack"]
+aliases: 
+- "Entertainer's Pack"
+cost: 40 gp
 ---
 # Entertainer's Pack
 *Adventuring Gear*  

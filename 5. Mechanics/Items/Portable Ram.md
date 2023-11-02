@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Portable Ram"]
+aliases: 
+- "Portable Ram"
+cost: 4 gp
 ---
 # Portable Ram
 *Adventuring Gear*  

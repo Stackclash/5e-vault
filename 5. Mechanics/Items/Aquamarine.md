@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Aquamarine"]
+aliases: 
+- "Aquamarine"
+cost: 500 gp
 ---
 # Aquamarine
 *Treasure*  
 
 - **Cost**: 500 gp
-- **Weight**: ⏤
 
 A transparent pale blue-green gemstone.
 

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/arctic
 - monster/environment/forest
 - monster/size/medium
 - monster/type/fey/elf
+statblock: inline
 aliases: ["Winter Eladrin"]
 ---
-# Winter Eladrin
+# [Winter Eladrin](compendium\bestiary\fey/winter-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117*  
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
@@ -32,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
-"name": "Winter Eladrin"
+"name": "Winter Eladrin (MPMM)"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"

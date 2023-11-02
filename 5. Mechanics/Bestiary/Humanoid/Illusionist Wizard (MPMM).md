@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Illusionist Wizard"]
 ---
-# Illusionist Wizard
+# [Illusionist Wizard](compendium\bestiary\humanoid/illusionist-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263*  
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
@@ -17,7 +20,7 @@ Illusionists twist light, sound, and even thought to create illusory effects. So
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Illusionist Wizard"
+"name": "Illusionist Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,11 +36,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+2"
-  "Intelligence": "+5"
+  "Wisdom": !!int "2"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "History": "+5"
-  "Arcana": "+5"
+  "History": !!int "5"
+  "Arcana": !!int "5"
 "senses": "passive Perception 10"
 "languages": "any four languages"
 "cr": "3"

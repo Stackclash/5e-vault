@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Lady Lydia Petrovna"]
 ---
-# Lady Lydia Petrovna
+# [Lady Lydia Petrovna](compendium\bestiary\npc/lady-lydia-petrovna-cos.md)
 *Source: Curse of Strahd p. 105, Derived from *  
 
 ```statblock
-"name": "Lady Lydia Petrovna"
+"name": "Lady Lydia Petrovna (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

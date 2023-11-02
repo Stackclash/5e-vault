@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/8
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Inquisitor of the Tome"]
 ---
-# Inquisitor of the Tome
+# [Inquisitor of the Tome](compendium\bestiary\humanoid/inquisitor-of-the-tome-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 249*  
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -18,7 +21,7 @@ Ulmed and his friends Cosima, Ansel, and Tristian organized the inquisition into
 Today the inquisition rules the city of Malitain, a vast city-state to the north of Barovia's original site, and the inquisition sends its members throughout the multiverse, seeking to thwart the work of malevolent cults, otherworldly horrors, and the malice of mortals. The zeal of the inquisitors in this work has caused them to be a source of terror in many communities, where folk fear that an overzealous inquisitor might be as great a monster as the fiends the inquisitors originally hunted.
 
 ```statblock
-"name": "Inquisitor of the Tome"
+"name": "Inquisitor of the Tome (VRGR)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Unaligned"
@@ -34,15 +37,15 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+5"
-  "Wisdom": "+6"
-  "Intelligence": "+7"
+  "Charisma": !!int "5"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "Nature": "+7"
-  "Religion": "+10"
-  "History": "+7"
-  "Arcana": "+10"
-"condition_immunities": "charmed, frightened"
+  "Nature": !!int "7"
+  "Religion": !!int "10"
+  "History": !!int "7"
+  "Arcana": !!int "10"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "truesight 30 ft., passive Perception 13"
 "languages": "any four languages, telepathy 120 ft."
 "cr": "8"

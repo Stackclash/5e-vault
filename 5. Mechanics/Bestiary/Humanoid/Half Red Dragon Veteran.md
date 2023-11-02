@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Half-Red Dragon Veteran"]
 ---
-# Half-Red Dragon Veteran
+# [Half-Red Dragon Veteran](compendium\bestiary\humanoid/half-red-dragon-veteran.md)
 *Source: Monster Manual p. 180. Available in the SRD.*  
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -79,8 +82,8 @@ Here the half-dragon template has been applied to a human [[5. Mechanics/Bestiar
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+6"
-  "Perception": "+3"
+  "Athletics": !!int "6"
+  "Perception": !!int "3"
 "damage_resistances": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Common, Draconic"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Mad Mary"]
 ---
-# Mad Mary
+# [Mad Mary](compendium\bestiary\npc/mad-mary-cos.md)
 *Source: Curse of Strahd p. 44, Derived from *  
 
 ```statblock
-"name": "Mad Mary"
+"name": "Mad Mary (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"

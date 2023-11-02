@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/erlw
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Speaking Stone"]
+aliases: 
+- "Speaking Stone"
 ---
 # Speaking Stone
 *Wondrous Item, very rare*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 The key to long-distance, virtually instantaneous communication across Khorvaire is House Sivis's network of message stations. Each station contains at least one speaking stone, which is carved from a Siberys dragonshard and inscribed with arcane symbols that uniquely identify it. If you're a gnome with the Mark of Scribing, you can touch the stone and use an action to cast the [[5. Mechanics/Spells/Sending.md\|sending]] spell from it. The target is any other speaking stone whose location or unique sequence of symbols you know. A creature within 5 feet of the stone hears the message as if they were the target.
 

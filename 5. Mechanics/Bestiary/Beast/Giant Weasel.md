@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-8
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Weasel"]
 ---
-# Giant Weasel
+# [Giant Weasel](compendium\bestiary\beast/giant-weasel.md)
 *Source: Monster Manual p. 329. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -29,8 +32,8 @@ aliases: ["Giant Weasel"]
 - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+3"
+  "Stealth": !!int "5"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/8"

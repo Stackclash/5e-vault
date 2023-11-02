@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/17
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/huge
 - monster/type/dragon
+statblock: inline
 aliases: ["Adult Red Dragon"]
 ---
-# Adult Red Dragon
+# [Adult Red Dragon](compendium\bestiary\dragon/adult-red-dragon.md)
 *Source: Monster Manual p. 98. Available in the SRD and the Basic Rules.*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -106,13 +109,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "21"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Charisma": "+11"
-  "Dexterity": "+6"
-  "Wisdom": "+7"
-  "Constitution": "+13"
+  "Charisma": !!int "11"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "13"
 "skillsaves":
-  "Stealth": "+6"
-  "Perception": "+13"
+  "Stealth": !!int "6"
+  "Perception": !!int "13"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Common, Draconic"

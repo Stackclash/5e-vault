@@ -1,20 +1,23 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/huge
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Stegosaurus"]
 ---
-# Stegosaurus
+# [Stegosaurus](compendium\bestiary\beast/stegosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96*  
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
 
 ```statblock
-"name": "Stegosaurus"
+"name": "Stegosaurus (MPMM)"
 "size": "Huge"
 "type": "beast"
 "subtype": "dinosaur"

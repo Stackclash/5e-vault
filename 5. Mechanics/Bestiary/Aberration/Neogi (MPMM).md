@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/hill
 - monster/environment/underdark
 - monster/size/small
 - monster/type/aberration
+statblock: inline
 aliases: ["Neogi"]
 ---
-# Neogi
+# [Neogi](compendium\bestiary\aberration/neogi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192*  
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -26,7 +29,7 @@ A neogi looks like an outsize spider with an eel's neck and head. It can poison 
 Neogi usually dwell in far-flung locations on the Material Plane, as well as in the Astral Plane and the Ethereal Plane. They left their home world long ago to conquer and devour creatures in other realms. During this era, they dominated umber hulks and used them to build sleek, spidery ships capable of traversing the multiverse.
 
 ```statblock
-"name": "Neogi"
+"name": "Neogi (MPMM)"
 "size": "Small"
 "type": "aberration"
 "alignment": "Typically  Lawful Evil"
@@ -42,8 +45,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 - !!int "15"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Intimidation": "+4"
-  "Perception": "+3"
+  "Intimidation": !!int "4"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "3"

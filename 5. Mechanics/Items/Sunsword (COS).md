@@ -9,16 +9,17 @@ tags:
 - item/property/versatile
 - item/rarity/legendary
 - item/weapon/martial/melee
-aliases: ["Sunsword"]
+aliases: 
+- "Sunsword"
 ---
 # Sunsword
 *Melee Weapon, legendary (requires attunement)*  
+![[5. Mechanics/Items/img/sunsword.png#right]]  
 
 - **Damage**:
   - One-handed: 1d8 R
   - Two-handed: 1d10 R
-- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 The Sunsword is a unique blade once possessed by Strahd's brother, Sergei von Zarovich. In its original form, it had a platinum hilt and guard, and a thin crystal blade as strong as steel.

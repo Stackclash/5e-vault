@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Rictavio"]
 ---
-# Rictavio
+# [Rictavio](compendium\bestiary\npc/rictavio-cos.md)
 *Source: Curse of Strahd p. 238*  
 
 Several months ago, a colorfully dressed half-elf bard came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
@@ -40,7 +43,7 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 "I am cursed. Thus, I will never have peace."
 
 ```statblock
-"name": "Rictavio"
+"name": "Rictavio (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -57,15 +60,15 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+7"
-  "Constitution": "+4"
+  "Wisdom": !!int "7"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Medicine": "+7"
-  "Sleight of Hand": "+4"
-  "Religion": "+6"
-  "Insight": "+7"
-  "Perception": "+7"
-  "Arcana": "+9"
+  "Medicine": !!int "7"
+  "Sleight of Hand": !!int "4"
+  "Religion": !!int "6"
+  "Insight": !!int "7"
+  "Perception": !!int "7"
+  "Arcana": !!int "9"
 "senses": "passive Perception 17"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "5"
@@ -74,17 +77,16 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
     \ (spell save DC 15, dice: d20+7 (+7 to hit) with spell attacks). Rictavio has\
     \ the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
     \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
-    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 1st-level\
-    \ slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [detect evil and\
-    \ good](compendium/spells/detect-evil-and-good.md), [protection from evil and\
-    \ good](compendium/spells/protection-from-evil-and-good.md), [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
-    \n2nd level (3 2nd-level slots): [[5. Mechanics/Spells/Augury.md|augury]], [lesser\
-    \ restoration](compendium/spells/lesser-restoration.md), [[5. Mechanics/Spells/Protection From Poison.md|protection from poison]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Magic Circle.md|magic circle]],\
-    \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\
-    \n4th level (3 4th-level slots): [[5. Mechanics/Spells/Death Ward.md|death ward]],\
-    \ [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\n5th level\
-    \ (1 5th-level slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
+    \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
+    \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+    \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+    \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]],\
+    \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [protection from\
+    \ poison](compendium/spells/protection-from-poison.md)\n\n3rd level (3 slots):\
+    \ [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
+    \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3 slots):\
+    \ [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
+    \n5th level (1 slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
   "name": "spells"
 - "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
     \ and a [[5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\

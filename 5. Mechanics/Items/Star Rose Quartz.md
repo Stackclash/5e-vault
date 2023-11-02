@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Star rose quartz"]
+aliases: 
+- "Star rose quartz"
+cost: 50 gp
 ---
 # Star rose quartz
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 A translucent rosy stone with white star-shaped center gemstone.
 

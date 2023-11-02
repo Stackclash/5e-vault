@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/vrgr
+- monster/cr/1
 - monster/size/small
 - monster/type/construct
+statblock: inline
 aliases: ["Carrionette"]
 ---
-# Carrionette
+# [Carrionette](compendium\bestiary\construct/carrionette-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 231*  
 
 Carrionettes arise from innocent intentions. Heartfelt wishes breathe life into a beloved toy and, for a time, a creator might feel blessed by their new companion. But carrionettes aren't content to live as toys and seek to escape the confines of their diminutive bodies.
@@ -16,7 +19,7 @@ Every carrionette possesses a silver needle that pins its soul to its body. By p
 Carrionettes might appear as any type of toy or piece of art. While marionettes and porcelain dolls are the most common, all manner of deadly stuffed animals, crawling jack-in-the-boxes, bloodthirsty poppets, murderous jewelry box ballerinas, and so forth might be carrionettes. These malicious toys are skilled deceivers and, despite some having existed for generations, often affect unsettlingly childlike personalities. Among the most notorious of these terrors is the carrionette Maligno, Darklord of the domain of Odaire (detailed in chapter 3).
 
 ```statblock
-"name": "Carrionette"
+"name": "Carrionette (VRGR)"
 "size": "Small"
 "type": "construct"
 "alignment": "Unaligned"
@@ -32,7 +35,8 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
 - !!int "14"
 "speed": "25 ft."
 "damage_resistances": "poison, psychic"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 12"
 "languages": "understands the languages of its creator"
 "cr": "1"

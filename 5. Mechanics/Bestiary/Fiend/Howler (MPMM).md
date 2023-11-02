@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/desert
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend
+statblock: inline
 aliases: ["Howler"]
 ---
-# Howler
+# [Howler](compendium\bestiary\fiend/howler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -24,7 +27,7 @@ These nightmare creatures are native to Pandemonium, but they can be found on mo
 Howlers rely on speed, numbers, and their mind-numbing howling to corner prey before they tear it apart. Their howls flood the minds of their victims, making complex thought impossible. Listeners can do little more than stare in horror and stumble around the battlefield in a search for safety. Fiends especially prize howlers for this reason, because for a few crucial moments in a battle, their howls can neutralize an enemy.
 
 ```statblock
-"name": "Howler"
+"name": "Howler (MPMM)"
 "size": "Large"
 "type": "fiend"
 "alignment": "Typically  Chaotic Evil"
@@ -40,10 +43,10 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Abyssal but can't speak"
 "cr": "8"

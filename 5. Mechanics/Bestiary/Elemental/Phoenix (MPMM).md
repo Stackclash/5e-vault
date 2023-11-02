@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/environment/desert
 - monster/environment/mountain
 - monster/size/gargantuan
 - monster/type/elemental
+statblock: inline
 aliases: ["Phoenix"]
 ---
-# Phoenix
+# [Phoenix](compendium\bestiary\elemental/phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -18,7 +21,7 @@ aliases: ["Phoenix"]
 Releasing a phoenix from the Inner Planes creates an explosion of fire that spreads across the sky. An enormous fiery bird forms in the center of the flames and smoke—an elder Elemental possessed by a need to burn everything to ash. The phoenix rarely stays in one place for long as it strives to transform the world into an inferno.
 
 ```statblock
-"name": "Phoenix"
+"name": "Phoenix (MPMM)"
 "size": "Gargantuan"
 "type": "elemental"
 "alignment": "Typically  Neutral"
@@ -34,12 +37,15 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 - !!int "18"
 "speed": "20 ft., fly 120 ft."
 "saves":
-  "Charisma": "+9"
-  "Wisdom": "+10"
+  "Charisma": !!int "9"
+  "Wisdom": !!int "10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#prone|prone]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "16"

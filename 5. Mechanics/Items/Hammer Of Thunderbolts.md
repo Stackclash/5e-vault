@@ -9,14 +9,15 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/weapon/martial/melee
-aliases: ["Hammer of Thunderbolts"]
+aliases: 
+- "Hammer of Thunderbolts"
 ---
 # Hammer of Thunderbolts
 *Melee Weapon, major, legendary*  
+![[5. Mechanics/Items/img/hammer-of-thunderbolts.jpg#right]]  
 
 - **Damage**: 2d6 B
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], Martial, [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
 - **Weight**: 10.0 lbs.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.

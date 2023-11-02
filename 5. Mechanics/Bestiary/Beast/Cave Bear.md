@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Cave Bear"]
 ---
-# Cave Bear
+# [Cave Bear](compendium\bestiary\beast/cave-bear.md)
 *Source: Monster Manual p. 334*  
 
 ```statblock
@@ -28,7 +31,7 @@ aliases: ["Cave Bear"]
 - !!int "7"
 "speed": "40 ft., swim 30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/10
 - monster/size/medium
 - monster/type/aberration/shapechanger
+statblock: inline
 aliases: ["Death Slaad"]
 ---
-# Death Slaad
+# [Death Slaad](compendium\bestiary\aberration/death-slaad.md)
 *Source: Monster Manual p. 278, Curse of Strahd, Tasha's Cauldron of Everything*  
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
@@ -67,8 +70,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+8"
-  "Arcana": "+6"
+  "Perception": !!int "8"
+  "Arcana": !!int "6"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 18"
 "languages": "Slaad, telepathy 60 ft."

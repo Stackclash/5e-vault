@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Thug"]
 ---
-# Thug
+# [Thug](compendium\bestiary\humanoid/thug.md)
 *Source: Monster Manual p. 350, Tasha's Cauldron of Everything, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
@@ -30,7 +33,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+2"
+  "Intimidation": !!int "2"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/2"

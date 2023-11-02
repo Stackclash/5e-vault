@@ -8,7 +8,9 @@ tags:
 - item/property/reach
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Glaive"]
+aliases: 
+- "Glaive"
+cost: 20 gp
 ---
 # Glaive
 *Melee Weapon*  

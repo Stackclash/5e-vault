@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/21
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Lich"]
 ---
-# Lich
+# [Lich](compendium\bestiary\undead/lich.md)
 *Source: Monster Manual p. 202, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
@@ -70,17 +73,19 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+9"
-  "Intelligence": "+12"
-  "Constitution": "+10"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "12"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Insight": "+9"
-  "Perception": "+9"
-  "History": "+12"
-  "Arcana": "+19"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
+  "History": !!int "12"
+  "Arcana": !!int "19"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Common plus up to five other languages"
 "cr": "21"
@@ -89,23 +94,22 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
     \ (spell save DC 20, dice: d20+12 (+12 to hit) with spell attacks). The lich\
     \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
     \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+    \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
     \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]],\
-    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
+    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 slots):\
+    \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
     \ [[5. Mechanics/Spells/Melfs Acid Arrow.md|Melf's acid arrow]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-    \n3rd level (3 3rd-level slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+    \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
     \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-    \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 4th-level slots):\
-    \ [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\
-    \n5th level (3 5th-level slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]],\
-    \ [[5. Mechanics/Spells/Scrying.md|scrying]]\n\n6th level (1 6th-level slots):\
-    \ [[5. Mechanics/Spells/Disintegrate.md|disintegrate]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\
-    \n7th level (1 7th-level slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 8th-level\
-    \ slots): [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [power\
-    \ word stun](compendium/spells/power-word-stun.md)\n\n9th level (1 9th-level\
-    \ slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]]"
+    \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]],\
+    \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n5th level (3 slots):\
+    \ [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Scrying.md|scrying]]\n\
+    \n6th level (1 slots): [[5. Mechanics/Spells/Disintegrate.md|disintegrate]],\
+    \ [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]\n\n\
+    7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+    \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\n8th level (1 slots):\
+    \ [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Power Word Stun.md|power word stun]]\n\
+    \n9th level (1 slots): [[5. Mechanics/Spells/Power Word Kill.md|power word kill]]"
   "name": "spells"
 - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"

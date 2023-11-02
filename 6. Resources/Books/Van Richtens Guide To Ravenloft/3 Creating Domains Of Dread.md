@@ -46,7 +46,7 @@ Consult the "Dungeon Master's Guide" or the ""This Is Your Life"" section of "Xa
 
 > [!note] Darklords from the Tarokka
 > 
-> If you have a tarokka fortune-telling deck—detailed in "chapter 4" and featured in the adventure Curse of Strahd—consider using the power of fate to shape the Darklord you're creating. As you proceed through the Darklord and domain creation process in this chapter, with each new decision draw from the deck to help inspire your choices. Take note of the drawn card's name, physical orientation, and suit. A card drawn upside down represent the opposite of its original meaning.
+> If you have a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka fortune-telling deck]]—detailed in "chapter 4" and featured in the adventure Curse of Strahd—consider using the power of fate to shape the Darklord you're creating. As you proceed through the Darklord and domain creation process in this chapter, with each new decision draw from the deck to help inspire your choices. Take note of the drawn card's name, physical orientation, and suit. A card drawn upside down represent the opposite of its original meaning.
 ^darklords-from-the-tarokka
 
 ### Wicked Personality

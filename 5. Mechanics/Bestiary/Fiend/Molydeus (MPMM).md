@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/21
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Molydeus"]
 ---
-# Molydeus
+# [Molydeus](compendium\bestiary\fiend/molydeus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184*  
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -14,7 +17,7 @@ The fearsome molydeus speaks for the demon lord it serves and enforces its maste
 A molydeus's demon lord bestows on it a powerful weapon that dissolves if the molydeus dies. The weapon's form varies depending on the creator, but that doesn't affect the weapon's capabilities.
 
 ```statblock
-"name": "Molydeus"
+"name": "Molydeus (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -31,16 +34,18 @@ A molydeus's demon lord bestows on it a powerful weapon that dissolves if the mo
 - !!int "24"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+14"
-  "Wisdom": "+14"
-  "Strength": "+16"
-  "Constitution": "+14"
+  "Charisma": !!int "14"
+  "Wisdom": !!int "14"
+  "Strength": !!int "16"
+  "Constitution": !!int "14"
 "skillsaves":
-  "Perception": "+21"
+  "Perception": !!int "21"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, deafened, frightened, poisoned, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 31"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "21"

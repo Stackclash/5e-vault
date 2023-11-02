@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/10
 - monster/size/medium
 - monster/type/fiend/demon
 - monster/type/fiend/shapechanger
+statblock: inline
 aliases: ["Yochlol"]
 ---
-# Yochlol
+# [Yochlol](compendium\bestiary\fiend/yochlol.md)
 *Source: Monster Manual p. 65*  
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
@@ -199,17 +202,17 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "15"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Charisma": "+6"
-  "Dexterity": "+6"
-  "Wisdom": "+6"
-  "Intelligence": "+5"
+  "Charisma": !!int "6"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "6"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Deception": "+10"
-  "Insight": "+6"
+  "Deception": !!int "10"
+  "Insight": !!int "6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "10"

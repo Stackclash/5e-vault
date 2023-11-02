@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/9
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Shadar-kai Gloom Weaver"]
 ---
-# Shadar-kai Gloom Weaver
+# [Shadar-kai Gloom Weaver](compendium\bestiary\humanoid/shadar-kai-gloom-weaver-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -30,7 +33,7 @@ Within the fortress are items that the Raven Queen finds irresistible: objects i
 Shadar-kai encountered outside the Shadowfell are often on quests to find the most sorrow-touched items they can find to bring back to their queen's gloomy castle.
 
 ```statblock
-"name": "Shadar-kai Gloom Weaver"
+"name": "Shadar-kai Gloom Weaver (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "elf"
@@ -47,10 +50,10 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+8"
-  "Constitution": "+6"
+  "Dexterity": !!int "8"
+  "Constitution": !!int "6"
 "damage_immunities": "necrotic"
-"condition_immunities": "charmed, exhaustion"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "9"

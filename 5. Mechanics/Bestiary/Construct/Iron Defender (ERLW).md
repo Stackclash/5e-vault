@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Iron Defender"]
 ---
-# Iron Defender
+# [Iron Defender](compendium\bestiary\construct/iron-defender-erlw.md)
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An iron defender fights for its creator. They come in many shapes and are often crafted in the form of animals. More creative artificers craft iron defenders in the shape of hybrid animals or other fantastical creatures.
@@ -20,7 +23,7 @@ A homunculus is a construct servant created for certain tasks. Artificers and wi
 Each kind of homunculus has a body constructed from different kinds of materials, including clay, iron, and bits of hair and feathers. The process that creates a homunculus sees those materials mixed with the creator's blood and animated through an extended magical ritual.
 
 ```statblock
-"name": "Iron Defender"
+"name": "Iron Defender (ERLW)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Neutral"
@@ -36,10 +39,11 @@ Each kind of homunculus has a body constructed from different kinds of materials
 - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+4"
+  "Stealth": !!int "4"
+  "Perception": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"

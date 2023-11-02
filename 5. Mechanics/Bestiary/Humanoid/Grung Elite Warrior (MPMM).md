@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/forest
 - monster/size/small
 - monster/type/humanoid
+statblock: inline
 aliases: ["Grung Elite Warrior"]
 ---
-# Grung Elite Warrior
+# [Grung Elite Warrior](compendium\bestiary\humanoid/grung-elite-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150*  
 
 A grung elite warrior typically leads a group of grung and other warriors into battle and is often accompanied by a grung wildling.
@@ -19,7 +22,7 @@ Grungs are frog-like folk found in rain forests and tropical jungles. These amph
 Born in a wide range of colors, grungs most often appear in shades of green, blue, purple, red, orange, and gold. All grungs secrete a substance that is harmless to them but poisonous to other creatures, and sometimes that substance has a special effect based on the grung's color (see "Variant: Grung Poison"). They also use this venom to poison their weapons.
 
 ```statblock
-"name": "Grung Elite Warrior"
+"name": "Grung Elite Warrior (MPMM)"
 "size": "Small"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -35,14 +38,14 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 - !!int "12"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  "Dexterity": "+5"
+  "Dexterity": !!int "5"
 "skillsaves":
-  "Athletics": "+2"
-  "Stealth": "+5"
-  "Perception": "+2"
-  "Survival": "+2"
+  "Athletics": !!int "2"
+  "Stealth": !!int "5"
+  "Perception": !!int "2"
+  "Survival": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "2"

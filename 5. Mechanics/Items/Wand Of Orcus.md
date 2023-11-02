@@ -6,14 +6,14 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous/wand
-aliases: ["Wand of Orcus"]
+aliases: 
+- "Wand of Orcus"
 ---
 # Wand of Orcus
 *Wand, artifact (requires attunement)*  
+![[5. Mechanics/Items/img/wand-of-orcus.jpg#right]]  
 
 - **Damage**: 1d6 B
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 The ghastly Wand of Orcus rarely leaves [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md\|Orcus's]] side. The device, as evil as its creator, shares the demon lord's aims to snuff out the lives of all living things and bind the Material Plane in the stasis of undeath. [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md\|Orcus]] allows the wand to slip from his grasp from time to time. When it does, it magically appears wherever its master senses an opportunity to achieve some fell goal.

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/3
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Cave Fisher"]
 ---
-# Cave Fisher
+# [Cave Fisher](compendium\bestiary\monstrosity/cave-fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73*  
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -23,7 +26,7 @@ Nearly every part of a cave fisher is useful after the creature has been dispatc
 While some folk hunt cave fishers to kill them to harvest their filaments, shells, and blood, others capture cave fisher eggs and rear the hatchlings, which can be trained to guard passages or serve as beasts of war. Cave fishers have a natural aversion to fire, since their blood is flammable. As such, Underdark denizens often use the threat of fire when training them.
 
 ```statblock
-"name": "Cave Fisher"
+"name": "Cave Fisher (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -39,8 +42,8 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 - !!int "3"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+2"
+  "Stealth": !!int "5"
+  "Perception": !!int "2"
 "senses": "blindsight 60 ft., passive Perception 12"
 "languages": ""
 "cr": "3"

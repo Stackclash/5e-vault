@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/21
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Hutijin"]
 ---
-# Hutijin
+# [Hutijin](compendium\bestiary\npc/hutijin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157*  
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
@@ -18,7 +21,7 @@ Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to th
 Mephistopheles forbids Hutijin from making too many forays into the Material Plane, since the duke's absence leaves him vulnerable to his rivals. Other archdevils know how much Hutijin despises mortals and have secretly disseminated the means to call him from the Nine Hells in the hope of distracting the archdevil long enough for them to assail Mephistopheles. Hutijin sends devils into the Material Plane to eradicate mention of his name and destroy those who have learned of him, but the summonings still occur. When called from his post, he negotiates as quickly as he can, usually closing a deal with little cost to the summoner. However, once the deal has been fulfilled, Hutijin repays the interruption with death.
 
 ```statblock
-"name": "Hutijin"
+"name": "Hutijin (MPMM)"
 "size": "Large"
 "type": "fiend"
 "subtype": "devil"
@@ -35,16 +38,17 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 - !!int "25"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Dexterity": "+9"
-  "Wisdom": "+11"
-  "Constitution": "+14"
+  "Dexterity": !!int "9"
+  "Wisdom": !!int "11"
+  "Constitution": !!int "14"
 "skillsaves":
-  "Intimidation": "+14"
-  "Perception": "+11"
+  "Intimidation": !!int "14"
+  "Perception": !!int "11"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"

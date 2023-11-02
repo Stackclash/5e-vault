@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -13,9 +15,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Ogre"]
 ---
-# Ogre
+# [Ogre](compendium\bestiary\giant/ogre.md)
 *Source: Monster Manual p. 237, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.

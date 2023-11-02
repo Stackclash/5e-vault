@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/weapon/ammunition
-aliases: ["Crossbow Bolt"]
+aliases: 
+- "Crossbow Bolt"
+cost: 5 cp
 ---
 # Crossbow Bolt
 *Ammunition*  

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1
 - monster/size/tiny
 - monster/type/fiend/devil
+statblock: inline
 aliases: ["Majesto"]
 ---
-# Majesto
+# [Majesto](compendium\bestiary\npc/majesto-cos.md)
 *Source: Curse of Strahd p. 115, Derived from *  
 
 ```statblock
-"name": "Majesto"
+"name": "Majesto (CoS)"
 "size": "Tiny"
 "type": "fiend"
 "subtype": "devil"
@@ -27,14 +30,14 @@ aliases: ["Majesto"]
 - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  "Deception": "+4"
-  "Stealth": "+5"
-  "Insight": "+3"
-  "Persuasion": "+4"
+  "Deception": !!int "4"
+  "Stealth": !!int "5"
+  "Insight": !!int "3"
+  "Persuasion": !!int "4"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"

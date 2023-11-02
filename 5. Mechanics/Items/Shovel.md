@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Shovel"]
+aliases: 
+- "Shovel"
+cost: 2 gp
 ---
 # Shovel
 *Adventuring Gear*  

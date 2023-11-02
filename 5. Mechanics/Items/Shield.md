@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/shield
-aliases: ["Shield"]
+aliases: 
+- "Shield"
+cost: 10 gp
 ---
 # Shield
 *Shield*  

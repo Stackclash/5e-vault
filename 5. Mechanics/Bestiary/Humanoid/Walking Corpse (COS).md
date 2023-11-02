@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Walking Corpse"]
 ---
-# Walking Corpse
+# [Walking Corpse](compendium\bestiary\humanoid/walking-corpse-cos.md)
 *Source: Curse of Strahd p. 165, Derived from *  
 
 ```statblock
-"name": "Walking Corpse"
+"name": "Walking Corpse (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -26,7 +29,7 @@ aliases: ["Walking Corpse"]
 - !!int "10"
 - !!int "10"
 "speed": "20 ft."
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

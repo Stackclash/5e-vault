@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/urban
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Stone Cursed"]
 ---
-# Stone Cursed
+# [Stone Cursed](compendium\bestiary\construct/stone-cursed-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233*  
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]] victim's spirit, animating the statue and turning it into a useful guardian.
@@ -23,7 +26,7 @@ As part of the ritual used to create a stone cursed, a fist-sized obsidian skull
 Even though a creature transformed into a stone cursed is long dead, a vague whisper of their memories lives on in the obsidian skull embedded within the stone cursed's body. At the end of a short rest, a character can make a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]) check to attempt to extract a memory from the skull that is a response to a verbal question posed to the skull by the character. Once this check is made, whether it succeeds or fails, the skull can't be used in this manner again.
 
 ```statblock
-"name": "Stone Cursed"
+"name": "Stone Cursed (MPMM)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
@@ -40,7 +43,9 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 "speed": "10 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "passive Perception 9"
 "languages": "the languages it knew in life"
 "cr": "1"

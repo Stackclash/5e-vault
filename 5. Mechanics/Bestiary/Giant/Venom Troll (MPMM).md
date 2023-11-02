@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/environment/forest
 - monster/environment/swamp
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
 aliases: ["Venom Troll"]
 ---
-# Venom Troll
+# [Venom Troll](compendium\bestiary\giant/venom-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248*  
 
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
@@ -25,7 +28,7 @@ Although trolls are rarely devout and seldom ponder spiritual questions, some fe
 Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
 ```statblock
-"name": "Venom Troll"
+"name": "Venom Troll (MPMM)"
 "size": "Large"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
@@ -41,9 +44,9 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "7"

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/warforged
+statblock: inline
 aliases: ["Warforged Soldier"]
 ---
-# Warforged Soldier
+# [Warforged Soldier](compendium\bestiary\humanoid/warforged-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
@@ -14,7 +17,7 @@ Warforged soldiers are humanoids formed from wood and steel, then magically imbu
 Most warforged soldiers still serve their former masters, often guarding dragonmarked houses or merchant caravans. Many warforged find it difficult to separate themselves from the soldiers they were made to be, seeking work as bouncers, bailiffs, and bodyguards. Others put their tireless strength to work as laborers, committed to the reconstruction of the towns and cities they defended or destroyed in the war.
 
 ```statblock
-"name": "Warforged Soldier"
+"name": "Warforged Soldier (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "warforged"
@@ -31,9 +34,9 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Perception": "+4"
-  "Survival": "+4"
+  "Athletics": !!int "5"
+  "Perception": !!int "4"
+  "Survival": !!int "4"
 "damage_resistances": "poison"
 "senses": "passive Perception 14"
 "languages": "Common"

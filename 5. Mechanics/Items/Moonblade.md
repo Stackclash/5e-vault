@@ -8,16 +8,17 @@ tags:
 - item/property/versatile
 - item/rarity/legendary
 - item/weapon/martial/melee
-aliases: ["Moonblade"]
+aliases: 
+- "Moonblade"
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
+![[5. Mechanics/Items/img/moonblade.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
 Of all the magic items created by the elves, one of the most prized and jealously guarded is a moon blade. In ancient times, nearly all elven noble houses claimed one such blade. Over the centuries, some blades have faded from the world, their magic lost as family lines have become extinct. Other blades have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
@@ -38,14 +39,14 @@ A moonblade has one rune on its blade for each master it has served (typically `
 | 41-80 | The moonblade gains a randomly determined [[5. Mechanics/Tables/Special Features What Minor Property Does It Have.md\|minor property]] (see "Special Features" DMG p143). |
 | 81-82 | The moonblade gains the finesse property. |
 | 83-84 | The moonblade gains the thrown property (range 20/60 feet). |
-| 85-86 | The moonblade functions as a defender. |
+| 85-86 | The moonblade functions as a [[5. Mechanics/Items/Defender.md\|defender]]. |
 | 87-90 | The moon blade scores a critical hit on a roll of 19 or 20. |
 | 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `dice: 1d6\|avg` (`1d6`) slashing damage. |
 | 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `dice: 1d6\|avg` (`1d6`) damage of one of these types: acid, cold, fire, lightning, or thunder. |
 | 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#blinded\|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
 | 97-98 | The moonblade functions as a [[5. Mechanics/Items/Ring Of Spell Storing.md\|ring of spell storing]]. |
 | 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]], except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |
-| 00 | The moonblade functions as a vorpal sword. |
+| 00 | The moonblade functions as a [[5. Mechanics/Items/Vorpal Sword.md\|vorpal sword]]. |
 ^moonblade-properties
 
 ## Sentience

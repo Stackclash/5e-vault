@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Diviner Wizard"]
 ---
-# Diviner Wizard
+# [Diviner Wizard](compendium\bestiary\humanoid/diviner-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261*  
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
@@ -17,7 +20,7 @@ Diviners peer into the future and know that knowledge is power. They might act a
 Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
 
 ```statblock
-"name": "Diviner Wizard"
+"name": "Diviner Wizard (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -33,11 +36,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+4"
-  "Intelligence": "+7"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "7"
 "skillsaves":
-  "History": "+7"
-  "Arcana": "+7"
+  "History": !!int "7"
+  "Arcana": !!int "7"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "8"

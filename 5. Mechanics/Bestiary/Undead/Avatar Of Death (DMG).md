@@ -1,18 +1,21 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/dmg
+- monster/cr/
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Avatar of Death (DMG)"]
 ---
-# Avatar of Death (DMG)
+# [Avatar of Death (DMG)](compendium\bestiary\undead/avatar-of-death-dmg.md)
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.md|Deck of Many Things]].
 
 ```statblock
-"name": "Avatar of Death (DMG)"
+"name": "Avatar of Death (DMG) (DMG)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Neutral Evil"
@@ -26,7 +29,9 @@ Summoned by the "Skull" card from the [[5. Mechanics/Items/Deck Of Many Things.m
 - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, frightened, paralyzed, petrified, poisoned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":

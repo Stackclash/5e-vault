@@ -7,14 +7,13 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Djinni Summoning"]
+aliases: 
+- "Ring of Djinni Summoning"
 ---
 # Ring of Djinni Summoning
 *Ring, major, legendary (requires attunement)*  
+![[5. Mechanics/Items/img/ring-of-djinni-summoning.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this ring, you can speak its command word as an action to summon a particular [[5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] from the Elemental Plane of Air. The [[5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
 

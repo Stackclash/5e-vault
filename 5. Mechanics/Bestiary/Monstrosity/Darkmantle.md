@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Darkmantle"]
 ---
-# Darkmantle
+# [Darkmantle](compendium\bestiary\monstrosity/darkmantle.md)
 *Source: Monster Manual p. 46. Available in the SRD.*  
 
 A darkmantle clings to cavern ceilings, remaining perfectly still as it waits for creatures to pass beneath it. From a distance, it can pass itself off as a stalactite or a lump of stone. Then it drops from the ceiling and unfurls, surrounding itself with magical darkness as it engulfs and crushes its prey.
@@ -36,7 +39,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 - !!int "5"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": "+3"
+  "Stealth": !!int "3"
 "senses": "blindsight 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"

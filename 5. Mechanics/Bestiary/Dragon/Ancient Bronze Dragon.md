@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/22
 - monster/environment/coastal
 - monster/size/gargantuan
 - monster/type/dragon
+statblock: inline
 aliases: ["Ancient Bronze Dragon"]
 ---
-# Ancient Bronze Dragon
+# [Ancient Bronze Dragon](compendium\bestiary\dragon/ancient-bronze-dragon.md)
 *Source: Monster Manual p. 107. Available in the SRD.*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -93,14 +96,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "21"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Charisma": "+12"
-  "Dexterity": "+7"
-  "Wisdom": "+10"
-  "Constitution": "+15"
+  "Charisma": !!int "12"
+  "Dexterity": !!int "7"
+  "Wisdom": !!int "10"
+  "Constitution": !!int "15"
 "skillsaves":
-  "Stealth": "+7"
-  "Insight": "+10"
-  "Perception": "+17"
+  "Stealth": !!int "7"
+  "Insight": !!int "10"
+  "Perception": !!int "17"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
 "languages": "Common, Draconic"

@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/erlw
+- monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Sergeant"]
 ---
-# Sergeant
+# [Sergeant](compendium\bestiary\humanoid/sergeant-erlw.md)
 *Source: Eberron: Rising from the Last War p. 197, Derived from *  
 
 ```statblock
-"name": "Sergeant"
+"name": "Sergeant (ERLW)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,7 +30,7 @@ aliases: ["Sergeant"]
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

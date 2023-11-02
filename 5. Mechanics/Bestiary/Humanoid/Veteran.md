@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/forest
@@ -12,9 +14,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Veteran"]
 ---
-# Veteran
+# [Veteran](compendium\bestiary\humanoid/veteran.md)
 *Source: Monster Manual p. 350, Curse of Strahd, Eberron: Rising from the Last War. Available in the SRD.*  
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
@@ -37,8 +40,8 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": "+5"
-  "Perception": "+2"
+  "Athletics": !!int "5"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"

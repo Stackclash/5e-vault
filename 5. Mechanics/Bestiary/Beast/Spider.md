@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
 aliases: ["Spider"]
 ---
-# Spider
+# [Spider](compendium\bestiary\beast/spider.md)
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -26,7 +29,7 @@ aliases: ["Spider"]
 - !!int "2"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": ""
 "cr": "0"

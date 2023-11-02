@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/elf
+statblock: inline
 aliases: ["Drow"]
 ---
-# Drow
+# [Drow](compendium\bestiary\humanoid/drow.md)
 *Source: Monster Manual p. 128. Available in the SRD.*  
 
 ## Drow
@@ -82,8 +85,8 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+2"
+  "Stealth": !!int "4"
+  "Perception": !!int "2"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Elvish, Undercommon"
 "cr": "1/4"

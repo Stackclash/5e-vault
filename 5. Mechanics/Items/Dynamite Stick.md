@@ -4,12 +4,12 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/weapon/explosive
-aliases: ["Dynamite (stick)"]
+aliases: 
+- "Dynamite (stick)"
 ---
 # Dynamite (stick)
 *Explosive*  
 
-- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking `dice: 3d6|avg` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.

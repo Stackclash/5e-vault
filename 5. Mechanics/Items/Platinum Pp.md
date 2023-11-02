@@ -4,10 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/wealth
-aliases: ["Platinum (pp)"]
+aliases: 
+- "Platinum (pp)"
+cost: 10 gp
 ---
 # Platinum (pp)
 *Treasure*  
+![[5. Mechanics/Items/img/platinum-pp.jpg#right]]  
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/7
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
 aliases: ["Fire Elemental Myrmidon"]
 ---
-# Fire Elemental Myrmidon
+# [Fire Elemental Myrmidon](compendium\bestiary\elemental/fire-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 
 ## Elemental Myrmidons
@@ -14,7 +17,7 @@ aliases: ["Fire Elemental Myrmidon"]
 Elemental myrmidons are Elementals conjured and bound by magic into ritually created suits of plate armor. In this form, they possess no recollection of their former existence as free Elementals. They exist only to follow the commands of their creators.
 
 ```statblock
-"name": "Fire Elemental Myrmidon"
+"name": "Fire Elemental Myrmidon (MPMM)"
 "size": "Medium"
 "type": "elemental"
 "alignment": "Typically  Neutral"
@@ -31,7 +34,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "paralyzed, petrified, poisoned, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Ignan, one language of its creator's choice"
 "cr": "7"

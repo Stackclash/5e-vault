@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/environment/desert
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Lamia"]
 ---
-# Lamia
+# [Lamia](compendium\bestiary\monstrosity/lamia.md)
 *Source: Monster Manual p. 201. Available in the SRD.*  
 
 Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|jackalweres]] to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
@@ -49,9 +52,9 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+7"
-  "Stealth": "+3"
-  "Insight": "+4"
+  "Deception": !!int "7"
+  "Stealth": !!int "3"
+  "Insight": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "4"

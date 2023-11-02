@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/6
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/grassland
@@ -10,9 +12,10 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Cyclops"]
 ---
-# Cyclops
+# [Cyclops](compendium\bestiary\giant/cyclops.md)
 *Source: Monster Manual p. 45. Available in the Basic Rules.*  
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.

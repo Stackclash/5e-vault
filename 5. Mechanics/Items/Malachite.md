@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Malachite"]
+aliases: 
+- "Malachite"
+cost: 10 gp
 ---
 # Malachite
 *Treasure*  
 
 - **Cost**: 10 gp
-- **Weight**: ⏤
 
 An opaque striated light and dark green gemstone.
 

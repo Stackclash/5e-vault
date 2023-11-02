@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/forest
 - monster/environment/swamp
 - monster/size/small
 - monster/type/plant
+statblock: inline
 aliases: ["Vegepygmy Chief"]
 ---
-# Vegepygmy Chief
+# [Vegepygmy Chief](compendium\bestiary\plant/vegepygmy-chief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253*  
 
 As a [[5. Mechanics/Bestiary/Plant/Vegepygmy (MPMM).md|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[5. Mechanics/Traps Hazards/Russet Mold (VGM).md|russet mold]] does.
@@ -20,7 +23,7 @@ Vegepygmies are fungus creatures that live in simple bands, hunting for sustenan
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
 ```statblock
-"name": "Vegepygmy Chief"
+"name": "Vegepygmy Chief (MPMM)"
 "size": "Small"
 "type": "plant"
 "alignment": "Typically  Neutral"
@@ -36,8 +39,8 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
-  "Perception": "+3"
+  "Stealth": !!int "4"
+  "Perception": !!int "3"
 "damage_resistances": "lightning, piercing"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Vegepygmy"

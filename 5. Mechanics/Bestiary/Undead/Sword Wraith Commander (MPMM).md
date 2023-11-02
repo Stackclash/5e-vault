@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/8
 - monster/environment/grassland
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Sword Wraith Commander"]
 ---
-# Sword Wraith Commander
+# [Sword Wraith Commander](compendium\bestiary\undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -18,7 +21,7 @@ Sword wraith commanders haunt battlefields, attacking anyone who questions their
 When glory-obsessed warriors die in battle without honor, they might haunt the site as sword wraiths.
 
 ```statblock
-"name": "Sword Wraith Commander"
+"name": "Sword Wraith Commander (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
@@ -34,10 +37,12 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+4"
+  "Perception": !!int "4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, frightened, poisoned, unconscious"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"

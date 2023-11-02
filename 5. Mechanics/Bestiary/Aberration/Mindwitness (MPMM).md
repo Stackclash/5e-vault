@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
 aliases: ["Mindwitness"]
 ---
-# Mindwitness
+# [Mindwitness](compendium\bestiary\aberration/mindwitness-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181*  
 
 If a beholder is [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]] and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
@@ -17,7 +20,7 @@ A mindwitness's primary function is to improve telepathic communication in a min
 If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[5. Mechanics/Bestiary/Aberration/Flumph.md|flumphs]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
 
 ```statblock
-"name": "Mindwitness"
+"name": "Mindwitness (MPMM)"
 "size": "Large"
 "type": "aberration"
 "alignment": "Typically  Lawful Neutral"
@@ -33,11 +36,11 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 - !!int "10"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  "Wisdom": "+5"
-  "Intelligence": "+5"
+  "Wisdom": !!int "5"
+  "Intelligence": !!int "5"
 "skillsaves":
-  "Perception": "+8"
-"condition_immunities": "prone"
+  "Perception": !!int "8"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Deep Speech, Undercommon, telepathy 600 ft."
 "cr": "5"

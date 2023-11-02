@@ -7,7 +7,9 @@ tags:
 - item/property/martial
 - item/property/two-handed
 - item/weapon/martial/melee
-aliases: ["Maul"]
+aliases: 
+- "Maul"
+cost: 10 gp
 ---
 # Maul
 *Melee Weapon*  

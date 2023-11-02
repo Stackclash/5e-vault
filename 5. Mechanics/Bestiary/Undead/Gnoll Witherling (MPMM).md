@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Gnoll Witherling"]
 ---
-# Gnoll Witherling
+# [Gnoll Witherling](compendium\bestiary\undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145*  
 
 > [!quote]- A quote from Mordenkainen  
@@ -24,7 +27,7 @@ The survivors devour the flesh of their slain comrades but preserve the bones. T
 Witherlings travel with their comrades and try to kill anything in their path. They don't eat and aren't motivated by hunger, leaving more flesh for the rest of the war band.
 
 ```statblock
-"name": "Gnoll Witherling"
+"name": "Gnoll Witherling (MPMM)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -40,7 +43,8 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Gnoll but can't speak"
 "cr": "1/4"

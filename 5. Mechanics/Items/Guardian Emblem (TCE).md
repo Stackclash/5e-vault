@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Guardian Emblem"]
+aliases: 
+- "Guardian Emblem"
 ---
 # Guardian Emblem
 *Wondrous Item, uncommon (requires attunement by a cleric or paladin)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This emblem is the symbol of a deity or a spiritual tradition. As an action, you can attach the emblem to a suit of armor or a shield or remove it.
 

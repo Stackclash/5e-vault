@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/17
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -10,9 +12,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity/wizard
+statblock: inline
 aliases: ["Nagpa"]
 ---
-# Nagpa
+# [Nagpa](compendium\bestiary\monstrosity/nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -22,7 +25,7 @@ Nagpas still fear the Raven Queen and do their best to avoid her and her agents.
 Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bring about world-shaking destruction. From the shadows, they manipulate events to bring about ruin. They can bring to bear an array of spells to turn other creatures into their agents, influencing their decisions in subtle ways and making them unwitting accomplices in their own destruction. Nagpas are extraordinarily patient and pursue several schemes simultaneously, so if one plan goes awry, they can shift their focus to another. Typically, nagpas emerge from the shadows only when they can deliver a finishing blow. They then revel in the grand devastation their plotting brought about—looting libraries, plundering vaults, and prying secrets of arcane lore and power from the wreckage.
 
 ```statblock
-"name": "Nagpa"
+"name": "Nagpa (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "subtype": "wizard"
@@ -39,15 +42,15 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 - !!int "21"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+11"
-  "Wisdom": "+10"
-  "Intelligence": "+12"
+  "Charisma": !!int "11"
+  "Wisdom": !!int "10"
+  "Intelligence": !!int "12"
 "skillsaves":
-  "Deception": "+11"
-  "Insight": "+10"
-  "Perception": "+10"
-  "History": "+12"
-  "Arcana": "+12"
+  "Deception": !!int "11"
+  "Insight": !!int "10"
+  "Perception": !!int "10"
+  "History": !!int "12"
+  "Arcana": !!int "12"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common plus up to five other languages"
 "cr": "17"

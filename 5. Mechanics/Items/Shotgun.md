@@ -8,7 +8,8 @@ tags:
 - item/property/reload
 - item/property/two-handed
 - item/weapon/martial/ranged
-aliases: ["Shotgun"]
+aliases: 
+- "Shotgun"
 ---
 # Shotgun
 *Ranged Weapon*  
@@ -16,7 +17,6 @@ aliases: ["Shotgun"]
 - **Damage**: 2d8 P
 - **Range**: 30/90
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition%20\|"(Firearm"]]), Martial, [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]], [[/5. Mechanics/Rules/Item Properties.md#Two-handed\|Two-handed]]
-- **Cost**: ⏤
 - **Weight**: 7.0 lbs.
 
 *Source: Dungeon Master's Guide p. 268*

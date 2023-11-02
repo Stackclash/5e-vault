@@ -6,14 +6,12 @@ tags:
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Finder's Goggles"]
+aliases: 
+- "Finder's Goggles"
 ---
 # Finder's Goggles
 *Wondrous Item, uncommon (requires attunement by a creature with the Mark of Finding)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 The lenses of these garish goggles are carved from Siberys dragonshards. While wearing these lenses, you gain the following benefits:
 

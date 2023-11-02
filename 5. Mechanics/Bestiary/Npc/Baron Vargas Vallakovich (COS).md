@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
 aliases: ["Baron Vargas Vallakovich"]
 ---
-# Baron Vargas Vallakovich
+# [Baron Vargas Vallakovich](compendium\bestiary\npc/baron-vargas-vallakovich-cos.md)
 *Source: Curse of Strahd p. 105, Derived from *  
 
 ```statblock
-"name": "Baron Vargas Vallakovich"
+"name": "Baron Vargas Vallakovich (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -27,9 +30,9 @@ aliases: ["Baron Vargas Vallakovich"]
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+5"
-  "Insight": "+4"
-  "Persuasion": "+5"
+  "Deception": !!int "5"
+  "Insight": !!int "4"
+  "Persuasion": !!int "5"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"

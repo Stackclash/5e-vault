@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/7
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Stone Giant"]
 ---
-# Stone Giant
+# [Stone Giant](compendium\bestiary\giant/stone-giant.md)
 *Source: Monster Manual p. 156. Available in the SRD.*  
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
@@ -91,12 +94,12 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - !!int "9"
 "speed": "40 ft."
 "saves":
-  "Dexterity": "+5"
-  "Wisdom": "+4"
-  "Constitution": "+8"
+  "Dexterity": !!int "5"
+  "Wisdom": !!int "4"
+  "Constitution": !!int "8"
 "skillsaves":
-  "Athletics": "+12"
-  "Perception": "+4"
+  "Athletics": !!int "12"
+  "Perception": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "7"

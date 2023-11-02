@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/tce
+- monster/cr/0
 - monster/size/tiny
 - monster/type/monstrosity/shapechanger
+statblock: inline
 aliases: ["Juvenile Mimic"]
 ---
-# Juvenile Mimic
+# [Juvenile Mimic](compendium\bestiary\monstrosity/juvenile-mimic-tce.md)
 *Source: Tasha's Cauldron of Everything p. 167*  
 
 ```statblock
-"name": "Juvenile Mimic"
+"name": "Juvenile Mimic (TCE)"
 "size": "Tiny"
 "type": "monstrosity"
 "subtype": "shapechanger"
@@ -27,9 +30,9 @@ aliases: ["Juvenile Mimic"]
 - !!int "10"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  "Stealth": "+3"
+  "Stealth": !!int "3"
 "damage_immunities": "acid"
-"condition_immunities": "prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Undercommon, telepathy 120 ft."
 "cr": "0"

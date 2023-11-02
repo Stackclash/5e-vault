@@ -5,7 +5,9 @@ tags:
 - compendium/src/5e/phb
 - item/gear/spellcasting-focus
 - item/property/versatile
-aliases: ["Staff"]
+aliases: 
+- "Staff"
+cost: 5 gp
 ---
 # Staff
 *Spellcasting Focus*  

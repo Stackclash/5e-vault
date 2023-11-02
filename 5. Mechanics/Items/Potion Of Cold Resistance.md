@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Cold Resistance"]
+aliases: 
+- "Potion of Cold Resistance"
 ---
 # Potion of Cold Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to cold damage for 1 hour.
 

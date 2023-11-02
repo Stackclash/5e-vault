@@ -78,7 +78,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 - **Saving Throws**: Dexterity, Charisma
 - **Armor**: light
 - **Weapons**: simple, [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[5. Mechanics/Items/Longsword.md\|longswords]], [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]]
-- **Tools**: three musical instruments of your choice
+- **Tools**: three [[5. Mechanics/Items/Musical Instrument.md\|musical instruments]] of your choice
 - **Skills**: Choose 3 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*, *Spellcasting*
 
 You begin play with the following equipment, in addition to any equipment provided by your background.
@@ -100,7 +100,7 @@ You gain the following proficiencies:
 
 - **Armor**: light
 - **Weapons**: none
-- **Tools**: one musical instrument of your choice
+- **Tools**: one [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice
 - **Skills**: Choose 1 from *Acrobatics*, *Animal Handling*, *Arcana*, *Athletics*, *Deception*, *History*, *Insight*, *Intimidation*, *Investigation*, *Medicine*, *Nature*, *Perception*, *Performance*, *Persuasion*, *Religion*, *Sleight of Hand*, *Stealth*, *Survival*
 
 ## Bard
@@ -278,7 +278,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a musical instrument as a spellcasting focus for your bard spells.
+You can use a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] as a spellcasting focus for your bard spells.
 
 ### Jack of All Trades (Level 2)
 

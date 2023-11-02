@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Spy"]
 ---
-# Vistana Spy
+# [Vistana Spy](compendium\bestiary\humanoid/vistana-spy-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Spy"
+"name": "Vistana Spy (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,13 +30,13 @@ aliases: ["Vistana Spy"]
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Sleight of Hand": "+4"
-  "Deception": "+5"
-  "Stealth": "+4"
-  "Investigation": "+5"
-  "Insight": "+4"
-  "Perception": "+6"
-  "Persuasion": "+5"
+  "Sleight of Hand": !!int "4"
+  "Deception": !!int "5"
+  "Stealth": !!int "4"
+  "Investigation": !!int "5"
+  "Insight": !!int "4"
+  "Perception": !!int "6"
+  "Persuasion": !!int "5"
 "senses": "passive Perception 16"
 "languages": "any two languages"
 "cr": "1"

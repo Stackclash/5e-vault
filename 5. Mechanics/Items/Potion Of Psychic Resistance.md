@@ -6,13 +6,12 @@ tags:
 - item/rarity/uncommon
 - item/tier/minor
 - item/wondrous/potion
-aliases: ["Potion of Psychic Resistance"]
+aliases: 
+- "Potion of Psychic Resistance"
 ---
 # Potion of Psychic Resistance
 *Potion, minor, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When you drink this potion, you gain resistance to psychic damage for 1 hour.
 

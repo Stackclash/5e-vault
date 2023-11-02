@@ -7,15 +7,16 @@ tags:
 - item/rarity/uncommon
 - item/tier/major
 - item/weapon/simple/melee
-aliases: ["Javelin of Lightning"]
+aliases: 
+- "Javelin of Lightning"
 ---
 # Javelin of Lightning
 *Melee Weapon, major, uncommon*  
+![[5. Mechanics/Items/img/javelin-of-lightning.jpg#right]]  
 
 - **Damage**: 1d6 P
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
-- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking `dice: 4d6|avg` (`4d6`) lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus `dice: 4d6|avg` (`4d6`) lightning damage.

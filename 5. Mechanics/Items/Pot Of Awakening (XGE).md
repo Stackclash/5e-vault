@@ -6,13 +6,12 @@ tags:
 - item/rarity/common
 - item/tier/minor
 - item/wondrous
-aliases: ["Pot of Awakening"]
+aliases: 
+- "Pot of Awakening"
 ---
 # Pot of Awakening
 *Wondrous Item, minor, common*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, the shrub magically transforms into an [[5. Mechanics/Bestiary/Plant/Awakened Shrub.md\|awakened shrub]] at the end of that time. When the shrub awakens, its roots break the pot, destroying it.
 

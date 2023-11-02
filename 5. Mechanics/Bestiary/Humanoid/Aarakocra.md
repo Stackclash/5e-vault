@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/humanoid/aarakocra
+statblock: inline
 aliases: ["Aarakocra"]
 ---
-# Aarakocra
+# [Aarakocra](compendium\bestiary\humanoid/aarakocra.md)
 *Source: Monster Manual p. 12*  
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
@@ -47,7 +50,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "passive Perception 15"
 "languages": "Auran, Aarakocra"
 "cr": "1/4"

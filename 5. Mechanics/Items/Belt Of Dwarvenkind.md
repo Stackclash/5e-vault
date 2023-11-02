@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Belt of Dwarvenkind"]
+aliases: 
+- "Belt of Dwarvenkind"
 ---
 # Belt of Dwarvenkind
 *Wondrous Item, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/belt-of-dwarvenkind.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this belt, you gain the following benefits:
 

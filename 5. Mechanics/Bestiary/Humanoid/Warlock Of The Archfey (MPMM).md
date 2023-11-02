@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/4
 - monster/environment/arctic
 - monster/environment/forest
 - monster/environment/mountain
@@ -9,9 +11,10 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
 aliases: ["Warlock of the Archfey"]
 ---
-# Warlock of the Archfey
+# [Warlock of the Archfey](compendium\bestiary\humanoid/warlock-of-the-archfey-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255*  
 
 Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [[5. Mechanics/Bestiary/Fey/Boggle (MPMM).md|boggles]], [[5. Mechanics/Bestiary/Fey/Quickling (MPMM).md|quicklings]], and [[5. Mechanics/Bestiary/Fey/Redcap (MPMM).md|redcaps]] (all appear in "this book") or even [[5. Mechanics/Bestiary/Fey/Satyr.md|satyrs]] and [[5. Mechanics/Bestiary/Fey/Sprite.md|sprites]].
@@ -21,7 +24,7 @@ Warlocks of the Archfey gain their powers through magical pacts forged with lord
 Warlocks gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities.
 
 ```statblock
-"name": "Warlock of the Archfey"
+"name": "Warlock of the Archfey (MPMM)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "Any alignment"
@@ -37,14 +40,14 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+6"
-  "Wisdom": "+3"
+  "Charisma": !!int "6"
+  "Wisdom": !!int "3"
 "skillsaves":
-  "Nature": "+2"
-  "Deception": "+6"
-  "Arcana": "+2"
-  "Persuasion": "+6"
-"condition_immunities": "charmed"
+  "Nature": !!int "2"
+  "Deception": !!int "6"
+  "Arcana": !!int "2"
+  "Persuasion": !!int "6"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]"
 "senses": "passive Perception 11"
 "languages": "any two languages (usually Sylvan)"
 "cr": "4"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/underwater
 - monster/size/medium
 - monster/type/beast
+statblock: inline
 aliases: ["Swarm of Quippers"]
 ---
-# Swarm of Quippers
+# [Swarm of Quippers](compendium\bestiary\beast/swarm-of-quippers.md)
 *Source: Monster Manual p. 338. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms
@@ -32,8 +35,10 @@ aliases: ["Swarm of Quippers"]
 - !!int "2"
 "speed": "0 ft., swim 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
-  \ restrained, stunned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1"

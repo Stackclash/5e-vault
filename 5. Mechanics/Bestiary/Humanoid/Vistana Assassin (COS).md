@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Vistana Assassin"]
 ---
-# Vistana Assassin
+# [Vistana Assassin](compendium\bestiary\humanoid/vistana-assassin-cos.md)
 *Source: Curse of Strahd p. 28, Derived from *  
 
 ```statblock
-"name": "Vistana Assassin"
+"name": "Vistana Assassin (CoS)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "any race"
@@ -27,13 +30,13 @@ aliases: ["Vistana Assassin"]
 - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Dexterity": "+6"
-  "Intelligence": "+4"
+  "Dexterity": !!int "6"
+  "Intelligence": !!int "4"
 "skillsaves":
-  "Deception": "+3"
-  "Stealth": "+9"
-  "Perception": "+3"
-  "Acrobatics": "+6"
+  "Deception": !!int "3"
+  "Stealth": !!int "9"
+  "Perception": !!int "3"
+  "Acrobatics": !!int "6"
 "damage_resistances": "poison"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"

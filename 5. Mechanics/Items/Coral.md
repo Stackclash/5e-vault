@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Coral"]
+aliases: 
+- "Coral"
+cost: 100 gp
 ---
 # Coral
 *Treasure*  
 
 - **Cost**: 100 gp
-- **Weight**: ⏤
 
 An opaque crimson gemstone.
 

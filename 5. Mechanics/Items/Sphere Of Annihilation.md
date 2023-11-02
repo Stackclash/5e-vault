@@ -6,13 +6,12 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous
-aliases: ["Sphere of Annihilation"]
+aliases: 
+- "Sphere of Annihilation"
 ---
 # Sphere of Annihilation
 *Wondrous Item, major, legendary*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 

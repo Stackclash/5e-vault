@@ -4,10 +4,13 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tools
-aliases: ["Thieves' Tools"]
+aliases: 
+- "Thieves' Tools"
+cost: 25 gp
 ---
 # Thieves' Tools
 *Tools*  
+![[5. Mechanics/Items/img/thieves-tools.jpg#right]]  
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.

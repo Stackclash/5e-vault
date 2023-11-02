@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1
 - monster/environment/coastal
 - monster/environment/desert
 - monster/environment/forest
@@ -9,9 +11,10 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Giant Toad"]
 ---
-# Giant Toad
+# [Giant Toad](compendium\bestiary\beast/giant-toad.md)
 *Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 ```statblock

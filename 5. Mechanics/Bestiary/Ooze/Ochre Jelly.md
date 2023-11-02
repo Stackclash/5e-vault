@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/large
 - monster/type/ooze
+statblock: inline
 aliases: ["Ochre Jelly"]
 ---
-# Ochre Jelly
+# [Ochre Jelly](compendium\bestiary\ooze/ochre-jelly.md)
 *Source: Monster Manual p. 243, Eberron: Rising from the Last War. Available in the SRD and the Basic Rules.*  
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
@@ -58,7 +61,9 @@ An ooze doesn't require sleep.
 "speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "2"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/desert
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Mummy"]
 ---
-# Mummy
+# [Mummy](compendium\bestiary\undead/mummy.md)
 *Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -64,11 +67,13 @@ A mummy doesn't require air, food, drink, or sleep.
 - !!int "12"
 "speed": "20 ft."
 "saves":
-  "Wisdom": "+2"
+  "Wisdom": !!int "2"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "the languages it knew in life"
 "cr": "3"

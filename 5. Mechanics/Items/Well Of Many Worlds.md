@@ -6,13 +6,12 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous
-aliases: ["Well of Many Worlds"]
+aliases: 
+- "Well of Many Worlds"
 ---
 # Well of Many Worlds
 *Wondrous Item, major, legendary*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
 

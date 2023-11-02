@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/0
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/aberration
+statblock: inline
 aliases: ["Cranium Rat"]
 ---
-# Cranium Rat
+# [Cranium Rat](compendium\bestiary\aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83*  
 
 ## Cranium Rat
@@ -18,7 +21,7 @@ Mind flayers create cranium rats by bombarding rats with psionic energy. Cranium
 A single cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us." Some mind flayer colonies use cranium rats as spies. The rats invade communities and act as eyes and ears for the colony's elder brain, transmitting their thoughts when they swarm and are within range of the elder brain's telepathy.
 
 ```statblock
-"name": "Cranium Rat"
+"name": "Cranium Rat (MPMM)"
 "size": "Tiny"
 "type": "aberration"
 "alignment": "Unaligned"

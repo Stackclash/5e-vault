@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/5
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Roper"]
 ---
-# Roper
+# [Roper](compendium\bestiary\monstrosity/roper.md)
 *Source: Monster Manual p. 261. Available in the SRD.*  
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
@@ -41,8 +44,8 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 - !!int "6"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+6"
+  "Stealth": !!int "5"
+  "Perception": !!int "6"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"

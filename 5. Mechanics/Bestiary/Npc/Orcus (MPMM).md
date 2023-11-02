@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/26
 - monster/size/huge
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Orcus"]
 ---
-# Orcus
+# [Orcus](compendium\bestiary\npc/orcus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 204*  
 
 Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he takes pleasure in the sufferings of the living, he far prefers the company and service of Undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by Undead creatures under his command.
@@ -25,7 +28,7 @@ Orcus is a bestial creature of corruption with a diseased, decaying look. He has
 Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the layer of the Abyss that he rules. Surrounded by a moat fed by the River Styx, Naratyr is an eerily quiet and cold city, its streets empty for hours at a time. The central castle of bone has interior walls of flesh and carpets made of woven hair. The city contains wandering Undead, many of which are engaged in continuous battles with one another.
 
 ```statblock
-"name": "Orcus"
+"name": "Orcus (MPMM)"
 "size": "Huge"
 "type": "fiend"
 "subtype": "demon"
@@ -42,15 +45,16 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
 - !!int "25"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Dexterity": "+10"
-  "Wisdom": "+13"
-  "Constitution": "+15"
+  "Dexterity": !!int "10"
+  "Wisdom": !!int "13"
+  "Constitution": !!int "15"
 "skillsaves":
-  "Perception": "+13"
-  "Arcana": "+13"
+  "Perception": !!int "13"
+  "Arcana": !!int "13"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "26"

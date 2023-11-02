@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-4
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/fey
+statblock: inline
 aliases: ["Sprite"]
 ---
-# Sprite
+# [Sprite](compendium\bestiary\fey/sprite.md)
 *Source: Monster Manual p. 283, Eberron: Rising from the Last War. Available in the SRD.*  
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
@@ -52,8 +55,8 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  "Stealth": "+8"
-  "Perception": "+3"
+  "Stealth": !!int "8"
+  "Perception": !!int "3"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"

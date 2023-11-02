@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/13
 - monster/environment/underdark
 - monster/size/large
 - monster/type/undead
+statblock: inline
 aliases: ["Devourer"]
 ---
-# Devourer
+# [Devourer](compendium\bestiary\undead/devourer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93*  
 
 Of all the abominations unleashed by [[5. Mechanics/Bestiary/Npc/Orcus (MPMM).md|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
@@ -17,7 +20,7 @@ A lesser demon that proves itself to Orcus might be granted the privilege of bec
 Devourers hunt Humanoids with the intent of consuming them body and soul. After a devourer brings a target to the brink of death, it pulls the victim's body in and traps the creature within its own ribcage. As the victim tries to stave off death (usually without success), the devourer tortures its soul with telepathic noise. When the victim expires, it undergoes a horrible transformation, springing forth from the devourer's body to begin its new existence as an Undead servitor of the monster that spawned it.
 
 ```statblock
-"name": "Devourer"
+"name": "Devourer (MPMM)"
 "size": "Large"
 "type": "undead"
 "alignment": "Typically  Chaotic Evil"
@@ -34,7 +37,7 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"

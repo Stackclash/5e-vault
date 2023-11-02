@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/underdark
 - monster/size/large
 - monster/type/plant
+statblock: inline
 aliases: ["Myconid Sovereign"]
 ---
-# Myconid Sovereign
+# [Myconid Sovereign](compendium\bestiary\plant/myconid-sovereign.md)
 *Source: Monster Manual p. 232*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.

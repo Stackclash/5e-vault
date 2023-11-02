@@ -14,8 +14,8 @@ aliases: ["Magic Item Table F"]
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-15 | +1 weapon |
-| 16-18 | +1 shield |
+| 01-15 | [+1 weapon](compendium/items/1-weapon.md) |
+| 16-18 | [+1 shield](compendium/items/1-shield.md) |
 | 19-21 | [[5. Mechanics/Items/Sentinel Shield.md\|Sentinel shield]] |
 | 22-23 | [[5. Mechanics/Items/Amulet Of Proof Against Detection And Location.md\|Amulet of proof against detection and location]] |
 | 24-25 | [[5. Mechanics/Items/Boots Of Elvenkind.md\|Boots of elvenkind]] |
@@ -33,15 +33,15 @@ aliases: ["Magic Item Table F"]
 | 48-49 | [[5. Mechanics/Items/Slippers Of Spider Climbing.md\|Slippers of spider climbing]] |
 | 50-51 | [[5. Mechanics/Items/Staff Of The Adder.md\|Staff of the adder]] |
 | 52-53 | [[5. Mechanics/Items/Staff Of The Python.md\|Staff of the python]] |
-| 54-55 | Sword of vengeance |
+| 54-55 | [[5. Mechanics/Items/Sword Of Vengeance.md\|Sword of vengeance]] |
 | 56-57 | [[5. Mechanics/Items/Trident Of Fish Command.md\|Trident of fish command]] |
 | 58-59 | [[5. Mechanics/Items/Wand Of Magic Missiles.md\|Wand of magic missiles]] |
 | 60-61 | [+1 wand of the war mage](compendium/items/1-wand-of-the-war-mage.md) |
 | 62-63 | [[5. Mechanics/Items/Wand Of Web.md\|Wand of web]] |
-| 64-65 | Weapon of warning |
-| 66 | Adamantine chain mail |
-| 67 | Adamantine chain shirt |
-| 68 | Adamantine scale mail |
+| 64-65 | [[5. Mechanics/Items/Weapon Of Warning.md\|Weapon of warning]] |
+| 66 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine chain mail]] |
+| 67 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine chain shirt]] |
+| 68 | [[5. Mechanics/Items/Adamantine Armor.md\|Adamantine scale mail]] |
 | 69 | [[5. Mechanics/Items/Bag Of Tricks Gray.md\|Bag of tricks, gray]] |
 | 70 | [[5. Mechanics/Items/Bag Of Tricks Rust.md\|Bag of tricks, rust]] |
 | 71 | [[5. Mechanics/Items/Bag Of Tricks Tan.md\|Bag of tricks, tan]] |

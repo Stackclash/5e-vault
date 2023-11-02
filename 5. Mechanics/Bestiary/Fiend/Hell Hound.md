@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Hell Hound"]
 ---
-# Hell Hound
+# [Hell Hound](compendium\bestiary\fiend/hell-hound.md)
 *Source: Monster Manual p. 182, Curse of Strahd. Available in the SRD and the Basic Rules.*  
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
@@ -40,7 +43,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "damage_immunities": "fire"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Infernal but can't speak it"

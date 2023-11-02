@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/swamp
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
+statblock: inline
 aliases: ["Crocodile"]
 ---
-# Crocodile
+# [Crocodile](compendium\bestiary\beast/crocodile.md)
 *Source: Monster Manual p. 320. Available in the SRD and the Basic Rules.*  
 
 ```statblock
@@ -28,7 +31,7 @@ aliases: ["Crocodile"]
 - !!int "5"
 "speed": "20 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": "+2"
+  "Stealth": !!int "2"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/2"

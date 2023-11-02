@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Moonstone"]
+aliases: 
+- "Moonstone"
+cost: 50 gp
 ---
 # Moonstone
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 A translucent white with pale blue glow gemstone.
 

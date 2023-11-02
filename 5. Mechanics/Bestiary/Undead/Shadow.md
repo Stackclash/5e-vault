@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Shadow"]
 ---
-# Shadow
+# [Shadow](compendium\bestiary\undead/shadow.md)
 *Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything. Available in the SRD.*  
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
@@ -40,13 +43,16 @@ A shadow doesn't require air, food, drink, or sleep
 - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"

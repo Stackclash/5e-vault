@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Jasper"]
+aliases: 
+- "Jasper"
+cost: 50 gp
 ---
 # Jasper
 *Treasure*  
 
 - **Cost**: 50 gp
-- **Weight**: ⏤
 
 An opaque blue, black, or brown gemstone.
 

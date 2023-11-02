@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Crossbow Bolt Case"]
+aliases: 
+- "Crossbow Bolt Case"
+cost: 1 gp
 ---
 # Crossbow Bolt Case
 *Adventuring Gear*  

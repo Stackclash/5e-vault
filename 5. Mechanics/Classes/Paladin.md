@@ -86,7 +86,7 @@ You begin play with the following equipment, in addition to any equipment provid
 - (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons  
 - (a) five [[5. Mechanics/Items/Javelin.md\|javelins]] or (b) any simple melee weapon  
 - (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]  
-- [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a holy symbol  
+- [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]  
 
 Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
 
@@ -278,7 +278,7 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 
 #### Spellcasting Focus
 
-You can use a holy symbol as a spellcasting focus for your paladin spells.
+You can use a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your paladin spells.
 
 ### Divine Health (Level 3)
 

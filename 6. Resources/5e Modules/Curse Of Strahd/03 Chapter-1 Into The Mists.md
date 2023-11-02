@@ -86,7 +86,7 @@ These encounters are meant to test the characters, not kill them. After a few ro
 
 ## Fortunes of Ravenloft
 
-The events of this adventure are part of dark twists of fate that a fortuneteller can discern with the cards of a tarokka deck. Before you run this adventure, you must draw cards from a deck to determine the following elements of the adventure:
+The events of this adventure are part of dark twists of fate that a fortuneteller can discern with the cards of a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. Before you run this adventure, you must draw cards from a deck to determine the following elements of the adventure:
 
 - Strahd's location inside Castle Ravenloft  
 - The placement of three important treasures that can be used against Strahd—the [[5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], the [[5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], and the [[5. Mechanics/Items/Sunsword (COS).md\|Sunsword]]  
@@ -96,11 +96,11 @@ This card reading can make the adventure different each time you play it.
 
 At some point during the adventure, the characters are likely to meet [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]], the old Vistani seer (see chapter 2, area G), who can perform the same card reading for them. Characters can also have [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] perform a card reading for them, provided she has her deck of tarokka cards. Ezmerelda's cards are hidden in her wagon (chapter 11, area V1).
 
-Appendix E shows all the cards of the tarokka deck and summarizes their symbolic meanings.
+Appendix E shows all the cards of the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]] and summarizes their symbolic meanings.
 
 > [!note] Using Regular Playing Cards
 > 
-> If you like, you can use a regular deck of playing cards in place of the tarokka deck. To do so, separate the numbered cards from the face cards and jokers, and treat them as two separate decks: the common deck (the numbered cards) and the high deck (the face cards and jokers).
+> If you like, you can use a regular deck of playing cards in place of the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. To do so, separate the numbered cards from the face cards and jokers, and treat them as two separate decks: the common deck (the numbered cards) and the high deck (the face cards and jokers).
 > 
 > **Common Deck.** Each suit in a regular deck of playing cards corresponds to a suit in the tarokka deck. The ace cards represent the "1" cards in the tarokka deck, and the "10" cards represent the "master" cards in the tarokka deck.
 > 
@@ -110,20 +110,20 @@ Appendix E shows all the cards of the tarokka deck and summarizes their symbolic
 > 
 > | Playing Card | Tarokka Card |
 > |--------------|--------------|
-> | King of hearts | Ghost |
-> | Queen of hearts | Innocent |
-> | Jack of hearts | Marionette |
-> | King of spades | Darklord |
-> | Queen of spades | Mists |
-> | Jack of spades | Executioner |
-> | King of diamonds | Broken One |
-> | Queen of diamonds | Tempter |
-> | Jack of diamonds | Beast |
-> | King of clubs | Donjon |
-> | Queen of clubs | Raven |
-> | Jack of clubs | Seer |
-> | Joker 1 | Artifact |
-> | Joker 2 | Horseman |
+> | King of hearts | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Ghost\|Ghost]] |
+> | Queen of hearts | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Innocent\|Innocent]] |
+> | Jack of hearts | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Marionette\|Marionette]] |
+> | King of spades | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Darklord\|Darklord]] |
+> | Queen of spades | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Mists\|Mists]] |
+> | Jack of spades | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Executioner\|Executioner]] |
+> | King of diamonds | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Broken%20One\|Broken One]] |
+> | Queen of diamonds | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Tempter\|Tempter]] |
+> | Jack of diamonds | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Beast\|Beast]] |
+> | King of clubs | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Donjon\|Donjon]] |
+> | Queen of clubs | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Raven\|Raven]] |
+> | Jack of clubs | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Seer\|Seer]] |
+> | Joker 1 | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Artifact\|Artifact]] |
+> | Joker 2 | [[5. Mechanics/Decks/Tarokka Deck (COS).md#Horseman\|Horseman]] |
 > ^playing-card-tarokka-card
 ^using-regular-playing-cards
 
@@ -200,7 +200,7 @@ The cards of the common deck determine the locations of the [[5. Mechanics/Items
 
 > [!readaloud] 
 > 
-> **One of Swords—Avenger**
+> **One of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Avenger\|Avenger]]**
 > 
 > The treasure lies in a dragon's house, in hands once clean and now corrupted.
 ^02e
@@ -209,7 +209,7 @@ The treasure is in the possession of [[5. Mechanics/Bestiary/Npc/Vladimir Hornga
 
 > [!readaloud] 
 > 
-> **Two of Swords—Paladin**
+> **Two of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Paladin\|Paladin]]**
 > 
 > I see a sleeping prince, a servant of light and the brother of darkness. The treasure lies with him.
 ^02f
@@ -218,7 +218,7 @@ The treasure lies in Sergei's tomb (chapter 4, area K85).
 
 > [!readaloud] 
 > 
-> **Three of Swords—Soldier**
+> **Three of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Soldier\|Soldier]]**
 > 
 > Go to the mountains. Climb the white tower guarded by golden knights.
 ^030
@@ -227,7 +227,7 @@ The treasure lies on the rooftop of the Tsolenka Pass guard tower (chapter 9, ar
 
 > [!readaloud] 
 > 
-> **Four of Swords—Mercenary**
+> **Four of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Mercenary\|Mercenary]]**
 > 
 > The thing you seek lies with the dead, under mountains of gold coins.
 ^031
@@ -236,7 +236,7 @@ The treasure lies in a crypt in Castle Ravenloft (chapter 4, area K84, crypt 31)
 
 > [!readaloud] 
 > 
-> **Five of Swords—Myrmidon**
+> **Five of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Myrmidon\|Myrmidon]]**
 > 
 > Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night.
 ^032
@@ -245,7 +245,7 @@ The treasure lies in the shrine of Mother Night in the werewolf den (chapter 15,
 
 > [!readaloud] 
 > 
-> **Six of Swords—Berserker**
+> **Six of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Berserker\|Berserker]]**
 > 
 > Find the Mad Dog's crypt. The treasure lies within, beneath blackened bones.
 ^033
@@ -254,7 +254,7 @@ The treasure lies in the crypt of General Kroval "Mad Dog" Grislek (chapter 4, a
 
 > [!readaloud] 
 > 
-> **Seven of Swords—Hooded One**
+> **Seven of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Hooded%20One\|Hooded One]]**
 > 
 > I see a faceless god. He awaits you at the end of a long and winding road, deep in the mountains.
 ^034
@@ -263,7 +263,7 @@ The treasure is inside the head of the giant statue in the Amber Temple (chapter
 
 > [!readaloud] 
 > 
-> **Eight of Swords—Dictator**
+> **Eight of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Dictator\|Dictator]]**
 > 
 > I see a throne fit for a king.
 ^035
@@ -272,7 +272,7 @@ The treasure lies in Castle Ravenloft's audience hall (chapter 4, area K25).
 
 > [!readaloud] 
 > 
-> **Nine of Swords—Torturer**
+> **Nine of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Torturer\|Torturer]]**
 > 
 > There is a town where all is not well. There you will find a house of corruption, and within, a dark room full of still ghosts.
 ^036
@@ -281,7 +281,7 @@ The treasure is hidden in the attic of the Burgomaster's mansion in Vallaki (cha
 
 > [!readaloud] 
 > 
-> **Master of Swords—Warrior**
+> **Master of Swords—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Warrior\|Warrior]]**
 > 
 > That which you seek lies in the womb of darkness, the devil's lair: the one place to which he must return.
 ^037
@@ -292,7 +292,7 @@ The treasure lies in Strahd's tomb (chapter 4, area K86).
 
 > [!readaloud] 
 > 
-> **One of Stars—Transmuter**
+> **One of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Transmuter\|Transmuter]]**
 > 
 > Go to a place of dizzying heights, where the stone itself is alive!
 ^039
@@ -301,7 +301,7 @@ The treasure lies in Castle Ravenloft's north tower peak (chapter 4, area K60).
 
 > [!readaloud] 
 > 
-> **Two of Stars—Diviner**
+> **Two of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Diviner\|Diviner]]**
 > 
 > Look to the one who sees all. The treasure is hidden in her camp.
 ^03a
@@ -310,7 +310,7 @@ The treasure lies in [[5. Mechanics/Bestiary/Npc/Madam Eva (COS).md\|Madam Eva]]
 
 > [!readaloud] 
 > 
-> **Three of Stars—Enchanter**
+> **Three of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Enchanter\|Enchanter]]**
 > 
 > I see a kneeling woman—a rose of great beauty plucked too soon. The master of the marsh knows of whom I speak.
 ^03b
@@ -319,7 +319,7 @@ The treasure lies under Marina's monument in Berez (chapter 10, area U5). "The m
 
 > [!readaloud] 
 > 
-> **Four of Stars—Abjurer**
+> **Four of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Abjurer\|Abjurer]]**
 > 
 > I see a fallen house guarded by a great stone dragon. Look to the highest peak.
 ^03c
@@ -328,7 +328,7 @@ The treasure lies in the beacon of Argynvostholt (chapter 7, area Q53). "Great s
 
 > [!readaloud] 
 > 
-> **Five of Stars—Elementalist**
+> **Five of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Elementalist\|Elementalist]]**
 > 
 > The treasure is hidden in a small castle beneath a mountain, guarded by amber giants.
 ^03d
@@ -337,7 +337,7 @@ The treasure is inside a model of Castle Ravenloft in the Amber Temple (chapter 
 
 > [!readaloud] 
 > 
-> **Six of Stars—Evoker**
+> **Six of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Evoker\|Evoker]]**
 > 
 > Search for the crypt of a wizard ordinaire. His staff is the key.
 ^03e
@@ -346,7 +346,7 @@ The treasure is hidden in the crypt of Gralmore Nimblenobs (chapter 4, area K84,
 
 > [!readaloud] 
 > 
-> **Seven of Stars—Illusionist**
+> **Seven of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Illusionist\|Illusionist]]**
 > 
 > A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 ^03f
@@ -355,7 +355,7 @@ The treasure lies in [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]]'s
 
 > [!readaloud] 
 > 
-> **Eight of Stars—Necromancer**
+> **Eight of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Necromancer\|Necromancer]]**
 > 
 > A woman hangs above a roaring fire. Find her, and you will find the treasure.
 ^040
@@ -364,7 +364,7 @@ The treasure lies in Castle Ravenloft's study (chapter 4, area K37).
 
 > [!readaloud] 
 > 
-> **Nine of Stars—Conjurer**
+> **Nine of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Conjurer\|Conjurer]]**
 > 
 > I see a dead village, drowned by a river, ruled by one who has brought great evil into the world.
 ^041
@@ -373,7 +373,7 @@ The treasure is in [[5. Mechanics/Bestiary/Npc/Baba Lysaga (COS).md\|Baba Lysaga
 
 > [!readaloud] 
 > 
-> **Master of Stars—Wizard**
+> **Master of Stars—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Wizard\|Wizard]]**
 > 
 > Look for a wizard's tower on a lake. Let the wizard's name and servant guide you to that which you seek.
 ^042
@@ -384,7 +384,7 @@ The treasure lies on the top floor of Van Richten's Tower (chapter 11, area V7).
 
 > [!readaloud] 
 > 
-> **One of Coins—Swashbuckler**
+> **One of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Swashbuckler\|Swashbuckler]]**
 > 
 > I see the skeleton of a deadly warrior, lying on a bed of stone flanked by gargoyles.
 ^044
@@ -393,7 +393,7 @@ The treasure lies in the crypt of Endorovich (chapter 4, area K84, crypt 7).
 
 > [!readaloud] 
 > 
-> **Two of Coins—Philanthropist**
+> **Two of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Philanthropist\|Philanthropist]]**
 > 
 > Look to a place where sickness and madness are bred. Where children once cried, the treasure lies still.
 ^045
@@ -402,7 +402,7 @@ The treasure is in the nursery of the Abbey of Saint Markovia (chapter 8, area S
 
 > [!readaloud] 
 > 
-> **Three of Coins—Trader**
+> **Three of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Trader\|Trader]]**
 > 
 > Look to the wizard of wines! In wood and sand the treasure hides.
 ^046
@@ -411,7 +411,7 @@ The treasure lies in the glassblower's workshop in the Wizard of Wines winery (c
 
 > [!readaloud] 
 > 
-> **Four of Coins—Merchant**
+> **Four of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Merchant\|Merchant]]**
 > 
 > Seek a cask that once contained the finest wine, of which not a drop remains.
 ^047
@@ -420,7 +420,7 @@ The treasure lies in Castle Ravenloft's wine cellar (chapter 4, area K63).
 
 > [!readaloud] 
 > 
-> **Five of Coins—Guild Member**
+> **Five of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Guild%20Member\|Guild Member]]**
 > 
 > I see a dark room full of bottles. It is the tomb of a guild member.
 ^048
@@ -429,7 +429,7 @@ The treasure lies in the crypt of Artank Swilovich (chapter 4, area K84, crypt 5
 
 > [!readaloud] 
 > 
-> **Six of Coins—Beggar**
+> **Six of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Beggar\|Beggar]]**
 > 
 > A wounded elf has what you seek. He will part with the treasure to see his dark dreams fulfilled.
 ^049
@@ -438,7 +438,7 @@ The treasure is hidden in Kasimir's hovel (chapter 5, area N9a).
 
 > [!readaloud] 
 > 
-> **Seven of Coins—Thief**
+> **Seven of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Thief\|Thief]]**
 > 
 > What you seek lies at the crossroads of life and death, among the buried dead.
 ^04a
@@ -447,7 +447,7 @@ The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2
 
 > [!readaloud] 
 > 
-> **Eight of Coins—Tax Collector**
+> **Eight of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Tax%20Collector\|Tax Collector]]**
 > 
 > The Vistani have what you seek. A missing child holds the key to the treasure's release.
 ^04b
@@ -456,7 +456,7 @@ The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A m
 
 > [!readaloud] 
 > 
-> **Nine of Coins—Miser**
+> **Nine of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Miser\|Miser]]**
 > 
 > Look for a fortress inside a fortress, in a place hidden behind fire.
 ^04c
@@ -465,7 +465,7 @@ The treasure lies in Castle Ravenloft's treasury (chapter 4, area K41).
 
 > [!readaloud] 
 > 
-> **Master of Coins—Rogue**
+> **Master of Coins—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Rogue\|Rogue]]**
 > 
 > I see a nest of ravens. There you will find the prize.
 ^04d
@@ -476,7 +476,7 @@ The treasure is hidden in the attic of the Blue Water Inn (chapter 5, area N2q).
 
 > [!readaloud] 
 > 
-> **One of Glyphs—Monk**
+> **One of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Monk\|Monk]]**
 > 
 > The treasure you seek is hidden behind the sun, in the house of a saint.
 ^04f
@@ -485,7 +485,7 @@ The treasure lies in the main hall of the Abbey of Saint Markovia (chapter 8, ar
 
 > [!readaloud] 
 > 
-> **Two of Glyphs—Missionary**
+> **Two of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Missionary\|Missionary]]**
 > 
 > I see a garden dusted with snow, watched over by a scarecrow with a sackcloth grin. Look not to the garden but to the guardian.
 ^050
@@ -494,7 +494,7 @@ The treasure is hidden inside one of the scarecrows in the garden of the Abbey o
 
 > [!readaloud] 
 > 
-> **Three of Glyphs—Healer**
+> **Three of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Healer\|Healer]]**
 > 
 > Look to the west. Find a pool blessed by the light of the white sun.
 ^051
@@ -503,7 +503,7 @@ The treasure lies beneath the gazebo in the Shrine of the White Sun (chapter 8, 
 
 > [!readaloud] 
 > 
-> **Four of Glyphs—Shepherd**
+> **Four of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Shepherd\|Shepherd]]**
 > 
 > Find the mother—she who gave birth to evil.
 ^052
@@ -512,7 +512,7 @@ The treasure lies in the tomb of King Barov and Queen Ravenovia (chapter 4, area
 
 > [!readaloud] 
 > 
-> **Five of Glyphs—Druid**
+> **Five of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Druid\|Druid]]**
 > 
 > An evil tree grows atop a hill of graves where the ancient dead sleep. The ravens can help you find it. Look for the treasure there.
 ^053
@@ -521,7 +521,7 @@ The treasure lies at the base of the Gulthias tree (chapter 14, area Y4). Any we
 
 > [!readaloud] 
 > 
-> **Six of Glyphs—Anarchist**
+> **Six of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Anarchist\|Anarchist]]**
 > 
 > I see walls of bones, a chandelier of bones, and a table of bones—all that remains of enemies long forgotten.
 ^054
@@ -530,7 +530,7 @@ The treasure lies in Castle Ravenloft's hall of bones (chapter 4, area K67).
 
 > [!readaloud] 
 > 
-> **Seven of Glyphs—Charlatan**
+> **Seven of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Charlatan\|Charlatan]]**
 > 
 > I see a lonely mill on a precipice. The treasure lies within.
 ^055
@@ -539,7 +539,7 @@ The treasure lies in the attic of Old Bonegrinder (chapter 6, area O4).
 
 > [!readaloud] 
 > 
-> **Eight of Glyphs—Bishop**
+> **Eight of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Bishop\|Bishop]]**
 > 
 > What you seek lies in a pile of treasure, beyond a set of amber doors.
 ^056
@@ -548,7 +548,7 @@ The treasure lies in the sealed treasury of the Amber Temple (chapter 13, area X
 
 > [!readaloud] 
 > 
-> **Nine of Glyphs—Traitor**
+> **Nine of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Traitor\|Traitor]]**
 > 
 > Look for a wealthy woman. A staunch ally of the devil, she keeps the treasure under lock and key, with the bones of an ancient enemy.
 ^057
@@ -557,7 +557,7 @@ The treasure is hidden in the master bedroom of Wachterhaus (chapter 5, area N4o
 
 > [!readaloud] 
 > 
-> **Master of Glyphs—Priest**
+> **Master of Glyphs—[[5. Mechanics/Decks/Tarokka Deck (COS).md#Priest\|Priest]]**
 > 
 > You will find what you seek in the castle, amid the ruins of a place of supplication.
 ^058
@@ -578,7 +578,7 @@ Each of the NPCs described in this section has a role to play in the adventure, 
 
 > [!readaloud] 
 > 
-> **Artifact (Joker 1)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Artifact\|Artifact]] (Joker 1)**
 > 
 > Look for an entertaining man with a monkey. This man is more than he seems.
 ^05c
@@ -589,7 +589,7 @@ The characters might think that [[5. Mechanics/Bestiary/Npc/Gadof Blinsky (COS).
 
 > [!readaloud] 
 > 
-> **Beast (Jack of Diamonds)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Beast\|Beast]] (Jack of Diamonds)**
 > 
 > A werewolf holds a secret hatred for your enemy. Use her hatred to your advantage.
 ^05d
@@ -598,7 +598,7 @@ This card refers to the werewolf [[5. Mechanics/Bestiary/Npc/Zuleika Toranescu (
 
 > [!readaloud] 
 > 
-> **A. Broken One (King of Diamonds)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Broken%20One\|Broken One]] (King of Diamonds)**
 > 
 > Your greatest ally will be a wizard. His mind is broken, but his spells are strong.
 ^05e
@@ -607,7 +607,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/The Mad Mage Of Mount Baratok (C
 
 > [!readaloud] 
 > 
-> **B. Broken One (King of Diamonds)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Broken%20One\|Broken One]] (King of Diamonds)**
 > 
 > I see a man of faith whose sanity hangs by a thread. He has lost someone close to him.
 ^05f
@@ -616,7 +616,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Donavich (COS).md\|Donavich]], t
 
 > [!readaloud] 
 > 
-> **Darklord (King of Spades)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Darklord\|Darklord]] (King of Spades)**
 > 
 > Ah, the worst of all truths: You must face the evil of this land alone!
 ^060
@@ -625,7 +625,7 @@ There is no NPC who can inspire the characters.
 
 > [!readaloud] 
 > 
-> **A. Donjon (King of Clubs)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Donjon\|Donjon]] (King of Clubs)**
 > 
 > Search for a troubled young man surrounded by wealth and madness. His home is his prison.
 ^061
@@ -634,7 +634,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Victor Vallakovich (COS).md\|Vic
 
 > [!readaloud] 
 > 
-> **B. Donjon (King of Clubs)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Donjon\|Donjon]] (King of Clubs)**
 > 
 > Find a girl driven to insanity, locked in the heart of her dead father's house. Curing her madness is key to your success.
 ^062
@@ -643,7 +643,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Stella Wachter (COS).md\|Stella 
 
 > [!readaloud] 
 > 
-> **Seer (Jack of Clubs)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Seer\|Seer]] (Jack of Clubs)**
 > 
 > Look for a dusk elf living among the Vistani. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.
 ^063
@@ -652,7 +652,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Kasimir Velikov (COS).md\|Kasimi
 
 > [!readaloud] 
 > 
-> **A. Ghost (King of Hearts)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Ghost\|Ghost]] (King of Hearts)**
 > 
 > I see a fallen paladin of a fallen order of knights. He lingers like a ghost in a dead dragon's lair.
 ^064
@@ -661,7 +661,7 @@ This card refers to the revenant [[5. Mechanics/Bestiary/Npc/Sir Godfrey Gwilym 
 
 > [!readaloud] 
 > 
-> **B. Ghost (King of Hearts)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Ghost\|Ghost]] (King of Hearts)**
 > 
 > Stir the spirit of the clumsy knight whose crypt lies deep within the castle.
 ^065
@@ -670,7 +670,7 @@ This card refers to Sir Klutz the [[5. Mechanics/Bestiary/Undead/Phantom Warrior
 
 > [!readaloud] 
 > 
-> **Executioner (Jack of Spades)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Executioner\|Executioner]] (Jack of Spades)**
 > 
 > Seek out the brother of the devil's bride. They call him "the lesser," but he has a powerful soul.
 ^066
@@ -679,18 +679,18 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Ismark Kolyanovich (COS).md\|Ism
 
 > [!readaloud] 
 > 
-> **A. Horseman (Joker 2)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Horseman\|Horseman]] (Joker 2)**
 > 
 > I see a dead man of noble birth, guarded by his widow. Return life to the dead man's corpse, and he will be your staunch ally.
 ^067
 
 This card refers to [[5. Mechanics/Bestiary/Npc/Nikolai Wachter (COS).md\|Nikolai Wachter]] the elder, who is dead (see chapter 5, area N4o). If the characters cast a [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell or a [[5. Mechanics/Spells/Resurrection.md\|resurrection]] spell on his preserved corpse, Nikolai (LN male human [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
 
-If the characters don't have the means to raise Nikolai from the dead, [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (see appendix D) gives them a spell scroll of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
+If the characters don't have the means to raise Nikolai from the dead, [[5. Mechanics/Bestiary/Npc/Rictavio (COS).md\|Rictavio]] (see appendix D) gives them a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
 
 > [!readaloud] 
 > 
-> **B. Horseman (Joker 2)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Horseman\|Horseman]] (Joker 2)**
 > 
 > A man of death named [[5. Mechanics/Bestiary/Npc/Arrigal (COS).md\|Arrigal]] will forsake his dark lord to serve your cause. Beware! He has a rotten soul.
 ^068
@@ -699,7 +699,7 @@ This card refers to the Vistani assassin [[5. Mechanics/Bestiary/Npc/Arrigal (CO
 
 > [!readaloud] 
 > 
-> **A. Innocent (Queen of Hearts)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Innocent\|Innocent]] (Queen of Hearts)**
 > 
 > I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the village of Barovia.
 ^069
@@ -708,7 +708,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Parriwimple (COS).md\|Parriwimpl
 
 > [!readaloud] 
 > 
-> **B. Innocent (Queen of Hearts)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Innocent\|Innocent]] (Queen of Hearts)**
 > 
 > Evil's bride is the one you seek!
 ^06a
@@ -717,7 +717,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Ireena Kolyana (COS).md\|Ireena 
 
 > [!readaloud] 
 > 
-> **A. Marionette (Jack of Hearts)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Marionette\|Marionette]] (Jack of Hearts)**
 > 
 > What horror is this? I see a man made by a man. Ageless and alone, it haunts the towers of the castle.
 ^06b
@@ -726,7 +726,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Pidlwick Ii (COS).md\|Pidlwick I
 
 > [!readaloud] 
 > 
-> **B. Marionette (Jack of Hearts)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Marionette\|Marionette]] (Jack of Hearts)**
 > 
 > Look for a man of music, a man with two heads. He lives in a place of great hunger and sorrow.
 ^06c
@@ -735,7 +735,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Clovin Belview (COS).md\|Clovin 
 
 > [!readaloud] 
 > 
-> **Mists (Queen of Spades)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Mists\|Mists]] (Queen of Spades)**
 > 
 > A Vistana wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out at Saint Markovia's abbey, near the mists.
 ^06d
@@ -744,7 +744,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Ezmerelda Davenir (COS).md\|Ezme
 
 > [!readaloud] 
 > 
-> **Raven (Queen of Clubs)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Raven\|Raven]] (Queen of Clubs)**
 > 
 > Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him.
 ^06e
@@ -753,7 +753,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Davian Martikov (COS).md\|Davian
 
 > [!readaloud] 
 > 
-> **A. Tempter (Queen of Diamonds)**
+> **A. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Tempter\|Tempter]] (Queen of Diamonds)**
 > 
 > I see a child—a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake!
 ^06f
@@ -762,7 +762,7 @@ This card refers to [[5. Mechanics/Bestiary/Npc/Arabelle (COS).md\|Arabelle]] (s
 
 > [!readaloud] 
 > 
-> **B. Tempter (Queen of Diamonds)**
+> **B. [[5. Mechanics/Decks/Tarokka Deck (COS).md#Tempter\|Tempter]] (Queen of Diamonds)**
 > 
 > I hear a wedding bell, or perhaps a death knell. It calls thee to a mountainside abbey, wherein you will find a woman who is more than the sum of her parts.
 ^070
@@ -775,7 +775,7 @@ Drawn from the high deck, the fifth card in the card reading determines the loca
 
 > [!readaloud] 
 > 
-> **Artifact (Joker 1)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Artifact\|Artifact]] (Joker 1)**
 > 
 > He lurks in the darkness where the morning light once shone—a sacred place.
 ^072
@@ -784,7 +784,7 @@ Strahd faces the characters in the chapel (area K15).
 
 > [!readaloud] 
 > 
-> **Beast (Jack of Diamonds)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Beast\|Beast]] (Jack of Diamonds)**
 > 
 > The beast sits on his dark throne.
 ^073
@@ -793,7 +793,7 @@ Strahd faces the characters in the audience hall (area K25).
 
 > [!readaloud] 
 > 
-> **Broken One (King of Diamonds)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Broken%20One\|Broken One]] (King of Diamonds)**
 > 
 > He haunts the tomb of the man he envied above all.
 ^074
@@ -802,7 +802,7 @@ Strahd faces the characters in Sergei's tomb (area K85).
 
 > [!readaloud] 
 > 
-> **Darklord (King of Spades)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Darklord\|Darklord]] (King of Spades)**
 > 
 > He lurks in the depths of darkness, in the one place to which he must return.
 ^075
@@ -811,7 +811,7 @@ Strahd faces the characters in his tomb (area K86).
 
 > [!readaloud] 
 > 
-> **Donjon (King of Clubs)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Donjon\|Donjon]] (King of Clubs)**
 > 
 > He lurks in a hall of bones, in the dark pits of his castle.
 ^076
@@ -820,7 +820,7 @@ Strahd faces the characters in the hall of bones (area K67).
 
 > [!readaloud] 
 > 
-> **Seer (Jack of Clubs)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Seer\|Seer]] (Jack of Clubs)**
 > 
 > He waits for you in a place of wisdom, warmth, and despair. Great secrets are there.
 ^077
@@ -829,7 +829,7 @@ Strahd faces the characters in the study (area K37).
 
 > [!readaloud] 
 > 
-> **Ghost (King of Hearts)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Ghost\|Ghost]] (King of Hearts)**
 > 
 > Look to the father's tomb.
 ^078
@@ -838,7 +838,7 @@ Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area 
 
 > [!readaloud] 
 > 
-> **Executioner (Jack of Spades)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Executioner\|Executioner]] (Jack of Spades)**
 > 
 > I see a dark figure on a balcony, looking down upon this tortured land with a twisted smile.
 ^079
@@ -847,7 +847,7 @@ Strahd faces the characters at the overlook (area K6).
 
 > [!readaloud] 
 > 
-> **Horseman (Joker 2)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Horseman\|Horseman]] (Joker 2)**
 > 
 > He lurks in the one place to which he must return—a place of death.
 ^07a
@@ -856,7 +856,7 @@ Strahd faces the characters in his tomb (area K86).
 
 > [!readaloud] 
 > 
-> **Innocent (Queen of Hearts)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Innocent\|Innocent]] (Queen of Hearts)**
 > 
 > He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
 ^07b
@@ -865,7 +865,7 @@ Strahd faces the characters in Sergei's tomb (area K85).
 
 > [!readaloud] 
 > 
-> **Marionette (Jack of Hearts)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Marionette\|Marionette]] (Jack of Hearts)**
 > 
 > Look to great heights. Find the beating heart of the castle. He waits nearby.
 ^07c
@@ -874,7 +874,7 @@ Strahd faces the characters in the north tower peak (area K60).
 
 > [!readaloud] 
 > 
-> **Mists (Queen of Spades)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Mists\|Mists]] (Queen of Spades)**
 > 
 > The cards can't see where the evil lurks. The mists obscure all!
 ^07d
@@ -883,7 +883,7 @@ The card offers no clue about where the final showdown with Strahd will occur. I
 
 > [!readaloud] 
 > 
-> **Raven (Queen of Clubs)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Raven\|Raven]] (Queen of Clubs)**
 > 
 > Look to the mother's tomb.
 ^07e
@@ -892,7 +892,7 @@ Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area 
 
 > [!readaloud] 
 > 
-> **Tempter (Queen of Diamonds)**
+> **[[5. Mechanics/Decks/Tarokka Deck (COS).md#Tempter\|Tempter]] (Queen of Diamonds)**
 > 
 > I see a secret place—a vault of temptation hidden behind a woman of great beauty. The evil waits atop his tower of treasure.
 ^07f
@@ -1044,7 +1044,7 @@ The Misty Forest lies thirty miles east of Daggerford. Before the characters emb
 
 Zelraun Roaringhorn (LN male human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
 
-Zelraun gives each Harper character a spell scroll of [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
+Zelraun gives each Harper character a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Remove Curse.md\|remove curse]]. He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
 
 ##### About the Harpers
 
@@ -1092,7 +1092,7 @@ Eravien Haund (LN male half-elf [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble
 - The werewolves worship a deity called Mother Night.  
 - The werewolves leave and return to Barovia through some kind of ancient portal. (This is a deduction on Eravien's part, based on the werewolf prisoner's vague description of how the pack gets to and from Barovia.)  
 
-Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a spell scroll of [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
+Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a [[5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]. Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
 
 ##### About the Lords' Alliance
 

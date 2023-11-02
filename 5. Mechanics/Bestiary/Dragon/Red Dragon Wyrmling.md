@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/4
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Red Dragon Wyrmling"]
 ---
-# Red Dragon Wyrmling
+# [Red Dragon Wyrmling](compendium\bestiary\dragon/red-dragon-wyrmling.md)
 *Source: Monster Manual p. 98, Curse of Strahd. Available in the SRD.*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -104,13 +107,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "15"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+2"
-  "Wisdom": "+2"
-  "Constitution": "+5"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "5"
 "skillsaves":
-  "Stealth": "+2"
-  "Perception": "+4"
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

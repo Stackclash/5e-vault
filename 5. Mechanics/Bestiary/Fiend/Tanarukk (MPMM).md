@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/5
 - monster/environment/hill
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Tanarukk"]
 ---
-# Tanarukk
+# [Tanarukk](compendium\bestiary\fiend/tanarukk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240*  
 
 > [!quote]- A quote from Tasha  
@@ -23,7 +26,7 @@ The demon lord [[5. Mechanics/Bestiary/Npc/Baphomet (MPMM).md|Baphomet]] gladly 
 Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
 
 ```statblock
-"name": "Tanarukk"
+"name": "Tanarukk (MPMM)"
 "size": "Medium"
 "type": "fiend"
 "subtype": "demon"
@@ -40,8 +43,8 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  "Intimidation": "+2"
-  "Perception": "+2"
+  "Intimidation": !!int "2"
+  "Perception": !!int "2"
 "damage_resistances": "fire, poison"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common, plus any one language"

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/14
 - monster/environment/desert
 - monster/environment/forest
 - monster/environment/underdark
 - monster/size/large
 - monster/type/construct
+statblock: inline
 aliases: ["Retriever"]
 ---
-# Retriever
+# [Retriever](compendium\bestiary\construct/retriever-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209*  
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -17,7 +20,7 @@ The retriever is a potent, spider-like Construct conceived and built by Underdar
 Though retrievers were created to operate only in the Abyss, they are sometimes dispatched when a powerful devotee of Lolth needs some creature or object captured and brought back alive and intact. Only under the rarest of circumstances is a retriever handed over or sold to others, since Lolth's cultists don't want to take the chance that their creations will be turned against them.
 
 ```statblock
-"name": "Retriever"
+"name": "Retriever (MPMM)"
 "size": "Large"
 "type": "construct"
 "alignment": "Typically  Lawful Evil"
@@ -33,15 +36,17 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": "+8"
-  "Wisdom": "+5"
-  "Constitution": "+10"
+  "Dexterity": !!int "8"
+  "Wisdom": !!int "5"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Stealth": "+8"
-  "Perception": "+5"
+  "Stealth": !!int "8"
+  "Perception": !!int "5"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
 "languages": "understands Abyssal, Elvish, and Undercommon but can't speak"
 "cr": "14"

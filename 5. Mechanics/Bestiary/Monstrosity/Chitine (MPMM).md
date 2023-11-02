@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-2
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Chitine"]
 ---
-# Chitine
+# [Chitine](compendium\bestiary\monstrosity/chitine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75*  
 
 Dedicated to Lolth, chitines are multiarmed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
@@ -21,7 +24,7 @@ As servants of Lolth, chitines love spiders. They rear spiders and similar arach
 Chitines resemble spiders, but they behave more like social insects such as ants. They are divided into worker and warrior castes; choldriths, when present, occupy the top levels of a colony's hierarchy. Each chitine has a social position that comes with duties related to that rank, and all are expected to sacrifice themselves to protect the colony's choldriths. Every chitine has spinnerets and slowly produces webbing that is used to build floors, walls, structures, objects, and traps that benefit the colony. A warrior might be responsible for crafting web armor (which is as tough as hide or leather), while a group of workers might be tasked to dig pit traps and cover them with fragile webbing disguised with loose dirt to appear as a solid surface.
 
 ```statblock
-"name": "Chitine"
+"name": "Chitine (MPMM)"
 "size": "Small"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
@@ -37,8 +40,8 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": "+4"
-  "Stealth": "+4"
+  "Athletics": !!int "4"
+  "Stealth": !!int "4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Undercommon"
 "cr": "1/2"

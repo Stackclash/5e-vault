@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/armor/medium
-aliases: ["Half Plate Armor"]
+aliases: 
+- "Half Plate Armor"
+cost: 750 gp
 ---
 # Half Plate Armor
 *Medium Armor*  

@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/10
 - monster/environment/forest
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/fey/elf
+statblock: inline
 aliases: ["Spring Eladrin"]
 ---
-# Spring Eladrin
+# [Spring Eladrin](compendium\bestiary\fey/spring-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -32,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/5. Mechanics/Rules/Conditions.md#incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
-"name": "Spring Eladrin"
+"name": "Spring Eladrin (MPMM)"
 "size": "Medium"
 "type": "fey"
 "subtype": "elf"
@@ -49,8 +52,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+8"
-  "Persuasion": "+8"
+  "Deception": !!int "8"
+  "Persuasion": !!int "8"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish, Sylvan"

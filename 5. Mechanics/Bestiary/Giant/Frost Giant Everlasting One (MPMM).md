@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/12
 - monster/environment/coastal
 - monster/size/huge
 - monster/type/giant
+statblock: inline
 aliases: ["Frost Giant Everlasting One"]
 ---
-# Frost Giant Everlasting One
+# [Frost Giant Everlasting One](compendium\bestiary\giant/frost-giant-everlasting-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131*  
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -17,7 +20,7 @@ Vaprak is a ferocious god of strength and hunger also worshiped by some ogres an
 After devouring the troll sent by Vaprak, bones and all, a frost giant becomes an everlasting one, gaining tremendous strength, an ill temper, and a troll's regenerative ability. With these gifts, the frost giant can swiftly claim the title of jarl and easily fend off rivals for decades. However, if the frost giant doesn't give enough honor to Vaprak or fails to heed Vaprak's visions, injuries the frost giant sustains heal wrong, resulting in discolored skin; warty scars; and vestigial body parts, such as extra digits, limbs, and even heads. The touch of Vaprak can no longer be hidden then, and the everlasting one is either killed or exiled by their clan. Sometimes small communities of everlasting ones gather and even reproduce, passing the "blessing" and worship of Vaprak from one generation to the next.
 
 ```statblock
-"name": "Frost Giant Everlasting One"
+"name": "Frost Giant Everlasting One (MPMM)"
 "size": "Huge"
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
@@ -33,12 +36,12 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Wisdom": "+4"
-  "Strength": "+11"
-  "Constitution": "+11"
+  "Wisdom": !!int "4"
+  "Strength": !!int "11"
+  "Constitution": !!int "11"
 "skillsaves":
-  "Athletics": "+11"
-  "Perception": "+4"
+  "Athletics": !!int "11"
+  "Perception": !!int "4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Displacer Beast"]
 ---
-# Displacer Beast
+# [Displacer Beast](compendium\bestiary\monstrosity/displacer-beast.md)
 *Source: Monster Manual p. 81, Eberron: Rising from the Last War*  
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.

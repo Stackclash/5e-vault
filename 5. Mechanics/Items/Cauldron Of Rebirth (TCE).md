@@ -6,14 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous
-aliases: ["Cauldron of Rebirth"]
+aliases: 
+- "Cauldron of Rebirth"
 ---
 # Cauldron of Rebirth
 *Wondrous Item, very rare (requires attunement by a druid or warlock)*  
+![[5. Mechanics/Items/img/cauldron-of-rebirth.png#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This Tiny pot bears relief scenes of heroes on its cast iron sides. You can use the cauldron as a spellcasting focus for your spells, and it functions as a suitable component for the [[5. Mechanics/Spells/Scrying.md\|scrying]] spell. When you finish a long rest, you can use the cauldron to create a [[5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]]. The potion lasts for 24 hours, then loses its magic if not consumed.
 

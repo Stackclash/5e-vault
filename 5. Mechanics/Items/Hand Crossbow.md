@@ -8,7 +8,9 @@ tags:
 - item/property/loading
 - item/property/martial
 - item/weapon/martial/ranged
-aliases: ["Hand Crossbow"]
+aliases: 
+- "Hand Crossbow"
+cost: 75 gp
 ---
 # Hand Crossbow
 *Ranged Weapon*  

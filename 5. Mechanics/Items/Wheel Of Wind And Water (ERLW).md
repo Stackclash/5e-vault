@@ -5,13 +5,12 @@ tags:
 - compendium/src/5e/erlw
 - item/rarity/uncommon
 - item/wondrous
-aliases: ["Wheel of Wind and Water"]
+aliases: 
+- "Wheel of Wind and Water"
 ---
 # Wheel of Wind and Water
 *Wondrous Item, uncommon*  
 
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 When mounted at the helm of an elemental galleon or airship, this wheel allows a creature that possesses the Mark of Storm to telepathically control the elemental bound inside the vessel.
 

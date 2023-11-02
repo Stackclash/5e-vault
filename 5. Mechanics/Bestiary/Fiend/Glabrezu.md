@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/9
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
 aliases: ["Glabrezu"]
 ---
-# Glabrezu
+# [Glabrezu](compendium\bestiary\fiend/glabrezu.md)
 *Source: Monster Manual p. 58. Available in the SRD.*  
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
@@ -198,14 +201,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": "+7"
-  "Wisdom": "+7"
-  "Strength": "+9"
-  "Constitution": "+9"
+  "Charisma": !!int "7"
+  "Wisdom": !!int "7"
+  "Strength": !!int "9"
+  "Constitution": !!int "9"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"

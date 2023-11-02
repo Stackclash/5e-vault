@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/5
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
 aliases: ["Morgantha"]
 ---
-# Morgantha
+# [Morgantha](compendium\bestiary\npc/morgantha-cos.md)
 *Source: Curse of Strahd p. 48, Derived from *  
 
 ```statblock
-"name": "Morgantha"
+"name": "Morgantha (CoS)"
 "size": "Medium"
 "type": "fiend"
 "alignment": "Neutral Evil"
@@ -26,13 +29,13 @@ aliases: ["Morgantha"]
 - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": "+6"
-  "Stealth": "+5"
-  "Insight": "+5"
-  "Perception": "+5"
+  "Deception": !!int "6"
+  "Stealth": !!int "5"
+  "Insight": !!int "5"
+  "Perception": !!int "5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
-"condition_immunities": "charmed"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"

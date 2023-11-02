@@ -7,14 +7,13 @@ tags:
 - item/rarity/rare
 - item/tier/major
 - item/wondrous
-aliases: ["Robe of Eyes"]
+aliases: 
+- "Robe of Eyes"
 ---
 # Robe of Eyes
 *Wondrous Item, major, rare (requires attunement)*  
+![[5. Mechanics/Items/img/robe-of-eyes.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 

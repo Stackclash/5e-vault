@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tools
-aliases: ["Navigator's Tools"]
+aliases: 
+- "Navigator's Tools"
+cost: 25 gp
 ---
 # Navigator's Tools
 *Tools*  

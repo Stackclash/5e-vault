@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/dmg
 - item/wealth
-aliases: ["Peridot"]
+aliases: 
+- "Peridot"
+cost: 500 gp
 ---
 # Peridot
 *Treasure*  
 
 - **Cost**: 500 gp
-- **Weight**: ⏤
 
 A transparent rich olive green gemstone.
 

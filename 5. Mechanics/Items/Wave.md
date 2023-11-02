@@ -9,7 +9,8 @@ tags:
 - item/property/versatile
 - item/rarity/legendary
 - item/weapon/martial/melee
-aliases: ["Wave"]
+aliases: 
+- "Wave"
 ---
 # Wave
 *Melee Weapon, legendary (requires attunement by a creature that worships a god of the sea)*  
@@ -18,15 +19,14 @@ aliases: ["Wave"]
   - One-handed: 1d6 P
   - Two-handed: 1d8 P
 - **Range**: 20/60
-- **Properties**: Martial, Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: Martial, [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon engraved with images of waves, shells, and sea creatures. Although you must worship a god of the sea to attune to this weapon, Wave happily accepts new converts.
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. If you score a critical hit with it, the target takes extra necrotic damage equal to half its hit point maximum.
 
-The weapon also functions as a [[5. Mechanics/Items/Trident Of Fish Command.md\|trident of fish command]] and a weapon of warning. It can confer the benefit of a [[5. Mechanics/Items/Cap Of Water Breathing.md\|cap of water breathing]] while you hold it, and you can use it as a [[5. Mechanics/Items/Cube Of Force.md\|cube of force]] by choosing the effect, instead of pressing cube sides to select it.
+The weapon also functions as a [[5. Mechanics/Items/Trident Of Fish Command.md\|trident of fish command]] and a [[5. Mechanics/Items/Weapon Of Warning.md\|weapon of warning]]. It can confer the benefit of a [[5. Mechanics/Items/Cap Of Water Breathing.md\|cap of water breathing]] while you hold it, and you can use it as a [[5. Mechanics/Items/Cube Of Force.md\|cube of force]] by choosing the effect, instead of pressing cube sides to select it.
 
 ## Sentience
 

@@ -6,13 +6,13 @@ tags:
 - item/attunement/required
 - item/rarity/artifact
 - item/wondrous
-aliases: ["Book of Exalted Deeds"]
+aliases: 
+- "Book of Exalted Deeds"
 ---
 # Book of Exalted Deeds
 *Wondrous Item, artifact (requires attunement by a creature of good alignment)*  
+![[5. Mechanics/Items/img/book-of-exalted-deeds.jpg#right]]  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 The definitive treatise on all that is good in the multiverse, the fabled Book of Exalted Deeds figures prominently in many religions. Rather than being a scripture devoted to a particular faith, the book's various authors filled the pages with their own vision of true virtue, providing guidance for defeating evil.

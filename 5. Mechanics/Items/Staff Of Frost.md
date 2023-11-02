@@ -8,16 +8,17 @@ tags:
 - item/rarity/very-rare
 - item/tier/major
 - item/wondrous/staff
-aliases: ["Staff of Frost"]
+aliases: 
+- "Staff of Frost"
 ---
 # Staff of Frost
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+![[5. Mechanics/Items/img/staff-of-frost.jpg#right]]  
 
 - **Damage**:
   - One-handed: 1d6 B
   - Two-handed: 1d8 B
-- **Properties**: Requires Attunement, [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
-- **Cost**: ⏤
+- **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
 You have resistance to cold damage while you hold this staff.

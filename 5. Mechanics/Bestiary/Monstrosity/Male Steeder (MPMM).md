@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Male Steeder"]
 ---
-# Male Steeder
+# [Male Steeder](compendium\bestiary\monstrosity/male-steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231*  
 
 ## Steeders
@@ -25,7 +28,7 @@ Steeders are intelligent enough to learn simple hand signals and vocal commands,
 Rather than spinning webs, steeders excrete a viscous substance from their legs. This goo allows them to creep along walls and ceilings and to grapple prey.
 
 ```statblock
-"name": "Male Steeder"
+"name": "Male Steeder (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -41,8 +44,8 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": "+5"
-  "Perception": "+4"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
 "cr": "1/4"

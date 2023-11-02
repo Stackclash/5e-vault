@@ -1,14 +1,17 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-8
 - monster/environment/hill
 - monster/environment/underdark
 - monster/size/small
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Xvart"]
 ---
-# Xvart
+# [Xvart](compendium\bestiary\monstrosity/xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267*  
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
@@ -20,7 +23,7 @@ Xvarts are cowardly, greedy creatures spawned by a renegade demigod, Raxivort. T
 Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Raxivort plundered his lord's vault. One of the treasures he stole was the *Infinity Spindle*, a crystalline shard that could transform even a creature as lowly as Raxivort into a demigod. After his apotheosis, Raxivort forged the Black Sewers, a realm within Pandemonium that he filled with his beloved creatures, rats and bats, which xvarts befriend to this day. He enjoyed his reign only briefly before Graz'zt unleashed his vengeance. The demon prince urged villains far and wide to pursue the Infinity Spindle for themselves and destroy Raxivort.
 
 ```statblock
-"name": "Xvart"
+"name": "Xvart (MPMM)"
 "size": "Small"
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
@@ -36,7 +39,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": "+4"
+  "Stealth": !!int "4"
 "senses": "darkvision 30 ft., passive Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"

@@ -1,13 +1,16 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/16
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
 aliases: ["Star Spawn Larva Mage"]
 ---
-# Star Spawn Larva Mage
+# [Star Spawn Larva Mage](compendium\bestiary\aberration/star-spawn-larva-mage-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -37,7 +40,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - Cult of Tyranthraxus, the Flamed One  
 
 ```statblock
-"name": "Star Spawn Larva Mage"
+"name": "Star Spawn Larva Mage (MPMM)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
@@ -53,14 +56,16 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": "+8"
-  "Dexterity": "+6"
-  "Wisdom": "+6"
+  "Charisma": !!int "8"
+  "Dexterity": !!int "6"
+  "Wisdom": !!int "6"
 "skillsaves":
-  "Perception": "+6"
+  "Perception": !!int "6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "charmed, frightened, paralyzed, petrified, poisoned, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Deep Speech"
 "cr": "16"

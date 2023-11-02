@@ -1,7 +1,9 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/2
 - monster/environment/arctic
 - monster/environment/coastal
 - monster/environment/desert
@@ -13,9 +15,10 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/humanoid/any-race
+statblock: inline
 aliases: ["Druid"]
 ---
-# Druid
+# [Druid](compendium\bestiary\humanoid/druid.md)
 *Source: Monster Manual p. 346, Curse of Strahd. Available in the SRD.*  
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
@@ -38,9 +41,9 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
 - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": "+4"
-  "Nature": "+3"
-  "Perception": "+4"
+  "Medicine": !!int "4"
+  "Nature": !!int "3"
+  "Perception": !!int "4"
 "senses": "passive Perception 14"
 "languages": "Druidic plus any two languages"
 "cr": "2"
@@ -49,10 +52,10 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
     \ (spell save DC 12, dice: d20+4 (+4 to hit) with spell attacks). It has the\
     \ following druid spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
     \ [[5. Mechanics/Spells/Produce Flame.md|produce flame]], [[5. Mechanics/Spells/Shillelagh.md|shillelagh]]\n\
-    \n1st level (4 1st-level slots): [[5. Mechanics/Spells/Entangle.md|entangle]],\
-    \ [[5. Mechanics/Spells/Longstrider.md|longstrider]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
-    \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 2nd-level\
-    \ slots): [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]], [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
+    \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Longstrider.md|longstrider]],\
+    \ [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
+    \n2nd level (3 slots): [[5. Mechanics/Spells/Animal Messenger.md|animal messenger]],\
+    \ [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
   "name": "spells"
 "actions":
 - "desc": "Melee Weapon Attack: dice: d20+2 (+2 to hit) (dice: d20+4 (+4 to\

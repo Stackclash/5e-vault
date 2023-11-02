@@ -1,20 +1,23 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/1-4
 - monster/environment/coastal
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/beast/dinosaur
+statblock: inline
 aliases: ["Dimetrodon"]
 ---
-# Dimetrodon
+# [Dimetrodon](compendium\bestiary\beast/dimetrodon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
 
 ```statblock
-"name": "Dimetrodon"
+"name": "Dimetrodon (MPMM)"
 "size": "Medium"
 "type": "beast"
 "subtype": "dinosaur"
@@ -31,7 +34,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  "Perception": "+2"
+  "Perception": !!int "2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "1/4"

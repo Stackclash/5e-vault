@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear/tools
-aliases: ["Disguise Kit"]
+aliases: 
+- "Disguise Kit"
+cost: 25 gp
 ---
 # Disguise Kit
 *Tools*  

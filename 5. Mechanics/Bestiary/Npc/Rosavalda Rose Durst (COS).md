@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/3
 - monster/size/small
 - monster/type/undead
+statblock: inline
 aliases: ["Rosavalda "Rose" Durst"]
 ---
-# Rosavalda "Rose" Durst
+# [Rosavalda "Rose" Durst](compendium\bestiary\npc/rosavalda-rose-durst-cos.md)
 *Source: Curse of Strahd p. 217, Derived from *  
 
 ```statblock
-"name": "Rosavalda \"Rose\" Durst"
+"name": "Rosavalda \"Rose\" Durst (CoS)"
 "size": "Small"
 "type": "undead"
 "alignment": "Lawful Good"
@@ -28,8 +31,11 @@ aliases: ["Rosavalda "Rose" Durst"]
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#grappled|grappled]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#prone|prone]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"

@@ -7,14 +7,12 @@ tags:
 - item/rarity/legendary
 - item/tier/major
 - item/wondrous/ring
-aliases: ["Ring of Fire Elemental Command"]
+aliases: 
+- "Ring of Fire Elemental Command"
 ---
 # Ring of Fire Elemental Command
 *Ring, major, legendary (requires attunement)*  
 
-- **Properties**: Requires Attunement
-- **Cost**: ⏤
-- **Weight**: ⏤
 
 While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Fire and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
 

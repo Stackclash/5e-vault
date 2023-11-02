@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/3
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
 aliases: ["Blue Dragon Wyrmling"]
 ---
-# Blue Dragon Wyrmling
+# [Blue Dragon Wyrmling](compendium\bestiary\dragon/blue-dragon-wyrmling.md)
 *Source: Monster Manual p. 91. Available in the SRD.*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -110,13 +113,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - !!int "15"
 "speed": "30 ft., burrow 15 ft., fly 60 ft."
 "saves":
-  "Charisma": "+4"
-  "Dexterity": "+2"
-  "Wisdom": "+2"
-  "Constitution": "+4"
+  "Charisma": !!int "4"
+  "Dexterity": !!int "2"
+  "Wisdom": !!int "2"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Stealth": "+2"
-  "Perception": "+4"
+  "Stealth": !!int "2"
+  "Perception": !!int "4"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"

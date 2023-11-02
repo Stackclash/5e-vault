@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mm
+- monster/cr/0
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
 aliases: ["Crawling Claw"]
 ---
-# Crawling Claw
+# [Crawling Claw](compendium\bestiary\undead/crawling-claw.md)
 *Source: Monster Manual p. 44, Curse of Strahd*  
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
@@ -59,7 +62,8 @@ A crawling claw doesn't require air, food, drink, or sleep.
 - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"

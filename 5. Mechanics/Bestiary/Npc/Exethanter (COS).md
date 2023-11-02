@@ -1,16 +1,19 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/10
 - monster/size/medium
 - monster/type/undead
+statblock: inline
 aliases: ["Exethanter"]
 ---
-# Exethanter
+# [Exethanter](compendium\bestiary\npc/exethanter-cos.md)
 *Source: Curse of Strahd p. 189, Derived from *  
 
 ```statblock
-"name": "Exethanter"
+"name": "Exethanter (CoS)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Any Evil alignment"
@@ -26,17 +29,19 @@ aliases: ["Exethanter"]
 - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Wisdom": "+9"
-  "Intelligence": "+12"
-  "Constitution": "+10"
+  "Wisdom": !!int "9"
+  "Intelligence": !!int "12"
+  "Constitution": !!int "10"
 "skillsaves":
-  "Insight": "+9"
-  "Perception": "+9"
-  "History": "+12"
-  "Arcana": "+19"
+  "Insight": !!int "9"
+  "Perception": !!int "9"
+  "History": !!int "12"
+  "Arcana": !!int "19"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Common plus up to five other languages"
 "cr": "10"

@@ -1,15 +1,18 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/mpmm
+- monster/cr/2
 - monster/environment/desert
 - monster/environment/mountain
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
 aliases: ["Adult Kruthik"]
 ---
-# Adult Kruthik
+# [Adult Kruthik](compendium\bestiary\monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
 
 It takes six months of steady eating for a [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
@@ -37,7 +40,7 @@ Although they can feed on carrion, kruthiks prefer live prey. They kill enemies 
 Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
 
 ```statblock
-"name": "Adult Kruthik"
+"name": "Adult Kruthik (MPMM)"
 "size": "Medium"
 "type": "monstrosity"
 "alignment": "Unaligned"
@@ -53,7 +56,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 - !!int "8"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  "Perception": "+5"
+  "Perception": !!int "5"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
 "languages": "Kruthik"
 "cr": "2"

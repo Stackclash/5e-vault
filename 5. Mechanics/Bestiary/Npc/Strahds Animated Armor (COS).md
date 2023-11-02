@@ -1,12 +1,15 @@
 ---
-cssclass: json5e-monster
+obsidianUIMode: preview
+cssclasses: json5e-monster
 tags:
 - compendium/src/5e/cos
+- monster/cr/6
 - monster/size/medium
 - monster/type/construct
+statblock: inline
 aliases: ["Strahd's Animated Armor"]
 ---
-# Strahd's Animated Armor
+# [Strahd's Animated Armor](compendium\bestiary\npc/strahds-animated-armor-cos.md)
 *Source: Curse of Strahd p. 227*  
 
 The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
@@ -18,7 +21,7 @@ Strahd imbued his automaton with a sliver of his being, bequeathing unto his arm
 The armor understands Common but obeys only the commands of its master.
 
 ```statblock
-"name": "Strahd's Animated Armor"
+"name": "Strahd's Animated Armor (CoS)"
 "size": "Medium"
 "type": "construct"
 "alignment": "Lawful Evil"
@@ -34,11 +37,13 @@ The armor understands Common but obeys only the commands of its master.
 - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": "+3"
+  "Perception": !!int "3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
+"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#charmed|charmed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#exhaustion|exhaustion]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#paralyzed|paralyzed]],\
+  \ [[/5. Mechanics/Rules/Conditions.md#petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "6"

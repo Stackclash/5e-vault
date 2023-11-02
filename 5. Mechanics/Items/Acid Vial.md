@@ -4,7 +4,9 @@ cssclasses: json5e-item
 tags:
 - compendium/src/5e/phb
 - item/gear
-aliases: ["Acid (vial)"]
+aliases: 
+- "Acid (vial)"
+cost: 25 gp
 ---
 # Acid (vial)
 *Adventuring Gear*  
