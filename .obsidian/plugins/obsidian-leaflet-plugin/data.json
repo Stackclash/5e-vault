@@ -165,61 +165,7 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {
-    "darkMode": "false",
-    "defaultZoom": 6,
-    "distanceMultiplier": 1,
-    "drawColor": "#3388ff",
-    "geojson": [],
-    "geojsonColor": "#3388ff",
-    "gpx": [],
-    "gpxColor": "#3388ff",
-    "height": "700px",
-    "image": "[[Barovia.jpg]]",
-    "imageOverlay": [],
-    "isMapView": false,
-    "layers": [
-      "[[Barovia.jpg]]"
-    ],
-    "linksFrom": [],
-    "linksTo": [],
-    "marker": [
-      "village, -10.94, 21.83, [[Village of Barovia]]"
-    ],
-    "commandMarker": [],
-    "markerFile": [],
-    "markerFolder": [],
-    "markerTag": [],
-    "maxZoom": 8.5,
-    "minZoom": 6,
-    "osmLayer": true,
-    "overlay": [],
-    "overlayColor": "blue",
-    "scale": 1,
-    "showAllMarkers": false,
-    "tileServer": [],
-    "verbose": false,
-    "zoomDelta": 0.5,
-    "zoomFeatures": false,
-    "id": "Barovia",
-    "lock": true,
-    "recenter": true,
-    "width": "95%",
-    "bounds": [
-      [
-        0,
-        0
-      ],
-      [
-        11.68,
-        18.21
-      ]
-    ],
-    "lat": 5.84,
-    "long": 9.1,
-    "unit": "miles",
-    "filterTag": []
-  },
+  "mapViewParameters": {},
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
