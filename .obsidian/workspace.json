@@ -30,7 +30,31 @@
             }
           },
           {
+            "id": "20ce9f98f85bb0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Session Logs/Never Trust a Hunter.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f4b4dc987502f78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Session Logs/Session 6.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c710baef1a4c2f03",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -40,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,12 +235,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4b4dc987502f78e",
+  "active": "c710baef1a4c2f03",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/NPCs.md",
+    "3. The Party/Session Logs/Session 6.md",
+    "3. The Party/Session Logs/Never Trust a Hunter.md",
     "6. Resources/Resources/A Guide to Curse of Strahd.pdf",
     "6. Resources/5e Modules/Curse Of Strahd/07 Chapter-5 The Town Of Vallaki.md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Parties/Parties.md",
+    "3. The Party/Session Logs/Welcome to Barovia.md",
+    "3. The Party/Session Logs/The Look of Desperation.md",
+    "3. The Party/Session Logs/Secrets in the Dark.md",
+    "3. The Party/Session Logs/Knowing the Road.md",
+    "3. The Party/Session Logs/Campaign Preparation.md",
+    "3. The Party/Session Logs/Session Logs.md",
     "6. Resources/Resources/Curse of Strahd Companion/CoS Companion - Digital - Lite.pdf",
+    "4. World Almanac/NPCs/NPCs.md",
     "6. Resources/5e Modules/Curse Of Strahd/05 Chapter-3 The Village Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/04 Chapter-2 The Lands Of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/img/000 Cos01-01.webp",
@@ -235,14 +269,11 @@
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Settlements/Settlements.md",
-    "3. The Party/Parties/Parties.md",
     "3. The Party/Players/Players.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "1. DM Screen/Lookup Tables/Travel Time.md",
     "compendium/vehicles/vehicles.md",
-    "compendium/vehicles/apparatus-of-kwalish.md",
     "compendium/vehicles",
     "compendium/objects/token",
     "compendium/bestiary/celestial/token",
@@ -251,13 +282,6 @@
     "compendium/bestiary/ooze/token",
     "compendium/bestiary/plant/token",
     "compendium/bestiary/beast/img",
-    "compendium/rules/variant-rules/wands-that-dont-recharge.md",
-    "compendium/rules/variant-rules/tying-knots-xge.md",
-    "compendium/rules/variant-rules/tool-proficiencies-xge.md",
-    "compendium/rules/variant-rules/survivors-vrgr.md",
-    "compendium/rules/variant-rules/sleep-xge.md",
-    "compendium/rules/variant-rules/spellcasting-xge.md",
-    "compendium/rules/variant-rules/spell-points.md",
     "Untitled.canvas"
   ]
 }
